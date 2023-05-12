@@ -1,0 +1,93 @@
+
+<html lang="es">
+<head>
+</head>  
+<style type="text/css">
+body {
+   margin: 0;
+   padding: 0;
+}
+</style>
+<meta name="referrer" content="no-referrer">
+<script src="//ssl.p.jwpcdn.com/player/v/8.26.0/jwplayer.js"></script>
+<script> jwplayer.key = 'XSuP4qMl+9tK17QNb+4+th2Pm9AWgMO/cYH8CI0HGGr7bdjo';
+</script>
+<script type="text/javascript">
+function getParameterByName(name) {
+	name = name.replace(/[\[]/, "\[").replace(/[\]]/, "\]");
+	var regex = new RegExp("[\?&]" + name + "=([^&#]*)"),
+	results = regex.exec(location.search);
+	return results === null ? "" : decodeURIComponent(results[1].replace(/\+/g, " "));
+}
+
+var id = getParameterByName('id');
+if (id == "#") {alert('Vuelve a la pÃ¡gina anterior');}
+//if(window==window.top){window.location.replace("https://megadeportes.xyz");}	
+</script>
+<div id="player"></div>
+<script>
+if (id == 1271)
+{
+        keyId = "022d63431e1a5221997dc9ce74c91e4f";
+        key = "363d2c58216f24b932662a943230136a";
+}
+else if (id == 1272)
+{
+	keyId = "6e911d6408a45f37aac33bd040beec7e";
+	key = "fb9c4a1d15bf6c8c43031bc18c86d095";
+}
+
+if (id == 1125 || id == 1240 || id == 1118 || id == 1103 || id == 1246 || id == 1117 || id == 1245 || id == 1098 || id == 1217 || id == 1017 || id == 1187 || id == 1016 || id == 1103 || id == 1093 || id == 1111 || id == 1162 || id == 1030 || id == 1249 || id == 1134 || id == 1157 || id == 1108 || id == 1227 || id == 1231 || id == 1250 || id == 1214 || id == 1185 || id == 1187 || id == 0068 || id == 0069 || id == 1057 || id == 1059 || id == 1063 || id == 1061 || id == 1058)
+{
+	url = 'https://'+id+'-vos.dtvott.com/DASH';
+}
+else if (id == 1106 || id == 1251 || id == 1040 || id == 1035)
+{
+        url = 'https:///dtvott-akaws.akamaized.net/live_'+id+'/DASH';
+}
+else if (id == 1095 || id == 1264 || id == 1062)
+{
+	url = 'https://'+id+'-abc.dtvott.com/dash_live_'+id;
+}
+else if (id == 1009)
+{
+        url = 'https://dtvott-cwtests.akamaized.net/dash_live_'+id;
+}
+else
+{
+	if (id == 1122 || id == 1123 || id == 1124 || id == 1027 || id == 1211 || id == 1053 || id == 1091 || id == 1223 || id == 1144 || id == 1190 || id == 1081 || id == 1147 || id == 1012 || id == 1181 || id == 1076 || id == 1074 || id == 1148 || id == 1248 || id == 1045 || id == 1101 || id == 1107 || id == 1100 || id == 1115 || id == 1060 || id == 1069)
+		letter = 'c';
+	else if (id == 0095 || id == 0079)
+        letter = 'j';
+	else
+		letter = 'a';
+		
+	url = 'https://dtvott-'+letter+'bc.akamaized.net/dash_live_'+id;
+}
+
+var playerInstance = jwplayer("player");
+
+playerInstance.setup({
+	playlist: [{
+      title : "REPRODUCTOR | Mega Deportes TV",
+	    description: "megadeportes.xyz",
+		"sources": [
+			{
+				"default": false,
+				"type": "dash",
+				"file": url+'/manifest.mpd',
+				"drm": {
+					"clearkey": { "keyId": keyId, "key": key }
+				},
+				"label": "0"
+			}
+		]
+	}],
+	width: "100%",
+	height: "100%",
+	aspectratio: "16:9",
+	autostart: false,
+	cast: {},
+	sharing: {}
+});
+</script>
