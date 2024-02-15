@@ -1,44 +1,5 @@
 [
-    {
-        "title": "Nets vs. Celtics",
-        "league": "NBA",
-        "img": "bos-bkn",
-        "url": "/embed/eventos/?r=Ly9jb255d2hhbi5iYXIvbHAucGhwP2ltZz1nMDAyMjMwMDc3MWJvczEwMDA0NTBia24maWQ9NDA0NjA=",
-        "status": "EN VIVO"
-    },
-    {
-        "title": "Magic vs. Thunder",
-        "league": "NBA",
-        "img": "okc-orl",
-        "url": "/embed/eventos/?r=Ly9jb255d2hhbi5iYXIvbHAucGhwP2ltZz1nMDAyMjMwMDc3Mm9rYzEwMDA3ODJvcmwmaWQ9NTQxMDg=",
-        "status": "EN VIVO"
-    },
-    {
-        "title": "Bucks vs. Heat",
-        "league": "NBA",
-        "img": "mia-mil",
-        "url": "#",
-        "status": "03:00"
-    },
-    {
-        "title": "Suns vs. Kings",
-        "league": "NBA",
-        "img": "sac-phx",
-        "url": "#",
-        "status": "05:00"
-    },
-    {
-        "title": "Trail Blazers vs. Timberwolves",
-        "league": "NBA",
-        "img": "min-por",
-        "url": "#",
-        "status": "05:00" 
-    },
-    {
-        "title": "Lakers vs. Pistons",
-        "league": "NBA",
-        "img": "det-lal",
-        "url": "#",
-        "status": "05:30"
-    }
-]            
+  {"stake": "Stake 1", "pronostico": "Evento A", "hora": "12:00 PM"},
+  {"stake": "Stake 2", "pronostico": "Evento B", "hora": "2:30 PM"},
+  {"stake": "Stake 3", "pronostico": "Evento C", "hora": "5:00 PM"}
+]
