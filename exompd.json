@@ -1,0 +1,363 @@
+[
+        {
+            "nombre": "XXX1",
+            "tipo": "video1",
+            "url": "https://alba-ec-tvc-tvc.stream.mediatiquestream.com/index.m3u8",
+            "params": "{}"
+        },
+        {
+            "nombre": "ESPN2CO",
+            "tipo": "video2",
+            "url": "https://s2.focusea27.com/cloudstrmtkz4_SD/index.m3u8",
+            "params": JSON.stringify({
+                "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+                "referer": "https://www.tvc.com.ec/"
+            })
+        },
+        {
+            "nombre": "ESPN3CO",
+            "tipo": "video2",
+            "url": "https://s2.focusea27.com/cloudstrmtkz5_SD/index.m3u8",
+            "params": JSON.stringify({
+                "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+                "referer": "https://www.tvc.com.ec/"
+            })
+        },
+        {
+            "nombre": "ESPN4CO",
+            "tipo": "video2",
+            "url": "https://s2.focusea27.com/cloudstrmtkz6_SD/index.m3u8",
+            "params": JSON.stringify({
+                "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+                "referer": "https://www.tvc.com.ec/"
+            })
+        },
+        {
+            "nombre": "ESPN6CO",
+            "tipo": "video2",
+            "url": "https://s2.focusea27.com/cloudstrmtkz8_SD/index.m3u8",
+            "params": JSON.stringify({
+                "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+                "referer": "https://www.tvc.com.ec/"
+            })
+        }, 
+        {
+            "nombre": "TYC1",
+            "tipo": "video2",
+            "url": "https://s2.focusea27.com/cloudstrmtkz13_SD/index.m3u8",
+            "params": JSON.stringify({
+                "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+                "referer": "https://www.tvc.com.ec/"
+            })
+        },     
+			{
+            "nombre": "CS1",
+            "tipo": "video2",
+            "url": "https://origin.dpsgo.com/ssai/event/vsRdNgc4RL-rFJL_Vel1NQ/master.m3u8",
+            "params": JSON.stringify({
+                "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+                "referer": "https://www.tvc.com.ec/"
+            })
+        },     
+		{
+            "nombre": "CS2",
+            "tipo": "video2",
+            "url": "https://origin.dpsgo.com/ssai/event/8UwR2STaRKamEvzT9HfRAQ/master.m3u8",
+            "params": JSON.stringify({
+                "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+                "referer": "https://www.tvc.com.ec/"
+            })
+        },
+      {
+            "nombre": "ESPNPE",
+            "tipo": "video3",
+            "url": "https://1279247418.rsc.cdn77.org/bpk-tv/Q3ESPNUN03Q/dash/manifest.mpd",
+            "params": JSON.stringify({
+                "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+                "Referer": "https://qlobbi.com/",
+                "Origin": "https://qlobbi.com",
+                "drm_scheme": "clearkey",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=7a05100cf840c1b06497842a7cf63da8&key=5165fe404f62b779193fb2d1d59422fc"
+            })
+        },
+        {
+            "nombre": "ESPN2PE",
+            "tipo": "video3",
+            "url": "https://1279247418.rsc.cdn77.org/bpk-tv/Q3ESPNDOS3Q/dash/manifest.mpd",
+            "params": JSON.stringify({
+                "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+                "Referer": "https://qlobbi.com/",
+                "Origin": "https://qlobbi.com",
+                "drm_scheme": "clearkey",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=bb61b5891e3c4901b64e2c2ecb625856&key=8634fa31f047d8a532e49091110b2fc5"
+            })
+        },
+        {
+            "nombre": "ESPN3PE",
+            "tipo": "video3",
+            "url": "https://1279247418.rsc.cdn77.org/bpk-tv/QESPNTTV/dash/manifest.mpd",
+            "params": JSON.stringify({
+                "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+                "Referer": "https://qlobbi.com/",
+                "Origin": "https://qlobbi.com",
+                "drm_scheme": "clearkey",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=47ee13c211e24dadb58990b6d09c1352&key=ab0ec44e6b08d9fd205e92a668c76237"
+            })
+        },
+        {
+            "nombre": "ESPN4PE",
+            "tipo": "video3",
+            "url": "https://1279247418.rsc.cdn77.org/bpk-tv/QESPNETV/dash/manifest.mpd",
+            "params": JSON.stringify({
+                "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+                "Referer": "https://qlobbi.com/",
+                "Origin": "https://qlobbi.com",
+                "drm_scheme": "clearkey",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=2afaf4988ad844b7a262b8df5b705e33&key=07172c8a508da3beba6f05c9061db8f5"
+            })
+        },
+        {
+            "nombre": "ESPN5PE",
+            "tipo": "video3",
+            "url": "https://1279247418.rsc.cdn77.org/bpk-tv/Q3ESPNF1VE/dash/manifest.mpd",
+            "params": JSON.stringify({
+                "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+                "Referer": "https://qlobbi.com/",
+                "Origin": "https://qlobbi.com",
+                "drm_scheme": "clearkey",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=73a332a722a32d68db9f63f21cb073c1&key=1cd1404cfe6a0375353f10127eb1e113"
+            })
+        },
+        {
+            "nombre": "ESPNAR",
+            "tipo": "video3",
+            "url": "https://anbalancer.express.com.ar/live/c1eds/ESPN_HD/SA_DASH_cipix/ESPN_HD.mpd",
+            "params": JSON.stringify({
+                "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36",
+                "referer": "https://nowtv.express.com.ar/",
+                "drm_scheme": "clearkey",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=56f12bf8ad1b47f99bb92deae2165d54&key=5c4d0306c4c45054169531dcc75cb8b7"
+            })
+        },
+        {
+            "nombre": "ESPN2AR",
+            "tipo": "video3",
+            "url": "https://anbalancer.express.com.ar/live/c1eds/ESPN_2_HD/SA_DASH_cipix/ESPN_2_HD.mpd",
+            "params": JSON.stringify({
+                "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36",
+                "referer": "https://nowtv.express.com.ar/",
+                "drm_scheme": "clearkey",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=836865c61eb14b69b9e5f44f1c3c6946&key=44e907ce0aee95c62ecb141314ed4ad5"
+            })
+        },
+        {
+            "nombre": "ESPN3AR",
+            "tipo": "video3",
+            "url": "https://anbalancer.express.com.ar/live/c1eds/ESPN_3_HD/SA_DASH_cipix/ESPN_3_HD.mpd",
+            "params": JSON.stringify({
+                "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36",
+                "referer": "https://nowtv.express.com.ar/",
+                "drm_scheme": "clearkey",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=c47c7b457ba046738f112567fedec661&key=fb8d1ae0ee237d441449b27bdbebeaa9"
+            })
+        },
+        {
+            "nombre": "ESPNPAR",
+            "tipo": "video3",
+            "url": "https://anbalancer.express.com.ar/live/c1eds/Fox_Sports_Premium_HD/SA_DASH_cipix/Fox_Sports_Premium_HD.mpd",
+            "params": JSON.stringify({
+                "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36",
+                "referer": "https://nowtv.express.com.ar/",
+                "drm_scheme": "clearkey",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4d649bb55c4c46028b85bbb41550cb59&key=ed6da9b1ff8da94a4fdc1a1461048622"
+            })
+        },
+        {
+            "nombre": "FS1AR",
+            "tipo": "video3",
+            "url": "https://anbalancer.express.com.ar/live/c1eds/FOX_SPORTS_HD/SA_DASH_cipix/FOX_SPORTS_HD.mpd",
+            "params": JSON.stringify({
+                "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36",
+                "referer": "https://nowtv.express.com.ar/",
+                "drm_scheme": "clearkey",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=90fd0225253a42c89e36d4bc5a007498&key=caebfd1e078f1315f9e66ff98544c125"
+            })
+        },
+        {
+            "nombre": "FS2AR",
+            "tipo": "video3",
+            "url": "https://anbalancer.express.com.ar/live/c1eds/Fox_Sports_2_HD/SA_DASH_cipix/Fox_Sports_2_HD.mpd",
+            "params": JSON.stringify({
+                "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36",
+                "referer": "https://nowtv.express.com.ar/",
+                "drm_scheme": "clearkey",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0865e3d0219743a6903087a61e68912e&key=8c319b41729d0637840b987e107de46e"
+            })
+        },
+        {
+            "nombre": "FS3AR",
+            "tipo": "video3",
+            "url": "https://anbalancer.express.com.ar/live/c1eds/Fox_Sports_3_HD/SA_DASH_cipix/Fox_Sports_3_HD.mpd",
+            "params": JSON.stringify({
+                "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36",
+                "referer": "https://nowtv.express.com.ar/",
+                "drm_scheme": "clearkey",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=878df41085e2495ab17dff538a4610c5&key=1cf280b4fa53ba1c9aa195222778a21c"
+            })
+        },
+        {
+            "nombre": "TYC",
+            "tipo": "video3",
+            "url": "https://anedgesgo.express.com.ar/live/c1eds/TyC_HD/SA_DASH_cipix/TyC_HD.mpd",
+            "params": JSON.stringify({
+                "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36",
+                "referer": "https://nowtv.express.com.ar/",
+                "drm_scheme": "clearkey",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=63e6b0db66434556a23c855bd5b6e7d2&key=4c4f0286647963aec05c15df1ba51224"
+            })
+        },
+      {
+        "nombre": "DAZN1ES",
+        "tipo": "video3",
+        "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bmnelo5c7a/out/v1/3ce2cdc4589f46189322bd3717c77957/cenc.mpd",
+        "params": JSON.stringify({
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+            "Referer": "https://qlobbi.com/",
+            "drm_scheme": "clearkey",
+            "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=44dd9cd370b08a868ead115fe84ecfde&key=bff19ab0a51cf14e848389b152913fd0"
+        })
+    },
+    {
+        "nombre": "DAZNLIGA2",
+        "tipo": "video3",
+        "url": "https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/wjgklbtvhh/out/v1/659736a1e24c40e4865a80ffd75e7de7/cenc.mpd",
+        "params": JSON.stringify({
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+            "Referer": "https://qlobbi.com/",
+            "drm_scheme": "clearkey",
+            "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=43d1c3b25207ff38b22ccfe17d302367&key=7b1f85f6e81059473b114c16a25c829a"
+        })
+    },
+    {
+        "nombre": "HYPERMOTION",
+        "tipo": "video3",
+        "url": "https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/tu06vubgf9/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd",
+        "params": JSON.stringify({
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+            "Referer": "https://qlobbi.com/",
+            "drm_scheme": "clearkey",
+            "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=6d08b265a6639e32da7c880d5491e3d2&key=0c92556ca14b95f367993710e7cfbc94"
+        })
+    },
+    {
+        "nombre": "DAZNF1",
+        "tipo": "video3",
+        "url": "https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/cqbcvgkb83/out/v1/4dbe05ecfb1540448d82d68eeebfbb1c/cenc.mpd",
+        "params": JSON.stringify({
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+            "Referer": "https://qlobbi.com/",
+            "drm_scheme": "clearkey",
+            "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=1061be12d303247426ec25e8369b2647&key=bd622b0e610295de3b0bccb850ccaaaa"
+        })
+    },
+    {
+        "nombre": "SKYF1",
+        "tipo": "video3",
+        "url": "https://linear005-gb-dash1-prd-ll.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(skysportsf1)/manifest_720.mpd",
+        "params": JSON.stringify({
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+            "Referer": "https://qlobbi.com/",
+            "drm_scheme": "clearkey",
+            "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0005ff0d8408fc02af0ca5355a84546e&key=f517ede498c9c7a7abea6465c633d449"
+        })
+    },
+    {
+        "nombre": "DAZN2ES",
+        "tipo": "video3",
+        "url": "https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/xnk4m9bnxt/out/v1/4ced7b7329a54652b9bb0521ed38bd4d/cenc.mpd",
+        "params": JSON.stringify({
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+            "Referer": "https://qlobbi.com/",
+            "drm_scheme": "clearkey",
+            "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0eab5a3f3e3b4ba5d42d40ca30d17571&key=f3f061ded9b70e8160590d5802ecda6d"
+        })
+    },
+    {
+        "nombre": "SKYMOTOGP",
+        "tipo": "video3",
+        "url": "https://linear306-it-dash1-prd.selector.skycdn.it/016a/31483/FHD/skysportmotogp/master.mpd",
+        "params": JSON.stringify({
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+            "Referer": "https://qlobbi.com/",
+            "drm_scheme": "clearkey",
+            "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0036ea2e908d4cc20ef08595da9ff991&key=08e1ae9fa0ee4d9ec2b194c4908613ae"
+        })
+    },
+    {
+        "nombre": "EUUSPO1",
+        "tipo": "video3",
+        "url": "https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:43_HD.smil/manifest.mpd",
+        "params": JSON.stringify({
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+            "Referer": "https://qlobbi.com/",
+            "drm_scheme": "clearkey",
+            "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=fe1d448746445b0dad008ffc96659be1&key=fe1d448746445b0dad008ffc96659be1"
+        })
+    },
+    {
+        "nombre": "EUUSPO2",
+        "tipo": "video3",
+        "url": "https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:59_HD.smil/manifest.mpd",
+        "params": JSON.stringify({
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+            "Referer": "https://qlobbi.com/",
+            "drm_scheme": "clearkey",
+            "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=5db154f547b346a98c3e52a1166747fd&key=5db154f547b346a98c3e52a1166747fd"
+        })
+    }
+	[
+    {
+        "nombre": "HYPERMOTION2",
+        "tipo": "video3",
+        "url": "https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/woujvkfnmn/out/v1/141b52f08a1e4e97850219729ee48dc8/cenc.mpd",
+        "params": JSON.stringify({
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+            "Referer": "https://qlobbi.com/",
+            "drm_scheme": "clearkey",
+            "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0b1fdeaee3ffc51e9a66cf1938d57aaf&key=28e3cb88ab7b476b81ab8aa0624c4d71"
+        })
+    },
+    {
+        "nombre": "HYPERMOTION3",
+        "tipo": "video3",
+        "url": "https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/ry1hll2vi2/out/v1/7597903045b6429d8c9ef041b2ad9d98/cenc.mpd",
+        "params": JSON.stringify({
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+            "Referer": "https://qlobbi.com/",
+            "drm_scheme": "clearkey",
+            "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d8235cccf08d0ff149a20dfcd11ff68b&key=e8ea3a1ae6892eb76a73dc1b14d216d6"
+        })
+    },
+    {
+        "nombre": "DAZN3ES",
+        "tipo": "video3",
+        "url": "https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/zy1ee5sshp/out/v1/bdcffa69fa3b4f3bb3569c9c73ee1c01/cenc.mpd",
+        "params": JSON.stringify({
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+            "Referer": "https://qlobbi.com/",
+            "drm_scheme": "clearkey",
+            "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=bad8efff688c0dbb3711e4a7114c22a3&key=6ba800673b20776c0c850130d45e1920"
+        })
+    },
+    {
+        "nombre": "DAZN4ES",
+        "tipo": "video3",
+        "url": "https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/up7qpwch9b/out/v1/a6d5d1a1287b4893b859c2d6ccf2c65d/cenc.mpd",
+        "params": JSON.stringify({
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+            "Referer": "https://qlobbi.com/",
+            "drm_scheme": "clearkey",
+            "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d27104d427e4f87e75b19395a9f8796b&key=723593c70e2d4c4862754398e80168f8"
+        })
+    },
+]
