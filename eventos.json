@@ -1,34 +1,47 @@
 {
     "eventos": [
-        {
-            "evento": "Santo Domingo vs El Nacional",
-            "liga": "Copa Ecuador",
-            "logo_equipo1": "https://static.flashscore.com/res/image/data/QsgiSwil-AcoaUOMP.png",
-            "logo_equipo2": "https://static.flashscore.com/res/image/data/86vzXYxS-YqMYOJSQ.png",
-            "logo_liga": "https://static.flashscore.com/res/image/data/QcwErMWI-46eLtmNO.png",
-            "duracion": 100,
-            "inicio": "2024-09-03T19:00:00-05:00",
-            "estado": "Proximamente",
-            "senales": [
-                {
-                    "nombre": "Señal 1",
-                    "tipo": "Web",
-                    "url": "https://acectv.blogspot.com/p/exoplayer.html?Id=ESPNAR",
-                    "params": "{}"
-                },
-                {
-                    "nombre": "Señal 2",
-                    "tipo": "Web",
-                    "url": "https://acectv.blogspot.com/p/exoplayer.html?Id=ESPN2AR",
-                    "params": "{}"
-                },
-                {
-                    "nombre": "Señal 3",
-                    "tipo": "web",
-                    "url": "https://acectv.blogspot.com/p/exoplayer.html?Id=ESPN3AR",
-                    "params": "{}"
-                }
-            ]
-        }
+            {    // INICIO DEL EVENTO
+				"evento": "Santo Domingo vs El Nacional",
+                "liga": "Copa Ecuador",
+                "logo_equipo1": "https://static.flashscore.com/res/image/data/QsgiSwil-AcoaUOMP.png",
+                "logo_equipo2": "https://static.flashscore.com/res/image/data/86vzXYxS-YqMYOJSQ.png",
+                "logo_liga": "https://static.flashscore.com/res/image/data/QcwErMWI-46eLtmNO.png",
+                "duracion": 100,
+                "inicio": "2024-09-03T19:00:00-05:00",
+                "estado": "Proximamente",
+                "senales": [
+                    {
+                        "nombre": "DTV",
+                        "tipo": "Web",
+                        "url": "https://streamtp.live/global1.php?stream=dsports",
+                        "params": "{}"
+                    },
+                    {
+                        "nombre": "Señal 1",
+                        "tipo": "video1",
+                        "url": "https://8i7y.short.gy/gtv1.m3u8",
+                        "params": "{}"
+                    },
+                    {
+                        "nombre": "Señal 2",
+                        "tipo": "video1",
+                        "url": "https://8i7y.short.gy/gtv2.m3u8",
+                        "params": "{}"
+                    },                  
+                  	{
+                        "nombre": "Señal 3",
+                        "tipo": "video1",
+                        "url": "https://8i7y.short.gy/gtv3.m3u8",
+                        "params": "{}"
+                    },
+                    {
+                        "nombre": "Señal 4",
+                        "tipo": "video1",
+                        "url": "https://8i7y.short.gy/gtv4.m3u8",
+                        "params": "{}"
+                    }
+                ]
+            }, // FINAL DEL EVENTO
+
     ]
 }
