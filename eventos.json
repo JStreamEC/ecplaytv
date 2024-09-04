@@ -42,6 +42,47 @@
                     }
                 ]
             }, // FINAL DEL EVENTO
-
+            {    // INICIO DEL EVENTO
+				"evento": "Aucas vs Libertad",
+                "liga": "Copa Ecuador",
+                "logo_equipo1": "https://static.flashscore.com/res/image/data/Cx1v3TYg-Wz8yaA21.png",
+                "logo_equipo2": "https://static.flashscore.com/res/image/data/QN6O3vXg-QRv6EbJC.png",
+                "logo_liga": "https://static.flashscore.com/res/image/data/QcwErMWI-46eLtmNO.png",
+                "duracion": 100,
+                "inicio": "2024-09-04T19:00:00-05:00",
+                "estado": "Proximamente",
+                "senales": [
+                    {
+                        "nombre": "DTV",
+                        "tipo": "Web",
+                        "url": "https://streamtp.live/global1.php?stream=dsports",
+                        "params": "{}"
+                    },
+                    {
+                        "nombre": "Señal 1",
+                        "tipo": "video1",
+                        "url": "https://8i7y.short.gy/gtv1.m3u8",
+                        "params": "{}"
+                    },
+                    {
+                        "nombre": "Señal 2",
+                        "tipo": "video1",
+                        "url": "https://8i7y.short.gy/gtv2.m3u8",
+                        "params": "{}"
+                    },                  
+                  	{
+                        "nombre": "Señal 3",
+                        "tipo": "video1",
+                        "url": "https://8i7y.short.gy/gtv3.m3u8",
+                        "params": "{}"
+                    },
+                    {
+                        "nombre": "Señal 4",
+                        "tipo": "video1",
+                        "url": "https://8i7y.short.gy/gtv4.m3u8",
+                        "params": "{}"
+                    }
+                ]
+            }, // FINAL DEL EVENTO         
     ]
 }
