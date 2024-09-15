@@ -1,4 +1,4 @@
-const streams = [
+[
             {
                 "nombre": "MAX1",
                 "source": "https://gcp.live.latam.prd.media.max.com/live/use1/1bb_CixhMWMyMjllMC04ODMwLTRmYTQtOWVlYS1lZjNkMjcxNTljNjctdXMtZWFzdBINYm9sdC1nbG8tcHJvZBoTEhFwYWNrYWdlci1tcDQtY2VuYw/main.mpd",
