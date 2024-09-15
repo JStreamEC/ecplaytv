@@ -1,13 +1,25 @@
-[
- {
-  "nombre": "MAX1",
-  "source": "https://gcp.live.latam.prd.media.max.com/live/use1/1bb_CixhMWMyMjllMC04ODMwLTRmYTQtOWVlYS1lZjNkMjcxNTljNjctdXMtZWFzdBINYm9sdC1nbG8tcHJvZBoTEhFwYWNrYWdlci1tcDQtY2VuYw/main.mpd",
-  "drm": {
-    "clearKeys": {
-      "010192dc541403c3790be771ec974f99": "f1221ad2fa1eeaac9e8c1d8b7e0ae138",
-      "01027510805a54153550d168fb537ac6": "fa5045cd9b5435e69d7530d4baf93733",
-      "01005ed975448e9ef5fa0c5735e1327a": "03aa7d791c3e955ed9ad015101892320"
-    }
-  }
-}
-]
+const streams = [
+            {
+                "nombre": "MAX1",
+                "source": "https://gcp.live.latam.prd.media.max.com/live/use1/1bb_CixhMWMyMjllMC04ODMwLTRmYTQtOWVlYS1lZjNkMjcxNTljNjctdXMtZWFzdBINYm9sdC1nbG8tcHJvZBoTEhFwYWNrYWdlci1tcDQtY2VuYw/main.mpd",
+                "drm": {
+                    "clearKeys": {
+                        "010192dc541403c3790be771ec974f99": "f1221ad2fa1eeaac9e8c1d8b7e0ae138",
+                        "01027510805a54153550d168fb537ac6": "fa5045cd9b5435e69d7530d4baf93733",
+                        "01005ed975448e9ef5fa0c5735e1327a": "03aa7d791c3e955ed9ad015101892320"
+                    }
+                }
+            },
+            {
+                "nombre": "MAX10",
+                "source": "https://gcp.live.latam.prd.media.max.com/live/use1/1bb_CixhMWMyMjllMC04ODMwLTRmYTQtOWVlYS1lZjNkMjcxNTljNjctdXMtZWFzdBINYm9sdC1nbG8tcHJvZBoTEhFwYWNrYWdlci1tcDQtY2VuYw/main.mpd",
+                "drm": {
+                    "clearKeys": {
+                        "010192dc541403c3790be771ec974f99": "f1221ad2fa1eeaac9e8c1d8b7e0ae138",
+                        "01027510805a54153550d168fb537ac6": "fa5045cd9b5435e69d7530d4baf93733",
+                        "01005ed975448e9ef5fa0c5735e1327a": "03aa7d791c3e955ed9ad015101892320"
+                    }
+                }
+            }
+
+];
