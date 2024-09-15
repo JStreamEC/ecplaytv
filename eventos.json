@@ -1,65 +1,13 @@
-{
-    "eventos": [
-        { 
-            "evento": "Santo Domingo vs El Nacional",
-            "liga": "Copa Ecuador",
-            "logo_equipo1": "https://static.flashscore.com/res/image/data/QsgiSwil-AcoaUOMP.png",
-            "logo_equipo2": "https://static.flashscore.com/res/image/data/86vzXYxS-YqMYOJSQ.png",
-            "logo_liga": "https://static.flashscore.com/res/image/data/QcwErMWI-46eLtmNO.png",
-            "duracion": 100,
-            "inicio": "2024-09-04T19:00:00-05:00",
-            "estado": "Proximamente",
-            "senales": [
-                {
-                    "nombre": "Señal 1",
-                    "tipo": "Web",
-                    "url": "https://acectv.blogspot.com/p/exoplayer.html?Id=ESPNAR",
-                    "params": "{}"
-                },
-                {
-                    "nombre": "Señal 2",
-                    "tipo": "Web",
-                    "url": "https://acectv.blogspot.com/p/exoplayer.html?Id=ESPN2AR",
-                    "params": "{}"
-                },
-                {
-                    "nombre": "Señal 3",
-                    "tipo": "web",
-                    "url": "https://acectv.blogspot.com/p/exoplayer.html?Id=ESPN3AR",
-                    "params": "{}"
-                }
-            ]
-        }, 
-        { 
-				"evento": "Aucas vs Libertad",
-                "liga": "Copa Ecuador",
-                "logo_equipo1": "https://static.flashscore.com/res/image/data/Cx1v3TYg-Wz8yaA21.png",
-                "logo_equipo2": "https://static.flashscore.com/res/image/data/QN6O3vXg-QRv6EbJC.png",
-                "logo_liga": "https://static.flashscore.com/res/image/data/QcwErMWI-46eLtmNO.png",
-            "duracion": 100,
-            "inicio": "2024-09-04T19:10:00-05:00",
-            "estado": "Proximamente",
-            "senales": [
-                {
-                    "nombre": "Señal 1",
-                    "tipo": "Web",
-                    "url": "https://acectv.blogspot.com/p/exoplayer.html?Id=ESPNAR",
-                    "params": "{}"
-                },
-                {
-                    "nombre": "Señal 2",
-                    "tipo": "Web",
-                    "url": "https://acectv.blogspot.com/p/exoplayer.html?Id=ESPN2AR",
-                    "params": "{}"
-                },
-                {
-                    "nombre": "Señal 3",
-                    "tipo": "web",
-                    "url": "https://acectv.blogspot.com/p/exoplayer.html?Id=ESPN3AR",
-                    "params": "{}"
-                }
-            ]
-        } 
-    
-    ]
+[
+ {
+  "nombre": "MAX1",
+  "source": "https://gcp.live.latam.prd.media.max.com/live/use1/1bb_CixhMWMyMjllMC04ODMwLTRmYTQtOWVlYS1lZjNkMjcxNTljNjctdXMtZWFzdBINYm9sdC1nbG8tcHJvZBoTEhFwYWNrYWdlci1tcDQtY2VuYw/main.mpd",
+  "drm": {
+    "clearKeys": {
+      "010192dc541403c3790be771ec974f99": "f1221ad2fa1eeaac9e8c1d8b7e0ae138",
+      "01027510805a54153550d168fb537ac6": "fa5045cd9b5435e69d7530d4baf93733",
+      "01005ed975448e9ef5fa0c5735e1327a": "03aa7d791c3e955ed9ad015101892320"
+    }
+  }
 }
+]
