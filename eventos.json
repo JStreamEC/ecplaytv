@@ -1,6 +1,8 @@
 [
             {
                 "nombre": "MAX1",
+                "title": "Bsc Young Boys vs. Aston Villa",
+                "img": "https://images.cdn.prd.api.discomax.com/2024/09/10/de670237-f4fd-3d75-a888-47dff008513e.jpeg?w=450&f=webp",
                 "source": "https://gcp.live.latam.prd.media.max.com/live/use1/1bb_CixhMWMyMjllMC04ODMwLTRmYTQtOWVlYS1lZjNkMjcxNTljNjctdXMtZWFzdBINYm9sdC1nbG8tcHJvZBoTEhFwYWNrYWdlci1tcDQtY2VuYw/main.mpd",
                 "drm": {
                     "clearKeys": {
@@ -12,6 +14,8 @@
             },
             {
                 "nombre": "MAX10",
+	    "title": "Juventus vs. PSV",
+	    "img": "https://images.cdn.prd.api.discomax.com/2024/09/10/9b3afb64-3ec1-3878-a055-ef9f3d51864d.jpeg?w=450&f=webp",
                 "source": "https://gcp.live.latam.prd.media.max.com/live/use1/1bb_CixhMWMyMjllMC04ODMwLTRmYTQtOWVlYS1lZjNkMjcxNTljNjctdXMtZWFzdBINYm9sdC1nbG8tcHJvZBoTEhFwYWNrYWdlci1tcDQtY2VuYw/main.mpd",
                 "drm": {
                     "clearKeys": {
