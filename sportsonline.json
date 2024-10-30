@@ -1,245 +1,255 @@
 {
   "eventos": 
-    [
-    {
-        "hora": "15:05",
-        "evento": "Al Ta'ee x Al Hilal",
-        "link": "https://v5.sportsonline.si/channels/hd/hd5.php"
-    },
+[
     {
         "hora": "17:00",
-        "evento": "Bayer Leverkusen x Elversberg",
+        "evento": "Eintracht Frankfurt x Borussia M'gladbach",
         "link": "https://v5.sportsonline.si/channels/hd/hd3.php"
     },
     {
         "hora": "17:00",
-        "evento": "Bayer Leverkusen x Elversberg",
-        "link": "https://v5.sportsonline.si/channels/pt/eleven1.php"
-    },
-    {
-        "hora": "17:00",
-        "evento": "Bayer Leverkusen x Elversberg",
-        "link": "https://v5.sportsonline.si/channels/bra/br6.php"
-    },
-    {
-        "hora": "17:00",
-        "evento": "Augsburg x Schalke 04",
+        "evento": "Freiburg x Hamburger SV",
         "link": "https://v5.sportsonline.si/channels/hd/hd4.php"
     },
     {
         "hora": "17:00",
-        "evento": "RB Leipzig x St. Pauli",
-        "link": "https://v5.sportsonline.si/channels/hd/hd9.php"
-    },
-    {
-        "hora": "17:00",
-        "evento": "RB Leipzig x St. Pauli",
-        "link": "https://v5.sportsonline.si/channels/pt/eleven2.php"
-    },
-    {
-        "hora": "17:00",
-        "evento": "Kickers Offenbach x Karlsruher SC",
-        "link": "https://v5.sportsonline.si/channels/hd/hd10.php"
-    },
-    {
-        "hora": "17:00",
-        "evento": "Al Ahly x Al Ain",
+        "evento": "Feyenoord x Ajax",
         "link": "https://v5.sportsonline.si/channels/hd/hd11.php"
     },
     {
         "hora": "17:00",
-        "evento": "Al Ahly x Al Ain",
-        "link": "https://v5.sportsonline.si/channels/bra/br1.php"
+        "evento": "Feyenoord x Ajax",
+        "link": "https://v5.sportsonline.si/channels/pt/sporttv1.php"
     },
     {
         "hora": "17:30",
-        "evento": "Lecce x Hellas Verona",
+        "evento": "Empoli x Internazionale",
         "link": "https://v5.sportsonline.si/channels/hd/hd7.php"
     },
     {
         "hora": "17:30",
-        "evento": "Lecce x Hellas Verona",
-        "link": "https://v5.sportsonline.si/channels/pt/sporttv4.php"
-    },
-    {
-        "hora": "17:30",
-        "evento": "Cagliari x Bologna",
-        "link": "https://v5.sportsonline.si/channels/hd/hd8.php"
-    },
-    {
-        "hora": "17:30",
-        "evento": "Cagliari x Bologna",
+        "evento": "Empoli x Internazionale",
         "link": "https://v5.sportsonline.si/channels/pt/sporttv2.php"
     },
     {
         "hora": "17:30",
-        "evento": "Al Nassr x Al Taawon",
-        "link": "https://v5.sportsonline.si/channels/hd/hd5.php"
+        "evento": "Empoli x Internazionale",
+        "link": "https://v5.sportsonline.si/channels/bra/br6.php"
     },
     {
         "hora": "17:30",
-        "evento": "Basketball Euro League: Anadolu Efes Istanbul x Barcelona",
-        "link": "https://v5.sportsonline.si/channels/pt/sporttv3.php"
+        "evento": "Venezia x Udinese",
+        "link": "https://v5.sportsonline.si/channels/hd/hd8.php"
+    },
+    {
+        "hora": "17:30",
+        "evento": "Venezia x Udinese",
+        "link": "https://v5.sportsonline.si/channels/pt/sporttv5.php"
+    },
+    {
+        "hora": "17:30",
+        "evento": "Mamelodi Sundowns x Cape Town City",
+        "link": "https://v5.sportsonline.si/channels/hd/hd5.php"
     },
     {
         "hora": "18:00",
-        "evento": "Sweden W x Luxemburg W",
+        "evento": "Las Rozas x Sevilla",
+        "link": "https://v5.sportsonline.si/channels/hd/hd6.php"
+    },
+    {
+        "hora": "19:30",
+        "evento": "Brighton & Hove Albion x Liverpool",
+        "link": "https://v5.sportsonline.si/channels/hd/hd2.php"
+    },
+    {
+        "hora": "19:30",
+        "evento": "Brighton & Hove Albion x Liverpool",
+        "link": "https://v5.sportsonline.si/channels/pt/sporttv4.php"
+    },
+    {
+        "hora": "19:30",
+        "evento": "Brighton & Hove Albion x Liverpool",
+        "link": "https://v5.sportsonline.si/channels/bra/br5.php"
+    },
+    {
+        "hora": "19:45",
+        "evento": "Preston North End x Arsenal",
+        "link": "https://v5.sportsonline.si/channels/hd/hd1.php"
+    },
+    {
+        "hora": "19:45",
+        "evento": "Preston North End x Arsenal",
         "link": "https://v5.sportsonline.si/channels/pt/sporttv5.php"
     },
     {
         "hora": "19:45",
-        "evento": "Southampton x Stoke City",
-        "link": "https://v5.sportsonline.si/channels/hd/hd2.php"
+        "evento": "Preston North End x Arsenal",
+        "link": "https://v5.sportsonline.si/channels/bra/br3.php"
     },
     {
         "hora": "19:45",
-        "evento": "Southampton x Stoke City",
-        "link": "https://v5.sportsonline.si/channels/pt/sporttv4.php"
+        "evento": "Newcastle United x Chelsea",
+        "link": "https://v5.sportsonline.si/channels/hd/hd5.php"
     },
     {
         "hora": "19:45",
-        "evento": "Jahn Regensburg x Greuther Fürth",
+        "evento": "Newcastle United x Chelsea",
+        "link": "https://v5.sportsonline.si/channels/bra/br7.php"
+    },
+    {
+        "hora": "19:45",
+        "evento": "Manchester United x Leicester City",
         "link": "https://v5.sportsonline.si/channels/hd/hd10.php"
     },
     {
         "hora": "19:45",
-        "evento": "Stuttgart x Kaiserslautern",
-        "link": "https://v5.sportsonline.si/channels/hd/hd9.php"
+        "evento": "Manchester United x Leicester City",
+        "link": "https://v5.sportsonline.si/channels/bra/br1.php"
     },
     {
         "hora": "19:45",
-        "evento": "Stuttgart x Kaiserslautern",
-        "link": "https://v5.sportsonline.si/channels/pt/eleven2.php"
+        "evento": "Aston Villa x Crystal Palace",
+        "link": "https://v5.sportsonline.si/channels/hd/hd11.php"
     },
     {
         "hora": "19:45",
-        "evento": "Köln x Holstein Kiel",
-        "link": "https://v5.sportsonline.si/channels/hd/hd4.php"
+        "evento": "Juventus x Parma",
+        "link": "https://v5.sportsonline.si/channels/hd/hd8.php"
     },
     {
         "hora": "19:45",
-        "evento": "Wolfsburg x Borussia Dortmund",
-        "link": "https://v5.sportsonline.si/channels/hd/hd3.php"
+        "evento": "Juventus x Parma",
+        "link": "https://v5.sportsonline.si/channels/pt/sporttv2.php"
     },
     {
         "hora": "19:45",
-        "evento": "Wolfsburg x Borussia Dortmund",
-        "link": "https://v5.sportsonline.si/channels/pt/eleven1.php"
-    },
-    {
-        "hora": "19:45",
-        "evento": "Wolfsburg x Borussia Dortmund",
+        "evento": "Juventus x Parma",
         "link": "https://v5.sportsonline.si/channels/bra/br6.php"
     },
     {
         "hora": "19:45",
-        "evento": "Milan x Napoli",
-        "link": "https://v5.sportsonline.si/channels/hd/hd7.php"
+        "evento": "Mainz 05 x Bayern München",
+        "link": "https://v5.sportsonline.si/channels/hd/hd3.php"
     },
     {
         "hora": "19:45",
-        "evento": "Milan x Napoli",
-        "link": "https://v5.sportsonline.si/channels/pt/sporttv2.php"
+        "evento": "Mainz 05 x Bayern München",
+        "link": "https://v5.sportsonline.si/channels/pt/eleven1.php"
     },
     {
         "hora": "19:45",
-        "evento": "Milan x Napoli",
-        "link": "https://v5.sportsonline.si/channels/bra/br2.php"
-    },
-    {
-        "hora": "19:45",
-        "evento": "Novara x Vicenza",
-        "link": "https://v5.sportsonline.si/channels/hd/hd8.php"
-    },
-    {
-        "hora": "20:00",
-        "evento": "Brentford x Sheffield Wednesday",
-        "link": "https://v5.sportsonline.si/channels/hd/hd1.php"
-    },
-    {
-        "hora": "20:00",
-        "evento": "Brentford x Sheffield Wednesday",
-        "link": "https://v5.sportsonline.si/channels/pt/sporttv5.php"
-    },
-    {
-        "hora": "20:00",
-        "evento": "Brentford x Sheffield Wednesday",
+        "evento": "Mainz 05 x Bayern München",
         "link": "https://v5.sportsonline.si/channels/bra/br4.php"
     },
     {
+        "hora": "19:45",
+        "evento": "Hoffenheim x Nürnberg",
+        "link": "https://v5.sportsonline.si/channels/hd/hd4.php"
+    },
+    {
+        "hora": "19:45",
+        "evento": "Atalanta x Monza",
+        "link": "https://v5.sportsonline.si/channels/hd/hd7.php"
+    },
+    {
         "hora": "20:00",
-        "evento": "Poblense x Villarreal",
+        "evento": "Parla Escuela x Valencia",
         "link": "https://v5.sportsonline.si/channels/hd/hd6.php"
     },
     {
-        "hora": "20:15",
-        "evento": "Sporting CP x Nacional",
+        "hora": "20:05",
+        "evento": "Benfica x Santa Clara",
         "link": "https://v5.sportsonline.si/channels/pt/sporttv1.php"
     },
     {
-        "hora": "20:30",
-        "evento": "Basketball Champions League: SL Benfica x Bertram Dethona Basket",
+        "hora": "20:15",
+        "evento": "Tottenham Hotspur x Manchester City",
+        "link": "https://v5.sportsonline.si/channels/hd/hd9.php"
+    },
+    {
+        "hora": "20:15",
+        "evento": "Tottenham Hotspur x Manchester City",
         "link": "https://v5.sportsonline.si/channels/pt/sporttv3.php"
     },
     {
-        "hora": "22:00",
-        "evento": "Brazil W x Colombia W",
-        "link": "https://v5.sportsonline.si/channels/bra/br1.php"
+        "hora": "20:15",
+        "evento": "Tottenham Hotspur x Manchester City",
+        "link": "https://v5.sportsonline.si/channels/bra/br2.php"
     },
     {
         "hora": "22:00",
-        "evento": "Goiás x Operário PR",
+        "evento": "Internacional x Flamengo",
         "link": "https://v5.sportsonline.si/channels/bra/br3.php"
     },
     {
-        "hora": "23:05",
-        "evento": "Deportivo Pasto x Rionegro Águilas",
-        "link": "https://v5.sportsonline.si/channels/hd/hd10.php"
+        "hora": "22:00",
+        "evento": "Lanús x Cruzeiro",
+        "link": "https://v5.sportsonline.si/channels/hd/hd5.php"
+    },
+    {
+        "hora": "22:00",
+        "evento": "Lanús x Cruzeiro",
+        "link": "https://v5.sportsonline.si/channels/hd/hd6.php"
+    },
+    {
+        "hora": "22:00",
+        "evento": "Lanús x Cruzeiro",
+        "link": "https://v5.sportsonline.si/channels/pt/sporttv2.php"
+    },
+    {
+        "hora": "22:00",
+        "evento": "Lanús x Cruzeiro",
+        "link": "https://v5.sportsonline.si/channels/bra/br5.php"
+    },
+    {
+        "hora": "23:00",
+        "evento": "NBA: Boston Celtics @ Indiana Pacers",
+        "link": "https://v5.sportsonline.si/channels/hd/hd2.php"
+    },
+    {
+        "hora": "23:00",
+        "evento": "Los Angeles Lakers @ Cleveland Cavaliers",
+        "link": "https://v5.sportsonline.si/channels/hd/hd1.php"
+    },
+    {
+        "hora": "23:00",
+        "evento": "NBA: Los Angeles Lakers @ Cleveland Cavaliers",
+        "link": "https://v5.sportsonline.si/channels/pt/sporttv3.php"
     },
     {
         "hora": "23:30",
-        "evento": "NBA: Dallas Mavericks @ Minnesota Timberwolves",
-        "link": "https://v5.sportsonline.si/channels/pt/sporttv1.php"
+        "evento": "NBA: New York Knicks @ Miami Heat",
+        "link": "https://v5.sportsonline.si/channels/pt/sporttv4.php"
     },
     {
         "hora": "00:30",
-        "evento": "Amazonas x Botafogo SP",
-        "link": "https://v5.sportsonline.si/channels/bra/br3.php"
-    },
-    {
-        "hora": "00:30",
-        "evento": "Guarani x Novorizontino",
-        "link": "https://v5.sportsonline.si/channels/bra/br1.php"
-    },
-    {
-        "hora": "00:30",
-        "evento": "River Plate x Atlético Mineiro",
+        "evento": "Peñarol x Botafogo",
         "link": "https://v5.sportsonline.si/channels/hd/hd5.php"
     },
     {
         "hora": "00:30",
-        "evento": "River Plate x Atlético Mineiro",
+        "evento": "Peñarol x Botafogo",
         "link": "https://v5.sportsonline.si/channels/hd/hd6.php"
     },
     {
         "hora": "00:30",
-        "evento": "River Plate x Atlético Mineiro",
-        "link": "https://v5.sportsonline.si/channels/pt/sporttv2.php"
+        "evento": "Peñarol x Botafogo",
+        "link": "https://v5.sportsonline.si/channels/pt/sporttv1.php"
     },
     {
         "hora": "00:30",
-        "evento": "River Plate x Atlético Mineiro",
-        "link": "https://v5.sportsonline.si/channels/bra/br2.php"
+        "evento": "Peñarol x Botafogo",
+        "link": "https://v5.sportsonline.si/channels/bra/br1.php"
     },
     {
-        "hora": "01:10",
-        "evento": "Deportivo Pereira x Envigado",
-        "link": "https://v5.sportsonline.si/channels/hd/hd10.php"
+        "hora": "01:30",
+        "evento": "NBA: San Antonio Spurs @ Oklahoma City Thunder",
+        "link": "https://v5.sportsonline.si/channels/hd/hd2.php"
     },
     {
         "hora": "02:00",
         "evento": "NBA: New Orleans Pelicans @ Golden State Warriors",
-        "link": "https://v5.sportsonline.si/channels/hd/hd2.php"
+        "link": "https://v5.sportsonline.si/channels/pt/sporttv4.php"
     }
 ]
     }
