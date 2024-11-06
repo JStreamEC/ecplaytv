@@ -520,5 +520,19 @@
         "title": "Liga MX: Atlas vs Cruz Azul",
         "link": "https:\/\/streamtp1.com\/global1.php?stream=tudn_usa",
         "status": "pronto"
+    },
+    {
+        "time": "08:00",
+        "title": "UEFA Youth League: Esterella Roja vs Barcelona",
+        "link": "https:\/\/streamtp1.com\/global1.php?stream=movistarligadecampeones",
+        "status": "finalizado"
+    },
+    {
+        "time": "08:00",
+        "title": "UEFA Youth League: Feyenoord vs Salzburg",
+        "link": "https:\/\/streamtp1.com\/global1.php?stream=starplus01",
+        "status": "finalizado",
+        "notified5": false,
+        "notified10": false
     }
 ]
