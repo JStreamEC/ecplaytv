@@ -3,243 +3,249 @@
 [
     {
         "hora": "07:00",
-        "evento": "DP World Tour Championship: D1",
+        "evento": "DP World Tour Championship: D2",
         "link": "https://v5.sportsonline.si/channels/pt/sporttv3.php"
     },
     {
-        "hora": "09:10",
-        "evento": "Australia x Saudi Arabia",
-        "link": "https://v5.sportsonline.si/channels/hd/hd3.php"
-    },
-    {
-        "hora": "12:00",
-        "evento": "Korea DPR x Iran",
-        "link": "https://v5.sportsonline.si/channels/hd/hd3.php"
-    },
-    {
-        "hora": "13:00",
-        "evento": "Equatorial Guinea x Algeria",
-        "link": "https://v5.sportsonline.si/channels/hd/hd4.php"
-    },
-    {
-        "hora": "13:00",
-        "evento": "Equatorial Guinea x Algeria",
-        "link": "https://v5.sportsonline.si/channels/pt/sporttv5.php"
-    },
-    {
-        "hora": "14:00",
-        "evento": "Kuwait x Korea Republic",
-        "link": "https://v5.sportsonline.si/channels/hd/hd3.php"
-    },
-    {
-        "hora": "14:00",
-        "evento": "Bahrain x China",
-        "link": "https://v5.sportsonline.si/channels/hd/hd11.php"
-    },
-    {
-        "hora": "15:00",
-        "evento": "Kazakhstan x Austria",
-        "link": "https://v5.sportsonline.si/channels/hd/hd1.php"
-    },
-    {
-        "hora": "15:00",
-        "evento": "Kazakhstan x Austria",
-        "link": "https://v5.sportsonline.si/channels/hd/hd8.php"
-    },
-    {
-        "hora": "15:00",
-        "evento": "Kazakhstan x Austria",
-        "link": "https://v5.sportsonline.si/channels/pt/sporttv1.php"
-    },
-    {
-        "hora": "15:00",
-        "evento": "Kazakhstan x Austria",
-        "link": "https://v5.sportsonline.si/channels/bra/br6.php"
-    },
-    {
-        "hora": "16:00",
-        "evento": "Madagascar x Tunisia",
-        "link": "https://v5.sportsonline.si/channels/hd/hd4.php"
-    },
-    {
-        "hora": "16:00",
-        "evento": "Oman x Palestine",
+        "hora": "08:00",
+        "evento": "MotoGP: Barcelona FP",
         "link": "https://v5.sportsonline.si/channels/hd/hd10.php"
     },
     {
-        "hora": "16:15",
-        "evento": "Qatar x Uzbekistan",
+        "hora": "08:00",
+        "evento": "MotoGP: Barcelona FP",
+        "link": "https://v5.sportsonline.si/channels/pt/sporttv4.php"
+    },
+    {
+        "hora": "08:00",
+        "evento": "MotoGP: Barcelona FP",
+        "link": "https://v5.sportsonline.si/channels/bra/br6.php"
+    },
+    {
+        "hora": "12:00",
+        "evento": "Indonesia x Japan",
         "link": "https://v5.sportsonline.si/channels/hd/hd3.php"
     },
     {
-        "hora": "16:15",
-        "evento": "United Arab Emirates x Kyrgyzstan",
-        "link": "https://v5.sportsonline.si/channels/hd/hd9.php"
+        "hora": "12:15",
+        "evento": "MotoGP: Barcelona Practice",
+        "link": "https://v5.sportsonline.si/channels/hd/hd10.php"
     },
     {
-        "hora": "16:15",
-        "evento": "Iraq x Jordan",
-        "link": "https://v5.sportsonline.si/channels/hd/hd11.php"
+        "hora": "12:15",
+        "evento": "MotoGP: Barcelona Practice",
+        "link": "https://v5.sportsonline.si/channels/pt/sporttv4.php"
     },
     {
-        "hora": "17:00",
-        "evento": "Armenia x Faroe Islands",
+        "hora": "12:15",
+        "evento": "MotoGP: Barcelona Practice",
+        "link": "https://v5.sportsonline.si/channels/bra/br6.php"
+    },
+    {
+        "hora": "13:00",
+        "evento": "ATP Finals: Turin",
+        "link": "https://v5.sportsonline.si/channels/pt/sporttv2.php"
+    },
+    {
+        "hora": "16:00",
+        "evento": "Zambia x Côte d'Ivoire",
+        "link": "https://v5.sportsonline.si/channels/hd/hd3.php"
+    },
+    {
+        "hora": "16:00",
+        "evento": "Mozambique x Mali",
+        "link": "https://v5.sportsonline.si/channels/pt/sporttv3.php"
+    },
+    {
+        "hora": "16:00",
+        "evento": "Eswatini x Guinea-Bissau",
+        "link": "https://v5.sportsonline.si/channels/pt/sporttv5.php"
+    },
+    {
+        "hora": "16:00",
+        "evento": "Cape Verde Islands x Egypt",
+        "link": "https://v5.sportsonline.si/channels/hd/hd8.php"
+    },
+    {
+        "hora": "16:00",
+        "evento": "Cape Verde Islands x Egypt",
         "link": "https://v5.sportsonline.si/channels/pt/sporttv2.php"
     },
     {
         "hora": "17:00",
-        "evento": "Armenia x Faroe Islands",
+        "evento": "Cyprus x Lithuania",
+        "link": "https://v5.sportsonline.si/channels/hd/hd1.php"
+    },
+    {
+        "hora": "17:00",
+        "evento": "Cyprus x Lithuania",
+        "link": "https://v5.sportsonline.si/channels/pt/sporttv1.php"
+    },
+    {
+        "hora": "17:00",
+        "evento": "Cyprus x Lithuania",
         "link": "https://v5.sportsonline.si/channels/bra/br4.php"
     },
     {
+        "hora": "17:00",
+        "evento": "Fenerbahçe x Zenit",
+        "link": "https://v5.sportsonline.si/channels/hd/hd11.php"
+    },
+    {
         "hora": "19:00",
-        "evento": "Benin x Nigeria",
+        "evento": "Angola x Ghana",
         "link": "https://v5.sportsonline.si/channels/hd/hd3.php"
     },
     {
         "hora": "19:00",
-        "evento": "Burkina Faso x Senegal",
-        "link": "https://v5.sportsonline.si/channels/hd/hd4.php"
+        "evento": "Angola x Ghana",
+        "link": "https://v5.sportsonline.si/channels/pt/sporttv5.php"
     },
     {
-        "hora": "19:45",
-        "evento": "Greece x England",
-        "link": "https://v5.sportsonline.si/channels/hd/hd1.php"
+        "hora": "19:00",
+        "evento": "Gabon x Morocco",
+        "link": "https://v5.sportsonline.si/channels/hd/hd8.php"
     },
     {
-        "hora": "19:45",
-        "evento": "Greece x England",
-        "link": "https://v5.sportsonline.si/channels/pt/sporttv4.php"
-    },
-    {
-        "hora": "19:45",
-        "evento": "Greece x England",
-        "link": "https://v5.sportsonline.si/channels/bra/br2.php"
-    },
-    {
-        "hora": "19:45",
-        "evento": "France x Israel",
-        "link": "https://v5.sportsonline.si/channels/hd/hd5.php"
-    },
-    {
-        "hora": "19:45",
-        "evento": "France x Israel",
-        "link": "https://v5.sportsonline.si/channels/hd/hd11.php"
-    },
-    {
-        "hora": "19:45",
-        "evento": "France x Israel",
-        "link": "https://v5.sportsonline.si/channels/pt/sporttv3.php"
-    },
-    {
-        "hora": "19:45",
-        "evento": "France x Israel",
+        "hora": "19:00",
+        "evento": "Operário PR x Mirassol",
         "link": "https://v5.sportsonline.si/channels/bra/br4.php"
     },
     {
-        "hora": "19:45",
-        "evento": "Belgium x Italy",
-        "link": "https://v5.sportsonline.si/channels/hd/hd2.php"
-    },
-    {
-        "hora": "19:45",
-        "evento": "Belgium x Italy",
+        "hora": "19:30",
+        "evento": "Catania x Trapani 1905",
         "link": "https://v5.sportsonline.si/channels/hd/hd7.php"
     },
     {
         "hora": "19:45",
-        "evento": "Belgium x Italy",
+        "evento": "Portugal x Poland",
+        "link": "https://v5.sportsonline.si/channels/hd/hd2.php"
+    },
+    {
+        "hora": "19:45",
+        "evento": "Portugal x Poland",
         "link": "https://v5.sportsonline.si/channels/pt/sporttv1.php"
     },
     {
         "hora": "19:45",
-        "evento": "Ireland Republic x Finland",
+        "evento": "Portugal x Poland",
+        "link": "https://v5.sportsonline.si/channels/bra/br1.php"
+    },
+    {
+        "hora": "19:45",
+        "evento": "Denmark x Spain",
+        "link": "https://v5.sportsonline.si/channels/hd/hd1.php"
+    },
+    {
+        "hora": "19:45",
+        "evento": "Denmark x Spain",
+        "link": "https://v5.sportsonline.si/channels/hd/hd6.php"
+    },
+    {
+        "hora": "19:45",
+        "evento": "Denmark x Spain",
+        "link": "https://v5.sportsonline.si/channels/pt/sporttv2.php"
+    },
+    {
+        "hora": "19:45",
+        "evento": "Denmark x Spain",
+        "link": "https://v5.sportsonline.si/channels/bra/br2.php"
+    },
+    {
+        "hora": "19:45",
+        "evento": "Scotland x Croatia",
+        "link": "https://v5.sportsonline.si/channels/hd/hd5.php"
+    },
+    {
+        "hora": "19:45",
+        "evento": "Scotland x Croatia",
+        "link": "https://v5.sportsonline.si/channels/pt/sporttv4.php"
+    },
+    {
+        "hora": "19:45",
+        "evento": "Northern Ireland x Belarus",
         "link": "https://v5.sportsonline.si/channels/hd/hd9.php"
     },
     {
         "hora": "19:45",
-        "evento": "Ireland Republic x Finland",
-        "link": "https://v5.sportsonline.si/channels/pt/sporttv5.php"
-    },
-    {
-        "hora": "19:45",
-        "evento": "Ireland Republic x Finland",
-        "link": "https://v5.sportsonline.si/channels/bra/br6.php"
-    },
-    {
-        "hora": "19:45",
-        "evento": "Slovenia x Norway",
+        "evento": "Romania x Kosovo",
         "link": "https://v5.sportsonline.si/channels/hd/hd10.php"
     },
     {
         "hora": "19:45",
-        "evento": "Slovenia x Norway",
-        "link": "https://v5.sportsonline.si/channels/bra/br5.php"
-    },
-    {
-        "hora": "21:00",
-        "evento": "Venezuela x Brazil",
-        "link": "https://v5.sportsonline.si/channels/hd/hd6.php"
-    },
-    {
-        "hora": "21:00",
-        "evento": "Venezuela x Brazil",
-        "link": "https://v5.sportsonline.si/channels/pt/sporttv2.php"
-    },
-    {
-        "hora": "21:00",
-        "evento": "Venezuela x Brazil",
-        "link": "https://v5.sportsonline.si/channels/bra/br1.php"
-    },
-    {
-        "hora": "21:00",
-        "evento": "Venezuela x Brazil",
-        "link": "https://v5.sportsonline.si/channels/bra/br3.php"
-    },
-    {
-        "hora": "23:30",
-        "evento": "Paraguay x Argentina",
-        "link": "https://v5.sportsonline.si/channels/hd/hd9.php"
-    },
-    {
-        "hora": "23:30",
-        "evento": "Paraguay x Argentina",
-        "link": "https://v5.sportsonline.si/channels/pt/sporttv2.php"
-    },
-    {
-        "hora": "23:30",
-        "evento": "Paraguay x Argentina",
-        "link": "https://v5.sportsonline.si/channels/bra/br1.php"
+        "evento": "Switzerland x Serbia",
+        "link": "https://v5.sportsonline.si/channels/hd/hd11.php"
     },
     {
         "hora": "00:00",
-        "evento": "Ecuador x Bolivia",
-        "link": "https://v5.sportsonline.si/channels/hd/hd2.php"
-    },
-    {
-        "hora": "00:00",
-        "evento": "Ecuador x Bolivia",
+        "evento": "Uruguay x Colombia",
         "link": "https://v5.sportsonline.si/channels/hd/hd6.php"
     },
     {
         "hora": "00:00",
-        "evento": "Ecuador x Bolivia",
+        "evento": "Uruguay x Colombia",
         "link": "https://v5.sportsonline.si/channels/pt/sporttv1.php"
     },
     {
         "hora": "00:00",
-        "evento": "Ecuador x Bolivia",
-        "link": "https://v5.sportsonline.si/channels/bra/br4.php"
+        "evento": "Uruguay x Colombia",
+        "link": "https://v5.sportsonline.si/channels/bra/br1.php"
+    },
+    {
+        "hora": "00:00",
+        "evento": "NBA: Philadelphia 76ers @ Orlando Magic",
+        "link": "https://v5.sportsonline.si/channels/pt/sporttv2.php"
+    },
+    {
+        "hora": "00:30",
+        "evento": "NBA: Los Angeles Lakers @ San Antonio Spurs",
+        "link": "https://v5.sportsonline.si/channels/pt/sporttv3.php"
     },
     {
         "hora": "01:00",
-        "evento": "Jamaica x USA",
-        "link": "https://v5.sportsonline.si/channels/hd/hd5.php"
+        "evento": "Boxing: Mike Tyson vs Jake Paul",
+        "link": "https://v5.sportsonline.si/channels/hd/hd1.php"
     },
     {
-        "hora": "01:20",
-        "evento": "NFL Washington Commanders @ Philadelphia Eagles",
+        "hora": "01:00",
+        "evento": "Boxing: Mike Tyson vs Jake Paul",
+        "link": "https://v5.sportsonline.si/channels/hd/hd2.php"
+    },
+    {
+        "hora": "01:30",
+        "evento": "Peru x Chile",
+        "link": "https://v5.sportsonline.si/channels/hd/hd9.php"
+    },
+    {
+        "hora": "01:30",
+        "evento": "Peru x Chile",
+        "link": "https://v5.sportsonline.si/channels/bra/br5.php"
+    },
+    {
+        "hora": "02:00",
+        "evento": "Honduras x Mexico",
+        "link": "https://v5.sportsonline.si/channels/hd/hd11.php"
+    },
+    {
+        "hora": "02:00",
+        "evento": "Boxing: Randy Leon x Edwing Avila",
+        "link": "https://v5.sportsonline.si/channels/bra/br6.php"
+    },
+    {
+        "hora": "03:00",
+        "evento": "NBA: Minnesota Timberwolves @ Sacramento Kings",
+        "link": "https://v5.sportsonline.si/channels/pt/sporttv2.php"
+    },
+    {
+        "hora": "04:00",
+        "evento": "Boxing: Mike Tyson vs Jake Paul",
         "link": "https://v5.sportsonline.si/channels/hd/hd1.php"
+    },
+    {
+        "hora": "04:00",
+        "evento": "Boxing: Mike Tyson vs Jake Paul",
+        "link": "https://v5.sportsonline.si/channels/hd/hd2.php"
     }
 ]
+
 }
