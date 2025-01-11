@@ -1,0 +1,699 @@
+<meta charset="UTF-8" />    <meta name="viewport" content="width=device-width, initial-scale=1.0" />    <title>Canales de TV</title>    
+<style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #000000;
+        }
+        h2 {
+            padding: 0px;
+			margin-bottom: 0px;
+        }
+        header {
+            padding: 10px;
+            background-color: #000000;
+            color: white;
+            text-align: center;
+        }
+        header input {
+            width: 80%;
+            padding: 10px;
+            border: none;
+            border-radius: 5px;
+        }
+        .tabs {
+            display: flex;
+            justify-content: center;
+            margin: 20px 0;
+        }
+        .tab-button {
+            padding: 10px 20px;
+            margin: 0 5px;
+            border: none;
+            background-color: #ddd;
+            cursor: pointer;
+        }
+        .tab-button.active {
+            background-color: #333;
+            color: white;
+        }
+        .tab-content {
+            display: none;
+        }
+        .tab-content.active {
+            display: block;
+        }
+.favorite-status {
+    cursor: pointer;
+    font-size: 1.5em;
+    color: #ccc; /* Color de la estrella cuando no está en favoritos */
+    transition: color 0.3s;
+	    margin-top: 0px;
+}
+.favorite-status.favorito {
+    color: gold; /* Color de la estrella cuando está en favoritos */
+}
+        .channel-list, .favorite-list {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+            justify-content: center;
+        }
+        .channel-card {
+            display: flex;
+            align-items: center;
+            background-color: black;
+			color: white;
+            padding: 10px;
+            margin: 10px;
+            border-radius: 5px;
+			box-shadow: 4px -3px 1px -1px rgb(255 255 255 / 80%);
+            width: 90%;
+        }
+        .channel-card img {
+            width: 6em;
+             border-radius: 5px;
+            margin-right: 10px;
+			box-shadow: -4px 3px 1px -1px rgb(255 255 255 / 80%);
+        }
+        .channel-info {
+            flex-grow: 1;
+        }
+        .favorite-status {
+            color: blue;
+            cursor: pointer;
+        }
+        .view-signals {
+            padding: 10px;
+            background-color: #ff3400;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+			font-weight: 700;
+        }
+        @media (min-width: 768px) {
+            .channel-card {
+                flex-direction: column;
+                align-items: flex-start;
+                width: calc(100% / 4 - 20px);
+            }
+            .view-signals {
+                margin-top: 10px;
+            }
+            .channel-info, .favorite-status, .view-signals {
+                align-self: stretch;
+                text-align: center;
+            }
+			.favorite-status {
+			margin-bottom: 0px;
+			margin-top: 17px;
+			}
+			.channel-info {
+				flex-grow: 1;
+				display: flex;
+				align-items: stretch;
+				gap: 10px;
+				flex-direction: row;
+				flex-wrap: wrap;
+				justify-content: center;
+			}
+        .channel-card img {
+            width: -webkit-fill-available;
+             border-radius: 5px;
+            margin-right: 10px;
+        }
+		        .modal-content {
+            background: white;
+            padding: 20px;
+            border-radius: 8px;
+            max-width: 600px;
+            width: 60%;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+            position: relative;
+        }
+        }
+        @media (min-width: 1024px) {
+            .channel-card {
+                width: calc(100% / 6 - 20px);
+            }
+			.favorite-status {
+					margin-bottom: 0px;
+			}
+        .channel-card img {
+            width: -webkit-fill-available;
+             border-radius: 5px;
+            margin-right: 10px;
+        }
+			.favorite-status {
+			margin-bottom: 0px;
+			margin-top: 17px;
+			}
+			.channel-info {
+				flex-grow: 1;
+				display: flex;
+				align-items: stretch;
+				gap: 10px;
+				flex-direction: row;
+				flex-wrap: wrap;
+				justify-content: center;
+			}
+			        .modal-content {
+            background: white;
+            padding: 20px;
+            border-radius: 8px;
+            max-width: 600px;
+            width: 60%;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+            position: relative;
+        }
+			}
+        @media (min-width: 1440px) {
+            .channel-card {
+                width: calc(100% / 8 - 20px);
+            }
+			.favorite-status {
+					margin-bottom: 0px;
+			}
+ 			.favorite-status {
+			margin-bottom: 0px;
+			margin-top: 17px;
+			}
+			.channel-info {
+				flex-grow: 1;
+				display: flex;
+				align-items: stretch;
+				gap: 10px;
+				flex-direction: row;
+				flex-wrap: wrap;
+				justify-content: center;
+			}
+			.channel-card img {
+            width: -webkit-fill-available;
+             border-radius: 5px;
+            margin-right: 10px;
+        }
+		        .modal-content {
+            background: white;
+            padding: 20px;
+            border-radius: 8px;
+            max-width: 600px;
+            width: 60%;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+            position: relative;
+        }
+        }
+        /* Modal styles */
+        .modal {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0, 0, 0, 0.5);
+            align-items: center;
+            justify-content: center;
+        }
+        .modal-content {
+            background: white;
+            padding: 20px;
+            border-radius: 8px;
+            max-width: 600px;
+            width: 82%;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+            position: relative;
+        }
+        .modal-content h4 {
+            margin: 0 0 20px;
+            font-size: 18px;
+            color: #333;
+        }
+        .modal-content button {
+            background-color: #007bff;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 16px;
+            margin: 5px;
+            transition: background-color 0.3s;
+        }
+        .modal-content button:hover {
+            background-color: #0056b3;
+        }
+        .modal-content button.close {
+            background-color: #dc3545;
+        }
+        .modal-content button.close:hover {
+            background-color: #c82333;
+        }
+    </style>     <header>        <input type="text" id="search" placeholder="Buscar canales..." />    </header>     <div class="tabs">
+	<button class="tab-button active" onclick="openTab(event, 'canales')">
+		       Canales       
+	</button>
+	<button class="tab-button" onclick="openTab(event, 'favoritos')">
+		       Favoritos       
+	</button>
+</div>
+     <div id="canales" class="tab-content active">
+	<div id="canal-container" class="channel-list">
+		<!--         Los canales se insertarán aquí mediante JavaScript         -->               
+	</div>
+</div>
+     <div id="favoritos" class="tab-content">
+	<div class="favorite-list" id="favoriteList">
+		<!--         Canales favoritos aparecerán aquí         -->               
+	</div>
+</div>
+     <div class="modal" id="modal">
+	<div class="modal-content">
+		<h4>
+			       Selecciona una señal       
+		</h4>
+		<!--         Botones de señales serán insertados aquí por JavaScript         -->            <br /><br />                   
+		<button onclick="closeModal()" class="close">
+			       Cerrar       
+		</button>
+	</div>
+</div>
+     <script>
+        const canalesData = [
+            {
+                "nombre": "Academia TV",
+                "logo": "https://www.appcreator24.com/srv/imgs/cards/c1502246_3349732_logo.png?v=1",
+                "señales": [
+                    {
+                        "nombre": "Web",
+                        "url": "https://livestream.com/accounts/30417243/events/9529139/player?enableInfoAndActivity=true&defaultDrawer=&autoPlay=true&mute=false",
+                        "params": "{}"
+                    }
+                ]
+            },
+            {
+                "nombre": "America Tv",
+                "logo": "https://www.appcreator24.com/srv/imgs/cards/c1502246_3746595_logo.png?v=1",
+                "señales": [
+                    {
+                        "nombre": "Web",
+                        "url": "https://makrodigital.com/makrostreaming/radioamerica/quito/",
+                        "params": "{}"
+                    }
+                ]
+            },
+            {
+                "nombre": "EcotelTv",
+                "logo": "https://www.appcreator24.com/srv/imgs/cards/c1502246_2168959_logo.png?v=1",
+                "señales": [
+                    {
+                        "nombre": "Señal 1",
+                        "url": "https://ecoteltv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8?aa",
+                        "params": "{}"
+                    }
+                ]
+            },
+            {
+                "nombre": "EcuadorTv",
+                "logo": "https://www.appcreator24.com/srv/imgs/cards/c1502246_2801611_logo.png?v=1",
+                "señales": [
+                    {
+                        "nombre": "Señal 1",
+                        "url": "https://samson.streamerr.co:8081/shogun/tracks-v1a1/mono.m3u8",
+                        "params": "{}"
+                    },
+                    {
+                        "nombre": "Web",
+                        "url": "https://www.ecuadortv.ec/wp-content/medios/stream.php",
+                        "params": "{}"
+                    }
+				]
+            },
+            {
+                "nombre": "Ecuavisa",
+                "logo": "https://www.appcreator24.com/srv/imgs/cards/c1502246_2168784_logo.png?v=2",
+                "señales": [
+                    {
+                        "nombre": "Web",
+                        "url": "https://acectv.blogspot.com/p/ecuador.html?id=ecuavisa",
+                        "params": "{}"
+                    },
+                    {
+                        "nombre": "Web",
+                        "url": "https://acectv.blogspot.com/p/ec.html?Id=ECUAVISAM",
+                        "params": "{}"
+                    },
+                    {
+                        "nombre": "Web",
+                        "url": "https://acectv.blogspot.com/p/ec.html?Id=ECUAVISAX",
+                        "params": "{}"
+                    },
+                    {
+                        "nombre": "Web",
+                        "url": "https://acectv.blogspot.com/p/ec.html?Id=ECUAVISA",
+                        "params": "{}"
+                    },
+                    {
+                        "nombre": "Señal 1",
+                        "url": "httpshttps://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist_dvr.m3u8?did=b210593698696762411fe380c",
+                        "params": "{}"
+                    }
+                ]
+            },
+            {
+                "nombre": "EducaTV",
+                "logo": "https://www.appcreator24.com/srv/imgs/cards/c1502246_3746638_logo.png?v=1",
+                "señales": [
+                    {
+                        "nombre": "Web",
+                        "url": "https://educa.streamingcnt.net/",
+                        "params": "{}"
+                    },
+                    {
+                        "nombre": "Señal 1",
+                        "url": "https://vid2.ecuamedia.net/educatv/live/playlist.m3u8",
+                        "params": "{}"
+                    }
+                ]
+            },
+            {
+                "nombre": "GamaTv",
+                "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxTfblXQ0D9wj1iYvJQbXI7dsPXq9kx1xcbcTABCXNty6Bdtq0C6BE3f1Iv8EHhJ8K73JGo5dogCClq3MPT3WxMEhkJOjz2zA2I6bqZQDpiS95DxDnLkR3d7nsIbUeY-Xxizn6BDkx4I7sYgKw5PKhursGjdryyNJP_nbyboqcVv3gQmF-N9bJJ6SxqAg/s180/APP24.png",
+                "señales": [
+                    {
+                        "nombre": "Web",
+                        "url": "https://acectv.blogspot.com/p/exoplayer.html?Id=GAMA",
+                        "params": "{}"
+                    },
+                    {
+                        "nombre": "Señal 1",
+                        "url": "https://acectv.blogspot.com/p/magma.html?get=483",
+                        "params": "{}"
+                    }
+                ]
+            },
+            {
+                "nombre": "HechosTv",
+                "logo": "https://www.appcreator24.com/srv/imgs/cards/c1502246_2168963_logo.png?v=1",
+                "señales": [
+                    {
+                        "nombre": "Web",
+                        "url": "https://acectv.blogspot.com/p/ecuador.html?id=hechos",
+                        "params": "{}"
+                    },
+                    {
+                        "nombre": "Señal 1",
+                        "url": "https://online.hechosecuador.com:5443/WebRTCApp/streams/test.m3u8",
+                        "params": "{}"
+                    }
+                ]
+            },
+            {
+                "nombre": "OromarTV",
+                "logo": "https://www.appcreator24.com/srv/imgs/cards/c1502246_2168957_logo.png?v=1",
+                "señales": [
+                    {
+                        "nombre": "Web",
+                        "url": "https://acectv.blogspot.com/p/ec.html?Id=OROMAR",
+                        "params": "{}"
+                    },
+                    {
+                        "nombre": "Web",
+                        "url": "https://acectv.blogspot.com/p/ecuador.html?id=oromar",
+                        "params": "{}"
+                    },
+                    {
+                        "nombre": "Señal 1",
+                        "url": "https://stream.oromar.tv/hls/oromartv_hi/index.m3u8",
+                        "params": "{}"
+                    }
+                ]
+            },
+            {
+                "nombre": "PuruwuaTV",
+                "logo": "https://www.appcreator24.com/srv/imgs/cards/c1502246_3746652_logo.png?v=1",
+                "señales": [
+                    {
+                        "nombre": "Web",
+                        "url": "://acectv.blogspot.com/p/ecuador.html?id=puruwa",
+                        "params": "{}"
+                    },                    {
+                        "nombre": "Señal 1",
+                        "url": "https://live.tvcontrolcp.com:1936/puruwatv/puruwatv/playlist.m3u8",
+                        "params": "{}"
+                    },
+                    {
+                        "nombre": "Señal 2",
+                        "url": "https://live.tvcontrolcp.com:1936/puruwatv/puruwatv/playlist.m3u8",
+                        "params": "{}"
+                    }
+                ]
+            },
+            {
+                "nombre": "Rts",
+                "logo": "https://www.appcreator24.com/srv/imgs/cards/c1502246_2168883_logo.png?v=1",
+                "señales": [
+                    {
+                        "nombre": "Web",
+                        "url": "https://acectv.blogspot.com/p/ec.html?Id=RTSX",
+                        "params": "{}"
+                    },
+                    {
+                        "nombre": "Web",
+                        "url": "https://acectv.blogspot.com/p/ecuador.html?id=rts",
+                        "params": "{}"
+                    },
+                    {
+                        "nombre": "Señal 1",
+                        "url": "https://alba-ec-rts-rts.stream.mediatiquestream.com/480p.m3u8",
+                        "params": "{}"
+                    }
+                ]
+            },
+            {
+                "nombre": "Sono OndaTv",
+                "logo": "https://www.appcreator24.com/srv/imgs/cards/c1502246_2168973_logo.png?v=1",
+                "señales": [
+                    {
+                        "nombre": "Web",
+                        "url": "https://acectv.blogspot.com/p/ecuador.html?id=sonoonda",
+                        "params": "{}"
+                    },
+                    {
+                        "nombre": "Señal 1",
+                        "url": "https://live.obslivestream.com/sonoondatv/index.m3u8",
+                        "params": "{}"
+                    }
+                ]
+            },
+            {
+                "nombre": "Tc Mi Canal",
+                "logo": "https://www.appcreator24.com/srv/imgs/cards/c1502246_2168805_logo.png?v=1",
+                "señales": [
+                    {
+                        "nombre": "Web",
+                        "url": "https://acectv.blogspot.com/p/ec.html?Id=TCM",
+                        "params": "{}"
+                    },
+                    {
+                        "nombre": "Web",
+                        "url": "https://acectv.blogspot.com/p/ec.html?Id=TCX",
+                        "params": "{}"
+                    },
+                    {
+                        "nombre": "Web",
+                        "url": "https://acectv.blogspot.com/p/ec.html?Id=TC",
+                        "params": "{}"
+                    }
+                ]
+            },
+            {
+                "nombre": "Teleamazonas",
+                "logo": "https://www.appcreator24.com/srv/imgs/cards/c1502246_2168757_logo.png?v=5",
+                "señales": [
+                    {
+                        "nombre": "Web",
+                        "url": "https://acectv.blogspot.com/p/ecuador.html?id=teleamazonas",
+                        "params": "{}"
+                    },
+                    {
+                        "nombre": "Web",
+                        "url": "https://acectv.blogspot.com/p/ec.html?Id=TELEAMAZONASM",
+                        "params": "{}"
+                    },
+                    {
+                        "nombre": "Web",
+                        "url": "https://acectv.blogspot.com/p/ec.html?Id=TELEAMAZONASX",
+                        "params": "{}"
+                    },
+                    {
+                        "nombre": "Web",
+                        "url": "https://acectv.blogspot.com/p/ec.html?Id=TELEAMAZONAS",
+                        "params": "{}"
+                    },
+                    {
+                        "nombre": "Señal 1",
+                        "url": "https://teleamazonas-live.cdn.vustreams.com/live/fd4ab346-b4e3-4628-abf0-b5a1bc192428/live.isml/fd4ab346-b4e3-4628-abf0-b5a1bc192428.m3u8",
+                        "params": "{}"
+                    }
+                ]
+            },
+            {
+                "nombre": "Telerama",
+                "logo": "https://www.appcreator24.com/srv/imgs/cards/c1502246_2168833_logo.png?v=1",
+                "señales": [
+                    {
+                        "nombre": "Web",
+                        "url": "https://acectv.blogspot.com/p/exoplayer.html?Id=TELERAMA",
+                        "params": "{}"
+                    }
+                ]
+            },
+            {
+                "nombre": "Televicentro",
+                "logo": "https://www.appcreator24.com/srv/imgs/cards/c1502246_2168820_logo.png?v=1",
+                "señales": [
+                    {
+                        "nombre": "Web",
+                        "url": "https://acectv.blogspot.com/p/ecuador.html?id=televicentro",
+                        "params": "{}"
+                    },
+                    {
+                        "nombre": "Web",
+                        "url": "https://acectv.blogspot.com/p/ec.html?Id=TELEVICENTROX",
+                        "params": "{}"
+                    },
+                  	{
+                        "nombre": "Web",
+                        "url": "https://acectv.blogspot.com/p/ec.html?Id=TELEVICENTRO",
+                        "params": "{}"
+                    },
+                    {
+                        "nombre": "Señal 1",
+                        "url": "https://alba-ec-tvc-tvc.stream.mediatiquestream.com/index.m3u8",
+                        "params": "{}"
+                    }
+                ]
+            },
+            {
+                "nombre": "Wuan+",
+                "logo": "https://www.appcreator24.com/srv/imgs/cards/c1502246_3746679_logo.png?v=1",
+                "señales": [
+                    {
+                        "nombre": "Web",
+                        "url": "https://acectv.blogspot.com/p/ec.html?Id=WUAN",
+                        "params": "{}"
+                    },
+                    {
+                        "nombre": "Web",
+                        "url": "https://acectv.blogspot.com/p/ec.html?Id=WUAN",
+                        "params": "{}"
+                    },
+					{
+                        "nombre": "Señal 1",
+                        "url": "https://video2.makrodigital.com/wuanplus/wuanplus/playlist.m3u8",
+                        "params": "{}"
+                    } 
+                ]
+            }             
+        ];
+        const favorites = JSON.parse(localStorage.getItem('favorites')) || [];
+    function renderCanales(searchTerm = '') {
+        const canalContainer = document.getElementById('canal-container');
+        canalContainer.innerHTML = canalesData
+            .filter(canal => canal.nombre.toLowerCase().includes(searchTerm.toLowerCase()))
+            .map((canal, canalIndex) => `
+                <div class="channel-card" data-channel-id="${canalIndex}">
+                    <img src="${canal.logo}" alt="${canal.nombre}">
+                    <div class="channel-info">
+                        <h2>${canal.nombre}</h2>
+                        <p class="favorite-status ${favorites.some(fav => fav.id === canalIndex) ? 'favorito' : ''}" onclick="toggleFavorite(this, ${canalIndex})">
+                            ${favorites.some(fav => fav.id === canalIndex) ? '★' : '☆'}
+                        </p>
+                    </div>
+                    <button class="view-signals" onclick="openModal(${canalIndex})">Ver señales</button>
+                </div>
+            `).join('');
+    }
+        function openTab(evt, tabName) {
+            const tabContents = document.getElementsByClassName('tab-content');
+            for (let i = 0; i < tabContents.length; i++) {
+                tabContents[i].style.display = 'none';
+            }
+            const tabButtons = document.getElementsByClassName('tab-button');
+            for (let i = 0; i < tabButtons.length; i++) {
+                tabButtons[i].className = tabButtons[i].className.replace(' active', '');
+            }
+            document.getElementById(tabName).style.display = 'block';
+            evt.currentTarget.className += ' active';
+        }
+        function openModal(canalIndex) {
+            const canal = canalesData[canalIndex];
+            const modalContent = document.querySelector('.modal-content');
+            modalContent.innerHTML = `
+                <h4>Selecciona una señal</h4>
+                ${canal.señales.map((signal, index) => `
+                    <button onclick="playSignal(${canalIndex}, ${index})">${signal.nombre}</button>
+                `).join('')}
+                <br><br>
+                <button class="close" onclick="closeModal()">Cerrar</button>
+            `;
+            document.getElementById('modal').style.display = 'flex';
+        }
+        function closeModal() {
+            document.getElementById('modal').style.display = 'none';
+        }
+		function playSignal(canalIndex, signalIndex) {
+			const signal = canalesData[canalIndex].señales[signalIndex];
+			if (signal) {
+				if (signal.nombre === "Web") {
+					window.open(signal.url, '_blank');
+				} else if (["Señal 1", "Señal 2", "Señal 3", "Señal 4", "Señal 5"].includes(signal.nombre)) {
+					const header = JSON.parse(signal.params || '{}');
+					PlayerApp.onPlay(signal.url, JSON.stringify(header), "{}");
+				} else {
+					const header = JSON.parse(signal.params || '{}');
+					PlayerApp.onPlay(signal.url, "", signal.params);
+				}
+			}
+		}
+    function toggleFavorite(element, canalIndex) {
+        let isFavorite = favorites.some(fav => fav.id === canalIndex);
+        if (isFavorite) {
+            favorites.splice(favorites.findIndex(fav => fav.id === canalIndex), 1);
+            element.innerHTML = '☆'; // Estrella vacía cuando no está en favoritos
+            element.classList.remove('favorito');
+        } else {
+            favorites.push({ id: canalIndex });
+            element.innerHTML = '★'; // Estrella llena cuando está en favoritos
+            element.classList.add('favorito');
+        }
+        localStorage.setItem('favorites', JSON.stringify(favorites));
+        renderFavorites();
+        renderCanales(document.getElementById('search').value); // Re-render channels after toggle
+    }
+function renderFavorites() {
+    const favoriteList = document.getElementById('favoriteList');
+    favoriteList.innerHTML = favorites.map(fav => {
+        const canal = canalesData[fav.id];
+        return `
+            <div class="channel-card">
+                <img src="${canal.logo}" alt="${canal.nombre}">
+                <div class="channel-info">
+                    <h2>${canal.nombre}</h2>
+                    <p class="favorite-status favorito">★</p> <!-- Estrella llena cuando está en favoritos -->
+                </div>
+                <button class="view-signals" onclick="openModal(${fav.id})">Ver señales</button>
+            </div>
+        `;
+    }).join('');
+}
+        // Event listener for search input
+        document.getElementById('search').addEventListener('input', function() {
+            renderCanales(this.value);
+        });
+        // Render the channels and favorites on page load
+        renderCanales();
+        renderFavorites();
+    </script>
