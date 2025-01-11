@@ -1,0 +1,299 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>CodePen - PL intro animation w/ GSAP TimelineMax</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css">
+  <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+<style>
+@import url("https://fonts.googleapis.com/css?family=Poppins:500,700");
+body {
+  background-color: #2d0033;
+  overflow: hidden;
+  width: 100%;
+  height: 100vh;
+  padding: 0;
+  margin: 0;
+  font-family: "Poppins", sans-serif;
+  color: #2d0033;
+}
+.pl {
+  display: flex;
+  width: 100%;
+  height: 100vh;
+  position: relative;
+  align-items: center;
+}
+.pl__bg {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 125%;
+  height: 100%;
+  background-size: cover;
+  background-position: center top;
+  opacity: 0;
+}
+.pl__logo-inverted {
+  position: absolute;
+  top: -30vh;
+  right: 0;
+  height: 135vh;
+  width: 60%;
+  z-index: 2;
+  transform: translateX(100%);
+}
+.pl__logo-inverted svg {
+  float: left;
+  display: block;
+  height: 100%;
+  width: auto;
+}
+.pl__heading {
+  z-index: 3;
+  text-align: center;
+  transform: translateY(-100vh);
+  margin: 0 auto;
+  width: 100%;
+}
+.logo {
+  display: inline-block;
+  background-color: #17fffb;
+  white-space: nowrap;
+  font-size: 0;
+  width: auto;
+  margin: 0 auto;
+  font-weight: 700;
+  box-shadow: 0 0 16px rgba(0, 0, 0, 0.2);
+}
+.logo i {
+  font-style: normal;
+  font-size: 5.5vh;
+  display: inline-block;
+  vertical-align: middle;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.logo i span {
+  display: inline-block;
+}
+.logo__left {
+  padding-left: 40px;
+  overflow: hidden;
+}
+.logo__center {
+  padding: 10px;
+  position: relative;
+  background-color: #17fffb;
+}
+.logo__right {
+  padding-right: 40px;
+  overflow: hidden;
+}
+.lion {
+  position: relative;
+  display: block;
+  width: 8vh;
+  height: 0;
+  padding-bottom: 100%;
+}
+.lion svg {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: block;
+  height: 100%;
+  width: 100%;
+}
+.text-container {
+  position: absolute;
+  left: 100%;
+  display: inline-block;
+  vertical-align: middle;
+  top: 0;
+  background-color: #2d0033;
+  width: auto;
+  height: 100%;
+  padding: 0 40px;
+  transform: scaleX(0);
+  overflow: hidden;
+  transform-origin: left;
+}
+.text-container__placeholder {
+  opacity: 0;
+  visibility: hidden;
+  position: relative;
+  font-size: 6.5vh;
+  line-height: 0.8em;
+  margin-bottom: 0;
+  padding-top: 3.5vh;
+  font-weight: 500;
+}
+.text-container span {
+  display: inline-block;
+  position: absolute;
+  top: 0;
+  left: 40px;
+  width: auto;
+  white-space: nowrap;
+}
+.text {
+  position: absolute;
+  top: 0;
+  left: 100%;
+  margin-left: 30px;
+  font-size: 6.5vh;
+  line-height: 0.8em;
+  margin-bottom: 0;
+  padding-top: 3.5vh;
+  font-weight: 500;
+  color: #ffffff;
+  transform: translateX(100%);
+  opacity: 0;
+}
+.button {
+  position: absolute;
+  bottom: 30px;
+  left: 30px;
+  border: none;
+  outline: none;
+  background-color: #17fffb;
+  display: inline-block;
+  padding: 8px 16px;
+  cursor: pointer;
+  transition: all 0.25s ease-out;
+  will-change: opacity, color, background-color;
+  text-transform: uppercase;
+  font-weight: 700;
+  opacity: 0.25;
+  pointer-events: none;
+}
+.button.is-active {
+  opacity: 1;
+  pointer-events: all;
+}
+.button:hover {
+  color: #ffffff;
+  background-color: #2d0033;
+}
+</style>
+</head>
+<body>
+<div class="pl">
+  <i class="pl__bg js-bg" style="background-image: url('https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4RTZFN0CVvggKYrem-r5ry5gIBcvQtnoKEeh9NzYN6kgBzV61o3owVaZGOojHc4npDWF-d3dlie29Zmml2uxCfaWR99MWSU3rmxWjFA3T2E-eeKlACP-b6L73GmOlSmxlQV0f-Sq9RfzN24W1vAjxTN3u0X_ydAsvTnSMNJlKm2hPpgBPih0uTkv5Liw/s680/bg_splash_dark%20copia.jpg');"></i>
+  <div class="pl__heading js-heading">
+    <div class="logo">
+      <i class="logo__left js-logo-left"><span>Johan</span></i>
+      <i class="logo__center js-logo">
+        <span class="lion">
+<img src="https://i.ibb.co/stNn7KW/500png.png" alt="500png" style="width: inherit;" border="0" />
+</span>
+        <a href="https://ns1-app.competenciadeportiva.com/play/event/636f6d2e6563706c617974762e6a73/17250490991007HCGMR84G/2ah5Pzo"><span class="text-container js-text-container">
+          <p class="text-container__placeholder">Entrar</p>
+        </span>
+          <span class="text js-text">Entrar</span></a>
+      </i>
+	        <i class="logo__right js-logo-right"><span>Stream</span></i>
+    </div>
+  </div>
+</div>
+<button class="button js-restart">
+  restart
+</button>
+<!-- partial -->
+  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js'></script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/gsap/1.20.3/TweenMax.min.js'></script>
+<script>
+//EL's
+const $bg = $('.js-bg');
+const $heading = $('.js-heading');
+const $logoInverted = $('.js-logo-inverted');
+const $logoLeft = $('.js-logo-left');
+const $logoLeftInner = $logoLeft.find('span');
+const $logo = $('.js-logo');
+const $logoRight = $('.js-logo-right');
+const $logoRightInner = $logoRight.find('span');
+const $textContainer = $('.js-text-container');
+const $text = $('.js-text');
+const $restartButton = $('.js-restart');
+//TIMELINE
+const plTl = new TimelineMax({
+  //paused: true,
+  //delay: 3,
+  onComplete: () => {
+    $restartButton.addClass('is-active');
+  }
+});
+plTl.add('start')
+.fromTo($bg, 0.4, {
+  autoAlpha: 0,
+}, {
+  autoAlpha: 1,
+  ease: Power3.easeOut
+}, 'start')
+.fromTo($bg, 1.8, {
+  scale: 2,
+  x: '-70%'
+}, {
+  scale: 1,
+  x: '0%',
+  ease: Power3.easeOut
+}, 'start')
+.to($heading, 0.6, {
+  y: 0,
+  ease: Power3.easeOut
+}, '-=0.4', 'start')
+.add('shiftRight', '+=0.4')
+.to($logoInverted, 0.8, {
+    x: '50%',
+    ease: Power3.easeOut
+    }, 'shiftRight')
+.to($bg, 1, {
+  x: '-=7%',
+  ease: Power3.easeOut
+}, 'shiftRight')
+.to($heading, 0.8, {
+  x: '+=35%',
+  ease: Power3.easeOut
+}, 'shiftRight')
+.to($logoRightInner, 0.8, {
+  x: '-100%', 
+  ease: Power3.easeOut
+}, 'shiftRight')
+.to($logoLeftInner, 0.8, {
+  x: '100%', 
+  ease: Power3.easeOut
+}, 'shiftRight')
+.to([$logoRight, $logoLeft], 0.8, {
+  width: 0,
+  padding: 0,
+  ease: Power3.easeOut
+}, 'shiftRight')
+.add('shiftLeft')
+.to($heading, 0.8, {
+  x: '-=50%',
+  ease: Power3.easeOut
+}, 'shiftLeft')
+.to($textContainer, 0.8, {
+  scaleX: 1,
+  ease: Power3.easeOut
+}, 'shiftLeft')
+.to($text, 1, {
+  autoAlpha: 1,
+  x: 0,
+  ease: Power3.easeOut
+}, 'shiftLeft')
+.to($bg, 8, {
+  x: '-=5%',
+  ease: Power0.easeNone
+}, 'shiftLeft')
+.to($logoInverted, 6, {
+  x: '-=2.5%',
+  ease: Power0.easeNone
+}, 'shiftLeft');
+$restartButton.on('click', () => {
+  plTl.restart();
+});
+</script>
+</body>
+</html>
