@@ -1,0 +1,506 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Películas - JSON Personalizado</title>
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        background-color: #1b1b2f;
+        color: white;
+        margin: 0;
+        padding: 0;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .search-bar {
+        margin: 20px;
+        width: 100%;
+        max-width: 800px;
+    }
+    .search-bar input {
+        width: 100%;
+        padding: 10px;
+        font-size: 16px;
+        border-radius: 5px;
+        border: none;
+        outline: none;
+        box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.2);
+    }
+    .media-grid {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 20px;
+        padding: 20px;
+        margin: auto;
+    }
+    .media-card {
+        background-color: #2b2b3d;
+        border-radius: 10px;
+        overflow: hidden;
+        width: 250px;
+        position: relative;
+        cursor: pointer;
+        transition: transform 0.3s ease, box-shadow 0.3s ease;
+        box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+    }
+    .media-card:hover {
+        transform: scale(1.05);
+        box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4);
+    }
+    .media-card img {
+        width: 100%;
+        height: 375px;
+        object-fit: cover;
+    }
+    .media-info {
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        background-color: rgba(0, 0, 0, 0.8);
+        color: white;
+        padding: 15px;
+        opacity: 0;
+        transition: opacity 0.3s ease;
+    }
+    .media-card:hover .media-info {
+        opacity: 1;
+    }
+    .media-info h3 {
+        margin: 0;
+        font-size: 18px;
+    }
+    .media-info p {
+        font-size: 14px;
+        margin: 5px 0;
+    }
+    .media-info button {
+        padding: 10px 15px;
+        background-color: #ff4d4d;
+        border: none;
+        color: white;
+        border-radius: 5px;
+        cursor: pointer;
+        font-size: 16px;
+        width: 100%;
+        transition: background-color 0.3s ease;
+    }
+    .media-info button:hover {
+        background-color: #ff6666;
+    }
+    /* Adaptaciones para móviles */
+    @media (max-width: 768px) {
+        .media-grid {
+            justify-content: space-between;
+        }
+        .media-card {
+            width: 45%; /* Dos columnas en pantallas móviles */
+            height: auto;
+        }
+        .media-card img {
+            height: auto;
+        }
+        .search-bar {
+            margin: 20px;
+            max-width: 90%; /* Ajustar el tamaño para dispositivos móviles */
+        }
+    }
+    /* Estilos para pantallas extra pequeñas */
+    @media (max-width: 480px) {
+        .media-card {
+            width: 45%; /* Una columna completa en pantallas pequeñas */
+        }
+    }
+</style>
+</head>
+<body>
+    <!-- Barra de búsqueda -->
+<div class="search-bar">
+    <input type="text" id="search-input" placeholder="Buscar película o serie..." onkeyup="searchMedia()">
+</div>
+<div class="media-grid" id="media-grid">
+    <!-- Las tarjetas de películas y series se generarán aquí -->
+</div>
+<!-- Script para el JSON de películas -->
+<script id="mediaData" type="application/json">
+    {
+        "media": [
+            {
+                "id": "426063",
+                "title": "Nosferatu",
+                "type": "movie"
+            },
+            {
+                "id": "1097549",
+                "title": "Babygirl Deseo Prohibido",
+                "type": "movie"
+            },
+            {
+                "id": "1158915",
+                "title": "DiDi",
+                "type": "movie"
+            },
+            {
+                "id": "222766",
+                "title": "El Chacal",
+                "type": "tv"
+            },
+            {
+                "id": "804616",
+                "title": "Carnada (2024)",
+                "type": "movie"
+            },
+            {
+                "id": "1156593",
+                "title": "Culpa Tuya",
+                "type": "movie"
+            },
+            {
+                "id": "93405",
+                "title": "El juego del calamar",
+                "type": "tv"
+            },
+            {
+                "id": "939243",
+                "title": "Sonic 3 : La película",
+                "type": "movie"
+            },
+            {
+                "id": "1100099",
+                "title": "El Tiempo Que Tenemos",
+                "type": "movie"
+            },
+            {
+                "id": "762509",
+                "title": "Mufasa: El rey león",
+                "type": "movie"
+            },
+            {
+                "id": "1005331",
+                "title": "Equipaje de mano",
+                "type": "movie"
+            },
+            {
+                "id": "1084736",
+                "title": "El Conde de Montecristo",
+                "type": "movie"
+            },
+            {
+                "id": "539972",
+                "title": "Kraven el cazador",
+                "type": "movie"
+            },
+            {
+                "id": "207333",
+                "title": "Cien años de soledad",
+                "type": "tv"
+            },
+            {
+                "id": "839033",
+                "title": "El señor de los anillos",
+                "type": "movie"
+            },
+            {
+                "id": "1357633",
+                "title": "Solo Leveling",
+                "type": "movie"
+            },
+            {
+                "id": "1243381",
+                "title": "Maria",
+                "type": "movie"
+            },
+            {
+                "id": "1241982",
+                "title": "Moana 2",
+                "type": "movie"
+            },
+            {
+                "id": "1138194",
+                "title": "Hereje",
+                "type": "movie"
+            },
+            {
+                "id": "402431",
+                "title": "Wicked",
+                "type": "movie"
+            },
+            {
+                "id": "1160018",
+                "title": "Kill: Masacre en el tren",
+                "type": "movie"
+            },
+            {
+                "id": "1159311",
+                "title": "My Hero Academia: Ahora es tu turno",
+                "type": "movie"
+            },
+            {
+                "id": "1106739",
+                "title": "Jurado #2",
+                "type": "movie"
+            },
+            {
+                "id": "1014505",
+                "title": "OVERLORD: El Reino Sagrado",
+                "type": "movie"
+            },
+            {
+                "id": "558449",
+                "title": "Gladiador II",
+                "type": "movie"
+            },
+            {
+                "id": "845781",
+                "title": "Código: Traje rojo",
+                "type": "movie"
+            },
+            {
+                "id": "588648",
+                "title": "La Leyenda Del Dragón",
+                "type": "movie"
+            },
+            {
+                "id": "1063877",
+                "title": "No te muevas",
+                "type": "movie"
+            },
+            {
+                "id": "1118031",
+                "title": "Apocalipsis Z: El principio del fin",
+                "type": "movie"
+            },
+            {
+                "id": "912649",
+                "title": "Venom: El último baile",
+                "type": "movie"
+            },
+            {
+                "id": "1100782",
+                "title": "Sonríe 2",
+                "type": "movie"
+            },
+            {
+                "id": "1034541",
+                "title": "Terrifier 3",
+                "type": "movie"
+            },
+            {
+                "id": "1282138",
+                "title": "El Atraco",
+                "type": "movie"
+            },
+            {
+                "id": "1151949",
+                "title": "Fuera de las sombras",
+                "type": "movie"
+            },
+            {
+                "id": "863873",
+                "title": "Los Horrores de Caddo Lake",
+                "type": "movie"
+            },
+            {
+                "id": "835113",
+                "title": "El asesino del juego de citas",
+                "type": "movie"
+            },
+            {
+                "id": "959429",
+                "title": "Una aventura en Marruecos",
+                "type": "movie"
+            },
+            {
+                "id": "814889",
+                "title": "No te sueltes",
+                "type": "movie"
+            },
+            {
+                "id": "933260",
+                "title": "La Sustancia",
+                "type": "movie"
+            },
+            {
+                "id": "1010600",
+                "title": "Strangers: Capítulo 1",
+                "type": "movie"
+            },
+            {
+                "id": "917496",
+                "title": "Bitelchús Bitelchús",
+                "type": "movie"
+            },
+            {
+                "id": "1087822",
+                "title": "Hellboy: The Crooked Man",
+                "type": "movie"
+            },
+            {
+                "id": "748230",
+                "title": "El misterio de Salem's Lot",
+                "type": "movie"
+            },
+            {
+                "id": "1014661",
+                "title": "La casa de los susurros",
+                "type": "movie"
+            },
+            {
+                "id": "1088563",
+                "title": "Lassie (Una nueva aventura)",
+                "type": "movie"
+            },
+            {
+                "id": "858414",
+                "title": "Rez Ball",
+                "type": "movie"
+            },
+            {
+                "id": "533535",
+                "title": "Deadpool y Lobezno",
+                "type": "movie"
+            },
+            {
+                "id": "592831",
+                "title": "Megalópolis",
+                "type": "movie"
+            },
+            {
+                "id": "519182",
+                "title": "Gru 4. Mi villano favorito",
+                "type": "movie"
+            },
+            {
+                "id": "698687",
+                "title": "Transformers One",
+                "type": "movie"
+            },
+            {
+                "id": "1184918",
+                "title": "Robot salvaje",
+                "type": "movie"
+            },
+            {
+                "id": "840705",
+                "title": "Parpadea dos veces",
+                "type": "movie"
+            },
+            {
+                "id": "1062807",
+                "title": "Spy x Family",
+                "type": "movie"
+            },
+            {
+                "id": "1022789",
+                "title": "Intensamente 2",
+                "type": "movie"
+            },
+            {
+                "id": "573435",
+                "title": "Bad Boys: Ride or Die",
+                "type": "movie"
+            },
+            {
+                "id": "1136767",
+                "title": "Las aventuras de la Sirenita",
+                "type": "movie"
+            },
+            {
+                "id": "889737",
+                "title": "Joker: Folie à Deux",
+                "type": "movie"
+            }
+        ]
+    }
+</script>
+<!-- Script para la lógica JavaScript -->
+<script>
+    const apiKey = '9eecc30ae89f253bce3cec4140734493';  // Tu API Key de TMDb
+    const baseImageUrl = 'https://image.tmdb.org/t/p/w500';
+    let allMedia = []; // Aseguramos que allMedia esté definida globalmente
+</script>
+<script>
+    // ===========================
+    // Función para convertir minutos a horas y minutos
+    // ===========================
+    function formatRuntime(minutes) {
+        if (!minutes) return 'N/A'; // Si no hay datos, devolver "N/A"
+        const hours = Math.floor(minutes / 60);
+        const remainingMinutes = minutes % 60;
+        return `${hours}h ${remainingMinutes}m`;
+    }
+</script>
+<script>
+// ===========================
+// Función para generar las tarjetas de películas y series de televisión
+// ===========================
+function generateMediaCards(media) {
+    const mediaGrid = document.getElementById('media-grid');
+    mediaGrid.innerHTML = ''; // Limpiar el contenido actual antes de agregar nuevas tarjetas
+    media.forEach(item => {
+        // Determinar el endpoint correcto basado en el tipo de contenido
+        const mediaType = item.type === 'tv' ? 'tv' : 'movie';
+        fetch(`https://api.themoviedb.org/3/${mediaType}/${item.id}?api_key=${apiKey}&language=es-ES`)
+            .then(response => response.json())
+            .then(data => {
+                const genres = data.genres.map(genre => genre.name).join(", ");
+                const mediaCard = document.createElement('div');
+                mediaCard.classList.add('media-card');
+                // Generar la URL estática para el botón de "Reproducir"
+                const trailerUrl = `https://acectv.blogspot.com/p/jsmovie.html?id=${item.id}`;
+                // Determinar campos dinámicos basados en si es película o serie
+                const title = mediaType === 'tv' ? data.name : data.title;
+                const releaseDate = mediaType === 'tv' ? data.first_air_date : data.release_date;
+                const runtime = mediaType === 'tv' ? `${data.number_of_seasons} temporadas` : formatRuntime(data.runtime);
+                mediaCard.innerHTML = `
+                    <img src="${baseImageUrl + data.poster_path}" alt="${title}" />
+                    <div class="media-info">
+                        <h3>${title}</h3>
+                        <p>${releaseDate ? releaseDate.split("-")[0] : "N/A"} | ${genres}</p>
+                        <p>${Math.round(data.vote_average)} ⭐ | ${runtime}</p>
+                        <!-- Cambié el enlace para que siempre use el ID y lo dirija al enlace fijo -->
+                        <button onclick="window.open('${trailerUrl}', '_blank')">Reproducir</button>
+                    </div>
+                `;
+                mediaGrid.appendChild(mediaCard);
+            })
+            .catch(error => console.error('Error al obtener los datos:', error));
+    });
+}
+</script>
+<script>
+    // ===========================
+    // Función para cargar las películas desde el JSON
+    // ===========================
+function loadMedia() {
+    const mediaData = JSON.parse(document.getElementById('mediaData').textContent);
+    allMedia = mediaData.media; // Almacenar las películas y series en allMedia
+    generateMediaCards(allMedia); // Generar las tarjetas
+}
+</script>
+<script>
+    // ===========================
+    // Barra de búsqueda - Función para buscar películas por título
+    // ===========================
+function searchMedia() {
+    const query = document.getElementById('search-input').value.toLowerCase();
+    const filteredMedia = allMedia.filter(item => item.title.toLowerCase().includes(query));
+    // Si no se encuentra nada, mostrar mensaje de "no encontrado"
+    if (filteredMedia.length === 0) {
+        alert('No se encontraron resultados.');
+    }
+    generateMediaCards(filteredMedia);
+}
+</script>
+<script>
+    // ===========================
+    // Cargar las películas al inicio
+    // ===========================
+    loadMedia();
+</script>
+</body>
+</html>
