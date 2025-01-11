@@ -1,0 +1,244 @@
+<meta charset="UTF-8" />    <meta name="viewport" content="width=device-width, initial-scale=1.0" />    <title>Cards de Canales</title>    <style>
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #000000;
+            padding: 20px;
+        }
+        #search-bar {
+            width: 100%;
+            padding: 10px;
+            margin-bottom: 20px;
+            font-size: 16px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+        }
+        .container {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 20px;
+		    justify-content: flex-start;
+        }
+        .channel-card {
+            background-color: white;
+            border-radius: 8px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            overflow: hidden;
+            text-align: center;
+            flex: 1 1 calc(14% - 20px);
+            max-width: calc(14% - 20px);
+        }
+        .channel-card img {
+            width: 100%;
+            height: auto;
+        }
+        .channel-card h2 {
+            margin: 15px 0;
+            font-size: 18px;
+            color: #333;
+        }
+        /* Responsivo para pantallas más pequeñas */
+        @media (max-width: 1024px) {
+            .channel-card {
+                flex: 1 1 calc(20.00% - 20px);
+                max-width: calc(20.00% - 20px);
+            }
+        }
+        @media (max-width: 768px) {
+            .channel-card {
+                flex: 1 1 calc(25% - 20px);
+                max-width: calc(25% - 20px);
+            }
+        }
+        @media (max-width: 480px) {
+            .channel-card {
+                flex: 1 1 calc(50% - 20px);
+                max-width: calc(50% - 20px);
+            }
+        }
+    </style>     <input placeholder="Buscar canal..." id="search-bar" type="text" />     
+<div class="container" id="channel-grid">
+</div>
+     <script>
+        const canalesData = [
+            {
+                nombre: "Onsortir",
+                imagen: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhphTWrfwtL7u7BBNnHoqA5jqiBx84kpfOiNCDUXlqsrZfpu1lGbgQncGsoBWs-ok3Qb8FPBsC5t2pfAKd5cfUA0Z7CANwR5C32Ih3-XGf7XOM6Bfu3tkQWI2wZUmP70XPdiOnEnzBREr-7czWMcGPMs9E7n9QDN4N8Ok7vxTcSh_nTeVSJK4kRa0HDaps/s572/ORSORTI.png",
+                url: "https://ssh101stream.ssh101.com/akamaissh101/ssh101/mascineclasico/chunks.m3u8",
+                params: "{}"
+            },
+            {
+                nombre: "Estacion 101.3",
+                imagen: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj03cPRaYE8Pbsfi34S7GRjzHS-0o0HZRw5AzK_TKxri_Cscd_REQEONYkOwtNgbKlTznKZV0euh6l5jV9anCXLCCton_FPc3NTXsJrfDRNaGtDZ1Ybt0LCjwiFe-1I7C3wUYAURv-7R-uylBOfAi4Cz1MQoMAhMAk5CgafblbQjvQV8-kwBa0upBi8-xc/s572/ESTACION101.png",
+                url: "https://fl1002.bozztv.com/ssh101/e1013/playlist.m3u8",
+                params: "{}"
+            },
+            {
+                nombre: "SierraTV",
+                imagen: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3Mjr82MFS2PevCZ8NXZB-8BT27NGB6Tc83MRlCINrKCv2ewyqZeph_eHCqrLV9TNmSbq7bru7EADKTMSuW60wqfXnV_Ryt-dfxdMyrb1DCalxd5Tr548uHBNqRwS1tGp-BH_V9CuUgPuFPD0MweIOCw1T5y01I0I-9CrCvqCDC2Auenqv1GN3oTqSf_Q/s572/SIERRA%20TV.png",
+                url: "https://cloud2.streaminglivehd.com:1936/8032/8032/playlist.m3u8",
+                params: "{}"
+            },
+            {
+                nombre: "Cubavision",
+                imagen: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfkHHsXZ9iEnYD9MRk2PioxhXwE1Bl9JO5rY1HoHf4MSLlIVXd7gdFHclK2ZQfz0rNlgHoqCtGYyTj4J5Yo3t1Ed11qho0sPIivATLMrGnS5PUExRLlVqiIFVx9anPQjr4RMx2mqkFO6CpnbDhz_FcYLh0H5DMyU2Z0PkNl7IwyPzeGlPxKN21SztvMRI/s572/CUBAVISION.png",
+                url: "https://ssh101stream.ssh101.com/akamaissh101/ssh101/OrbitaFM953/chunks.m3u8",
+                params: "{}"
+            },
+                        {
+                nombre: "Pykasu",
+                imagen: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBGnP60wtMymid4x126tO67F_hee_G-_xwzwdeKh-1RWQqnzXgvVb0GmAQ2ZiUsaPisfvbuDGYq8t66Sa-Szaae9fAo-5JMv_JLrXi1cDovo0-eX6QYXkKMjmzgAIhxYz6Z10v6ejZe92dR7oGlh_MiHBRVlOijJ_riDApRPWFPjgRz-3BLcornJPbGZk/s572/PYKASU.png",
+                url: "https://fl1002.bozztv.com/ssh101/pykasutv/playlist.m3u8",
+                params: "{}"
+            },
+            {
+                nombre: "Portu Tv",
+                imagen: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUQ6g3FhFYVhTaLBo9ZY5GVAPF9X02ZLFgrgWCTyKKJnLJbAKbkB2Omsg2BUtwLk1J6A0sHzpmwYV4DwOx8rVv3r3SOzBBk_kYlPR5ZemzoCqh212hZI0IduCF_-fTKyR2I_PhrjKgMVZ3SCJPFB8i4X-GGtxkaCu_8U0hGHHndWpcLwa7KewLLBNy3M4/s572/por%20tu%20tv.png",
+                url: "https://ssh101stream.ssh101.com/akamaissh101/ssh101/wowchannelsd/chunks.m3u8",
+                params: "{}"
+            },
+                        {
+                nombre: "Tv Unidos",
+                imagen: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEPogVi2sWFgyBQELBjqBbFytRRLp-Z0fkR_SIhsrIJIcTwd0It1KfbTjbZzGpUn29bn_Gw7EWtzG1UJx2Ax5NRW2738HkOIKupvj5MnQAywwQp5qzyGoEPP0Hi38Sof5PrKQ41EXRUp9fnKXMkgVN_ARSZoKUVfH-C3yQKZ1IUhYoNfwoSzpdN8DCLQo/s572/TV%20UNIDOS.png",
+                url: "https://fl1002.bozztv.com/ssh101/tvunidoslive/playlist.m3u8",
+                params: "{}"
+            },
+            {
+                nombre: "TvMax",
+                imagen: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirLTOeyIbkeUTt-MLQIP8z3cEuxqoWy3xmvMcXV1h2m9MY0C0ZDOwp3LsjfXjFg5mcTh7_QSE-92q39a-EAoL939sw3Kf2ttqiL2iIClHU9hqdqqNbN9QOpuv5CTQ0o1DRJJDSgOYNOwcuyAL7CpsnpC9sFesOo2_VBnCPQYbtVGmUtC7pF6yVeSgBxxM/s572/TV%20MAX.png",
+                url: "httpshttps://ssh101stream.ssh101.com/akamaissh101/ssh101/aming/chunks.m3u8",
+                params: "{}"
+            },
+                        {
+                nombre: "CoraTv",
+                imagen: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhevcQEntquHknk8SFQ8m204xi_6r1LzDw5jAlWvWLfEq5LOybpciGRyUk0fpZepOM2M-2mM9_q5DASfA5zbFXgi38iEnAWML5mIo2SKv0bSzSbMQcabeIbDf0MYxwPzEZE5TM_qXRhb97ZKitCyUdjfnKSOGlukX8_DfMoSpWVFmvK8QQVmVcpREu4TyI/s572/CORATV.png",
+                url: "https://luna-1-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a3cb0e3243c/tracks-v1/index.fmp4.m3u8",
+                params: "{}"
+            },
+            {
+                nombre: "ManosTv",
+                imagen: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEheZYwmUYcW7-inS7x8J6Q34WBvX_oOK4wS_QWdb27owezYufGOUhLXxFgQ63kovGRKMSS04A7PYEhrTEf6BLGs925ucoecyGCD1ChCY7pdWcTRD9mkHVCtYXGo_OkROtSo5yixi_IBcK22A_e1mB4zl2ntzBc-f3fypfeY4dWVvrCEDbBs95IZSK5aR9c/s572/MANOS%20TV.png",
+                url: "https://fl1002.bozztv.com/ssh101/sonidosuave/playlist.m3u8",
+                params: "{}"
+            },
+                        {
+                nombre: "Digital15",
+                imagen: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLssGbwsbcA6i5fUOumjlN_uPm1mwavW7r4w7FF79sAPhSjdj9Doe4Wc5oXzyI_Rr868CQAOXOAKgG6Nx-Hfcq9YWH7FTJXJx6e35Z49aTaXhOQJCxo0ktQ1LBkdS2wM2FdSMb8UCvFHLRtKWezxY7J-KsvwFiTr2PnIZweqUWt8d8d_urHBx4xxSfQ_A/s572/digital15.png",
+                url: "https://ssh101stream.ssh101.com/akamaissh101/ssh101/cambyretatv2/chunks.m3u8",
+                params: "{}"
+            },
+            {
+                nombre: "Canal 41",
+                imagen: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhe0_cleeqIkySrWRKK2m1WbVX7goxhvZxPCwhnKQoCrNOsYNZKOR72iKnzfhYbL12Xe61Vv-XRCnwg1ij0exa6IstOV7wdU_t6_gd6EcIL73BJg_kgXTEShFbsII1rM5a-EAERSzWiFnoNhQTwg9U2lek_jftlZRMEX_VjbG2oqcPl0r3pEktKL2T2WeI/s572/C41.png",
+                url: "https://fl1002.bozztv.com/ssh101/mtvcanal41/playlist.m3u8",
+                params: "{}"
+            },
+                        {
+                nombre: "JupokRadio",
+                imagen: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFpFQQFXH5EAfJsQ7irtPu1K-oBFUk7mmjgqDaS7hFcj8ZyW7tKG7fKCYjZQaLsYMe20ZQR0pVeRD4ZHJRvptdI_eB2cF1ckyXdL7rvi4Wg-L8SxJBN7ckTOBATff4QWOogv-_zCvddPYOUnpUkn7l8eOMksjyr-A5WqZbF_rusyZdVdCDWC9Goyp-RkM/s572/jupokradio.png",
+                url: "https://fl1002.bozztv.com/ssh101/jupokradio/playlist.m3u8",
+                params: "{}"
+            },
+            {
+                nombre: "GogoTv",
+                imagen: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbQJgp0GV7AR7bM2WxiB2J43vNGSJuS9zG-qX0TovrqiPRkOLo68jRV6Q-W3gMOKLB1bJUeRwi1mJfb5hqOnIB7lte0NPanDGxwLHv8aQVqCylO2I9SUbQFrd1DiQqtQn4pOALocTp2fR0iJhLK5FNj1Dk7FvzZ0XSVC8lDm6WI-kqPM_DQIbDi44HQ1w/s572/gogotv.png",
+                url: "https://ssh101stream.ssh101.com/akamaissh101/ssh101/bigchannel/chunks.m3u8",
+                params: "{}"
+            },
+                        {
+                nombre: "MusicTV",
+                imagen: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiy5VpnkfoPTYa-BF0puYKRONeX5AOKQItgjeNFhZFIDtdXd16gNz9L7dt0_Eu8Y0F9Xx4fnywZLLlY_OpijM32A_Dwh6T2IH_NMO19er9Bo7r1aO5ZfoSmKy05c39sH-SYb7QJ1dWXlYERZ9hwRQLfuQrCxd_i8ED_oEnAbcGaTkhHVhMT3r1DvylkPI8/s572/musictv.png",
+                url: "https://ssh101stream.ssh101.com/akamaissh101/ssh101/maximafmchaco/chunks.m3u8",
+                params: "{}"
+            },
+            {
+                nombre: "DrumbaTv",
+                imagen: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLsFD7cFOYj5xMlBevjJhCsRq7hnFC2mtH2HVULG0PnNM7aBrpNqI4Hz7MFyuQueIIzB03Pw6ITtmXLJzICrkt0e375zl2G4T8lBy4eNinEITF5pbGUpke6PR_1R86AKKx_CxjLvuZvKlLIMkWZWIhKjkqHg-NiKoRyS4Px8NFf9ngHoPyP542VBzqvDg/s572/DRUMBA.png",
+                url: "https://ssh101stream.ssh101.com/akamaissh101/ssh101/megatvcr2024/chunks.m3u8",
+                params: "{}"
+            },
+                        {
+                nombre: "Fortaleza",
+                imagen: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjm8emNwlhoa8VRfNOSrE9ERmb6xU4YoMlDOrObsTWWuMaYhDdDu4ZmJrIlT4LkkTf26YEujTjActCx9K0FqJg1EphoncauXwnNyhagLUmxNGAIPGkUlhUDD25Y_jMpcdy7hQZcEiZkfMlzQTBFQbKvQ8pgmt1-lJbgCjLtTwkGqGZCC37Ph4K-a6Uh-4s/s572/fortaleza.png",
+                url: "https://cloud2.streaminglivehd.com:1936/8048/8048/playlist.m3u8",
+                params: "{}"
+            },
+            {
+                nombre: "Amor101tv",
+                imagen: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3bvi4ocNaOO4U6WxbMlt7tFyTegI4WtZugzg-I9bHE5aJACtSA0xfy3hfrHxIaeRjGbAKnopDSeEgqc6olakVq-Ldiy2lkQUuIhEyghqdykNYkWzrK-jc2Ogbjh0sygri0lgOjyV9bpxA2szLhiY-JvusFeoctJurp4NsQlFrdGZv1bLY1FyILx5qPKg/s572/AMORTV.png",
+                url: "https://fl1002.bozztv.com/ssh101/amor101tv/playlist.m3u8",
+                params: "{}"
+            },
+                        {
+                nombre: "Canal 88",
+                imagen: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOEjRZk9vU-KJr4itB5UPlkGqtAMzXSp5ZHs2b4cIwqBGhLTc3lX8jcKQuS_2ytUjxEUki7GLrqRE3xTvQyvSuuKoRxiUd4sAHRNRaU6gtcSNo03ZHZEoofnXaNn-7aG02Bxc5Y1bUV0l8ZSRQBaFDFKi0hxgVuLaC1tBXfjVnN1Ws6zwYwr3e4Rxch4U/s572/CANAL%2088.png",
+                url: "https://fl1002.bozztv.com/ssh101/88channel/playlist.m3u8",
+                params: "{}"
+            },
+            {
+                nombre: "MexicoTv",
+                imagen: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVfZd9fYcRlVlR3mZr_z1CKgFg88SRv_779AV-g7-fkVFzV81dyJEbV0Jx6u3ZNy7qGFI_bhabhibBFIz4CMy0ZSH6JNjfHYIjw-YEfr3oyhXNgTYec8zqqQdadv0XDFsZMobt1PJWsIRoMw6iLvcM_vo8Xer-H_1Y34kSf4TyAOg86Xe0LHGL4fv9fbQ/s572/MEXICOTV.png",
+                url: "https://epg-ipv4.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a20-5efe1de7e0b3f5003f5d9f8e.m3u8?X-Plex-Product=Plex+Mediaverse&X-Plex-Token=jm5xGQGmXSyJ9T1duK_W&includeAllStreams=1&redirectedFromV6=1",
+                params: "{}"
+            },
+                        {
+                nombre: "Zapp",
+                imagen: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8T-h9hBgYWEN5oKFVeaOr-7jSA0P5t8x4e7_0phzTXWHLQVRCMNejisYQ5QczwVtTsxkcIGj6msvPFWrmZJAjoGlGviwqH7ldFbtNiukm5ZqTsHNCx6AvO5Id14tkYmJqBE2Xrw5eUW-rxCH38ytvKxc32VCjySFYuNXeELlXQqi24BuPPoAYvE5R7JE/s572/zapp.png",
+                url: "https://epg-ipv4.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a20-6018913fa15130002b284197.m3u8?X-Plex-Product=Plex+Mediaverse&X-Plex-Token=jm5xGQGmXSyJ9T1duK_W&includeAllStreams=1&redirectedFromV6=1",
+                params: "{}"
+            },
+            {
+                nombre: "Telemix",
+                imagen: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmOvWbfe6pJOxuhxkxNdazjn_KUMK_PMZLlYVrPM_kE9WDp_3uUlWoKyV-tVazS8KmSmhChpqh_Uv9CzMTDDT6L5Z801KXy13WA-ZDtLYAPSp2o1fBkBRBYIEOrOoxjvbMJn83ujfiwlcdr7fRTUH-Z9PVZ8OXvW2Haqep6_5RTke_b8DpIMOhlXSwCZI/s572/telemix.png",
+                url: "https://fl1002.bozztv.com/ssh101/telemixlive/playlist.m3u8",
+                params: "{}"
+            },
+                        {
+                nombre: "RetroTv",
+                imagen: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgidjL9_PeX6AWZSjxop1mkf96Yt41r96ghIuiua8zIF-RUsB8U2Jx6zSvnjEe7zIotYjVNBN4REQfA1cXecc281I_ovq3Xm6fKK03cs4cRVhcR74mOhGNsIZ3JVFJniKGYtZQE-YM2nOHXPvj_clQeBAH1tdifHdR3j1WkNWECqAR7VmHhynZYDIOz15M/s572/retrotv.png",
+                url: "https://fl1002.bozztv.com/ssh101/retroplustv2/playlist.m3u8",
+                params: "{}"
+            },
+            {
+                nombre: "Triunfo",
+                imagen: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpdfR7kbc-HfRP1PfuOA3VqmafzCqNg4ywl34TGmYM51yS7MadKnrz5_nteoC1bWfoYN5OITW2v66NkI9M1djwLqCY3mGB4iOsfl9h0e9QYdL6xih4rXckR-7So0XZPpVJfZiHgwOxJBJUIS5DRq9zIimRtq-5e6qXF6otEnelmZjAb3I6GHTLCDpHxrg/s572/triunfo%20tv.png",
+                url: "https://fl1002.bozztv.com/ssh101/urbanradiotv96/playlist.m3u8",
+                params: "{}"
+            },
+                        {
+                nombre: "Canal 7",
+                imagen: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9m6oCnKwCCnkUe3ywWUSw55aDNwzlvLiOroWDyGi2iHiUU-hcf9WWnZLASB1dCV1KMmn2NS-22iZiOpc_tWIEwDr0l0NqnPpQWm3i9EDy7wovhrOTX2NImjZLyaWKFVUu9jlSHhll9nVQgs1cYkAoClDsOCQ_OTdiT1Uav7iP-ayC7w-T4yiCQBbYacw/s572/canal%207.png",
+                url: "https://epg-ipv4.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a20-6018913ea15130002b284195.m3u8?X-Plex-Product=Plex+Mediaverse&X-Plex-Token=jm5xGQGmXSyJ9T1duK_W&includeAllStreams=1&redirectedFromV6=1",
+                params: "{}"
+            }
+        ];
+        const channelGrid = document.getElementById("channel-grid");
+        function renderChannels(canales) {
+            channelGrid.innerHTML = '';
+            canales.forEach((canal) => {
+                const card = document.createElement("div");
+                card.className = "channel-card";
+                card.innerHTML = `
+                    <img src="${canal.imagen}" alt="${canal.nombre}">
+                    <div class="text-container">
+                        <h2>${canal.nombre}</h2>
+                    </div>
+                `;
+                card.onclick = () => {
+                    PlayerApp.onPlay(canal.url, "", canal.params);
+                };
+                channelGrid.appendChild(card);
+            });
+        }
+        document.getElementById("search-bar").addEventListener("input", function () {
+            const searchTerm = this.value.toLowerCase();
+            const filteredCanales = canalesData.filter(canal => canal.nombre.toLowerCase().includes(searchTerm));
+            renderChannels(filteredCanales);
+        });
+        renderChannels(canalesData);
+    </script>
