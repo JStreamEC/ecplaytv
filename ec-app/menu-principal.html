@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Responsive Design</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color: #000000;
+        }
+        .container {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            text-align: center;
+        }
+        .image {
+            max-width: 50%;
+            height: auto;
+            margin-bottom: 20px;
+            padding: 2%;
+            animation: float 3s ease-in-out infinite;
+        }
+        .buttons {
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+        }
+        .buttons button {
+            padding: 10px 20px;
+            font-size: 16px;
+            cursor: pointer;
+            text-align: justify;
+        }
+        /* Estilos para el modal */
+        .modal {
+            display: none;
+            position: fixed;
+            z-index: 1;
+            left: 0;
+            top: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(0, 0, 0, 0.7);
+            justify-content: center;
+            align-items: center;
+            animation: fadeIn 0.3s ease;
+        }
+        .modal-content {
+            background-color: #1e1e1e;
+            border-radius: 12px;
+            padding: 30px;
+            width: 80%;
+            max-width: 400px;
+            text-align: center;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+            color: #ffffff;
+            animation: slideIn 0.4s ease;
+        }
+        .modal-content h2 {
+            margin-bottom: 20px;
+            font-size: 24px;
+            color: #00ff7f;
+        }
+        .modal-content button {
+            width: 80%;
+            margin: 10px 0;
+            padding: 12px;
+            font-size: 18px;
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+            background-color: #00ff7f;
+            color: #000000;
+            transition: background-color 0.3s ease;
+        }
+        .modal-content button:hover {
+            background-color: #00cc66;
+        }
+        .modal-content button.cancel {
+            background-color: #ff6347;
+            margin-top: 20px;
+			    width: 50%;
+        }
+        .modal-content button.cancel:hover {
+            background-color: #e5533d;
+        }
+        /* Animación para hacer flotar la imagen */
+        @keyframes float {
+            0%, 100% {
+                transform: translateY(0);
+            }
+            50% {
+                transform: translateY(-10px);
+            }
+        }
+        /* Animación para el modal */
+        @keyframes fadeIn {
+            from { opacity: 0; }
+            to { opacity: 1; }
+        }
+        @keyframes slideIn {
+            from { transform: translateY(-20px); opacity: 0; }
+            to { transform: translateY(0); opacity: 1; }
+        }
+        /* Estilos para pantallas más grandes (tablets, TV box, etc.) */
+        @media (min-width: 768px) and (orientation: landscape), (min-width: 1024px) {
+            .container {
+                flex-direction: row;
+                justify-content: center;
+                align-items: center;
+                width: 100%;
+            }
+            .image {
+                max-width: 100%;
+                margin-bottom: 0;
+                margin-left: -180px;
+                margin-right: -130px;
+            }
+            .buttons {
+                margin-left: 20px;
+                flex-direction: column;
+            }
+            .buttons button {
+                font-size: 18px;
+                text-align: justify;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <!-- Imagen con enlace -->
+        <a href="https://acectv.blogspot.com/p/disney.html" target="_blank">
+            <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfVntotE52V57gTNLiT91eLAtneSHW4dxMgIvXKYtMxL3eubfnWMg8hUC_u9P8tCO7vykduKSjeUqVem4RJgTf_YCXN8gPKojwLzefr-cXH3WHccTGBgyWKVKdvPvEgDk8CF4WKwZ1aTFXaELfNIgmf6BzXiRcavN5GO9sfZsUeP442Ag4CIOhsULb-qU/s572/ec-logo-monogram-with-shield-around-crown-shape-vector-33295916%20copia.jpg" alt="Imagen" class="image">
+        </a>
+        <!-- Botones con enlaces -->
+        <div class="buttons">
+            <button onclick="openModal()"> 
+                <h90 style="color: green; font-size: 1.2em;">📺</h90> Canales de Tv
+            </button>
+            <button onclick="window.open('https://fast.com/es/', '_blank')"> 
+                <h90 style="color: green; font-size: 1.2em;">⚙️</h90> Test de Velocidad
+            </button>
+            <button onclick="window.open('https://www.tu-enlace-dmca.com', '_blank')"> 
+                <h90 style="color: green; font-size: 1.2em;">⚠️</h90> DMCA
+            </button>
+            <button onclick="window.open('https://www.tu-enlace-reportarproblema.com', '_blank')"> 
+                <h90 style="color: green; font-size: 1.2em;">📧</h90> Reportar Problema
+            </button>
+        </div>
+    </div>
+    <!-- Modal -->
+    <div id="myModal" class="modal">
+        <div class="modal-content">
+            <h2>Seleccione una opción</h2>
+            <button onclick="window.open('https://www.tu-enlace-nacionales.com', '_blank')">Canales Nacionales</button>
+            <button onclick="window.open('https://www.tu-enlace-otroscanales.com', '_blank')">Otros Canales</button>
+            <button class="cancel" onclick="closeModal()">Cerrar</button>
+        </div>
+    </div>
+    <script>
+        // Función para abrir el modal
+        function openModal() {
+            document.getElementById("myModal").style.display = "flex";
+        }
+        // Función para cerrar el modal
+        function closeModal() {
+            document.getElementById("myModal").style.display = "none";
+        }
+        // Cerrar el modal cuando se hace clic fuera de él
+        window.onclick = function(event) {
+            var modal = document.getElementById("myModal");
+            if (event.target == modal) {
+                closeModal();
+            }
+        }
+    </script>
+</body>
+</html>
