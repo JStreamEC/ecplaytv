@@ -1,131 +1,131 @@
 {
-status: "ok",
-data: [
-{
-id: "1",
-namecn: "足球",
-nameen: "Soccer",
-name_hk: "足球",
-name_en: "Soccer"
-},
-{
-id: "2",
-namecn: "篮球",
-nameen: "Basketball",
-name_hk: "籃球",
-name_en: "Basketball"
-},
-{
-id: "3",
-namecn: "冰球",
-nameen: "Icehockey",
-name_hk: "冰球",
-name_en: "Icehockey"
-},
-{
-id: "4",
-namecn: "排球",
-nameen: "Volleyball",
-name_hk: "排球",
-name_en: "Volleyball"
-},
-{
-id: "5",
-namecn: "高尔夫",
-nameen: "Golf",
-name_hk: "高爾夫",
-name_en: "Golf"
-},
-{
-id: "6",
-namecn: "橄榄球",
-nameen: "Rugby",
-name_hk: "橄欖球",
-name_en: "Rugby"
-},
-{
-id: "7",
-namecn: "网球",
-nameen: "Tennis",
-name_hk: "網球",
-name_en: "Tennis"
-},
-{
-id: "8",
-namecn: "乒乓球",
-nameen: "Tabletennis",
-name_hk: "乒乓球",
-name_en: "Tabletennis"
-},
-{
-id: "9",
-namecn: "斯诺克",
-nameen: "Snooker",
-name_hk: "斯諾克",
-name_en: "Snooker"
-},
-{
-id: "10",
-namecn: "羽毛球",
-nameen: "Badminton",
-name_hk: "羽毛球",
-name_en: "Badminton"
-},
-{
-id: "11",
-namecn: "运动",
-nameen: "Sport",
-name_hk: "運動",
-name_en: "Sport"
-},
-{
-id: "12",
-namecn: "搏击",
-nameen: "Fight",
-name_hk: "搏擊",
-name_en: "Fight"
-},
-{
-id: "13",
-namecn: "赛车",
-nameen: "Racing",
-name_hk: "賽車",
-name_en: "Racing"
-},
-{
-id: "14",
-namecn: "棒球",
-nameen: "Baseball",
-name_hk: "棒球",
-name_en: "Baseball"
-},
-{
-id: "15",
-namecn: "直播",
-nameen: "Othersport",
-name_hk: "直播",
-name_en: "Live"
-},
-{
-id: "16",
-namecn: "综合",
-nameen: "Programs",
-name_hk: "綜合",
-name_en: "Programs"
-},
-{
-id: "17",
-namecn: "频道",
-nameen: "Channels",
-name_hk: "頻道",
-name_en: "Channels"
-},
-{
-id: "18",
-namecn: "游戏",
-nameen: "Game",
-name_hk: "遊戲",
-name_en: "Game"
-}
-]
+  "status": "ok",
+  "data": [
+    {
+      "id": "1",
+      "namecn": "足球",
+      "nameen": "Soccer",
+      "name_hk": "足球",
+      "name_en": "Soccer"
+    },
+    {
+      "id": "2",
+      "namecn": "篮球",
+      "nameen": "Basketball",
+      "name_hk": "籃球",
+      "name_en": "Basketball"
+    },
+    {
+      "id": "3",
+      "namecn": "冰球",
+      "nameen": "Icehockey",
+      "name_hk": "冰球",
+      "name_en": "Icehockey"
+    },
+    {
+      "id": "4",
+      "namecn": "排球",
+      "nameen": "Volleyball",
+      "name_hk": "排球",
+      "name_en": "Volleyball"
+    },
+    {
+      "id": "5",
+      "namecn": "高尔夫",
+      "nameen": "Golf",
+      "name_hk": "高爾夫",
+      "name_en": "Golf"
+    },
+    {
+      "id": "6",
+      "namecn": "橄榄球",
+      "nameen": "Rugby",
+      "name_hk": "橄欖球",
+      "name_en": "Rugby"
+    },
+    {
+      "id": "7",
+      "namecn": "网球",
+      "nameen": "Tennis",
+      "name_hk": "網球",
+      "name_en": "Tennis"
+    },
+    {
+      "id": "8",
+      "namecn": "乒乓球",
+      "nameen": "Tabletennis",
+      "name_hk": "乒乓球",
+      "name_en": "Tabletennis"
+    },
+    {
+      "id": "9",
+      "namecn": "斯诺克",
+      "nameen": "Snooker",
+      "name_hk": "斯諾克",
+      "name_en": "Snooker"
+    },
+    {
+      "id": "10",
+      "namecn": "羽毛球",
+      "nameen": "Badminton",
+      "name_hk": "羽毛球",
+      "name_en": "Badminton"
+    },
+    {
+      "id": "11",
+      "namecn": "运动",
+      "nameen": "Sport",
+      "name_hk": "運動",
+      "name_en": "Sport"
+    },
+    {
+      "id": "12",
+      "namecn": "搏击",
+      "nameen": "Fight",
+      "name_hk": "搏擊",
+      "name_en": "Fight"
+    },
+    {
+      "id": "13",
+      "namecn": "赛车",
+      "nameen": "Racing",
+      "name_hk": "賽車",
+      "name_en": "Racing"
+    },
+    {
+      "id": "14",
+      "namecn": "棒球",
+      "nameen": "Baseball",
+      "name_hk": "棒球",
+      "name_en": "Baseball"
+    },
+    {
+      "id": "15",
+      "namecn": "直播",
+      "nameen": "Othersport",
+      "name_hk": "直播",
+      "name_en": "Live"
+    },
+    {
+      "id": "16",
+      "namecn": "综合",
+      "nameen": "Programs",
+      "name_hk": "綜合",
+      "name_en": "Programs"
+    },
+    {
+      "id": "17",
+      "namecn": "频道",
+      "nameen": "Channels",
+      "name_hk": "頻道",
+      "name_en": "Channels"
+    },
+    {
+      "id": "18",
+      "namecn": "游戏",
+      "nameen": "Game",
+      "name_hk": "遊戲",
+      "name_en": "Game"
+    }
+  ]
 }
