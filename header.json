@@ -1,37 +1,64 @@
-[
- {
-  "Origin": "https://disneyplus.com",
-  "Referer": "https://disneyplus.com/",
-  "dominio": "dssott.com"
- },
- {
-  "Origin": "https://nowtv.express.com.ar",
-  "Referer": "https://nowtv.express.com.ar/",
-  "dominio": "express.com.ar"
- },
- {
-  "Origin": "https://qlobbi.com",
-  "Referer": "https://qlobbi.com/",
-  "dominio": "1279247418.rsc.cdn77.org"
- },
- {
-  "Origin": "https://play.max.com",
-  "Referer": "https://play.max.com/",
-  "dominio": "max.com"
- },
- {
-  "Origin": "https://www.clarovideo.com",
-  "Referer": "https://www.clarovideo.com/",
-  "dominio": "clarovideo.com"
- },
- {
-  "Origin": "https://www.dazn.com",
-  "Referer": "https://www.dazn.com/",
-  "dominio": "indazn.com"
- },
- {
-  "Origin": "https://web.flow.com.ar",
-  "Referer": "https://web.flow.com.ar/",
-  "dominio": "cvattv.com.ar"
- }
-]
+{
+  "version": 1,
+  "last_updated": "2024-06-15T12:00:00Z",
+  "headers_config": {
+    "domains": [
+      {
+        "domain": "dssott.com",
+        "headers": {
+          "Referer": "https://disneyplus.com/",
+          "Origin": "https://disneyplus.com",
+          "User-Agent": "Mozilla/5.0 (Linux; Android 10; Pixel 3 XL) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.157 Mobile Safari/537.36",
+          "Access-Control-Allow-Origin": "*"
+        },
+        "aliases": ["disneyplus.com"]
+      },
+      {
+        "domain": "x.com",
+        "headers": {
+          "accept": "*/*",
+          "origin": "https://x.com",
+          "referer": "https://x.com/",
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+        },
+        "aliases": ["twitter.com", "pscp.tv", "prod-fastly-us-east-1.video.pscp.tv"]
+      },
+      {
+        "domain": "youtube.com",
+        "headers": {
+          "accept": "*/*",
+          "origin": "https://www.youtube.com",
+          "referer": "https://www.youtube.com/",
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+        },
+        "aliases": ["www.youtube.com", "googlevideo.com", "manifest.googlevideo.com"]
+      },
+      {
+        "domain": "max.com",
+        "headers": {
+          "Referer": "https://play.max.com/",
+          "Origin": "https://play.max.com",
+          "User-Agent": "Mozilla/5.0 (Linux; Android 10; Pixel 3 XL) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.157 Mobile Safari/537.36"
+        }
+      },
+      {
+        "domain": "vix.com",
+        "headers": {
+          "Referer": "https://vix.com/",
+          "Origin": "https://vix.com",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
+        }
+      }
+    ],
+    "adblock": [
+      "oxtzgomhodrz.top",
+      "qsvbi.space",
+      "kl1Mnopq.js",
+      "main_script_123.js",
+      "adcash",
+      "vast",
+      "byads.co",
+      "push-sdk.com/f/sdk.js"
+    ]
+  }
+}
