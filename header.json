@@ -9,6 +9,15 @@
       }
     },
     {
+      "domain": "https://photocall.site",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+        "Referer": "https://photocall.site/",
+        "Origin": "https://photocall.site",
+        "Cookie": "sc_is_visitor_unique=rx12360448.1748432310.0D6F18DDDC0F4D95AFE5791C0C51240A.1.1.1.1.1.1.1.1.1"
+      }
+    },
+    {
       "domain": "dssott.com",
       "headers": {
         "Referer": "https://disneyplus.com/",
