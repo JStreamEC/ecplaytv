@@ -1,0 +1,428 @@
+<style>
+    body {
+      font-family: Arial, sans-serif !important;
+      margin: 0 !important;
+      padding: 20px !important;
+      transition: background 0.3s, color 0.3s !important;
+    }
+    body.tema-oscuro {
+      background: black !important;
+      color: white !important;
+    }
+    body.tema-claro {
+      background: #000000 !important;
+      color: #333 !important;
+    }
+    .cards-container {
+      display: flex !important;
+      flex-wrap: wrap !important;      
+      justify-content: center !important;
+      margin: auto !important;
+      justify-items: center !important;
+    }	
+    .card {
+      border-radius: 16px !important;
+      padding: 16px !important;
+      box-shadow: 0 0 10px rgba(255, 255, 255, 0.05) !important;
+      padding-top: 0px !important;
+      max-width: 257px !important;
+      min-width: 257px !important;
+      margin: 10px !important;
+    }
+    .tema-oscuro .card {
+      background: #1e1e1e !important;
+    }
+    .tema-claro .card {
+      background: #ffffff !important;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1) !important;
+    }
+    .status-row {
+      text-align: center !important;
+      margin-bottom: 10px !important;
+      display: flex !important;
+      justify-content: center !important;
+      align-items: center !important;
+      gap: 5px !important;
+    }
+    .status-live {
+      color: #fff !important;
+      font-weight: bold !important;
+      font-size: 0.8rem !important;
+      text-align: center !important;
+      padding: 6px 20px !important;
+      border-bottom-left-radius: 20px !important;
+      border-bottom-right-radius: 20px !important;
+      display: inline-block !important;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.3) !important;
+      min-width: 80px !important;
+      margin: 0 !important;
+      position: relative !important;
+      overflow: hidden !important;
+    }
+    .status-live.amarillo {
+      background-color: #ffeb3b !important;
+      color: #000 !important;
+    }
+    .status-live.verde {
+      background-color: #4caf50 !important;
+      color: white !important;
+      font-size: 0.65em !important;
+      font-weight: 700 !important;
+    }
+    .status-live.rojo {
+      background-color: #f44336 !important;
+      color: white !important;
+    }
+    .estado-palpitar {
+      animation: palpitar 1.5s ease-in-out infinite !important;
+    }
+    @keyframes palpitar {
+      0%, 100% { transform: scale(1) !important; }
+      50% { transform: scale(1.1) !important; }
+    }
+    .status-live.verde::before {
+      content: '' !important;
+      position: absolute !important;
+      top: 0 !important;
+      left: 0 !important;
+      height: 100% !important;
+      width: var(--progress, 0%) !important;
+      background-color: #81c784 !important;
+      z-index: 0 !important;
+      transition: width 0.5s ease-in-out !important;
+    }
+    .status-live span {
+      position: relative !important;
+      z-index: 1 !important;
+      display: inline-block !important;
+    }
+    .status-transmisiones {
+      border: 0px !important;
+	  font-weight: bold !important;
+      font-size: 0.8rem !important;
+      text-align: center !important;
+      padding: 6px 20px !important;
+      border-bottom-left-radius: 20px !important;
+      border-bottom-right-radius: 20px !important;
+      display: inline-block !important;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.3) !important;
+      min-width: 80px !important;
+      margin: 0 !important;
+    }
+    .tema-oscuro .status-transmisiones {
+      background: white !important;
+      color: black !important;
+    }
+    .tema-claro .status-transmisiones {
+      background: #333 !important;
+      color: white !important;
+    }
+    .league-row {
+      text-align: center !important;
+      font-size: 0.9rem !important;
+      margin: 0px 0 !important;
+    }
+    .tema-oscuro .league-row {
+      color: #ccc !important;
+    }
+    .tema-claro .league-row {
+      color: black !important;
+    }
+    .date-row {
+      text-align: center !important;
+      font-size: 0.8rem !important;
+      margin-bottom: 5px !important;
+    }
+    .tema-oscuro .date-row {
+      color: #999 !important;
+    }
+    .tema-claro .date-row {
+      color: black !important;
+    }
+    .league-row img {
+      width: 20px !important;
+      vertical-align: middle !important;
+      margin-right: 6px !important;
+    }
+    .match-row {
+      display: flex !important;
+      justify-content: space-between !important;
+      align-items: center !important;
+	  align-items: baseline !important;
+      margin-bottom: 4px !important;
+      margin-top: 0.6em !important;
+    }	
+    strong {
+      text-align: center !important;
+    }	
+    .team {
+      display: flex !important;
+      flex-wrap: wrap !important;
+      align-items: center !important;
+      justify-content: space-evenly !important;
+      gap: 8px !important;
+      flex: 1 !important;
+    }
+    .team img {
+      width: 2.5em !important;
+      height: 2.5em !important;
+    }
+    .score {
+      font-size: 2.6rem !important;
+      font-weight: bold !important;
+      margin: 5px 12px !important;
+      min-width: 60px !important;
+      text-align: center !important;
+      font-family: 'Rajdhani', sans-serif !important;
+    }
+    .tema-oscuro .score {
+      color: white !important;
+    }
+    .tema-claro .score {
+      color: #333 !important;
+    }
+    .stats-row {
+      text-align: center !important;
+      font-size: 1.1rem !important;
+      display: none !important;
+      justify-content: center !important;
+      flex-wrap: wrap !important;
+      font-family: 'Rajdhani', sans-serif !important;
+      font-weight: bold !important;
+    }
+    .tema-oscuro .stats-row {
+      color: white !important;
+    }
+    .tema-claro .stats-row {
+      color: #333 !important;
+    }
+    .stats-row.visible {
+      display: flex !important;
+    }
+    .stat-icon {
+      display: flex !important;
+      align-items: center !important;
+    }
+    .tema-oscuro svg.icon {
+      fill: white !important;
+	  padding: 5px !important;
+    }
+    .tema-claro svg.icon {
+      fill: #333 !important;
+	  padding: 5px !important;
+    }
+    /* Modal */
+    .modal-backdrop {
+      position: fixed !important;
+      inset: 0 !important;
+      background: rgba(0, 0, 0, 0.75) !important;
+      display: none !important;
+      justify-content: center !important;
+      align-items: center !important;
+      z-index: 9999 !important;
+    }
+    .modal-backdrop.activo {
+      display: flex !important;
+    }
+    .modal {
+      border-radius: 16px !important;
+      padding: 20px !important;
+      width: 80% !important;
+      max-width: 400px !important;
+      position: relative !important;
+      box-shadow: 0 0 10px rgba(255, 255, 255, 0.1) !important;
+    }
+    .tema-oscuro .modal {
+      background: #1e1e1e !important;
+    }
+    .tema-claro .modal {
+      background: #ffffff !important;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1) !important;
+    }
+    .modal-titulo {
+      margin-top: 0 !important;
+      font-size: 1em !important;
+      width: 80% !important;
+    }
+    .tema-oscuro .modal-titulo {
+      color: white !important;
+    }
+    .tema-claro .modal-titulo {
+      color: #333 !important;
+    }
+    .cerrar {
+      position: absolute !important;
+      top: 10px !important;
+      right: 15px !important;
+      background: none !important;
+      border: none !important;
+      font-size: 1.8rem !important;
+      cursor: pointer !important;
+    }
+    .tema-oscuro .cerrar {
+      color: #fff !important;
+    }
+    .tema-claro .cerrar {
+      color: #333 !important;
+    }
+    .senales-grid {
+      display: flex !important;
+      flex-wrap: wrap !important;
+      gap: 12px !important;
+      margin-top: 20px !important;
+    }
+    .senal-btn {
+      background: #0bab64 !important;
+      color: white !important;
+      padding: 10px !important;
+      text-align: center !important;
+      border-radius: 10px !important;
+      text-decoration: none !important;
+      font-weight: bold !important;
+      transition: background 0.3s !important;
+    }
+    .senal-btn:hover {
+      background: #0f9d58 !important;
+    }
+    @media (max-width: 480px) {
+      body {
+        font-family: Arial, sans-serif !important;
+        margin: 0px !important;
+        padding: 0px !important;
+      }
+      .tema-oscuro body {
+        background: black !important;
+        color: white !important;
+      }
+      .tema-claro body {
+        background: #f0f0f0 !important;
+        color: #333 !important;
+      }
+      .cards-container {
+        gap: 0px !important;
+        grid-template-columns: auto !important;
+        flex-wrap: wrap !important;
+      }
+      .match-row {
+        gap: 7px !important;
+      }
+      .score {
+        margin: 8px 22px !important;
+        font-size: 3.5em !important;
+      }
+      .stats-row {
+        gap: 10px !important;
+      }
+      .team {
+        display: flex !important;
+        align-items: center !important;
+        justify-content: space-evenly !important;
+        gap: 5px !important; 
+        flex: 1 !important;
+      }	  
+      .team img {
+        width: 3.2em !important;
+        height: 3.2em !important;
+      }	
+      .card {
+        margin: 10px !important;
+        width: 90% !important;
+        min-width: auto !important;
+        padding: 0px 20px 20px 20px !important;
+        max-width: none !important;
+      }	
+      strong {
+        text-align: center !important;
+        font-size: 1em !important;
+      }	
+    }
+    @media (width: 854px) {
+      .card {
+        border-radius: 16px !important;
+        padding: 16px !important;
+        padding-top: 0px !important;
+        max-width: 370px !important;
+        min-width: 370px !important;
+        margin: 10px !important;
+      }
+      .tema-oscuro .card {
+        background: #1e1e1e !important;
+        box-shadow: 0 0 10px rgba(255, 255, 255, 0.05) !important;
+      }
+      .tema-claro .card {
+        background: #ffffff !important;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1) !important;
+      }
+      .cards-container {
+        display: grid !important;
+        grid-template-columns: repeat(auto-fit, minmax(390px, 1fr)) !important;
+        margin: auto !important;
+        justify-content: start !important;
+        justify-items: center !important;
+        align-items: baseline !important;
+        align-content: stretch !important;
+      }
+    }
+    /* Nuevo estilo para el botón de cambio de tema con iconos */
+    .theme-toggle {
+      position: fixed !important;
+      top: 20px !important;
+      right: 20px !important;
+      width: 50px !important;
+      height: 50px !important;
+      border-radius: 50% !important;
+      border: none !important;
+      cursor: pointer !important;
+      display: flex !important;
+      align-items: center !important;
+      justify-content: center !important;
+      transition: all 0.3s ease !important;
+      box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2) !important;
+      z-index: 1000 !important;
+    }
+    
+    .tema-oscuro .theme-toggle {
+      background: #333 !important;
+      color: #fff !important;
+    }
+    
+    .tema-claro .theme-toggle {
+      background: #fff !important;
+      color: #333 !important;
+      box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1) !important;
+    }
+    
+    .theme-toggle:hover {
+      transform: scale(1.1) !important;
+    }
+    
+    .theme-toggle svg {
+      width: 24px !important;
+      height: 24px !important;
+      transition: all 0.3s ease !important;
+    }
+    
+    .tema-oscuro .theme-toggle .sun-icon {
+      display: block !important;
+    }
+    
+    .tema-oscuro .theme-toggle .moon-icon {
+      display: none !important;
+    }
+    
+    .tema-claro .theme-toggle .sun-icon {
+      display: none !important;
+    }
+    
+    .tema-claro .theme-toggle .moon-icon {
+      display: block !important;
+    }
+    
+    .theme-toggle .sun-icon {
+      fill: #FFD700 !important;
+    }
+    
+    .theme-toggle .moon-icon {
+      fill: #333 !important;
+    }
+  </style>
