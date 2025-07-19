@@ -1,6 +1,38 @@
 {
   "domains": [
     {
+      "domain": "vrioott.com",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+        "Referer": "https://www.directvgo.com/",
+        "Origin": "https://www.directvgo.com"
+      }
+    },
+    {
+      "domain": "crackstreamslivehd.com",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+        "Referer": "https://streamtp4.com/",
+        "Origin": "https://streamtp4.com"
+      }
+    },
+    {
+      "domain": "tv.apple.com",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+        "Referer": "https://tv.apple.com/",
+        "Origin": "https://tv.apple.com"
+      }
+    },
+      {
+      "domain": "izzigo.tv",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+        "Referer": "https://www.izzigo.tv/",
+        "Origin": "https://www.izzigo.tv"
+      }
+    },
+    {
       "domain": "googlevideo.com",
       "headers": {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
