@@ -1,6 +1,14 @@
 {
   "domains": [
     {
+      "domain": "https://top2new.newkso.ru/",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+        "Referer": "https://jxoxkplay.xyz/",
+        "Origin": "https://jxoxkplay.xyz"
+      }
+    },
+    {
       "domain": "https://jxoxkplay.xyz/",
       "headers": {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
@@ -8,7 +16,6 @@
         "Origin": "https://jxoxkplay.xyz"
       }
     },
-
     {
       "domain": "vrioott.com",
       "headers": {
