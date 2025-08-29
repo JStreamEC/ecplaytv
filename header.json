@@ -1,6 +1,14 @@
 {
   "domains": [
     {
+      "domain": "vividmosaica.com",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+        "Referer": "https://virazo.sx/",
+        "Origin": "https://virazo.sx"
+      }
+    },
+    {
       "domain": "top2new.newkso.ru",
       "headers": {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
@@ -9,7 +17,7 @@
       }
     },
     {
-      "domain": "https://jxoxkplay.xyz/",
+      "domain": "jxoxkplay.xyz",
       "headers": {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
         "Referer": "https://jxoxkplay.xyz/",
@@ -81,7 +89,7 @@
       }
     },
     {
-      "domain": "https://photocall.site",
+      "domain": "photocall.site",
       "headers": {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
         "Referer": "https://photocall.site/",
