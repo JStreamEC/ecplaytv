@@ -60,16 +60,6 @@
     "play_url": "https://www.disneyplus.com/es-es/play/12c73572-be66-487e-bfa9-b1c99705241c"
   },
   {
-    "title": "(7) Johnston/Willwerth vs. Chen/Tyagi (Boys' Doubles First Round)",
-    "league": "ESPN",
-    "fecha-evento": "2025-09-02T10:00:01-05:00",
-    "img": "03cffd9b-c75a-48fd-abe7-ef1a7495e263",
-    "nombre": "disney8",
-    "status": "10:00",
-    "duration": 600,
-    "play_url": "https://www.disneyplus.com/es-es/play/5a1c0c2f-da80-4d57-b7e4-6b78a5732b2d"
-  },
-  {
     "title": "(4) Krawietz/Puetz vs. (14) Bhambri/Venus (Men's Doubles Third Round)",
     "league": "ESPN",
     "fecha-evento": "2025-09-02T10:00:01-05:00",
@@ -78,6 +68,16 @@
     "status": "10:00",
     "duration": 600,
     "play_url": "https://www.disneyplus.com/es-es/play/18286e18-ad38-4111-b943-a057a62bd7d2"
+  },
+  {
+    "title": "(7) Johnston/Willwerth vs. Chen/Tyagi (Boys' Doubles First Round)",
+    "league": "ESPN",
+    "fecha-evento": "2025-09-02T10:00:01-05:00",
+    "img": "03cffd9b-c75a-48fd-abe7-ef1a7495e263",
+    "nombre": "disney8",
+    "status": "10:00",
+    "duration": 600,
+    "play_url": "https://www.disneyplus.com/es-es/play/5a1c0c2f-da80-4d57-b7e4-6b78a5732b2d"
   },
   {
     "title": "(6) Salisbury/Skupski vs. (9) Nys/Roger-Vasselin (Men's Doubles Third Round)",
@@ -360,21 +360,11 @@
     "play_url": ""
   },
   {
-    "title": "Press Conferences Day 11",
-    "league": "ESPN",
-    "fecha-evento": "2025-09-03T10:00:00-05:00",
-    "img": "30c8c1ea-c6d0-4f71-a719-e5f80633a1e0",
-    "nombre": "disney37",
-    "status": "10:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Court 7",
     "league": "ESPN",
     "fecha-evento": "2025-09-03T10:00:00-05:00",
     "img": "03cffd9b-c75a-48fd-abe7-ef1a7495e263",
-    "nombre": "disney38",
+    "nombre": "disney37",
     "status": "10:00",
     "duration": 135,
     "play_url": ""
@@ -384,6 +374,16 @@
     "league": "Premier Padel",
     "fecha-evento": "2025-09-03T10:00:00-05:00",
     "img": "0ea51960-c33f-4030-a6ec-9c5a31760e73",
+    "nombre": "disney38",
+    "status": "10:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Press Conferences Day 11",
+    "league": "ESPN",
+    "fecha-evento": "2025-09-03T10:00:00-05:00",
+    "img": "30c8c1ea-c6d0-4f71-a719-e5f80633a1e0",
     "nombre": "disney39",
     "status": "10:00",
     "duration": 135,
@@ -493,7 +493,7 @@
     "title": "James Madison vs. Liberty",
     "league": "NCAA Women's Field Hockey",
     "fecha-evento": "2025-09-03T13:00:00-05:00",
-    "img": "85f7abfd-977d-4aa5-ac39-459d7d36f8bb",
+    "img": "52b6a1b8-007a-4b08-8a54-b7c71a86775a",
     "nombre": "disney50",
     "status": "13:00",
     "duration": 135,
