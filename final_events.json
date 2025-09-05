@@ -309,21 +309,11 @@
     "play_url": ""
   },
   {
-    "title": "2025 US Open",
-    "league": "ESPN",
-    "fecha-evento": "2025-09-05T11:00:00-05:00",
-    "img": "b98830ed-421f-44c3-a7fe-546079e3937f",
-    "nombre": "disney31",
-    "status": "11:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Court 14",
     "league": "ESPN",
     "fecha-evento": "2025-09-05T11:00:00-05:00",
     "img": "0635574d-07fb-4d08-b8b4-8aaab6c57ecd",
-    "nombre": "disney32",
+    "nombre": "disney31",
     "status": "11:00",
     "duration": 135,
     "play_url": ""
@@ -333,7 +323,7 @@
     "league": "ESPN",
     "fecha-evento": "2025-09-05T11:00:00-05:00",
     "img": "03cffd9b-c75a-48fd-abe7-ef1a7495e263",
-    "nombre": "disney33",
+    "nombre": "disney32",
     "status": "11:00",
     "duration": 135,
     "play_url": ""
@@ -343,7 +333,7 @@
     "league": "ESPN",
     "fecha-evento": "2025-09-05T11:00:00-05:00",
     "img": "1b37f728-0fb9-44df-9747-bf9064a278b6",
-    "nombre": "disney34",
+    "nombre": "disney33",
     "status": "11:00",
     "duration": 135,
     "play_url": ""
@@ -353,6 +343,16 @@
     "league": "ESPN",
     "fecha-evento": "2025-09-05T11:00:00-05:00",
     "img": "68ae3f43-f8de-4e47-a6b1-38bf34edb9e8",
+    "nombre": "disney34",
+    "status": "11:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "2025 US Open",
+    "league": "ESPN",
+    "fecha-evento": "2025-09-05T11:00:00-05:00",
+    "img": "b98830ed-421f-44c3-a7fe-546079e3937f",
     "nombre": "disney35",
     "status": "11:00",
     "duration": 135,
@@ -479,10 +479,10 @@
     "play_url": ""
   },
   {
-    "title": "Montenegro vs. Czech Republic",
+    "title": "Grecia vs. Bielorrusia",
     "league": "Eliminatorias UEFA",
     "fecha-evento": "2025-09-05T13:35:00-05:00",
-    "img": "17dbc736-c081-49db-afb6-494cd656a35e",
+    "img": "fceba208-9477-4b02-a4a8-eebde3dfcc43",
     "nombre": "disney48",
     "status": "13:35",
     "duration": 135,
@@ -499,10 +499,10 @@
     "play_url": ""
   },
   {
-    "title": "Grecia vs. Bielorrusia",
+    "title": "Montenegro vs. Czech Republic",
     "league": "Eliminatorias UEFA",
     "fecha-evento": "2025-09-05T13:35:00-05:00",
-    "img": "fceba208-9477-4b02-a4a8-eebde3dfcc43",
+    "img": "17dbc736-c081-49db-afb6-494cd656a35e",
     "nombre": "disney50",
     "status": "13:35",
     "duration": 135,
@@ -519,20 +519,20 @@
     "play_url": ""
   },
   {
-    "title": "Islandia vs. Azerbaiyán",
+    "title": "Slovenia vs. Suecia",
     "league": "Eliminatorias UEFA",
     "fecha-evento": "2025-09-05T13:35:00-05:00",
-    "img": "db65a2fc-4120-4dde-9a19-a2883882d975",
+    "img": "cfcd4b02-790f-4b65-9536-d49d2fcc2d2f",
     "nombre": "disney52",
     "status": "13:35",
     "duration": 135,
     "play_url": ""
   },
   {
-    "title": "Slovenia vs. Suecia",
+    "title": "Islandia vs. Azerbaiyán",
     "league": "Eliminatorias UEFA",
     "fecha-evento": "2025-09-05T13:35:00-05:00",
-    "img": "cfcd4b02-790f-4b65-9536-d49d2fcc2d2f",
+    "img": "db65a2fc-4120-4dde-9a19-a2883882d975",
     "nombre": "disney53",
     "status": "13:35",
     "duration": 135,
