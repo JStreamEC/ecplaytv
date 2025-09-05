@@ -15,22 +15,28 @@
   {
     "title": "Premier Padel: Madrid - Centre Court (Cuartos de Final)",
     "league": "Premier Padel",
-    "fecha-evento": "2025-09-05T01:50:00-05:00",
+    "fecha-evento": "2025-09-05T01:50:10-05:00",
     "img": "0ea51960-c33f-4030-a6ec-9c5a31760e73",
     "nombre": "disney2",
     "status": "01:50",
-    "duration": 135,
-    "play_url": ""
+    "duration": 730,
+    "play_url": "https://www.disneyplus.com/es-es/play/d051760c-8dfe-4839-b411-23e3f3a84718",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1757142019~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F05%2FPremier_Padel_Madrid_Cent_20250905_1757047847034%2F~psid=3ed043e4-2826-420f-a48b-fc9900b49bd2~aid=41b03773-9fe4-4005-8422-756bb8e2604c~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=3dc89bf2baf09419d39b32e3d019ad42b5411f875f3c0149a7be487056fe51a4/clt1/va02/disneyplus/event/2025/09/05/Premier_Padel_Madrid_Cent_20250905_1757047847034/ctr-all-hdri-complete.m3u8?v=1&hash=730aec244aea657b461b2d6f021ae56261ba9371",
+    "k1": "df388b06fcd743189df31768d70862d0",
+    "k2": "950e6df63701e560e0eceed8a9c14168"
   },
   {
     "title": "Monster Energy Grand Prix of Catalonia - Free Practice 1 (Moto3)",
     "league": "MotoGP",
-    "fecha-evento": "2025-09-05T01:55:00-05:00",
-    "img": "eeb23be9-de96-4d9d-b3bb-1ffd7f7b4153",
+    "fecha-evento": "2025-09-05T01:55:09-05:00",
+    "img": "28a941a0-f65f-4220-8514-64fcf058e595",
     "nombre": "disney3",
     "status": "01:55",
-    "duration": 135,
-    "play_url": ""
+    "duration": 45,
+    "play_url": "https://www.disneyplus.com/es-es/play/9208e60b-8938-4952-b17d-1e5a4cb5ba79",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1757142062~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F05%2FMonster_Energy_Grand_Prix_20250905_1757048134036%2F~psid=1e6ace86-9cec-437b-a6c7-4c3e0e4f236c~aid=41b03773-9fe4-4005-8422-756bb8e2604c~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=c2caa6a83aaa80d58640004d6ade04af43a4c23f7b64f8b065adcf2415be6daa/clt1/va02/disneyplus/event/2025/09/05/Monster_Energy_Grand_Prix_20250905_1757048134036/ctr-all-hdri-complete.m3u8?v=1&hash=ff173e1ceba5a723b57ce39e7986a1fe827cd419",
+    "k1": "5f15ddd9fbc24f329322229bbcc3ca46",
+    "k2": "4966f56706cbb0e10d397d390eb63256"
   },
   {
     "title": "Otago vs. Northland (Fecha #6)",
@@ -283,21 +289,11 @@
     "play_url": ""
   },
   {
-    "title": "2025 US Open",
-    "league": "ESPN",
-    "fecha-evento": "2025-09-05T11:00:00-05:00",
-    "img": "b98830ed-421f-44c3-a7fe-546079e3937f",
-    "nombre": "disney29",
-    "status": "11:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Court 14",
     "league": "ESPN",
     "fecha-evento": "2025-09-05T11:00:00-05:00",
     "img": "0635574d-07fb-4d08-b8b4-8aaab6c57ecd",
-    "nombre": "disney30",
+    "nombre": "disney29",
     "status": "11:00",
     "duration": 135,
     "play_url": ""
@@ -307,7 +303,7 @@
     "league": "ESPN",
     "fecha-evento": "2025-09-05T11:00:00-05:00",
     "img": "03cffd9b-c75a-48fd-abe7-ef1a7495e263",
-    "nombre": "disney31",
+    "nombre": "disney30",
     "status": "11:00",
     "duration": 135,
     "play_url": ""
@@ -317,7 +313,7 @@
     "league": "ESPN",
     "fecha-evento": "2025-09-05T11:00:00-05:00",
     "img": "1b37f728-0fb9-44df-9747-bf9064a278b6",
-    "nombre": "disney32",
+    "nombre": "disney31",
     "status": "11:00",
     "duration": 135,
     "play_url": ""
@@ -327,6 +323,16 @@
     "league": "ESPN",
     "fecha-evento": "2025-09-05T11:00:00-05:00",
     "img": "68ae3f43-f8de-4e47-a6b1-38bf34edb9e8",
+    "nombre": "disney32",
+    "status": "11:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "2025 US Open",
+    "league": "ESPN",
+    "fecha-evento": "2025-09-05T11:00:00-05:00",
+    "img": "b98830ed-421f-44c3-a7fe-546079e3937f",
     "nombre": "disney33",
     "status": "11:00",
     "duration": 135,
