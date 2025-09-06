@@ -42,8 +42,11 @@
     "img": "df61c30c-0636-47b6-a6cc-f0d1681ae150",
     "nombre": "disney4",
     "status": "02:10",
-    "duration": 135,
-    "play_url": ""
+    "duration": 60,
+    "play_url": "https://www.disneyplus.com/es-es/play/b1201ba8-dc67-4959-ad7c-4891f24bba86",
+    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1757229662~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F921e1311-bb26-43dd-84a6-9e2284959712-1756222679255%2F~psid=e1a5148e-57e3-4aae-92ed-8861ff69f1b9~aid=41b03773-9fe4-4005-8422-756bb8e2604c~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=92076d14ec3d291dfa2deaa3e47bf57c3ae97aecfe0a8995f16cc316eeaa3b0b/clt1/va02/disneyplus/channel/921e1311-bb26-43dd-84a6-9e2284959712-1756222679255/ctr-all-sliding.m3u8?v=1&hash=c2eebfbadec853d4e3ca4fa1a9f9011e0c7562b2",
+    "k1": "57ea242c82e749848f514ff23fdd966e",
+    "k2": "118f055ab0710caf1dabf19eab9328a2"
   },
   {
     "title": "Monster Energy Grand Prix of Catalonia - Free Practice 2 (MotoGP)",
@@ -246,20 +249,20 @@
     "play_url": ""
   },
   {
-    "title": "Arsenal vs. London City Lionesses",
-    "league": "English Women's Super League",
+    "title": "United States vs. Samoa (Fecha #3)",
+    "league": "Mundial de Rugby femenino",
     "fecha-evento": "2025-09-06T07:25:00-05:00",
-    "img": "9d9c0464-2a3b-465f-85b0-ca4dc979bfbe",
+    "img": "06aaf3c6-c9e5-4408-96bc-42c5d46f4bcb",
     "nombre": "disney25",
     "status": "07:25",
     "duration": 135,
     "play_url": ""
   },
   {
-    "title": "United States vs. Samoa (Fecha #3)",
-    "league": "Mundial de Rugby femenino",
+    "title": "Arsenal vs. London City Lionesses",
+    "league": "English Women's Super League",
     "fecha-evento": "2025-09-06T07:25:00-05:00",
-    "img": "06aaf3c6-c9e5-4408-96bc-42c5d46f4bcb",
+    "img": "9d9c0464-2a3b-465f-85b0-ca4dc979bfbe",
     "nombre": "disney26",
     "status": "07:25",
     "duration": 135,
@@ -296,20 +299,20 @@
     "play_url": ""
   },
   {
-    "title": "F1 - GP Italia - Clasificación",
-    "league": "Fórmula 1",
+    "title": "French - World SSP - Race 1",
+    "league": "FIM Superbike World Championship",
     "fecha-evento": "2025-09-06T08:00:00-05:00",
-    "img": "05ac5419-a96d-4c1d-a076-e2db18a26455",
+    "img": "dbbdf026-dd6f-4f07-9c86-944c465a067c",
     "nombre": "disney30",
     "status": "08:00",
     "duration": 135,
     "play_url": ""
   },
   {
-    "title": "French - World SSP - Race 1",
-    "league": "FIM Superbike World Championship",
+    "title": "F1 - GP Italia - Clasificación",
+    "league": "Fórmula 1",
     "fecha-evento": "2025-09-06T08:00:00-05:00",
-    "img": "dbbdf026-dd6f-4f07-9c86-944c465a067c",
+    "img": "05ac5419-a96d-4c1d-a076-e2db18a26455",
     "nombre": "disney31",
     "status": "08:00",
     "duration": 135,
@@ -546,21 +549,11 @@
     "play_url": ""
   },
   {
-    "title": "Virginia vs. NC State",
-    "league": "Fútbol Americano NCAA",
-    "fecha-evento": "2025-09-06T11:00:00-05:00",
-    "img": "bb5848d7-3f6b-46ec-ba3e-bc3841b9edc1",
-    "nombre": "disney55",
-    "status": "11:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Mount St. Mary's vs. Merrimack",
     "league": "Fútbol Femenino NCAA",
     "fecha-evento": "2025-09-06T11:00:00-05:00",
     "img": "0ac3458a-7640-456e-8782-781761eda306",
-    "nombre": "disney56",
+    "nombre": "disney55",
     "status": "11:00",
     "duration": 135,
     "play_url": ""
@@ -570,7 +563,7 @@
     "league": "Fútbol Americano NCAA",
     "fecha-evento": "2025-09-06T11:00:00-05:00",
     "img": "02c25b66-b9ad-4615-8dd1-e32d10aca970",
-    "nombre": "disney57",
+    "nombre": "disney56",
     "status": "11:00",
     "duration": 135,
     "play_url": ""
@@ -580,17 +573,17 @@
     "league": "Fútbol Americano NCAA",
     "fecha-evento": "2025-09-06T11:00:00-05:00",
     "img": "5a771556-369b-4633-bbe0-fd29dd3987c6",
-    "nombre": "disney58",
+    "nombre": "disney57",
     "status": "11:00",
     "duration": 135,
     "play_url": ""
   },
   {
-    "title": "UConn vs. Syracuse",
+    "title": "Virginia vs. NC State",
     "league": "Fútbol Americano NCAA",
     "fecha-evento": "2025-09-06T11:00:00-05:00",
-    "img": "1333dfdf-4abb-4d5c-a82c-cf4e0003ec7d",
-    "nombre": "disney59",
+    "img": "bb5848d7-3f6b-46ec-ba3e-bc3841b9edc1",
+    "nombre": "disney58",
     "status": "11:00",
     "duration": 135,
     "play_url": ""
@@ -600,27 +593,17 @@
     "league": "Fútbol Americano NCAA",
     "fecha-evento": "2025-09-06T11:00:00-05:00",
     "img": "c5f14863-a5bd-4d83-b6f9-f7818f81ac5f",
+    "nombre": "disney59",
+    "status": "11:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "UConn vs. Syracuse",
+    "league": "Fútbol Americano NCAA",
+    "fecha-evento": "2025-09-06T11:00:00-05:00",
+    "img": "1333dfdf-4abb-4d5c-a82c-cf4e0003ec7d",
     "nombre": "disney60",
-    "status": "11:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Press Conferences Day 14",
-    "league": "ESPN",
-    "fecha-evento": "2025-09-06T11:00:00-05:00",
-    "img": "30c8c1ea-c6d0-4f71-a719-e5f80633a1e0",
-    "nombre": "disney61",
-    "status": "11:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "UFC | Nassourdine Imavov vs. Caio Borralho | ESPN KO",
-    "league": "UFC",
-    "fecha-evento": "2025-09-06T11:00:00-05:00",
-    "img": "07ae0f76-5d43-4c2e-b5f5-183a857106af",
-    "nombre": "disney62",
     "status": "11:00",
     "duration": 135,
     "play_url": ""
@@ -630,6 +613,26 @@
     "league": "ESPN",
     "fecha-evento": "2025-09-06T11:00:00-05:00",
     "img": "b98830ed-421f-44c3-a7fe-546079e3937f",
+    "nombre": "disney61",
+    "status": "11:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Press Conferences Day 14",
+    "league": "ESPN",
+    "fecha-evento": "2025-09-06T11:00:00-05:00",
+    "img": "30c8c1ea-c6d0-4f71-a719-e5f80633a1e0",
+    "nombre": "disney62",
+    "status": "11:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "UFC | Nassourdine Imavov vs. Caio Borralho | ESPN KO",
+    "league": "UFC",
+    "fecha-evento": "2025-09-06T11:00:00-05:00",
+    "img": "07ae0f76-5d43-4c2e-b5f5-183a857106af",
     "nombre": "disney63",
     "status": "11:00",
     "duration": 135,
