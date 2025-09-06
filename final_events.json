@@ -65,19 +65,6 @@
     "k2": "79aed8b3b185a36adeaca1e9e9d1dce0"
   },
   {
-    "title": "Gardner-Webb vs. Georgia Tech",
-    "league": "Fútbol Americano NCAA",
-    "fecha-evento": "2025-09-06T14:30:00-05:00",
-    "img": "0382923f-5270-4e83-9e91-fbb03de648b4",
-    "nombre": "disney18",
-    "status": "14:30",
-    "duration": 180,
-    "play_url": "https://www.disneyplus.com/es-es/play/e977816e-8cc1-41c9-b9fc-f431922d736f",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1757276913~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F06%2FGardnerWebb_vs_Georgia_Te_20250906_1757180360796%2F~psid=2936f0c5-9198-49d5-94d9-47846e15baaf~aid=41b03773-9fe4-4005-8422-756bb8e2604c~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=754dc483931096772d0ae4ba8596579043f02f2d1abe2b722859fb56dc4e932d/clt1/va02/disneyplus/event/2025/09/06/GardnerWebb_vs_Georgia_Te_20250906_1757180360796/ctr-all-hdri-complete.m3u8?v=1&hash=81ae38049feb57dd150b9c773daa449b91ab2742",
-    "k1": "a66b96004ef14ca8b41c37be20c1f25d",
-    "k2": "52a4542327863e77b5112bd7b7b7b915"
-  },
-  {
     "title": "Bowling Green vs. Cincinnati",
     "league": "Fútbol Americano NCAA",
     "fecha-evento": "2025-09-06T14:30:01-05:00",
@@ -141,6 +128,19 @@
     "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1757277051~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F06%2FTroy_vs_8_Clemson_20250906_1757179845033%2F~psid=0a3131c6-41ed-49c7-9763-d9569e6df516~aid=41b03773-9fe4-4005-8422-756bb8e2604c~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=b875cefc55fd519cabad4aa19801747deba8ebcb2f449af37a0cba84e5acd245/clt1/va02/disneyplus/event/2025/09/06/Troy_vs_8_Clemson_20250906_1757179845033/ctr-all-hdri-complete.m3u8?v=1&hash=313ff4e0f177aa9436ea2b0781ac9f6e70c761d8",
     "k1": "280bcc3f04a34580a4f9b8b21d0b70a4",
     "k2": "6b7e77284eda12ac51336c5466de1889"
+  },
+  {
+    "title": "Gardner-Webb vs. Georgia Tech",
+    "league": "Fútbol Americano NCAA",
+    "fecha-evento": "2025-09-06T14:30:00-05:00",
+    "img": "0382923f-5270-4e83-9e91-fbb03de648b4",
+    "nombre": "disney18",
+    "status": "14:30",
+    "duration": 180,
+    "play_url": "https://www.disneyplus.com/es-es/play/e977816e-8cc1-41c9-b9fc-f431922d736f",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1757276913~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F06%2FGardnerWebb_vs_Georgia_Te_20250906_1757180360796%2F~psid=2936f0c5-9198-49d5-94d9-47846e15baaf~aid=41b03773-9fe4-4005-8422-756bb8e2604c~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=754dc483931096772d0ae4ba8596579043f02f2d1abe2b722859fb56dc4e932d/clt1/va02/disneyplus/event/2025/09/06/GardnerWebb_vs_Georgia_Te_20250906_1757180360796/ctr-all-hdri-complete.m3u8?v=1&hash=81ae38049feb57dd150b9c773daa449b91ab2742",
+    "k1": "a66b96004ef14ca8b41c37be20c1f25d",
+    "k2": "52a4542327863e77b5112bd7b7b7b915"
   },
   {
     "title": "#20 Ole Miss vs. Kentucky.",
@@ -247,21 +247,11 @@
     "k2": "7c1a0c1aa2c1e2f283d308b128ea4ff5"
   },
   {
-    "title": "East Tennessee State vs. #13 Gardner-Webb",
-    "league": "Fútbol Masculino NCAA",
-    "fecha-evento": "2025-09-06T17:00:00-05:00",
-    "img": "a3108af6-7d68-4e25-b3f8-c66e5f7515f0",
-    "nombre": "disney20",
-    "status": "17:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Piratas de Campeche vs. Diablos Rojos del México (Juego #6)",
     "league": "Mexican League",
     "fecha-evento": "2025-09-06T16:55:00-05:00",
     "img": "13ba00ba-51d5-4e99-9409-7df310d139ea",
-    "nombre": "disney21",
+    "nombre": "disney20",
     "status": "16:55",
     "duration": 135,
     "play_url": ""
@@ -271,6 +261,16 @@
     "league": "Fútbol Americano NCAA",
     "fecha-evento": "2025-09-06T17:00:00-05:00",
     "img": "331137f1-48f0-4417-aa0b-9fbf4935a46b",
+    "nombre": "disney21",
+    "status": "17:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "San José State vs. UC Davis",
+    "league": "NCAA Men's Water Polo",
+    "fecha-evento": "2025-09-06T17:00:00-05:00",
+    "img": "78b13d22-e497-45a5-ba4a-23f0ed36de3d",
     "nombre": "disney22",
     "status": "17:00",
     "duration": 135,
@@ -287,21 +287,11 @@
     "play_url": ""
   },
   {
-    "title": "San José State vs. UC Davis",
-    "league": "NCAA Men's Water Polo",
-    "fecha-evento": "2025-09-06T17:00:00-05:00",
-    "img": "78b13d22-e497-45a5-ba4a-23f0ed36de3d",
-    "nombre": "disney24",
-    "status": "17:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "North Carolina Central vs. Old Dominion",
     "league": "Fútbol Americano NCAA",
     "fecha-evento": "2025-09-06T17:00:00-05:00",
     "img": "050fae8a-aea0-477f-b0c9-c6e9a7d7ba5a",
-    "nombre": "disney25",
+    "nombre": "disney24",
     "status": "17:00",
     "duration": 135,
     "play_url": ""
@@ -311,7 +301,7 @@
     "league": "Fútbol Americano NCAA",
     "fecha-evento": "2025-09-06T17:00:00-05:00",
     "img": "0caa05c0-ed49-4abe-8763-ce7bd94a16f7",
-    "nombre": "disney26",
+    "nombre": "disney25",
     "status": "17:00",
     "duration": 135,
     "play_url": ""
@@ -321,7 +311,7 @@
     "league": "Fútbol Americano NCAA",
     "fecha-evento": "2025-09-06T17:00:00-05:00",
     "img": "1a130a63-65db-46ee-8477-042766b86e8b",
-    "nombre": "disney27",
+    "nombre": "disney26",
     "status": "17:00",
     "duration": 135,
     "play_url": ""
@@ -331,7 +321,7 @@
     "league": "ESPN",
     "fecha-evento": "2025-09-06T17:30:00-05:00",
     "img": "fb85c8ac-8260-4316-a57f-5fb20de56f5c",
-    "nombre": "disney28",
+    "nombre": "disney27",
     "status": "17:30",
     "duration": 135,
     "play_url": ""
@@ -341,7 +331,7 @@
     "league": "Fútbol Femenino NCAA",
     "fecha-evento": "2025-09-06T17:30:00-05:00",
     "img": "e640412f-667e-4e15-a811-6b6640f59e3f",
-    "nombre": "disney29",
+    "nombre": "disney28",
     "status": "17:30",
     "duration": 135,
     "play_url": ""
@@ -351,7 +341,7 @@
     "league": "USL Championship",
     "fecha-evento": "2025-09-06T18:00:00-05:00",
     "img": "4b5f4a47-0127-4fa8-89b3-e9ff464b2714",
-    "nombre": "disney30",
+    "nombre": "disney29",
     "status": "18:00",
     "duration": 135,
     "play_url": ""
@@ -361,7 +351,7 @@
     "league": "USL Super League",
     "fecha-evento": "2025-09-06T18:00:00-05:00",
     "img": "072ecfa5-a36e-4eb9-a1b6-c5acaed449bf",
-    "nombre": "disney31",
+    "nombre": "disney30",
     "status": "18:00",
     "duration": 135,
     "play_url": ""
@@ -371,7 +361,7 @@
     "league": "USL League One",
     "fecha-evento": "2025-09-06T18:00:00-05:00",
     "img": "5e1d0213-fa5e-4e86-8464-4bfd8ff89e46",
-    "nombre": "disney32",
+    "nombre": "disney31",
     "status": "18:00",
     "duration": 135,
     "play_url": ""
@@ -381,7 +371,7 @@
     "league": "Fútbol Americano NCAA",
     "fecha-evento": "2025-09-06T18:00:00-05:00",
     "img": "09451d5b-fd84-4c16-95cd-9533bffb5ffd",
-    "nombre": "disney33",
+    "nombre": "disney32",
     "status": "18:00",
     "duration": 135,
     "play_url": ""
@@ -391,7 +381,7 @@
     "league": "Fútbol Americano NCAA",
     "fecha-evento": "2025-09-06T18:00:00-05:00",
     "img": "19f7dfa7-d10d-46b1-8401-680c9cf639cf",
-    "nombre": "disney34",
+    "nombre": "disney33",
     "status": "18:00",
     "duration": 135,
     "play_url": ""
@@ -401,7 +391,7 @@
     "league": "Fútbol Americano NCAA",
     "fecha-evento": "2025-09-06T18:00:00-05:00",
     "img": "4a25e578-806d-4cf8-a104-a4347033c385",
-    "nombre": "disney35",
+    "nombre": "disney34",
     "status": "18:00",
     "duration": 135,
     "play_url": ""
@@ -411,7 +401,7 @@
     "league": "Fútbol Americano NCAA",
     "fecha-evento": "2025-09-06T18:00:00-05:00",
     "img": "05067671-1cbc-4ad3-9455-9548db38cf6c",
-    "nombre": "disney36",
+    "nombre": "disney35",
     "status": "18:00",
     "duration": 135,
     "play_url": ""
@@ -421,7 +411,7 @@
     "league": "ESPN",
     "fecha-evento": "2025-09-06T18:00:00-05:00",
     "img": "efd407c2-e61a-46d2-895b-4611fcded258",
-    "nombre": "disney37",
+    "nombre": "disney36",
     "status": "18:00",
     "duration": 135,
     "play_url": ""
@@ -431,7 +421,7 @@
     "league": "Fútbol Americano NCAA",
     "fecha-evento": "2025-09-06T18:00:00-05:00",
     "img": "0af825c2-5f86-46f3-b04e-0cb2616672ac",
-    "nombre": "disney38",
+    "nombre": "disney37",
     "status": "18:00",
     "duration": 135,
     "play_url": ""
@@ -441,7 +431,7 @@
     "league": "Fútbol Americano NCAA",
     "fecha-evento": "2025-09-06T18:00:00-05:00",
     "img": "3cd5bdab-9285-4246-b9d7-66c622160946",
-    "nombre": "disney39",
+    "nombre": "disney38",
     "status": "18:00",
     "duration": 135,
     "play_url": ""
@@ -451,7 +441,7 @@
     "league": "Fútbol Americano NCAA",
     "fecha-evento": "2025-09-06T18:00:00-05:00",
     "img": "b70e4a31-285d-488f-9941-583ec561d4a3",
-    "nombre": "disney40",
+    "nombre": "disney39",
     "status": "18:00",
     "duration": 135,
     "play_url": ""
@@ -461,7 +451,7 @@
     "league": "Fútbol Femenino NCAA",
     "fecha-evento": "2025-09-06T18:00:00-05:00",
     "img": "16592d59-386c-47dd-ad4f-f9b1bad88f0e",
-    "nombre": "disney41",
+    "nombre": "disney40",
     "status": "18:00",
     "duration": 135,
     "play_url": ""
@@ -471,7 +461,7 @@
     "league": "USL League One",
     "fecha-evento": "2025-09-06T18:00:00-05:00",
     "img": "c47c700a-0a96-4c64-b90c-fb4d833ff003",
-    "nombre": "disney42",
+    "nombre": "disney41",
     "status": "18:00",
     "duration": 135,
     "play_url": ""
@@ -481,7 +471,7 @@
     "league": "Fútbol Americano NCAA",
     "fecha-evento": "2025-09-06T18:00:00-05:00",
     "img": "060c1b9c-019e-4d66-a97e-9a845e277fb2",
-    "nombre": "disney43",
+    "nombre": "disney42",
     "status": "18:00",
     "duration": 135,
     "play_url": ""
@@ -491,7 +481,7 @@
     "league": "MLB",
     "fecha-evento": "2025-09-06T18:15:00-05:00",
     "img": "fa6501d5-63f7-4ebd-b93f-cce724d40b46",
-    "nombre": "disney44",
+    "nombre": "disney43",
     "status": "18:15",
     "duration": 135,
     "play_url": ""
@@ -501,7 +491,7 @@
     "league": "Campeonato Uruguayo",
     "fecha-evento": "2025-09-06T18:15:00-05:00",
     "img": "2988d32d-ba38-4e61-ba57-00e0dcb38f2d",
-    "nombre": "disney45",
+    "nombre": "disney44",
     "status": "18:15",
     "duration": 135,
     "play_url": ""
@@ -511,7 +501,7 @@
     "league": "USL Championship",
     "fecha-evento": "2025-09-06T18:30:00-05:00",
     "img": "0d9ec407-ba56-4d5f-9ce2-383453edd7d5",
-    "nombre": "disney46",
+    "nombre": "disney45",
     "status": "18:30",
     "duration": 135,
     "play_url": ""
@@ -521,7 +511,7 @@
     "league": "Fútbol Americano NCAA",
     "fecha-evento": "2025-09-06T18:30:00-05:00",
     "img": "1576da1d-1063-4bb9-8bc3-acc1f142f4dd",
-    "nombre": "disney47",
+    "nombre": "disney46",
     "status": "18:30",
     "duration": 135,
     "play_url": ""
@@ -531,7 +521,7 @@
     "league": "NCAA Women's Volleyball",
     "fecha-evento": "2025-09-06T18:30:00-05:00",
     "img": "4c4c5aa8-e4f1-4a70-a843-ba3bf4351f60",
-    "nombre": "disney48",
+    "nombre": "disney47",
     "status": "18:30",
     "duration": 135,
     "play_url": ""
@@ -541,7 +531,7 @@
     "league": "Fútbol Americano NCAA",
     "fecha-evento": "2025-09-06T18:30:00-05:00",
     "img": "0f8411a7-18f6-4131-9b29-7eb19344e1b1",
-    "nombre": "disney49",
+    "nombre": "disney48",
     "status": "18:30",
     "duration": 135,
     "play_url": ""
@@ -551,7 +541,7 @@
     "league": "Fútbol Americano NCAA",
     "fecha-evento": "2025-09-06T18:37:00-05:00",
     "img": "a971a6f6-01bd-4a19-879b-1957958d42ed",
-    "nombre": "disney50",
+    "nombre": "disney49",
     "status": "18:37",
     "duration": 135,
     "play_url": ""
@@ -561,7 +551,7 @@
     "league": "USL Championship",
     "fecha-evento": "2025-09-06T18:30:00-05:00",
     "img": "35ae7296-d503-417d-8fd5-d392ed7c3c05",
-    "nombre": "disney51",
+    "nombre": "disney50",
     "status": "18:30",
     "duration": 135,
     "play_url": ""
@@ -571,7 +561,7 @@
     "league": "USL League One",
     "fecha-evento": "2025-09-06T18:30:00-05:00",
     "img": "29bed58e-04f2-4a86-b414-59a0a14abcd2",
-    "nombre": "disney52",
+    "nombre": "disney51",
     "status": "18:30",
     "duration": 135,
     "play_url": ""
@@ -581,7 +571,7 @@
     "league": "Fútbol Americano NCAA",
     "fecha-evento": "2025-09-06T18:30:00-05:00",
     "img": "8a3c9c2b-08cf-4bcc-8e0d-ebeb7a110024",
-    "nombre": "disney53",
+    "nombre": "disney52",
     "status": "18:30",
     "duration": 135,
     "play_url": ""
@@ -591,7 +581,7 @@
     "league": "Fútbol Americano NCAA",
     "fecha-evento": "2025-09-06T18:30:00-05:00",
     "img": "7a3cb509-f1c1-4db3-83be-9f2eba473d2b",
-    "nombre": "disney54",
+    "nombre": "disney53",
     "status": "18:30",
     "duration": 135,
     "play_url": ""
@@ -601,7 +591,7 @@
     "league": "USL Super League",
     "fecha-evento": "2025-09-06T18:30:00-05:00",
     "img": "b7a3ee93-789e-4b83-a3ed-9f8211fed82b",
-    "nombre": "disney55",
+    "nombre": "disney54",
     "status": "18:30",
     "duration": 135,
     "play_url": ""
@@ -611,7 +601,7 @@
     "league": "USL Championship",
     "fecha-evento": "2025-09-06T18:30:00-05:00",
     "img": "6f416ab8-91b4-4e56-954e-7bb27325fc52",
-    "nombre": "disney56",
+    "nombre": "disney55",
     "status": "18:30",
     "duration": 135,
     "play_url": ""
@@ -621,7 +611,7 @@
     "league": "Fútbol Americano NCAA",
     "fecha-evento": "2025-09-06T18:45:00-05:00",
     "img": "61dc469d-88f4-4e63-a190-60a85e1691b6",
-    "nombre": "disney57",
+    "nombre": "disney56",
     "status": "18:45",
     "duration": 135,
     "play_url": ""
@@ -631,7 +621,7 @@
     "league": "NCAA Women's Volleyball",
     "fecha-evento": "2025-09-06T19:00:00-05:00",
     "img": "765dc304-ec22-433c-9497-77e0f3fc9879",
-    "nombre": "disney58",
+    "nombre": "disney57",
     "status": "19:00",
     "duration": 135,
     "play_url": ""
@@ -641,7 +631,7 @@
     "league": "NCAA Women's Volleyball",
     "fecha-evento": "2025-09-06T19:00:00-05:00",
     "img": "18e30b32-3d68-4660-a1d4-9ca24b9649ed",
-    "nombre": "disney59",
+    "nombre": "disney58",
     "status": "19:00",
     "duration": 135,
     "play_url": ""
@@ -651,7 +641,7 @@
     "league": "Fútbol Femenino NCAA",
     "fecha-evento": "2025-09-06T19:00:00-05:00",
     "img": "058c7c0d-e981-430b-ade5-359a4cb100f7",
-    "nombre": "disney60",
+    "nombre": "disney59",
     "status": "19:00",
     "duration": 135,
     "play_url": ""
@@ -661,7 +651,7 @@
     "league": "Fútbol Americano NCAA",
     "fecha-evento": "2025-09-06T19:00:00-05:00",
     "img": "82b45a85-9792-46ec-95f9-5cbb37191485",
-    "nombre": "disney61",
+    "nombre": "disney60",
     "status": "19:00",
     "duration": 135,
     "play_url": ""
@@ -671,7 +661,7 @@
     "league": "USL Championship",
     "fecha-evento": "2025-09-06T19:30:00-05:00",
     "img": "1a8818fd-54d3-4adc-9e09-0b107481c818",
-    "nombre": "disney62",
+    "nombre": "disney61",
     "status": "19:30",
     "duration": 135,
     "play_url": ""
@@ -681,8 +671,18 @@
     "league": "USL Championship",
     "fecha-evento": "2025-09-06T19:30:00-05:00",
     "img": "1b64426a-659a-4199-a274-220c26627f5b",
-    "nombre": "disney63",
+    "nombre": "disney62",
     "status": "19:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Spokane Zephyr vs. Fort Lauderdale United",
+    "league": "USL Super League",
+    "fecha-evento": "2025-09-06T20:00:00-05:00",
+    "img": "146ec16a-3092-41c7-b429-efbfc3257a06",
+    "nombre": "disney63",
+    "status": "20:00",
     "duration": 135,
     "play_url": ""
   }
