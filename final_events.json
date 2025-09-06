@@ -28,12 +28,15 @@
   {
     "title": "Porsche Supercup Italy Qualifying",
     "league": "Porsche Supercup Series",
-    "fecha-evento": "2025-09-06T03:35:00-05:00",
+    "fecha-evento": "2025-09-06T03:33:13-05:00",
     "img": "3452f7d9-ed58-45da-9bec-7e944fc028da",
     "nombre": "disney3",
-    "status": "03:35",
-    "duration": 135,
-    "play_url": ""
+    "status": "03:33",
+    "duration": 32,
+    "play_url": "https://www.disneyplus.com/es-es/play/e98f0819-fff7-4e27-a1a9-f3c9b0168507",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1757234418~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F06%2FPorsche_Supercup_Italy_Qu_20250906_1757140536016%2F~psid=f1c05db6-303b-4dd1-b8ea-a9f55f174a14~aid=41b03773-9fe4-4005-8422-756bb8e2604c~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=70932a99292b467055dec3cefe37f8f419e226b4a69e19c443b5e95e34b8ee33/clt1/va02/disneyplus/event/2025/09/06/Porsche_Supercup_Italy_Qu_20250906_1757140536016/ctr-all-hdri-complete.m3u8?v=1&hash=7cbae5deaf27a0c952354b77b8e4193fef60238f",
+    "k1": "abc769dc1f8b4f1d865726667c0b215b",
+    "k2": "fa148af79340294ae59d13f434449db8"
   },
   {
     "title": "MotoGP Qualifying -  Monster Energy Grand Prix of Catalonia",
@@ -516,31 +519,11 @@
     "play_url": ""
   },
   {
-    "title": "Mount St. Mary's vs. Merrimack",
-    "league": "Fútbol Femenino NCAA",
-    "fecha-evento": "2025-09-06T11:00:00-05:00",
-    "img": "0ac3458a-7640-456e-8782-781761eda306",
-    "nombre": "disney52",
-    "status": "11:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Central Michigan vs. Pittsburgh",
-    "league": "Fútbol Americano NCAA",
-    "fecha-evento": "2025-09-06T11:00:00-05:00",
-    "img": "02c25b66-b9ad-4615-8dd1-e32d10aca970",
-    "nombre": "disney53",
-    "status": "11:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "#11 Illinois vs. Duke",
     "league": "Fútbol Americano NCAA",
     "fecha-evento": "2025-09-06T11:00:00-05:00",
     "img": "5a771556-369b-4633-bbe0-fd29dd3987c6",
-    "nombre": "disney54",
+    "nombre": "disney52",
     "status": "11:00",
     "duration": 135,
     "play_url": ""
@@ -550,17 +533,27 @@
     "league": "Fútbol Americano NCAA",
     "fecha-evento": "2025-09-06T11:00:00-05:00",
     "img": "bb5848d7-3f6b-46ec-ba3e-bc3841b9edc1",
-    "nombre": "disney55",
+    "nombre": "disney53",
     "status": "11:00",
     "duration": 135,
     "play_url": ""
   },
   {
-    "title": "En Español-San José State vs. #7 Texas",
+    "title": "Mount St. Mary's vs. Merrimack",
+    "league": "Fútbol Femenino NCAA",
+    "fecha-evento": "2025-09-06T11:00:00-05:00",
+    "img": "0ac3458a-7640-456e-8782-781761eda306",
+    "nombre": "disney54",
+    "status": "11:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Central Michigan vs. Pittsburgh",
     "league": "Fútbol Americano NCAA",
     "fecha-evento": "2025-09-06T11:00:00-05:00",
-    "img": "c5f14863-a5bd-4d83-b6f9-f7818f81ac5f",
-    "nombre": "disney56",
+    "img": "02c25b66-b9ad-4615-8dd1-e32d10aca970",
+    "nombre": "disney55",
     "status": "11:00",
     "duration": 135,
     "play_url": ""
@@ -570,17 +563,17 @@
     "league": "Fútbol Americano NCAA",
     "fecha-evento": "2025-09-06T11:00:00-05:00",
     "img": "1333dfdf-4abb-4d5c-a82c-cf4e0003ec7d",
-    "nombre": "disney57",
+    "nombre": "disney56",
     "status": "11:00",
     "duration": 135,
     "play_url": ""
   },
   {
-    "title": "Granollers /Zeballos vs. Salisbury/Skupski | Final",
-    "league": "ESPN",
+    "title": "En Español-San José State vs. #7 Texas",
+    "league": "Fútbol Americano NCAA",
     "fecha-evento": "2025-09-06T11:00:00-05:00",
-    "img": "b98830ed-421f-44c3-a7fe-546079e3937f",
-    "nombre": "disney58",
+    "img": "c5f14863-a5bd-4d83-b6f9-f7818f81ac5f",
+    "nombre": "disney57",
     "status": "11:00",
     "duration": 135,
     "play_url": ""
@@ -590,6 +583,16 @@
     "league": "ESPN",
     "fecha-evento": "2025-09-06T11:00:00-05:00",
     "img": "30c8c1ea-c6d0-4f71-a719-e5f80633a1e0",
+    "nombre": "disney58",
+    "status": "11:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Granollers /Zeballos vs. Salisbury/Skupski | Final",
+    "league": "ESPN",
+    "fecha-evento": "2025-09-06T11:00:00-05:00",
+    "img": "b98830ed-421f-44c3-a7fe-546079e3937f",
     "nombre": "disney59",
     "status": "11:00",
     "duration": 135,
