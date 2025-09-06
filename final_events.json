@@ -13,19 +13,6 @@
     "k2": "3ccff704a4f42c67f0191e09ff65047a"
   },
   {
-    "title": "Amgen Irish Open (Third Round)",
-    "league": "DP World Tour",
-    "fecha-evento": "2025-09-06T06:30:01-05:00",
-    "img": "685b83bc-93dc-4c84-a0f0-04aacf728b87",
-    "nombre": "disney3",
-    "status": "06:30",
-    "duration": 300,
-    "play_url": "https://www.disneyplus.com/es-es/play/f2a097ed-4e64-4f5e-9fd1-9b9aa0101f84",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1757258506~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F06%2FAmgen_Irish_Open_Third_Ro_20250906_1757151048017%2F~psid=ef1bc685-34af-4a2f-b148-883ab908f178~aid=41b03773-9fe4-4005-8422-756bb8e2604c~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=96b172c52e0976925741c597f4453ce08d69512c77c404c0b742a3efc57ca7f7/clt1/va02/disneyplus/event/2025/09/06/Amgen_Irish_Open_Third_Ro_20250906_1757151048017/ctr-all-hdri-complete.m3u8?v=1&hash=1dd9b60c2ca53186d942a48227c36a2d2e1df17b",
-    "k1": "600c069333504b4eba69955bd1545bd7",
-    "k2": "bd55a1b3f53aba4534f2f61b133272c3"
-  },
-  {
     "title": "Lyon vs. Racing 92 (Ronda #1)",
     "league": "Top 14",
     "fecha-evento": "2025-09-06T09:55:00-05:00",
@@ -341,29 +328,35 @@
   {
     "title": "Bromley vs. Gillingham FC",
     "league": "League Two de Inglaterra",
-    "fecha-evento": "2025-09-06T11:20:00-05:00",
+    "fecha-evento": "2025-09-06T11:22:09-05:00",
     "img": "6263abd7-ad3a-442e-998a-6b21380c0477",
-    "nombre": "disney28",
-    "status": "11:20",
-    "duration": 135,
-    "play_url": ""
+    "nombre": "disney27",
+    "status": "11:22",
+    "duration": 128,
+    "play_url": "https://www.disneyplus.com/es-es/play/2ed0f166-60a4-49b9-9756-46498eedba33",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1757263351~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F06%2FBromley_vs_Gillingham_FC_20250906_1757168402032%2F~psid=65522292-f3be-4ed3-9dea-b3abab8fded1~aid=41b03773-9fe4-4005-8422-756bb8e2604c~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=2e8c334a079a46a31b55e42d72775259a6d0dd7ebc9e107a66c11d440e538d36/clt1/va02/disneyplus/event/2025/09/06/Bromley_vs_Gillingham_FC_20250906_1757168402032/ctr-all-hdri-complete.m3u8?v=1&hash=66ec7509575294eb69167c96ed03c8847c2c2258",
+    "k1": "105b3790b7164215996cbf79af42ed9c",
+    "k2": "7b2769d7ceb439bc55b41e0a2e897087"
   },
   {
     "title": "2025 Walker Cup (Day One)",
     "league": "ESPN",
-    "fecha-evento": "2025-09-06T11:30:00-05:00",
+    "fecha-evento": "2025-09-06T11:30:03-05:00",
     "img": "1178d647-40d1-424d-9850-8a7be670b907",
-    "nombre": "disney29",
+    "nombre": "disney28",
     "status": "11:30",
-    "duration": 135,
-    "play_url": ""
+    "duration": 180,
+    "play_url": "https://www.disneyplus.com/es-es/play/8a9998dd-7c32-4d3a-954d-5734b97c8e65",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1757263374~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F06%2F2025_Walker_Cup_Day_One_20250906_1757169003030%2F~psid=3113e69a-0713-4e90-accf-11869d3aa252~aid=41b03773-9fe4-4005-8422-756bb8e2604c~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=4669c85ae27f23548b0109d70a5f2c8d9a9f480394c413fb5b6f2f629385bb17/clt1/va02/disneyplus/event/2025/09/06/2025_Walker_Cup_Day_One_20250906_1757169003030/ctr-all-hdri-complete.m3u8?v=1&hash=920f0d59caaf03437cab8b60684bdd0f62c55e68",
+    "k1": "8dea6bb4bd00478c80c233fc3830f69a",
+    "k2": "c3bad00790b6b7b7e85b291f9c978963"
   },
   {
     "title": "Utah State vs. #19 Texas A&M",
     "league": "Fútbol Americano NCAA",
     "fecha-evento": "2025-09-06T11:45:00-05:00",
     "img": "1e2cb716-f2e3-4cf6-b4cb-c7bb3c66f50c",
-    "nombre": "disney30",
+    "nombre": "disney29",
     "status": "11:45",
     "duration": 135,
     "play_url": ""
@@ -373,7 +366,7 @@
     "league": "NCAA Women's Volleyball",
     "fecha-evento": "2025-09-06T12:00:00-05:00",
     "img": "d0c47719-7b66-4e50-9f83-c4f86842610b",
-    "nombre": "disney31",
+    "nombre": "disney30",
     "status": "12:00",
     "duration": 135,
     "play_url": ""
@@ -383,7 +376,7 @@
     "league": "Currie Cup",
     "fecha-evento": "2025-09-06T12:00:00-05:00",
     "img": "dabf02e1-03ca-45b4-8d80-d0adf492359f",
-    "nombre": "disney32",
+    "nombre": "disney31",
     "status": "12:00",
     "duration": 135,
     "play_url": ""
@@ -393,7 +386,7 @@
     "league": "NCAA Men's Water Polo",
     "fecha-evento": "2025-09-06T12:00:00-05:00",
     "img": "78b13d22-e497-45a5-ba4a-23f0ed36de3d",
-    "nombre": "disney33",
+    "nombre": "disney32",
     "status": "12:00",
     "duration": 135,
     "play_url": ""
@@ -403,7 +396,7 @@
     "league": "NCAA Women's Rugby",
     "fecha-evento": "2025-09-06T12:00:00-05:00",
     "img": "b9c139b8-ec11-4874-b8bb-15163f34e37a",
-    "nombre": "disney34",
+    "nombre": "disney33",
     "status": "12:00",
     "duration": 135,
     "play_url": ""
@@ -413,7 +406,7 @@
     "league": "Sub 18 El Andalus",
     "fecha-evento": "2025-09-06T12:50:00-05:00",
     "img": "3439ae33-d6fd-4523-b4b0-7ce3625daf4a",
-    "nombre": "disney35",
+    "nombre": "disney34",
     "status": "12:50",
     "duration": 135,
     "play_url": ""
@@ -423,7 +416,7 @@
     "league": "ESPN",
     "fecha-evento": "2025-09-06T13:00:00-05:00",
     "img": "53ab876c-19e4-41a2-a8ee-ed9897673227",
-    "nombre": "disney36",
+    "nombre": "disney35",
     "status": "13:00",
     "duration": 135,
     "play_url": ""
@@ -433,7 +426,7 @@
     "league": "Fútbol Americano NCAA",
     "fecha-evento": "2025-09-06T13:00:00-05:00",
     "img": "327e9a08-1e11-4a77-9550-a6506db78244",
-    "nombre": "disney37",
+    "nombre": "disney36",
     "status": "13:00",
     "duration": 135,
     "play_url": ""
@@ -443,7 +436,7 @@
     "league": "URBA Top 12",
     "fecha-evento": "2025-09-06T13:10:00-05:00",
     "img": "244f2331-da39-4072-85a4-8a8f7eb3212b",
-    "nombre": "disney38",
+    "nombre": "disney37",
     "status": "13:10",
     "duration": 135,
     "play_url": ""
@@ -453,7 +446,7 @@
     "league": "URBA Top 12",
     "fecha-evento": "2025-09-06T13:10:00-05:00",
     "img": "d093a45d-5780-4cd5-94b8-065f1690370e",
-    "nombre": "disney39",
+    "nombre": "disney38",
     "status": "13:10",
     "duration": 135,
     "play_url": ""
@@ -463,7 +456,7 @@
     "league": "URBA Top 12",
     "fecha-evento": "2025-09-06T13:10:00-05:00",
     "img": "ddba3d14-6d2b-4fde-b070-0f9436fd2126",
-    "nombre": "disney40",
+    "nombre": "disney39",
     "status": "13:10",
     "duration": 135,
     "play_url": ""
@@ -473,7 +466,7 @@
     "league": "URBA Top 12",
     "fecha-evento": "2025-09-06T13:10:00-05:00",
     "img": "7703dc0f-1c40-45ee-92d9-6e5089329a00",
-    "nombre": "disney41",
+    "nombre": "disney40",
     "status": "13:10",
     "duration": 135,
     "play_url": ""
@@ -483,7 +476,7 @@
     "league": "URBA Top 12",
     "fecha-evento": "2025-09-06T13:10:00-05:00",
     "img": "31345248-8eac-41f6-afcb-386559c100dd",
-    "nombre": "disney42",
+    "nombre": "disney41",
     "status": "13:10",
     "duration": 135,
     "play_url": ""
@@ -493,7 +486,7 @@
     "league": "Campeonato Uruguayo",
     "fecha-evento": "2025-09-06T13:15:00-05:00",
     "img": "dfe58b07-840d-420c-bb6d-ada326e84e22",
-    "nombre": "disney43",
+    "nombre": "disney42",
     "status": "13:15",
     "duration": 135,
     "play_url": ""
@@ -503,7 +496,7 @@
     "league": "Fútbol Americano NCAA",
     "fecha-evento": "2025-09-06T13:28:00-05:00",
     "img": "3347b537-5054-4230-a0de-8bc289f3b326",
-    "nombre": "disney44",
+    "nombre": "disney43",
     "status": "13:28",
     "duration": 135,
     "play_url": ""
@@ -513,7 +506,7 @@
     "league": "URBA Top 12",
     "fecha-evento": "2025-09-06T13:30:00-05:00",
     "img": "494392c4-e5ec-4b09-8e67-cc7835504088",
-    "nombre": "disney45",
+    "nombre": "disney44",
     "status": "13:30",
     "duration": 135,
     "play_url": ""
@@ -523,7 +516,7 @@
     "league": "Eliminatorias UEFA",
     "fecha-evento": "2025-09-06T13:30:00-05:00",
     "img": "03f2ca84-faba-4ddc-a82c-93e8b1db0f09",
-    "nombre": "disney46",
+    "nombre": "disney45",
     "status": "13:30",
     "duration": 135,
     "play_url": ""
@@ -533,7 +526,7 @@
     "league": "Eliminatorias UEFA",
     "fecha-evento": "2025-09-06T13:35:00-05:00",
     "img": "6c8f5abd-201e-47f2-a9df-49df05bde60b",
-    "nombre": "disney47",
+    "nombre": "disney46",
     "status": "13:35",
     "duration": 135,
     "play_url": ""
@@ -543,7 +536,7 @@
     "league": "Eliminatorias UEFA",
     "fecha-evento": "2025-09-06T13:35:00-05:00",
     "img": "84aae909-81d5-485f-a801-d49f39a2ea3e",
-    "nombre": "disney48",
+    "nombre": "disney47",
     "status": "13:35",
     "duration": 135,
     "play_url": ""
@@ -553,7 +546,7 @@
     "league": "Supercopa Argentina",
     "fecha-evento": "2025-09-06T13:45:00-05:00",
     "img": "040b3627-a44c-44ae-abdb-ec6fe04a7888",
-    "nombre": "disney49",
+    "nombre": "disney48",
     "status": "13:45",
     "duration": 135,
     "play_url": ""
@@ -563,7 +556,7 @@
     "league": "Segunda División de España",
     "fecha-evento": "2025-09-06T13:55:00-05:00",
     "img": "63676cb3-b397-4d55-93ba-9cebf8db7a83",
-    "nombre": "disney50",
+    "nombre": "disney49",
     "status": "13:55",
     "duration": 135,
     "play_url": ""
@@ -573,7 +566,7 @@
     "league": "USL League One",
     "fecha-evento": "2025-09-06T14:00:00-05:00",
     "img": "11d930ea-5c77-463c-baf3-7a6b964442fd",
-    "nombre": "disney51",
+    "nombre": "disney50",
     "status": "14:00",
     "duration": 135,
     "play_url": ""
@@ -583,7 +576,7 @@
     "league": "NCAA Women's Volleyball",
     "fecha-evento": "2025-09-06T14:00:00-05:00",
     "img": "fdb8c512-ccdf-467b-b890-7c154572eb8e",
-    "nombre": "disney52",
+    "nombre": "disney51",
     "status": "14:00",
     "duration": 135,
     "play_url": ""
@@ -593,7 +586,7 @@
     "league": "Fútbol Americano NCAA",
     "fecha-evento": "2025-09-06T14:30:00-05:00",
     "img": "02c918d2-cd47-4857-8bee-65b5cb2b5830",
-    "nombre": "disney53",
+    "nombre": "disney52",
     "status": "14:30",
     "duration": 135,
     "play_url": ""
@@ -603,6 +596,16 @@
     "league": "Fútbol Americano NCAA",
     "fecha-evento": "2025-09-06T14:30:00-05:00",
     "img": "08f8fea4-08a6-400c-a3f8-028758dceca7",
+    "nombre": "disney53",
+    "status": "14:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Lindenwood vs. App State",
+    "league": "Fútbol Americano NCAA",
+    "fecha-evento": "2025-09-06T14:30:00-05:00",
+    "img": "3275e48b-157f-47cf-823b-068f940cacfc",
     "nombre": "disney54",
     "status": "14:30",
     "duration": 135,
@@ -619,21 +622,11 @@
     "play_url": ""
   },
   {
-    "title": "Lindenwood vs. App State",
-    "league": "Fútbol Americano NCAA",
-    "fecha-evento": "2025-09-06T14:30:00-05:00",
-    "img": "3275e48b-157f-47cf-823b-068f940cacfc",
-    "nombre": "disney56",
-    "status": "14:30",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Aryna Sabalenka (BLR) vs. Amanda Anisimova (USA) (Women's Championship)",
     "league": "ESPN",
     "fecha-evento": "2025-09-06T14:30:00-05:00",
     "img": "71dd1171-08e6-447a-9e67-60b2a2f1ada1",
-    "nombre": "disney57",
+    "nombre": "disney56",
     "status": "14:30",
     "duration": 135,
     "play_url": ""
@@ -643,7 +636,7 @@
     "league": "Fútbol Americano NCAA",
     "fecha-evento": "2025-09-06T14:30:00-05:00",
     "img": "16efba08-e13e-4b07-8abb-219e82c1370a",
-    "nombre": "disney58",
+    "nombre": "disney57",
     "status": "14:30",
     "duration": 135,
     "play_url": ""
@@ -653,7 +646,7 @@
     "league": "Fútbol Americano NCAA",
     "fecha-evento": "2025-09-06T14:30:00-05:00",
     "img": "0382923f-5270-4e83-9e91-fbb03de648b4",
-    "nombre": "disney59",
+    "nombre": "disney58",
     "status": "14:30",
     "duration": 135,
     "play_url": ""
@@ -663,7 +656,7 @@
     "league": "ESPN",
     "fecha-evento": "2025-09-06T14:30:00-05:00",
     "img": "3fb6bea9-9d12-44cd-92bf-70dcf263cd9d",
-    "nombre": "disney60",
+    "nombre": "disney59",
     "status": "14:30",
     "duration": 135,
     "play_url": ""
@@ -673,7 +666,7 @@
     "league": "Fútbol Americano NCAA",
     "fecha-evento": "2025-09-06T14:40:00-05:00",
     "img": "16fe0156-7add-4dc1-af3c-ba9f57333aaa",
-    "nombre": "disney61",
+    "nombre": "disney60",
     "status": "14:40",
     "duration": 135,
     "play_url": ""
@@ -683,7 +676,7 @@
     "league": "Fútbol Americano NCAA",
     "fecha-evento": "2025-09-06T15:00:00-05:00",
     "img": "41ba7413-1b97-46a7-879c-de906f1a7ade",
-    "nombre": "disney62",
+    "nombre": "disney61",
     "status": "15:00",
     "duration": 135,
     "play_url": ""
@@ -693,8 +686,18 @@
     "league": "Sub 18 El Andalus",
     "fecha-evento": "2025-09-06T15:05:00-05:00",
     "img": "263ecbd2-2f4e-4bca-b621-b60a540f1f19",
-    "nombre": "disney63",
+    "nombre": "disney62",
     "status": "15:05",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "South Florida vs. #13 Florida",
+    "league": "Fútbol Americano NCAA",
+    "fecha-evento": "2025-09-06T15:15:00-05:00",
+    "img": "2e9d945f-70c9-496a-9a07-6c532e2fd3f6",
+    "nombre": "disney63",
+    "status": "15:15",
     "duration": 135,
     "play_url": ""
   }
