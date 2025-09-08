@@ -1,14 +1,6 @@
 {
   "domains": [
     {
-      "domain": "geo.dailymotion.com",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
-        "Referer": "https://www.dailymotion.com/",
-        "Origin": "https://www.dailymotion.com"
-      }
-    },
-    {
       "domain": "d1iltgxz8beysf.cloudfront.net",
       "headers": {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
