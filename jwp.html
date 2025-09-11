@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>JWPlayer Loader</title>
+  <style>
+    body {
+      margin: 0;
+      background: #000;
+      overflow: hidden;
+    }
+    #player {
+      width: 100%;
+      height: 100vh;
+    }
+    /* Botón fullscreen personalizado */
+    #btnFullscreen {
+      position: absolute;
+      bottom: 20px;
+      right: 20px;
+      padding: 12px 18px;
+      font-size: 16px;
+      border: none;
+      border-radius: 8px;
+      background: #28a745;
+      color: white;
+      cursor: pointer;
+      z-index: 9999;
+    }
+    #btnFullscreen:focus {
+      outline: 3px solid yellow; /* Resaltado al navegar con control remoto */
+    }
+    /* Puntero estilo cursor */
+    #pointer {
+      position: fixed;
+      pointer-events: none;
+      z-index: 9999;
+      opacity: 0;
+      transition: opacity 0.3s ease, transform 0.1s linear;
+    }
+    #pointer svg {
+      width: 32px;
+      height: 32px;
+      fill: white;
+      stroke: black;
+      stroke-width: 1;
+    }
+  </style>
+  <script src="//ssl.p.jwpcdn.com/player/v/8.21.0/jwplayer.js"></script>
+  <script>
+    jwplayer.key = "XSuP4qMl+9tK17QNb+4+th2Pm9AWgMO/cYH8CI0HGGr7bdjo";
+  </script>
+</head>
+<body>
+  <div id="player"></div>
+  <button id="btnFullscreen" style="display:none;">Fullscreen</button>
+
+  <!-- Cursor -->
+  <div id="pointer">
+    <svg viewBox="0 0 24 24">
+      <path d="M2 2 L6 20 L10 14 L14 22 L16 21 L12 13 L18 13 Z"/>
+    </svg>
+  </div>
+
+  <script>
+    // -------------------
+    //  Loader JWPlayer
+    // -------------------
+    function getParam(name) {
+      const url = new URL(window.location.href);
+      return url.searchParams.get(name);
+    }
+
+    const file = getParam("get");
+    const keyId = getParam("key");
+    const key = getParam("key2");
+
+    if (file && keyId && key) {
+      jwplayer("player").setup({
+        playlist: [{
+          title: "JWPlayer Loader",
+          description: "Reproducción dinámica",
+          sources: [{
+            file: file,
+            type: "dash",
+            drm: { clearkey: { keyId: keyId, key: key } }
+          }]
+        }],
+        width: "100%",
+        height: "100vh",
+        autostart: true
+      });
+    } else {
+      document.body.innerHTML = "<h3 style='color:white;text-align:center;padding:20px'>⚠️ Faltan parámetros en la URL</h3>";
+    }
+
+    // Mostrar botón fullscreen solo en TVBox (no móviles)
+    const isMobile = /Mobi|Android.*Mobile|iPhone|iPad|iPod/i.test(navigator.userAgent);
+    if (!isMobile) {
+      document.getElementById("btnFullscreen").style.display = "block";
+    }
+
+    // Acción fullscreen
+    document.getElementById("btnFullscreen").addEventListener("click", () => {
+      const playerEl = document.getElementById("player");
+      if (playerEl.requestFullscreen) playerEl.requestFullscreen();
+      else if (playerEl.webkitRequestFullscreen) playerEl.webkitRequestFullscreen();
+      else if (playerEl.mozRequestFullScreen) playerEl.mozRequestFullScreen();
+      else if (playerEl.msRequestFullscreen) playerEl.msRequestFullscreen();
+    });
+
+    // -------------------
+    //  Puntero navegable
+    // -------------------
+    const pointer = document.getElementById("pointer");
+    let x = window.innerWidth / 2;
+    let y = window.innerHeight / 2;
+    const step = 20;
+    let active = false;
+    let hideTimeout;
+
+    function movePointer() {
+      pointer.style.left = x + "px";
+      pointer.style.top = y + "px";
+    }
+
+    function showPointer() {
+      pointer.style.opacity = 1;
+      active = true;
+      clearTimeout(hideTimeout);
+      hideTimeout = setTimeout(() => {
+        pointer.style.opacity = 0;
+        active = false;
+      }, 3000);
+    }
+
+    document.addEventListener("keydown", (e) => {
+      if (["ArrowUp","ArrowDown","ArrowLeft","ArrowRight","Enter"].includes(e.key)) {
+        e.preventDefault(); // 🚫 Bloquea que JWPlayer reciba las teclas
+        showPointer();
+        switch (e.key) {
+          case "ArrowUp": y = Math.max(0, y - step); break;
+          case "ArrowDown": y = Math.min(window.innerHeight, y + step); break;
+          case "ArrowLeft": x = Math.max(0, x - step); break;
+          case "ArrowRight": x = Math.min(window.innerWidth, x + step); break;
+          case "Enter":
+            const el = document.elementFromPoint(x, y);
+            if (el) el.click();
+            break;
+        }
+        movePointer();
+      }
+    });
+
+    ["mousemove", "mousedown", "touchstart"].forEach(evt => {
+      document.addEventListener(evt, () => {
+        pointer.style.opacity = 0;
+        active = false;
+        clearTimeout(hideTimeout);
+      });
+    });
+
+    window.addEventListener("resize", () => {
+      x = Math.min(x, window.innerWidth);
+      y = Math.min(y, window.innerHeight);
+      if (active) movePointer();
+    });
+
+    movePointer();
+  </script>
+</body>
+</html>
+
