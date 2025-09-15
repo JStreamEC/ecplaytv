@@ -2,12 +2,15 @@
   {
     "title": "Atlético de San Luis vs. Club León (Jornada 11)",
     "league": "Mexican Liga BBVA MX Femenil",
-    "fecha-evento": "2025-09-15T17:50:00-05:00",
+    "fecha-evento": "2025-09-15T17:50:04-05:00",
     "img": "6dc9ee5a-a75d-45bc-aae2-49a679496143",
     "nombre": "disney1",
     "status": "17:50",
-    "duration": 135,
-    "play_url": ""
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/8e2c4cfc-484e-431f-9619-deab64aa0c77",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1758064558~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F15%2FAtltico_de_San_Luis_vs_Cl_20250915_1757969438026%2F~psid=28b20ff5-e71f-4136-899b-4510c5a2a9ca~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=a7bc840e0f187eaf59566b7a34746f3512b6269a2c551a68cbb11c76f002f6cf/clt1/va02/disneyplus/event/2025/09/15/Atltico_de_San_Luis_vs_Cl_20250915_1757969438026/ctr-all-hdri-complete.m3u8?v=1&hash=4c3529347c5ff8ce1dd44058b5ab910df802492c",
+    "k1": "2081fb0b20bc4b0aaef9c86614a45a54",
+    "k2": "3ae8329e955bfd71361ed7db29b41ae4"
   },
   {
     "title": "Tampa Bay Buccaneers vs. Houston Texans",
@@ -16,8 +19,11 @@
     "img": "2eb274d4-2315-4e87-af44-70e31e49057f",
     "nombre": "disney2",
     "status": "17:50",
-    "duration": 135,
-    "play_url": ""
+    "duration": 190,
+    "play_url": "https://www.disneyplus.com/es-es/play/dba41f35-ccb7-419a-924b-3a775feb73e8",
+    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1758064601~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Ff25bdf06-81c9-4a7c-b128-3128d610ad17-1756223551993%2F~psid=5ba3d404-c012-4d1b-960e-3294a7a63c05~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=deb490159b181c7acd9a5e601a2cdc60f237b6e7a7a361927f0e7fd81ec2de3d/clt1/va02/disneyplus/channel/f25bdf06-81c9-4a7c-b128-3128d610ad17-1756223551993/ctr-all-sliding.m3u8?v=1&hash=aa8d2bb37fafb9b8d31c8b8095cb65f827b67eb8",
+    "k1": "40b04bf467224b31a598bc4f2805b071",
+    "k2": "ccb76a49bc4a096acbb21d1f8fd5b646"
   },
   {
     "title": "Texas Rangers vs. Houston Astros",
@@ -313,7 +319,7 @@
     "title": "Hangzhou Open (First Round)",
     "league": "ATP",
     "fecha-evento": "2025-09-17T01:00:00-05:00",
-    "img": "506503ac-5823-48cb-871e-0c23926e4931",
+    "img": "83d188de-6763-48a3-b0da-192301b587ca",
     "nombre": "disney32",
     "status": "01:00",
     "duration": 135,
