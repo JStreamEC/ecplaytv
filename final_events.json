@@ -32,8 +32,11 @@
     "img": "0bf7cf89-ab55-4125-b7cc-182e03c12123",
     "nombre": "disney3",
     "status": "11:50",
-    "duration": 135,
-    "play_url": ""
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/01600dd1-961a-4c42-8a47-afa894ab4ec9",
+    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1758042018~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F7f9052ce-8143-43a6-9656-a8c00c4a3e56-1756223111094%2F~psid=b4aff5f4-2eba-4227-bb32-ba26400aae87~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=752d658676be1a841070ecd3431e9867c2dd8102e52c11920cc8dbe0b8486dc9/clt1/va02/disneyplus/channel/7f9052ce-8143-43a6-9656-a8c00c4a3e56-1756223111094/ctr-all-sliding.m3u8?v=1&hash=2f03544b7adaaaa4f23d8a4cd7d7cec9ba48514e",
+    "k1": "e2e6892253064c4ab67a40d33f08921e",
+    "k2": "a44749d12c687c6a2bf83580d21154ae"
   },
   {
     "title": "Al Ahli Saudi (KSA) vs. Nasaf (UZB)",
@@ -216,20 +219,20 @@
     "play_url": ""
   },
   {
-    "title": "UCL al instante",
+    "title": "Real Madrid vs. Olympique de Marseille",
     "league": "UEFA Champions League",
     "fecha-evento": "2025-09-16T13:40:00-05:00",
-    "img": "12e4ea33-4924-4ce3-b125-74470b7ff27e",
+    "img": "2ad1fa14-950d-4cea-b3d3-d5ef0006dfd8",
     "nombre": "disney22",
     "status": "13:40",
     "duration": 135,
     "play_url": ""
   },
   {
-    "title": "Real Madrid vs. Olympique de Marseille",
+    "title": "UCL al instante",
     "league": "UEFA Champions League",
     "fecha-evento": "2025-09-16T13:40:00-05:00",
-    "img": "2ad1fa14-950d-4cea-b3d3-d5ef0006dfd8",
+    "img": "12e4ea33-4924-4ce3-b125-74470b7ff27e",
     "nombre": "disney23",
     "status": "13:40",
     "duration": 135,
