@@ -32,8 +32,11 @@
     "img": "023959f0-1d11-49ac-9b15-ee32618db3f1",
     "nombre": "disney3",
     "status": "19:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 180,
+    "play_url": "https://www.disneyplus.com/es-es/play/2bd9e7dd-4a6c-44d2-afdd-012a48769ba0",
+    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1758068417~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Fbbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1756222885714%2F~psid=939d5fcf-20f9-48a8-9626-69f1f57788cb~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=6345379004f44d0de03bea874903410d38ea8794b0f8ea06cae9cc88c468439d/clt1/va02/disneyplus/channel/bbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1756222885714/ctr-all-sliding.m3u8?v=1&hash=4ef55646b567cbe3f3638e191b8e417ec275878b",
+    "k1": "973fcdfcef9b4cd9818ae5d2a5f5baba",
+    "k2": "d923e12bad345c0a1a48d487daeec93f"
   },
   {
     "title": "Los Angeles Chargers vs. Las Vegas Raiders",
@@ -66,20 +69,20 @@
     "play_url": ""
   },
   {
-    "title": "Korea Open Tennis Championships 2025 Presented by Motiva / Grandstand",
+    "title": "Korea Open Tennis Championships 2025 Presented by Motiva (First Round)",
     "league": "WTA",
     "fecha-evento": "2025-09-16T00:00:00-05:00",
-    "img": "05341a61-9490-4301-b8fa-38c816261a9b",
+    "img": "2a9e5181-a350-40ef-b998-0c46c757c929",
     "nombre": "disney7",
     "status": "00:00",
     "duration": 135,
     "play_url": ""
   },
   {
-    "title": "Korea Open Tennis Championships 2025 Presented by Motiva (First Round)",
+    "title": "Korea Open Tennis Championships 2025 Presented by Motiva / Grandstand",
     "league": "WTA",
     "fecha-evento": "2025-09-16T00:00:00-05:00",
-    "img": "2a9e5181-a350-40ef-b998-0c46c757c929",
+    "img": "05341a61-9490-4301-b8fa-38c816261a9b",
     "nombre": "disney8",
     "status": "00:00",
     "duration": 135,
@@ -436,20 +439,20 @@
     "play_url": ""
   },
   {
-    "title": "Paris Saint-Germain vs. Atalanta",
+    "title": "Liverpool vs. Atletico Madrid",
     "league": "UEFA Champions League",
     "fecha-evento": "2025-09-17T13:40:00-05:00",
-    "img": "83c30918-af07-4845-a4cc-d3d435a4190f",
+    "img": "39b7582f-2a09-4df6-a93c-b7a94e5d8b9f",
     "nombre": "disney44",
     "status": "13:40",
     "duration": 135,
     "play_url": ""
   },
   {
-    "title": "Liverpool vs. Atletico Madrid",
+    "title": "Paris Saint-Germain vs. Atalanta",
     "league": "UEFA Champions League",
     "fecha-evento": "2025-09-17T13:40:00-05:00",
-    "img": "39b7582f-2a09-4df6-a93c-b7a94e5d8b9f",
+    "img": "83c30918-af07-4845-a4cc-d3d435a4190f",
     "nombre": "disney45",
     "status": "13:40",
     "duration": 135,
