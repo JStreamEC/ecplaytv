@@ -28,10 +28,10 @@
   {
     "title": "Los Angeles Chargers vs. Las Vegas Raiders",
     "league": "NFL",
-    "fecha-evento": "2025-09-15T21:00:00-05:00",
+    "fecha-evento": "2025-09-15T21:05:00-05:00",
     "img": "0a8f13de-aa07-4616-83e5-3bdbc7ecee5d",
     "nombre": "disney3",
-    "status": "21:00",
+    "status": "21:05",
     "duration": 135,
     "play_url": ""
   },
@@ -42,8 +42,11 @@
     "img": "56f64c48-bbf7-4aeb-a2a9-db70989ee9bc",
     "nombre": "disney4",
     "status": "21:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 180,
+    "play_url": "https://www.disneyplus.com/es-es/play/ce9bda8d-77f4-49a1-9ed9-e3ebb0c2c6c2",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1758074419~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F16%2FPhiladelphia_Phillies_vs__20250916_1757980821027%2F~psid=65d98359-c5da-44da-af14-8d5580e18603~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=096e418d39026b5786aa52e8751a0ffe720540913d3ae4ec44ed3f4ee744c7d0/clt1/va02/disneyplus/event/2025/09/16/Philadelphia_Phillies_vs__20250916_1757980821027/ctr-all-hdri-complete.m3u8?v=1&hash=f4b9edaea000caf126c66e93e1d07088ff6ddd33",
+    "k1": "714fca2f219d4c22873aa8c1a5b559cf",
+    "k2": "76d1d352a25bfb6471380569ab0b70a8"
   },
   {
     "title": "Lo Mejor de MotoGP",
