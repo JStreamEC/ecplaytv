@@ -67,12 +67,15 @@
   {
     "title": "SportsCenter Night",
     "league": "ESPN",
-    "fecha-evento": "2025-09-17T18:30:00-05:00",
+    "fecha-evento": "2025-09-17T18:30:05-05:00",
     "img": "b1a516ec-4f8a-4d3c-8766-2259ba51e078",
     "nombre": "disney6",
     "status": "18:30",
-    "duration": 135,
-    "play_url": ""
+    "duration": 165,
+    "play_url": "https://www.disneyplus.com/es-es/play/b1bd1f2b-9063-4129-a57d-18d6c86102fd",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1758238817~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F17%2FSportsCenter_20250917_1758144616023%2F~psid=5177a5ab-44ec-4801-b5c6-8d5b4726c661~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=312bcdc0df481e4d69416149be9225e0301aae105dd4f46d82c13b750e7cfa83/clt1/va02/disneyplus/event/2025/09/17/SportsCenter_20250917_1758144616023/ctr-all-hdri-complete.m3u8?v=1&hash=dc21b9a580cc90516cf492ef4f369c1bca6727ae",
+    "k1": "f4581095a73042aab73333acb88ee414",
+    "k2": "c59709ce8be1b6eff6a742f82864f27d"
   },
   {
     "title": "Union Omaha vs. Spokane Velocity",
