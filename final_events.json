@@ -1,18 +1,5 @@
 [
   {
-    "title": "Sk Slavia Praha vs. FK Bodø/Glimt",
-    "league": "UEFA Champions League",
-    "fecha-evento": "2025-09-17T11:30:00-05:00",
-    "img": "ddf79658-d15b-4b2f-8719-58f219f04ae6",
-    "nombre": "disney1",
-    "status": "11:30",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/e7be2820-1e34-478a-be12-e286c8c11284",
-    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1758213618~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Ff25bdf06-81c9-4a7c-b128-3128d610ad17-1756223551993%2F~psid=2d01f922-9dcb-474f-9f9e-d9a797b97349~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=652dc752b50d133872f64a47730b5eeb761a77fde17a7855b401c5556c99bac9/clt1/va02/disneyplus/channel/f25bdf06-81c9-4a7c-b128-3128d610ad17-1756223551993/ctr-all-sliding.m3u8?v=1&hash=aa8d2bb37fafb9b8d31c8b8095cb65f827b67eb8",
-    "k1": "06c1ccdc5c7447069d253538c8957dbe",
-    "k2": "dd5b4a92fef4c052550e9942b26260c0"
-  },
-  {
     "title": "Birmingham Legion FC vs. Tampa Bay Rowdies",
     "league": "USL Championship",
     "fecha-evento": "2025-09-17T11:30:00-05:00",
@@ -24,6 +11,19 @@
     "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1758213661~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F17%2FBirmingham_Legion_FC_vs_T_20250917_1758119432030%2F~psid=7e3f3243-3ac0-4e87-bc13-c4ad7998db17~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=9d039e96499a3e5a3586183a3ab23dc977ad27d2e3183b64dc8096eb84259c39/clt1/va02/disneyplus/event/2025/09/17/Birmingham_Legion_FC_vs_T_20250917_1758119432030/ctr-all-hdri-complete.m3u8?v=1&hash=3e3833f0b6d63ed4bcbc8c03bcd4291f77948a02",
     "k1": "bad9777a731342bdb12386843d8ccca1",
     "k2": "3b68460a22510c5c0c1fff50a5764ce1"
+  },
+  {
+    "title": "Sk Slavia Praha vs. FK Bodø/Glimt",
+    "league": "UEFA Champions League",
+    "fecha-evento": "2025-09-17T11:30:00-05:00",
+    "img": "ddf79658-d15b-4b2f-8719-58f219f04ae6",
+    "nombre": "disney1",
+    "status": "11:30",
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/e7be2820-1e34-478a-be12-e286c8c11284",
+    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1758213618~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Ff25bdf06-81c9-4a7c-b128-3128d610ad17-1756223551993%2F~psid=2d01f922-9dcb-474f-9f9e-d9a797b97349~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=652dc752b50d133872f64a47730b5eeb761a77fde17a7855b401c5556c99bac9/clt1/va02/disneyplus/channel/f25bdf06-81c9-4a7c-b128-3128d610ad17-1756223551993/ctr-all-sliding.m3u8?v=1&hash=aa8d2bb37fafb9b8d31c8b8095cb65f827b67eb8",
+    "k1": "06c1ccdc5c7447069d253538c8957dbe",
+    "k2": "dd5b4a92fef4c052550e9942b26260c0"
   },
   {
     "title": "Olympiacos FC vs. Pafos FC",
@@ -492,20 +492,20 @@
     "play_url": ""
   },
   {
-    "title": "#19 Kansas vs. Oklahoma State",
-    "league": "Fútbol Femenino NCAA",
+    "title": "Alianza Lima (PER) vs. Universidad de Chile (CHI) | 4tos de final, ida",
+    "league": "CONMEBOL Sudamericana",
     "fecha-evento": "2025-09-18T19:00:00-05:00",
-    "img": "adab02b6-823a-4051-8c6b-e35b82e2bcb3",
+    "img": "1de419b7-340c-49fd-befc-745e303a9e61",
     "nombre": "disney49",
     "status": "19:00",
     "duration": 135,
     "play_url": ""
   },
   {
-    "title": "Alianza Lima (PER) vs. Universidad de Chile (CHI) | 4tos de final, ida",
-    "league": "CONMEBOL Sudamericana",
+    "title": "#19 Kansas vs. Oklahoma State",
+    "league": "Fútbol Femenino NCAA",
     "fecha-evento": "2025-09-18T19:00:00-05:00",
-    "img": "1de419b7-340c-49fd-befc-745e303a9e61",
+    "img": "adab02b6-823a-4051-8c6b-e35b82e2bcb3",
     "nombre": "disney50",
     "status": "19:00",
     "duration": 135,
