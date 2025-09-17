@@ -45,8 +45,11 @@
     "img": "00799296-0f36-4db3-9e3a-adc2d1ad683c",
     "nombre": "disney4",
     "status": "22:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/2b91d934-d550-4d11-8ec2-91666c8d4747",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1758164418~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F17%2FKorea_Open_Tennis_Champio_20250917_1758070826032%2F~psid=6327cb49-f92a-4abf-9942-8eb4edf14306~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=83f1f30f2d245a27dde1df28a7487471c8281f90cab3b02018c81e2baea83dcb/clt1/va02/disneyplus/event/2025/09/17/Korea_Open_Tennis_Champio_20250917_1758070826032/ctr-all-hdri-complete.m3u8?v=1&hash=b4f635c936d19092898bb40c36ee62798144ae89",
+    "k1": "e89c50f634b84e4c82ff14191a4c3898",
+    "k2": "a86fa49da7c6211b0e0a888863d06dbb"
   },
   {
     "title": "Korea Open Tennis Championships 2025 Presented by Motiva / Grandstand",
@@ -55,8 +58,11 @@
     "img": "05341a61-9490-4301-b8fa-38c816261a9b",
     "nombre": "disney5",
     "status": "22:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 480,
+    "play_url": "https://www.disneyplus.com/es-es/play/ae8400ee-e29e-4822-b7bc-f1946f6dae5e",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1758164461~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F17%2FKorea_Open_Tennis_Champio_20250917_1758070828034%2F~psid=5932b44d-553a-4a20-a697-3630a9d907f5~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=bc2a42f5688e3573956b937ee79504c173dfc456f2ca7b6089cf0f2c0de8c235/clt1/va02/disneyplus/event/2025/09/17/Korea_Open_Tennis_Champio_20250917_1758070828034/ctr-all-hdri-complete.m3u8?v=1&hash=c9265616893b21267002b83bf4407e514544fcef",
+    "k1": "037a52dd94164d458fe81793561592f8",
+    "k2": "fd912cd046771c40aa84b9f101b5cdf6"
   },
   {
     "title": "Korea Open Tennis Championships 2025 Presented by Motiva (First Round)",
@@ -259,20 +265,20 @@
     "play_url": ""
   },
   {
-    "title": "River Plate (ARG) vs. Palmeiras (BRA) | 4tos de final, Ida",
-    "league": "CONMEBOL Libertadores",
+    "title": "Union Omaha vs. Spokane Velocity",
+    "league": "USL League One",
     "fecha-evento": "2025-09-17T19:00:00-05:00",
-    "img": "94946785-cc77-43e2-923b-9252b18ac597",
+    "img": "b6566034-dd65-42c2-9171-ba4db1fb818b",
     "nombre": "disney26",
     "status": "19:00",
     "duration": 135,
     "play_url": ""
   },
   {
-    "title": "Union Omaha vs. Spokane Velocity",
-    "league": "USL League One",
+    "title": "River Plate (ARG) vs. Palmeiras (BRA) | 4tos de final, Ida",
+    "league": "CONMEBOL Libertadores",
     "fecha-evento": "2025-09-17T19:00:00-05:00",
-    "img": "b6566034-dd65-42c2-9171-ba4db1fb818b",
+    "img": "94946785-cc77-43e2-923b-9252b18ac597",
     "nombre": "disney27",
     "status": "19:00",
     "duration": 135,
