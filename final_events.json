@@ -45,8 +45,11 @@
     "img": "5c0db630-a396-42a6-8130-b44c2621745c",
     "nombre": "disney4",
     "status": "11:50",
-    "duration": 135,
-    "play_url": ""
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/7c3fb688-4221-4298-a695-4999fde33cfb",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1758214222~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F17%2FFenerbahce_vs_Alanyaspor_20250917_1758120604033%2F~psid=2d4ee935-db8a-443d-b7ba-f4ab979ac407~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=fcb6b2cb0eace5a3c5a3252aec9e0c1de201f919b17bc85637ccd5ad44936707/clt1/va02/disneyplus/event/2025/09/17/Fenerbahce_vs_Alanyaspor_20250917_1758120604033/ctr-all-hdri-complete.m3u8?v=1&hash=076af030c9bdf437f822ce063c0d894e20e64301",
+    "k1": "13b9ea0162bc46ef937c46a3f8f01fb7",
+    "k2": "ebe1d6122f647f4a320832b2ebd569ff"
   },
   {
     "title": "Feyenoord vs. Fortuna Sittard",
@@ -79,20 +82,20 @@
     "play_url": ""
   },
   {
-    "title": "Paris Saint-Germain vs. Atalanta",
+    "title": "Liverpool vs. Atlético Madrid",
     "league": "UEFA Champions League",
     "fecha-evento": "2025-09-17T13:40:00-05:00",
-    "img": "83c30918-af07-4845-a4cc-d3d435a4190f",
+    "img": "8177efb7-7502-43ed-85a6-c08ddcb304a6",
     "nombre": "disney8",
     "status": "13:40",
     "duration": 135,
     "play_url": ""
   },
   {
-    "title": "Liverpool vs. Atlético Madrid",
+    "title": "Paris Saint-Germain vs. Atalanta",
     "league": "UEFA Champions League",
     "fecha-evento": "2025-09-17T13:40:00-05:00",
-    "img": "8177efb7-7502-43ed-85a6-c08ddcb304a6",
+    "img": "83c30918-af07-4845-a4cc-d3d435a4190f",
     "nombre": "disney9",
     "status": "13:40",
     "duration": 135,
@@ -489,20 +492,20 @@
     "play_url": ""
   },
   {
-    "title": "Alianza Lima (PER) vs. Universidad de Chile (CHI) | 4tos de final, ida",
-    "league": "CONMEBOL Sudamericana",
+    "title": "#19 Kansas vs. Oklahoma State",
+    "league": "Fútbol Femenino NCAA",
     "fecha-evento": "2025-09-18T19:00:00-05:00",
-    "img": "1de419b7-340c-49fd-befc-745e303a9e61",
+    "img": "adab02b6-823a-4051-8c6b-e35b82e2bcb3",
     "nombre": "disney49",
     "status": "19:00",
     "duration": 135,
     "play_url": ""
   },
   {
-    "title": "#19 Kansas vs. Oklahoma State",
-    "league": "Fútbol Femenino NCAA",
+    "title": "Alianza Lima (PER) vs. Universidad de Chile (CHI) | 4tos de final, ida",
+    "league": "CONMEBOL Sudamericana",
     "fecha-evento": "2025-09-18T19:00:00-05:00",
-    "img": "adab02b6-823a-4051-8c6b-e35b82e2bcb3",
+    "img": "1de419b7-340c-49fd-befc-745e303a9e61",
     "nombre": "disney50",
     "status": "19:00",
     "duration": 135,
