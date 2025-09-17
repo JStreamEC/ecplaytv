@@ -98,7 +98,10 @@
     "nombre": "disney8",
     "status": "13:40",
     "duration": 135,
-    "play_url": ""
+    "play_url": "https://www.disneyplus.com/es-es/play/c9a854c5-1a27-49eb-898b-a661990f3f24",
+    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1758220818~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Fbbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1756222885714%2F~psid=8886b2d0-c4af-4620-a768-18da9dad0a6e~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=6fe0631faccc3012012d52281b049c20d4d357ad56513b67838047e2b486fcfe/clt1/va02/disneyplus/channel/bbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1756222885714/ctr-all-sliding.m3u8?v=1&hash=4ef55646b567cbe3f3638e191b8e417ec275878b",
+    "k1": "3854e4a65fc343f4bfc16e9761167932",
+    "k2": "b69211b83d610b46dc4c895c9126aa71"
   },
   {
     "title": "Liverpool vs. Atlético Madrid",
@@ -118,7 +121,10 @@
     "nombre": "disney10",
     "status": "13:40",
     "duration": 135,
-    "play_url": ""
+    "play_url": "https://www.disneyplus.com/es-es/play/e7c04f18-ea66-4030-ba8f-dbf3b4749231",
+    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1758220861~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F7f9052ce-8143-43a6-9656-a8c00c4a3e56-1756223111094%2F~psid=36e76a5f-32f5-4c18-936e-e5af8d96fb98~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=05f9f7b7e63faf6bf8b1ff68b1cb3c361c48d8e3c1bbe54fd38b69d409a1cfcc/clt1/va02/disneyplus/channel/7f9052ce-8143-43a6-9656-a8c00c4a3e56-1756223111094/ctr-all-sliding.m3u8?v=1&hash=2f03544b7adaaaa4f23d8a4cd7d7cec9ba48514e",
+    "k1": "8fb94807fdb5412c915aa625038bbb3e",
+    "k2": "48d7886112d98262cf46da5c88ea2810"
   },
   {
     "title": "UCL al instante",
@@ -521,11 +527,21 @@
     "play_url": ""
   },
   {
+    "title": "Villarreal vs. Juventus",
+    "league": "UEFA Champions League",
+    "fecha-evento": "2025-10-01T13:40:00-05:00",
+    "img": "13cabfa9-6625-4c30-af84-8e360f121f67",
+    "nombre": "disney51",
+    "status": "13:40",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
     "title": "ESPN F90 Argentina",
     "league": "ESPN",
     "fecha-evento": "2025-09-18T11:00:00-05:00",
     "img": "40cffcbc-53fa-4c9b-83f1-14c65f318abb",
-    "nombre": "disney51",
+    "nombre": "disney52",
     "status": "11:00",
     "duration": 135,
     "play_url": ""
@@ -535,7 +551,7 @@
     "league": "UEFA Champions League",
     "fecha-evento": "2025-09-18T11:30:00-05:00",
     "img": "1d9596c5-df5d-4074-a010-ab7a1914c6e6",
-    "nombre": "disney52",
+    "nombre": "disney53",
     "status": "11:30",
     "duration": 135,
     "play_url": ""
@@ -545,7 +561,7 @@
     "league": "UEFA Champions League",
     "fecha-evento": "2025-09-18T11:30:00-05:00",
     "img": "631928e0-35ce-4330-9947-932c69684c13",
-    "nombre": "disney53",
+    "nombre": "disney54",
     "status": "11:30",
     "duration": 135,
     "play_url": ""
@@ -555,7 +571,7 @@
     "league": "MLB",
     "fecha-evento": "2025-09-18T12:00:00-05:00",
     "img": "5e406d0e-e1ab-466f-8def-09067a24bf14",
-    "nombre": "disney54",
+    "nombre": "disney55",
     "status": "12:00",
     "duration": 135,
     "play_url": ""
@@ -565,7 +581,7 @@
     "league": "ESPN",
     "fecha-evento": "2025-09-18T13:00:00-05:00",
     "img": "3aa90169-2335-493d-a2ec-35e371568468",
-    "nombre": "disney55",
+    "nombre": "disney56",
     "status": "13:00",
     "duration": 135,
     "play_url": ""
@@ -575,7 +591,7 @@
     "league": "UEFA Champions League",
     "fecha-evento": "2025-09-18T13:40:00-05:00",
     "img": "ede7be31-543b-4078-a197-b161670d6f3b",
-    "nombre": "disney56",
+    "nombre": "disney57",
     "status": "13:40",
     "duration": 135,
     "play_url": ""
@@ -585,7 +601,7 @@
     "league": "UEFA Champions League",
     "fecha-evento": "2025-09-18T13:40:00-05:00",
     "img": "8b732fc3-e722-4c93-8c0e-ae5ab44473b9",
-    "nombre": "disney57",
+    "nombre": "disney58",
     "status": "13:40",
     "duration": 135,
     "play_url": ""
@@ -595,7 +611,7 @@
     "league": "UEFA Champions League",
     "fecha-evento": "2025-09-18T13:40:00-05:00",
     "img": "4a7e5588-38a6-4f75-bf30-403b30691dcd",
-    "nombre": "disney58",
+    "nombre": "disney59",
     "status": "13:40",
     "duration": 135,
     "play_url": ""
@@ -605,7 +621,7 @@
     "league": "UEFA Champions League",
     "fecha-evento": "2025-09-18T13:40:00-05:00",
     "img": "e33b7be5-b8d4-4536-8bb6-86804f920e99",
-    "nombre": "disney59",
+    "nombre": "disney60",
     "status": "13:40",
     "duration": 135,
     "play_url": ""
@@ -615,7 +631,7 @@
     "league": "UEFA Champions League",
     "fecha-evento": "2025-09-18T13:40:00-05:00",
     "img": "b8a43bed-a335-4726-9ef3-a63a0d63a0bd",
-    "nombre": "disney60",
+    "nombre": "disney61",
     "status": "13:40",
     "duration": 135,
     "play_url": ""
@@ -625,7 +641,7 @@
     "league": "ESPN",
     "fecha-evento": "2025-09-18T15:55:00-05:00",
     "img": "517b1de4-011a-4179-ae1f-08c70cd6b422",
-    "nombre": "disney61",
+    "nombre": "disney62",
     "status": "15:55",
     "duration": 135,
     "play_url": ""
@@ -635,16 +651,6 @@
     "league": "ESPN",
     "fecha-evento": "2025-09-18T15:55:00-05:00",
     "img": "202d06c4-1577-46f5-bee9-f1114b67d32e",
-    "nombre": "disney62",
-    "status": "15:55",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "SportsCenter Argentina",
-    "league": "ESPN",
-    "fecha-evento": "2025-09-18T15:55:00-05:00",
-    "img": "ed20e560-1c2f-4dce-bd62-182c9856d44a",
     "nombre": "disney63",
     "status": "15:55",
     "duration": 135,
