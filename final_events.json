@@ -54,12 +54,15 @@
   {
     "title": "Baseball Tonight",
     "league": "ESPN",
-    "fecha-evento": "2025-09-17T18:00:00-05:00",
+    "fecha-evento": "2025-09-17T18:00:02-05:00",
     "img": "02e56d2f-b29b-4428-97c5-53fb9e6af3e3",
     "nombre": "disney5",
     "status": "18:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 240,
+    "play_url": "https://www.disneyplus.com/es-es/play/2991f1f7-fbf2-439a-8480-ab6f7c6a2fa9",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1758237617~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F17%2FBaseball_Tonight_Special__20250917_1758142810028%2F~psid=245e2993-b53b-49d1-b2f8-83b65fc895df~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=f8b358d7d129f77784af4c8a85049bcfe76de8932b28fb4696bf65aa7e1012c2/clt1/va02/disneyplus/event/2025/09/17/Baseball_Tonight_Special__20250917_1758142810028/ctr-all-hdri-complete.m3u8?v=1&hash=f7aa490dd2a7cb9800d7312e6b28312f2d02eaf9",
+    "k1": "3021474695464971b2d2223d1454e752",
+    "k2": "50be1890b24a975b5d4c9363b863c436"
   },
   {
     "title": "SportsCenter Night",
