@@ -20,19 +20,6 @@
     "play_url": ""
   },
   {
-    "title": "Balón Dividido",
-    "league": "ESPN",
-    "fecha-evento": "2025-09-18T15:54:00-05:00",
-    "img": "202d06c4-1577-46f5-bee9-f1114b67d32e",
-    "nombre": "disney3",
-    "status": "15:54",
-    "duration": 51,
-    "play_url": "https://www.disneyplus.com/es-es/play/8800b5e8-a503-4dec-91fe-6f221926cd1a",
-    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1758316818~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F921e1311-bb26-43dd-84a6-9e2284959712-1756222679255%2F~psid=6cea4aa1-021d-4c70-9a49-68b95c26810f~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=436ed08ac1fbd085272474aefda4f14c2b8a67c84afd0b881fe4b6cb3a4bce67/clt1/va02/disneyplus/channel/921e1311-bb26-43dd-84a6-9e2284959712-1756222679255/ctr-all-sliding.m3u8?v=1&hash=c2eebfbadec853d4e3ca4fa1a9f9011e0c7562b2",
-    "k1": "2a4fb5f407b847f7b7c496333f33903e",
-    "k2": "a4b10e51e9bb6aaca7b247887c287f3e"
-  },
-  {
     "title": "ESPN F360",
     "league": "ESPN",
     "fecha-evento": "2025-09-18T15:54:06-05:00",
@@ -44,6 +31,19 @@
     "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1758316861~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F18%2FESPN_F360_20250918_1758221700089%2F~psid=813c8c2b-0550-4245-8c4d-48cdc87b20d9~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=fceac0bb638112868706c084a860f21a12afb696ae065e44e4cd288fd1767cb1/clt1/va02/disneyplus/event/2025/09/18/ESPN_F360_20250918_1758221700089/ctr-all-hdri-complete.m3u8?v=1&hash=0936a29506742f9daf5f8a813ca1cf2f3525a867",
     "k1": "02ca70167ad54a83ae63ec7dce068580",
     "k2": "9135561ff1aeb3c210c96d847db9ec38"
+  },
+  {
+    "title": "Balón Dividido",
+    "league": "ESPN",
+    "fecha-evento": "2025-09-18T15:54:00-05:00",
+    "img": "202d06c4-1577-46f5-bee9-f1114b67d32e",
+    "nombre": "disney3",
+    "status": "15:54",
+    "duration": 51,
+    "play_url": "https://www.disneyplus.com/es-es/play/8800b5e8-a503-4dec-91fe-6f221926cd1a",
+    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1758316818~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F921e1311-bb26-43dd-84a6-9e2284959712-1756222679255%2F~psid=6cea4aa1-021d-4c70-9a49-68b95c26810f~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=436ed08ac1fbd085272474aefda4f14c2b8a67c84afd0b881fe4b6cb3a4bce67/clt1/va02/disneyplus/channel/921e1311-bb26-43dd-84a6-9e2284959712-1756222679255/ctr-all-sliding.m3u8?v=1&hash=c2eebfbadec853d4e3ca4fa1a9f9011e0c7562b2",
+    "k1": "2a4fb5f407b847f7b7c496333f33903e",
+    "k2": "a4b10e51e9bb6aaca7b247887c287f3e"
   },
   {
     "title": "SportsCenter Argentina",
@@ -79,32 +79,22 @@
     "play_url": ""
   },
   {
-    "title": "En Español-#6 Kentucky vs. #3 Louisville",
-    "league": "NCAA Women's Volleyball",
+    "title": "Equipo F",
+    "league": "ESPN",
     "fecha-evento": "2025-09-18T17:00:00-05:00",
-    "img": "05b2edd2-0e81-4bc0-ae55-12a537342862",
+    "img": "545d244b-9e10-4b8f-b6e7-68239e714808",
     "nombre": "disney8",
     "status": "17:00",
     "duration": 135,
     "play_url": ""
   },
   {
-    "title": "Equipo F",
-    "league": "ESPN",
+    "title": "En Español-#6 Kentucky vs. #3 Louisville",
+    "league": "NCAA Women's Volleyball",
     "fecha-evento": "2025-09-18T17:00:00-05:00",
-    "img": "545d244b-9e10-4b8f-b6e7-68239e714808",
+    "img": "05b2edd2-0e81-4bc0-ae55-12a537342862",
     "nombre": "disney9",
     "status": "17:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "DC Power vs. Brooklyn",
-    "league": "USL Super League",
-    "fecha-evento": "2025-09-18T18:00:00-05:00",
-    "img": "2a247a00-f409-4264-8d18-ce0ed9820e19",
-    "nombre": "disney10",
-    "status": "18:00",
     "duration": 135,
     "play_url": ""
   },
@@ -113,6 +103,16 @@
     "league": "Fútbol Femenino NCAA",
     "fecha-evento": "2025-09-18T18:00:00-05:00",
     "img": "af034cac-9b45-407f-b89b-13be303ce3ae",
+    "nombre": "disney10",
+    "status": "18:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "DC Power vs. Brooklyn",
+    "league": "USL Super League",
+    "fecha-evento": "2025-09-18T18:00:00-05:00",
+    "img": "2a247a00-f409-4264-8d18-ce0ed9820e19",
     "nombre": "disney11",
     "status": "18:00",
     "duration": 135,
@@ -189,20 +189,20 @@
     "play_url": ""
   },
   {
-    "title": "Miami Dolphins vs. Buffalo Bills",
-    "league": "NFL",
+    "title": "El Show de la F1",
+    "league": "ESPN",
     "fecha-evento": "2025-09-18T19:00:00-05:00",
-    "img": "7ef00ef1-6c49-4dac-8830-b8086c5221e4",
+    "img": "e9f2cc62-164d-443d-bea1-328beb5a4d53",
     "nombre": "disney19",
     "status": "19:00",
     "duration": 135,
     "play_url": ""
   },
   {
-    "title": "El Show de la F1",
-    "league": "ESPN",
+    "title": "Miami Dolphins vs. Buffalo Bills",
+    "league": "NFL",
     "fecha-evento": "2025-09-18T19:00:00-05:00",
-    "img": "e9f2cc62-164d-443d-bea1-328beb5a4d53",
+    "img": "7ef00ef1-6c49-4dac-8830-b8086c5221e4",
     "nombre": "disney20",
     "status": "19:00",
     "duration": 135,
