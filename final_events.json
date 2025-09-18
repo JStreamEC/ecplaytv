@@ -58,8 +58,11 @@
     "img": "0e216237-6d1f-451b-9de7-7d05ae3912f6",
     "nombre": "disney5",
     "status": "19:50",
-    "duration": 135,
-    "play_url": ""
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/be80bf9d-7053-43c8-ac73-e92b312e36e9",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1758243619~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F18%2FCF_Monterrey_Femenil_vs_A_20250918_1758149432032%2F~psid=f45310cf-f623-4882-9c47-aa040a246614~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=becc6619ef1d5d1a607412abba465155b2b0d3972440f910a337a5001b4f687d/clt1/va02/disneyplus/event/2025/09/18/CF_Monterrey_Femenil_vs_A_20250918_1758149432032/ctr-all-hdri-complete.m3u8?v=1&hash=aa57d5b332e4a7942b3ecfb80a11905668945179",
+    "k1": "ca2dbe43932c42d3a675eded0136ff16",
+    "k2": "e3f997e50898f42dd1caca52b39a6c26"
   },
   {
     "title": "En Español-#9 TCU vs. #2 Texas",
@@ -582,20 +585,20 @@
     "play_url": ""
   },
   {
-    "title": "Alianza Lima (PER) vs. Universidad de Chile (CHI) | 4tos de final, ida",
-    "league": "CONMEBOL Sudamericana",
+    "title": "#19 Kansas vs. Oklahoma State",
+    "league": "Fútbol Femenino NCAA",
     "fecha-evento": "2025-09-18T19:00:00-05:00",
-    "img": "1de419b7-340c-49fd-befc-745e303a9e61",
+    "img": "adab02b6-823a-4051-8c6b-e35b82e2bcb3",
     "nombre": "disney58",
     "status": "19:00",
     "duration": 135,
     "play_url": ""
   },
   {
-    "title": "#19 Kansas vs. Oklahoma State",
-    "league": "Fútbol Femenino NCAA",
+    "title": "Alianza Lima (PER) vs. Universidad de Chile (CHI) | 4tos de final, ida",
+    "league": "CONMEBOL Sudamericana",
     "fecha-evento": "2025-09-18T19:00:00-05:00",
-    "img": "adab02b6-823a-4051-8c6b-e35b82e2bcb3",
+    "img": "1de419b7-340c-49fd-befc-745e303a9e61",
     "nombre": "disney59",
     "status": "19:00",
     "duration": 135,
