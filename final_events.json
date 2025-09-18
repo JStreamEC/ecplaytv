@@ -65,8 +65,11 @@
     "img": "5e406d0e-e1ab-466f-8def-09067a24bf14",
     "nombre": "disney6",
     "status": "12:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 180,
+    "play_url": "https://www.disneyplus.com/es-es/play/ee381236-8d3f-4b1a-81a1-cdfb201a1cc5",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1758302417~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F18%2FSan_Diego_Padres_vs_New_Y_20250918_1758207636031%2F~psid=ed164d18-d038-40c5-8416-90f7a29c0441~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=c5b6b0061f459930e2957ee2bacd32779411f4732ad7464faa456f39833abaf9/clt1/va02/disneyplus/event/2025/09/18/San_Diego_Padres_vs_New_Y_20250918_1758207636031/ctr-all-hdri-complete.m3u8?v=1&hash=070df2710a217f669b01b2b6fea344bb2bc56d6a",
+    "k1": "164a1d8247d646f6af90b9b730890818",
+    "k2": "e982e9bba0b1cff006e07b356ac114b6"
   },
   {
     "title": "ESPN F3",
@@ -89,20 +92,20 @@
     "play_url": ""
   },
   {
-    "title": "Newcastle United vs. FC Barcelona",
+    "title": "Eintracht Frankfurt vs. Galatasaray",
     "league": "UEFA Champions League",
     "fecha-evento": "2025-09-18T13:40:00-05:00",
-    "img": "22001625-52f0-47b7-bb51-07a28ed68642",
+    "img": "8b732fc3-e722-4c93-8c0e-ae5ab44473b9",
     "nombre": "disney9",
     "status": "13:40",
     "duration": 135,
     "play_url": ""
   },
   {
-    "title": "Eintracht Frankfurt vs. Galatasaray",
+    "title": "Newcastle United vs. FC Barcelona",
     "league": "UEFA Champions League",
     "fecha-evento": "2025-09-18T13:40:00-05:00",
-    "img": "8b732fc3-e722-4c93-8c0e-ae5ab44473b9",
+    "img": "22001625-52f0-47b7-bb51-07a28ed68642",
     "nombre": "disney10",
     "status": "13:40",
     "duration": 135,
@@ -162,7 +165,7 @@
     "title": "Liga de Quito (ECU) vs. Sao Paulo (BRA) | 4tos de final, Ida",
     "league": "CONMEBOL Libertadores",
     "fecha-evento": "2025-09-18T16:45:00-05:00",
-    "img": "dcde07df-6781-4c46-b047-7db518f0ea61",
+    "img": "72723a95-c2f5-4c07-9e46-dbe21fd4ed47",
     "nombre": "disney16",
     "status": "16:45",
     "duration": 135,
@@ -199,20 +202,20 @@
     "play_url": ""
   },
   {
-    "title": "DC Power vs. Brooklyn",
-    "league": "USL Super League",
+    "title": "NC State vs. SMU",
+    "league": "Fútbol Femenino NCAA",
     "fecha-evento": "2025-09-18T18:00:00-05:00",
-    "img": "2a247a00-f409-4264-8d18-ce0ed9820e19",
+    "img": "af034cac-9b45-407f-b89b-13be303ce3ae",
     "nombre": "disney20",
     "status": "18:00",
     "duration": 135,
     "play_url": ""
   },
   {
-    "title": "NC State vs. SMU",
-    "league": "Fútbol Femenino NCAA",
+    "title": "DC Power vs. Brooklyn",
+    "league": "USL Super League",
     "fecha-evento": "2025-09-18T18:00:00-05:00",
-    "img": "af034cac-9b45-407f-b89b-13be303ce3ae",
+    "img": "2a247a00-f409-4264-8d18-ce0ed9820e19",
     "nombre": "disney21",
     "status": "18:00",
     "duration": 135,
