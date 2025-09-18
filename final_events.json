@@ -61,12 +61,15 @@
   {
     "title": "SV Robinhood vs. O&M FC (Fecha #3)",
     "league": "Concacaf Caribbean Cup",
-    "fecha-evento": "2025-09-18T16:50:00-05:00",
+    "fecha-evento": "2025-09-18T16:50:01-05:00",
     "img": "2c7b70fe-5dcc-46d0-ae7d-73baa0e784c3",
     "nombre": "disney6",
     "status": "16:50",
-    "duration": 135,
-    "play_url": ""
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/3b4f5c27-792e-43b2-9f6f-60eb338cc7b0",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1758319219~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F18%2FSV_Robinhood_vs_OM_FC_Fec_20250918_1758225010028%2F~psid=45de5049-b6d8-4c5b-86bc-f3646a94a3fc~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=26e302f1464f94e1eede8565719c1a1f0efc886a60da062a0ffeee72ae879006/clt1/va02/disneyplus/event/2025/09/18/SV_Robinhood_vs_OM_FC_Fec_20250918_1758225010028/ctr-all-hdri-complete.m3u8?v=1&hash=c483869dc449a6fd7f1040ed474580cfb68e4688",
+    "k1": "4c38473eb5374447a09dcfc2e935da58",
+    "k2": "fa2ab1298701e29cff001fadd89ba802"
   },
   {
     "title": "Equipo F",
@@ -85,8 +88,11 @@
     "img": "05b2edd2-0e81-4bc0-ae55-12a537342862",
     "nombre": "disney8",
     "status": "17:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/72a763f7-e984-4600-8a9f-482841ca8a67",
+    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1758319262~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Fec26a05e-a9cc-4db4-804e-77465738e667-1756222537809%2F~psid=ff3e0160-327c-4e45-87a0-13c0a19ba6ef~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=41f6cb5ae8320ec7504007505024a3c61f31764fbfea332330e391fa4af8c0de/clt1/va02/disneyplus/channel/ec26a05e-a9cc-4db4-804e-77465738e667-1756222537809/ctr-all-sliding.m3u8?v=1&hash=89191118387a35883a50bbae1f0b0b7046a61da8",
+    "k1": "17905cf6322448658a986b0898506a68",
+    "k2": "5fbd2bf89cb244f9829894bf47b3c194"
   },
   {
     "title": "NC State vs. SMU",
@@ -179,20 +185,20 @@
     "play_url": ""
   },
   {
-    "title": "El Show de la F1",
-    "league": "ESPN",
+    "title": "Miami Dolphins vs. Buffalo Bills",
+    "league": "NFL",
     "fecha-evento": "2025-09-18T19:00:00-05:00",
-    "img": "e9f2cc62-164d-443d-bea1-328beb5a4d53",
+    "img": "7ef00ef1-6c49-4dac-8830-b8086c5221e4",
     "nombre": "disney18",
     "status": "19:00",
     "duration": 135,
     "play_url": ""
   },
   {
-    "title": "Miami Dolphins vs. Buffalo Bills",
-    "league": "NFL",
+    "title": "El Show de la F1",
+    "league": "ESPN",
     "fecha-evento": "2025-09-18T19:00:00-05:00",
-    "img": "7ef00ef1-6c49-4dac-8830-b8086c5221e4",
+    "img": "e9f2cc62-164d-443d-bea1-328beb5a4d53",
     "nombre": "disney19",
     "status": "19:00",
     "duration": 135,
