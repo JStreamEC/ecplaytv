@@ -71,8 +71,11 @@
     "img": "014e2885-8935-4a25-89aa-de54b9939204",
     "nombre": "disney6",
     "status": "20:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/9c49de9e-384c-4871-a53a-5975a0dcad78",
+    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1758244819~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Fec26a05e-a9cc-4db4-804e-77465738e667-1756222537809%2F~psid=0afb7d48-8b3b-4793-8bcd-cdf61d5cdb04~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=8974397ede28533790a725cb0dbf0bf1e8b0777446eb44dc93000f66c9765940/clt1/va02/disneyplus/channel/ec26a05e-a9cc-4db4-804e-77465738e667-1756222537809/ctr-all-sliding.m3u8?v=1&hash=89191118387a35883a50bbae1f0b0b7046a61da8",
+    "k1": "6558de60bd674fc9adf8809c3f5b781e",
+    "k2": "88a1a1c7e51b60249153e0de58603206"
   },
   {
     "title": "Philadelphia Phillies vs. Los Angeles Dodgers",
@@ -455,21 +458,11 @@
     "play_url": ""
   },
   {
-    "title": "NC State vs. SMU",
-    "league": "Fútbol Femenino NCAA",
-    "fecha-evento": "2025-09-18T18:00:00-05:00",
-    "img": "af034cac-9b45-407f-b89b-13be303ce3ae",
-    "nombre": "disney45",
-    "status": "18:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "DC Power vs. Brooklyn",
     "league": "USL Super League",
     "fecha-evento": "2025-09-18T18:00:00-05:00",
     "img": "2a247a00-f409-4264-8d18-ce0ed9820e19",
-    "nombre": "disney46",
+    "nombre": "disney45",
     "status": "18:00",
     "duration": 135,
     "play_url": ""
@@ -479,6 +472,16 @@
     "league": "ESPN",
     "fecha-evento": "2025-09-18T18:00:00-05:00",
     "img": "46b859dc-33d0-42a8-9651-7c408024d849",
+    "nombre": "disney46",
+    "status": "18:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "NC State vs. SMU",
+    "league": "Fútbol Femenino NCAA",
+    "fecha-evento": "2025-09-18T18:00:00-05:00",
+    "img": "af034cac-9b45-407f-b89b-13be303ce3ae",
     "nombre": "disney47",
     "status": "18:00",
     "duration": 135,
@@ -545,20 +548,20 @@
     "play_url": ""
   },
   {
-    "title": "#12 Mississippi State vs. Texas",
-    "league": "Fútbol Femenino NCAA",
+    "title": "Miami Dolphins vs. Buffalo Bills",
+    "league": "NFL",
     "fecha-evento": "2025-09-18T19:00:00-05:00",
-    "img": "0575cfa1-3fca-4ca1-998c-9cdf936ce0d1",
+    "img": "7ef00ef1-6c49-4dac-8830-b8086c5221e4",
     "nombre": "disney54",
     "status": "19:00",
     "duration": 135,
     "play_url": ""
   },
   {
-    "title": "Miami Dolphins vs. Buffalo Bills",
-    "league": "NFL",
+    "title": "#12 Mississippi State vs. Texas",
+    "league": "Fútbol Femenino NCAA",
     "fecha-evento": "2025-09-18T19:00:00-05:00",
-    "img": "7ef00ef1-6c49-4dac-8830-b8086c5221e4",
+    "img": "0575cfa1-3fca-4ca1-998c-9cdf936ce0d1",
     "nombre": "disney55",
     "status": "19:00",
     "duration": 135,
@@ -585,20 +588,20 @@
     "play_url": ""
   },
   {
-    "title": "#19 Kansas vs. Oklahoma State",
-    "league": "Fútbol Femenino NCAA",
+    "title": "Alianza Lima (PER) vs. Universidad de Chile (CHI) | 4tos de final, ida",
+    "league": "CONMEBOL Sudamericana",
     "fecha-evento": "2025-09-18T19:00:00-05:00",
-    "img": "adab02b6-823a-4051-8c6b-e35b82e2bcb3",
+    "img": "1de419b7-340c-49fd-befc-745e303a9e61",
     "nombre": "disney58",
     "status": "19:00",
     "duration": 135,
     "play_url": ""
   },
   {
-    "title": "Alianza Lima (PER) vs. Universidad de Chile (CHI) | 4tos de final, ida",
-    "league": "CONMEBOL Sudamericana",
+    "title": "#19 Kansas vs. Oklahoma State",
+    "league": "Fútbol Femenino NCAA",
     "fecha-evento": "2025-09-18T19:00:00-05:00",
-    "img": "1de419b7-340c-49fd-befc-745e303a9e61",
+    "img": "adab02b6-823a-4051-8c6b-e35b82e2bcb3",
     "nombre": "disney59",
     "status": "19:00",
     "duration": 135,
