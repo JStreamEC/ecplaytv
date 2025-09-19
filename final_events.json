@@ -20,19 +20,6 @@
     "play_url": ""
   },
   {
-    "title": "En Español-#6 Kentucky vs. #3 Louisville",
-    "league": "NCAA Women's Volleyball",
-    "fecha-evento": "2025-09-18T17:00:00-05:00",
-    "img": "05b2edd2-0e81-4bc0-ae55-12a537342862",
-    "nombre": "disney8",
-    "status": "17:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/72a763f7-e984-4600-8a9f-482841ca8a67",
-    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1758319262~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Fec26a05e-a9cc-4db4-804e-77465738e667-1756222537809%2F~psid=ff3e0160-327c-4e45-87a0-13c0a19ba6ef~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=41f6cb5ae8320ec7504007505024a3c61f31764fbfea332330e391fa4af8c0de/clt1/va02/disneyplus/channel/ec26a05e-a9cc-4db4-804e-77465738e667-1756222537809/ctr-all-sliding.m3u8?v=1&hash=89191118387a35883a50bbae1f0b0b7046a61da8",
-    "k1": "17905cf6322448658a986b0898506a68",
-    "k2": "5fbd2bf89cb244f9829894bf47b3c194"
-  },
-  {
     "title": "Florida vs. #24 Oklahoma",
     "league": "Fútbol Femenino NCAA",
     "fecha-evento": "2025-09-18T18:00:02-05:00",
@@ -152,19 +139,22 @@
   {
     "title": "Club América Femenil vs. CF Pachuca Femenil (Fecha #3)",
     "league": "Concacaf W Championship",
-    "fecha-evento": "2025-09-18T19:50:00-05:00",
+    "fecha-evento": "2025-09-18T19:50:02-05:00",
     "img": "03aa517b-f560-4d30-a033-7c18c4b28741",
-    "nombre": "disney13",
+    "nombre": "disney12",
     "status": "19:50",
-    "duration": 135,
-    "play_url": ""
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/6692a79c-1d4f-4bef-b960-84b67816cec3",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1758330021~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F19%2FClub_Amrica_Femenil_vs_CF_20250919_1758235840043%2F~psid=0fe432c4-222a-4ee5-983a-d93a2bee5f51~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=93b8d59359b44dd11e723a4993e2400219a4ba74b7852e8ed3470b6ab258e81c/clt1/va02/disneyplus/event/2025/09/19/Club_Amrica_Femenil_vs_CF_20250919_1758235840043/ctr-all-hdri-complete.m3u8?v=1&hash=4630420aad62204b54af8b81c0b8cfd5c636f100",
+    "k1": "de120d51819e4677b0589476b617869a",
+    "k2": "cb69ee3bbf25a369d72b9547661dcfe2"
   },
   {
     "title": "Saint Mary's vs. Cal Poly",
     "league": "NCAA Women's Volleyball",
     "fecha-evento": "2025-09-18T20:00:00-05:00",
     "img": "9444ba6a-b6bd-4b9c-9eb0-bdc4b619da7a",
-    "nombre": "disney14",
+    "nombre": "disney13",
     "status": "20:00",
     "duration": 135,
     "play_url": ""
@@ -174,7 +164,7 @@
     "league": "ESPN",
     "fecha-evento": "2025-09-18T23:00:00-05:00",
     "img": "1f506b93-29e3-4f76-8c35-e662d2bb33ea",
-    "nombre": "disney15",
+    "nombre": "disney14",
     "status": "23:00",
     "duration": 135,
     "play_url": ""
@@ -184,7 +174,7 @@
     "league": "Fútbol Femenino NCAA",
     "fecha-evento": "2025-09-18T21:00:00-05:00",
     "img": "05493915-a263-4e57-8227-27c38c9387da",
-    "nombre": "disney16",
+    "nombre": "disney15",
     "status": "21:00",
     "duration": 135,
     "play_url": ""
@@ -194,7 +184,7 @@
     "league": "Fútbol Femenino NCAA",
     "fecha-evento": "2025-09-18T21:00:00-05:00",
     "img": "efeaeeef-8416-403c-b235-a71f6e88568f",
-    "nombre": "disney17",
+    "nombre": "disney16",
     "status": "21:00",
     "duration": 135,
     "play_url": ""
@@ -204,7 +194,7 @@
     "league": "ESPN",
     "fecha-evento": "2025-09-18T21:15:00-05:00",
     "img": "182b5563-2024-464f-8906-1a733012f67c",
-    "nombre": "disney18",
+    "nombre": "disney17",
     "status": "21:15",
     "duration": 135,
     "play_url": ""
@@ -214,7 +204,7 @@
     "league": "ESPN",
     "fecha-evento": "2025-09-18T21:25:00-05:00",
     "img": "5d61cc07-9013-477a-b295-1595a0220eff",
-    "nombre": "disney19",
+    "nombre": "disney18",
     "status": "21:25",
     "duration": 135,
     "play_url": ""
@@ -224,7 +214,7 @@
     "league": "ESPN",
     "fecha-evento": "2025-09-18T21:25:00-05:00",
     "img": "0b6500d8-c892-4373-a0a0-75014cf3dec5",
-    "nombre": "disney20",
+    "nombre": "disney19",
     "status": "21:25",
     "duration": 135,
     "play_url": ""
@@ -234,7 +224,7 @@
     "league": "WTA",
     "fecha-evento": "2025-09-18T22:00:00-05:00",
     "img": "b58c56ca-02ef-4371-bcff-579334c3be5d",
-    "nombre": "disney21",
+    "nombre": "disney20",
     "status": "22:00",
     "duration": 135,
     "play_url": ""
@@ -244,7 +234,7 @@
     "league": "ESPN",
     "fecha-evento": "2025-09-18T22:30:00-05:00",
     "img": "ed20e560-1c2f-4dce-bd62-182c9856d44a",
-    "nombre": "disney22",
+    "nombre": "disney21",
     "status": "22:30",
     "duration": 135,
     "play_url": ""
@@ -254,7 +244,7 @@
     "league": "ATP",
     "fecha-evento": "2025-09-18T22:30:00-05:00",
     "img": "06543c5b-311d-4738-831e-59b3ae8d2874",
-    "nombre": "disney23",
+    "nombre": "disney22",
     "status": "22:30",
     "duration": 135,
     "play_url": ""
@@ -264,7 +254,7 @@
     "league": "ESPN",
     "fecha-evento": "2025-09-18T23:00:00-05:00",
     "img": "f0966ea9-7663-497b-951f-33a01cb3e1d9",
-    "nombre": "disney24",
+    "nombre": "disney23",
     "status": "23:00",
     "duration": 135,
     "play_url": ""
@@ -274,7 +264,7 @@
     "league": "WTA",
     "fecha-evento": "2025-09-18T23:00:00-05:00",
     "img": "05341a61-9490-4301-b8fa-38c816261a9b",
-    "nombre": "disney25",
+    "nombre": "disney24",
     "status": "23:00",
     "duration": 135,
     "play_url": ""
@@ -284,7 +274,7 @@
     "league": "ATP",
     "fecha-evento": "2025-09-19T00:00:00-05:00",
     "img": "3fad5d9c-c3a9-4fac-8a97-24c73c323e4d",
-    "nombre": "disney26",
+    "nombre": "disney25",
     "status": "00:00",
     "duration": 135,
     "play_url": ""
@@ -294,7 +284,7 @@
     "league": "ESPN",
     "fecha-evento": "2025-09-19T00:00:00-05:00",
     "img": "32e917bb-eb6a-43fe-9225-eda7a0cf2420",
-    "nombre": "disney27",
+    "nombre": "disney26",
     "status": "00:00",
     "duration": 135,
     "play_url": ""
@@ -304,7 +294,7 @@
     "league": "Fórmula 2",
     "fecha-evento": "2025-09-19T00:55:00-05:00",
     "img": "eee38a14-f65b-475e-b360-7a852820142c",
-    "nombre": "disney28",
+    "nombre": "disney27",
     "status": "00:55",
     "duration": 135,
     "play_url": ""
@@ -314,7 +304,7 @@
     "league": "National Provincial Championship",
     "fecha-evento": "2025-09-19T02:05:00-05:00",
     "img": "9558e60f-1fb8-4c47-abd4-7151070455de",
-    "nombre": "disney29",
+    "nombre": "disney28",
     "status": "02:05",
     "duration": 135,
     "play_url": ""
@@ -324,7 +314,7 @@
     "league": "Fórmula 1",
     "fecha-evento": "2025-09-19T03:00:00-05:00",
     "img": "140adad6-3075-4aae-9fad-8c3df4a46756",
-    "nombre": "disney30",
+    "nombre": "disney29",
     "status": "03:00",
     "duration": 135,
     "play_url": ""
@@ -334,7 +324,7 @@
     "league": "Fórmula 1",
     "fecha-evento": "2025-09-19T03:30:00-05:00",
     "img": "28318959-0ab2-4435-bc66-e71ce7eede90",
-    "nombre": "disney31",
+    "nombre": "disney30",
     "status": "03:30",
     "duration": 135,
     "play_url": ""
@@ -344,7 +334,7 @@
     "league": "Fórmula 1",
     "fecha-evento": "2025-09-19T03:30:00-05:00",
     "img": "bab6d385-22fb-4777-91f6-283bb1060998",
-    "nombre": "disney32",
+    "nombre": "disney31",
     "status": "03:30",
     "duration": 135,
     "play_url": ""
@@ -354,7 +344,7 @@
     "league": "Fórmula 1",
     "fecha-evento": "2025-09-19T03:30:00-05:00",
     "img": "8002bff3-8a8a-4dd2-a619-f5667729b288",
-    "nombre": "disney33",
+    "nombre": "disney32",
     "status": "03:30",
     "duration": 135,
     "play_url": ""
@@ -364,7 +354,7 @@
     "league": "Fórmula 2",
     "fecha-evento": "2025-09-19T04:55:00-05:00",
     "img": "82ffb55f-f92a-4323-96fa-c55f7345bcd8",
-    "nombre": "disney34",
+    "nombre": "disney33",
     "status": "04:55",
     "duration": 135,
     "play_url": ""
@@ -374,7 +364,7 @@
     "league": "ESPN",
     "fecha-evento": "2025-09-19T05:00:00-05:00",
     "img": "0c441e1e-726b-4546-ad87-767606477611",
-    "nombre": "disney35",
+    "nombre": "disney34",
     "status": "05:00",
     "duration": 135,
     "play_url": ""
@@ -384,7 +374,7 @@
     "league": "UEFA Champions League femenina",
     "fecha-evento": "2025-09-19T05:00:00-05:00",
     "img": "49f18505-a857-402c-8065-64541cb89c2f",
-    "nombre": "disney36",
+    "nombre": "disney35",
     "status": "05:00",
     "duration": 135,
     "play_url": ""
@@ -394,7 +384,7 @@
     "league": "Fórmula 1",
     "fecha-evento": "2025-09-19T05:00:00-05:00",
     "img": "32b10095-0c9b-4020-9b25-5a26f29a0e4b",
-    "nombre": "disney37",
+    "nombre": "disney36",
     "status": "05:00",
     "duration": 135,
     "play_url": ""
@@ -404,7 +394,7 @@
     "league": "DP World Tour",
     "fecha-evento": "2025-09-19T06:30:00-05:00",
     "img": "156e93c5-2487-4352-b4e2-28397bd6678d",
-    "nombre": "disney38",
+    "nombre": "disney37",
     "status": "06:30",
     "duration": 135,
     "play_url": ""
@@ -414,7 +404,7 @@
     "league": "Fórmula 1",
     "fecha-evento": "2025-09-19T06:30:00-05:00",
     "img": "fd7da74f-ba79-4699-add9-3943a9438b1a",
-    "nombre": "disney39",
+    "nombre": "disney38",
     "status": "06:30",
     "duration": 135,
     "play_url": ""
@@ -424,7 +414,7 @@
     "league": "Fórmula 1",
     "fecha-evento": "2025-09-19T07:00:00-05:00",
     "img": "d8dfbb38-590f-4097-9ace-b738a9164491",
-    "nombre": "disney40",
+    "nombre": "disney39",
     "status": "07:00",
     "duration": 135,
     "play_url": ""
@@ -434,7 +424,7 @@
     "league": "Fórmula 1",
     "fecha-evento": "2025-09-19T07:00:00-05:00",
     "img": "1de31e60-9cee-4d85-b606-d6774de20fbd",
-    "nombre": "disney41",
+    "nombre": "disney40",
     "status": "07:00",
     "duration": 135,
     "play_url": ""
@@ -444,7 +434,7 @@
     "league": "Fórmula 1",
     "fecha-evento": "2025-09-19T07:00:00-05:00",
     "img": "317adfb5-54c5-410f-9ed2-fbe96ceeaf15",
-    "nombre": "disney42",
+    "nombre": "disney41",
     "status": "07:00",
     "duration": 135,
     "play_url": ""
@@ -454,7 +444,7 @@
     "league": "ESPN",
     "fecha-evento": "2025-09-19T08:00:00-05:00",
     "img": "0f343836-c984-4a48-8b84-619d4b350541",
-    "nombre": "disney43",
+    "nombre": "disney42",
     "status": "08:00",
     "duration": 135,
     "play_url": ""
@@ -464,7 +454,7 @@
     "league": "Fórmula 1",
     "fecha-evento": "2025-09-19T08:30:00-05:00",
     "img": "32b10095-0c9b-4020-9b25-5a26f29a0e4b",
-    "nombre": "disney44",
+    "nombre": "disney43",
     "status": "08:30",
     "duration": 135,
     "play_url": ""
@@ -474,7 +464,7 @@
     "league": "ESPN",
     "fecha-evento": "2025-09-19T09:00:00-05:00",
     "img": "ed20e560-1c2f-4dce-bd62-182c9856d44a",
-    "nombre": "disney45",
+    "nombre": "disney44",
     "status": "09:00",
     "duration": 135,
     "play_url": ""
@@ -484,7 +474,7 @@
     "league": "ESPN",
     "fecha-evento": "2025-09-19T09:00:00-05:00",
     "img": "7d8f0486-9394-4a91-98cb-9cc65e1f2f15",
-    "nombre": "disney46",
+    "nombre": "disney45",
     "status": "09:00",
     "duration": 135,
     "play_url": ""
@@ -494,7 +484,7 @@
     "league": "NCAA Women's Volleyball",
     "fecha-evento": "2025-09-19T09:30:00-05:00",
     "img": "e4aaab76-b08a-4733-9d21-3352ccea46b1",
-    "nombre": "disney47",
+    "nombre": "disney46",
     "status": "09:30",
     "duration": 135,
     "play_url": ""
@@ -504,7 +494,7 @@
     "league": "ESPN",
     "fecha-evento": "2025-09-19T11:00:00-05:00",
     "img": "40cffcbc-53fa-4c9b-83f1-14c65f318abb",
-    "nombre": "disney48",
+    "nombre": "disney47",
     "status": "11:00",
     "duration": 135,
     "play_url": ""
@@ -514,7 +504,7 @@
     "league": "Bundesliga 2 de Alemania",
     "fecha-evento": "2025-09-19T11:25:00-05:00",
     "img": "946e6480-3d7d-4afe-9a33-e9f9c3e342df",
-    "nombre": "disney49",
+    "nombre": "disney48",
     "status": "11:25",
     "duration": 135,
     "play_url": ""
@@ -524,7 +514,7 @@
     "league": "Bundesliga 2 de Alemania",
     "fecha-evento": "2025-09-19T11:25:00-05:00",
     "img": "d73d1b1d-aa16-49fa-ba10-3beddcc2ea83",
-    "nombre": "disney50",
+    "nombre": "disney49",
     "status": "11:25",
     "duration": 135,
     "play_url": ""
@@ -534,7 +524,7 @@
     "league": "ESPN",
     "fecha-evento": "2025-09-19T11:30:00-05:00",
     "img": "7242fc7d-62a9-4186-82f0-5608bdf2f731",
-    "nombre": "disney51",
+    "nombre": "disney50",
     "status": "11:30",
     "duration": 135,
     "play_url": ""
@@ -544,7 +534,7 @@
     "league": "Super Lig de Turquía",
     "fecha-evento": "2025-09-19T11:50:00-05:00",
     "img": "0651e78a-06e1-4e7c-ab29-c5d9395fed2f",
-    "nombre": "disney52",
+    "nombre": "disney51",
     "status": "11:50",
     "duration": 135,
     "play_url": ""
@@ -554,7 +544,7 @@
     "league": "Segunda División de Uruguay",
     "fecha-evento": "2025-09-19T12:45:00-05:00",
     "img": "1497a76f-f490-4f05-bc08-8f31ddf02946",
-    "nombre": "disney53",
+    "nombre": "disney52",
     "status": "12:45",
     "duration": 135,
     "play_url": ""
@@ -564,7 +554,7 @@
     "league": "Mundial de Rugby femenino",
     "fecha-evento": "2025-09-19T12:50:00-05:00",
     "img": "0e3780ae-a5a8-4c52-8070-003ac3e48865",
-    "nombre": "disney54",
+    "nombre": "disney53",
     "status": "12:50",
     "duration": 135,
     "play_url": ""
@@ -574,7 +564,7 @@
     "league": "Eredivisie",
     "fecha-evento": "2025-09-19T12:55:00-05:00",
     "img": "4ecf5e35-06ba-4cae-a2b3-2d6dc1381cc8",
-    "nombre": "disney55",
+    "nombre": "disney54",
     "status": "12:55",
     "duration": 135,
     "play_url": ""
@@ -584,7 +574,7 @@
     "league": "ESPN",
     "fecha-evento": "2025-09-19T13:00:00-05:00",
     "img": "3aa90169-2335-493d-a2ec-35e371568468",
-    "nombre": "disney56",
+    "nombre": "disney55",
     "status": "13:00",
     "duration": 135,
     "play_url": ""
@@ -594,7 +584,7 @@
     "league": "ESPN",
     "fecha-evento": "2025-09-19T13:00:00-05:00",
     "img": "f0966ea9-7663-497b-951f-33a01cb3e1d9",
-    "nombre": "disney57",
+    "nombre": "disney56",
     "status": "13:00",
     "duration": 135,
     "play_url": ""
@@ -604,7 +594,7 @@
     "league": "Bundesliga",
     "fecha-evento": "2025-09-19T13:20:00-05:00",
     "img": "261b09bb-f6a6-466d-b4ec-7f314a3edade",
-    "nombre": "disney58",
+    "nombre": "disney57",
     "status": "13:20",
     "duration": 135,
     "play_url": ""
@@ -614,7 +604,7 @@
     "league": "English Women's Super League",
     "fecha-evento": "2025-09-19T13:20:00-05:00",
     "img": "33743e28-70cb-4fc7-857e-e7afe3771292",
-    "nombre": "disney59",
+    "nombre": "disney58",
     "status": "13:20",
     "duration": 135,
     "play_url": ""
@@ -624,7 +614,7 @@
     "league": "Ligue 1",
     "fecha-evento": "2025-09-19T13:30:00-05:00",
     "img": "0be6aef8-3259-4a44-b68d-71da10a250d2",
-    "nombre": "disney60",
+    "nombre": "disney59",
     "status": "13:30",
     "duration": 135,
     "play_url": ""
@@ -634,7 +624,7 @@
     "league": "Seria A",
     "fecha-evento": "2025-09-19T13:40:00-05:00",
     "img": "112134b4-cdd4-4d09-b5ff-66ec3f87b343",
-    "nombre": "disney61",
+    "nombre": "disney60",
     "status": "13:40",
     "duration": 135,
     "play_url": ""
@@ -644,7 +634,7 @@
     "league": "Championship de Inglaterra",
     "fecha-evento": "2025-09-19T13:50:00-05:00",
     "img": "073d3873-e7f7-4a0a-87e7-cec9948cb412",
-    "nombre": "disney62",
+    "nombre": "disney61",
     "status": "13:50",
     "duration": 135,
     "play_url": ""
@@ -654,8 +644,18 @@
     "league": "NCAA Women's Field Hockey",
     "fecha-evento": "2025-09-19T14:00:00-05:00",
     "img": "48c899c7-700e-4578-bba7-f5609d1d5bac",
-    "nombre": "disney63",
+    "nombre": "disney62",
     "status": "14:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "SportsCenter Argentina Tarde",
+    "league": "ESPN",
+    "fecha-evento": "2025-09-19T14:30:00-05:00",
+    "img": "0a917a1c-7321-47ee-a0a0-a2f08f6d07db",
+    "nombre": "disney63",
+    "status": "14:30",
     "duration": 135,
     "play_url": ""
   }
