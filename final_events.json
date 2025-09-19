@@ -22,12 +22,15 @@
   {
     "title": "1. FC Kaiserslautern vs. Preußen Münster",
     "league": "Bundesliga 2 de Alemania",
-    "fecha-evento": "2025-09-19T11:25:00-05:00",
+    "fecha-evento": "2025-09-19T11:20:31-05:00",
     "img": "946e6480-3d7d-4afe-9a33-e9f9c3e342df",
     "nombre": "disney3",
-    "status": "11:25",
-    "duration": 135,
-    "play_url": ""
+    "status": "11:20",
+    "duration": 129,
+    "play_url": "https://www.disneyplus.com/es-es/play/1d2ab6c3-e243-413d-840f-0b8424d04faf",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1758386461~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F19%2F1_FC_Kaiserslautern_vs_Pr_20250919_1758291902031%2F~psid=2d9ae84f-4c76-4224-8d43-0eeebfc285e9~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=09327322b1811f340b6c58175e9d658db71344a265ca781b41dd8c424ddc350f/clt1/va02/disneyplus/event/2025/09/19/1_FC_Kaiserslautern_vs_Pr_20250919_1758291902031/ctr-all-hdri-complete.m3u8?v=1&hash=b2af1dfaed4ee5947b55fab83950b4c9ea279281",
+    "k1": "dc27c652de7f4042b65511e8071b49cf",
+    "k2": "b0457d3b4387d514febe8740ecd09024"
   },
   {
     "title": "Arminia Bielefeld vs. SpVgg Greuther Fürth",
@@ -36,8 +39,11 @@
     "img": "d73d1b1d-aa16-49fa-ba10-3beddcc2ea83",
     "nombre": "disney4",
     "status": "11:25",
-    "duration": 135,
-    "play_url": ""
+    "duration": 125,
+    "play_url": "https://www.disneyplus.com/es-es/play/71210c10-36cb-4714-a41a-3214c1fde44c",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1758386504~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F19%2FArminia_Bielefeld_vs_SpVg_20250919_1758291945030%2F~psid=ccfe0984-e047-44ce-81b6-6515a2c40fb7~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=614df2965927629740c3cc7bd0dfa4d3450f501efe35532ddb57c56c2381a0b1/clt1/va02/disneyplus/event/2025/09/19/Arminia_Bielefeld_vs_SpVg_20250919_1758291945030/ctr-all-hdri-complete.m3u8?v=1&hash=8917b0dde578102bfc34868b069d8e32a5e1cc21",
+    "k1": "341293d136914152ba928b42f6c40695",
+    "k2": "8cf566af0703706816b06a72b7cd9b54"
   },
   {
     "title": "Goztepe vs. Besiktas",
@@ -230,20 +236,20 @@
     "play_url": ""
   },
   {
-    "title": "Saint Mary's vs. Sacramento State",
-    "league": "Fútbol Masculino NCAA",
+    "title": "Miami FC vs. Rhode Island FC",
+    "league": "USL Championship",
     "fecha-evento": "2025-09-19T18:00:00-05:00",
-    "img": "dbc2e06a-9757-4820-9de3-6178c6b3b99e",
+    "img": "3f7ddbb8-f190-4f38-a7df-0f5abf106b9b",
     "nombre": "disney24",
     "status": "18:00",
     "duration": 135,
     "play_url": ""
   },
   {
-    "title": "Miami FC vs. Rhode Island FC",
-    "league": "USL Championship",
+    "title": "Saint Mary's vs. Sacramento State",
+    "league": "Fútbol Masculino NCAA",
     "fecha-evento": "2025-09-19T18:00:00-05:00",
-    "img": "3f7ddbb8-f190-4f38-a7df-0f5abf106b9b",
+    "img": "dbc2e06a-9757-4820-9de3-6178c6b3b99e",
     "nombre": "disney25",
     "status": "18:00",
     "duration": 135,
@@ -390,11 +396,31 @@
     "play_url": ""
   },
   {
+    "title": "Korea Open Tennis Championships 2025 Presented by Motiva (Quarterfinals)",
+    "league": "WTA",
+    "fecha-evento": "2025-09-19T22:00:00-05:00",
+    "img": "3ff03a06-53b3-4c58-9349-f96dee0c2f3e",
+    "nombre": "disney40",
+    "status": "22:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Korea Open Tennis Championships 2025 Presented by Motiva (Quarterfinals)",
+    "league": "WTA",
+    "fecha-evento": "2025-09-19T22:00:00-05:00",
+    "img": "c07b27db-f5b4-40a4-b785-3984e454a894",
+    "nombre": "disney41",
+    "status": "22:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
     "title": "Hangzhou Open (Second Round)",
     "league": "ATP",
     "fecha-evento": "2025-09-19T22:30:00-05:00",
     "img": "5a0172a0-f96b-4f36-9f1e-cc135759b72d",
-    "nombre": "disney40",
+    "nombre": "disney42",
     "status": "22:30",
     "duration": 135,
     "play_url": ""
@@ -404,7 +430,7 @@
     "league": "National Provincial Championship",
     "fecha-evento": "2025-09-19T23:30:00-05:00",
     "img": "02218c02-738d-49cf-b63b-6a6be98a8186",
-    "nombre": "disney41",
+    "nombre": "disney43",
     "status": "23:30",
     "duration": 135,
     "play_url": ""
@@ -414,18 +440,18 @@
     "league": "ATP",
     "fecha-evento": "2025-09-20T00:00:00-05:00",
     "img": "3fad5d9c-c3a9-4fac-8a97-24c73c323e4d",
-    "nombre": "disney42",
+    "nombre": "disney44",
     "status": "00:00",
     "duration": 135,
     "play_url": ""
   },
   {
-    "title": "Korea Open Tennis Championships 2025 Presented by Motiva / Centre Court (Doubles Semifinals)",
+    "title": "Korea Open Tennis Championships 2025 Presented by Motiva / Grandstand (Doubles Semifinals)",
     "league": "WTA",
-    "fecha-evento": "2025-09-20T00:30:00-05:00",
-    "img": "b9abefcc-97e5-4878-96d9-447aa9c1f1cc",
-    "nombre": "disney43",
-    "status": "00:30",
+    "fecha-evento": "2025-09-20T01:00:00-05:00",
+    "img": "c07b27db-f5b4-40a4-b785-3984e454a894",
+    "nombre": "disney45",
+    "status": "01:00",
     "duration": 135,
     "play_url": ""
   },
@@ -434,7 +460,7 @@
     "league": "National Provincial Championship",
     "fecha-evento": "2025-09-20T02:05:00-05:00",
     "img": "5b9cf380-8368-44cd-9bc6-d42c9a714140",
-    "nombre": "disney44",
+    "nombre": "disney46",
     "status": "02:05",
     "duration": 135,
     "play_url": ""
@@ -444,7 +470,7 @@
     "league": "Fórmula 1",
     "fecha-evento": "2025-09-20T03:00:00-05:00",
     "img": "11b330b3-b814-4ffc-9f48-2e128030bfb2",
-    "nombre": "disney45",
+    "nombre": "disney47",
     "status": "03:00",
     "duration": 135,
     "play_url": ""
@@ -453,8 +479,8 @@
     "title": "Korea Open Tennis Championships 2025 Presented by Motiva (Semifinals)",
     "league": "WTA",
     "fecha-evento": "2025-09-20T03:00:00-05:00",
-    "img": "3ff03a06-53b3-4c58-9349-f96dee0c2f3e",
-    "nombre": "disney46",
+    "img": "b9abefcc-97e5-4878-96d9-447aa9c1f1cc",
+    "nombre": "disney48",
     "status": "03:00",
     "duration": 135,
     "play_url": ""
@@ -464,7 +490,7 @@
     "league": "Fórmula 1",
     "fecha-evento": "2025-09-20T03:30:00-05:00",
     "img": "ce73aae9-b9e7-4a81-9898-dcb955c44a59",
-    "nombre": "disney47",
+    "nombre": "disney49",
     "status": "03:30",
     "duration": 135,
     "play_url": ""
@@ -474,7 +500,7 @@
     "league": "Fórmula 1",
     "fecha-evento": "2025-09-20T03:30:00-05:00",
     "img": "090f8285-3822-4d40-950f-b505497d700b",
-    "nombre": "disney48",
+    "nombre": "disney50",
     "status": "03:30",
     "duration": 135,
     "play_url": ""
@@ -484,7 +510,7 @@
     "league": "Fórmula 1",
     "fecha-evento": "2025-09-20T03:30:00-05:00",
     "img": "0713026d-414c-4677-b99d-eb3203875349",
-    "nombre": "disney49",
+    "nombre": "disney51",
     "status": "03:30",
     "duration": 135,
     "play_url": ""
@@ -494,7 +520,7 @@
     "league": "Fórmula 1",
     "fecha-evento": "2025-09-20T05:00:00-05:00",
     "img": "32b10095-0c9b-4020-9b25-5a26f29a0e4b",
-    "nombre": "disney50",
+    "nombre": "disney52",
     "status": "05:00",
     "duration": 135,
     "play_url": ""
@@ -504,7 +530,7 @@
     "league": "Fórmula 2",
     "fecha-evento": "2025-09-20T05:05:00-05:00",
     "img": "44381fea-289a-43e7-92a9-7f08848071aa",
-    "nombre": "disney51",
+    "nombre": "disney53",
     "status": "05:05",
     "duration": 135,
     "play_url": ""
@@ -514,7 +540,7 @@
     "league": "Bundesliga 2 de Alemania",
     "fecha-evento": "2025-09-20T05:50:00-05:00",
     "img": "c2f99164-ed28-43ea-856f-8a8b63e23b93",
-    "nombre": "disney52",
+    "nombre": "disney54",
     "status": "05:50",
     "duration": 135,
     "play_url": ""
@@ -524,7 +550,7 @@
     "league": "Bundesliga 2 de Alemania",
     "fecha-evento": "2025-09-20T05:55:00-05:00",
     "img": "34f8692f-9009-4483-8f7f-fbc1431b8602",
-    "nombre": "disney53",
+    "nombre": "disney55",
     "status": "05:55",
     "duration": 135,
     "play_url": ""
@@ -534,7 +560,7 @@
     "league": "Bundesliga 2 de Alemania",
     "fecha-evento": "2025-09-20T05:55:00-05:00",
     "img": "e9ae2afd-cf8b-4d6f-b30e-a9c66123d428",
-    "nombre": "disney54",
+    "nombre": "disney56",
     "status": "05:55",
     "duration": 135,
     "play_url": ""
@@ -544,7 +570,7 @@
     "league": "DP World Tour",
     "fecha-evento": "2025-09-20T06:00:00-05:00",
     "img": "20151ea5-411e-4cec-bf1e-7111dd699e49",
-    "nombre": "disney55",
+    "nombre": "disney57",
     "status": "06:00",
     "duration": 135,
     "play_url": ""
@@ -554,7 +580,7 @@
     "league": "Fórmula 1",
     "fecha-evento": "2025-09-20T06:00:00-05:00",
     "img": "9ce40aa7-4a57-4c6f-a109-ac4ebf6fc70f",
-    "nombre": "disney56",
+    "nombre": "disney58",
     "status": "06:00",
     "duration": 135,
     "play_url": ""
@@ -564,7 +590,7 @@
     "league": "Premier League",
     "fecha-evento": "2025-09-20T06:20:00-05:00",
     "img": "9ab8c168-f7ce-43b6-afad-db7b7cf10244",
-    "nombre": "disney57",
+    "nombre": "disney59",
     "status": "06:20",
     "duration": 135,
     "play_url": ""
@@ -574,7 +600,7 @@
     "league": "Championship de Inglaterra",
     "fecha-evento": "2025-09-20T06:25:00-05:00",
     "img": "03020b0b-1282-4ba8-8f56-3e16f0e04ae3",
-    "nombre": "disney58",
+    "nombre": "disney60",
     "status": "06:25",
     "duration": 135,
     "play_url": ""
@@ -584,7 +610,7 @@
     "league": "LALIGA",
     "fecha-evento": "2025-09-20T06:50:00-05:00",
     "img": "5f1ad933-47ae-4cac-adb9-084e59679510",
-    "nombre": "disney59",
+    "nombre": "disney61",
     "status": "06:50",
     "duration": 135,
     "play_url": ""
@@ -594,7 +620,7 @@
     "league": "Fórmula 1",
     "fecha-evento": "2025-09-20T07:00:00-05:00",
     "img": "db436497-4481-4223-816c-f4538c3f600a",
-    "nombre": "disney60",
+    "nombre": "disney62",
     "status": "07:00",
     "duration": 135,
     "play_url": ""
@@ -604,28 +630,8 @@
     "league": "Fórmula 1",
     "fecha-evento": "2025-09-20T07:00:00-05:00",
     "img": "4007105a-ad6a-4d5e-bf42-57ce1655491d",
-    "nombre": "disney61",
-    "status": "07:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "F1 GP Azerbaiyán, clasificación | On Board Verstappen",
-    "league": "Fórmula 1",
-    "fecha-evento": "2025-09-20T07:00:00-05:00",
-    "img": "ec2e6e7b-eb57-432d-9f04-37163164d2cb",
-    "nombre": "disney62",
-    "status": "07:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Bologna vs. Genoa",
-    "league": "Seria A",
-    "fecha-evento": "2025-09-20T07:50:00-05:00",
-    "img": "044f011d-68af-46fa-a14d-460021db4668",
     "nombre": "disney63",
-    "status": "07:50",
+    "status": "07:00",
     "duration": 135,
     "play_url": ""
   }
