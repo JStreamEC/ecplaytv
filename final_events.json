@@ -1,338 +1,59 @@
 [
   {
-    "title": "Aguas Arriba",
-    "league": "ESPN",
-    "fecha-evento": "2025-09-19T12:20:00-05:00",
-    "img": "113a9c04-6731-4c19-86a0-1f8929df3956",
-    "nombre": "disney1",
-    "status": "12:20",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Ajax vs. Inter Milan",
     "league": "UEFA Champions League",
     "fecha-evento": "2025-10-01T13:40:00-05:00",
     "img": "3b01b076-c810-44d0-88d7-9c47364c0200",
-    "nombre": "disney2",
+    "nombre": "disney1",
     "status": "13:40",
     "duration": 135,
     "play_url": ""
-  },
-  {
-    "title": "F Tactico",
-    "league": "ESPN",
-    "fecha-evento": "2025-09-18T23:00:08-05:00",
-    "img": "1f506b93-29e3-4f76-8c35-e662d2bb33ea",
-    "nombre": "disney3",
-    "status": "23:00",
-    "duration": 60,
-    "play_url": "https://www.disneyplus.com/es-es/play/9afcd75c-7883-474d-b64b-e1995255acac",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1758342018~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F19%2FF_Tctico_20250919_1758247212028%2F~psid=6c6d76b6-1279-48b4-96e5-42a9913f07ed~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=8a861428e7605aaa108343b58dc8d5a09a5bf8ee4e7ea70d5071793c735ce0f4/clt1/va02/disneyplus/event/2025/09/19/F_Tctico_20250919_1758247212028/ctr-all-hdri-complete.m3u8?v=1&hash=206b03660578c485ed16955c94405454df00a091",
-    "k1": "75e7d5b08a234264856f27e12a82ef27",
-    "k2": "7bf956a1690a816f14d973bf9550fa6f"
-  },
-  {
-    "title": "Korea Open Tennis Championships 2025 Presented by Motiva (Quarterfinals)",
-    "league": "WTA",
-    "fecha-evento": "2025-09-18T22:00:00-05:00",
-    "img": "b58c56ca-02ef-4371-bcff-579334c3be5d",
-    "nombre": "disney13",
-    "status": "22:00",
-    "duration": 480,
-    "play_url": "https://www.disneyplus.com/es-es/play/f931aa2f-4cf1-4912-8d71-a6689be5535a",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1758337218~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F19%2FKorea_Open_Tennis_Champio_20250919_1758243605027%2F~psid=34327f8a-1780-4033-83e7-15a0ed62bb00~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=0b883c0b413862094fdd67f952cf9a3eba683c79b14ec51389df3558d58482ed/clt1/va02/disneyplus/event/2025/09/19/Korea_Open_Tennis_Champio_20250919_1758243605027/ctr-all-hdri-complete.m3u8?v=1&hash=851227787d7b01640e2e0882b7fcb7f3283865d9",
-    "k1": "df497ec8d8894e23ae202faf6d3edec2",
-    "k2": "671217d631cff062afcf89910e40b6d9"
-  },
-  {
-    "title": "SportsCenter Argentina",
-    "league": "ESPN",
-    "fecha-evento": "2025-09-18T22:30:06-05:00",
-    "img": "ed20e560-1c2f-4dce-bd62-182c9856d44a",
-    "nombre": "disney8",
-    "status": "22:30",
-    "duration": 90,
-    "play_url": "https://www.disneyplus.com/es-es/play/607ddb6f-3c61-4e0a-b7d4-6dce3dd0c93e",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1758339618~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F19%2FSportsCenter_20250919_1758245410027%2F~psid=9d194aa0-1a7d-4be1-bc32-b0b76ff53bab~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=41a9461600c88cb826a2dca27ff51da2f79fa08993e2005795f8a3ab888c33a5/clt1/va02/disneyplus/event/2025/09/19/SportsCenter_20250919_1758245410027/ctr-all-hdri-complete.m3u8?v=1&hash=8e9d11c3ec18afc96c4c3a4c55022777be3e3d77",
-    "k1": "2f79d81aaa3d427f868fd9be4f20d140",
-    "k2": "ab6179a7e286e5a249332c6b012f9db8"
   },
   {
     "title": "Hangzhou Open (Second Round)",
     "league": "ATP",
     "fecha-evento": "2025-09-18T22:30:06-05:00",
     "img": "06543c5b-311d-4738-831e-59b3ae8d2874",
-    "nombre": "disney9",
+    "nombre": "disney2",
     "status": "22:30",
-    "duration": 600,
+    "duration": 675,
     "play_url": "https://www.disneyplus.com/es-es/play/29679d76-5927-4f21-9721-bb954494fcb2",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1758339662~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F19%2FHangzhou_Open_Second_Roun_20250919_1758245456032%2F~psid=c8660e56-7554-4cd5-8ca1-be3ac7611002~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=52fbdaeba2f4874c0adb279a0422239855d85a3efd4fdbbec60186979af61413/clt1/va02/disneyplus/event/2025/09/19/Hangzhou_Open_Second_Roun_20250919_1758245456032/ctr-all-hdri-complete.m3u8?v=1&hash=0f60d42fbb75bbafc441da51cc9ecdb143f04a58",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1758379105~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F19%2FHangzhou_Open_Second_Roun_20250919_1758245456032%2F~psid=f544f853-1a87-44c9-9550-9d83a7fe2c11~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=f27b2a20e6d7ff882490c15ea0def21d297a803f171f3bb144e984bf08eb62a8/clt1/va02/disneyplus/event/2025/09/19/Hangzhou_Open_Second_Roun_20250919_1758245456032/ctr-all-hdri-complete.m3u8?v=1&hash=0f60d42fbb75bbafc441da51cc9ecdb143f04a58",
     "k1": "6aca2c16baa045f78e6a1ea631c8bfad",
     "k2": "3722c9bf2926184c369850f69e575a3d"
-  },
-  {
-    "title": "Korea Open Tennis Championships 2025 Presented by Motiva / Grandstand (Doubles Quarterfinals)",
-    "league": "WTA",
-    "fecha-evento": "2025-09-18T23:00:00-05:00",
-    "img": "05341a61-9490-4301-b8fa-38c816261a9b",
-    "nombre": "disney7",
-    "status": "23:00",
-    "duration": 480,
-    "play_url": "https://www.disneyplus.com/es-es/play/2fcd568d-0009-463d-91ef-ed313b64c33b",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1758342062~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F19%2FKorea_Open_Tennis_Champio_20250919_1758247233034%2F~psid=e6735d91-552b-4457-8fea-9ae196e18909~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=ea15309a9bdbe2e7f2f1cf0e34b495d6643a36c79b0b332841a89f12bb6d89da/clt1/va02/disneyplus/event/2025/09/19/Korea_Open_Tennis_Champio_20250919_1758247233034/ctr-all-hdri-complete.m3u8?v=1&hash=42a28b53c0010b8b3af251be46f01abbe4bb029a",
-    "k1": "0bc6893d16b94c9180b03a069494136e",
-    "k2": "9d23925ce96eae82c7446fa1e7815d33"
-  },
-  {
-    "title": "SportsCenter Colombia",
-    "league": "ESPN",
-    "fecha-evento": "2025-09-18T23:00:00-05:00",
-    "img": "f0966ea9-7663-497b-951f-33a01cb3e1d9",
-    "nombre": "disney8",
-    "status": "23:00",
-    "duration": 60,
-    "play_url": "https://www.disneyplus.com/es-es/play/f138b16c-b686-4efe-89b4-3dd8a7d7d026",
-    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1758342105~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F921e1311-bb26-43dd-84a6-9e2284959712-1756222679255%2F~psid=25eb8d31-352c-4ccc-8d85-d27c1d39963f~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=7d0a595705c07e4f5c087ae469a7f3c4bd3a9fa98fc185b56620309e8291e8b9/clt1/va02/disneyplus/channel/921e1311-bb26-43dd-84a6-9e2284959712-1756222679255/ctr-all-sliding.m3u8?v=1&hash=c2eebfbadec853d4e3ca4fa1a9f9011e0c7562b2",
-    "k1": "2a4fb5f407b847f7b7c496333f33903e",
-    "k2": "a4b10e51e9bb6aaca7b247887c287f3e"
-  },
-  {
-    "title": "SportsCenter Argentina Medianoche",
-    "league": "ESPN",
-    "fecha-evento": "2025-09-19T00:00:00-05:00",
-    "img": "32e917bb-eb6a-43fe-9225-eda7a0cf2420",
-    "nombre": "disney9",
-    "status": "00:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Chengdu Open (Second Round)",
-    "league": "ATP",
-    "fecha-evento": "2025-09-19T00:00:00-05:00",
-    "img": "3fad5d9c-c3a9-4fac-8a97-24c73c323e4d",
-    "nombre": "disney10",
-    "status": "00:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "F2 - GP Azerbaiyán - Prácticas",
-    "league": "Fórmula 2",
-    "fecha-evento": "2025-09-19T00:55:00-05:00",
-    "img": "eee38a14-f65b-475e-b360-7a852820142c",
-    "nombre": "disney11",
-    "status": "00:55",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Taranaki vs. Hawke's Bay (Fecha #8)",
-    "league": "National Provincial Championship",
-    "fecha-evento": "2025-09-19T02:05:00-05:00",
-    "img": "9558e60f-1fb8-4c47-abd4-7151070455de",
-    "nombre": "disney12",
-    "status": "02:05",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "F1 - GP Azerbaiyán- Prácticas #1",
-    "league": "Fórmula 1",
-    "fecha-evento": "2025-09-19T03:00:00-05:00",
-    "img": "140adad6-3075-4aae-9fad-8c3df4a46756",
-    "nombre": "disney13",
-    "status": "03:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "F1 GP Azerbaiyán, práctica #1 | On Board Verstappen",
-    "league": "Fórmula 1",
-    "fecha-evento": "2025-09-19T03:30:00-05:00",
-    "img": "28318959-0ab2-4435-bc66-e71ce7eede90",
-    "nombre": "disney14",
-    "status": "03:30",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "F1 GP Azerbaiyán, práctica #1 | Cámara On Board",
-    "league": "Fórmula 1",
-    "fecha-evento": "2025-09-19T03:30:00-05:00",
-    "img": "bab6d385-22fb-4777-91f6-283bb1060998",
-    "nombre": "disney15",
-    "status": "03:30",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "F1 GP Azerbaiyán, práctica #1 | On Board Colapinto",
-    "league": "Fórmula 1",
-    "fecha-evento": "2025-09-19T03:30:00-05:00",
-    "img": "8002bff3-8a8a-4dd2-a619-f5667729b288",
-    "nombre": "disney16",
-    "status": "03:30",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "F2 - GP Azerbaiyán - Clasificación",
-    "league": "Fórmula 2",
-    "fecha-evento": "2025-09-19T04:55:00-05:00",
-    "img": "82ffb55f-f92a-4323-96fa-c55f7345bcd8",
-    "nombre": "disney17",
-    "status": "04:55",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "SportsCenter AM",
-    "league": "ESPN",
-    "fecha-evento": "2025-09-19T05:00:00-05:00",
-    "img": "0c441e1e-726b-4546-ad87-767606477611",
-    "nombre": "disney18",
-    "status": "05:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "UEFA Women's Champions League Draw",
-    "league": "UEFA Champions League femenina",
-    "fecha-evento": "2025-09-19T05:00:00-05:00",
-    "img": "49f18505-a857-402c-8065-64541cb89c2f",
-    "nombre": "disney19",
-    "status": "05:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Compacto | F1 GP Azerbaiyán | Práctica 1 (3 min)",
-    "league": "Fórmula 1",
-    "fecha-evento": "2025-09-19T05:00:00-05:00",
-    "img": "32b10095-0c9b-4020-9b25-5a26f29a0e4b",
-    "nombre": "disney20",
-    "status": "05:00",
-    "duration": 135,
-    "play_url": ""
   },
   {
     "title": "FedEx Open de France (Second Round)",
     "league": "DP World Tour",
     "fecha-evento": "2025-09-19T06:30:00-05:00",
     "img": "156e93c5-2487-4352-b4e2-28397bd6678d",
-    "nombre": "disney21",
+    "nombre": "disney3",
     "status": "06:30",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "F1 - GP Azerbaiyán- Prácticas #2",
-    "league": "Fórmula 1",
-    "fecha-evento": "2025-09-19T06:30:00-05:00",
-    "img": "fd7da74f-ba79-4699-add9-3943a9438b1a",
-    "nombre": "disney22",
-    "status": "06:30",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "F1 GP Azerbaiyán, práctica #2 | On Board Colapinto",
-    "league": "Fórmula 1",
-    "fecha-evento": "2025-09-19T07:00:00-05:00",
-    "img": "1de31e60-9cee-4d85-b606-d6774de20fbd",
-    "nombre": "disney23",
-    "status": "07:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "F1 GP Azerbaiyán, práctica #2 | On Board Verstappen",
-    "league": "Fórmula 1",
-    "fecha-evento": "2025-09-19T07:00:00-05:00",
-    "img": "d8dfbb38-590f-4097-9ace-b738a9164491",
-    "nombre": "disney24",
-    "status": "07:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "F1 GP Azerbaiyán, práctica #2 | Cámara On Board",
-    "league": "Fórmula 1",
-    "fecha-evento": "2025-09-19T07:00:00-05:00",
-    "img": "317adfb5-54c5-410f-9ed2-fbe96ceeaf15",
-    "nombre": "disney25",
-    "status": "07:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "SportsCenter a las 10",
-    "league": "ESPN",
-    "fecha-evento": "2025-09-19T08:00:00-05:00",
-    "img": "0f343836-c984-4a48-8b84-619d4b350541",
-    "nombre": "disney26",
-    "status": "08:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Compacto | F1 GP Azerbaiyán | Práctica 2 (3 min)",
-    "league": "Fórmula 1",
-    "fecha-evento": "2025-09-19T08:30:00-05:00",
-    "img": "32b10095-0c9b-4020-9b25-5a26f29a0e4b",
-    "nombre": "disney27",
-    "status": "08:30",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "SportsCenter Argentina",
-    "league": "ESPN",
-    "fecha-evento": "2025-09-19T09:00:00-05:00",
-    "img": "ed20e560-1c2f-4dce-bd62-182c9856d44a",
-    "nombre": "disney28",
-    "status": "09:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "ESPN F12",
-    "league": "ESPN",
-    "fecha-evento": "2025-09-19T09:00:00-05:00",
-    "img": "7d8f0486-9394-4a91-98cb-9cc65e1f2f15",
-    "nombre": "disney29",
-    "status": "09:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 300,
+    "play_url": "https://www.disneyplus.com/es-es/play/1ca2de93-8733-4bbf-a4f1-7f2131204582",
+    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1758379148~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Fbbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1758265170869%2F~psid=58810e6d-5320-4b26-9650-68ad93f4f7ba~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=532f695dcacf440c1ebcb8e40e9f93c58644c38b508a9caf302f26131c3de8fe/clt1/va02/disneyplus/channel/bbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1758265170869/ctr-all-sliding.m3u8?v=1&hash=4b44ed5e140524edee19ba7de50a11aef68f9d53",
+    "k1": "937549d602c740b3945498bb839dde09",
+    "k2": "5f2cae798afa09e0ab49e6916935d159"
   },
   {
     "title": "Incarnate Word vs. Ole Miss",
     "league": "NCAA Women's Volleyball",
-    "fecha-evento": "2025-09-19T09:30:00-05:00",
+    "fecha-evento": "2025-09-19T09:30:21-05:00",
     "img": "e4aaab76-b08a-4733-9d21-3352ccea46b1",
-    "nombre": "disney30",
+    "nombre": "disney4",
     "status": "09:30",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "ESPN F90 Argentina",
-    "league": "ESPN",
-    "fecha-evento": "2025-09-19T11:00:00-05:00",
-    "img": "40cffcbc-53fa-4c9b-83f1-14c65f318abb",
-    "nombre": "disney31",
-    "status": "11:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/26c3b839-102c-431a-9c70-021a2a1b7ffb",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1758379192~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F19%2FIncarnate_Word_vs_Ole_Mis_20250919_1758285008028%2F~psid=3fcfc696-472c-4455-ba65-e8ebc72f1101~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=2994ce99a85a32fc8fdb128bf5e2db96e6f839d8ec31ef89ce2770f209c2fe12/clt1/va02/disneyplus/event/2025/09/19/Incarnate_Word_vs_Ole_Mis_20250919_1758285008028/ctr-all-hdri-complete.m3u8?v=1&hash=150e2fd1f73ad4ac3e484780572d110313df31fa",
+    "k1": "57841cbc08d44cb6af37431310107cac",
+    "k2": "930a3133b6dd9adf6288e548170be1d5"
   },
   {
     "title": "Arminia Bielefeld vs. SpVgg Greuther Fürth",
     "league": "Bundesliga 2 de Alemania",
     "fecha-evento": "2025-09-19T11:25:00-05:00",
     "img": "d73d1b1d-aa16-49fa-ba10-3beddcc2ea83",
-    "nombre": "disney32",
+    "nombre": "disney5",
     "status": "11:25",
     "duration": 135,
     "play_url": ""
@@ -342,18 +63,8 @@
     "league": "Bundesliga 2 de Alemania",
     "fecha-evento": "2025-09-19T11:25:00-05:00",
     "img": "946e6480-3d7d-4afe-9a33-e9f9c3e342df",
-    "nombre": "disney33",
+    "nombre": "disney6",
     "status": "11:25",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Serie A Weekly Preview Show",
-    "league": "ESPN",
-    "fecha-evento": "2025-09-19T11:30:00-05:00",
-    "img": "7242fc7d-62a9-4186-82f0-5608bdf2f731",
-    "nombre": "disney34",
-    "status": "11:30",
     "duration": 135,
     "play_url": ""
   },
@@ -362,7 +73,7 @@
     "league": "Super Lig de Turquía",
     "fecha-evento": "2025-09-19T11:50:00-05:00",
     "img": "0651e78a-06e1-4e7c-ab29-c5d9395fed2f",
-    "nombre": "disney35",
+    "nombre": "disney7",
     "status": "11:50",
     "duration": 135,
     "play_url": ""
@@ -372,7 +83,7 @@
     "league": "Segunda División de Uruguay",
     "fecha-evento": "2025-09-19T12:45:00-05:00",
     "img": "1497a76f-f490-4f05-bc08-8f31ddf02946",
-    "nombre": "disney36",
+    "nombre": "disney8",
     "status": "12:45",
     "duration": 135,
     "play_url": ""
@@ -382,7 +93,7 @@
     "league": "Mundial de Rugby femenino",
     "fecha-evento": "2025-09-19T12:50:00-05:00",
     "img": "0e3780ae-a5a8-4c52-8070-003ac3e48865",
-    "nombre": "disney37",
+    "nombre": "disney9",
     "status": "12:50",
     "duration": 135,
     "play_url": ""
@@ -392,28 +103,8 @@
     "league": "Eredivisie",
     "fecha-evento": "2025-09-19T12:55:00-05:00",
     "img": "4ecf5e35-06ba-4cae-a2b3-2d6dc1381cc8",
-    "nombre": "disney38",
+    "nombre": "disney10",
     "status": "12:55",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "ESPN F3",
-    "league": "ESPN",
-    "fecha-evento": "2025-09-19T13:00:00-05:00",
-    "img": "3aa90169-2335-493d-a2ec-35e371568468",
-    "nombre": "disney39",
-    "status": "13:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "SportsCenter Colombia",
-    "league": "ESPN",
-    "fecha-evento": "2025-09-19T13:00:00-05:00",
-    "img": "f0966ea9-7663-497b-951f-33a01cb3e1d9",
-    "nombre": "disney40",
-    "status": "13:00",
     "duration": 135,
     "play_url": ""
   },
@@ -422,7 +113,7 @@
     "league": "Bundesliga",
     "fecha-evento": "2025-09-19T13:20:00-05:00",
     "img": "261b09bb-f6a6-466d-b4ec-7f314a3edade",
-    "nombre": "disney41",
+    "nombre": "disney11",
     "status": "13:20",
     "duration": 135,
     "play_url": ""
@@ -432,17 +123,17 @@
     "league": "English Women's Super League",
     "fecha-evento": "2025-09-19T13:20:00-05:00",
     "img": "33743e28-70cb-4fc7-857e-e7afe3771292",
-    "nombre": "disney42",
+    "nombre": "disney12",
     "status": "13:20",
     "duration": 135,
     "play_url": ""
   },
   {
-    "title": "Lyon vs. Angers (Fecha #5)",
+    "title": "Lyon vs. Angers",
     "league": "Ligue 1",
     "fecha-evento": "2025-09-19T13:30:00-05:00",
     "img": "0be6aef8-3259-4a44-b68d-71da10a250d2",
-    "nombre": "disney43",
+    "nombre": "disney13",
     "status": "13:30",
     "duration": 135,
     "play_url": ""
@@ -452,7 +143,7 @@
     "league": "Seria A",
     "fecha-evento": "2025-09-19T13:40:00-05:00",
     "img": "112134b4-cdd4-4d09-b5ff-66ec3f87b343",
-    "nombre": "disney44",
+    "nombre": "disney14",
     "status": "13:40",
     "duration": 135,
     "play_url": ""
@@ -462,7 +153,7 @@
     "league": "Championship de Inglaterra",
     "fecha-evento": "2025-09-19T13:50:00-05:00",
     "img": "073d3873-e7f7-4a0a-87e7-cec9948cb412",
-    "nombre": "disney45",
+    "nombre": "disney15",
     "status": "13:50",
     "duration": 135,
     "play_url": ""
@@ -472,18 +163,8 @@
     "league": "NCAA Women's Field Hockey",
     "fecha-evento": "2025-09-19T14:00:00-05:00",
     "img": "48c899c7-700e-4578-bba7-f5609d1d5bac",
-    "nombre": "disney46",
+    "nombre": "disney16",
     "status": "14:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "SportsCenter Argentina Tarde",
-    "league": "ESPN",
-    "fecha-evento": "2025-09-19T14:30:00-05:00",
-    "img": "0a917a1c-7321-47ee-a0a0-a2f08f6d07db",
-    "nombre": "disney47",
-    "status": "14:30",
     "duration": 135,
     "play_url": ""
   },
@@ -491,19 +172,9 @@
     "title": "Casper Ruud vs. Reilly Opelka (Day #1)",
     "league": "ESPN",
     "fecha-evento": "2025-09-19T14:30:00-05:00",
-    "img": "7ac0f0bd-90f3-4634-829a-8c16fff5da79",
-    "nombre": "disney48",
+    "img": "010614d3-3d35-42e5-8ef1-41ffd50ae389",
+    "nombre": "disney17",
     "status": "14:30",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Generación F",
-    "league": "ESPN",
-    "fecha-evento": "2025-09-19T15:00:00-05:00",
-    "img": "cd1bb262-e6f4-467e-b3a5-6a03c2e8ea50",
-    "nombre": "disney49",
-    "status": "15:00",
     "duration": 135,
     "play_url": ""
   },
@@ -512,18 +183,8 @@
     "league": "NCAA Women's Field Hockey",
     "fecha-evento": "2025-09-19T15:00:00-05:00",
     "img": "57cad79a-827c-4ee7-95db-a96ef06a11d1",
-    "nombre": "disney50",
+    "nombre": "disney18",
     "status": "15:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "ESPN F360",
-    "league": "ESPN",
-    "fecha-evento": "2025-09-19T16:00:00-05:00",
-    "img": "517b1de4-011a-4179-ae1f-08c70cd6b422",
-    "nombre": "disney51",
-    "status": "16:00",
     "duration": 135,
     "play_url": ""
   },
@@ -532,17 +193,7 @@
     "league": "NCAA Women's Field Hockey",
     "fecha-evento": "2025-09-19T16:00:00-05:00",
     "img": "b153e6a6-e175-492e-8ccf-26d6fbfdd897",
-    "nombre": "disney52",
-    "status": "16:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Balón Dividido",
-    "league": "ESPN",
-    "fecha-evento": "2025-09-19T16:00:00-05:00",
-    "img": "202d06c4-1577-46f5-bee9-f1114b67d32e",
-    "nombre": "disney53",
+    "nombre": "disney19",
     "status": "16:00",
     "duration": 135,
     "play_url": ""
@@ -552,7 +203,7 @@
     "league": "NCAA Women's Field Hockey",
     "fecha-evento": "2025-09-19T16:00:00-05:00",
     "img": "a06e42c7-e7e0-4f58-83c8-2fff6413ac7a",
-    "nombre": "disney54",
+    "nombre": "disney20",
     "status": "16:00",
     "duration": 135,
     "play_url": ""
@@ -562,7 +213,7 @@
     "league": "NCAA Women's Field Hockey",
     "fecha-evento": "2025-09-19T17:00:00-05:00",
     "img": "87a6aeac-6c10-4f7f-85fa-699854514ad3",
-    "nombre": "disney55",
+    "nombre": "disney21",
     "status": "17:00",
     "duration": 135,
     "play_url": ""
@@ -572,28 +223,8 @@
     "league": "NCAA Women's Volleyball",
     "fecha-evento": "2025-09-19T17:00:00-05:00",
     "img": "53b02b75-e809-4ef3-9b8c-a9fdd53a86fa",
-    "nombre": "disney56",
+    "nombre": "disney22",
     "status": "17:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Equipo F",
-    "league": "ESPN",
-    "fecha-evento": "2025-09-19T17:00:00-05:00",
-    "img": "545d244b-9e10-4b8f-b6e7-68239e714808",
-    "nombre": "disney57",
-    "status": "17:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "ESPN F360 Colombia",
-    "league": "ESPN",
-    "fecha-evento": "2025-09-19T17:30:00-05:00",
-    "img": "a4506685-7b3f-49ab-ba22-ca6384561a04",
-    "nombre": "disney58",
-    "status": "17:30",
     "duration": 135,
     "play_url": ""
   },
@@ -602,7 +233,7 @@
     "league": "MLB",
     "fecha-evento": "2025-09-19T17:40:00-05:00",
     "img": "1e152ea9-077b-4032-a57a-7b28d61eab62",
-    "nombre": "disney59",
+    "nombre": "disney23",
     "status": "17:40",
     "duration": 135,
     "play_url": ""
@@ -612,7 +243,7 @@
     "league": "Campeonato Uruguayo",
     "fecha-evento": "2025-09-19T17:45:00-05:00",
     "img": "8914095c-2236-43a8-b2ce-ca6f73387388",
-    "nombre": "disney60",
+    "nombre": "disney24",
     "status": "17:45",
     "duration": 135,
     "play_url": ""
@@ -622,17 +253,7 @@
     "league": "NCAA Women's Volleyball",
     "fecha-evento": "2025-09-19T18:00:00-05:00",
     "img": "00b93ce8-21e9-4878-b641-a6a5c9cacc0f",
-    "nombre": "disney61",
-    "status": "18:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Saint Mary's vs. Sacramento State",
-    "league": "Fútbol Masculino NCAA",
-    "fecha-evento": "2025-09-19T18:00:00-05:00",
-    "img": "dbc2e06a-9757-4820-9de3-6178c6b3b99e",
-    "nombre": "disney62",
+    "nombre": "disney25",
     "status": "18:00",
     "duration": 135,
     "play_url": ""
@@ -642,8 +263,378 @@
     "league": "USL Championship",
     "fecha-evento": "2025-09-19T18:00:00-05:00",
     "img": "3f7ddbb8-f190-4f38-a7df-0f5abf106b9b",
-    "nombre": "disney63",
+    "nombre": "disney26",
     "status": "18:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Saint Mary's vs. Sacramento State",
+    "league": "Fútbol Masculino NCAA",
+    "fecha-evento": "2025-09-19T18:00:00-05:00",
+    "img": "dbc2e06a-9757-4820-9de3-6178c6b3b99e",
+    "nombre": "disney27",
+    "status": "18:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "#2 NC State vs. Boston College",
+    "league": "Fútbol Masculino NCAA",
+    "fecha-evento": "2025-09-19T18:00:00-05:00",
+    "img": "12050f3c-cb06-412d-81df-296579d1e623",
+    "nombre": "disney28",
+    "status": "18:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Ceibos vs. Montevideo Cricket Club",
+    "league": "Campeonato Uruguayo de Rugby",
+    "fecha-evento": "2025-09-19T18:00:00-05:00",
+    "img": "7b6a064a-6361-4c83-b6bb-3696db0bd5b5",
+    "nombre": "disney29",
+    "status": "18:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "#1 Wake Forest vs. Virginia",
+    "league": "Fútbol Masculino NCAA",
+    "fecha-evento": "2025-09-19T18:00:00-05:00",
+    "img": "11852e45-8c59-413b-93d4-540be53817bc",
+    "nombre": "disney30",
+    "status": "18:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "UCF vs. #22 Kentucky",
+    "league": "Fútbol Masculino NCAA",
+    "fecha-evento": "2025-09-19T18:30:00-05:00",
+    "img": "cb876782-8397-414a-b4c3-525ad61f5ebf",
+    "nombre": "disney31",
+    "status": "18:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Counties Manukau Heat vs. Auckland Storm",
+    "league": "Farah Palmer Cup",
+    "fecha-evento": "2025-09-19T18:30:00-05:00",
+    "img": "61e7aa88-2fee-4e70-b122-6f82328501b6",
+    "nombre": "disney32",
+    "status": "18:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Tulsa vs. Oklahoma State",
+    "league": "Fútbol Americano NCAA",
+    "fecha-evento": "2025-09-19T18:30:00-05:00",
+    "img": "342332ae-1061-49b3-83d6-3d4f30f59b6c",
+    "nombre": "disney33",
+    "status": "18:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Seattle Mariners vs. Houston Astros",
+    "league": "MLB",
+    "fecha-evento": "2025-09-19T19:00:00-05:00",
+    "img": "0af93831-6285-489f-b6ad-75d2eb1e2bd5",
+    "nombre": "disney34",
+    "status": "19:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Lanús vs. Platense",
+    "league": "Liga Profesional de Fútbol",
+    "fecha-evento": "2025-09-19T19:05:00-05:00",
+    "img": "068f13a5-2604-48cf-af2e-fc21725fc918",
+    "nombre": "disney35",
+    "status": "19:05",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Pepperdine vs. #8 Arizona State",
+    "league": "NCAA Women's Volleyball",
+    "fecha-evento": "2025-09-19T20:00:00-05:00",
+    "img": "1cc94b26-f4ac-43ea-8918-4c1bc1b589cc",
+    "nombre": "disney36",
+    "status": "20:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Hawai'i vs. #4 Stanford",
+    "league": "NCAA Women's Volleyball",
+    "fecha-evento": "2025-09-19T20:30:00-05:00",
+    "img": "1707d555-e69f-42c3-a91b-beffb9e8e072",
+    "nombre": "disney37",
+    "status": "20:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Flavio Cobolli vs. Joao Fonseca (Day #1)",
+    "league": "ESPN",
+    "fecha-evento": "2025-09-19T21:00:00-05:00",
+    "img": "2971b467-dc10-4012-9f10-bee4b0394677",
+    "nombre": "disney38",
+    "status": "21:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Canterbury Women vs. Bay of Plenty Volcanix",
+    "league": "Farah Palmer Cup",
+    "fecha-evento": "2025-09-19T21:00:00-05:00",
+    "img": "b89e510f-f680-44f8-89bc-ccf7ea109876",
+    "nombre": "disney39",
+    "status": "21:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Counties Manukau vs. Auckland (Fecha #8)",
+    "league": "National Provincial Championship",
+    "fecha-evento": "2025-09-19T21:00:00-05:00",
+    "img": "6541f88a-51ec-434d-9fb2-8060ac990cdd",
+    "nombre": "disney40",
+    "status": "21:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Wellington vs. Southland (Fecha #8)",
+    "league": "National Provincial Championship",
+    "fecha-evento": "2025-09-19T21:00:00-05:00",
+    "img": "d245b97c-e40f-46be-a5e6-fbabbdb07f5c",
+    "nombre": "disney41",
+    "status": "21:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Canterbury vs. Otago (Fecha #8)",
+    "league": "National Provincial Championship",
+    "fecha-evento": "2025-09-19T23:30:00-05:00",
+    "img": "02218c02-738d-49cf-b63b-6a6be98a8186",
+    "nombre": "disney42",
+    "status": "23:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Chengdu Open (Second Round)",
+    "league": "ATP",
+    "fecha-evento": "2025-09-20T00:00:00-05:00",
+    "img": "3fad5d9c-c3a9-4fac-8a97-24c73c323e4d",
+    "nombre": "disney43",
+    "status": "00:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Korea Open Tennis Championships 2025 Presented by Motiva / Centre Court (Doubles Semifinals)",
+    "league": "WTA",
+    "fecha-evento": "2025-09-20T00:30:00-05:00",
+    "img": "b9abefcc-97e5-4878-96d9-447aa9c1f1cc",
+    "nombre": "disney44",
+    "status": "00:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Hangzhou Open (Second Round)",
+    "league": "ATP",
+    "fecha-evento": "2025-09-20T00:30:00-05:00",
+    "img": "5a0172a0-f96b-4f36-9f1e-cc135759b72d",
+    "nombre": "disney45",
+    "status": "00:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Tasman vs. Waikato (Fecha #8)",
+    "league": "National Provincial Championship",
+    "fecha-evento": "2025-09-20T02:05:00-05:00",
+    "img": "5b9cf380-8368-44cd-9bc6-d42c9a714140",
+    "nombre": "disney46",
+    "status": "02:05",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "F1 - GP Azerbaiyán- Prácticas #3",
+    "league": "Fórmula 1",
+    "fecha-evento": "2025-09-20T03:00:00-05:00",
+    "img": "11b330b3-b814-4ffc-9f48-2e128030bfb2",
+    "nombre": "disney47",
+    "status": "03:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Korea Open Tennis Championships 2025 Presented by Motiva (Semifinals)",
+    "league": "WTA",
+    "fecha-evento": "2025-09-20T03:00:00-05:00",
+    "img": "3ff03a06-53b3-4c58-9349-f96dee0c2f3e",
+    "nombre": "disney48",
+    "status": "03:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "F1 GP Azerbaiyán, práctica #3 | On Board Verstappen",
+    "league": "Fórmula 1",
+    "fecha-evento": "2025-09-20T03:30:00-05:00",
+    "img": "ce73aae9-b9e7-4a81-9898-dcb955c44a59",
+    "nombre": "disney49",
+    "status": "03:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "F1 GP Azerbaiyán, práctica #3 | On Board Colapinto",
+    "league": "Fórmula 1",
+    "fecha-evento": "2025-09-20T03:30:00-05:00",
+    "img": "090f8285-3822-4d40-950f-b505497d700b",
+    "nombre": "disney50",
+    "status": "03:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "F1 GP Azerbaiyán, práctica #3 | Cámara On Board",
+    "league": "Fórmula 1",
+    "fecha-evento": "2025-09-20T03:30:00-05:00",
+    "img": "0713026d-414c-4677-b99d-eb3203875349",
+    "nombre": "disney51",
+    "status": "03:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Compacto | F1 GP Azerbaiyán | Práctica 3 (3 min)",
+    "league": "Fórmula 1",
+    "fecha-evento": "2025-09-20T05:00:00-05:00",
+    "img": "32b10095-0c9b-4020-9b25-5a26f29a0e4b",
+    "nombre": "disney52",
+    "status": "05:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "F2 - GP Azerbaiyán - Carrera #01",
+    "league": "Fórmula 2",
+    "fecha-evento": "2025-09-20T05:05:00-05:00",
+    "img": "44381fea-289a-43e7-92a9-7f08848071aa",
+    "nombre": "disney53",
+    "status": "05:05",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "1. FC Magdeburg vs. FC Schalke 04",
+    "league": "Bundesliga 2 de Alemania",
+    "fecha-evento": "2025-09-20T05:50:00-05:00",
+    "img": "c2f99164-ed28-43ea-856f-8a8b63e23b93",
+    "nombre": "disney54",
+    "status": "05:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Eintracht Braunschweig vs. SV Elversberg",
+    "league": "Bundesliga 2 de Alemania",
+    "fecha-evento": "2025-09-20T05:55:00-05:00",
+    "img": "34f8692f-9009-4483-8f7f-fbc1431b8602",
+    "nombre": "disney55",
+    "status": "05:55",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Hertha BSC vs. SC Paderborn 07",
+    "league": "Bundesliga 2 de Alemania",
+    "fecha-evento": "2025-09-20T05:55:00-05:00",
+    "img": "e9ae2afd-cf8b-4d6f-b30e-a9c66123d428",
+    "nombre": "disney56",
+    "status": "05:55",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "FedEx Open de France (Third Round)",
+    "league": "DP World Tour",
+    "fecha-evento": "2025-09-20T06:00:00-05:00",
+    "img": "20151ea5-411e-4cec-bf1e-7111dd699e49",
+    "nombre": "disney57",
+    "status": "06:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "F1 - GP Azerbaiyan - Clasificación",
+    "league": "Fórmula 1",
+    "fecha-evento": "2025-09-20T06:00:00-05:00",
+    "img": "9ce40aa7-4a57-4c6f-a109-ac4ebf6fc70f",
+    "nombre": "disney58",
+    "status": "06:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Liverpool vs. Everton",
+    "league": "Premier League",
+    "fecha-evento": "2025-09-20T06:20:00-05:00",
+    "img": "9ab8c168-f7ce-43b6-afad-db7b7cf10244",
+    "nombre": "disney59",
+    "status": "06:20",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Leicester City vs. Coventry City",
+    "league": "Championship de Inglaterra",
+    "fecha-evento": "2025-09-20T06:25:00-05:00",
+    "img": "03020b0b-1282-4ba8-8f56-3e16f0e04ae3",
+    "nombre": "disney60",
+    "status": "06:25",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Girona vs. Levante",
+    "league": "LALIGA",
+    "fecha-evento": "2025-09-20T06:50:00-05:00",
+    "img": "5f1ad933-47ae-4cac-adb9-084e59679510",
+    "nombre": "disney61",
+    "status": "06:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "F1 GP Azerbaiyán, clasificación | Cámara On Board",
+    "league": "Fórmula 1",
+    "fecha-evento": "2025-09-20T07:00:00-05:00",
+    "img": "db436497-4481-4223-816c-f4538c3f600a",
+    "nombre": "disney62",
+    "status": "07:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "F1 GP Azerbaiyán, clasificación | On Board Colapinto",
+    "league": "Fórmula 1",
+    "fecha-evento": "2025-09-20T07:00:00-05:00",
+    "img": "4007105a-ad6a-4d5e-bf42-57ce1655491d",
+    "nombre": "disney63",
+    "status": "07:00",
     "duration": 135,
     "play_url": ""
   }
