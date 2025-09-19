@@ -153,8 +153,11 @@
     "img": "b58c56ca-02ef-4371-bcff-579334c3be5d",
     "nombre": "disney13",
     "status": "22:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 480,
+    "play_url": "https://www.disneyplus.com/es-es/play/f931aa2f-4cf1-4912-8d71-a6689be5535a",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1758337218~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F19%2FKorea_Open_Tennis_Champio_20250919_1758243605027%2F~psid=34327f8a-1780-4033-83e7-15a0ed62bb00~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=0b883c0b413862094fdd67f952cf9a3eba683c79b14ec51389df3558d58482ed/clt1/va02/disneyplus/event/2025/09/19/Korea_Open_Tennis_Champio_20250919_1758243605027/ctr-all-hdri-complete.m3u8?v=1&hash=851227787d7b01640e2e0882b7fcb7f3283865d9",
+    "k1": "df497ec8d8894e23ae202faf6d3edec2",
+    "k2": "671217d631cff062afcf89910e40b6d9"
   },
   {
     "title": "SportsCenter Argentina",
@@ -337,20 +340,20 @@
     "play_url": ""
   },
   {
-    "title": "F1 GP Azerbaiyán, práctica #2 | On Board Verstappen",
+    "title": "F1 GP Azerbaiyán, práctica #2 | On Board Colapinto",
     "league": "Fórmula 1",
     "fecha-evento": "2025-09-19T07:00:00-05:00",
-    "img": "d8dfbb38-590f-4097-9ace-b738a9164491",
+    "img": "1de31e60-9cee-4d85-b606-d6774de20fbd",
     "nombre": "disney32",
     "status": "07:00",
     "duration": 135,
     "play_url": ""
   },
   {
-    "title": "F1 GP Azerbaiyán, práctica #2 | On Board Colapinto",
+    "title": "F1 GP Azerbaiyán, práctica #2 | On Board Verstappen",
     "league": "Fórmula 1",
     "fecha-evento": "2025-09-19T07:00:00-05:00",
-    "img": "1de31e60-9cee-4d85-b606-d6774de20fbd",
+    "img": "d8dfbb38-590f-4097-9ace-b738a9164491",
     "nombre": "disney33",
     "status": "07:00",
     "duration": 135,
@@ -427,20 +430,20 @@
     "play_url": ""
   },
   {
-    "title": "1. FC Kaiserslautern vs. Preußen Münster",
+    "title": "Arminia Bielefeld vs. SpVgg Greuther Fürth",
     "league": "Bundesliga 2 de Alemania",
     "fecha-evento": "2025-09-19T11:25:00-05:00",
-    "img": "946e6480-3d7d-4afe-9a33-e9f9c3e342df",
+    "img": "d73d1b1d-aa16-49fa-ba10-3beddcc2ea83",
     "nombre": "disney41",
     "status": "11:25",
     "duration": 135,
     "play_url": ""
   },
   {
-    "title": "Arminia Bielefeld vs. SpVgg Greuther Fürth",
+    "title": "1. FC Kaiserslautern vs. Preußen Münster",
     "league": "Bundesliga 2 de Alemania",
     "fecha-evento": "2025-09-19T11:25:00-05:00",
-    "img": "d73d1b1d-aa16-49fa-ba10-3beddcc2ea83",
+    "img": "946e6480-3d7d-4afe-9a33-e9f9c3e342df",
     "nombre": "disney42",
     "status": "11:25",
     "duration": 135,
