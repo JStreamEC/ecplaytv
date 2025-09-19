@@ -7,7 +7,7 @@
     "status": "14:30",
     "duration": 270,
     "play_url": "https://www.disneyplus.com/es-es/play/e21218fb-c456-4fd4-adc8-82ded2a108ae",
-    "nombre": "disney1"
+    "nombre": "disney4"
   },
   {
     "title": "Duke vs. App State",
@@ -17,7 +17,7 @@
     "status": "17:00",
     "duration": 120,
     "play_url": "https://www.disneyplus.com/es-es/play/b7d862d9-a0dc-4a6e-9a8e-7766ca23176f",
-    "nombre": "disney2"
+    "nombre": "disney5"
   },
   {
     "title": "California vs. North Carolina",
@@ -25,9 +25,9 @@
     "fecha-evento": "2025-09-19T17:05:35-05:00",
     "img": "87a6aeac-6c10-4f7f-85fa-699854514ad3",
     "status": "17:05",
-    "duration": 99,
+    "duration": 109,
     "play_url": "https://www.disneyplus.com/es-es/play/2f9976a7-9234-48d8-a6aa-d5d4d6d29d14",
-    "nombre": "disney3"
+    "nombre": "disney6"
   },
   {
     "title": "Chicago Cubs vs. Cincinnati Reds",
@@ -37,7 +37,7 @@
     "status": "17:30",
     "duration": 180,
     "play_url": "https://www.disneyplus.com/es-es/play/9418f2ce-49d2-43a2-9998-7127384508ff",
-    "nombre": "disney64"
+    "nombre": "disney7"
   },
   {
     "title": "Defensor Sporting vs. Danubio",
@@ -47,7 +47,7 @@
     "status": "17:45",
     "duration": 135,
     "play_url": "https://www.disneyplus.com/es-es/play/e27be0af-bd6a-483d-a0af-b5bf9fcee38d",
-    "nombre": "disney65"
+    "nombre": "disney8"
   },
   {
     "title": "#21 Baylor vs. #2 Texas",
@@ -57,7 +57,7 @@
     "status": "18:00",
     "duration": 120,
     "play_url": "https://www.disneyplus.com/es-es/play/8dca04fb-8a28-4bca-ae81-0da8852d2888",
-    "nombre": "disney66"
+    "nombre": "disney9"
   },
   {
     "title": "Miami FC vs. Rhode Island FC",
@@ -67,7 +67,7 @@
     "status": "18:00",
     "duration": 120,
     "play_url": "https://www.disneyplus.com/es-es/play/03b1add6-a674-459d-82cb-e21a51dc74e2",
-    "nombre": "disney67"
+    "nombre": "disney10"
   },
   {
     "title": "#2 NC State vs. Boston College",
@@ -77,7 +77,7 @@
     "status": "18:00",
     "duration": 120,
     "play_url": "https://www.disneyplus.com/es-es/play/cab6d1e0-ea80-4acf-aa12-4fafbd0161f2",
-    "nombre": "disney68"
+    "nombre": "disney11"
   },
   {
     "title": "Ceibos vs. Montevideo Cricket Club",
@@ -87,7 +87,7 @@
     "status": "18:00",
     "duration": 120,
     "play_url": "https://www.disneyplus.com/es-es/play/51efbc41-6827-4135-b09f-deb5e59906c0",
-    "nombre": "disney69"
+    "nombre": "disney12"
   },
   {
     "title": "#1 Wake Forest vs. Virginia",
@@ -97,7 +97,7 @@
     "status": "18:01",
     "duration": 119,
     "play_url": "https://www.disneyplus.com/es-es/play/2a596c75-0040-4f1a-9715-22810d4d9efb",
-    "nombre": "disney70"
+    "nombre": "disney13"
   },
   {
     "title": "Saint Mary's vs. Sacramento State",
@@ -107,27 +107,17 @@
     "status": "18:04",
     "duration": 116,
     "play_url": "https://www.disneyplus.com/es-es/play/e6e4d2f8-e8e0-4fb1-8bb8-23988b6f2dd4",
-    "nombre": "disney71"
-  },
-  {
-    "title": "Counties Manukau Heat vs. Auckland Storm",
-    "league": "Farah Palmer Cup",
-    "fecha-evento": "2025-09-19T18:30:07-05:00",
-    "img": "61e7aa88-2fee-4e70-b122-6f82328501b6",
-    "status": "18:30",
-    "duration": 125,
-    "play_url": "https://www.disneyplus.com/es-es/play/bf6f09cb-aa0a-4e43-8f1d-72dbd9fa396f",
-    "nombre": "disney72"
+    "nombre": "disney14"
   },
   {
     "title": "Tulsa vs. Oklahoma State",
     "league": "Fútbol Americano NCAA",
-    "fecha-evento": "2025-09-19T18:30:00-05:00",
+    "fecha-evento": "2025-09-19T18:44:51-05:00",
     "img": "342332ae-1061-49b3-83d6-3d4f30f59b6c",
-    "status": "18:30",
-    "duration": 180,
+    "status": "18:44",
+    "duration": 165,
     "play_url": "https://www.disneyplus.com/es-es/play/605b242a-8a21-4607-a9a9-1cf1ad6ab433",
-    "nombre": "disney73"
+    "nombre": "disney15"
   },
   {
     "title": "UCF vs. #22 Kentucky",
@@ -137,7 +127,17 @@
     "status": "18:30",
     "duration": 120,
     "play_url": "https://www.disneyplus.com/es-es/play/7a1c3b71-a2ab-4f4f-8588-d2c27c57ffd6",
-    "nombre": "disney74"
+    "nombre": "disney16"
+  },
+  {
+    "title": "Counties Manukau Heat vs. Auckland Storm",
+    "league": "Farah Palmer Cup",
+    "fecha-evento": "2025-09-19T18:30:07-05:00",
+    "img": "61e7aa88-2fee-4e70-b122-6f82328501b6",
+    "status": "18:30",
+    "duration": 125,
+    "play_url": "https://www.disneyplus.com/es-es/play/bf6f09cb-aa0a-4e43-8f1d-72dbd9fa396f",
+    "nombre": "disney17"
   },
   {
     "title": "Seattle Mariners vs. Houston Astros",
@@ -147,6 +147,6 @@
     "status": "19:00",
     "duration": 135,
     "play_url": "",
-    "nombre": "disney75"
+    "nombre": "disney18"
   }
 ]
