@@ -45,18 +45,24 @@
     "img": "87a6aeac-6c10-4f7f-85fa-699854514ad3",
     "nombre": "disney4",
     "status": "17:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 90,
+    "play_url": "https://www.disneyplus.com/es-es/play/2f9976a7-9234-48d8-a6aa-d5d4d6d29d14",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1758406817~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F19%2FCalifornia_vs_North_Carol_20250919_1758312029031%2F~psid=e16b1e95-6009-40fe-8693-0a989e535aaf~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=478e2b1a9a100fd246d2c8b1368d0b63cec86a69d1515e0b833c44cba85cdc35/clt1/va02/disneyplus/event/2025/09/19/California_vs_North_Carol_20250919_1758312029031/ctr-all-hdri-complete.m3u8?v=1&hash=193880753ab78e9bb66dac9d177c9547cd332710",
+    "k1": "edd3f9f859e04abb8eb708d5fb889f4a",
+    "k2": "0da24b732a8381b681fb8c189985f2f9"
   },
   {
     "title": "Duke vs. App State",
     "league": "NCAA Women's Volleyball",
-    "fecha-evento": "2025-09-19T17:00:00-05:00",
+    "fecha-evento": "2025-09-19T17:00:03-05:00",
     "img": "53b02b75-e809-4ef3-9b8c-a9fdd53a86fa",
     "nombre": "disney5",
     "status": "17:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/b7d862d9-a0dc-4a6e-9a8e-7766ca23176f",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1758406861~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F19%2FDuke_vs_App_State_20250919_1758312047030%2F~psid=61f17267-bcc5-4afb-8009-1eb8d9683b2b~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=c73095904c272ccd37b1f2e40ebe05d5291fe9e2272e24c902e463cb8b2029e1/clt1/va02/disneyplus/event/2025/09/19/Duke_vs_App_State_20250919_1758312047030/ctr-all-hdri-complete.m3u8?v=1&hash=c91d13e76a11432f4048d24253d505bcdd4b0479",
+    "k1": "b62fbb1a071c4bd796e7a97a788c032f",
+    "k2": "76d65783c0d9057a8375ce8ee90f75fb"
   },
   {
     "title": "Chicago Cubs vs. Cincinnati Reds",
@@ -89,20 +95,20 @@
     "play_url": ""
   },
   {
-    "title": "Saint Mary's vs. Sacramento State",
-    "league": "Fútbol Masculino NCAA",
+    "title": "Miami FC vs. Rhode Island FC",
+    "league": "USL Championship",
     "fecha-evento": "2025-09-19T18:00:00-05:00",
-    "img": "dbc2e06a-9757-4820-9de3-6178c6b3b99e",
+    "img": "3f7ddbb8-f190-4f38-a7df-0f5abf106b9b",
     "nombre": "disney9",
     "status": "18:00",
     "duration": 135,
     "play_url": ""
   },
   {
-    "title": "Miami FC vs. Rhode Island FC",
-    "league": "USL Championship",
+    "title": "Saint Mary's vs. Sacramento State",
+    "league": "Fútbol Masculino NCAA",
     "fecha-evento": "2025-09-19T18:00:00-05:00",
-    "img": "3f7ddbb8-f190-4f38-a7df-0f5abf106b9b",
+    "img": "dbc2e06a-9757-4820-9de3-6178c6b3b99e",
     "nombre": "disney10",
     "status": "18:00",
     "duration": 135,
@@ -399,20 +405,20 @@
     "play_url": ""
   },
   {
-    "title": "Eintracht Braunschweig vs. SV Elversberg",
+    "title": "Hertha BSC vs. SC Paderborn 07",
     "league": "Bundesliga 2 de Alemania",
     "fecha-evento": "2025-09-20T05:55:00-05:00",
-    "img": "34f8692f-9009-4483-8f7f-fbc1431b8602",
+    "img": "e9ae2afd-cf8b-4d6f-b30e-a9c66123d428",
     "nombre": "disney40",
     "status": "05:55",
     "duration": 135,
     "play_url": ""
   },
   {
-    "title": "Hertha BSC vs. SC Paderborn 07",
+    "title": "Eintracht Braunschweig vs. SV Elversberg",
     "league": "Bundesliga 2 de Alemania",
     "fecha-evento": "2025-09-20T05:55:00-05:00",
-    "img": "e9ae2afd-cf8b-4d6f-b30e-a9c66123d428",
+    "img": "34f8692f-9009-4483-8f7f-fbc1431b8602",
     "nombre": "disney41",
     "status": "05:55",
     "duration": 135,
