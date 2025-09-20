@@ -52,19 +52,6 @@
     "k2": "bb9e763fdcf0e6982783246c3573cdd4"
   },
   {
-    "title": "Manchester United vs. Chelsea",
-    "league": "Premier League",
-    "fecha-evento": "2025-09-20T11:15:00-05:00",
-    "img": "5252a7b1-dd22-47a7-a8b9-d46a8ee5a14c",
-    "nombre": "disney79d367",
-    "status": "11:15",
-    "duration": 135,
-    "play_url": "https://www.disneyplus.com/es-es/play/eec609b5-d85e-4183-9edf-4589aae02667",
-    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1758471775~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F921e1311-bb26-43dd-84a6-9e2284959712-1756222679255%2F~psid=79dcaaf0-8eb7-44c7-bffb-78b58c032b6e~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=4c2ef21beee21f6bb4947dde4a10f0b2dfb853b87fbf41463365726cf73334ac/clt1/va02/disneyplus/channel/921e1311-bb26-43dd-84a6-9e2284959712-1756222679255/ctr-all-sliding.m3u8?v=1&hash=c2eebfbadec853d4e3ca4fa1a9f9011e0c7562b2",
-    "k1": "e48f3779baea4ecda67ba0b10e168f58",
-    "k2": "4d59de44a69cc09ec40e773d88fd0f49"
-  },
-  {
     "title": "UAB vs. #15 Tennessee",
     "league": "Fútbol Americano NCAA",
     "fecha-evento": "2025-09-20T11:45:00-05:00",
@@ -169,34 +156,43 @@
     "k2": "4d59de44a69cc09ec40e773d88fd0f49"
   },
   {
-    "title": "Montpellier vs. Stade Toulousain (Ronda #3)",
-    "league": "Top 14",
-    "fecha-evento": "2025-09-20T13:50:00-05:00",
-    "img": "1b06db72-64c2-4a29-b432-9e89742e9a9a",
-    "nombre": "disneydf2380",
-    "status": "13:50",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Fulham vs. Brentford",
     "league": "Premier League",
     "fecha-evento": "2025-09-20T13:50:00-05:00",
     "img": "d6c1b7c9-5336-4500-ab9e-3adbaea5fcf2",
     "nombre": "disney87075f",
     "status": "13:50",
-    "duration": 135,
-    "play_url": ""
+    "duration": 125,
+    "play_url": "https://www.disneyplus.com/es-es/play/d7a82444-84bf-472b-affd-c0b0f505b47e",
+    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1758481218~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Fbbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1758265170869%2F~psid=89b94c00-13d5-4487-8d3c-a22f13c48906~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=5e1346f3455b0edd85441e83ed35d407079d6e26df2e1c9245f542ff3c0d7702/clt1/va02/disneyplus/channel/bbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1758265170869/ctr-all-sliding.m3u8?v=1&hash=4b44ed5e140524edee19ba7de50a11aef68f9d53",
+    "k1": "d417369e71b14565afa2a95755b06779",
+    "k2": "3d9d08aaf6da13b08d6107f18f39102f"
+  },
+  {
+    "title": "Montpellier vs. Stade Toulousain (Ronda #3)",
+    "league": "Top 14",
+    "fecha-evento": "2025-09-20T13:50:01-05:00",
+    "img": "1b06db72-64c2-4a29-b432-9e89742e9a9a",
+    "nombre": "disney59c5e8",
+    "status": "13:50",
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/6d38fb7f-25af-4cac-85d5-641363d89173",
+    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1758481261~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F7f9052ce-8143-43a6-9656-a8c00c4a3e56-1756223111094%2F~psid=2301e4a8-4d75-424c-afcb-521bc56a342a~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=6de097ab9aa142094fd69a591de0f15e9587992ca84fc281b773be8a32350659/clt1/va02/disneyplus/channel/7f9052ce-8143-43a6-9656-a8c00c4a3e56-1756223111094/ctr-all-sliding.m3u8?v=1&hash=2f03544b7adaaaa4f23d8a4cd7d7cec9ba48514e",
+    "k1": "c18bc8d02dfe46daa19917bed4dbafab",
+    "k2": "01222d0003028c3f4397fd911d0461b8"
   },
   {
     "title": "Lens vs. Lille",
     "league": "Ligue 1",
-    "fecha-evento": "2025-09-20T13:55:00-05:00",
+    "fecha-evento": "2025-09-20T13:55:01-05:00",
     "img": "e3ee2438-5eac-4c5f-bc5e-3386bc416dfb",
-    "nombre": "disney653bab",
+    "nombre": "disneyefe37e",
     "status": "13:55",
-    "duration": 135,
-    "play_url": ""
+    "duration": 125,
+    "play_url": "https://www.disneyplus.com/es-es/play/ddb0d92a-87bd-468d-bc3d-4d43357a5f2e",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1758481304~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F20%2FLens_vs_Lille_20250920_1758392799157%2F~psid=1d1f819c-8e26-40b7-afd2-ece05af2e020~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=425ca7bcd7280c50988757e9d5354677be38f00eeb3023347f024fd0ef0f5c5e/clt1/va02/disneyplus/event/2025/09/20/Lens_vs_Lille_20250920_1758392799157/ctr-all-hdri-complete.m3u8?v=1&hash=f29a65b6728059af380b66386eef48eb3c8efcc2",
+    "k1": "deefe937f8b7432ab68bb872dcdcf49d",
+    "k2": "e01059ef7f869942edb58e52f83548bc"
   },
   {
     "title": "Samoa vs. Chile (Repechaje - Ida)",
@@ -665,6 +661,16 @@
     "img": "0455dd34-548f-46ff-a648-152ca5861941",
     "nombre": "disneyf542c3",
     "status": "02:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Iga Swiatek (POL) vs. Ekaterina Alexandrova (RUS) (Final)",
+    "league": "WTA",
+    "fecha-evento": "2025-09-21T03:00:00-05:00",
+    "img": "09af652a-6d84-4aa2-b687-dc27231c8f24",
+    "nombre": "disneye1506e",
+    "status": "03:00",
     "duration": 135,
     "play_url": ""
   }
