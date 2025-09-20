@@ -13,19 +13,6 @@
     "k2": "cf7361be47bea864d602309e7ea10939"
   },
   {
-    "title": "Canterbury Women vs. Bay of Plenty Volcanix",
-    "league": "Farah Palmer Cup",
-    "fecha-evento": "2025-09-19T21:00:00-05:00",
-    "img": "b89e510f-f680-44f8-89bc-ccf7ea109876",
-    "nombre": "disney2bbdf5",
-    "status": "21:00",
-    "duration": 125,
-    "play_url": "https://www.disneyplus.com/es-es/play/a31a26c4-1888-4d1d-9158-7e204c8ef714",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1758420019~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F20%2FCanterbury_Women_vs_Bay_o_20250920_1758326442033%2F~psid=5300ae39-aaed-49e6-8b19-0850db57ad50~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=33ad37bd2196a3602936cb1fc67afe4095aa8353b0345bf9c86a7c2dcd47ae76/clt1/va02/disneyplus/event/2025/09/20/Canterbury_Women_vs_Bay_o_20250920_1758326442033/ctr-all-hdri-complete.m3u8?v=1&hash=a2bd32b6af8ccb609f26493894f2c371b3ce0fc0",
-    "k1": "d4a9b14119bc44d69274bfd3abe51d6d",
-    "k2": "5b893f3403e9ef7f3fb3603f346b67a6"
-  },
-  {
     "title": "Korea Open Tennis Championships 2025 Presented by Motiva (Quarterfinals)",
     "league": "WTA",
     "fecha-evento": "2025-09-19T21:55:54-05:00",
@@ -112,21 +99,21 @@
     "play_url": ""
   },
   {
-    "title": "F1 GP Azerbaiyán, práctica #3 | On Board Verstappen",
-    "league": "Fórmula 1",
-    "fecha-evento": "2025-09-20T03:30:00-05:00",
-    "img": "ce73aae9-b9e7-4a81-9898-dcb955c44a59",
-    "nombre": "disneya05bd3",
-    "status": "03:30",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "F1 GP Azerbaiyán, práctica #3 | On Board Colapinto",
     "league": "Fórmula 1",
     "fecha-evento": "2025-09-20T03:30:00-05:00",
     "img": "090f8285-3822-4d40-950f-b505497d700b",
     "nombre": "disneydd5681",
+    "status": "03:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "F1 GP Azerbaiyán, práctica #3 | On Board Verstappen",
+    "league": "Fórmula 1",
+    "fecha-evento": "2025-09-20T03:30:00-05:00",
+    "img": "ce73aae9-b9e7-4a81-9898-dcb955c44a59",
+    "nombre": "disneya05bd3",
     "status": "03:30",
     "duration": 135,
     "play_url": ""
@@ -172,21 +159,21 @@
     "play_url": ""
   },
   {
-    "title": "Hertha BSC vs. SC Paderborn 07",
-    "league": "Bundesliga 2 de Alemania",
-    "fecha-evento": "2025-09-20T05:55:00-05:00",
-    "img": "e9ae2afd-cf8b-4d6f-b30e-a9c66123d428",
-    "nombre": "disney6ce8a7",
-    "status": "05:55",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Eintracht Braunschweig vs. SV Elversberg",
     "league": "Bundesliga 2 de Alemania",
     "fecha-evento": "2025-09-20T05:55:00-05:00",
     "img": "34f8692f-9009-4483-8f7f-fbc1431b8602",
     "nombre": "disneyc3244d",
+    "status": "05:55",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Hertha BSC vs. SC Paderborn 07",
+    "league": "Bundesliga 2 de Alemania",
+    "fecha-evento": "2025-09-20T05:55:00-05:00",
+    "img": "e9ae2afd-cf8b-4d6f-b30e-a9c66123d428",
+    "nombre": "disney6ce8a7",
     "status": "05:55",
     "duration": 135,
     "play_url": ""
@@ -627,6 +614,16 @@
     "fecha-evento": "2025-09-20T13:50:00-05:00",
     "img": "1b06db72-64c2-4a29-b432-9e89742e9a9a",
     "nombre": "disneydf2380",
+    "status": "13:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Fulham vs. Brentford",
+    "league": "Premier League",
+    "fecha-evento": "2025-09-20T13:50:00-05:00",
+    "img": "d6c1b7c9-5336-4500-ab9e-3adbaea5fcf2",
+    "nombre": "disney87075f",
     "status": "13:50",
     "duration": 135,
     "play_url": ""
