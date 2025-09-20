@@ -1,18 +1,5 @@
 [
   {
-    "title": "Nantes vs. Rennes",
-    "league": "Ligue 1",
-    "fecha-evento": "2025-09-20T09:40:13-05:00",
-    "img": "0a9da103-86e9-494f-9491-89e7b31202e1",
-    "nombre": "disneya09943",
-    "status": "09:40",
-    "duration": 140,
-    "play_url": "https://www.disneyplus.com/es-es/play/734fcc3c-85bb-4492-9cc0-5b883d7dc501",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1758466818~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F20%2FNantes_vs_Rennes_20250920_1758372937026%2F~psid=95fc8a58-fa74-4ac3-a15e-7273b0f0f60f~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=2cf8a93a8898063b8b44aa20c8cafca61660888b8bc40004430a1a149ed6ec48/clt1/va02/disneyplus/event/2025/09/20/Nantes_vs_Rennes_20250920_1758372937026/ctr-all-hdri-complete.m3u8?v=1&hash=72f2ab6e5194ad08df7403fc6fa60aea6e978629",
-    "k1": "9e4cd5222094444da9cc239890430a0b",
-    "k2": "54e0c1f3cf410b4e2ce869540c688b7c"
-  },
-  {
     "title": "Montevideo City Torque vs. Cerro Largo",
     "league": "Campeonato Uruguayo",
     "fecha-evento": "2025-09-20T10:45:11-05:00",
@@ -169,19 +156,6 @@
     "k2": "63e14e1845c00c23d1bcdf4a654107b1"
   },
   {
-    "title": "Brest vs. Nice",
-    "league": "Ligue 1",
-    "fecha-evento": "2025-09-20T11:50:00-05:00",
-    "img": "6f383e74-1be3-4bd0-aec6-3609dc0bc015",
-    "nombre": "disneyd8e521",
-    "status": "11:50",
-    "duration": 125,
-    "play_url": "https://www.disneyplus.com/es-es/play/1fc45a9f-6e50-49ef-bb19-ada132235f2e",
-    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1758474061~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Fec26a05e-a9cc-4db4-804e-77465738e667-1756222537809%2F~psid=b6cea35e-1b42-4789-952d-3fc118abb968~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=c95dacd2e62aa3651cd462951e3c1933c08eeae93f5ed84be3cfaca70b4bcfc1/clt1/va02/disneyplus/channel/ec26a05e-a9cc-4db4-804e-77465738e667-1756222537809/ctr-all-sliding.m3u8?v=1&hash=89191118387a35883a50bbae1f0b0b7046a61da8",
-    "k1": "44bcb70b76094aacb38aa50f74aad45e",
-    "k2": "909473122a18f6cc9f9d8b1df547c1af"
-  },
-  {
     "title": "Trabzonspor vs. Gaziantep",
     "league": "Super Lig de Turquía",
     "fecha-evento": "2025-09-20T11:50:01-05:00",
@@ -193,6 +167,19 @@
     "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1758474104~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F20%2FTrabzonspor_vs_Gaziantep_20250920_1758379804032%2F~psid=5471d94a-cb9f-4028-9990-d31d41666e04~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=406224b1a0c82b1126a69b05aa13aff877662fca337ca1ba49db450f2eb201df/clt1/va02/disneyplus/event/2025/09/20/Trabzonspor_vs_Gaziantep_20250920_1758379804032/ctr-all-hdri-complete.m3u8?v=1&hash=312c44a93ae06e9ebd0ee3eabef8760be29bb101",
     "k1": "d5f35f6cea234b21b4c161fd31ba63d0",
     "k2": "6e9f0764caa19f33d6fb7b4f61cdc5a1"
+  },
+  {
+    "title": "Brest vs. Nice",
+    "league": "Ligue 1",
+    "fecha-evento": "2025-09-20T11:50:00-05:00",
+    "img": "6f383e74-1be3-4bd0-aec6-3609dc0bc015",
+    "nombre": "disneyd8e521",
+    "status": "11:50",
+    "duration": 125,
+    "play_url": "https://www.disneyplus.com/es-es/play/1fc45a9f-6e50-49ef-bb19-ada132235f2e",
+    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1758474061~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Fec26a05e-a9cc-4db4-804e-77465738e667-1756222537809%2F~psid=b6cea35e-1b42-4789-952d-3fc118abb968~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=c95dacd2e62aa3651cd462951e3c1933c08eeae93f5ed84be3cfaca70b4bcfc1/clt1/va02/disneyplus/channel/ec26a05e-a9cc-4db4-804e-77465738e667-1756222537809/ctr-all-sliding.m3u8?v=1&hash=89191118387a35883a50bbae1f0b0b7046a61da8",
+    "k1": "44bcb70b76094aacb38aa50f74aad45e",
+    "k2": "909473122a18f6cc9f9d8b1df547c1af"
   },
   {
     "title": "Fortuna Sittard vs. FC Utrecht",
@@ -315,21 +302,21 @@
     "play_url": ""
   },
   {
-    "title": "NC State vs. Duke",
-    "league": "Fútbol Americano NCAA",
-    "fecha-evento": "2025-09-20T15:00:00-05:00",
-    "img": "cf57c46b-7a9b-4a3d-9573-aaa24c67ce0a",
-    "nombre": "disneyc6d693",
-    "status": "15:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "2025 Laver Cup (Day #2)",
     "league": "ESPN",
     "fecha-evento": "2025-09-20T15:00:00-05:00",
     "img": "69016b7c-378d-4ccb-be86-7b4d454029dc",
     "nombre": "disney37d508",
+    "status": "15:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "NC State vs. Duke",
+    "league": "Fútbol Americano NCAA",
+    "fecha-evento": "2025-09-20T15:00:00-05:00",
+    "img": "cf57c46b-7a9b-4a3d-9573-aaa24c67ce0a",
+    "nombre": "disneyc6d693",
     "status": "15:00",
     "duration": 135,
     "play_url": ""
@@ -455,16 +442,6 @@
     "play_url": ""
   },
   {
-    "title": "South Carolina vs. #23 Missouri",
-    "league": "Fútbol Americano NCAA",
-    "fecha-evento": "2025-09-20T18:00:00-05:00",
-    "img": "5be8bb4b-f5ce-4519-aab8-cd8f961a3098",
-    "nombre": "disney1ea747",
-    "status": "18:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "St. Louis Blues vs. Dallas Stars",
     "league": "National Hockey League",
     "fecha-evento": "2025-09-20T18:00:00-05:00",
@@ -475,12 +452,12 @@
     "play_url": ""
   },
   {
-    "title": "Florida vs. #4 Miami",
+    "title": "South Carolina vs. #23 Missouri",
     "league": "Fútbol Americano NCAA",
-    "fecha-evento": "2025-09-20T18:30:00-05:00",
-    "img": "068a2cc3-f43c-4dec-a9ca-2dac349b96cd",
-    "nombre": "disney60975e",
-    "status": "18:30",
+    "fecha-evento": "2025-09-20T18:00:00-05:00",
+    "img": "5be8bb4b-f5ce-4519-aab8-cd8f961a3098",
+    "nombre": "disney1ea747",
+    "status": "18:00",
     "duration": 135,
     "play_url": ""
   },
@@ -490,6 +467,16 @@
     "fecha-evento": "2025-09-20T18:30:00-05:00",
     "img": "03055d73-ee81-45c6-869c-0e4b825e4dbb",
     "nombre": "disney794245",
+    "status": "18:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Florida vs. #4 Miami",
+    "league": "Fútbol Americano NCAA",
+    "fecha-evento": "2025-09-20T18:30:00-05:00",
+    "img": "068a2cc3-f43c-4dec-a9ca-2dac349b96cd",
+    "nombre": "disney60975e",
     "status": "18:30",
     "duration": 135,
     "play_url": ""
@@ -535,16 +522,6 @@
     "play_url": ""
   },
   {
-    "title": "Sam Houston vs. #8 Texas",
-    "league": "Fútbol Americano NCAA",
-    "fecha-evento": "2025-09-20T19:00:00-05:00",
-    "img": "227d568d-1dfc-4482-8711-4af13e6a6155",
-    "nombre": "disneyd53ea4",
-    "status": "19:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Grand Canyon vs. #8 Arizona State",
     "league": "NCAA Women's Volleyball",
     "fecha-evento": "2025-09-20T19:00:00-05:00",
@@ -570,6 +547,16 @@
     "fecha-evento": "2025-09-20T19:00:00-05:00",
     "img": "bc8adbad-61a2-464e-b056-44743c1a47b1",
     "nombre": "disney563de8",
+    "status": "19:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Sam Houston vs. #8 Texas",
+    "league": "Fútbol Americano NCAA",
+    "fecha-evento": "2025-09-20T19:00:00-05:00",
+    "img": "227d568d-1dfc-4482-8711-4af13e6a6155",
+    "nombre": "disneyd53ea4",
     "status": "19:00",
     "duration": 135,
     "play_url": ""
@@ -671,6 +658,16 @@
     "img": "053aaa4d-33a9-4beb-a5aa-129629afbaa5",
     "nombre": "disney0480a4",
     "status": "21:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "AV Alta FC vs. South Georgia Tormenta FC",
+    "league": "USL League One",
+    "fecha-evento": "2025-09-20T21:30:00-05:00",
+    "img": "e4bd7978-9162-4fda-aa6a-ac967bc3e34c",
+    "nombre": "disney60d227",
+    "status": "21:30",
     "duration": 135,
     "play_url": ""
   }
