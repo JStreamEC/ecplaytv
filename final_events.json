@@ -104,24 +104,30 @@
     "k2": "1c8725993de7b04b327b03c0c24a510a"
   },
   {
-    "title": "FedEx Open de France (Third Round)",
-    "league": "DP World Tour",
-    "fecha-evento": "2025-09-20T06:00:00-05:00",
-    "img": "20151ea5-411e-4cec-bf1e-7111dd699e49",
-    "nombre": "disney1c8828",
-    "status": "06:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "F1 - GP Azerbaiyan - Clasificación",
     "league": "Fórmula 1",
-    "fecha-evento": "2025-09-20T06:00:00-05:00",
-    "img": "9ce40aa7-4a57-4c6f-a109-ac4ebf6fc70f",
-    "nombre": "disney602f8d",
+    "fecha-evento": "2025-09-20T06:00:02-05:00",
+    "img": "03f73212-c7dc-4fab-a7e4-e8228a1f4c14",
+    "nombre": "disney26cdf2",
     "status": "06:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 165,
+    "play_url": "https://www.disneyplus.com/es-es/play/b2d4232c-c9af-47f5-8da3-55fef99244f5",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1758453619~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F20%2FF1_GP_Azerbaiyan_Clasific_20250920_1758358822027%2F~psid=ba468e28-8597-47e8-9cce-c381f242b61a~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=a62f9d94f088b8b0b43153ed58eb7b142563b6b23c282b627c9f61791341fdbb/clt1/va02/disneyplus/event/2025/09/20/F1_GP_Azerbaiyan_Clasific_20250920_1758358822027/ctr-all-hdri-complete.m3u8?v=1&hash=7d684e00a2134aed2677e75486df52ec60b62594",
+    "k1": "f88e91a1bbb8491780a2aee4cf776d6d",
+    "k2": "2d6fee267311bff8ca92dd0342e9ebe8"
+  },
+  {
+    "title": "FedEx Open de France (Third Round)",
+    "league": "DP World Tour",
+    "fecha-evento": "2025-09-20T06:01:43-05:00",
+    "img": "20151ea5-411e-4cec-bf1e-7111dd699e49",
+    "nombre": "disney2eef21",
+    "status": "06:01",
+    "duration": 268,
+    "play_url": "https://www.disneyplus.com/es-es/play/0815bd1d-29fb-47da-b061-204a5b2ec4ae",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1758453662~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F20%2FFedEx_Open_de_France_Thir_20250920_1758358857028%2F~psid=06463968-f21f-4d2b-8813-d53ee897da5c~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=fb31da08acdb2521a18ecbaf57ccd1a176b3ea4a33714e9b69905daa134b7e04/clt1/va02/disneyplus/event/2025/09/20/FedEx_Open_de_France_Thir_20250920_1758358857028/ctr-all-hdri-complete.m3u8?v=1&hash=4caf60c737d22a5d1768c7590e845b1569dec23a",
+    "k1": "b98ef63cccab4eb6a5082dff078512d3",
+    "k2": "e6fa0f2ba95538a549d6df32a06f0ae7"
   },
   {
     "title": "Liverpool vs. Everton",
@@ -130,8 +136,11 @@
     "img": "9ab8c168-f7ce-43b6-afad-db7b7cf10244",
     "nombre": "disneye50857",
     "status": "06:20",
-    "duration": 135,
-    "play_url": ""
+    "duration": 125,
+    "play_url": "https://www.disneyplus.com/es-es/play/15911be9-0d3b-41a8-8b4c-a5c70e1bf733",
+    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1758453706~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F921e1311-bb26-43dd-84a6-9e2284959712-1756222679255%2F~psid=fec3420b-21ae-4edd-ba2f-0ba6c5d86ade~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=dba87e8ca80cb1e32aed6f22e8896bee82631b4782f62d0312f45e372da8dbc9/clt1/va02/disneyplus/channel/921e1311-bb26-43dd-84a6-9e2284959712-1756222679255/ctr-all-sliding.m3u8?v=1&hash=c2eebfbadec853d4e3ca4fa1a9f9011e0c7562b2",
+    "k1": "e48f3779baea4ecda67ba0b10e168f58",
+    "k2": "4d59de44a69cc09ec40e773d88fd0f49"
   },
   {
     "title": "Leicester City vs. Coventry City",
