@@ -45,8 +45,11 @@
     "img": "1cc94b26-f4ac-43ea-8918-4c1bc1b589cc",
     "nombre": "disneybcc895",
     "status": "20:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/a400ad21-7add-4b1f-a91b-2816af7467f3",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1758416421~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F20%2FPepperdine_vs_8_Arizona_S_20250920_1758322807032%2F~psid=a9123329-e8c6-4b58-a199-c3497166c12f~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=2e417cc727693eea51597b170cff972857811e93bdd045e9abebe5bb94daa21f/clt1/va02/disneyplus/event/2025/09/20/Pepperdine_vs_8_Arizona_S_20250920_1758322807032/ctr-all-hdri-complete.m3u8?v=1&hash=66522902d33b35be5781551b5788f444af5dff5b",
+    "k1": "091efce61cac4b11a2864e46b8543494",
+    "k2": "cc2ba7b0c78d17fd47e8b88a91008475"
   },
   {
     "title": "Hawai'i vs. #4 Stanford",
@@ -529,16 +532,6 @@
     "play_url": ""
   },
   {
-    "title": "UNLV vs. Miami (OH)",
-    "league": "Fútbol Americano NCAA",
-    "fecha-evento": "2025-09-20T11:00:00-05:00",
-    "img": "ff91c776-a498-402c-ab6b-563f25682806",
-    "nombre": "disneyaf2ebc",
-    "status": "11:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Syracuse vs. Clemson",
     "league": "Fútbol Americano NCAA",
     "fecha-evento": "2025-09-20T11:00:00-05:00",
@@ -549,11 +542,11 @@
     "play_url": ""
   },
   {
-    "title": "Arkansas vs. Memphis",
+    "title": "UNLV vs. Miami (OH)",
     "league": "Fútbol Americano NCAA",
     "fecha-evento": "2025-09-20T11:00:00-05:00",
-    "img": "5eb40bc6-1c76-4468-8cd0-09a572b45d66",
-    "nombre": "disneyd13a49",
+    "img": "ff91c776-a498-402c-ab6b-563f25682806",
+    "nombre": "disneyaf2ebc",
     "status": "11:00",
     "duration": 135,
     "play_url": ""
@@ -564,6 +557,16 @@
     "fecha-evento": "2025-09-20T11:00:00-05:00",
     "img": "5201c01e-fce4-4578-b007-3ad8f0763583",
     "nombre": "disneybe6fd5",
+    "status": "11:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Arkansas vs. Memphis",
+    "league": "Fútbol Americano NCAA",
+    "fecha-evento": "2025-09-20T11:00:00-05:00",
+    "img": "5eb40bc6-1c76-4468-8cd0-09a572b45d66",
+    "nombre": "disneyd13a49",
     "status": "11:00",
     "duration": 135,
     "play_url": ""
