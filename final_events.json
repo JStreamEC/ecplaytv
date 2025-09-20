@@ -210,32 +210,41 @@
   {
     "title": "Wolverhampton Wanderers vs. Leeds United",
     "league": "Premier League",
-    "fecha-evento": "2025-09-20T08:50:00-05:00",
+    "fecha-evento": "2025-09-20T08:50:02-05:00",
     "img": "cac947d8-7eeb-4adc-b674-da23e0e5f1ad",
-    "nombre": "disneyc682eb",
+    "nombre": "disney327635",
     "status": "08:50",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Burnley vs. Nottingham Forest",
-    "league": "Premier League",
-    "fecha-evento": "2025-09-20T08:50:00-05:00",
-    "img": "16aedde0-a6ab-4e19-b0cb-4e321cd2f062",
-    "nombre": "disneycd8341",
-    "status": "08:50",
-    "duration": 135,
-    "play_url": ""
+    "duration": 125,
+    "play_url": "https://www.disneyplus.com/es-es/play/53b52a9b-49fa-4c5a-94e7-e26ea9dcf1d8",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1758463217~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F20%2FWolverhampton_Wanderers_v_20250920_1758369042034%2F~psid=1f8e65ae-affa-4c49-9c23-a16a87a86f22~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=9f5326ab1938c3a2d0c35d22fda62fb59dcad8b396e9d06579d4afd49f7a7db2/clt1/va02/disneyplus/event/2025/09/20/Wolverhampton_Wanderers_v_20250920_1758369042034/ctr-all-hdri-complete.m3u8?v=1&hash=d0943005281216fd45fab66d6e55c0bc5cca1d03",
+    "k1": "a1670e0d6d074387b0198cb73f9d1d29",
+    "k2": "8c9ac58bfe7530dd8b853059f7da42b4"
   },
   {
     "title": "Sheffield United vs. Charlton Athletic",
     "league": "Championship de Inglaterra",
     "fecha-evento": "2025-09-20T08:50:00-05:00",
-    "img": "96dc2c30-7175-4d2a-880a-16ad1a4ef376",
+    "img": "2555cf25-e089-4976-87e0-5067266fc459",
     "nombre": "disney4a6062",
     "status": "08:50",
-    "duration": 135,
-    "play_url": ""
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/8978ffd2-a10e-4e61-9bdc-038884a51ff3",
+    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1758463260~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F7f9052ce-8143-43a6-9656-a8c00c4a3e56-1756223111094%2F~psid=1eb6c0bb-f657-47ce-aa4f-e29f7dc70280~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=cf169aae0abda638ead36c6267dadeba7636f6c3a32db7a9944cfc79ba90b106/clt1/va02/disneyplus/channel/7f9052ce-8143-43a6-9656-a8c00c4a3e56-1756223111094/ctr-all-sliding.m3u8?v=1&hash=2f03544b7adaaaa4f23d8a4cd7d7cec9ba48514e",
+    "k1": "c18bc8d02dfe46daa19917bed4dbafab",
+    "k2": "01222d0003028c3f4397fd911d0461b8"
+  },
+  {
+    "title": "Burnley vs. Nottingham Forest",
+    "league": "Premier League",
+    "fecha-evento": "2025-09-20T08:50:05-05:00",
+    "img": "16aedde0-a6ab-4e19-b0cb-4e321cd2f062",
+    "nombre": "disney5210e7",
+    "status": "08:50",
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/b1058a86-6960-4134-bbc3-9cbff4e7ab87",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1758463304~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F20%2FBurnley_vs_Nottingham_For_20250920_1758369026028%2F~psid=13d873c2-1a04-4407-ac47-0db28854d699~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=3ec44f76ff1d1b668cc7569e3bf21a5450755fe61a4bd976567f98d391d8f12a/clt1/va02/disneyplus/event/2025/09/20/Burnley_vs_Nottingham_For_20250920_1758369026028/ctr-all-hdri-complete.m3u8?v=1&hash=129c91124d3d78515113debe62dab4e78e124561",
+    "k1": "7a0077ee9948403db1c6003b6a48f092",
+    "k2": "627a968cbecf7a5ae5dafd8ecf318fb2"
   },
   {
     "title": "Compacto | F1 GP Azerbaiyán | Clasificación (3 min)",
@@ -244,8 +253,11 @@
     "img": "32b10095-0c9b-4020-9b25-5a26f29a0e4b",
     "nombre": "disneya624c6",
     "status": "08:55",
-    "duration": 135,
-    "play_url": ""
+    "duration": 13,
+    "play_url": "https://www.disneyplus.com/es-es/play/b0906a47-f7c5-4049-ba59-61c43659ca23",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1758463327~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F20%2FCompacto_F1_GP_Azerbaiyn__20250920_1758369301033%2F~psid=038f67b9-5206-495a-938b-3cb871b5ffef~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=21f3662dd6fbbf88b4e461b2fbe9b8df840063968a8a26751e3107299671dccc/clt1/va02/disneyplus/event/2025/09/20/Compacto_F1_GP_Azerbaiyn__20250920_1758369301033/ctr-all-hdri-complete.m3u8?v=1&hash=976fa35c50cdde080606c2e8250ec5fd36190f8a",
+    "k1": "66dc52a54dad4be6ae45754130563b41",
+    "k2": "72d69c98cd7fb7f917cb831707f19547"
   },
   {
     "title": "France vs. Inglaterra (Semifinal)",
