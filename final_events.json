@@ -1,18 +1,5 @@
 [
   {
-    "title": "#21 Baylor vs. #2 Texas",
-    "league": "NCAA Women's Volleyball",
-    "fecha-evento": "2025-09-19T18:00:01-05:00",
-    "img": "00b93ce8-21e9-4878-b641-a6a5c9cacc0f",
-    "nombre": "disney1e25d8",
-    "status": "18:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/8dca04fb-8a28-4bca-ae81-0da8852d2888",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1758413851~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F19%2F21_Baylor_vs_2_Texas_20250919_1758315628027%2F~psid=0ba7ca30-dd6a-4944-abc2-f1bb73e63123~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=b1e44bab22ca1344c3bb780bb9bacea7c5732a95d74e8ccbc7c54a8591cda381/clt1/va02/disneyplus/event/2025/09/19/21_Baylor_vs_2_Texas_20250919_1758315628027/ctr-all-hdri-complete.m3u8?v=1&hash=cc49b6e8f3252a18a51dcce7c8e4feea22a56422",
-    "k1": "d529cffc81414b5c9fcdf251e1aa1b40",
-    "k2": "7098bdf4fa4b92e14f822f5d101246c5"
-  },
-  {
     "title": "Tulsa vs. Oklahoma State",
     "league": "Fútbol Americano NCAA",
     "fecha-evento": "2025-09-19T18:44:51-05:00",
@@ -542,16 +529,6 @@
     "play_url": ""
   },
   {
-    "title": "Syracuse vs. Clemson",
-    "league": "Fútbol Americano NCAA",
-    "fecha-evento": "2025-09-20T11:00:00-05:00",
-    "img": "d806e0e3-07b2-4789-8511-154cc8b6e838",
-    "nombre": "disneydc5d82",
-    "status": "11:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "UNLV vs. Miami (OH)",
     "league": "Fútbol Americano NCAA",
     "fecha-evento": "2025-09-20T11:00:00-05:00",
@@ -562,11 +539,11 @@
     "play_url": ""
   },
   {
-    "title": "SMU vs. TCU",
+    "title": "Syracuse vs. Clemson",
     "league": "Fútbol Americano NCAA",
     "fecha-evento": "2025-09-20T11:00:00-05:00",
-    "img": "5201c01e-fce4-4578-b007-3ad8f0763583",
-    "nombre": "disneybe6fd5",
+    "img": "d806e0e3-07b2-4789-8511-154cc8b6e838",
+    "nombre": "disneydc5d82",
     "status": "11:00",
     "duration": 135,
     "play_url": ""
@@ -577,6 +554,16 @@
     "fecha-evento": "2025-09-20T11:00:00-05:00",
     "img": "5eb40bc6-1c76-4468-8cd0-09a572b45d66",
     "nombre": "disneyd13a49",
+    "status": "11:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "SMU vs. TCU",
+    "league": "Fútbol Americano NCAA",
+    "fecha-evento": "2025-09-20T11:00:00-05:00",
+    "img": "5201c01e-fce4-4578-b007-3ad8f0763583",
+    "nombre": "disneybe6fd5",
     "status": "11:00",
     "duration": 135,
     "play_url": ""
@@ -638,6 +625,16 @@
     "img": "14d73d46-0b95-4891-a1c2-4cf5a9c914b0",
     "nombre": "disneycb13f3",
     "status": "11:45",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Trabzonspor vs. Gaziantep",
+    "league": "Super Lig de Turquía",
+    "fecha-evento": "2025-09-20T11:50:00-05:00",
+    "img": "cd72b4d1-b92f-49ac-8828-fd5f33eb0ec1",
+    "nombre": "disney32f696",
+    "status": "11:50",
     "duration": 135,
     "play_url": ""
   }
