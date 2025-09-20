@@ -162,18 +162,11 @@
     "img": "14d73d46-0b95-4891-a1c2-4cf5a9c914b0",
     "nombre": "disneycb13f3",
     "status": "11:45",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Trabzonspor vs. Gaziantep",
-    "league": "Super Lig de Turquía",
-    "fecha-evento": "2025-09-20T11:50:00-05:00",
-    "img": "cd72b4d1-b92f-49ac-8828-fd5f33eb0ec1",
-    "nombre": "disney32f696",
-    "status": "11:50",
-    "duration": 135,
-    "play_url": ""
+    "duration": 180,
+    "play_url": "https://www.disneyplus.com/es-es/play/6bf3b68c-846b-42f3-9be2-381e611a6927",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1758474018~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F20%2FUAB_vs_15_Tennessee_20250920_1758381162992%2F~psid=d8947230-4af7-4037-928a-c04590cdc337~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=1f2b75a7a436976cf3f4ae55c697e27da1b27b09b98fae1704b87287eec37c7b/clt1/va02/disneyplus/event/2025/09/20/UAB_vs_15_Tennessee_20250920_1758381162992/ctr-all-hdri-complete.m3u8?v=1&hash=c0590014a27865717e94b22af2296de548c573b0",
+    "k1": "512480b623dd4484b790128a7db4f96f",
+    "k2": "63e14e1845c00c23d1bcdf4a654107b1"
   },
   {
     "title": "Brest vs. Nice",
@@ -182,8 +175,24 @@
     "img": "6f383e74-1be3-4bd0-aec6-3609dc0bc015",
     "nombre": "disneyd8e521",
     "status": "11:50",
-    "duration": 135,
-    "play_url": ""
+    "duration": 125,
+    "play_url": "https://www.disneyplus.com/es-es/play/1fc45a9f-6e50-49ef-bb19-ada132235f2e",
+    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1758474061~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Fec26a05e-a9cc-4db4-804e-77465738e667-1756222537809%2F~psid=b6cea35e-1b42-4789-952d-3fc118abb968~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=c95dacd2e62aa3651cd462951e3c1933c08eeae93f5ed84be3cfaca70b4bcfc1/clt1/va02/disneyplus/channel/ec26a05e-a9cc-4db4-804e-77465738e667-1756222537809/ctr-all-sliding.m3u8?v=1&hash=89191118387a35883a50bbae1f0b0b7046a61da8",
+    "k1": "44bcb70b76094aacb38aa50f74aad45e",
+    "k2": "909473122a18f6cc9f9d8b1df547c1af"
+  },
+  {
+    "title": "Trabzonspor vs. Gaziantep",
+    "league": "Super Lig de Turquía",
+    "fecha-evento": "2025-09-20T11:50:01-05:00",
+    "img": "cd72b4d1-b92f-49ac-8828-fd5f33eb0ec1",
+    "nombre": "disney3871d3",
+    "status": "11:50",
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/5ed77305-a8c3-4654-bd94-ca8889d40dfc",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1758474104~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F20%2FTrabzonspor_vs_Gaziantep_20250920_1758379804032%2F~psid=5471d94a-cb9f-4028-9990-d31d41666e04~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=406224b1a0c82b1126a69b05aa13aff877662fca337ca1ba49db450f2eb201df/clt1/va02/disneyplus/event/2025/09/20/Trabzonspor_vs_Gaziantep_20250920_1758379804032/ctr-all-hdri-complete.m3u8?v=1&hash=312c44a93ae06e9ebd0ee3eabef8760be29bb101",
+    "k1": "d5f35f6cea234b21b4c161fd31ba63d0",
+    "k2": "6e9f0764caa19f33d6fb7b4f61cdc5a1"
   },
   {
     "title": "Fortuna Sittard vs. FC Utrecht",
@@ -466,21 +475,21 @@
     "play_url": ""
   },
   {
-    "title": "BYU vs. East Carolina",
-    "league": "Fútbol Americano NCAA",
-    "fecha-evento": "2025-09-20T18:30:00-05:00",
-    "img": "03055d73-ee81-45c6-869c-0e4b825e4dbb",
-    "nombre": "disney794245",
-    "status": "18:30",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Florida vs. #4 Miami",
     "league": "Fútbol Americano NCAA",
     "fecha-evento": "2025-09-20T18:30:00-05:00",
     "img": "068a2cc3-f43c-4dec-a9ca-2dac349b96cd",
     "nombre": "disney60975e",
+    "status": "18:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "BYU vs. East Carolina",
+    "league": "Fútbol Americano NCAA",
+    "fecha-evento": "2025-09-20T18:30:00-05:00",
+    "img": "03055d73-ee81-45c6-869c-0e4b825e4dbb",
+    "nombre": "disney794245",
     "status": "18:30",
     "duration": 135,
     "play_url": ""
