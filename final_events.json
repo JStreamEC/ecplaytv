@@ -39,32 +39,6 @@
     "k2": "278b7a36141de3b9448d1224aa072eb3"
   },
   {
-    "title": "Korea Open Tennis Championships 2025 Presented by Motiva (Semifinals)",
-    "league": "WTA",
-    "fecha-evento": "2025-09-20T03:01:10-05:00",
-    "img": "157e0143-845f-447b-8781-ed021e51ecd4",
-    "nombre": "disney79fd90",
-    "status": "03:01",
-    "duration": 239,
-    "play_url": "https://www.disneyplus.com/es-es/play/132b9778-1d85-4cad-b11b-01983695e076",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1758442862~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F20%2FKorea_Open_Tennis_Champio_20250920_1758348047033%2F~psid=79e8d5eb-6016-4bf5-b18e-f8e4cc02c1d7~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=10dc26231f69de9c637106093f72eb763e1db1b0cd5a15fc133ac0842953100e/clt1/va02/disneyplus/event/2025/09/20/Korea_Open_Tennis_Champio_20250920_1758348047033/ctr-all-hdri-complete.m3u8?v=1&hash=9f8d7fc70357e7a56bb18f0c7e78affcda112de8",
-    "k1": "e667ee91dd3442c595aa431d282b06af",
-    "k2": "588dc891c72cedd121201ffc1161538e"
-  },
-  {
-    "title": "F2 - GP Azerbaiyán - Carrera #01",
-    "league": "Fórmula 2",
-    "fecha-evento": "2025-09-20T05:05:03-05:00",
-    "img": "44381fea-289a-43e7-92a9-7f08848071aa",
-    "nombre": "disney851885",
-    "status": "05:05",
-    "duration": 70,
-    "play_url": "https://www.disneyplus.com/es-es/play/56c2a9a2-3fbc-4951-a94c-1907ec854094",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1758450019~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F20%2FF2_GP_Azerbaiyn_Carrera_0_20250920_1758355531041%2F~psid=52120643-5af0-456b-85c9-c5a8e13619cc~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=c733f5964fe1677501e75ad117167c6fb098480c174c06efefc35bd263e13f09/clt1/va02/disneyplus/event/2025/09/20/F2_GP_Azerbaiyn_Carrera_0_20250920_1758355531041/ctr-all-hdri-complete.m3u8?v=1&hash=6c5a025f9e352e603603f3f133903d1bf5c32f0c",
-    "k1": "7ba9f5e65f864b9ba9a446d1dafbe071",
-    "k2": "be94ce3363b55090eeca6da2bfb7e3ea"
-  },
-  {
     "title": "1. FC Magdeburg vs. FC Schalke 04",
     "league": "Bundesliga 2 de Alemania",
     "fecha-evento": "2025-09-20T05:50:01-05:00",
@@ -145,12 +119,15 @@
   {
     "title": "Leicester City vs. Coventry City",
     "league": "Championship de Inglaterra",
-    "fecha-evento": "2025-09-20T06:25:00-05:00",
+    "fecha-evento": "2025-09-20T06:22:11-05:00",
     "img": "03020b0b-1282-4ba8-8f56-3e16f0e04ae3",
-    "nombre": "disneyd050c6",
-    "status": "06:25",
-    "duration": 135,
-    "play_url": ""
+    "nombre": "disney208bb7",
+    "status": "06:22",
+    "duration": 128,
+    "play_url": "https://www.disneyplus.com/es-es/play/def5c934-39cf-443a-a872-7464239c077d",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1758454819~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F20%2FLeicester_City_vs_Coventr_20250920_1758360343039%2F~psid=b1115122-2271-4361-b85d-76b9128d58d9~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=2e6b3ce3b42429da6b7e83ddf4c18fc634b0c01bf39ae2e8a0d0e5f36b2a39f2/clt1/va02/disneyplus/event/2025/09/20/Leicester_City_vs_Coventr_20250920_1758360343039/ctr-all-hdri-complete.m3u8?v=1&hash=2871964258f3ae9defb77747ae6cd7fd48e13871",
+    "k1": "50f99e43143f46879d3e67215ee14ff4",
+    "k2": "83931a7bf5055fd51904c87c0a99daa4"
   },
   {
     "title": "Girona vs. Levante",
@@ -659,6 +636,26 @@
     "img": "da89cade-5742-4600-a67a-37bf7705805f",
     "nombre": "disney6be4d1",
     "status": "16:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Nacional vs. Liverpool FC",
+    "league": "Campeonato Uruguayo",
+    "fecha-evento": "2025-09-20T16:00:00-05:00",
+    "img": "1bf9605a-ac95-4e16-9728-f740350d2d7e",
+    "nombre": "disney151c4a",
+    "status": "16:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Tigre vs. Aldosivi",
+    "league": "Liga Profesional de Fútbol",
+    "fecha-evento": "2025-09-20T16:45:00-05:00",
+    "img": "62f9d595-9058-40c3-8d53-01fe57d7f761",
+    "nombre": "disney714b55",
+    "status": "16:45",
     "duration": 135,
     "play_url": ""
   }
