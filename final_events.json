@@ -13,45 +13,6 @@
     "k2": "fb615661100d1deed9e9c83ddaed7920"
   },
   {
-    "title": "Montpellier vs. Stade Toulousain (Ronda #3)",
-    "league": "Top 14",
-    "fecha-evento": "2025-09-20T13:50:01-05:00",
-    "img": "1b06db72-64c2-4a29-b432-9e89742e9a9a",
-    "nombre": "disney59c5e8",
-    "status": "13:50",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/6d38fb7f-25af-4cac-85d5-641363d89173",
-    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1758481261~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F7f9052ce-8143-43a6-9656-a8c00c4a3e56-1756223111094%2F~psid=2301e4a8-4d75-424c-afcb-521bc56a342a~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=6de097ab9aa142094fd69a591de0f15e9587992ca84fc281b773be8a32350659/clt1/va02/disneyplus/channel/7f9052ce-8143-43a6-9656-a8c00c4a3e56-1756223111094/ctr-all-sliding.m3u8?v=1&hash=2f03544b7adaaaa4f23d8a4cd7d7cec9ba48514e",
-    "k1": "c18bc8d02dfe46daa19917bed4dbafab",
-    "k2": "01222d0003028c3f4397fd911d0461b8"
-  },
-  {
-    "title": "Fulham vs. Brentford",
-    "league": "Premier League",
-    "fecha-evento": "2025-09-20T13:50:00-05:00",
-    "img": "d6c1b7c9-5336-4500-ab9e-3adbaea5fcf2",
-    "nombre": "disney87075f",
-    "status": "13:50",
-    "duration": 125,
-    "play_url": "https://www.disneyplus.com/es-es/play/d7a82444-84bf-472b-affd-c0b0f505b47e",
-    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1758481218~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Fbbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1758265170869%2F~psid=89b94c00-13d5-4487-8d3c-a22f13c48906~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=5e1346f3455b0edd85441e83ed35d407079d6e26df2e1c9245f542ff3c0d7702/clt1/va02/disneyplus/channel/bbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1758265170869/ctr-all-sliding.m3u8?v=1&hash=4b44ed5e140524edee19ba7de50a11aef68f9d53",
-    "k1": "d417369e71b14565afa2a95755b06779",
-    "k2": "3d9d08aaf6da13b08d6107f18f39102f"
-  },
-  {
-    "title": "Lens vs. Lille",
-    "league": "Ligue 1",
-    "fecha-evento": "2025-09-20T13:55:01-05:00",
-    "img": "e3ee2438-5eac-4c5f-bc5e-3386bc416dfb",
-    "nombre": "disneyefe37e",
-    "status": "13:55",
-    "duration": 125,
-    "play_url": "https://www.disneyplus.com/es-es/play/ddb0d92a-87bd-468d-bc3d-4d43357a5f2e",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1758481304~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F20%2FLens_vs_Lille_20250920_1758392799157%2F~psid=1d1f819c-8e26-40b7-afd2-ece05af2e020~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=425ca7bcd7280c50988757e9d5354677be38f00eeb3023347f024fd0ef0f5c5e/clt1/va02/disneyplus/event/2025/09/20/Lens_vs_Lille_20250920_1758392799157/ctr-all-hdri-complete.m3u8?v=1&hash=f29a65b6728059af380b66386eef48eb3c8efcc2",
-    "k1": "deefe937f8b7432ab68bb872dcdcf49d",
-    "k2": "e01059ef7f869942edb58e52f83548bc"
-  },
-  {
     "title": "James Madison vs. Liberty",
     "league": "Fútbol Americano NCAA",
     "fecha-evento": "2025-09-20T14:30:00-05:00",
@@ -143,34 +104,43 @@
     "k2": "9d0c15a78f7c6ef30bd8c83a7da3befd"
   },
   {
-    "title": "Hawai'i vs. UCLA",
-    "league": "NCAA Women's Volleyball",
-    "fecha-evento": "2025-09-20T16:00:00-05:00",
-    "img": "02cf5273-110c-4927-a25a-824c3f10b01c",
-    "nombre": "disney7399be",
-    "status": "16:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Lexington Sporting Club vs. Spokane Zephyr",
     "league": "USL Super League",
-    "fecha-evento": "2025-09-20T16:00:00-05:00",
+    "fecha-evento": "2025-09-20T16:00:02-05:00",
     "img": "da89cade-5742-4600-a67a-37bf7705805f",
-    "nombre": "disney6be4d1",
+    "nombre": "disneya8832a",
     "status": "16:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/2fd3d3b9-54d2-474f-b50d-fe17eb58a30b",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1758489618~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F20%2FLexington_Sporting_Club_v_20250920_1758394842031%2F~psid=a4dca330-5e74-4489-bb49-376f8e95252d~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=42af9712f60d5e11aa573c7fb38afd43742884a96822ab68ffbcfddcbe1c15c3/clt1/va02/disneyplus/event/2025/09/20/Lexington_Sporting_Club_v_20250920_1758394842031/ctr-all-hdri-complete.m3u8?v=1&hash=b729da2b31fe461a19bcefd9482b85f14839c602",
+    "k1": "4e492e3694f9460eb6616ef46a3bc031",
+    "k2": "4addb4fbde552de045913c77b3aa8c13"
   },
   {
     "title": "Nacional vs. Liverpool FC",
     "league": "Campeonato Uruguayo",
-    "fecha-evento": "2025-09-20T16:00:00-05:00",
+    "fecha-evento": "2025-09-20T16:00:05-05:00",
     "img": "1bf9605a-ac95-4e16-9728-f740350d2d7e",
-    "nombre": "disney151c4a",
+    "nombre": "disney2c53ff",
     "status": "16:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 150,
+    "play_url": "https://www.disneyplus.com/es-es/play/df7160a2-6dac-46ae-a379-d0542d46cd2e",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1758489662~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F20%2FNacional_vs_Liverpool_FC_20250920_1758394851031%2F~psid=051abec0-49c4-4d7e-8e53-8fbac3be418f~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=6cf950599cc70c0007956e06682f8449d83d211a7012aeb2120542aea04de878/clt1/va02/disneyplus/event/2025/09/20/Nacional_vs_Liverpool_FC_20250920_1758394851031/ctr-all-hdri-complete.m3u8?v=1&hash=7c49e4dcb894b89a44cab562eb63f16572e5ca5c",
+    "k1": "de2e89e0708c4b8482ae3ea17056ee5f",
+    "k2": "a60d5ff5c0f0a3fe2d516fee59eb9b7b"
+  },
+  {
+    "title": "Hawai'i vs. UCLA",
+    "league": "NCAA Women's Volleyball",
+    "fecha-evento": "2025-09-20T16:00:43-05:00",
+    "img": "02cf5273-110c-4927-a25a-824c3f10b01c",
+    "nombre": "disney982d35",
+    "status": "16:00",
+    "duration": 119,
+    "play_url": "https://www.disneyplus.com/es-es/play/1c3e6e6c-993c-4224-ae12-6ddbd8e47a1b",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1758489705~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F20%2FHawaii_vs_UCLA_20250920_1758394844032%2F~psid=21405f31-724e-43a7-9b50-fdc04c1f217e~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=289802036bcefdf963b3ee2df4b918a151f3fda4095ddf8badac376db3b8c113/clt1/va02/disneyplus/event/2025/09/20/Hawaii_vs_UCLA_20250920_1758394844032/ctr-all-hdri-complete.m3u8?v=1&hash=4685329901d5136bc8a800041b0472d807c58edd",
+    "k1": "c249d7a240724d52b9e2749a1bb00500",
+    "k2": "8bc270cef037ba9918f774e165cc3467"
   },
   {
     "title": "Tigre vs. Aldosivi",
@@ -283,11 +253,11 @@
     "play_url": ""
   },
   {
-    "title": "Florida vs. #4 Miami",
+    "title": "En Español-Florida vs. #4 Miami",
     "league": "Fútbol Americano NCAA",
     "fecha-evento": "2025-09-20T18:30:00-05:00",
     "img": "068a2cc3-f43c-4dec-a9ca-2dac349b96cd",
-    "nombre": "disney60975e",
+    "nombre": "disney312bf5",
     "status": "18:30",
     "duration": 135,
     "play_url": ""
@@ -433,21 +403,21 @@
     "play_url": ""
   },
   {
-    "title": "2025 Laver Cup (Day #2)",
-    "league": "ESPN",
-    "fecha-evento": "2025-09-20T21:00:00-05:00",
-    "img": "060f54d5-da10-463b-9229-881bcd6866a7",
-    "nombre": "disney78281f",
-    "status": "21:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Phoenix Rising FC vs. Loudoun United FC",
     "league": "USL Championship",
     "fecha-evento": "2025-09-20T21:00:00-05:00",
     "img": "0e355601-abdd-4245-8c0c-5127e4491880",
     "nombre": "disney53b5e6",
+    "status": "21:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "2025 Laver Cup (Day #2)",
+    "league": "ESPN",
+    "fecha-evento": "2025-09-20T21:00:00-05:00",
+    "img": "060f54d5-da10-463b-9229-881bcd6866a7",
+    "nombre": "disney78281f",
     "status": "21:00",
     "duration": 135,
     "play_url": ""
@@ -659,6 +629,36 @@
     "img": "a1b8aef9-6c6d-43b6-aef0-4ae4ffce5be3",
     "nombre": "disney333ffb",
     "status": "06:25",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Holstein Kiel vs. Karlsruher SC",
+    "league": "Bundesliga 2 de Alemania",
+    "fecha-evento": "2025-09-21T06:25:00-05:00",
+    "img": "c2495191-9292-4193-b004-9890498c1915",
+    "nombre": "disney05e354",
+    "status": "06:25",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "PSV vs. Ajax",
+    "league": "Eredivisie",
+    "fecha-evento": "2025-09-21T07:20:00-05:00",
+    "img": "e5769634-7ffa-4a56-8229-98cff3d43829",
+    "nombre": "disney5dedb0",
+    "status": "07:20",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Torino vs. Atalanta",
+    "league": "Seria A",
+    "fecha-evento": "2025-09-21T07:50:00-05:00",
+    "img": "3f921f26-d01e-43fc-a50d-420b179fdaae",
+    "nombre": "disneyb2360d",
+    "status": "07:50",
     "duration": 135,
     "play_url": ""
   }
