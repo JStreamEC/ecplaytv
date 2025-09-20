@@ -1,18 +1,5 @@
 [
   {
-    "title": "Korea Open Tennis Championships 2025 Presented by Motiva (Quarterfinals)",
-    "league": "WTA",
-    "fecha-evento": "2025-09-19T21:55:54-05:00",
-    "img": "b58c56ca-02ef-4371-bcff-579334c3be5d",
-    "nombre": "disney6fa604",
-    "status": "21:55",
-    "duration": 244,
-    "play_url": "https://www.disneyplus.com/es-es/play/8f311823-a88c-44a8-9b97-3262821f88a7",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1758423619~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F20%2FKorea_Open_Tennis_Champio_20250920_1758330052034%2F~psid=f5931d6d-0bf5-4c43-85a2-9e47fc09fc80~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=d7ae09fd8fda8c3d307cc322316274e2ed2df45a021ce4f73dddfaff8b89671e/clt1/va02/disneyplus/event/2025/09/20/Korea_Open_Tennis_Champio_20250920_1758330052034/ctr-all-hdri-complete.m3u8?v=1&hash=c9906d6b02ccdc81fd3f9b6d9dd4f5a63faad7e0",
-    "k1": "fea4d2f9f00643049bacf4bfd6b9d1b1",
-    "k2": "6ed730c2171f3de40ae560522e845175"
-  },
-  {
     "title": "Hangzhou Open (Second Round)",
     "league": "ATP",
     "fecha-evento": "2025-09-19T22:30:03-05:00",
@@ -24,19 +11,6 @@
     "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1758427219~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F20%2FHangzhou_Open_Second_Roun_20250920_1758331809033%2F~psid=355d5440-f9c6-4771-b790-9d8d9b7260eb~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=16b6d5c1b667033b30ba3e6c5728dbd68df943d97a34165cff3e82a088fe038d/clt1/va02/disneyplus/event/2025/09/20/Hangzhou_Open_Second_Roun_20250920_1758331809033/ctr-all-hdri-complete.m3u8?v=1&hash=2c7dd8b8a42e251d45785095258c788293b178eb",
     "k1": "1719ded424d5407bb034f2a9e42f0867",
     "k2": "2836d865e94dd57df1f16899e736d083"
-  },
-  {
-    "title": "Canterbury vs. Otago (Fecha #8)",
-    "league": "National Provincial Championship",
-    "fecha-evento": "2025-09-19T23:30:06-05:00",
-    "img": "02218c02-738d-49cf-b63b-6a6be98a8186",
-    "nombre": "disney80d8cb",
-    "status": "23:30",
-    "duration": 125,
-    "play_url": "https://www.disneyplus.com/es-es/play/7f90a3a2-84bd-4613-a894-25e887dc8a5f",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1758429617~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F20%2FCanterbury_vs_Otago_Fecha_20250920_1758335411032%2F~psid=eef15593-92e1-4b2d-b8d7-6224b4fc4ea3~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=208b6a78ddc4957e836e2ef5b1d478bbce31d8ee2710d5049c44bacd5f700065/clt1/va02/disneyplus/event/2025/09/20/Canterbury_vs_Otago_Fecha_20250920_1758335411032/ctr-all-hdri-complete.m3u8?v=1&hash=f241d4fd446bfad1070a30a2557f20aba72ec8d7",
-    "k1": "e65c5d9eb5d047a2b9295d0b9afc10db",
-    "k2": "8cee89259cc4ec096498e311672df40f"
   },
   {
     "title": "Chengdu Open (Second Round)",
@@ -631,6 +605,36 @@
     "img": "e3ee2438-5eac-4c5f-bc5e-3386bc416dfb",
     "nombre": "disney653bab",
     "status": "13:55",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Samoa vs. Chile (Repechaje - Ida)",
+    "league": "ESPN",
+    "fecha-evento": "2025-09-20T14:25:00-05:00",
+    "img": "eb3f7b27-aeef-403c-bc23-1816636423ef",
+    "nombre": "disney33b1dd",
+    "status": "14:25",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Tulane vs. #13 Ole Miss",
+    "league": "Fútbol Americano NCAA",
+    "fecha-evento": "2025-09-20T14:30:00-05:00",
+    "img": "4da4dc98-9eb8-4f6d-ab6e-2c302868926e",
+    "nombre": "disneyb6c63e",
+    "status": "14:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "#22 Auburn vs. #11 Oklahoma",
+    "league": "Fútbol Americano NCAA",
+    "fecha-evento": "2025-09-20T14:40:00-05:00",
+    "img": "e94835ca-495d-480e-be1b-216f05948c85",
+    "nombre": "disney6e936b",
+    "status": "14:40",
     "duration": 135,
     "play_url": ""
   }
