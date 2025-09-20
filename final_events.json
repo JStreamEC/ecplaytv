@@ -162,6 +162,19 @@
     "img": "fec3facd-92e7-41ba-b071-ccc2854a47a0",
     "nombre": "disney656fc0",
     "status": "17:30",
+    "duration": 125,
+    "play_url": "https://www.disneyplus.com/es-es/play/d72a0deb-0c90-463d-8171-67279abcd4af",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1758494418~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F20%2FTonga_vs_Canad_Tercer_Pue_20250920_1758400216028%2F~psid=abaf3510-8ea7-4d5a-a4ea-da9299067a4b~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=f4e3fbcd4472ef4a7a6095e4512d2363943c4fd41b88f04eb1f77be71b44ecd4/clt1/va02/disneyplus/event/2025/09/20/Tonga_vs_Canad_Tercer_Pue_20250920_1758400216028/ctr-all-hdri-complete.m3u8?v=1&hash=a315adeb125d62d98de45b9581b06e1228614a38",
+    "k1": "14a5c8ee288c46698166b7ac9fc923ad",
+    "k2": "ae246f646bc6f96c96f5484a15236fe0"
+  },
+  {
+    "title": "Seattle Mariners vs. Houston Astros",
+    "league": "MLB",
+    "fecha-evento": "2025-09-20T18:00:00-05:00",
+    "img": "0af93831-6285-489f-b6ad-75d2eb1e2bd5",
+    "nombre": "disney0f5a4c",
+    "status": "18:00",
     "duration": 135,
     "play_url": ""
   },
@@ -171,16 +184,6 @@
     "fecha-evento": "2025-09-20T18:00:00-05:00",
     "img": "2fcbeadc-4cbe-4d6a-97e6-60932b49475b",
     "nombre": "disneybcadea",
-    "status": "18:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Seattle Mariners vs. Houston Astros",
-    "league": "MLB",
-    "fecha-evento": "2025-09-20T18:00:00-05:00",
-    "img": "0af93831-6285-489f-b6ad-75d2eb1e2bd5",
-    "nombre": "disney0f5a4c",
     "status": "18:00",
     "duration": 135,
     "play_url": ""
