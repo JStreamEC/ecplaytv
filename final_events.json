@@ -1,18 +1,5 @@
 [
   {
-    "title": "F1 - GP Azerbaiyan - Clasificación",
-    "league": "Fórmula 1",
-    "fecha-evento": "2025-09-20T06:00:02-05:00",
-    "img": "03f73212-c7dc-4fab-a7e4-e8228a1f4c14",
-    "nombre": "disney26cdf2",
-    "status": "06:00",
-    "duration": 165,
-    "play_url": "https://www.disneyplus.com/es-es/play/b2d4232c-c9af-47f5-8da3-55fef99244f5",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1758453619~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F20%2FF1_GP_Azerbaiyan_Clasific_20250920_1758358822027%2F~psid=ba468e28-8597-47e8-9cce-c381f242b61a~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=a62f9d94f088b8b0b43153ed58eb7b142563b6b23c282b627c9f61791341fdbb/clt1/va02/disneyplus/event/2025/09/20/F1_GP_Azerbaiyan_Clasific_20250920_1758358822027/ctr-all-hdri-complete.m3u8?v=1&hash=7d684e00a2134aed2677e75486df52ec60b62594",
-    "k1": "f88e91a1bbb8491780a2aee4cf776d6d",
-    "k2": "2d6fee267311bff8ca92dd0342e9ebe8"
-  },
-  {
     "title": "FedEx Open de France (Third Round)",
     "league": "DP World Tour",
     "fecha-evento": "2025-09-20T06:01:43-05:00",
@@ -180,19 +167,6 @@
     "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1758463304~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F20%2FBurnley_vs_Nottingham_For_20250920_1758369026028%2F~psid=13d873c2-1a04-4407-ac47-0db28854d699~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=3ec44f76ff1d1b668cc7569e3bf21a5450755fe61a4bd976567f98d391d8f12a/clt1/va02/disneyplus/event/2025/09/20/Burnley_vs_Nottingham_For_20250920_1758369026028/ctr-all-hdri-complete.m3u8?v=1&hash=129c91124d3d78515113debe62dab4e78e124561",
     "k1": "7a0077ee9948403db1c6003b6a48f092",
     "k2": "627a968cbecf7a5ae5dafd8ecf318fb2"
-  },
-  {
-    "title": "Compacto | F1 GP Azerbaiyán | Clasificación (3 min)",
-    "league": "Fórmula 1",
-    "fecha-evento": "2025-09-20T08:55:00-05:00",
-    "img": "32b10095-0c9b-4020-9b25-5a26f29a0e4b",
-    "nombre": "disneya624c6",
-    "status": "08:55",
-    "duration": 13,
-    "play_url": "https://www.disneyplus.com/es-es/play/b0906a47-f7c5-4049-ba59-61c43659ca23",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1758463327~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F20%2FCompacto_F1_GP_Azerbaiyn__20250920_1758369301033%2F~psid=038f67b9-5206-495a-938b-3cb871b5ffef~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=21f3662dd6fbbf88b4e461b2fbe9b8df840063968a8a26751e3107299671dccc/clt1/va02/disneyplus/event/2025/09/20/Compacto_F1_GP_Azerbaiyn__20250920_1758369301033/ctr-all-hdri-complete.m3u8?v=1&hash=976fa35c50cdde080606c2e8250ec5fd36190f8a",
-    "k1": "66dc52a54dad4be6ae45754130563b41",
-    "k2": "72d69c98cd7fb7f917cb831707f19547"
   },
   {
     "title": "France vs. Inglaterra (Semifinal)",
@@ -598,21 +572,21 @@
     "play_url": ""
   },
   {
-    "title": "Greenville Triumph SC vs. Forward Madison",
-    "league": "USL League One",
-    "fecha-evento": "2025-09-20T18:00:00-05:00",
-    "img": "fa51fa19-0e75-496e-bb0e-515f71f288a9",
-    "nombre": "disney07afc6",
-    "status": "18:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Detroit City FC vs. Lexington Sporting Club",
     "league": "USL Championship",
     "fecha-evento": "2025-09-20T18:00:00-05:00",
     "img": "e1d45c02-e1eb-4b02-895d-b0aa15f12ff6",
     "nombre": "disneya4568b",
+    "status": "18:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Greenville Triumph SC vs. Forward Madison",
+    "league": "USL League One",
+    "fecha-evento": "2025-09-20T18:00:00-05:00",
+    "img": "fa51fa19-0e75-496e-bb0e-515f71f288a9",
+    "nombre": "disney07afc6",
     "status": "18:00",
     "duration": 135,
     "play_url": ""
@@ -663,6 +637,26 @@
     "fecha-evento": "2025-09-20T18:30:00-05:00",
     "img": "e943c2af-7553-4e83-8ec5-9662ff3520a2",
     "nombre": "disney524bf8",
+    "status": "18:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Louisville City FC vs. Las Vegas Lights FC",
+    "league": "USL Championship",
+    "fecha-evento": "2025-09-20T18:30:00-05:00",
+    "img": "a359f280-734d-4a61-a650-4a4e23e1ce5b",
+    "nombre": "disney4f4486",
+    "status": "18:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Georgia State vs. #20 Vanderbilt",
+    "league": "Fútbol Americano NCAA",
+    "fecha-evento": "2025-09-20T18:30:00-05:00",
+    "img": "bb36f228-b227-4cbc-90ba-4c759713bb4d",
+    "nombre": "disneyb15dfc",
     "status": "18:30",
     "duration": 135,
     "play_url": ""
