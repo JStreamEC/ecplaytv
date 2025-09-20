@@ -1,18 +1,5 @@
 [
   {
-    "title": "Lions vs. Griquas (Final)",
-    "league": "Currie Cup",
-    "fecha-evento": "2025-09-20T07:50:05-05:00",
-    "img": "52bb3b2b-1b96-4aaf-963b-bc88a201e32c",
-    "nombre": "disney736d20",
-    "status": "07:50",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/c6c58875-6537-4669-b3d2-f5f300e17469",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1758459664~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F20%2FLions_vs_Griquas_Final_20250920_1758365748028%2F~psid=018e7894-4833-464c-9d1d-4a7354253ec3~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=d11f69e34d9727e50786810f71334eb02c1f29537c9df26037b1e7e5dc98ebd0/clt1/va02/disneyplus/event/2025/09/20/Lions_vs_Griquas_Final_20250920_1758365748028/ctr-all-hdri-complete.m3u8?v=1&hash=236efbe360764040d824aeb34cc74591166f9e9f",
-    "k1": "75a923eccd024ae3907a8a40eeafa86d",
-    "k2": "b767cbecb6cbb62ccf66acae5bc4f30b"
-  },
-  {
     "title": "Hamburger SV vs. 1. FC Heidenheim 1846",
     "league": "Bundesliga",
     "fecha-evento": "2025-09-20T08:20:00-05:00",
@@ -50,19 +37,6 @@
     "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1758460820~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F20%2FWerder_Bremen_vs_Freiburg_20250920_1758368802974%2F~psid=f5cef513-0814-45ee-b09d-16ebb33cc45b~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=728e730824ca4e1770aee0882e69862e531f86974717d08636a1de05e038fd5a/clt1/va02/disneyplus/event/2025/09/20/Werder_Bremen_vs_Freiburg_20250920_1758368802974/ctr-all-hdri-complete.m3u8?v=1&hash=662f58e29c53094c2ada1906f8115e3222556bcc",
     "k1": "e2263e73a0b449e3b333a891db7d4c95",
     "k2": "81fdd988aaa01c037a0b18050c9a0902"
-  },
-  {
-    "title": "Goal Arena - The Bundesliga Konferenz (Bundesliga)",
-    "league": "Bundesliga",
-    "fecha-evento": "2025-09-20T08:20:00-05:00",
-    "img": "3f715d5c-4006-475c-8324-27c9212c339f",
-    "nombre": "disneyc72263",
-    "status": "08:20",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/697d0d09-dbc7-4dfa-a821-2f8da8fd1885",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1758460863~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F20%2FGoal_Arena_The_Bundesliga_20250920_1758367216025%2F~psid=f8fc8aaf-f3d7-42b9-bed3-9ece5409b1fa~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=93aacf3652ebb1e11dfdfb64cdd27a643aedcc73908f1d132adea89e30b052a0/clt1/va02/disneyplus/event/2025/09/20/Goal_Arena_The_Bundesliga_20250920_1758367216025/ctr-all-hdri-complete.m3u8?v=1&hash=036e709cc081bde0c2d514e881070c87210da317",
-    "k1": "da26617ebb5048bd8e11746866239b4b",
-    "k2": "675944742b99e5e5d6a68523936bbeb0"
   },
   {
     "title": "Hoffenheim vs. Bayern Munich",
@@ -664,6 +638,26 @@
     "fecha-evento": "2025-09-20T19:00:00-05:00",
     "img": "9ccdf66a-53e3-4733-aa03-f4e925bdc992",
     "nombre": "disney172f19",
+    "status": "19:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Colorado Springs Switchbacks FC vs. Sacramento Republic FC",
+    "league": "USL Championship",
+    "fecha-evento": "2025-09-20T19:00:00-05:00",
+    "img": "aa48980a-d1a3-4a42-9bb4-bc4da101a279",
+    "nombre": "disney6be68f",
+    "status": "19:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Atlético Tucumán vs. River Plate",
+    "league": "Liga Profesional de Fútbol",
+    "fecha-evento": "2025-09-20T19:00:00-05:00",
+    "img": "bc8adbad-61a2-464e-b056-44743c1a47b1",
+    "nombre": "disney563de8",
     "status": "19:00",
     "duration": 135,
     "play_url": ""
