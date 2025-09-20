@@ -1,18 +1,5 @@
 [
   {
-    "title": "Flavio Cobolli vs. Joao Fonseca (Day #1)",
-    "league": "ESPN",
-    "fecha-evento": "2025-09-19T21:00:00-05:00",
-    "img": "2971b467-dc10-4012-9f10-bee4b0394677",
-    "nombre": "disney1a926e",
-    "status": "21:00",
-    "duration": 240,
-    "play_url": "https://www.disneyplus.com/es-es/play/1a46bb77-68bb-49ce-84e1-82d0f1d81635",
-    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1758420061~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Ff25bdf06-81c9-4a7c-b128-3128d610ad17-1756223551993%2F~psid=640fe9de-d058-4c10-b6f2-501a6d369388~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=86f90aa347fe6af3ff725090bcb56b3c6246226c80cbceccd1633939f34490c5/clt1/va02/disneyplus/channel/f25bdf06-81c9-4a7c-b128-3128d610ad17-1756223551993/ctr-all-sliding.m3u8?v=1&hash=aa8d2bb37fafb9b8d31c8b8095cb65f827b67eb8",
-    "k1": "9c51f08e07b94c6bbbf25d8992744f87",
-    "k2": "cf7361be47bea864d602309e7ea10939"
-  },
-  {
     "title": "Korea Open Tennis Championships 2025 Presented by Motiva (Quarterfinals)",
     "league": "WTA",
     "fecha-evento": "2025-09-19T21:55:54-05:00",
@@ -71,8 +58,11 @@
     "img": "05341a61-9490-4301-b8fa-38c816261a9b",
     "nombre": "disney419778",
     "status": "01:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 300,
+    "play_url": "https://www.disneyplus.com/es-es/play/6436c061-4dd2-4132-bd20-945d3ee110f6",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1758435618~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F20%2FKorea_Open_Tennis_Champio_20250920_1758340815032%2F~psid=074a155c-190a-472a-a0fc-4072573153ba~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=cefd898bd43936205e4768385d2a71a110ac3480a8f08ed65b73fcb537aaf7e6/clt1/va02/disneyplus/event/2025/09/20/Korea_Open_Tennis_Champio_20250920_1758340815032/ctr-all-hdri-complete.m3u8?v=1&hash=6c2e6f6a63d2b47e4a3c5985f998b8c4a9841fca",
+    "k1": "43212c9da70d45feb5cf50f59896853b",
+    "k2": "278b7a36141de3b9448d1224aa072eb3"
   },
   {
     "title": "Tasman vs. Waikato (Fecha #8)",
@@ -631,6 +621,16 @@
     "img": "d6c1b7c9-5336-4500-ab9e-3adbaea5fcf2",
     "nombre": "disney87075f",
     "status": "13:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Lens vs. Lille",
+    "league": "Ligue 1",
+    "fecha-evento": "2025-09-20T13:55:00-05:00",
+    "img": "e3ee2438-5eac-4c5f-bc5e-3386bc416dfb",
+    "nombre": "disney653bab",
+    "status": "13:55",
     "duration": 135,
     "play_url": ""
   }
