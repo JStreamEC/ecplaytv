@@ -1,31 +1,5 @@
 [
   {
-    "title": "FedEx Open de France (Third Round)",
-    "league": "DP World Tour",
-    "fecha-evento": "2025-09-20T06:01:43-05:00",
-    "img": "20151ea5-411e-4cec-bf1e-7111dd699e49",
-    "nombre": "disney2eef21",
-    "status": "06:01",
-    "duration": 268,
-    "play_url": "https://www.disneyplus.com/es-es/play/0815bd1d-29fb-47da-b061-204a5b2ec4ae",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1758453662~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F20%2FFedEx_Open_de_France_Thir_20250920_1758358857028%2F~psid=06463968-f21f-4d2b-8813-d53ee897da5c~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=fb31da08acdb2521a18ecbaf57ccd1a176b3ea4a33714e9b69905daa134b7e04/clt1/va02/disneyplus/event/2025/09/20/FedEx_Open_de_France_Thir_20250920_1758358857028/ctr-all-hdri-complete.m3u8?v=1&hash=4caf60c737d22a5d1768c7590e845b1569dec23a",
-    "k1": "b98ef63cccab4eb6a5082dff078512d3",
-    "k2": "e6fa0f2ba95538a549d6df32a06f0ae7"
-  },
-  {
-    "title": "Bologna vs. Genoa",
-    "league": "Seria A",
-    "fecha-evento": "2025-09-20T07:50:00-05:00",
-    "img": "044f011d-68af-46fa-a14d-460021db4668",
-    "nombre": "disneyc9ba2e",
-    "status": "07:50",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/eea86ecd-3522-4024-b64f-f2e26a8f2ce3",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1758459620~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F20%2FBologna_vs_Genoa_20250920_1758365452028%2F~psid=a5f1c592-e091-484b-a021-b0b91e36c7c9~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=c67f26255c45643e20e3219fe45115e3bf562a4dcc1d21c659a6c25cc1c84d91/clt1/va02/disneyplus/event/2025/09/20/Bologna_vs_Genoa_20250920_1758365452028/ctr-all-hdri-complete.m3u8?v=1&hash=718b8355a620538c39bddc8d4d85e0efb004dcf2",
-    "k1": "aefb1da258554050a5af82ae1f82c4ed",
-    "k2": "771a7b8c073cda4f324fa85161f2c9be"
-  },
-  {
     "title": "Lions vs. Griquas (Final)",
     "league": "Currie Cup",
     "fecha-evento": "2025-09-20T07:50:05-05:00",
@@ -661,6 +635,36 @@
     "img": "bb36f228-b227-4cbc-90ba-4c759713bb4d",
     "nombre": "disneyb15dfc",
     "status": "18:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "SE Louisiana vs. #3 LSU",
+    "league": "Fútbol Americano NCAA",
+    "fecha-evento": "2025-09-20T18:45:00-05:00",
+    "img": "be518f09-b42a-47d2-8996-914edd7f6fef",
+    "nombre": "disney4a25fa",
+    "status": "18:45",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Sam Houston vs. #8 Texas",
+    "league": "Fútbol Americano NCAA",
+    "fecha-evento": "2025-09-20T19:00:00-05:00",
+    "img": "227d568d-1dfc-4482-8711-4af13e6a6155",
+    "nombre": "disneyd53ea4",
+    "status": "19:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Grand Canyon vs. #8 Arizona State",
+    "league": "NCAA Women's Volleyball",
+    "fecha-evento": "2025-09-20T19:00:00-05:00",
+    "img": "9ccdf66a-53e3-4733-aa03-f4e925bdc992",
+    "nombre": "disney172f19",
+    "status": "19:00",
     "duration": 135,
     "play_url": ""
   }
