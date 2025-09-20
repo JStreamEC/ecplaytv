@@ -62,21 +62,21 @@
     "play_url": ""
   },
   {
-    "title": "Canterbury Women vs. Bay of Plenty Volcanix",
-    "league": "Farah Palmer Cup",
-    "fecha-evento": "2025-09-19T21:00:00-05:00",
-    "img": "b89e510f-f680-44f8-89bc-ccf7ea109876",
-    "nombre": "disney2bbdf5",
-    "status": "21:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Flavio Cobolli vs. Joao Fonseca (Day #1)",
     "league": "ESPN",
     "fecha-evento": "2025-09-19T21:00:00-05:00",
     "img": "2971b467-dc10-4012-9f10-bee4b0394677",
     "nombre": "disney1a926e",
+    "status": "21:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Canterbury Women vs. Bay of Plenty Volcanix",
+    "league": "Farah Palmer Cup",
+    "fecha-evento": "2025-09-19T21:00:00-05:00",
+    "img": "b89e510f-f680-44f8-89bc-ccf7ea109876",
+    "nombre": "disney2bbdf5",
     "status": "21:00",
     "duration": 135,
     "play_url": ""
@@ -415,7 +415,7 @@
     "title": "Augsburg vs. Mainz 05",
     "league": "Bundesliga",
     "fecha-evento": "2025-09-20T08:20:00-05:00",
-    "img": "8c22b15c-99e5-4a9e-b406-95aa36aa21d9",
+    "img": "a62a4623-2509-43d1-96a4-d285a463f6c7",
     "nombre": "disney9e5a2c",
     "status": "08:20",
     "duration": 135,
@@ -532,16 +532,6 @@
     "play_url": ""
   },
   {
-    "title": "Syracuse vs. Clemson",
-    "league": "Fútbol Americano NCAA",
-    "fecha-evento": "2025-09-20T11:00:00-05:00",
-    "img": "d806e0e3-07b2-4789-8511-154cc8b6e838",
-    "nombre": "disneydc5d82",
-    "status": "11:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "UNLV vs. Miami (OH)",
     "league": "Fútbol Americano NCAA",
     "fecha-evento": "2025-09-20T11:00:00-05:00",
@@ -552,11 +542,11 @@
     "play_url": ""
   },
   {
-    "title": "SMU vs. TCU",
+    "title": "Syracuse vs. Clemson",
     "league": "Fútbol Americano NCAA",
     "fecha-evento": "2025-09-20T11:00:00-05:00",
-    "img": "5201c01e-fce4-4578-b007-3ad8f0763583",
-    "nombre": "disneybe6fd5",
+    "img": "d806e0e3-07b2-4789-8511-154cc8b6e838",
+    "nombre": "disneydc5d82",
     "status": "11:00",
     "duration": 135,
     "play_url": ""
@@ -567,6 +557,16 @@
     "fecha-evento": "2025-09-20T11:00:00-05:00",
     "img": "5eb40bc6-1c76-4468-8cd0-09a572b45d66",
     "nombre": "disneyd13a49",
+    "status": "11:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "SMU vs. TCU",
+    "league": "Fútbol Americano NCAA",
+    "fecha-evento": "2025-09-20T11:00:00-05:00",
+    "img": "5201c01e-fce4-4578-b007-3ad8f0763583",
+    "nombre": "disneybe6fd5",
     "status": "11:00",
     "duration": 135,
     "play_url": ""
