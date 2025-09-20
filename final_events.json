@@ -13,19 +13,6 @@
     "k2": "35ce147c396195e3db5fd135a1e69895"
   },
   {
-    "title": "SMU vs. TCU",
-    "league": "Fútbol Americano NCAA",
-    "fecha-evento": "2025-09-20T11:00:01-05:00",
-    "img": "5201c01e-fce4-4578-b007-3ad8f0763583",
-    "nombre": "disney1e77cd",
-    "status": "11:00",
-    "duration": 180,
-    "play_url": "https://www.disneyplus.com/es-es/play/4ba39cc4-99f4-4dd9-98ad-718d4514f3d0",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1758471705~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F20%2FSMU_vs_TCU_20250920_1758376805025%2F~psid=fa9a8449-7e59-4f91-9238-608cb1fd5112~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=3c0e909625b92c139655e99b0c124851c2d3f2c9f2e35e037f741cf1e0e6937f/clt1/va02/disneyplus/event/2025/09/20/SMU_vs_TCU_20250920_1758376805025/ctr-all-hdri-complete.m3u8?v=1&hash=14bcb4e65c89d61b886e36a91ba16b82c8ccc60f",
-    "k1": "0875904a4bc842189d6d541271e9d1c8",
-    "k2": "0818cda4dc41167c446273c70b56c281"
-  },
-  {
     "title": "UNLV vs. Miami (OH)",
     "league": "Fútbol Americano NCAA",
     "fecha-evento": "2025-09-20T11:05:07-05:00",
@@ -171,12 +158,15 @@
   {
     "title": "Samoa vs. Chile (Repechaje - Ida)",
     "league": "ESPN",
-    "fecha-evento": "2025-09-20T14:25:00-05:00",
+    "fecha-evento": "2025-09-20T14:25:01-05:00",
     "img": "d69b309e-c31c-4479-b91f-241af00f5589",
-    "nombre": "disney33b1dd",
+    "nombre": "disney74c76c",
     "status": "14:25",
-    "duration": 135,
-    "play_url": ""
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/d72380f0-0c6b-4abc-8406-5784cea69d7e",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1758483618~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F20%2FSamoa_vs_Chile_Repechaje__20250920_1758389116027%2F~psid=0f6a5821-6c1a-4383-9af6-631123b4cc5b~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=87302472274801e63c11b6bda513b4cb61433ffdc7129992e4cd7193920cf681/clt1/va02/disneyplus/event/2025/09/20/Samoa_vs_Chile_Repechaje__20250920_1758389116027/ctr-all-hdri-complete.m3u8?v=1&hash=9c087df50f025ee47c95d53e6b5f07dff74f2616",
+    "k1": "7b72e62f15bf46319b48b21c5acce7de",
+    "k2": "6664e0d0c9f654b08f653ea4c7dae802"
   },
   {
     "title": "Tulane vs. #13 Ole Miss",
@@ -185,8 +175,11 @@
     "img": "4da4dc98-9eb8-4f6d-ab6e-2c302868926e",
     "nombre": "disneyb6c63e",
     "status": "14:30",
-    "duration": 135,
-    "play_url": ""
+    "duration": 180,
+    "play_url": "https://www.disneyplus.com/es-es/play/6e636caa-a3d2-45fc-a37d-a12898cf34a2",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1758483662~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F20%2FTulane_vs_13_Ole_Miss_20250920_1758391303062%2F~psid=d4d380c3-3b37-455a-b100-c43bc163991f~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=36de1a2bb187cd31d10b66204994f8472b0a98081bfee2f5f4c5dd81850260b8/clt1/va02/disneyplus/event/2025/09/20/Tulane_vs_13_Ole_Miss_20250920_1758391303062/ctr-all-hdri-complete.m3u8?v=1&hash=817cf14b5649e7f8d5468d120b2a8ac2ca7ec925",
+    "k1": "c44691e312a94c37b77e8c4a24b4abbd",
+    "k2": "bb3d6a59196170698dd399b5eb08cd3b"
   },
   {
     "title": "#22 Auburn vs. #11 Oklahoma",
@@ -195,8 +188,11 @@
     "img": "e94835ca-495d-480e-be1b-216f05948c85",
     "nombre": "disney6e936b",
     "status": "14:40",
-    "duration": 135,
-    "play_url": ""
+    "duration": 170,
+    "play_url": "https://www.disneyplus.com/es-es/play/4cc20cc5-2c91-4149-8402-3fb0a4ea9b62",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1758483705~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F20%2F22_Auburn_vs_11_Oklahoma_20250920_1758393163079%2F~psid=b8ea02c3-de96-49de-b1e0-7fbc81b9c1a6~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=6edc7ae65f306ca4a87ad4fccb28e9713df9485fa65994340e285fbd1734aa8a/clt1/va02/disneyplus/event/2025/09/20/22_Auburn_vs_11_Oklahoma_20250920_1758393163079/ctr-all-hdri-complete.m3u8?v=1&hash=c9f0e41cd0697aa82405928d9736f159f681b0c7",
+    "k1": "0f4dd228262b45508e40d8223eaddbdb",
+    "k2": "d906748dd91397918b8a606ac732ae9b"
   },
   {
     "title": "James Madison vs. Liberty",
@@ -205,6 +201,19 @@
     "img": "eb66650d-3827-4bf2-9533-d4ac550d2ee3",
     "nombre": "disney0032c5",
     "status": "14:30",
+    "duration": 180,
+    "play_url": "https://www.disneyplus.com/es-es/play/69f2e302-e9a9-4968-9424-21ee99ceb5bf",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1758483729~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F20%2FJames_Madison_vs_Liberty_20250920_1758389424024%2F~psid=cfef1795-2fb9-410a-9493-ec69c8b9571f~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=a45b5d99756d2ba3fd032f4e1741418d9d330b7ca24e0c6fed7d58e1afdfa80c/clt1/va02/disneyplus/event/2025/09/20/James_Madison_vs_Liberty_20250920_1758389424024/ctr-all-hdri-complete.m3u8?v=1&hash=81a8877d2ab8469a72b502a8595154f9f55ef791",
+    "k1": "6d4a925edce34aa3a47d065268e92e35",
+    "k2": "6edc64ac9bdd8e421bbe63c07a86f0cc"
+  },
+  {
+    "title": "2025 Laver Cup (Day #2)",
+    "league": "ESPN",
+    "fecha-evento": "2025-09-20T15:00:00-05:00",
+    "img": "640f3cd3-2e5d-4bf1-99fd-7f95cdc396d1",
+    "nombre": "disney37d508",
+    "status": "15:00",
     "duration": 135,
     "play_url": ""
   },
@@ -214,16 +223,6 @@
     "fecha-evento": "2025-09-20T15:00:00-05:00",
     "img": "cf57c46b-7a9b-4a3d-9573-aaa24c67ce0a",
     "nombre": "disneyc6d693",
-    "status": "15:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "2025 Laver Cup (Day #2)",
-    "league": "ESPN",
-    "fecha-evento": "2025-09-20T15:00:00-05:00",
-    "img": "640f3cd3-2e5d-4bf1-99fd-7f95cdc396d1",
-    "nombre": "disney37d508",
     "status": "15:00",
     "duration": 135,
     "play_url": ""
@@ -449,21 +448,21 @@
     "play_url": ""
   },
   {
-    "title": "Atlético Tucumán vs. River Plate",
-    "league": "Liga Profesional de Fútbol",
-    "fecha-evento": "2025-09-20T19:00:00-05:00",
-    "img": "bc8adbad-61a2-464e-b056-44743c1a47b1",
-    "nombre": "disney563de8",
-    "status": "19:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Sam Houston vs. #8 Texas",
     "league": "Fútbol Americano NCAA",
     "fecha-evento": "2025-09-20T19:00:00-05:00",
     "img": "227d568d-1dfc-4482-8711-4af13e6a6155",
     "nombre": "disneyd53ea4",
+    "status": "19:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Atlético Tucumán vs. River Plate",
+    "league": "Liga Profesional de Fútbol",
+    "fecha-evento": "2025-09-20T19:00:00-05:00",
+    "img": "bc8adbad-61a2-464e-b056-44743c1a47b1",
+    "nombre": "disney563de8",
     "status": "19:00",
     "duration": 135,
     "play_url": ""
@@ -665,6 +664,16 @@
     "img": "029109f8-3b55-41af-b1d8-21668982b2e2",
     "nombre": "disney899409",
     "status": "04:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Lazio vs. Roma",
+    "league": "Seria A",
+    "fecha-evento": "2025-09-21T05:15:00-05:00",
+    "img": "5aad6c63-9a89-4541-b297-d3bdc8f84135",
+    "nombre": "disney3f998b",
+    "status": "05:15",
     "duration": 135,
     "play_url": ""
   }
