@@ -130,19 +130,6 @@
     "k2": "d9792e348fb0b7a1756227afccc6e8de"
   },
   {
-    "title": "NC State vs. VCU",
-    "league": "NCAA Women's Volleyball",
-    "fecha-evento": "2025-09-20T17:00:00-05:00",
-    "img": "1499cc76-cc33-4c03-87f2-722154900c3d",
-    "nombre": "disneyc64fbf",
-    "status": "17:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/19c6b14a-19fe-4f8c-97b3-fbe3a207dee0",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1758492061~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F20%2FNC_State_vs_VCU_20250920_1758398422032%2F~psid=53bdab36-399d-450e-a196-cb6f4444146f~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=a889de5da101698cf44c439b803b5c23bd4386871388551f99b7daf78393f91e/clt1/va02/disneyplus/event/2025/09/20/NC_State_vs_VCU_20250920_1758398422032/ctr-all-hdri-complete.m3u8?v=1&hash=36878892f1cefc4fdf7ca6995b434681a6567e97",
-    "k1": "dd1ec9fe1eff42e2b547748d6bf0d205",
-    "k2": "f7eff04f5dec88535c4e05f16ccccac3"
-  },
-  {
     "title": "Richmond Kickers vs. Charlotte Independence",
     "league": "USL League One",
     "fecha-evento": "2025-09-20T17:00:00-05:00",
@@ -154,6 +141,19 @@
     "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1758492105~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F20%2FRichmond_Kickers_vs_Charl_20250920_1758398421025%2F~psid=3e2c3349-9546-46eb-ab28-ce4648c22c24~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=7e10a33c96127cc5454dce69dd0f5c3d84b23bc2560d95f24a22542fc83fd3c3/clt1/va02/disneyplus/event/2025/09/20/Richmond_Kickers_vs_Charl_20250920_1758398421025/ctr-all-hdri-complete.m3u8?v=1&hash=ecb0a02e91dfbe97ba2ec556b515b9988d0f2e6c",
     "k1": "625749f9f2154158b552f540972ce080",
     "k2": "80670b9a5fb20d51396b213c420bcd2c"
+  },
+  {
+    "title": "NC State vs. VCU",
+    "league": "NCAA Women's Volleyball",
+    "fecha-evento": "2025-09-20T17:00:00-05:00",
+    "img": "1499cc76-cc33-4c03-87f2-722154900c3d",
+    "nombre": "disneyc64fbf",
+    "status": "17:00",
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/19c6b14a-19fe-4f8c-97b3-fbe3a207dee0",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1758492061~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F20%2FNC_State_vs_VCU_20250920_1758398422032%2F~psid=53bdab36-399d-450e-a196-cb6f4444146f~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=a889de5da101698cf44c439b803b5c23bd4386871388551f99b7daf78393f91e/clt1/va02/disneyplus/event/2025/09/20/NC_State_vs_VCU_20250920_1758398422032/ctr-all-hdri-complete.m3u8?v=1&hash=36878892f1cefc4fdf7ca6995b434681a6567e97",
+    "k1": "dd1ec9fe1eff42e2b547748d6bf0d205",
+    "k2": "f7eff04f5dec88535c4e05f16ccccac3"
   },
   {
     "title": "Tonga vs. Canadá (Tercer Puesto)",
@@ -186,16 +186,6 @@
     "play_url": ""
   },
   {
-    "title": "Detroit City FC vs. Lexington Sporting Club",
-    "league": "USL Championship",
-    "fecha-evento": "2025-09-20T18:00:00-05:00",
-    "img": "e1d45c02-e1eb-4b02-895d-b0aa15f12ff6",
-    "nombre": "disneya4568b",
-    "status": "18:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Greenville Triumph SC vs. Forward Madison",
     "league": "USL League One",
     "fecha-evento": "2025-09-20T18:00:00-05:00",
@@ -206,11 +196,11 @@
     "play_url": ""
   },
   {
-    "title": "St. Louis Blues vs. Dallas Stars",
-    "league": "National Hockey League",
+    "title": "Detroit City FC vs. Lexington Sporting Club",
+    "league": "USL Championship",
     "fecha-evento": "2025-09-20T18:00:00-05:00",
-    "img": "1fd24b8d-7a1a-44e1-869e-26e7bae240f8",
-    "nombre": "disney2a18e8",
+    "img": "e1d45c02-e1eb-4b02-895d-b0aa15f12ff6",
+    "nombre": "disneya4568b",
     "status": "18:00",
     "duration": 135,
     "play_url": ""
@@ -226,6 +216,16 @@
     "play_url": ""
   },
   {
+    "title": "St. Louis Blues vs. Dallas Stars",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-09-20T18:00:00-05:00",
+    "img": "1fd24b8d-7a1a-44e1-869e-26e7bae240f8",
+    "nombre": "disney2a18e8",
+    "status": "18:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
     "title": "BYU vs. East Carolina",
     "league": "Fútbol Americano NCAA",
     "fecha-evento": "2025-09-20T18:30:00-05:00",
@@ -236,11 +236,11 @@
     "play_url": ""
   },
   {
-    "title": "Florida vs. #4 Miami",
+    "title": "En Español-Florida vs. #4 Miami",
     "league": "Fútbol Americano NCAA",
     "fecha-evento": "2025-09-20T18:30:00-05:00",
     "img": "068a2cc3-f43c-4dec-a9ca-2dac349b96cd",
-    "nombre": "disney60975e",
+    "nombre": "disney312bf5",
     "status": "18:30",
     "duration": 135,
     "play_url": ""
@@ -376,11 +376,11 @@
     "play_url": ""
   },
   {
-    "title": "Wyoming vs. Colorado",
+    "title": "En Español-Wyoming vs. Colorado",
     "league": "Fútbol Americano NCAA",
     "fecha-evento": "2025-09-20T21:15:00-05:00",
     "img": "6334e58b-2312-41b2-bda8-b45e535b18fd",
-    "nombre": "disney29a6d7",
+    "nombre": "disney3802d9",
     "status": "21:15",
     "duration": 135,
     "play_url": ""
@@ -566,21 +566,21 @@
     "play_url": ""
   },
   {
-    "title": "F1 GP Azerbaiyán, carrera | Cámara On Board",
-    "league": "Fórmula 1",
-    "fecha-evento": "2025-09-21T06:00:00-05:00",
-    "img": "dca1dbd2-127c-42e4-8fae-6ec703fc69c4",
-    "nombre": "disneyc3417f",
-    "status": "06:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "F1 GP Azerbaiyán, carrera | On Board Colapinto",
     "league": "Fórmula 1",
     "fecha-evento": "2025-09-21T06:00:00-05:00",
     "img": "4b60b11d-1da7-497d-aa8f-66e3d2347f1f",
     "nombre": "disney67bf18",
+    "status": "06:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "F1 GP Azerbaiyán, carrera | Cámara On Board",
+    "league": "Fórmula 1",
+    "fecha-evento": "2025-09-21T06:00:00-05:00",
+    "img": "dca1dbd2-127c-42e4-8fae-6ec703fc69c4",
+    "nombre": "disneyc3417f",
     "status": "06:00",
     "duration": 135,
     "play_url": ""
