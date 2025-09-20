@@ -58,8 +58,11 @@
     "img": "1707d555-e69f-42c3-a91b-beffb9e8e072",
     "nombre": "disney73938b",
     "status": "20:30",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/ceddb268-1654-470c-ae1c-1410855da8de",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1758418818~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F20%2FHawaii_vs_4_Stanford_20250920_1758324628027%2F~psid=b9efd139-9f86-4a45-804e-f37f5267b58c~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=f98a0789648082b3895a7f0a01404c284282865eaf967384512f76be24e0c3de/clt1/va02/disneyplus/event/2025/09/20/Hawaii_vs_4_Stanford_20250920_1758324628027/ctr-all-hdri-complete.m3u8?v=1&hash=b4a419fffdb3f9cf6fd6b5a7e6af0e82ac2547cb",
+    "k1": "a3cee569e7f14c9da3276dc2e8a443eb",
+    "k2": "72b31a7c910e8f6fe3003838312be5ae"
   },
   {
     "title": "Flavio Cobolli vs. Joao Fonseca (Day #1)",
@@ -192,21 +195,21 @@
     "play_url": ""
   },
   {
-    "title": "F1 GP Azerbaiyán, práctica #3 | On Board Colapinto",
-    "league": "Fórmula 1",
-    "fecha-evento": "2025-09-20T03:30:00-05:00",
-    "img": "090f8285-3822-4d40-950f-b505497d700b",
-    "nombre": "disneydd5681",
-    "status": "03:30",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "F1 GP Azerbaiyán, práctica #3 | On Board Verstappen",
     "league": "Fórmula 1",
     "fecha-evento": "2025-09-20T03:30:00-05:00",
     "img": "ce73aae9-b9e7-4a81-9898-dcb955c44a59",
     "nombre": "disneya05bd3",
+    "status": "03:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "F1 GP Azerbaiyán, práctica #3 | On Board Colapinto",
+    "league": "Fórmula 1",
+    "fecha-evento": "2025-09-20T03:30:00-05:00",
+    "img": "090f8285-3822-4d40-950f-b505497d700b",
+    "nombre": "disneydd5681",
     "status": "03:30",
     "duration": 135,
     "play_url": ""
@@ -252,21 +255,21 @@
     "play_url": ""
   },
   {
-    "title": "Eintracht Braunschweig vs. SV Elversberg",
-    "league": "Bundesliga 2 de Alemania",
-    "fecha-evento": "2025-09-20T05:55:00-05:00",
-    "img": "34f8692f-9009-4483-8f7f-fbc1431b8602",
-    "nombre": "disneyc3244d",
-    "status": "05:55",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Hertha BSC vs. SC Paderborn 07",
     "league": "Bundesliga 2 de Alemania",
     "fecha-evento": "2025-09-20T05:55:00-05:00",
     "img": "e9ae2afd-cf8b-4d6f-b30e-a9c66123d428",
     "nombre": "disney6ce8a7",
+    "status": "05:55",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Eintracht Braunschweig vs. SV Elversberg",
+    "league": "Bundesliga 2 de Alemania",
+    "fecha-evento": "2025-09-20T05:55:00-05:00",
+    "img": "34f8692f-9009-4483-8f7f-fbc1431b8602",
+    "nombre": "disneyc3244d",
     "status": "05:55",
     "duration": 135,
     "play_url": ""
@@ -532,21 +535,21 @@
     "play_url": ""
   },
   {
-    "title": "UNLV vs. Miami (OH)",
-    "league": "Fútbol Americano NCAA",
-    "fecha-evento": "2025-09-20T11:00:00-05:00",
-    "img": "ff91c776-a498-402c-ab6b-563f25682806",
-    "nombre": "disneyaf2ebc",
-    "status": "11:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Syracuse vs. Clemson",
     "league": "Fútbol Americano NCAA",
     "fecha-evento": "2025-09-20T11:00:00-05:00",
     "img": "d806e0e3-07b2-4789-8511-154cc8b6e838",
     "nombre": "disneydc5d82",
+    "status": "11:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "UNLV vs. Miami (OH)",
+    "league": "Fútbol Americano NCAA",
+    "fecha-evento": "2025-09-20T11:00:00-05:00",
+    "img": "ff91c776-a498-402c-ab6b-563f25682806",
+    "nombre": "disneyaf2ebc",
     "status": "11:00",
     "duration": 135,
     "play_url": ""
