@@ -52,24 +52,17 @@
     "k2": "588dc891c72cedd121201ffc1161538e"
   },
   {
-    "title": "Compacto | F1 GP Azerbaiyán | Práctica 3 (3 min)",
-    "league": "Fórmula 1",
-    "fecha-evento": "2025-09-20T05:00:00-05:00",
-    "img": "32b10095-0c9b-4020-9b25-5a26f29a0e4b",
-    "nombre": "disneyee1de0",
-    "status": "05:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "F2 - GP Azerbaiyán - Carrera #01",
     "league": "Fórmula 2",
-    "fecha-evento": "2025-09-20T05:05:00-05:00",
+    "fecha-evento": "2025-09-20T05:05:03-05:00",
     "img": "44381fea-289a-43e7-92a9-7f08848071aa",
-    "nombre": "disney21d12c",
+    "nombre": "disney851885",
     "status": "05:05",
-    "duration": 135,
-    "play_url": ""
+    "duration": 70,
+    "play_url": "https://www.disneyplus.com/es-es/play/56c2a9a2-3fbc-4951-a94c-1907ec854094",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1758450019~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F20%2FF2_GP_Azerbaiyn_Carrera_0_20250920_1758355531041%2F~psid=52120643-5af0-456b-85c9-c5a8e13619cc~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=c733f5964fe1677501e75ad117167c6fb098480c174c06efefc35bd263e13f09/clt1/va02/disneyplus/event/2025/09/20/F2_GP_Azerbaiyn_Carrera_0_20250920_1758355531041/ctr-all-hdri-complete.m3u8?v=1&hash=6c5a025f9e352e603603f3f133903d1bf5c32f0c",
+    "k1": "7ba9f5e65f864b9ba9a446d1dafbe071",
+    "k2": "be94ce3363b55090eeca6da2bfb7e3ea"
   },
   {
     "title": "1. FC Magdeburg vs. FC Schalke 04",
@@ -82,21 +75,21 @@
     "play_url": ""
   },
   {
-    "title": "Eintracht Braunschweig vs. SV Elversberg",
-    "league": "Bundesliga 2 de Alemania",
-    "fecha-evento": "2025-09-20T05:55:00-05:00",
-    "img": "34f8692f-9009-4483-8f7f-fbc1431b8602",
-    "nombre": "disneyc3244d",
-    "status": "05:55",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Hertha BSC vs. SC Paderborn 07",
     "league": "Bundesliga 2 de Alemania",
     "fecha-evento": "2025-09-20T05:55:00-05:00",
     "img": "e9ae2afd-cf8b-4d6f-b30e-a9c66123d428",
     "nombre": "disney6ce8a7",
+    "status": "05:55",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Eintracht Braunschweig vs. SV Elversberg",
+    "league": "Bundesliga 2 de Alemania",
+    "fecha-evento": "2025-09-20T05:55:00-05:00",
+    "img": "34f8692f-9009-4483-8f7f-fbc1431b8602",
+    "nombre": "disneyc3244d",
     "status": "05:55",
     "duration": 135,
     "play_url": ""
@@ -637,6 +630,16 @@
     "fecha-evento": "2025-09-20T16:00:00-05:00",
     "img": "02cf5273-110c-4927-a25a-824c3f10b01c",
     "nombre": "disney7399be",
+    "status": "16:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Lexington Sporting Club vs. Spokane Zephyr",
+    "league": "USL Super League",
+    "fecha-evento": "2025-09-20T16:00:00-05:00",
+    "img": "da89cade-5742-4600-a67a-37bf7705805f",
+    "nombre": "disney6be4d1",
     "status": "16:00",
     "duration": 135,
     "play_url": ""
