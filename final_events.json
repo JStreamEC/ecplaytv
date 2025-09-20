@@ -162,28 +162,24 @@
     "img": "044f011d-68af-46fa-a14d-460021db4668",
     "nombre": "disneyc9ba2e",
     "status": "07:50",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Bologna vs. Genoa",
-    "league": "Seria A",
-    "fecha-evento": "2025-09-20T07:50:00-05:00",
-    "img": "044f011d-68af-46fa-a14d-460021db4668",
-    "nombre": "disneyc9ba2e",
-    "status": "07:50",
-    "duration": 135,
-    "play_url": ""
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/eea86ecd-3522-4024-b64f-f2e26a8f2ce3",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1758459620~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F20%2FBologna_vs_Genoa_20250920_1758365452028%2F~psid=a5f1c592-e091-484b-a021-b0b91e36c7c9~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=c67f26255c45643e20e3219fe45115e3bf562a4dcc1d21c659a6c25cc1c84d91/clt1/va02/disneyplus/event/2025/09/20/Bologna_vs_Genoa_20250920_1758365452028/ctr-all-hdri-complete.m3u8?v=1&hash=718b8355a620538c39bddc8d4d85e0efb004dcf2",
+    "k1": "aefb1da258554050a5af82ae1f82c4ed",
+    "k2": "771a7b8c073cda4f324fa85161f2c9be"
   },
   {
     "title": "Lions vs. Griquas (Final)",
     "league": "Currie Cup",
-    "fecha-evento": "2025-09-20T07:55:00-05:00",
+    "fecha-evento": "2025-09-20T07:50:05-05:00",
     "img": "52bb3b2b-1b96-4aaf-963b-bc88a201e32c",
-    "nombre": "disney90ee6b",
-    "status": "07:55",
-    "duration": 135,
-    "play_url": ""
+    "nombre": "disney736d20",
+    "status": "07:50",
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/c6c58875-6537-4669-b3d2-f5f300e17469",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1758459664~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F20%2FLions_vs_Griquas_Final_20250920_1758365748028%2F~psid=018e7894-4833-464c-9d1d-4a7354253ec3~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=d11f69e34d9727e50786810f71334eb02c1f29537c9df26037b1e7e5dc98ebd0/clt1/va02/disneyplus/event/2025/09/20/Lions_vs_Griquas_Final_20250920_1758365748028/ctr-all-hdri-complete.m3u8?v=1&hash=236efbe360764040d824aeb34cc74591166f9e9f",
+    "k1": "75a923eccd024ae3907a8a40eeafa86d",
+    "k2": "b767cbecb6cbb62ccf66acae5bc4f30b"
   },
   {
     "title": "Werder Bremen vs. Freiburg",
@@ -356,21 +352,21 @@
     "play_url": ""
   },
   {
-    "title": "SMU vs. TCU",
-    "league": "Fútbol Americano NCAA",
-    "fecha-evento": "2025-09-20T11:00:00-05:00",
-    "img": "5201c01e-fce4-4578-b007-3ad8f0763583",
-    "nombre": "disneybe6fd5",
-    "status": "11:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Arkansas vs. Memphis",
     "league": "Fútbol Americano NCAA",
     "fecha-evento": "2025-09-20T11:00:00-05:00",
     "img": "5eb40bc6-1c76-4468-8cd0-09a572b45d66",
     "nombre": "disneyd13a49",
+    "status": "11:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "SMU vs. TCU",
+    "league": "Fútbol Americano NCAA",
+    "fecha-evento": "2025-09-20T11:00:00-05:00",
+    "img": "5201c01e-fce4-4578-b007-3ad8f0763583",
+    "nombre": "disneybe6fd5",
     "status": "11:00",
     "duration": 135,
     "play_url": ""
