@@ -1,18 +1,5 @@
 [
   {
-    "title": "France vs. Inglaterra (Semifinal)",
-    "league": "Mundial de Rugby femenino",
-    "fecha-evento": "2025-09-20T09:20:00-05:00",
-    "img": "0f0275d9-46d9-477c-8150-302908525a26",
-    "nombre": "disney67de77",
-    "status": "09:20",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/6a3defb5-cedd-4ee9-913d-a4d1e1e3272d",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1758464418~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F20%2FFrance_vs_Inglaterra_Semi_20250920_1758370801028%2F~psid=d76ff1d7-3e7c-40b2-a7f1-31a85b8d43b4~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=73a2dc8524c6261e33466a261040db2ca7f0efa988327bcb0a87659411b789a1/clt1/va02/disneyplus/event/2025/09/20/France_vs_Inglaterra_Semi_20250920_1758370801028/ctr-all-hdri-complete.m3u8?v=1&hash=f1819b4b21588add5f4edde097454f64ae5777e3",
-    "k1": "ed9d97c898f341479d8ea2f0f2bd7f0a",
-    "k2": "bb4892b936aa0b6d58fbec88d2067fe5"
-  },
-  {
     "title": "Nantes vs. Rennes",
     "league": "Ligue 1",
     "fecha-evento": "2025-09-20T09:40:13-05:00",
@@ -65,19 +52,6 @@
     "k2": "35ce147c396195e3db5fd135a1e69895"
   },
   {
-    "title": "Mount St. Mary's vs. Quinnipiac",
-    "league": "Fútbol Femenino NCAA",
-    "fecha-evento": "2025-09-20T11:00:00-05:00",
-    "img": "0028b940-96a0-4e12-9f9f-427091fb647d",
-    "nombre": "disneye08025",
-    "status": "11:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/a0cc5501-3e87-4c4b-aa9c-8b1fd00e7385",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1758471661~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F20%2FMount_St_Marys_vs_Quinnip_20250920_1758376819030%2F~psid=3fca3d0e-2ca2-4a9f-a3c2-e03794d75e96~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=8e5a00933cdd8741f78c6ef0fddbc23d393497a52fc869d0afd29ef7103d344c/clt1/va02/disneyplus/event/2025/09/20/Mount_St_Marys_vs_Quinnip_20250920_1758376819030/ctr-all-hdri-complete.m3u8?v=1&hash=cb8293b047c3f1a5d68169ab8faaf03690ae9796",
-    "k1": "c11f8c7ffb4b497ca0bcc705da70d000",
-    "k2": "b7b981ffff2b45e1601502543dc7647d"
-  },
-  {
     "title": "SMU vs. TCU",
     "league": "Fútbol Americano NCAA",
     "fecha-evento": "2025-09-20T11:00:01-05:00",
@@ -117,6 +91,19 @@
     "k2": "fb615661100d1deed9e9c83ddaed7920"
   },
   {
+    "title": "Mount St. Mary's vs. Quinnipiac",
+    "league": "Fútbol Femenino NCAA",
+    "fecha-evento": "2025-09-20T11:00:00-05:00",
+    "img": "0028b940-96a0-4e12-9f9f-427091fb647d",
+    "nombre": "disneye08025",
+    "status": "11:00",
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/a0cc5501-3e87-4c4b-aa9c-8b1fd00e7385",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1758471661~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F20%2FMount_St_Marys_vs_Quinnip_20250920_1758376819030%2F~psid=3fca3d0e-2ca2-4a9f-a3c2-e03794d75e96~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=8e5a00933cdd8741f78c6ef0fddbc23d393497a52fc869d0afd29ef7103d344c/clt1/va02/disneyplus/event/2025/09/20/Mount_St_Marys_vs_Quinnip_20250920_1758376819030/ctr-all-hdri-complete.m3u8?v=1&hash=cb8293b047c3f1a5d68169ab8faaf03690ae9796",
+    "k1": "c11f8c7ffb4b497ca0bcc705da70d000",
+    "k2": "b7b981ffff2b45e1601502543dc7647d"
+  },
+  {
     "title": "Manchester United vs. Chelsea",
     "league": "Premier League",
     "fecha-evento": "2025-09-20T11:15:00-05:00",
@@ -130,34 +117,43 @@
     "k2": "4d59de44a69cc09ec40e773d88fd0f49"
   },
   {
-    "title": "RB Leipzig vs. Koln",
-    "league": "Bundesliga",
-    "fecha-evento": "2025-09-20T11:20:00-05:00",
-    "img": "10fe7b4c-3e58-435f-a24b-73cbc1690b36",
-    "nombre": "disney2daecc",
-    "status": "11:20",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Alavés vs. Sevilla",
     "league": "LALIGA",
     "fecha-evento": "2025-09-20T11:20:00-05:00",
     "img": "5f1ad933-47ae-4cac-adb9-084e59679510",
     "nombre": "disney4314b3",
     "status": "11:20",
-    "duration": 135,
-    "play_url": ""
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/96fcef03-6f86-49ee-9d41-98a8bfd9f0fe",
+    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1758472817~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Ff25bdf06-81c9-4a7c-b128-3128d610ad17-1756223551993%2F~psid=132b7eea-7cd2-4560-bcf0-60d80adc24cd~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=07ddbf5f4578625add068cdfc47e9ecb50398e931b73dbbb08e187d2ff417221/clt1/va02/disneyplus/channel/f25bdf06-81c9-4a7c-b128-3128d610ad17-1756223551993/ctr-all-sliding.m3u8?v=1&hash=aa8d2bb37fafb9b8d31c8b8095cb65f827b67eb8",
+    "k1": "ff050355066b4ddc9d4c37c4c4ae8044",
+    "k2": "c3d6bf70040e76d1f337914734cc9ab6"
+  },
+  {
+    "title": "RB Leipzig vs. Koln",
+    "league": "Bundesliga",
+    "fecha-evento": "2025-09-20T11:20:04-05:00",
+    "img": "10fe7b4c-3e58-435f-a24b-73cbc1690b36",
+    "nombre": "disneya4e115",
+    "status": "11:20",
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/78d443a1-8fe2-4012-9878-0de27e5f4b8b",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1758472861~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F20%2FRB_Leipzig_vs_Koln_20250920_1758378014028%2F~psid=300b5169-aa95-4a4c-87cc-05daf5336824~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=59b1dd3dae56e5d4026547bd7b38301e2c4c32029a6b418e2393b2d61dbb1eb3/clt1/va02/disneyplus/event/2025/09/20/RB_Leipzig_vs_Koln_20250920_1758378014028/ctr-all-hdri-complete.m3u8?v=1&hash=346dad5c2f691513934a746a9446a3ea54b4e3e5",
+    "k1": "d4112ecd816b4c4c8b21908d2f18626a",
+    "k2": "d747d58a9a938afc073154564179cc34"
   },
   {
     "title": "FC Andorra vs. Mirandés",
     "league": "Segunda División de España",
-    "fecha-evento": "2025-09-20T11:25:00-05:00",
+    "fecha-evento": "2025-09-20T11:25:04-05:00",
     "img": "6589e46a-366d-4dcb-a81d-fa8bd3ecd6e9",
-    "nombre": "disneyd1a584",
+    "nombre": "disney985dcf",
     "status": "11:25",
-    "duration": 135,
-    "play_url": ""
+    "duration": 125,
+    "play_url": "https://www.disneyplus.com/es-es/play/0a7e1968-4c49-4cbb-ae30-ba74e75ad414",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1758472905~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F20%2FFC_Andorra_vs_Mirands_20250920_1758378303026%2F~psid=c9266fa8-b3cf-41f6-8afe-22c31cb00fe3~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=84da78c1151b12d499077420935f0353afea460f526c09e12825fc28cb87fd63/clt1/va02/disneyplus/event/2025/09/20/FC_Andorra_vs_Mirands_20250920_1758378303026/ctr-all-hdri-complete.m3u8?v=1&hash=296d94c79fd8ef9409bbb2bc9c0a7e37ec695d19",
+    "k1": "027668d8de404e7fab44661f3141a89d",
+    "k2": "e5079e94876fa968cbc15702330ba14b"
   },
   {
     "title": "UAB vs. #15 Tennessee",
@@ -655,6 +651,16 @@
     "fecha-evento": "2025-09-20T21:00:00-05:00",
     "img": "cae08cad-49b4-4758-b302-5f7323d3654e",
     "nombre": "disneycdfa05",
+    "status": "21:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Otago Spirit vs. Northland Women (Final)",
+    "league": "Farah Palmer Cup",
+    "fecha-evento": "2025-09-20T21:00:00-05:00",
+    "img": "053aaa4d-33a9-4beb-a5aa-129629afbaa5",
+    "nombre": "disney0480a4",
     "status": "21:00",
     "duration": 135,
     "play_url": ""
