@@ -1,31 +1,5 @@
 [
   {
-    "title": "Arkansas vs. Memphis",
-    "league": "Fútbol Americano NCAA",
-    "fecha-evento": "2025-09-20T11:00:00-05:00",
-    "img": "5eb40bc6-1c76-4468-8cd0-09a572b45d66",
-    "nombre": "disneyd13a49",
-    "status": "11:00",
-    "duration": 180,
-    "play_url": "https://www.disneyplus.com/es-es/play/8a5531f9-976e-40e2-8c8d-6f057af88c7a",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1758471618~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F20%2FArkansas_vs_Memphis_20250920_1758376813026%2F~psid=12b9be32-b4a8-4d1d-afa1-cd5715797c74~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=48175faa75cdd5040750f307172111c66c95aedd992e109f6ecc7ff56dc94ac0/clt1/va02/disneyplus/event/2025/09/20/Arkansas_vs_Memphis_20250920_1758376813026/ctr-all-hdri-complete.m3u8?v=1&hash=3585daa74bc51c1194947bbada2f714b038183ec",
-    "k1": "a6ea9effcf964863a4d3e0a8f443b13e",
-    "k2": "35ce147c396195e3db5fd135a1e69895"
-  },
-  {
-    "title": "UNLV vs. Miami (OH)",
-    "league": "Fútbol Americano NCAA",
-    "fecha-evento": "2025-09-20T11:05:07-05:00",
-    "img": "ff91c776-a498-402c-ab6b-563f25682806",
-    "nombre": "disneya9903d",
-    "status": "11:05",
-    "duration": 175,
-    "play_url": "https://www.disneyplus.com/es-es/play/8171f4f8-3af6-4cc2-8b09-b19cb69faaa8",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1758471728~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F20%2FUNLV_vs_Miami_OH_20250920_1758379062999%2F~psid=22193ad7-2e56-4338-afd4-a4c4fdc4142d~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=97f915daf159d0e1dcfbf377a0369a1c78f8aa32c1490d6115de98eb9c5cb930/clt1/va02/disneyplus/event/2025/09/20/UNLV_vs_Miami_OH_20250920_1758379062999/ctr-all-hdri-complete.m3u8?v=1&hash=831197431f539e74b51253a4da5cee7b3856ee70",
-    "k1": "6b756e41d9024f4f8c48cd2c66c9228a",
-    "k2": "bb9e763fdcf0e6982783246c3573cdd4"
-  },
-  {
     "title": "Syracuse vs. Clemson",
     "league": "Fútbol Americano NCAA",
     "fecha-evento": "2025-09-20T11:05:03-05:00",
@@ -156,6 +130,19 @@
     "k2": "e01059ef7f869942edb58e52f83548bc"
   },
   {
+    "title": "James Madison vs. Liberty",
+    "league": "Fútbol Americano NCAA",
+    "fecha-evento": "2025-09-20T14:30:00-05:00",
+    "img": "eb66650d-3827-4bf2-9533-d4ac550d2ee3",
+    "nombre": "disney0032c5",
+    "status": "14:30",
+    "duration": 180,
+    "play_url": "https://www.disneyplus.com/es-es/play/69f2e302-e9a9-4968-9424-21ee99ceb5bf",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1758483729~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F20%2FJames_Madison_vs_Liberty_20250920_1758389424024%2F~psid=cfef1795-2fb9-410a-9493-ec69c8b9571f~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=a45b5d99756d2ba3fd032f4e1741418d9d330b7ca24e0c6fed7d58e1afdfa80c/clt1/va02/disneyplus/event/2025/09/20/James_Madison_vs_Liberty_20250920_1758389424024/ctr-all-hdri-complete.m3u8?v=1&hash=81a8877d2ab8469a72b502a8595154f9f55ef791",
+    "k1": "6d4a925edce34aa3a47d065268e92e35",
+    "k2": "6edc64ac9bdd8e421bbe63c07a86f0cc"
+  },
+  {
     "title": "Samoa vs. Chile (Repechaje - Ida)",
     "league": "ESPN",
     "fecha-evento": "2025-09-20T14:25:01-05:00",
@@ -193,19 +180,6 @@
     "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1758483705~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F20%2F22_Auburn_vs_11_Oklahoma_20250920_1758393163079%2F~psid=b8ea02c3-de96-49de-b1e0-7fbc81b9c1a6~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=6edc7ae65f306ca4a87ad4fccb28e9713df9485fa65994340e285fbd1734aa8a/clt1/va02/disneyplus/event/2025/09/20/22_Auburn_vs_11_Oklahoma_20250920_1758393163079/ctr-all-hdri-complete.m3u8?v=1&hash=c9f0e41cd0697aa82405928d9736f159f681b0c7",
     "k1": "0f4dd228262b45508e40d8223eaddbdb",
     "k2": "d906748dd91397918b8a606ac732ae9b"
-  },
-  {
-    "title": "James Madison vs. Liberty",
-    "league": "Fútbol Americano NCAA",
-    "fecha-evento": "2025-09-20T14:30:00-05:00",
-    "img": "eb66650d-3827-4bf2-9533-d4ac550d2ee3",
-    "nombre": "disney0032c5",
-    "status": "14:30",
-    "duration": 180,
-    "play_url": "https://www.disneyplus.com/es-es/play/69f2e302-e9a9-4968-9424-21ee99ceb5bf",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1758483729~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F20%2FJames_Madison_vs_Liberty_20250920_1758389424024%2F~psid=cfef1795-2fb9-410a-9493-ec69c8b9571f~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=a45b5d99756d2ba3fd032f4e1741418d9d330b7ca24e0c6fed7d58e1afdfa80c/clt1/va02/disneyplus/event/2025/09/20/James_Madison_vs_Liberty_20250920_1758389424024/ctr-all-hdri-complete.m3u8?v=1&hash=81a8877d2ab8469a72b502a8595154f9f55ef791",
-    "k1": "6d4a925edce34aa3a47d065268e92e35",
-    "k2": "6edc64ac9bdd8e421bbe63c07a86f0cc"
   },
   {
     "title": "2025 Laver Cup (Day #2)",
@@ -674,6 +648,26 @@
     "img": "5aad6c63-9a89-4541-b297-d3bdc8f84135",
     "nombre": "disney3f998b",
     "status": "05:15",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "FedEx Open de France (Final Round)",
+    "league": "DP World Tour",
+    "fecha-evento": "2025-09-21T05:30:00-05:00",
+    "img": "0903dd40-2412-4d96-9793-720be1b0131d",
+    "nombre": "disney1c3156",
+    "status": "05:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Chelsea vs. Leicester City",
+    "league": "English Women's Super League",
+    "fecha-evento": "2025-09-21T05:55:00-05:00",
+    "img": "4ba24cd8-a3ae-4a3a-8ce1-368854cbbedc",
+    "nombre": "disney4e42e6",
+    "status": "05:55",
     "duration": 135,
     "play_url": ""
   }
