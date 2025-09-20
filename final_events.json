@@ -194,21 +194,21 @@
     "play_url": ""
   },
   {
-    "title": "F1 GP Azerbaiyán, práctica #3 | On Board Colapinto",
-    "league": "Fórmula 1",
-    "fecha-evento": "2025-09-20T03:30:00-05:00",
-    "img": "090f8285-3822-4d40-950f-b505497d700b",
-    "nombre": "disneydd5681",
-    "status": "03:30",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "F1 GP Azerbaiyán, práctica #3 | On Board Verstappen",
     "league": "Fórmula 1",
     "fecha-evento": "2025-09-20T03:30:00-05:00",
     "img": "ce73aae9-b9e7-4a81-9898-dcb955c44a59",
     "nombre": "disneya05bd3",
+    "status": "03:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "F1 GP Azerbaiyán, práctica #3 | On Board Colapinto",
+    "league": "Fórmula 1",
+    "fecha-evento": "2025-09-20T03:30:00-05:00",
+    "img": "090f8285-3822-4d40-950f-b505497d700b",
+    "nombre": "disneydd5681",
     "status": "03:30",
     "duration": 135,
     "play_url": ""
@@ -254,21 +254,21 @@
     "play_url": ""
   },
   {
-    "title": "Eintracht Braunschweig vs. SV Elversberg",
-    "league": "Bundesliga 2 de Alemania",
-    "fecha-evento": "2025-09-20T05:55:00-05:00",
-    "img": "34f8692f-9009-4483-8f7f-fbc1431b8602",
-    "nombre": "disneyc3244d",
-    "status": "05:55",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Hertha BSC vs. SC Paderborn 07",
     "league": "Bundesliga 2 de Alemania",
     "fecha-evento": "2025-09-20T05:55:00-05:00",
     "img": "e9ae2afd-cf8b-4d6f-b30e-a9c66123d428",
     "nombre": "disney6ce8a7",
+    "status": "05:55",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Eintracht Braunschweig vs. SV Elversberg",
+    "league": "Bundesliga 2 de Alemania",
+    "fecha-evento": "2025-09-20T05:55:00-05:00",
+    "img": "34f8692f-9009-4483-8f7f-fbc1431b8602",
+    "nombre": "disneyc3244d",
     "status": "05:55",
     "duration": 135,
     "play_url": ""
@@ -534,16 +534,6 @@
     "play_url": ""
   },
   {
-    "title": "UNLV vs. Miami (OH)",
-    "league": "Fútbol Americano NCAA",
-    "fecha-evento": "2025-09-20T11:00:00-05:00",
-    "img": "ff91c776-a498-402c-ab6b-563f25682806",
-    "nombre": "disneyaf2ebc",
-    "status": "11:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Syracuse vs. Clemson",
     "league": "Fútbol Americano NCAA",
     "fecha-evento": "2025-09-20T11:00:00-05:00",
@@ -554,11 +544,11 @@
     "play_url": ""
   },
   {
-    "title": "Arkansas vs. Memphis",
+    "title": "UNLV vs. Miami (OH)",
     "league": "Fútbol Americano NCAA",
     "fecha-evento": "2025-09-20T11:00:00-05:00",
-    "img": "5eb40bc6-1c76-4468-8cd0-09a572b45d66",
-    "nombre": "disneyd13a49",
+    "img": "ff91c776-a498-402c-ab6b-563f25682806",
+    "nombre": "disneyaf2ebc",
     "status": "11:00",
     "duration": 135,
     "play_url": ""
@@ -569,6 +559,16 @@
     "fecha-evento": "2025-09-20T11:00:00-05:00",
     "img": "5201c01e-fce4-4578-b007-3ad8f0763583",
     "nombre": "disneybe6fd5",
+    "status": "11:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Arkansas vs. Memphis",
+    "league": "Fútbol Americano NCAA",
+    "fecha-evento": "2025-09-20T11:00:00-05:00",
+    "img": "5eb40bc6-1c76-4468-8cd0-09a572b45d66",
+    "nombre": "disneyd13a49",
     "status": "11:00",
     "duration": 135,
     "play_url": ""
