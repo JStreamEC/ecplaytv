@@ -65,45 +65,6 @@
     "k2": "4d59de44a69cc09ec40e773d88fd0f49"
   },
   {
-    "title": "Alavés vs. Sevilla",
-    "league": "LALIGA",
-    "fecha-evento": "2025-09-20T11:20:00-05:00",
-    "img": "5f1ad933-47ae-4cac-adb9-084e59679510",
-    "nombre": "disney4314b3",
-    "status": "11:20",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/96fcef03-6f86-49ee-9d41-98a8bfd9f0fe",
-    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1758472817~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Ff25bdf06-81c9-4a7c-b128-3128d610ad17-1756223551993%2F~psid=132b7eea-7cd2-4560-bcf0-60d80adc24cd~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=07ddbf5f4578625add068cdfc47e9ecb50398e931b73dbbb08e187d2ff417221/clt1/va02/disneyplus/channel/f25bdf06-81c9-4a7c-b128-3128d610ad17-1756223551993/ctr-all-sliding.m3u8?v=1&hash=aa8d2bb37fafb9b8d31c8b8095cb65f827b67eb8",
-    "k1": "ff050355066b4ddc9d4c37c4c4ae8044",
-    "k2": "c3d6bf70040e76d1f337914734cc9ab6"
-  },
-  {
-    "title": "RB Leipzig vs. Koln",
-    "league": "Bundesliga",
-    "fecha-evento": "2025-09-20T11:20:04-05:00",
-    "img": "10fe7b4c-3e58-435f-a24b-73cbc1690b36",
-    "nombre": "disneya4e115",
-    "status": "11:20",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/78d443a1-8fe2-4012-9878-0de27e5f4b8b",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1758472861~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F20%2FRB_Leipzig_vs_Koln_20250920_1758378014028%2F~psid=300b5169-aa95-4a4c-87cc-05daf5336824~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=59b1dd3dae56e5d4026547bd7b38301e2c4c32029a6b418e2393b2d61dbb1eb3/clt1/va02/disneyplus/event/2025/09/20/RB_Leipzig_vs_Koln_20250920_1758378014028/ctr-all-hdri-complete.m3u8?v=1&hash=346dad5c2f691513934a746a9446a3ea54b4e3e5",
-    "k1": "d4112ecd816b4c4c8b21908d2f18626a",
-    "k2": "d747d58a9a938afc073154564179cc34"
-  },
-  {
-    "title": "FC Andorra vs. Mirandés",
-    "league": "Segunda División de España",
-    "fecha-evento": "2025-09-20T11:25:04-05:00",
-    "img": "6589e46a-366d-4dcb-a81d-fa8bd3ecd6e9",
-    "nombre": "disney985dcf",
-    "status": "11:25",
-    "duration": 125,
-    "play_url": "https://www.disneyplus.com/es-es/play/0a7e1968-4c49-4cbb-ae30-ba74e75ad414",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1758472905~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F20%2FFC_Andorra_vs_Mirands_20250920_1758378303026%2F~psid=c9266fa8-b3cf-41f6-8afe-22c31cb00fe3~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=84da78c1151b12d499077420935f0353afea460f526c09e12825fc28cb87fd63/clt1/va02/disneyplus/event/2025/09/20/FC_Andorra_vs_Mirands_20250920_1758378303026/ctr-all-hdri-complete.m3u8?v=1&hash=296d94c79fd8ef9409bbb2bc9c0a7e37ec695d19",
-    "k1": "027668d8de404e7fab44661f3141a89d",
-    "k2": "e5079e94876fa968cbc15702330ba14b"
-  },
-  {
     "title": "UAB vs. #15 Tennessee",
     "league": "Fútbol Americano NCAA",
     "fecha-evento": "2025-09-20T11:45:00-05:00",
@@ -188,18 +149,24 @@
     "img": "a17e790d-c476-41dc-9d4f-b4ad612502d9",
     "nombre": "disney64af35",
     "status": "13:25",
-    "duration": 135,
-    "play_url": ""
+    "duration": 125,
+    "play_url": "https://www.disneyplus.com/es-es/play/f0c6fc10-7780-40fa-9a81-72d527808903",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1758480018~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F20%2F1_FC_Nurnberg_vs_Vfl_Boch_20250920_1758385500046%2F~psid=02b7101a-4406-4d13-9b67-4d80895bef37~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=1e8b0782d09999eb9934d6eb7a571407349b437b3bf8f12cbb4fb7e80256ec55/clt1/va02/disneyplus/event/2025/09/20/1_FC_Nurnberg_vs_Vfl_Boch_20250920_1758385500046/ctr-all-hdri-complete.m3u8?v=1&hash=2e4bbc2ede7dfe9ae2d963ce18296dce14ac85e9",
+    "k1": "533b737c6e394c7aaf15a2061fe3273f",
+    "k2": "b9b01d2098528d88133087a2f7162625"
   },
   {
     "title": "Udinese vs. Milan",
     "league": "Seria A",
-    "fecha-evento": "2025-09-20T13:30:00-05:00",
+    "fecha-evento": "2025-09-20T13:39:00-05:00",
     "img": "0ad9c69b-7af7-4df2-8a5b-4cbb32901699",
-    "nombre": "disneyc73d6a",
-    "status": "13:30",
-    "duration": 135,
-    "play_url": ""
+    "nombre": "disneyd46c02",
+    "status": "13:39",
+    "duration": 121,
+    "play_url": "https://www.disneyplus.com/es-es/play/a4a03679-ea07-4b6f-886e-7df8e49e44a8",
+    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1758480061~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F921e1311-bb26-43dd-84a6-9e2284959712-1756222679255%2F~psid=39a2c7cb-5d42-41da-a841-a376398459c7~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=ae0c21d393046f8937dda05d5736372bad09964775f1b2314e13688857669da7/clt1/va02/disneyplus/channel/921e1311-bb26-43dd-84a6-9e2284959712-1756222679255/ctr-all-sliding.m3u8?v=1&hash=c2eebfbadec853d4e3ca4fa1a9f9011e0c7562b2",
+    "k1": "e48f3779baea4ecda67ba0b10e168f58",
+    "k2": "4d59de44a69cc09ec40e773d88fd0f49"
   },
   {
     "title": "Montpellier vs. Stade Toulousain (Ronda #3)",
@@ -235,7 +202,7 @@
     "title": "Samoa vs. Chile (Repechaje - Ida)",
     "league": "ESPN",
     "fecha-evento": "2025-09-20T14:25:00-05:00",
-    "img": "eb3f7b27-aeef-403c-bc23-1816636423ef",
+    "img": "d69b309e-c31c-4479-b91f-241af00f5589",
     "nombre": "disney33b1dd",
     "status": "14:25",
     "duration": 135,
@@ -668,6 +635,36 @@
     "img": "5b3779e7-776c-4cf2-8b8f-f3e17969c8d6",
     "nombre": "disneyfb53da",
     "status": "00:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Korea Open Tennis Championships 2025 Presented by Motiva / Centre Court (Doubles Final)",
+    "league": "WTA",
+    "fecha-evento": "2025-09-21T00:30:00-05:00",
+    "img": "00799296-0f36-4db3-9e3a-adc2d1ad683c",
+    "nombre": "disneyff4b80",
+    "status": "00:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "F2 - GP Azerbaiyán - Carrera #02",
+    "league": "Fórmula 2",
+    "fecha-evento": "2025-09-21T01:50:00-05:00",
+    "img": "47a79ef3-ef49-4edb-94ab-22c2c85ed116",
+    "nombre": "disneyd574f7",
+    "status": "01:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "2025 Berlin Marathon",
+    "league": "ESPN",
+    "fecha-evento": "2025-09-21T02:00:00-05:00",
+    "img": "0455dd34-548f-46ff-a648-152ca5861941",
+    "nombre": "disneyf542c3",
+    "status": "02:00",
     "duration": 135,
     "play_url": ""
   }
