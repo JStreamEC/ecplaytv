@@ -41,12 +41,15 @@
   {
     "title": "Tasman vs. Waikato (Fecha #8)",
     "league": "National Provincial Championship",
-    "fecha-evento": "2025-09-20T02:05:00-05:00",
+    "fecha-evento": "2025-09-20T02:00:07-05:00",
     "img": "5b9cf380-8368-44cd-9bc6-d42c9a714140",
-    "nombre": "disney16ae19",
-    "status": "02:05",
-    "duration": 135,
-    "play_url": ""
+    "nombre": "disney41032e",
+    "status": "02:00",
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/3689b4e5-a5d4-4618-b30c-e55706c17c2c",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1758439218~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F20%2FTasman_vs_Waikato_Fecha_8_20250920_1758344719027%2F~psid=76d204da-8b44-45a6-bfae-e7ffee8a602a~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=194004e51ace550f779b068da66fb7df61dd1fa4810ac246c570c25ef87c8208/clt1/va02/disneyplus/event/2025/09/20/Tasman_vs_Waikato_Fecha_8_20250920_1758344719027/ctr-all-hdri-complete.m3u8?v=1&hash=c1d14f9f9a2527e3daabf1cec105309fe5092687",
+    "k1": "03e431cc26814d8c83f8966121f581d3",
+    "k2": "65ffda6312e3e80a6dd70a648ee1beb3"
   },
   {
     "title": "F1 - GP Azerbaiyán- Prácticas #3",
@@ -69,21 +72,21 @@
     "play_url": ""
   },
   {
-    "title": "F1 GP Azerbaiyán, práctica #3 | On Board Verstappen",
-    "league": "Fórmula 1",
-    "fecha-evento": "2025-09-20T03:30:00-05:00",
-    "img": "ce73aae9-b9e7-4a81-9898-dcb955c44a59",
-    "nombre": "disneya05bd3",
-    "status": "03:30",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "F1 GP Azerbaiyán, práctica #3 | On Board Colapinto",
     "league": "Fórmula 1",
     "fecha-evento": "2025-09-20T03:30:00-05:00",
     "img": "090f8285-3822-4d40-950f-b505497d700b",
     "nombre": "disneydd5681",
+    "status": "03:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "F1 GP Azerbaiyán, práctica #3 | On Board Verstappen",
+    "league": "Fórmula 1",
+    "fecha-evento": "2025-09-20T03:30:00-05:00",
+    "img": "ce73aae9-b9e7-4a81-9898-dcb955c44a59",
+    "nombre": "disneya05bd3",
     "status": "03:30",
     "duration": 135,
     "play_url": ""
@@ -129,21 +132,21 @@
     "play_url": ""
   },
   {
-    "title": "Hertha BSC vs. SC Paderborn 07",
-    "league": "Bundesliga 2 de Alemania",
-    "fecha-evento": "2025-09-20T05:55:00-05:00",
-    "img": "e9ae2afd-cf8b-4d6f-b30e-a9c66123d428",
-    "nombre": "disney6ce8a7",
-    "status": "05:55",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Eintracht Braunschweig vs. SV Elversberg",
     "league": "Bundesliga 2 de Alemania",
     "fecha-evento": "2025-09-20T05:55:00-05:00",
     "img": "34f8692f-9009-4483-8f7f-fbc1431b8602",
     "nombre": "disneyc3244d",
+    "status": "05:55",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Hertha BSC vs. SC Paderborn 07",
+    "league": "Bundesliga 2 de Alemania",
+    "fecha-evento": "2025-09-20T05:55:00-05:00",
+    "img": "e9ae2afd-cf8b-4d6f-b30e-a9c66123d428",
+    "nombre": "disney6ce8a7",
     "status": "05:55",
     "duration": 135,
     "play_url": ""
