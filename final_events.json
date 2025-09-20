@@ -13,32 +13,6 @@
     "k2": "2836d865e94dd57df1f16899e736d083"
   },
   {
-    "title": "Chengdu Open (Second Round)",
-    "league": "ATP",
-    "fecha-evento": "2025-09-20T00:00:00-05:00",
-    "img": "fc221aa5-65db-49ba-87e0-2032892be3bb",
-    "nombre": "disneyec1a79",
-    "status": "00:00",
-    "duration": 360,
-    "play_url": "https://www.disneyplus.com/es-es/play/92cae2b6-0ace-4578-8ee8-4e13000310ba",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1758430817~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F20%2FChengdu_Open_Second_Round_20250920_1758337241027%2F~psid=af20f5c8-aa2e-43fd-b515-9c1f8824b981~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=57552269012fb16fd79579f860b61f3d8cc8face70cbfc6384198541f61d3b3c/clt1/va02/disneyplus/event/2025/09/20/Chengdu_Open_Second_Round_20250920_1758337241027/ctr-all-hdri-complete.m3u8?v=1&hash=18b5bd8342033d997fb141fab749494c91236af6",
-    "k1": "a85d5958eb33428cae25603d9f8505e5",
-    "k2": "4ac67855bdc185adafe7ded264e01a02"
-  },
-  {
-    "title": "Korea Open Tennis Championships 2025 Presented by Motiva / Grandstand (Doubles Semifinals)",
-    "league": "WTA",
-    "fecha-evento": "2025-09-20T01:00:00-05:00",
-    "img": "05341a61-9490-4301-b8fa-38c816261a9b",
-    "nombre": "disney419778",
-    "status": "01:00",
-    "duration": 300,
-    "play_url": "https://www.disneyplus.com/es-es/play/6436c061-4dd2-4132-bd20-945d3ee110f6",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1758435618~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F20%2FKorea_Open_Tennis_Champio_20250920_1758340815032%2F~psid=074a155c-190a-472a-a0fc-4072573153ba~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=cefd898bd43936205e4768385d2a71a110ac3480a8f08ed65b73fcb537aaf7e6/clt1/va02/disneyplus/event/2025/09/20/Korea_Open_Tennis_Champio_20250920_1758340815032/ctr-all-hdri-complete.m3u8?v=1&hash=6c2e6f6a63d2b47e4a3c5985f998b8c4a9841fca",
-    "k1": "43212c9da70d45feb5cf50f59896853b",
-    "k2": "278b7a36141de3b9448d1224aa072eb3"
-  },
-  {
     "title": "1. FC Magdeburg vs. FC Schalke 04",
     "league": "Bundesliga 2 de Alemania",
     "fecha-evento": "2025-09-20T05:50:01-05:00",
@@ -602,21 +576,21 @@
     "play_url": ""
   },
   {
-    "title": "2025 Laver Cup (Day #2)",
-    "league": "ESPN",
-    "fecha-evento": "2025-09-20T15:00:00-05:00",
-    "img": "1f76e0ba-effa-45ae-b472-5e733e5782e8",
-    "nombre": "disney37d508",
-    "status": "15:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "NC State vs. Duke",
     "league": "Fútbol Americano NCAA",
     "fecha-evento": "2025-09-20T15:00:00-05:00",
     "img": "cf57c46b-7a9b-4a3d-9573-aaa24c67ce0a",
     "nombre": "disneyc6d693",
+    "status": "15:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "2025 Laver Cup (Day #2)",
+    "league": "ESPN",
+    "fecha-evento": "2025-09-20T15:00:00-05:00",
+    "img": "1f76e0ba-effa-45ae-b472-5e733e5782e8",
+    "nombre": "disney37d508",
     "status": "15:00",
     "duration": 135,
     "play_url": ""
@@ -668,6 +642,26 @@
     "img": "62f9d595-9058-40c3-8d53-01fe57d7f761",
     "nombre": "disney714b55",
     "status": "16:45",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "NC State vs. VCU",
+    "league": "NCAA Women's Volleyball",
+    "fecha-evento": "2025-09-20T17:00:00-05:00",
+    "img": "1499cc76-cc33-4c03-87f2-722154900c3d",
+    "nombre": "disneyc64fbf",
+    "status": "17:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Richmond Kickers vs. Charlotte Independence",
+    "league": "USL League One",
+    "fecha-evento": "2025-09-20T17:00:00-05:00",
+    "img": "559c40ec-20de-4f23-b2bf-c2d62c20b2bc",
+    "nombre": "disney9fd772",
+    "status": "17:00",
     "duration": 135,
     "play_url": ""
   }
