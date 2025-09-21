@@ -10,32 +10,6 @@
     "play_url": ""
   },
   {
-    "title": "Cerro vs. Miramar Misiones",
-    "league": "Campeonato Uruguayo",
-    "fecha-evento": "2025-09-21T10:45:00-05:00",
-    "img": "8b6a3bd4-1140-404d-9329-a57b9331e06f",
-    "nombre": "disney1b03b0",
-    "status": "10:45",
-    "duration": 135,
-    "play_url": "https://www.disneyplus.com/es-es/play/6df1839f-e582-4ef8-86b0-b6fd8cfcc695",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1758556818~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F21%2FCerro_vs_Miramar_Misiones_20250921_1758462359027%2F~psid=9ac98dc0-bd91-43e6-ad97-c4dbe3401739~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=2315bdfd74c904a2a3a571919afb39a830ee57cc146a9382b79869c50d343e15/clt1/va02/disneyplus/event/2025/09/21/Cerro_vs_Miramar_Misiones_20250921_1758462359027/ctr-all-hdri-complete.m3u8?v=1&hash=291ed6fc8a53b900da5d45199d9f7574f4af0bae",
-    "k1": "418fe79eccc941858fb46cde563ef3f9",
-    "k2": "549f7fc178218e225d35fac2f25bc855"
-  },
-  {
-    "title": "Fiorentina vs. Como",
-    "league": "Seria A",
-    "fecha-evento": "2025-09-21T10:54:33-05:00",
-    "img": "097c2aff-60cf-4c77-86fb-9b6e37920867",
-    "nombre": "disneyc2a953",
-    "status": "10:54",
-    "duration": 125,
-    "play_url": "https://www.disneyplus.com/es-es/play/0c485c82-c985-4bc0-b672-b4c727a65c75",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1758556861~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F21%2FFiorentina_vs_Como_20250921_1758462928035%2F~psid=5ce47236-4049-4c29-b0d6-f0cde2978eca~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=18cae9a7072fd3314e83fa1c8db082b8fb25622c06296c2c905ce48514ef8000/clt1/va02/disneyplus/event/2025/09/21/Fiorentina_vs_Como_20250921_1758462928035/ctr-all-hdri-complete.m3u8?v=1&hash=745c7306123afd88f64701c1eca76e4af1bf2e6e",
-    "k1": "bb31b10577ff4b1e87c459cccd8294cc",
-    "k2": "7e35244052a45bb471923ef1480262d6"
-  },
-  {
     "title": "Elche vs. Oviedo",
     "league": "LALIGA",
     "fecha-evento": "2025-09-21T11:15:00-05:00",
@@ -88,19 +62,6 @@
     "k2": "e94b5706e18ce2e1007ab5e7b2efd276"
   },
   {
-    "title": "Mount St. Mary's vs. Merrimack",
-    "league": "Fútbol Masculino NCAA",
-    "fecha-evento": "2025-09-21T12:00:00-05:00",
-    "img": "0ac3458a-7640-456e-8782-781761eda306",
-    "nombre": "disneyc7e3b6",
-    "status": "12:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/ba205028-d519-453c-89ad-95fce47c0cf5",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1758560505~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F21%2FMount_St_Marys_vs_Merrima_20250921_1758466839026%2F~psid=3301af76-9d96-4979-92ee-62c91acd6994~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=c516180ab7abd9f1edfcf1049fda722e2d1ac93f3a20884e3610aaf15c5818ce/clt1/va02/disneyplus/event/2025/09/21/Mount_St_Marys_vs_Merrima_20250921_1758466839026/ctr-all-hdri-complete.m3u8?v=1&hash=4c5939254a15c999da6fca1956499869c8fce201",
-    "k1": "07d67179607748bc97afa2fa93c9da3a",
-    "k2": "0b2d71591cc25878e45b75a898d0f0b1"
-  },
-  {
     "title": "Denver Broncos vs. Los Angeles Chargers",
     "league": "NFL",
     "fecha-evento": "2025-09-21T12:00:00-05:00",
@@ -127,6 +88,19 @@
     "k2": "ac8204365238e9769aede6658a872827"
   },
   {
+    "title": "Los Angeles Rams vs. Philadelphia Eagles",
+    "league": "NFL",
+    "fecha-evento": "2025-09-21T12:00:00-05:00",
+    "img": "a28b884e-4cc6-41c3-892b-287b3ead4402",
+    "nombre": "disney7aca13",
+    "status": "12:00",
+    "duration": 180,
+    "play_url": "https://www.disneyplus.com/es-es/play/e9d67978-8108-425c-a1f2-5ce1f52d6466",
+    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1758565218~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F7f9052ce-8143-43a6-9656-a8c00c4a3e56-1756223111094%2F~psid=417eaa9b-b418-4c2d-b82e-8bd008efbae0~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=cccc68cbc0912c0518bbd62f200e482ec09f9240f2c169131383e0a9bb7840c5/clt1/va02/disneyplus/channel/7f9052ce-8143-43a6-9656-a8c00c4a3e56-1756223111094/ctr-all-sliding.m3u8?v=1&hash=2f03544b7adaaaa4f23d8a4cd7d7cec9ba48514e",
+    "k1": "47f610298d4e48a1ae5c364ea7a475b2",
+    "k2": "f2caeb83a1090234b5cd52ec2baa7321"
+  },
+  {
     "title": "New York Rangers vs. New Jersey Devils",
     "league": "National Hockey League",
     "fecha-evento": "2025-09-21T12:00:00-05:00",
@@ -138,6 +112,19 @@
     "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1758560552~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F21%2FNew_York_Rangers_vs_New_J_20250921_1758466848026%2F~psid=f0a12890-d1ac-47f6-841f-fc00c6274d12~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=f8839d72c06ee32a3b174ebe2e0cccd7663001a1be0a852805a5d7c7ecbdda97/clt1/va02/disneyplus/event/2025/09/21/New_York_Rangers_vs_New_J_20250921_1758466848026/ctr-all-hdri-complete.m3u8?v=1&hash=d70312682b37dbefc42ac61c7506379fedf77e66",
     "k1": "f5a97c251b9044d38ee5353f79f09d75",
     "k2": "521393910ad8ac1b93ec1782580b5afd"
+  },
+  {
+    "title": "Mount St. Mary's vs. Merrimack",
+    "league": "Fútbol Masculino NCAA",
+    "fecha-evento": "2025-09-21T12:00:00-05:00",
+    "img": "0ac3458a-7640-456e-8782-781761eda306",
+    "nombre": "disneyc7e3b6",
+    "status": "12:00",
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/ba205028-d519-453c-89ad-95fce47c0cf5",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1758560505~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F21%2FMount_St_Marys_vs_Merrima_20250921_1758466839026%2F~psid=3301af76-9d96-4979-92ee-62c91acd6994~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=c516180ab7abd9f1edfcf1049fda722e2d1ac93f3a20884e3610aaf15c5818ce/clt1/va02/disneyplus/event/2025/09/21/Mount_St_Marys_vs_Merrima_20250921_1758466839026/ctr-all-hdri-complete.m3u8?v=1&hash=4c5939254a15c999da6fca1956499869c8fce201",
+    "k1": "07d67179607748bc97afa2fa93c9da3a",
+    "k2": "0b2d71591cc25878e45b75a898d0f0b1"
   },
   {
     "title": "NFL Redzone",
@@ -153,11 +140,11 @@
     "k2": "4d6d5c59a7e4c08c71d08f5ac0d762a5"
   },
   {
-    "title": "Pittsburgh Steelers vs. New England Patriots",
+    "title": "Los Angeles Rams vs. Philadelphia Eagles",
     "league": "NFL",
     "fecha-evento": "2025-09-21T15:00:00-05:00",
-    "img": "f2153dc6-065f-4dda-9e48-e6ed0e0178b9",
-    "nombre": "disney50ccfd",
+    "img": "a28b884e-4cc6-41c3-892b-287b3ead4402",
+    "nombre": "disney1d868c",
     "status": "15:00",
     "duration": 135,
     "play_url": ""
@@ -189,44 +176,56 @@
     "k2": "b3c7da7e5a63e750b92043e87e44abd0"
   },
   {
-    "title": "San Fernando vs. Banco Provincia",
-    "league": "Torneo Metropolitano de Hockey Masculino",
-    "fecha-evento": "2025-09-21T13:00:00-05:00",
-    "img": "23706734-df19-4714-9521-dc0947337489",
-    "nombre": "disneyabcdda",
-    "status": "13:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "#21 Georgia vs. Ole Miss",
     "league": "Fútbol Femenino NCAA",
     "fecha-evento": "2025-09-21T13:00:00-05:00",
     "img": "44df6071-f7a3-4c5e-b0fc-66d6d92a007a",
     "nombre": "disneyeebece",
     "status": "13:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/648a8b69-07c1-4dd2-be6c-7d4c35db7e64",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1758565262~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F21%2F21_Georgia_vs_Ole_Miss_20250921_1758470448024%2F~psid=fc70891c-d222-4534-a81c-367d1b8a9ab7~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=3085bc09b491c3b04542e73f290ec55d09574d072525c617be7dcc60f9f79390/clt1/va02/disneyplus/event/2025/09/21/21_Georgia_vs_Ole_Miss_20250921_1758470448024/ctr-all-hdri-complete.m3u8?v=1&hash=9a71a77c8b2bc37631e176c6976856c5610a445e",
+    "k1": "1feffc26e7704e14b488f81c2809ed02",
+    "k2": "f2dea9b310a2f0c1e77219b9862fc99b"
   },
   {
     "title": "Hawai'i vs. Texas State",
     "league": "NCAA Women's Volleyball",
-    "fecha-evento": "2025-09-21T13:00:00-05:00",
+    "fecha-evento": "2025-09-21T13:00:01-05:00",
     "img": "99855152-a1a0-4d08-b742-8aa866daa745",
-    "nombre": "disneyefe782",
+    "nombre": "disney0c8cc1",
     "status": "13:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/33726170-e5f3-45d2-98f9-ecb7eaf020c0",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1758565306~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F21%2FHawaii_vs_Texas_State_20250921_1758470426027%2F~psid=35d70937-9f5e-45af-86f1-581662a44267~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=b9a4421bff0a8ed5e29ee15aca51c7153b192f771a9416a395140b09ec1c2c5b/clt1/va02/disneyplus/event/2025/09/21/Hawaii_vs_Texas_State_20250921_1758470426027/ctr-all-hdri-complete.m3u8?v=1&hash=d6ec48f07795264ca9d6c069ff5472d7be442bbc",
+    "k1": "b37f6ac047464023b7b7fcdab8963936",
+    "k2": "a2478cb8bbbb07912d0ec0b36cfc2ae6"
+  },
+  {
+    "title": "San Fernando vs. Banco Provincia",
+    "league": "Torneo Metropolitano de Hockey Masculino",
+    "fecha-evento": "2025-09-21T13:02:17-05:00",
+    "img": "23706734-df19-4714-9521-dc0947337489",
+    "nombre": "disney5a6059",
+    "status": "13:02",
+    "duration": 118,
+    "play_url": "https://www.disneyplus.com/es-es/play/50d9c526-8bce-4205-85bb-9b1f3d9ed019",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1758565329~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F21%2FSan_Fernando_vs_Banco_Pro_20250921_1758470444032%2F~psid=960773f9-dc7c-435c-b835-d80bc00f5561~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=3280ba5e7cfc55afacd41ffc660a0d27850757d6a4e5b52867871f87df5c94a6/clt1/va02/disneyplus/event/2025/09/21/San_Fernando_vs_Banco_Pro_20250921_1758470444032/ctr-all-hdri-complete.m3u8?v=1&hash=794970684aaf532a8ebd006e0af0e8b222b828d2",
+    "k1": "cf15264569244bde89fd1da4c703e379",
+    "k2": "a5a00a80835f62da6e8e094ac666de8d"
   },
   {
     "title": "River Plate Uruguay vs. Racing",
     "league": "Campeonato Uruguayo",
-    "fecha-evento": "2025-09-21T13:15:00-05:00",
-    "img": "07886323-05a9-46c7-b68d-1e7e5e5597c1",
-    "nombre": "disney2b2231",
-    "status": "13:15",
+    "fecha-evento": "2025-09-21T13:14:50-05:00",
+    "img": "02280e88-a3f3-45ef-b3a6-a0eaa8dff00c",
+    "nombre": "disney4aca3a",
+    "status": "13:14",
     "duration": 135,
-    "play_url": ""
+    "play_url": "https://www.disneyplus.com/es-es/play/6a02c02a-8e95-4397-8c07-ef61faca81d9",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1758565353~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F21%2FRiver_Plate_Uruguay_vs_Ra_20250921_1758471329033%2F~psid=3fd2085e-63c8-40cf-9ff8-fc547527cbcd~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=7fa761f58d25919bb71b8d4e97ca0a2608209f779cc3a87de1d33bfe71367bc8/clt1/va02/disneyplus/event/2025/09/21/River_Plate_Uruguay_vs_Ra_20250921_1758471329033/ctr-all-hdri-complete.m3u8?v=1&hash=5af58f1fa4674564540785731d06447ad7406a89",
+    "k1": "82b4ce9dbb5b41b28804dd3cff3629e2",
+    "k2": "bd90157238d49532e08b9bae7858115e"
   },
   {
     "title": "Inter vs. Sassuolo",
@@ -479,11 +478,11 @@
     "play_url": ""
   },
   {
-    "title": "Lens vs. Lille",
+    "title": "Olympique Marseille vs. PSG",
     "league": "Ligue 1",
     "fecha-evento": "2025-09-22T12:50:00-05:00",
     "img": "c2353cf9-2721-4cf5-80a4-15225346e85c",
-    "nombre": "disneye2cf5b",
+    "nombre": "disneydc4adb",
     "status": "12:50",
     "duration": 135,
     "play_url": ""
@@ -552,7 +551,7 @@
     "title": "Hangzhou Open (Semifinals)",
     "league": "ATP",
     "fecha-evento": "2025-09-22T06:30:00-05:00",
-    "img": "6ae2e721-5c7f-4792-9890-2228cc756263",
+    "img": "c12143a5-c6a2-4c4a-bd7f-20ee2cf4eee2",
     "nombre": "disneybe4c91",
     "status": "06:30",
     "duration": 135,
@@ -645,6 +644,26 @@
     "img": "e9e8de6b-249b-41b2-9ddc-49fad25b76aa",
     "nombre": "disneyb5c236",
     "status": "20:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "St. Louis Cardinals vs. San Francisco Giants",
+    "league": "MLB",
+    "fecha-evento": "2025-09-22T20:30:00-05:00",
+    "img": "0e20942e-4ee1-4f8a-9d49-a6e46bbb9a63",
+    "nombre": "disneyd8084d",
+    "status": "20:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Utah Mammoth vs. Anaheim Ducks",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-09-22T21:00:00-05:00",
+    "img": "a9f2c68c-73bc-4f32-8d1a-437572bc7961",
+    "nombre": "disney5fa5f1",
+    "status": "21:00",
     "duration": 135,
     "play_url": ""
   }
