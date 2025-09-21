@@ -1,10 +1,10 @@
 [
   {
-    "title": "Oscar Collazo vs. Jayson Vayson | ESPN KO",
+    "title": "Oscar Collazo vs. Jayson Vayson",
     "league": "ESPN",
     "fecha-evento": "2025-09-27T13:00:00-05:00",
     "img": "cc7b4b1a-c744-441d-b1a3-e714ff2e1859",
-    "nombre": "disney01b593",
+    "nombre": "disneyb6cc53",
     "status": "13:00",
     "duration": 135,
     "play_url": ""
@@ -57,19 +57,6 @@
     "status": "05:30",
     "duration": 300,
     "play_url": "https://www.disneyplus.com/es-es/play/dc763104-bbd6-4c1e-903f-bf187e6ef647"
-  },
-  {
-    "title": "Chelsea vs. Leicester City",
-    "league": "English Women's Super League",
-    "fecha-evento": "2025-09-21T05:55:00-05:00",
-    "img": "4ba24cd8-a3ae-4a3a-8ce1-368854cbbedc",
-    "nombre": "disney4e42e6",
-    "status": "05:55",
-    "duration": 125,
-    "play_url": "https://www.disneyplus.com/es-es/play/4a1e21c3-fe30-43dc-b4f0-e63b9577c179",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1758538863~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F21%2FChelsea_vs_Leicester_City_20250921_1758444919024%2F~psid=7a28af02-5001-4b0a-9e40-fbfe39598172~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=da6d2fd813d7caaf93cc0474dc74a11b3c61e8e3ebbcd82b00094f31a40ed18d/clt1/va02/disneyplus/event/2025/09/21/Chelsea_vs_Leicester_City_20250921_1758444919024/ctr-all-hdri-complete.m3u8?v=1&hash=737c5a5d530510a511fc28c449d91ae90a5c52ba",
-    "k1": "b83354ba391a4ca38faabc73a2c4b53b",
-    "k2": "a2b24d2e2296b3c7f03771848b2b6ab8"
   },
   {
     "title": "F1 GP Azerbaiyán, carrera | Cámara On Board",
@@ -201,12 +188,15 @@
   {
     "title": "Progreso vs. Montevideo Wanderers",
     "league": "Campeonato Uruguayo",
-    "fecha-evento": "2025-09-21T08:15:00-05:00",
+    "fecha-evento": "2025-09-21T08:15:04-05:00",
     "img": "9c326722-d7e7-4f20-8dc0-866f8822ce69",
-    "nombre": "disney9710e3",
+    "nombre": "disney7ec239",
     "status": "08:15",
     "duration": 135,
-    "play_url": ""
+    "play_url": "https://www.disneyplus.com/es-es/play/1dbd647a-8e74-4a4f-9f32-a1eabbe83b03",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1758547305~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F21%2FProgreso_vs_Montevideo_Wa_20250921_1758453356031%2F~psid=8a0e90b2-302d-41bf-8c20-683c9263f6ad~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=740655c9974da356f348021eac8e787b452bb5ab02a4d656d435707aae54a894/clt1/va02/disneyplus/event/2025/09/21/Progreso_vs_Montevideo_Wa_20250921_1758453356031/ctr-all-hdri-complete.m3u8?v=1&hash=df4f1c15fe4da033ef288918d27e9b543d0aed5c",
+    "k1": "82b64ff0f252455a80b13378ed64837e",
+    "k2": "ca5ba1f3a2c4b5e6ed7ee7739303531a"
   },
   {
     "title": "Eintracht Frankfurt vs. Union Berlin",
@@ -215,8 +205,11 @@
     "img": "b11313b3-11a4-477b-925c-d9692bcfb788",
     "nombre": "disneyee48da",
     "status": "08:20",
-    "duration": 135,
-    "play_url": ""
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/bd1c10e0-63a5-4f86-82d5-286222556add",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1758547328~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F21%2FEintracht_Frankfurt_vs_Un_20250921_1758456223202%2F~psid=e8c6a032-ad27-4e54-8965-b581f10a631a~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=078cef5124626d3ecf77f8b5b6586a91dd7d6668450ec18961e01f2b9546f126/clt1/va02/disneyplus/event/2025/09/21/Eintracht_Frankfurt_vs_Un_20250921_1758456223202/ctr-all-hdri-complete.m3u8?v=1&hash=271a8d5602819f3eaa9b2a87324a057cc2b30fcb",
+    "k1": "db8f3bcd10204b47bda22e0726d13ce5",
+    "k2": "3e58138f0433747368f3eb990fbef8f1"
   },
   {
     "title": "Manchester United vs. Arsenal",
@@ -664,6 +657,16 @@
     "fecha-evento": "2025-09-21T16:00:00-05:00",
     "img": "ef44b11e-8249-4701-ab75-d237a34ed080",
     "nombre": "disney767678",
+    "status": "16:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Minnesota Wild vs. Winnipeg Jets",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-09-21T16:00:00-05:00",
+    "img": "c24c7a7d-77ae-4b04-9a32-dccfa125646c",
+    "nombre": "disney1dfdfc",
     "status": "16:00",
     "duration": 135,
     "play_url": ""
