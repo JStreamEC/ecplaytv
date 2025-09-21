@@ -590,21 +590,21 @@
     "play_url": ""
   },
   {
-    "title": "Chicago Blackhawks vs. Detroit Red Wings",
-    "league": "National Hockey League",
-    "fecha-evento": "2025-09-23T18:00:00-05:00",
-    "img": "6395b478-5362-41cd-a281-396299e641a0",
-    "nombre": "disneyf882e4",
-    "status": "18:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Philadelphia Flyers vs. Montreal Canadiens",
     "league": "National Hockey League",
     "fecha-evento": "2025-09-23T18:00:00-05:00",
     "img": "4bce37de-1d9d-411c-95c7-609c063faaaf",
     "nombre": "disney9703c0",
+    "status": "18:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Chicago Blackhawks vs. Detroit Red Wings",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-09-23T18:00:00-05:00",
+    "img": "6395b478-5362-41cd-a281-396299e641a0",
+    "nombre": "disneyf882e4",
     "status": "18:00",
     "duration": 135,
     "play_url": ""
@@ -640,11 +640,11 @@
     "play_url": ""
   },
   {
-    "title": "Boston Bruins vs. New York Rangers",
+    "title": "New York Islanders vs. New Jersey Devils",
     "league": "National Hockey League",
     "fecha-evento": "2025-09-23T18:00:00-05:00",
-    "img": "87061e81-fc63-4908-b002-8a7f9ca98bfd",
-    "nombre": "disneyc5f203",
+    "img": "10d0739b-46f6-477b-8fdd-52bd7f07f93e",
+    "nombre": "disney7a1cde",
     "status": "18:00",
     "duration": 135,
     "play_url": ""
