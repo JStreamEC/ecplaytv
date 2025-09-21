@@ -36,19 +36,6 @@
     "k2": "417f85d4de594ba85038b279aa0ab699"
   },
   {
-    "title": "2025 Berlin Marathon",
-    "league": "ESPN",
-    "fecha-evento": "2025-09-21T02:00:00-05:00",
-    "img": "0455dd34-548f-46ff-a648-152ca5861941",
-    "nombre": "disneyf542c3",
-    "status": "02:00",
-    "duration": 195,
-    "play_url": "https://www.disneyplus.com/es-es/play/81012165-152d-427e-9362-776af7e739ba",
-    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1758525618~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Fbbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1758265170869%2F~psid=afaf87e9-9fe0-47c5-858b-7b2442674249~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=2448adbd2f67bd5f984b78b6f120d03f9181749077c5e12d7933d23af2ebfb9f/clt1/va02/disneyplus/channel/bbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1758265170869/ctr-all-sliding.m3u8?v=1&hash=4b44ed5e140524edee19ba7de50a11aef68f9d53",
-    "k1": "d417369e71b14565afa2a95755b06779",
-    "k2": "3d9d08aaf6da13b08d6107f18f39102f"
-  },
-  {
     "title": "Iga Swiatek (POL) vs. Ekaterina Alexandrova (RUS) (Final)",
     "league": "WTA",
     "fecha-evento": "2025-09-21T02:55:10-05:00",
@@ -103,12 +90,12 @@
   {
     "title": "FedEx Open de France (Final Round)",
     "league": "DP World Tour",
-    "fecha-evento": "2025-09-21T05:30:00-05:00",
+    "fecha-evento": "2025-09-21T05:30:01-05:00",
     "img": "0903dd40-2412-4d96-9793-720be1b0131d",
-    "nombre": "disney1c3156",
+    "nombre": "disney022919",
     "status": "05:30",
-    "duration": 135,
-    "play_url": ""
+    "duration": 300,
+    "play_url": "https://www.disneyplus.com/es-es/play/dc763104-bbd6-4c1e-903f-bf187e6ef647"
   },
   {
     "title": "Chelsea vs. Leicester City",
@@ -334,7 +321,7 @@
     "title": "Tigre vs. Aldosivi",
     "league": "Liga Profesional de Fútbol",
     "fecha-evento": "2025-09-21T09:50:00-05:00",
-    "img": "574454b5-747f-43f1-92cd-edd9ef800b96",
+    "img": "e48e5410-8191-42d7-a88e-c5309c6afcbc",
     "nombre": "disney7c4bd9",
     "status": "09:50",
     "duration": 135,
@@ -647,6 +634,16 @@
     "img": "5f1ad933-47ae-4cac-adb9-084e59679510",
     "nombre": "disney6f9ab5",
     "status": "13:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Cordoba vs. Racing Santander",
+    "league": "Segunda División de España",
+    "fecha-evento": "2025-09-21T13:55:00-05:00",
+    "img": "2b0d6ad0-207d-4f86-9eef-780737f0a352",
+    "nombre": "disney847fa8",
+    "status": "13:55",
     "duration": 135,
     "play_url": ""
   }
