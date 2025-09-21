@@ -169,22 +169,22 @@
     "k2": "d36d5a044e38bee6d3bd059932a00660"
   },
   {
-    "title": "North Harbour vs. Northland (Fecha #8)",
-    "league": "National Provincial Championship",
-    "fecha-evento": "2025-09-20T21:00:00-05:00",
-    "img": "d9baa974-7f8d-4ada-86f4-1f43c02fbd7d",
-    "nombre": "disneyc36429",
-    "status": "21:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "En Español-Wyoming vs. Colorado",
     "league": "Fútbol Americano NCAA",
     "fecha-evento": "2025-09-20T21:15:00-05:00",
     "img": "6334e58b-2312-41b2-bda8-b45e535b18fd",
     "nombre": "disney3802d9",
     "status": "21:15",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "North Harbour vs. Northland (Fecha #8)",
+    "league": "National Provincial Championship",
+    "fecha-evento": "2025-09-20T21:00:00-05:00",
+    "img": "d9baa974-7f8d-4ada-86f4-1f43c02fbd7d",
+    "nombre": "disneyc36429",
+    "status": "21:00",
     "duration": 135,
     "play_url": ""
   },
@@ -205,8 +205,11 @@
     "img": "cc3a8182-a225-48d8-b2bb-fb5be4432a82",
     "nombre": "disney78281f",
     "status": "21:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 240,
+    "play_url": "https://www.disneyplus.com/es-es/play/6fa0a499-2553-4723-8860-4a790ce54545",
+    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1758506419~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Ff25bdf06-81c9-4a7c-b128-3128d610ad17-1756223551993%2F~psid=73a88b35-001e-46b2-9ee6-3a82de26601d~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=916272a3205507ef5b3e6ce444367f3201156a0dfb8c438c2284be5ae749f500/clt1/va02/disneyplus/channel/f25bdf06-81c9-4a7c-b128-3128d610ad17-1756223551993/ctr-all-sliding.m3u8?v=1&hash=aa8d2bb37fafb9b8d31c8b8095cb65f827b67eb8",
+    "k1": "ff050355066b4ddc9d4c37c4c4ae8044",
+    "k2": "c3d6bf70040e76d1f337914734cc9ab6"
   },
   {
     "title": "Oakland Roots SC vs. FC Tulsa",
