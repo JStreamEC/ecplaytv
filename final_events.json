@@ -172,8 +172,11 @@
     "img": "cfbdbe20-6eb6-42a0-aa5a-b60e53546909",
     "nombre": "disneyf53bb4",
     "status": "11:25",
-    "duration": 135,
-    "play_url": ""
+    "duration": 125,
+    "play_url": "https://www.disneyplus.com/es-es/play/dbd92377-d04a-40a7-bb2a-26babc09bbd6",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1758559218~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F21%2FSD_Eibar_vs_Real_Sociedad_20250921_1758464736033%2F~psid=431e0a48-c4c6-4213-85cf-963a1fbf3fb5~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=6c9aface406701f449cef98fce674eea494bb6d94dcd9a912b009e97f514376a/clt1/va02/disneyplus/event/2025/09/21/SD_Eibar_vs_Real_Sociedad_20250921_1758464736033/ctr-all-hdri-complete.m3u8?v=1&hash=58b8faaee12666636a9a124dd513e3233c08ea16",
+    "k1": "fb7c4462f3914820bfc07ff5f4a0e81a",
+    "k2": "54a11a3892ba3526b64eb8fc71291caa"
   },
   {
     "title": "Kasimpasa vs. Fenerbahce",
@@ -216,6 +219,16 @@
     "play_url": ""
   },
   {
+    "title": "New York Rangers vs. New Jersey Devils",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-09-21T12:00:00-05:00",
+    "img": "7be126fb-5b80-415b-b744-e2c16117de82",
+    "nombre": "disney536ea9",
+    "status": "12:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
     "title": "Denver Broncos vs. Los Angeles Chargers",
     "league": "NFL",
     "fecha-evento": "2025-09-21T12:00:00-05:00",
@@ -241,16 +254,6 @@
     "fecha-evento": "2025-09-21T12:00:00-05:00",
     "img": "1fd6a14a-fc9e-413e-89cc-9839dee77a99",
     "nombre": "disney609dca",
-    "status": "12:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "New York Rangers vs. New Jersey Devils",
-    "league": "National Hockey League",
-    "fecha-evento": "2025-09-21T12:00:00-05:00",
-    "img": "7be126fb-5b80-415b-b744-e2c16117de82",
-    "nombre": "disney536ea9",
     "status": "12:00",
     "duration": 135,
     "play_url": ""
@@ -619,18 +622,8 @@
     "title": "Premier Padel: Alemania - Court 3",
     "league": "Premier Padel",
     "fecha-evento": "2025-09-22T06:00:00-05:00",
-    "img": "6463646b-2dd5-45ed-9d19-c83cc2cfd34f",
+    "img": "0851c840-5e75-45c6-b0b9-5ca4645b7abc",
     "nombre": "disney4917f6",
-    "status": "06:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Chengdu Open (Semifinals)",
-    "league": "ATP",
-    "fecha-evento": "2025-09-22T06:00:00-05:00",
-    "img": "076fc54f-011c-4d66-b6de-b7e6e341f9ca",
-    "nombre": "disney4ab013",
     "status": "06:00",
     "duration": 135,
     "play_url": ""
@@ -641,6 +634,16 @@
     "fecha-evento": "2025-09-22T06:00:00-05:00",
     "img": "f409bf63-0147-48d4-ad43-7a94166eb552",
     "nombre": "disney71add2",
+    "status": "06:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Chengdu Open (Semifinals)",
+    "league": "ATP",
+    "fecha-evento": "2025-09-22T06:00:00-05:00",
+    "img": "076fc54f-011c-4d66-b6de-b7e6e341f9ca",
+    "nombre": "disney4ab013",
     "status": "06:00",
     "duration": 135,
     "play_url": ""
