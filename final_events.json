@@ -23,19 +23,6 @@
     "k2": "bf6cd02e0d204a91ea0a0f5b919b1520"
   },
   {
-    "title": "Albacete vs. Valladolid",
-    "league": "Segunda División de España",
-    "fecha-evento": "2025-09-21T09:07:41-05:00",
-    "img": "11c9e305-d760-4a98-992e-1f987fe6215d",
-    "nombre": "disney64280b",
-    "status": "09:07",
-    "duration": 127,
-    "play_url": "https://www.disneyplus.com/es-es/play/02769288-892d-43d3-a945-df23682fa195",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1758550952~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F21%2FAlbacete_vs_Valladolid_20250921_1758456618035%2F~psid=70f06fad-92da-4d97-8284-d6cf270b7ac1~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=2d029039343716f273d5642da28260366a294bf359ab6ac52e4f4aae873c6370/clt1/va02/disneyplus/event/2025/09/21/Albacete_vs_Valladolid_20250921_1758456618035/ctr-all-hdri-complete.m3u8?v=1&hash=06b5158f594ceb3dda2b3226048740d20da86919",
-    "k1": "4a64f8216f334f8d8f244204a33dc9ca",
-    "k2": "c728634f733efb741f5b7ccc19d9daec"
-  },
-  {
     "title": "AZ vs. Feyenoord",
     "league": "Eredivisie",
     "fecha-evento": "2025-09-21T09:30:00-05:00",
@@ -173,7 +160,10 @@
     "nombre": "disney1df28b",
     "status": "11:15",
     "duration": 135,
-    "play_url": ""
+    "play_url": "https://www.disneyplus.com/es-es/play/502fd5f5-0563-4429-9d91-7a6651cfa834",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1758558019~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F21%2FElche_vs_Oviedo_20250921_1758464123028%2F~psid=a278301a-75f9-4648-82b3-a9af9e2b3b1e~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=81fb521f9fa822f02a72434cfc6375102d34432849b276e901df50c2fa3e157b/clt1/va02/disneyplus/event/2025/09/21/Elche_vs_Oviedo_20250921_1758464123028/ctr-all-hdri-complete.m3u8?v=1&hash=37286c45488a2ab5130a9f2314c6d9de9827f123",
+    "k1": "a0e8c47a80b04570b1242b59412bffe0",
+    "k2": "f106da03f1f39fadefca62c3c52f4691"
   },
   {
     "title": "SD Eibar vs. Real Sociedad B",
@@ -216,11 +206,11 @@
     "play_url": ""
   },
   {
-    "title": "New York Rangers vs. New Jersey Devils",
-    "league": "National Hockey League",
+    "title": "Los Angeles Rams vs. Philadelphia Eagles",
+    "league": "NFL",
     "fecha-evento": "2025-09-21T12:00:00-05:00",
-    "img": "7be126fb-5b80-415b-b744-e2c16117de82",
-    "nombre": "disney536ea9",
+    "img": "79fd57cb-39c8-4565-9355-ee4f9da1de7e",
+    "nombre": "disney7aca13",
     "status": "12:00",
     "duration": 135,
     "play_url": ""
@@ -231,16 +221,6 @@
     "fecha-evento": "2025-09-21T12:00:00-05:00",
     "img": "29ad0086-475a-432b-8216-3e0d408d7cc4",
     "nombre": "disneyfc371b",
-    "status": "12:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Los Angeles Rams vs. Philadelphia Eagles",
-    "league": "NFL",
-    "fecha-evento": "2025-09-21T12:00:00-05:00",
-    "img": "79fd57cb-39c8-4565-9355-ee4f9da1de7e",
-    "nombre": "disney7aca13",
     "status": "12:00",
     "duration": 135,
     "play_url": ""
@@ -266,6 +246,16 @@
     "play_url": ""
   },
   {
+    "title": "New York Rangers vs. New Jersey Devils",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-09-21T12:00:00-05:00",
+    "img": "7be126fb-5b80-415b-b744-e2c16117de82",
+    "nombre": "disney536ea9",
+    "status": "12:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
     "title": "NFL Redzone",
     "league": "NFL",
     "fecha-evento": "2025-09-21T12:00:00-05:00",
@@ -279,7 +269,7 @@
     "title": "Pittsburgh Steelers vs. New England Patriots",
     "league": "NFL",
     "fecha-evento": "2025-09-21T15:00:00-05:00",
-    "img": "f2153dc6-065f-4dda-9e48-e6ed0e0178b9",
+    "img": "e5069670-4224-4bb2-b7f2-8191846c10bd",
     "nombre": "disney50ccfd",
     "status": "15:00",
     "duration": 135,
@@ -599,7 +589,7 @@
     "title": "Olympique Marseille vs. PSG",
     "league": "Ligue 1",
     "fecha-evento": "2025-09-22T12:50:00-05:00",
-    "img": "b4b1786d-30ab-4c3f-a4c0-9243291a68e4",
+    "img": "07af0705-3b40-46fb-8dac-63eb78fd8cb7",
     "nombre": "disneydc4adb",
     "status": "12:50",
     "duration": 135,
@@ -662,6 +652,16 @@
     "img": "ed20e560-1c2f-4dce-bd62-182c9856d44a",
     "nombre": "disneye6c00f",
     "status": "14:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Hangzhou Open (Semifinals)",
+    "league": "ATP",
+    "fecha-evento": "2025-09-22T06:30:00-05:00",
+    "img": "6ae2e721-5c7f-4792-9890-2228cc756263",
+    "nombre": "disneybe4c91",
+    "status": "06:30",
     "duration": 135,
     "play_url": ""
   }
