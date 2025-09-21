@@ -94,8 +94,11 @@
     "img": "5aad6c63-9a89-4541-b297-d3bdc8f84135",
     "nombre": "disney3f998b",
     "status": "05:15",
-    "duration": 135,
-    "play_url": ""
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/2743af26-7903-4f31-8ab6-454e545be6ca",
+    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1758536419~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F921e1311-bb26-43dd-84a6-9e2284959712-1756222679255%2F~psid=08582022-c84a-42a4-9c7f-d5c6532e53ee~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=791bbdf368687938aad270333b93f69b1b85ce70d6ae388a3142509946807c95/clt1/va02/disneyplus/channel/921e1311-bb26-43dd-84a6-9e2284959712-1756222679255/ctr-all-sliding.m3u8?v=1&hash=c2eebfbadec853d4e3ca4fa1a9f9011e0c7562b2",
+    "k1": "e1e088d9e8c147ecaf0dd2168bf837ca",
+    "k2": "da20edd714fbdeb321e3dd2ff55c33d1"
   },
   {
     "title": "FedEx Open de France (Final Round)",
@@ -128,21 +131,21 @@
     "play_url": ""
   },
   {
-    "title": "F1 GP Azerbaiyán, carrera | Cámara On Board",
-    "league": "Fórmula 1",
-    "fecha-evento": "2025-09-21T06:00:00-05:00",
-    "img": "dca1dbd2-127c-42e4-8fae-6ec703fc69c4",
-    "nombre": "disneyc3417f",
-    "status": "06:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "F1 GP Azerbaiyán, carrera | On Board Colapinto",
     "league": "Fórmula 1",
     "fecha-evento": "2025-09-21T06:00:00-05:00",
     "img": "4b60b11d-1da7-497d-aa8f-66e3d2347f1f",
     "nombre": "disney67bf18",
+    "status": "06:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "F1 GP Azerbaiyán, carrera | Cámara On Board",
+    "league": "Fórmula 1",
+    "fecha-evento": "2025-09-21T06:00:00-05:00",
+    "img": "dca1dbd2-127c-42e4-8fae-6ec703fc69c4",
+    "nombre": "disneyc3417f",
     "status": "06:00",
     "duration": 135,
     "play_url": ""
