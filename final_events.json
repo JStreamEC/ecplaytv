@@ -59,19 +59,6 @@
     "k2": "f2dea9b310a2f0c1e77219b9862fc99b"
   },
   {
-    "title": "Inter vs. Sassuolo",
-    "league": "Seria A",
-    "fecha-evento": "2025-09-21T13:30:40-05:00",
-    "img": "08283c80-0f6b-48a2-8b96-f33af40b3744",
-    "nombre": "disneycb3795",
-    "status": "13:30",
-    "duration": 129,
-    "play_url": "https://www.disneyplus.com/es-es/play/3ddb291c-7657-4880-8b6c-9afb03f7ded5",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1758566418~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F21%2FInter_vs_Sassuolo_20250921_1758472236028%2F~psid=38137def-4e4f-49d3-9efd-d95d95ab3861~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=e8d03703b5201647b2b0b4ba2f2ea498b8f7e4bd377078abfc382429dfdf8520/clt1/va02/disneyplus/event/2025/09/21/Inter_vs_Sassuolo_20250921_1758472236028/ctr-all-hdri-complete.m3u8?v=1&hash=254d818ab630651b3593b7e27a16677efec988a0",
-    "k1": "df73071a557749d39c9ff2e3ec172190",
-    "k2": "a527745350f3b3e47e69839c6b659e4e"
-  },
-  {
     "title": "Colón FC vs. Albion FC",
     "league": "Segunda División de Uruguay",
     "fecha-evento": "2025-09-21T13:46:23-05:00",
@@ -83,16 +70,6 @@
     "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1758567618~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F21%2FColn_FC_vs_Albion_FC_20250921_1758473128034%2F~psid=dbefafe7-d652-4a59-8bec-29654bda4238~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=58a23960c2304d0174623f835b98362b2e5642b90b0303d40fa882b734669c92/clt1/va02/disneyplus/event/2025/09/21/Coln_FC_vs_Albion_FC_20250921_1758473128034/ctr-all-hdri-complete.m3u8?v=1&hash=5aeabc25163407a4710069791cc4043e65028047",
     "k1": "f2148cfbcfd2446aa97dde000c144c55",
     "k2": "e09c018e5e97297be5ec42b4965d8392"
-  },
-  {
-    "title": "Barcelona vs. Getafe",
-    "league": "LALIGA",
-    "fecha-evento": "2025-09-21T13:50:00-05:00",
-    "img": "5f1ad933-47ae-4cac-adb9-084e59679510",
-    "nombre": "disney6f9ab5",
-    "status": "13:50",
-    "duration": 125,
-    "play_url": "https://www.disneyplus.com/es-es/play/2b77ec2f-5331-4c64-a90c-0b4b345c1c0e"
   },
   {
     "title": "Cordoba vs. Racing Santander",
@@ -173,21 +150,21 @@
     "k2": "ffa0cbb5528aaa67efaa4aea28acb624"
   },
   {
-    "title": "Minnesota Wild vs. Winnipeg Jets",
-    "league": "National Hockey League",
-    "fecha-evento": "2025-09-21T16:00:00-05:00",
-    "img": "c24c7a7d-77ae-4b04-9a32-dccfa125646c",
-    "nombre": "disney1dfdfc",
-    "status": "16:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Peñarol vs. Juventud",
     "league": "Campeonato Uruguayo",
     "fecha-evento": "2025-09-21T16:00:00-05:00",
     "img": "03919c0a-00a0-44c8-b86c-499bcaab276e",
     "nombre": "disney767678",
+    "status": "16:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Minnesota Wild vs. Winnipeg Jets",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-09-21T16:00:00-05:00",
+    "img": "c24c7a7d-77ae-4b04-9a32-dccfa125646c",
+    "nombre": "disney1dfdfc",
     "status": "16:00",
     "duration": 135,
     "play_url": ""
@@ -209,8 +186,11 @@
     "img": "cbc05bf0-8639-4336-b09c-92380e7af5d6",
     "nombre": "disney3ad69e",
     "status": "16:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/a3fac1f6-9725-42d1-bbb2-e2eeff732d40",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1758574818~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F21%2FUnion_Omaha_vs_One_Knoxvi_20250921_1758481209028%2F~psid=8ca6cef4-49cb-4629-933c-ad8d038b4f23~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=e52c59644e9fe57c14798f072f5da50ca34de419eb28b443c31f28c116cbe625/clt1/va02/disneyplus/event/2025/09/21/Union_Omaha_vs_One_Knoxvi_20250921_1758481209028/ctr-all-hdri-complete.m3u8?v=1&hash=58cf0088a8086c5763abec4e5062a1d606ec7f9d",
+    "k1": "86e550894a4943fdacfb8535b2daa41d",
+    "k2": "a0255165acda394c482da804fc1bf7df"
   },
   {
     "title": "Washington Capitals vs. Boston Bruins",
@@ -219,18 +199,11 @@
     "img": "ee806761-de04-4053-bdd5-5f1f257bc0d4",
     "nombre": "disney65ba7f",
     "status": "16:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Washington Capitals vs. Boston Bruins",
-    "league": "National Hockey League",
-    "fecha-evento": "2025-09-21T16:00:00-05:00",
-    "img": "ee806761-de04-4053-bdd5-5f1f257bc0d4",
-    "nombre": "disney65ba7f",
-    "status": "16:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 210,
+    "play_url": "https://www.disneyplus.com/es-es/play/53de1126-674a-4e17-9d92-e3a0e1981b08",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1758574861~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F21%2FWashington_Capitals_vs_Bo_20250921_1758481205424%2F~psid=963939a1-bb63-40ef-97a7-516babeef7a9~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=e6a091f20f4ab2b68b80be0c1e6bbac365ad16c5ad86c5b6f4a862bf72e77ed5/clt1/va02/disneyplus/event/2025/09/21/Washington_Capitals_vs_Bo_20250921_1758481205424/ctr-all-hdri-complete.m3u8?v=1&hash=8e6b68864c47266edaf8ab5e1a75321eb81b2091",
+    "k1": "d34e89d203df460bb512b15051fdb130",
+    "k2": "f33d39a34b47d20d08b631ddcb0c10fa"
   },
   {
     "title": "Seattle Mariners vs. Houston Astros",
@@ -523,21 +496,21 @@
     "play_url": ""
   },
   {
-    "title": "Premier Padel: Alemania - Secondary Court (Primera Ronda)",
-    "league": "Premier Padel",
-    "fecha-evento": "2025-09-23T03:00:00-05:00",
-    "img": "0851c840-5e75-45c6-b0b9-5ca4645b7abc",
-    "nombre": "disney759bdd",
-    "status": "03:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Premier Padel: Alemania - Centre Court (Primera Ronda)",
     "league": "Premier Padel",
     "fecha-evento": "2025-09-23T03:00:00-05:00",
     "img": "07ade78e-249b-4e22-ba93-432d8e9c44b6",
     "nombre": "disneyfa6835",
+    "status": "03:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Premier Padel: Alemania - Secondary Court (Primera Ronda)",
+    "league": "Premier Padel",
+    "fecha-evento": "2025-09-23T03:00:00-05:00",
+    "img": "0851c840-5e75-45c6-b0b9-5ca4645b7abc",
+    "nombre": "disney759bdd",
     "status": "03:00",
     "duration": 135,
     "play_url": ""
@@ -653,11 +626,31 @@
     "play_url": ""
   },
   {
+    "title": "Boston Bruins vs. New York Rangers",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-09-23T18:00:00-05:00",
+    "img": "87061e81-fc63-4908-b002-8a7f9ca98bfd",
+    "nombre": "disneyc5f203",
+    "status": "18:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
     "title": "Ottawa Senators vs. Toronto Maple Leafs",
     "league": "National Hockey League",
     "fecha-evento": "2025-09-23T18:00:00-05:00",
     "img": "5e1787c3-3ee7-4f4e-bac0-a0bc70a66d9b",
     "nombre": "disneyd32642",
+    "status": "18:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Chicago Blackhawks vs. Detroit Red Wings",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-09-23T18:00:00-05:00",
+    "img": "6395b478-5362-41cd-a281-396299e641a0",
+    "nombre": "disneyf882e4",
     "status": "18:00",
     "duration": 135,
     "play_url": ""
