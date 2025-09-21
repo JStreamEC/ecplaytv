@@ -1,10 +1,10 @@
 [
   {
-    "title": "Oscar Collazo vs. Jayson Vayson",
+    "title": "Juanfe Gómez vs. Salvador Jimenez | ESPN KO",
     "league": "ESPN",
     "fecha-evento": "2025-09-27T13:00:00-05:00",
-    "img": "cc7b4b1a-c744-441d-b1a3-e714ff2e1859",
-    "nombre": "disneyb6cc53",
+    "img": "75199d4c-1018-4484-b51b-6bbd5863b53f",
+    "nombre": "disney1b96c8",
     "status": "13:00",
     "duration": 135,
     "play_url": ""
@@ -140,11 +140,11 @@
     "k2": "4d6d5c59a7e4c08c71d08f5ac0d762a5"
   },
   {
-    "title": "Los Angeles Rams vs. Philadelphia Eagles",
+    "title": "Pittsburgh Steelers vs. New England Patriots",
     "league": "NFL",
     "fecha-evento": "2025-09-21T15:00:00-05:00",
-    "img": "a28b884e-4cc6-41c3-892b-287b3ead4402",
-    "nombre": "disney1d868c",
+    "img": "f2153dc6-065f-4dda-9e48-e6ed0e0178b9",
+    "nombre": "disney50ccfd",
     "status": "15:00",
     "duration": 135,
     "play_url": ""
@@ -230,12 +230,15 @@
   {
     "title": "Inter vs. Sassuolo",
     "league": "Seria A",
-    "fecha-evento": "2025-09-21T13:30:00-05:00",
+    "fecha-evento": "2025-09-21T13:30:40-05:00",
     "img": "08283c80-0f6b-48a2-8b96-f33af40b3744",
-    "nombre": "disney78be08",
+    "nombre": "disneycb3795",
     "status": "13:30",
-    "duration": 135,
-    "play_url": ""
+    "duration": 129,
+    "play_url": "https://www.disneyplus.com/es-es/play/3ddb291c-7657-4880-8b6c-9afb03f7ded5",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1758566418~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F21%2FInter_vs_Sassuolo_20250921_1758472236028%2F~psid=38137def-4e4f-49d3-9efd-d95d95ab3861~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=e8d03703b5201647b2b0b4ba2f2ea498b8f7e4bd377078abfc382429dfdf8520/clt1/va02/disneyplus/event/2025/09/21/Inter_vs_Sassuolo_20250921_1758472236028/ctr-all-hdri-complete.m3u8?v=1&hash=254d818ab630651b3593b7e27a16677efec988a0",
+    "k1": "df73071a557749d39c9ff2e3ec172190",
+    "k2": "a527745350f3b3e47e69839c6b659e4e"
   },
   {
     "title": "Colón FC vs. Albion FC",
@@ -328,21 +331,21 @@
     "play_url": ""
   },
   {
-    "title": "Peñarol vs. Juventud",
-    "league": "Campeonato Uruguayo",
-    "fecha-evento": "2025-09-21T16:00:00-05:00",
-    "img": "ef44b11e-8249-4701-ab75-d237a34ed080",
-    "nombre": "disney767678",
-    "status": "16:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Minnesota Wild vs. Winnipeg Jets",
     "league": "National Hockey League",
     "fecha-evento": "2025-09-21T16:00:00-05:00",
     "img": "c24c7a7d-77ae-4b04-9a32-dccfa125646c",
     "nombre": "disney1dfdfc",
+    "status": "16:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Peñarol vs. Juventud",
+    "league": "Campeonato Uruguayo",
+    "fecha-evento": "2025-09-21T16:00:00-05:00",
+    "img": "ef44b11e-8249-4701-ab75-d237a34ed080",
+    "nombre": "disney767678",
     "status": "16:00",
     "duration": 135,
     "play_url": ""
@@ -491,7 +494,7 @@
     "title": "Brandon Nakashima (USA) vs. Alejandro Tabilo (CHI) (Semifinal)",
     "league": "ATP",
     "fecha-evento": "2025-09-22T04:00:00-05:00",
-    "img": "14b4337c-a566-4179-9504-2fcb3b2b1c35",
+    "img": "86a8b11d-b7dd-4625-ab8b-b99bcab98229",
     "nombre": "disneya76447",
     "status": "04:00",
     "duration": 135,
@@ -501,7 +504,7 @@
     "title": "Hangzhou Open (Semifinals)",
     "league": "ATP",
     "fecha-evento": "2025-09-22T04:30:00-05:00",
-    "img": "27e338ce-4042-4770-bc0b-40ea188715cd",
+    "img": "f70b3b58-a2c0-4dab-a78e-164d220760b8",
     "nombre": "disney01bd05",
     "status": "04:30",
     "duration": 135,
@@ -531,7 +534,7 @@
     "title": "Chengdu Open (Semifinals)",
     "league": "ATP",
     "fecha-evento": "2025-09-22T06:00:00-05:00",
-    "img": "73d620c0-770d-4fe3-bbce-65ec1408a761",
+    "img": "07c6d1f8-6d36-41aa-87aa-5cf44e715d73",
     "nombre": "disney4ab013",
     "status": "06:00",
     "duration": 135,
@@ -641,7 +644,7 @@
     "title": "Milwaukee Brewers vs. San Diego Padres",
     "league": "MLB",
     "fecha-evento": "2025-09-22T20:30:00-05:00",
-    "img": "e9e8de6b-249b-41b2-9ddc-49fad25b76aa",
+    "img": "42b7c426-419e-44b7-be18-ce544f2dabe6",
     "nombre": "disneyb5c236",
     "status": "20:30",
     "duration": 135,
