@@ -59,19 +59,6 @@
     "k2": "f2dea9b310a2f0c1e77219b9862fc99b"
   },
   {
-    "title": "River Plate Uruguay vs. Racing",
-    "league": "Campeonato Uruguayo",
-    "fecha-evento": "2025-09-21T13:14:50-05:00",
-    "img": "02280e88-a3f3-45ef-b3a6-a0eaa8dff00c",
-    "nombre": "disney4aca3a",
-    "status": "13:14",
-    "duration": 135,
-    "play_url": "https://www.disneyplus.com/es-es/play/6a02c02a-8e95-4397-8c07-ef61faca81d9",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1758565353~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F21%2FRiver_Plate_Uruguay_vs_Ra_20250921_1758471329033%2F~psid=3fd2085e-63c8-40cf-9ff8-fc547527cbcd~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=7fa761f58d25919bb71b8d4e97ca0a2608209f779cc3a87de1d33bfe71367bc8/clt1/va02/disneyplus/event/2025/09/21/River_Plate_Uruguay_vs_Ra_20250921_1758471329033/ctr-all-hdri-complete.m3u8?v=1&hash=5af58f1fa4674564540785731d06447ad7406a89",
-    "k1": "82b4ce9dbb5b41b28804dd3cff3629e2",
-    "k2": "bd90157238d49532e08b9bae7858115e"
-  },
-  {
     "title": "Inter vs. Sassuolo",
     "league": "Seria A",
     "fecha-evento": "2025-09-21T13:30:40-05:00",
@@ -336,11 +323,11 @@
     "play_url": ""
   },
   {
-    "title": "Lens vs. Lille",
+    "title": "Olympique Marseille vs. PSG",
     "league": "Ligue 1",
     "fecha-evento": "2025-09-22T12:50:00-05:00",
     "img": "761972fe-5228-4088-99a0-d5e3eded9534",
-    "nombre": "disneye2cf5b",
+    "nombre": "disneydc4adb",
     "status": "12:50",
     "duration": 135,
     "play_url": ""
@@ -369,7 +356,7 @@
     "title": "Premier Padel: Alemania - Court 3",
     "league": "Premier Padel",
     "fecha-evento": "2025-09-22T06:00:00-05:00",
-    "img": "0851c840-5e75-45c6-b0b9-5ca4645b7abc",
+    "img": "13b398a6-68ae-441a-b834-94fc1e5f5197",
     "nombre": "disney4917f6",
     "status": "06:00",
     "duration": 135,
@@ -536,21 +523,21 @@
     "play_url": ""
   },
   {
-    "title": "Premier Padel: Alemania - Centre Court (Primera Ronda)",
-    "league": "Premier Padel",
-    "fecha-evento": "2025-09-23T03:00:00-05:00",
-    "img": "07ade78e-249b-4e22-ba93-432d8e9c44b6",
-    "nombre": "disneyfa6835",
-    "status": "03:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Premier Padel: Alemania - Secondary Court (Primera Ronda)",
     "league": "Premier Padel",
     "fecha-evento": "2025-09-23T03:00:00-05:00",
     "img": "0851c840-5e75-45c6-b0b9-5ca4645b7abc",
     "nombre": "disney759bdd",
+    "status": "03:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Premier Padel: Alemania - Centre Court (Primera Ronda)",
+    "league": "Premier Padel",
+    "fecha-evento": "2025-09-23T03:00:00-05:00",
+    "img": "07ade78e-249b-4e22-ba93-432d8e9c44b6",
+    "nombre": "disneyfa6835",
     "status": "03:00",
     "duration": 135,
     "play_url": ""
@@ -662,6 +649,16 @@
     "img": "150b04a0-8440-4cad-b9ae-65c1f4016591",
     "nombre": "disney80ea5a",
     "status": "17:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Ottawa Senators vs. Toronto Maple Leafs",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-09-23T18:00:00-05:00",
+    "img": "5e1787c3-3ee7-4f4e-bac0-a0bc70a66d9b",
+    "nombre": "disneyd32642",
+    "status": "18:00",
     "duration": 135,
     "play_url": ""
   }
