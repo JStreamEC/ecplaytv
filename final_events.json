@@ -167,27 +167,36 @@
     "nombre": "disney52fefa",
     "status": "09:00",
     "duration": 135,
-    "play_url": ""
+    "play_url": "https://www.disneyplus.com/es-es/play/fb1e605a-1790-4be7-bd6c-7f3e0b905849",
+    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1758550905~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Ff25bdf06-81c9-4a7c-b128-3128d610ad17-1756223551993%2F~psid=cb41f0ca-e501-4c35-b907-d47c53251037~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=98b1585c290fd912145766806bfec3cd9a4435b39deea5faa98d8c22cfd24507/clt1/va02/disneyplus/channel/f25bdf06-81c9-4a7c-b128-3128d610ad17-1756223551993/ctr-all-sliding.m3u8?v=1&hash=aa8d2bb37fafb9b8d31c8b8095cb65f827b67eb8",
+    "k1": "2d045c6c9ed2493da3f8b1d9969f5983",
+    "k2": "bf6cd02e0d204a91ea0a0f5b919b1520"
   },
   {
     "title": "Compacto | F1 GP Azerbaiyán | Carrera (30 min)",
     "league": "Fórmula 1",
-    "fecha-evento": "2025-09-21T09:00:00-05:00",
-    "img": "1ccf6eae-451a-4f5c-b242-d61ec718f2cd",
-    "nombre": "disney9b9db7",
+    "fecha-evento": "2025-09-21T09:00:01-05:00",
+    "img": "79abd303-b0cf-45e0-9262-991fb930fe0d",
+    "nombre": "disney275bb8",
     "status": "09:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 30,
+    "play_url": "https://www.disneyplus.com/es-es/play/e3653021-7d8d-40a3-8c2a-13a387ac064c",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1758550929~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F21%2FCompacto_F1_GP_Azerbaiyn__20250921_1758456058036%2F~psid=89858ad3-2222-4471-9624-01d5138ddb39~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=70bb1047b0825c547e36fc9f99593fd4b08c92075a4f4e2c937b6cc9d0a146c8/clt1/va02/disneyplus/event/2025/09/21/Compacto_F1_GP_Azerbaiyn__20250921_1758456058036/ctr-all-hdri-complete.m3u8?v=1&hash=056e0d45fad645d97a998946d5002d95811271d1",
+    "k1": "611ff561ef45476093991c55bdee9beb",
+    "k2": "a963b3c1d144ad1e7866974c98e4b3ef"
   },
   {
     "title": "Albacete vs. Valladolid",
     "league": "Segunda División de España",
-    "fecha-evento": "2025-09-21T09:10:00-05:00",
+    "fecha-evento": "2025-09-21T09:07:41-05:00",
     "img": "11c9e305-d760-4a98-992e-1f987fe6215d",
-    "nombre": "disney7bfc90",
-    "status": "09:10",
-    "duration": 135,
-    "play_url": ""
+    "nombre": "disney64280b",
+    "status": "09:07",
+    "duration": 127,
+    "play_url": "https://www.disneyplus.com/es-es/play/02769288-892d-43d3-a945-df23682fa195",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1758550952~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F21%2FAlbacete_vs_Valladolid_20250921_1758456618035%2F~psid=70f06fad-92da-4d97-8284-d6cf270b7ac1~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=2d029039343716f273d5642da28260366a294bf359ab6ac52e4f4aae873c6370/clt1/va02/disneyplus/event/2025/09/21/Albacete_vs_Valladolid_20250921_1758456618035/ctr-all-hdri-complete.m3u8?v=1&hash=06b5158f594ceb3dda2b3226048740d20da86919",
+    "k1": "4a64f8216f334f8d8f244204a33dc9ca",
+    "k2": "c728634f733efb741f5b7ccc19d9daec"
   },
   {
     "title": "AZ vs. Feyenoord",
