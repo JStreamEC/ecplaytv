@@ -173,19 +173,6 @@
     "k2": "bf6cd02e0d204a91ea0a0f5b919b1520"
   },
   {
-    "title": "Compacto | F1 GP Azerbaiyán | Carrera (30 min)",
-    "league": "Fórmula 1",
-    "fecha-evento": "2025-09-21T09:00:01-05:00",
-    "img": "79abd303-b0cf-45e0-9262-991fb930fe0d",
-    "nombre": "disney275bb8",
-    "status": "09:00",
-    "duration": 30,
-    "play_url": "https://www.disneyplus.com/es-es/play/e3653021-7d8d-40a3-8c2a-13a387ac064c",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1758550929~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F21%2FCompacto_F1_GP_Azerbaiyn__20250921_1758456058036%2F~psid=89858ad3-2222-4471-9624-01d5138ddb39~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=70bb1047b0825c547e36fc9f99593fd4b08c92075a4f4e2c937b6cc9d0a146c8/clt1/va02/disneyplus/event/2025/09/21/Compacto_F1_GP_Azerbaiyn__20250921_1758456058036/ctr-all-hdri-complete.m3u8?v=1&hash=056e0d45fad645d97a998946d5002d95811271d1",
-    "k1": "611ff561ef45476093991c55bdee9beb",
-    "k2": "a963b3c1d144ad1e7866974c98e4b3ef"
-  },
-  {
     "title": "Albacete vs. Valladolid",
     "league": "Segunda División de España",
     "fecha-evento": "2025-09-21T09:07:41-05:00",
@@ -206,7 +193,10 @@
     "nombre": "disneyc656de",
     "status": "09:30",
     "duration": 135,
-    "play_url": ""
+    "play_url": "https://www.disneyplus.com/es-es/play/c9b276d2-e6b3-458d-926c-2ec047edc3bf",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1758552106~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F21%2FAZ_vs_Feyenoord_20250921_1758457840026%2F~psid=0da70900-fd64-441d-b99f-95c45e3891b4~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=100ab65601f551c632faa29e26312496aa28b03c8de81124cb54b5284cb19816/clt1/va02/disneyplus/event/2025/09/21/AZ_vs_Feyenoord_20250921_1758457840026/ctr-all-hdri-complete.m3u8?v=1&hash=8d8f7d41d7370ab5d260ca2ef09444f9dc9dcf5e",
+    "k1": "f1111a22644849c8a3970508887fcb35",
+    "k2": "8170aa10e7f33379390157fe2fb1fcb2"
   },
   {
     "title": "Tigre vs. Aldosivi",
@@ -552,7 +542,7 @@
     "title": "2025 Laver Cup (Day #3)",
     "league": "ESPN",
     "fecha-evento": "2025-09-21T14:00:00-05:00",
-    "img": "fe2bac41-6ade-4f43-b9da-b0890dc2e5ed",
+    "img": "0a5d08d1-fdb0-4686-a32d-f7cc3356dfa3",
     "nombre": "disney50db88",
     "status": "14:00",
     "duration": 135,
@@ -664,6 +654,16 @@
     "fecha-evento": "2025-09-21T18:00:00-05:00",
     "img": "77c7159d-a9da-42c8-bd68-f9218287cdf4",
     "nombre": "disney9f070b",
+    "status": "18:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Spokane Velocity vs. Chattanooga Red Wolves SC",
+    "league": "USL League One",
+    "fecha-evento": "2025-09-21T18:00:00-05:00",
+    "img": "9bebc685-0559-4f57-91ca-32628827645a",
+    "nombre": "disneyed50ef",
     "status": "18:00",
     "duration": 135,
     "play_url": ""
