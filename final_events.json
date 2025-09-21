@@ -130,19 +130,6 @@
     "k2": "4d59de44a69cc09ec40e773d88fd0f49"
   },
   {
-    "title": "Grand Canyon vs. #8 Arizona State",
-    "league": "NCAA Women's Volleyball",
-    "fecha-evento": "2025-09-20T19:00:21-05:00",
-    "img": "9ccdf66a-53e3-4733-aa03-f4e925bdc992",
-    "nombre": "disney5ed4bf",
-    "status": "19:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/08c6064d-b681-4e80-882f-4aef7787a27f",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1758500506~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F21%2FGrand_Canyon_vs_8_Arizona_20250921_1758405643026%2F~psid=7fed4bea-4808-4453-90df-33bfeef40e11~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=4160027757fb189baa0c83f39ef26daee28a0c9a6bf88c8b893d9271dc7b769d/clt1/va02/disneyplus/event/2025/09/21/Grand_Canyon_vs_8_Arizona_20250921_1758405643026/ctr-all-hdri-complete.m3u8?v=1&hash=a0799815e83df83937de68fae10822b6eca6df82",
-    "k1": "711bfb6c70a34fc789f08bf0049abfef",
-    "k2": "119eec1c0365a6aaaf9b1f8a1b081be6"
-  },
-  {
     "title": "San Antonio FC vs. Orange County SC",
     "league": "USL Championship",
     "fecha-evento": "2025-09-20T19:30:05-05:00",
@@ -171,10 +158,23 @@
   {
     "title": "Japan vs. Fiji (Final)",
     "league": "Pacific Nations Cup",
-    "fecha-evento": "2025-09-20T20:30:00-05:00",
+    "fecha-evento": "2025-09-20T20:24:19-05:00",
     "img": "83258dff-bd55-49ff-b1f3-73eb06329fdd",
-    "nombre": "disney71c9b5",
-    "status": "20:30",
+    "nombre": "disneyb491b1",
+    "status": "20:24",
+    "duration": 131,
+    "play_url": "https://www.disneyplus.com/es-es/play/d5daffe3-6612-472f-b327-0648b7f56273",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1758505218~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F21%2FJapan_vs_Fiji_Final_20250921_1758411032033%2F~psid=48cc46a7-ed9e-462c-a314-67137e763f86~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=23770c38f140b183494de76d60d4fcbf76e430cca5b099dfbd8d0ab608d4dbec/clt1/va02/disneyplus/event/2025/09/21/Japan_vs_Fiji_Final_20250921_1758411032033/ctr-all-hdri-complete.m3u8?v=1&hash=91807f514d12a588c23beeb9429634c72e510cb1",
+    "k1": "f6f2e5f43ed0418da0fb72bd681ad5de",
+    "k2": "d36d5a044e38bee6d3bd059932a00660"
+  },
+  {
+    "title": "North Harbour vs. Northland (Fecha #8)",
+    "league": "National Provincial Championship",
+    "fecha-evento": "2025-09-20T21:00:00-05:00",
+    "img": "d9baa974-7f8d-4ada-86f4-1f43c02fbd7d",
+    "nombre": "disneyc36429",
+    "status": "21:00",
     "duration": 135,
     "play_url": ""
   },
@@ -185,16 +185,6 @@
     "img": "6334e58b-2312-41b2-bda8-b45e535b18fd",
     "nombre": "disney3802d9",
     "status": "21:15",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "North Harbour vs. Northland (Fecha #8)",
-    "league": "National Provincial Championship",
-    "fecha-evento": "2025-09-20T21:00:00-05:00",
-    "img": "d9baa974-7f8d-4ada-86f4-1f43c02fbd7d",
-    "nombre": "disneyc36429",
-    "status": "21:00",
     "duration": 135,
     "play_url": ""
   },
@@ -212,7 +202,7 @@
     "title": "2025 Laver Cup (Day #2)",
     "league": "ESPN",
     "fecha-evento": "2025-09-20T21:00:00-05:00",
-    "img": "060f54d5-da10-463b-9229-881bcd6866a7",
+    "img": "cc3a8182-a225-48d8-b2bb-fb5be4432a82",
     "nombre": "disney78281f",
     "status": "21:00",
     "duration": 135,
@@ -664,6 +654,16 @@
     "fecha-evento": "2025-09-21T11:00:00-05:00",
     "img": "8a7658a9-ca0b-47be-9858-57c963f4528e",
     "nombre": "disney38d8d7",
+    "status": "11:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "San Lorenzo vs. Banco Provincia",
+    "league": "Torneo Metropolitano de Hockey Femenino",
+    "fecha-evento": "2025-09-21T11:00:00-05:00",
+    "img": "399e88a5-913b-41bf-b1ef-fb28a24e823d",
+    "nombre": "disney4f9135",
     "status": "11:00",
     "duration": 135,
     "play_url": ""
