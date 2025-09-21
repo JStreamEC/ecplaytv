@@ -23,19 +23,6 @@
     "k2": "157745c10809a272d8a52fcc57db1817"
   },
   {
-    "title": "Hangzhou Open (Quarterfinals)",
-    "league": "ATP",
-    "fecha-evento": "2025-09-21T00:30:03-05:00",
-    "img": "5b3779e7-776c-4cf2-8b8f-f3e17969c8d6",
-    "nombre": "disney6cb077",
-    "status": "00:30",
-    "duration": 480,
-    "play_url": "https://www.disneyplus.com/es-es/play/f1ef2538-663a-4af3-9338-f6f7ec48aa88",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1758519662~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F21%2FHangzhou_Open_Quarterfina_20250921_1758425407027%2F~psid=b0c96ceb-4a28-44c4-91f7-39fa0546e392~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=ca927daf7bab41bc0bdd48d4105002d3cf9596da8c4ebdad2efa3ade6265600d/clt1/va02/disneyplus/event/2025/09/21/Hangzhou_Open_Quarterfina_20250921_1758425407027/ctr-all-hdri-complete.m3u8?v=1&hash=8bd3233b74cfc4dd9340b465a041878adb6f3564",
-    "k1": "39591f8e0d864405a3432fc1ccc8dc51",
-    "k2": "417f85d4de594ba85038b279aa0ab699"
-  },
-  {
     "title": "FedEx Open de France (Final Round)",
     "league": "DP World Tour",
     "fecha-evento": "2025-09-21T05:30:01-05:00",
@@ -44,16 +31,6 @@
     "status": "05:30",
     "duration": 300,
     "play_url": "https://www.disneyplus.com/es-es/play/dc763104-bbd6-4c1e-903f-bf187e6ef647"
-  },
-  {
-    "title": "PSV vs. Ajax",
-    "league": "Eredivisie",
-    "fecha-evento": "2025-09-21T07:20:00-05:00",
-    "img": "e5769634-7ffa-4a56-8229-98cff3d43829",
-    "nombre": "disney5dedb0",
-    "status": "07:20",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/46a6123b-4e03-4867-ad0f-8fcf52126d41"
   },
   {
     "title": "Torino vs. Atalanta",
@@ -201,12 +178,15 @@
   {
     "title": "Tigre vs. Aldosivi",
     "league": "Liga Profesional de Fútbol",
-    "fecha-evento": "2025-09-21T09:50:00-05:00",
-    "img": "e48e5410-8191-42d7-a88e-c5309c6afcbc",
-    "nombre": "disney7c4bd9",
+    "fecha-evento": "2025-09-21T09:50:02-05:00",
+    "img": "62f9d595-9058-40c3-8d53-01fe57d7f761",
+    "nombre": "disneya5101c",
     "status": "09:50",
-    "duration": 135,
-    "play_url": ""
+    "duration": 40,
+    "play_url": "https://www.disneyplus.com/es-es/play/542fea4f-2c9d-4dad-b604-4eae52984ea9",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1758553262~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F21%2FTigre_vs_Aldosivi_20250921_1758459047027%2F~psid=146c6ad0-5cda-48dd-88b7-3f5847f3a011~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=8a0cec0d55f5f8e6bab42a42391d9da320ece6db8aee9918eb2dc9499c4843bf/clt1/va02/disneyplus/event/2025/09/21/Tigre_vs_Aldosivi_20250921_1758459047027/ctr-all-hdri-complete.m3u8?v=1&hash=7ed1a1f2eaa18749acd0ef9bb3b2ae435fa03356",
+    "k1": "44e7f60662024639abd9636f02cec191",
+    "k2": "14ee8e60d04387c35e5aff11575db906"
   },
   {
     "title": "Monaco vs. Metz",
@@ -665,6 +645,26 @@
     "img": "9bebc685-0559-4f57-91ca-32628827645a",
     "nombre": "disneyed50ef",
     "status": "18:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Atlético de San Luis vs. Mazatlán FC (Jornada 12)",
+    "league": "Mexican Liga BBVA MX Femenil",
+    "fecha-evento": "2025-09-21T18:50:00-05:00",
+    "img": "3f37704d-8d65-40c5-8d0d-376701389622",
+    "nombre": "disney03f0ff",
+    "status": "18:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Vancouver Canucks vs. Seattle Kraken",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-09-21T19:00:00-05:00",
+    "img": "36a9dd78-5218-442c-8b9e-aadbcce2209f",
+    "nombre": "disney21b7ae",
+    "status": "19:00",
     "duration": 135,
     "play_url": ""
   }
