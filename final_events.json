@@ -10,19 +10,6 @@
     "play_url": ""
   },
   {
-    "title": "Lens vs. Lille",
-    "league": "Ligue 1",
-    "fecha-evento": "2025-09-22T12:50:00-05:00",
-    "img": "761972fe-5228-4088-99a0-d5e3eded9534",
-    "nombre": "disneye2cf5b",
-    "status": "12:50",
-    "duration": 125,
-    "play_url": "https://www.disneyplus.com/es-es/play/115e7082-d44e-4c12-abbc-1d3f19f8c710",
-    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1758650418~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Ff25bdf06-81c9-4a7c-b128-3128d610ad17-1756223551993%2F~psid=1fb220ca-5048-4313-b883-c45a7f9d8161~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=576f996acd16769231163aee1ece2702a0011e5fe45499a971d96322a5168d9f/clt1/va02/disneyplus/channel/f25bdf06-81c9-4a7c-b128-3128d610ad17-1756223551993/ctr-all-sliding.m3u8?v=1&hash=aa8d2bb37fafb9b8d31c8b8095cb65f827b67eb8",
-    "k1": "fd5b5aca7aad435fbba9c1b77e68513d",
-    "k2": "0fa377cbc0eb062d0342ae4942d39cd2"
-  },
-  {
     "title": "Premier Padel: Alemania - Secondary Court (Primera Ronda)",
     "league": "Premier Padel",
     "fecha-evento": "2025-09-22T06:03:32-05:00",
@@ -44,19 +31,6 @@
     "status": "14:00",
     "duration": 135,
     "play_url": ""
-  },
-  {
-    "title": "Olympique Marseille vs. PSG",
-    "league": "Ligue 1",
-    "fecha-evento": "2025-09-22T12:50:01-05:00",
-    "img": "07af0705-3b40-46fb-8dac-63eb78fd8cb7",
-    "nombre": "disneyb88c73",
-    "status": "12:50",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/29c6969d-1831-41f6-a155-4a39a3313197",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1758650461~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F22%2FOlympique_Marseille_vs_PS_20250922_1758556237031%2F~psid=306a48ef-bce4-458e-8513-b1634feba37d~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=783e0d70b0e99e476a596158597f75c7848bdcdc626e9713a721fc51e22db120/clt1/va02/disneyplus/event/2025/09/22/Olympique_Marseille_vs_PS_20250922_1758556237031/ctr-all-hdri-complete.m3u8?v=1&hash=fc4fe076ad2e1fae0b08a645bb2f84e5e9f2fc78",
-    "k1": "1ad6986d6a0c45c191558ee5acbb4279",
-    "k2": "acd776efac22ec1bb1acc7a830581df2"
   },
   {
     "title": "Napoli vs. Pisa",
@@ -168,21 +142,21 @@
     "play_url": ""
   },
   {
-    "title": "Premier Padel: Alemania - Secondary Court (Primera Ronda)",
-    "league": "Premier Padel",
-    "fecha-evento": "2025-09-23T03:00:00-05:00",
-    "img": "0851c840-5e75-45c6-b0b9-5ca4645b7abc",
-    "nombre": "disney759bdd",
-    "status": "03:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Premier Padel: Alemania - Centre Court (Primera Ronda)",
     "league": "Premier Padel",
     "fecha-evento": "2025-09-23T03:00:00-05:00",
     "img": "07ade78e-249b-4e22-ba93-432d8e9c44b6",
     "nombre": "disneyfa6835",
+    "status": "03:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Premier Padel: Alemania - Secondary Court (Primera Ronda)",
+    "league": "Premier Padel",
+    "fecha-evento": "2025-09-23T03:00:00-05:00",
+    "img": "0851c840-5e75-45c6-b0b9-5ca4645b7abc",
+    "nombre": "disney759bdd",
     "status": "03:00",
     "duration": 135,
     "play_url": ""
@@ -644,6 +618,26 @@
     "img": "1c728687-1934-47d1-8d16-e589a157098a",
     "nombre": "disneyf49430",
     "status": "12:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Huddersfield vs. Manchester City (Third Round)",
+    "league": "Carabao Cup",
+    "fecha-evento": "2025-09-24T13:30:00-05:00",
+    "img": "c02efac6-8e21-437a-a2f3-3e8253e03e41",
+    "nombre": "disney7c9869",
+    "status": "13:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Tottenham Hotspur vs. Doncaster (Third Round)",
+    "league": "Carabao Cup",
+    "fecha-evento": "2025-09-24T13:30:00-05:00",
+    "img": "75bd7fc6-b921-49f6-8e1d-150e2b141af5",
+    "nombre": "disney1dcf49",
+    "status": "13:30",
     "duration": 135,
     "play_url": ""
   }
