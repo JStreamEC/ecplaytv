@@ -33,32 +33,6 @@
     "play_url": ""
   },
   {
-    "title": "Napoli vs. Pisa",
-    "league": "Seria A",
-    "fecha-evento": "2025-09-22T13:25:00-05:00",
-    "img": "0916958e-3fbe-4b0e-83b0-c8ea3418eea7",
-    "nombre": "disney555abd",
-    "status": "13:25",
-    "duration": 135,
-    "play_url": "https://www.disneyplus.com/es-es/play/98d2adaa-3f14-406f-bdf5-b03b99a05970",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1758652818~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F22%2FNapoli_vs_Pisa_20250922_1758558332027%2F~psid=a7da24ed-f644-4b5a-91ee-2b3011e9e170~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=406f9ef1eac3ff2fe13f47675713286965c4f4fd8b6c83182648702c39485e38/clt1/va02/disneyplus/event/2025/09/22/Napoli_vs_Pisa_20250922_1758558332027/ctr-all-hdri-complete.m3u8?v=1&hash=3d44a0b44d3891168d367bc307a60f671d533ad6",
-    "k1": "1234f8188c3e4853ba28164bf593b6a8",
-    "k2": "6151239d24deeee2d4d8e863b87947d3"
-  },
-  {
-    "title": "Burgos vs. Granada",
-    "league": "Segunda División de España",
-    "fecha-evento": "2025-09-22T13:25:13-05:00",
-    "img": "e5a45070-9e2b-4e25-9a65-a1c3ddd8d439",
-    "nombre": "disney2d5361",
-    "status": "13:25",
-    "duration": 125,
-    "play_url": "https://www.disneyplus.com/es-es/play/7d81a759-ef2f-4393-8239-58f2a0edca30",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1758652861~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F22%2FBurgos_vs_Granada_20250922_1758558304027%2F~psid=1a0e5dd3-d300-492f-bb92-cde9ad3dea9e~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=7822132ff9ec648cdb8480a2b81e0f0975650e4e07e16380b03857bf5f18bc90/clt1/va02/disneyplus/event/2025/09/22/Burgos_vs_Granada_20250922_1758558304027/ctr-all-hdri-complete.m3u8?v=1&hash=b096bea8b4cef8b366092e1c31e509278bc02dba",
-    "k1": "7e6dd600699746499c95d8e0c31dd16d",
-    "k2": "73aacbd534c6cac800456ed4aae47ad0"
-  },
-  {
     "title": "Millwall vs. Watford",
     "league": "Championship de Inglaterra",
     "fecha-evento": "2025-09-22T13:50:00-05:00",
@@ -638,6 +612,26 @@
     "img": "75bd7fc6-b921-49f6-8e1d-150e2b141af5",
     "nombre": "disney1dcf49",
     "status": "13:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Nice vs. AS Roma",
+    "league": "UEFA Europa League",
+    "fecha-evento": "2025-09-24T13:40:00-05:00",
+    "img": "13a13023-7349-4193-bfd2-703e7f07fc2a",
+    "nombre": "disney8a5693",
+    "status": "13:40",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Dinamo Zagreb vs. Fenerbahçe",
+    "league": "UEFA Europa League",
+    "fecha-evento": "2025-09-24T13:40:00-05:00",
+    "img": "deb46ecf-bca1-49c7-819d-8cd92594e597",
+    "nombre": "disney5264ee",
+    "status": "13:40",
     "duration": 135,
     "play_url": ""
   }
