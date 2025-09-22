@@ -46,19 +46,6 @@
     "k2": "bf6cd02e0d204a91ea0a0f5b919b1520"
   },
   {
-    "title": "Vancouver Canucks vs. Seattle Kraken",
-    "league": "National Hockey League",
-    "fecha-evento": "2025-09-21T19:00:11-05:00",
-    "img": "36a9dd78-5218-442c-8b9e-aadbcce2209f",
-    "nombre": "disneyb0c74f",
-    "status": "19:00",
-    "duration": 210,
-    "play_url": "https://www.disneyplus.com/es-es/play/edb74664-a3eb-4806-8a2c-be34fcf2c6df",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1758586906~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F22%2FVancouver_Canucks_vs_Seat_20250922_1758492012029%2F~psid=829c0dbc-ea20-4487-9864-148b8a0c4a05~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=57ff62859f4afd8159328a13b7508b6bec05722aa9a49688ad31d7353df76f90/clt1/va02/disneyplus/event/2025/09/22/Vancouver_Canucks_vs_Seat_20250922_1758492012029/ctr-all-hdri-complete.m3u8?v=1&hash=2a133dbec7a05312b20860ca314498773b30beb6",
-    "k1": "b9db19ff4cda4a6985b8d3d30bd24d8b",
-    "k2": "580c5f061eba59de8338222054c03463"
-  },
-  {
     "title": "Kansas City Chiefs vs. New York Giants",
     "league": "NFL",
     "fecha-evento": "2025-09-22T12:50:00-05:00",
@@ -259,21 +246,21 @@
     "play_url": ""
   },
   {
-    "title": "Premier Padel: Alemania - Secondary Court (Primera Ronda)",
-    "league": "Premier Padel",
-    "fecha-evento": "2025-09-23T03:00:00-05:00",
-    "img": "0851c840-5e75-45c6-b0b9-5ca4645b7abc",
-    "nombre": "disney759bdd",
-    "status": "03:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Premier Padel: Alemania - Centre Court (Primera Ronda)",
     "league": "Premier Padel",
     "fecha-evento": "2025-09-23T03:00:00-05:00",
     "img": "07ade78e-249b-4e22-ba93-432d8e9c44b6",
     "nombre": "disneyfa6835",
+    "status": "03:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Premier Padel: Alemania - Secondary Court (Primera Ronda)",
+    "league": "Premier Padel",
+    "fecha-evento": "2025-09-23T03:00:00-05:00",
+    "img": "0851c840-5e75-45c6-b0b9-5ca4645b7abc",
+    "nombre": "disney759bdd",
     "status": "03:00",
     "duration": 135,
     "play_url": ""
@@ -389,21 +376,21 @@
     "play_url": ""
   },
   {
-    "title": "Ottawa Senators vs. Toronto Maple Leafs",
-    "league": "National Hockey League",
-    "fecha-evento": "2025-09-23T18:00:00-05:00",
-    "img": "5e1787c3-3ee7-4f4e-bac0-a0bc70a66d9b",
-    "nombre": "disneyd32642",
-    "status": "18:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Boston Bruins vs. New York Rangers",
     "league": "National Hockey League",
     "fecha-evento": "2025-09-23T18:00:00-05:00",
     "img": "87061e81-fc63-4908-b002-8a7f9ca98bfd",
     "nombre": "disneyc5f203",
+    "status": "18:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Ottawa Senators vs. Toronto Maple Leafs",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-09-23T18:00:00-05:00",
+    "img": "5e1787c3-3ee7-4f4e-bac0-a0bc70a66d9b",
+    "nombre": "disneyd32642",
     "status": "18:00",
     "duration": 135,
     "play_url": ""
@@ -539,21 +526,21 @@
     "play_url": ""
   },
   {
-    "title": "Edmonton Oilers vs. Winnipeg Jets",
-    "league": "National Hockey League",
-    "fecha-evento": "2025-09-23T19:00:00-05:00",
-    "img": "83a9fe93-3716-47e9-9842-be7832cd3404",
-    "nombre": "disney6b5a96",
-    "status": "19:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Minnesota Wild vs. Dallas Stars",
     "league": "National Hockey League",
     "fecha-evento": "2025-09-23T19:00:00-05:00",
     "img": "abf0f947-534e-4b9c-8d83-b1a3c5ed726f",
     "nombre": "disneyc631dd",
+    "status": "19:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Edmonton Oilers vs. Winnipeg Jets",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-09-23T19:00:00-05:00",
+    "img": "83a9fe93-3716-47e9-9842-be7832cd3404",
+    "nombre": "disney6b5a96",
     "status": "19:00",
     "duration": 135,
     "play_url": ""
@@ -634,6 +621,16 @@
     "fecha-evento": "2025-09-23T22:00:00-05:00",
     "img": "0f2095e3-3192-4d23-b41a-f2587cd48ae5",
     "nombre": "disney8a4533",
+    "status": "22:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "WTA China Open / Moon Court",
+    "league": "WTA",
+    "fecha-evento": "2025-09-23T22:00:00-05:00",
+    "img": "05ba8fab-cd55-4d72-a591-1ba113ca98af",
+    "nombre": "disney3c9c20",
     "status": "22:00",
     "duration": 135,
     "play_url": ""
