@@ -46,32 +46,6 @@
     "k2": "112a644ff7cd6d79482cfbecb98e7e1c"
   },
   {
-    "title": "Washington Capitals vs. Boston Bruins",
-    "league": "National Hockey League",
-    "fecha-evento": "2025-09-21T16:00:00-05:00",
-    "img": "ee806761-de04-4053-bdd5-5f1f257bc0d4",
-    "nombre": "disney65ba7f",
-    "status": "16:00",
-    "duration": 210,
-    "play_url": "https://www.disneyplus.com/es-es/play/53de1126-674a-4e17-9d92-e3a0e1981b08",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1758574861~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F21%2FWashington_Capitals_vs_Bo_20250921_1758481205424%2F~psid=963939a1-bb63-40ef-97a7-516babeef7a9~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=e6a091f20f4ab2b68b80be0c1e6bbac365ad16c5ad86c5b6f4a862bf72e77ed5/clt1/va02/disneyplus/event/2025/09/21/Washington_Capitals_vs_Bo_20250921_1758481205424/ctr-all-hdri-complete.m3u8?v=1&hash=8e6b68864c47266edaf8ab5e1a75321eb81b2091",
-    "k1": "d34e89d203df460bb512b15051fdb130",
-    "k2": "f33d39a34b47d20d08b631ddcb0c10fa"
-  },
-  {
-    "title": "Minnesota Wild vs. Winnipeg Jets",
-    "league": "National Hockey League",
-    "fecha-evento": "2025-09-21T16:00:18-05:00",
-    "img": "c24c7a7d-77ae-4b04-9a32-dccfa125646c",
-    "nombre": "disney7a50ba",
-    "status": "16:00",
-    "duration": 210,
-    "play_url": "https://www.disneyplus.com/es-es/play/94d33194-6b58-4b81-bb5d-85c10759711a",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1758576106~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F21%2FMinnesota_Wild_vs_Winnipe_20250921_1758481227029%2F~psid=9905d2e7-f995-429a-af2c-db6d13f1434d~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=3624a9271a563c9aeebdd85509be6e652bb91b28697c8ea461aad27cb34d3623/clt1/va02/disneyplus/event/2025/09/21/Minnesota_Wild_vs_Winnipe_20250921_1758481227029/ctr-all-hdri-complete.m3u8?v=1&hash=1eb219f8733db019668b444af1940566c8d7e209",
-    "k1": "5ffae875a4064e3798c8d78868949038",
-    "k2": "0c120876b76aab9b9653d4d4d29f5bd8"
-  },
-  {
     "title": "Westchester SC vs. Texoma FC",
     "league": "USL League One",
     "fecha-evento": "2025-09-21T18:00:00-05:00",
@@ -113,12 +87,15 @@
   {
     "title": "Atlético de San Luis vs. Mazatlán FC (Jornada 12)",
     "league": "Mexican Liga BBVA MX Femenil",
-    "fecha-evento": "2025-09-21T18:50:00-05:00",
+    "fecha-evento": "2025-09-21T18:50:01-05:00",
     "img": "8a92eb49-f71e-4c11-a4d1-aaba1a99cc64",
-    "nombre": "disney03f0ff",
+    "nombre": "disney824a05",
     "status": "18:50",
-    "duration": 135,
-    "play_url": ""
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/e7fa428d-d53e-411d-a523-3741414ae4d1",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1758585619~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F21%2FAtltico_de_San_Luis_vs_Ma_20250921_1758491435032%2F~psid=2f7da66a-267d-44c5-8857-cfd54d3aca35~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=900135f0e2bb73a12fddf165b4b06ddddca23c854e10b3256a42803eb44ea01a/clt1/va02/disneyplus/event/2025/09/21/Atltico_de_San_Luis_vs_Ma_20250921_1758491435032/ctr-all-hdri-complete.m3u8?v=1&hash=abacf0c34e75836a445c735d6323a45318c84bd4",
+    "k1": "9ca9275d44af4aaebf7ac088f7930d83",
+    "k2": "410c500f30b9c1f439c580e4ffcc2b0b"
   },
   {
     "title": "Vancouver Canucks vs. Seattle Kraken",
@@ -144,7 +121,7 @@
     "title": "Kansas City Chiefs vs. New York Giants",
     "league": "NFL",
     "fecha-evento": "2025-09-21T19:00:00-05:00",
-    "img": "761972fe-5228-4088-99a0-d5e3eded9534",
+    "img": "c2353cf9-2721-4cf5-80a4-15225346e85c",
     "nombre": "disney45f6ce",
     "status": "19:00",
     "duration": 135,
@@ -171,11 +148,11 @@
     "play_url": ""
   },
   {
-    "title": "Olympique Marseille vs. PSG",
-    "league": "Ligue 1",
+    "title": "Kansas City Chiefs vs. New York Giants",
+    "league": "NFL",
     "fecha-evento": "2025-09-22T12:50:00-05:00",
-    "img": "761972fe-5228-4088-99a0-d5e3eded9534",
-    "nombre": "disneydc4adb",
+    "img": "c2353cf9-2721-4cf5-80a4-15225346e85c",
+    "nombre": "disneyb082ce",
     "status": "12:50",
     "duration": 135,
     "play_url": ""
@@ -371,21 +348,21 @@
     "play_url": ""
   },
   {
-    "title": "Premier Padel: Alemania - Centre Court (Primera Ronda)",
-    "league": "Premier Padel",
-    "fecha-evento": "2025-09-23T03:00:00-05:00",
-    "img": "07ade78e-249b-4e22-ba93-432d8e9c44b6",
-    "nombre": "disneyfa6835",
-    "status": "03:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Premier Padel: Alemania - Secondary Court (Primera Ronda)",
     "league": "Premier Padel",
     "fecha-evento": "2025-09-23T03:00:00-05:00",
     "img": "0851c840-5e75-45c6-b0b9-5ca4645b7abc",
     "nombre": "disney759bdd",
+    "status": "03:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Premier Padel: Alemania - Centre Court (Primera Ronda)",
+    "league": "Premier Padel",
+    "fecha-evento": "2025-09-23T03:00:00-05:00",
+    "img": "07ade78e-249b-4e22-ba93-432d8e9c44b6",
+    "nombre": "disneyfa6835",
     "status": "03:00",
     "duration": 135,
     "play_url": ""
@@ -501,16 +478,6 @@
     "play_url": ""
   },
   {
-    "title": "Ottawa Senators vs. Toronto Maple Leafs",
-    "league": "National Hockey League",
-    "fecha-evento": "2025-09-23T18:00:00-05:00",
-    "img": "5e1787c3-3ee7-4f4e-bac0-a0bc70a66d9b",
-    "nombre": "disneyd32642",
-    "status": "18:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Boston Bruins vs. New York Rangers",
     "league": "National Hockey League",
     "fecha-evento": "2025-09-23T18:00:00-05:00",
@@ -521,11 +488,11 @@
     "play_url": ""
   },
   {
-    "title": "Chicago Blackhawks vs. Detroit Red Wings",
+    "title": "Ottawa Senators vs. Toronto Maple Leafs",
     "league": "National Hockey League",
     "fecha-evento": "2025-09-23T18:00:00-05:00",
-    "img": "6395b478-5362-41cd-a281-396299e641a0",
-    "nombre": "disneyf882e4",
+    "img": "5e1787c3-3ee7-4f4e-bac0-a0bc70a66d9b",
+    "nombre": "disneyd32642",
     "status": "18:00",
     "duration": 135,
     "play_url": ""
@@ -541,11 +508,11 @@
     "play_url": ""
   },
   {
-    "title": "Boston Red Sox vs. Toronto Blue Jays",
-    "league": "MLB",
+    "title": "Chicago Blackhawks vs. Detroit Red Wings",
+    "league": "National Hockey League",
     "fecha-evento": "2025-09-23T18:00:00-05:00",
-    "img": "a48fe815-d2af-4602-a7be-041b0000440c",
-    "nombre": "disneyac24c0",
+    "img": "6395b478-5362-41cd-a281-396299e641a0",
+    "nombre": "disneyf882e4",
     "status": "18:00",
     "duration": 135,
     "play_url": ""
@@ -556,6 +523,16 @@
     "fecha-evento": "2025-09-23T18:00:00-05:00",
     "img": "5e1787c3-3ee7-4f4e-bac0-a0bc70a66d9b",
     "nombre": "disneyd32642",
+    "status": "18:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Boston Red Sox vs. Toronto Blue Jays",
+    "league": "MLB",
+    "fecha-evento": "2025-09-23T18:00:00-05:00",
+    "img": "a48fe815-d2af-4602-a7be-041b0000440c",
+    "nombre": "disneyac24c0",
     "status": "18:00",
     "duration": 135,
     "play_url": ""
@@ -636,6 +613,36 @@
     "fecha-evento": "2025-09-23T19:00:00-05:00",
     "img": "1291b414-3cf7-40c9-8ac2-8cbb24bf8661",
     "nombre": "disney8d4855",
+    "status": "19:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Central FC vs. Mt. Pleasant FA (Round #4)",
+    "league": "Concacaf Caribbean Cup",
+    "fecha-evento": "2025-09-23T19:00:00-05:00",
+    "img": "b340e998-98ff-4e59-933e-04f354be923b",
+    "nombre": "disney044f4c",
+    "status": "19:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Edmonton Oilers vs. Winnipeg Jets",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-09-23T19:00:00-05:00",
+    "img": "83a9fe93-3716-47e9-9842-be7832cd3404",
+    "nombre": "disney6b5a96",
+    "status": "19:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Minnesota Wild vs. Dallas Stars",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-09-23T19:00:00-05:00",
+    "img": "abf0f947-534e-4b9c-8d83-b1a3c5ed726f",
+    "nombre": "disneyc631dd",
     "status": "19:00",
     "duration": 135,
     "play_url": ""
