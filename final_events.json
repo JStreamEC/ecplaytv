@@ -46,32 +46,6 @@
     "play_url": ""
   },
   {
-    "title": "Cerrito vs. Fénix",
-    "league": "Segunda División de Uruguay",
-    "fecha-evento": "2025-09-22T11:45:15-05:00",
-    "img": "0fb5c3c8-2a80-4bbb-8783-51d9cf7b73e0",
-    "nombre": "disney1e3a64",
-    "status": "11:45",
-    "duration": 135,
-    "play_url": "https://www.disneyplus.com/es-es/play/87848255-495a-4350-94bf-83f874fd037d",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1758646820~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F22%2FCerrito_vs_Fnix_20250922_1758552304027%2F~psid=a02b2157-ebe3-4d03-8aee-ea6d0b1706f8~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=7a1c096fdcf20c15b4256480fb6d89b9d34e82658d3a567cb7fb76c8667ba4b6/clt1/va02/disneyplus/event/2025/09/22/Cerrito_vs_Fnix_20250922_1758552304027/ctr-all-hdri-complete.m3u8?v=1&hash=d60a4afc1c3de4c0c1f7978d8d1f0205fa56ace2",
-    "k1": "5bbdd41fcc694d8289982c579e58e53a",
-    "k2": "39d46f3acb031a25462d5bf73a75dc21"
-  },
-  {
-    "title": "Galatasaray vs. Konyaspor",
-    "league": "Super Lig de Turquía",
-    "fecha-evento": "2025-09-22T11:55:01-05:00",
-    "img": "57ec88aa-6c98-4b9e-9aaa-ef9669f4c5bb",
-    "nombre": "disney196d9b",
-    "status": "11:55",
-    "duration": 125,
-    "play_url": "https://www.disneyplus.com/es-es/play/3d4c0821-c904-4163-a835-566ac0b15f94",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1758646863~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F22%2FGalatasaray_vs_Konyaspor_20250922_1758552902041%2F~psid=f7da0cc6-5e1a-419e-bfd5-8294f2b85a88~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=2d867ff3c0de1e91eae99b5cf1c6a1f458e78bb128b43f9605160c0ae0360d9b/clt1/va02/disneyplus/event/2025/09/22/Galatasaray_vs_Konyaspor_20250922_1758552902041/ctr-all-hdri-complete.m3u8?v=1&hash=b5fc1edff9c4633f93ad3a1565f2f477faf7e666",
-    "k1": "1029c07f4556470889bb68ff68c2135c",
-    "k2": "5d502c709478a8abbbd65daf6d86f77d"
-  },
-  {
     "title": "Olympique Marseille vs. PSG",
     "league": "Ligue 1",
     "fecha-evento": "2025-09-22T12:50:01-05:00",
@@ -324,21 +298,21 @@
     "play_url": ""
   },
   {
-    "title": "Philadelphia Flyers vs. Montreal Canadiens",
-    "league": "National Hockey League",
-    "fecha-evento": "2025-09-23T18:00:00-05:00",
-    "img": "4bce37de-1d9d-411c-95c7-609c063faaaf",
-    "nombre": "disney9703c0",
-    "status": "18:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Chicago Blackhawks vs. Detroit Red Wings",
     "league": "National Hockey League",
     "fecha-evento": "2025-09-23T18:00:00-05:00",
     "img": "6395b478-5362-41cd-a281-396299e641a0",
     "nombre": "disneyf882e4",
+    "status": "18:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Philadelphia Flyers vs. Montreal Canadiens",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-09-23T18:00:00-05:00",
+    "img": "4bce37de-1d9d-411c-95c7-609c063faaaf",
+    "nombre": "disney9703c0",
     "status": "18:00",
     "duration": 135,
     "play_url": ""
@@ -454,21 +428,21 @@
     "play_url": ""
   },
   {
-    "title": "Edmonton Oilers vs. Winnipeg Jets",
-    "league": "National Hockey League",
-    "fecha-evento": "2025-09-23T19:00:00-05:00",
-    "img": "83a9fe93-3716-47e9-9842-be7832cd3404",
-    "nombre": "disney6b5a96",
-    "status": "19:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Minnesota Wild vs. Dallas Stars",
     "league": "National Hockey League",
     "fecha-evento": "2025-09-23T19:00:00-05:00",
     "img": "abf0f947-534e-4b9c-8d83-b1a3c5ed726f",
     "nombre": "disneyc631dd",
+    "status": "19:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Edmonton Oilers vs. Winnipeg Jets",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-09-23T19:00:00-05:00",
+    "img": "83a9fe93-3716-47e9-9842-be7832cd3404",
+    "nombre": "disney6b5a96",
     "status": "19:00",
     "duration": 135,
     "play_url": ""
@@ -650,6 +624,26 @@
     "img": "5f1ad933-47ae-4cac-adb9-084e59679510",
     "nombre": "disney9137a6",
     "status": "11:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Yukatel Kayserispor vs. Besiktas",
+    "league": "Super Lig de Turquía",
+    "fecha-evento": "2025-09-24T11:50:00-05:00",
+    "img": "0f75f44c-737e-4cd1-b443-1bb3700b2477",
+    "nombre": "disney15758a",
+    "status": "11:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "AZ vs. PEC Zwolle",
+    "league": "Eredivisie",
+    "fecha-evento": "2025-09-24T12:50:00-05:00",
+    "img": "1c728687-1934-47d1-8d16-e589a157098a",
+    "nombre": "disneyf49430",
+    "status": "12:50",
     "duration": 135,
     "play_url": ""
   }
