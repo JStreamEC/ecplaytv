@@ -324,21 +324,21 @@
     "play_url": ""
   },
   {
-    "title": "Premier Padel: Alemania - Centre Court (Primera Ronda)",
-    "league": "Premier Padel",
-    "fecha-evento": "2025-09-23T03:00:00-05:00",
-    "img": "07ade78e-249b-4e22-ba93-432d8e9c44b6",
-    "nombre": "disneyfa6835",
-    "status": "03:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Premier Padel: Alemania - Secondary Court (Primera Ronda)",
     "league": "Premier Padel",
     "fecha-evento": "2025-09-23T03:00:00-05:00",
     "img": "0851c840-5e75-45c6-b0b9-5ca4645b7abc",
     "nombre": "disney759bdd",
+    "status": "03:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Premier Padel: Alemania - Centre Court (Primera Ronda)",
+    "league": "Premier Padel",
+    "fecha-evento": "2025-09-23T03:00:00-05:00",
+    "img": "07ade78e-249b-4e22-ba93-432d8e9c44b6",
+    "nombre": "disneyfa6835",
     "status": "03:00",
     "duration": 135,
     "play_url": ""
@@ -494,21 +494,21 @@
     "play_url": ""
   },
   {
-    "title": "Boston Red Sox vs. Toronto Blue Jays",
-    "league": "MLB",
-    "fecha-evento": "2025-09-23T18:00:00-05:00",
-    "img": "a48fe815-d2af-4602-a7be-041b0000440c",
-    "nombre": "disneyac24c0",
-    "status": "18:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Ottawa Senators vs. Toronto Maple Leafs",
     "league": "National Hockey League",
     "fecha-evento": "2025-09-23T18:00:00-05:00",
     "img": "5e1787c3-3ee7-4f4e-bac0-a0bc70a66d9b",
     "nombre": "disneyd32642",
+    "status": "18:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Boston Red Sox vs. Toronto Blue Jays",
+    "league": "MLB",
+    "fecha-evento": "2025-09-23T18:00:00-05:00",
+    "img": "a48fe815-d2af-4602-a7be-041b0000440c",
+    "nombre": "disneyac24c0",
     "status": "18:00",
     "duration": 135,
     "play_url": ""
