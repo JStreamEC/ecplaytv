@@ -46,19 +46,6 @@
     "play_url": ""
   },
   {
-    "title": "Premier Padel: Alemania - Court 3",
-    "league": "Premier Padel",
-    "fecha-evento": "2025-09-22T06:08:39-05:00",
-    "img": "7f6e2b01-8def-43ba-a798-87a5e99ff181",
-    "nombre": "disneyfd1be1",
-    "status": "06:08",
-    "duration": 351,
-    "play_url": "https://www.disneyplus.com/es-es/play/c837c7da-47af-42f9-9d19-ee59c55a15a4",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1758644465~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F22%2FPremier_Padel_Alemania_Co_20250922_1758531629026%2F~psid=2244674d-a64e-4f9a-8c4c-d23af32e3204~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=15d899b4947e4fd8edbfdd32839e72e42d98adb66fcee7fff6b83b523ae28089/clt1/va02/disneyplus/event/2025/09/22/Premier_Padel_Alemania_Co_20250922_1758531629026/ctr-all-hdri-complete.m3u8?v=1&hash=ec861e51546886a6f81115b413c2ba21fabb71ae",
-    "k1": "082d423188cf4b0db313172c5e6b4696",
-    "k2": "de63a346a68d005b0402208ab87129f6"
-  },
-  {
     "title": "Cerrito vs. Fénix",
     "league": "Segunda División de Uruguay",
     "fecha-evento": "2025-09-22T11:45:15-05:00",
@@ -130,8 +117,11 @@
     "img": "f05a7012-c524-414c-aed9-e97a769d3590",
     "nombre": "disneyede98f",
     "status": "13:50",
-    "duration": 135,
-    "play_url": ""
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/5b8db2ea-c0cf-4329-baef-a16519a0f4ad",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1758654019~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F22%2FMillwall_vs_Watford_20250922_1758559831027%2F~psid=4a0ef425-03bd-464c-98df-c3a66dd93a46~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=2e12e3fdda56636221b670565138ded5fd8751703e2f84d88711a43f75c1ac6e/clt1/va02/disneyplus/event/2025/09/22/Millwall_vs_Watford_20250922_1758559831027/ctr-all-hdri-complete.m3u8?v=1&hash=e8e8ac0e6690587998adcfe27bcdb2d30df94617",
+    "k1": "81a70998952743f0bb90161c70bf2d0f",
+    "k2": "ae78e9c03976f82bd91a3403e6f60ab3"
   },
   {
     "title": "Pittsburgh Penguins vs. Montreal Canadiens",
@@ -297,7 +287,7 @@
     "title": "Racing Club (ARG) vs. Vélez Sarsfield (ARG) | 4tos de final, vuelta",
     "league": "CONMEBOL Libertadores",
     "fecha-evento": "2025-09-23T16:45:00-05:00",
-    "img": "7b64ac1b-b72f-4a51-9d03-7e139a0065a9",
+    "img": "e7295ba5-56be-4e8a-8ae8-6f8c6f4a0060",
     "nombre": "disney4df072",
     "status": "16:45",
     "duration": 135,
@@ -334,21 +324,21 @@
     "play_url": ""
   },
   {
-    "title": "Chicago Blackhawks vs. Detroit Red Wings",
-    "league": "National Hockey League",
-    "fecha-evento": "2025-09-23T18:00:00-05:00",
-    "img": "6395b478-5362-41cd-a281-396299e641a0",
-    "nombre": "disneyf882e4",
-    "status": "18:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Philadelphia Flyers vs. Montreal Canadiens",
     "league": "National Hockey League",
     "fecha-evento": "2025-09-23T18:00:00-05:00",
     "img": "4bce37de-1d9d-411c-95c7-609c063faaaf",
     "nombre": "disney9703c0",
+    "status": "18:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Chicago Blackhawks vs. Detroit Red Wings",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-09-23T18:00:00-05:00",
+    "img": "6395b478-5362-41cd-a281-396299e641a0",
+    "nombre": "disneyf882e4",
     "status": "18:00",
     "duration": 135,
     "play_url": ""
@@ -464,21 +454,21 @@
     "play_url": ""
   },
   {
-    "title": "Minnesota Wild vs. Dallas Stars",
-    "league": "National Hockey League",
-    "fecha-evento": "2025-09-23T19:00:00-05:00",
-    "img": "abf0f947-534e-4b9c-8d83-b1a3c5ed726f",
-    "nombre": "disneyc631dd",
-    "status": "19:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Edmonton Oilers vs. Winnipeg Jets",
     "league": "National Hockey League",
     "fecha-evento": "2025-09-23T19:00:00-05:00",
     "img": "83a9fe93-3716-47e9-9842-be7832cd3404",
     "nombre": "disney6b5a96",
+    "status": "19:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Minnesota Wild vs. Dallas Stars",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-09-23T19:00:00-05:00",
+    "img": "abf0f947-534e-4b9c-8d83-b1a3c5ed726f",
+    "nombre": "disneyc631dd",
     "status": "19:00",
     "duration": 135,
     "play_url": ""
@@ -650,6 +640,16 @@
     "img": "2d750b84-9ede-4c1e-a0dc-d0e94a5bcb7a",
     "nombre": "disney1721d1",
     "status": "11:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Getafe vs. Alavés",
+    "league": "LALIGA",
+    "fecha-evento": "2025-09-24T11:50:00-05:00",
+    "img": "5f1ad933-47ae-4cac-adb9-084e59679510",
+    "nombre": "disney9137a6",
+    "status": "11:50",
     "duration": 135,
     "play_url": ""
   }
