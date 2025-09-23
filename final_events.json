@@ -20,19 +20,6 @@
     "play_url": ""
   },
   {
-    "title": "Detroit Lions vs. Baltimore Ravens",
-    "league": "NFL",
-    "fecha-evento": "2025-09-22T19:00:00-05:00",
-    "img": "15014d7b-d07c-40af-8f33-a859789416d9",
-    "nombre": "disneycfbc34",
-    "status": "19:00",
-    "duration": 195,
-    "play_url": "https://www.disneyplus.com/es-es/play/38b3721f-6375-4bcb-a991-2ec77bc001a3",
-    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1758673219~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Ff25bdf06-81c9-4a7c-b128-3128d610ad17-1756223551993%2F~psid=67083eaa-2002-4af4-a132-8e7e6a5da4ba~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=0401e09516cebe609c25605bde2f32c67868edecbf1faf5b8e4d93c798d057d7/clt1/va02/disneyplus/channel/f25bdf06-81c9-4a7c-b128-3128d610ad17-1756223551993/ctr-all-sliding.m3u8?v=1&hash=aa8d2bb37fafb9b8d31c8b8095cb65f827b67eb8",
-    "k1": "fd5b5aca7aad435fbba9c1b77e68513d",
-    "k2": "0fa377cbc0eb062d0342ae4942d39cd2"
-  },
-  {
     "title": "Milwaukee Brewers vs. San Diego Padres",
     "league": "MLB",
     "fecha-evento": "2025-09-22T20:30:00-05:00",
@@ -72,21 +59,21 @@
     "k2": "00254d71d94cf06be4db8f38ab424e0e"
   },
   {
-    "title": "Premier Padel: Alemania - Secondary Court (Primera Ronda)",
-    "league": "Premier Padel",
-    "fecha-evento": "2025-09-23T03:00:00-05:00",
-    "img": "0851c840-5e75-45c6-b0b9-5ca4645b7abc",
-    "nombre": "disney759bdd",
-    "status": "03:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Premier Padel: Alemania - Centre Court (Primera Ronda)",
     "league": "Premier Padel",
     "fecha-evento": "2025-09-23T03:00:00-05:00",
     "img": "07ade78e-249b-4e22-ba93-432d8e9c44b6",
     "nombre": "disneyfa6835",
+    "status": "03:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Premier Padel: Alemania - Secondary Court (Primera Ronda)",
+    "league": "Premier Padel",
+    "fecha-evento": "2025-09-23T03:00:00-05:00",
+    "img": "0851c840-5e75-45c6-b0b9-5ca4645b7abc",
+    "nombre": "disney759bdd",
     "status": "03:00",
     "duration": 135,
     "play_url": ""
@@ -182,16 +169,6 @@
     "play_url": ""
   },
   {
-    "title": "Boston Bruins vs. New York Rangers",
-    "league": "National Hockey League",
-    "fecha-evento": "2025-09-23T18:00:00-05:00",
-    "img": "87061e81-fc63-4908-b002-8a7f9ca98bfd",
-    "nombre": "disneyc5f203",
-    "status": "18:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Ottawa Senators vs. Toronto Maple Leafs",
     "league": "National Hockey League",
     "fecha-evento": "2025-09-23T18:00:00-05:00",
@@ -202,11 +179,11 @@
     "play_url": ""
   },
   {
-    "title": "Philadelphia Flyers vs. Montreal Canadiens",
+    "title": "Boston Bruins vs. New York Rangers",
     "league": "National Hockey League",
     "fecha-evento": "2025-09-23T18:00:00-05:00",
-    "img": "4bce37de-1d9d-411c-95c7-609c063faaaf",
-    "nombre": "disney9703c0",
+    "img": "87061e81-fc63-4908-b002-8a7f9ca98bfd",
+    "nombre": "disneyc5f203",
     "status": "18:00",
     "duration": 135,
     "play_url": ""
@@ -217,6 +194,16 @@
     "fecha-evento": "2025-09-23T18:00:00-05:00",
     "img": "6395b478-5362-41cd-a281-396299e641a0",
     "nombre": "disneyf882e4",
+    "status": "18:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Philadelphia Flyers vs. Montreal Canadiens",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-09-23T18:00:00-05:00",
+    "img": "4bce37de-1d9d-411c-95c7-609c063faaaf",
+    "nombre": "disney9703c0",
     "status": "18:00",
     "duration": 135,
     "play_url": ""
@@ -627,6 +614,16 @@
     "fecha-evento": "2025-09-24T13:40:00-05:00",
     "img": "1586ffd8-a7f9-4d71-8a10-d07e0c91b666",
     "nombre": "disney477901",
+    "status": "13:40",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Newcastle United vs. Bradford City",
+    "league": "Carabao Cup",
+    "fecha-evento": "2025-09-24T13:40:00-05:00",
+    "img": "43d2be25-3640-46b2-873b-3621d39381d3",
+    "nombre": "disney2f2807",
     "status": "13:40",
     "duration": 135,
     "play_url": ""
