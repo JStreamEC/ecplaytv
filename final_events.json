@@ -52,8 +52,11 @@
     "img": "5f1ad933-47ae-4cac-adb9-084e59679510",
     "nombre": "disneyc9a10a",
     "status": "11:50",
-    "duration": 135,
-    "play_url": ""
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/7bfcdc68-d690-415f-8ad9-066ca333b284",
+    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1758733218~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Ff25bdf06-81c9-4a7c-b128-3128d610ad17-1756223551993%2F~psid=ba2366f2-cbd1-4faf-8888-c46bebe62a6b~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=4718e4c975bc5a6fb461ba2c39b891b8fc817972b10c1ac11f32d3fa6ee1e3e4/clt1/va02/disneyplus/channel/f25bdf06-81c9-4a7c-b128-3128d610ad17-1756223551993/ctr-all-sliding.m3u8?v=1&hash=aa8d2bb37fafb9b8d31c8b8095cb65f827b67eb8",
+    "k1": "f11f5570f73a45799bf58a4970e74a75",
+    "k2": "ada926ebeffcae1ac6d0f637325c3087"
   },
   {
     "title": "Lincoln City vs. Chelsea (Third Round)",
@@ -116,21 +119,21 @@
     "play_url": ""
   },
   {
-    "title": "Ottawa Senators vs. Toronto Maple Leafs",
-    "league": "National Hockey League",
-    "fecha-evento": "2025-09-23T18:00:00-05:00",
-    "img": "5e1787c3-3ee7-4f4e-bac0-a0bc70a66d9b",
-    "nombre": "disneyd32642",
-    "status": "18:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Boston Bruins vs. New York Rangers",
     "league": "National Hockey League",
     "fecha-evento": "2025-09-23T18:00:00-05:00",
     "img": "87061e81-fc63-4908-b002-8a7f9ca98bfd",
     "nombre": "disneyc5f203",
+    "status": "18:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Ottawa Senators vs. Toronto Maple Leafs",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-09-23T18:00:00-05:00",
+    "img": "5e1787c3-3ee7-4f4e-bac0-a0bc70a66d9b",
+    "nombre": "disneyd32642",
     "status": "18:00",
     "duration": 135,
     "play_url": ""
@@ -156,21 +159,21 @@
     "play_url": ""
   },
   {
-    "title": "Ottawa Senators vs. Toronto Maple Leafs",
-    "league": "National Hockey League",
-    "fecha-evento": "2025-09-23T18:00:00-05:00",
-    "img": "5e1787c3-3ee7-4f4e-bac0-a0bc70a66d9b",
-    "nombre": "disneyd32642",
-    "status": "18:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Boston Red Sox vs. Toronto Blue Jays",
     "league": "MLB",
     "fecha-evento": "2025-09-23T18:00:00-05:00",
     "img": "a48fe815-d2af-4602-a7be-041b0000440c",
     "nombre": "disneyac24c0",
+    "status": "18:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Ottawa Senators vs. Toronto Maple Leafs",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-09-23T18:00:00-05:00",
+    "img": "5e1787c3-3ee7-4f4e-bac0-a0bc70a66d9b",
+    "nombre": "disneyd32642",
     "status": "18:00",
     "duration": 135,
     "play_url": ""
@@ -266,21 +269,21 @@
     "play_url": ""
   },
   {
-    "title": "Minnesota Wild vs. Dallas Stars",
-    "league": "National Hockey League",
-    "fecha-evento": "2025-09-23T19:00:00-05:00",
-    "img": "abf0f947-534e-4b9c-8d83-b1a3c5ed726f",
-    "nombre": "disneyc631dd",
-    "status": "19:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Edmonton Oilers vs. Winnipeg Jets",
     "league": "National Hockey League",
     "fecha-evento": "2025-09-23T19:00:00-05:00",
     "img": "83a9fe93-3716-47e9-9842-be7832cd3404",
     "nombre": "disney6b5a96",
+    "status": "19:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Minnesota Wild vs. Dallas Stars",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-09-23T19:00:00-05:00",
+    "img": "abf0f947-534e-4b9c-8d83-b1a3c5ed726f",
+    "nombre": "disneyc631dd",
     "status": "19:00",
     "duration": 135,
     "play_url": ""
