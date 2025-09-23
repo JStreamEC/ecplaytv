@@ -10,32 +10,6 @@
     "play_url": ""
   },
   {
-    "title": "Lazio vs. Roma",
-    "league": "Seria A",
-    "fecha-evento": "2025-09-23T14:00:00-05:00",
-    "img": "019c6acb-e54a-4283-a745-d11b8e64cc93",
-    "nombre": "disney3db85c",
-    "status": "14:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/5f6b01c6-4968-4c60-8288-95078682fd1a",
-    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1758741618~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Ff25bdf06-81c9-4a7c-b128-3128d610ad17-1756223551993%2F~psid=8c7ab0cd-2287-4159-836d-df668f944f11~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=a7d00686df7c1b72040e85a891b79dcbcf7f1dfd7aba612963686bb69ffcac82/clt1/va02/disneyplus/channel/f25bdf06-81c9-4a7c-b128-3128d610ad17-1756223551993/ctr-all-sliding.m3u8?v=1&hash=aa8d2bb37fafb9b8d31c8b8095cb65f827b67eb8",
-    "k1": "f11f5570f73a45799bf58a4970e74a75",
-    "k2": "ada926ebeffcae1ac6d0f637325c3087"
-  },
-  {
-    "title": "Premier Padel: Alemania - Secondary Court (Primera Ronda)",
-    "league": "Premier Padel",
-    "fecha-evento": "2025-09-23T03:03:58-05:00",
-    "img": "0851c840-5e75-45c6-b0b9-5ca4645b7abc",
-    "nombre": "disneyf35295",
-    "status": "03:03",
-    "duration": 686,
-    "play_url": "https://www.disneyplus.com/es-es/play/0a807e42-3809-4871-ac22-0f028b5d456c",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1758726063~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F23%2FPremier_Padel_Alemania_Se_20250923_1758607228032%2F~psid=bad686a7-13b7-4ca4-8729-882d1d154a1c~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=27654e912048344c3a40b98ab4cecf2823c7d615f7e888d344b8f821c42e2fa4/clt1/va02/disneyplus/event/2025/09/23/Premier_Padel_Alemania_Se_20250923_1758607228032/ctr-all-hdri-complete.m3u8?v=1&hash=8cb1dc01989264f6b5a0f432213e388c9a674c2b",
-    "k1": "3bf0fa06e3514230b4a2d2d7560c03c2",
-    "k2": "d977bfc40f277c217053aee49b91918d"
-  },
-  {
     "title": "Espanyol vs. Valencia",
     "league": "LALIGA",
     "fecha-evento": "2025-09-23T14:20:00-05:00",
@@ -89,11 +63,11 @@
     "play_url": ""
   },
   {
-    "title": "#7 Saint Louis vs. #10 Akron",
+    "title": "#8 Saint Louis vs. Akron",
     "league": "Fútbol Masculino NCAA",
     "fecha-evento": "2025-09-23T18:00:00-05:00",
     "img": "3cfd198b-3120-41eb-bd7c-8fd6dd40305d",
-    "nombre": "disneyfceb86",
+    "nombre": "disneyf9c607",
     "status": "18:00",
     "duration": 135,
     "play_url": ""
@@ -371,10 +345,10 @@
   {
     "title": "Premier Padel: Alemania - Centre Court (Octavos de Final)",
     "league": "Premier Padel",
-    "fecha-evento": "2025-09-24T09:00:00-05:00",
+    "fecha-evento": "2025-09-24T10:00:00-05:00",
     "img": "bf76bf1a-3e07-4e9e-a8d0-3ff76f093d8a",
-    "nombre": "disneyee70a3",
-    "status": "09:00",
+    "nombre": "disney585a30",
+    "status": "10:00",
     "duration": 135,
     "play_url": ""
   },
@@ -634,6 +608,26 @@
     "fecha-evento": "2025-09-24T18:00:00-05:00",
     "img": "5974a46e-41cf-461b-99cc-7ce7908079a5",
     "nombre": "disneyd860ad",
+    "status": "18:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "South Carolina vs. #3 Kentucky",
+    "league": "NCAA Women's Volleyball",
+    "fecha-evento": "2025-09-24T18:00:00-05:00",
+    "img": "00fe212e-3004-48c5-9746-bcea70e7e494",
+    "nombre": "disney0edbd4",
+    "status": "18:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Boston Red Sox vs. Toronto Blue Jays",
+    "league": "MLB",
+    "fecha-evento": "2025-09-24T18:00:00-05:00",
+    "img": "a48fe815-d2af-4602-a7be-041b0000440c",
+    "nombre": "disney27336f",
     "status": "18:00",
     "duration": 135,
     "play_url": ""
