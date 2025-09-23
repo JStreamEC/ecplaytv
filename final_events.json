@@ -23,19 +23,6 @@
     "k2": "ada926ebeffcae1ac6d0f637325c3087"
   },
   {
-    "title": "Premier Padel: Alemania - Centre Court (Primera Ronda)",
-    "league": "Premier Padel",
-    "fecha-evento": "2025-09-23T03:00:10-05:00",
-    "img": "07ade78e-249b-4e22-ba93-432d8e9c44b6",
-    "nombre": "disneyce1688",
-    "status": "03:00",
-    "duration": 690,
-    "play_url": "https://www.disneyplus.com/es-es/play/ecc3b8b7-f19b-4fdf-ba0d-eaa4f3de3044",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1758726020~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F23%2FPremier_Padel_Alemania_Ce_20250923_1758607254041%2F~psid=22f8b25e-6192-4bd1-a02d-6e846c69ebc2~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=b27f78a80a404f7765af6d6e908df1d1e0e55068c2fbdb720daaba5541bc32fa/clt1/va02/disneyplus/event/2025/09/23/Premier_Padel_Alemania_Ce_20250923_1758607254041/ctr-all-hdri-complete.m3u8?v=1&hash=ffd79fde646ff7024c4ddea72a09d7efb4e4e218",
-    "k1": "5e0275219ddd41709fbdc7211212d187",
-    "k2": "2d70b8c662dc4886fa405e21f9536654"
-  },
-  {
     "title": "Premier Padel: Alemania - Secondary Court (Primera Ronda)",
     "league": "Premier Padel",
     "fecha-evento": "2025-09-23T03:03:58-05:00",
@@ -524,7 +511,7 @@
     "title": "Real Betis vs. Nottingham Forest",
     "league": "UEFA Europa League",
     "fecha-evento": "2025-09-24T13:40:00-05:00",
-    "img": "a820acb2-9a1e-4ee8-b82c-8c4605c3a119",
+    "img": "f3124d0a-4251-452b-b977-b4402e59f832",
     "nombre": "disneyf07f8f",
     "status": "13:40",
     "duration": 135,
@@ -647,6 +634,16 @@
     "img": "b30970de-8aed-4439-96c5-3b90f11c0feb",
     "nombre": "disneyd59224",
     "status": "17:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Boston Red Sox vs. Toronto Blue Jays",
+    "league": "MLB",
+    "fecha-evento": "2025-09-24T18:00:00-05:00",
+    "img": "a48fe815-d2af-4602-a7be-041b0000440c",
+    "nombre": "disney27336f",
+    "status": "18:00",
     "duration": 135,
     "play_url": ""
   }
