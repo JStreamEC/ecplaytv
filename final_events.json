@@ -33,24 +33,30 @@
     "k2": "0fa377cbc0eb062d0342ae4942d39cd2"
   },
   {
-    "title": "Milwaukee Brewers vs. San Diego Padres",
-    "league": "MLB",
-    "fecha-evento": "2025-09-22T20:30:00-05:00",
-    "img": "42b7c426-419e-44b7-be18-ce544f2dabe6",
-    "nombre": "disneyb5c236",
-    "status": "20:30",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "St. Louis Cardinals vs. San Francisco Giants",
     "league": "MLB",
     "fecha-evento": "2025-09-22T20:30:00-05:00",
     "img": "0e20942e-4ee1-4f8a-9d49-a6e46bbb9a63",
     "nombre": "disneyd8084d",
     "status": "20:30",
-    "duration": 135,
-    "play_url": ""
+    "duration": 180,
+    "play_url": "https://www.disneyplus.com/es-es/play/664aec97-910b-4a40-b556-5f4fc3a01873",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1758678022~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F23%2FSt_Louis_Cardinals_vs_San_20250923_1758583834032%2F~psid=dc73c9c6-bd58-4fc9-ba18-f8bc33b0b295~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=1e4f8f28af394eeb88353b3081b64407d659f4e4a1f97f271a0862b1fb74ad12/clt1/va02/disneyplus/event/2025/09/23/St_Louis_Cardinals_vs_San_20250923_1758583834032/ctr-all-hdri-complete.m3u8?v=1&hash=7931fb3ed2ca4661fa537a5c62335c86baf5f074",
+    "k1": "d4ef1f96aa5d4939851c2a13cf6e6ad8",
+    "k2": "1be11c6e6b5ea2a8110840c872db0cf0"
+  },
+  {
+    "title": "Milwaukee Brewers vs. San Diego Padres",
+    "league": "MLB",
+    "fecha-evento": "2025-09-22T20:30:00-05:00",
+    "img": "ec7ea0b4-0e84-4880-a5c4-8187823f5446",
+    "nombre": "disneyb5c236",
+    "status": "20:30",
+    "duration": 180,
+    "play_url": "https://www.disneyplus.com/es-es/play/f02153c6-77c0-4229-ac49-1a592d150962",
+    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1758678065~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Fbbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1758265170869%2F~psid=bc34c290-770e-4726-846d-d6da20318a13~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=2b9236ceb974775630986b58362e8acac8ca361a5e0fefe205340282f77830c5/clt1/va02/disneyplus/channel/bbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1758265170869/ctr-all-sliding.m3u8?v=1&hash=4b44ed5e140524edee19ba7de50a11aef68f9d53",
+    "k1": "f7b6365f3d5349a4a1344ad8f97b0b9c",
+    "k2": "4d12cb3f0c04c35bda4b17e7f5910ff3"
   },
   {
     "title": "Utah Mammoth vs. Anaheim Ducks",
@@ -183,21 +189,21 @@
     "play_url": ""
   },
   {
-    "title": "Ottawa Senators vs. Toronto Maple Leafs",
-    "league": "National Hockey League",
-    "fecha-evento": "2025-09-23T18:00:00-05:00",
-    "img": "5e1787c3-3ee7-4f4e-bac0-a0bc70a66d9b",
-    "nombre": "disneyd32642",
-    "status": "18:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Boston Bruins vs. New York Rangers",
     "league": "National Hockey League",
     "fecha-evento": "2025-09-23T18:00:00-05:00",
     "img": "87061e81-fc63-4908-b002-8a7f9ca98bfd",
     "nombre": "disneyc5f203",
+    "status": "18:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Ottawa Senators vs. Toronto Maple Leafs",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-09-23T18:00:00-05:00",
+    "img": "5e1787c3-3ee7-4f4e-bac0-a0bc70a66d9b",
+    "nombre": "disneyd32642",
     "status": "18:00",
     "duration": 135,
     "play_url": ""
@@ -333,21 +339,21 @@
     "play_url": ""
   },
   {
-    "title": "Edmonton Oilers vs. Winnipeg Jets",
-    "league": "National Hockey League",
-    "fecha-evento": "2025-09-23T19:00:00-05:00",
-    "img": "83a9fe93-3716-47e9-9842-be7832cd3404",
-    "nombre": "disney6b5a96",
-    "status": "19:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Minnesota Wild vs. Dallas Stars",
     "league": "National Hockey League",
     "fecha-evento": "2025-09-23T19:00:00-05:00",
     "img": "abf0f947-534e-4b9c-8d83-b1a3c5ed726f",
     "nombre": "disneyc631dd",
+    "status": "19:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Edmonton Oilers vs. Winnipeg Jets",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-09-23T19:00:00-05:00",
+    "img": "83a9fe93-3716-47e9-9842-be7832cd3404",
+    "nombre": "disney6b5a96",
     "status": "19:00",
     "duration": 135,
     "play_url": ""
@@ -583,21 +589,21 @@
     "play_url": ""
   },
   {
-    "title": "Crvena Zvezda vs. Celtic",
-    "league": "UEFA Europa League",
-    "fecha-evento": "2025-09-24T13:40:00-05:00",
-    "img": "30c599a6-d8d9-4703-b802-041c0fd1cc32",
-    "nombre": "disney975628",
-    "status": "13:40",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Dinamo Zagreb vs. Fenerbahçe",
     "league": "UEFA Europa League",
     "fecha-evento": "2025-09-24T13:40:00-05:00",
     "img": "deb46ecf-bca1-49c7-819d-8cd92594e597",
     "nombre": "disney5264ee",
+    "status": "13:40",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Crvena Zvezda vs. Celtic",
+    "league": "UEFA Europa League",
+    "fecha-evento": "2025-09-24T13:40:00-05:00",
+    "img": "30c599a6-d8d9-4703-b802-041c0fd1cc32",
+    "nombre": "disney975628",
     "status": "13:40",
     "duration": 135,
     "play_url": ""
