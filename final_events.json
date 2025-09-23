@@ -139,16 +139,6 @@
     "play_url": ""
   },
   {
-    "title": "Chicago Blackhawks vs. Detroit Red Wings",
-    "league": "National Hockey League",
-    "fecha-evento": "2025-09-23T18:00:00-05:00",
-    "img": "6395b478-5362-41cd-a281-396299e641a0",
-    "nombre": "disneyf882e4",
-    "status": "18:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Philadelphia Flyers vs. Montreal Canadiens",
     "league": "National Hockey League",
     "fecha-evento": "2025-09-23T18:00:00-05:00",
@@ -159,11 +149,11 @@
     "play_url": ""
   },
   {
-    "title": "Boston Red Sox vs. Toronto Blue Jays",
-    "league": "MLB",
+    "title": "Chicago Blackhawks vs. Detroit Red Wings",
+    "league": "National Hockey League",
     "fecha-evento": "2025-09-23T18:00:00-05:00",
-    "img": "a48fe815-d2af-4602-a7be-041b0000440c",
-    "nombre": "disneyac24c0",
+    "img": "6395b478-5362-41cd-a281-396299e641a0",
+    "nombre": "disneyf882e4",
     "status": "18:00",
     "duration": 135,
     "play_url": ""
@@ -174,6 +164,16 @@
     "fecha-evento": "2025-09-23T18:00:00-05:00",
     "img": "5e1787c3-3ee7-4f4e-bac0-a0bc70a66d9b",
     "nombre": "disneyd32642",
+    "status": "18:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Boston Red Sox vs. Toronto Blue Jays",
+    "league": "MLB",
+    "fecha-evento": "2025-09-23T18:00:00-05:00",
+    "img": "a48fe815-d2af-4602-a7be-041b0000440c",
+    "nombre": "disneyac24c0",
     "status": "18:00",
     "duration": 135,
     "play_url": ""
@@ -269,21 +269,21 @@
     "play_url": ""
   },
   {
-    "title": "Minnesota Wild vs. Dallas Stars",
-    "league": "National Hockey League",
-    "fecha-evento": "2025-09-23T19:00:00-05:00",
-    "img": "abf0f947-534e-4b9c-8d83-b1a3c5ed726f",
-    "nombre": "disneyc631dd",
-    "status": "19:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Edmonton Oilers vs. Winnipeg Jets",
     "league": "National Hockey League",
     "fecha-evento": "2025-09-23T19:00:00-05:00",
     "img": "83a9fe93-3716-47e9-9842-be7832cd3404",
     "nombre": "disney6b5a96",
+    "status": "19:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Minnesota Wild vs. Dallas Stars",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-09-23T19:00:00-05:00",
+    "img": "abf0f947-534e-4b9c-8d83-b1a3c5ed726f",
+    "nombre": "disneyc631dd",
     "status": "19:00",
     "duration": 135,
     "play_url": ""
@@ -519,21 +519,21 @@
     "play_url": ""
   },
   {
-    "title": "Dinamo Zagreb vs. Fenerbahçe",
-    "league": "UEFA Europa League",
-    "fecha-evento": "2025-09-24T13:40:00-05:00",
-    "img": "52b7a16f-5c99-4219-81cc-c2180c086b68",
-    "nombre": "disney5264ee",
-    "status": "13:40",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Crvena Zvezda vs. Celtic",
     "league": "UEFA Europa League",
     "fecha-evento": "2025-09-24T13:40:00-05:00",
     "img": "059fabfa-d56c-4916-9cc4-97a2a31b6047",
     "nombre": "disney975628",
+    "status": "13:40",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Dinamo Zagreb vs. Fenerbahçe",
+    "league": "UEFA Europa League",
+    "fecha-evento": "2025-09-24T13:40:00-05:00",
+    "img": "52b7a16f-5c99-4219-81cc-c2180c086b68",
+    "nombre": "disney5264ee",
     "status": "13:40",
     "duration": 135,
     "play_url": ""
