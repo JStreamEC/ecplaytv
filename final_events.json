@@ -20,40 +20,17 @@
     "play_url": ""
   },
   {
-    "title": "Pittsburgh Penguins vs. Montreal Canadiens",
-    "league": "National Hockey League",
-    "fecha-evento": "2025-09-22T18:00:00-05:00",
-    "img": "f8252b7b-265f-475b-9efb-09ec7b61f555",
-    "nombre": "disney18b034",
-    "status": "18:00",
-    "duration": 210,
-    "play_url": "https://www.disneyplus.com/es-es/play/4916a6a6-e923-475d-9d76-e6fe745707d7",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1758668419~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F22%2FPittsburgh_Penguins_vs_Mo_20250922_1758574846030%2F~psid=1ba49e93-97d3-4273-b02d-6edec763f986~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=6677a816dad368ebe9c9f1bb39316d9829724b7ff2d3eaea54cde4a63273f18f/clt1/va02/disneyplus/event/2025/09/22/Pittsburgh_Penguins_vs_Mo_20250922_1758574846030/ctr-all-hdri-complete.m3u8?v=1&hash=b788d91cc3edefbd2187400a98f98b5deb7383bf",
-    "k1": "224dfc6adfab4d44939ca085fa68e643",
-    "k2": "ad40b03394e10e124077274b4d2bb24f"
-  },
-  {
-    "title": "Buffalo Sabres vs. Columbus Blue Jackets",
-    "league": "National Hockey League",
-    "fecha-evento": "2025-09-22T18:00:00-05:00",
-    "img": "cea4236c-f016-423a-986d-89fdf19f6145",
-    "nombre": "disneye346fb",
-    "status": "18:00",
-    "duration": 210,
-    "play_url": "https://www.disneyplus.com/es-es/play/94aaf320-e49b-4ac8-b911-b7bbfdb3f712",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1758668462~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F22%2FBuffalo_Sabres_vs_Columbu_20250922_1758574844025%2F~psid=eb781612-e216-4485-92ce-1b8997450952~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=7e9035ddcafa45f0e7f28cca0f5a72372cd8e7cf078facf380252127d7d5e06c/clt1/va02/disneyplus/event/2025/09/22/Buffalo_Sabres_vs_Columbu_20250922_1758574844025/ctr-all-hdri-complete.m3u8?v=1&hash=5c0f3f3502a7d32a13e7db2fc3247e6941590b50",
-    "k1": "c80c4058fab64b62a576e716213f7915",
-    "k2": "163364a640f9123b31d931d696799e1e"
-  },
-  {
     "title": "Detroit Lions vs. Baltimore Ravens",
     "league": "NFL",
     "fecha-evento": "2025-09-22T19:00:00-05:00",
     "img": "15014d7b-d07c-40af-8f33-a859789416d9",
     "nombre": "disneycfbc34",
     "status": "19:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 195,
+    "play_url": "https://www.disneyplus.com/es-es/play/38b3721f-6375-4bcb-a991-2ec77bc001a3",
+    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1758673219~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Ff25bdf06-81c9-4a7c-b128-3128d610ad17-1756223551993%2F~psid=67083eaa-2002-4af4-a132-8e7e6a5da4ba~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=0401e09516cebe609c25605bde2f32c67868edecbf1faf5b8e4d93c798d057d7/clt1/va02/disneyplus/channel/f25bdf06-81c9-4a7c-b128-3128d610ad17-1756223551993/ctr-all-sliding.m3u8?v=1&hash=aa8d2bb37fafb9b8d31c8b8095cb65f827b67eb8",
+    "k1": "fd5b5aca7aad435fbba9c1b77e68513d",
+    "k2": "0fa377cbc0eb062d0342ae4942d39cd2"
   },
   {
     "title": "Milwaukee Brewers vs. San Diego Padres",
@@ -96,21 +73,21 @@
     "play_url": ""
   },
   {
-    "title": "Premier Padel: Alemania - Centre Court (Primera Ronda)",
-    "league": "Premier Padel",
-    "fecha-evento": "2025-09-23T03:00:00-05:00",
-    "img": "07ade78e-249b-4e22-ba93-432d8e9c44b6",
-    "nombre": "disneyfa6835",
-    "status": "03:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Premier Padel: Alemania - Secondary Court (Primera Ronda)",
     "league": "Premier Padel",
     "fecha-evento": "2025-09-23T03:00:00-05:00",
     "img": "0851c840-5e75-45c6-b0b9-5ca4645b7abc",
     "nombre": "disney759bdd",
+    "status": "03:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Premier Padel: Alemania - Centre Court (Primera Ronda)",
+    "league": "Premier Padel",
+    "fecha-evento": "2025-09-23T03:00:00-05:00",
+    "img": "07ade78e-249b-4e22-ba93-432d8e9c44b6",
+    "nombre": "disneyfa6835",
     "status": "03:00",
     "duration": 135,
     "play_url": ""
@@ -226,21 +203,21 @@
     "play_url": ""
   },
   {
-    "title": "Chicago Blackhawks vs. Detroit Red Wings",
-    "league": "National Hockey League",
-    "fecha-evento": "2025-09-23T18:00:00-05:00",
-    "img": "6395b478-5362-41cd-a281-396299e641a0",
-    "nombre": "disneyf882e4",
-    "status": "18:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Philadelphia Flyers vs. Montreal Canadiens",
     "league": "National Hockey League",
     "fecha-evento": "2025-09-23T18:00:00-05:00",
     "img": "4bce37de-1d9d-411c-95c7-609c063faaaf",
     "nombre": "disney9703c0",
+    "status": "18:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Chicago Blackhawks vs. Detroit Red Wings",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-09-23T18:00:00-05:00",
+    "img": "6395b478-5362-41cd-a281-396299e641a0",
+    "nombre": "disneyf882e4",
     "status": "18:00",
     "duration": 135,
     "play_url": ""
@@ -356,21 +333,21 @@
     "play_url": ""
   },
   {
-    "title": "Minnesota Wild vs. Dallas Stars",
-    "league": "National Hockey League",
-    "fecha-evento": "2025-09-23T19:00:00-05:00",
-    "img": "abf0f947-534e-4b9c-8d83-b1a3c5ed726f",
-    "nombre": "disneyc631dd",
-    "status": "19:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Edmonton Oilers vs. Winnipeg Jets",
     "league": "National Hockey League",
     "fecha-evento": "2025-09-23T19:00:00-05:00",
     "img": "83a9fe93-3716-47e9-9842-be7832cd3404",
     "nombre": "disney6b5a96",
+    "status": "19:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Minnesota Wild vs. Dallas Stars",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-09-23T19:00:00-05:00",
+    "img": "abf0f947-534e-4b9c-8d83-b1a3c5ed726f",
+    "nombre": "disneyc631dd",
     "status": "19:00",
     "duration": 135,
     "play_url": ""
@@ -606,16 +583,6 @@
     "play_url": ""
   },
   {
-    "title": "Dinamo Zagreb vs. Fenerbahçe",
-    "league": "UEFA Europa League",
-    "fecha-evento": "2025-09-24T13:40:00-05:00",
-    "img": "deb46ecf-bca1-49c7-819d-8cd92594e597",
-    "nombre": "disney5264ee",
-    "status": "13:40",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Crvena Zvezda vs. Celtic",
     "league": "UEFA Europa League",
     "fecha-evento": "2025-09-24T13:40:00-05:00",
@@ -626,11 +593,41 @@
     "play_url": ""
   },
   {
+    "title": "Dinamo Zagreb vs. Fenerbahçe",
+    "league": "UEFA Europa League",
+    "fecha-evento": "2025-09-24T13:40:00-05:00",
+    "img": "deb46ecf-bca1-49c7-819d-8cd92594e597",
+    "nombre": "disney5264ee",
+    "status": "13:40",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
     "title": "Real Betis vs. Nottingham Forest",
     "league": "UEFA Europa League",
     "fecha-evento": "2025-09-24T13:40:00-05:00",
     "img": "f3124d0a-4251-452b-b977-b4402e59f832",
     "nombre": "disneyf07f8f",
+    "status": "13:40",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "SC Braga vs. Feyenoord",
+    "league": "UEFA Europa League",
+    "fecha-evento": "2025-09-24T13:40:00-05:00",
+    "img": "03b25af6-d72d-4b9a-b246-2be24169bec3",
+    "nombre": "disney3f1698",
+    "status": "13:40",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "UEL al instante",
+    "league": "UEFA Europa League",
+    "fecha-evento": "2025-09-24T13:40:00-05:00",
+    "img": "1586ffd8-a7f9-4d71-8a10-d07e0c91b666",
+    "nombre": "disney477901",
     "status": "13:40",
     "duration": 135,
     "play_url": ""
