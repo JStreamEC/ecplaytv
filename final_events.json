@@ -183,21 +183,21 @@
     "play_url": ""
   },
   {
-    "title": "Ottawa Senators vs. Toronto Maple Leafs",
-    "league": "National Hockey League",
-    "fecha-evento": "2025-09-23T18:00:00-05:00",
-    "img": "5e1787c3-3ee7-4f4e-bac0-a0bc70a66d9b",
-    "nombre": "disneyd32642",
-    "status": "18:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Boston Bruins vs. New York Rangers",
     "league": "National Hockey League",
     "fecha-evento": "2025-09-23T18:00:00-05:00",
     "img": "87061e81-fc63-4908-b002-8a7f9ca98bfd",
     "nombre": "disneyc5f203",
+    "status": "18:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Ottawa Senators vs. Toronto Maple Leafs",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-09-23T18:00:00-05:00",
+    "img": "5e1787c3-3ee7-4f4e-bac0-a0bc70a66d9b",
+    "nombre": "disneyd32642",
     "status": "18:00",
     "duration": 135,
     "play_url": ""
@@ -333,21 +333,21 @@
     "play_url": ""
   },
   {
-    "title": "Edmonton Oilers vs. Winnipeg Jets",
-    "league": "National Hockey League",
-    "fecha-evento": "2025-09-23T19:00:00-05:00",
-    "img": "83a9fe93-3716-47e9-9842-be7832cd3404",
-    "nombre": "disney6b5a96",
-    "status": "19:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Minnesota Wild vs. Dallas Stars",
     "league": "National Hockey League",
     "fecha-evento": "2025-09-23T19:00:00-05:00",
     "img": "abf0f947-534e-4b9c-8d83-b1a3c5ed726f",
     "nombre": "disneyc631dd",
+    "status": "19:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Edmonton Oilers vs. Winnipeg Jets",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-09-23T19:00:00-05:00",
+    "img": "83a9fe93-3716-47e9-9842-be7832cd3404",
+    "nombre": "disney6b5a96",
     "status": "19:00",
     "duration": 135,
     "play_url": ""
@@ -583,21 +583,21 @@
     "play_url": ""
   },
   {
-    "title": "Crvena Zvezda vs. Celtic",
-    "league": "UEFA Europa League",
-    "fecha-evento": "2025-09-24T13:40:00-05:00",
-    "img": "30c599a6-d8d9-4703-b802-041c0fd1cc32",
-    "nombre": "disney975628",
-    "status": "13:40",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Dinamo Zagreb vs. Fenerbahçe",
     "league": "UEFA Europa League",
     "fecha-evento": "2025-09-24T13:40:00-05:00",
     "img": "deb46ecf-bca1-49c7-819d-8cd92594e597",
     "nombre": "disney5264ee",
+    "status": "13:40",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Crvena Zvezda vs. Celtic",
+    "league": "UEFA Europa League",
+    "fecha-evento": "2025-09-24T13:40:00-05:00",
+    "img": "30c599a6-d8d9-4703-b802-041c0fd1cc32",
+    "nombre": "disney975628",
     "status": "13:40",
     "duration": 135,
     "play_url": ""
