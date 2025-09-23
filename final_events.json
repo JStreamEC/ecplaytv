@@ -10,19 +10,6 @@
     "play_url": ""
   },
   {
-    "title": "Espanyol vs. Valencia",
-    "league": "LALIGA",
-    "fecha-evento": "2025-09-23T14:20:00-05:00",
-    "img": "5f1ad933-47ae-4cac-adb9-084e59679510",
-    "nombre": "disney77c4a5",
-    "status": "14:20",
-    "duration": 125,
-    "play_url": "https://www.disneyplus.com/es-es/play/486101bb-54ab-442c-bc20-e3eec683bc83",
-    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1758741662~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F921e1311-bb26-43dd-84a6-9e2284959712-1756222679255%2F~psid=8913ece6-fc24-4d69-b403-47445ca55c94~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=340cfd0bbb336971c33d818710645b755db4500f83cbad6835f07bc4fe42b319/clt1/va02/disneyplus/channel/921e1311-bb26-43dd-84a6-9e2284959712-1756222679255/ctr-all-sliding.m3u8?v=1&hash=c2eebfbadec853d4e3ca4fa1a9f9011e0c7562b2",
-    "k1": "9e31a5e1bc6346959d20fb0988ba668e",
-    "k2": "248257099ca9864e90a22984925e76aa"
-  },
-  {
     "title": "Racing Club (ARG) vs. Vélez Sarsfield (ARG) | 4tos de final, vuelta",
     "league": "CONMEBOL Libertadores",
     "fecha-evento": "2025-09-23T16:45:00-05:00",
@@ -556,7 +543,7 @@
     "title": "2025 Ryder Cup (Opening Ceremony)",
     "league": "ESPN",
     "fecha-evento": "2025-09-24T15:00:00-05:00",
-    "img": "b0d75db5-f434-46dc-8b09-0343d4a2329b",
+    "img": "bfe626d8-a9a6-44d6-91e2-bf0b487bc0c4",
     "nombre": "disney7e6983",
     "status": "15:00",
     "duration": 135,
@@ -629,6 +616,16 @@
     "img": "a48fe815-d2af-4602-a7be-041b0000440c",
     "nombre": "disney27336f",
     "status": "18:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Tacuarembó vs. Peñarol (Cuartos de Final)",
+    "league": "Copa Uruguay",
+    "fecha-evento": "2025-09-24T18:15:00-05:00",
+    "img": "1231a029-bebc-4e2b-a15e-6e988529a819",
+    "nombre": "disney94143d",
+    "status": "18:15",
     "duration": 135,
     "play_url": ""
   }
