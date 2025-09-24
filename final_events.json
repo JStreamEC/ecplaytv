@@ -10,19 +10,6 @@
     "play_url": ""
   },
   {
-    "title": "AZ vs. PEC Zwolle",
-    "league": "Eredivisie",
-    "fecha-evento": "2025-09-24T12:55:00-05:00",
-    "img": "1c728687-1934-47d1-8d16-e589a157098a",
-    "nombre": "disney2718ca",
-    "status": "12:55",
-    "duration": 125,
-    "play_url": "https://www.disneyplus.com/es-es/play/8ac65979-85cb-4041-9bb1-a0ad4f4ce073",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1758823218~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F24%2FAZ_vs_PEC_Zwolle_20250924_1758729303025%2F~psid=3c856012-e79c-4ef6-86bf-b8a6985ffec8~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=c08292e226430660636bce300e675e27ffa1cacce7745797020f56891079e8b2/clt1/va02/disneyplus/event/2025/09/24/AZ_vs_PEC_Zwolle_20250924_1758729303025/ctr-all-hdri-complete.m3u8?v=1&hash=04de828a395406785f8fcf8849933ba50c31a2c6",
-    "k1": "f6696e5908e54213b1a8b922b1de3fd0",
-    "k2": "32a6285712b052046c21f7176e57b0c2"
-  },
-  {
     "title": "Huddersfield vs. Manchester City (Third Round)",
     "league": "Carabao Cup",
     "fecha-evento": "2025-09-24T13:30:00-05:00",
@@ -555,7 +542,7 @@
     "title": "ATP 500: Tokyo & Beijing (First Round)",
     "league": "ATP",
     "fecha-evento": "2025-09-25T03:00:00-05:00",
-    "img": "96e7926d-d805-4197-9332-eae9802bd0b7",
+    "img": "0b0ae85b-4731-4845-a42b-ea629bc38d65",
     "nombre": "disneyf93ffc",
     "status": "03:00",
     "duration": 135,
@@ -667,6 +654,16 @@
     "fecha-evento": "2025-09-25T13:40:00-05:00",
     "img": "f3250ad9-2568-4376-99fb-c8561882146c",
     "nombre": "disneye6016d",
+    "status": "13:40",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Red Bull Salzburg vs. FC Porto",
+    "league": "UEFA Europa League",
+    "fecha-evento": "2025-09-25T13:40:00-05:00",
+    "img": "b62d6623-d003-4ddd-9ee2-b30326d5bd59",
+    "nombre": "disneye8d0ae",
     "status": "13:40",
     "duration": 135,
     "play_url": ""
