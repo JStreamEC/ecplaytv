@@ -23,19 +23,6 @@
     "k2": "a91c4242252f8f90129d2f337f230efe"
   },
   {
-    "title": "Getafe vs. Alavés",
-    "league": "LALIGA",
-    "fecha-evento": "2025-09-24T11:50:00-05:00",
-    "img": "5f1ad933-47ae-4cac-adb9-084e59679510",
-    "nombre": "disney9137a6",
-    "status": "11:50",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/2f236565-92e7-4f29-b1d3-128d2fdb68e6",
-    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1758819618~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Fec26a05e-a9cc-4db4-804e-77465738e667-1756222537809%2F~psid=053e3740-a116-4dd6-928e-121c571d3740~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=bd25fa3ac07815f5425d6ef4d0648ff8c0c954e7b27e21ae8d96207d7ab2b19c/clt1/va02/disneyplus/channel/ec26a05e-a9cc-4db4-804e-77465738e667-1756222537809/ctr-all-sliding.m3u8?v=1&hash=89191118387a35883a50bbae1f0b0b7046a61da8",
-    "k1": "1c137b2a87e74da2a95e5e6c713482d6",
-    "k2": "3ab79add7568531cf131c8bfc23f8197"
-  },
-  {
     "title": "AZ vs. PEC Zwolle",
     "league": "Eredivisie",
     "fecha-evento": "2025-09-24T12:55:00-05:00",
@@ -88,19 +75,6 @@
     "k2": "a06d9218142cd2463cca91b2c2fddee8"
   },
   {
-    "title": "Dinamo Zagreb vs. Fenerbahçe",
-    "league": "UEFA Europa League",
-    "fecha-evento": "2025-09-24T13:40:00-05:00",
-    "img": "deb46ecf-bca1-49c7-819d-8cd92594e597",
-    "nombre": "disney5264ee",
-    "status": "13:40",
-    "duration": 135,
-    "play_url": "https://www.disneyplus.com/es-es/play/db69ec77-f327-42c5-b902-5f183ed72d5c",
-    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1758825728~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F7f9052ce-8143-43a6-9656-a8c00c4a3e56-1756223111094%2F~psid=59da0aa4-8ca9-4656-a639-4c5373361a03~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=2638f6eb811511a40dbcf20576ce28ae27f212e115678885a10e2f101605e6db/clt1/va02/disneyplus/channel/7f9052ce-8143-43a6-9656-a8c00c4a3e56-1756223111094/ctr-all-sliding.m3u8?v=1&hash=2f03544b7adaaaa4f23d8a4cd7d7cec9ba48514e",
-    "k1": "72ab8f05f10840d18cdd3ec357e03142",
-    "k2": "4a5ab3b61aca9195ff2d23f33923c60f"
-  },
-  {
     "title": "SC Braga vs. Feyenoord",
     "league": "UEFA Europa League",
     "fecha-evento": "2025-09-24T13:40:00-05:00",
@@ -135,6 +109,19 @@
     "status": "13:46",
     "duration": 129,
     "play_url": "https://www.disneyplus.com/es-es/play/770d3561-f31a-4acd-a149-93d9f13b1112"
+  },
+  {
+    "title": "Dinamo Zagreb vs. Fenerbahçe",
+    "league": "UEFA Europa League",
+    "fecha-evento": "2025-09-24T13:40:00-05:00",
+    "img": "deb46ecf-bca1-49c7-819d-8cd92594e597",
+    "nombre": "disney5264ee",
+    "status": "13:40",
+    "duration": 135,
+    "play_url": "https://www.disneyplus.com/es-es/play/db69ec77-f327-42c5-b902-5f183ed72d5c",
+    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1758825728~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F7f9052ce-8143-43a6-9656-a8c00c4a3e56-1756223111094%2F~psid=59da0aa4-8ca9-4656-a639-4c5373361a03~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=2638f6eb811511a40dbcf20576ce28ae27f212e115678885a10e2f101605e6db/clt1/va02/disneyplus/channel/7f9052ce-8143-43a6-9656-a8c00c4a3e56-1756223111094/ctr-all-sliding.m3u8?v=1&hash=2f03544b7adaaaa4f23d8a4cd7d7cec9ba48514e",
+    "k1": "72ab8f05f10840d18cdd3ec357e03142",
+    "k2": "4a5ab3b61aca9195ff2d23f33923c60f"
   },
   {
     "title": "Real Betis vs. Nottingham Forest",
@@ -218,8 +205,11 @@
     "img": "5f1ad933-47ae-4cac-adb9-084e59679510",
     "nombre": "disneyfda163",
     "status": "14:20",
-    "duration": 135,
-    "play_url": ""
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/9c4a4975-2577-4eca-97e2-106991ee5ad2",
+    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1758828104~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Fec26a05e-a9cc-4db4-804e-77465738e667-1756222537809%2F~psid=032e5a45-9704-4faf-97ae-3780b95da3e6~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=a52d583c9f7b1ffe27b77d218cfa084c0408237e839c32bae3abc7eb86cc8134/clt1/va02/disneyplus/channel/ec26a05e-a9cc-4db4-804e-77465738e667-1756222537809/ctr-all-sliding.m3u8?v=1&hash=89191118387a35883a50bbae1f0b0b7046a61da8",
+    "k1": "1c137b2a87e74da2a95e5e6c713482d6",
+    "k2": "3ab79add7568531cf131c8bfc23f8197"
   },
   {
     "title": "2025 Ryder Cup (Opening Ceremony)",
@@ -575,7 +565,7 @@
     "title": "ATP 500: Tokyo & Beijing (First Round)",
     "league": "ATP",
     "fecha-evento": "2025-09-25T03:00:00-05:00",
-    "img": "0b0ae85b-4731-4845-a42b-ea629bc38d65",
+    "img": "96e7926d-d805-4197-9332-eae9802bd0b7",
     "nombre": "disneyf93ffc",
     "status": "03:00",
     "duration": 135,
@@ -585,7 +575,7 @@
     "title": "Carlos Alcaraz (ESP) vs. Sebastian Baez  (ARG) (First Round)",
     "league": "ATP",
     "fecha-evento": "2025-09-25T03:30:00-05:00",
-    "img": "f5d7c938-e1da-4c72-81c8-b77e20b966d7",
+    "img": "4d802ac7-517a-4bc2-9639-cb6d55db7eee",
     "nombre": "disneyfcd231",
     "status": "03:30",
     "duration": 135,
@@ -667,6 +657,16 @@
     "fecha-evento": "2025-09-25T13:40:00-05:00",
     "img": "aca8363e-91a5-43e9-bcd3-9e3eac208bca",
     "nombre": "disneybdbae9",
+    "status": "13:40",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "UEL al instante",
+    "league": "UEFA Europa League",
+    "fecha-evento": "2025-09-25T13:40:00-05:00",
+    "img": "1586ffd8-a7f9-4d71-8a10-d07e0c91b666",
+    "nombre": "disney45ce29",
     "status": "13:40",
     "duration": 135,
     "play_url": ""
