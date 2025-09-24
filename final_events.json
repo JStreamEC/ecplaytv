@@ -10,32 +10,6 @@
     "play_url": ""
   },
   {
-    "title": "Boston Red Sox vs. Toronto Blue Jays",
-    "league": "MLB",
-    "fecha-evento": "2025-09-23T18:00:00-05:00",
-    "img": "a48fe815-d2af-4602-a7be-041b0000440c",
-    "nombre": "disneyac24c0",
-    "status": "18:00",
-    "duration": 180,
-    "play_url": "https://www.disneyplus.com/es-es/play/7ed43ec6-3a28-42c8-839e-897b309b5c96",
-    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1758756154~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Fec26a05e-a9cc-4db4-804e-77465738e667-1756222537809%2F~psid=b7485279-0702-450e-9a38-3d49266bea98~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=90bf2559ac3a1e203ca251c0b7364dd237842cb34fce37255ee93964d172eeec/clt1/va02/disneyplus/channel/ec26a05e-a9cc-4db4-804e-77465738e667-1756222537809/ctr-all-sliding.m3u8?v=1&hash=89191118387a35883a50bbae1f0b0b7046a61da8",
-    "k1": "d34b53ce782b4e9b83e1fbd1dd6ecd63",
-    "k2": "4aa2cc7f486fbdd46829bf2deabafcbe"
-  },
-  {
-    "title": "Juventus de Cayes vs. Cibao FC (Fecha #4)",
-    "league": "Concacaf Caribbean Cup",
-    "fecha-evento": "2025-09-23T18:50:00-05:00",
-    "img": "0a92dde6-1c30-4d2f-bd7d-1036ecf6bce9",
-    "nombre": "disneye4f48e",
-    "status": "18:50",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/998b88c3-3ce6-44db-a9fe-f72b80de6b0d",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1758758418~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F23%2FJuventus_de_Cayes_vs_Ciba_20250923_1758664211027%2F~psid=51b565ec-05b7-414f-ac25-207a53bcc4c5~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=41484a5befffa6d89670fecd5f28a53eda8af10810a2ba75ae525172e505a8d9/clt1/va02/disneyplus/event/2025/09/23/Juventus_de_Cayes_vs_Ciba_20250923_1758664211027/ctr-all-hdri-complete.m3u8?v=1&hash=4072a2c6975c851e93e6bd142fa6fb1084f6fe4b",
-    "k1": "43949904f7b74637b3e5632880362b1a",
-    "k2": "7d834f2d67d2ba93750e37f18c22c381"
-  },
-  {
     "title": "Minnesota Wild vs. Dallas Stars",
     "league": "National Hockey League",
     "fecha-evento": "2025-09-23T19:00:00-05:00",
@@ -49,19 +23,6 @@
     "k2": "337e3be9f6c4c2c25cf0b71a69f6d9c6"
   },
   {
-    "title": "Dana White's Contender Series #7 | ESPN KO",
-    "league": "UFC",
-    "fecha-evento": "2025-09-23T19:00:00-05:00",
-    "img": "1291b414-3cf7-40c9-8ac2-8cbb24bf8661",
-    "nombre": "disney8d4855",
-    "status": "19:00",
-    "duration": 150,
-    "play_url": "https://www.disneyplus.com/es-es/play/f9b1e6b6-3362-479c-a459-589b5d0cf7cc",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1758759661~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F24%2FDana_Whites_Contender_Ser_20250924_1758664842033%2F~psid=0ec45528-9a8c-4b26-9327-6302992e1a92~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=4fed3a4bdcfd3267ccf3dda9c1b9f2fe5fa482da8da4a12a70f0142fdb0d7908/clt1/va02/disneyplus/event/2025/09/24/Dana_Whites_Contender_Ser_20250924_1758664842033/ctr-all-hdri-complete.m3u8?v=1&hash=c05d5f68c9b23029f9d91309e5a61dae004acfd7",
-    "k1": "a1a62f534d1b4a33b7220c8b3d6abc37",
-    "k2": "43308216e22e3de5df82522d7c82bd32"
-  },
-  {
     "title": "Edmonton Oilers vs. Winnipeg Jets",
     "league": "National Hockey League",
     "fecha-evento": "2025-09-23T19:00:16-05:00",
@@ -73,19 +34,6 @@
     "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1758759705~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F24%2FEdmonton_Oilers_vs_Winnip_20250924_1758664853029%2F~psid=cf2f46e4-154e-4e92-ae83-07360906def9~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=f889e1919795076d4c11bdef867dcb06e1b1a7168ce98b957a743bba47e742b6/clt1/va02/disneyplus/event/2025/09/24/Edmonton_Oilers_vs_Winnip_20250924_1758664853029/ctr-all-hdri-complete.m3u8?v=1&hash=f5720ba74ff340f788227d9d07fbd734cc88c967",
     "k1": "97887ff4c56b47a1a13e33f195b2b5ee",
     "k2": "f4658233683e8feee42a618a92f70f44"
-  },
-  {
-    "title": "Central FC vs. Mt. Pleasant FA (Round #4)",
-    "league": "Concacaf Caribbean Cup",
-    "fecha-evento": "2025-09-23T19:02:20-05:00",
-    "img": "b340e998-98ff-4e59-933e-04f354be923b",
-    "nombre": "disney1a41a1",
-    "status": "19:02",
-    "duration": 118,
-    "play_url": "https://www.disneyplus.com/es-es/play/e1bc2bc8-d039-45e1-b75d-dc280b3efb1f",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1758759728~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F24%2FCentral_FC_vs_Mt_Pleasant_20250924_1758664843028%2F~psid=437c692b-330a-4f77-a65d-b8e0199417d2~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=894789f1cd96dbb3efc0f767b3bf2d1fbc116bb7f37acde646e22a29d44fce05/clt1/va02/disneyplus/event/2025/09/24/Central_FC_vs_Mt_Pleasant_20250924_1758664843028/ctr-all-hdri-complete.m3u8?v=1&hash=cfa89828f37829531453bbcd5a1632ad6043f0bc",
-    "k1": "c13c04d0a13d4767a2dcab823cf45782",
-    "k2": "fc2b1b9a5ffe1dd91ea9b85ae0659465"
   },
   {
     "title": "Fluminense (BRA) vs. Lanús (ARG) | 4tos de final, vuelta",
@@ -142,32 +90,41 @@
   {
     "title": "Los Angeles Kings vs. Vegas Golden Knights",
     "league": "National Hockey League",
-    "fecha-evento": "2025-09-23T21:00:00-05:00",
+    "fecha-evento": "2025-09-23T20:59:56-05:00",
     "img": "b2042da8-e82d-4d68-9a19-34ddd0610a09",
-    "nombre": "disney5f8b25",
-    "status": "21:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Kinoshita Group Japan Open / Kinoshita Group Show Court (Doubles)",
-    "league": "ATP",
-    "fecha-evento": "2025-09-23T21:00:00-05:00",
-    "img": "6a4cf2e2-0a06-4447-8be8-d3328c81283d",
-    "nombre": "disneycdf070",
-    "status": "21:00",
-    "duration": 135,
-    "play_url": ""
+    "nombre": "disneyb11df6",
+    "status": "20:59",
+    "duration": 210,
+    "play_url": "https://www.disneyplus.com/es-es/play/2a13d926-3be4-4929-b63b-b35bee7add64",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1758766818~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F24%2FLos_Angeles_Kings_vs_Vega_20250924_1758672019025%2F~psid=cf961e51-9a4b-45b1-9ea6-670d5a2894f1~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=fa5502a4a2666dafa31dd08f4789807f54c526a9d2fe5fba9034693154bea963/clt1/va02/disneyplus/event/2025/09/24/Los_Angeles_Kings_vs_Vega_20250924_1758672019025/ctr-all-hdri-complete.m3u8?v=1&hash=3c3af7f4bae09e39f80691be9414ba4dc3fe5230",
+    "k1": "64aaa1b7a72644d3b523ff6c288e4084",
+    "k2": "14bbd86ee23cb654638c6528279bdf5a"
   },
   {
     "title": "Kinoshita Group Japan Open (First Round)",
     "league": "ATP",
-    "fecha-evento": "2025-09-23T21:00:00-05:00",
+    "fecha-evento": "2025-09-23T21:00:02-05:00",
     "img": "0a82de09-7606-410e-8213-80dbb582ad88",
-    "nombre": "disney3454db",
+    "nombre": "disneyff156f",
     "status": "21:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 540,
+    "play_url": "https://www.disneyplus.com/es-es/play/e26b0d1c-feea-4131-8a3e-557b1364745a",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1758766862~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F24%2FKinoshita_Group_Japan_Ope_20250924_1758672010033%2F~psid=9845373d-2d9a-4994-a9d6-d540ce6fb899~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=91afc9e4afa3c2f0b9ef141cc48c1ecf43cec3e1d8e8daa14b12d185fbdbe154/clt1/va02/disneyplus/event/2025/09/24/Kinoshita_Group_Japan_Ope_20250924_1758672010033/ctr-all-hdri-complete.m3u8?v=1&hash=09ccc713de8ef37f4288dac2f8915a6918bf466e",
+    "k1": "53a02ccaae8e41e4a6de4c6a55dca4b1",
+    "k2": "55dec8cb129e92fe56823e49c825f212"
+  },
+  {
+    "title": "Kinoshita Group Japan Open / Kinoshita Group Show Court (Doubles)",
+    "league": "ATP",
+    "fecha-evento": "2025-09-23T21:10:50-05:00",
+    "img": "6a4cf2e2-0a06-4447-8be8-d3328c81283d",
+    "nombre": "disney7a1ae0",
+    "status": "21:10",
+    "duration": 349,
+    "play_url": "https://www.disneyplus.com/es-es/play/a7f6fa26-16d5-495b-8f93-4ca6c9ed2feb",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1758766906~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F24%2FKinoshita_Group_Japan_Ope_20250924_1758672045034%2F~psid=5cd331a3-e0a0-4ac6-9aaa-3537b10ca0d6~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=47c4a8b4286375e048b1b44ee7ba773d8cf7291a7775cc3989bb5c94d9baff80/clt1/va02/disneyplus/event/2025/09/24/Kinoshita_Group_Japan_Ope_20250924_1758672045034/ctr-all-hdri-complete.m3u8?v=1&hash=d43b78ffd37b9998faaa61be06989a3a8585effc",
+    "k1": "fd8061a34ae0470b87e737ef15e94a36",
+    "k2": "2d52152f6b6ea6b60e0defa4bd7eb89e"
   },
   {
     "title": "WTA China Open / Moon Court",
@@ -656,6 +613,46 @@
     "img": "9832822f-34b7-4aa9-9e2d-5a02e3bf26ef",
     "nombre": "disneyc4588b",
     "status": "21:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Watch Party | San Luis vs. América",
+    "league": "Liga MX",
+    "fecha-evento": "2025-09-24T21:50:00-05:00",
+    "img": "96683de5-11f4-4564-b099-5619e98741a1",
+    "nombre": "disney6aeaeb",
+    "status": "21:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Atlético de San Luis vs. Club América (Jornada 10)",
+    "league": "Liga MX",
+    "fecha-evento": "2025-09-24T21:50:00-05:00",
+    "img": "4cbc7949-0819-49c6-a59f-2750e4948d67",
+    "nombre": "disney8c5ae7",
+    "status": "21:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "China Open (First Round)",
+    "league": "ATP",
+    "fecha-evento": "2025-09-24T22:00:00-05:00",
+    "img": "6cc797f6-da88-4de5-bd77-34466e4a9108",
+    "nombre": "disneyab2110",
+    "status": "22:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "WTA China Open / Brad Drewett",
+    "league": "WTA",
+    "fecha-evento": "2025-09-24T22:00:00-05:00",
+    "img": "33f8b056-98b7-4660-a3c7-1587f261c3ac",
+    "nombre": "disney67e7ec",
+    "status": "22:00",
     "duration": 135,
     "play_url": ""
   }
