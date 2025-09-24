@@ -10,19 +10,6 @@
     "play_url": ""
   },
   {
-    "title": "Racing Club (ARG) vs. Vélez Sarsfield (ARG) | 4tos de final, vuelta",
-    "league": "CONMEBOL Libertadores",
-    "fecha-evento": "2025-09-23T16:45:00-05:00",
-    "img": "7b64ac1b-b72f-4a51-9d03-7e139a0065a9",
-    "nombre": "disney4df072",
-    "status": "16:45",
-    "duration": 135,
-    "play_url": "https://www.disneyplus.com/es-es/play/359d08f8-5bb8-469f-9bad-3f6aeef345df",
-    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1758751220~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F921e1311-bb26-43dd-84a6-9e2284959712-1756222679255%2F~psid=906aa02e-9e33-46f3-a0a4-58118569f06f~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=6207d8f7d16aa2c16789d18ccb62ba47168825e90e77930691c3eedf15b6a8f8/clt1/va02/disneyplus/channel/921e1311-bb26-43dd-84a6-9e2284959712-1756222679255/ctr-all-sliding.m3u8?v=1&hash=c2eebfbadec853d4e3ca4fa1a9f9011e0c7562b2",
-    "k1": "9e31a5e1bc6346959d20fb0988ba668e",
-    "k2": "248257099ca9864e90a22984925e76aa"
-  },
-  {
     "title": "California vs. UNC Asheville",
     "league": "Fútbol Masculino NCAA",
     "fecha-evento": "2025-09-23T17:00:05-05:00",
@@ -159,8 +146,11 @@
     "img": "0a92dde6-1c30-4d2f-bd7d-1036ecf6bce9",
     "nombre": "disneye4f48e",
     "status": "18:50",
-    "duration": 135,
-    "play_url": ""
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/998b88c3-3ce6-44db-a9fe-f72b80de6b0d",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1758758418~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F23%2FJuventus_de_Cayes_vs_Ciba_20250923_1758664211027%2F~psid=51b565ec-05b7-414f-ac25-207a53bcc4c5~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=41484a5befffa6d89670fecd5f28a53eda8af10810a2ba75ae525172e505a8d9/clt1/va02/disneyplus/event/2025/09/23/Juventus_de_Cayes_vs_Ciba_20250923_1758664211027/ctr-all-hdri-complete.m3u8?v=1&hash=4072a2c6975c851e93e6bd142fa6fb1084f6fe4b",
+    "k1": "43949904f7b74637b3e5632880362b1a",
+    "k2": "7d834f2d67d2ba93750e37f18c22c381"
   },
   {
     "title": "Edmonton Oilers vs. Winnipeg Jets",
@@ -629,6 +619,16 @@
     "img": "1231a029-bebc-4e2b-a15e-6e988529a819",
     "nombre": "disney94143d",
     "status": "18:15",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "O&M FC vs. Moca FC (Fecha #4)",
+    "league": "Concacaf Caribbean Cup",
+    "fecha-evento": "2025-09-24T18:50:00-05:00",
+    "img": "04d57f0e-a1c3-4360-a64c-1ed91f31e0de",
+    "nombre": "disneye8a69a",
+    "status": "18:50",
     "duration": 135,
     "play_url": ""
   }
