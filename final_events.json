@@ -3,7 +3,7 @@
     "title": "Villarreal vs. Juventus",
     "league": "UEFA Champions League",
     "fecha-evento": "2025-10-01T13:40:00-05:00",
-    "img": "13cabfa9-6625-4c30-af84-8e360f121f67",
+    "img": "fa600522-7534-493f-a48c-aaa4a55b80f8",
     "nombre": "disney1417cd",
     "status": "13:40",
     "duration": 135,
@@ -62,19 +62,6 @@
     "k2": "ffb064abcbaa2d9f8d5eb6928b592c6c"
   },
   {
-    "title": "Getafe vs. Alavés",
-    "league": "LALIGA",
-    "fecha-evento": "2025-09-24T11:50:00-05:00",
-    "img": "5f1ad933-47ae-4cac-adb9-084e59679510",
-    "nombre": "disney9137a6",
-    "status": "11:50",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/2f236565-92e7-4f29-b1d3-128d2fdb68e6",
-    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1758819618~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Fec26a05e-a9cc-4db4-804e-77465738e667-1756222537809%2F~psid=053e3740-a116-4dd6-928e-121c571d3740~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=bd25fa3ac07815f5425d6ef4d0648ff8c0c954e7b27e21ae8d96207d7ab2b19c/clt1/va02/disneyplus/channel/ec26a05e-a9cc-4db4-804e-77465738e667-1756222537809/ctr-all-sliding.m3u8?v=1&hash=89191118387a35883a50bbae1f0b0b7046a61da8",
-    "k1": "1c137b2a87e74da2a95e5e6c713482d6",
-    "k2": "3ab79add7568531cf131c8bfc23f8197"
-  },
-  {
     "title": "Yukatel Kayserispor vs. Besiktas",
     "league": "Super Lig de Turquía",
     "fecha-evento": "2025-09-24T11:50:01-05:00",
@@ -86,6 +73,19 @@
     "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1758819661~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F24%2FYukatel_Kayserispor_vs_Be_20250924_1758725458046%2F~psid=e65e312c-a540-45c7-a9ef-bf5ac2909678~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=ad36017aa2f9671f3a28d561a8f757f946e15037d463386d817aaa40ffeb5f81/clt1/va02/disneyplus/event/2025/09/24/Yukatel_Kayserispor_vs_Be_20250924_1758725458046/ctr-all-hdri-complete.m3u8?v=1&hash=7f27e7f8109a294b58433c058d6ea8cec9cd41dc",
     "k1": "2a5b3096dc1c433492e5a6a250682906",
     "k2": "deaa1c6f1d14bda10770315151302aff"
+  },
+  {
+    "title": "Getafe vs. Alavés",
+    "league": "LALIGA",
+    "fecha-evento": "2025-09-24T11:50:00-05:00",
+    "img": "5f1ad933-47ae-4cac-adb9-084e59679510",
+    "nombre": "disney9137a6",
+    "status": "11:50",
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/2f236565-92e7-4f29-b1d3-128d2fdb68e6",
+    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1758819618~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Fec26a05e-a9cc-4db4-804e-77465738e667-1756222537809%2F~psid=053e3740-a116-4dd6-928e-121c571d3740~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=bd25fa3ac07815f5425d6ef4d0648ff8c0c954e7b27e21ae8d96207d7ab2b19c/clt1/va02/disneyplus/channel/ec26a05e-a9cc-4db4-804e-77465738e667-1756222537809/ctr-all-sliding.m3u8?v=1&hash=89191118387a35883a50bbae1f0b0b7046a61da8",
+    "k1": "1c137b2a87e74da2a95e5e6c713482d6",
+    "k2": "3ab79add7568531cf131c8bfc23f8197"
   },
   {
     "title": "AZ vs. PEC Zwolle",
