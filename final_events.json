@@ -10,32 +10,6 @@
     "play_url": ""
   },
   {
-    "title": "Minnesota Wild vs. Dallas Stars",
-    "league": "National Hockey League",
-    "fecha-evento": "2025-09-23T19:00:00-05:00",
-    "img": "abf0f947-534e-4b9c-8d83-b1a3c5ed726f",
-    "nombre": "disneyc631dd",
-    "status": "19:00",
-    "duration": 210,
-    "play_url": "https://www.disneyplus.com/es-es/play/95c7575e-d00b-4904-9275-64e66b1e34ff",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1758759618~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F24%2FMinnesota_Wild_vs_Dallas__20250924_1758664855024%2F~psid=40f81bc1-9cd9-4fba-82df-2bc8f3b7cf29~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=f57d295ae6a128464316841867a03209c25870eb4a540697b72741aa9d1afaea/clt1/va02/disneyplus/event/2025/09/24/Minnesota_Wild_vs_Dallas__20250924_1758664855024/ctr-all-hdri-complete.m3u8?v=1&hash=3f0ea229d3625dedf4cd70762cd12659dc2538fe",
-    "k1": "d8eb85353a6042828d02ecdaca6539c4",
-    "k2": "337e3be9f6c4c2c25cf0b71a69f6d9c6"
-  },
-  {
-    "title": "Fluminense (BRA) vs. Lanús (ARG) | 4tos de final, vuelta",
-    "league": "CONMEBOL Sudamericana",
-    "fecha-evento": "2025-09-23T19:15:00-05:00",
-    "img": "ada54076-3fb7-4fa1-a683-6e5daa9af681",
-    "nombre": "disney0a1857",
-    "status": "19:15",
-    "duration": 135,
-    "play_url": "https://www.disneyplus.com/es-es/play/bd59ff64-8887-4827-81d3-cb7ae0cbdcb6",
-    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1758759752~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F921e1311-bb26-43dd-84a6-9e2284959712-1756222679255%2F~psid=5027d0f0-a1e1-492b-9d1b-ddca57c00147~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=c48d406e5217869b65e3aa0df340d438582609bcdf6d26eff8d001b7de5bbc46/clt1/va02/disneyplus/channel/921e1311-bb26-43dd-84a6-9e2284959712-1756222679255/ctr-all-sliding.m3u8?v=1&hash=c2eebfbadec853d4e3ca4fa1a9f9011e0c7562b2",
-    "k1": "9e31a5e1bc6346959d20fb0988ba668e",
-    "k2": "248257099ca9864e90a22984925e76aa"
-  },
-  {
     "title": "Seattle Kraken vs. Calgary Flames",
     "league": "National Hockey League",
     "fecha-evento": "2025-09-23T20:00:00-05:00",
@@ -136,12 +110,15 @@
   {
     "title": "WTA China Open / Lotus Court",
     "league": "WTA",
-    "fecha-evento": "2025-09-23T22:00:00-05:00",
+    "fecha-evento": "2025-09-23T21:59:14-05:00",
     "img": "00c0c198-89af-46b7-b2ac-1d28f5894c4b",
-    "nombre": "disney30dc9d",
-    "status": "22:00",
-    "duration": 135,
-    "play_url": ""
+    "nombre": "disney1a714d",
+    "status": "21:59",
+    "duration": 601,
+    "play_url": "https://www.disneyplus.com/es-es/play/f7631cd0-78d1-4ca7-a5fd-12512b5c1f20",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1758769219~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F24%2FWTA_China_Open_Lotus_Cour_20250924_1758675627027%2F~psid=86ca1fd9-bc7c-430c-abb0-c11544e52827~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=030e55240eee3f86b049feb1535cc437a3630c391b8a7c84c5ceb7b93b894922/clt1/va02/disneyplus/event/2025/09/24/WTA_China_Open_Lotus_Cour_20250924_1758675627027/ctr-all-hdri-complete.m3u8?v=1&hash=1852b927f530bbaf8717e6d60c4ee6c0b2a8195e",
+    "k1": "50ddbce5c30e414db36f5afe345ac26a",
+    "k2": "ff32f68f7b9aa27b1e0e1c55aa11a37e"
   },
   {
     "title": "WTA China Open / Brad Drewett",
@@ -649,6 +626,26 @@
     "fecha-evento": "2025-09-24T22:00:00-05:00",
     "img": "0f2095e3-3192-4d23-b41a-f2587cd48ae5",
     "nombre": "disney2f735e",
+    "status": "22:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "WTA China Open / Court 5",
+    "league": "WTA",
+    "fecha-evento": "2025-09-24T22:00:00-05:00",
+    "img": "4c92a8f9-a717-4c5f-89e7-5e336386c09b",
+    "nombre": "disneybc10a8",
+    "status": "22:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "WTA China Open / Court 3",
+    "league": "WTA",
+    "fecha-evento": "2025-09-24T22:00:00-05:00",
+    "img": "cbec8bad-7b28-458c-aa9d-089454653aba",
+    "nombre": "disney3f7e69",
     "status": "22:00",
     "duration": 135,
     "play_url": ""
