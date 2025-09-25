@@ -30,19 +30,6 @@
     "play_url": ""
   },
   {
-    "title": "UAE Polo vs. La Ensenada Clonargen (Cuartos de Final)",
-    "league": "Abierto de Hurlingham",
-    "fecha-evento": "2025-09-25T14:07:42-05:00",
-    "img": "5aee106a-4b67-470c-aee3-94c4265844a3",
-    "nombre": "disney0f8531",
-    "status": "14:07",
-    "duration": 172,
-    "play_url": "https://www.disneyplus.com/es-es/play/50b64a6b-43cb-4f1a-a981-64fdb720f28d",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1758914419~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F25%2FUAE_Polo_vs_La_Ensenada_C_20250925_1758819356038%2F~psid=886aaf92-25b6-4255-a739-820742f51374~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=ad1ae9ccdf1fcdd788e1e145e94957d73a0d04cb4cc70ae6577e871b54ca3004/clt1/va02/disneyplus/event/2025/09/25/UAE_Polo_vs_La_Ensenada_C_20250925_1758819356038/ctr-all-hdri-complete.m3u8?v=1&hash=022fab3164dcd59e39d0822b99d4636f7003086c",
-    "k1": "2fa1a2da7a464d44860b619f14b41589",
-    "k2": "addb95e4e35bb2b876fc37ea81d36487"
-  },
-  {
     "title": "Sao Paulo (BRA) vs. Liga de Quito (ECU) | 4tos de final, vuelta",
     "league": "CONMEBOL Libertadores",
     "fecha-evento": "2025-09-25T16:45:00-05:00",
@@ -629,6 +616,16 @@
     "img": "8cea0784-812a-413f-81da-bca6619d5ea9",
     "nombre": "disneycc83c4",
     "status": "11:25",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Alanyaspor vs. Galatasaray",
+    "league": "Super Lig de Turquía",
+    "fecha-evento": "2025-09-26T11:55:00-05:00",
+    "img": "47b1c812-b805-4497-9a04-48704c1d3985",
+    "nombre": "disneyf482e2",
+    "status": "11:55",
     "duration": 135,
     "play_url": ""
   }
