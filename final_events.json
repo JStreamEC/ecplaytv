@@ -115,19 +115,6 @@
     "play_url": "https://www.disneyplus.com/es-es/play/201e5eb9-85f2-464d-878b-819cd6ae3fb9"
   },
   {
-    "title": "WTA China Open / Court 3",
-    "league": "WTA",
-    "fecha-evento": "2025-09-24T22:01:10-05:00",
-    "img": "cbec8bad-7b28-458c-aa9d-089454653aba",
-    "nombre": "disneyb3991e",
-    "status": "22:01",
-    "duration": 359,
-    "play_url": "https://www.disneyplus.com/es-es/play/a49999f5-1218-4696-a98b-426e36b3432a",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1758872640~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F25%2FWTA_China_Open_Court_3_20250925_1758762038026%2F~psid=04e83d28-81b0-4f65-8b1e-37fed24bc3a9~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=96a105afc7e8bb0007d887b953a9d17c260e005595aa902aae5bfb0a3b66e1e7/clt1/va02/disneyplus/event/2025/09/25/WTA_China_Open_Court_3_20250925_1758762038026/ctr-all-hdri-complete.m3u8?v=1&hash=6eeb47dc5a7e0c523dac65963dabb45ef751247f",
-    "k1": "c719cadb80c34aee9e99e635ac255956",
-    "k2": "ade5077eb2b48bb001210380791c51a2"
-  },
-  {
     "title": "WTA China Open / Capital Group Diamond",
     "league": "WTA",
     "fecha-evento": "2025-09-25T01:12:45-05:00",
@@ -664,6 +651,16 @@
     "fecha-evento": "2025-09-25T21:00:00-05:00",
     "img": "049431f2-b864-46e0-a14c-3cf0a1b726f6",
     "nombre": "disneyfdc594",
+    "status": "21:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Kinoshita Group Japan Open (Second Round)",
+    "league": "ATP",
+    "fecha-evento": "2025-09-25T21:00:00-05:00",
+    "img": "06fe27ee-c66e-4277-a5d4-fec942af90f3",
+    "nombre": "disneyfc6d5f",
     "status": "21:00",
     "duration": 135,
     "play_url": ""
