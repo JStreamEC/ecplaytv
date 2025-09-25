@@ -128,19 +128,6 @@
     "k2": "6c97ad3a6ac32a36a1c291188de6c3af"
   },
   {
-    "title": "Premier Padel: Alemania - Secondary Court (Octavos de Final)",
-    "league": "Premier Padel",
-    "fecha-evento": "2025-09-25T03:00:00-05:00",
-    "img": "0851c840-5e75-45c6-b0b9-5ca4645b7abc",
-    "nombre": "disney72d906",
-    "status": "03:00",
-    "duration": 180,
-    "play_url": "https://www.disneyplus.com/es-es/play/b6b8da20-383f-49c9-84dc-2c01bd06c137",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1758873759~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F25%2FPremier_Padel_Alemania_Se_20250925_1758780001045%2F~psid=965e5b43-a49a-42e2-8608-7dd3c88f6b2c~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=125a45c86d26da48473376398fca324a38b43cb3ab6b775b4a871601f0a080da/clt1/va02/disneyplus/event/2025/09/25/Premier_Padel_Alemania_Se_20250925_1758780001045/ctr-all-hdri-complete.m3u8?v=1&hash=597f4691eed4ce0d2adf6faaf75d51a6354e3684",
-    "k1": "85bb1942127f419e8702f06e8e1a9f38",
-    "k2": "419cc6a36a6d617ad42b3c9c85a2265c"
-  },
-  {
     "title": "Premier Padel: Alemania - Centre Court (Octavos de Final)",
     "league": "Premier Padel",
     "fecha-evento": "2025-09-25T03:00:00-05:00",
@@ -655,6 +642,16 @@
     "fecha-evento": "2025-09-25T22:00:00-05:00",
     "img": "141146a7-cd88-47b1-8566-14ab66ae2b67",
     "nombre": "disney7c7391",
+    "status": "22:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "WTA China Open / Court 5",
+    "league": "WTA",
+    "fecha-evento": "2025-09-25T22:00:00-05:00",
+    "img": "4c92a8f9-a717-4c5f-89e7-5e336386c09b",
+    "nombre": "disneye4d11f",
     "status": "22:00",
     "duration": 135,
     "play_url": ""
