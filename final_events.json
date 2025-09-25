@@ -20,11 +20,11 @@
     "play_url": ""
   },
   {
-    "title": "Detroit Tigers vs. Cleveland Guardians",
+    "title": "Boston Red Sox vs. Toronto Blue Jays",
     "league": "MLB",
     "fecha-evento": "2025-09-25T17:30:00-05:00",
-    "img": "1d17306a-bd89-4b5d-a603-9b2a032c7b05",
-    "nombre": "disney5ccb7e",
+    "img": "a48fe815-d2af-4602-a7be-041b0000440c",
+    "nombre": "disney811cac",
     "status": "17:30",
     "duration": 135,
     "play_url": ""
@@ -225,8 +225,11 @@
     "img": "e221375e-8fb5-446a-961c-3b81cdff9f42",
     "nombre": "disneyfcd231",
     "status": "03:30",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/626431e7-110c-4af3-8cf8-9ad64d74f28c",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1758876105~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F25%2FCarlos_Alcaraz_ESP_vs_Seb_20250925_1758781831026%2F~psid=ced94b2e-4de5-43a2-abcc-31c68c9b7a8c~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=2bf9f79bf1e6881ef7cf9892a49551e78a5adbaf5e74520dde25a87f9b9dab92/clt1/va02/disneyplus/event/2025/09/25/Carlos_Alcaraz_ESP_vs_Seb_20250925_1758781831026/ctr-all-hdri-complete.m3u8?v=1&hash=53c2ebd576c53d45e9115cf9fc215f940b80580b",
+    "k1": "ad3ba41370d148da8aeb1ad056e7b2f5",
+    "k2": "c7079b455b29e77ed7d7eccdee243d20"
   },
   {
     "title": "China Open / Capital Group Diamond",
