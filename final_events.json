@@ -20,11 +20,11 @@
     "play_url": ""
   },
   {
-    "title": "Boston Red Sox vs. Toronto Blue Jays",
+    "title": "Detroit Tigers vs. Cleveland Guardians",
     "league": "MLB",
     "fecha-evento": "2025-09-25T17:30:00-05:00",
-    "img": "a48fe815-d2af-4602-a7be-041b0000440c",
-    "nombre": "disney811cac",
+    "img": "1d17306a-bd89-4b5d-a603-9b2a032c7b05",
+    "nombre": "disney5ccb7e",
     "status": "17:30",
     "duration": 135,
     "play_url": ""
@@ -106,6 +106,19 @@
     "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1758912152~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F25%2FAston_Villa_vs_Bologna_20250925_1758818403026%2F~psid=e8cf9774-af07-49ba-9dfc-90514d2ebc2e~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=5122eb07e3e5bb2a90efc7d3035eb2c3e6e1f924a0746878b1104c0d91b56b0e/clt1/va02/disneyplus/event/2025/09/25/Aston_Villa_vs_Bologna_20250925_1758818403026/ctr-all-hdri-complete.m3u8?v=1&hash=c9b6a18b273dcf98aefa3979b2b014671b4e7205",
     "k1": "1ff32467c16647debda07f4565c876ab",
     "k2": "cc394b82aa93fbf20e43caf51b7b99c3"
+  },
+  {
+    "title": "Utrecht vs. Olympique Lyonnais",
+    "league": "UEFA Europa League",
+    "fecha-evento": "2025-09-25T13:40:00-05:00",
+    "img": "cf9b08ac-6b0d-441e-91f6-0f53ef87dd90",
+    "nombre": "disneybdbae9",
+    "status": "13:40",
+    "duration": 135,
+    "play_url": "https://www.disneyplus.com/es-es/play/5a95ab21-ebaf-4290-ac7d-f749b0a9ed0a",
+    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1758919218~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Ff25bdf06-81c9-4a7c-b128-3128d610ad17-1756223551993%2F~psid=7c8bc8c1-689b-4abd-887c-0e665969e3bf~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=63beeb8a9726ecda55415c1df9a1970238d469f23de1eeeab37cac9daa83c5bf/clt1/va02/disneyplus/channel/f25bdf06-81c9-4a7c-b128-3128d610ad17-1756223551993/ctr-all-sliding.m3u8?v=1&hash=aa8d2bb37fafb9b8d31c8b8095cb65f827b67eb8",
+    "k1": "d3896c35f29446e591b319ae076985c1",
+    "k2": "3db80b03c55b27949fb369b04d10154d"
   },
   {
     "title": "Rangers FC vs. Genk",
