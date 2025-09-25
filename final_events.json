@@ -154,27 +154,17 @@
     "k2": "1cf8246f8c0edf3d8fb93992c00cdcd4"
   },
   {
-    "title": "Carlos Alcaraz (ESP) vs. Sebastian Baez  (ARG) (First Round)",
-    "league": "ATP",
-    "fecha-evento": "2025-09-25T03:30:00-05:00",
-    "img": "e221375e-8fb5-446a-961c-3b81cdff9f42",
-    "nombre": "disneyfcd231",
-    "status": "03:30",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/626431e7-110c-4af3-8cf8-9ad64d74f28c",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1758876105~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F25%2FCarlos_Alcaraz_ESP_vs_Seb_20250925_1758781831026%2F~psid=ced94b2e-4de5-43a2-abcc-31c68c9b7a8c~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=2bf9f79bf1e6881ef7cf9892a49551e78a5adbaf5e74520dde25a87f9b9dab92/clt1/va02/disneyplus/event/2025/09/25/Carlos_Alcaraz_ESP_vs_Seb_20250925_1758781831026/ctr-all-hdri-complete.m3u8?v=1&hash=53c2ebd576c53d45e9115cf9fc215f940b80580b",
-    "k1": "ad3ba41370d148da8aeb1ad056e7b2f5",
-    "k2": "c7079b455b29e77ed7d7eccdee243d20"
-  },
-  {
     "title": "China Open / Capital Group Diamond",
     "league": "ATP",
-    "fecha-evento": "2025-09-25T06:00:00-05:00",
+    "fecha-evento": "2025-09-25T06:02:33-05:00",
     "img": "d61ce6b7-d36b-47fc-8a1c-d151ac4d152a",
-    "nombre": "disney4cce8b",
-    "status": "06:00",
-    "duration": 135,
-    "play_url": ""
+    "nombre": "disneyb55a43",
+    "status": "06:02",
+    "duration": 117,
+    "play_url": "https://www.disneyplus.com/es-es/play/db4249ed-e7f2-4d53-b94b-3f329d901a32",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1758885705~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F25%2FChina_Open_Capital_Group__20250925_1758790851026%2F~psid=bfca0292-b2fd-4974-b460-cba7c3f975ee~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=c718e6661d2139eca9c407535c591c64c1cdf4dfbf82e165f3c2ce075fb0fd2e/clt1/va02/disneyplus/event/2025/09/25/China_Open_Capital_Group__20250925_1758790851026/ctr-all-hdri-complete.m3u8?v=1&hash=b878d3e724302d7415aa930ccedf89956eaf4006",
+    "k1": "5c61d710571440d9ab3e3a34c62786dc",
+    "k2": "b2ec86f054beddc4e586fcf4393cee19"
   },
   {
     "title": "Premier Padel: Alemania - Centre Court (Octavos de Final)",
@@ -652,6 +642,16 @@
     "fecha-evento": "2025-09-25T22:00:00-05:00",
     "img": "4c92a8f9-a717-4c5f-89e7-5e336386c09b",
     "nombre": "disneye4d11f",
+    "status": "22:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "WTA China Open / Court 4 (Doubles)",
+    "league": "WTA",
+    "fecha-evento": "2025-09-25T22:00:00-05:00",
+    "img": "9d32dde7-3648-4a5a-a7d3-65d692fdd6ff",
+    "nombre": "disney04532c",
     "status": "22:00",
     "duration": 135,
     "play_url": ""
