@@ -30,32 +30,6 @@
     "play_url": ""
   },
   {
-    "title": "Kinoshita Group Japan Open / Kinoshita Group Show Court",
-    "league": "ATP",
-    "fecha-evento": "2025-09-24T21:00:00-05:00",
-    "img": "0759b5ab-929e-4c18-b324-2210e83899a7",
-    "nombre": "disney3317f4",
-    "status": "21:00",
-    "duration": 480,
-    "play_url": "https://www.disneyplus.com/es-es/play/496f715f-9d8b-49af-8a9c-acac808a7dfc",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1758853219~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F25%2FKinoshita_Group_Japan_Ope_20250925_1758758448038%2F~psid=3e7ed443-99fb-45b1-ac10-55ef9dccbc67~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=fd7dfe8d376e1b09e3630cad27951d99bc98d564fea9e963caa4a9517e18165e/clt1/va02/disneyplus/event/2025/09/25/Kinoshita_Group_Japan_Ope_20250925_1758758448038/ctr-all-hdri-complete.m3u8?v=1&hash=7948a568eaba69ec133c87f0ea7f6bf13cb397a2",
-    "k1": "82d0dade49124a2b8ec26f98a93e2301",
-    "k2": "15a9505f4daa98146d16dd19872ab2d5"
-  },
-  {
-    "title": "Kinoshita Group Japan Open / Court 1",
-    "league": "ATP",
-    "fecha-evento": "2025-09-24T21:00:00-05:00",
-    "img": "9832822f-34b7-4aa9-9e2d-5a02e3bf26ef",
-    "nombre": "disneyc4588b",
-    "status": "21:00",
-    "duration": 480,
-    "play_url": "https://www.disneyplus.com/es-es/play/e3c629ed-34ec-4279-a3ff-d6ef84297dc7",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1758853263~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F25%2FKinoshita_Group_Japan_Ope_20250925_1758758415040%2F~psid=19679df1-1b2d-4c5d-9379-b3a786de6caf~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=e69e53aa8fcc19446c92d033cefba2132a23e1bed6d3322e7064200d777af317/clt1/va02/disneyplus/event/2025/09/25/Kinoshita_Group_Japan_Ope_20250925_1758758415040/ctr-all-hdri-complete.m3u8?v=1&hash=258f4108ae158d2f3f0955236eab023604ee0da6",
-    "k1": "da4ee2243b484fe2a248b2ce29d85e23",
-    "k2": "19f2f44d82bee7aaa3c1a53ecbde4be5"
-  },
-  {
     "title": "China Open (First Round)",
     "league": "ATP",
     "fecha-evento": "2025-09-24T22:00:06-05:00",
@@ -647,6 +621,26 @@
     "img": "6cc797f6-da88-4de5-bd77-34466e4a9108",
     "nombre": "disneyab1965",
     "status": "22:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Motul Grand Prix of Japan - Free Practices (Moto 3)",
+    "league": "MotoGP",
+    "fecha-evento": "2025-09-25T23:10:00-05:00",
+    "img": "bb079ece-df57-48b9-8c3f-473c33d7104d",
+    "nombre": "disney01c55a",
+    "status": "23:10",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Motul Grand Prix of Japan - Free Practices (Moto 2)",
+    "league": "MotoGP",
+    "fecha-evento": "2025-09-25T23:55:00-05:00",
+    "img": "7f8ecc01-609e-463f-b28f-88856ac4dfed",
+    "nombre": "disneydc4dd6",
+    "status": "23:55",
     "duration": 135,
     "play_url": ""
   }
