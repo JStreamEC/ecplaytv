@@ -33,19 +33,6 @@
     "k2": "3ee090fd8f69d218bd4f96b6f06cb0df"
   },
   {
-    "title": "South Carolina vs. #3 Kentucky",
-    "league": "NCAA Women's Volleyball",
-    "fecha-evento": "2025-09-24T18:00:03-05:00",
-    "img": "00fe212e-3004-48c5-9746-bcea70e7e494",
-    "nombre": "disneyd36f1a",
-    "status": "18:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/c397c359-cdd8-435e-aca4-32b64c957c0e",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1758842534~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F24%2FSouth_Carolina_vs_3_Kentu_20250924_1758747653033%2F~psid=de76377a-255e-4b53-b377-85a5256ff8bc~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=14dd75777cfc6a2a75d19cc9337ac878a8af0b6fa04685446e7d8306ad201ec5/clt1/va02/disneyplus/event/2025/09/24/South_Carolina_vs_3_Kentu_20250924_1758747653033/ctr-all-hdri-complete.m3u8?v=1&hash=aa1aa3ea608c68cf7bc08cb8d17ffddf56b21a73",
-    "k1": "7267d9dffd51459895a724602f353be1",
-    "k2": "a144b118858a8306e57f81f0f7ef4637"
-  },
-  {
     "title": "Boston Red Sox vs. Toronto Blue Jays",
     "league": "MLB",
     "fecha-evento": "2025-09-24T18:00:00-05:00",
@@ -644,6 +631,16 @@
     "img": "0edfd77c-cee3-45bc-bdc3-b0ce46fe9c69",
     "nombre": "disneyef66bc",
     "status": "18:55",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Seattle Seahawks vs. Arizona Cardinals",
+    "league": "NFL",
+    "fecha-evento": "2025-09-25T19:00:00-05:00",
+    "img": "5f3006de-7248-4eb4-a84e-e552eeb04299",
+    "nombre": "disneyf80f2e",
+    "status": "19:00",
     "duration": 135,
     "play_url": ""
   }
