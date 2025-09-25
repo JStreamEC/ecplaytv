@@ -56,19 +56,6 @@
     "k2": "19f2f44d82bee7aaa3c1a53ecbde4be5"
   },
   {
-    "title": "Kinoshita Group Japan Open (First Round)",
-    "league": "ATP",
-    "fecha-evento": "2025-09-24T21:00:04-05:00",
-    "img": "96e7134e-c932-4793-af64-9fc3da1ef156",
-    "nombre": "disney0fd09f",
-    "status": "21:00",
-    "duration": 540,
-    "play_url": "https://www.disneyplus.com/es-es/play/3683e91b-4181-4821-bf10-cfee87af713e",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1758853307~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F25%2FKinoshita_Group_Japan_Ope_20250925_1758758418036%2F~psid=e0b9c735-de13-489f-91b5-00f4d87a8331~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=6a9359b09e1f9ba4544b81394d93f139bdd5314c6a694288d35426b388dd6ce6/clt1/va02/disneyplus/event/2025/09/25/Kinoshita_Group_Japan_Ope_20250925_1758758418036/ctr-all-hdri-complete.m3u8?v=1&hash=8e2a362be772d19a83a314f99ddfdc8737b7c6e7",
-    "k1": "788adf63af064e10badd57ae9fa9ec06",
-    "k2": "6421f188a101bd4a8582b2283dc6fc6d"
-  },
-  {
     "title": "WTA China Open / Lotus Court",
     "league": "WTA",
     "fecha-evento": "2025-09-24T22:00:00-05:00",
@@ -652,6 +639,16 @@
     "fecha-evento": "2025-09-25T22:00:00-05:00",
     "img": "9d32dde7-3648-4a5a-a7d3-65d692fdd6ff",
     "nombre": "disney04532c",
+    "status": "22:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "China Open (First Round)",
+    "league": "ATP",
+    "fecha-evento": "2025-09-25T22:00:00-05:00",
+    "img": "6cc797f6-da88-4de5-bd77-34466e4a9108",
+    "nombre": "disney2b77a5",
     "status": "22:00",
     "duration": 135,
     "play_url": ""
