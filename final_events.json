@@ -20,19 +20,6 @@
     "play_url": ""
   },
   {
-    "title": "#21 Missouri vs. #13 Texas A&M",
-    "league": "NCAA Women's Volleyball",
-    "fecha-evento": "2025-09-24T18:00:01-05:00",
-    "img": "5974a46e-41cf-461b-99cc-7ce7908079a5",
-    "nombre": "disneyb1bbea",
-    "status": "18:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/57fc8b0b-1cae-4e92-9580-abce27f88a17",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1758842509~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F24%2F21_Missouri_vs_13_Texas_A_20250924_1758747651023%2F~psid=da995a6c-4268-44ea-96d8-439e82fb9284~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=99094f47d21fe90d00954a7b5520efea570ec9923c1212743b1f40c5358fafe8/clt1/va02/disneyplus/event/2025/09/24/21_Missouri_vs_13_Texas_A_20250924_1758747651023/ctr-all-hdri-complete.m3u8?v=1&hash=614eda430abe8f8e717069b57d4490cae1c00657",
-    "k1": "670809569ecd4b449f23afe3d57335cd",
-    "k2": "3ee090fd8f69d218bd4f96b6f06cb0df"
-  },
-  {
     "title": "Boston Red Sox vs. Toronto Blue Jays",
     "league": "MLB",
     "fecha-evento": "2025-09-24T18:00:00-05:00",
@@ -91,18 +78,24 @@
     "img": "0f7a4eb0-9e87-4100-973e-10d8679889fe",
     "nombre": "disneya87b91",
     "status": "20:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/8bb41119-2492-4ac9-bf9d-ad4d13a55085",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1758849619~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F25%2FVanderbilt_vs_2_Texas_20250925_1758754815039%2F~psid=75b4dac0-bb81-4401-8779-f6f666755887~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=87e675a368aaa125189c907de0f4059a2d6cb4bb2fa68704e63740b08ab424d1/clt1/va02/disneyplus/event/2025/09/25/Vanderbilt_vs_2_Texas_20250925_1758754815039/ctr-all-hdri-complete.m3u8?v=1&hash=edadff49700c155e82fb47927439397a9072ac3a",
+    "k1": "54c0c2ce413d419ba1c138c90cdb5fff",
+    "k2": "bd1968d5a7c27b737af1d509089511e2"
   },
   {
     "title": "Seattle Kraken vs. Edmonton Oilers",
     "league": "National Hockey League",
-    "fecha-evento": "2025-09-24T20:00:00-05:00",
+    "fecha-evento": "2025-09-24T20:00:09-05:00",
     "img": "a685ddca-a565-4ee0-81d5-e6b27f0034a9",
-    "nombre": "disneya3f261",
+    "nombre": "disneyc21338",
     "status": "20:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 210,
+    "play_url": "https://www.disneyplus.com/es-es/play/a7a92bfd-8085-47ff-8e4a-a00dc220cf6a",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1758849663~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F25%2FSeattle_Kraken_vs_Edmonto_20250925_1758754836036%2F~psid=d50e342f-bfc4-4eac-bac1-a84ad4b8cb92~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=5354a1aca78cd140a17260ee05684fcd4925f9bf992186626e4dffd81aeb0d6b/clt1/va02/disneyplus/event/2025/09/25/Seattle_Kraken_vs_Edmonto_20250925_1758754836036/ctr-all-hdri-complete.m3u8?v=1&hash=a407f2466d0e35f055c6be58e51e380bea8f4154",
+    "k1": "60b908da2ffe45f7912f43b530a2724f",
+    "k2": "053b94bed982eaa4b458f17115dc30ed"
   },
   {
     "title": "Club Xelajú MC vs. Sporting San Miguelito (Quarterfinals, Leg 1)",
@@ -640,6 +633,16 @@
     "fecha-evento": "2025-09-25T19:00:00-05:00",
     "img": "5f3006de-7248-4eb4-a84e-e552eeb04299",
     "nombre": "disneyf80f2e",
+    "status": "19:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Defence Force FC vs. Weymouth Wales FC (Round #4)",
+    "league": "Concacaf Caribbean Cup",
+    "fecha-evento": "2025-09-25T19:00:00-05:00",
+    "img": "c7e663a1-df04-45db-9d25-b99daff83376",
+    "nombre": "disney4b7b9c",
     "status": "19:00",
     "duration": 135,
     "play_url": ""
