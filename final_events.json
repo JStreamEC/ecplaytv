@@ -128,19 +128,6 @@
     "k2": "6c97ad3a6ac32a36a1c291188de6c3af"
   },
   {
-    "title": "China Open / Court 5 (Doubles)",
-    "league": "ATP",
-    "fecha-evento": "2025-09-25T01:00:00-05:00",
-    "img": "d4d661a1-5f7f-4102-9b21-69f6d7f04197",
-    "nombre": "disneyc49ab1",
-    "status": "01:00",
-    "duration": 240,
-    "play_url": "https://www.disneyplus.com/es-es/play/0138b81d-2cc4-4265-8ab1-c88a7ef1929c",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1758872710~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F25%2FChina_Open_Court_5_Double_20250925_1758772841039%2F~psid=325b661e-38c2-47b5-9d02-dc6198cd4004~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=f1749d7e89e7e4f2d8ec299238e8eab76e4eab641a5fd04453ef29a7df44d054/clt1/va02/disneyplus/event/2025/09/25/China_Open_Court_5_Double_20250925_1758772841039/ctr-all-hdri-complete.m3u8?v=1&hash=b21e86bef28739facb901f5360eb4eac7ec3c1bc",
-    "k1": "747a4bedc2484ecda77e4b67f565eb2f",
-    "k2": "4b60104c2394e5b5cf0e36984f282039"
-  },
-  {
     "title": "Premier Padel: Alemania - Secondary Court (Octavos de Final)",
     "league": "Premier Padel",
     "fecha-evento": "2025-09-25T03:00:00-05:00",
@@ -659,6 +646,16 @@
     "img": "03f925bd-9df4-470f-910e-bd2736ba15ca",
     "nombre": "disneyc2a2f5",
     "status": "21:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "China Open / Moon",
+    "league": "ATP",
+    "fecha-evento": "2025-09-25T22:00:00-05:00",
+    "img": "141146a7-cd88-47b1-8566-14ab66ae2b67",
+    "nombre": "disney7c7391",
+    "status": "22:00",
     "duration": 135,
     "play_url": ""
   }
