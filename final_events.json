@@ -56,19 +56,6 @@
     "k2": "19f2f44d82bee7aaa3c1a53ecbde4be5"
   },
   {
-    "title": "WTA China Open / Lotus Court",
-    "league": "WTA",
-    "fecha-evento": "2025-09-24T22:00:00-05:00",
-    "img": "00c0c198-89af-46b7-b2ac-1d28f5894c4b",
-    "nombre": "disney42f2a4",
-    "status": "22:00",
-    "duration": 600,
-    "play_url": "https://www.disneyplus.com/es-es/play/e6b105de-ea81-4584-b202-fabb032dd1fd",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1758872507~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F25%2FWTA_China_Open_Lotus_Cour_20250925_1758762037036%2F~psid=65bc9950-9e44-4478-9bae-7038cf75ce4e~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=38b286ac6ee72f1b94c8ece14a4a0d4e17f76c792fd4c26915cdfa064a495a64/clt1/va02/disneyplus/event/2025/09/25/WTA_China_Open_Lotus_Cour_20250925_1758762037036/ctr-all-hdri-complete.m3u8?v=1&hash=72bbb666a48ed4641ba764a7d0b16e68da308b6b",
-    "k1": "a83123352a9c4d03b7ca3a62c249ce62",
-    "k2": "fa4aececb1dd3dd23fa1c6e12a5a14d7"
-  },
-  {
     "title": "China Open (First Round)",
     "league": "ATP",
     "fecha-evento": "2025-09-24T22:00:06-05:00",
@@ -649,6 +636,16 @@
     "fecha-evento": "2025-09-25T22:00:00-05:00",
     "img": "6cc797f6-da88-4de5-bd77-34466e4a9108",
     "nombre": "disney2b77a5",
+    "status": "22:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "China Open / Brad Drewett",
+    "league": "ATP",
+    "fecha-evento": "2025-09-25T22:00:00-05:00",
+    "img": "52a82003-2621-4e43-8067-8a67223a1c0e",
+    "nombre": "disney2a3bf1",
     "status": "22:00",
     "duration": 135,
     "play_url": ""
