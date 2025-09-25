@@ -69,26 +69,6 @@
     "k2": "ff6ffebc2dee61215becf78d68e4582e"
   },
   {
-    "title": "WTA China Open / Moon Court",
-    "league": "WTA",
-    "fecha-evento": "2025-09-24T22:00:10-05:00",
-    "img": "05ba8fab-cd55-4d72-a591-1ba113ca98af",
-    "nombre": "disney3afca9",
-    "status": "22:00",
-    "duration": 480,
-    "play_url": "https://www.disneyplus.com/es-es/play/fdd4f772-783c-48f6-9e25-ec2f219208b8"
-  },
-  {
-    "title": "WTA China Open / Brad Drewett",
-    "league": "WTA",
-    "fecha-evento": "2025-09-24T22:00:31-05:00",
-    "img": "33f8b056-98b7-4660-a3c7-1587f261c3ac",
-    "nombre": "disneyc2fca0",
-    "status": "22:00",
-    "duration": 479,
-    "play_url": "https://www.disneyplus.com/es-es/play/201e5eb9-85f2-464d-878b-819cd6ae3fb9"
-  },
-  {
     "title": "WTA China Open / Capital Group Diamond",
     "league": "WTA",
     "fecha-evento": "2025-09-25T01:12:45-05:00",
@@ -646,6 +626,26 @@
     "fecha-evento": "2025-09-25T22:00:00-05:00",
     "img": "52a82003-2621-4e43-8067-8a67223a1c0e",
     "nombre": "disney2a3bf1",
+    "status": "22:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "WTA China Open / Court 3",
+    "league": "WTA",
+    "fecha-evento": "2025-09-25T22:00:00-05:00",
+    "img": "1d5d3c5b-fce6-46b3-a519-61a8095e4ffd",
+    "nombre": "disney1a9e68",
+    "status": "22:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "WTA China Open (Second Round)",
+    "league": "WTA",
+    "fecha-evento": "2025-09-25T22:00:00-05:00",
+    "img": "6cc797f6-da88-4de5-bd77-34466e4a9108",
+    "nombre": "disneyab1965",
     "status": "22:00",
     "duration": 135,
     "play_url": ""
