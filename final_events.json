@@ -23,7 +23,7 @@
     "title": "Boston Red Sox vs. Toronto Blue Jays",
     "league": "MLB",
     "fecha-evento": "2025-09-25T17:30:00-05:00",
-    "img": "1d17306a-bd89-4b5d-a603-9b2a032c7b05",
+    "img": "a48fe815-d2af-4602-a7be-041b0000440c",
     "nombre": "disney811cac",
     "status": "17:30",
     "duration": 135,
@@ -41,19 +41,6 @@
     "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1758872664~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F25%2FWTA_China_Open_Capital_Gr_20250925_1758765639025%2F~psid=4ca009dd-873e-44a7-903c-01cddae9ee01~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=5d8f85b9dc4ad34a810ba10de62e0cf0d04cf92108862c047f265458c5de344c/clt1/va02/disneyplus/event/2025/09/25/WTA_China_Open_Capital_Gr_20250925_1758765639025/ctr-all-hdri-complete.m3u8?v=1&hash=26f9b4ca8e49c27b4d2857daefada598754fd9f9",
     "k1": "036a2210a325429595884c2ff68e7bc2",
     "k2": "6c97ad3a6ac32a36a1c291188de6c3af"
-  },
-  {
-    "title": "China Open / Capital Group Diamond",
-    "league": "ATP",
-    "fecha-evento": "2025-09-25T06:02:33-05:00",
-    "img": "d61ce6b7-d36b-47fc-8a1c-d151ac4d152a",
-    "nombre": "disneyb55a43",
-    "status": "06:02",
-    "duration": 117,
-    "play_url": "https://www.disneyplus.com/es-es/play/db4249ed-e7f2-4d53-b94b-3f329d901a32",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1758885705~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F25%2FChina_Open_Capital_Group__20250925_1758790851026%2F~psid=bfca0292-b2fd-4974-b460-cba7c3f975ee~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=c718e6661d2139eca9c407535c591c64c1cdf4dfbf82e165f3c2ce075fb0fd2e/clt1/va02/disneyplus/event/2025/09/25/China_Open_Capital_Group__20250925_1758790851026/ctr-all-hdri-complete.m3u8?v=1&hash=b878d3e724302d7415aa930ccedf89956eaf4006",
-    "k1": "5c61d710571440d9ab3e3a34c62786dc",
-    "k2": "b2ec86f054beddc4e586fcf4393cee19"
   },
   {
     "title": "Premier Padel: Alemania - Centre Court (Octavos de Final)",
@@ -116,11 +103,11 @@
     "play_url": ""
   },
   {
-    "title": "Stuttgart vs. Celta",
+    "title": "Utrecht vs. Olympique Lyonnais",
     "league": "UEFA Europa League",
     "fecha-evento": "2025-09-25T13:40:00-05:00",
-    "img": "cf9b08ac-6b0d-441e-91f6-0f53ef87dd90",
-    "nombre": "disney298475",
+    "img": "aca8363e-91a5-43e9-bcd3-9e3eac208bca",
+    "nombre": "disneybdbae9",
     "status": "13:40",
     "duration": 135,
     "play_url": ""
@@ -632,6 +619,16 @@
     "img": "e079db5b-8549-4aaa-94cf-66aa50e38350",
     "nombre": "disney11fc46",
     "status": "00:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Southland vs. Tasman (Fecha #9)",
+    "league": "National Provincial Championship",
+    "fecha-evento": "2025-09-26T02:05:00-05:00",
+    "img": "9977fe9a-12f5-485c-8ecb-2bedc4c87503",
+    "nombre": "disney746874",
+    "status": "02:05",
     "duration": 135,
     "play_url": ""
   }
