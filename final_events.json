@@ -10,19 +10,6 @@
     "play_url": ""
   },
   {
-    "title": "China Open / Moon",
-    "league": "ATP",
-    "fecha-evento": "2025-09-25T22:00:00-05:00",
-    "img": "141146a7-cd88-47b1-8566-14ab66ae2b67",
-    "nombre": "disney7c7391",
-    "status": "22:00",
-    "duration": 360,
-    "play_url": "https://www.disneyplus.com/es-es/play/1bc43ced-adc1-48c3-8702-95aa5a1121bc",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1758943219~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F26%2FChina_Open_Moon_20250926_1758848424027%2F~psid=646f93c3-681a-466d-b2a9-43ce66c584b6~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=fbd4d0402d08e0eaee726420dd8a96122933f5ed7f14e5528bf759b845ca26d3/clt1/va02/disneyplus/event/2025/09/26/China_Open_Moon_20250926_1758848424027/ctr-all-hdri-complete.m3u8?v=1&hash=578827487185d26108703b24b2a4c17ba5fcf60e",
-    "k1": "16e00fe4cec743428f018e9e2c80c572",
-    "k2": "6a77ef4c7fc5296f14cce664673db2dd"
-  },
-  {
     "title": "2025 Ryder Cup (Day One)",
     "league": "ESPN",
     "fecha-evento": "2025-09-26T06:00:03-05:00",
@@ -120,8 +107,11 @@
     "img": "b077d082-a7db-4240-8adc-1f525b1387fe",
     "nombre": "disney828c7f",
     "status": "13:50",
-    "duration": 135,
-    "play_url": ""
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/2b4e2f71-294e-4244-ba73-f0943dad5a6e",
+    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1758999619~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F7f9052ce-8143-43a6-9656-a8c00c4a3e56-1756223111094%2F~psid=f84c9582-ad1d-4328-95f0-cecc50189355~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=4a3731b41435481b77d53f30d8c73efc77a03352f41ecaf83e52ef97cb46c04a/clt1/va02/disneyplus/channel/7f9052ce-8143-43a6-9656-a8c00c4a3e56-1756223111094/ctr-all-sliding.m3u8?v=1&hash=2f03544b7adaaaa4f23d8a4cd7d7cec9ba48514e",
+    "k1": "104461a6fa97478f9882e9d6d4519db1",
+    "k2": "8781f27bc57bd286362b620ef2cdbce0"
   },
   {
     "title": "Platense vs. San Martín de San Juan",
@@ -640,6 +630,16 @@
     "img": "7ea5e281-2f0c-464f-8e6b-cd52627c8da6",
     "nombre": "disney4be51b",
     "status": "00:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "WTA China Open / Lotus Court",
+    "league": "WTA",
+    "fecha-evento": "2025-09-27T02:00:00-05:00",
+    "img": "00c0c198-89af-46b7-b2ac-1d28f5894c4b",
+    "nombre": "disney414b55",
+    "status": "02:00",
     "duration": 135,
     "play_url": ""
   }
