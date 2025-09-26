@@ -32,8 +32,11 @@
     "img": "44a99c72-3f93-477a-94ae-4c993263d9f4",
     "nombre": "disneyd70f40",
     "status": "17:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/217b40fb-64d4-465a-b566-4e2fe4ec31f5",
+    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1759011620~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Fbbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1758265170869%2F~psid=226c44e7-77c8-430d-8132-e67477fa5f37~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=1ead30979fc74b509f908495a7e415c9db27cc4193ddf8273b243ed3b500a059/clt1/va02/disneyplus/channel/bbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1758265170869/ctr-all-sliding.m3u8?v=1&hash=4b44ed5e140524edee19ba7de50a11aef68f9d53",
+    "k1": "7aabd71add9a4a669922a869d8b91026",
+    "k2": "bd2915e6f8fdd36463d384274edc3689"
   },
   {
     "title": "Florida State vs. Clemson",
@@ -42,28 +45,37 @@
     "img": "a04009b3-9cf7-42b3-8652-5536155c6536",
     "nombre": "disney124010",
     "status": "17:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Lexington Sporting Club vs. Dallas Trinity",
-    "league": "USL Super League",
-    "fecha-evento": "2025-09-26T17:00:00-05:00",
-    "img": "b78f05ba-7cdc-4bff-a64e-15e96a28453a",
-    "nombre": "disney458900",
-    "status": "17:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/7c495b12-60ab-4ba5-a8c9-7565d800f201",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1759011663~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F26%2FFlorida_State_vs_Clemson_20250926_1758919544068%2F~psid=69ac6e4a-59d0-4725-9357-ebd465770fb3~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=2117d9688c583162d3247ccfa53b98c112259cb488678f2feb5c6374025bba69/clt1/va02/disneyplus/event/2025/09/26/Florida_State_vs_Clemson_20250926_1758919544068/ctr-all-hdri-complete.m3u8?v=1&hash=976a17e6cc301db451e6390fc8cec3ebfe1a2e49",
+    "k1": "27bb9db5cf3d4389808271816dabfe9d",
+    "k2": "3310b0ee54f2280f5fe1483971c39663"
   },
   {
     "title": "Miami (OH) vs. Buffalo",
     "league": "NCAA Women's Volleyball",
-    "fecha-evento": "2025-09-26T17:00:00-05:00",
+    "fecha-evento": "2025-09-26T17:00:03-05:00",
     "img": "62e50477-e64f-4031-ba80-9ab999302b55",
-    "nombre": "disney9dfb9b",
+    "nombre": "disney27e3cb",
     "status": "17:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/e849e8af-f92c-4089-bfea-b59174d4c7d2",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759011707~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F26%2FMiami_OH_vs_Buffalo_20250926_1758919731685%2F~psid=c899c1ec-1888-4fd1-9131-63a3a94cec8f~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=4b16a70a9a14843947c19053635f2e9c0b4fb6f8f49326340f98e3ed67b3ddb8/clt1/va02/disneyplus/event/2025/09/26/Miami_OH_vs_Buffalo_20250926_1758919731685/ctr-all-hdri-complete.m3u8?v=1&hash=9601180de6bbe16daddfaa5ddb55f98948e6f966",
+    "k1": "becceb30da7d406a80d4d00359abc858",
+    "k2": "39cfc73db492cea6af8335050ab58f3d"
+  },
+  {
+    "title": "Lexington Sporting Club vs. Dallas Trinity",
+    "league": "USL Super League",
+    "fecha-evento": "2025-09-26T17:00:05-05:00",
+    "img": "b78f05ba-7cdc-4bff-a64e-15e96a28453a",
+    "nombre": "disneyda5f94",
+    "status": "17:00",
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/96ee0195-589c-4802-ad4e-63cfdc1eb8e4",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759011730~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F26%2FLexington_Sporting_Club_v_20250926_1758916800062%2F~psid=7ca15876-e12b-4e04-88e3-4cb3b6b9d50b~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=8543de9f8ce1130edc4ca8a60bde98c3c3585648a9eb9b044269b5a1e7a3248f/clt1/va02/disneyplus/event/2025/09/26/Lexington_Sporting_Club_v_20250926_1758916800062/ctr-all-hdri-complete.m3u8?v=1&hash=d752b1933082f50dffda52cc1f1076a852a9a1eb",
+    "k1": "b6193715dbf74d9b810486bcf84f0616",
+    "k2": "6d226038d5669eca04faca5820bc3bb9"
   },
   {
     "title": "Syracuse vs. Notre Dame",
