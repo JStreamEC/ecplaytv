@@ -49,24 +49,17 @@
     "k2": "364b993414eb879f850ceff005ee55ac"
   },
   {
-    "title": "2025 Ryder Cup (Day One)",
-    "league": "ESPN",
-    "fecha-evento": "2025-09-26T11:00:00-05:00",
-    "img": "178d4621-c73b-47ab-a2c8-e149bba56a36",
-    "nombre": "disney814d7f",
-    "status": "11:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "FC Schalke 04 vs. SpVgg Greuther Fürth",
     "league": "Bundesliga 2 de Alemania",
-    "fecha-evento": "2025-09-26T11:00:00-05:00",
+    "fecha-evento": "2025-09-26T11:00:01-05:00",
     "img": "08add055-fc43-44dd-9423-b9b12fd853c3",
-    "nombre": "disney7a7277",
+    "nombre": "disney641ac5",
     "status": "11:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 165,
+    "play_url": "https://www.disneyplus.com/es-es/play/b88524b2-5859-4883-b7e9-7c7d69a4895c",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1758990018~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F26%2FFC_Schalke_04_vs_SpVgg_Gr_20250926_1758895234026%2F~psid=55098a4e-2b9e-41ee-bd72-5cad4cccdcb4~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=80ecaccc77a0538868cc69a96540f1fe6ebf8494604eef55bab896e6364eeb64/clt1/va02/disneyplus/event/2025/09/26/FC_Schalke_04_vs_SpVgg_Gr_20250926_1758895234026/ctr-all-hdri-complete.m3u8?v=1&hash=4de9e0c7d40d5cdef0d561f5b3f05c3117d0e903",
+    "k1": "94af11ac81d64359a4e917530c74f6f9",
+    "k2": "28d402318ce1abc9c44397b6a247fb88"
   },
   {
     "title": "SV Darmstadt 98 vs. SG Dynamo Dresden",
@@ -519,16 +512,6 @@
     "play_url": ""
   },
   {
-    "title": "Kinoshita Group Japan Open / Kinoshita Group Show Court (Doubles)",
-    "league": "ATP",
-    "fecha-evento": "2025-09-26T22:30:00-05:00",
-    "img": "0759b5ab-929e-4c18-b324-2210e83899a7",
-    "nombre": "disneyee00ac",
-    "status": "22:30",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Houston vs. Oregon State",
     "league": "Fútbol Americano NCAA",
     "fecha-evento": "2025-09-26T21:30:00-05:00",
@@ -605,6 +588,16 @@
     "img": "05ba8fab-cd55-4d72-a591-1ba113ca98af",
     "nombre": "disney4e5dac",
     "status": "22:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Kinoshita Group Japan Open / Kinoshita Group Show Court (Doubles)",
+    "league": "ATP",
+    "fecha-evento": "2025-09-26T22:30:00-05:00",
+    "img": "0759b5ab-929e-4c18-b324-2210e83899a7",
+    "nombre": "disneyee00ac",
+    "status": "22:30",
     "duration": 135,
     "play_url": ""
   },
