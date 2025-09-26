@@ -121,19 +121,6 @@
     "k2": "3db80b03c55b27949fb369b04d10154d"
   },
   {
-    "title": "Motul Grand Prix of Japan - Free Practice 1 (Moto2)",
-    "league": "MotoGP",
-    "fecha-evento": "2025-09-25T19:40:00-05:00",
-    "img": "48483475-b8db-4983-892c-430155f51dc9",
-    "nombre": "disneyeff0c7",
-    "status": "19:40",
-    "duration": 55,
-    "play_url": "https://www.disneyplus.com/es-es/play/da323423-07bf-46c2-a829-8fe5a8b2d376",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1758933661~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F26%2FMotul_Grand_Prix_of_Japan_20250926_1758840041026%2F~psid=af5b42fc-edb9-4a96-bab5-5d14145d2206~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=0c64a1d5ba2156414e3ac3a6648532745b28fb6e1b6b0c6ed92a795a702bd3c4/clt1/va02/disneyplus/event/2025/09/26/Motul_Grand_Prix_of_Japan_20250926_1758840041026/ctr-all-hdri-complete.m3u8?v=1&hash=869848d4848f889d3892a66c0ab61de42e0f2a1e",
-    "k1": "f34deeebb9c447d3909806a3ef40e63b",
-    "k2": "e3f0ed0a52aca87f1b8c7b006550d84e"
-  },
-  {
     "title": "Saint Mary's vs. Oregon State",
     "league": "NCAA Women's Volleyball",
     "fecha-evento": "2025-09-25T20:00:03-05:00",
@@ -149,12 +136,15 @@
   {
     "title": "Motul Grand Prix of Japan - Free Practice 1 (MotoGP)",
     "league": "MotoGP",
-    "fecha-evento": "2025-09-25T20:35:00-05:00",
+    "fecha-evento": "2025-09-25T20:35:11-05:00",
     "img": "0a3583d9-00bb-43c9-8651-9bd227992d04",
-    "nombre": "disney8f8051",
+    "nombre": "disneyef5dd4",
     "status": "20:35",
-    "duration": 135,
-    "play_url": ""
+    "duration": 75,
+    "play_url": "https://www.disneyplus.com/es-es/play/5816f4b9-e0f1-4756-bc84-e37e1a6c7684",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1758937261~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F26%2FMotul_Grand_Prix_of_Japan_20250926_1758843310040%2F~psid=1cc69e02-1c6a-4cf5-b415-85d514c39332~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=36f727398f5f85f596f15eda894c3175043b03459dc8649b275db4f43061bd50/clt1/va02/disneyplus/event/2025/09/26/Motul_Grand_Prix_of_Japan_20250926_1758843310040/ctr-all-hdri-complete.m3u8?v=1&hash=e867436123af62eae637e2e21b00eb623d01dc6c",
+    "k1": "5ee020a01a1c47e0ae9446583b7525ef",
+    "k2": "0de9036bfed204003445e347ee9ce090"
   },
   {
     "title": "CS Cartaginés vs. CD Olimpia (Quarterfinals, Leg 1)",
@@ -643,6 +633,16 @@
     "img": "04525260-dfdc-437a-a9d5-4abaa9a3edac",
     "nombre": "disneyd13a64",
     "status": "17:45",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "New Jersey Devils vs. New York Islanders",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-09-26T18:00:00-05:00",
+    "img": "a27e568d-40a1-49ae-b7d4-96493c97e5a5",
+    "nombre": "disneyc35a74",
+    "status": "18:00",
     "duration": 135,
     "play_url": ""
   }
