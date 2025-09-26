@@ -33,19 +33,6 @@
     "k2": "4b525ffaf62c683fa9effdc211ec7820"
   },
   {
-    "title": "Seattle Seahawks vs. Arizona Cardinals",
-    "league": "NFL",
-    "fecha-evento": "2025-09-25T19:00:00-05:00",
-    "img": "5f3006de-7248-4eb4-a84e-e552eeb04299",
-    "nombre": "disneyf80f2e",
-    "status": "19:00",
-    "duration": 210,
-    "play_url": "https://www.disneyplus.com/es-es/play/33cb1e12-c266-484d-9e72-e2ac22f4a90b",
-    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1758932462~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F7f9052ce-8143-43a6-9656-a8c00c4a3e56-1756223111094%2F~psid=c663c1ee-a25a-4f86-b721-0cbe7ac87c5b~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=1f747c29bbf8f3da2d05501d97f962d555351c9d0b97f3c7cc8c6dfa03e50c60/clt1/va02/disneyplus/channel/7f9052ce-8143-43a6-9656-a8c00c4a3e56-1756223111094/ctr-all-sliding.m3u8?v=1&hash=2f03544b7adaaaa4f23d8a4cd7d7cec9ba48514e",
-    "k1": "38c049022f804500b12e13b38bbf9a1d",
-    "k2": "62c664b8f3474e1531a7cb570ceaf0cc"
-  },
-  {
     "title": "CS Cartaginés vs. CD Olimpia (Quarterfinals, Leg 1)",
     "league": "Concacaf Central American Cup",
     "fecha-evento": "2025-09-25T20:50:00-05:00",
@@ -663,6 +650,16 @@
     "fecha-evento": "2025-09-26T18:30:00-05:00",
     "img": "91489d44-94d1-4788-bb25-fa52cfc8071f",
     "nombre": "disney98603d",
+    "status": "18:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "En Español-Las Vegas Aces vs. Indiana Fever (Semifinals, Game 3)",
+    "league": "WNBA",
+    "fecha-evento": "2025-09-26T18:30:00-05:00",
+    "img": "4f875779-4a40-4e78-bc91-f9ab06e7d727",
+    "nombre": "disney00857a",
     "status": "18:30",
     "duration": 135,
     "play_url": ""
