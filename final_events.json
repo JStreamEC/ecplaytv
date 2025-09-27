@@ -1,18 +1,5 @@
 [
   {
-    "title": "Ryder Cup - Featured Groups (Day Two)",
-    "league": "ESPN",
-    "fecha-evento": "2025-09-27T06:00:00-05:00",
-    "img": "8656b974-264d-4b86-9ee1-890ea0fa4183",
-    "nombre": "disneyeeacf1",
-    "status": "06:00",
-    "duration": 660,
-    "play_url": "https://www.disneyplus.com/es-es/play/d716cc10-7350-493b-bfb1-5c7008cde24e",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759057375~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F27%2FRyder_Cup_Featured_Groups_20250927_1758963611046%2F~psid=94bc55e9-ef1f-4915-ba97-bce2402c30d8~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=1c55ed59406f7d2ad1b735c7e248335ae38f38fe197dcf4c6ac397c6dc82ebe3/clt1/va02/disneyplus/event/2025/09/27/Ryder_Cup_Featured_Groups_20250927_1758963611046/ctr-all-hdri-complete.m3u8?v=1&hash=1195182cf14f2d4177e9905f8c91b86d6aa74178",
-    "k1": "8b91274ec2af4a689597550c9dc5fc77",
-    "k2": "f957e25152b44d0e43559ac8556c03db"
-  },
-  {
     "title": "FC Groningen vs. Feyenoord (Fecha #7)",
     "league": "Eredivisie",
     "fecha-evento": "2025-09-28T07:15:00-05:00",
@@ -661,6 +648,16 @@
     "fecha-evento": "2025-09-28T05:20:00-05:00",
     "img": "bdd03556-02b3-4a17-8b13-a8c2eada0557",
     "nombre": "disney013825",
+    "status": "05:20",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Tissot Aragon - World SSP - Race 2",
+    "league": "FIM Superbike World Championship",
+    "fecha-evento": "2025-09-28T05:20:00-05:00",
+    "img": "dbbdf026-dd6f-4f07-9c86-944c465a067c",
+    "nombre": "disneya8b53b",
     "status": "05:20",
     "duration": 135,
     "play_url": ""
