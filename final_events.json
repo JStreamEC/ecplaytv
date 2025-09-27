@@ -117,19 +117,6 @@
     "k2": "53494a1728662be99e51d5a0b824cf94"
   },
   {
-    "title": "WTA China Open / Lotus Court",
-    "league": "WTA",
-    "fecha-evento": "2025-09-27T02:00:00-05:00",
-    "img": "00c0c198-89af-46b7-b2ac-1d28f5894c4b",
-    "nombre": "disney414b55",
-    "status": "02:00",
-    "duration": 360,
-    "play_url": "https://www.disneyplus.com/es-es/play/46a40ac7-795f-4adc-81c0-9ab29fa24465",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1759042818~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F27%2FWTA_China_Open_Lotus_Cour_20250927_1758949231026%2F~psid=d21dec8b-ab15-4512-ad80-cc1805d2ad49~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=6351681777b8b423da292a815cf2103afc20fb2685b2c671f2c2d0e4f47487a3/clt1/va02/disneyplus/event/2025/09/27/WTA_China_Open_Lotus_Cour_20250927_1758949231026/ctr-all-hdri-complete.m3u8?v=1&hash=e19b4393a1dc79406a9d2a6dd99de20d1c5e214e",
-    "k1": "2be8d1ab20ca429f9af9f6d72bcf2041",
-    "k2": "aea3dcae1502a73b844808af6f1b5774"
-  },
-  {
     "title": "China Open / Capital Group Diamond",
     "league": "ATP",
     "fecha-evento": "2025-09-27T02:00:00-05:00",
@@ -143,17 +130,17 @@
     "k2": "e1025ca9d8497cccb5dfd7b6bbaf9522"
   },
   {
-    "title": "MotoGP Asia Talent Cup - Grand Prix of Japan (Carrera 1)",
-    "league": "MotoGP",
+    "title": "WTA China Open / Lotus Court",
+    "league": "WTA",
     "fecha-evento": "2025-09-27T02:00:00-05:00",
-    "img": "ab54444e-96e1-42ed-a13a-7537f2968bfc",
-    "nombre": "disneyba3aa9",
+    "img": "00c0c198-89af-46b7-b2ac-1d28f5894c4b",
+    "nombre": "disney414b55",
     "status": "02:00",
-    "duration": 55,
-    "play_url": "https://www.disneyplus.com/es-es/play/85ed22ec-982e-49e3-95ff-0cf3df42ca55",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759042905~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F27%2FMotoGP_Asia_Talent_Cup_Gr_20250927_1758949246036%2F~psid=6d52b161-d6d2-49af-b791-4755735a9f2c~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=a492d8804976fc34294e292ab46a190bc6cf5c65817981f20d864372dfc5de12/clt1/va02/disneyplus/event/2025/09/27/MotoGP_Asia_Talent_Cup_Gr_20250927_1758949246036/ctr-all-hdri-complete.m3u8?v=1&hash=055765ba1b7886f2a73beebb160aad2021d6fd13",
-    "k1": "6def4319b94742ec88621c4f0a9f5e6e",
-    "k2": "e419cea93f1d5aa685004192658fb3ea"
+    "duration": 360,
+    "play_url": "https://www.disneyplus.com/es-es/play/46a40ac7-795f-4adc-81c0-9ab29fa24465",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1759042818~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F27%2FWTA_China_Open_Lotus_Cour_20250927_1758949231026%2F~psid=d21dec8b-ab15-4512-ad80-cc1805d2ad49~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=6351681777b8b423da292a815cf2103afc20fb2685b2c671f2c2d0e4f47487a3/clt1/va02/disneyplus/event/2025/09/27/WTA_China_Open_Lotus_Cour_20250927_1758949231026/ctr-all-hdri-complete.m3u8?v=1&hash=e19b4393a1dc79406a9d2a6dd99de20d1c5e214e",
+    "k1": "2be8d1ab20ca429f9af9f6d72bcf2041",
+    "k2": "aea3dcae1502a73b844808af6f1b5774"
   },
   {
     "title": "Carlos Alcaraz (ESP) vs. Zizou Bergs (BEL)",
@@ -652,6 +639,16 @@
     "img": "0082250f-e818-4e79-9d0c-67329eabb919",
     "nombre": "disneye32ab0",
     "status": "11:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Toulouse vs. Nantes",
+    "league": "Ligue 1",
+    "fecha-evento": "2025-09-27T11:55:00-05:00",
+    "img": "34f4eccd-40e2-43ef-a102-aa1f29619859",
+    "nombre": "disneyb44f4d",
+    "status": "11:55",
     "duration": 135,
     "play_url": ""
   }
