@@ -186,19 +186,6 @@
     "k2": "7040dd43ce2f3e0acfaa714727e910e9"
   },
   {
-    "title": "Borussia Mönchengladbach vs. Eintracht Frankfurt",
-    "league": "Bundesliga",
-    "fecha-evento": "2025-09-27T11:20:00-05:00",
-    "img": "a6e2015a-bbd3-4172-8388-05bd50ba6d41",
-    "nombre": "disneyb4ef6f",
-    "status": "11:20",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/4c9b4e1c-d1c1-452c-a4d3-2759743d0efd",
-    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759076601~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F7f9052ce-8143-43a6-9656-a8c00c4a3e56-1756223111094%2F~psid=47c68522-5e7c-4704-aada-663660ca9584~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=3c50ba5a7026874301a99cb9b4e0dfbcce440e4b79f333be5c0b64739a3a1928/clt1/va02/disneyplus/channel/7f9052ce-8143-43a6-9656-a8c00c4a3e56-1756223111094/ctr-all-sliding.m3u8?v=1&hash=2f03544b7adaaaa4f23d8a4cd7d7cec9ba48514e",
-    "k1": "8ff242e391d3427892cf32944f561984",
-    "k2": "f94beab199317507e5d82a2b57c455db"
-  },
-  {
     "title": "Nottingham Forest vs. Sunderland",
     "league": "Premier League",
     "fecha-evento": "2025-09-27T11:22:05-05:00",
@@ -240,12 +227,28 @@
   {
     "title": "Utah State vs. #18 Vanderbilt",
     "league": "Fútbol Americano NCAA",
-    "fecha-evento": "2025-09-27T11:45:00-05:00",
+    "fecha-evento": "2025-09-27T11:43:18-05:00",
     "img": "1363e1b8-38b9-43ed-8108-9072d78166d7",
-    "nombre": "disney67579a",
+    "nombre": "disney10f222",
+    "status": "11:43",
+    "duration": 182,
+    "play_url": "https://www.disneyplus.com/es-es/play/2efb8674-5cdf-4e46-b223-cc5e83cd9ad5",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1759078904~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F27%2FUtah_State_vs_18_Vanderbi_20250927_1758984339032%2F~psid=94502ec0-40ed-4cf7-aeab-3882ce70cc0d~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=4d71499a5507ea26de14d2a5bc4cd37d8e693c748be18f85ae89d10eae2fa5f2/clt1/va02/disneyplus/event/2025/09/27/Utah_State_vs_18_Vanderbi_20250927_1758984339032/ctr-all-hdri-complete.m3u8?v=1&hash=094e704fcecc23595b02977911cd62303395783a",
+    "k1": "47820a19a66b484a82430c9824e54c33",
+    "k2": "ea8d4781caf069bae49de454e2997edb"
+  },
+  {
+    "title": "Toulouse vs. Nantes",
+    "league": "Ligue 1",
+    "fecha-evento": "2025-09-27T11:45:18-05:00",
+    "img": "34f4eccd-40e2-43ef-a102-aa1f29619859",
+    "nombre": "disneyb0badb",
     "status": "11:45",
     "duration": 135,
-    "play_url": ""
+    "play_url": "https://www.disneyplus.com/es-es/play/51763890-0192-4994-b911-3676f2a25103",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759078928~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F27%2FToulouse_vs_Nantes_20250927_1758984900317%2F~psid=270036ac-8255-45d5-8e7d-fe8cb12c4cf0~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=a2844901c265994e92e81a6a15ccadb8f0db7d31644929317671b5183cfd50ff/clt1/va02/disneyplus/event/2025/09/27/Toulouse_vs_Nantes_20250927_1758984900317/ctr-all-hdri-complete.m3u8?v=1&hash=bfacdb962c94af5e18ba4aa6be7467387968e609",
+    "k1": "79d762d91a7c42b59bcfdb1d4ce97ce6",
+    "k2": "c0a61536cd54433e53770b2002a7034f"
   },
   {
     "title": "Fatih Karagumruk vs. Trabzonspor",
@@ -254,18 +257,11 @@
     "img": "0082250f-e818-4e79-9d0c-67329eabb919",
     "nombre": "disneye32ab0",
     "status": "11:50",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Toulouse vs. Nantes",
-    "league": "Ligue 1",
-    "fecha-evento": "2025-09-27T11:55:00-05:00",
-    "img": "34f4eccd-40e2-43ef-a102-aa1f29619859",
-    "nombre": "disneyb44f4d",
-    "status": "11:55",
-    "duration": 135,
-    "play_url": ""
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/2ce29c1a-0216-4a9f-87af-c3f1743db823",
+    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759078951~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Ffad7477a-2557-4c86-93ad-97e682f108c9-1756576079046%2F~psid=144ed612-839f-43f6-a608-570a3e8c07fd~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=851b32eb74d2e0d44910d57022a2cdd8d0e3646e54576ad5a523af61a35c0999/clt1/va02/disneyplus/channel/fad7477a-2557-4c86-93ad-97e682f108c9-1756576079046/ctr-all-sliding.m3u8?v=1&hash=59d5bf699a3f4b934d94ae5f2a08604edb4d6499",
+    "k1": "5e511be9af37450fb71e1a43e1d7b057",
+    "k2": "75e5a2644206203308143617e83da627"
   },
   {
     "title": "California vs. Virginia Tech",
@@ -663,6 +659,16 @@
     "fecha-evento": "2025-09-27T18:00:00-05:00",
     "img": "3b1b525b-a581-447a-89a2-d34551b9a8f7",
     "nombre": "disneyb827ef",
+    "status": "18:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Carlos Ulberg vs. Dominick Reyes",
+    "league": "UFC",
+    "fecha-evento": "2025-09-27T18:00:00-05:00",
+    "img": "0928b77e-7b1c-4641-91e7-7f07d3e901f5",
+    "nombre": "disney986460",
     "status": "18:00",
     "duration": 135,
     "play_url": ""
