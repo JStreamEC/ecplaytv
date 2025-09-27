@@ -39,19 +39,6 @@
     "k2": "b8b35e78310bf6aef28f423c83efd548"
   },
   {
-    "title": "China Open (Second Round)",
-    "league": "ATP",
-    "fecha-evento": "2025-09-26T22:00:03-05:00",
-    "img": "802b760a-535f-4d27-bb51-0979eb61b85d",
-    "nombre": "disney0d88a5",
-    "status": "22:00",
-    "duration": 360,
-    "play_url": "https://www.disneyplus.com/es-es/play/1f7a9c13-912d-46fc-b00b-8a31e7994dc4",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759029711~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F27%2FChina_Open_Second_Round_20250927_1758934836037%2F~psid=9371b2d8-fa6d-46b8-be24-46a35ec37631~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=1e41d11cb690022adff952d20a81ad6b69106408c7bf2bc74cf4bc58ebd400db/clt1/va02/disneyplus/event/2025/09/27/China_Open_Second_Round_20250927_1758934836037/ctr-all-hdri-complete.m3u8?v=1&hash=2b970593aacb9fd17e60f94853a3bf929f734563",
-    "k1": "4b578b2df0734c9d8803d7092f4567e5",
-    "k2": "b8e148030c785330f129d5433787a777"
-  },
-  {
     "title": "WTA China Open / Brad Drewett",
     "league": "WTA",
     "fecha-evento": "2025-09-26T22:00:18-05:00",
@@ -91,19 +78,6 @@
     "k2": "53494a1728662be99e51d5a0b824cf94"
   },
   {
-    "title": "China Open / Capital Group Diamond",
-    "league": "ATP",
-    "fecha-evento": "2025-09-27T02:00:00-05:00",
-    "img": "0f2095e3-3192-4d23-b41a-f2587cd48ae5",
-    "nombre": "disney75bf04",
-    "status": "02:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/6dabd973-6919-4cbc-8e53-c6b3f2cb597f",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759042861~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F27%2FChina_Open_Capital_Group__20250927_1758949214027%2F~psid=567be5ea-9bba-4361-94ec-fad5701cbe5b~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=d04a53111c505be4c6ff527854c169484d8f60a076c305575f9c64e059dba72b/clt1/va02/disneyplus/event/2025/09/27/China_Open_Capital_Group__20250927_1758949214027/ctr-all-hdri-complete.m3u8?v=1&hash=eba512da18ffa71cc7f4f2bc26da61835d3f42c9",
-    "k1": "687a5352ee7c43e09970770c7357f447",
-    "k2": "e1025ca9d8497cccb5dfd7b6bbaf9522"
-  },
-  {
     "title": "WTA China Open / Lotus Court",
     "league": "WTA",
     "fecha-evento": "2025-09-27T02:00:00-05:00",
@@ -136,8 +110,11 @@
     "img": "b0d75db5-f434-46dc-8b09-0343d4a2329b",
     "nombre": "disney5d181e",
     "status": "05:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/c3322463-2a0e-4234-b859-1890626f3886",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759053618~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F27%2F2025_Ryder_Cup_Breakfast__20250927_1758960049034%2F~psid=b5f870a0-b998-410e-a29a-d8a0402af52c~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=63a580216a6c238e4d7533b0775b47d3a325b9e0da801fa2be0e0bbd16dc79cc/clt1/va02/disneyplus/event/2025/09/27/2025_Ryder_Cup_Breakfast__20250927_1758960049034/ctr-all-hdri-complete.m3u8?v=1&hash=e73cf75c5f583f74edd85808e4256172c5a40ab3",
+    "k1": "bcd1de2093a442d9af292e511ff3a824",
+    "k2": "be6571a9a7149297a252733c76c09bd5"
   },
   {
     "title": "Tissot Aragon - World SSP - Race 1",
@@ -646,6 +623,26 @@
     "img": "067377e7-d606-4adb-ae50-b12e26e2beca",
     "nombre": "disneya2dcb6",
     "status": "12:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "New Jersey Motorsports Park, NJ - Supersport & Superbike Race 1",
+    "league": "MotoAmerica",
+    "fecha-evento": "2025-09-27T13:00:00-05:00",
+    "img": "1dfc67c1-3037-4f57-a0de-7349a0e86976",
+    "nombre": "disneyd3d92c",
+    "status": "13:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Regatas Bella Vista vs. Alumni (Ronda #20)",
+    "league": "URBA Top 12",
+    "fecha-evento": "2025-09-27T13:10:00-05:00",
+    "img": "1f7014b5-75a4-49fd-bfc0-348f27f8da38",
+    "nombre": "disney5f1d12",
+    "status": "13:10",
     "duration": 135,
     "play_url": ""
   }
