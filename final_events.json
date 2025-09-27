@@ -52,19 +52,6 @@
     "k2": "be6571a9a7149297a252733c76c09bd5"
   },
   {
-    "title": "Tissot Aragon - World SSP - Race 1",
-    "league": "FIM Superbike World Championship",
-    "fecha-evento": "2025-09-27T05:20:00-05:00",
-    "img": "dbbdf026-dd6f-4f07-9c86-944c465a067c",
-    "nombre": "disney211703",
-    "status": "05:20",
-    "duration": 65,
-    "play_url": "https://www.disneyplus.com/es-es/play/ba822710-3e66-4814-900a-e69013459f20",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759054818~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F27%2FTissot_Aragon_World_SSP_R_20250927_1758961207036%2F~psid=65f9f8bd-724f-41cc-a680-3c59f5c92b36~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=4e439b921beed122bb80ecda60e20b5bba4faf84d4182ecdfdc3ddb13fb41cc8/clt1/va02/disneyplus/event/2025/09/27/Tissot_Aragon_World_SSP_R_20250927_1758961207036/ctr-all-hdri-complete.m3u8?v=1&hash=50366eb55321e1ee1d041c2664a3ea0e966d6f02",
-    "k1": "66d6070482eb4c099e4589a5b894eeeb",
-    "k2": "d107987b637f553da76ef02810285c9c"
-  },
-  {
     "title": "Arsenal vs. Aston Villa",
     "league": "English Women's Super League",
     "fecha-evento": "2025-09-27T05:50:07-05:00",
@@ -197,12 +184,15 @@
   {
     "title": "Nueva Zelanda vs. France (Tercer Puesto)",
     "league": "Mundial de Rugby femenino",
-    "fecha-evento": "2025-09-27T06:25:00-05:00",
+    "fecha-evento": "2025-09-27T06:25:02-05:00",
     "img": "a2c38a65-db5b-48ee-b2fd-acae00962a84",
-    "nombre": "disneyd08617",
+    "nombre": "disney306a82",
     "status": "06:25",
-    "duration": 135,
-    "play_url": ""
+    "duration": 125,
+    "play_url": "https://www.disneyplus.com/es-es/play/09ace21b-6c24-44f8-9810-6bb1dc0c278b",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759059619~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F27%2FNueva_Zelanda_vs_France_T_20250927_1758965106038%2F~psid=55a26132-ee3e-48d1-80a3-9d2b36ebce23~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=e4775d21b4a0677b64290deef61f8195cd60301522565a59d6caabddf45c861d/clt1/va02/disneyplus/event/2025/09/27/Nueva_Zelanda_vs_France_T_20250927_1758965106038/ctr-all-hdri-complete.m3u8?v=1&hash=c34c1198f9d594c317205e12df586a16dc69d631",
+    "k1": "0485dbd4510d464b8bb1f5af65c5a928",
+    "k2": "5902899a35a626dda064180c925ef70a"
   },
   {
     "title": "Getafe vs. Levante",
@@ -660,6 +650,16 @@
     "fecha-evento": "2025-09-27T13:15:00-05:00",
     "img": "17f54c1f-ab12-4f91-acb4-e18a78cb0e26",
     "nombre": "disneydacf2f",
+    "status": "13:15",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Rampla Juniors vs. Rentistas",
+    "league": "Segunda División de Uruguay",
+    "fecha-evento": "2025-09-27T13:15:00-05:00",
+    "img": "2e86ed57-7a9a-458d-a549-f8c3c8ca5184",
+    "nombre": "disney729f8f",
     "status": "13:15",
     "duration": 135,
     "play_url": ""
