@@ -1,18 +1,5 @@
 [
   {
-    "title": "Jonathan Rojas vs. Ray Rojas | ESPN KO",
-    "league": "ESPN",
-    "fecha-evento": "2025-09-26T21:00:00-05:00",
-    "img": "ab03225a-5daf-4486-80e8-3c69ec0dc444",
-    "nombre": "disney7960fb",
-    "status": "21:00",
-    "duration": 180,
-    "play_url": "https://www.disneyplus.com/es-es/play/42e23a95-74d8-42f0-ae90-ca1b5a36eb83",
-    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1759026022~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Ff25bdf06-81c9-4a7c-b128-3128d610ad17-1756223551993%2F~psid=5e065f58-371a-4f9d-a3d5-63c320d519f2~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=5f8816c59d9e55db426ff4ac63528a03a71d91b5b089eb0d17af60f5b7bdf1e2/clt1/va02/disneyplus/channel/f25bdf06-81c9-4a7c-b128-3128d610ad17-1756223551993/ctr-all-sliding.m3u8?v=1&hash=aa8d2bb37fafb9b8d31c8b8095cb65f827b67eb8",
-    "k1": "50e0e0f9209b4a6bb052c09356a281cc",
-    "k2": "64334e1d9c31e1f70b4cbed56d71ea6f"
-  },
-  {
     "title": "Kinoshita Group Japan Open (Second Round)",
     "league": "ATP",
     "fecha-evento": "2025-09-26T21:00:02-05:00",
@@ -143,19 +130,6 @@
     "k2": "53494a1728662be99e51d5a0b824cf94"
   },
   {
-    "title": "Motul Grand Prix of Japan - Qualifying (Moto2)",
-    "league": "MotoGP",
-    "fecha-evento": "2025-09-26T23:35:11-05:00",
-    "img": "48483475-b8db-4983-892c-430155f51dc9",
-    "nombre": "disney22dbda",
-    "status": "23:35",
-    "duration": 55,
-    "play_url": "https://www.disneyplus.com/es-es/play/8e03be56-1bac-42ae-9c81-5bb2c35a3a02",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759034420~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F27%2FMotul_Grand_Prix_of_Japan_20250927_1758940559037%2F~psid=45b681c9-6813-4d91-a275-ab3ef3106aaa~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=d310bfc052f5ca07fe86e6c49bb7fe18aa8138a5551f68f63fa5d143e9bdd0a4/clt1/va02/disneyplus/event/2025/09/27/Motul_Grand_Prix_of_Japan_20250927_1758940559037/ctr-all-hdri-complete.m3u8?v=1&hash=02b92989deb1efa11e7c0c42b3d7c1f34f59ece6",
-    "k1": "662089f9a4684ae89610470bc767ab12",
-    "k2": "ed5b7c7914ad61634028779e39a18fdd"
-  },
-  {
     "title": "Nueva Zelanda vs. Australia (Ronda #5)",
     "league": "Rugby Championship",
     "fecha-evento": "2025-09-26T23:50:02-05:00",
@@ -172,11 +146,14 @@
     "title": "MotoGP - Sprint Race - Motul Grand Prix of Japan",
     "league": "MotoGP",
     "fecha-evento": "2025-09-27T00:30:00-05:00",
-    "img": "c730ff2c-5878-44e4-b5f0-07cbaf7f01a6",
+    "img": "7ea5e281-2f0c-464f-8e6b-cd52627c8da6",
     "nombre": "disney4be51b",
     "status": "00:30",
-    "duration": 135,
-    "play_url": ""
+    "duration": 75,
+    "play_url": "https://www.disneyplus.com/es-es/play/cd22fb87-e177-4c0e-8cc4-4baa3433b008",
+    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1759038018~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Ff25bdf06-81c9-4a7c-b128-3128d610ad17-1756223551993%2F~psid=f04de672-b653-461e-a9ad-28164717835a~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=24e5bf91611c54e6a4386a0d5aa8396db9fa9f850d7e250deb21a13ec6dc6607/clt1/va02/disneyplus/channel/f25bdf06-81c9-4a7c-b128-3128d610ad17-1756223551993/ctr-all-sliding.m3u8?v=1&hash=aa8d2bb37fafb9b8d31c8b8095cb65f827b67eb8",
+    "k1": "50e0e0f9209b4a6bb052c09356a281cc",
+    "k2": "64334e1d9c31e1f70b4cbed56d71ea6f"
   },
   {
     "title": "WTA China Open / Lotus Court",
@@ -655,6 +632,26 @@
     "img": "a6e2015a-bbd3-4172-8388-05bd50ba6d41",
     "nombre": "disneyb4ef6f",
     "status": "11:20",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Nottingham Forest vs. Sunderland",
+    "league": "Premier League",
+    "fecha-evento": "2025-09-27T11:20:00-05:00",
+    "img": "89e8a38e-0783-4495-a708-b254443295f7",
+    "nombre": "disney6dc39f",
+    "status": "11:20",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Racing Santander vs. FC Andorra",
+    "league": "Segunda División de España",
+    "fecha-evento": "2025-09-27T11:25:00-05:00",
+    "img": "8753d418-3b58-4ca6-a0c9-6f1886accb94",
+    "nombre": "disney68534a",
+    "status": "11:25",
     "duration": 135,
     "play_url": ""
   }
