@@ -39,19 +39,6 @@
     "k2": "189bd437b23bfc40c980836e0f36a715"
   },
   {
-    "title": "Stade Francais vs. Bordeaux (Ronda #4)",
-    "league": "Top 14",
-    "fecha-evento": "2025-09-27T07:20:00-05:00",
-    "img": "33eacc62-d201-403b-979e-878fa4ccfdf2",
-    "nombre": "disney7e9bba",
-    "status": "07:20",
-    "duration": 125,
-    "play_url": "https://www.disneyplus.com/es-es/play/052c6d9b-4389-41bb-aefd-e6c3a1a6c303",
-    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759063219~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Fec26a05e-a9cc-4db4-804e-77465738e667-1756222537809%2F~psid=1afe9b08-448f-4f0d-9a28-a1cda98640cd~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=f0451fe5738117ddc08a7a659897eadee7ee8cc039e42be5e8cab3e52f35c9fd/clt1/va02/disneyplus/channel/ec26a05e-a9cc-4db4-804e-77465738e667-1756222537809/ctr-all-sliding.m3u8?v=1&hash=89191118387a35883a50bbae1f0b0b7046a61da8",
-    "k1": "49ccd4a5e0c444308a38dbea94ff339d",
-    "k2": "6bb1fbf7c9a70194ef22c46bb5cee963"
-  },
-  {
     "title": "Arthur Cazaux (FRA) vs. Jakub Mensik (CZE) (Second Round)",
     "league": "ATP",
     "fecha-evento": "2025-09-27T07:30:04-05:00",
@@ -223,12 +210,15 @@
   {
     "title": "Ajax vs. NAC Breda (Fecha #7)",
     "league": "Eredivisie",
-    "fecha-evento": "2025-09-27T09:20:00-05:00",
+    "fecha-evento": "2025-09-27T09:34:00-05:00",
     "img": "d3afb2dd-4f07-4aba-80b6-388780ea5719",
-    "nombre": "disney0532b7",
-    "status": "09:20",
-    "duration": 135,
-    "play_url": ""
+    "nombre": "disney18b14c",
+    "status": "09:34",
+    "duration": 111,
+    "play_url": "https://www.disneyplus.com/es-es/play/c433eff2-2b54-4993-bea2-37a5b9b862cd",
+    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759070419~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Fec26a05e-a9cc-4db4-804e-77465738e667-1756222537809%2F~psid=fcb9bf56-8273-45b9-b2e8-c198505c2bca~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=f7c2429497e925deb16c4a1f70c937e999c8ec5bd58c1821cb095e5e78c3bd8e/clt1/va02/disneyplus/channel/ec26a05e-a9cc-4db4-804e-77465738e667-1756222537809/ctr-all-sliding.m3u8?v=1&hash=89191118387a35883a50bbae1f0b0b7046a61da8",
+    "k1": "49ccd4a5e0c444308a38dbea94ff339d",
+    "k2": "6bb1fbf7c9a70194ef22c46bb5cee963"
   },
   {
     "title": "Sudáfrica vs. Argentina (Ronda #5)",
@@ -237,18 +227,24 @@
     "img": "31adce14-55da-4da8-aaca-2ca88899ac5e",
     "nombre": "disneyaa6ff6",
     "status": "09:30",
-    "duration": 135,
-    "play_url": ""
+    "duration": 180,
+    "play_url": "https://www.disneyplus.com/es-es/play/246e96d9-c4d4-4ee1-856a-6a8339d7aeff",
+    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1759070463~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Fbbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1758265170869%2F~psid=560b6c44-7efb-41e1-bb88-2ff1966bb68c~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=646eeba801b6d011a86e02ca00defa5c30a216d5eeb4ee1c256c85c3694ccf43/clt1/va02/disneyplus/channel/bbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1758265170869/ctr-all-sliding.m3u8?v=1&hash=4b44ed5e140524edee19ba7de50a11aef68f9d53",
+    "k1": "80751433298d473893c6c5b85ec395a4",
+    "k2": "147c94a95baf5762228d867e9352301c"
   },
   {
     "title": "Canada vs. Inglaterra (Final)",
     "league": "ESPN",
-    "fecha-evento": "2025-09-27T09:50:00-05:00",
+    "fecha-evento": "2025-09-27T09:34:14-05:00",
     "img": "16924a4e-7509-4a96-bca2-1ec7421c5fca",
-    "nombre": "disneycce2e8",
-    "status": "09:50",
-    "duration": 135,
-    "play_url": ""
+    "nombre": "disney058ef6",
+    "status": "09:34",
+    "duration": 146,
+    "play_url": "https://www.disneyplus.com/es-es/play/b62d4da3-9ed2-4aae-85f2-2573b65b4e7a",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759070506~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F27%2FCanada_vs_Inglaterra_Fina_20250927_1758977454038%2F~psid=1b99a8b2-b20a-48cc-8c3e-b38f54c1e2cc~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=c1cfd27e73c89c43708791f106b788591f1ad4284d91c6dc5eb54f21054a0488/clt1/va02/disneyplus/event/2025/09/27/Canada_vs_Inglaterra_Fina_20250927_1758977454038/ctr-all-hdri-complete.m3u8?v=1&hash=bf67bef4b33dae3e2d2f1e739ae163ca5784d616",
+    "k1": "e65a42f09da84c56b70bf981d8670779",
+    "k2": "79f89424100f0e1f8fcbf8ae5123d912"
   },
   {
     "title": "Lorient vs. Monaco",
@@ -666,6 +662,16 @@
     "fecha-evento": "2025-09-27T16:00:00-05:00",
     "img": "e0ab4cda-ca05-4739-a8c3-30eeb5c9a690",
     "nombre": "disney67df90",
+    "status": "16:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Boston Bruins vs. Philadelphia Flyers",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-09-27T16:00:00-05:00",
+    "img": "4c04dd3d-c0cd-44a1-b110-799941e471ae",
+    "nombre": "disney60a0a9",
     "status": "16:00",
     "duration": 135,
     "play_url": ""
