@@ -39,32 +39,6 @@
     "k2": "189bd437b23bfc40c980836e0f36a715"
   },
   {
-    "title": "Arthur Cazaux (FRA) vs. Jakub Mensik (CZE) (Second Round)",
-    "league": "ATP",
-    "fecha-evento": "2025-09-27T07:30:04-05:00",
-    "img": "4d49778d-6edd-43b5-98a4-bd0e8e81e044",
-    "nombre": "disney8fb076",
-    "status": "07:30",
-    "duration": 150,
-    "play_url": "https://www.disneyplus.com/es-es/play/cbcc4866-e455-4ad1-9224-01b9caee353b",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1759065618~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F27%2FArthur_Cazaux_FRA_vs_Jaku_20250927_1758969001027%2F~psid=9be53075-e618-4704-8e28-dab1259b76ff~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=6da7508fcdef12d5a33afe6fa0c0680ea993682f4a1fa25835cccef1571735a6/clt1/va02/disneyplus/event/2025/09/27/Arthur_Cazaux_FRA_vs_Jaku_20250927_1758969001027/ctr-all-hdri-complete.m3u8?v=1&hash=16f3d16506b1c0b58efb1fbeea4f7fdb23a62ea8",
-    "k1": "a38cc1ee93d244fe85ea3b8fc01a960b",
-    "k2": "a7095e1f34ea44f45f2c83ab0e1e937c"
-  },
-  {
-    "title": "Como vs. Cremonese",
-    "league": "Seria A",
-    "fecha-evento": "2025-09-27T07:54:33-05:00",
-    "img": "5667e72d-3405-44b8-beec-7afb711ee13c",
-    "nombre": "disney6f01f4",
-    "status": "07:54",
-    "duration": 125,
-    "play_url": "https://www.disneyplus.com/es-es/play/15cf1efc-e128-4cf2-92f7-1cd88bbf5ff1",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759064419~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F27%2FComo_vs_Cremonese_20250927_1758970535027%2F~psid=6a650fac-60f7-45f0-915e-f1f76f1b4e16~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=e7ceb1b5c257d01fafc33ebf228e25dd2ceab325261f272bca9d933f4292acab/clt1/va02/disneyplus/event/2025/09/27/Como_vs_Cremonese_20250927_1758970535027/ctr-all-hdri-complete.m3u8?v=1&hash=772c48cbc91e28c4c4deb079e682b5f826341a31",
-    "k1": "c525fe608b6b4cc78edb9be9270a55cc",
-    "k2": "1deb4c6b4fe46e6267659ef261109097"
-  },
-  {
     "title": "Mainz 05 vs. Borussia Dortmund",
     "league": "Bundesliga",
     "fecha-evento": "2025-09-27T08:20:00-05:00",
@@ -259,12 +233,15 @@
   {
     "title": "Kutztown (PA) vs. St. Bonaventure",
     "league": "NCAA Men's Rugby",
-    "fecha-evento": "2025-09-27T10:00:00-05:00",
+    "fecha-evento": "2025-09-27T10:00:04-05:00",
     "img": "25a62ad2-0f0f-44ed-88f4-60451a702b06",
-    "nombre": "disney78a6a2",
+    "nombre": "disneyd4dd49",
     "status": "10:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/f03b520d-a213-453a-bc9a-65c8f2e5ea2a",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1759072863~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F27%2FKutztown_PA_vs_St_Bonaven_20250927_1758980984215%2F~psid=40b9ff39-fbe2-46a2-855e-733dac9a6a0d~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=cb5fd5e31b9443a446cc57d96f37fe8247cea5e23f30f40f06328c7f47bb2e8a/clt1/va02/disneyplus/event/2025/09/27/Kutztown_PA_vs_St_Bonaven_20250927_1758980984215/ctr-all-hdri-complete.m3u8?v=1&hash=92e0d5ec13f07d828e62dc3efbc57ef15966947e",
+    "k1": "aac3bdc1de39436b9affbb221eca2d74",
+    "k2": "5062b1668569472f1fcb5c75bd8ff28a"
   },
   {
     "title": "Fénix vs. La Luz",
@@ -673,6 +650,26 @@
     "img": "4c04dd3d-c0cd-44a1-b110-799941e471ae",
     "nombre": "disney60a0a9",
     "status": "16:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Defensa y Justicia vs. Boca Juniors",
+    "league": "Liga Profesional de Fútbol",
+    "fecha-evento": "2025-09-27T16:45:00-05:00",
+    "img": "22432e69-592b-4c69-a10c-ab3f3f93bec2",
+    "nombre": "disneya0caf7",
+    "status": "16:45",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Chicago Blackhawks vs. St. Louis Blues",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-09-27T18:00:00-05:00",
+    "img": "c8fb8cb0-8475-4ce1-a1ec-bff8ff028a14",
+    "nombre": "disney922a5b",
+    "status": "18:00",
     "duration": 135,
     "play_url": ""
   }
