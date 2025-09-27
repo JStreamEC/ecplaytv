@@ -52,19 +52,6 @@
     "k2": "7cfb492ecb721b67549e7ecaeae70d73"
   },
   {
-    "title": "Taranaki vs. Wellington (Fecha #9)",
-    "league": "National Provincial Championship",
-    "fecha-evento": "2025-09-26T21:00:00-05:00",
-    "img": "ccd1c482-f516-45a0-9c71-4621614febf4",
-    "nombre": "disney16b3ce",
-    "status": "21:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/4c0a604f-7a41-4f7b-9fe9-fa1d340575c8",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759024911~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F27%2FTaranaki_vs_Wellington_Fe_20250927_1758931255026%2F~psid=8cb30a98-0ae0-43f8-a8ec-33a86757c642~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=b5df8a4cf3692939ea3bab79e27de7bfde6d305f45b91716ac0ff29363b3ef03/clt1/va02/disneyplus/event/2025/09/27/Taranaki_vs_Wellington_Fe_20250927_1758931255026/ctr-all-hdri-complete.m3u8?v=1&hash=7d26e91430406c175f47035ba90f30d37f2b8346",
-    "k1": "05432845bb9046e9a7f7b42c7dd99203",
-    "k2": "fdc4d8b5b2d48c0104f52a6bd54b680a"
-  },
-  {
     "title": "Seattle Kraken vs. Vancouver Canucks",
     "league": "National Hockey League",
     "fecha-evento": "2025-09-26T21:00:06-05:00",
@@ -240,8 +227,11 @@
     "img": "4c92a8f9-a717-4c5f-89e7-5e336386c09b",
     "nombre": "disneyb01642",
     "status": "23:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 420,
+    "play_url": "https://www.disneyplus.com/es-es/play/628fa0f2-af38-4fce-bef3-5d38627c5ebb",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1759033225~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F27%2FChina_Open_Court_5_Double_20250927_1758938440052%2F~psid=56e0925c-7d85-495a-bc55-c88e5e2b4f2a~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=5f73f8bf7b2973d3f9651d0b032f2b987c840db93dc831706dfd5a24dfec708d/clt1/va02/disneyplus/event/2025/09/27/China_Open_Court_5_Double_20250927_1758938440052/ctr-all-hdri-complete.m3u8?v=1&hash=3dda72e426b55f18642b921d039f425ad6c72018",
+    "k1": "17455508ec3a4e10bb5057aad8b2d055",
+    "k2": "53494a1728662be99e51d5a0b824cf94"
   },
   {
     "title": "Motul Grand Prix of Japan - Qualifying (Moto2)",
@@ -670,6 +660,16 @@
     "img": "25a62ad2-0f0f-44ed-88f4-60451a702b06",
     "nombre": "disney78a6a2",
     "status": "10:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Fénix vs. La Luz",
+    "league": "Segunda División de Uruguay",
+    "fecha-evento": "2025-09-27T10:45:00-05:00",
+    "img": "c7b161af-25b6-41e1-b9e4-dddde0906c13",
+    "nombre": "disneyb2d0c9",
+    "status": "10:45",
     "duration": 135,
     "play_url": ""
   }
