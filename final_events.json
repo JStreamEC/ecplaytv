@@ -26,11 +26,11 @@
     "k2": "189bd437b23bfc40c980836e0f36a715"
   },
   {
-    "title": "Ajax vs. NAC Breda (Fecha #7)",
+    "title": "FC Groningen vs. Feyenoord (Fecha #7)",
     "league": "Eredivisie",
     "fecha-evento": "2025-09-28T07:15:00-05:00",
-    "img": "d3afb2dd-4f07-4aba-80b6-388780ea5719",
-    "nombre": "disney7e7a63",
+    "img": "290baf5d-2cbe-4734-98fb-6bca06811238",
+    "nombre": "disney041896",
     "status": "07:15",
     "duration": 135,
     "play_url": ""
@@ -109,19 +109,6 @@
     "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1759078904~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F27%2FUtah_State_vs_18_Vanderbi_20250927_1758984339032%2F~psid=94502ec0-40ed-4cf7-aeab-3882ce70cc0d~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=4d71499a5507ea26de14d2a5bc4cd37d8e693c748be18f85ae89d10eae2fa5f2/clt1/va02/disneyplus/event/2025/09/27/Utah_State_vs_18_Vanderbi_20250927_1758984339032/ctr-all-hdri-complete.m3u8?v=1&hash=094e704fcecc23595b02977911cd62303395783a",
     "k1": "47820a19a66b484a82430c9824e54c33",
     "k2": "ea8d4781caf069bae49de454e2997edb"
-  },
-  {
-    "title": "Toulouse vs. Nantes",
-    "league": "Ligue 1",
-    "fecha-evento": "2025-09-27T11:45:18-05:00",
-    "img": "34f4eccd-40e2-43ef-a102-aa1f29619859",
-    "nombre": "disneyb0badb",
-    "status": "11:45",
-    "duration": 135,
-    "play_url": "https://www.disneyplus.com/es-es/play/51763890-0192-4994-b911-3676f2a25103",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759078928~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F27%2FToulouse_vs_Nantes_20250927_1758984900317%2F~psid=270036ac-8255-45d5-8e7d-fe8cb12c4cf0~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=a2844901c265994e92e81a6a15ccadb8f0db7d31644929317671b5183cfd50ff/clt1/va02/disneyplus/event/2025/09/27/Toulouse_vs_Nantes_20250927_1758984900317/ctr-all-hdri-complete.m3u8?v=1&hash=bfacdb962c94af5e18ba4aa6be7467387968e609",
-    "k1": "79d762d91a7c42b59bcfdb1d4ce97ce6",
-    "k2": "c0a61536cd54433e53770b2002a7034f"
   },
   {
     "title": "Fatih Karagumruk vs. Trabzonspor",
@@ -328,12 +315,15 @@
   {
     "title": "Chile vs. Samoa (Repechaje - Vuelta)",
     "league": "ESPN",
-    "fecha-evento": "2025-09-27T14:00:00-05:00",
+    "fecha-evento": "2025-09-27T14:00:04-05:00",
     "img": "b920790e-27ed-4de5-af01-8a998ca93659",
-    "nombre": "disney36d5e6",
+    "nombre": "disney3a1f09",
     "status": "14:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 165,
+    "play_url": "https://www.disneyplus.com/es-es/play/e5c26dd8-98ff-41f0-9f07-cd6dc421f1c9",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759087329~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F27%2FChile_vs_Samoa_Repechaje__20250927_1758992426035%2F~psid=b9cf844f-0fb0-438f-bff6-eb04a58836a9~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=771de51199e5898ae6a7546e1e74f0c6b123cc78abb597cfd110aaa7120a30de/clt1/va02/disneyplus/event/2025/09/27/Chile_vs_Samoa_Repechaje__20250927_1758992426035/ctr-all-hdri-complete.m3u8?v=1&hash=a0240fddb62cc47f122145a37088af46807af204",
+    "k1": "a8c6ecdf75aa49d1acfcf724f7fa45ce",
+    "k2": "9d2881a6aeafc82888120d43e95c7b17"
   },
   {
     "title": "Baylor vs. Oklahoma State",
@@ -681,6 +671,16 @@
     "fecha-evento": "2025-09-27T20:00:00-05:00",
     "img": "f0597af5-ecd6-4677-bc0c-0fbfd5e5de3d",
     "nombre": "disneyeb213a",
+    "status": "20:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Spokane Velocity vs. Greenville Triumph SC",
+    "league": "USL League One",
+    "fecha-evento": "2025-09-27T20:00:00-05:00",
+    "img": "0c9354d0-5297-4e16-bf7c-e26a47b95099",
+    "nombre": "disney1b19eb",
     "status": "20:00",
     "duration": 135,
     "play_url": ""
