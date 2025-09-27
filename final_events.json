@@ -33,32 +33,6 @@
     "play_url": "https://www.disneyplus.com/es-es/play/e0027256-581a-4868-81e1-071219ddd03c"
   },
   {
-    "title": "Marista vs. Jockey (Cba) (Final)",
-    "league": "Torneo del Interior A",
-    "fecha-evento": "2025-09-27T13:15:09-05:00",
-    "img": "b73ab3cb-0be9-4c7b-8b51-39e02000df54",
-    "nombre": "disneyd12f1d",
-    "status": "13:15",
-    "duration": 165,
-    "play_url": "https://www.disneyplus.com/es-es/play/90aaa30f-7836-474d-a0c4-65bc57961209",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1759083847~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F27%2FMarista_vs_Jockey_Cba_Fin_20250927_1758989734030%2F~psid=2e23e9f0-a0c8-4dee-aaa9-306727294be5~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=2da0b7c152f39e95fe2bf5e953eedb03ff67927c8c59caa64abf99a76dff83fa/clt1/va02/disneyplus/event/2025/09/27/Marista_vs_Jockey_Cba_Fin_20250927_1758989734030/ctr-all-hdri-complete.m3u8?v=1&hash=9ace36a4720fb3f0336e99bc821ada7e62cf1da6",
-    "k1": "dedc37c6a25b48c5abc621e06385e34d",
-    "k2": "faca1791d0d674a357c0c789389ac17d"
-  },
-  {
-    "title": "PSG vs. Auxerre",
-    "league": "Ligue 1",
-    "fecha-evento": "2025-09-27T13:55:02-05:00",
-    "img": "a6999f5c-56cc-4d9c-968c-0faff1fc4187",
-    "nombre": "disney4cdd52",
-    "status": "13:55",
-    "duration": 125,
-    "play_url": "https://www.disneyplus.com/es-es/play/9418c603-9b43-42e2-9300-8aef35f1295f",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759086152~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F27%2FPSG_vs_Auxerre_20250927_1758992146041%2F~psid=a64ae2a6-8f4f-4b1d-b3b7-217baeff728e~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=cc68d5cb736a8bf7c5a5b5276498e82074ca2049b92f88b9f07486d243cd4f24/clt1/va02/disneyplus/event/2025/09/27/PSG_vs_Auxerre_20250927_1758992146041/ctr-all-hdri-complete.m3u8?v=1&hash=cdf2b8021e486dbe44ee5bc6f8f23d3f42bee549",
-    "k1": "28931690f99e4354b69ac760faea4896",
-    "k2": "b8119b6165a67643e0900951906ae0e8"
-  },
-  {
     "title": "Chile vs. Samoa (Repechaje - Vuelta)",
     "league": "ESPN",
     "fecha-evento": "2025-09-27T14:00:04-05:00",
@@ -178,22 +152,28 @@
   {
     "title": "Portland Hearts of Pine vs. Texoma FC",
     "league": "USL League One",
-    "fecha-evento": "2025-09-27T16:00:00-05:00",
+    "fecha-evento": "2025-09-27T16:00:03-05:00",
     "img": "e0ab4cda-ca05-4739-a8c3-30eeb5c9a690",
-    "nombre": "disney67df90",
+    "nombre": "disney4a3616",
     "status": "16:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/64723d5c-08d4-4b1d-8692-8b637be28375",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759094462~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F27%2FPortland_Hearts_of_Pine_v_20250927_1758999614034%2F~psid=dbba837a-c4d6-43a1-af88-2f16ed905a92~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=54b9435c04dbbe5ba96db92d61952748a35a2b8037223dda3246872f0fe5e43b/clt1/va02/disneyplus/event/2025/09/27/Portland_Hearts_of_Pine_v_20250927_1758999614034/ctr-all-hdri-complete.m3u8?v=1&hash=56a203797d93ff4a694ac37215a9ca8ef2dfb8f5",
+    "k1": "9c3a01bfcd0343269f03e17910241b5e",
+    "k2": "235997b06cd5168d6c560929b670f26f"
   },
   {
     "title": "Boston Bruins vs. Philadelphia Flyers",
     "league": "National Hockey League",
-    "fecha-evento": "2025-09-27T16:00:00-05:00",
+    "fecha-evento": "2025-09-27T16:00:14-05:00",
     "img": "4c04dd3d-c0cd-44a1-b110-799941e471ae",
-    "nombre": "disney60a0a9",
+    "nombre": "disney227a21",
     "status": "16:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 210,
+    "play_url": "https://www.disneyplus.com/es-es/play/76431625-dfbf-445a-b9fe-f30228a2814e",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759094505~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F27%2FBoston_Bruins_vs_Philadel_20250927_1758999653024%2F~psid=2b3dc421-2c3d-45d8-bbaa-e4ed6d93308d~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=9b3e1f0434bcd4a3f514cc01047b12e0a621c07469c6453dc8b9e0a9af72a041/clt1/va02/disneyplus/event/2025/09/27/Boston_Bruins_vs_Philadel_20250927_1758999653024/ctr-all-hdri-complete.m3u8?v=1&hash=8cdd4881cec31104363bdf226500eb026aa298ff",
+    "k1": "4cb2e93b1e7645c99daac06c3d15d137",
+    "k2": "a8df6fab442b8892268041d60869e076"
   },
   {
     "title": "Defensa y Justicia vs. Boca Juniors",
@@ -629,7 +609,7 @@
     "title": "Carlos Alcaraz (ESP) vs. Brandon Nakashima (USA) (Quarterfinals)",
     "league": "ATP",
     "fecha-evento": "2025-09-28T03:30:00-05:00",
-    "img": "f5d7c938-e1da-4c72-81c8-b77e20b966d7",
+    "img": "028a5ee8-ea3a-4d09-ab88-aa65127c9cae",
     "nombre": "disney1cdd8c",
     "status": "03:30",
     "duration": 135,
@@ -639,7 +619,7 @@
     "title": "China Open / Moon Court (Doubles)",
     "league": "ATP",
     "fecha-evento": "2025-09-28T03:30:00-05:00",
-    "img": "f5d7c938-e1da-4c72-81c8-b77e20b966d7",
+    "img": "05ba8fab-cd55-4d72-a591-1ba113ca98af",
     "nombre": "disney2464ba",
     "status": "03:30",
     "duration": 135,
@@ -662,6 +642,26 @@
     "img": "00c0c198-89af-46b7-b2ac-1d28f5894c4b",
     "nombre": "disney6612b0",
     "status": "04:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "NEC Nijmegen vs. AZ (Fecha #7)",
+    "league": "Eredivisie",
+    "fecha-evento": "2025-09-28T05:00:00-05:00",
+    "img": "0d6cce75-e428-4f85-b8d4-db66c271fad0",
+    "nombre": "disney171078",
+    "status": "05:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Sassuolo vs. Udinese",
+    "league": "Seria A",
+    "fecha-evento": "2025-09-28T05:20:00-05:00",
+    "img": "bdd03556-02b3-4a17-8b13-a8c2eada0557",
+    "nombre": "disney013825",
+    "status": "05:20",
     "duration": 135,
     "play_url": ""
   }
