@@ -186,16 +186,6 @@
     "play_url": ""
   },
   {
-    "title": "Karlsruher SC vs. 1. FC Magdeburg",
-    "league": "Bundesliga 2 de Alemania",
-    "fecha-evento": "2025-09-27T05:55:00-05:00",
-    "img": "e33a626f-8e88-4c35-a959-36b760d8a037",
-    "nombre": "disney08d4e0",
-    "status": "05:55",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "SC Paderborn 07 vs. 1. FC Kaiserslautern",
     "league": "Bundesliga 2 de Alemania",
     "fecha-evento": "2025-09-27T05:55:00-05:00",
@@ -652,6 +642,16 @@
     "img": "34f4eccd-40e2-43ef-a102-aa1f29619859",
     "nombre": "disneyb44f4d",
     "status": "11:55",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "California vs. Virginia Tech",
+    "league": "NCAA Women's Volleyball",
+    "fecha-evento": "2025-09-27T12:00:00-05:00",
+    "img": "0f9bf5b0-83a6-454e-9c7a-62816fbb42ef",
+    "nombre": "disneyd5660d",
+    "status": "12:00",
     "duration": 135,
     "play_url": ""
   }
