@@ -49,42 +49,6 @@
     "k2": "147c94a95baf5762228d867e9352301c"
   },
   {
-    "title": "Lorient vs. Monaco",
-    "league": "Ligue 1",
-    "fecha-evento": "2025-09-27T09:45:58-05:00",
-    "img": "0ae8ab1c-f563-43bd-8397-c6e248cfa0b8",
-    "nombre": "disneyfb1676",
-    "status": "09:45",
-    "duration": 134,
-    "play_url": "https://www.disneyplus.com/es-es/play/622d52a6-e601-4191-93dd-57d312726858"
-  },
-  {
-    "title": "Canada vs. Inglaterra (Final)",
-    "league": "ESPN",
-    "fecha-evento": "2025-09-27T09:34:14-05:00",
-    "img": "16924a4e-7509-4a96-bca2-1ec7421c5fca",
-    "nombre": "disney058ef6",
-    "status": "09:34",
-    "duration": 146,
-    "play_url": "https://www.disneyplus.com/es-es/play/b62d4da3-9ed2-4aae-85f2-2573b65b4e7a",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759070506~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F27%2FCanada_vs_Inglaterra_Fina_20250927_1758977454038%2F~psid=1b99a8b2-b20a-48cc-8c3e-b38f54c1e2cc~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=c1cfd27e73c89c43708791f106b788591f1ad4284d91c6dc5eb54f21054a0488/clt1/va02/disneyplus/event/2025/09/27/Canada_vs_Inglaterra_Fina_20250927_1758977454038/ctr-all-hdri-complete.m3u8?v=1&hash=bf67bef4b33dae3e2d2f1e739ae163ca5784d616",
-    "k1": "e65a42f09da84c56b70bf981d8670779",
-    "k2": "79f89424100f0e1f8fcbf8ae5123d912"
-  },
-  {
-    "title": "Kutztown (PA) vs. St. Bonaventure",
-    "league": "NCAA Men's Rugby",
-    "fecha-evento": "2025-09-27T10:00:04-05:00",
-    "img": "25a62ad2-0f0f-44ed-88f4-60451a702b06",
-    "nombre": "disneyd4dd49",
-    "status": "10:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/f03b520d-a213-453a-bc9a-65c8f2e5ea2a",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1759072863~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F27%2FKutztown_PA_vs_St_Bonaven_20250927_1758980984215%2F~psid=40b9ff39-fbe2-46a2-855e-733dac9a6a0d~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=cb5fd5e31b9443a446cc57d96f37fe8247cea5e23f30f40f06328c7f47bb2e8a/clt1/va02/disneyplus/event/2025/09/27/Kutztown_PA_vs_St_Bonaven_20250927_1758980984215/ctr-all-hdri-complete.m3u8?v=1&hash=92e0d5ec13f07d828e62dc3efbc57ef15966947e",
-    "k1": "aac3bdc1de39436b9affbb221eca2d74",
-    "k2": "5062b1668569472f1fcb5c75bd8ff28a"
-  },
-  {
     "title": "Fénix vs. La Luz",
     "league": "Segunda División de Uruguay",
     "fecha-evento": "2025-09-27T10:48:05-05:00",
@@ -186,6 +150,19 @@
     "k2": "7040dd43ce2f3e0acfaa714727e910e9"
   },
   {
+    "title": "Borussia Mönchengladbach vs. Eintracht Frankfurt",
+    "league": "Bundesliga",
+    "fecha-evento": "2025-09-27T11:20:00-05:00",
+    "img": "a6e2015a-bbd3-4172-8388-05bd50ba6d41",
+    "nombre": "disneyb4ef6f",
+    "status": "11:20",
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/4c9b4e1c-d1c1-452c-a4d3-2759743d0efd",
+    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759080061~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F7f9052ce-8143-43a6-9656-a8c00c4a3e56-1756223111094%2F~psid=e8d9923a-cac1-452d-a964-4cbe55d463a7~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=11bf94125f56fd2811022e5ece505ec20f676b7b0189098a188d557983672c62/clt1/va02/disneyplus/channel/7f9052ce-8143-43a6-9656-a8c00c4a3e56-1756223111094/ctr-all-sliding.m3u8?v=1&hash=2f03544b7adaaaa4f23d8a4cd7d7cec9ba48514e",
+    "k1": "8ff242e391d3427892cf32944f561984",
+    "k2": "f94beab199317507e5d82a2b57c455db"
+  },
+  {
     "title": "Nottingham Forest vs. Sunderland",
     "league": "Premier League",
     "fecha-evento": "2025-09-27T11:22:05-05:00",
@@ -266,12 +243,15 @@
   {
     "title": "California vs. Virginia Tech",
     "league": "NCAA Women's Volleyball",
-    "fecha-evento": "2025-09-27T12:00:00-05:00",
+    "fecha-evento": "2025-09-27T12:00:03-05:00",
     "img": "0f9bf5b0-83a6-454e-9c7a-62816fbb42ef",
-    "nombre": "disneyd5660d",
+    "nombre": "disney58b08f",
     "status": "12:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/bc7bc5d2-b912-4a02-9aa4-f3a01ea7d107",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1759080105~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F27%2FCalifornia_vs_Virginia_Te_20250927_1758985227028%2F~psid=43ed7b94-9330-40ef-aa08-61959546b84e~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=62d0d26b10093d647154acc0ad0c93a5ef7d1890b1e51f117a6f1022f12a30fa/clt1/va02/disneyplus/event/2025/09/27/California_vs_Virginia_Te_20250927_1758985227028/ctr-all-hdri-complete.m3u8?v=1&hash=116c2e33efd281429f85bb0f960d7cbb23fcc8ff",
+    "k1": "6b4f281871fc45b79e6b6337df623f3c",
+    "k2": "a80b0a5335a87316f16aa1f0643f227b"
   },
   {
     "title": "Excelsior vs. PSV (Fecha #7)",
@@ -670,6 +650,26 @@
     "img": "0928b77e-7b1c-4641-91e7-7f07d3e901f5",
     "nombre": "disney986460",
     "status": "18:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Angel Fierro vs. Abraham Cordero | ESPN KO",
+    "league": "ESPN",
+    "fecha-evento": "2025-09-27T18:30:00-05:00",
+    "img": "7ef8d71c-c96b-4a57-8257-6f477700eace",
+    "nombre": "disney50b73d",
+    "status": "18:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Massachusetts vs. #20 Missouri",
+    "league": "Fútbol Americano NCAA",
+    "fecha-evento": "2025-09-27T18:30:00-05:00",
+    "img": "1409e9c5-bf83-462c-aaad-91ff164623cd",
+    "nombre": "disneyc9ada7",
+    "status": "18:30",
     "duration": 135,
     "play_url": ""
   }
