@@ -1,18 +1,5 @@
 [
   {
-    "title": "2025 Ryder Cup (Day Two)",
-    "league": "ESPN",
-    "fecha-evento": "2025-09-27T06:00:00-05:00",
-    "img": "08356c10-7922-4660-a48d-58c507d31789",
-    "nombre": "disney8e4b7a",
-    "status": "06:00",
-    "duration": 300,
-    "play_url": "https://www.disneyplus.com/es-es/play/db2a5caf-8a68-46c1-af41-631d8db6d5df",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759057399~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F27%2F2025_Ryder_Cup_Day_Two_20250927_1758963634025%2F~psid=01073ff1-57db-4525-b1a9-cbb5bd7c0f38~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=0385d8b254c9103c2bd8ec891fe637f14f8928b238697086bbfff5a789ce9ab7/clt1/va02/disneyplus/event/2025/09/27/2025_Ryder_Cup_Day_Two_20250927_1758963634025/ctr-all-hdri-complete.m3u8?v=1&hash=6b87e6c8f3c60a527b6d7248a67829b590c8311a",
-    "k1": "e57d82f6ad2743b790a1f9dec289087b",
-    "k2": "35192b84b5f3d687f815e90fa6e6e32c"
-  },
-  {
     "title": "Ryder Cup - Featured Groups (Day Two)",
     "league": "ESPN",
     "fecha-evento": "2025-09-27T06:00:00-05:00",
@@ -41,15 +28,12 @@
   {
     "title": "Ajax vs. NAC Breda (Fecha #7)",
     "league": "Eredivisie",
-    "fecha-evento": "2025-09-27T09:34:00-05:00",
+    "fecha-evento": "2025-09-28T07:15:00-05:00",
     "img": "d3afb2dd-4f07-4aba-80b6-388780ea5719",
-    "nombre": "disney18b14c",
-    "status": "09:34",
-    "duration": 111,
-    "play_url": "https://www.disneyplus.com/es-es/play/c433eff2-2b54-4993-bea2-37a5b9b862cd",
-    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759070419~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Fec26a05e-a9cc-4db4-804e-77465738e667-1756222537809%2F~psid=fcb9bf56-8273-45b9-b2e8-c198505c2bca~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=f7c2429497e925deb16c4a1f70c937e999c8ec5bd58c1821cb095e5e78c3bd8e/clt1/va02/disneyplus/channel/ec26a05e-a9cc-4db4-804e-77465738e667-1756222537809/ctr-all-sliding.m3u8?v=1&hash=89191118387a35883a50bbae1f0b0b7046a61da8",
-    "k1": "49ccd4a5e0c444308a38dbea94ff339d",
-    "k2": "6bb1fbf7c9a70194ef22c46bb5cee963"
+    "nombre": "disney7e7a63",
+    "status": "07:15",
+    "duration": 135,
+    "play_url": ""
   },
   {
     "title": "Sudáfrica vs. Argentina (Ronda #5)",
@@ -125,6 +109,16 @@
     "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759075306~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F27%2FJuventus_vs_Atalanta_20250927_1758981302027%2F~psid=81248b4f-03ff-412e-9efa-beb0ac6eb99c~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=96d42bd04abd239de9013f41a7b8f39d35aaa2b0f07619aff0667aee14b7c7c4/clt1/va02/disneyplus/event/2025/09/27/Juventus_vs_Atalanta_20250927_1758981302027/ctr-all-hdri-complete.m3u8?v=1&hash=d33ee39679eeb37ac25cee5d4bcd5ca35ff5ebd9",
     "k1": "02e3765938224d7daf385206b8d8a0be",
     "k2": "cafc65c2ef99c4dde45689ccd50206e6"
+  },
+  {
+    "title": "2025 Ryder Cup (Day Two)",
+    "league": "ESPN",
+    "fecha-evento": "2025-09-27T10:55:00-05:00",
+    "img": "93693cb2-c771-4721-81ab-0cebecb95d8b",
+    "nombre": "disney0314cd",
+    "status": "10:55",
+    "duration": 365,
+    "play_url": "https://www.disneyplus.com/es-es/play/e0027256-581a-4868-81e1-071219ddd03c"
   },
   {
     "title": "Louisville vs. Pittsburgh",
@@ -207,32 +201,41 @@
   {
     "title": "Nottingham Forest vs. Sunderland",
     "league": "Premier League",
-    "fecha-evento": "2025-09-27T11:20:00-05:00",
+    "fecha-evento": "2025-09-27T11:22:05-05:00",
     "img": "89e8a38e-0783-4495-a708-b254443295f7",
-    "nombre": "disney6dc39f",
-    "status": "11:20",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Racing Santander vs. FC Andorra",
-    "league": "Segunda División de España",
-    "fecha-evento": "2025-09-27T11:25:00-05:00",
-    "img": "8753d418-3b58-4ca6-a0c9-6f1886accb94",
-    "nombre": "disney68534a",
-    "status": "11:25",
-    "duration": 135,
-    "play_url": ""
+    "nombre": "disneybda3b9",
+    "status": "11:22",
+    "duration": 128,
+    "play_url": "https://www.disneyplus.com/es-es/play/987fd16f-ac30-4d19-aafc-d66683b5a6ac",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1759077706~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F27%2FNottingham_Forest_vs_Sund_20250927_1758982836028%2F~psid=92e7ffe9-8d54-483a-9a5c-d81cbb1a0a28~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=63e7e008fb8a2546466547dbacf4bc21396f248a0c77e1c897b48317777a3df9/clt1/va02/disneyplus/event/2025/09/27/Nottingham_Forest_vs_Sund_20250927_1758982836028/ctr-all-hdri-complete.m3u8?v=1&hash=ef665fb18760227e7c38eee4cb5a6cd4802dd346",
+    "k1": "cb4c37e1789f46eb8218d583ae5185c4",
+    "k2": "b7dacc050fa029f476537a6e8b00b1c0"
   },
   {
     "title": "Mallorca vs. Alavés",
     "league": "LALIGA",
-    "fecha-evento": "2025-09-27T11:25:00-05:00",
+    "fecha-evento": "2025-09-27T11:31:00-05:00",
     "img": "5f1ad933-47ae-4cac-adb9-084e59679510",
-    "nombre": "disneyd3762e",
+    "nombre": "disney49a3d5",
+    "status": "11:31",
+    "duration": 119,
+    "play_url": "https://www.disneyplus.com/es-es/play/9f7f7a01-676b-429e-abc4-134255a04198",
+    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759077729~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Fec26a05e-a9cc-4db4-804e-77465738e667-1756222537809%2F~psid=8339cf2d-1ada-4fd0-a7a4-c44dc4f4fdae~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=40b83562690c7f20de6e5dd46cc431bb8a2d51b27ec0dc83c887a3823bcf2235/clt1/va02/disneyplus/channel/ec26a05e-a9cc-4db4-804e-77465738e667-1756222537809/ctr-all-sliding.m3u8?v=1&hash=89191118387a35883a50bbae1f0b0b7046a61da8",
+    "k1": "49ccd4a5e0c444308a38dbea94ff339d",
+    "k2": "6bb1fbf7c9a70194ef22c46bb5cee963"
+  },
+  {
+    "title": "Racing Santander vs. FC Andorra",
+    "league": "Segunda División de España",
+    "fecha-evento": "2025-09-27T11:25:07-05:00",
+    "img": "8753d418-3b58-4ca6-a0c9-6f1886accb94",
+    "nombre": "disney5e07d7",
     "status": "11:25",
-    "duration": 135,
-    "play_url": ""
+    "duration": 125,
+    "play_url": "https://www.disneyplus.com/es-es/play/394c9568-0024-4bd4-99a2-3608401b5dde",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759077753~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F27%2FRacing_Santander_vs_FC_An_20250927_1758983136037%2F~psid=7e220a8e-0f2a-41be-9002-f5afb6c1c8a3~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=b6b62abdb4df139417adfe2e9ae384f5b7efda8e8421cc654951dcbcd669bd61/clt1/va02/disneyplus/event/2025/09/27/Racing_Santander_vs_FC_An_20250927_1758983136037/ctr-all-hdri-complete.m3u8?v=1&hash=d8b7fb5c6561ce3c686028fb8366c261d3b22416",
+    "k1": "26163d39c14e4d4e8950d2a59d39c46f",
+    "k2": "79720ef456933bdff6544c3d174f52f6"
   },
   {
     "title": "Utah State vs. #18 Vanderbilt",
