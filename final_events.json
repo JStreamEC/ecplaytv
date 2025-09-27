@@ -13,19 +13,6 @@
     "k2": "7b321ba2ddb120755b7148e20ad6e682"
   },
   {
-    "title": "WTA China Open / Moon Court",
-    "league": "WTA",
-    "fecha-evento": "2025-09-26T22:00:02-05:00",
-    "img": "05ba8fab-cd55-4d72-a591-1ba113ca98af",
-    "nombre": "disneye72dbb",
-    "status": "22:00",
-    "duration": 480,
-    "play_url": "https://www.disneyplus.com/es-es/play/d7d0bbb9-dc50-48e6-a6dc-0db621bf785d",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759029667~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F27%2FWTA_China_Open_Moon_Court_20250927_1758934835029%2F~psid=426832ea-89c4-4413-ad73-b676aa9a27be~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=2cff59720757e81a04163c9bbba1240b6661dff0aea8c91f696c4262768fe961/clt1/va02/disneyplus/event/2025/09/27/WTA_China_Open_Moon_Court_20250927_1758934835029/ctr-all-hdri-complete.m3u8?v=1&hash=2aa413133c05487bcd6d36e465fc0e381ff9385e",
-    "k1": "8288af68154b42f5a6635c6ba9ebee55",
-    "k2": "b8b35e78310bf6aef28f423c83efd548"
-  },
-  {
     "title": "WTA China Open / Brad Drewett",
     "league": "WTA",
     "fecha-evento": "2025-09-26T22:00:18-05:00",
@@ -37,19 +24,6 @@
     "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759029735~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F27%2FWTA_China_Open_Brad_Drewe_20250927_1758934805037%2F~psid=2059bace-5c7b-4d88-a8b5-2dadf3eb41b8~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=5eb201df8ec0123480053a9d3a9db9229ac9db73f3bbf3aba65562c0842ac7ed/clt1/va02/disneyplus/event/2025/09/27/WTA_China_Open_Brad_Drewe_20250927_1758934805037/ctr-all-hdri-complete.m3u8?v=1&hash=7afbd6878d8139390413eeafd510da1a1ea4bd80",
     "k1": "0d37cf6650004f17a592e31876d7543b",
     "k2": "7243372ac9a75b7f0c0a00a81334b977"
-  },
-  {
-    "title": "China Open / Court 5 (Doubles)",
-    "league": "ATP",
-    "fecha-evento": "2025-09-26T23:00:00-05:00",
-    "img": "4c92a8f9-a717-4c5f-89e7-5e336386c09b",
-    "nombre": "disneyb01642",
-    "status": "23:00",
-    "duration": 420,
-    "play_url": "https://www.disneyplus.com/es-es/play/628fa0f2-af38-4fce-bef3-5d38627c5ebb",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1759033225~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F27%2FChina_Open_Court_5_Double_20250927_1758938440052%2F~psid=56e0925c-7d85-495a-bc55-c88e5e2b4f2a~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=5f73f8bf7b2973d3f9651d0b032f2b987c840db93dc831706dfd5a24dfec708d/clt1/va02/disneyplus/event/2025/09/27/China_Open_Court_5_Double_20250927_1758938440052/ctr-all-hdri-complete.m3u8?v=1&hash=3dda72e426b55f18642b921d039f425ad6c72018",
-    "k1": "17455508ec3a4e10bb5057aad8b2d055",
-    "k2": "53494a1728662be99e51d5a0b824cf94"
   },
   {
     "title": "WTA China Open / Lotus Court",
@@ -637,6 +611,26 @@
     "img": "96c9a36b-6359-4a2b-8c70-e0a1d393d81d",
     "nombre": "disneyead6b8",
     "status": "13:10",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Newman vs. Belgrano Athletic (Ronda #20)",
+    "league": "URBA Top 12",
+    "fecha-evento": "2025-09-27T13:10:00-05:00",
+    "img": "4ff44679-3137-439c-b95d-8349980853e1",
+    "nombre": "disney555eea",
+    "status": "13:10",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Liverpool FC vs. Boston River",
+    "league": "Campeonato Uruguayo",
+    "fecha-evento": "2025-09-27T13:15:00-05:00",
+    "img": "17f54c1f-ab12-4f91-acb4-e18a78cb0e26",
+    "nombre": "disneydacf2f",
+    "status": "13:15",
     "duration": 135,
     "play_url": ""
   }
