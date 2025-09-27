@@ -78,19 +78,6 @@
     "k2": "abd3fa52013e70cde4959118d7b09b25"
   },
   {
-    "title": "WTA China Open / Court 3",
-    "league": "WTA",
-    "fecha-evento": "2025-09-26T22:02:47-05:00",
-    "img": "1d5d3c5b-fce6-46b3-a519-61a8095e4ffd",
-    "nombre": "disney2261b9",
-    "status": "22:02",
-    "duration": 357,
-    "play_url": "https://www.disneyplus.com/es-es/play/cbddbd53-81be-4900-b5bf-70d0263b2c23",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1759029782~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F27%2FWTA_China_Open_Court_3_20250927_1758934851027%2F~psid=d8df21c6-7752-4cd5-9569-9b907435b77b~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=5cb300083b62f7247d303a4082f6c5b55a0ae6a9f5a6fd49a3c32c7871df331d/clt1/va02/disneyplus/event/2025/09/27/WTA_China_Open_Court_3_20250927_1758934851027/ctr-all-hdri-complete.m3u8?v=1&hash=a47f5fb08e9b92d1bd39fd5bfa6dd186c0f01205",
-    "k1": "397bb945c12c4793822e921e1bbf53d7",
-    "k2": "79e4c06ca0d868daffdd22df02ce1138"
-  },
-  {
     "title": "China Open / Court 5 (Doubles)",
     "league": "ATP",
     "fecha-evento": "2025-09-26T23:00:00-05:00",
@@ -649,6 +636,16 @@
     "img": "0f9bf5b0-83a6-454e-9c7a-62816fbb42ef",
     "nombre": "disneyd5660d",
     "status": "12:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Excelsior vs. PSV (Fecha #7)",
+    "league": "Eredivisie",
+    "fecha-evento": "2025-09-27T12:50:00-05:00",
+    "img": "067377e7-d606-4adb-ae50-b12e26e2beca",
+    "nombre": "disneya2dcb6",
+    "status": "12:50",
     "duration": 135,
     "play_url": ""
   }
