@@ -20,19 +20,6 @@
     "play_url": "https://www.disneyplus.com/es-es/play/e0027256-581a-4868-81e1-071219ddd03c"
   },
   {
-    "title": "Chile vs. Samoa (Repechaje - Vuelta)",
-    "league": "ESPN",
-    "fecha-evento": "2025-09-27T14:00:04-05:00",
-    "img": "b920790e-27ed-4de5-af01-8a998ca93659",
-    "nombre": "disney3a1f09",
-    "status": "14:00",
-    "duration": 165,
-    "play_url": "https://www.disneyplus.com/es-es/play/e5c26dd8-98ff-41f0-9f07-cd6dc421f1c9",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759087329~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F27%2FChile_vs_Samoa_Repechaje__20250927_1758992426035%2F~psid=b9cf844f-0fb0-438f-bff6-eb04a58836a9~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=771de51199e5898ae6a7546e1e74f0c6b123cc78abb597cfd110aaa7120a30de/clt1/va02/disneyplus/event/2025/09/27/Chile_vs_Samoa_Repechaje__20250927_1758992426035/ctr-all-hdri-complete.m3u8?v=1&hash=a0240fddb62cc47f122145a37088af46807af204",
-    "k1": "a8c6ecdf75aa49d1acfcf724f7fa45ce",
-    "k2": "9d2881a6aeafc82888120d43e95c7b17"
-  },
-  {
     "title": "Baylor vs. Oklahoma State",
     "league": "Fútbol Americano NCAA",
     "fecha-evento": "2025-09-27T14:30:00-05:00",
@@ -170,7 +157,10 @@
     "nombre": "disneya0caf7",
     "status": "16:45",
     "duration": 135,
-    "play_url": ""
+    "play_url": "https://www.disneyplus.com/es-es/play/4291aa97-521d-4e3a-93f8-17f3d74c9d12",
+    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1759096861~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F921e1311-bb26-43dd-84a6-9e2284959712-1756222679255%2F~psid=9884f851-8a00-4b0f-9585-01874de15dea~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=b62aad62939b31e473cdf723b36896d73e5bd53c8cf27ace46e6f9ddfb45d730/clt1/va02/disneyplus/channel/921e1311-bb26-43dd-84a6-9e2284959712-1756222679255/ctr-all-sliding.m3u8?v=1&hash=c2eebfbadec853d4e3ca4fa1a9f9011e0c7562b2",
+    "k1": "59b7c8bdd48843f785f5998b195b8ce5",
+    "k2": "e51b894e4add47c65cebad46000f5f3e"
   },
   {
     "title": "Chicago Blackhawks vs. St. Louis Blues",
@@ -659,6 +649,16 @@
     "img": "dbbdf026-dd6f-4f07-9c86-944c465a067c",
     "nombre": "disneya8b53b",
     "status": "05:20",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Liverpool vs. Manchester United",
+    "league": "English Women's Super League",
+    "fecha-evento": "2025-09-28T05:50:00-05:00",
+    "img": "010de354-afbc-47fc-a46c-c7fda86b367d",
+    "nombre": "disney84cd73",
+    "status": "05:50",
     "duration": 135,
     "play_url": ""
   }
