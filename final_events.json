@@ -23,29 +23,6 @@
     "play_url": "https://www.disneyplus.com/es-es/play/8e5c81d1-3717-4391-9ee4-782fb9d3e2b4"
   },
   {
-    "title": "Barcelona vs. Real Sociedad",
-    "league": "LALIGA",
-    "fecha-evento": "2025-09-28T11:15:00-05:00",
-    "img": "5f1ad933-47ae-4cac-adb9-084e59679510",
-    "nombre": "disney4c0c2c",
-    "status": "11:15",
-    "duration": 135,
-    "play_url": "https://www.disneyplus.com/es-es/play/af8f895c-0b90-49df-a4b9-60154e008861",
-    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1759162998~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F921e1311-bb26-43dd-84a6-9e2284959712-1756222679255%2F~psid=b4d0a7ed-ddae-40f6-9426-18764d60e665~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=65a618a8cb31d24abeb50fbf0561fc5c045506cf8bd77f22b6b306e9ccfa170c/clt1/va02/disneyplus/channel/921e1311-bb26-43dd-84a6-9e2284959712-1756222679255/ctr-all-sliding.m3u8?v=1&hash=c2eebfbadec853d4e3ca4fa1a9f9011e0c7562b2",
-    "k1": "e387ccfd18ca41daa7eb657294c15f9f",
-    "k2": "aa45b93d3548a7167eb0bf50f492a4a3"
-  },
-  {
-    "title": "Danubio vs. Montevideo City Torque",
-    "league": "Campeonato Uruguayo",
-    "fecha-evento": "2025-09-28T11:15:04-05:00",
-    "img": "13695215-0d30-418a-a528-5c5b49758453",
-    "nombre": "disney63d9e6",
-    "status": "11:15",
-    "duration": 135,
-    "play_url": "https://www.disneyplus.com/es-es/play/4d37d4d2-8d42-4077-aad4-299cdc14d63f"
-  },
-  {
     "title": "Sporting Gijón vs. Albacete",
     "league": "Segunda División de España",
     "fecha-evento": "2025-09-28T11:25:05-05:00",
@@ -209,14 +186,17 @@
     "k2": "2edf2207973e21bced961b81e1e3c895"
   },
   {
-    "title": "Mitre vs. Ciudad de Buenos Aires",
-    "league": "Torneo Metropolitano de Hockey Masculino",
+    "title": "Juventud vs. Nacional",
+    "league": "Campeonato Uruguayo",
     "fecha-evento": "2025-09-28T13:30:00-05:00",
-    "img": "f7204021-a418-4dc6-82b8-28cffc21620c",
-    "nombre": "disney7f5793",
+    "img": "5588465a-aa5d-46b5-8654-dee4eddd786b",
+    "nombre": "disney760bfb",
     "status": "13:30",
-    "duration": 135,
-    "play_url": ""
+    "duration": 150,
+    "play_url": "https://www.disneyplus.com/es-es/play/e8127ced-dc11-409b-900b-9dfe27ce62a7",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759171329~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F28%2FJuventud_vs_Nacional_20250928_1759077028028%2F~psid=04444270-9fb4-4404-852f-e8d47ab1d982~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=6bc62114ed5220591ecb1f8cf542f03c96b50bc928b3fe07092107a38482d2f2/clt1/va02/disneyplus/event/2025/09/28/Juventud_vs_Nacional_20250928_1759077028028/ctr-all-hdri-complete.m3u8?v=1&hash=b97ce7c31bb7e8973c7d2e174615d8cb1ad84f09",
+    "k1": "37636d1d88954b0f8bd4ed455f98f4e5",
+    "k2": "31c5cb7a8b4a2fd88de4b38eb7f49001"
   },
   {
     "title": "Milan vs. Napoli",
@@ -226,17 +206,23 @@
     "nombre": "disney1fedd8",
     "status": "13:30",
     "duration": 135,
-    "play_url": ""
+    "play_url": "https://www.disneyplus.com/es-es/play/873e8265-e114-4f63-97aa-21b5a5623d39",
+    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759171353~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F921e1311-bb26-43dd-84a6-9e2284959712-1756222679255%2F~psid=b01a46d5-10b9-4280-93d3-f50bafe61b0a~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=4868ef43107ce8dc75d585e7f325c76798419396e78bac92aa7c0b55fd53ac5f/clt1/va02/disneyplus/channel/921e1311-bb26-43dd-84a6-9e2284959712-1756222679255/ctr-all-sliding.m3u8?v=1&hash=c2eebfbadec853d4e3ca4fa1a9f9011e0c7562b2",
+    "k1": "e387ccfd18ca41daa7eb657294c15f9f",
+    "k2": "aa45b93d3548a7167eb0bf50f492a4a3"
   },
   {
-    "title": "Juventud vs. Nacional",
-    "league": "Campeonato Uruguayo",
-    "fecha-evento": "2025-09-28T13:30:00-05:00",
-    "img": "5588465a-aa5d-46b5-8654-dee4eddd786b",
-    "nombre": "disney760bfb",
-    "status": "13:30",
-    "duration": 135,
-    "play_url": ""
+    "title": "Mitre vs. Ciudad de Buenos Aires",
+    "league": "Torneo Metropolitano de Hockey Masculino",
+    "fecha-evento": "2025-09-28T13:31:57-05:00",
+    "img": "f7204021-a418-4dc6-82b8-28cffc21620c",
+    "nombre": "disney27a9e7",
+    "status": "13:31",
+    "duration": 118,
+    "play_url": "https://www.disneyplus.com/es-es/play/74a71204-1fde-4e1d-a0f3-a22ae3d5eee5",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759171376~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F28%2FMitre_vs_Ciudad_de_Buenos_20250928_1759077055042%2F~psid=00e1df85-751b-4edd-bc6d-2e137daf86fb~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=83621c36386628327346d7a909c2bff307529757313eeda5e58bde954cca1408/clt1/va02/disneyplus/event/2025/09/28/Mitre_vs_Ciudad_de_Buenos_20250928_1759077055042/ctr-all-hdri-complete.m3u8?v=1&hash=2007a69cb1935ec7d6aa6eb4c353acf67a49eb1a",
+    "k1": "2c69a2246a2e4b23b4182d9debf5122d",
+    "k2": "3c0985d401dbdafef7568448524767a4"
   },
   {
     "title": "Rennes vs. Lens",
@@ -634,6 +620,26 @@
     "fecha-evento": "2025-09-29T18:00:00-05:00",
     "img": "cc2fd915-0795-4d0c-ab28-c39892293346",
     "nombre": "disneyd955ae",
+    "status": "18:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "New York Jets vs. Miami Dolphins",
+    "league": "NFL",
+    "fecha-evento": "2025-09-29T18:00:00-05:00",
+    "img": "2240512c-a3bb-4325-8d70-223890e82e74",
+    "nombre": "disney6e8e9c",
+    "status": "18:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "New York Rangers vs. New York Islanders",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-09-29T18:00:00-05:00",
+    "img": "d4d3da59-23f3-49dc-9a1b-669d90b8b73e",
+    "nombre": "disney00df22",
     "status": "18:00",
     "duration": 135,
     "play_url": ""
