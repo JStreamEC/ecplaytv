@@ -36,19 +36,6 @@
     "k2": "faefee4f6395b3b8db31f011eb33c639"
   },
   {
-    "title": "#25 BYU vs. Colorado",
-    "league": "Fútbol Americano NCAA",
-    "fecha-evento": "2025-09-27T21:15:03-05:00",
-    "img": "23a2dfb3-a94f-4f36-8912-57969a27963c",
-    "nombre": "disney7f886b",
-    "status": "21:15",
-    "duration": 190,
-    "play_url": "https://www.disneyplus.com/es-es/play/69158745-061f-4adb-8433-8537228f3b0e",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759123311~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F28%2F25_BYU_vs_Colorado_20250928_1759018552035%2F~psid=d6805316-7620-4514-9f9f-146c7df3aed7~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=87906c95fc8059f52de4ee691cdb2fb1f4e2587c2619ce50a667d95cb82963bf/clt1/va02/disneyplus/event/2025/09/28/25_BYU_vs_Colorado_20250928_1759018552035/ctr-all-hdri-complete.m3u8?v=1&hash=30ce7078984acacbab6d319ba71fb12847e7d81c",
-    "k1": "c16189a492be446b901808d0fd62f589",
-    "k2": "7ca24da468197e81f65f58d21ede5a08"
-  },
-  {
     "title": "Idaho vs. Montana",
     "league": "Fútbol Americano NCAA",
     "fecha-evento": "2025-09-27T21:17:32-05:00",
@@ -99,16 +86,6 @@
     "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1759123405~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F28%2FWTA_China_Open_Brad_Drewe_20250928_1759021208046%2F~psid=93c8b871-ed88-4804-bfc7-5080032096d7~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=114827781520ccdff781e937d974e7951e68ee3d5dd5f0f82c268ca242769ba3/clt1/va02/disneyplus/event/2025/09/28/WTA_China_Open_Brad_Drewe_20250928_1759021208046/ctr-all-hdri-complete.m3u8?v=1&hash=4856cc2beb6860f498aa3e9be898beb666b8fd3e",
     "k1": "9b26b5c6f5e24fcbaa9398bc997feecc",
     "k2": "e569856439fcaff6f21c70c8b91fe78f"
-  },
-  {
-    "title": "Northland vs. Canterbury (Fecha #9)",
-    "league": "National Provincial Championship",
-    "fecha-evento": "2025-09-27T22:15:05-05:00",
-    "img": "125f23c0-acd9-4bc9-a938-fdb2f3e8090b",
-    "nombre": "disney254c56",
-    "status": "22:15",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/37747476-6267-4846-9cff-9d5bc95438f4"
   },
   {
     "title": "WTA China Open / Moon Court",
@@ -169,8 +146,11 @@
     "img": "0759b5ab-929e-4c18-b324-2210e83899a7",
     "nombre": "disney90d1fe",
     "status": "00:30",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/531ffbbb-676a-4469-ac4f-4689190015cc",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759124417~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F28%2FKinoshita_Group_Japan_Ope_20250928_1759030214054%2F~psid=1425d7ab-77a6-4325-b8a7-1ae68cc2dfb2~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=eb7422e664f140fa42cddb8aaf32e91134c3698cbd7e0abd05f4f10fa8d318a0/clt1/va02/disneyplus/event/2025/09/28/Kinoshita_Group_Japan_Ope_20250928_1759030214054/ctr-all-hdri-complete.m3u8?v=1&hash=71b2dd14935d68bd29c879e0df30b6fcab820cbc",
+    "k1": "40e8ea87b1b5436a9c8ccf2957a1bb39",
+    "k2": "9f9dcaeb861f42ec5e800d8d4b28cd46"
   },
   {
     "title": "Carlos Alcaraz (ESP) vs. Brandon Nakashima (USA) (Quarterfinals)",
@@ -649,6 +629,26 @@
     "img": "35de9656-15bc-43f3-930d-b5f22bbe6e4a",
     "nombre": "disney5b6bf2",
     "status": "12:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "NFL Redzone",
+    "league": "NFL",
+    "fecha-evento": "2025-09-28T12:10:00-05:00",
+    "img": "46b859dc-33d0-42a8-9651-7c408024d849",
+    "nombre": "disney996b9d",
+    "status": "12:10",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Union Berlin vs. Hamburger SV",
+    "league": "Bundesliga",
+    "fecha-evento": "2025-09-28T12:20:00-05:00",
+    "img": "8c5f1777-7928-4430-9f25-650e122a6af8",
+    "nombre": "disneybf5c6f",
+    "status": "12:20",
     "duration": 135,
     "play_url": ""
   }
