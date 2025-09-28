@@ -1,18 +1,5 @@
 [
   {
-    "title": "Lecce vs. Bologna",
-    "league": "Seria A",
-    "fecha-evento": "2025-09-28T10:50:01-05:00",
-    "img": "8a3793b2-e5a9-41fd-b5ab-ffc48a503018",
-    "nombre": "disneybe56d7",
-    "status": "10:50",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/7f48fdcd-f2bc-452f-ae45-acd7cb3297ba",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759161707~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F28%2FLecce_vs_Bologna_20250928_1759067418036%2F~psid=c9e95b37-6eac-4a64-8e6d-8ad3cdd4d70b~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=a52d31ba4c753faa3f835a017fd9f8d2bf74a24306de7aa6964a91a5f0474a0e/clt1/va02/disneyplus/event/2025/09/28/Lecce_vs_Bologna_20250928_1759067418036/ctr-all-hdri-complete.m3u8?v=1&hash=dc5a861e4e0f6cf06a02239efdf079b76258b9aa",
-    "k1": "8654731cb1f64bd59b60f9c7c4e52cc5",
-    "k2": "5036ab038a893cc88beca7f7e2de0038"
-  },
-  {
     "title": "2025 Ryder Cup (Day Three)",
     "league": "ESPN",
     "fecha-evento": "2025-09-28T11:00:00-05:00",
@@ -196,24 +183,30 @@
     "k2": "eaa007da1116814d926e3844bdce4bdd"
   },
   {
-    "title": "Carolina Ascent vs. Sporting Jax",
-    "league": "USL Super League",
-    "fecha-evento": "2025-09-28T13:00:00-05:00",
-    "img": "2685cd23-899e-4e0f-a0f2-8fdbb11f8e1f",
-    "nombre": "disney4e5bd8",
-    "status": "13:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Racing Club vs. Independiente",
     "league": "Liga Profesional de Fútbol",
-    "fecha-evento": "2025-09-28T13:00:00-05:00",
+    "fecha-evento": "2025-09-28T13:00:01-05:00",
     "img": "72cb8a34-449e-4e89-be09-a7da47400b4e",
-    "nombre": "disney17d168",
+    "nombre": "disneyd1e8e3",
     "status": "13:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 165,
+    "play_url": "https://www.disneyplus.com/es-es/play/4962c2a7-0443-40c5-8356-d9a17b23eb93",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1759170153~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F28%2FRacing_Club_vs_Independie_20250928_1759075246027%2F~psid=af6aa768-469c-453c-8386-117bcfae855d~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=1d9a415b9e0cde562112ede4eb34f18fb6b847ba11c850ea3043ad3fd965dccc/clt1/va02/disneyplus/event/2025/09/28/Racing_Club_vs_Independie_20250928_1759075246027/ctr-all-hdri-complete.m3u8?v=1&hash=ad67548045f564f52bb2cee7298f9df0d11b54ee",
+    "k1": "6691852490ae489191f359f816e8321f",
+    "k2": "f1d4cb697a3f5a3cfe3807b30ea65662"
+  },
+  {
+    "title": "Carolina Ascent vs. Sporting Jax",
+    "league": "USL Super League",
+    "fecha-evento": "2025-09-28T13:00:02-05:00",
+    "img": "2685cd23-899e-4e0f-a0f2-8fdbb11f8e1f",
+    "nombre": "disney2f05b4",
+    "status": "13:00",
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/277577e8-8f3d-45aa-92fd-1117967372cd",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759170176~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F28%2FCarolina_Ascent_vs_Sporti_20250928_1759075220037%2F~psid=d77d40fd-edd4-478b-91c1-271e535a0aa2~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=c239a7daba4fd192b875ea10ff88838e84282c694f1eccea0438650fbfd0578c/clt1/va02/disneyplus/event/2025/09/28/Carolina_Ascent_vs_Sporti_20250928_1759075220037/ctr-all-hdri-complete.m3u8?v=1&hash=ccec16b163444cd570a559cb94cf72777fd3360d",
+    "k1": "874a473e6add44a2bccec1f015aac4a0",
+    "k2": "2edf2207973e21bced961b81e1e3c895"
   },
   {
     "title": "Mitre vs. Ciudad de Buenos Aires",
@@ -609,7 +602,7 @@
     "title": "Everton vs. West Ham United",
     "league": "Premier League",
     "fecha-evento": "2025-09-29T13:50:00-05:00",
-    "img": "b62267a4-c5b1-4695-bdd3-dce4e8c65134",
+    "img": "350789e7-f0f6-40fa-9382-09333bb650ec",
     "nombre": "disneyc353a0",
     "status": "13:50",
     "duration": 135,
@@ -632,6 +625,16 @@
     "img": "89f9244c-01d8-4641-8a1e-6d426c7bddb2",
     "nombre": "disney04a9f1",
     "status": "17:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Pittsburgh Penguins vs. Detroit Red Wings",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-09-29T18:00:00-05:00",
+    "img": "cc2fd915-0795-4d0c-ab28-c39892293346",
+    "nombre": "disneyd955ae",
+    "status": "18:00",
     "duration": 135,
     "play_url": ""
   }
