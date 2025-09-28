@@ -1,31 +1,5 @@
 [
   {
-    "title": "WTA China Open (Third Round)",
-    "league": "WTA",
-    "fecha-evento": "2025-09-27T21:55:10-05:00",
-    "img": "0ed16152-5c52-41b5-8775-7c38e7f2f8b8",
-    "nombre": "disney0ae0d3",
-    "status": "21:55",
-    "duration": 725,
-    "play_url": "https://www.disneyplus.com/es-es/play/13735e46-0a07-4294-9c0f-9d2a42339968",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759123358~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F28%2FWTA_China_Open_Third_Roun_20250928_1759021234037%2F~psid=a36d1d92-e9ed-44c5-a32a-dc7d30c3bc04~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=9183702af29569e42415795bb4c2cd2a3dc1a802dd06e460eb8a1c6f9f734951/clt1/va02/disneyplus/event/2025/09/28/WTA_China_Open_Third_Roun_20250928_1759021234037/ctr-all-hdri-complete.m3u8?v=1&hash=f3ad62db08a4a30e7d66386bfa95a90a2a6696f3",
-    "k1": "cfa8d392e69542418ec6d1a8d5c4f1e1",
-    "k2": "497698a314b0709fd67482886f409aae"
-  },
-  {
-    "title": "WTA China Open / Capital Group Diamond",
-    "league": "WTA",
-    "fecha-evento": "2025-09-28T00:00:03-05:00",
-    "img": "0f2095e3-3192-4d23-b41a-f2587cd48ae5",
-    "nombre": "disneyfbec69",
-    "status": "00:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/59633d5d-f9e3-48ab-bc45-e16a6983df87",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759123499~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F28%2FWTA_China_Open_Capital_Gr_20250928_1759028438027%2F~psid=295c0c1b-9526-434c-ba0e-f366c8abcba8~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=8df3fef441dcc1d1c87d323ab854beb1918c79bd7d4bacabe39ba6058414f5c7/clt1/va02/disneyplus/event/2025/09/28/WTA_China_Open_Capital_Gr_20250928_1759028438027/ctr-all-hdri-complete.m3u8?v=1&hash=f534e371cc25dc68878345f345e90b626ba522c7",
-    "k1": "a53085ddea8d448798f0506d7814cb0b",
-    "k2": "2ed08f28fb79c703a952442e72e83660"
-  },
-  {
     "title": "Premier Padel: Alemania - Centre Court (Finales)",
     "league": "Premier Padel",
     "fecha-evento": "2025-09-28T07:00:05-05:00",
@@ -152,12 +126,15 @@
   {
     "title": "Lecce vs. Bologna",
     "league": "Seria A",
-    "fecha-evento": "2025-09-28T10:50:00-05:00",
+    "fecha-evento": "2025-09-28T10:50:01-05:00",
     "img": "8a3793b2-e5a9-41fd-b5ab-ffc48a503018",
-    "nombre": "disneyf1ee1e",
+    "nombre": "disneybe56d7",
     "status": "10:50",
-    "duration": 135,
-    "play_url": ""
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/7f48fdcd-f2bc-452f-ae45-acd7cb3297ba",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759161707~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F28%2FLecce_vs_Bologna_20250928_1759067418036%2F~psid=c9e95b37-6eac-4a64-8e6d-8ad3cdd4d70b~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=a52d31ba4c753faa3f835a017fd9f8d2bf74a24306de7aa6964a91a5f0474a0e/clt1/va02/disneyplus/event/2025/09/28/Lecce_vs_Bologna_20250928_1759067418036/ctr-all-hdri-complete.m3u8?v=1&hash=dc5a861e4e0f6cf06a02239efdf079b76258b9aa",
+    "k1": "8654731cb1f64bd59b60f9c7c4e52cc5",
+    "k2": "5036ab038a893cc88beca7f7e2de0038"
   },
   {
     "title": "River Plate vs. Ciudad de Buenos Aires",
@@ -560,6 +537,16 @@
     "play_url": ""
   },
   {
+    "title": "WTA China Open (Third Round)",
+    "league": "WTA",
+    "fecha-evento": "2025-09-28T22:00:00-05:00",
+    "img": "0ed16152-5c52-41b5-8775-7c38e7f2f8b8",
+    "nombre": "disney09063b",
+    "status": "22:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
     "title": "WTA China Open / Moon Court",
     "league": "WTA",
     "fecha-evento": "2025-09-28T22:00:00-05:00",
@@ -626,6 +613,36 @@
     "img": "75ec0adb-41d6-4a64-aca7-6622818d1b66",
     "nombre": "disney58a124",
     "status": "02:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Carlos Alcaraz (ESP) vs. Casper Ruud (NOR) (Semifinals)",
+    "league": "ATP",
+    "fecha-evento": "2025-09-29T04:00:00-05:00",
+    "img": "f5d7c938-e1da-4c72-81c8-b77e20b966d7",
+    "nombre": "disney67e39f",
+    "status": "04:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "WTA China Open / Capital Group Diamond",
+    "league": "WTA",
+    "fecha-evento": "2025-09-29T06:00:00-05:00",
+    "img": "0f2095e3-3192-4d23-b41a-f2587cd48ae5",
+    "nombre": "disney95db7a",
+    "status": "06:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "China Open / Capital Group Diamond (Quarterfinals)",
+    "league": "ATP",
+    "fecha-evento": "2025-09-29T07:30:00-05:00",
+    "img": "0f2095e3-3192-4d23-b41a-f2587cd48ae5",
+    "nombre": "disney97a2d0",
+    "status": "07:30",
     "duration": 135,
     "play_url": ""
   }
