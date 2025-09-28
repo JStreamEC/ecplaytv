@@ -10,19 +10,6 @@
     "play_url": "https://www.disneyplus.com/es-es/play/ae6266ad-7466-4e24-a22e-e19bb0853524"
   },
   {
-    "title": "Lille vs. Lyon",
-    "league": "Ligue 1",
-    "fecha-evento": "2025-09-28T10:04:00-05:00",
-    "img": "1025f7e4-fe7c-44ac-9512-7ec6dd6ef816",
-    "nombre": "disneydef89b",
-    "status": "10:04",
-    "duration": 126,
-    "play_url": "https://www.disneyplus.com/es-es/play/982132e4-11d4-487d-a276-7ffa057c60ea",
-    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1759159351~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Fec26a05e-a9cc-4db4-804e-77465738e667-1756222537809%2F~psid=6393a62e-86ff-4808-be94-62f3556e6150~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=bdcb0355af0d0c313477fa2a340f3ae4add8e2bf0a103d8d026091153196561f/clt1/va02/disneyplus/channel/ec26a05e-a9cc-4db4-804e-77465738e667-1756222537809/ctr-all-sliding.m3u8?v=1&hash=89191118387a35883a50bbae1f0b0b7046a61da8",
-    "k1": "b321ce239ab94485ba19c7624d572247",
-    "k2": "18307e927420a50f0ace9be9da4e6373"
-  },
-  {
     "title": "Angers vs. Brest",
     "league": "Ligue 1",
     "fecha-evento": "2025-09-28T10:00:18-05:00",
@@ -186,6 +173,19 @@
     "k2": "bae455a1d0bd4b3e7f5fc7a715fb62a5"
   },
   {
+    "title": "New Orleans Saints vs. Buffalo Bills",
+    "league": "NFL",
+    "fecha-evento": "2025-09-28T12:00:00-05:00",
+    "img": "b8f6943c-0a74-4dff-9bfb-11802851868b",
+    "nombre": "disney3d2daa",
+    "status": "12:00",
+    "duration": 180,
+    "play_url": "https://www.disneyplus.com/es-es/play/ca2a7d6e-d1ef-4dfe-8169-433e0ff57321",
+    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1759166531~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F47873700-1b85-4497-8f84-d6f321fbb196-1756223215339%2F~psid=42607f83-7a0e-4b2f-a8cb-ffe390b8a775~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=d0fb753dd869251458698c0ac131e5a89995730604679fb2c7c7485f38181afb/clt1/va02/disneyplus/channel/47873700-1b85-4497-8f84-d6f321fbb196-1756223215339/ctr-all-sliding.m3u8?v=1&hash=366ac40b4e229f852b33e920981fed54366a22f9",
+    "k1": "91b9510740cb4015a2648c7d61d00035",
+    "k2": "82b954d4cba4e92a36037f9e5d49c495"
+  },
+  {
     "title": "Philadelphia Eagles vs. Tampa Bay Buccaneers",
     "league": "NFL",
     "fecha-evento": "2025-09-28T12:00:00-05:00",
@@ -199,54 +199,50 @@
     "k2": "76b4a84d4fa0c993692a4e4e009ced15"
   },
   {
-    "title": "Duke vs. VCU",
-    "league": "NCAA Women's Field Hockey",
-    "fecha-evento": "2025-09-28T12:00:00-05:00",
-    "img": "3d726a1b-8dbe-493c-b0f2-9e4d45216019",
-    "nombre": "disneyd7f1ca",
+    "title": "Ole Miss vs. Oklahoma",
+    "league": "NCAA Women's Volleyball",
+    "fecha-evento": "2025-09-28T12:00:02-05:00",
+    "img": "f624f653-bbe3-49d1-8af5-03f00b82a513",
+    "nombre": "disney8a3b94",
     "status": "12:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/e5791774-cab4-44e7-996a-363d48a30e64",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759166553~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F28%2FOle_Miss_vs_Oklahoma_20250928_1759072605133%2F~psid=74c22475-512f-462a-b05f-906744de458e~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=a868eadf493601014576cad7b5022b2cfdbbb8a5b9c6834a6546429a549e4168/clt1/va02/disneyplus/event/2025/09/28/Ole_Miss_vs_Oklahoma_20250928_1759072605133/ctr-all-hdri-complete.m3u8?v=1&hash=f162481e183ddb0c51d7f55b35b6c3eac56e5e3a",
+    "k1": "2e0cb3d6bb794944bb743c26e4bcd245",
+    "k2": "88ed6a7b9ea9af4d4483c2edbec20a46"
   },
   {
     "title": "Arizona vs. #18 Kansas",
     "league": "NCAA Women's Volleyball",
-    "fecha-evento": "2025-09-28T12:00:00-05:00",
+    "fecha-evento": "2025-09-28T12:00:03-05:00",
     "img": "12d48fcc-dd12-48b2-bf52-56921b3fa043",
-    "nombre": "disney729dcc",
+    "nombre": "disney8a01f4",
     "status": "12:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/c41a8d97-2224-49cd-84de-2970e42d22ea"
   },
   {
-    "title": "New Orleans Saints vs. Buffalo Bills",
-    "league": "NFL",
-    "fecha-evento": "2025-09-28T12:00:00-05:00",
-    "img": "b8f6943c-0a74-4dff-9bfb-11802851868b",
-    "nombre": "disney3d2daa",
+    "title": "Duke vs. VCU",
+    "league": "NCAA Women's Field Hockey",
+    "fecha-evento": "2025-09-28T12:00:14-05:00",
+    "img": "3d726a1b-8dbe-493c-b0f2-9e4d45216019",
+    "nombre": "disney9961c0",
     "status": "12:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Ole Miss vs. Oklahoma",
-    "league": "NCAA Women's Volleyball",
-    "fecha-evento": "2025-09-28T12:00:00-05:00",
-    "img": "f624f653-bbe3-49d1-8af5-03f00b82a513",
-    "nombre": "disney8c2d4a",
-    "status": "12:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/adc4ed7e-68b7-43c1-a89b-dbd8001fadfb"
   },
   {
     "title": "NFL Redzone",
     "league": "NFL",
-    "fecha-evento": "2025-09-28T12:10:00-05:00",
+    "fecha-evento": "2025-09-28T12:16:00-05:00",
     "img": "46b859dc-33d0-42a8-9651-7c408024d849",
-    "nombre": "disney996b9d",
-    "status": "12:10",
-    "duration": 135,
-    "play_url": ""
+    "nombre": "disney9fb341",
+    "status": "12:16",
+    "duration": 374,
+    "play_url": "https://www.disneyplus.com/es-es/play/3d66e340-1619-49b4-999a-2e0929202d9d",
+    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759166623~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Fec26a05e-a9cc-4db4-804e-77465738e667-1756222537809%2F~psid=cdaa0b7e-cd76-4a3b-8113-13646ffd8360~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=07f18e64ad86a88c836e7dabfbf5ae0724e693faf91c24196c27f64c11f5b353/clt1/va02/disneyplus/channel/ec26a05e-a9cc-4db4-804e-77465738e667-1756222537809/ctr-all-sliding.m3u8?v=1&hash=89191118387a35883a50bbae1f0b0b7046a61da8",
+    "k1": "b321ce239ab94485ba19c7624d572247",
+    "k2": "18307e927420a50f0ace9be9da4e6373"
   },
   {
     "title": "Union Berlin vs. Hamburger SV",
@@ -655,6 +651,16 @@
     "img": "8bdc49f6-8bfb-4ec8-8fe9-18be6032bade",
     "nombre": "disney9eeaff",
     "status": "13:10",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Genoa vs. Lazio",
+    "league": "Seria A",
+    "fecha-evento": "2025-09-29T13:30:00-05:00",
+    "img": "2c25b13a-d3b5-4490-85dd-0a4f3f013fd8",
+    "nombre": "disney62b27a",
+    "status": "13:30",
     "duration": 135,
     "play_url": ""
   }
