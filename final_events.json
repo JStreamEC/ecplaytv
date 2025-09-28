@@ -10,19 +10,6 @@
     "play_url": ""
   },
   {
-    "title": "MotoGP - Race - Motul Grand Prix of Japan",
-    "league": "MotoGP",
-    "fecha-evento": "2025-09-27T20:45:00-05:00",
-    "img": "097a5c3d-154a-4e74-8843-77f9515905cc",
-    "nombre": "disney9a9ba3",
-    "status": "20:45",
-    "duration": 270,
-    "play_url": "https://www.disneyplus.com/es-es/play/b6373f58-9f3b-4c9d-852b-2a433cb31c93",
-    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759123225~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Ff25bdf06-81c9-4a7c-b128-3128d610ad17-1756223551993%2F~psid=a6bf171a-df9d-4e99-b12c-75adf7c24a99~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=7fd4ecb32a0ba94245abceeceb0d65167471e685f5ffb4ebd409d30c42922907/clt1/va02/disneyplus/channel/f25bdf06-81c9-4a7c-b128-3128d610ad17-1756223551993/ctr-all-sliding.m3u8?v=1&hash=aa8d2bb37fafb9b8d31c8b8095cb65f827b67eb8",
-    "k1": "e5ff651b6cde414aae7acaef1f47c5d9",
-    "k2": "922637f35dd207be23bd247cfbfe0b4e"
-  },
-  {
     "title": "Kinoshita Group Japan Open (Quarterfinals)",
     "league": "ATP",
     "fecha-evento": "2025-09-27T21:00:04-05:00",
@@ -646,6 +633,16 @@
     "img": "1dfc67c1-3037-4f57-a0de-7349a0e86976",
     "nombre": "disney03e235",
     "status": "12:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Carolina Ascent vs. Sporting Jax",
+    "league": "USL Super League",
+    "fecha-evento": "2025-09-28T13:00:00-05:00",
+    "img": "2685cd23-899e-4e0f-a0f2-8fdbb11f8e1f",
+    "nombre": "disney4e5bd8",
+    "status": "13:00",
     "duration": 135,
     "play_url": ""
   }
