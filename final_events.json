@@ -36,26 +36,6 @@
     "play_url": "https://www.disneyplus.com/es-es/play/ae6266ad-7466-4e24-a22e-e19bb0853524"
   },
   {
-    "title": "Freiburg vs. Hoffenheim",
-    "league": "Bundesliga",
-    "fecha-evento": "2025-09-28T08:20:02-05:00",
-    "img": "4cbed937-fb6b-4c64-ac9f-13e92d48b436",
-    "nombre": "disney466720",
-    "status": "08:20",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/2430cd9f-c455-4283-87fd-16ac7405c24c"
-  },
-  {
-    "title": "West Ham vs. Chelsea",
-    "league": "English Women's Super League",
-    "fecha-evento": "2025-09-28T08:25:37-05:00",
-    "img": "de6151f2-988a-4a09-b49b-998a3b7b354c",
-    "nombre": "disney1bb686",
-    "status": "08:25",
-    "duration": 124,
-    "play_url": "https://www.disneyplus.com/es-es/play/a93efb58-3688-4e75-b286-04ee4c0e440a"
-  },
-  {
     "title": "Minnesota Vikings vs. Pittsburgh Steelers",
     "league": "NFL",
     "fecha-evento": "2025-09-28T08:30:00-05:00",
@@ -159,12 +139,15 @@
   {
     "title": "Koln vs. Stuttgart",
     "league": "Bundesliga",
-    "fecha-evento": "2025-09-28T10:20:00-05:00",
+    "fecha-evento": "2025-09-28T10:20:01-05:00",
     "img": "1a025f88-7638-4eaf-a01c-589bb1e29563",
-    "nombre": "disney4bd98b",
+    "nombre": "disneyc728c7",
     "status": "10:20",
-    "duration": 135,
-    "play_url": ""
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/5df08ee2-d740-41b1-a309-7023d8b8b847",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759160504~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F28%2FKoln_vs_Stuttgart_20250928_1759065642036%2F~psid=299a9a51-128f-4e9e-8829-433748389d61~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=7aba69f68d01040a21bdb3b8921592f9ca4f6c6abbe98ba09c758d55381389d0/clt1/va02/disneyplus/event/2025/09/28/Koln_vs_Stuttgart_20250928_1759065642036/ctr-all-hdri-complete.m3u8?v=1&hash=25feaaaebd12b639b7d50028f661211525689d3a",
+    "k1": "922aca1370b142fbaa59d9cd56ac2ada",
+    "k2": "7f9a3cf703790ba8d42e288a6a5f4f82"
   },
   {
     "title": "Lecce vs. Bologna",
@@ -560,7 +543,7 @@
     "title": "Green Bay Packers vs. Dallas Cowboys",
     "league": "NFL",
     "fecha-evento": "2025-09-28T19:00:00-05:00",
-    "img": "30a5e79c-3372-475d-9b9e-cde1bdaac35a",
+    "img": "87c15359-2339-45ae-a69e-4bbefe17c72d",
     "nombre": "disney4b9f8c",
     "status": "19:00",
     "duration": 135,
