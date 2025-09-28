@@ -10,19 +10,6 @@
     "play_url": ""
   },
   {
-    "title": "Tulane vs. Tulsa",
-    "league": "Fútbol Americano NCAA",
-    "fecha-evento": "2025-09-27T15:02:02-05:00",
-    "img": "028565c1-3ac3-45ab-ba3a-d865dc09dea2",
-    "nombre": "disneycbc744",
-    "status": "15:02",
-    "duration": 178,
-    "play_url": "https://www.disneyplus.com/es-es/play/3cd0de6d-ee7f-4e6c-ab9c-b731e099e314",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1759090952~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F27%2FTulane_vs_Tulsa_20250927_1758996704432%2F~psid=38e7550b-fe96-441b-bbaf-5aea9a69ca89~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=52d3c77da762f6e675223ec4e3bf0f158e3d247f08ad054cde2e3cfe0733ba75/clt1/va02/disneyplus/event/2025/09/27/Tulane_vs_Tulsa_20250927_1758996704432/ctr-all-hdri-complete.m3u8?v=1&hash=4cb912b4ea4edce730d1c5bde07542b2f30b8fa1",
-    "k1": "eb0cccb4710d411b9f5ec6c5ccc357dd",
-    "k2": "85bf80cfc973b987e699d9f1a938cab1"
-  },
-  {
     "title": "#15 Tennessee vs. Mississippi State",
     "league": "Fútbol Americano NCAA",
     "fecha-evento": "2025-09-27T15:14:41-05:00",
@@ -218,6 +205,19 @@
     "k2": "f94beab199317507e5d82a2b57c455db"
   },
   {
+    "title": "Massachusetts vs. #20 Missouri",
+    "league": "Fútbol Americano NCAA",
+    "fecha-evento": "2025-09-27T18:30:05-05:00",
+    "img": "1409e9c5-bf83-462c-aaad-91ff164623cd",
+    "nombre": "disneyfbeac5",
+    "status": "18:30",
+    "duration": 180,
+    "play_url": "https://www.disneyplus.com/es-es/play/bd4cf7d9-5ac0-4884-976d-dabd5be9563c",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1759102908~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F27%2FMassachusetts_vs_20_Misso_20250927_1759008604025%2F~psid=75a5286f-4e1c-47d8-a502-a856e1ff71c1~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=1ea52e9f2477db660fca67adb0a4b38a4be6b153fa5c38abc551836392fe9427/clt1/va02/disneyplus/event/2025/09/27/Massachusetts_vs_20_Misso_20250927_1759008604025/ctr-all-hdri-complete.m3u8?v=1&hash=2ba87041b84e6087432ad933ee0a5b6b430527b5",
+    "k1": "a5cff8f77f7b4b22903014ac0822392b",
+    "k2": "2100a1c9ea13eb552491ae210d6fe70c"
+  },
+  {
     "title": "Najee Lopez vs. Kalvin Henderson",
     "league": "ESPN",
     "fecha-evento": "2025-09-27T18:30:01-05:00",
@@ -242,19 +242,6 @@
     "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759102865~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F27%2FSaint_Marys_vs_San_Franci_20250927_1759008613026%2F~psid=b5bd73ce-ae8c-4593-ad90-d8d51bf7bdf7~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=05ab2255ff7f0a41f8e4ad2c7d4b3c08453b79454ecc0b77ebfcad5bd494d364/clt1/va02/disneyplus/event/2025/09/27/Saint_Marys_vs_San_Franci_20250927_1759008613026/ctr-all-hdri-complete.m3u8?v=1&hash=ebac366a3bf636a693ed155c331a7aa08fcec1a1",
     "k1": "d92647a8b6a84e1b8041076f5ca06fa9",
     "k2": "99de15ff8b72d8bd8b8a5e0988bd29e0"
-  },
-  {
-    "title": "Massachusetts vs. #20 Missouri",
-    "league": "Fútbol Americano NCAA",
-    "fecha-evento": "2025-09-27T18:30:05-05:00",
-    "img": "1409e9c5-bf83-462c-aaad-91ff164623cd",
-    "nombre": "disneyfbeac5",
-    "status": "18:30",
-    "duration": 180,
-    "play_url": "https://www.disneyplus.com/es-es/play/bd4cf7d9-5ac0-4884-976d-dabd5be9563c",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1759102908~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F27%2FMassachusetts_vs_20_Misso_20250927_1759008604025%2F~psid=75a5286f-4e1c-47d8-a502-a856e1ff71c1~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=1ea52e9f2477db660fca67adb0a4b38a4be6b153fa5c38abc551836392fe9427/clt1/va02/disneyplus/event/2025/09/27/Massachusetts_vs_20_Misso_20250927_1759008604025/ctr-all-hdri-complete.m3u8?v=1&hash=2ba87041b84e6087432ad933ee0a5b6b430527b5",
-    "k1": "a5cff8f77f7b4b22903014ac0822392b",
-    "k2": "2100a1c9ea13eb552491ae210d6fe70c"
   },
   {
     "title": "#17 Alabama vs. #5 Georgia",
@@ -285,12 +272,15 @@
   {
     "title": "Kentucky vs. South Carolina",
     "league": "Fútbol Americano NCAA",
-    "fecha-evento": "2025-09-27T18:45:00-05:00",
+    "fecha-evento": "2025-09-27T18:49:02-05:00",
     "img": "5bbb49c6-8506-4efc-ba99-3c69d0c84e5b",
-    "nombre": "disneyfb9034",
-    "status": "18:45",
-    "duration": 135,
-    "play_url": ""
+    "nombre": "disney4985e0",
+    "status": "18:49",
+    "duration": 191,
+    "play_url": "https://www.disneyplus.com/es-es/play/63804d19-5335-45c6-a8ac-75bcbab82f7e",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1759104018~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F27%2FKentucky_vs_South_Carolin_20250927_1759009511026%2F~psid=7a74409f-812d-4c5e-b35a-f6977ca33056~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=eb697edc95991ef8a3c7db392dfad69d9faa6585eb05c21bdd4967dc81561a71/clt1/va02/disneyplus/event/2025/09/27/Kentucky_vs_South_Carolin_20250927_1759009511026/ctr-all-hdri-complete.m3u8?v=1&hash=4edcd166bd3d5c0066f5b3ea3c9e196aa6d1feaf",
+    "k1": "98d399204bc142b29e39b83b1eba57f8",
+    "k2": "147c2d17f9b32f553fcdae205bbaef64"
   },
   {
     "title": "Colorado Springs Switchbacks FC vs. Hartford Athletic",
@@ -299,8 +289,8 @@
     "img": "145a6b1a-37aa-4580-91a1-be1f0bc456cb",
     "nombre": "disneyba4e53",
     "status": "19:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/4b8fb880-77be-4945-aeec-25112944f5aa"
   },
   {
     "title": "Atenas vs. Tacuarembó",
@@ -310,7 +300,10 @@
     "nombre": "disney5d108f",
     "status": "19:00",
     "duration": 135,
-    "play_url": ""
+    "play_url": "https://www.disneyplus.com/es-es/play/5018d6cd-b34a-43dd-be18-1a15277e3299",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759104106~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F28%2FAtenas_vs_Tacuaremb_20250928_1759010438040%2F~psid=b8a21f02-b4f6-4c2f-a3e4-5bc2f8881646~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=250e9a9a62d7544b1d46470f4443f394bcfda9ebb1378bc37cba30482f0e6ccb/clt1/va02/disneyplus/event/2025/09/28/Atenas_vs_Tacuaremb_20250928_1759010438040/ctr-all-hdri-complete.m3u8?v=1&hash=8194d0705a25b2c7fe46f2a46ad11859f62c701f",
+    "k1": "ef33e4d85101495bac569be4a21df239",
+    "k2": "c1abc692a7846d689c5f8a430d61e0a6"
   },
   {
     "title": "San Antonio FC vs. Birmingham Legion FC",
@@ -679,6 +672,16 @@
     "img": "243b0082-215b-4712-aa72-f9573ed0ea6f",
     "nombre": "disneyaead94",
     "status": "06:55",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Premier Padel: Alemania - Centre Court (Finales)",
+    "league": "Premier Padel",
+    "fecha-evento": "2025-09-28T07:00:00-05:00",
+    "img": "a1a088a2-6647-4ca1-8a5b-a6677d196d75",
+    "nombre": "disneycbac04",
+    "status": "07:00",
     "duration": 135,
     "play_url": ""
   }
