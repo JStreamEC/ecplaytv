@@ -26,19 +26,6 @@
     "k2": "18307e927420a50f0ace9be9da4e6373"
   },
   {
-    "title": "#11 SMU vs. #5 Pittsburgh",
-    "league": "NCAA Women's Volleyball",
-    "fecha-evento": "2025-09-28T14:00:00-05:00",
-    "img": "2d2fa2e7-4b5a-442b-9534-d981cdb57c2b",
-    "nombre": "disneyf4298b",
-    "status": "14:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/9a30b48c-c255-45da-8b8a-2221446b066b",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1759172505~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F28%2F11_SMU_vs_5_Pittsburgh_20250928_1759079805142%2F~psid=61729fc7-73b7-47f0-9034-1ebf45b52b9e~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=290aaf0dc0423272ec6a31bea1a3f8d83c06b32caf2459eaf44fdb54e0ccf244/clt1/va02/disneyplus/event/2025/09/28/11_SMU_vs_5_Pittsburgh_20250928_1759079805142/ctr-all-hdri-complete.m3u8?v=1&hash=609e9cbc28a14aa1431d4076955468339185679c",
-    "k1": "49de135603634b06a12b22e49eb4aee6",
-    "k2": "923b8d337d46c334bd0f305770e5592c"
-  },
-  {
     "title": "Detroit Tigers vs. Boston Red Sox",
     "league": "MLB",
     "fecha-evento": "2025-09-28T14:00:00-05:00",
@@ -553,6 +540,16 @@
     "img": "17e516cc-7e03-4be0-b8b9-988153e74be3",
     "nombre": "disney2c1f0a",
     "status": "06:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Chelsea vs. Benfica",
+    "league": "UEFA Youth League",
+    "fecha-evento": "2025-09-30T08:50:00-05:00",
+    "img": "727a784d-4997-432a-8a2f-ec8cbdd04fb0",
+    "nombre": "disney5257be",
+    "status": "08:50",
     "duration": 135,
     "play_url": ""
   }
