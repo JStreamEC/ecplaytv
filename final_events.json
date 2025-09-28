@@ -101,27 +101,17 @@
     "k2": "812d88d0acbfe86a4cc6471502917298"
   },
   {
-    "title": "Kinoshita Group Japan Open / Kinoshita Group Show Court (Doubles)",
-    "league": "ATP",
-    "fecha-evento": "2025-09-28T00:30:00-05:00",
-    "img": "0759b5ab-929e-4c18-b324-2210e83899a7",
-    "nombre": "disney90d1fe",
-    "status": "00:30",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/531ffbbb-676a-4469-ac4f-4689190015cc",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759124417~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F28%2FKinoshita_Group_Japan_Ope_20250928_1759030214054%2F~psid=1425d7ab-77a6-4325-b8a7-1ae68cc2dfb2~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=eb7422e664f140fa42cddb8aaf32e91134c3698cbd7e0abd05f4f10fa8d318a0/clt1/va02/disneyplus/event/2025/09/28/Kinoshita_Group_Japan_Ope_20250928_1759030214054/ctr-all-hdri-complete.m3u8?v=1&hash=71b2dd14935d68bd29c879e0df30b6fcab820cbc",
-    "k1": "40e8ea87b1b5436a9c8ccf2957a1bb39",
-    "k2": "9f9dcaeb861f42ec5e800d8d4b28cd46"
-  },
-  {
     "title": "Carlos Alcaraz (ESP) vs. Brandon Nakashima (USA) (Quarterfinals)",
     "league": "ATP",
-    "fecha-evento": "2025-09-28T03:30:00-05:00",
+    "fecha-evento": "2025-09-28T03:18:43-05:00",
     "img": "ef7e20b1-57b8-455f-b6f9-a7955a9f9375",
-    "nombre": "disney1cdd8c",
-    "status": "03:30",
-    "duration": 135,
-    "play_url": ""
+    "nombre": "disney401f49",
+    "status": "03:18",
+    "duration": 131,
+    "play_url": "https://www.disneyplus.com/es-es/play/79d28800-bb25-4376-a95f-dade4cb43c59",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759134018~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F28%2FCarlos_Alcaraz_ESP_vs_Bra_20250928_1759041017036%2F~psid=6b459d88-d676-43e6-9747-06118d0c6456~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=31120aae5815f7570c301b6b0d99c6796394aac22c4eb08f439e866408e886ed/clt1/va02/disneyplus/event/2025/09/28/Carlos_Alcaraz_ESP_vs_Bra_20250928_1759041017036/ctr-all-hdri-complete.m3u8?v=1&hash=4f61605eac14db6b5bd6010132c10a7b74b2c6d7",
+    "k1": "18ae2414af424fddbb85e90d5cef1dc6",
+    "k2": "65fa06ce6752150a11494cc084ea34b5"
   },
   {
     "title": "China Open / Moon Court (Doubles)",
@@ -640,6 +630,16 @@
     "img": "72cb8a34-449e-4e89-be09-a7da47400b4e",
     "nombre": "disney17d168",
     "status": "13:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Mitre vs. Ciudad de Buenos Aires",
+    "league": "Torneo Metropolitano de Hockey Masculino",
+    "fecha-evento": "2025-09-28T13:30:00-05:00",
+    "img": "f7204021-a418-4dc6-82b8-28cffc21620c",
+    "nombre": "disney7f5793",
+    "status": "13:30",
     "duration": 135,
     "play_url": ""
   }
