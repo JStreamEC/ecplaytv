@@ -49,16 +49,6 @@
     "k2": "5e3af8a405a1d78dd92b215f56cb2228"
   },
   {
-    "title": "1. FC Nurnberg vs. Hertha BSC",
-    "league": "Bundesliga 2 de Alemania",
-    "fecha-evento": "2025-09-28T06:20:23-05:00",
-    "img": "dbed4d68-15ad-4cfc-b610-d8897e15ac08",
-    "nombre": "disney65212e",
-    "status": "06:20",
-    "duration": 145,
-    "play_url": "https://www.disneyplus.com/es-es/play/9cda6dd4-2dc2-4026-b077-04f97817f054"
-  },
-  {
     "title": "Rayo Vallecano vs. Sevilla",
     "league": "LALIGA",
     "fecha-evento": "2025-09-28T06:50:00-05:00",
@@ -185,8 +175,11 @@
     "img": "b0d75db5-f434-46dc-8b09-0343d4a2329b",
     "nombre": "disney861fad",
     "status": "09:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/8358caea-d8d7-4650-8228-14a86ca28eed",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1759154766~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F28%2F2025_Ryder_Cup_Breakfast__20250928_1759061925119%2F~psid=08b612bd-a82c-4af5-90d9-b7b182af84e4~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=ac8a61e5649e0142c3f77ca7ddf684c5ebdf649234e0ff144fc1b0396a65e247/clt1/va02/disneyplus/event/2025/09/28/2025_Ryder_Cup_Breakfast__20250928_1759061925119/ctr-all-hdri-complete.m3u8?v=1&hash=f3c7ac0ead81da6782ef79955927226ebc4ba73a",
+    "k1": "ac8b0073deff4a98b7bb778f431d9435",
+    "k2": "c7ce206913a4c21329af6030afd18e5e"
   },
   {
     "title": "Cadiz vs. Ceuta",
@@ -215,16 +208,6 @@
     "img": "e2d3ceb7-3d74-4fe8-85bc-1f65662302ce",
     "nombre": "disney6c1fbd",
     "status": "10:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Newcastle United vs. Arsenal",
-    "league": "Premier League",
-    "fecha-evento": "2025-09-28T10:10:00-05:00",
-    "img": "5741c959-9ce8-4b1d-b2b0-2292a5c96745",
-    "nombre": "disney49e40e",
-    "status": "10:10",
     "duration": 135,
     "play_url": ""
   },
@@ -469,16 +452,6 @@
     "play_url": ""
   },
   {
-    "title": "Milan vs. Napoli",
-    "league": "Seria A",
-    "fecha-evento": "2025-09-28T13:30:00-05:00",
-    "img": "45e107b4-3d40-4636-88b4-4f28b4f0a6bc",
-    "nombre": "disney1fedd8",
-    "status": "13:30",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Juventud vs. Nacional",
     "league": "Campeonato Uruguayo",
     "fecha-evento": "2025-09-28T13:30:00-05:00",
@@ -635,6 +608,16 @@
     "img": "0db318c8-8a69-4772-8dda-677c29275c62",
     "nombre": "disneyc7e927",
     "status": "18:45",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Vancouver Canucks vs. Edmonton Oilers",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-09-28T19:00:00-05:00",
+    "img": "b2174102-4862-4929-a934-3f1b592688bb",
+    "nombre": "disney09f6b3",
+    "status": "19:00",
     "duration": 135,
     "play_url": ""
   }
