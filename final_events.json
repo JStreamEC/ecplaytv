@@ -13,16 +13,6 @@
     "k2": "497698a314b0709fd67482886f409aae"
   },
   {
-    "title": "FC Groningen vs. Feyenoord (Fecha #7)",
-    "league": "Eredivisie",
-    "fecha-evento": "2025-09-28T07:21:27-05:00",
-    "img": "290baf5d-2cbe-4734-98fb-6bca06811238",
-    "nombre": "disney5fbeb9",
-    "status": "07:21",
-    "duration": 129,
-    "play_url": "https://www.disneyplus.com/es-es/play/c433eff2-2b54-4993-bea2-37a5b9b862cd"
-  },
-  {
     "title": "WTA China Open / Capital Group Diamond",
     "league": "WTA",
     "fecha-evento": "2025-09-28T00:00:03-05:00",
@@ -144,12 +134,15 @@
   {
     "title": "Bristol Bears vs. Leicester Tigers (Ronda #1)",
     "league": "Premiership",
-    "fecha-evento": "2025-09-28T09:25:00-05:00",
+    "fecha-evento": "2025-09-28T09:25:14-05:00",
     "img": "397ef69f-abc6-47b6-8663-e92096d713e5",
-    "nombre": "disneyfe2849",
+    "nombre": "disney7f4718",
     "status": "09:25",
-    "duration": 135,
-    "play_url": ""
+    "duration": 125,
+    "play_url": "https://www.disneyplus.com/es-es/play/56cbce2b-473e-4714-a58d-b0faed0044a3",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1759157045~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F28%2FBristol_Bears_vs_Leiceste_20250928_1759062301039%2F~psid=1e34f045-9ae8-4131-adac-fe6b73037c89~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=3eda902e014a92d7c5fd37ceb3b52e1c9216568443ca75fb5d731d7200c87f60/clt1/va02/disneyplus/event/2025/09/28/Bristol_Bears_vs_Leiceste_20250928_1759062301039/ctr-all-hdri-complete.m3u8?v=1&hash=5b1e8ac8f252f05a1e653f57b6f8ee35b8533186",
+    "k1": "86cd5e98ab2240228d6fffe5ef042575",
+    "k2": "8eaf5ed5dec75f7f211575693cd6add5"
   },
   {
     "title": "Lille vs. Lyon",
@@ -598,6 +591,16 @@
     "img": "33f8b056-98b7-4660-a3c7-1587f261c3ac",
     "nombre": "disney5f541a",
     "status": "22:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "China Open / Court 5 (Doubles Quarterfinals)",
+    "league": "ATP",
+    "fecha-evento": "2025-09-28T23:00:00-05:00",
+    "img": "4c92a8f9-a717-4c5f-89e7-5e336386c09b",
+    "nombre": "disneya09146",
+    "status": "23:00",
     "duration": 135,
     "play_url": ""
   }
