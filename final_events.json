@@ -39,16 +39,6 @@
     "k2": "59d7b8fa6c8f0cd67b83f9f85a4c6bbd"
   },
   {
-    "title": "Washington Capitals vs. New Jersey Devils",
-    "league": "National Hockey League",
-    "fecha-evento": "2025-09-28T14:00:00-05:00",
-    "img": "2d049ff3-5828-42b1-a676-1e3c4560fddf",
-    "nombre": "disney57058e",
-    "status": "14:00",
-    "duration": 210,
-    "play_url": "https://www.disneyplus.com/es-es/play/ee0484cf-cca8-427e-ad09-033cada408a1"
-  },
-  {
     "title": "Chicago Bears vs. Las Vegas Raiders",
     "league": "NFL",
     "fecha-evento": "2025-09-28T15:20:00-05:00",
@@ -179,16 +169,6 @@
     "fecha-evento": "2025-09-28T22:00:00-05:00",
     "img": "0ed16152-5c52-41b5-8775-7c38e7f2f8b8",
     "nombre": "disney09063b",
-    "status": "22:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "China Open / Lotus Court (Doubles)",
-    "league": "ATP",
-    "fecha-evento": "2025-09-28T22:00:00-05:00",
-    "img": "f5d7c938-e1da-4c72-81c8-b77e20b966d7",
-    "nombre": "disney0fb2fe",
     "status": "22:00",
     "duration": 135,
     "play_url": ""
@@ -550,6 +530,26 @@
     "img": "727a784d-4997-432a-8a2f-ec8cbdd04fb0",
     "nombre": "disney5257be",
     "status": "08:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Fórmula S",
+    "league": "Formula S",
+    "fecha-evento": "2025-09-30T11:00:00-05:00",
+    "img": "0e5b44e9-cae9-43e6-a54e-c6547d0eed76",
+    "nombre": "disney71277d",
+    "status": "11:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "La Hache Cría & Polo vs. Los Machitos | Semifinal Subsidiaria",
+    "league": "Abierto de Hurlingham",
+    "fecha-evento": "2025-09-30T11:25:00-05:00",
+    "img": "c20c953e-4f24-4d89-89d4-23484e8216f7",
+    "nombre": "disneye51261",
+    "status": "11:25",
     "duration": 135,
     "play_url": ""
   }
