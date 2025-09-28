@@ -10,16 +10,6 @@
     "play_url": "https://www.disneyplus.com/es-es/play/ae6266ad-7466-4e24-a22e-e19bb0853524"
   },
   {
-    "title": "Minnesota Vikings vs. Pittsburgh Steelers",
-    "league": "NFL",
-    "fecha-evento": "2025-09-28T08:30:00-05:00",
-    "img": "cbaba51e-ea28-4683-9cce-3479dde153f8",
-    "nombre": "disneyc94c11",
-    "status": "08:30",
-    "duration": 180,
-    "play_url": "https://www.disneyplus.com/es-es/play/f3e27b92-13c1-4c1f-902f-f5714c8c1ae3"
-  },
-  {
     "title": "Lille vs. Lyon",
     "league": "Ligue 1",
     "fecha-evento": "2025-09-28T10:04:00-05:00",
@@ -185,12 +175,28 @@
   {
     "title": "Fenerbahce vs. Antalyaspor",
     "league": "Super Lig de Turquía",
-    "fecha-evento": "2025-09-28T11:50:00-05:00",
+    "fecha-evento": "2025-09-28T11:50:04-05:00",
     "img": "088c9172-54cc-4981-8de0-e86e6b56709d",
-    "nombre": "disney42431b",
+    "nombre": "disney770bc1",
     "status": "11:50",
-    "duration": 135,
-    "play_url": ""
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/d48b3838-cfba-4eee-9769-37931b66384c",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1759165329~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F28%2FFenerbahce_vs_Antalyaspor_20250928_1759071053027%2F~psid=a9cb3ca4-066c-4c44-8c26-524040b1f378~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=097c999be76085ad6f88c325ba19999a1fbb10f0742f36e413e22b3be2508365/clt1/va02/disneyplus/event/2025/09/28/Fenerbahce_vs_Antalyaspor_20250928_1759071053027/ctr-all-hdri-complete.m3u8?v=1&hash=70b2a74d44cdb3e91bb8d6e832036f0ea51022de",
+    "k1": "fbf740136d914abd8982377bedfafd20",
+    "k2": "bae455a1d0bd4b3e7f5fc7a715fb62a5"
+  },
+  {
+    "title": "Philadelphia Eagles vs. Tampa Bay Buccaneers",
+    "league": "NFL",
+    "fecha-evento": "2025-09-28T12:00:00-05:00",
+    "img": "d6cd9627-1d40-447d-a93a-484bd589928f",
+    "nombre": "disney5b6bf2",
+    "status": "12:00",
+    "duration": 180,
+    "play_url": "https://www.disneyplus.com/es-es/play/ef419811-b4d2-4418-8b17-9a0d3bc49d29",
+    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759165352~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F7f9052ce-8143-43a6-9656-a8c00c4a3e56-1756223111094%2F~psid=63b9be45-d3d3-4968-a266-c9299c79cba8~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=c7848d381f35516dd652427497cc94765d75f649ad67a56d50c492d443d54b9e/clt1/va02/disneyplus/channel/7f9052ce-8143-43a6-9656-a8c00c4a3e56-1756223111094/ctr-all-sliding.m3u8?v=1&hash=2f03544b7adaaaa4f23d8a4cd7d7cec9ba48514e",
+    "k1": "f2627d4c6d194a87b37d9caa01734445",
+    "k2": "76b4a84d4fa0c993692a4e4e009ced15"
   },
   {
     "title": "Duke vs. VCU",
@@ -228,16 +234,6 @@
     "fecha-evento": "2025-09-28T12:00:00-05:00",
     "img": "f624f653-bbe3-49d1-8af5-03f00b82a513",
     "nombre": "disney8c2d4a",
-    "status": "12:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Philadelphia Eagles vs. Tampa Bay Buccaneers",
-    "league": "NFL",
-    "fecha-evento": "2025-09-28T12:00:00-05:00",
-    "img": "d6cd9627-1d40-447d-a93a-484bd589928f",
-    "nombre": "disney5b6bf2",
     "status": "12:00",
     "duration": 135,
     "play_url": ""
@@ -649,6 +645,16 @@
     "img": "1a8f0cb8-6706-4741-9a17-5daa35b96631",
     "nombre": "disneyc9f01e",
     "status": "11:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Al Duhail (QAT) vs. Al Ahli Saudi (KSA)",
+    "league": "AFC Champions League",
+    "fecha-evento": "2025-09-29T13:10:00-05:00",
+    "img": "8bdc49f6-8bfb-4ec8-8fe9-18be6032bade",
+    "nombre": "disney9eeaff",
+    "status": "13:10",
     "duration": 135,
     "play_url": ""
   }
