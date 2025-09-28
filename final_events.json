@@ -88,19 +88,6 @@
     "k2": "2ed08f28fb79c703a952442e72e83660"
   },
   {
-    "title": "China Open / Court 5 (Doubles Quarterfinals)",
-    "league": "ATP",
-    "fecha-evento": "2025-09-28T00:02:12-05:00",
-    "img": "4c92a8f9-a717-4c5f-89e7-5e336386c09b",
-    "nombre": "disney3e9e38",
-    "status": "00:02",
-    "duration": 118,
-    "play_url": "https://www.disneyplus.com/es-es/play/5a154db4-cffc-4ee5-890f-bde29961aefa",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759123522~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F28%2FChina_Open_Court_5_Double_20250928_1759028407027%2F~psid=8626cd0b-d74e-48e2-ac3e-cf03f4b26a0a~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=4a02072476d06e529878ee938f769f272560f8b99d5b43c3bf00b6a4dd1e09cc/clt1/va02/disneyplus/event/2025/09/28/China_Open_Court_5_Double_20250928_1759028407027/ctr-all-hdri-complete.m3u8?v=1&hash=3932625a7f6881824a53e523f6b253cb45f83b99",
-    "k1": "dc64204aba2e443c994ad7fb79d1ab00",
-    "k2": "930283d7c0e7f18a4c4fedd20ce38e18"
-  },
-  {
     "title": "China Open / Lotus Court",
     "league": "ATP",
     "fecha-evento": "2025-09-28T00:00:00-05:00",
@@ -600,7 +587,7 @@
     "title": "Philadelphia Eagles vs. Tampa Bay Buccaneers",
     "league": "NFL",
     "fecha-evento": "2025-09-28T12:00:00-05:00",
-    "img": "35de9656-15bc-43f3-930d-b5f22bbe6e4a",
+    "img": "d6cd9627-1d40-447d-a93a-484bd589928f",
     "nombre": "disney5b6bf2",
     "status": "12:00",
     "duration": 135,
@@ -620,7 +607,7 @@
     "title": "Union Berlin vs. Hamburger SV",
     "league": "Bundesliga",
     "fecha-evento": "2025-09-28T12:20:00-05:00",
-    "img": "8c5f1777-7928-4430-9f25-650e122a6af8",
+    "img": "7811a275-9510-415e-bc39-9647f069b9b8",
     "nombre": "disneybf5c6f",
     "status": "12:20",
     "duration": 135,
@@ -642,6 +629,16 @@
     "fecha-evento": "2025-09-28T13:00:00-05:00",
     "img": "2685cd23-899e-4e0f-a0f2-8fdbb11f8e1f",
     "nombre": "disney4e5bd8",
+    "status": "13:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Racing Club vs. Independiente",
+    "league": "Liga Profesional de Fútbol",
+    "fecha-evento": "2025-09-28T13:00:00-05:00",
+    "img": "72cb8a34-449e-4e89-be09-a7da47400b4e",
+    "nombre": "disney17d168",
     "status": "13:00",
     "duration": 135,
     "play_url": ""
