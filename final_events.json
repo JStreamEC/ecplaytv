@@ -10,19 +10,6 @@
     "play_url": ""
   },
   {
-    "title": "#15 Tennessee vs. Mississippi State",
-    "league": "Fútbol Americano NCAA",
-    "fecha-evento": "2025-09-27T15:14:41-05:00",
-    "img": "140dc37a-de36-4af7-a2e3-d580d361f011",
-    "nombre": "disney363a11",
-    "status": "15:14",
-    "duration": 180,
-    "play_url": "https://www.disneyplus.com/es-es/play/6035ed71-9303-4961-9fc9-1ee6aaf3ecb2",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759090975~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F27%2F15_Tennessee_vs_Mississip_20250927_1758997184436%2F~psid=1a0e208f-5912-4912-aaed-6ba277091639~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=de101c76c321592d371fa866e78cad9447687d75673e613fd150769d3028601b/clt1/va02/disneyplus/event/2025/09/27/15_Tennessee_vs_Mississip_20250927_1758997184436/ctr-all-hdri-complete.m3u8?v=1&hash=ca051d5aa827740e12da8098b06f7c1496d4acb2",
-    "k1": "e03cb0b962a04c5280bd7ee720e46ee1",
-    "k2": "7f5b6d10c60a01ff5690fd4002d5a725"
-  },
-  {
     "title": "Memphis vs. Florida Atlantic",
     "league": "Fútbol Americano NCAA",
     "fecha-evento": "2025-09-27T18:00:00-05:00",
@@ -156,8 +143,11 @@
     "img": "254772fa-1c12-45cb-a60a-6a2f10c308aa",
     "nombre": "disneya5738c",
     "status": "19:30",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/03cfe44a-0ce3-4eba-90b2-91d4c50916c9",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1759106461~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F28%2FSan_Antonio_FC_vs_Birming_20250928_1759012205023%2F~psid=778374b0-2819-4606-a451-ae3a7bc6228e~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=29f25d345f11bf73fd676ab65d19eabba2b93d9e605ad6c066ab12f469a200aa/clt1/va02/disneyplus/event/2025/09/28/San_Antonio_FC_vs_Birming_20250928_1759012205023/ctr-all-hdri-complete.m3u8?v=1&hash=0379b6e65cf87f76141607450261f6d6602bde8a",
+    "k1": "2eead5abc51c41e68b64765cfa388cbc",
+    "k2": "07ac41cc2bbb045a4509cfed17575090"
   },
   {
     "title": "Counties Manukau vs. Manawatu (Fecha #9)",
@@ -646,6 +636,16 @@
     "img": "e2d3ceb7-3d74-4fe8-85bc-1f65662302ce",
     "nombre": "disney6c1fbd",
     "status": "10:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Newcastle United vs. Arsenal",
+    "league": "Premier League",
+    "fecha-evento": "2025-09-28T10:10:00-05:00",
+    "img": "5741c959-9ce8-4b1d-b2b0-2292a5c96745",
+    "nombre": "disney49e40e",
+    "status": "10:10",
     "duration": 135,
     "play_url": ""
   }
