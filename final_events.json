@@ -109,21 +109,21 @@
     "play_url": ""
   },
   {
-    "title": "San Jose Sharks vs. Anaheim Ducks",
-    "league": "National Hockey League",
-    "fecha-evento": "2025-09-29T21:00:00-05:00",
-    "img": "35e615c6-06b5-467b-b509-9a933e76dec8",
-    "nombre": "disney774e2d",
-    "status": "21:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Calgary Flames vs. Seattle Kraken",
     "league": "National Hockey League",
     "fecha-evento": "2025-09-29T21:00:00-05:00",
     "img": "1b822fbd-efb6-41dc-98ef-b1ba667611c4",
     "nombre": "disney3e35b8",
+    "status": "21:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "San Jose Sharks vs. Anaheim Ducks",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-09-29T21:00:00-05:00",
+    "img": "35e615c6-06b5-467b-b509-9a933e76dec8",
+    "nombre": "disney774e2d",
     "status": "21:00",
     "duration": 135,
     "play_url": ""
@@ -535,6 +535,16 @@
     "img": "00653c2a-9c5a-46bc-9122-8f725be388d5",
     "nombre": "disney880656",
     "status": "19:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "En Español-Indiana Fever vs. Las Vegas Aces (Semifinals, Game 5)",
+    "league": "WNBA",
+    "fecha-evento": "2025-09-30T20:30:00-05:00",
+    "img": "03e6eb2d-bb82-46f2-ab06-8718969e0f11",
+    "nombre": "disney52d56c",
+    "status": "20:30",
     "duration": 135,
     "play_url": ""
   }
