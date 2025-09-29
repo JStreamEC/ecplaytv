@@ -106,21 +106,21 @@
     "play_url": ""
   },
   {
-    "title": "New York Rangers vs. New York Islanders",
-    "league": "National Hockey League",
-    "fecha-evento": "2025-09-29T18:00:00-05:00",
-    "img": "d4d3da59-23f3-49dc-9a1b-669d90b8b73e",
-    "nombre": "disney00df22",
-    "status": "18:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Philadelphia Flyers vs. Boston Bruins",
     "league": "National Hockey League",
     "fecha-evento": "2025-09-29T18:00:00-05:00",
     "img": "8313496f-ab09-4281-aac3-63e738de4383",
     "nombre": "disney9ee2d0",
+    "status": "18:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "New York Rangers vs. New York Islanders",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-09-29T18:00:00-05:00",
+    "img": "d4d3da59-23f3-49dc-9a1b-669d90b8b73e",
+    "nombre": "disney00df22",
     "status": "18:00",
     "duration": 135,
     "play_url": ""
@@ -319,7 +319,7 @@
     "title": "Kairat Almaty vs. Real Madrid",
     "league": "UEFA Champions League",
     "fecha-evento": "2025-09-30T11:30:00-05:00",
-    "img": "b5b7ca58-7188-43f0-9bca-7f926e423341",
+    "img": "9c6931d7-b6ba-4bbc-bec4-4a3f5c4b5cf2",
     "nombre": "disney14f836",
     "status": "11:30",
     "duration": 135,
@@ -436,11 +436,11 @@
     "play_url": ""
   },
   {
-    "title": "Cincinnati Reds vs. Los Angeles Dodgers",
+    "title": "San Diego Padres vs. Chicago Cubs",
     "league": "MLB",
     "fecha-evento": "2025-09-30T14:00:00-05:00",
-    "img": "70662117-5dca-40fe-b90f-d97f486982fc",
-    "nombre": "disney3908a3",
+    "img": "15d8d010-a199-4897-a359-675ab50f8a10",
+    "nombre": "disney64a7d0",
     "status": "14:00",
     "duration": 135,
     "play_url": ""
@@ -521,6 +521,16 @@
     "fecha-evento": "2025-09-30T19:00:00-05:00",
     "img": "875c70f3-9dbf-4eef-98fd-24acc7037a96",
     "nombre": "disney50549d",
+    "status": "19:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Moca FC vs. SV Robinhood (Round #5)",
+    "league": "Concacaf Caribbean Cup",
+    "fecha-evento": "2025-09-30T19:00:00-05:00",
+    "img": "0aec92e7-6143-4d31-9d7f-c2b4a5324491",
+    "nombre": "disney2a5e5c",
     "status": "19:00",
     "duration": 135,
     "play_url": ""
