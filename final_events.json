@@ -1,31 +1,5 @@
 [
   {
-    "title": "China Open (Quarterfinals)",
-    "league": "ATP",
-    "fecha-evento": "2025-09-29T06:00:09-05:00",
-    "img": "5c81896d-aca3-440b-8d76-dceb5a176df5",
-    "nombre": "disney34bf3f",
-    "status": "06:00",
-    "duration": 240,
-    "play_url": "https://www.disneyplus.com/es-es/play/b65a5c9c-bf72-47b6-b917-3f038c444d79",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1759231221~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F29%2FChina_Open_Quarterfinals_20250929_1759136437026%2F~psid=e8ac2f46-3a18-4cd9-a1e4-09c6fd0aecf3~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=c14c11e607c3e4175d4d2b4ed6795c212ddfeb6119b648621587a5ecf9f70dd6/clt1/va02/disneyplus/event/2025/09/29/China_Open_Quarterfinals_20250929_1759136437026/ctr-all-hdri-complete.m3u8?v=1&hash=64e885d7a73c05222653b80ce91eb6be987d388f",
-    "k1": "9c7f25527905446596effc131c9e5dfb",
-    "k2": "5d9cc8a522410bdf63b133c313be52d5"
-  },
-  {
-    "title": "China Open / Capital Group Diamond (Quarterfinals)",
-    "league": "ATP",
-    "fecha-evento": "2025-09-29T07:30:00-05:00",
-    "img": "0f2095e3-3192-4d23-b41a-f2587cd48ae5",
-    "nombre": "disney97a2d0",
-    "status": "07:30",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/f6d743cd-1b32-4fa3-9526-8e26d1f5acc2",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759236021~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F29%2FChina_Open_Capital_Group__20250929_1759141852036%2F~psid=576a8323-d959-4384-9e33-ea7f09fa7ce0~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=7dc034cebf24e8a606d22875711047df1aa6f8a7f1f186d771e76290832bdf40/clt1/va02/disneyplus/event/2025/09/29/China_Open_Capital_Group__20250929_1759141852036/ctr-all-hdri-complete.m3u8?v=1&hash=8f657f43ea428ffb25e040442505f1663365f021",
-    "k1": "7d3f8483dc0d45b4bd16c5f42af5240d",
-    "k2": "0ee57a27a3d08a80f3fc7819c5c31758"
-  },
-  {
     "title": "Nasaf (UZB) vs. Al Hilal (KSA)",
     "league": "AFC Champions League",
     "fecha-evento": "2025-09-29T08:30:04-05:00",
@@ -101,9 +75,9 @@
   {
     "title": "Valencia vs. Oviedo",
     "league": "LALIGA",
-    "fecha-evento": "2025-09-29T13:50:00-05:00",
+    "fecha-evento": "2025-09-30T13:50:00-05:00",
     "img": "5f1ad933-47ae-4cac-adb9-084e59679510",
-    "nombre": "disney477615",
+    "nombre": "disney78ad7e",
     "status": "13:50",
     "duration": 135,
     "play_url": ""
@@ -525,6 +499,26 @@
     "img": "565799a9-708d-438f-a64e-9ee5fbe4e162",
     "nombre": "disney66f803",
     "status": "18:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Detroit Red Wings vs. Chicago Blackhawks",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-09-30T19:00:00-05:00",
+    "img": "8d52cd91-095a-4e71-9b25-8c99538f953b",
+    "nombre": "disney146deb",
+    "status": "19:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Dallas Stars vs. St. Louis Blues",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-09-30T19:00:00-05:00",
+    "img": "a9694475-bdbb-4d92-8fd4-110a59cb3900",
+    "nombre": "disney3b6fef",
+    "status": "19:00",
     "duration": 135,
     "play_url": ""
   }
