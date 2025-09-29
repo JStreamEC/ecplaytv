@@ -1,18 +1,5 @@
 [
   {
-    "title": "Genoa vs. Lazio",
-    "league": "Seria A",
-    "fecha-evento": "2025-09-29T13:30:00-05:00",
-    "img": "2c25b13a-d3b5-4490-85dd-0a4f3f013fd8",
-    "nombre": "disney62b27a",
-    "status": "13:30",
-    "duration": 135,
-    "play_url": "https://www.disneyplus.com/es-es/play/4fa840b1-963d-4f01-abdd-1cdf2e474552",
-    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759257620~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Fec26a05e-a9cc-4db4-804e-77465738e667-1759161480119%2F~psid=cfd455f5-20f5-41d3-834a-b3343965e3be~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=676e735b8acb4a643f7ad0a9118a74b6c4cea26f4ba6b8ddd928b930677702ab/clt1/va02/disneyplus/channel/ec26a05e-a9cc-4db4-804e-77465738e667-1759161480119/ctr-all-sliding-alt1.m3u8?v=1&hash=fc8ba513d5ff3c3ef65adebc04b6db0d18faf1a5",
-    "k1": "d8a118d4b6cd403d9c91f6096831a8ef",
-    "k2": "66453d960743aa1766c466a84c4fb2f1"
-  },
-  {
     "title": "Racing vs. Progreso",
     "league": "Campeonato Uruguayo",
     "fecha-evento": "2025-09-29T13:45:00-05:00",
@@ -24,19 +11,6 @@
     "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1759258819~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F29%2FRacing_vs_Progreso_20250929_1759164349026%2F~psid=3b1bb765-3fbb-4f0b-95ba-986a635243e1~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=915477910d6899573593e394698b82f2dccd34c5f97f3d49da486e86474a33f5/clt1/va02/disneyplus/event/2025/09/29/Racing_vs_Progreso_20250929_1759164349026/ctr-all-hdri-complete.m3u8?v=1&hash=9696d35ca744493879bf455bfb8f23f244713548",
     "k1": "8ad6bddb521b45c5b5115845ba6b2112",
     "k2": "da0d8360884f312a1c31976bd542ff9b"
-  },
-  {
-    "title": "Everton vs. West Ham United",
-    "league": "Premier League",
-    "fecha-evento": "2025-09-29T13:50:00-05:00",
-    "img": "350789e7-f0f6-40fa-9382-09333bb650ec",
-    "nombre": "disneyc353a0",
-    "status": "13:50",
-    "duration": 125,
-    "play_url": "https://www.disneyplus.com/es-es/play/3a35967b-d284-4800-b7e0-019e54424f61",
-    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759258862~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F921e1311-bb26-43dd-84a6-9e2284959712-1756222679255%2F~psid=2299ba2f-c496-43a4-bbe6-5908b6494486~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=4313903540f02e480be5db2e5c8f309fcb9fdf16973d6e3e17c7c159b47bc6f3/clt1/va02/disneyplus/channel/921e1311-bb26-43dd-84a6-9e2284959712-1756222679255/ctr-all-sliding.m3u8?v=1&hash=c2eebfbadec853d4e3ca4fa1a9f9011e0c7562b2",
-    "k1": "c3ec2f12ec7c4560b9f180bc8bb1cae4",
-    "k2": "9852b5227a679cc9a59689c4c678548e"
   },
   {
     "title": "Carolina Hurricanes vs. Florida Panthers",
@@ -545,6 +519,26 @@
     "img": "03e6eb2d-bb82-46f2-ab06-8718969e0f11",
     "nombre": "disney52d56c",
     "status": "20:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "FC Motagua vs. LD Alajuelense (Quarterfinals, Leg 2)",
+    "league": "Concacaf Central American Cup",
+    "fecha-evento": "2025-09-30T20:50:00-05:00",
+    "img": "0674b7f4-d865-48cb-b6b8-4bf1f94c1fdc",
+    "nombre": "disney42c8c8",
+    "status": "20:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "China Open / Capital Group Diamond (Doubles Final)",
+    "league": "ATP",
+    "fecha-evento": "2025-09-30T22:30:00-05:00",
+    "img": "0f2095e3-3192-4d23-b41a-f2587cd48ae5",
+    "nombre": "disney4809fa",
+    "status": "22:30",
     "duration": 135,
     "play_url": ""
   }
