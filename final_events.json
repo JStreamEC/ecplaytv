@@ -1,18 +1,5 @@
 [
   {
-    "title": "WTA China Open (Third Round)",
-    "league": "WTA",
-    "fecha-evento": "2025-09-28T22:00:00-05:00",
-    "img": "0ed16152-5c52-41b5-8775-7c38e7f2f8b8",
-    "nombre": "disney09063b",
-    "status": "22:00",
-    "duration": 600,
-    "play_url": "https://www.disneyplus.com/es-es/play/921dab89-342d-4d93-a01c-2bc8947b4f51",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1759202420~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F29%2FWTA_China_Open_Third_Roun_20250929_1759107617042%2F~psid=7e169d61-b711-4d0b-8ecc-d5e6d2de44e4~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=d4a8df1420c0cf0f8833ba6ec0cc01384745bf8540cd0678c00b4aaf3c7ed4bb/clt1/va02/disneyplus/event/2025/09/29/WTA_China_Open_Third_Roun_20250929_1759107617042/ctr-all-hdri-complete.m3u8?v=1&hash=71f705907fb8613b0432a27b4c45f88a723ee1cb",
-    "k1": "29f408de8c964be2ac24e93069204c44",
-    "k2": "f0283d643208096eeb7ace765aa67a6c"
-  },
-  {
     "title": "WTA China Open / Brad Drewett (Doubles)",
     "league": "WTA",
     "fecha-evento": "2025-09-28T22:00:06-05:00",
@@ -24,19 +11,6 @@
     "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1759202506~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F29%2FWTA_China_Open_Brad_Drewe_20250929_1759107643027%2F~psid=9de2472a-5619-4bcd-ae58-e457539f2cac~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=096005ed1fa1d9a9aa266667a920d5c3ac02ee69adc42a6295f34889b3efac72/clt1/va02/disneyplus/event/2025/09/29/WTA_China_Open_Brad_Drewe_20250929_1759107643027/ctr-all-hdri-complete.m3u8?v=1&hash=773ef1a783b451c8a3836a82c2120a5618ded3e8",
     "k1": "c50a706439ad4b69b7f089d83304e40d",
     "k2": "bf94abcbe61364fe59273e83a5e5404d"
-  },
-  {
-    "title": "WTA China Open / Moon Court",
-    "league": "WTA",
-    "fecha-evento": "2025-09-28T23:30:00-05:00",
-    "img": "05ba8fab-cd55-4d72-a591-1ba113ca98af",
-    "nombre": "disneya4dfcd",
-    "status": "23:30",
-    "duration": 360,
-    "play_url": "https://www.disneyplus.com/es-es/play/a7d1193c-238f-4c6d-a653-3bbe5d09ddc8",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759207218~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F29%2FWTA_China_Open_Moon_Court_20250929_1759114305441%2F~psid=46bb28f0-dd62-4758-b6f1-8c08a87d3ccc~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=97cf288ccf17df6b1be03983569a9d1daa687a3b23e5cd15b4260b8bb88f6164/clt1/va02/disneyplus/event/2025/09/29/WTA_China_Open_Moon_Court_20250929_1759114305441/ctr-all-hdri-complete.m3u8?v=1&hash=35850700cf779768f4da30d4b38c0b37ab697ecb",
-    "k1": "9ced2a7b3aba41359f34ee51434f65c9",
-    "k2": "b038262800d642063cb237359abac801"
   },
   {
     "title": "WTA China Open / Lotus Court",
@@ -524,6 +498,26 @@
     "img": "15d8d010-a199-4897-a359-675ab50f8a10",
     "nombre": "disney64a7d0",
     "status": "14:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Boston Red Sox vs. New York Yankees",
+    "league": "MLB",
+    "fecha-evento": "2025-09-30T15:55:00-05:00",
+    "img": "081e9ef5-e962-44ae-91be-f4438d96a7e3",
+    "nombre": "disney5e0344",
+    "status": "15:55",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Florida Panthers vs. Tampa Bay Lightning",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-09-30T18:00:00-05:00",
+    "img": "ba32e4fc-09ae-458e-85fb-805d520cfe84",
+    "nombre": "disney81aeed",
+    "status": "18:00",
     "duration": 135,
     "play_url": ""
   }
