@@ -1,18 +1,5 @@
 [
   {
-    "title": "WTA China Open / Lotus Court",
-    "league": "WTA",
-    "fecha-evento": "2025-09-29T00:00:09-05:00",
-    "img": "00c0c198-89af-46b7-b2ac-1d28f5894c4b",
-    "nombre": "disneyf53776",
-    "status": "00:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/b1a69fae-2aec-4f00-a8e6-d7607206e42d",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759209703~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F29%2FWTA_China_Open_Lotus_Cour_20250929_1759114855043%2F~psid=a734b48a-31a9-40a9-bbf2-e6fc5d545cf8~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=51bdc6baf660fe60029aa9beab801ae0a05ac958acda0d0d83dcba2caf722c87/clt1/va02/disneyplus/event/2025/09/29/WTA_China_Open_Lotus_Cour_20250929_1759114855043/ctr-all-hdri-complete.m3u8?v=1&hash=dbf6cf6ba5aee99daf521749612f9920a9467edd",
-    "k1": "f6e35858547844aeafff70686afa1cc3",
-    "k2": "9d76146ad697521a60f367473d663951"
-  },
-  {
     "title": "Kinoshita Group Japan Open (Semifinals)",
     "league": "ATP",
     "fecha-evento": "2025-09-29T02:00:04-05:00",
@@ -39,24 +26,30 @@
     "k2": "6afd3fed8123415756abaf637dc022a6"
   },
   {
-    "title": "WTA China Open / Capital Group Diamond",
-    "league": "WTA",
-    "fecha-evento": "2025-09-29T06:00:00-05:00",
-    "img": "0f2095e3-3192-4d23-b41a-f2587cd48ae5",
-    "nombre": "disney95db7a",
-    "status": "06:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "China Open (Quarterfinals)",
     "league": "ATP",
-    "fecha-evento": "2025-09-29T06:00:00-05:00",
-    "img": "2c22ff61-9509-45e7-93ef-bd1164aa7d26",
-    "nombre": "disneyab3246",
+    "fecha-evento": "2025-09-29T06:00:09-05:00",
+    "img": "5c81896d-aca3-440b-8d76-dceb5a176df5",
+    "nombre": "disney34bf3f",
     "status": "06:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 240,
+    "play_url": "https://www.disneyplus.com/es-es/play/b65a5c9c-bf72-47b6-b917-3f038c444d79",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1759231221~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F29%2FChina_Open_Quarterfinals_20250929_1759136437026%2F~psid=e8ac2f46-3a18-4cd9-a1e4-09c6fd0aecf3~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=c14c11e607c3e4175d4d2b4ed6795c212ddfeb6119b648621587a5ecf9f70dd6/clt1/va02/disneyplus/event/2025/09/29/China_Open_Quarterfinals_20250929_1759136437026/ctr-all-hdri-complete.m3u8?v=1&hash=64e885d7a73c05222653b80ce91eb6be987d388f",
+    "k1": "9c7f25527905446596effc131c9e5dfb",
+    "k2": "5d9cc8a522410bdf63b133c313be52d5"
+  },
+  {
+    "title": "WTA China Open / Capital Group Diamond",
+    "league": "WTA",
+    "fecha-evento": "2025-09-29T06:00:15-05:00",
+    "img": "0f2095e3-3192-4d23-b41a-f2587cd48ae5",
+    "nombre": "disneyc5f38f",
+    "status": "06:00",
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/b519df46-4102-48e1-a177-bef0acff712e",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759231264~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F29%2FWTA_China_Open_Capital_Gr_20250929_1759136418044%2F~psid=44da33b7-a49f-42f0-9a27-5dab62884dcc~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=22a2fc7ce0483d0429a1e36de06af8792a6ab43d4fbdf8dd1c84b9daa6d83378/clt1/va02/disneyplus/event/2025/09/29/WTA_China_Open_Capital_Gr_20250929_1759136418044/ctr-all-hdri-complete.m3u8?v=1&hash=bd802152a34f5051b97a080a9a23e39e4ed85311",
+    "k1": "148360bfa872472e963060c4dceea67e",
+    "k2": "08aba717142491ff969b830ca204bf6a"
   },
   {
     "title": "China Open / Capital Group Diamond (Quarterfinals)",
@@ -244,6 +237,16 @@
     "fecha-evento": "2025-09-29T22:00:00-05:00",
     "img": "ae6ffcac-2eb8-4cd4-bbec-d213c247d2a7",
     "nombre": "disney2d513f",
+    "status": "22:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "WTA China Open / Lotus Court",
+    "league": "WTA",
+    "fecha-evento": "2025-09-29T22:00:00-05:00",
+    "img": "00c0c198-89af-46b7-b2ac-1d28f5894c4b",
+    "nombre": "disney46e31f",
     "status": "22:00",
     "duration": 135,
     "play_url": ""
@@ -504,6 +507,16 @@
     "fecha-evento": "2025-09-30T18:00:00-05:00",
     "img": "ba32e4fc-09ae-458e-85fb-805d520cfe84",
     "nombre": "disney81aeed",
+    "status": "18:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Montreal Canadiens vs. Ottawa Senators",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-09-30T18:00:00-05:00",
+    "img": "ef30be6e-1883-4e89-bac1-454f778b23a1",
+    "nombre": "disney908141",
     "status": "18:00",
     "duration": 135,
     "play_url": ""
