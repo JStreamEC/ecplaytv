@@ -32,8 +32,11 @@
     "img": "0ed16152-5c52-41b5-8775-7c38e7f2f8b8",
     "nombre": "disney09063b",
     "status": "22:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 600,
+    "play_url": "https://www.disneyplus.com/es-es/play/921dab89-342d-4d93-a01c-2bc8947b4f51",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1759202420~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F29%2FWTA_China_Open_Third_Roun_20250929_1759107617042%2F~psid=7e169d61-b711-4d0b-8ecc-d5e6d2de44e4~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=d4a8df1420c0cf0f8833ba6ec0cc01384745bf8540cd0678c00b4aaf3c7ed4bb/clt1/va02/disneyplus/event/2025/09/29/WTA_China_Open_Third_Roun_20250929_1759107617042/ctr-all-hdri-complete.m3u8?v=1&hash=71f705907fb8613b0432a27b4c45f88a723ee1cb",
+    "k1": "29f408de8c964be2ac24e93069204c44",
+    "k2": "f0283d643208096eeb7ace765aa67a6c"
   },
   {
     "title": "China Open / Lotus Court (Doubles)",
@@ -42,28 +45,37 @@
     "img": "00c0c198-89af-46b7-b2ac-1d28f5894c4b",
     "nombre": "disney0fb2fe",
     "status": "22:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "China Open / Moon Court (Doubles)",
-    "league": "ATP",
-    "fecha-evento": "2025-09-28T22:00:00-05:00",
-    "img": "05ba8fab-cd55-4d72-a591-1ba113ca98af",
-    "nombre": "disney8ff428",
-    "status": "22:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/aaecdc3b-a903-4867-8e87-7d7f282b7361",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759202463~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F29%2FChina_Open_Lotus_Court_Do_20250929_1759107600093%2F~psid=ca7fa54a-df61-4283-98b1-b71067d18098~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=7423f3c3765871653307fde9688c41f838ed7210b9544c18874946ad34e60378/clt1/va02/disneyplus/event/2025/09/29/China_Open_Lotus_Court_Do_20250929_1759107600093/ctr-all-hdri-complete.m3u8?v=1&hash=e9adef7f21f6f7ecfdcba731a3557653296d0bef",
+    "k1": "d835b3d2506746949a41eca5fc99b16d",
+    "k2": "23e2bf8a59f449581b7df13de8429bb4"
   },
   {
     "title": "WTA China Open / Brad Drewett (Doubles)",
     "league": "WTA",
-    "fecha-evento": "2025-09-28T22:00:00-05:00",
+    "fecha-evento": "2025-09-28T22:00:06-05:00",
     "img": "33f8b056-98b7-4660-a3c7-1587f261c3ac",
-    "nombre": "disney5f541a",
+    "nombre": "disney8f30f4",
     "status": "22:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 480,
+    "play_url": "https://www.disneyplus.com/es-es/play/ed40cc4d-4b1b-4e24-ad74-a551d61f591a",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1759202506~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F29%2FWTA_China_Open_Brad_Drewe_20250929_1759107643027%2F~psid=9de2472a-5619-4bcd-ae58-e457539f2cac~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=096005ed1fa1d9a9aa266667a920d5c3ac02ee69adc42a6295f34889b3efac72/clt1/va02/disneyplus/event/2025/09/29/WTA_China_Open_Brad_Drewe_20250929_1759107643027/ctr-all-hdri-complete.m3u8?v=1&hash=773ef1a783b451c8a3836a82c2120a5618ded3e8",
+    "k1": "c50a706439ad4b69b7f089d83304e40d",
+    "k2": "bf94abcbe61364fe59273e83a5e5404d"
+  },
+  {
+    "title": "China Open / Moon Court (Doubles)",
+    "league": "ATP",
+    "fecha-evento": "2025-09-28T22:03:12-05:00",
+    "img": "05ba8fab-cd55-4d72-a591-1ba113ca98af",
+    "nombre": "disney5454a0",
+    "status": "22:03",
+    "duration": 117,
+    "play_url": "https://www.disneyplus.com/es-es/play/cfaff3e6-dd35-4c71-849f-8da30b92cfaf",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759202530~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F29%2FChina_Open_Moon_Court_Dou_20250929_1759107633026%2F~psid=dcd60a80-1830-4ee6-86b3-57b9e478469f~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=1f7dc7de19dcd13a63f1cc96bab3b53ee48911991e7374d8c751ab7eea20664c/clt1/va02/disneyplus/event/2025/09/29/China_Open_Moon_Court_Dou_20250929_1759107633026/ctr-all-hdri-complete.m3u8?v=1&hash=ecf30d0acfdb490bf3c61f92be5a8cce9f393cb6",
+    "k1": "fe6f4690c266493f9fbca9ce88857156",
+    "k2": "4738a4ad77907bf6654859b1d73682a7"
   },
   {
     "title": "WTA China Open / Moon Court",
@@ -319,7 +331,7 @@
     "title": "WTA China Open (Round of 16)",
     "league": "WTA",
     "fecha-evento": "2025-09-29T22:00:00-05:00",
-    "img": "cc0343f9-103d-4ecf-81c0-e68de131e9c1",
+    "img": "ae6ffcac-2eb8-4cd4-bbec-d213c247d2a7",
     "nombre": "disney2d513f",
     "status": "22:00",
     "duration": 135,
