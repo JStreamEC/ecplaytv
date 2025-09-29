@@ -2,12 +2,15 @@
   {
     "title": "Parma vs. Torino",
     "league": "Seria A",
-    "fecha-evento": "2025-09-29T11:25:00-05:00",
+    "fecha-evento": "2025-09-29T11:24:34-05:00",
     "img": "930e7bb9-042e-4bf5-b162-20329f690133",
-    "nombre": "disneydfe8ec",
-    "status": "11:25",
-    "duration": 135,
-    "play_url": ""
+    "nombre": "disney443613",
+    "status": "11:24",
+    "duration": 125,
+    "play_url": "https://www.disneyplus.com/es-es/play/fa474586-f03d-41f0-a31f-cdddcc982809",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759250418~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F29%2FParma_vs_Torino_20250929_1759155953037%2F~psid=4ea6e116-db54-40ed-a347-7e89971e018c~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=94ec6d8c0586391393c826b6403396b348ebfcd249caa1604f91faa938b09e01/clt1/va02/disneyplus/event/2025/09/29/Parma_vs_Torino_20250929_1759155953037/ctr-all-hdri-complete.m3u8?v=1&hash=62fe385f5ab436a7e785585d29ba184e7cb9d9df",
+    "k1": "3bdde68cec0844a1ae1e3560a9cf42e4",
+    "k2": "ab6c9231d71f760960c2dd832fb8f06f"
   },
   {
     "title": "Besiktas vs. Kocaelispor",
@@ -55,16 +58,6 @@
     "fecha-evento": "2025-09-29T13:50:00-05:00",
     "img": "350789e7-f0f6-40fa-9382-09333bb650ec",
     "nombre": "disneyc353a0",
-    "status": "13:50",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Valencia vs. Oviedo",
-    "league": "LALIGA",
-    "fecha-evento": "2025-09-30T13:50:00-05:00",
-    "img": "5f1ad933-47ae-4cac-adb9-084e59679510",
-    "nombre": "disney78ad7e",
     "status": "13:50",
     "duration": 135,
     "play_url": ""
@@ -243,7 +236,7 @@
     "title": "Learner Tien (USA) (Semifinals)",
     "league": "ATP",
     "fecha-evento": "2025-09-30T04:00:00-05:00",
-    "img": "23dab9d3-264d-4693-9fd3-45f950dfb26d",
+    "img": "ed6f9b28-c074-4316-950d-0cdd175b97e6",
     "nombre": "disney6be3e0",
     "status": "04:00",
     "duration": 135,
@@ -256,6 +249,16 @@
     "img": "3f924cb0-3281-456f-a3ad-22f42fb18e6b",
     "nombre": "disneyc8a3a9",
     "status": "04:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Valencia vs. Oviedo",
+    "league": "LALIGA",
+    "fecha-evento": "2025-09-30T12:50:00-05:00",
+    "img": "5f1ad933-47ae-4cac-adb9-084e59679510",
+    "nombre": "disneybe4b15",
+    "status": "12:50",
     "duration": 135,
     "play_url": ""
   },
