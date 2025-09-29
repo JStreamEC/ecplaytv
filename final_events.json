@@ -1,62 +1,29 @@
 [
   {
-    "title": "Chicago Blackhawks vs. Minnesota Wild",
-    "league": "National Hockey League",
-    "fecha-evento": "2025-09-28T17:00:14-05:00",
-    "img": "870d45a4-878a-43e4-bf9a-053992bb2707",
-    "nombre": "disneyb2f85a",
-    "status": "17:00",
-    "duration": 210,
-    "play_url": "https://www.disneyplus.com/es-es/play/bd5e68b9-0226-404a-9841-b6cbdbdccf75",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759184419~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F28%2FChicago_Blackhawks_vs_Min_20250928_1759089611024%2F~psid=853b4b1c-f9f9-4ff1-a4be-f29287c53dc4~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=5373e404e916ac6744afcf918f7e520939aae4f05db55b3b0529cfa6718f44c1/clt1/va02/disneyplus/event/2025/09/28/Chicago_Blackhawks_vs_Min_20250928_1759089611024/ctr-all-hdri-complete.m3u8?v=1&hash=727043169aad28dcbe96f3539a1a420d27c29759",
-    "k1": "56e6cfd381ab47efa9949cba8153e9e0",
-    "k2": "3ff065739273638a02ed468afd2ce54a"
-  },
-  {
-    "title": "Westchester SC vs. Forward Madison",
-    "league": "USL League One",
-    "fecha-evento": "2025-09-28T18:00:00-05:00",
-    "img": "51c12851-6a68-4d39-996e-8d048c71a763",
-    "nombre": "disney8e21db",
-    "status": "18:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/d03ea9f5-09fd-48c3-9c23-bac6f2d321fc",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1759186819~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F28%2FWestchester_SC_vs_Forward_20250928_1759093239025%2F~psid=bd7994bb-4689-4191-81dc-4c1c237dbd05~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=4e57a1d0b229c226710f33e66e4858e3b310a3d0c66531f07d4fd7b71ef851dc/clt1/va02/disneyplus/event/2025/09/28/Westchester_SC_vs_Forward_20250928_1759093239025/ctr-all-hdri-complete.m3u8?v=1&hash=c2cadf57ecdad2a22f785b0b2cc85d4f69e092b4",
-    "k1": "ef2a830fb9824d1986f2df353fb1b4d2",
-    "k2": "22f4ea86abab145ea52e1ba101547946"
-  },
-  {
-    "title": "Miramar Misiones vs. Defensor Sporting",
-    "league": "Campeonato Uruguayo",
-    "fecha-evento": "2025-09-28T18:43:27-05:00",
-    "img": "0db318c8-8a69-4772-8dda-677c29275c62",
-    "nombre": "disneyebc41d",
-    "status": "18:43",
-    "duration": 137,
-    "play_url": "https://www.disneyplus.com/es-es/play/3a28c147-8644-4197-8759-be330e73545c",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759190418~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F28%2FMiramar_Misiones_vs_Defen_20250928_1759095949034%2F~psid=cfd970d1-fbc8-4a16-abf9-af0c1900beb3~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=d128acb21fc76a3799fc2dc0abc3dc560d92d4c595d04c6b9951ceb36d1e62b6/clt1/va02/disneyplus/event/2025/09/28/Miramar_Misiones_vs_Defen_20250928_1759095949034/ctr-all-hdri-complete.m3u8?v=1&hash=a039e53deb3b24779e0fa4b8738663747f7ec937",
-    "k1": "89f0aa9fd8924235bfb28c1feb735b8b",
-    "k2": "1791a6d971c60317963662a87dd7af9f"
-  },
-  {
-    "title": "Vancouver Canucks vs. Edmonton Oilers",
-    "league": "National Hockey League",
-    "fecha-evento": "2025-09-28T19:00:00-05:00",
-    "img": "b2174102-4862-4929-a934-3f1b592688bb",
-    "nombre": "disney09f6b3",
-    "status": "19:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Green Bay Packers vs. Dallas Cowboys",
     "league": "NFL",
     "fecha-evento": "2025-09-28T19:00:00-05:00",
     "img": "1d78c397-2645-48d7-aeee-c78e7883800b",
     "nombre": "disney4b9f8c",
     "status": "19:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 210,
+    "play_url": "https://www.disneyplus.com/es-es/play/62daed32-0783-43df-9f8a-5ff2c85b2360",
+    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759191618~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Ff25bdf06-81c9-4a7c-b128-3128d610ad17-1756223551993%2F~psid=c2a3523c-e089-4df4-aa52-23f7e4f85bff~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=2bb996612a61435d555bcf964a22eab1389243e82ae1179fc1615133c536bfeb/clt1/va02/disneyplus/channel/f25bdf06-81c9-4a7c-b128-3128d610ad17-1756223551993/ctr-all-sliding.m3u8?v=1&hash=aa8d2bb37fafb9b8d31c8b8095cb65f827b67eb8",
+    "k1": "48a05662f1a248e187df31fb7ea8fa63",
+    "k2": "18b1669ba987c9027fd1d26d9a253d86"
+  },
+  {
+    "title": "Vancouver Canucks vs. Edmonton Oilers",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-09-28T19:00:05-05:00",
+    "img": "b2174102-4862-4929-a934-3f1b592688bb",
+    "nombre": "disney464508",
+    "status": "19:00",
+    "duration": 210,
+    "play_url": "https://www.disneyplus.com/es-es/play/30e62524-076e-42fe-be25-48df9ba5cca0",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1759191662~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F29%2FVancouver_Canucks_vs_Edmo_20250929_1759096830029%2F~psid=c596c015-a792-42c9-94b7-3fdb8c8c2b3f~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=b41d421617781cfb23efe1c9f1b41450d1f235919f0f4d3e71f63e96aeb6775e/clt1/va02/disneyplus/event/2025/09/29/Vancouver_Canucks_vs_Edmo_20250929_1759096830029/ctr-all-hdri-complete.m3u8?v=1&hash=c5096c0ee0bca9923c041ee342f2179a2af0d750",
+    "k1": "13786f4f62514effb93c5c6c479a3816",
+    "k2": "5e5f43dd871bd0690ba71bbafe519048"
   },
   {
     "title": "UC Santa Barbara vs. Hawai'i",
@@ -514,6 +481,36 @@
     "fecha-evento": "2025-09-30T13:40:00-05:00",
     "img": "12e4ea33-4924-4ce3-b125-74470b7ff27e",
     "nombre": "disney0312ee",
+    "status": "13:40",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "FK Bodø/Glimt vs. Tottenham Hotspur",
+    "league": "UEFA Champions League",
+    "fecha-evento": "2025-09-30T13:40:00-05:00",
+    "img": "20ab6a16-016d-40e9-aa3a-5ce87cfa9a99",
+    "nombre": "disneycefb76",
+    "status": "13:40",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Atletico Madrid vs. Eintracht Frankfurt",
+    "league": "UEFA Champions League",
+    "fecha-evento": "2025-09-30T13:40:00-05:00",
+    "img": "5ad39df3-4c9d-4d20-b559-012129e341dd",
+    "nombre": "disney0bc69b",
+    "status": "13:40",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Galatasaray vs. Liverpool",
+    "league": "UEFA Champions League",
+    "fecha-evento": "2025-09-30T13:40:00-05:00",
+    "img": "fe420013-35ac-4ad5-9ad1-3186b5066dd5",
+    "nombre": "disneybd136c",
     "status": "13:40",
     "duration": 135,
     "play_url": ""
