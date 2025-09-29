@@ -1,31 +1,5 @@
 [
   {
-    "title": "Green Bay Packers vs. Dallas Cowboys",
-    "league": "NFL",
-    "fecha-evento": "2025-09-28T19:00:00-05:00",
-    "img": "1d78c397-2645-48d7-aeee-c78e7883800b",
-    "nombre": "disney4b9f8c",
-    "status": "19:00",
-    "duration": 210,
-    "play_url": "https://www.disneyplus.com/es-es/play/62daed32-0783-43df-9f8a-5ff2c85b2360",
-    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759191618~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Ff25bdf06-81c9-4a7c-b128-3128d610ad17-1756223551993%2F~psid=c2a3523c-e089-4df4-aa52-23f7e4f85bff~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=2bb996612a61435d555bcf964a22eab1389243e82ae1179fc1615133c536bfeb/clt1/va02/disneyplus/channel/f25bdf06-81c9-4a7c-b128-3128d610ad17-1756223551993/ctr-all-sliding.m3u8?v=1&hash=aa8d2bb37fafb9b8d31c8b8095cb65f827b67eb8",
-    "k1": "48a05662f1a248e187df31fb7ea8fa63",
-    "k2": "18b1669ba987c9027fd1d26d9a253d86"
-  },
-  {
-    "title": "UC Santa Barbara vs. Hawai'i",
-    "league": "Fútbol Femenino NCAA",
-    "fecha-evento": "2025-09-28T20:59:48-05:00",
-    "img": "6102e788-0db5-478d-bb8e-033a649dc715",
-    "nombre": "disney67fb54",
-    "status": "20:59",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/9380b0b4-485c-4994-bc11-c46e69bab8cc",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1759198819~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F29%2FUC_Santa_Barbara_vs_Hawai_20250929_1759104705193%2F~psid=ce369ea1-2474-47da-9505-e08854fcb91a~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=6eb9493d983abaf30294759550a54230c846f009a2824b026c82e5aab342f2ee/clt1/va02/disneyplus/event/2025/09/29/UC_Santa_Barbara_vs_Hawai_20250929_1759104705193/ctr-all-hdri-complete.m3u8?v=1&hash=e31093ff50143b664668604c1ba78a5c46fa93d4",
-    "k1": "634d0fd6ae7c40dca6531112bdd2544c",
-    "k2": "c96ffb3d5649299e10801b33567ca380"
-  },
-  {
     "title": "WTA China Open (Third Round)",
     "league": "WTA",
     "fecha-evento": "2025-09-28T22:00:00-05:00",
@@ -510,6 +484,26 @@
     "fecha-evento": "2025-09-30T13:40:00-05:00",
     "img": "c8eb5819-54af-4f28-b76f-f0b3d6cdd3a2",
     "nombre": "disneydc9b22",
+    "status": "13:40",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Inter Milan vs. Sk Slavia Praha",
+    "league": "UEFA Champions League",
+    "fecha-evento": "2025-09-30T13:40:00-05:00",
+    "img": "5996bb55-1f91-4124-9be0-07e8cf8d583b",
+    "nombre": "disneyfbf459",
+    "status": "13:40",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Olympique de Marseille vs. Ajax",
+    "league": "UEFA Champions League",
+    "fecha-evento": "2025-09-30T13:40:00-05:00",
+    "img": "1cb4c871-1f0d-4187-9368-fd0eeeb6e00a",
+    "nombre": "disney21b434",
     "status": "13:40",
     "duration": 135,
     "play_url": ""
