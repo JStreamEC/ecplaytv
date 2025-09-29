@@ -13,19 +13,6 @@
     "k2": "5d9cc8a522410bdf63b133c313be52d5"
   },
   {
-    "title": "WTA China Open / Capital Group Diamond",
-    "league": "WTA",
-    "fecha-evento": "2025-09-29T06:00:15-05:00",
-    "img": "0f2095e3-3192-4d23-b41a-f2587cd48ae5",
-    "nombre": "disneyc5f38f",
-    "status": "06:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/b519df46-4102-48e1-a177-bef0acff712e",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759231264~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F29%2FWTA_China_Open_Capital_Gr_20250929_1759136418044%2F~psid=44da33b7-a49f-42f0-9a27-5dab62884dcc~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=22a2fc7ce0483d0429a1e36de06af8792a6ab43d4fbdf8dd1c84b9daa6d83378/clt1/va02/disneyplus/event/2025/09/29/WTA_China_Open_Capital_Gr_20250929_1759136418044/ctr-all-hdri-complete.m3u8?v=1&hash=bd802152a34f5051b97a080a9a23e39e4ed85311",
-    "k1": "148360bfa872472e963060c4dceea67e",
-    "k2": "08aba717142491ff969b830ca204bf6a"
-  },
-  {
     "title": "China Open / Capital Group Diamond (Quarterfinals)",
     "league": "ATP",
     "fecha-evento": "2025-09-29T07:30:00-05:00",
@@ -299,6 +286,16 @@
     "play_url": ""
   },
   {
+    "title": "WTA China Open / Capital Group Diamond",
+    "league": "WTA",
+    "fecha-evento": "2025-09-30T06:00:00-05:00",
+    "img": "0f2095e3-3192-4d23-b41a-f2587cd48ae5",
+    "nombre": "disneya7b676",
+    "status": "06:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
     "title": "Atalanta vs. Club Brugge",
     "league": "UEFA Youth League",
     "fecha-evento": "2025-09-30T06:50:00-05:00",
@@ -505,6 +502,16 @@
     "img": "1027f062-cbbc-45ee-8635-043fc4a5da90",
     "nombre": "disney2816ee",
     "status": "18:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Mt. Pleasant FA vs. O&M FC",
+    "league": "Concacaf Caribbean Cup",
+    "fecha-evento": "2025-09-30T18:50:00-05:00",
+    "img": "565799a9-708d-438f-a64e-9ee5fbe4e162",
+    "nombre": "disney66f803",
+    "status": "18:50",
     "duration": 135,
     "play_url": ""
   }
