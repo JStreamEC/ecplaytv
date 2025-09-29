@@ -1,18 +1,5 @@
 [
   {
-    "title": "Racing vs. Progreso",
-    "league": "Campeonato Uruguayo",
-    "fecha-evento": "2025-09-29T13:45:00-05:00",
-    "img": "057efe4c-0ea7-4dd4-81fb-425ed6502ed5",
-    "nombre": "disney12722d",
-    "status": "13:45",
-    "duration": 135,
-    "play_url": "https://www.disneyplus.com/es-es/play/04d9433d-ae4d-4f54-8f5a-ade932dceeb7",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1759258819~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F29%2FRacing_vs_Progreso_20250929_1759164349026%2F~psid=3b1bb765-3fbb-4f0b-95ba-986a635243e1~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=915477910d6899573593e394698b82f2dccd34c5f97f3d49da486e86474a33f5/clt1/va02/disneyplus/event/2025/09/29/Racing_vs_Progreso_20250929_1759164349026/ctr-all-hdri-complete.m3u8?v=1&hash=9696d35ca744493879bf455bfb8f23f244713548",
-    "k1": "8ad6bddb521b45c5b5115845ba6b2112",
-    "k2": "da0d8360884f312a1c31976bd542ff9b"
-  },
-  {
     "title": "Carolina Hurricanes vs. Florida Panthers",
     "league": "National Hockey League",
     "fecha-evento": "2025-09-29T17:00:00-05:00",
@@ -53,21 +40,21 @@
     "play_url": ""
   },
   {
-    "title": "Philadelphia Flyers vs. Boston Bruins",
-    "league": "National Hockey League",
-    "fecha-evento": "2025-09-29T18:00:00-05:00",
-    "img": "8313496f-ab09-4281-aac3-63e738de4383",
-    "nombre": "disney9ee2d0",
-    "status": "18:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "New York Rangers vs. New York Islanders",
     "league": "National Hockey League",
     "fecha-evento": "2025-09-29T18:00:00-05:00",
     "img": "d4d3da59-23f3-49dc-9a1b-669d90b8b73e",
     "nombre": "disney00df22",
+    "status": "18:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Philadelphia Flyers vs. Boston Bruins",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-09-29T18:00:00-05:00",
+    "img": "8313496f-ab09-4281-aac3-63e738de4383",
+    "nombre": "disney9ee2d0",
     "status": "18:00",
     "duration": 135,
     "play_url": ""
@@ -106,7 +93,7 @@
     "title": "WTA China Open (Round of 16)",
     "league": "WTA",
     "fecha-evento": "2025-09-29T22:00:00-05:00",
-    "img": "ae6ffcac-2eb8-4cd4-bbec-d213c247d2a7",
+    "img": "cc0343f9-103d-4ecf-81c0-e68de131e9c1",
     "nombre": "disney2d513f",
     "status": "22:00",
     "duration": 135,
