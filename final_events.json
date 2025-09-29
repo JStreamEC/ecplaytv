@@ -39,19 +39,6 @@
     "k2": "b038262800d642063cb237359abac801"
   },
   {
-    "title": "China Open (Quarterfinals)",
-    "league": "ATP",
-    "fecha-evento": "2025-09-29T00:00:05-05:00",
-    "img": "04ba20d2-c691-4aa5-85bc-add1274b8aaa",
-    "nombre": "disney3e4494",
-    "status": "00:00",
-    "duration": 240,
-    "play_url": "https://www.disneyplus.com/es-es/play/c0e3c9a8-4f8c-40b1-a564-54902ebddaab",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1759209660~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F29%2FChina_Open_Quarterfinals_20250929_1759114835026%2F~psid=f17cd095-af41-42dc-8226-db7a74d9f494~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=dee2c738eb1104be5b0df9e9639bb238a8c66a9858c49f11e5a686f4b8257790/clt1/va02/disneyplus/event/2025/09/29/China_Open_Quarterfinals_20250929_1759114835026/ctr-all-hdri-complete.m3u8?v=1&hash=4a995e250ab6f20058ce854a19419e3d06ceb143",
-    "k1": "4e4ce79043f44f14b6b33f9cb49d9cee",
-    "k2": "1207b46041be79e7a621465004213de4"
-  },
-  {
     "title": "WTA China Open / Lotus Court",
     "league": "WTA",
     "fecha-evento": "2025-09-29T00:00:09-05:00",
@@ -93,6 +80,16 @@
     "fecha-evento": "2025-09-29T06:00:00-05:00",
     "img": "0f2095e3-3192-4d23-b41a-f2587cd48ae5",
     "nombre": "disney95db7a",
+    "status": "06:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "China Open (Quarterfinals)",
+    "league": "ATP",
+    "fecha-evento": "2025-09-29T06:00:00-05:00",
+    "img": "1090346c-1ee0-4d67-a15c-94c242fad804",
+    "nombre": "disneyab3246",
     "status": "06:00",
     "duration": 135,
     "play_url": ""
@@ -514,6 +511,16 @@
     "img": "2395b345-915e-46b5-b618-7c3103c744ed",
     "nombre": "disney2d903c",
     "status": "13:55",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "San Diego Padres vs. Chicago Cubs",
+    "league": "MLB",
+    "fecha-evento": "2025-09-30T14:00:00-05:00",
+    "img": "15d8d010-a199-4897-a359-675ab50f8a10",
+    "nombre": "disney64a7d0",
+    "status": "14:00",
     "duration": 135,
     "play_url": ""
   }
