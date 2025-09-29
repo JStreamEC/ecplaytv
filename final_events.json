@@ -39,19 +39,6 @@
     "k2": "f0283d643208096eeb7ace765aa67a6c"
   },
   {
-    "title": "China Open / Lotus Court (Doubles)",
-    "league": "ATP",
-    "fecha-evento": "2025-09-28T22:00:00-05:00",
-    "img": "00c0c198-89af-46b7-b2ac-1d28f5894c4b",
-    "nombre": "disney0fb2fe",
-    "status": "22:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/aaecdc3b-a903-4867-8e87-7d7f282b7361",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759202463~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F29%2FChina_Open_Lotus_Court_Do_20250929_1759107600093%2F~psid=ca7fa54a-df61-4283-98b1-b71067d18098~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=7423f3c3765871653307fde9688c41f838ed7210b9544c18874946ad34e60378/clt1/va02/disneyplus/event/2025/09/29/China_Open_Lotus_Court_Do_20250929_1759107600093/ctr-all-hdri-complete.m3u8?v=1&hash=e9adef7f21f6f7ecfdcba731a3557653296d0bef",
-    "k1": "d835b3d2506746949a41eca5fc99b16d",
-    "k2": "23e2bf8a59f449581b7df13de8429bb4"
-  },
-  {
     "title": "WTA China Open / Brad Drewett (Doubles)",
     "league": "WTA",
     "fecha-evento": "2025-09-28T22:00:06-05:00",
@@ -513,6 +500,16 @@
     "fecha-evento": "2025-09-30T13:40:00-05:00",
     "img": "fe420013-35ac-4ad5-9ad1-3186b5066dd5",
     "nombre": "disneybd136c",
+    "status": "13:40",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Pafos FC vs. Bayern Munich",
+    "league": "UEFA Champions League",
+    "fecha-evento": "2025-09-30T13:40:00-05:00",
+    "img": "c8eb5819-54af-4f28-b76f-f0b3d6cdd3a2",
+    "nombre": "disneydc9b22",
     "status": "13:40",
     "duration": 135,
     "play_url": ""
