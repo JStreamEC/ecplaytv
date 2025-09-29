@@ -26,27 +26,17 @@
     "k2": "bf94abcbe61364fe59273e83a5e5404d"
   },
   {
-    "title": "China Open / Moon Court (Doubles)",
-    "league": "ATP",
-    "fecha-evento": "2025-09-28T22:03:12-05:00",
-    "img": "05ba8fab-cd55-4d72-a591-1ba113ca98af",
-    "nombre": "disney5454a0",
-    "status": "22:03",
-    "duration": 117,
-    "play_url": "https://www.disneyplus.com/es-es/play/cfaff3e6-dd35-4c71-849f-8da30b92cfaf",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759202530~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F29%2FChina_Open_Moon_Court_Dou_20250929_1759107633026%2F~psid=dcd60a80-1830-4ee6-86b3-57b9e478469f~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=1f7dc7de19dcd13a63f1cc96bab3b53ee48911991e7374d8c751ab7eea20664c/clt1/va02/disneyplus/event/2025/09/29/China_Open_Moon_Court_Dou_20250929_1759107633026/ctr-all-hdri-complete.m3u8?v=1&hash=ecf30d0acfdb490bf3c61f92be5a8cce9f393cb6",
-    "k1": "fe6f4690c266493f9fbca9ce88857156",
-    "k2": "4738a4ad77907bf6654859b1d73682a7"
-  },
-  {
     "title": "WTA China Open / Moon Court",
     "league": "WTA",
     "fecha-evento": "2025-09-28T23:30:00-05:00",
     "img": "05ba8fab-cd55-4d72-a591-1ba113ca98af",
     "nombre": "disneya4dfcd",
     "status": "23:30",
-    "duration": 135,
-    "play_url": ""
+    "duration": 360,
+    "play_url": "https://www.disneyplus.com/es-es/play/a7d1193c-238f-4c6d-a653-3bbe5d09ddc8",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759207218~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F29%2FWTA_China_Open_Moon_Court_20250929_1759114305441%2F~psid=46bb28f0-dd62-4758-b6f1-8c08a87d3ccc~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=97cf288ccf17df6b1be03983569a9d1daa687a3b23e5cd15b4260b8bb88f6164/clt1/va02/disneyplus/event/2025/09/29/WTA_China_Open_Moon_Court_20250929_1759114305441/ctr-all-hdri-complete.m3u8?v=1&hash=35850700cf779768f4da30d4b38c0b37ab697ecb",
+    "k1": "9ced2a7b3aba41359f34ee51434f65c9",
+    "k2": "b038262800d642063cb237359abac801"
   },
   {
     "title": "Kinoshita Group Japan Open / Coliseum (Doubles Semifinals)",
@@ -262,7 +252,7 @@
     "title": "Cincinnati Bengals vs. Denver Broncos",
     "league": "NFL",
     "fecha-evento": "2025-09-29T19:00:00-05:00",
-    "img": "d6cfcde3-8331-4802-bb6f-1396699e1127",
+    "img": "f1f82e0f-ec07-4a05-9e37-4aa96b165382",
     "nombre": "disneyd01d28",
     "status": "19:00",
     "duration": 135,
@@ -505,6 +495,16 @@
     "img": "1cb4c871-1f0d-4187-9368-fd0eeeb6e00a",
     "nombre": "disney21b434",
     "status": "13:40",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Derby County vs. Charlton Athletic",
+    "league": "Championship de Inglaterra",
+    "fecha-evento": "2025-09-30T13:50:00-05:00",
+    "img": "2c9bdb5b-e91d-48d5-87d5-8a3b6ba3c732",
+    "nombre": "disneybef6ed",
+    "status": "13:50",
     "duration": 135,
     "play_url": ""
   }
