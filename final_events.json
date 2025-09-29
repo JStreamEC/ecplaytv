@@ -1,18 +1,5 @@
 [
   {
-    "title": "Parma vs. Torino",
-    "league": "Seria A",
-    "fecha-evento": "2025-09-29T11:24:34-05:00",
-    "img": "930e7bb9-042e-4bf5-b162-20329f690133",
-    "nombre": "disney443613",
-    "status": "11:24",
-    "duration": 125,
-    "play_url": "https://www.disneyplus.com/es-es/play/fa474586-f03d-41f0-a31f-cdddcc982809",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759250418~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F29%2FParma_vs_Torino_20250929_1759155953037%2F~psid=4ea6e116-db54-40ed-a347-7e89971e018c~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=94ec6d8c0586391393c826b6403396b348ebfcd249caa1604f91faa938b09e01/clt1/va02/disneyplus/event/2025/09/29/Parma_vs_Torino_20250929_1759155953037/ctr-all-hdri-complete.m3u8?v=1&hash=62fe385f5ab436a7e785585d29ba184e7cb9d9df",
-    "k1": "3bdde68cec0844a1ae1e3560a9cf42e4",
-    "k2": "ab6c9231d71f760960c2dd832fb8f06f"
-  },
-  {
     "title": "Besiktas vs. Kocaelispor",
     "league": "Super Lig de Turquía",
     "fecha-evento": "2025-09-29T11:50:00-05:00",
@@ -46,7 +33,10 @@
     "nombre": "disney62b27a",
     "status": "13:30",
     "duration": 135,
-    "play_url": ""
+    "play_url": "https://www.disneyplus.com/es-es/play/4fa840b1-963d-4f01-abdd-1cdf2e474552",
+    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759257620~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Fec26a05e-a9cc-4db4-804e-77465738e667-1759161480119%2F~psid=cfd455f5-20f5-41d3-834a-b3343965e3be~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=676e735b8acb4a643f7ad0a9118a74b6c4cea26f4ba6b8ddd928b930677702ab/clt1/va02/disneyplus/channel/ec26a05e-a9cc-4db4-804e-77465738e667-1759161480119/ctr-all-sliding-alt1.m3u8?v=1&hash=fc8ba513d5ff3c3ef65adebc04b6db0d18faf1a5",
+    "k1": "d8a118d4b6cd403d9c91f6096831a8ef",
+    "k2": "66453d960743aa1766c466a84c4fb2f1"
   },
   {
     "title": "Racing vs. Progreso",
@@ -534,6 +524,16 @@
     "fecha-evento": "2025-09-30T19:00:00-05:00",
     "img": "875c70f3-9dbf-4eef-98fd-24acc7037a96",
     "nombre": "disney50549d",
+    "status": "19:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Moca FC vs. SV Robinhood (Round #5)",
+    "league": "Concacaf Caribbean Cup",
+    "fecha-evento": "2025-09-30T19:00:00-05:00",
+    "img": "0aec92e7-6143-4d31-9d7f-c2b4a5324491",
+    "nombre": "disney2a5e5c",
     "status": "19:00",
     "duration": 135,
     "play_url": ""
