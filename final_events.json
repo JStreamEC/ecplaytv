@@ -65,27 +65,17 @@
     "k2": "9d76146ad697521a60f367473d663951"
   },
   {
-    "title": "Kinoshita Group Japan Open / Coliseum (Doubles Semifinals)",
-    "league": "ATP",
-    "fecha-evento": "2025-09-29T00:14:51-05:00",
-    "img": "09ca97cf-6267-40fc-a98a-41d79957ed04",
-    "nombre": "disneye95ffa",
-    "status": "00:14",
-    "duration": 105,
-    "play_url": "https://www.disneyplus.com/es-es/play/0fef86d9-a20b-415e-b9ca-f93bdfc34ed0",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759209617~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F29%2FKinoshita_Group_Japan_Ope_20250929_1759114815047%2F~psid=7a19212e-a241-4030-8890-09fd8b215bab~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=55fa34379424665b609c0b5b53f7f4893ef969228d4f665c0317650a5107c44a/clt1/va02/disneyplus/event/2025/09/29/Kinoshita_Group_Japan_Ope_20250929_1759114815047/ctr-all-hdri-complete.m3u8?v=1&hash=a9e666e66bb7eaae36cb8b79794ee2479b1b188a",
-    "k1": "fb524700dd564007bd9c1107cc912fcb",
-    "k2": "ad57c7f6d2533029949f04dd361ad290"
-  },
-  {
     "title": "Kinoshita Group Japan Open (Semifinals)",
     "league": "ATP",
-    "fecha-evento": "2025-09-29T02:00:00-05:00",
+    "fecha-evento": "2025-09-29T02:00:04-05:00",
     "img": "75ec0adb-41d6-4a64-aca7-6622818d1b66",
-    "nombre": "disney58a124",
+    "nombre": "disney01b647",
     "status": "02:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 240,
+    "play_url": "https://www.disneyplus.com/es-es/play/79c3bf41-ea85-44b3-9307-b858b3a5c4ae",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759216818~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F29%2FKinoshita_Group_Japan_Ope_20250929_1759122016028%2F~psid=756ada3a-6403-4ce3-814f-0cb6e4858e0a~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=529bc56f1f2968077d9816583b5a60164b537657ecc61f9da5b7a457e0a108d3/clt1/va02/disneyplus/event/2025/09/29/Kinoshita_Group_Japan_Ope_20250929_1759122016028/ctr-all-hdri-complete.m3u8?v=1&hash=6c9c9040ffd5eb83d2ff320480a75daef7f77cd0",
+    "k1": "bfd2cc3a12e74b3f97d5acdc0387f157",
+    "k2": "72307df076ce9074f333600d919e8b46"
   },
   {
     "title": "Carlos Alcaraz (ESP) vs. Casper Ruud (NOR) (Semifinals)",
@@ -514,6 +504,16 @@
     "img": "2c9bdb5b-e91d-48d5-87d5-8a3b6ba3c732",
     "nombre": "disneybef6ed",
     "status": "13:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "La Natividad-La Dolfina vs. Ellerstina-I. Chapaleufú Vista | Semifinal",
+    "league": "Abierto de Hurlingham",
+    "fecha-evento": "2025-09-30T13:55:00-05:00",
+    "img": "2395b345-915e-46b5-b618-7c3103c744ed",
+    "nombre": "disney2d903c",
+    "status": "13:55",
     "duration": 135,
     "play_url": ""
   }
