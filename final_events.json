@@ -1,18 +1,5 @@
 [
   {
-    "title": "WTA China Open (Round of 16)",
-    "league": "WTA",
-    "fecha-evento": "2025-09-29T21:55:06-05:00",
-    "img": "ae6ffcac-2eb8-4cd4-bbec-d213c247d2a7",
-    "nombre": "disney298a7f",
-    "status": "21:55",
-    "duration": 725,
-    "play_url": "https://www.disneyplus.com/es-es/play/00426ece-5918-46e5-92db-4157c092eaaa",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759287618~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F30%2FWTA_China_Open_Round_of_1_20250930_1759194004028%2F~psid=ee1518d8-290c-43a5-93fe-9f7b7819aa5c~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=d34785969d0b3467275380a413882d262a4321f60bcc8f14ba3ef9cc26138f87/clt1/va02/disneyplus/event/2025/09/30/WTA_China_Open_Round_of_1_20250930_1759194004028/ctr-all-hdri-complete.m3u8?v=1&hash=5b32a8678794413b3765402a9e6ba1ad759c7caf",
-    "k1": "c1eb8ca142db413c99c178c11331d8e6",
-    "k2": "785baeb1fc84d0bb65119cee4b586247"
-  },
-  {
     "title": "India vs. Sri Lanka",
     "league": "ESPN",
     "fecha-evento": "2025-09-30T04:00:10-05:00",
@@ -34,19 +21,6 @@
     "status": "12:50",
     "duration": 135,
     "play_url": ""
-  },
-  {
-    "title": "WTA China Open / Capital Group Diamond",
-    "league": "WTA",
-    "fecha-evento": "2025-09-30T06:48:49-05:00",
-    "img": "0f2095e3-3192-4d23-b41a-f2587cd48ae5",
-    "nombre": "disney0ca61c",
-    "status": "06:48",
-    "duration": 156,
-    "play_url": "https://www.disneyplus.com/es-es/play/e8831731-fb7f-4fce-95bc-b70bf96b219c",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1759328286~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F30%2FWTA_China_Open_Capital_Gr_20250930_1759222817029%2F~psid=bdd4e831-43c2-4593-90df-5177248ed808~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=5109ef38f915e1af2af8c47cd90c4e3d84c8433ce30b64fd59b468eface95ac7/clt1/va02/disneyplus/event/2025/09/30/WTA_China_Open_Capital_Gr_20250930_1759222817029/ctr-all-hdri-complete.m3u8?v=1&hash=0e520284e9035201c4ba43bb34ee2309c2c907bd",
-    "k1": "3f262922ed2a44bc97f1fcc7ee44924d",
-    "k2": "053b3727ebcd86058ddd54fa7d327b57"
   },
   {
     "title": "Fórmula S",
@@ -457,6 +431,16 @@
     "play_url": ""
   },
   {
+    "title": "WTA China Open (Round of 16)",
+    "league": "WTA",
+    "fecha-evento": "2025-10-01T01:30:00-05:00",
+    "img": "0c37ca79-b549-41d5-8857-8045447c5d5d",
+    "nombre": "disneydf3cf6",
+    "status": "01:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
     "title": "Premier Padel: Rotterdam - Secondary Court (Segunda Ronda)",
     "league": "Premier Padel",
     "fecha-evento": "2025-10-01T02:00:00-05:00",
@@ -493,6 +477,16 @@
     "img": "00c0c198-89af-46b7-b2ac-1d28f5894c4b",
     "nombre": "disneyd7b0a4",
     "status": "04:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "WTA China Open / Capital Group Diamond",
+    "league": "WTA",
+    "fecha-evento": "2025-10-01T06:00:00-05:00",
+    "img": "0f2095e3-3192-4d23-b41a-f2587cd48ae5",
+    "nombre": "disneye4556c",
+    "status": "06:00",
     "duration": 135,
     "play_url": ""
   },
@@ -553,6 +547,16 @@
     "img": "c843388e-6910-465d-af61-3e40d74ae0fa",
     "nombre": "disney1ed45c",
     "status": "11:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Union Omaha vs. Portland Hearts of Pine",
+    "league": "USL League One",
+    "fecha-evento": "2025-10-01T12:00:00-05:00",
+    "img": "72ee1a38-9994-4c58-8fdb-c82461c417f8",
+    "nombre": "disney8f6176",
+    "status": "12:00",
     "duration": 135,
     "play_url": ""
   }
