@@ -1,18 +1,5 @@
 [
   {
-    "title": "Premier Padel: Rotterdam - Secondary Court (Primera Ronda)",
-    "league": "Premier Padel",
-    "fecha-evento": "2025-09-30T11:30:08-05:00",
-    "img": "0e1765c8-f206-4c68-aae8-534b423e38d2",
-    "nombre": "disney4bc85e",
-    "status": "11:30",
-    "duration": 270,
-    "play_url": "https://www.disneyplus.com/es-es/play/7d970444-5d7f-4aff-883a-99d286dca9db",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759336590~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F30%2FPremier_Padel_Rotterdam_S_20250930_1759242610072%2F~psid=0877c537-85f9-416f-951c-b61137d6c564~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=fdc55b6a57d054b014bfaf24a57ebe3990f4298aa2bc9674c79f076b539a1aed/clt1/va02/disneyplus/event/2025/09/30/Premier_Padel_Rotterdam_S_20250930_1759242610072/ctr-all-hdri-complete.m3u8?v=1&hash=1d252a025dacc06c9c7102a4d8fe0a37c91bb30e",
-    "k1": "abea0837640f4b76a4995b88fa9a3960",
-    "k2": "a6942c0800dd227ae566a4a574cc10ab"
-  },
-  {
     "title": "Boston Red Sox vs. New York Yankees",
     "league": "MLB",
     "fecha-evento": "2025-09-30T17:00:00-05:00",
@@ -531,6 +518,16 @@
     "img": "08a24685-a526-4148-8808-03b564cc6806",
     "nombre": "disney29de0f",
     "status": "17:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Pittsburgh Penguins vs. Buffalo Sabres",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-10-01T18:00:00-05:00",
+    "img": "0e56d1ac-3817-449a-82bf-28b0d51b9ed5",
+    "nombre": "disney55a8c3",
+    "status": "18:00",
     "duration": 135,
     "play_url": ""
   }
