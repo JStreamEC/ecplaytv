@@ -49,19 +49,6 @@
     "k2": "92f353b2d7b3c118fbdafc7dca0502d2"
   },
   {
-    "title": "Premier Padel: Rotterdam - Centre Court (Primera Ronda)",
-    "league": "Premier Padel",
-    "fecha-evento": "2025-09-30T11:30:00-05:00",
-    "img": "07bfe551-3e5f-4c83-bc38-165e562f990f",
-    "nombre": "disneyd14c21",
-    "status": "11:30",
-    "duration": 270,
-    "play_url": "https://www.disneyplus.com/es-es/play/39589255-8518-4441-a3fb-247e98976a19",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759336500~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F30%2FPremier_Padel_Rotterdam_C_20250930_1759242639027%2F~psid=23c711b4-f03f-4f35-a3a7-5840fe23e26a~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=2e7bd193859387b6d347f0958deea230240ec15300d3fd933b7389a177f55bc1/clt1/va02/disneyplus/event/2025/09/30/Premier_Padel_Rotterdam_C_20250930_1759242639027/ctr-all-hdri-complete.m3u8?v=1&hash=7817b4c639fba00227531c2428fde575772e4ac7",
-    "k1": "289e3c1dd3514a5a8e4f06f4269bf6c7",
-    "k2": "a48ac2bb0f6d805848668021c919dae9"
-  },
-  {
     "title": "Kairat Almaty vs. Real Madrid",
     "league": "UEFA Champions League",
     "fecha-evento": "2025-09-30T11:30:00-05:00",
@@ -101,14 +88,30 @@
     "k2": "a6942c0800dd227ae566a4a574cc10ab"
   },
   {
+    "title": "Premier Padel: Rotterdam - Centre Court (Primera Ronda)",
+    "league": "Premier Padel",
+    "fecha-evento": "2025-09-30T11:30:00-05:00",
+    "img": "07bfe551-3e5f-4c83-bc38-165e562f990f",
+    "nombre": "disneyd14c21",
+    "status": "11:30",
+    "duration": 270,
+    "play_url": "https://www.disneyplus.com/es-es/play/39589255-8518-4441-a3fb-247e98976a19",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759336500~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F30%2FPremier_Padel_Rotterdam_C_20250930_1759242639027%2F~psid=23c711b4-f03f-4f35-a3a7-5840fe23e26a~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=2e7bd193859387b6d347f0958deea230240ec15300d3fd933b7389a177f55bc1/clt1/va02/disneyplus/event/2025/09/30/Premier_Padel_Rotterdam_C_20250930_1759242639027/ctr-all-hdri-complete.m3u8?v=1&hash=7817b4c639fba00227531c2428fde575772e4ac7",
+    "k1": "289e3c1dd3514a5a8e4f06f4269bf6c7",
+    "k2": "a48ac2bb0f6d805848668021c919dae9"
+  },
+  {
     "title": "Detroit Tigers vs. Cleveland Guardians",
     "league": "MLB",
     "fecha-evento": "2025-09-30T12:00:00-05:00",
     "img": "1d17306a-bd89-4b5d-a603-9b2a032c7b05",
     "nombre": "disneyce628a",
     "status": "12:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 180,
+    "play_url": "https://www.disneyplus.com/es-es/play/e68e9774-7468-4374-a70e-e1709fcc6a21",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1759338018~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F30%2FDetroit_Tigers_vs_Clevela_20250930_1759244442038%2F~psid=047c0164-c357-4fd3-bc02-0b4cfe7b1f63~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=c87529cf1be98c0aa15d8354d1ab863677109cedf049e545452c69af8e34b58c/clt1/va02/disneyplus/event/2025/09/30/Detroit_Tigers_vs_Clevela_20250930_1759244442038/ctr-all-hdri-complete.m3u8?v=1&hash=b494db5e1758bd78e4f44a84a72cccb5ebea45df",
+    "k1": "1b866dbbf6a9467fa92cb9fea90cc94e",
+    "k2": "5f84b30474ff0ad84a1598fe116891ed"
   },
   {
     "title": "Al Ittihad (KSA) vs. Shabab Al Ahli Dubai (UAE)",
@@ -221,12 +224,22 @@
     "play_url": ""
   },
   {
-    "title": "Cincinnati Reds vs. Los Angeles Dodgers",
+    "title": "San Diego Padres vs. Chicago Cubs",
     "league": "MLB",
     "fecha-evento": "2025-09-30T14:00:00-05:00",
-    "img": "70662117-5dca-40fe-b90f-d97f486982fc",
-    "nombre": "disney3908a3",
+    "img": "15d8d010-a199-4897-a359-675ab50f8a10",
+    "nombre": "disney64a7d0",
     "status": "14:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Cincinnati Reds vs. Los Angeles Dodgers",
+    "league": "MLB",
+    "fecha-evento": "2025-09-30T20:00:00-05:00",
+    "img": "70662117-5dca-40fe-b90f-d97f486982fc",
+    "nombre": "disney6fbd8c",
+    "status": "20:00",
     "duration": 135,
     "play_url": ""
   },
