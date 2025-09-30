@@ -52,19 +52,6 @@
     "k2": "a48ac2bb0f6d805848668021c919dae9"
   },
   {
-    "title": "Detroit Tigers vs. Cleveland Guardians",
-    "league": "MLB",
-    "fecha-evento": "2025-09-30T12:00:00-05:00",
-    "img": "1d17306a-bd89-4b5d-a603-9b2a032c7b05",
-    "nombre": "disneyce628a",
-    "status": "12:00",
-    "duration": 180,
-    "play_url": "https://www.disneyplus.com/es-es/play/e68e9774-7468-4374-a70e-e1709fcc6a21",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1759338018~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F30%2FDetroit_Tigers_vs_Clevela_20250930_1759244442038%2F~psid=047c0164-c357-4fd3-bc02-0b4cfe7b1f63~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=c87529cf1be98c0aa15d8354d1ab863677109cedf049e545452c69af8e34b58c/clt1/va02/disneyplus/event/2025/09/30/Detroit_Tigers_vs_Clevela_20250930_1759244442038/ctr-all-hdri-complete.m3u8?v=1&hash=b494db5e1758bd78e4f44a84a72cccb5ebea45df",
-    "k1": "1b866dbbf6a9467fa92cb9fea90cc94e",
-    "k2": "5f84b30474ff0ad84a1598fe116891ed"
-  },
-  {
     "title": "Al Ittihad (KSA) vs. Shabab Al Ahli Dubai (UAE)",
     "league": "AFC Champions League",
     "fecha-evento": "2025-09-30T13:05:12-05:00",
@@ -331,6 +318,16 @@
     "play_url": ""
   },
   {
+    "title": "Cincinnati Reds vs. Los Angeles Dodgers",
+    "league": "MLB",
+    "fecha-evento": "2025-09-30T20:00:00-05:00",
+    "img": "70662117-5dca-40fe-b90f-d97f486982fc",
+    "nombre": "disney6fbd8c",
+    "status": "20:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
     "title": "En Español-Indiana Fever vs. Las Vegas Aces (Semifinals, Game 5)",
     "league": "WNBA",
     "fecha-evento": "2025-09-30T20:30:00-05:00",
@@ -371,11 +368,11 @@
     "play_url": ""
   },
   {
-    "title": "Rolex Shanghai Masters (First Round)",
+    "title": "ATP 1000: Xangai",
     "league": "ATP",
     "fecha-evento": "2025-09-30T23:30:00-05:00",
-    "img": "182f7204-029d-46ba-8514-c3f08a0d7db5",
-    "nombre": "disney2377f3",
+    "img": "04d86358-05f7-4cd0-ac71-8d1e11c25f99",
+    "nombre": "disney8f8f23",
     "status": "23:30",
     "duration": 135,
     "play_url": ""
@@ -414,7 +411,7 @@
     "title": "Jannik Sinner (ITA) vs. Learner Tien (USA) (Final)",
     "league": "ATP",
     "fecha-evento": "2025-10-01T01:00:00-05:00",
-    "img": "1023685e-e422-4b8a-b905-991933979c88",
+    "img": "05d7738a-7be9-4cbe-a596-767fdaeca634",
     "nombre": "disney6080a0",
     "status": "01:00",
     "duration": 135,
@@ -467,6 +464,16 @@
     "img": "00c0c198-89af-46b7-b2ac-1d28f5894c4b",
     "nombre": "disneyd7b0a4",
     "status": "04:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Rolex Shanghai Masters (First Round)",
+    "league": "ATP",
+    "fecha-evento": "2025-10-01T05:30:00-05:00",
+    "img": "182f7204-029d-46ba-8514-c3f08a0d7db5",
+    "nombre": "disney75a0dc",
+    "status": "05:30",
     "duration": 135,
     "play_url": ""
   },
@@ -551,6 +558,16 @@
     "play_url": ""
   },
   {
+    "title": "Detroit Tigers vs. Cleveland Guardians",
+    "league": "MLB",
+    "fecha-evento": "2025-10-01T12:00:00-05:00",
+    "img": "1d17306a-bd89-4b5d-a603-9b2a032c7b05",
+    "nombre": "disney69fe15",
+    "status": "12:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
     "title": "El Paso Locomotive FC vs. Oakland Roots SC",
     "league": "USL Championship",
     "fecha-evento": "2025-10-01T13:00:00-05:00",
@@ -567,6 +584,16 @@
     "img": "0228ab40-1106-4610-8077-374c1dc8774e",
     "nombre": "disneyc1a9f3",
     "status": "13:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "AS Monaco vs. Manchester City",
+    "league": "UEFA Champions League",
+    "fecha-evento": "2025-10-01T13:40:00-05:00",
+    "img": "0aba140a-abf9-4ba4-801c-f86cb92e8236",
+    "nombre": "disneyb599d0",
+    "status": "13:40",
     "duration": 135,
     "play_url": ""
   }
