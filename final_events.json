@@ -1,18 +1,5 @@
 [
   {
-    "title": "New York Jets vs. Miami Dolphins",
-    "league": "NFL",
-    "fecha-evento": "2025-09-29T18:00:00-05:00",
-    "img": "2240512c-a3bb-4325-8d70-223890e82e74",
-    "nombre": "disney6e8e9c",
-    "status": "18:00",
-    "duration": 195,
-    "play_url": "https://www.disneyplus.com/es-es/play/0eaefbf8-fc29-4283-be13-9752cf62b1c0",
-    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759274418~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Ff25bdf06-81c9-4a7c-b128-3128d610ad17-1759170944393%2F~psid=1a9108ff-8cd4-4cb9-bdde-e1880119a8ee~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=174437144048f4ca7fd6e56b5d59112f963dd238d80322adc5f1a41f1f27ed67/clt1/va02/disneyplus/channel/f25bdf06-81c9-4a7c-b128-3128d610ad17-1759170944393/ctr-all-sliding-alt1.m3u8?v=1&hash=4179c470fc541ac5d3c8d8d7a0a6a0fa407a3d1e",
-    "k1": "caa6edf413374b06a2bbde9a79ede8d5",
-    "k2": "73ce7f68980aea591d2d082210555a12"
-  },
-  {
     "title": "Cincinnati Bengals vs. Denver Broncos",
     "league": "NFL",
     "fecha-evento": "2025-09-29T19:00:00-05:00",
@@ -548,6 +535,16 @@
     "img": "1023685e-e422-4b8a-b905-991933979c88",
     "nombre": "disney715238",
     "status": "01:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Premier Padel: Rotterdam - Secondary Court (Segunda Ronda)",
+    "league": "Premier Padel",
+    "fecha-evento": "2025-10-01T02:00:00-05:00",
+    "img": "0e1765c8-f206-4c68-aae8-534b423e38d2",
+    "nombre": "disney85a5bc",
+    "status": "02:00",
     "duration": 135,
     "play_url": ""
   }
