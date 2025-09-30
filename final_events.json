@@ -1,18 +1,5 @@
 [
   {
-    "title": "Cincinnati Bengals vs. Denver Broncos",
-    "league": "NFL",
-    "fecha-evento": "2025-09-29T19:00:00-05:00",
-    "img": "d6cfcde3-8331-4802-bb6f-1396699e1127",
-    "nombre": "disneyd01d28",
-    "status": "19:00",
-    "duration": 195,
-    "play_url": "https://www.disneyplus.com/es-es/play/156a2255-7aa0-4a2d-90d1-bc12f59fe78f",
-    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1759278020~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Fbbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1758265170869%2F~psid=8e92f91d-90d6-471f-8d0f-5d91be0b2c8a~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=c97b01fe0b1beeeff5bdbb9365c307fb8b4b48a54697a8ff3338860330f157eb/clt1/va02/disneyplus/channel/bbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1758265170869/ctr-all-sliding.m3u8?v=1&hash=4b44ed5e140524edee19ba7de50a11aef68f9d53",
-    "k1": "98aba6c65c064f0bb68f81cd47e72422",
-    "k2": "bc355f3732ea90871410b8ca256ff634"
-  },
-  {
     "title": "Calgary Flames vs. Seattle Kraken",
     "league": "National Hockey League",
     "fecha-evento": "2025-09-29T21:00:03-05:00",
@@ -54,12 +41,15 @@
   {
     "title": "WTA China Open / Lotus Court",
     "league": "WTA",
-    "fecha-evento": "2025-09-29T22:00:00-05:00",
+    "fecha-evento": "2025-09-29T22:00:01-05:00",
     "img": "00c0c198-89af-46b7-b2ac-1d28f5894c4b",
-    "nombre": "disney46e31f",
+    "nombre": "disneydc296e",
     "status": "22:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 510,
+    "play_url": "https://www.disneyplus.com/es-es/play/6e575a93-902f-41a6-b27f-ac125e168d5c",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759288818~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F30%2FWTA_China_Open_Lotus_Cour_20250930_1759194053027%2F~psid=f51a6ad8-1f6a-4d04-a171-f7b5cb399168~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=31390fcc3c72e80715b284b93e94ce3af9acec4698f33da9509ef9cb552df129/clt1/va02/disneyplus/event/2025/09/30/WTA_China_Open_Lotus_Cour_20250930_1759194053027/ctr-all-hdri-complete.m3u8?v=1&hash=bec6b234df0a73b52fc8326c761d9db2b9d7df17",
+    "k1": "736edc1903d149fda6d4f04211c18f3f",
+    "k2": "aa57296765cb3e437e490a0e4b77fc18"
   },
   {
     "title": "China Open / Brad Drewett (Doubles Semifinals)",
@@ -547,6 +537,16 @@
     "fecha-evento": "2025-10-01T02:00:00-05:00",
     "img": "0e1765c8-f206-4c68-aae8-534b423e38d2",
     "nombre": "disney85a5bc",
+    "status": "02:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Premier Padel: Rotterdam - Centre Court (Segunda Ronda)",
+    "league": "Premier Padel",
+    "fecha-evento": "2025-10-01T02:00:00-05:00",
+    "img": "07bfe551-3e5f-4c83-bc38-165e562f990f",
+    "nombre": "disney87347e",
     "status": "02:00",
     "duration": 135,
     "play_url": ""
