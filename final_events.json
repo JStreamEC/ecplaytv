@@ -28,22 +28,28 @@
   {
     "title": "Calgary Flames vs. Seattle Kraken",
     "league": "National Hockey League",
-    "fecha-evento": "2025-09-29T21:00:00-05:00",
+    "fecha-evento": "2025-09-29T21:00:03-05:00",
     "img": "1b822fbd-efb6-41dc-98ef-b1ba667611c4",
-    "nombre": "disney3e35b8",
+    "nombre": "disneyfba165",
     "status": "21:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 210,
+    "play_url": "https://www.disneyplus.com/es-es/play/c21d8b96-c1b3-4731-8834-c19802eed2cc",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759285219~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F30%2FCalgary_Flames_vs_Seattle_20250930_1759190449025%2F~psid=5aeca594-83ba-42e2-aaf7-04ecf5a1edd8~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=2d5d61fb913d0eb5c2beee8c8a3a75d27172689182a0e3e86cdec3065b85d056/clt1/va02/disneyplus/event/2025/09/30/Calgary_Flames_vs_Seattle_20250930_1759190449025/ctr-all-hdri-complete.m3u8?v=1&hash=4950c1ae5884e20e9cb047bb3529a7b135cb6114",
+    "k1": "7ecaa9c725624c36a3787a08a83e024b",
+    "k2": "da66a9914850bcdb1746675a4633f7a0"
   },
   {
     "title": "San Jose Sharks vs. Anaheim Ducks",
     "league": "National Hockey League",
-    "fecha-evento": "2025-09-29T21:00:00-05:00",
+    "fecha-evento": "2025-09-29T21:00:16-05:00",
     "img": "35e615c6-06b5-467b-b509-9a933e76dec8",
-    "nombre": "disney774e2d",
+    "nombre": "disney5cf05e",
     "status": "21:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 210,
+    "play_url": "https://www.disneyplus.com/es-es/play/f59b47f6-6477-4b1c-b734-071da62cd5ca",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1759285262~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F30%2FSan_Jose_Sharks_vs_Anahei_20250930_1759190444037%2F~psid=56c76217-d7dd-4192-af15-c8032172dfdd~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=2750b1f2dbb6630e801e2d386df7614eb560db4b3b1a8d3d4d040cd36fb9544f/clt1/va02/disneyplus/event/2025/09/30/San_Jose_Sharks_vs_Anahei_20250930_1759190444037/ctr-all-hdri-complete.m3u8?v=1&hash=488ce62955ac1bc32f537e0bab8a8f00ad33f687",
+    "k1": "202b7ce2c28c48878c336bb44b8825e2",
+    "k2": "08c0e90d45451da5df6e7bcc8bd467d6"
   },
   {
     "title": "WTA China Open (Round of 16)",
@@ -332,16 +338,6 @@
     "img": "15d8d010-a199-4897-a359-675ab50f8a10",
     "nombre": "disney64a7d0",
     "status": "14:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Cincinnati Reds vs. Los Angeles Dodgers",
-    "league": "MLB",
-    "fecha-evento": "2025-09-30T20:00:00-05:00",
-    "img": "70662117-5dca-40fe-b90f-d97f486982fc",
-    "nombre": "disney6fbd8c",
-    "status": "20:00",
     "duration": 135,
     "play_url": ""
   },
