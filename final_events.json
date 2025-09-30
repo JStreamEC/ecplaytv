@@ -1,18 +1,5 @@
 [
   {
-    "title": "Valencia vs. Oviedo",
-    "league": "LALIGA",
-    "fecha-evento": "2025-09-30T12:50:00-05:00",
-    "img": "5f1ad933-47ae-4cac-adb9-084e59679510",
-    "nombre": "disneybe4b15",
-    "status": "12:50",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/c830adad-3ea2-4d4e-807e-1c2320c5ed47",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1759344405~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F30%2FRayo_Vallecano_vs_Sevilla_20250930_1759247440043%2F~psid=db75a7d1-9347-464d-b9c0-91fdd9694c8a~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=91cbccc6681f7b477d083aed00d9cd721d796d420d18cfedca35d945cb653292/clt1/va02/disneyplus/event/2025/09/30/Rayo_Vallecano_vs_Sevilla_20250930_1759247440043/ctr-all-hdri-complete.m3u8?v=1&hash=2efb0de0edf2720d9c9eadc1d25623337cd21365",
-    "k1": "2f43513bac72438d87b03123cb52a329",
-    "k2": "788931f2e49f235693b403cb026713a5"
-  },
-  {
     "title": "Fórmula S",
     "league": "Formula S",
     "fecha-evento": "2025-09-30T11:00:02-05:00",
@@ -50,19 +37,6 @@
     "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759336500~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F30%2FPremier_Padel_Rotterdam_C_20250930_1759242639027%2F~psid=23c711b4-f03f-4f35-a3a7-5840fe23e26a~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=2e7bd193859387b6d347f0958deea230240ec15300d3fd933b7389a177f55bc1/clt1/va02/disneyplus/event/2025/09/30/Premier_Padel_Rotterdam_C_20250930_1759242639027/ctr-all-hdri-complete.m3u8?v=1&hash=7817b4c639fba00227531c2428fde575772e4ac7",
     "k1": "289e3c1dd3514a5a8e4f06f4269bf6c7",
     "k2": "a48ac2bb0f6d805848668021c919dae9"
-  },
-  {
-    "title": "Al Ittihad (KSA) vs. Shabab Al Ahli Dubai (UAE)",
-    "league": "AFC Champions League",
-    "fecha-evento": "2025-09-30T13:05:12-05:00",
-    "img": "c38a3188-6de7-47a7-9855-84ed5eaaa083",
-    "nombre": "disney4c61f9",
-    "status": "13:05",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/1ce076ad-0ff1-44f1-b81e-63c15b208254",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1759344449~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F30%2FAl_Ittihad_KSA_vs_Shabab__20250930_1759248623037%2F~psid=6bc5d103-f40f-432b-8178-d29562eaad0e~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=75e31872df53b2f7dd395b88afdffaa56ca2efb8caf128d643ce4a832e907af0/clt1/va02/disneyplus/event/2025/09/30/Al_Ittihad_KSA_vs_Shabab__20250930_1759248623037/ctr-all-hdri-complete.m3u8?v=1&hash=ae7580893cd8caea3ddf788a7d733fb2be75b3ed",
-    "k1": "935e03a1381d4ed98f4381aa51f238de",
-    "k2": "a26281557db055de6034a3503fc6510d"
   },
   {
     "title": "Chelsea vs. Benfica",
@@ -468,11 +442,11 @@
     "play_url": ""
   },
   {
-    "title": "Rolex Shanghai Masters (First Round)",
+    "title": "Adrian Mannarino (FRA) vs. Matteo Berrettini (ITA) (First Round)",
     "league": "ATP",
     "fecha-evento": "2025-10-01T05:30:00-05:00",
-    "img": "182f7204-029d-46ba-8514-c3f08a0d7db5",
-    "nombre": "disney75a0dc",
+    "img": "56b7a49b-629d-4254-8b09-1633eae53bef",
+    "nombre": "disney7b7a15",
     "status": "05:30",
     "duration": 135,
     "play_url": ""
@@ -593,6 +567,16 @@
     "fecha-evento": "2025-10-01T13:40:00-05:00",
     "img": "0aba140a-abf9-4ba4-801c-f86cb92e8236",
     "nombre": "disneyb599d0",
+    "status": "13:40",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Borussia Dortmund vs. Athletic Club Bilbao",
+    "league": "UEFA Champions League",
+    "fecha-evento": "2025-10-01T13:40:00-05:00",
+    "img": "4e0b5d4c-1f9c-47b6-b16c-ae4aa17124db",
+    "nombre": "disney1d9db7",
     "status": "13:40",
     "duration": 135,
     "play_url": ""
