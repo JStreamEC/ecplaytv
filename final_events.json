@@ -26,19 +26,6 @@
     "k2": "a48ac2bb0f6d805848668021c919dae9"
   },
   {
-    "title": "Cincinnati Reds vs. Los Angeles Dodgers",
-    "league": "MLB",
-    "fecha-evento": "2025-09-30T14:00:00-05:00",
-    "img": "70662117-5dca-40fe-b90f-d97f486982fc",
-    "nombre": "disney3908a3",
-    "status": "14:00",
-    "duration": 180,
-    "play_url": "https://www.disneyplus.com/es-es/play/54fd5ef4-1a43-434b-af6c-003d837739d1",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1759345305~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F30%2FSan_Diego_Padres_vs_Chica_20250930_1759253914753%2F~psid=a6c72ee0-5024-42bc-8161-122cd2f1a74c~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=4a61f45b6a7aed57a3e7ea8a07ca7ddba2c979e4ec9de1311bc9e6ee474ae150/clt1/va02/disneyplus/event/2025/09/30/San_Diego_Padres_vs_Chica_20250930_1759253914753/ctr-all-hdri-complete.m3u8?v=1&hash=ecc874486de8cda6ad827c9838c4b745c6ae90c8",
-    "k1": "e5682bd7821849709a040c3964af8f9a",
-    "k2": "b9256cc8f7e64c7a3d05c6866c0b0922"
-  },
-  {
     "title": "Boston Red Sox vs. New York Yankees",
     "league": "MLB",
     "fecha-evento": "2025-09-30T17:00:00-05:00",
@@ -299,11 +286,11 @@
     "play_url": ""
   },
   {
-    "title": "Rolex Shanghai Masters (First Round)",
+    "title": "Adrian Mannarino (FRA) vs. Matteo Berrettini (ITA) (First Round)",
     "league": "ATP",
     "fecha-evento": "2025-10-01T05:30:00-05:00",
-    "img": "a15f7345-f43a-4db3-8953-389c521ad805",
-    "nombre": "disney75a0dc",
+    "img": "8e2d56e1-efa2-4667-a4dc-ca731daf6513",
+    "nombre": "disney7b7a15",
     "status": "05:30",
     "duration": 135,
     "play_url": ""
@@ -499,6 +486,16 @@
     "play_url": ""
   },
   {
+    "title": "San Diego Padres vs. Chicago Cubs",
+    "league": "MLB",
+    "fecha-evento": "2025-10-01T14:00:00-05:00",
+    "img": "15d8d010-a199-4897-a359-675ab50f8a10",
+    "nombre": "disney5776c4",
+    "status": "14:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
     "title": "Top 14 de Francia 2025/26 - Resumen Semanal",
     "league": "ESPN",
     "fecha-evento": "2025-10-01T15:55:00-05:00",
@@ -515,6 +512,16 @@
     "img": "789f3493-b6c5-46e7-a594-681d89ad5a66",
     "nombre": "disneyb1a067",
     "status": "16:45",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "One Knoxville SC vs. Chattanooga Red Wolves SC",
+    "league": "USL League One",
+    "fecha-evento": "2025-10-01T17:30:00-05:00",
+    "img": "9f907bbf-b19a-4c1e-83ef-a0f5afb8632c",
+    "nombre": "disney01b927",
+    "status": "17:30",
     "duration": 135,
     "play_url": ""
   }
