@@ -49,27 +49,17 @@
     "k2": "053b3727ebcd86058ddd54fa7d327b57"
   },
   {
-    "title": "Chelsea vs. Benfica",
-    "league": "UEFA Youth League",
-    "fecha-evento": "2025-09-30T08:49:45-05:00",
-    "img": "727a784d-4997-432a-8a2f-ec8cbdd04fb0",
-    "nombre": "disney3d9e4a",
-    "status": "08:49",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/1fc9d76a-1a81-4e95-8c0f-04911800465c",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759328329~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F30%2FChelsea_vs_Benfica_20250930_1759233041037%2F~psid=a0b6eaf7-d54a-4f3c-a51c-99ea5bcf9e56~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=43af567992fa5479fc5c4ecacfe1f65ab3fc67056dd0e94af4d3b1fd37900359/clt1/va02/disneyplus/event/2025/09/30/Chelsea_vs_Benfica_20250930_1759233041037/ctr-all-hdri-complete.m3u8?v=1&hash=9f6ab70748934a4cded7d59583c04b724380f0de",
-    "k1": "44d46b9818a6468d99c11fcc5d1ed866",
-    "k2": "438751cb053288c0a85cfa2a70703357"
-  },
-  {
     "title": "Fórmula S",
     "league": "Formula S",
-    "fecha-evento": "2025-09-30T11:00:00-05:00",
+    "fecha-evento": "2025-09-30T11:00:02-05:00",
     "img": "0e5b44e9-cae9-43e6-a54e-c6547d0eed76",
-    "nombre": "disney71277d",
+    "nombre": "disneye82048",
     "status": "11:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 300,
+    "play_url": "https://www.disneyplus.com/es-es/play/b14e4185-1e38-4a9a-999f-1e7f47b24c7f",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759335618~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F30%2FFrmula_S_20250930_1759240853026%2F~psid=fde6896c-3fd5-4024-9844-158f6e0c62c3~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=f6e88229fc00e33985954f27047cace503e40751290c5c49c353ecc1fabad76e/clt1/va02/disneyplus/event/2025/09/30/Frmula_S_20250930_1759240853026/ctr-all-hdri-complete.m3u8?v=1&hash=3e23fdc0484ca1ec4f56f2c9b1915721a2a5de70",
+    "k1": "fff1485ccbdb469dacfc4cab28e4e223",
+    "k2": "6b5bc00dbc9a5a57b5e5bd9fa8074f0e"
   },
   {
     "title": "La Hache Cría & Polo vs. Los Machitos | Semifinal Subsidiaria",
@@ -182,6 +172,16 @@
     "play_url": ""
   },
   {
+    "title": "Chelsea vs. Benfica",
+    "league": "UEFA Champions League",
+    "fecha-evento": "2025-09-30T13:40:00-05:00",
+    "img": "cfac8eb7-90a1-4049-b433-e6be352faea3",
+    "nombre": "disney0167a0",
+    "status": "13:40",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
     "title": "Pafos FC vs. Bayern Munich",
     "league": "UEFA Champions League",
     "fecha-evento": "2025-09-30T13:40:00-05:00",
@@ -232,11 +232,11 @@
     "play_url": ""
   },
   {
-    "title": "San Diego Padres vs. Chicago Cubs",
+    "title": "Cincinnati Reds vs. Los Angeles Dodgers",
     "league": "MLB",
     "fecha-evento": "2025-09-30T14:00:00-05:00",
-    "img": "15d8d010-a199-4897-a359-675ab50f8a10",
-    "nombre": "disney64a7d0",
+    "img": "70662117-5dca-40fe-b90f-d97f486982fc",
+    "nombre": "disney3908a3",
     "status": "14:00",
     "duration": 135,
     "play_url": ""
