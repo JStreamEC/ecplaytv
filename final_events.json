@@ -39,19 +39,6 @@
     "k2": "833b6cc69d59e20ee6ebcb7451d2f3e3"
   },
   {
-    "title": "Montreal Canadiens vs. Ottawa Senators",
-    "league": "National Hockey League",
-    "fecha-evento": "2025-09-30T18:00:00-05:00",
-    "img": "ef30be6e-1883-4e89-bac1-454f778b23a1",
-    "nombre": "disney908141",
-    "status": "18:00",
-    "duration": 210,
-    "play_url": "https://www.disneyplus.com/es-es/play/28f7614a-230e-4455-b170-415037cf90e6",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759359662~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F30%2FMontreal_Canadiens_vs_Ott_20250930_1759266008045%2F~psid=0cdaeee8-1e3b-4ce6-84e7-c9e53a5d0a7a~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=8875e5c5e6d3e663c5b3c0d48992ed951f3bd80717585c3dd3f0af217b690ef5/clt1/va02/disneyplus/event/2025/09/30/Montreal_Canadiens_vs_Ott_20250930_1759266008045/ctr-all-hdri-complete.m3u8?v=1&hash=e0290477ab82b939ecb1f241e773752e851d1e7a",
-    "k1": "01563ecc72e0413794141ce464d1188b",
-    "k2": "df3106373d802a75414fabb446f2eed4"
-  },
-  {
     "title": "Washington Capitals vs. Columbus Blue Jackets",
     "league": "National Hockey League",
     "fecha-evento": "2025-09-30T18:00:00-05:00",
@@ -63,6 +50,19 @@
     "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759359706~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F30%2FWashington_Capitals_vs_Co_20250930_1759266034025%2F~psid=75dcaf83-8219-465c-97f1-f5017b2f6865~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=b6ce2deb9002695a2ffe2c2cdf356282f164a0ce0cb108ffaab5a781d895224d/clt1/va02/disneyplus/event/2025/09/30/Washington_Capitals_vs_Co_20250930_1759266034025/ctr-all-hdri-complete.m3u8?v=1&hash=34e7879885f518e81fd0db4d0af84a66df3d0929",
     "k1": "6992af8f70894e2780af5cd4ad9257c6",
     "k2": "d6adff5bcd9c6febe02b79fe0874253a"
+  },
+  {
+    "title": "Montreal Canadiens vs. Ottawa Senators",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-09-30T18:00:00-05:00",
+    "img": "ef30be6e-1883-4e89-bac1-454f778b23a1",
+    "nombre": "disney908141",
+    "status": "18:00",
+    "duration": 210,
+    "play_url": "https://www.disneyplus.com/es-es/play/28f7614a-230e-4455-b170-415037cf90e6",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759359662~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F30%2FMontreal_Canadiens_vs_Ott_20250930_1759266008045%2F~psid=0cdaeee8-1e3b-4ce6-84e7-c9e53a5d0a7a~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=8875e5c5e6d3e663c5b3c0d48992ed951f3bd80717585c3dd3f0af217b690ef5/clt1/va02/disneyplus/event/2025/09/30/Montreal_Canadiens_vs_Ott_20250930_1759266008045/ctr-all-hdri-complete.m3u8?v=1&hash=e0290477ab82b939ecb1f241e773752e851d1e7a",
+    "k1": "01563ecc72e0413794141ce464d1188b",
+    "k2": "df3106373d802a75414fabb446f2eed4"
   },
   {
     "title": "Mt. Pleasant FA vs. O&M FC",
@@ -418,7 +418,7 @@
     "title": "Borussia Dortmund vs. Athletic Club Bilbao",
     "league": "UEFA Champions League",
     "fecha-evento": "2025-10-01T13:40:00-05:00",
-    "img": "2b828579-5df4-4b54-b07e-06a8f6cdd293",
+    "img": "8b0a35cb-ed07-45ee-a0f7-3a7f6892e4c7",
     "nombre": "disney1d9db7",
     "status": "13:40",
     "duration": 135,
