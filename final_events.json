@@ -39,19 +39,6 @@
     "k2": "b81f5529c846b44b7569ce74f958b5be"
   },
   {
-    "title": "Union Omaha vs. Portland Hearts of Pine",
-    "league": "USL League One",
-    "fecha-evento": "2025-10-01T12:00:04-05:00",
-    "img": "72ee1a38-9994-4c58-8fdb-c82461c417f8",
-    "nombre": "disney4dd0e0",
-    "status": "12:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/05198bdb-cc2f-432f-b878-6632ab798804",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1759425662~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F01%2FUnion_Omaha_vs_Portland_H_20251001_1759330842023%2F~psid=e09b9bce-238c-428d-b6db-5087f3ec36bf~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=4d4d204a8579918dc3d9cea8b8752526a3eb880577fb8b9b6e20080e30440dd9/clt1/va02/disneyplus/event/2025/10/01/Union_Omaha_vs_Portland_H_20251001_1759330842023/ctr-all-hdri-complete.m3u8?v=1&hash=e07284d4709552281c1aa4386f5c1c22d713446d",
-    "k1": "5a51e2775796411195bb5ee29c2d1822",
-    "k2": "b6df5994287e02f5adb05c16e8d59abd"
-  },
-  {
     "title": "Al Zawraa (IRQ) vs. Al Nassr (KSA)",
     "league": "Asian Cup",
     "fecha-evento": "2025-10-01T13:00:00-05:00",
@@ -210,12 +197,15 @@
   {
     "title": "San Diego Padres vs. Chicago Cubs",
     "league": "MLB",
-    "fecha-evento": "2025-10-01T14:00:00-05:00",
+    "fecha-evento": "2025-10-01T14:00:02-05:00",
     "img": "15d8d010-a199-4897-a359-675ab50f8a10",
-    "nombre": "disney5776c4",
+    "nombre": "disney7488fc",
     "status": "14:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 180,
+    "play_url": "https://www.disneyplus.com/es-es/play/b62f570e-d9df-4c59-8978-31b78efc7ad1",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759432819~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F01%2FSan_Diego_Padres_vs_Chica_20251001_1759338012041%2F~psid=fa979f22-6fb7-49af-9d63-c3f937b179ff~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=64899f2b8edfe06fbb3af34f5226b24768f3aaf777c97bbc255b316dad161627/clt1/va02/disneyplus/event/2025/10/01/San_Diego_Padres_vs_Chica_20251001_1759338012041/ctr-all-hdri-complete.m3u8?v=1&hash=4d8399e0675aac51984ea66baa875bd4dc994f90",
+    "k1": "30800d9f7cd648a4b1a15e86be5c77c9",
+    "k2": "536e6eb011826d46cddb0be392a33d28"
   },
   {
     "title": "Top 14 de Francia 2025/26 - Resumen Semanal",
@@ -613,6 +603,16 @@
     "fecha-evento": "2025-10-02T11:35:00-05:00",
     "img": "a0d447e2-707a-4072-bc45-8ca62b12de6d",
     "nombre": "disney569462",
+    "status": "11:35",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Lech Poznan - Rapid Wien",
+    "league": "UEFA Conference League",
+    "fecha-evento": "2025-10-02T11:35:00-05:00",
+    "img": "c8da452c-e94a-4bc7-9f4a-24067b134ac4",
+    "nombre": "disney0f4ec4",
     "status": "11:35",
     "duration": 135,
     "play_url": ""
