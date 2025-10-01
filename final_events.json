@@ -1,31 +1,5 @@
 [
   {
-    "title": "Moca FC vs. SV Robinhood (Round #5)",
-    "league": "Concacaf Caribbean Cup",
-    "fecha-evento": "2025-09-30T19:00:00-05:00",
-    "img": "0aec92e7-6143-4d31-9d7f-c2b4a5324491",
-    "nombre": "disney2a5e5c",
-    "status": "19:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/a7282ac0-b62c-4cee-8cf2-ab4a592f5d2e",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1759363352~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F01%2FMoca_FC_vs_SV_Robinhood_R_20251001_1759269617039%2F~psid=e9756251-cc86-47c1-8d34-472cfeca2744~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=4cc07512e91dbbe3c0be49b8eaf6bdd5814f74adb675f44e009009f1e8d43240/clt1/va02/disneyplus/event/2025/10/01/Moca_FC_vs_SV_Robinhood_R_20251001_1759269617039/ctr-all-hdri-complete.m3u8?v=1&hash=624f391125ed6abab27c034ed8dbae621d679e7e",
-    "k1": "a9b3acaca08e422f8742acc532c8e2e9",
-    "k2": "44776e46e91937d77959f18d89efa444"
-  },
-  {
-    "title": "Dana White's Contender Series #8 | ESPN KO",
-    "league": "UFC",
-    "fecha-evento": "2025-09-30T19:00:00-05:00",
-    "img": "1291b414-3cf7-40c9-8ac2-8cbb24bf8661",
-    "nombre": "disneyacf011",
-    "status": "19:00",
-    "duration": 150,
-    "play_url": "https://www.disneyplus.com/es-es/play/effb9ca1-363a-449e-a004-ed87007f6de1",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759363375~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F01%2FDana_Whites_Contender_Ser_20251001_1759269629025%2F~psid=89aa4982-8b46-4b98-9321-6996fa6d8927~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=8c94083944b5a299d0a7f7c5d6496d4d47de9e08fc8cc181973a38f2a105db35/clt1/va02/disneyplus/event/2025/10/01/Dana_Whites_Contender_Ser_20251001_1759269629025/ctr-all-hdri-complete.m3u8?v=1&hash=c5a758abdf595a36248702be783bb5e867652e7c",
-    "k1": "575803555bab4342bdcdc11dd8d9eba4",
-    "k2": "e7bbccd30fcacf30938f947b197c317f"
-  },
-  {
     "title": "Vegas Golden Knights vs. Colorado Avalanche",
     "league": "National Hockey League",
     "fecha-evento": "2025-09-30T19:00:00-05:00",
@@ -562,6 +536,26 @@
     "fecha-evento": "2025-10-01T20:00:00-05:00",
     "img": "15737fe8-a161-4a19-a9fd-11d6fb82236f",
     "nombre": "disney377989",
+    "status": "20:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Vancouver Canucks vs. Calgary Flames",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-10-01T20:00:00-05:00",
+    "img": "7f21861e-7335-4bb0-b07f-915e6cd8d5b6",
+    "nombre": "disney58699a",
+    "status": "20:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Colorado Avalanche vs. Vegas Golden Knights",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-10-01T20:00:00-05:00",
+    "img": "ed4f22cf-9246-4bb7-a2d8-6c74864b1262",
+    "nombre": "disneyf4b631",
     "status": "20:00",
     "duration": 135,
     "play_url": ""
