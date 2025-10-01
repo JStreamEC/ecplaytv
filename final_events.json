@@ -67,12 +67,15 @@
   {
     "title": "Club América Femenil vs. Orlando Pride (Fecha #4)",
     "league": "Concacaf W Champions Cup",
-    "fecha-evento": "2025-09-30T19:50:00-05:00",
+    "fecha-evento": "2025-09-30T19:50:06-05:00",
     "img": "00653c2a-9c5a-46bc-9122-8f725be388d5",
-    "nombre": "disney880656",
+    "nombre": "disneyb10b7d",
     "status": "19:50",
-    "duration": 135,
-    "play_url": ""
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/e1bee70b-fd89-417c-9c06-ddc3638e62cf",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759366818~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F01%2FClub_Amrica_Femenil_vs_Or_20251001_1759272630041%2F~psid=9065adad-d5cc-46a3-b98f-e48dc111b670~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=39a551b2224e0c719f0869851894ccd790a77ab4bd679961238265b7e475c08c/clt1/va02/disneyplus/event/2025/10/01/Club_Amrica_Femenil_vs_Or_20251001_1759272630041/ctr-all-hdri-complete.m3u8?v=1&hash=775271ca26ad9a72dd9a5505eed339da119704be",
+    "k1": "692260721dde49ba8ca0e0855ffe7b88",
+    "k2": "b4709c357d536a6497c15f305646452d"
   },
   {
     "title": "Cincinnati Reds vs. Los Angeles Dodgers",
@@ -345,11 +348,11 @@
     "play_url": ""
   },
   {
-    "title": "Napoli vs. Sporting Lisboa",
+    "title": "AS Monaco vs. Manchester City",
     "league": "UEFA Champions League",
     "fecha-evento": "2025-10-01T13:40:00-05:00",
-    "img": "279ebc8e-c341-4956-a2a9-af5d44c19224",
-    "nombre": "disney611501",
+    "img": "a3d995b1-b981-4a22-b7fe-c73b316f6a32",
+    "nombre": "disneyb599d0",
     "status": "13:40",
     "duration": 135,
     "play_url": ""
@@ -368,8 +371,18 @@
     "title": "Villarreal vs. Juventus",
     "league": "UEFA Champions League",
     "fecha-evento": "2025-10-01T13:40:00-05:00",
-    "img": "00224832-9f66-4d99-b1e4-37d154f2050a",
+    "img": "301ea299-f6f2-49d8-ab51-b0dd2bbfbf7f",
     "nombre": "disney1417cd",
+    "status": "13:40",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Napoli vs. Sporting Lisboa",
+    "league": "UEFA Champions League",
+    "fecha-evento": "2025-10-01T13:40:00-05:00",
+    "img": "279ebc8e-c341-4956-a2a9-af5d44c19224",
+    "nombre": "disney611501",
     "status": "13:40",
     "duration": 135,
     "play_url": ""
