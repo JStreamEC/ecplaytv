@@ -65,24 +65,30 @@
     "k2": "79283a688d304395e6d9d5b90f8ec15d"
   },
   {
-    "title": "Union Omaha vs. Portland Hearts of Pine",
-    "league": "USL League One",
-    "fecha-evento": "2025-10-01T12:00:00-05:00",
-    "img": "72ee1a38-9994-4c58-8fdb-c82461c417f8",
-    "nombre": "disney8f6176",
-    "status": "12:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Detroit Tigers vs. Cleveland Guardians",
     "league": "MLB",
     "fecha-evento": "2025-10-01T12:00:00-05:00",
     "img": "1d17306a-bd89-4b5d-a603-9b2a032c7b05",
     "nombre": "disney69fe15",
     "status": "12:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 180,
+    "play_url": "https://www.disneyplus.com/es-es/play/5a9a0de6-2386-430a-bf3f-f06adb130b22",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759425618~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F01%2FDetroit_Tigers_vs_Clevela_20251001_1759330848028%2F~psid=43a58648-ced7-471e-9a8a-ffb0f938a898~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=be7ce90cac7bfc973b51369043bfbcb8391bbbe15c8aa31b289f62fba6836daf/clt1/va02/disneyplus/event/2025/10/01/Detroit_Tigers_vs_Clevela_20251001_1759330848028/ctr-all-hdri-complete.m3u8?v=1&hash=1d59d772acc612cdcf1ef57663cf57d8c62be94e",
+    "k1": "77c3e5838afe4ad89acf32112926b614",
+    "k2": "b81f5529c846b44b7569ce74f958b5be"
+  },
+  {
+    "title": "Union Omaha vs. Portland Hearts of Pine",
+    "league": "USL League One",
+    "fecha-evento": "2025-10-01T12:00:04-05:00",
+    "img": "72ee1a38-9994-4c58-8fdb-c82461c417f8",
+    "nombre": "disney4dd0e0",
+    "status": "12:00",
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/05198bdb-cc2f-432f-b878-6632ab798804",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1759425662~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F01%2FUnion_Omaha_vs_Portland_H_20251001_1759330842023%2F~psid=e09b9bce-238c-428d-b6db-5087f3ec36bf~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=4d4d204a8579918dc3d9cea8b8752526a3eb880577fb8b9b6e20080e30440dd9/clt1/va02/disneyplus/event/2025/10/01/Union_Omaha_vs_Portland_H_20251001_1759330842023/ctr-all-hdri-complete.m3u8?v=1&hash=e07284d4709552281c1aa4386f5c1c22d713446d",
+    "k1": "5a51e2775796411195bb5ee29c2d1822",
+    "k2": "b6df5994287e02f5adb05c16e8d59abd"
   },
   {
     "title": "El Paso Locomotive FC vs. Oakland Roots SC",
