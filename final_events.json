@@ -1,31 +1,5 @@
 [
   {
-    "title": "Premier Padel: Rotterdam - Centre Court (Segunda Ronda)",
-    "league": "Premier Padel",
-    "fecha-evento": "2025-10-01T11:30:11-05:00",
-    "img": "07bfe551-3e5f-4c83-bc38-165e562f990f",
-    "nombre": "disneyf0f23e",
-    "status": "11:30",
-    "duration": 270,
-    "play_url": "https://www.disneyplus.com/es-es/play/c123174b-d739-4541-8c04-06dd379384d0",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759423351~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F01%2FPremier_Padel_Rotterdam_C_20251001_1759329031037%2F~psid=98d87953-a8a3-46dd-a102-4d24fad89a50~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=8232144a38962757842ee7875b5c005080aea9473192158971151bcd84ac4347/clt1/va02/disneyplus/event/2025/10/01/Premier_Padel_Rotterdam_C_20251001_1759329031037/ctr-all-hdri-complete.m3u8?v=1&hash=83b8eb0557c2c9d123602f4189715bbc1a8eac35",
-    "k1": "babdfb1b924b48aa99a928985873bd01",
-    "k2": "79283a688d304395e6d9d5b90f8ec15d"
-  },
-  {
-    "title": "San Diego Padres vs. Chicago Cubs",
-    "league": "MLB",
-    "fecha-evento": "2025-10-01T14:00:02-05:00",
-    "img": "15d8d010-a199-4897-a359-675ab50f8a10",
-    "nombre": "disney7488fc",
-    "status": "14:00",
-    "duration": 180,
-    "play_url": "https://www.disneyplus.com/es-es/play/b62f570e-d9df-4c59-8978-31b78efc7ad1",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759432819~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F01%2FSan_Diego_Padres_vs_Chica_20251001_1759338012041%2F~psid=fa979f22-6fb7-49af-9d63-c3f937b179ff~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=64899f2b8edfe06fbb3af34f5226b24768f3aaf777c97bbc255b316dad161627/clt1/va02/disneyplus/event/2025/10/01/San_Diego_Padres_vs_Chica_20251001_1759338012041/ctr-all-hdri-complete.m3u8?v=1&hash=4d8399e0675aac51984ea66baa875bd4dc994f90",
-    "k1": "30800d9f7cd648a4b1a15e86be5c77c9",
-    "k2": "536e6eb011826d46cddb0be392a33d28"
-  },
-  {
     "title": "Belgrano vs. Estudiantes de La Plata (Fecha # 12)",
     "league": "Torneo Proyección",
     "fecha-evento": "2025-10-01T16:45:00-05:00",
@@ -42,8 +16,11 @@
     "img": "081e9ef5-e962-44ae-91be-f4438d96a7e3",
     "nombre": "disneyee0e41",
     "status": "17:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 180,
+    "play_url": "https://www.disneyplus.com/es-es/play/07336336-2013-4cb3-9d16-f20a04c55ce8",
+    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1759443661~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F7f9052ce-8143-43a6-9656-a8c00c4a3e56-1759240175078%2F~psid=58a19651-be77-40f5-8236-21ff449d74c5~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=fbd01c7bc1263e9d27bb4443ab30895aa6d3c500f209a590d5f62eed7285d4b8/clt1/va02/disneyplus/channel/7f9052ce-8143-43a6-9656-a8c00c4a3e56-1759240175078/ctr-all-sliding-alt1.m3u8?v=1&hash=22ad5e2d0432c600fd499175bbf099e9ad9e65ab",
+    "k1": "4d1be7b9ed9e4713aae4eaf1ffbf249b",
+    "k2": "5e9ea2ac4835960ddf18a6422fc19368"
   },
   {
     "title": "One Knoxville SC vs. Chattanooga Red Wolves SC",
@@ -278,10 +255,10 @@
   {
     "title": "Premier Padel: Rotterdam - Secondary Court (Octavos de Final)",
     "league": "Premier Padel",
-    "fecha-evento": "2025-10-02T03:00:00-05:00",
+    "fecha-evento": "2025-10-02T04:00:00-05:00",
     "img": "0e1765c8-f206-4c68-aae8-534b423e38d2",
-    "nombre": "disney1c37e8",
-    "status": "03:00",
+    "nombre": "disney87e6a9",
+    "status": "04:00",
     "duration": 135,
     "play_url": ""
   },
@@ -309,7 +286,7 @@
     "title": "Alfred Dunhill Links Championship (First Round)",
     "league": "DP World Tour",
     "fecha-evento": "2025-10-02T06:00:00-05:00",
-    "img": "981b17d1-abd8-4452-8560-bf631e37383f",
+    "img": "2f4d2078-3682-4d12-8c09-6e8cfd027ab2",
     "nombre": "disneyf5cc40",
     "status": "06:00",
     "duration": 135,
@@ -581,6 +558,26 @@
     "fecha-evento": "2025-10-02T13:40:00-05:00",
     "img": "1f5e6537-93e6-49c9-8f8d-f093f00c2b8b",
     "nombre": "disneydfeba4",
+    "status": "13:40",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Nottingham Forest vs. Midtjylland",
+    "league": "UEFA Europa League",
+    "fecha-evento": "2025-10-02T13:40:00-05:00",
+    "img": "e60d768d-1c0a-4aeb-9810-2479870f71c2",
+    "nombre": "disneyd1d241",
+    "status": "13:40",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Olympique Lyonnais vs. FC Salzburg",
+    "league": "UEFA Europa League",
+    "fecha-evento": "2025-10-02T13:40:00-05:00",
+    "img": "0c30bb4a-7c52-4e6f-8b2e-537bd77fa10f",
+    "nombre": "disney895bba",
     "status": "13:40",
     "duration": 135,
     "play_url": ""
