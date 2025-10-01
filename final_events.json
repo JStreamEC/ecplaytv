@@ -1,28 +1,5 @@
 [
   {
-    "title": "ATP Uncovered",
-    "league": "ESPN",
-    "fecha-evento": "2025-10-01T16:28:00-05:00",
-    "img": "f5d7c938-e1da-4c72-81c8-b77e20b966d7",
-    "nombre": "disney1f452f",
-    "status": "16:28",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Australia vs. New Zealand",
-    "league": "ESPN",
-    "fecha-evento": "2025-10-01T04:20:08-05:00",
-    "img": "3f924cb0-3281-456f-a3ad-22f42fb18e6b",
-    "nombre": "disney515ec1",
-    "status": "04:20",
-    "duration": 430,
-    "play_url": "https://www.disneyplus.com/es-es/play/29db0758-2dc5-4683-89ef-d7b6746f2ed4",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1759422061~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F01%2FAustralia_vs_New_Zealand_20251001_1759302015027%2F~psid=47ae63b3-af15-4ae4-9e61-b2e1b2e7ea51~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=6a6d91fcbdc755ad0e43ef920a1bfd15c290b05372ebe11faad9c973f3fe4635/clt1/va02/disneyplus/event/2025/10/01/Australia_vs_New_Zealand_20251001_1759302015027/ctr-all-hdri-complete.m3u8?v=1&hash=02a6e9f8db8bd93c096a9d16a6dd7904afaa1449",
-    "k1": "b3fc20dfcd754869bee39fc66385b0e3",
-    "k2": "cc89a1c135e01ab6f2ff83f0333bb3ac"
-  },
-  {
     "title": "Sol de Agosto vs. La Ensenada Clonargen | Semifinal Subsidiaria",
     "league": "Abierto de Hurlingham",
     "fecha-evento": "2025-10-01T11:25:02-05:00",
@@ -141,7 +118,7 @@
     "title": "AS Monaco vs. Manchester City",
     "league": "UEFA Champions League",
     "fecha-evento": "2025-10-01T13:40:00-05:00",
-    "img": "3262ef73-f932-40a2-bc9e-a16890ae6e60",
+    "img": "0aba140a-abf9-4ba4-801c-f86cb92e8236",
     "nombre": "disneyb599d0",
     "status": "13:40",
     "duration": 135,
@@ -321,7 +298,7 @@
     "title": "CD Plaza Amador vs. Real CD España (Quarterfinals, Leg 2)",
     "league": "Concacaf Central American Cup",
     "fecha-evento": "2025-10-01T18:50:00-05:00",
-    "img": "0052b2e7-f21d-4339-bae8-2b219ca4f0f6",
+    "img": "b2f47ea8-ab2a-4227-88cc-b3eab444d27a",
     "nombre": "disneyec668d",
     "status": "18:50",
     "duration": 135,
@@ -393,6 +370,16 @@
     "fecha-evento": "2025-10-01T21:00:00-05:00",
     "img": "a5fc570b-d2ac-4adf-bfd0-b03c520d507b",
     "nombre": "disney0062a1",
+    "status": "21:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Edmonton Oilers vs. Seattle Kraken",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-10-01T21:00:00-05:00",
+    "img": "94e20744-78c6-47c2-a993-a479be1dce0a",
+    "nombre": "disneyf69b85",
     "status": "21:00",
     "duration": 135,
     "play_url": ""
@@ -583,6 +570,16 @@
     "fecha-evento": "2025-10-02T11:30:00-05:00",
     "img": "1b322bdc-59c0-4838-a737-c39c397c51e5",
     "nombre": "disney582884",
+    "status": "11:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Bologna vs. SC Freiburg",
+    "league": "UEFA Europa League",
+    "fecha-evento": "2025-10-02T11:30:00-05:00",
+    "img": "c3772092-a35e-488a-a211-b3c04ab8827b",
+    "nombre": "disney2ec153",
     "status": "11:30",
     "duration": 135,
     "play_url": ""
