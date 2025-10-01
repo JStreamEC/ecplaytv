@@ -1,68 +1,42 @@
 [
   {
-    "title": "Boston Red Sox vs. New York Yankees",
-    "league": "MLB",
-    "fecha-evento": "2025-09-30T17:00:00-05:00",
-    "img": "081e9ef5-e962-44ae-91be-f4438d96a7e3",
-    "nombre": "disneydf761a",
-    "status": "17:00",
-    "duration": 180,
-    "play_url": "https://www.disneyplus.com/es-es/play/a885f957-7a48-4c11-b4e3-18fd281e410c",
-    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759356019~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F7f9052ce-8143-43a6-9656-a8c00c4a3e56-1759240175078%2F~psid=90a0ef05-f9b2-4bf3-ac03-dd44f5d3e104~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=34cf69b28d0fd6bbe48dfb2f47a4b94dfba8c6738f5ef9ea415eb3e95d05a99b/clt1/va02/disneyplus/channel/7f9052ce-8143-43a6-9656-a8c00c4a3e56-1759240175078/ctr-all-sliding-alt1.m3u8?v=1&hash=22ad5e2d0432c600fd499175bbf099e9ad9e65ab",
-    "k1": "491770fd903c4da78bd289f7cdaabc43",
-    "k2": "0ffe3967f5988c9a1e05035859c94e1d"
-  },
-  {
-    "title": "Florida Panthers vs. Tampa Bay Lightning",
-    "league": "National Hockey League",
-    "fecha-evento": "2025-09-30T18:00:00-05:00",
-    "img": "ba32e4fc-09ae-458e-85fb-805d520cfe84",
-    "nombre": "disney81aeed",
-    "status": "18:00",
-    "duration": 210,
-    "play_url": "https://www.disneyplus.com/es-es/play/1a4f9812-3874-49b9-99de-255f271975c8",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1759359619~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F30%2FFlorida_Panthers_vs_Tampa_20250930_1759266027726%2F~psid=957fc915-ca78-4c22-970d-81dbb91c7030~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=faa331a8cde6907daec7522a8e26e76e2cbaccea1340a3d06daf6e0cfd882385/clt1/va02/disneyplus/event/2025/09/30/Florida_Panthers_vs_Tampa_20250930_1759266027726/ctr-all-hdri-complete.m3u8?v=1&hash=63ceb234f9b4cff20586fc5c22ee853cc49a846c",
-    "k1": "ba2494cfc2684d988fa4c391c27959fe",
-    "k2": "833b6cc69d59e20ee6ebcb7451d2f3e3"
-  },
-  {
-    "title": "Washington Capitals vs. Columbus Blue Jackets",
-    "league": "National Hockey League",
-    "fecha-evento": "2025-09-30T18:00:00-05:00",
-    "img": "1027f062-cbbc-45ee-8635-043fc4a5da90",
-    "nombre": "disney2816ee",
-    "status": "18:00",
-    "duration": 210,
-    "play_url": "https://www.disneyplus.com/es-es/play/2db8e8cc-4811-41ff-9a55-15bcb0a1d28f",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759359706~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F30%2FWashington_Capitals_vs_Co_20250930_1759266034025%2F~psid=75dcaf83-8219-465c-97f1-f5017b2f6865~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=b6ce2deb9002695a2ffe2c2cdf356282f164a0ce0cb108ffaab5a781d895224d/clt1/va02/disneyplus/event/2025/09/30/Washington_Capitals_vs_Co_20250930_1759266034025/ctr-all-hdri-complete.m3u8?v=1&hash=34e7879885f518e81fd0db4d0af84a66df3d0929",
-    "k1": "6992af8f70894e2780af5cd4ad9257c6",
-    "k2": "d6adff5bcd9c6febe02b79fe0874253a"
-  },
-  {
-    "title": "Montreal Canadiens vs. Ottawa Senators",
-    "league": "National Hockey League",
-    "fecha-evento": "2025-09-30T18:00:00-05:00",
-    "img": "ef30be6e-1883-4e89-bac1-454f778b23a1",
-    "nombre": "disney908141",
-    "status": "18:00",
-    "duration": 210,
-    "play_url": "https://www.disneyplus.com/es-es/play/28f7614a-230e-4455-b170-415037cf90e6",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759359662~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F30%2FMontreal_Canadiens_vs_Ott_20250930_1759266008045%2F~psid=0cdaeee8-1e3b-4ce6-84e7-c9e53a5d0a7a~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=8875e5c5e6d3e663c5b3c0d48992ed951f3bd80717585c3dd3f0af217b690ef5/clt1/va02/disneyplus/event/2025/09/30/Montreal_Canadiens_vs_Ott_20250930_1759266008045/ctr-all-hdri-complete.m3u8?v=1&hash=e0290477ab82b939ecb1f241e773752e851d1e7a",
-    "k1": "01563ecc72e0413794141ce464d1188b",
-    "k2": "df3106373d802a75414fabb446f2eed4"
-  },
-  {
-    "title": "Mt. Pleasant FA vs. O&M FC",
+    "title": "Moca FC vs. SV Robinhood (Round #5)",
     "league": "Concacaf Caribbean Cup",
-    "fecha-evento": "2025-09-30T18:50:01-05:00",
-    "img": "565799a9-708d-438f-a64e-9ee5fbe4e162",
-    "nombre": "disney7ea9c8",
-    "status": "18:50",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/fd3c25d5-f1ef-49a7-b46c-7acf8e2fc0cf",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1759363218~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F09%2F30%2FMt_Pleasant_FA_vs_OM_FC_20250930_1759269041037%2F~psid=473f0e17-98d9-48d7-9694-c4abd6335de1~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=549359dc7c1f447cd5d8086800b35795bf40065fc33cad3570509fe0fee3870c/clt1/va02/disneyplus/event/2025/09/30/Mt_Pleasant_FA_vs_OM_FC_20250930_1759269041037/ctr-all-hdri-complete.m3u8?v=1&hash=79ffee38a5ede116d08f2465543cf0384e534b69",
-    "k1": "ac86b344276e44068b2238ec1bd0e9f8",
-    "k2": "7de3700c045c663aa5021d6d4487289b"
+    "fecha-evento": "2025-09-30T19:00:00-05:00",
+    "img": "0aec92e7-6143-4d31-9d7f-c2b4a5324491",
+    "nombre": "disney2a5e5c",
+    "status": "19:00",
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/a7282ac0-b62c-4cee-8cf2-ab4a592f5d2e",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1759363352~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F01%2FMoca_FC_vs_SV_Robinhood_R_20251001_1759269617039%2F~psid=e9756251-cc86-47c1-8d34-472cfeca2744~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=4cc07512e91dbbe3c0be49b8eaf6bdd5814f74adb675f44e009009f1e8d43240/clt1/va02/disneyplus/event/2025/10/01/Moca_FC_vs_SV_Robinhood_R_20251001_1759269617039/ctr-all-hdri-complete.m3u8?v=1&hash=624f391125ed6abab27c034ed8dbae621d679e7e",
+    "k1": "a9b3acaca08e422f8742acc532c8e2e9",
+    "k2": "44776e46e91937d77959f18d89efa444"
+  },
+  {
+    "title": "Dana White's Contender Series #8 | ESPN KO",
+    "league": "UFC",
+    "fecha-evento": "2025-09-30T19:00:00-05:00",
+    "img": "1291b414-3cf7-40c9-8ac2-8cbb24bf8661",
+    "nombre": "disneyacf011",
+    "status": "19:00",
+    "duration": 150,
+    "play_url": "https://www.disneyplus.com/es-es/play/effb9ca1-363a-449e-a004-ed87007f6de1",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759363375~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F01%2FDana_Whites_Contender_Ser_20251001_1759269629025%2F~psid=89aa4982-8b46-4b98-9321-6996fa6d8927~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=8c94083944b5a299d0a7f7c5d6496d4d47de9e08fc8cc181973a38f2a105db35/clt1/va02/disneyplus/event/2025/10/01/Dana_Whites_Contender_Ser_20251001_1759269629025/ctr-all-hdri-complete.m3u8?v=1&hash=c5a758abdf595a36248702be783bb5e867652e7c",
+    "k1": "575803555bab4342bdcdc11dd8d9eba4",
+    "k2": "e7bbccd30fcacf30938f947b197c317f"
+  },
+  {
+    "title": "Vegas Golden Knights vs. Colorado Avalanche",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-09-30T19:00:00-05:00",
+    "img": "875c70f3-9dbf-4eef-98fd-24acc7037a96",
+    "nombre": "disney50549d",
+    "status": "19:00",
+    "duration": 210,
+    "play_url": "https://www.disneyplus.com/es-es/play/2eaf8d12-280d-4829-b331-444343b5e4ba",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759363328~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F01%2FVegas_Golden_Knights_vs_C_20251001_1759269609024%2F~psid=dfffe12c-c94a-44ee-a711-6f0efc2035e2~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=5e908944e62c8a2632465b3a0a8f5b7225b52c82f23c593ce7ee8bc46dca4e87/clt1/va02/disneyplus/event/2025/10/01/Vegas_Golden_Knights_vs_C_20251001_1759269609024/ctr-all-hdri-complete.m3u8?v=1&hash=16579793438d83acdfbe09b79d0d356ed5ae1652",
+    "k1": "24aaa705423643b8bb20bfee53892e0b",
+    "k2": "f51f081b71dc628954e2df28ca99f1c2"
   },
   {
     "title": "Detroit Red Wings vs. Chicago Blackhawks",
@@ -89,45 +63,6 @@
     "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759363305~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F01%2FDallas_Stars_vs_St_Louis__20251001_1759269602036%2F~psid=b9e5e163-afa3-4d99-838f-287137cf5198~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=d8762c535540deb1c48b4e346a17606570f0ac9baae5d71c6974af66d5787271/clt1/va02/disneyplus/event/2025/10/01/Dallas_Stars_vs_St_Louis__20251001_1759269602036/ctr-all-hdri-complete.m3u8?v=1&hash=ee040b91ce8794fa920239b5fc5cd271f4f35c41",
     "k1": "db2041056f034e4aa9cc3b035ff34f96",
     "k2": "4330da7c1c6d13c7674dc5e1665869c2"
-  },
-  {
-    "title": "Vegas Golden Knights vs. Colorado Avalanche",
-    "league": "National Hockey League",
-    "fecha-evento": "2025-09-30T19:00:00-05:00",
-    "img": "875c70f3-9dbf-4eef-98fd-24acc7037a96",
-    "nombre": "disney50549d",
-    "status": "19:00",
-    "duration": 210,
-    "play_url": "https://www.disneyplus.com/es-es/play/2eaf8d12-280d-4829-b331-444343b5e4ba",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759363328~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F01%2FVegas_Golden_Knights_vs_C_20251001_1759269609024%2F~psid=dfffe12c-c94a-44ee-a711-6f0efc2035e2~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=5e908944e62c8a2632465b3a0a8f5b7225b52c82f23c593ce7ee8bc46dca4e87/clt1/va02/disneyplus/event/2025/10/01/Vegas_Golden_Knights_vs_C_20251001_1759269609024/ctr-all-hdri-complete.m3u8?v=1&hash=16579793438d83acdfbe09b79d0d356ed5ae1652",
-    "k1": "24aaa705423643b8bb20bfee53892e0b",
-    "k2": "f51f081b71dc628954e2df28ca99f1c2"
-  },
-  {
-    "title": "Moca FC vs. SV Robinhood (Round #5)",
-    "league": "Concacaf Caribbean Cup",
-    "fecha-evento": "2025-09-30T19:00:00-05:00",
-    "img": "0aec92e7-6143-4d31-9d7f-c2b4a5324491",
-    "nombre": "disney2a5e5c",
-    "status": "19:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/a7282ac0-b62c-4cee-8cf2-ab4a592f5d2e",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1759363352~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F01%2FMoca_FC_vs_SV_Robinhood_R_20251001_1759269617039%2F~psid=e9756251-cc86-47c1-8d34-472cfeca2744~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=4cc07512e91dbbe3c0be49b8eaf6bdd5814f74adb675f44e009009f1e8d43240/clt1/va02/disneyplus/event/2025/10/01/Moca_FC_vs_SV_Robinhood_R_20251001_1759269617039/ctr-all-hdri-complete.m3u8?v=1&hash=624f391125ed6abab27c034ed8dbae621d679e7e",
-    "k1": "a9b3acaca08e422f8742acc532c8e2e9",
-    "k2": "44776e46e91937d77959f18d89efa444"
-  },
-  {
-    "title": "Dana White's Contender Series #8 | ESPN KO",
-    "league": "UFC",
-    "fecha-evento": "2025-09-30T19:00:00-05:00",
-    "img": "1291b414-3cf7-40c9-8ac2-8cbb24bf8661",
-    "nombre": "disneyacf011",
-    "status": "19:00",
-    "duration": 150,
-    "play_url": "https://www.disneyplus.com/es-es/play/effb9ca1-363a-449e-a004-ed87007f6de1",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759363375~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F01%2FDana_Whites_Contender_Ser_20251001_1759269629025%2F~psid=89aa4982-8b46-4b98-9321-6996fa6d8927~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=8c94083944b5a299d0a7f7c5d6496d4d47de9e08fc8cc181973a38f2a105db35/clt1/va02/disneyplus/event/2025/10/01/Dana_Whites_Contender_Ser_20251001_1759269629025/ctr-all-hdri-complete.m3u8?v=1&hash=c5a758abdf595a36248702be783bb5e867652e7c",
-    "k1": "575803555bab4342bdcdc11dd8d9eba4",
-    "k2": "e7bbccd30fcacf30938f947b197c317f"
   },
   {
     "title": "Club América Femenil vs. Orlando Pride (Fecha #4)",
@@ -410,11 +345,11 @@
     "play_url": ""
   },
   {
-    "title": "AS Monaco vs. Manchester City",
+    "title": "Napoli vs. Sporting Lisboa",
     "league": "UEFA Champions League",
     "fecha-evento": "2025-10-01T13:40:00-05:00",
-    "img": "a3d995b1-b981-4a22-b7fe-c73b316f6a32",
-    "nombre": "disneyb599d0",
+    "img": "279ebc8e-c341-4956-a2a9-af5d44c19224",
+    "nombre": "disney611501",
     "status": "13:40",
     "duration": 135,
     "play_url": ""
@@ -435,16 +370,6 @@
     "fecha-evento": "2025-10-01T13:40:00-05:00",
     "img": "00224832-9f66-4d99-b1e4-37d154f2050a",
     "nombre": "disney1417cd",
-    "status": "13:40",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Napoli vs. Sporting Lisboa",
-    "league": "UEFA Champions League",
-    "fecha-evento": "2025-10-01T13:40:00-05:00",
-    "img": "cf05b141-f329-4ec5-b0ef-f0f76a23b3df",
-    "nombre": "disney611501",
     "status": "13:40",
     "duration": 135,
     "play_url": ""
@@ -520,6 +445,16 @@
     "play_url": ""
   },
   {
+    "title": "Boston Red Sox vs. New York Yankees",
+    "league": "MLB",
+    "fecha-evento": "2025-10-01T17:00:00-05:00",
+    "img": "081e9ef5-e962-44ae-91be-f4438d96a7e3",
+    "nombre": "disneyee0e41",
+    "status": "17:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
     "title": "One Knoxville SC vs. Chattanooga Red Wolves SC",
     "league": "USL League One",
     "fecha-evento": "2025-10-01T17:30:00-05:00",
@@ -546,6 +481,66 @@
     "img": "0e56d1ac-3817-449a-82bf-28b0d51b9ed5",
     "nombre": "disney55a8c3",
     "status": "18:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "#9 Texas A&M vs. South Carolina",
+    "league": "NCAA Women's Volleyball",
+    "fecha-evento": "2025-10-01T18:00:00-05:00",
+    "img": "1a8f53d6-82ab-4923-a6a7-d1041464e6c8",
+    "nombre": "disneyedd7be",
+    "status": "18:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Cibao FC vs. Defence Force FC",
+    "league": "Concacaf Caribbean Cup",
+    "fecha-evento": "2025-10-01T18:50:00-05:00",
+    "img": "0b2eeea2-2cc1-4139-adf5-84b32860fe60",
+    "nombre": "disney6536c3",
+    "status": "18:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "CD Plaza Amador vs. Real CD España (Quarterfinals, Leg 2)",
+    "league": "Concacaf Central American Cup",
+    "fecha-evento": "2025-10-01T18:50:00-05:00",
+    "img": "0052b2e7-f21d-4339-bae8-2b219ca4f0f6",
+    "nombre": "disneyec668d",
+    "status": "18:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Weymouth Wales FC vs. Cavalier FC (Round #5)",
+    "league": "Concacaf Caribbean Cup",
+    "fecha-evento": "2025-10-01T19:00:00-05:00",
+    "img": "7f0c5379-ba93-4aa0-a47f-1a7c3a4a30a8",
+    "nombre": "disneycb61a8",
+    "status": "19:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Birmingham Legion FC vs. North Carolina FC",
+    "league": "USL Championship",
+    "fecha-evento": "2025-10-01T19:00:00-05:00",
+    "img": "7b7978e5-67be-447d-92f0-e35c789cd932",
+    "nombre": "disneyc5a959",
+    "status": "19:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "CF Pachuca Femenil vs. LD Alajuelense (Fecha #4)",
+    "league": "Concacaf W Champions Cup",
+    "fecha-evento": "2025-10-01T20:00:00-05:00",
+    "img": "15737fe8-a161-4a19-a9fd-11d6fb82236f",
+    "nombre": "disney377989",
+    "status": "20:00",
     "duration": 135,
     "play_url": ""
   }
