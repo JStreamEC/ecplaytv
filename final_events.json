@@ -54,12 +54,15 @@
   {
     "title": "Detroit Tigers vs. Cleveland Guardians",
     "league": "MLB",
-    "fecha-evento": "2025-10-02T14:00:00-05:00",
+    "fecha-evento": "2025-10-02T14:00:01-05:00",
     "img": "1d17306a-bd89-4b5d-a603-9b2a032c7b05",
-    "nombre": "disneyc790cb",
+    "nombre": "disney7e8630",
     "status": "14:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 180,
+    "play_url": "https://www.disneyplus.com/es-es/play/5e238d8f-a3ff-4699-81c6-c0578ea0e8b6",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1759519218~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F02%2FDetroit_Tigers_vs_Clevela_20251002_1759424433037%2F~psid=c6c5b188-0c4f-41f8-86db-e4b41667e7e0~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=9379484a7db1aa1afa102b92508c2db0122e23b0720bedd0856b614fa8209dbe/clt1/va02/disneyplus/event/2025/10/02/Detroit_Tigers_vs_Clevela_20251002_1759424433037/ctr-all-hdri-complete.m3u8?v=1&hash=a99eefd6000b7d1926b941fd83f75268b670d1a8",
+    "k1": "58228f0590b144888d963536e035aa95",
+    "k2": "94b60bd9c7d484f7b497b9b175bfb2ab"
   },
   {
     "title": "IWF Forde - Women 48",
@@ -153,17 +156,30 @@
     "k2": "56323ab55a9686457cf375d7eb683875"
   },
   {
-    "title": "Sturm Graz vs. Rangers",
-    "league": "UEFA Europa League",
+    "title": "Sparta Praga vs. Shamrock Rovers FC",
+    "league": "UEFA Conference League",
     "fecha-evento": "2025-10-02T13:50:00-05:00",
-    "img": "8998fb98-d763-4551-a05a-43a043b365da",
-    "nombre": "disneye6daed",
+    "img": "013030ba-ed15-46d8-ac56-8a8f469c5596",
+    "nombre": "disneye4b88c",
     "status": "13:50",
     "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/aa5e7401-7264-493e-99ff-90e68c902970",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759517742~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F02%2FSturm_Graz_vs_Rangers_20251002_1759423804029%2F~psid=289d165e-abb5-43d4-a291-3240e4558f9a~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=0a3e0b18fa3cc90ad5cea1b0778963479074dcd3a2804926013d4cab63497e04/clt1/va02/disneyplus/event/2025/10/02/Sturm_Graz_vs_Rangers_20251002_1759423804029/ctr-all-complete.m3u8?r=720&v=1&hash=3029ade0edfe69d95882c32fe518ad863d8c9191",
-    "k1": "7ab8e2ac11464f6399581ae2a6f69c84",
-    "k2": "79c7374b3e1597000f94992faedc24bb"
+    "play_url": "https://www.disneyplus.com/es-es/play/d3ca100e-3044-428b-8b15-db0f86f1a547",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1759517836~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F02%2FSparta_Praga_vs_Shamrock__20251002_1759423859038%2F~psid=9566a660-ea97-4e62-8e9d-0e680e2e48b7~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=a79da09c0fb7bc197ea7453a1614ed2425c45e7cc28cc7dac80179dd7df1a295/clt1/va02/disneyplus/event/2025/10/02/Sparta_Praga_vs_Shamrock__20251002_1759423859038/ctr-all-complete.m3u8?r=720&v=1&hash=77276a84c8a37add82d2f68ede9d197f6c46db34",
+    "k1": "3c233018e1d04dbd9b3fb3b9d95bf87d",
+    "k2": "c79968ece1547015640667bd82fa21bc"
+  },
+  {
+    "title": "Slovan Bratislava - Strasbourg",
+    "league": "UEFA Conference League",
+    "fecha-evento": "2025-10-02T13:50:00-05:00",
+    "img": "d3133d1c-b67a-498c-a833-ac2adf8a89b5",
+    "nombre": "disneycb1279",
+    "status": "13:50",
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/f52cf6be-7f65-4c8e-9317-59d679f14e5d",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759517859~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F02%2FSK_Slovan_Bratislava_vs_S_20251002_1759423843027%2F~psid=9afae482-d298-494f-ba90-bd5fea84a9fc~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=8275f404173026b77d17cda4c2a6df61dece5857dbc001aaa55e89dbf6c839c2/clt1/va02/disneyplus/event/2025/10/02/SK_Slovan_Bratislava_vs_S_20251002_1759423843027/ctr-all-complete.m3u8?r=720&v=1&hash=96e3f14ccfe3e8da95a23914b30e8360ce8d8898",
+    "k1": "26ce0e16e5c74fce988a8b9fabc321c6",
+    "k2": "f169dc8c4052506e16c860aef8f54376"
   },
   {
     "title": "Fiorentina - Sigma Olomuc",
@@ -192,32 +208,6 @@
     "k2": "f5db21f771d4ca858d0744a4fff5a16c"
   },
   {
-    "title": "Genk - Ferencvaros",
-    "league": "UEFA Europa League",
-    "fecha-evento": "2025-10-02T13:50:00-05:00",
-    "img": "bcb6562a-fc84-4569-9826-f8ba95eca3b8",
-    "nombre": "disney7147cf",
-    "status": "13:50",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/5172d531-01b3-45a9-9b00-dfa631e9accb",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759517625~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F02%2FGenk_vs_Ferencvros_20251002_1759423850069%2F~psid=5af9bf0d-66c4-42b1-aa8e-b5e6b2f6cee2~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=6e8a034f12d33e40052b28a1db227a28c0aaed3d8788a086e0aee8e53928cda0/clt1/va02/disneyplus/event/2025/10/02/Genk_vs_Ferencvros_20251002_1759423850069/ctr-all-complete.m3u8?r=720&v=1&hash=8ead1ed5117bbb4c7d549861a26de06bbc552638",
-    "k1": "dd9445040c5342f194bc4a4c046806fb",
-    "k2": "a63a6f97ffc1df7ce87d4c8ccb1d4e36"
-  },
-  {
-    "title": "Rotherham United vs. Bradford City",
-    "league": "League One de Inglaterra",
-    "fecha-evento": "2025-10-02T13:50:00-05:00",
-    "img": "d9bcd7d1-a870-469b-a682-e885a415d334",
-    "nombre": "disneydfb452",
-    "status": "13:50",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/6b0aec09-412c-40c2-b235-86e3380cef9d",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1759517672~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F02%2FRotherham_United_vs_Bradf_20251002_1759423810039%2F~psid=c4fb0d1f-6833-4819-a551-aa8e33aa2ae5~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=91e9b390e0e56e564ed291a31f7e2570217cf998ecc56cc325e52ca6d4f4ddd7/clt1/va02/disneyplus/event/2025/10/02/Rotherham_United_vs_Bradf_20251002_1759423810039/ctr-all-hdri-complete.m3u8?v=1&hash=a92e5dc6f6d10be7bf73ec380fb314ea3853aa6f",
-    "k1": "43f4b3e552c748bcb936cb48d472ca41",
-    "k2": "9dce7ea68ca6c3c27adf925694d01348"
-  },
-  {
     "title": "AEK Larnaca - AZ Alkmaar",
     "league": "UEFA Conference League",
     "fecha-evento": "2025-10-02T13:50:00-05:00",
@@ -229,6 +219,32 @@
     "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759517719~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F02%2FAek_Larnaca_vs_AZ_20251002_1759423808049%2F~psid=0420b876-0630-4271-965d-b160eb0e4a5a~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=ae1f9afeecdc4cb043e1abae24e0838720239d766f52b57e19b2d46b5d8d9b12/clt1/va02/disneyplus/event/2025/10/02/Aek_Larnaca_vs_AZ_20251002_1759423808049/ctr-all-complete.m3u8?r=720&v=1&hash=84aa51343626e20917527f71728a80b1051a6a68",
     "k1": "9982935484144ac08ca8200d4ff40d93",
     "k2": "14ca525a3d8a9af5046ccd43e9cbac89"
+  },
+  {
+    "title": "Sturm Graz vs. Rangers",
+    "league": "UEFA Europa League",
+    "fecha-evento": "2025-10-02T13:50:00-05:00",
+    "img": "8998fb98-d763-4551-a05a-43a043b365da",
+    "nombre": "disneye6daed",
+    "status": "13:50",
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/aa5e7401-7264-493e-99ff-90e68c902970",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759517742~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F02%2FSturm_Graz_vs_Rangers_20251002_1759423804029%2F~psid=289d165e-abb5-43d4-a291-3240e4558f9a~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=0a3e0b18fa3cc90ad5cea1b0778963479074dcd3a2804926013d4cab63497e04/clt1/va02/disneyplus/event/2025/10/02/Sturm_Graz_vs_Rangers_20251002_1759423804029/ctr-all-complete.m3u8?r=720&v=1&hash=3029ade0edfe69d95882c32fe518ad863d8c9191",
+    "k1": "7ab8e2ac11464f6399581ae2a6f69c84",
+    "k2": "79c7374b3e1597000f94992faedc24bb"
+  },
+  {
+    "title": "Genk - Ferencvaros",
+    "league": "UEFA Europa League",
+    "fecha-evento": "2025-10-02T13:50:00-05:00",
+    "img": "bcb6562a-fc84-4569-9826-f8ba95eca3b8",
+    "nombre": "disney7147cf",
+    "status": "13:50",
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/5172d531-01b3-45a9-9b00-dfa631e9accb",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759517625~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F02%2FGenk_vs_Ferencvros_20251002_1759423850069%2F~psid=5af9bf0d-66c4-42b1-aa8e-b5e6b2f6cee2~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=6e8a034f12d33e40052b28a1db227a28c0aaed3d8788a086e0aee8e53928cda0/clt1/va02/disneyplus/event/2025/10/02/Genk_vs_Ferencvros_20251002_1759423850069/ctr-all-complete.m3u8?r=720&v=1&hash=8ead1ed5117bbb4c7d549861a26de06bbc552638",
+    "k1": "dd9445040c5342f194bc4a4c046806fb",
+    "k2": "a63a6f97ffc1df7ce87d4c8ccb1d4e36"
   },
   {
     "title": "Aberdeen vs. FC Shakhtar Donetsk",
@@ -257,32 +273,6 @@
     "k2": "e09b7caef25807ee258929438c799039"
   },
   {
-    "title": "Sparta Praga vs. Shamrock Rovers FC",
-    "league": "UEFA Conference League",
-    "fecha-evento": "2025-10-02T13:50:00-05:00",
-    "img": "013030ba-ed15-46d8-ac56-8a8f469c5596",
-    "nombre": "disneye4b88c",
-    "status": "13:50",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/d3ca100e-3044-428b-8b15-db0f86f1a547",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1759517836~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F02%2FSparta_Praga_vs_Shamrock__20251002_1759423859038%2F~psid=9566a660-ea97-4e62-8e9d-0e680e2e48b7~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=a79da09c0fb7bc197ea7453a1614ed2425c45e7cc28cc7dac80179dd7df1a295/clt1/va02/disneyplus/event/2025/10/02/Sparta_Praga_vs_Shamrock__20251002_1759423859038/ctr-all-complete.m3u8?r=720&v=1&hash=77276a84c8a37add82d2f68ede9d197f6c46db34",
-    "k1": "3c233018e1d04dbd9b3fb3b9d95bf87d",
-    "k2": "c79968ece1547015640667bd82fa21bc"
-  },
-  {
-    "title": "Slovan Bratislava - Strasbourg",
-    "league": "UEFA Conference League",
-    "fecha-evento": "2025-10-02T13:50:00-05:00",
-    "img": "d3133d1c-b67a-498c-a833-ac2adf8a89b5",
-    "nombre": "disneycb1279",
-    "status": "13:50",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/f52cf6be-7f65-4c8e-9317-59d679f14e5d",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759517859~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F02%2FSK_Slovan_Bratislava_vs_S_20251002_1759423843027%2F~psid=9afae482-d298-494f-ba90-bd5fea84a9fc~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=8275f404173026b77d17cda4c2a6df61dece5857dbc001aaa55e89dbf6c839c2/clt1/va02/disneyplus/event/2025/10/02/SK_Slovan_Bratislava_vs_S_20251002_1759423843027/ctr-all-complete.m3u8?r=720&v=1&hash=96e3f14ccfe3e8da95a23914b30e8360ce8d8898",
-    "k1": "26ce0e16e5c74fce988a8b9fabc321c6",
-    "k2": "f169dc8c4052506e16c860aef8f54376"
-  },
-  {
     "title": "Legia Warszawa - Samsunspor",
     "league": "UEFA Conference League",
     "fecha-evento": "2025-10-02T13:50:00-05:00",
@@ -294,6 +284,19 @@
     "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1759517883~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F02%2FLegia_Warsaw_vs_Samsunspo_20251002_1759423841028%2F~psid=58fb2fda-62d4-4e5c-9334-f64d6db74100~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=3f11e771d7c8800305ca56caa711a5551799cfcb4a9fd4e0c02c986c85bdf1fd/clt1/va02/disneyplus/event/2025/10/02/Legia_Warsaw_vs_Samsunspo_20251002_1759423841028/ctr-all-complete.m3u8?r=720&v=1&hash=ed0fcd2d696d5dc14481df9279b354fee278203d",
     "k1": "b14adf13674e4f518b84fbf354dfc31f",
     "k2": "afc084c3079c65aa16ff3e21fc6be325"
+  },
+  {
+    "title": "Rotherham United vs. Bradford City",
+    "league": "League One de Inglaterra",
+    "fecha-evento": "2025-10-02T13:50:00-05:00",
+    "img": "d9bcd7d1-a870-469b-a682-e885a415d334",
+    "nombre": "disneydfb452",
+    "status": "13:50",
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/6b0aec09-412c-40c2-b235-86e3380cef9d",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1759517672~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F02%2FRotherham_United_vs_Bradf_20251002_1759423810039%2F~psid=c4fb0d1f-6833-4819-a551-aa8e33aa2ae5~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=91e9b390e0e56e564ed291a31f7e2570217cf998ecc56cc325e52ca6d4f4ddd7/clt1/va02/disneyplus/event/2025/10/02/Rotherham_United_vs_Bradf_20251002_1759423810039/ctr-all-hdri-complete.m3u8?v=1&hash=a92e5dc6f6d10be7bf73ec380fb314ea3853aa6f",
+    "k1": "43f4b3e552c748bcb936cb48d472ca41",
+    "k2": "9dce7ea68ca6c3c27adf925694d01348"
   },
   {
     "title": "Basel vs. Stuttgart",
