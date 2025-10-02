@@ -1,156 +1,81 @@
 [
   {
-    "title": "Rolex Shanghai Masters / Stadium Court",
-    "league": "ATP",
-    "fecha-evento": "2025-10-01T23:30:00-05:00",
-    "img": "05f5310e-6776-4f5b-924d-cddd9d222984",
-    "nombre": "disney4199c6",
-    "status": "23:30",
-    "duration": 600,
-    "play_url": "https://www.disneyplus.com/es-es/play/64dafc14-b7e0-4bfd-a95d-566ce2963252",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759468246~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F02%2FRolex_Shanghai_Masters_St_20251002_1759372231026%2F~psid=64f2e37e-2e1e-4025-b825-266674438f9d~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=b9467e136f7952e2e78411ec50e036cc64a813aa97566187a08dbea6139827f1/clt1/va02/disneyplus/event/2025/10/02/Rolex_Shanghai_Masters_St_20251002_1759372231026/ctr-all-hdri-complete.m3u8?v=1&hash=0af07d4fc84a94ddb7fcf59c20637a1d0bdf8d09",
-    "k1": "889e818fb90f48218727585d5c614869",
-    "k2": "8dffe605e798c454bf679b281eef2391"
-  },
-  {
-    "title": "Rolex Shanghai Masters / Court 4",
-    "league": "ATP",
-    "fecha-evento": "2025-10-01T23:30:00-05:00",
-    "img": "11398d42-483b-4c95-bb63-3c681ff3e61e",
-    "nombre": "disney77c8ec",
-    "status": "23:30",
-    "duration": 360,
-    "play_url": "https://www.disneyplus.com/es-es/play/887626bd-1648-4b1b-a12b-fd10f65c40bb"
-  },
-  {
-    "title": "Rolex Shanghai Masters / Court 7",
-    "league": "ATP",
-    "fecha-evento": "2025-10-01T23:30:00-05:00",
-    "img": "181c6787-71c8-41ce-872b-b02d9a48d0af",
-    "nombre": "disney6939c0",
-    "status": "23:30",
-    "duration": 240,
-    "play_url": "https://www.disneyplus.com/es-es/play/92d84ccd-d7c4-4768-884b-5c21af33808d"
-  },
-  {
-    "title": "Rolex Shanghai Masters / Showcourt 3",
-    "league": "ATP",
-    "fecha-evento": "2025-10-01T23:30:00-05:00",
-    "img": "4351bc25-2dca-4bd0-b0b4-00cda3a345e7",
-    "nombre": "disneyd9c327",
-    "status": "23:30",
-    "duration": 480,
-    "play_url": "https://www.disneyplus.com/es-es/play/b8959ce0-f45f-48e7-9bf7-1bd5f96c7797"
-  },
-  {
-    "title": "Rolex Shanghai Masters (First Round)",
-    "league": "ATP",
-    "fecha-evento": "2025-10-01T23:30:03-05:00",
-    "img": "182f7204-029d-46ba-8514-c3f08a0d7db5",
-    "nombre": "disney4cae4c",
-    "status": "23:30",
-    "duration": 600,
-    "play_url": "https://www.disneyplus.com/es-es/play/d473db6b-ebf8-4564-b0d5-7d17746a07be"
-  },
-  {
-    "title": "Rolex Shanghai Masters / Grandstand 2",
-    "league": "ATP",
-    "fecha-evento": "2025-10-01T23:34:15-05:00",
-    "img": "01fb5d62-c082-4ef8-9b11-4acb58016efc",
-    "nombre": "disney9aa2cd",
-    "status": "23:34",
-    "duration": 476,
-    "play_url": "https://www.disneyplus.com/es-es/play/c3cb28f2-0a5a-4a67-8b24-196474290c34"
-  },
-  {
-    "title": "WTA China Open / Capital Group Diamond (Doubles Quarterfinals)",
-    "league": "WTA",
-    "fecha-evento": "2025-10-02T00:01:30-05:00",
-    "img": "0f2095e3-3192-4d23-b41a-f2587cd48ae5",
-    "nombre": "disney2d0f15",
-    "status": "00:01",
-    "duration": 118,
-    "play_url": "https://www.disneyplus.com/es-es/play/b6af8f33-f8db-41b6-9346-6d06cd9dc0df"
-  },
-  {
-    "title": "WTA China Open (Quarterfinals)",
-    "league": "WTA",
-    "fecha-evento": "2025-10-02T02:00:00-05:00",
-    "img": "04ba20d2-c691-4aa5-85bc-add1274b8aaa",
-    "nombre": "disney099def",
-    "status": "02:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Premier Padel: Rotterdam - Centre Court (Octavos de Final)",
-    "league": "Premier Padel",
-    "fecha-evento": "2025-10-02T03:00:00-05:00",
-    "img": "07bfe551-3e5f-4c83-bc38-165e562f990f",
-    "nombre": "disney185f95",
-    "status": "03:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Premier Padel: Rotterdam - Secondary Court (Octavos de Final)",
-    "league": "Premier Padel",
-    "fecha-evento": "2025-10-02T04:00:00-05:00",
-    "img": "0e1765c8-f206-4c68-aae8-534b423e38d2",
-    "nombre": "disney87e6a9",
-    "status": "04:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Bangladesh vs. Pakistan",
-    "league": "ESPN",
-    "fecha-evento": "2025-10-02T04:00:00-05:00",
-    "img": "3f924cb0-3281-456f-a3ad-22f42fb18e6b",
-    "nombre": "disney401927",
-    "status": "04:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Alfred Dunhill Links Championship (First Round)",
     "league": "DP World Tour",
     "fecha-evento": "2025-10-02T06:00:00-05:00",
-    "img": "2f4d2078-3682-4d12-8c09-6e8cfd027ab2",
+    "img": "981b17d1-abd8-4452-8560-bf631e37383f",
     "nombre": "disneyf5cc40",
     "status": "06:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 345,
+    "play_url": "https://www.disneyplus.com/es-es/play/41942c9f-67bc-456c-8c96-17510b93adb8",
+    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759509620~url=%2Fgru1%2Fva01%2Fdisneyplus%2Fchannel%2Fbbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1759237696305%2F~psid=e83c3f14-e0e9-437d-83da-cb2485e5cbac~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=43813fa556d894fe5eb95d63f01c629f95e559d51bcb9edfdc3f5bfdd9e598e2/gru1/va01/disneyplus/channel/bbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1759237696305/ctr-all-sliding-alt1.m3u8?v=1&hash=3ba337784ec5843dc77cea8c0782fe9cf5ee80d3",
+    "k1": "5c62d0244de94c8dac0de6bd853035d2",
+    "k2": "5765ae9276024be61aaf5c5211e49cb4"
   },
   {
     "title": "Sanderson Farms Championship: Tom Kim & Rasmus Hojgaard Featured Groups (First Round)",
     "league": "PGA TOUR",
-    "fecha-evento": "2025-10-02T07:00:00-05:00",
-    "img": "edfbef71-ed27-4df7-9ef6-9376ec735aef",
-    "nombre": "disneyfb965f",
+    "fecha-evento": "2025-10-02T07:00:02-05:00",
+    "img": "25dc34b7-9cfa-43f5-b7b1-06607b990a06",
+    "nombre": "disney678dc1",
     "status": "07:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 660,
+    "play_url": "https://www.disneyplus.com/es-es/play/f09e8ff7-a77b-48bc-b933-b5869a0bd267",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759509663~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F02%2FSanderson_Farms_Champions_20251002_1759399210026%2F~psid=01696971-46df-4179-aebc-34c11cc56765~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=f5c28ac06346488727d3a65a553b43281e71e247fd945318c88a7f492492a262/clt1/va02/disneyplus/event/2025/10/02/Sanderson_Farms_Champions_20251002_1759399210026/ctr-all-hdri-complete.m3u8?v=1&hash=79695d4d91588c60753f68194dbbfccbd84c3594",
+    "k1": "a2697263e38f4ce282cf2a909840d63e",
+    "k2": "68f2dc065c1e79a65257035ff238d3ec"
   },
   {
     "title": "Challenger Dove Men Care Antofagasta (Octavos de Final)",
     "league": "ATP",
-    "fecha-evento": "2025-10-02T08:30:00-05:00",
+    "fecha-evento": "2025-10-02T08:30:03-05:00",
     "img": "fd0ae8b6-8b45-420f-a646-1d6f06f87fd6",
-    "nombre": "disneybe0dd1",
+    "nombre": "disney5d1f8b",
     "status": "08:30",
-    "duration": 135,
-    "play_url": ""
+    "duration": 360,
+    "play_url": "https://www.disneyplus.com/es-es/play/e478e9cf-6c28-42ea-8ce2-0e73e2a66b0c",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759509707~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F02%2FChallenger_Dove_Men_Care__20251002_1759404611027%2F~psid=eea54a83-ded6-4a97-bcef-c8f421d42401~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=a4204ce3f0bebab57b15069690916138a6642bf3475890623c779536442ee4a4/clt1/va02/disneyplus/event/2025/10/02/Challenger_Dove_Men_Care__20251002_1759404611027/ctr-all-hdri-complete.m3u8?v=1&hash=67fffb7332d5d745eebf353465faf861eb0fe95c",
+    "k1": "3bde1a74646440689c7efb6dd156e5ca",
+    "k2": "2c11b6b74d3b299091a30159fa01fe56"
+  },
+  {
+    "title": "Premier Padel: Rotterdam - Secondary Court (Octavos de Final)",
+    "league": "Premier Padel",
+    "fecha-evento": "2025-10-02T11:00:07-05:00",
+    "img": "0e1765c8-f206-4c68-aae8-534b423e38d2",
+    "nombre": "disneye2fd10",
+    "status": "11:00",
+    "duration": 270,
+    "play_url": "https://www.disneyplus.com/es-es/play/19b239a8-b0da-4ef8-bc21-4298259d83a2",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759509730~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F02%2FPremier_Padel_Rotterdam_S_20251002_1759413635027%2F~psid=a6141a9d-12a0-4894-87b3-4b70a327c657~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=3e930b7a43822c9602361431149cb475dc53c246c2b730265fa8b07e33ba0c94/clt1/va02/disneyplus/event/2025/10/02/Premier_Padel_Rotterdam_S_20251002_1759413635027/ctr-all-hdri-complete.m3u8?v=1&hash=a85a65f0eb4af4067a94dfaedf67e58094a5e324",
+    "k1": "edc6ca56b6614b0da80b78b3f9e50768",
+    "k2": "2f0649e17bf86ca6f0af09bb7ca0f46e"
+  },
+  {
+    "title": "Premier Padel: Rotterdam - Centre Court (Octavos de Final)",
+    "league": "Premier Padel",
+    "fecha-evento": "2025-10-02T11:00:16-05:00",
+    "img": "07bfe551-3e5f-4c83-bc38-165e562f990f",
+    "nombre": "disney7d7e8f",
+    "status": "11:00",
+    "duration": 270,
+    "play_url": "https://www.disneyplus.com/es-es/play/0ca1fbeb-bbc6-413b-8397-5b042c8cfa40",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1759509753~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F02%2FPremier_Padel_Rotterdam_C_20251002_1759413659039%2F~psid=5adde553-1e46-4fe5-9fab-57311c212bac~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=8dcdcd8d3920ee3847fa0bf417d4edc4ae5666f26b54be18a385a67c70de9a47/clt1/va02/disneyplus/event/2025/10/02/Premier_Padel_Rotterdam_C_20251002_1759413659039/ctr-all-hdri-complete.m3u8?v=1&hash=d827d5815a8094944e8da3afd258b6f9a7c4f7f9",
+    "k1": "3b0ca455362a45c5a213429d73927a28",
+    "k2": "4f7e2064156e379a51a85af858a49797"
   },
   {
     "title": "Fenerbahçe vs. OGC Nice",
     "league": "UEFA Europa League",
     "fecha-evento": "2025-10-02T11:30:00-05:00",
-    "img": "5dcd27b6-8e05-49c7-9bd1-97ab5bb364de",
+    "img": "a4856d70-2b5f-4ee7-84d7-c48909bc6d51",
     "nombre": "disney9a56db",
     "status": "11:30",
-    "duration": 135,
-    "play_url": ""
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/15fcbe55-9138-496d-ba18-50682df61a80",
+    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1759509777~url=%2Fgru1%2Fva01%2Fdisneyplus%2Fchannel%2F47873700-1b85-4497-8f84-d6f321fbb196-1759242159034%2F~psid=71a3eae5-d20d-470c-ad92-39f625a54817~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=3c338c326a35de158cf707af42f93f1a42ab4c1bdeb6683330e58cce220a35c0/gru1/va01/disneyplus/channel/47873700-1b85-4497-8f84-d6f321fbb196-1759242159034/ctr-all-sliding-alt1.m3u8?v=1&hash=488b0e2d3b06dae53b38cbf9ee60f6607513fcff",
+    "k1": "8c4940edc97047ee979bd09c57ff76a2",
+    "k2": "0d808316064678818d813f6c0c49ac17"
   },
   {
     "title": "AS Roma vs. Lille",
@@ -159,8 +84,11 @@
     "img": "6d692179-6d21-49ec-a4e1-c22de55ae335",
     "nombre": "disneyd042da",
     "status": "11:30",
-    "duration": 135,
-    "play_url": ""
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/4e4c7b09-6bd0-44ef-a1be-186d14510132",
+    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759509801~url=%2Fgru1%2Fva01%2Fdisneyplus%2Fchannel%2Ff25bdf06-81c9-4a7c-b128-3128d610ad17-1759171164941%2F~psid=c3f985de-7e66-44e4-b3fb-d40d03773286~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=45ec7bf4295d936a4cffb1384fb178aa5d9d6cc3cf7d6f51d5fed1410c66aa21/gru1/va01/disneyplus/channel/f25bdf06-81c9-4a7c-b128-3128d610ad17-1759171164941/ctr-all-sliding-alt1.m3u8?v=1&hash=4a5efc9d917051ccdc62ac0869f413e7e9fe5ba6",
+    "k1": "9e1207f1fc62486c85d40db4d6b581c4",
+    "k2": "ca16b6e76473514bf0417af169172471"
   },
   {
     "title": "Panathinaikos vs. Go Ahead Eagles",
@@ -169,38 +97,50 @@
     "img": "0f58c9dc-3003-4671-ba2f-aefa77589a43",
     "nombre": "disney84ac78",
     "status": "11:30",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Ludogorets vs. Real Betis",
-    "league": "UEFA Europa League",
-    "fecha-evento": "2025-10-02T11:30:00-05:00",
-    "img": "d4701082-965f-4179-b1ed-aff9445680ea",
-    "nombre": "disney6335d1",
-    "status": "11:30",
-    "duration": 135,
-    "play_url": ""
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/53cc5fe7-2ec1-4bef-83ac-0f53b9c6abbb",
+    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759509824~url=%2Fgru1%2Fva01%2Fdisneyplus%2Fchannel%2F7f9052ce-8143-43a6-9656-a8c00c4a3e56-1759240355570%2F~psid=8b3cc911-0495-4563-bb9a-d25a8af4a579~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=679e7ac662de294e6b18ce523bafdf13f212e453d48be5e0cc79d8656c087024/gru1/va01/disneyplus/channel/7f9052ce-8143-43a6-9656-a8c00c4a3e56-1759240355570/ctr-all-sliding-alt1.m3u8?v=1&hash=89408c63575e7461fce1ca3894c9a3f3a76b68a4",
+    "k1": "5416377550cc42abaeb50c74c57220a7",
+    "k2": "0f6f98a06984ea7b6fdcaa3d27111eff"
   },
   {
     "title": "Celtic vs. SC Braga",
     "league": "UEFA Europa League",
-    "fecha-evento": "2025-10-02T11:30:00-05:00",
+    "fecha-evento": "2025-10-02T11:30:04-05:00",
     "img": "1b322bdc-59c0-4838-a737-c39c397c51e5",
-    "nombre": "disney582884",
+    "nombre": "disneya92d4e",
     "status": "11:30",
-    "duration": 135,
-    "play_url": ""
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/9b47cd0e-095c-4e36-965b-085f4372d808",
+    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1759509848~url=%2Fgru1%2Fva01%2Fdisneyplus%2Fchannel%2Fbbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1759237696305%2F~psid=b180085d-1c8a-439a-8e44-eda9fbdbd7c9~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=330b7763591ccc94f0794ce76f2c1981a68ca03d546ed2304326241ffdb5d896/gru1/va01/disneyplus/channel/bbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1759237696305/ctr-all-sliding-alt1.m3u8?v=1&hash=3ba337784ec5843dc77cea8c0782fe9cf5ee80d3",
+    "k1": "5c62d0244de94c8dac0de6bd853035d2",
+    "k2": "5765ae9276024be61aaf5c5211e49cb4"
   },
   {
     "title": "Bologna vs. SC Freiburg",
     "league": "UEFA Europa League",
     "fecha-evento": "2025-10-02T11:30:00-05:00",
-    "img": "c3772092-a35e-488a-a211-b3c04ab8827b",
+    "img": "21f0a1e7-c50e-4004-81d0-6562c8a747d3",
     "nombre": "disney2ec153",
     "status": "11:30",
-    "duration": 135,
-    "play_url": ""
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/e8ad170b-d164-48c1-8abd-7362cebf7a67",
+    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759509871~url=%2Fgru1%2Fva01%2Fdisneyplus%2Fchannel%2Fec26a05e-a9cc-4db4-804e-77465738e667-1759161614105%2F~psid=b0a69ce6-566d-45b4-b351-b9dce1386a19~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=881e6287291ff3d94b6a7a23c251d29d4d0f07b132db61f3b5db24c210abdf2d/gru1/va01/disneyplus/channel/ec26a05e-a9cc-4db4-804e-77465738e667-1759161614105/ctr-all-sliding-alt1.m3u8?v=1&hash=33305d43a99080630e5bdb8be42d190e2320cadd",
+    "k1": "a112b78c50234ade8f8be40304262694",
+    "k2": "8e18c552ae02325bc297a54eb1d6cf6a"
+  },
+  {
+    "title": "Ludogorets vs. Real Betis",
+    "league": "UEFA Europa League",
+    "fecha-evento": "2025-10-02T11:35:00-05:00",
+    "img": "437297c1-b359-4c32-a19a-1af7224f356a",
+    "nombre": "disney80b469",
+    "status": "11:35",
+    "duration": 125,
+    "play_url": "https://www.disneyplus.com/es-es/play/9359edf2-8375-4cfc-beb3-284305698796",
+    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1759509895~url=%2Fgru1%2Fva01%2Fdisneyplus%2Fchannel%2F921e1311-bb26-43dd-84a6-9e2284959712-1759173009800%2F~psid=bd7c0daf-7772-4e74-aa4e-82a8449628fd~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=de221f7c4fc17b9bd1464d7d53244d7a650585d99df684fbaccf299823968ddf/gru1/va01/disneyplus/channel/921e1311-bb26-43dd-84a6-9e2284959712-1759173009800/ctr-all-sliding-alt1.m3u8?v=1&hash=f923923d83cb3dc5ea08a85d5876c62bb980b29a",
+    "k1": "75977af5c98246fa88952d8b2cb3f273",
+    "k2": "fd6011a0a182fdbce5134649329a03f6"
   },
   {
     "title": "Viktoria Plzeň vs. Malmö FF",
@@ -209,48 +149,63 @@
     "img": "ac5311b7-daef-4292-8aef-38065eab33aa",
     "nombre": "disney4d3b9c",
     "status": "11:35",
-    "duration": 135,
-    "play_url": ""
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/24f4058e-a617-4634-afcf-99d9e001d716",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759509918~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F02%2FViktoria_Plze_vs_Malm_FF_20251002_1759415722039%2F~psid=2c979a12-bcf4-40a3-bfd2-a835141b684f~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=17117b895a50a5c4e3fcc2f9b3c38a384b03de4df2d2149866f78a335c65b7c0/clt1/va02/disneyplus/event/2025/10/02/Viktoria_Plze_vs_Malm_FF_20251002_1759415722039/ctr-all-complete.m3u8?r=720&v=1&hash=74fbcf1578cb8ab000e111fb896543d79c5509c8",
+    "k1": "a9c1ada44c874dfcb7eea4d5fab052c4",
+    "k2": "e3c35324aea4649316b7c9a93219fdf4"
   },
   {
     "title": "Rayo Vallecano - KF Shkendija",
     "league": "UEFA Conference League",
-    "fecha-evento": "2025-10-02T11:35:00-05:00",
-    "img": "0b0de7ff-29a0-49be-b6bb-612673b5c4fd",
-    "nombre": "disneye08b40",
-    "status": "11:35",
-    "duration": 135,
-    "play_url": ""
+    "fecha-evento": "2025-10-02T11:34:18-05:00",
+    "img": "533379b1-fc1f-4919-9480-f01b1fea8242",
+    "nombre": "disneyf5c94c",
+    "status": "11:34",
+    "duration": 131,
+    "play_url": "https://www.disneyplus.com/es-es/play/47da1ad7-b7e6-4844-87a9-54e1e8d66602",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1759509941~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F02%2FRayo_Vallecano_vs_Shkndij_20251002_1759418795527%2F~psid=891cf02a-5c44-4e08-a7e6-23ba9c029a8a~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=5e292497c08a596ca28c3e862e093b37ec28572b1ad4401c6c8be593153686d3/clt1/va02/disneyplus/event/2025/10/02/Rayo_Vallecano_vs_Shkndij_20251002_1759418795527/ctr-all-complete.m3u8?r=720&v=1&hash=19f8b63b1035932491dfc99dc10220036b388a46",
+    "k1": "53fa0bb3490b4fdd8bac23f8f92eda8f",
+    "k2": "1200777d694ca49b5175bfcf290f6a8f"
   },
   {
     "title": "FC Lausanne - Breidablik",
     "league": "UEFA Conference League",
     "fecha-evento": "2025-10-02T11:35:00-05:00",
-    "img": "a0d447e2-707a-4072-bc45-8ca62b12de6d",
+    "img": "8a6ec7c9-6fbb-4046-a79c-5535f3378e71",
     "nombre": "disney569462",
     "status": "11:35",
-    "duration": 135,
-    "play_url": ""
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/65af2149-52fe-425b-bea3-87932d597bde",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759509965~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F02%2FFC_LausanneSport_vs_Breid_20251002_1759415742028%2F~psid=33b83201-1e8e-42fa-a046-c6ea98144360~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=7906deed3317451ad8dd1ad962068eadcc77714cccf16ce8ddd549294901cfb2/clt1/va02/disneyplus/event/2025/10/02/FC_LausanneSport_vs_Breid_20251002_1759415742028/ctr-all-complete.m3u8?r=720&v=1&hash=2b9222e92fad84850d9c4cc54b7a0b5ae436c38e",
+    "k1": "e270fcc4974d4d4f9a19adedbbaabf6a",
+    "k2": "839136f99cb8232318781e88a2a9487b"
   },
   {
     "title": "Lech Poznan - Rapid Wien",
     "league": "UEFA Conference League",
-    "fecha-evento": "2025-10-02T11:35:00-05:00",
+    "fecha-evento": "2025-10-02T11:34:20-05:00",
     "img": "40be3131-22e0-404c-9741-921ebac5b82e",
-    "nombre": "disney0f4ec4",
-    "status": "11:35",
-    "duration": 135,
-    "play_url": ""
+    "nombre": "disney85c863",
+    "status": "11:34",
+    "duration": 131,
+    "play_url": "https://www.disneyplus.com/es-es/play/7c692a6b-a447-45e6-8df7-a213ae64a77e",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759509989~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F02%2FLech_Poznan_vs_SK_Rapid_W_20251002_1759415720030%2F~psid=9b236f1d-3c60-4b0f-aa6d-15ed181ba45e~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=be930763b2bee733f08bb47150a0233d6a34f2d55977cab184c4bd5fa66ca928/clt1/va02/disneyplus/event/2025/10/02/Lech_Poznan_vs_SK_Rapid_W_20251002_1759415720030/ctr-all-complete.m3u8?r=720&v=1&hash=37afa0689a607c702e6e420f4ebf29b83c005b9f",
+    "k1": "532da47594ab4aa8b67dae885139a61c",
+    "k2": "b8dd5981fa06658604776da2677fcab8"
   },
   {
     "title": "Brann - FC Utrecht",
     "league": "UEFA Europa League",
-    "fecha-evento": "2025-10-02T11:35:00-05:00",
-    "img": "250f847d-be50-4645-b5d0-fb96b5b4cf40",
-    "nombre": "disneydf5fd7",
-    "status": "11:35",
-    "duration": 135,
-    "play_url": ""
+    "fecha-evento": "2025-10-02T11:34:22-05:00",
+    "img": "cde4dd1a-44b2-4336-8bf9-72a17a369a3b",
+    "nombre": "disney28429f",
+    "status": "11:34",
+    "duration": 131,
+    "play_url": "https://www.disneyplus.com/es-es/play/80ecceea-93d6-47aa-9765-35c2398a4793",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1759510012~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F02%2FBrann_vs_Utrecht_20251002_1759415710041%2F~psid=3e21d28d-2a00-4083-aa57-dc1639dd5c1a~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=114553fe71582c3a84e2893f83d1f50e6370e3f8845f67571db0c16611a2a425/clt1/va02/disneyplus/event/2025/10/02/Brann_vs_Utrecht_20251002_1759415710041/ctr-all-complete.m3u8?r=720&v=1&hash=5f53bf41428ee87961a643c060322f661d6f1a8a",
+    "k1": "8cb919514e6841eda5de31235c05807a",
+    "k2": "055f2c875f5df2b6775dd00d09cd7d63"
   },
   {
     "title": "FCSB - Young Boys",
@@ -259,18 +214,24 @@
     "img": "42df2a3c-8618-4152-b975-21e754c8bf3c",
     "nombre": "disney7b6ef9",
     "status": "11:35",
-    "duration": 135,
-    "play_url": ""
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/8d6f51d9-62c6-470a-9529-14604d158a2b",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1759510035~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F02%2FFotbal_Club_FCSB_vs_Young_20251002_1759415727028%2F~psid=836921e6-3154-430e-b1a9-a0354a244db9~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=1a616120f6eda350b7c95a39deebb41ae8fc5606f89fa5948a74d04b7894c53a/clt1/va02/disneyplus/event/2025/10/02/Fotbal_Club_FCSB_vs_Young_20251002_1759415727028/ctr-all-complete.m3u8?r=720&v=1&hash=439541119af41d77968ff854d90d36de52d4ed6d",
+    "k1": "b57dfe3f233d43daabcae033488c3086",
+    "k2": "1680588df64543fb60828149d1ed7e84"
   },
   {
     "title": "Zrinjski vs. Lincoln Red Imps",
     "league": "UEFA Conference League",
-    "fecha-evento": "2025-10-02T11:35:00-05:00",
+    "fecha-evento": "2025-10-02T11:34:23-05:00",
     "img": "e4e59fbb-4f2a-48bf-a147-ebde9aae13de",
-    "nombre": "disney8e420e",
-    "status": "11:35",
-    "duration": 135,
-    "play_url": ""
+    "nombre": "disney67c0f2",
+    "status": "11:34",
+    "duration": 131,
+    "play_url": "https://www.disneyplus.com/es-es/play/93822308-df64-46d6-97f8-ae318de617ce",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1759510059~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F02%2FZrinjski_vs_Lincoln_Red_I_20251002_1759415733043%2F~psid=77204441-ecf3-4b8b-a929-86712c62b016~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=fd3c0d5a6528841f3aead211c60565a5242a6f06af40bff75329e5d90266b50d/clt1/va02/disneyplus/event/2025/10/02/Zrinjski_vs_Lincoln_Red_I_20251002_1759415733043/ctr-all-complete.m3u8?r=720&v=1&hash=7842983a6369dd8ef1162b3a103d1abd543e2aae",
+    "k1": "49dfd5b0f782498f93f08e5222e8f11f",
+    "k2": "0d0b67e96222c322bf6b854091678bdd"
   },
   {
     "title": "KuPS - FC Drita",
@@ -279,8 +240,11 @@
     "img": "495034cf-1d68-4fb1-978d-127d58a4225b",
     "nombre": "disneyc67c91",
     "status": "11:35",
-    "duration": 135,
-    "play_url": ""
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/a131605b-a9a9-4bb0-9db8-e5a55bf42f4f",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759510083~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F02%2FKuPS_Kuopio_vs_Drita_20251002_1759415703044%2F~psid=f3de40ed-69c1-4ce1-bbae-27cbe61e9890~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=57a0feef37288d2933e3cd25680c5a0d4a2031603500f9e9de5758a9654992e3/clt1/va02/disneyplus/event/2025/10/02/KuPS_Kuopio_vs_Drita_20251002_1759415703044/ctr-all-complete.m3u8?r=720&v=1&hash=af632f31d411353d73f534ddb323d535fd92acbc",
+    "k1": "09dc1572a5304ccd89668e6915cdaa63",
+    "k2": "56a5a4fdf9f13d5f5de13af0bbf90f06"
   },
   {
     "title": "FC Noah - HNK Rijeka",
@@ -289,8 +253,11 @@
     "img": "f5e638b4-8275-4c80-89d0-e9b7d7c70498",
     "nombre": "disneya178a8",
     "status": "11:35",
-    "duration": 135,
-    "play_url": ""
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/a796425d-6230-4e03-9a67-d7e5debb3d1b",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1759510106~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F02%2FFC_Noah_vs_HNK_Rijeka_20251002_1759415750029%2F~psid=78957e77-102d-49e0-8410-a6f9616336c2~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=329c08f24916772aa3738b1c2af5a6755e56384587269fef7c565b19c1e2ca21/clt1/va02/disneyplus/event/2025/10/02/FC_Noah_vs_HNK_Rijeka_20251002_1759415750029/ctr-all-complete.m3u8?r=720&v=1&hash=69ab4e319178507e1d3f48d1215d800473ea637e",
+    "k1": "a1447b11f49547f8a6a0c77377b8d8db",
+    "k2": "7291cb302c95e26a0dead7f37ddb3bcf"
   },
   {
     "title": "FC Dynamo Kyiv vs. Crystal Palace",
@@ -299,8 +266,11 @@
     "img": "30d2b32d-f725-497b-974c-073d1012e8cc",
     "nombre": "disney2933b7",
     "status": "11:35",
-    "duration": 135,
-    "play_url": ""
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/c349b7a8-b194-4022-852b-89c62050b9bb",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759510130~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F02%2FFC_Dynamo_Kyiv_vs_Crystal_20251002_1759415703027%2F~psid=b7b0d00a-f9a8-40ef-a716-92120e2152c9~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=53f7f2e8a6e77539b4491452edbc3456a0ab6795294166d5d2c7e321ac667a7e/clt1/va02/disneyplus/event/2025/10/02/FC_Dynamo_Kyiv_vs_Crystal_20251002_1759415703027/ctr-all-complete.m3u8?r=720&v=1&hash=ff86d403e29e8863745e4e0980168ab223d6eb1d",
+    "k1": "fc3520fd2ad442a59d7b4567a4861f67",
+    "k2": "c0b8d4f25058cad157a110d0020fb270"
   },
   {
     "title": "AC Omonia vs. Mainz 05",
@@ -309,18 +279,24 @@
     "img": "5115a71e-35b7-4f70-bb86-aaa2133af8ad",
     "nombre": "disney8cd038",
     "status": "11:35",
-    "duration": 135,
-    "play_url": ""
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/cd8a8b12-d1c2-4018-82e0-f0368f0e4d4d",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1759510153~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F02%2FAC_Omonia_vs_Mainz_05_20251002_1759415714040%2F~psid=713b8915-31ba-41a5-8fba-c77ef6df9681~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=c39e3afe51da44539c18c247c86cf8a62248c0c1f30178444f33a4a015cd8c6e/clt1/va02/disneyplus/event/2025/10/02/AC_Omonia_vs_Mainz_05_20251002_1759415714040/ctr-all-complete.m3u8?r=720&v=1&hash=5cfcfd26848716c7780c4f6e719416b28734edc9",
+    "k1": "f0d41efd5a9a497dab88731d5329d522",
+    "k2": "4eeeb2f92680b74d0f0d9ee2822f5a4f"
   },
   {
     "title": "Jagiellonia Bialystok - Hamrun Spartans",
     "league": "UEFA Conference League",
-    "fecha-evento": "2025-10-02T11:35:00-05:00",
+    "fecha-evento": "2025-10-02T11:34:17-05:00",
     "img": "8aa28100-800a-426e-960d-0c0e57a2a18e",
-    "nombre": "disney5aa9db",
-    "status": "11:35",
-    "duration": 135,
-    "play_url": ""
+    "nombre": "disney65ce33",
+    "status": "11:34",
+    "duration": 131,
+    "play_url": "https://www.disneyplus.com/es-es/play/f2f52325-1eae-40ad-8c65-faf36107f9fa",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759510176~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F02%2FJagiellonia_Biaystok_vs_H_20251002_1759415735041%2F~psid=c647fa5a-1af1-4bed-8fb6-e9c96f1e15e9~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=c847a16345dd2a1cabcc8f4da6f324ea61d53a3dc47e2fe9ae6b5c6de8f6490f/clt1/va02/disneyplus/event/2025/10/02/Jagiellonia_Biaystok_vs_H_20251002_1759415735041/ctr-all-complete.m3u8?r=720&v=1&hash=a27698cb3e722b755978207035b04000052576b3",
+    "k1": "15ec752060dd4b2da1bb13e6dd3c3c47",
+    "k2": "0a50ba37506ba9e2b7fc054974f2ea6b"
   },
   {
     "title": "UEL al instante",
@@ -353,21 +329,11 @@
     "play_url": ""
   },
   {
-    "title": "Basel vs. Stuttgart",
-    "league": "UEFA Europa League",
-    "fecha-evento": "2025-10-02T13:40:00-05:00",
-    "img": "70236850-3343-4bc2-9cee-6224b2febb76",
-    "nombre": "disney719902",
-    "status": "13:40",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Celta vs. Paok FC",
+    "title": "Celta Vigo vs. Paok FC",
     "league": "UEFA Europa League",
     "fecha-evento": "2025-10-02T13:40:00-05:00",
     "img": "c2747186-8bfe-4636-9340-cc7d8c541c65",
-    "nombre": "disneyd0bf8d",
+    "nombre": "disneyb5606f",
     "status": "13:40",
     "duration": 135,
     "play_url": ""
@@ -378,16 +344,6 @@
     "fecha-evento": "2025-10-02T13:40:00-05:00",
     "img": "2aa618ba-799b-4749-8414-e64ea5255197",
     "nombre": "disney7c37a9",
-    "status": "13:40",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "FC Porto vs. Estrella Roja",
-    "league": "UEFA Europa League",
-    "fecha-evento": "2025-10-02T13:40:00-05:00",
-    "img": "1f5e6537-93e6-49c9-8f8d-f093f00c2b8b",
-    "nombre": "disneydfeba4",
     "status": "13:40",
     "duration": 135,
     "play_url": ""
@@ -408,6 +364,26 @@
     "fecha-evento": "2025-10-02T13:40:00-05:00",
     "img": "0c30bb4a-7c52-4e6f-8b2e-537bd77fa10f",
     "nombre": "disney895bba",
+    "status": "13:40",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Basel vs. Stuttgart",
+    "league": "UEFA Europa League",
+    "fecha-evento": "2025-10-02T13:40:00-05:00",
+    "img": "70236850-3343-4bc2-9cee-6224b2febb76",
+    "nombre": "disney719902",
+    "status": "13:40",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "FC Porto vs. Estrella Roja",
+    "league": "UEFA Europa League",
+    "fecha-evento": "2025-10-02T13:40:00-05:00",
+    "img": "1f5e6537-93e6-49c9-8f8d-f093f00c2b8b",
+    "nombre": "disneydfeba4",
     "status": "13:40",
     "duration": 135,
     "play_url": ""
@@ -466,7 +442,7 @@
     "title": "Shelbourne vs. BK Häcken FF",
     "league": "UEFA Conference League",
     "fecha-evento": "2025-10-02T13:50:00-05:00",
-    "img": "e7c9e09b-14e5-4bc6-ae4d-b310a423d3c1",
+    "img": "1efb9d09-d476-4802-9579-db56c5e85752",
     "nombre": "disneyac310b",
     "status": "13:50",
     "duration": 135,
@@ -543,11 +519,11 @@
     "play_url": ""
   },
   {
-    "title": "Boston Red Sox vs. New York Yankees",
+    "title": "San Diego Padres vs. Chicago Cubs",
     "league": "MLB",
     "fecha-evento": "2025-10-02T16:00:00-05:00",
-    "img": "081e9ef5-e962-44ae-91be-f4438d96a7e3",
-    "nombre": "disney453795",
+    "img": "15d8d010-a199-4897-a359-675ab50f8a10",
+    "nombre": "disney41c906",
     "status": "16:00",
     "duration": 135,
     "play_url": ""
@@ -569,6 +545,126 @@
     "img": "1d6f4b12-dee9-4292-90bc-ed57279715f1",
     "nombre": "disney8d70fd",
     "status": "17:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "#7 Arkansas vs. #10 South Carolina",
+    "league": "Fútbol Femenino NCAA",
+    "fecha-evento": "2025-10-02T18:00:00-05:00",
+    "img": "bd6dae42-c8ed-4aaf-b2f7-487f39a3c76a",
+    "nombre": "disney8e4b41",
+    "status": "18:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "New York Islanders vs. Philadelphia Flyers",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-10-02T18:00:00-05:00",
+    "img": "44cdda46-48d6-47d5-a5ae-b89a7bf44ca9",
+    "nombre": "disney926522",
+    "status": "18:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Arizona State vs. Cincinnati",
+    "league": "Fútbol Femenino NCAA",
+    "fecha-evento": "2025-10-02T18:00:00-05:00",
+    "img": "b9db4bc7-376f-4d22-ae33-14ed6d470cca",
+    "nombre": "disney44b75a",
+    "status": "18:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Boston Bruins vs. Washington Capitals",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-10-02T18:00:00-05:00",
+    "img": "16bcbb4c-f9c3-4031-8392-b7a0feba762f",
+    "nombre": "disney77d44f",
+    "status": "18:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Detroit Red Wings vs. Toronto Maple Leafs",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-10-02T18:00:00-05:00",
+    "img": "d1d41fc3-9955-45ac-a21a-ddfd5a279199",
+    "nombre": "disneyad1213",
+    "status": "18:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Kansas State vs. Kansas",
+    "league": "Fútbol Femenino NCAA",
+    "fecha-evento": "2025-10-02T18:00:00-05:00",
+    "img": "c38e0035-f90f-4e39-9495-dd12a2ced068",
+    "nombre": "disney6a09bc",
+    "status": "18:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Florida Panthers vs. Tampa Bay Lightning",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-10-02T18:00:00-05:00",
+    "img": "ba32e4fc-09ae-458e-85fb-805d520cfe84",
+    "nombre": "disney6d0fc5",
+    "status": "18:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "New Jersey Devils vs. New York Rangers",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-10-02T18:00:00-05:00",
+    "img": "25ddeace-57a5-443f-a4db-2b32b65b7839",
+    "nombre": "disney0b48fe",
+    "status": "18:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Arizona vs. West Virginia",
+    "league": "Fútbol Femenino NCAA",
+    "fecha-evento": "2025-10-02T18:00:00-05:00",
+    "img": "4e12cf49-1927-448c-a987-906ccce41456",
+    "nombre": "disney1cf585",
+    "status": "18:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Defensor Sporting vs. Central Español",
+    "league": "Copa Uruguay",
+    "fecha-evento": "2025-10-02T18:15:00-05:00",
+    "img": "02cd68c8-cd90-41fb-8f98-7c206c960843",
+    "nombre": "disneyd43158",
+    "status": "18:15",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Texas Tech vs. Iowa State",
+    "league": "NCAA Women's Volleyball",
+    "fecha-evento": "2025-10-02T18:30:00-05:00",
+    "img": "b2c89fa9-6dfb-4619-bb70-9d4505c14b8a",
+    "nombre": "disney4ef28f",
+    "status": "18:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Sporting San Miguelito vs. Club Xelajú MC (Quarterfinals, Leg 2)",
+    "league": "Concacaf Central American Cup",
+    "fecha-evento": "2025-10-02T18:50:00-05:00",
+    "img": "32a073c2-be80-4af4-91ae-af1280715282",
+    "nombre": "disneyb329d5",
+    "status": "18:50",
     "duration": 135,
     "play_url": ""
   }
