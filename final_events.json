@@ -1,15 +1,5 @@
 [
   {
-    "title": "Belgrano vs. Estudiantes de La Plata (Fecha # 12)",
-    "league": "Torneo Proyección",
-    "fecha-evento": "2025-10-01T16:45:00-05:00",
-    "img": "789f3493-b6c5-46e7-a594-681d89ad5a66",
-    "nombre": "disneyb1a067",
-    "status": "16:45",
-    "duration": 135,
-    "play_url": "https://www.disneyplus.com/es-es/play/97499d42-56c3-4a03-a36b-71fec08314be"
-  },
-  {
     "title": "Boston Red Sox vs. New York Yankees",
     "league": "MLB",
     "fecha-evento": "2025-10-01T17:00:00-05:00",
@@ -75,24 +65,30 @@
     "k2": "fbb49f073ddefc6b813f2d6efbf45c7d"
   },
   {
-    "title": "Cibao FC vs. Defence Force FC",
-    "league": "Concacaf Caribbean Cup",
-    "fecha-evento": "2025-10-01T18:50:00-05:00",
-    "img": "0b2eeea2-2cc1-4139-adf5-84b32860fe60",
-    "nombre": "disney6536c3",
-    "status": "18:50",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "CD Plaza Amador vs. Real CD España (Quarterfinals, Leg 2)",
     "league": "Concacaf Central American Cup",
-    "fecha-evento": "2025-10-01T18:50:00-05:00",
+    "fecha-evento": "2025-10-01T18:50:01-05:00",
     "img": "b2f47ea8-ab2a-4227-88cc-b3eab444d27a",
-    "nombre": "disneyec668d",
+    "nombre": "disney64dcef",
     "status": "18:50",
-    "duration": 135,
-    "play_url": ""
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/966c8b2e-ef40-4fca-bdc0-eb8a373133c8",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1759449618~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F01%2FCD_Plaza_Amador_vs_Real_C_20251001_1759355420038%2F~psid=6c4379e5-7a80-4c82-818b-5ed902ac0140~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=4c3e58a0d6dc50dba19cb360e2f24dedba31470194ee8a106a88a54245398273/clt1/va02/disneyplus/event/2025/10/01/CD_Plaza_Amador_vs_Real_C_20251001_1759355420038/ctr-all-hdri-complete.m3u8?v=1&hash=cceecaaf79a53e7789d7bb7e0bdaed55f6901dac",
+    "k1": "4d0f3ab61b294b58b84b421172955039",
+    "k2": "bfbbc02e3869fe02e30ba19c698699ae"
+  },
+  {
+    "title": "Cibao FC vs. Defence Force FC",
+    "league": "Concacaf Caribbean Cup",
+    "fecha-evento": "2025-10-01T18:50:02-05:00",
+    "img": "0b2eeea2-2cc1-4139-adf5-84b32860fe60",
+    "nombre": "disneyda8c10",
+    "status": "18:50",
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/671a244c-e5d0-4f58-a8f0-566073fc9a39",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759449662~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F01%2FCibao_FC_vs_Defence_Force_20251001_1759355422025%2F~psid=77319b05-6477-4242-882a-1627531d635e~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=12d0f4634399070dd00da970b29b98297d93c5881ca6d3efb49cd8ae520931bf/clt1/va02/disneyplus/event/2025/10/01/Cibao_FC_vs_Defence_Force_20251001_1759355422025/ctr-all-hdri-complete.m3u8?v=1&hash=8f34ba3a1052eb07d520215793f31084a8509404",
+    "k1": "9445657bbebf497bb2a34a66d6e06c05",
+    "k2": "f44d4ac6f9e6fc8920d1154fc236aff1"
   },
   {
     "title": "Weymouth Wales FC vs. Cavalier FC (Round #5)",
@@ -591,6 +587,16 @@
     "img": "0c30bb4a-7c52-4e6f-8b2e-537bd77fa10f",
     "nombre": "disney895bba",
     "status": "13:40",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Fiorentina - Sigma Olomuc",
+    "league": "UEFA Conference League",
+    "fecha-evento": "2025-10-02T13:50:00-05:00",
+    "img": "0d695961-ec74-4c95-ac68-a1ae3084ff5f",
+    "nombre": "disneyde8a5a",
+    "status": "13:50",
     "duration": 135,
     "play_url": ""
   }
