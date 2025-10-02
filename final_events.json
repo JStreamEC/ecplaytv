@@ -13,19 +13,6 @@
     "k2": "68f2dc065c1e79a65257035ff238d3ec"
   },
   {
-    "title": "Detroit Tigers vs. Cleveland Guardians",
-    "league": "MLB",
-    "fecha-evento": "2025-10-02T14:00:01-05:00",
-    "img": "1d17306a-bd89-4b5d-a603-9b2a032c7b05",
-    "nombre": "disney7e8630",
-    "status": "14:00",
-    "duration": 180,
-    "play_url": "https://www.disneyplus.com/es-es/play/5e238d8f-a3ff-4699-81c6-c0578ea0e8b6",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1759519218~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F02%2FDetroit_Tigers_vs_Clevela_20251002_1759424433037%2F~psid=c6c5b188-0c4f-41f8-86db-e4b41667e7e0~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=9379484a7db1aa1afa102b92508c2db0122e23b0720bedd0856b614fa8209dbe/clt1/va02/disneyplus/event/2025/10/02/Detroit_Tigers_vs_Clevela_20251002_1759424433037/ctr-all-hdri-complete.m3u8?v=1&hash=a99eefd6000b7d1926b941fd83f75268b670d1a8",
-    "k1": "58228f0590b144888d963536e035aa95",
-    "k2": "94b60bd9c7d484f7b497b9b175bfb2ab"
-  },
-  {
     "title": "San Diego Padres vs. Chicago Cubs",
     "league": "MLB",
     "fecha-evento": "2025-10-02T16:03:00-05:00",
@@ -54,12 +41,15 @@
   {
     "title": "Missouri vs. LSU",
     "league": "Fútbol Femenino NCAA",
-    "fecha-evento": "2025-10-02T17:00:00-05:00",
+    "fecha-evento": "2025-10-02T17:00:03-05:00",
     "img": "1d6f4b12-dee9-4292-90bc-ed57279715f1",
-    "nombre": "disney8d70fd",
+    "nombre": "disneybab79e",
     "status": "17:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/e055f038-c40e-48de-a1a6-9c6fb2e96bbf",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1759530018~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F02%2FMissouri_vs_LSU_20251002_1759435241024%2F~psid=9e3540e0-961f-4a51-acdc-31958f68b256~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=6b20f1b5c8aad25497bf0608db81ff345ac29e730bfa9cf96fcb65d2e9c3c3ba/clt1/va02/disneyplus/event/2025/10/02/Missouri_vs_LSU_20251002_1759435241024/ctr-all-hdri-complete.m3u8?v=1&hash=18c49bd4aef1650bd9af3628a3c9f639a4f880e7",
+    "k1": "c49b8c129e624b51a0120430a301b373",
+    "k2": "a24b98da43d63631c0381694c4906ff4"
   },
   {
     "title": "#7 Arkansas vs. #10 South Carolina",
@@ -215,7 +205,7 @@
     "title": "Boston Red Sox vs. New York Yankees",
     "league": "MLB",
     "fecha-evento": "2025-10-02T19:00:00-05:00",
-    "img": "1d17306a-bd89-4b5d-a603-9b2a032c7b05",
+    "img": "15d8d010-a199-4897-a359-675ab50f8a10",
     "nombre": "disney062bf6",
     "status": "19:00",
     "duration": 135,
@@ -567,6 +557,16 @@
     "fecha-evento": "2025-10-03T08:00:00-05:00",
     "img": "db771de2-1443-4b63-82f9-8c6435e6d6b3",
     "nombre": "disneya6ce50",
+    "status": "08:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "F1 GP Singapur, práctica #2 | On Board Piastri",
+    "league": "Fórmula 1",
+    "fecha-evento": "2025-10-03T08:00:00-05:00",
+    "img": "9945211c-2e69-4b52-b1d7-fba90c4a02c1",
+    "nombre": "disney93d4da",
     "status": "08:00",
     "duration": 135,
     "play_url": ""
