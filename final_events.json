@@ -1,31 +1,5 @@
 [
   {
-    "title": "Boston Red Sox vs. New York Yankees",
-    "league": "MLB",
-    "fecha-evento": "2025-10-01T17:00:00-05:00",
-    "img": "081e9ef5-e962-44ae-91be-f4438d96a7e3",
-    "nombre": "disneyee0e41",
-    "status": "17:00",
-    "duration": 180,
-    "play_url": "https://www.disneyplus.com/es-es/play/07336336-2013-4cb3-9d16-f20a04c55ce8",
-    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1759443661~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F7f9052ce-8143-43a6-9656-a8c00c4a3e56-1759240175078%2F~psid=58a19651-be77-40f5-8236-21ff449d74c5~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=fbd01c7bc1263e9d27bb4443ab30895aa6d3c500f209a590d5f62eed7285d4b8/clt1/va02/disneyplus/channel/7f9052ce-8143-43a6-9656-a8c00c4a3e56-1759240175078/ctr-all-sliding-alt1.m3u8?v=1&hash=22ad5e2d0432c600fd499175bbf099e9ad9e65ab",
-    "k1": "4d1be7b9ed9e4713aae4eaf1ffbf249b",
-    "k2": "5e9ea2ac4835960ddf18a6422fc19368"
-  },
-  {
-    "title": "One Knoxville SC vs. Chattanooga Red Wolves SC",
-    "league": "USL League One",
-    "fecha-evento": "2025-10-01T17:30:06-05:00",
-    "img": "9f907bbf-b19a-4c1e-83ef-a0f5afb8632c",
-    "nombre": "disney17a419",
-    "status": "17:30",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/83ff2ee8-60ee-43b1-8b93-474955a6056e",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759444862~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F01%2FOne_Knoxville_SC_vs_Chatt_20251001_1759350615024%2F~psid=25b39d65-7ad4-4d83-98e6-ff0043e9fd25~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=3befeb4d9f15d588acdf2368644010cdc9f6e4703383dabea88503314ad609da/clt1/va02/disneyplus/event/2025/10/01/One_Knoxville_SC_vs_Chatt_20251001_1759350615024/ctr-all-hdri-complete.m3u8?v=1&hash=561e74a88fbead2a87eb00a5ec8f7f2954aa9f94",
-    "k1": "1a5bbe112ec94cf9bca1648368bdd719",
-    "k2": "ae114fd8298617e6a4c04306100ab282"
-  },
-  {
     "title": "NJ/NY Gotham FC vs. Washington Spirit (Fecha #4)",
     "league": "Concacaf W Champions Cup",
     "fecha-evento": "2025-10-01T17:50:05-05:00",
@@ -52,19 +26,6 @@
     "k2": "788c884dbe924eeea65fbe4215b5e2a5"
   },
   {
-    "title": "Pittsburgh Penguins vs. Buffalo Sabres",
-    "league": "National Hockey League",
-    "fecha-evento": "2025-10-01T18:00:00-05:00",
-    "img": "0e56d1ac-3817-449a-82bf-28b0d51b9ed5",
-    "nombre": "disney55a8c3",
-    "status": "18:00",
-    "duration": 210,
-    "play_url": "https://www.disneyplus.com/es-es/play/210bbd9c-1587-4040-ac73-9c5969e5655d",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759446105~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F01%2FPittsburgh_Penguins_vs_Bu_20251001_1759352440472%2F~psid=8b83690c-2d2a-4af4-a030-689ab929803d~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=3b043e6517608758983cd5ab530d50656cabf46ff02be61c1fd9ca7ed2541cf3/clt1/va02/disneyplus/event/2025/10/01/Pittsburgh_Penguins_vs_Bu_20251001_1759352440472/ctr-all-hdri-complete.m3u8?v=1&hash=7693bd894c1360064a6b7009462ee1ee49eaea30",
-    "k1": "3943a4ebc7364bf0bc46054e5bca6bf1",
-    "k2": "fbb49f073ddefc6b813f2d6efbf45c7d"
-  },
-  {
     "title": "CD Plaza Amador vs. Real CD España (Quarterfinals, Leg 2)",
     "league": "Concacaf Central American Cup",
     "fecha-evento": "2025-10-01T18:50:01-05:00",
@@ -78,37 +39,30 @@
     "k2": "bfbbc02e3869fe02e30ba19c698699ae"
   },
   {
-    "title": "Cibao FC vs. Defence Force FC",
-    "league": "Concacaf Caribbean Cup",
-    "fecha-evento": "2025-10-01T18:50:02-05:00",
-    "img": "0b2eeea2-2cc1-4139-adf5-84b32860fe60",
-    "nombre": "disneyda8c10",
-    "status": "18:50",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/671a244c-e5d0-4f58-a8f0-566073fc9a39",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759449662~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F01%2FCibao_FC_vs_Defence_Force_20251001_1759355422025%2F~psid=77319b05-6477-4242-882a-1627531d635e~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=12d0f4634399070dd00da970b29b98297d93c5881ca6d3efb49cd8ae520931bf/clt1/va02/disneyplus/event/2025/10/01/Cibao_FC_vs_Defence_Force_20251001_1759355422025/ctr-all-hdri-complete.m3u8?v=1&hash=8f34ba3a1052eb07d520215793f31084a8509404",
-    "k1": "9445657bbebf497bb2a34a66d6e06c05",
-    "k2": "f44d4ac6f9e6fc8920d1154fc236aff1"
-  },
-  {
     "title": "Weymouth Wales FC vs. Cavalier FC (Round #5)",
     "league": "Concacaf Caribbean Cup",
     "fecha-evento": "2025-10-01T19:00:00-05:00",
     "img": "7f0c5379-ba93-4aa0-a47f-1a7c3a4a30a8",
     "nombre": "disneycb61a8",
     "status": "19:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/2f88d8e1-29a3-4313-bc06-a4d26c83fae7",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759450818~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F02%2FWeymouth_Wales_FC_vs_Cava_20251002_1759356020036%2F~psid=90607c2c-fd23-4b62-8a55-9570e99cdef4~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=4236717a72f8ba074af56f6d9b814fab88d73d66aea696355521a705cb9cda60/clt1/va02/disneyplus/event/2025/10/02/Weymouth_Wales_FC_vs_Cava_20251002_1759356020036/ctr-all-hdri-complete.m3u8?v=1&hash=598c74bfd3ae8279e3d21d8886cc235539462cdf",
+    "k1": "52c68511308748f286e9c518902ccab8",
+    "k2": "7e103f3a6444b3bcee763854bc61d0bb"
   },
   {
     "title": "Birmingham Legion FC vs. North Carolina FC",
     "league": "USL Championship",
-    "fecha-evento": "2025-10-01T19:00:00-05:00",
+    "fecha-evento": "2025-10-01T19:00:04-05:00",
     "img": "7b7978e5-67be-447d-92f0-e35c789cd932",
-    "nombre": "disneyc5a959",
+    "nombre": "disneyae317b",
     "status": "19:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/98cf8a10-0efc-4d88-bfb0-5100ad94e531",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759450862~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F02%2FBirmingham_Legion_FC_vs_N_20251002_1759356019024%2F~psid=9cfe91fe-bce2-4a9d-8a00-d3dde7ee8cd8~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=7a72e53fc1e692798e8e3172c51a32e537d9dfaf7659f367a98e06cd30fa165f/clt1/va02/disneyplus/event/2025/10/02/Birmingham_Legion_FC_vs_N_20251002_1759356019024/ctr-all-hdri-complete.m3u8?v=1&hash=d83eacbadde58a5a517fa68185ae16ad83467569",
+    "k1": "5a09308c70a547b2a90bd0baa871228b",
+    "k2": "25f29ddf4c74f5aa9889a57fce2a0243"
   },
   {
     "title": "CF Pachuca Femenil vs. LD Alajuelense (Fecha #4)",
@@ -596,6 +550,56 @@
     "fecha-evento": "2025-10-02T13:50:00-05:00",
     "img": "0d695961-ec74-4c95-ac68-a1ae3084ff5f",
     "nombre": "disneyde8a5a",
+    "status": "13:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Maccabi Tel Aviv vs. Dinamo Zagreb",
+    "league": "UEFA Europa League",
+    "fecha-evento": "2025-10-02T13:50:00-05:00",
+    "img": "ab37360f-5333-4967-b385-5a6f923270a8",
+    "nombre": "disneya6a1c2",
+    "status": "13:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Genk - Ferencvaros",
+    "league": "UEFA Europa League",
+    "fecha-evento": "2025-10-02T13:50:00-05:00",
+    "img": "bcb6562a-fc84-4569-9826-f8ba95eca3b8",
+    "nombre": "disney7147cf",
+    "status": "13:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Raków Czestochowa - Universitatea Craiova",
+    "league": "UEFA Conference League",
+    "fecha-evento": "2025-10-02T13:50:00-05:00",
+    "img": "040d149d-c622-4d8f-9e4e-65ed2425ac3d",
+    "nombre": "disney55dfc3",
+    "status": "13:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Rotherham United vs. Bradford City",
+    "league": "League One de Inglaterra",
+    "fecha-evento": "2025-10-02T13:50:00-05:00",
+    "img": "d9bcd7d1-a870-469b-a682-e885a415d334",
+    "nombre": "disneydfb452",
+    "status": "13:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Shelbourne vs. BK Häcken FF",
+    "league": "UEFA Conference League",
+    "fecha-evento": "2025-10-02T13:50:00-05:00",
+    "img": "e7c9e09b-14e5-4bc6-ae4d-b310a423d3c1",
+    "nombre": "disneyac310b",
     "status": "13:50",
     "duration": 135,
     "play_url": ""
