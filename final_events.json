@@ -1,18 +1,5 @@
 [
   {
-    "title": "Rolex Shanghai Masters (Second Round)",
-    "league": "ATP",
-    "fecha-evento": "2025-10-03T05:30:00-05:00",
-    "img": "021dd9d9-6f12-4cbf-9b60-a808dcedd3ed",
-    "nombre": "disney338da2",
-    "status": "05:30",
-    "duration": 355,
-    "play_url": "https://www.disneyplus.com/es-es/play/69ed0ac2-e890-4548-bf78-50c6eb48b524",
-    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759594819~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F921e1311-bb26-43dd-84a6-9e2284959712-1759409855938%2F~psid=34a48989-0e95-4cad-8d3f-9a52d1742c68~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=e3a0df044b6d7bc9e1662d4b0361ce43bcfb8d5718e13757e5e119b026dbc346/clt1/va02/disneyplus/channel/921e1311-bb26-43dd-84a6-9e2284959712-1759409855938/ctr-all-sliding-alt1.m3u8?v=1&hash=e50ddd99727af0a2947bb1b84904b1697e8043f8",
-    "k1": "c4be0d78efaf40998f3334d59e83ebac",
-    "k2": "6553bd2b6930b242908eaae341eaff50"
-  },
-  {
     "title": "Sanderson Farms Championship: Homa & Bhatia Featured Groups (Second Round)",
     "league": "PGA TOUR",
     "fecha-evento": "2025-10-03T07:00:00-05:00",
@@ -484,6 +471,16 @@
     "play_url": ""
   },
   {
+    "title": "Rolex Shanghai Masters (Second Round)",
+    "league": "ATP",
+    "fecha-evento": "2025-10-03T23:30:00-05:00",
+    "img": "04f80f7f-bea5-4996-b409-7045f0f1917c",
+    "nombre": "disney922d3c",
+    "status": "23:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
     "title": "Rolex Shanghai Masters / Court 4",
     "league": "ATP",
     "fecha-evento": "2025-10-03T23:30:00-05:00",
@@ -620,6 +617,26 @@
     "img": "ab54444e-96e1-42ed-a13a-7537f2968bfc",
     "nombre": "disney353d1b",
     "status": "03:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Australia vs. Sri Lanka",
+    "league": "ESPN",
+    "fecha-evento": "2025-10-04T04:00:00-05:00",
+    "img": "3f924cb0-3281-456f-a3ad-22f42fb18e6b",
+    "nombre": "disneyc88607",
+    "status": "04:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "F1 - GP Singapur - Prácticas #3",
+    "league": "Fórmula 1",
+    "fecha-evento": "2025-10-04T04:25:00-05:00",
+    "img": "7b18a7f3-0c55-420e-8c38-ad5e6d47af64",
+    "nombre": "disneyc99223",
+    "status": "04:25",
     "duration": 135,
     "play_url": ""
   }
