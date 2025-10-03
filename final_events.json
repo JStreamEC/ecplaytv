@@ -39,19 +39,6 @@
     "k2": "63c7a37e5428d068a3ebb42644d82a18"
   },
   {
-    "title": "IWF Forde - Men 60",
-    "league": "IWF",
-    "fecha-evento": "2025-10-03T12:30:06-05:00",
-    "img": "69f7bf72-3912-4e0d-bc44-faa1aa2a8387",
-    "nombre": "disneyb6fd49",
-    "status": "12:30",
-    "duration": 150,
-    "play_url": "https://www.disneyplus.com/es-es/play/4d4d9801-9a36-4114-bdcc-922d67a18346",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1759599618~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F03%2FIWF_Forde_Men_60_20251003_1759505437035%2F~psid=a1468254-00fa-4ad8-a656-b479371d46dd~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=54c5b33534420449c405aca00b53c3b2441c3c94fe3a2d86f8b23847bc46fce6/clt1/va02/disneyplus/event/2025/10/03/IWF_Forde_Men_60_20251003_1759505437035/ctr-all-hdri-complete.m3u8?v=1&hash=01d39525a3dd111f89dbb18e3216a349fe0584f5",
-    "k1": "9a55ca91f53c495fb815573b8d326938",
-    "k2": "712fb92313927bffcc40cf07daa7f8aa"
-  },
-  {
     "title": "Hoffenheim vs. Köln",
     "league": "Bundesliga",
     "fecha-evento": "2025-10-03T13:20:00-05:00",
@@ -648,6 +635,16 @@
     "img": "c8833c09-1ac3-4d09-9cf9-cf0272037865",
     "nombre": "disney1ecba2",
     "status": "04:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Australia vs. Nueva Zelanda (Ronda #6)",
+    "league": "Rugby Championship",
+    "fecha-evento": "2025-10-04T04:50:00-05:00",
+    "img": "2497f6dd-da12-41b1-9cc1-c01606d42085",
+    "nombre": "disney5ff90e",
+    "status": "04:50",
     "duration": 135,
     "play_url": ""
   }
