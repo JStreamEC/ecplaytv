@@ -13,16 +13,6 @@
     "k2": "2c5f9d2df976ef86e9a3845dd2fb0a3c"
   },
   {
-    "title": "Boston Red Sox vs. New York Yankees",
-    "league": "MLB",
-    "fecha-evento": "2025-10-02T19:00:00-05:00",
-    "img": "081e9ef5-e962-44ae-91be-f4438d96a7e3",
-    "nombre": "disney062bf6",
-    "status": "19:00",
-    "duration": 180,
-    "play_url": "https://www.disneyplus.com/es-es/play/fe588c61-fed9-46bf-8aca-79d568355de3"
-  },
-  {
     "title": "Hawai'i vs. Cal State Fullerton",
     "league": "Fútbol Femenino NCAA",
     "fecha-evento": "2025-10-02T20:00:01-05:00",
@@ -154,6 +144,16 @@
     "img": "11398d42-483b-4c95-bb63-3c681ff3e61e",
     "nombre": "disney0d94e9",
     "status": "23:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "WTA China Open / Capital Group Diamond (Doubles Quarterfinals)",
+    "league": "WTA",
+    "fecha-evento": "2025-10-03T00:00:00-05:00",
+    "img": "0f2095e3-3192-4d23-b41a-f2587cd48ae5",
+    "nombre": "disneydd2e9c",
+    "status": "00:00",
     "duration": 135,
     "play_url": ""
   },
