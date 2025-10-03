@@ -78,19 +78,6 @@
     "k2": "590b70c34f1af8e5f1cb9777534f05cc"
   },
   {
-    "title": "Pertamina Grand Prix of Indonesia - Free Practice 1 (Moto3)",
-    "league": "MotoGP",
-    "fecha-evento": "2025-10-02T19:55:00-05:00",
-    "img": "eff6b7ce-9e87-4269-a096-40bc262bf872",
-    "nombre": "disneyb4f650",
-    "status": "19:55",
-    "duration": 45,
-    "play_url": "https://www.disneyplus.com/es-es/play/977c2e22-fdc9-4ae5-aa03-7fd51677859e",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759539662~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F03%2FPertamina_Grand_Prix_of_I_20251003_1759445714028%2F~psid=c1cae4d9-945d-4d71-a228-3b40fb64d775~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=ca532aa41314fbd1ceb6fde2fe9a6cc8303038cbea87e9c9fdeea4f5bcde73b5/clt1/va02/disneyplus/event/2025/10/03/Pertamina_Grand_Prix_of_I_20251003_1759445714028/ctr-all-hdri-complete.m3u8?v=1&hash=28dc3458e85d477dfc4d42bbbe47fe623889fb2d",
-    "k1": "0367c28777014299b8b1211086213408",
-    "k2": "102f7c39d60d2875c6362f79ba650240"
-  },
-  {
     "title": "Hawai'i vs. Cal State Fullerton",
     "league": "Fútbol Femenino NCAA",
     "fecha-evento": "2025-10-02T20:00:01-05:00",
@@ -150,7 +137,10 @@
     "nombre": "disney750257",
     "status": "21:00",
     "duration": 135,
-    "play_url": ""
+    "play_url": "https://www.disneyplus.com/es-es/play/5df067a9-ab72-46c4-a440-349fc7a9bc11",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759543220~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F03%2FCD_Olimpia_vs_CS_Cartagin_20251003_1759449644037%2F~psid=a6bd2696-4d0c-407b-8857-6267c0ef7489~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=d31985f496182f4f4d995a2126db733df08760c7bae76e1a141af5ea82800d13/clt1/va02/disneyplus/event/2025/10/03/CD_Olimpia_vs_CS_Cartagin_20251003_1759449644037/ctr-all-hdri-complete.m3u8?v=1&hash=4746b7ba59ea534c299f44459bcd68c3d4dd7c3c",
+    "k1": "837635b2e124434fa7db6abcf3e38b31",
+    "k2": "b789eec11e3ca6f18f70b131f400ad2e"
   },
   {
     "title": "Pertamina Grand Prix of Indonesia - Free Practice 1 (MotoGP)",
@@ -589,6 +579,16 @@
     "img": "1259ba63-6491-4e11-a218-abb768496941",
     "nombre": "disney664ed6",
     "status": "13:45",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Wrexham AFC vs. Birmingham City",
+    "league": "Championship de Inglaterra",
+    "fecha-evento": "2025-10-03T13:55:00-05:00",
+    "img": "f52809e2-1b42-4d85-a6b1-13bec0769999",
+    "nombre": "disney8fa228",
+    "status": "13:55",
     "duration": 135,
     "play_url": ""
   }
