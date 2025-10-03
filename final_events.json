@@ -13,19 +13,6 @@
     "k2": "b426211e8162a5725df16c10512dbae9"
   },
   {
-    "title": "Challenger Dove Men Care Antofagasta (Cuartos de Final)",
-    "league": "ATP",
-    "fecha-evento": "2025-10-03T09:00:03-05:00",
-    "img": "fd0ae8b6-8b45-420f-a646-1d6f06f87fd6",
-    "nombre": "disneyc8532c",
-    "status": "09:00",
-    "duration": 360,
-    "play_url": "https://www.disneyplus.com/es-es/play/2a956e58-7c5a-4463-9feb-1807a2aa7661",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759594929~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F03%2FChallenger_Dove_Men_Care__20251003_1759492851036%2F~psid=850c0fd3-8a1e-4158-8219-7ad72a7b12c0~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=395818b2fb1a214defd790ae05b695604d298f92717f7b36a9b3710004a3a2d8/clt1/va02/disneyplus/event/2025/10/03/Challenger_Dove_Men_Care__20251003_1759492851036/ctr-all-hdri-complete.m3u8?v=1&hash=788ac70338fb34a5f18fb44006d121d32d615813",
-    "k1": "80650c6364804231b86bd61b925261c1",
-    "k2": "62a59b9da109dc2600d9bc8dd404d69c"
-  },
-  {
     "title": "Premier Padel: Rotterdam - Centre Court (Cuartos de Final)",
     "league": "Premier Padel",
     "fecha-evento": "2025-10-03T11:00:12-05:00",
@@ -37,19 +24,6 @@
     "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1759595000~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F03%2FPremier_Padel_Rotterdam_C_20251003_1759501172023%2F~psid=70e9a25d-06b3-431a-8308-a23b616fc17f~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=f1038aa1bfa31a98d43532d66ccc3fb30b25fa8652255aef6d53f7b1add71fa9/clt1/va02/disneyplus/event/2025/10/03/Premier_Padel_Rotterdam_C_20251003_1759501172023/ctr-all-hdri-complete.m3u8?v=1&hash=b9068885c9cc97e54e778cc4097d5fcc635b81f8",
     "k1": "41ca53e43164424d8979e44d7a5c5ce2",
     "k2": "63c7a37e5428d068a3ebb42644d82a18"
-  },
-  {
-    "title": "Manchester United vs. Chelsea",
-    "league": "English Women's Super League",
-    "fecha-evento": "2025-10-03T13:20:38-05:00",
-    "img": "2c4591b5-2728-4447-a54e-fa2ba5eb381a",
-    "nombre": "disney0ef082",
-    "status": "13:20",
-    "duration": 129,
-    "play_url": "https://www.disneyplus.com/es-es/play/56b2188c-607d-4e74-a9ca-7ce3b6bac956",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1759603218~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F03%2FManchester_United_vs_Chel_20251003_1759508710036%2F~psid=e5e2a871-7d10-4396-bec3-2e10f32c33ce~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=a1415d556b1eba1202056e5d279e0831b3c5671a67ca5477b0b1fb4914c24e37/clt1/va02/disneyplus/event/2025/10/03/Manchester_United_vs_Chel_20251003_1759508710036/ctr-all-hdri-complete.m3u8?v=1&hash=c1a52a31f55d497594a8fab313e9e644a84c8ff0",
-    "k1": "fde8d42476624330afa8cfed75677f27",
-    "k2": "497aafef12b4b47b5be44fd3c07f0c35"
   },
   {
     "title": "Montevideo City Torque vs. Miramar Misiones",
@@ -608,6 +582,26 @@
     "img": "644b7e90-0e86-4c55-925a-f2bcbc2c6c61",
     "nombre": "disneye29c20",
     "status": "06:20",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Leeds United vs. Tottenham Hotspur",
+    "league": "Premier League",
+    "fecha-evento": "2025-10-04T06:20:00-05:00",
+    "img": "ecac22b5-87b9-48de-864a-0c1ef3f118a7",
+    "nombre": "disney0f0987",
+    "status": "06:20",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Real Oviedo vs. Levante",
+    "league": "LALIGA",
+    "fecha-evento": "2025-10-04T06:50:00-05:00",
+    "img": "5f1ad933-47ae-4cac-adb9-084e59679510",
+    "nombre": "disneyf3c634",
+    "status": "06:50",
     "duration": 135,
     "play_url": ""
   }
