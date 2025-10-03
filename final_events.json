@@ -26,19 +26,6 @@
     "k2": "2c5f9d2df976ef86e9a3845dd2fb0a3c"
   },
   {
-    "title": "BYU vs. Houston",
-    "league": "Fútbol Femenino NCAA",
-    "fecha-evento": "2025-10-02T19:00:03-05:00",
-    "img": "76283b40-2f9c-4b84-b63c-d0fb3452b3e8",
-    "nombre": "disney9e8c60",
-    "status": "19:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/a4dafc70-7f90-43d9-88a1-caafc9fbc643",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1759537262~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F03%2FBYU_vs_Houston_20251003_1759442404038%2F~psid=067d0b50-73d1-4521-ad8b-7511bc0ca079~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=b51e9c05219b2b601439b1500b694c0d12984b2fcfa1712db7365ace2b703420/clt1/va02/disneyplus/event/2025/10/03/BYU_vs_Houston_20251003_1759442404038/ctr-all-hdri-complete.m3u8?v=1&hash=fbb6dca0b4b84951e64869b6a8e39bc14b52f51e",
-    "k1": "c30828e427b04f2d8a4f2bfe389fcc01",
-    "k2": "e87e71e8c2a0f98a4375678401f007ae"
-  },
-  {
     "title": "Boston Red Sox vs. New York Yankees",
     "league": "MLB",
     "fecha-evento": "2025-10-02T19:00:03-05:00",
@@ -589,6 +576,16 @@
     "img": "f52809e2-1b42-4d85-a6b1-13bec0769999",
     "nombre": "disney8fa228",
     "status": "13:55",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Bournemouth vs. Fulham",
+    "league": "Premier League",
+    "fecha-evento": "2025-10-03T13:50:00-05:00",
+    "img": "f6bec86a-381c-4735-accb-8a84dace314f",
+    "nombre": "disneyc7f6ca",
+    "status": "13:50",
     "duration": 135,
     "play_url": ""
   }
