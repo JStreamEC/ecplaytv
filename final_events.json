@@ -1,18 +1,5 @@
 [
   {
-    "title": "CD Olimpia vs. CS Cartaginés (Quarterfinals, Leg 2)",
-    "league": "Concacaf Central American Cup",
-    "fecha-evento": "2025-10-02T21:00:00-05:00",
-    "img": "a9539492-e48f-4609-952d-bcd5d23ed226",
-    "nombre": "disney750257",
-    "status": "21:00",
-    "duration": 135,
-    "play_url": "https://www.disneyplus.com/es-es/play/5df067a9-ab72-46c4-a440-349fc7a9bc11",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759543220~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F03%2FCD_Olimpia_vs_CS_Cartagin_20251003_1759449644037%2F~psid=a6bd2696-4d0c-407b-8857-6267c0ef7489~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=d31985f496182f4f4d995a2126db733df08760c7bae76e1a141af5ea82800d13/clt1/va02/disneyplus/event/2025/10/03/CD_Olimpia_vs_CS_Cartagin_20251003_1759449644037/ctr-all-hdri-complete.m3u8?v=1&hash=4746b7ba59ea534c299f44459bcd68c3d4dd7c3c",
-    "k1": "837635b2e124434fa7db6abcf3e38b31",
-    "k2": "b789eec11e3ca6f18f70b131f400ad2e"
-  },
-  {
     "title": "Rolex Shanghai Masters / Grandstand 2",
     "league": "ATP",
     "fecha-evento": "2025-10-02T23:30:00-05:00",
@@ -569,6 +556,16 @@
     "img": "6fc6578d-48c8-4443-97f5-d31b55bd38aa",
     "nombre": "disney1ac483",
     "status": "18:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Columbia vs. Princeton",
+    "league": "Fútbol Americano NCAA",
+    "fecha-evento": "2025-10-03T18:30:00-05:00",
+    "img": "936adbd5-f945-4dbb-9761-645e088c3851",
+    "nombre": "disney83a71a",
+    "status": "18:30",
     "duration": 135,
     "play_url": ""
   }
