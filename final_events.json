@@ -13,19 +13,6 @@
     "k2": "2c5f9d2df976ef86e9a3845dd2fb0a3c"
   },
   {
-    "title": "Hawai'i vs. Cal State Fullerton",
-    "league": "Fútbol Femenino NCAA",
-    "fecha-evento": "2025-10-02T20:00:01-05:00",
-    "img": "642fbd45-4367-465c-89b1-de376f1349d3",
-    "nombre": "disney1efc07",
-    "status": "20:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/875009e3-72d3-46b2-ad3d-5481ca415501",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759540819~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F03%2FHawaii_vs_Cal_State_Fulle_20251003_1759446271914%2F~psid=2cfe7153-070b-4c1f-b053-67c6fda729a7~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=15a0716d28b905e983b074538c0395bcfcd53363f4f961e80e6dff687817cfa0/clt1/va02/disneyplus/event/2025/10/03/Hawaii_vs_Cal_State_Fulle_20251003_1759446271914/ctr-all-hdri-complete.m3u8?v=1&hash=f78d3f42b9243ef14b595d52cf9cad3112c12d2f",
-    "k1": "97c30f86304f4aaca2f05c17b649ad70",
-    "k2": "385bca780a009ae96df916454477c190"
-  },
-  {
     "title": "Los Angeles Kings vs. Utah Mammoth",
     "league": "National Hockey League",
     "fecha-evento": "2025-10-02T20:00:14-05:00",
@@ -37,19 +24,6 @@
     "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759540863~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F03%2FLos_Angeles_Kings_vs_Utah_20251003_1759446049036%2F~psid=5b777229-7922-4054-a98e-98e4b7a0a6c3~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=09bce7d51e02091ae5eda014697874f0ee424211abf7975badac626db9d21126/clt1/va02/disneyplus/event/2025/10/03/Los_Angeles_Kings_vs_Utah_20251003_1759446049036/ctr-all-hdri-complete.m3u8?v=1&hash=8a479f2dfb2607b66a3a6f4bbaee87231f7b915a",
     "k1": "b0bc27dcb09d4207ba6730c512208f23",
     "k2": "3e19df1e0c46b43e9275b44b2f792521"
-  },
-  {
-    "title": "San Diego vs. Saint Mary's",
-    "league": "NCAA Women's Volleyball",
-    "fecha-evento": "2025-10-02T20:30:13-05:00",
-    "img": "200822e5-a098-4de2-9e7d-762f051402ba",
-    "nombre": "disney2e29d1",
-    "status": "20:30",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/b6b2ef1d-c632-4a12-806c-5c5b01601d8f",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1759542019~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F03%2FSan_Diego_vs_Saint_Marys_20251003_1759447841037%2F~psid=f64bd820-3254-4192-9175-ee19a88b7ac5~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=ccc2c4a43a208be54d8b2f69fc06849c2bcb2ffb9a98378cba6ecbce30097d50/clt1/va02/disneyplus/event/2025/10/03/San_Diego_vs_Saint_Marys_20251003_1759447841037/ctr-all-hdri-complete.m3u8?v=1&hash=2604023024323c4d39719e2b65e6a04f8af21dd8",
-    "k1": "2701f8bcdcdf45bbadd8cab5e67e0150",
-    "k2": "bc2b53b3f4a6743e1c242f7775e5e3e7"
   },
   {
     "title": "CD Olimpia vs. CS Cartaginés (Quarterfinals, Leg 2)",
@@ -583,6 +557,26 @@
     "fecha-evento": "2025-10-03T18:00:00-05:00",
     "img": "a906c0c8-1cb2-443c-a971-5d15729ec69d",
     "nombre": "disneye8e729",
+    "status": "18:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Charlotte Independence vs. Spokane Velocity",
+    "league": "USL League One",
+    "fecha-evento": "2025-10-03T18:00:00-05:00",
+    "img": "b623da4b-8ebd-4c4a-b38d-3b3cebcbb509",
+    "nombre": "disney21bdaa",
+    "status": "18:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Buffalo Sabres vs. Pittsburgh Penguins",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-10-03T18:00:00-05:00",
+    "img": "49000323-7932-40f4-9dfa-24810f8b7470",
+    "nombre": "disney7111b9",
     "status": "18:00",
     "duration": 135,
     "play_url": ""
