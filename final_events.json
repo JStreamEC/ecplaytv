@@ -39,19 +39,6 @@
     "k2": "63c7a37e5428d068a3ebb42644d82a18"
   },
   {
-    "title": "Hoffenheim vs. Köln",
-    "league": "Bundesliga",
-    "fecha-evento": "2025-10-03T13:20:00-05:00",
-    "img": "07d1d63c-c0a3-431f-b39d-708c412570b4",
-    "nombre": "disneyb364e2",
-    "status": "13:20",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/40d73d80-79d3-4567-832e-00c99c2663af",
-    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759602018~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F7f9052ce-8143-43a6-9656-a8c00c4a3e56-1759410662253%2F~psid=e2ab6be6-bfd2-4b91-af09-ca8e34c7c3d4~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=87929e7cc33c606a30221ec364873caea3e9ebcb4e61f2f01eb74fb947ffdf32/clt1/va02/disneyplus/channel/7f9052ce-8143-43a6-9656-a8c00c4a3e56-1759410662253/ctr-all-sliding-alt1.m3u8?v=1&hash=62ce07132e0abe5c3d4609df742b679fdbe340b7",
-    "k1": "fa73446a22f54164a495818a7b4f0f26",
-    "k2": "aa7363a2343529544da5f85eeb81afc4"
-  },
-  {
     "title": "Manchester United vs. Chelsea",
     "league": "English Women's Super League",
     "fecha-evento": "2025-10-03T13:20:38-05:00",
@@ -63,19 +50,6 @@
     "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1759603218~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F03%2FManchester_United_vs_Chel_20251003_1759508710036%2F~psid=e5e2a871-7d10-4396-bec3-2e10f32c33ce~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=a1415d556b1eba1202056e5d279e0831b3c5671a67ca5477b0b1fb4914c24e37/clt1/va02/disneyplus/event/2025/10/03/Manchester_United_vs_Chel_20251003_1759508710036/ctr-all-hdri-complete.m3u8?v=1&hash=c1a52a31f55d497594a8fab313e9e644a84c8ff0",
     "k1": "fde8d42476624330afa8cfed75677f27",
     "k2": "497aafef12b4b47b5be44fd3c07f0c35"
-  },
-  {
-    "title": "Ceuta vs. SD Eibar",
-    "league": "Segunda División de España",
-    "fecha-evento": "2025-10-03T13:25:03-05:00",
-    "img": "16472f5f-aeea-45ef-aff5-27a9b8573862",
-    "nombre": "disneyd12a3c",
-    "status": "13:25",
-    "duration": 125,
-    "play_url": "https://www.disneyplus.com/es-es/play/3e7273b0-3c7b-46c5-a995-64740066acc5",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759603261~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F03%2FCeuta_vs_SD_Eibar_20251003_1759508703026%2F~psid=9b473c9d-8d86-482f-8abc-dc6655330b56~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=5a64163980505cda76df3243ec617851aeef598b8d59648d8342b91a365c7203/clt1/va02/disneyplus/event/2025/10/03/Ceuta_vs_SD_Eibar_20251003_1759508703026/ctr-all-hdri-complete.m3u8?v=1&hash=db13e087ee88846ed2ee2bcb905de478f79a62d5",
-    "k1": "5c2abf49ae8b491c85dd5280312c4703",
-    "k2": "7e44c42787abd20494da50818ce4c9d8"
   },
   {
     "title": "Paris FC vs. Lorient",
@@ -645,6 +619,16 @@
     "img": "2497f6dd-da12-41b1-9cc1-c01606d42085",
     "nombre": "disney5ff90e",
     "status": "04:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Premier Padel: Rotterdam - Centre Court (Semifinales)",
+    "league": "Premier Padel",
+    "fecha-evento": "2025-10-04T05:00:00-05:00",
+    "img": "2523a564-8820-40eb-ba01-5a4c969fa6c5",
+    "nombre": "disney5571bf",
+    "status": "05:00",
     "duration": 135,
     "play_url": ""
   }
