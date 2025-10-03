@@ -13,19 +13,6 @@
     "k2": "6553bd2b6930b242908eaae341eaff50"
   },
   {
-    "title": "Alfred Dunhill Links Championship (Second Round)",
-    "league": "DP World Tour",
-    "fecha-evento": "2025-10-03T06:00:00-05:00",
-    "img": "0475a107-e9ed-4ae4-a522-d23ee8473a53",
-    "nombre": "disney3064c9",
-    "status": "06:00",
-    "duration": 325,
-    "play_url": "https://www.disneyplus.com/es-es/play/8d4a94f7-b38d-4236-98d0-dd2fa65abbc5",
-    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759594862~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Fec26a05e-a9cc-4db4-804e-77465738e667-1759408066139%2F~psid=b6bb5a1d-13b0-404f-8558-a9cb89847c44~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=9f1c7008b17fdc4200ba5bf6c3c8578f8add28c916b78dec9ecef254c812904b/clt1/va02/disneyplus/channel/ec26a05e-a9cc-4db4-804e-77465738e667-1759408066139/ctr-all-sliding-alt1.m3u8?v=1&hash=f49ea62fa7410074aaa3483f688cb1f35dfe9b3b",
-    "k1": "f9b467d6263442cd86b11cf6bd62305f",
-    "k2": "d9f4f458c59044c62782bfa1e336df6d"
-  },
-  {
     "title": "Sanderson Farms Championship: Homa & Bhatia Featured Groups (Second Round)",
     "league": "PGA TOUR",
     "fecha-evento": "2025-10-03T07:00:00-05:00",
@@ -97,18 +84,24 @@
     "img": "68d71676-036c-4c24-99f8-2ac9b064e0df",
     "nombre": "disney16cc74",
     "status": "11:25",
-    "duration": 135,
-    "play_url": ""
+    "duration": 125,
+    "play_url": "https://www.disneyplus.com/es-es/play/2c6a483f-9b97-45c2-8d8c-8533fc1fc830",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1759596017~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F03%2FEintracht_Braunschweig_vs_20251003_1759501547024%2F~psid=3b94b8e5-86a3-4576-935b-4936b36ab922~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=4d96a0f30ce08d751912e56970900369adf8d8790051c594aa0c63b661391708/clt1/va02/disneyplus/event/2025/10/03/Eintracht_Braunschweig_vs_20251003_1759501547024/ctr-all-hdri-complete.m3u8?v=1&hash=1d11cbe5bc89ce522b566f3ef12694ee85f93126",
+    "k1": "7436e85eeaf340799d753b7030e63fba",
+    "k2": "2581f1506095d10ffd90ec6df2df6b45"
   },
   {
     "title": "Fortuna Dusseldorf vs. 1. FC Nurnberg",
     "league": "Bundesliga 2 de Alemania",
-    "fecha-evento": "2025-10-03T11:25:00-05:00",
+    "fecha-evento": "2025-10-03T11:20:40-05:00",
     "img": "3f9b1f44-15ab-49ef-9ba4-1ffa15d0eef9",
-    "nombre": "disney9bbd12",
-    "status": "11:25",
-    "duration": 135,
-    "play_url": ""
+    "nombre": "disneye2e071",
+    "status": "11:20",
+    "duration": 129,
+    "play_url": "https://www.disneyplus.com/es-es/play/b1218880-dd0d-4fc1-a1d0-ace719b7b38b",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759596061~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F03%2FFortuna_Dusseldorf_vs_1_F_20251003_1759501523033%2F~psid=0b7a21f1-40da-4298-b80c-a3330d84a44f~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=f8957f879ac6740edd3d37e907853005c2e1cbd1a9185983c36ad950c859ff93/clt1/va02/disneyplus/event/2025/10/03/Fortuna_Dusseldorf_vs_1_F_20251003_1759501523033/ctr-all-hdri-complete.m3u8?v=1&hash=ca0177eb636c0cf5994887247b26f17832bd893a",
+    "k1": "6f176376520a4d24937a719d0b87a663",
+    "k2": "dc5cfd4e00f9f674e4a0c8d76af5b50d"
   },
   {
     "title": "Trabzonspor vs. Yukatel Kayserispor",
@@ -617,6 +610,16 @@
     "img": "68fd835a-6405-49ca-bf1d-bb4f0aecaad3",
     "nombre": "disney6db68b",
     "status": "01:55",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "WTA China Open (Semifinals)",
+    "league": "WTA",
+    "fecha-evento": "2025-10-04T02:00:00-05:00",
+    "img": "105ab96e-af1c-4915-aa97-984eacea0efc",
+    "nombre": "disneya6f876",
+    "status": "02:00",
     "duration": 135,
     "play_url": ""
   }
