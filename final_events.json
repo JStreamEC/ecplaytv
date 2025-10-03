@@ -1,18 +1,5 @@
 [
   {
-    "title": "Sanderson Farms Championship: Homa & Bhatia Featured Groups (Second Round)",
-    "league": "PGA TOUR",
-    "fecha-evento": "2025-10-03T07:00:00-05:00",
-    "img": "33fe3ddb-4956-4050-8a2c-9cc3024b5279",
-    "nombre": "disney213ffd",
-    "status": "07:00",
-    "duration": 660,
-    "play_url": "https://www.disneyplus.com/es-es/play/3fda5629-29e0-4e85-aa0f-e5453b5c075c",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1759594905~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F03%2FSanderson_Farms_Champions_20251003_1759485620026%2F~psid=58529d29-6fe8-4cc7-b344-f97bb576a468~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=b2846cc9302633dac418eb4ceca3d2690f5961e8a33c70f19e77bfad8fe50816/clt1/va02/disneyplus/event/2025/10/03/Sanderson_Farms_Champions_20251003_1759485620026/ctr-all-hdri-complete.m3u8?v=1&hash=1a0152f70da5589cc08f04120fcf90045ce7455d",
-    "k1": "badf41d972ce4425a0b2efb1a1969044",
-    "k2": "b426211e8162a5725df16c10512dbae9"
-  },
-  {
     "title": "Montevideo City Torque vs. Miramar Misiones",
     "league": "Campeonato Uruguayo",
     "fecha-evento": "2025-10-03T16:45:00-05:00",
@@ -58,8 +45,11 @@
     "img": "76906aae-9ea7-44cc-8f7c-c0d5e85b102f",
     "nombre": "disney57d26b",
     "status": "17:30",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/b8a5afdf-99ca-4be4-ac08-c5620f6dec28",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759617620~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F03%2FAthletes_Unlimited_Pro_Vo_20251003_1759523452032%2F~psid=5f2275fa-ccd4-427c-a3ea-f401b257c756~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=f4f901c0eace9659a9573f8d40ae57854a5bf23e4695fbbb7900d8dab80fd6a6/clt1/va02/disneyplus/event/2025/10/03/Athletes_Unlimited_Pro_Vo_20251003_1759523452032/ctr-all-hdri-complete.m3u8?v=1&hash=7b41b9676940b6bd61e10a32a2afa17b2db4d3b3",
+    "k1": "083667ead35b42ffb5e77e873cb3a009",
+    "k2": "2ce2a64c3cd536bb2c0db8634f6a0dbc"
   },
   {
     "title": "Charlotte vs. South Florida",
@@ -292,11 +282,11 @@
     "play_url": ""
   },
   {
-    "title": "ATP 1000: Xangai",
+    "title": "Rolex Shanghai Masters (Second Round)",
     "league": "ATP",
     "fecha-evento": "2025-10-03T23:30:00-05:00",
-    "img": "1dab1b78-83ec-4f64-a80f-be3521e99964",
-    "nombre": "disneyf018d4",
+    "img": "04f80f7f-bea5-4996-b409-7045f0f1917c",
+    "nombre": "disney922d3c",
     "status": "23:30",
     "duration": 135,
     "play_url": ""
@@ -455,7 +445,7 @@
     "title": "F1 - GP Singapur - Prácticas #3",
     "league": "Fórmula 1",
     "fecha-evento": "2025-10-04T04:25:00-05:00",
-    "img": "7b18a7f3-0c55-420e-8c38-ad5e6d47af64",
+    "img": "91029387-4a7a-49f0-9d23-6a09caabd1be",
     "nombre": "disneyc99223",
     "status": "04:25",
     "duration": 135,
@@ -508,16 +498,6 @@
     "img": "b09cfb47-1475-4bc1-ba44-7ee81209ebee",
     "nombre": "disney5571bf",
     "status": "05:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Rolex Shanghai Masters (Second Round)",
-    "league": "ATP",
-    "fecha-evento": "2025-10-04T05:30:00-05:00",
-    "img": "1fffe1af-b635-4f85-8dff-69e3173a98bb",
-    "nombre": "disney42d2d4",
-    "status": "05:30",
     "duration": 135,
     "play_url": ""
   },
@@ -595,7 +575,7 @@
     "title": "Leeds United vs. Tottenham Hotspur",
     "league": "Premier League",
     "fecha-evento": "2025-10-04T06:20:00-05:00",
-    "img": "ecac22b5-87b9-48de-864a-0c1ef3f118a7",
+    "img": "7f702ed5-4896-48ea-acfe-d710f56d2d4d",
     "nombre": "disney0f0987",
     "status": "06:20",
     "duration": 135,
@@ -618,6 +598,16 @@
     "img": "5f1ad933-47ae-4cac-adb9-084e59679510",
     "nombre": "disney01162d",
     "status": "06:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "F1 - GP Singapur - Clasificación",
+    "league": "Fórmula 1",
+    "fecha-evento": "2025-10-04T07:00:00-05:00",
+    "img": "9bdd6153-f2c7-4134-8848-44a2a9541d64",
+    "nombre": "disneya1096e",
+    "status": "07:00",
     "duration": 135,
     "play_url": ""
   }
