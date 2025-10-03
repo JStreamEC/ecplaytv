@@ -91,24 +91,30 @@
     "k2": "102f7c39d60d2875c6362f79ba650240"
   },
   {
-    "title": "Los Angeles Kings vs. Utah Mammoth",
-    "league": "National Hockey League",
-    "fecha-evento": "2025-10-02T20:00:00-05:00",
-    "img": "d634a15e-100c-48d1-865a-b6cd393da030",
-    "nombre": "disney485858",
-    "status": "20:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Hawai'i vs. Cal State Fullerton",
     "league": "Fútbol Femenino NCAA",
-    "fecha-evento": "2025-10-02T20:00:00-05:00",
+    "fecha-evento": "2025-10-02T20:00:01-05:00",
     "img": "642fbd45-4367-465c-89b1-de376f1349d3",
-    "nombre": "disneyced8c2",
+    "nombre": "disney1efc07",
     "status": "20:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/875009e3-72d3-46b2-ad3d-5481ca415501",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759540819~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F03%2FHawaii_vs_Cal_State_Fulle_20251003_1759446271914%2F~psid=2cfe7153-070b-4c1f-b053-67c6fda729a7~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=15a0716d28b905e983b074538c0395bcfcd53363f4f961e80e6dff687817cfa0/clt1/va02/disneyplus/event/2025/10/03/Hawaii_vs_Cal_State_Fulle_20251003_1759446271914/ctr-all-hdri-complete.m3u8?v=1&hash=f78d3f42b9243ef14b595d52cf9cad3112c12d2f",
+    "k1": "97c30f86304f4aaca2f05c17b649ad70",
+    "k2": "385bca780a009ae96df916454477c190"
+  },
+  {
+    "title": "Los Angeles Kings vs. Utah Mammoth",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-10-02T20:00:14-05:00",
+    "img": "d634a15e-100c-48d1-865a-b6cd393da030",
+    "nombre": "disney8231ab",
+    "status": "20:00",
+    "duration": 210,
+    "play_url": "https://www.disneyplus.com/es-es/play/6c42226e-df63-4bc0-8c74-124da7bc0bec",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759540863~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F03%2FLos_Angeles_Kings_vs_Utah_20251003_1759446049036%2F~psid=5b777229-7922-4054-a98e-98e4b7a0a6c3~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=09bce7d51e02091ae5eda014697874f0ee424211abf7975badac626db9d21126/clt1/va02/disneyplus/event/2025/10/03/Los_Angeles_Kings_vs_Utah_20251003_1759446049036/ctr-all-hdri-complete.m3u8?v=1&hash=8a479f2dfb2607b66a3a6f4bbaee87231f7b915a",
+    "k1": "b0bc27dcb09d4207ba6730c512208f23",
+    "k2": "3e19df1e0c46b43e9275b44b2f792521"
   },
   {
     "title": "San Diego vs. Saint Mary's",
