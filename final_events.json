@@ -132,12 +132,15 @@
   {
     "title": "Columbia vs. Princeton",
     "league": "Fútbol Americano NCAA",
-    "fecha-evento": "2025-10-03T18:30:00-05:00",
+    "fecha-evento": "2025-10-03T18:30:03-05:00",
     "img": "936adbd5-f945-4dbb-9761-645e088c3851",
-    "nombre": "disney83a71a",
+    "nombre": "disneye15a87",
     "status": "18:30",
-    "duration": 135,
-    "play_url": ""
+    "duration": 180,
+    "play_url": "https://www.disneyplus.com/es-es/play/5b9cf0c0-e4fe-4d0d-a3c0-ca3bf32b8d02",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759621220~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F03%2FColumbia_vs_Princeton_20251003_1759530212074%2F~psid=a329045c-a6d6-445e-822c-0cf85331166f~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=32c7a83e034cac875c3ad8ce7b44f77c48b5c371bb6bebe5fbab71e210f127a5/clt1/va02/disneyplus/event/2025/10/03/Columbia_vs_Princeton_20251003_1759530212074/ctr-all-hdri-complete.m3u8?v=1&hash=e6490b21ba87991a582999052591a82c7cfdf34a",
+    "k1": "e5f70d107be741ca82c3b7b25d1571f1",
+    "k2": "5eb40c80d47fcae2e50b73d890617f04"
   },
   {
     "title": "En Español-Phoenix Mercury vs. Las Vegas Aces (Finals, Game 1)",
@@ -300,11 +303,11 @@
     "play_url": ""
   },
   {
-    "title": "ATP 1000: Xangai",
+    "title": "Rolex Shanghai Masters (Second Round)",
     "league": "ATP",
     "fecha-evento": "2025-10-03T23:30:00-05:00",
-    "img": "1dab1b78-83ec-4f64-a80f-be3521e99964",
-    "nombre": "disneyf018d4",
+    "img": "04f80f7f-bea5-4996-b409-7045f0f1917c",
+    "nombre": "disney922d3c",
     "status": "23:30",
     "duration": 135,
     "play_url": ""
@@ -520,16 +523,6 @@
     "play_url": ""
   },
   {
-    "title": "Rolex Shanghai Masters (Second Round)",
-    "league": "ATP",
-    "fecha-evento": "2025-10-04T05:30:00-05:00",
-    "img": "108e77c1-bc2d-447f-ac51-51a14833aab7",
-    "nombre": "disney42d2d4",
-    "status": "05:30",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Holstein Kiel vs. SV Darmstadt 98",
     "league": "Bundesliga 2 de Alemania",
     "fecha-evento": "2025-10-04T05:50:00-05:00",
@@ -615,6 +608,16 @@
     "fecha-evento": "2025-10-04T06:50:00-05:00",
     "img": "5f1ad933-47ae-4cac-adb9-084e59679510",
     "nombre": "disneyf3c634",
+    "status": "06:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Extreme E: Desert X Prix - The Final Lap #01",
+    "league": "Extreme E Series",
+    "fecha-evento": "2025-10-04T06:50:00-05:00",
+    "img": "5f1ad933-47ae-4cac-adb9-084e59679510",
+    "nombre": "disney01162d",
     "status": "06:50",
     "duration": 135,
     "play_url": ""
