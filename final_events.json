@@ -39,19 +39,6 @@
     "k2": "62a59b9da109dc2600d9bc8dd404d69c"
   },
   {
-    "title": "IWF Forde - Women 53",
-    "league": "IWF",
-    "fecha-evento": "2025-10-03T10:00:07-05:00",
-    "img": "69f7bf72-3912-4e0d-bc44-faa1aa2a8387",
-    "nombre": "disney5c8e9d",
-    "status": "10:00",
-    "duration": 150,
-    "play_url": "https://www.disneyplus.com/es-es/play/393b685e-f173-403e-8d6f-21e1eb3d9d34",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759594953~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F03%2FIWF_Forde_Women_53_20251003_1759496430047%2F~psid=6f9d7471-7e8a-4063-a3c6-d9b892100ffb~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=be5d62a2274fd5e1794bf3ad22f4c3c4689861ea6ce5f2875c58efc51a01cb0f/clt1/va02/disneyplus/event/2025/10/03/IWF_Forde_Women_53_20251003_1759496430047/ctr-all-hdri-complete.m3u8?v=1&hash=013e6e93d87f804e1831c62d32f45dc443d3a323",
-    "k1": "20f0f9069f3d44989129545e9abced65",
-    "k2": "5cf8479b485f69e972b54f830e25d20d"
-  },
-  {
     "title": "Premier Padel: Rotterdam - Secondary Court (Cuartos de Final)",
     "league": "Premier Padel",
     "fecha-evento": "2025-10-03T11:00:07-05:00",
@@ -110,8 +97,11 @@
     "img": "03765269-ed4e-44bc-85ff-7ca6a29ad306",
     "nombre": "disney565fe3",
     "status": "11:50",
-    "duration": 135,
-    "play_url": ""
+    "duration": 125,
+    "play_url": "https://www.disneyplus.com/es-es/play/5188a3f7-6213-48a4-bca7-80cbd867af07",
+    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1759597218~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F47873700-1b85-4497-8f84-d6f321fbb196-1759410995494%2F~psid=b5309c39-c5f9-4188-8eed-87f5b0a5ab89~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=ddc4e35c9af37b1f960b163c09dd8dd26be7fbbb561c30375b7d62330cda6c24/clt1/va02/disneyplus/channel/47873700-1b85-4497-8f84-d6f321fbb196-1759410995494/ctr-all-sliding-alt1.m3u8?v=1&hash=2e1c2c39a1658935937a58e79ecd56c0e3dfb9d6",
+    "k1": "1989c679870540e7a15e99a7e2507e81",
+    "k2": "14ec93f368f1d16bab81903a0ae66741"
   },
   {
     "title": "IWF Forde - Men 60",
@@ -620,6 +610,16 @@
     "img": "105ab96e-af1c-4915-aa97-984eacea0efc",
     "nombre": "disneya6f876",
     "status": "02:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "MotoGP Asia Talent Cup - Grand Prix of Indonesia (Carrera 1)",
+    "league": "MotoGP",
+    "fecha-evento": "2025-10-04T03:00:00-05:00",
+    "img": "ab54444e-96e1-42ed-a13a-7537f2968bfc",
+    "nombre": "disney353d1b",
+    "status": "03:00",
     "duration": 135,
     "play_url": ""
   }
