@@ -13,19 +13,6 @@
     "k2": "b426211e8162a5725df16c10512dbae9"
   },
   {
-    "title": "Premier Padel: Rotterdam - Centre Court (Cuartos de Final)",
-    "league": "Premier Padel",
-    "fecha-evento": "2025-10-03T11:00:12-05:00",
-    "img": "07bfe551-3e5f-4c83-bc38-165e562f990f",
-    "nombre": "disneycdeb24",
-    "status": "11:00",
-    "duration": 270,
-    "play_url": "https://www.disneyplus.com/es-es/play/2cf3b772-6ae6-45ee-8d7b-c73ad2f293cb",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1759595000~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F03%2FPremier_Padel_Rotterdam_C_20251003_1759501172023%2F~psid=70e9a25d-06b3-431a-8308-a23b616fc17f~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=f1038aa1bfa31a98d43532d66ccc3fb30b25fa8652255aef6d53f7b1add71fa9/clt1/va02/disneyplus/event/2025/10/03/Premier_Padel_Rotterdam_C_20251003_1759501172023/ctr-all-hdri-complete.m3u8?v=1&hash=b9068885c9cc97e54e778cc4097d5fcc635b81f8",
-    "k1": "41ca53e43164424d8979e44d7a5c5ce2",
-    "k2": "63c7a37e5428d068a3ebb42644d82a18"
-  },
-  {
     "title": "Montevideo City Torque vs. Miramar Misiones",
     "league": "Campeonato Uruguayo",
     "fecha-evento": "2025-10-03T16:45:00-05:00",
@@ -33,7 +20,10 @@
     "nombre": "disney0ef43a",
     "status": "16:45",
     "duration": 135,
-    "play_url": ""
+    "play_url": "https://www.disneyplus.com/es-es/play/6929ddbb-dbc5-4f04-a9b9-2c5c0d531773",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759615218~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F03%2FMontevideo_City_Torque_vs_20251003_1759520754032%2F~psid=1f282b30-9a0d-46b6-baca-fe75ea9c2a33~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=cc7d53a5df093ca74b1fe0e9f797e6ffe5f796a7dd4e12304ae1356f4ae731db/clt1/va02/disneyplus/event/2025/10/03/Montevideo_City_Torque_vs_20251003_1759520754032/ctr-all-hdri-complete.m3u8?v=1&hash=154cd8e9fb6a7de9b110f4e367505ff2523d1dbb",
+    "k1": "e32fcc5f41154e27a8b73c35855f4547",
+    "k2": "1e40b4a4154b26bffc2455e7becf5a7f"
   },
   {
     "title": "#23 Louisville vs. #2 Notre Dame",
@@ -296,11 +286,11 @@
     "play_url": ""
   },
   {
-    "title": "Rolex Shanghai Masters (Second Round)",
+    "title": "ATP 1000: Xangai",
     "league": "ATP",
     "fecha-evento": "2025-10-03T23:30:00-05:00",
-    "img": "04f80f7f-bea5-4996-b409-7045f0f1917c",
-    "nombre": "disney922d3c",
+    "img": "1dab1b78-83ec-4f64-a80f-be3521e99964",
+    "nombre": "disneyf018d4",
     "status": "23:30",
     "duration": 135,
     "play_url": ""
@@ -516,6 +506,16 @@
     "play_url": ""
   },
   {
+    "title": "Rolex Shanghai Masters (Second Round)",
+    "league": "ATP",
+    "fecha-evento": "2025-10-04T05:30:00-05:00",
+    "img": "1fffe1af-b635-4f85-8dff-69e3173a98bb",
+    "nombre": "disney42d2d4",
+    "status": "05:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
     "title": "Holstein Kiel vs. SV Darmstadt 98",
     "league": "Bundesliga 2 de Alemania",
     "fecha-evento": "2025-10-04T05:50:00-05:00",
@@ -601,6 +601,16 @@
     "fecha-evento": "2025-10-04T06:50:00-05:00",
     "img": "5f1ad933-47ae-4cac-adb9-084e59679510",
     "nombre": "disneyf3c634",
+    "status": "06:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Extreme E: Desert X Prix - The Final Lap #01",
+    "league": "Extreme E Series",
+    "fecha-evento": "2025-10-04T06:50:00-05:00",
+    "img": "5f1ad933-47ae-4cac-adb9-084e59679510",
+    "nombre": "disney01162d",
     "status": "06:50",
     "duration": 135,
     "play_url": ""
