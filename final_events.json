@@ -39,19 +39,6 @@
     "k2": "dd03422480b18ef35d049686da59285a"
   },
   {
-    "title": "Texas vs. Texas A&M",
-    "league": "Fútbol Femenino NCAA",
-    "fecha-evento": "2025-10-02T19:03:41-05:00",
-    "img": "53a5ca9b-3449-4ee5-80e7-1da1414812c7",
-    "nombre": "disneyebc0cc",
-    "status": "19:03",
-    "duration": 116,
-    "play_url": "https://www.disneyplus.com/es-es/play/b6381a25-ad6b-4584-8c34-eb7fab8a2824",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1759537218~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F03%2FTexas_vs_Texas_AM_20251003_1759442911900%2F~psid=9a7237fa-4564-4f23-bca1-114f66b1ab7d~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=3b5fc8553f0dbbe7dc2aca276e8c3501fd04d4dc00c8249a582acc9d28de0601/clt1/va02/disneyplus/event/2025/10/03/Texas_vs_Texas_AM_20251003_1759442911900/ctr-all-hdri-complete.m3u8?v=1&hash=730181f4fc9ee01a0ca956bc8003d2bd61af8baa",
-    "k1": "27507a04dc0740f5ab7c6accf3b85e6f",
-    "k2": "8c2f17bcf53b3d841e8ba4f669437ff0"
-  },
-  {
     "title": "CF Monterrey Femenil vs. Vancouver Rise FC Academy (Fecha #4)",
     "league": "Concacaf W Champions Cup",
     "fecha-evento": "2025-10-02T19:50:04-05:00",
@@ -136,8 +123,11 @@
     "img": "7a81871c-efab-4211-9e40-f77000755189",
     "nombre": "disney7f4fbf",
     "status": "21:35",
-    "duration": 135,
-    "play_url": ""
+    "duration": 75,
+    "play_url": "https://www.disneyplus.com/es-es/play/fdefa8e0-4b5b-44e4-9064-b63433d5a307",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759545620~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F03%2FPertamina_Grand_Prix_of_I_20251003_1759451709026%2F~psid=5ee6380a-3dad-471d-ac14-fe131776f91f~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=c2a2938062185ae060ad0db422b598c8a61ddbce77f556fc05e04fe79311fda0/clt1/va02/disneyplus/event/2025/10/03/Pertamina_Grand_Prix_of_I_20251003_1759451709026/ctr-all-hdri-complete.m3u8?v=1&hash=f6a1565a090ecc1c139d87fc588a12543c7e6caf",
+    "k1": "c7debb7d63274d73a0d9b5afcc8c54af",
+    "k2": "1be6a1d40ba5c9d8cc834b9fc425cee8"
   },
   {
     "title": "Rolex Shanghai Masters / Grandstand 2",
@@ -585,6 +575,16 @@
     "fecha-evento": "2025-10-03T13:50:00-05:00",
     "img": "f6bec86a-381c-4735-accb-8a84dace314f",
     "nombre": "disneyc7f6ca",
+    "status": "13:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Osasuna vs. Getafe",
+    "league": "LALIGA",
+    "fecha-evento": "2025-10-03T13:50:00-05:00",
+    "img": "5f1ad933-47ae-4cac-adb9-084e59679510",
+    "nombre": "disney5875e3",
     "status": "13:50",
     "duration": 135,
     "play_url": ""
