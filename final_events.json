@@ -1,18 +1,5 @@
 [
   {
-    "title": "Azael Villar vs. Ricardo Astuvilca | ESPN KO",
-    "league": "ESPN",
-    "fecha-evento": "2025-10-03T19:00:00-05:00",
-    "img": "dc43be0c-e502-4bb5-9f5a-1a7bb92042db",
-    "nombre": "disney496992",
-    "status": "19:00",
-    "duration": 180,
-    "play_url": "https://www.disneyplus.com/es-es/play/da7da500-1c9b-4f11-858a-fb8510e79690",
-    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759622530~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Fbbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1759410188321%2F~psid=a1d3a860-3011-4aef-8620-3cc034ee22de~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=16193de418b488d7ea6ed0ee869290d65bc82c8d94a017e378b32d3510bc1951/clt1/va02/disneyplus/channel/bbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1759410188321/ctr-all-sliding-alt1.m3u8?v=1&hash=3f2beb7c737b132d1104736b95cd26c3f1914d57",
-    "k1": "22e9812defe14c14b38a5ff5be5b22e6",
-    "k2": "2f54766126be0f798a485a960bb02b67"
-  },
-  {
     "title": "Winnipeg Jets vs. Calgary Flames",
     "league": "National Hockey League",
     "fecha-evento": "2025-10-03T20:00:18-05:00",
@@ -80,12 +67,15 @@
   {
     "title": "Waikato vs. Northland (Fecha #10)",
     "league": "National Provincial Championship",
-    "fecha-evento": "2025-10-03T22:30:00-05:00",
+    "fecha-evento": "2025-10-03T22:30:02-05:00",
     "img": "0a21544c-4c1e-4f32-b6c4-8699ea1a212a",
-    "nombre": "disney539162",
+    "nombre": "disneyeae6b3",
     "status": "22:30",
-    "duration": 135,
-    "play_url": ""
+    "duration": 125,
+    "play_url": "https://www.disneyplus.com/es-es/play/a03bbe85-a69e-4586-b314-24b22c5bdc14",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1759635618~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F04%2FWaikato_vs_Northland_Fech_20251004_1759541450033%2F~psid=08dff180-5356-4f1a-b135-fecc85e320cd~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=6971178de5ee70ab0a42b977277b6a0b4131efbdd20de8ddd7a3ac523a19141c/clt1/va02/disneyplus/event/2025/10/04/Waikato_vs_Northland_Fech_20251004_1759541450033/ctr-all-hdri-complete.m3u8?v=1&hash=a8d59922447c120d6ec651d6c18924f4a76a5c67",
+    "k1": "8d65bfc2677446019f87949bc1a2a0cb",
+    "k2": "0573ae1cc3f5057304d43edc45649a6d"
   },
   {
     "title": "ATP 1000: Xangai",
@@ -634,6 +624,16 @@
     "img": "32b10095-0c9b-4020-9b25-5a26f29a0e4b",
     "nombre": "disney3a0920",
     "status": "09:55",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "IWF Forde - Men 65",
+    "league": "IWF",
+    "fecha-evento": "2025-10-04T10:00:00-05:00",
+    "img": "69f7bf72-3912-4e0d-bc44-faa1aa2a8387",
+    "nombre": "disneydf4fcf",
+    "status": "10:00",
     "duration": 135,
     "play_url": ""
   }
