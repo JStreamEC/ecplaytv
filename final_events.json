@@ -91,32 +91,6 @@
     "k2": "b90fa819c4e6ee5a4ac9710b669fecb3"
   },
   {
-    "title": "Manawatu vs. Hawke's Bay (Fecha #10)",
-    "league": "National Provincial Championship",
-    "fecha-evento": "2025-10-04T01:00:12-05:00",
-    "img": "76917a64-5d81-4f96-84b0-e2b0737bcf09",
-    "nombre": "disney3a7961",
-    "status": "01:00",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/a58d5492-34d8-47d3-9c7b-83906fbfb1a6",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759645218~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F04%2FManawatu_vs_Hawkes_Bay_Fe_20251004_1759550756027%2F~psid=5e250043-977f-4645-a133-9165263beab1~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=9afa9462fd6f658bdcdbc0e890ad54f1cd37b5a37be25927fb744510c9e634c2/clt1/va02/disneyplus/event/2025/10/04/Manawatu_vs_Hawkes_Bay_Fe_20251004_1759550756027/ctr-all-hdri-complete.m3u8?v=1&hash=3b5edf41bc14d4ffe4b6acc8e7d1b8821957c9e0",
-    "k1": "af19b03d3a9840f7a36ff0a9c345c77f",
-    "k2": "35c807ad4fd93921da8e243a6265525b"
-  },
-  {
-    "title": "F1 Academy: GP Singapur | Carrera #1",
-    "league": "F1 Academy",
-    "fecha-evento": "2025-10-04T01:55:02-05:00",
-    "img": "68fd835a-6405-49ca-bf1d-bb4f0aecaad3",
-    "nombre": "disney1fe819",
-    "status": "01:55",
-    "duration": 45,
-    "play_url": "https://www.disneyplus.com/es-es/play/79e88993-efc7-492d-a447-3c97db6cae37",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1759647618~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F04%2FF1_Academy_GP_Singapur_Ca_20251004_1759553734027%2F~psid=a20a854d-b42b-417b-b455-e4e7af88a8e4~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=c50b67bb23a6e4f86f219dd9cb9610ca619e262285d44e6d71163d74a5f9f689/clt1/va02/disneyplus/event/2025/10/04/F1_Academy_GP_Singapur_Ca_20251004_1759553734027/ctr-all-hdri-complete.m3u8?v=1&hash=02b30f43afb934bac5e10bb2259b0b413bb5fc1e",
-    "k1": "87267ed41a4c40919c6d66f490755bce",
-    "k2": "423076dbe3c494293a490bc7f8e7096d"
-  },
-  {
     "title": "WTA China Open (Semifinals)",
     "league": "WTA",
     "fecha-evento": "2025-10-04T01:55:05-05:00",
@@ -132,12 +106,15 @@
   {
     "title": "MotoGP Asia Talent Cup - Grand Prix of Indonesia (Carrera 1)",
     "league": "MotoGP",
-    "fecha-evento": "2025-10-04T03:00:00-05:00",
+    "fecha-evento": "2025-10-04T03:00:10-05:00",
     "img": "ab54444e-96e1-42ed-a13a-7537f2968bfc",
-    "nombre": "disney353d1b",
+    "nombre": "disneye93ae1",
     "status": "03:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 55,
+    "play_url": "https://www.disneyplus.com/es-es/play/d8a4eef7-98b1-4412-83cd-a35a8d786a9a",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1759652419~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F04%2FMotoGP_Asia_Talent_Cup_Gr_20251004_1759557645030%2F~psid=8a3b345b-da4e-455c-b4fb-fa17f1e5b0cd~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=811c37f04ecf38a607f77cf9b8bd5fa9dcafda042aaba0c361f1d992f374602f/clt1/va02/disneyplus/event/2025/10/04/MotoGP_Asia_Talent_Cup_Gr_20251004_1759557645030/ctr-all-hdri-complete.m3u8?v=1&hash=b326f312169c50d0ae19bfc07599e7ff0509ea44",
+    "k1": "19732385e98e420f814530486b57e768",
+    "k2": "6114740782d5fc18847b17f6acecc412"
   },
   {
     "title": "Australia vs. Sri Lanka",
@@ -636,6 +613,26 @@
     "img": "486d8f7c-a956-4597-b7c5-b67b863eadae",
     "nombre": "disneya787b0",
     "status": "11:15",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Chelsea vs. Liverpool",
+    "league": "Premier League",
+    "fecha-evento": "2025-10-04T11:15:00-05:00",
+    "img": "64a83883-2829-4cbf-a7b1-00e2639db98c",
+    "nombre": "disney2d0a72",
+    "status": "11:15",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Athletic Bilbao vs. Mallorca",
+    "league": "LALIGA",
+    "fecha-evento": "2025-10-04T11:20:00-05:00",
+    "img": "5f1ad933-47ae-4cac-adb9-084e59679510",
+    "nombre": "disney7e7d9b",
+    "status": "11:20",
     "duration": 135,
     "play_url": ""
   }
