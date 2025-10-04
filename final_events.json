@@ -49,19 +49,6 @@
     "k2": "fb63fa4d93295bb1fa33627ff08bffd2"
   },
   {
-    "title": "Sparta Rotterdam vs. Ajax (Fecha #8)",
-    "league": "Eredivisie",
-    "fecha-evento": "2025-10-04T09:20:00-05:00",
-    "img": "5849f13a-a08e-4a28-829d-4afd162a4ddd",
-    "nombre": "disneyb635a3",
-    "status": "09:20",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/50214a6e-cc75-4f0c-9b94-fe45ead0e12d",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759674129~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F04%2FSparta_Rotterdam_vs_Ajax__20251004_1759580454049%2F~psid=456e6ad4-be0c-498c-b329-0f78d92206ab~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=6b3b9136fa2e9b90225313bed46ea9c46e6a237373b425333feea289fbb73c4f/clt1/va02/disneyplus/event/2025/10/04/Sparta_Rotterdam_vs_Ajax__20251004_1759580454049/ctr-all-hdri-complete.m3u8?v=1&hash=13d54c5f1026940a3d4fdc5f1f9c61b0df2ba307",
-    "k1": "79862d00b6c041a78d533234b6cd2ce5",
-    "k2": "2ea8d6d7abfd130f83033daa049a6a50"
-  },
-  {
     "title": "Metz vs. Olympique Marseille",
     "league": "Ligue 1",
     "fecha-evento": "2025-10-04T09:50:00-05:00",
@@ -205,19 +192,6 @@
     "k2": "7d45aadd7b501b1bb4729ae83da65486"
   },
   {
-    "title": "Chelsea vs. Liverpool",
-    "league": "Premier League",
-    "fecha-evento": "2025-10-04T11:15:00-05:00",
-    "img": "64a83883-2829-4cbf-a7b1-00e2639db98c",
-    "nombre": "disney2d0a72",
-    "status": "11:15",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/6473c47f-91ac-4a5c-a6a4-f744ce8b7fe2",
-    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1759681423~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F921e1311-bb26-43dd-84a6-9e2284959712-1759409855938%2F~psid=004b0c86-1bfd-44f0-bfaf-c3a795c69ecd~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=b3f85bf69952e11490551e4f73c1eeec866026f2ade6f3dc0aa4cbfd560d7bc7/clt1/va02/disneyplus/channel/921e1311-bb26-43dd-84a6-9e2284959712-1759409855938/ctr-all-sliding-alt1.m3u8?v=1&hash=e50ddd99727af0a2947bb1b84904b1697e8043f8",
-    "k1": "61cb0be4acde4399a0d17a74d31e148e",
-    "k2": "a45a9ae96ceaeb395d069fa24aed0067"
-  },
-  {
     "title": "Eintracht Frankfurt vs. Bayern Munich",
     "league": "Bundesliga",
     "fecha-evento": "2025-10-04T11:15:02-05:00",
@@ -231,14 +205,30 @@
     "k2": "0eae6cfc570090c7e5ae33015988c704"
   },
   {
+    "title": "Chelsea vs. Liverpool",
+    "league": "Premier League",
+    "fecha-evento": "2025-10-04T11:15:00-05:00",
+    "img": "64a83883-2829-4cbf-a7b1-00e2639db98c",
+    "nombre": "disney2d0a72",
+    "status": "11:15",
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/6473c47f-91ac-4a5c-a6a4-f744ce8b7fe2",
+    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1759681423~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F921e1311-bb26-43dd-84a6-9e2284959712-1759409855938%2F~psid=004b0c86-1bfd-44f0-bfaf-c3a795c69ecd~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=b3f85bf69952e11490551e4f73c1eeec866026f2ade6f3dc0aa4cbfd560d7bc7/clt1/va02/disneyplus/channel/921e1311-bb26-43dd-84a6-9e2284959712-1759409855938/ctr-all-sliding-alt1.m3u8?v=1&hash=e50ddd99727af0a2947bb1b84904b1697e8043f8",
+    "k1": "61cb0be4acde4399a0d17a74d31e148e",
+    "k2": "a45a9ae96ceaeb395d069fa24aed0067"
+  },
+  {
     "title": "Athletic Bilbao vs. Mallorca",
     "league": "LALIGA",
     "fecha-evento": "2025-10-04T11:20:00-05:00",
     "img": "5f1ad933-47ae-4cac-adb9-084e59679510",
     "nombre": "disney7e7d9b",
     "status": "11:20",
-    "duration": 135,
-    "play_url": ""
+    "duration": 125,
+    "play_url": "https://www.disneyplus.com/es-es/play/584f3365-e475-4668-b836-d9cbf31c92bb",
+    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1759682419~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Fbbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1759410188321%2F~psid=2536fd96-8d6c-49d9-84a3-142f4992623d~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=6ca9aea694a1ab1d0a5f5084a596c8780cb81b941ebbba365a087718b9c1a081/clt1/va02/disneyplus/channel/bbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1759410188321/ctr-all-sliding-alt1.m3u8?v=1&hash=3f2beb7c737b132d1104736b95cd26c3f1914d57",
+    "k1": "a7cf8fcf0fd94d299d7f1d2b20847f98",
+    "k2": "fd0ac28a4f2226a113be47415d436e73"
   },
   {
     "title": "Saracens vs. Bristol Bears (Ronda #2)",
@@ -247,28 +237,37 @@
     "img": "975c09c7-6dbb-432b-88a9-3d8ffd49837d",
     "nombre": "disneyb99089",
     "status": "11:25",
-    "duration": 135,
-    "play_url": ""
+    "duration": 125,
+    "play_url": "https://www.disneyplus.com/es-es/play/c26deb37-044c-4d96-a1f2-c881d9d89b38",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759682463~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F04%2FSaracens_vs_Bristol_Bears_20251004_1759587952038%2F~psid=7ad069c8-4e46-45a5-b10c-20558cd7418e~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=3e02621777c807d1af687aefaa03aacd344b8794e26600b8979338306e702b7f/clt1/va02/disneyplus/event/2025/10/04/Saracens_vs_Bristol_Bears_20251004_1759587952038/ctr-all-hdri-complete.m3u8?v=1&hash=1719a8a0664d2cb4b42eb68329fddbd7dad40021",
+    "k1": "4dcab3fcf334439a9c3216749812ed22",
+    "k2": "f0f2f1592a8ed388f16890c2416275a8"
   },
   {
     "title": "Huesca vs. Burgos",
     "league": "Segunda División de España",
-    "fecha-evento": "2025-10-04T11:25:00-05:00",
+    "fecha-evento": "2025-10-04T11:25:08-05:00",
     "img": "311c4d2f-fee3-4500-931d-9332894bdd4e",
-    "nombre": "disney849fa7",
+    "nombre": "disney43c600",
     "status": "11:25",
-    "duration": 135,
-    "play_url": ""
+    "duration": 125,
+    "play_url": "https://www.disneyplus.com/es-es/play/f79ded0d-98c3-4f98-9ae7-3cfb438e7cd1",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1759682507~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F04%2FHuesca_vs_Burgos_20251004_1759587914026%2F~psid=fb689e3f-cca1-4374-a18d-c197caf82623~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=491f8872f615386909cc30af44c95027e62420e80887e3cf7ccfffee22147a2c/clt1/va02/disneyplus/event/2025/10/04/Huesca_vs_Burgos_20251004_1759587914026/ctr-all-hdri-complete.m3u8?v=1&hash=c4b1f4e08e5990d9f37c6ac3b4892c369edecaa9",
+    "k1": "eb396d3d732147c8ad96bf9a48ce494c",
+    "k2": "236531e06aa723e194368ce23adb7c8a"
   },
   {
     "title": "New Jersey Devils vs. Philadelphia Flyers",
     "league": "National Hockey League",
-    "fecha-evento": "2025-10-04T11:30:00-05:00",
+    "fecha-evento": "2025-10-04T11:30:41-05:00",
     "img": "1c088be9-24ff-4cef-8929-956af15ec783",
-    "nombre": "disneyff841e",
+    "nombre": "disneyc0ae68",
     "status": "11:30",
-    "duration": 135,
-    "play_url": ""
+    "duration": 209,
+    "play_url": "https://www.disneyplus.com/es-es/play/3083dc1f-4618-443c-aec6-d10d71b7534f",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1759682530~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F04%2FNew_Jersey_Devils_vs_Phil_20251004_1759588219035%2F~psid=8df80d0a-61c4-414d-88aa-f0a65043e8f1~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=213355256bc595e76cca950ed2c84204e0b32910612787a5110ec8e2b5385474/clt1/va02/disneyplus/event/2025/10/04/New_Jersey_Devils_vs_Phil_20251004_1759588219035/ctr-all-hdri-complete.m3u8?v=1&hash=5ad79f8b51a6d24211db319d319977a08cdc9345",
+    "k1": "cb0c47f84f4e4a169fe290e7d0efd1d9",
+    "k2": "5f9ad38082fa8a0a5e60ae4570b90769"
   },
   {
     "title": "Galatasaray vs. Besiktas",
@@ -646,6 +645,16 @@
     "fecha-evento": "2025-10-04T17:00:00-05:00",
     "img": "32123bcb-adef-48b7-9c54-ad2e6962adbf",
     "nombre": "disney6ce903",
+    "status": "17:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Colorado Avalanche vs. Dallas Stars",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-10-04T17:00:00-05:00",
+    "img": "9fdf9851-a165-4135-9ed0-926a75b4c051",
+    "nombre": "disney85b4fe",
     "status": "17:00",
     "duration": 135,
     "play_url": ""
