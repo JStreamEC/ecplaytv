@@ -175,18 +175,11 @@
     "img": "df45c0c0-76cb-46dc-8fcd-753e96ff7bd5",
     "nombre": "disney263294",
     "status": "06:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Compacto | F1 GP Singapur | Práctica 3 (3 min)",
-    "league": "Fórmula 1",
-    "fecha-evento": "2025-10-04T06:00:00-05:00",
-    "img": "32b10095-0c9b-4020-9b25-5a26f29a0e4b",
-    "nombre": "disney680578",
-    "status": "06:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 300,
+    "play_url": "https://www.disneyplus.com/es-es/play/3ba38ffc-3d79-4044-b3ec-b1fc9d3b700f",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1759663220~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F04%2FAlfred_Dunhill_Links_Cham_20251004_1759568424035%2F~psid=a568f0cb-dfaa-48ae-acf4-3d591571785a~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=48009e16ce0e9866704603ebec017e74c524713daabc5e7a34225b7d3aa4c030/clt1/va02/disneyplus/event/2025/10/04/Alfred_Dunhill_Links_Cham_20251004_1759568424035/ctr-all-hdri-complete.m3u8?v=1&hash=f742f205675639210575fc566de3439a31511516",
+    "k1": "11a3a1905d7b47b3a24b600775f2dde7",
+    "k2": "54d0d0a9d8d8ec3179d332e376d77ed4"
   },
   {
     "title": "Hull City vs. Sheffield United",
@@ -195,8 +188,11 @@
     "img": "644b7e90-0e86-4c55-925a-f2bcbc2c6c61",
     "nombre": "disneye29c20",
     "status": "06:20",
-    "duration": 135,
-    "play_url": ""
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/9949c1a5-6d67-4d4f-a2aa-b5d251d100b2",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1759663263~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F04%2FHull_City_vs_Sheffield_Un_20251004_1759569601028%2F~psid=a1c238a4-1e31-41e5-ba03-f4ddeb40f0f0~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=ba1274f2263bf6779efb5b8f29c889f16e20eed67dcb91ad2069e51587244cdf/clt1/va02/disneyplus/event/2025/10/04/Hull_City_vs_Sheffield_Un_20251004_1759569601028/ctr-all-hdri-complete.m3u8?v=1&hash=41d21db57718b42e63827a46a303aeda6f1ff253",
+    "k1": "66554df822604e1ca3dd6e76c75a9ecd",
+    "k2": "9cfe871b72f8d8b9fc5c175ab70e979d"
   },
   {
     "title": "Leeds United vs. Tottenham Hotspur",
@@ -205,8 +201,11 @@
     "img": "ecac22b5-87b9-48de-864a-0c1ef3f118a7",
     "nombre": "disney0f0987",
     "status": "06:20",
-    "duration": 135,
-    "play_url": ""
+    "duration": 125,
+    "play_url": "https://www.disneyplus.com/es-es/play/dac3469d-1adf-4818-bfb0-5bd200c1a312",
+    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759663307~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F921e1311-bb26-43dd-84a6-9e2284959712-1759409855938%2F~psid=a601b20c-149b-4e00-b412-f44d7a52a648~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=611da53915afce08b2a463a199d37ee1c7f6ec1d64e87117af038b2125f01f84/clt1/va02/disneyplus/channel/921e1311-bb26-43dd-84a6-9e2284959712-1759409855938/ctr-all-sliding-alt1.m3u8?v=1&hash=e50ddd99727af0a2947bb1b84904b1697e8043f8",
+    "k1": "61cb0be4acde4399a0d17a74d31e148e",
+    "k2": "a45a9ae96ceaeb395d069fa24aed0067"
   },
   {
     "title": "Real Oviedo vs. Levante",
@@ -645,6 +644,16 @@
     "img": "424329aa-4d99-4a77-ba0e-9c4940e05cb1",
     "nombre": "disneyb4fa37",
     "status": "12:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "New York Rangers vs. Boston Bruins",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-10-04T13:00:00-05:00",
+    "img": "4564836b-309a-4f51-bd06-89e5781f9763",
+    "nombre": "disneyb17e6f",
+    "status": "13:00",
     "duration": 135,
     "play_url": ""
   }
