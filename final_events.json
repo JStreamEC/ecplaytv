@@ -75,32 +75,6 @@
     "k2": "54d0d0a9d8d8ec3179d332e376d77ed4"
   },
   {
-    "title": "Leeds United vs. Tottenham Hotspur",
-    "league": "Premier League",
-    "fecha-evento": "2025-10-04T06:20:00-05:00",
-    "img": "ecac22b5-87b9-48de-864a-0c1ef3f118a7",
-    "nombre": "disney0f0987",
-    "status": "06:20",
-    "duration": 125,
-    "play_url": "https://www.disneyplus.com/es-es/play/dac3469d-1adf-4818-bfb0-5bd200c1a312",
-    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759663307~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F921e1311-bb26-43dd-84a6-9e2284959712-1759409855938%2F~psid=a601b20c-149b-4e00-b412-f44d7a52a648~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=611da53915afce08b2a463a199d37ee1c7f6ec1d64e87117af038b2125f01f84/clt1/va02/disneyplus/channel/921e1311-bb26-43dd-84a6-9e2284959712-1759409855938/ctr-all-sliding-alt1.m3u8?v=1&hash=e50ddd99727af0a2947bb1b84904b1697e8043f8",
-    "k1": "61cb0be4acde4399a0d17a74d31e148e",
-    "k2": "a45a9ae96ceaeb395d069fa24aed0067"
-  },
-  {
-    "title": "Hull City vs. Sheffield United",
-    "league": "Championship de Inglaterra",
-    "fecha-evento": "2025-10-04T06:20:00-05:00",
-    "img": "644b7e90-0e86-4c55-925a-f2bcbc2c6c61",
-    "nombre": "disneye29c20",
-    "status": "06:20",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/9949c1a5-6d67-4d4f-a2aa-b5d251d100b2",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1759663263~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F04%2FHull_City_vs_Sheffield_Un_20251004_1759569601028%2F~psid=a1c238a4-1e31-41e5-ba03-f4ddeb40f0f0~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=ba1274f2263bf6779efb5b8f29c889f16e20eed67dcb91ad2069e51587244cdf/clt1/va02/disneyplus/event/2025/10/04/Hull_City_vs_Sheffield_Un_20251004_1759569601028/ctr-all-hdri-complete.m3u8?v=1&hash=41d21db57718b42e63827a46a303aeda6f1ff253",
-    "k1": "66554df822604e1ca3dd6e76c75a9ecd",
-    "k2": "9cfe871b72f8d8b9fc5c175ab70e979d"
-  },
-  {
     "title": "Real Oviedo vs. Levante",
     "league": "LALIGA",
     "fecha-evento": "2025-10-04T06:50:00-05:00",
@@ -230,52 +204,67 @@
   {
     "title": "Borussia Dortmund vs. RB Leipzig",
     "league": "Bundesliga",
-    "fecha-evento": "2025-10-04T08:20:00-05:00",
+    "fecha-evento": "2025-10-04T08:21:00-05:00",
     "img": "170ebcf2-5d46-4613-958e-61decbfcd50d",
-    "nombre": "disneyc9ddbc",
-    "status": "08:20",
-    "duration": 135,
-    "play_url": ""
+    "nombre": "disney9a7ac0",
+    "status": "08:21",
+    "duration": 129,
+    "play_url": "https://www.disneyplus.com/es-es/play/6d23952a-61e6-4139-8825-ae03c4e25456",
+    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759671662~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Ff25bdf06-81c9-4a7c-b128-3128d610ad17-1759409600195%2F~psid=ba3f4c76-84df-48cb-8173-25329c05d344~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=bff56147d80d6414ad6bdeea29f5372f35a9613062e8240879f47954f53f17b8/clt1/va02/disneyplus/channel/f25bdf06-81c9-4a7c-b128-3128d610ad17-1759409600195/ctr-all-sliding-alt1.m3u8?v=1&hash=4daaff4fdbe476e51bcd350032d73b0e9d85df99",
+    "k1": "1ddfdbe8de0c4066b5c1b3c0f45d1591",
+    "k2": "cebbbf421682b712a4fe55f9d4ecb107"
   },
   {
     "title": "Augsburg vs. Wolfsburg",
     "league": "Bundesliga",
-    "fecha-evento": "2025-10-04T08:20:00-05:00",
+    "fecha-evento": "2025-10-04T08:20:02-05:00",
     "img": "c08aef9f-724d-4af1-8929-42038e5bfe25",
-    "nombre": "disneyb7daa6",
+    "nombre": "disney513045",
     "status": "08:20",
-    "duration": 135,
-    "play_url": ""
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/c1f5b05f-4ef1-4efa-8836-accde583f00c",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1759671706~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F04%2FAugsburg_vs_Wolfsburg_20251004_1759580072383%2F~psid=326c6cdd-3712-400b-9350-e6f8807e678c~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=407dbbbfd8bf67ff64132dc88834a7284744b3753a051d13dd5e09f0aceca2c6/clt1/va02/disneyplus/event/2025/10/04/Augsburg_vs_Wolfsburg_20251004_1759580072383/ctr-all-hdri-complete.m3u8?v=1&hash=ec0322f04ec2a4d8e551b3d8a7e7f3cdc92223af",
+    "k1": "ae6470af082a44079b30b777f00f60ca",
+    "k2": "41e333bca01e9462485128f0f8d1e2a0"
   },
   {
     "title": "Werder Bremen vs. St. Pauli",
     "league": "Bundesliga",
-    "fecha-evento": "2025-10-04T08:20:00-05:00",
+    "fecha-evento": "2025-10-04T08:20:03-05:00",
     "img": "a8984eca-c942-4bff-b123-91589addbac7",
-    "nombre": "disney16a1ee",
+    "nombre": "disney3cf47d",
     "status": "08:20",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "1. FSV Mainz 05 vs. Borussia Dortmund (Bundesliga)",
-    "league": "Bundesliga",
-    "fecha-evento": "2025-10-04T08:20:00-05:00",
-    "img": "3f715d5c-4006-475c-8324-27c9212c339f",
-    "nombre": "disney375295",
-    "status": "08:20",
-    "duration": 135,
-    "play_url": ""
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/c265e8ee-016a-4f93-8371-1fa1c9579161",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759671729~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F04%2FWerder_Bremen_vs_St_Pauli_20251004_1759576819028%2F~psid=aa940a63-9f03-4f2c-981b-d0c4f91ae108~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=0cc05a422e4422c6a654e6c266af833dc058a1b9b9b6c4492d4d3c9be54c60d9/clt1/va02/disneyplus/event/2025/10/04/Werder_Bremen_vs_St_Pauli_20251004_1759576819028/ctr-all-hdri-complete.m3u8?v=1&hash=67ab92ef792f832a22fa96e2130ee908666d7f44",
+    "k1": "205cbcf29e9f4010b758002bfac0ee76",
+    "k2": "8660f249aabda397cb498c3f06c1c0c9"
   },
   {
     "title": "Bayer Leverkusen vs. Union Berlin",
     "league": "Bundesliga",
-    "fecha-evento": "2025-10-04T08:20:00-05:00",
+    "fecha-evento": "2025-10-04T08:20:03-05:00",
     "img": "e9ad943f-26ea-4ad6-87eb-ddc1b7f26396",
-    "nombre": "disneyfad152",
+    "nombre": "disneya79e7f",
     "status": "08:20",
-    "duration": 135,
-    "play_url": ""
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/fad84a2a-f6b4-4fd4-beba-34a520ebd07f",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759671753~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F04%2FBayer_Leverkusen_vs_Union_20251004_1759579952384%2F~psid=92a3ed42-a9e1-49c8-a255-090f569b563f~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=09863c0064de0319952a14df2122ebc04b9af86e278666fc6e5e3139345eb6f8/clt1/va02/disneyplus/event/2025/10/04/Bayer_Leverkusen_vs_Union_20251004_1759579952384/ctr-all-hdri-complete.m3u8?v=1&hash=3627f79d7e6e89989d344426f277f405ee7d9859",
+    "k1": "fa4a44b768414c55ade0bd52b6a28f44",
+    "k2": "eac80d3de5fe06a6eb1f23132ef3fe23"
+  },
+  {
+    "title": "Goal Arena - The Bundesliga Konferenz (Bundesliga)",
+    "league": "Bundesliga",
+    "fecha-evento": "2025-10-04T08:20:04-05:00",
+    "img": "3f715d5c-4006-475c-8324-27c9212c339f",
+    "nombre": "disneyd92ff8",
+    "status": "08:20",
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/e79440b1-45b5-457e-b1ec-e0d0e1ea3572",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1759671776~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F04%2F1_FSV_Mainz_05_vs_Borussi_20251004_1759576821034%2F~psid=010fd07b-6ebe-4d03-9d2a-1891045b372a~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=054740a7f5fda3b8f2383278e3d880effe835334ce579b253e50e386b49d8ebd/clt1/va02/disneyplus/event/2025/10/04/1_FSV_Mainz_05_vs_Borussi_20251004_1759576821034/ctr-all-hdri-complete.m3u8?v=1&hash=c862ed4b897a34b517189c63f6336d55b668c2d7",
+    "k1": "367d96c4d8c0409f8f05ebdf1a33db8f",
+    "k2": "a5ee59cbe3d488cb36df13ebc9e21fd1"
   },
   {
     "title": "Manchester United vs. Sunderland",
@@ -285,7 +274,10 @@
     "nombre": "disney3d023e",
     "status": "08:40",
     "duration": 135,
-    "play_url": ""
+    "play_url": "https://www.disneyplus.com/es-es/play/cae43972-86e2-4b99-953b-974181f3fdea",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1759671800~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F04%2FManchester_United_vs_Sund_20251004_1759578028027%2F~psid=f8777bec-069e-4b0a-9899-26773b981112~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=cb38d0b5ddbaf6b9ff16b77e0bb316eb330d92282764e5f8e9a8dba5d52241a9/clt1/va02/disneyplus/event/2025/10/04/Manchester_United_vs_Sund_20251004_1759578028027/ctr-all-hdri-complete.m3u8?v=1&hash=51efb8bfdeb9b828750682609e2d4ee036aa3e2a",
+    "k1": "27fa1028c60544dfb67bd62ff96f1e47",
+    "k2": "d06eb2f7a17d2c7b1390f92de362357c"
   },
   {
     "title": "Arsenal vs. West Ham United",
@@ -643,6 +635,26 @@
     "fecha-evento": "2025-10-04T13:10:00-05:00",
     "img": "697c8ba7-ca1e-4718-942d-030cd65fe52b",
     "nombre": "disney39357e",
+    "status": "13:10",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "CASI vs. Newman (Ronda #21)",
+    "league": "URBA Top 12",
+    "fecha-evento": "2025-10-04T13:10:00-05:00",
+    "img": "5cea7460-ef7c-4eef-8868-969723db9945",
+    "nombre": "disney2822f1",
+    "status": "13:10",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Belgrano Athletic vs. Hindú (Ronda #21)",
+    "league": "URBA Top 12",
+    "fecha-evento": "2025-10-04T13:10:00-05:00",
+    "img": "d52a837e-a11c-4d60-ba59-084606446ce8",
+    "nombre": "disneyf236d6",
     "status": "13:10",
     "duration": 135,
     "play_url": ""
