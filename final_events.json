@@ -10,19 +10,6 @@
     "play_url": ""
   },
   {
-    "title": "La Natividad-La Dolfina vs. UAE Polo | Final",
-    "league": "Abierto de Hurlingham",
-    "fecha-evento": "2025-10-04T13:50:01-05:00",
-    "img": "73b486d0-dc96-45e7-a17f-88cca925c7e3",
-    "nombre": "disneyef19fc",
-    "status": "13:50",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/cb22b41c-8b37-449a-a2bc-eef56e301151",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1759690864~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F04%2FLa_NatividadLa_Dolfina_vs_20251004_1759596609026%2F~psid=25c315c9-fd52-45ee-89dd-c405c9b3a9d2~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=ea690b88e46ea1e44e1a888818eb7180714871e7edf5be0ec846d99ceb0588eb/clt1/va02/disneyplus/event/2025/10/04/La_NatividadLa_Dolfina_vs_20251004_1759596609026/ctr-all-hdri-complete.m3u8?v=1&hash=9d85cd1ea204a315182a0963a8d0b4d7956402fd",
-    "k1": "5fbeba4ba3874329ba893889df8f1c9d",
-    "k2": "786110925045994d9aa0f055a24d6a71"
-  },
-  {
     "title": "#16 Vanderbilt vs. #10 Alabama",
     "league": "Fútbol Americano NCAA",
     "fecha-evento": "2025-10-04T14:30:00-05:00",
@@ -194,12 +181,15 @@
   {
     "title": "Huracán vs. Banfield",
     "league": "Liga Profesional de Fútbol",
-    "fecha-evento": "2025-10-04T16:45:00-05:00",
+    "fecha-evento": "2025-10-04T16:45:03-05:00",
     "img": "936846a4-253c-4d48-9239-b9715a1864bb",
-    "nombre": "disney818fa7",
+    "nombre": "disney926f2e",
     "status": "16:45",
-    "duration": 135,
-    "play_url": ""
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/7ae50c62-58e3-4ce3-ac74-f6448b429bee",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759701619~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F04%2FHuracn_vs_Banfield_20251004_1759607114054%2F~psid=6827996a-f3ad-4827-b223-08a45a18168e~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=5da33f133ba39f19b442dbbf58f216a030ddab67f87bad2d930591e27b930ab9/clt1/va02/disneyplus/event/2025/10/04/Huracn_vs_Banfield_20251004_1759607114054/ctr-all-hdri-complete.m3u8?v=1&hash=3f56d670c830988db02cfe39feb8b0672aa14a91",
+    "k1": "6a60e009975141ed9739ac445ddd17df",
+    "k2": "e357a8462908786684fc228429ecaa7e"
   },
   {
     "title": "Richmond Kickers vs. One Knoxville SC",
@@ -258,8 +248,11 @@
     "img": "14fd7bd7-8a10-4771-b964-64f6a3fe7098",
     "nombre": "disneyd4b3c3",
     "status": "17:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 240,
+    "play_url": "https://www.disneyplus.com/es-es/play/44718954-7504-4f72-9afe-3002c562d24d",
+    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759701662~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F921e1311-bb26-43dd-84a6-9e2284959712-1759409855938%2F~psid=b9888356-3c6a-4e08-b325-c2827ee0fc99~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=c3e11f3b753f6c52fbe56dd9c1173c5738e25fa6633dca7701df20c8efd49adc/clt1/va02/disneyplus/channel/921e1311-bb26-43dd-84a6-9e2284959712-1759409855938/ctr-all-sliding-alt1.m3u8?v=1&hash=e50ddd99727af0a2947bb1b84904b1697e8043f8",
+    "k1": "61cb0be4acde4399a0d17a74d31e148e",
+    "k2": "a45a9ae96ceaeb395d069fa24aed0067"
   },
   {
     "title": "Los Angeles Dodgers vs. Philadelphia Phillies (NLDS, Game 1)",
@@ -627,6 +620,16 @@
     "fecha-evento": "2025-10-04T23:30:00-05:00",
     "img": "11398d42-483b-4c95-bb63-3c681ff3e61e",
     "nombre": "disneybe0cc3",
+    "status": "23:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "ATP 1000: Xangai",
+    "league": "ATP",
+    "fecha-evento": "2025-10-04T23:30:00-05:00",
+    "img": "30cea086-a319-403b-9667-09d204f691ad",
+    "nombre": "disneyb9c559",
     "status": "23:30",
     "duration": 135,
     "play_url": ""
