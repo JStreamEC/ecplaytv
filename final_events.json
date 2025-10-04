@@ -104,19 +104,6 @@
     "k2": "35c807ad4fd93921da8e243a6265525b"
   },
   {
-    "title": "MotoGP - Sprint Race - Pertamina Grand Prix of Indonesia",
-    "league": "MotoGP",
-    "fecha-evento": "2025-10-04T01:30:00-05:00",
-    "img": "9341ea36-dd89-45e1-bf09-272a0d058e5e",
-    "nombre": "disney8aab6e",
-    "status": "01:30",
-    "duration": 75,
-    "play_url": "https://www.disneyplus.com/es-es/play/e3a80599-aa86-4839-9ad3-effc9606cb79",
-    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1759646418~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F921e1311-bb26-43dd-84a6-9e2284959712-1759409855938%2F~psid=5e821ac8-4b49-4564-90e4-5b9e53a229c3~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=ecffb17d46dae155cd05316a34b4b9c28412a65786c9e04849ac79e55045fe54/clt1/va02/disneyplus/channel/921e1311-bb26-43dd-84a6-9e2284959712-1759409855938/ctr-all-sliding-alt1.m3u8?v=1&hash=e50ddd99727af0a2947bb1b84904b1697e8043f8",
-    "k1": "c4be0d78efaf40998f3334d59e83ebac",
-    "k2": "6553bd2b6930b242908eaae341eaff50"
-  },
-  {
     "title": "F1 Academy: GP Singapur | Carrera #1",
     "league": "F1 Academy",
     "fecha-evento": "2025-10-04T01:55:02-05:00",
@@ -639,6 +626,16 @@
     "img": "e9531920-8f30-48ab-bdf1-7befbf610249",
     "nombre": "disney41f43c",
     "status": "11:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Eintracht Frankfurt vs. Bayern Munich",
+    "league": "Bundesliga",
+    "fecha-evento": "2025-10-04T11:15:00-05:00",
+    "img": "486d8f7c-a956-4597-b7c5-b67b863eadae",
+    "nombre": "disneya787b0",
+    "status": "11:15",
     "duration": 135,
     "play_url": ""
   }
