@@ -10,19 +10,6 @@
     "play_url": ""
   },
   {
-    "title": "Rolex Shanghai Masters / Court 4",
-    "league": "ATP",
-    "fecha-evento": "2025-10-03T23:30:00-05:00",
-    "img": "11398d42-483b-4c95-bb63-3c681ff3e61e",
-    "nombre": "disneyda7fed",
-    "status": "23:30",
-    "duration": 480,
-    "play_url": "https://www.disneyplus.com/es-es/play/56ca3429-bb01-475c-a937-f4d931ac8e55",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1759639219~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F04%2FRolex_Shanghai_Masters_Co_20251004_1759545044026%2F~psid=df5a2f63-fb80-4239-911f-c3193cfe1f19~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=5b9f2dea525b84bc4375bfd832446f74840642cdf7a0fb83411e2e077c81322a/clt1/va02/disneyplus/event/2025/10/04/Rolex_Shanghai_Masters_Co_20251004_1759545044026/ctr-all-hdri-complete.m3u8?v=1&hash=a3debd81e2dc72c763e4e8f83f54cf2f99314b39",
-    "k1": "d799b5934ceb4c1b83bf855686ec8a67",
-    "k2": "34903bcd161a92ce7d66a779c7fbd513"
-  },
-  {
     "title": "Rolex Shanghai Masters / Showcourt 3",
     "league": "ATP",
     "fecha-evento": "2025-10-03T23:30:00-05:00",
@@ -231,7 +218,7 @@
     "title": "Lazio vs. Torino",
     "league": "Seria A",
     "fecha-evento": "2025-10-04T07:50:00-05:00",
-    "img": "91ccbe03-4b58-406a-a883-276423c0b7b2",
+    "img": "0d3a6911-0aaf-435c-817b-86b51b168cee",
     "nombre": "disney07c5ce",
     "status": "07:50",
     "duration": 135,
@@ -423,6 +410,16 @@
     "fecha-evento": "2025-10-04T10:00:00-05:00",
     "img": "69f7bf72-3912-4e0d-bc44-faa1aa2a8387",
     "nombre": "disneydf4fcf",
+    "status": "10:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Compacto | F1 GP Singapur | Práctica 3 (3 min)",
+    "league": "Fórmula 1",
+    "fecha-evento": "2025-10-04T10:00:00-05:00",
+    "img": "8ca8e192-f8ba-43c6-ad73-7ed3ec73f432",
+    "nombre": "disney4df327",
     "status": "10:00",
     "duration": 135,
     "play_url": ""
