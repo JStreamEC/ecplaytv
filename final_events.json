@@ -1,18 +1,5 @@
 [
   {
-    "title": "San Jose Sharks vs. Vegas Golden Knights",
-    "league": "National Hockey League",
-    "fecha-evento": "2025-10-03T21:00:00-05:00",
-    "img": "14006f3b-5364-445d-a78a-c7ac50162b7a",
-    "nombre": "disneyeaf77a",
-    "status": "21:00",
-    "duration": 210,
-    "play_url": "https://www.disneyplus.com/es-es/play/4a07767c-ea57-4292-9473-e0590666d057",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1759629664~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F04%2FSan_Jose_Sharks_vs_Vegas__20251004_1759536010026%2F~psid=476313d5-0b1f-4a5a-baa7-5674cce0343d~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=bf51ee1c9c615b25f5ee5cf448aed80e794e7a3548172bd3c309193393079999/clt1/va02/disneyplus/event/2025/10/04/San_Jose_Sharks_vs_Vegas__20251004_1759536010026/ctr-all-hdri-complete.m3u8?v=1&hash=87a93ec6a897dc4629d5dc67357722c0211867a9",
-    "k1": "f48b4bedc18144d38bec797628153aa7",
-    "k2": "6c448249aac7ef9b54615922211fb048"
-  },
-  {
     "title": "West Virginia vs. #23 BYU",
     "league": "Fútbol Americano NCAA",
     "fecha-evento": "2025-10-03T21:30:01-05:00",
@@ -132,22 +119,28 @@
   {
     "title": "Pertamina Grand Prix of Indonesia - Qualifying (Moto3)",
     "league": "MotoGP",
-    "fecha-evento": "2025-10-03T23:40:00-05:00",
+    "fecha-evento": "2025-10-03T23:40:11-05:00",
     "img": "1a326d99-5dbf-4b67-9402-edf60b694b1c",
-    "nombre": "disney0c593c",
+    "nombre": "disneya7a318",
     "status": "23:40",
-    "duration": 135,
-    "play_url": ""
+    "duration": 55,
+    "play_url": "https://www.disneyplus.com/es-es/play/09b74bc0-06fb-49ea-b457-c0783a470ce9",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759640444~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F04%2FPertamina_Grand_Prix_of_I_20251004_1759545647036%2F~psid=1cb4e9eb-928b-4927-8821-b69038b30ac3~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=b39683f1d6d006002374b89e218a24ac10cd68e633009b0e53f51612d35a7019/clt1/va02/disneyplus/event/2025/10/04/Pertamina_Grand_Prix_of_I_20251004_1759545647036/ctr-all-hdri-complete.m3u8?v=1&hash=a8296ef394c6fce5e60f0ab4484e03c448b1420e",
+    "k1": "7874ce39aa9b486a8ce64b038ff48bdb",
+    "k2": "ee83d584fcb57821792ceb91795d022d"
   },
   {
     "title": "WTA China Open / Capital Group Diamond (Doubles Semifinals)",
     "league": "WTA",
-    "fecha-evento": "2025-10-04T00:00:00-05:00",
+    "fecha-evento": "2025-10-03T23:59:05-05:00",
     "img": "0f2095e3-3192-4d23-b41a-f2587cd48ae5",
-    "nombre": "disney7ef315",
-    "status": "00:00",
-    "duration": 135,
-    "play_url": ""
+    "nombre": "disney755c56",
+    "status": "23:59",
+    "duration": 121,
+    "play_url": "https://www.disneyplus.com/es-es/play/1bc2427d-37d0-40f8-839c-bf3b31ed6d4c",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759640487~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F04%2FWTA_China_Open_Capital_Gr_20251004_1759546811037%2F~psid=f28b5837-9c0a-4d2c-89df-cc6020ad1b45~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=e6a03ff3f1777b188f89b9364bf3fc965cd5847b29675c033daf64ddb933fc7f/clt1/va02/disneyplus/event/2025/10/04/WTA_China_Open_Capital_Gr_20251004_1759546811037/ctr-all-hdri-complete.m3u8?v=1&hash=70eeae96de9b3ab0dca6041f65bf64569943db80",
+    "k1": "d465fd944ac649a781705e5ab730f68f",
+    "k2": "90e50bf2aac93e04e70c3733095868c4"
   },
   {
     "title": "Pertamina Grand Prix of Indonesia - Qualifying (Moto2)",
@@ -635,6 +628,16 @@
     "fecha-evento": "2025-10-04T11:00:00-05:00",
     "img": "41c0b96f-9f50-4daf-a846-12349c9a8c73",
     "nombre": "disney28e66a",
+    "status": "11:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Kansas State vs. Baylor",
+    "league": "Fútbol Americano NCAA",
+    "fecha-evento": "2025-10-04T11:00:00-05:00",
+    "img": "c9124c23-c1d1-4ba2-add2-f5477ed3f77a",
+    "nombre": "disneyc1a20e",
     "status": "11:00",
     "duration": 135,
     "play_url": ""
