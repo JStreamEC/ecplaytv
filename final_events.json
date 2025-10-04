@@ -104,19 +104,6 @@
     "k2": "90e50bf2aac93e04e70c3733095868c4"
   },
   {
-    "title": "Pertamina Grand Prix of Indonesia - Qualifying (Moto2)",
-    "league": "MotoGP",
-    "fecha-evento": "2025-10-04T00:35:11-05:00",
-    "img": "1773ade6-e9e4-4674-a855-c6ec799b48bc",
-    "nombre": "disney8f9e71",
-    "status": "00:35",
-    "duration": 55,
-    "play_url": "https://www.disneyplus.com/es-es/play/f029b5d0-d75b-4b2d-9176-da2bf5519379",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759642818~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F04%2FPertamina_Grand_Prix_of_I_20251004_1759548904037%2F~psid=57cd03f1-8bd6-4049-847b-d03af53f1c33~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=58a4995ad2194340f0e3dff7c6ed6c4b82f2f148ec3a4761d1f2278ac0bf5c94/clt1/va02/disneyplus/event/2025/10/04/Pertamina_Grand_Prix_of_I_20251004_1759548904037/ctr-all-hdri-complete.m3u8?v=1&hash=a95369999c804044a22b8f601ddc726c73c36e35",
-    "k1": "993246c929074cd7b0a882e09fe3595b",
-    "k2": "deee0f40c179b6f55f87c1fc275fc602"
-  },
-  {
     "title": "Manawatu vs. Hawke's Bay (Fecha #10)",
     "league": "National Provincial Championship",
     "fecha-evento": "2025-10-04T01:00:12-05:00",
@@ -136,8 +123,11 @@
     "img": "9341ea36-dd89-45e1-bf09-272a0d058e5e",
     "nombre": "disney8aab6e",
     "status": "01:30",
-    "duration": 135,
-    "play_url": ""
+    "duration": 75,
+    "play_url": "https://www.disneyplus.com/es-es/play/e3a80599-aa86-4839-9ad3-effc9606cb79",
+    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1759646418~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F921e1311-bb26-43dd-84a6-9e2284959712-1759409855938%2F~psid=5e821ac8-4b49-4564-90e4-5b9e53a229c3~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=ecffb17d46dae155cd05316a34b4b9c28412a65786c9e04849ac79e55045fe54/clt1/va02/disneyplus/channel/921e1311-bb26-43dd-84a6-9e2284959712-1759409855938/ctr-all-sliding-alt1.m3u8?v=1&hash=e50ddd99727af0a2947bb1b84904b1697e8043f8",
+    "k1": "c4be0d78efaf40998f3334d59e83ebac",
+    "k2": "6553bd2b6930b242908eaae341eaff50"
   },
   {
     "title": "F1 Academy: GP Singapur | Carrera #1",
@@ -635,6 +625,16 @@
     "fecha-evento": "2025-10-04T11:00:00-05:00",
     "img": "23ab5ef7-ce47-4f9e-b97b-3c2f591f8898",
     "nombre": "disneyf2471d",
+    "status": "11:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Army vs. UAB",
+    "league": "Fútbol Americano NCAA",
+    "fecha-evento": "2025-10-04T11:00:00-05:00",
+    "img": "cb6a2055-637d-4bc2-916d-d41d296d59b2",
+    "nombre": "disneye71f5e",
     "status": "11:00",
     "duration": 135,
     "play_url": ""
