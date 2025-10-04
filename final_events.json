@@ -1,18 +1,5 @@
 [
   {
-    "title": "Winnipeg Jets vs. Calgary Flames",
-    "league": "National Hockey League",
-    "fecha-evento": "2025-10-03T20:00:18-05:00",
-    "img": "db5ee9db-4ae5-46ef-a564-1b13be0add56",
-    "nombre": "disneyca26ad",
-    "status": "20:00",
-    "duration": 210,
-    "play_url": "https://www.disneyplus.com/es-es/play/7ed1907e-83ba-4727-9a01-bf9647d12eeb",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1759627263~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F04%2FWinnipeg_Jets_vs_Calgary__20251004_1759532418026%2F~psid=c93efc33-bafa-4601-8e99-f420f61788f7~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=60049c9ec06ab288d1479ad93b0ee9ce9bc1c5cbd76669a5299d46a4153605a4/clt1/va02/disneyplus/event/2025/10/04/Winnipeg_Jets_vs_Calgary__20251004_1759532418026/ctr-all-hdri-complete.m3u8?v=1&hash=839a4bd37f5c590b20ed444c39c93db0a7118f5e",
-    "k1": "d2bc492652a4407189f1d932bc5e86a0",
-    "k2": "df00e8e1aa65e50e522e5beb2b57464f"
-  },
-  {
     "title": "San Jose Sharks vs. Vegas Golden Knights",
     "league": "National Hockey League",
     "fecha-evento": "2025-10-03T21:00:00-05:00",
@@ -50,19 +37,6 @@
     "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1759632019~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F04%2FWest_Virginia_vs_23_BYU_20251004_1759537814037%2F~psid=faaf3d44-156f-485a-a6cf-de26a17c5700~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=6f8ea321229727a01edf821b7cabe88a59992bcd1dc3307b87e6d02e6198d723/clt1/va02/disneyplus/event/2025/10/04/West_Virginia_vs_23_BYU_20251004_1759537814037/ctr-all-hdri-complete.m3u8?v=1&hash=64598df0f9f3dc6ae32e698d8a3278a3efc33ec5",
     "k1": "3b3ba3f15a91470b978557035d943bea",
     "k2": "e1eb99e7d1b94740fb902080384c5129"
-  },
-  {
-    "title": "MotoGP Qualifying - Pertamina Grand Prix of Indonesia",
-    "league": "MotoGP",
-    "fecha-evento": "2025-10-03T21:45:00-05:00",
-    "img": "35044114-9e2a-46fd-92ff-57079f2b9ea6",
-    "nombre": "disney161a60",
-    "status": "21:45",
-    "duration": 55,
-    "play_url": "https://www.disneyplus.com/es-es/play/b3d57c04-8032-4c1b-ae70-bf2b15968fd4",
-    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1759633218~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Ff25bdf06-81c9-4a7c-b128-3128d610ad17-1759409600195%2F~psid=8e4f0252-0a18-4d0d-b6ea-755db1305ce3~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=651ddce63b663b327407c1fc35372cf8f571dc0318c55552a850a8a0db8bee12/clt1/va02/disneyplus/channel/f25bdf06-81c9-4a7c-b128-3128d610ad17-1759409600195/ctr-all-sliding-alt1.m3u8?v=1&hash=4daaff4fdbe476e51bcd350032d73b0e9d85df99",
-    "k1": "bffc0c39a1524733b050508ffea259ff",
-    "k2": "92bd0cb913794836122acbcc92bce445"
   },
   {
     "title": "Waikato vs. Northland (Fecha #10)",
@@ -634,6 +608,26 @@
     "img": "69f7bf72-3912-4e0d-bc44-faa1aa2a8387",
     "nombre": "disneydf4fcf",
     "status": "10:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "New York Knicks vs. Philadelphia 76ers",
+    "league": "NBA",
+    "fecha-evento": "2025-10-04T10:00:00-05:00",
+    "img": "b3ced061-5bfd-4dae-aa94-3f1ee4991db3",
+    "nombre": "disney45377e",
+    "status": "10:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Inter vs. Cremonese",
+    "league": "Seria A",
+    "fecha-evento": "2025-10-04T10:55:00-05:00",
+    "img": "29812e5a-e8ee-4a45-8e12-ceece1dfb54f",
+    "nombre": "disneydcaa7c",
+    "status": "10:55",
     "duration": 135,
     "play_url": ""
   }
