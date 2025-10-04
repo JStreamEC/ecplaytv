@@ -110,28 +110,37 @@
     "img": "bf70a264-08a2-41f8-a527-a8d46dd96683",
     "nombre": "disney1c72f2",
     "status": "20:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 125,
+    "play_url": "https://www.disneyplus.com/es-es/play/28c8ac5d-b246-43d2-8f7e-58f7de9df467",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759627219~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F04%2FWellington_vs_Bay_of_Plen_20251004_1759532436027%2F~psid=fe705436-0b0b-48a4-baf6-f6a76c4077c5~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=f53addcdfe9a06839016b693be0cf3f6270d6f3a6820a7cb93e6473ab5685b22/clt1/va02/disneyplus/event/2025/10/04/Wellington_vs_Bay_of_Plen_20251004_1759532436027/ctr-all-hdri-complete.m3u8?v=1&hash=e2c2d9c967dfa65d610a86c1b1913abe6382c66a",
+    "k1": "89de4b11987444aaa41560c99b38195e",
+    "k2": "c51ba25580c373ba0ce6a130999b6d2c"
   },
   {
     "title": "Winnipeg Jets vs. Calgary Flames",
     "league": "National Hockey League",
-    "fecha-evento": "2025-10-03T20:00:00-05:00",
+    "fecha-evento": "2025-10-03T20:00:18-05:00",
     "img": "db5ee9db-4ae5-46ef-a564-1b13be0add56",
-    "nombre": "disney1b02b9",
+    "nombre": "disneyca26ad",
     "status": "20:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 210,
+    "play_url": "https://www.disneyplus.com/es-es/play/7ed1907e-83ba-4727-9a01-bf9647d12eeb",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1759627263~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F04%2FWinnipeg_Jets_vs_Calgary__20251004_1759532418026%2F~psid=c93efc33-bafa-4601-8e99-f420f61788f7~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=60049c9ec06ab288d1479ad93b0ee9ce9bc1c5cbd76669a5299d46a4153605a4/clt1/va02/disneyplus/event/2025/10/04/Winnipeg_Jets_vs_Calgary__20251004_1759532418026/ctr-all-hdri-complete.m3u8?v=1&hash=839a4bd37f5c590b20ed444c39c93db0a7118f5e",
+    "k1": "d2bc492652a4407189f1d932bc5e86a0",
+    "k2": "df00e8e1aa65e50e522e5beb2b57464f"
   },
   {
     "title": "Auckland vs. Otago (Fecha #10)",
     "league": "National Provincial Championship",
-    "fecha-evento": "2025-10-03T20:00:00-05:00",
+    "fecha-evento": "2025-10-03T20:01:00-05:00",
     "img": "9228498f-3f0f-4e79-96bf-07e40cfd6d8a",
-    "nombre": "disneyfc0a9a",
-    "status": "20:00",
-    "duration": 135,
-    "play_url": ""
+    "nombre": "disney2373d5",
+    "status": "20:01",
+    "duration": 124,
+    "play_url": "https://www.disneyplus.com/es-es/play/ebdf603b-1c23-402c-a3a7-2deff36e5411",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759627306~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F04%2FAuckland_vs_Otago_Fecha_1_20251004_1759532449039%2F~psid=e25f20c6-937b-4042-8de2-be6705fd78a7~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=4a21b55e1cdcd555cb08001bbc5e21d6f2d1cfa608c540d5dbee80afef1078dc/clt1/va02/disneyplus/event/2025/10/04/Auckland_vs_Otago_Fecha_1_20251004_1759532449039/ctr-all-hdri-complete.m3u8?v=1&hash=174d261f1db1ccf8f0c4d3dc7f50413c9cb4c14d",
+    "k1": "04d4c147e90349cfbc6580b486c3e58f",
+    "k2": "53af5a5c44ac6bd4b04fa04a1bc431a1"
   },
   {
     "title": "Pertamina Grand Prix of Indonesia - Free Practice 2 (MotoGP)",
