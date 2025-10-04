@@ -1,5 +1,15 @@
 [
   {
+    "title": "World WCR - Spanish - Circuito de Jerez - Ángel Nieto - Race 1",
+    "league": "ESPN",
+    "fecha-evento": "2025-10-18T06:45:00-05:00",
+    "img": "76cb64b4-29ce-457e-867f-19f966847e2e",
+    "nombre": "disney88deba",
+    "status": "06:45",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
     "title": "Rolex Shanghai Masters / Court 4",
     "league": "ATP",
     "fecha-evento": "2025-10-03T23:30:00-05:00",
@@ -182,19 +192,6 @@
     "k2": "54d0d0a9d8d8ec3179d332e376d77ed4"
   },
   {
-    "title": "Hull City vs. Sheffield United",
-    "league": "Championship de Inglaterra",
-    "fecha-evento": "2025-10-04T06:20:00-05:00",
-    "img": "644b7e90-0e86-4c55-925a-f2bcbc2c6c61",
-    "nombre": "disneye29c20",
-    "status": "06:20",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/9949c1a5-6d67-4d4f-a2aa-b5d251d100b2",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1759663263~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F04%2FHull_City_vs_Sheffield_Un_20251004_1759569601028%2F~psid=a1c238a4-1e31-41e5-ba03-f4ddeb40f0f0~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=ba1274f2263bf6779efb5b8f29c889f16e20eed67dcb91ad2069e51587244cdf/clt1/va02/disneyplus/event/2025/10/04/Hull_City_vs_Sheffield_Un_20251004_1759569601028/ctr-all-hdri-complete.m3u8?v=1&hash=41d21db57718b42e63827a46a303aeda6f1ff253",
-    "k1": "66554df822604e1ca3dd6e76c75a9ecd",
-    "k2": "9cfe871b72f8d8b9fc5c175ab70e979d"
-  },
-  {
     "title": "Leeds United vs. Tottenham Hotspur",
     "league": "Premier League",
     "fecha-evento": "2025-10-04T06:20:00-05:00",
@@ -206,6 +203,19 @@
     "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759663307~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F921e1311-bb26-43dd-84a6-9e2284959712-1759409855938%2F~psid=a601b20c-149b-4e00-b412-f44d7a52a648~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=611da53915afce08b2a463a199d37ee1c7f6ec1d64e87117af038b2125f01f84/clt1/va02/disneyplus/channel/921e1311-bb26-43dd-84a6-9e2284959712-1759409855938/ctr-all-sliding-alt1.m3u8?v=1&hash=e50ddd99727af0a2947bb1b84904b1697e8043f8",
     "k1": "61cb0be4acde4399a0d17a74d31e148e",
     "k2": "a45a9ae96ceaeb395d069fa24aed0067"
+  },
+  {
+    "title": "Hull City vs. Sheffield United",
+    "league": "Championship de Inglaterra",
+    "fecha-evento": "2025-10-04T06:20:00-05:00",
+    "img": "644b7e90-0e86-4c55-925a-f2bcbc2c6c61",
+    "nombre": "disneye29c20",
+    "status": "06:20",
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/9949c1a5-6d67-4d4f-a2aa-b5d251d100b2",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1759663263~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F04%2FHull_City_vs_Sheffield_Un_20251004_1759569601028%2F~psid=a1c238a4-1e31-41e5-ba03-f4ddeb40f0f0~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=ba1274f2263bf6779efb5b8f29c889f16e20eed67dcb91ad2069e51587244cdf/clt1/va02/disneyplus/event/2025/10/04/Hull_City_vs_Sheffield_Un_20251004_1759569601028/ctr-all-hdri-complete.m3u8?v=1&hash=41d21db57718b42e63827a46a303aeda6f1ff253",
+    "k1": "66554df822604e1ca3dd6e76c75a9ecd",
+    "k2": "9cfe871b72f8d8b9fc5c175ab70e979d"
   },
   {
     "title": "Real Oviedo vs. Levante",
@@ -644,16 +654,6 @@
     "img": "424329aa-4d99-4a77-ba0e-9c4940e05cb1",
     "nombre": "disneyb4fa37",
     "status": "12:50",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "New York Rangers vs. Boston Bruins",
-    "league": "National Hockey League",
-    "fecha-evento": "2025-10-04T13:00:00-05:00",
-    "img": "4564836b-309a-4f51-bd06-89e5781f9763",
-    "nombre": "disneyb17e6f",
-    "status": "13:00",
     "duration": 135,
     "play_url": ""
   }
