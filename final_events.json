@@ -143,19 +143,6 @@
     "k2": "f5b7723dc6b6553a340d1299cf89d654"
   },
   {
-    "title": "F1 GP Singapur, práctica #3 | On Board Colapinto",
-    "league": "Fórmula 1",
-    "fecha-evento": "2025-10-04T04:30:27-05:00",
-    "img": "10d13be7-b0cd-476b-a8f1-bdaab5d5523c",
-    "nombre": "disney5a131a",
-    "status": "04:30",
-    "duration": 60,
-    "play_url": "https://www.disneyplus.com/es-es/play/4d660b62-20e5-4df2-b39a-ddb13cb16486",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759657306~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F04%2FF1_GP_Singapur_prctica_3__20251004_1759563019027%2F~psid=c7c37062-18ae-4fdb-bf26-056447c0fdbc~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=437d8faf0f9cedfb4d92336006ee2fe94dada537d552a11c4b292fc437a2da09/clt1/va02/disneyplus/event/2025/10/04/F1_GP_Singapur_prctica_3__20251004_1759563019027/ctr-all-hdri-complete.m3u8?v=1&hash=10049f05324f3f2721490d2b77b9e5b5530a1ae6",
-    "k1": "67e8144885574a5c915880ca8b277312",
-    "k2": "fe2c8a2dd302049e445a935e4fa1bdd8"
-  },
-  {
     "title": "Australia vs. Nueva Zelanda (Ronda #6)",
     "league": "Rugby Championship",
     "fecha-evento": "2025-10-04T04:50:00-05:00",
@@ -648,6 +635,16 @@
     "img": "311c4d2f-fee3-4500-931d-9332894bdd4e",
     "nombre": "disney849fa7",
     "status": "11:25",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "New Jersey Devils vs. Philadelphia Flyers",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-10-04T11:30:00-05:00",
+    "img": "1c088be9-24ff-4cef-8929-956af15ec783",
+    "nombre": "disneyff841e",
+    "status": "11:30",
     "duration": 135,
     "play_url": ""
   }
