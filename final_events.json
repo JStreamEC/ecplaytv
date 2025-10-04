@@ -23,19 +23,6 @@
     "k2": "a20f5047e33bd36953cd0850c1066dcf"
   },
   {
-    "title": "Rolex Shanghai Masters (Second Round)",
-    "league": "ATP",
-    "fecha-evento": "2025-10-04T05:30:00-05:00",
-    "img": "09f5a281-bdb9-47c9-8198-d1a6b4123bfc",
-    "nombre": "disney42d2d4",
-    "status": "05:30",
-    "duration": 255,
-    "play_url": "https://www.disneyplus.com/es-es/play/137ecbd4-98c8-40c0-8315-e1d46c0d5c7c",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759675219~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F04%2FRolex_Shanghai_Masters_Se_20251004_1759566652029%2F~psid=7cb3aeb9-71f7-41e1-a1e2-b78af6bd2352~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=905e1a074fd5b922a999d073175b3f984ec68ee9213d2cb625137a86482bbfad/clt1/va02/disneyplus/event/2025/10/04/Rolex_Shanghai_Masters_Se_20251004_1759566652029/ctr-all-hdri-complete.m3u8?v=1&hash=e562bdc77ef8902e1b014521546ab9913124db6a",
-    "k1": "5aa3dd13c7674355b5982b7f4b6153e8",
-    "k2": "852f2bd836e9f7480d8ebe190a5dcb6c"
-  },
-  {
     "title": "Challenger Dove Men Care Antofagasta (Semifinales)",
     "league": "ATP",
     "fecha-evento": "2025-10-04T09:00:05-05:00",
@@ -661,6 +648,26 @@
     "fecha-evento": "2025-10-04T17:00:00-05:00",
     "img": "9fdf9851-a165-4135-9ed0-926a75b4c051",
     "nombre": "disney85b4fe",
+    "status": "17:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Coastal Carolina vs. Old Dominion",
+    "league": "Fútbol Americano NCAA",
+    "fecha-evento": "2025-10-04T17:00:00-05:00",
+    "img": "e0763752-9495-44a1-910e-8549fc073553",
+    "nombre": "disneyd24a88",
+    "status": "17:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "UFC 320 | Magomed Ankalaev vs. Alex Pereira | ESPN KO",
+    "league": "UFC",
+    "fecha-evento": "2025-10-04T17:00:00-05:00",
+    "img": "1f8ce20e-f927-4573-8a01-4b125c6e5911",
+    "nombre": "disneyabfa2a",
     "status": "17:00",
     "duration": 135,
     "play_url": ""
