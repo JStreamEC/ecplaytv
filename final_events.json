@@ -26,19 +26,6 @@
     "k2": "3053de4c59f0cc8f2b13e89c05aa3868"
   },
   {
-    "title": "En Español-Phoenix Mercury vs. Las Vegas Aces (Finals, Game 1)",
-    "league": "WNBA",
-    "fecha-evento": "2025-10-03T19:00:00-05:00",
-    "img": "3016e724-3968-4004-8582-8303f69d2b21",
-    "nombre": "disney64219d",
-    "status": "19:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/37edfa45-5e81-4832-9024-ce68c8e63625",
-    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759623619~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Ff25bdf06-81c9-4a7c-b128-3128d610ad17-1759409600195%2F~psid=c0ad61e8-9a82-46b9-bd6c-bc9909e0f1d6~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=459471df4b462c7d7ec952d899b77e2239fc256ac101b5e7e135098d92b5f451/clt1/va02/disneyplus/channel/f25bdf06-81c9-4a7c-b128-3128d610ad17-1759409600195/ctr-all-sliding-alt1.m3u8?v=1&hash=4daaff4fdbe476e51bcd350032d73b0e9d85df99",
-    "k1": "bffc0c39a1524733b050508ffea259ff",
-    "k2": "92bd0cb913794836122acbcc92bce445"
-  },
-  {
     "title": "Azael Villar vs. Ricardo Astuvilca | ESPN KO",
     "league": "ESPN",
     "fecha-evento": "2025-10-03T19:00:00-05:00",
@@ -132,12 +119,15 @@
   {
     "title": "West Virginia vs. #23 BYU",
     "league": "Fútbol Americano NCAA",
-    "fecha-evento": "2025-10-03T21:30:00-05:00",
+    "fecha-evento": "2025-10-03T21:30:01-05:00",
     "img": "f9ad115c-aa4d-4feb-8187-f1c53f4001d4",
-    "nombre": "disney5ad57f",
+    "nombre": "disneye141d1",
     "status": "21:30",
-    "duration": 135,
-    "play_url": ""
+    "duration": 180,
+    "play_url": "https://www.disneyplus.com/es-es/play/236e5093-dc99-47b0-8781-8bcbb3a67690",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1759632019~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F04%2FWest_Virginia_vs_23_BYU_20251004_1759537814037%2F~psid=faaf3d44-156f-485a-a6cf-de26a17c5700~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=6f8ea321229727a01edf821b7cabe88a59992bcd1dc3307b87e6d02e6198d723/clt1/va02/disneyplus/event/2025/10/04/West_Virginia_vs_23_BYU_20251004_1759537814037/ctr-all-hdri-complete.m3u8?v=1&hash=64598df0f9f3dc6ae32e698d8a3278a3efc33ec5",
+    "k1": "3b3ba3f15a91470b978557035d943bea",
+    "k2": "e1eb99e7d1b94740fb902080384c5129"
   },
   {
     "title": "MotoGP Qualifying - Pertamina Grand Prix of Indonesia",
@@ -646,6 +636,16 @@
     "img": "8216e49b-7db8-4296-9612-9e094e95ffae",
     "nombre": "disneyfdcf31",
     "status": "08:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "La Ensenada Clonargen vs. Los Machitos | Final Subsidiaria",
+    "league": "Abierto de Hurlingham",
+    "fecha-evento": "2025-10-04T08:55:00-05:00",
+    "img": "9884a8f1-a4f8-48d5-944e-791e680046a8",
+    "nombre": "disney1b5678",
+    "status": "08:55",
     "duration": 135,
     "play_url": ""
   }
