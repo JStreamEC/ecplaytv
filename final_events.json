@@ -65,19 +65,6 @@
     "k2": "df00e8e1aa65e50e522e5beb2b57464f"
   },
   {
-    "title": "Auckland vs. Otago (Fecha #10)",
-    "league": "National Provincial Championship",
-    "fecha-evento": "2025-10-03T20:01:00-05:00",
-    "img": "9228498f-3f0f-4e79-96bf-07e40cfd6d8a",
-    "nombre": "disney2373d5",
-    "status": "20:01",
-    "duration": 124,
-    "play_url": "https://www.disneyplus.com/es-es/play/ebdf603b-1c23-402c-a3a7-2deff36e5411",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759627306~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F04%2FAuckland_vs_Otago_Fecha_1_20251004_1759532449039%2F~psid=e25f20c6-937b-4042-8de2-be6705fd78a7~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=4a21b55e1cdcd555cb08001bbc5e21d6f2d1cfa608c540d5dbee80afef1078dc/clt1/va02/disneyplus/event/2025/10/04/Auckland_vs_Otago_Fecha_1_20251004_1759532449039/ctr-all-hdri-complete.m3u8?v=1&hash=174d261f1db1ccf8f0c4d3dc7f50413c9cb4c14d",
-    "k1": "04d4c147e90349cfbc6580b486c3e58f",
-    "k2": "53af5a5c44ac6bd4b04fa04a1bc431a1"
-  },
-  {
     "title": "San Jose Sharks vs. Vegas Golden Knights",
     "league": "National Hockey League",
     "fecha-evento": "2025-10-03T21:00:00-05:00",
@@ -104,19 +91,6 @@
     "k2": "090f0b6a4152144fd4806b47d30fc1c5"
   },
   {
-    "title": "Pertamina Grand Prix of Indonesia - Free Practice 2 (MotoGP)",
-    "league": "MotoGP",
-    "fecha-evento": "2025-10-03T21:00:00-05:00",
-    "img": "00b11956-c1f9-4964-ac80-06d49aac5a22",
-    "nombre": "disney29a2af",
-    "status": "21:00",
-    "duration": 45,
-    "play_url": "https://www.disneyplus.com/es-es/play/2b4dab4b-1a0a-4cbd-82dc-c61bcaed8696",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759629620~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F04%2FPertamina_Grand_Prix_of_I_20251004_1759536025027%2F~psid=09552098-8b7a-40b3-ad67-f3187f587689~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=5932043b282cfe5d90404dd7079d1ff035d8f215564e89dfa3125eeb06d4e995/clt1/va02/disneyplus/event/2025/10/04/Pertamina_Grand_Prix_of_I_20251004_1759536025027/ctr-all-hdri-complete.m3u8?v=1&hash=7ec09f15458543519fd53e34c003bafe4dec1af9",
-    "k1": "30d5fbcda89d49b2b8325ae25a166452",
-    "k2": "4ea9c566a9ec15201c5201ded4c8c1f0"
-  },
-  {
     "title": "West Virginia vs. #23 BYU",
     "league": "Fútbol Americano NCAA",
     "fecha-evento": "2025-10-03T21:30:01-05:00",
@@ -136,8 +110,11 @@
     "img": "35044114-9e2a-46fd-92ff-57079f2b9ea6",
     "nombre": "disney161a60",
     "status": "21:45",
-    "duration": 135,
-    "play_url": ""
+    "duration": 55,
+    "play_url": "https://www.disneyplus.com/es-es/play/b3d57c04-8032-4c1b-ae70-bf2b15968fd4",
+    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1759633218~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Ff25bdf06-81c9-4a7c-b128-3128d610ad17-1759409600195%2F~psid=8e4f0252-0a18-4d0d-b6ea-755db1305ce3~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=651ddce63b663b327407c1fc35372cf8f571dc0318c55552a850a8a0db8bee12/clt1/va02/disneyplus/channel/f25bdf06-81c9-4a7c-b128-3128d610ad17-1759409600195/ctr-all-sliding-alt1.m3u8?v=1&hash=4daaff4fdbe476e51bcd350032d73b0e9d85df99",
+    "k1": "bffc0c39a1524733b050508ffea259ff",
+    "k2": "92bd0cb913794836122acbcc92bce445"
   },
   {
     "title": "Waikato vs. Northland (Fecha #10)",
@@ -646,6 +623,36 @@
     "img": "9884a8f1-a4f8-48d5-944e-791e680046a8",
     "nombre": "disney1b5678",
     "status": "08:55",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Challenger Dove Men Care Antofagasta (Semifinales)",
+    "league": "ATP",
+    "fecha-evento": "2025-10-04T09:00:00-05:00",
+    "img": "90dfdffc-920d-49a5-a678-8759810190dd",
+    "nombre": "disney950285",
+    "status": "09:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Leicester Tigers vs. Harlequins (Ronda #2)",
+    "league": "Premiership",
+    "fecha-evento": "2025-10-04T09:00:00-05:00",
+    "img": "f41a1275-2085-4cee-bc1b-d16a89696fe5",
+    "nombre": "disney63dcbf",
+    "status": "09:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Sparta Rotterdam vs. Ajax (Fecha #8)",
+    "league": "Eredivisie",
+    "fecha-evento": "2025-10-04T09:20:00-05:00",
+    "img": "5849f13a-a08e-4a28-829d-4afd162a4ddd",
+    "nombre": "disneyb635a3",
+    "status": "09:20",
     "duration": 135,
     "play_url": ""
   }
