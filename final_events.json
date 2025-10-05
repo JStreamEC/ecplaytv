@@ -172,18 +172,24 @@
     "img": "561346d2-3326-471d-ba07-8a9ae9aa62c8",
     "nombre": "disneydafe4d",
     "status": "20:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/08e10829-d182-428a-9efe-c16213adef54",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759713619~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F05%2FSpokane_Zephyr_vs_Lexingt_20251005_1759618800080%2F~psid=41cb5ec3-da70-46a6-8818-6c66853c78f0~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=1c41561a4d588664e1d89b6c6f1e5dabd0358fbb4d6c2c980a6710fe7c266279/clt1/va02/disneyplus/event/2025/10/05/Spokane_Zephyr_vs_Lexingt_20251005_1759618800080/ctr-all-hdri-complete.m3u8?v=1&hash=865ea5d66cd2ea97c9a1f6ed846f8cc5ef4cbd2e",
+    "k1": "91ba508f0fe444eabaa95126e2080c8a",
+    "k2": "9c6a7e3964d853e9070e9445a83ea23f"
   },
   {
     "title": "Tasman vs. Counties Manukau (Fecha #10)",
     "league": "National Provincial Championship",
-    "fecha-evento": "2025-10-04T20:00:00-05:00",
+    "fecha-evento": "2025-10-04T20:00:09-05:00",
     "img": "476a793e-d898-47ba-bbfd-1de0327103b4",
-    "nombre": "disneycf664b",
+    "nombre": "disneyff3ff3",
     "status": "20:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 125,
+    "play_url": "https://www.disneyplus.com/es-es/play/31da94e5-9993-4d0c-90e4-072ec6a56a2a",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759713663~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F05%2FTasman_vs_Counties_Manuka_20251005_1759618826027%2F~psid=3ea01874-6053-4983-9169-fc9bd969b5c6~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=87e350853e0917e3d717af1a19c2d1f2bd185f9e245fba3862174d2347b7af7a/clt1/va02/disneyplus/event/2025/10/05/Tasman_vs_Counties_Manuka_20251005_1759618826027/ctr-all-hdri-complete.m3u8?v=1&hash=44d32340730899f32e796c457f1b24860eb5c514",
+    "k1": "b981353199504442b8092bea388c289a",
+    "k2": "caba54392c55340a6ba7cb10f45c02da"
   },
   {
     "title": "MotoGP Asia Talent Cup - Grand Prix of Indonesia (Carrera 2)",
