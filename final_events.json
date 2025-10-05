@@ -23,19 +23,6 @@
     "k2": "3a56b0facc8aa225dfe4c1f26d486da9"
   },
   {
-    "title": "Orange County SC vs. El Paso Locomotive FC",
-    "league": "USL Championship",
-    "fecha-evento": "2025-10-04T21:00:00-05:00",
-    "img": "2421a878-c2db-4e8a-8dbf-b08fd15f985d",
-    "nombre": "disneydb9e21",
-    "status": "21:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/8e534d9b-ad93-4915-b4bf-1116140ff49f",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1759716063~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F05%2FOrange_County_SC_vs_El_Pa_20251005_1759622415032%2F~psid=6ffd0c3f-5f46-4d81-8d66-64ebf9ee767c~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=8e265a552c21a733ad9bdbb6307de823f950e945862d5412dbd3bb6cdf55deec/clt1/va02/disneyplus/event/2025/10/05/Orange_County_SC_vs_El_Pa_20251005_1759622415032/ctr-all-hdri-complete.m3u8?v=1&hash=50f9d0c18489c2b0c01a32046e6afef19140ad68",
-    "k1": "ca9cc23935ab467dac9af7c9283d9269",
-    "k2": "bcb8d29586332971e62e9b47c7b08c58"
-  },
-  {
     "title": "Angel Fierro vs. Abraham Cordero | ESPN KO",
     "league": "ESPN",
     "fecha-evento": "2025-10-04T21:00:00-05:00",
@@ -90,12 +77,15 @@
   {
     "title": "Rolex Shanghai Masters / Showcourt 3 (Doubles)",
     "league": "ATP",
-    "fecha-evento": "2025-10-04T23:30:00-05:00",
+    "fecha-evento": "2025-10-04T23:36:18-05:00",
     "img": "4351bc25-2dca-4bd0-b0b4-00cda3a345e7",
-    "nombre": "disney7aa8e1",
-    "status": "23:30",
-    "duration": 135,
-    "play_url": ""
+    "nombre": "disneyf2e403",
+    "status": "23:36",
+    "duration": 474,
+    "play_url": "https://www.disneyplus.com/es-es/play/3eb0504a-f0a7-4bc3-9c69-76a09d502d6a",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759725618~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F05%2FRolex_Shanghai_Masters_Sh_20251005_1759631415043%2F~psid=f0bf23af-84c0-4a3f-ad3a-db4d71350021~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=92044b18a64b3257c42cca0953bd4ad38a141147d59ac719d8c5fc235f16ac58/clt1/va02/disneyplus/event/2025/10/05/Rolex_Shanghai_Masters_Sh_20251005_1759631415043/ctr-all-hdri-complete.m3u8?v=1&hash=726aa7b443b68242febb6b1c1300c90ccd48aef7",
+    "k1": "5bb6182f48f748efa449fcace22f9f93",
+    "k2": "f4e53bf33a3ae01314e7a72d7fce7cc9"
   },
   {
     "title": "Rolex Shanghai Masters / Court 4 (Doubles)",
@@ -104,38 +94,50 @@
     "img": "11398d42-483b-4c95-bb63-3c681ff3e61e",
     "nombre": "disneybe0cc3",
     "status": "23:30",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "ATP 1000: Xangai",
-    "league": "ATP",
-    "fecha-evento": "2025-10-04T23:30:00-05:00",
-    "img": "30cea086-a319-403b-9667-09d204f691ad",
-    "nombre": "disneyb9c559",
-    "status": "23:30",
-    "duration": 135,
-    "play_url": ""
+    "duration": 240,
+    "play_url": "https://www.disneyplus.com/es-es/play/537cf181-10b8-415a-b015-57e3d52e1ff2",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759725661~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F05%2FRolex_Shanghai_Masters_Co_20251005_1759631425028%2F~psid=25f3d39a-cb63-4db7-b36a-d81906a858c3~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=53cc2cdcc1b5fb23d8d7b962c38af0111f851f474b29767ffabd6c7685f5019f/clt1/va02/disneyplus/event/2025/10/05/Rolex_Shanghai_Masters_Co_20251005_1759631425028/ctr-all-hdri-complete.m3u8?v=1&hash=3c57473968f01f485c1c250532f22a0d2b975f10",
+    "k1": "7a770f25c1aa49a8a1f1164084238b77",
+    "k2": "fa6f53413ac3e44c0714ae51126f92d5"
   },
   {
     "title": "Rolex Shanghai Masters / Grandstand 2",
     "league": "ATP",
-    "fecha-evento": "2025-10-04T23:30:00-05:00",
+    "fecha-evento": "2025-10-04T23:30:01-05:00",
     "img": "01fb5d62-c082-4ef8-9b11-4acb58016efc",
-    "nombre": "disney918ee6",
+    "nombre": "disney20df8b",
     "status": "23:30",
-    "duration": 135,
-    "play_url": ""
+    "duration": 480,
+    "play_url": "https://www.disneyplus.com/es-es/play/8e776965-88e6-4cfb-a5ac-41befadb6aec",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1759725705~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F05%2FRolex_Shanghai_Masters_Gr_20251005_1759631432041%2F~psid=561a7557-be24-49cc-aff8-3286777a98ce~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=7ed6ca783f45a7b7e88d3f2f0448ca84fb4524aace76721971af73ea6f89a4de/clt1/va02/disneyplus/event/2025/10/05/Rolex_Shanghai_Masters_Gr_20251005_1759631432041/ctr-all-hdri-complete.m3u8?v=1&hash=ab5c6a831c6996a6e0587f0c7dda23681f99172f",
+    "k1": "790aa24c903b47ab89e04ad695e1347e",
+    "k2": "bd1bb3dce81351b86e62074fbdde4281"
+  },
+  {
+    "title": "Rolex Shanghai Masters (Third Round)",
+    "league": "ATP",
+    "fecha-evento": "2025-10-04T23:30:04-05:00",
+    "img": "90cc33cf-013d-47e7-9b22-dfba8ca7479b",
+    "nombre": "disney628aa3",
+    "status": "23:30",
+    "duration": 600,
+    "play_url": "https://www.disneyplus.com/es-es/play/77021854-4d8c-4fc8-88e5-b0b8f004c79a",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759725728~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F05%2FATP_1000_Xangai_20251005_1759631427036%2F~psid=ed9f76af-c600-4ff9-8172-a1fe3f871717~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=26141dc8ccff552d64561e62d5316a0b30812382a5165a82dadd1fd6950f248a/clt1/va02/disneyplus/event/2025/10/05/ATP_1000_Xangai_20251005_1759631427036/ctr-all-hdri-complete.m3u8?v=1&hash=01701674f2e3ef587864d491d44cdb581c32b444",
+    "k1": "3f2c28a1e44744c182333f034dd5ad9b",
+    "k2": "88458ae779338b983a3f2ced12ec2492"
   },
   {
     "title": "Rolex Shanghai Masters / Stadium Court",
     "league": "ATP",
-    "fecha-evento": "2025-10-04T23:30:00-05:00",
+    "fecha-evento": "2025-10-04T23:31:22-05:00",
     "img": "05f5310e-6776-4f5b-924d-cddd9d222984",
-    "nombre": "disneyab2682",
-    "status": "23:30",
-    "duration": 135,
-    "play_url": ""
+    "nombre": "disneya0e7e5",
+    "status": "23:31",
+    "duration": 599,
+    "play_url": "https://www.disneyplus.com/es-es/play/ff63c376-0d04-4bde-8a87-cda5e7f2f125",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1759725751~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F05%2FRolex_Shanghai_Masters_St_20251005_1759631400047%2F~psid=ff04dbd8-ff1e-4529-bfea-70efd053e546~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=0439331e667984f8168a9de34fc984e8c2b8b84ae8bffa8e64274750bbff8298/clt1/va02/disneyplus/event/2025/10/05/Rolex_Shanghai_Masters_St_20251005_1759631400047/ctr-all-hdri-complete.m3u8?v=1&hash=14b787ee844c5d669916f618580c52768a728676",
+    "k1": "e382c4d07dbf4872ab5e362004a6a6c1",
+    "k2": "1eb8ea19447cdc6f8881e8f38fefa925"
   },
   {
     "title": "F1 Academy: GP Singapur | Carrera #2",
@@ -193,16 +195,6 @@
     "fecha-evento": "2025-10-05T05:30:00-05:00",
     "img": "50f9b186-3d3d-4ab8-b059-60c8b5550228",
     "nombre": "disney97b6d6",
-    "status": "05:30",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Rolex Shanghai Masters (Third Round)",
-    "league": "ATP",
-    "fecha-evento": "2025-10-05T05:30:00-05:00",
-    "img": "0ac0dbeb-7ccd-4d66-9d49-379cc4442bf5",
-    "nombre": "disney7adc52",
     "status": "05:30",
     "duration": 135,
     "play_url": ""
@@ -633,6 +625,16 @@
     "fecha-evento": "2025-10-05T11:00:00-05:00",
     "img": "224c15b3-16c5-46ac-b664-0a524a1ce27f",
     "nombre": "disney9be90d",
+    "status": "11:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Arizona State vs. West Virginia",
+    "league": "Fútbol Femenino NCAA",
+    "fecha-evento": "2025-10-05T11:00:00-05:00",
+    "img": "068e1d93-b9fc-445d-bcb6-86fc6f434fa9",
+    "nombre": "disney9ba698",
     "status": "11:00",
     "duration": 135,
     "play_url": ""
