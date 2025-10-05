@@ -72,19 +72,6 @@
     "k2": "b33b65f050a4d249d558162c55280477"
   },
   {
-    "title": "Peñarol vs. Danubio",
-    "league": "Campeonato Uruguayo",
-    "fecha-evento": "2025-10-05T15:30:09-05:00",
-    "img": "09039daa-467a-4e08-8d2e-855f2f557ce9",
-    "nombre": "disneyf8cdd5",
-    "status": "15:30",
-    "duration": 150,
-    "play_url": "https://www.disneyplus.com/es-es/play/08e87349-e8e2-4c91-ad99-9af5c1448b60",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759783261~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F05%2FPearol_vs_Danubio_20251005_1759689032038%2F~psid=d9f1ab22-402a-4cd8-997e-7e1253190750~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=e29c868d810f50142f8c7b7a9e7137af72d00bb27b747957c8b4fdd1ecfeaf9c/clt1/va02/disneyplus/event/2025/10/05/Pearol_vs_Danubio_20251005_1759689032038/ctr-all-hdri-complete.m3u8?v=1&hash=42e96aee8adb4cf97bbf973f95d880d263caa708",
-    "k1": "1f98084162fd40baa5cd10b774addde1",
-    "k2": "d816d8354074749459971ba9f64a32ac"
-  },
-  {
     "title": "#6 Louisville vs. #4 Stanford",
     "league": "NCAA Women's Volleyball",
     "fecha-evento": "2025-10-05T16:00:00-05:00",
@@ -513,6 +500,16 @@
     "img": "2ee9054e-d8b0-4dc4-9409-26c24889d498",
     "nombre": "disneyfddda4",
     "status": "18:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Dana White's Contender Series #9 | ESPN KO",
+    "league": "UFC",
+    "fecha-evento": "2025-10-07T19:00:00-05:00",
+    "img": "1291b414-3cf7-40c9-8ac2-8cbb24bf8661",
+    "nombre": "disney1e1a21",
+    "status": "19:00",
     "duration": 135,
     "play_url": ""
   }
