@@ -49,19 +49,6 @@
     "k2": "1eb8ea19447cdc6f8881e8f38fefa925"
   },
   {
-    "title": "Rolex Shanghai Masters / Showcourt 3 (Doubles)",
-    "league": "ATP",
-    "fecha-evento": "2025-10-04T23:36:18-05:00",
-    "img": "4351bc25-2dca-4bd0-b0b4-00cda3a345e7",
-    "nombre": "disneyf2e403",
-    "status": "23:36",
-    "duration": 474,
-    "play_url": "https://www.disneyplus.com/es-es/play/3eb0504a-f0a7-4bc3-9c69-76a09d502d6a",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759725618~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F05%2FRolex_Shanghai_Masters_Sh_20251005_1759631415043%2F~psid=f0bf23af-84c0-4a3f-ad3a-db4d71350021~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=92044b18a64b3257c42cca0953bd4ad38a141147d59ac719d8c5fc235f16ac58/clt1/va02/disneyplus/event/2025/10/05/Rolex_Shanghai_Masters_Sh_20251005_1759631415043/ctr-all-hdri-complete.m3u8?v=1&hash=726aa7b443b68242febb6b1c1300c90ccd48aef7",
-    "k1": "5bb6182f48f748efa449fcace22f9f93",
-    "k2": "f4e53bf33a3ae01314e7a72d7fce7cc9"
-  },
-  {
     "title": "India vs. Pakistan",
     "league": "ESPN",
     "fecha-evento": "2025-10-05T04:00:07-05:00",
@@ -181,12 +168,15 @@
   {
     "title": "Linda Noskova (CZE) vs. Amanda Anisimova (USA) (Final)",
     "league": "WTA",
-    "fecha-evento": "2025-10-05T06:00:00-05:00",
+    "fecha-evento": "2025-10-05T05:59:49-05:00",
     "img": "1023685e-e422-4b8a-b905-991933979c88",
-    "nombre": "disneyee1a8c",
-    "status": "06:00",
-    "duration": 135,
-    "play_url": ""
+    "nombre": "disney80d698",
+    "status": "05:59",
+    "duration": 150,
+    "play_url": "https://www.disneyplus.com/es-es/play/5b521ed1-312b-48ce-a75f-a0873d787c64",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759749620~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F05%2FLinda_Noskova_CZE_vs_Aman_20251005_1759654840039%2F~psid=d85da191-54fb-4c92-942b-8f26997e1c11~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=824ae6c9de9a1c6488d5817e03be6dc3b7aa796e6d6abc7499581c4d8e83763f/clt1/va02/disneyplus/event/2025/10/05/Linda_Noskova_CZE_vs_Aman_20251005_1759654840039/ctr-all-hdri-complete.m3u8?v=1&hash=1d40c83ac31a1516f8050d5d00823f9fe9cdc0ec",
+    "k1": "5dc1697dcff24cb3912b99954d4a3e1e",
+    "k2": "f1ddc4b74133f4c317a4f11f9ccc6a67"
   },
   {
     "title": "SpVgg Greuther Fürth vs. Hannover 96",
@@ -195,8 +185,11 @@
     "img": "17b721e8-fcef-4844-80ec-a9287c9dea97",
     "nombre": "disneya99909",
     "status": "06:20",
-    "duration": 135,
-    "play_url": ""
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/411ad3d6-5c7c-44b4-88a2-cb21238e4491",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759749663~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F05%2FSpVgg_Greuther_Frth_vs_Ha_20251005_1759656027027%2F~psid=e5c82fa6-9b8d-4ca4-9c8b-9320fe48c402~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=73cae896494b405ffa3e0b55a7f93ed56d5e5420d69e593f0403f92002f1320b/clt1/va02/disneyplus/event/2025/10/05/SpVgg_Greuther_Frth_vs_Ha_20251005_1759656027027/ctr-all-hdri-complete.m3u8?v=1&hash=b6941d061e623389da6bbd82e1ea472874daca0f",
+    "k1": "37447f967be5486eaf2f364ea343a16d",
+    "k2": "b5f882984717924e6b45484fcefa6b17"
   },
   {
     "title": "Arminia Bielefeld vs. FC Schalke 04",
@@ -644,6 +637,16 @@
     "fecha-evento": "2025-10-05T12:00:00-05:00",
     "img": "2fa6adfd-0a90-4a60-ac44-4322456402af",
     "nombre": "disneybb485f",
+    "status": "12:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Georgia vs. South Carolina",
+    "league": "NCAA Women's Volleyball",
+    "fecha-evento": "2025-10-05T12:00:00-05:00",
+    "img": "15902821-f45e-4f41-8044-17eb284c7f75",
+    "nombre": "disney553f2c",
     "status": "12:00",
     "duration": 135,
     "play_url": ""
