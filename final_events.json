@@ -33,45 +33,6 @@
     "k2": "e1beec2e2b5c3196f6b2c265ee345e0d"
   },
   {
-    "title": "Washington Commanders vs. Los Angeles Chargers",
-    "league": "NFL",
-    "fecha-evento": "2025-10-05T15:26:00-05:00",
-    "img": "b45eeb45-d93b-4f24-b21e-b93257ec7c21",
-    "nombre": "disneyb2f5ed",
-    "status": "15:26",
-    "duration": 184,
-    "play_url": "https://www.disneyplus.com/es-es/play/9b27bdad-8507-4d12-9a8b-bb3b2110885a",
-    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759783218~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F7f9052ce-8143-43a6-9656-a8c00c4a3e56-1759410662253%2F~psid=498f17fc-ee4a-45c3-9d54-59bcf57af1c6~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=134bb61d4c6b70ef811b93585081e8722ea18220fdf700956e2682cada8dde29/clt1/va02/disneyplus/channel/7f9052ce-8143-43a6-9656-a8c00c4a3e56-1759410662253/ctr-all-sliding-alt1.m3u8?v=1&hash=62ce07132e0abe5c3d4609df742b679fdbe340b7",
-    "k1": "8e67031007d94b8bbf3430def1a9ddd7",
-    "k2": "201127059f1dffbdc8df03ecfcd23139"
-  },
-  {
-    "title": "Detroit Lions vs. Cincinnati Bengals",
-    "league": "NFL",
-    "fecha-evento": "2025-10-05T15:17:00-05:00",
-    "img": "8696a1b9-34f7-441c-b027-106f5c84ce25",
-    "nombre": "disney8bb1aa",
-    "status": "15:17",
-    "duration": 193,
-    "play_url": "https://www.disneyplus.com/es-es/play/d8a9fe2a-2b8f-4c29-bde8-afb6e08a0667",
-    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759782062~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F47873700-1b85-4497-8f84-d6f321fbb196-1759410995494%2F~psid=96729bf1-ae8a-4759-ac16-81a134463d6c~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=54a58b3e6abc8e3ca982dce1671420eff59ee98ac05f984af5c47de98e5ac7d8/clt1/va02/disneyplus/channel/47873700-1b85-4497-8f84-d6f321fbb196-1759410995494/ctr-all-sliding-alt1.m3u8?v=1&hash=2e1c2c39a1658935937a58e79ecd56c0e3dfb9d6",
-    "k1": "3f36f2d8f0ba415d8ebb02342123be98",
-    "k2": "b33b65f050a4d249d558162c55280477"
-  },
-  {
-    "title": "#6 Louisville vs. #4 Stanford",
-    "league": "NCAA Women's Volleyball",
-    "fecha-evento": "2025-10-05T16:00:00-05:00",
-    "img": "0a1dcdd7-6ec6-4082-8222-b848ccd31974",
-    "nombre": "disney131840",
-    "status": "16:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/65e30d73-6989-46be-b78a-09242c6a56f5",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1759784462~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F05%2F6_Louisville_vs_4_Stanfor_20251005_1759690848025%2F~psid=09780a68-3854-48b6-b7b0-bbf2f883a54d~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=4aecf871acd7d2d43140ae06f63a7500c3df3ac696857ef8a9613e9249ed736c/clt1/va02/disneyplus/event/2025/10/05/6_Louisville_vs_4_Stanfor_20251005_1759690848025/ctr-all-hdri-complete.m3u8?v=1&hash=a23cbafb051b0a870aac3f9e0ea5f6e8abd9c39d",
-    "k1": "d8e837114ce14f71947976459c1e51f7",
-    "k2": "c50b0ba009aa2a78bf2c3275295bdcb2"
-  },
-  {
     "title": "Union Omaha vs. FC Naples",
     "league": "USL League One",
     "fecha-evento": "2025-10-05T16:00:00-05:00",
@@ -497,6 +458,16 @@
     "img": "1291b414-3cf7-40c9-8ac2-8cbb24bf8661",
     "nombre": "disney1e1a21",
     "status": "19:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Dongfeng Voyah · Wuhan Open (Second Round)",
+    "league": "WTA",
+    "fecha-evento": "2025-10-07T22:00:00-05:00",
+    "img": "12509649-6e25-451b-882e-e7270e2da81c",
+    "nombre": "disneye572e0",
+    "status": "22:00",
     "duration": 135,
     "play_url": ""
   }
