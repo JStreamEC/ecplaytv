@@ -3,7 +3,7 @@
     "title": "World WCR - Spanish - Circuito de Jerez - Ángel Nieto - Race 1",
     "league": "ESPN",
     "fecha-evento": "2025-10-18T06:45:00-05:00",
-    "img": "76cb64b4-29ce-457e-867f-19f966847e2e",
+    "img": "305a131d-3439-4ba0-9ba2-c830ff02307e",
     "nombre": "disney88deba",
     "status": "06:45",
     "duration": 135,
@@ -13,7 +13,7 @@
     "title": "World WCR - Spanish - Circuito de Jerez - Ángel Nieto - Race 2",
     "league": "ESPN",
     "fecha-evento": "2025-10-19T06:45:00-05:00",
-    "img": "76cb64b4-29ce-457e-867f-19f966847e2e",
+    "img": "305a131d-3439-4ba0-9ba2-c830ff02307e",
     "nombre": "disneyb4b0b9",
     "status": "06:45",
     "duration": 135,
@@ -348,8 +348,11 @@
     "img": "2a5e714e-ca93-47ca-8a30-82d1f2b54a6f",
     "nombre": "disney71ec9c",
     "status": "08:55",
-    "duration": 135,
-    "play_url": ""
+    "duration": 125,
+    "play_url": "https://www.disneyplus.com/es-es/play/54f2f28a-0b94-403b-afe4-addd08dd1846",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759759262~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F05%2FGloucester_Rugby_vs_North_20251005_1759665315030%2F~psid=209c58c6-f227-422e-a58b-f67d1eb17c4d~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=666a861114a6323463d877b49b3681d7b3dea14ecce574e5b5a4bdd2093bc4c5/clt1/va02/disneyplus/event/2025/10/05/Gloucester_Rugby_vs_North_20251005_1759665315030/ctr-all-hdri-complete.m3u8?v=1&hash=d49364368082648ca89a9585d4730303f764ba6e",
+    "k1": "4437e61abfe346d88491045904190ce5",
+    "k2": "a82fb56a02000f25fbb3a2ff8662856b"
   },
   {
     "title": "Premier Padel: Rotterdam - Centre Court (Finales)",
@@ -385,7 +388,7 @@
     "title": "Compacto | F1 GP Singapur | Carrera (3 min)",
     "league": "Fórmula 1",
     "fecha-evento": "2025-10-05T09:55:00-05:00",
-    "img": "32b10095-0c9b-4020-9b25-5a26f29a0e4b",
+    "img": "072c1a06-35ae-444b-bc10-aecd76bcd42d",
     "nombre": "disney88f6eb",
     "status": "09:55",
     "duration": 135,
@@ -395,7 +398,7 @@
     "title": "Compacto | F1 GP Singapur | Carrera (30 min)",
     "league": "Fórmula 1",
     "fecha-evento": "2025-10-05T10:00:00-05:00",
-    "img": "cb4dd526-8ecf-4b33-84af-2a6fce315492",
+    "img": "168770f3-233d-4661-854a-ff4792727531",
     "nombre": "disney1450f4",
     "status": "10:00",
     "duration": 135,
@@ -518,16 +521,6 @@
     "img": "5f1ad933-47ae-4cac-adb9-084e59679510",
     "nombre": "disney677b52",
     "status": "11:20",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "La Ensenada III vs. La Irenita II | Torneo Clasificatorio a Palermo (Fecha #1)",
-    "league": "Abierto de Palermo",
-    "fecha-evento": "2025-10-05T11:25:00-05:00",
-    "img": "49d45b99-4ca3-402f-b8c3-d721090b8ace",
-    "nombre": "disneyade246",
-    "status": "11:25",
     "duration": 135,
     "play_url": ""
   },
@@ -682,12 +675,22 @@
     "play_url": ""
   },
   {
-    "title": "La Matera vs. La Esquina (Fecha #1)",
-    "league": "Abierto de Palermo",
-    "fecha-evento": "2025-10-05T13:55:00-05:00",
-    "img": "d5d61d01-ec8a-4252-9739-ce3aa41c6823",
-    "nombre": "disney082eca",
-    "status": "13:55",
+    "title": "Alabama vs. Missouri",
+    "league": "Fútbol Femenino NCAA",
+    "fecha-evento": "2025-10-05T14:00:00-05:00",
+    "img": "7735425b-52e3-4aa0-83ed-dae17ca1587e",
+    "nombre": "disney4539ce",
+    "status": "14:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "En Español-Phoenix Mercury vs. Las Vegas Aces (Finals, Game 2)",
+    "league": "WNBA",
+    "fecha-evento": "2025-10-05T14:00:00-05:00",
+    "img": "f6b7f8e4-ad0a-4ae4-9e76-6e7304432d7e",
+    "nombre": "disneye60c4f",
+    "status": "14:00",
     "duration": 135,
     "play_url": ""
   }
