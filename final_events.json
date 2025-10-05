@@ -62,19 +62,6 @@
     "k2": "f4e53bf33a3ae01314e7a72d7fce7cc9"
   },
   {
-    "title": "Rolex Shanghai Masters / Court 4 (Doubles)",
-    "league": "ATP",
-    "fecha-evento": "2025-10-04T23:30:00-05:00",
-    "img": "11398d42-483b-4c95-bb63-3c681ff3e61e",
-    "nombre": "disneybe0cc3",
-    "status": "23:30",
-    "duration": 240,
-    "play_url": "https://www.disneyplus.com/es-es/play/537cf181-10b8-415a-b015-57e3d52e1ff2",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759725661~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F05%2FRolex_Shanghai_Masters_Co_20251005_1759631425028%2F~psid=25f3d39a-cb63-4db7-b36a-d81906a858c3~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=53cc2cdcc1b5fb23d8d7b962c38af0111f851f474b29767ffabd6c7685f5019f/clt1/va02/disneyplus/event/2025/10/05/Rolex_Shanghai_Masters_Co_20251005_1759631425028/ctr-all-hdri-complete.m3u8?v=1&hash=3c57473968f01f485c1c250532f22a0d2b975f10",
-    "k1": "7a770f25c1aa49a8a1f1164084238b77",
-    "k2": "fa6f53413ac3e44c0714ae51126f92d5"
-  },
-  {
     "title": "WTA China Open / Capital Group Diamond (Doubles Final)",
     "league": "WTA",
     "fecha-evento": "2025-10-05T03:30:33-05:00",
@@ -90,12 +77,15 @@
   {
     "title": "India vs. Pakistan",
     "league": "ESPN",
-    "fecha-evento": "2025-10-05T04:00:00-05:00",
+    "fecha-evento": "2025-10-05T04:00:07-05:00",
     "img": "3f924cb0-3281-456f-a3ad-22f42fb18e6b",
-    "nombre": "disneyd3fa9e",
+    "nombre": "disneyabd361",
     "status": "04:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 450,
+    "play_url": "https://www.disneyplus.com/es-es/play/5d2af967-3810-45da-8a5f-57635519674d",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759742419~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F05%2FIndia_vs_Pakistan_20251005_1759650096437%2F~psid=066e0b67-2d8d-4acb-8d9c-e8242fea946f~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=895d71eca21e62a2bdc870bede761cbe669ac7cfc0ef0a65d140d365edf36319/clt1/va02/disneyplus/event/2025/10/05/India_vs_Pakistan_20251005_1759650096437/ctr-all-hdri-complete.m3u8?v=1&hash=1a8f2d0a3c7cb179f29fd1740beabeb4a7751072",
+    "k1": "3647d6cc8cfb4619ae09061abad0bdd4",
+    "k2": "096c4bcf0d6a4d93e04af479b5227d70"
   },
   {
     "title": "Udinese vs. Cagliari",
@@ -623,6 +613,16 @@
     "fecha-evento": "2025-10-05T12:00:00-05:00",
     "img": "2e7119de-e020-49ef-a8fe-6479ed04f84c",
     "nombre": "disney45bf66",
+    "status": "12:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Dallas Cowboys vs. New York Jets",
+    "league": "NFL",
+    "fecha-evento": "2025-10-05T12:00:00-05:00",
+    "img": "c35c7a50-1241-48db-b0a4-91a130d2fa71",
+    "nombre": "disney21e84b",
     "status": "12:00",
     "duration": 135,
     "play_url": ""
