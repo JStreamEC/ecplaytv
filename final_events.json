@@ -33,19 +33,6 @@
     "k2": "e1a6c27708a308e2bcd79dc7d2032159"
   },
   {
-    "title": "Arizona State vs. West Virginia",
-    "league": "Fútbol Femenino NCAA",
-    "fecha-evento": "2025-10-05T11:00:00-05:00",
-    "img": "068e1d93-b9fc-445d-bcb6-86fc6f434fa9",
-    "nombre": "disney9ba698",
-    "status": "11:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/9b160521-686f-4d73-b7b1-c3a55e8c8676",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759766505~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F05%2FArizona_State_vs_West_Vir_20251005_1759672817038%2F~psid=dfc29ba7-a6a4-4cc3-990d-cae91b7c2a59~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=bbacddd2c657da8a072f8502be095182644e6b8d368dfe894140db9a9a1c7d5f/clt1/va02/disneyplus/event/2025/10/05/Arizona_State_vs_West_Vir_20251005_1759672817038/ctr-all-hdri-complete.m3u8?v=1&hash=cf2e3a22032ce93fe352b0757c008906e33a8a45",
-    "k1": "bb599c4172794920a75704a05c6ba4a3",
-    "k2": "ba29486044f55643275542b42f917c07"
-  },
-  {
     "title": "Espanyol vs. Betis",
     "league": "LALIGA",
     "fecha-evento": "2025-10-05T11:20:00-05:00",
@@ -209,7 +196,10 @@
     "nombre": "disneyf8e489",
     "status": "13:15",
     "duration": 135,
-    "play_url": ""
+    "play_url": "https://www.disneyplus.com/es-es/play/8765ecd8-c13c-4124-a2a2-d47371dce56b",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759774818~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F05%2FRacing_vs_Plaza_Colonia_20251005_1759680928038%2F~psid=bdcdef01-004b-46f6-8870-156396ddd51e~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=0238bfe450472e46ed855b2a47a02ee0b39478c2e1ba3641a7027f3c689116de/clt1/va02/disneyplus/event/2025/10/05/Racing_vs_Plaza_Colonia_20251005_1759680928038/ctr-all-hdri-complete.m3u8?v=1&hash=bf136155b72e27162990376639a951e87ac2de76",
+    "k1": "83f646d294ed45889f4418c138f65c31",
+    "k2": "4b2de25698d1cbeb5b7b5ecddfda0561"
   },
   {
     "title": "Hurling vs. San Fernando (B)",
@@ -617,6 +607,16 @@
     "fecha-evento": "2025-10-06T22:00:00-05:00",
     "img": "0c718e90-9f88-42cf-af88-5c111610d803",
     "nombre": "disney0587fc",
+    "status": "22:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Dongfeng Voyah · Wuhan Open (First & Second Round)",
+    "league": "WTA",
+    "fecha-evento": "2025-10-06T22:00:00-05:00",
+    "img": "12509649-6e25-451b-882e-e7270e2da81c",
+    "nombre": "disney0d6769",
     "status": "22:00",
     "duration": 135,
     "play_url": ""
