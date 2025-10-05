@@ -98,19 +98,6 @@
     "k2": "50da3aaddef27d0543dd5f245b0f403f"
   },
   {
-    "title": "Feyenoord vs. FC Utrecht (Fecha #8)",
-    "league": "Eredivisie",
-    "fecha-evento": "2025-10-05T07:20:00-05:00",
-    "img": "8d8e5efe-c0d1-4188-8e8d-f0f175d0df16",
-    "nombre": "disneyb30bae",
-    "status": "07:20",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/89ce48eb-1b4b-42ab-a80b-6d2c6db7fb98",
-    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759756498~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Fec26a05e-a9cc-4db4-804e-77465738e667-1759408066139%2F~psid=f2d4ff0f-fd10-459c-9619-9a843705d44e~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=5796c94646bfeb60803e7cbb4572a230385b97c5ddcdb4e7633a955bbf4edfca/clt1/va02/disneyplus/channel/ec26a05e-a9cc-4db4-804e-77465738e667-1759408066139/ctr-all-sliding-alt1.m3u8?v=1&hash=f49ea62fa7410074aaa3483f688cb1f35dfe9b3b",
-    "k1": "1e99b0431fd349e1a579e4914ca78482",
-    "k2": "e1beec2e2b5c3196f6b2c265ee345e0d"
-  },
-  {
     "title": "Everton vs. Crystal Palace",
     "league": "Premier League",
     "fecha-evento": "2025-10-05T07:40:03-05:00",
@@ -241,16 +228,6 @@
     "k2": "201127059f1dffbdc8df03ecfcd23139"
   },
   {
-    "title": "Qatar Prix de l'Arc de Triomphe",
-    "league": "ESPN",
-    "fecha-evento": "2025-10-05T08:30:01-05:00",
-    "img": "08f1609e-2302-4758-9a02-ccc5371c642e",
-    "nombre": "disney90c264",
-    "status": "08:30",
-    "duration": 60,
-    "play_url": "https://www.disneyplus.com/es-es/play/6939fcff-8a00-4a68-97af-2067f97aaa88"
-  },
-  {
     "title": "Gloucester Rugby vs. Northampton Saints (Ronda #2)",
     "league": "Premiership",
     "fecha-evento": "2025-10-05T08:55:00-05:00",
@@ -292,12 +269,15 @@
   {
     "title": "Telstar vs. AZ (Fecha #8)",
     "league": "Eredivisie",
-    "fecha-evento": "2025-10-05T09:30:00-05:00",
+    "fecha-evento": "2025-10-05T09:30:06-05:00",
     "img": "83735fad-6c1a-49b8-9e3c-df852f5a16d9",
-    "nombre": "disney0e8055",
+    "nombre": "disneyda9bb0",
     "status": "09:30",
     "duration": 135,
-    "play_url": ""
+    "play_url": "https://www.disneyplus.com/es-es/play/5513a099-c27f-45d3-8696-f1b8a5230590",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759761618~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F05%2FTelstar_vs_AZ_Fecha_8_20251005_1759667414037%2F~psid=419d0ac6-c605-48d4-91ec-f453f30aa344~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=ce08f6bc4eacd2b6e5fbe5326596c6c3de8e8af28a304da7ab4d60d17dfb302b/clt1/va02/disneyplus/event/2025/10/05/Telstar_vs_AZ_Fecha_8_20251005_1759667414037/ctr-all-hdri-complete.m3u8?v=1&hash=34f896346cd46cf4c3df3742e5c9f44478144103",
+    "k1": "1aafd8ccf7c44aa3bfb68983e66bd76c",
+    "k2": "f61de406e3ca34d879303f91a0fca0f0"
   },
   {
     "title": "Compacto | F1 GP Singapur | Carrera (3 min)",
@@ -676,6 +656,26 @@
     "img": "12015444-1895-4aa4-ac46-bb43c764358e",
     "nombre": "disney94fab8",
     "status": "16:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "#6 Louisville vs. #4 Stanford",
+    "league": "NCAA Women's Volleyball",
+    "fecha-evento": "2025-10-05T16:00:00-05:00",
+    "img": "0a1dcdd7-6ec6-4082-8222-b848ccd31974",
+    "nombre": "disney131840",
+    "status": "16:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Boca Juniors vs. Newell's Old Boys",
+    "league": "Liga Profesional de Fútbol",
+    "fecha-evento": "2025-10-05T16:45:00-05:00",
+    "img": "629afe60-751b-4bf0-854b-21e91b24e2bd",
+    "nombre": "disneyd718be",
+    "status": "16:45",
     "duration": 135,
     "play_url": ""
   }
