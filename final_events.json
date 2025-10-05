@@ -127,19 +127,6 @@
     "k2": "caba54392c55340a6ba7cb10f45c02da"
   },
   {
-    "title": "MotoGP Asia Talent Cup - Grand Prix of Indonesia (Carrera 2)",
-    "league": "MotoGP",
-    "fecha-evento": "2025-10-04T20:35:00-05:00",
-    "img": "ab54444e-96e1-42ed-a13a-7537f2968bfc",
-    "nombre": "disneyc4ba1c",
-    "status": "20:35",
-    "duration": 55,
-    "play_url": "https://www.disneyplus.com/es-es/play/d2a672c2-6a97-4733-8187-3a72fd9eb57d",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759714818~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F05%2FMotoGP_Asia_Talent_Cup_Gr_20251005_1759620941027%2F~psid=7a911a31-81db-482e-acef-8ba62c2c0961~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=78cdf437ada3249397a13ce601e125475afe423bf23d5255b87101c02a1b2e20/clt1/va02/disneyplus/event/2025/10/05/MotoGP_Asia_Talent_Cup_Gr_20251005_1759620941027/ctr-all-hdri-complete.m3u8?v=1&hash=ca3bb2670db0c17e8b43d370c65718278c9f4a8e",
-    "k1": "2cf9c83572be4f32919161273aa1d5c5",
-    "k2": "156bf4f7dddc969e3b04ad0e9e22852c"
-  },
-  {
     "title": "Saint Mary's vs. #19 Oregon State",
     "league": "Fútbol Masculino NCAA",
     "fecha-evento": "2025-10-04T21:00:03-05:00",
@@ -198,8 +185,11 @@
     "img": "2e3ac366-c817-4bbb-b688-f32f4f2893e6",
     "nombre": "disney85b568",
     "status": "21:30",
-    "duration": 135,
-    "play_url": ""
+    "duration": 180,
+    "play_url": "https://www.disneyplus.com/es-es/play/561c4856-21d5-4076-b171-c3d896293f18",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1759718419~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F05%2FEn_EspaolDuke_vs_Californ_20251005_1759624243036%2F~psid=842c9855-1586-4162-a7b4-56960735fd97~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=4f8df7e8410d587441e947b41ebf515f6fc30c017c5783680ab4532f57ce8975/clt1/va02/disneyplus/event/2025/10/05/En_EspaolDuke_vs_Californ_20251005_1759624243036/ctr-all-hdri-complete.m3u8?v=1&hash=3f1993e71e4fe84f2405ad5080d846c84d829750",
+    "k1": "39710361771047f0ba72b68ef389ff65",
+    "k2": "cd52501f77ec6594a6a98e36ee229f20"
   },
   {
     "title": "Canterbury vs. Taranaki (Fecha #10)",
@@ -658,6 +648,16 @@
     "img": "32b10095-0c9b-4020-9b25-5a26f29a0e4b",
     "nombre": "disney88f6eb",
     "status": "09:55",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Compacto | F1 GP Singapur | Carrera (30 min)",
+    "league": "Fórmula 1",
+    "fecha-evento": "2025-10-05T10:00:00-05:00",
+    "img": "cb4dd526-8ecf-4b33-84af-2a6fce315492",
+    "nombre": "disney1450f4",
+    "status": "10:00",
     "duration": 135,
     "play_url": ""
   }
