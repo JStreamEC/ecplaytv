@@ -10,19 +10,6 @@
     "play_url": ""
   },
   {
-    "title": "Texas State vs. Arkansas State",
-    "league": "Fútbol Americano NCAA",
-    "fecha-evento": "2025-10-04T15:00:04-05:00",
-    "img": "32797aa0-1b1e-4b88-8f8e-3355004d092c",
-    "nombre": "disneyddc45e",
-    "status": "15:00",
-    "duration": 180,
-    "play_url": "https://www.disneyplus.com/es-es/play/9917458a-cfdf-4f00-b748-0f069eb2311d",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1759695729~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F04%2FTexas_State_vs_Arkansas_S_20251004_1759603472443%2F~psid=a2a90574-bec2-4b2b-a49d-8eb90840c358~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=f38726fce18fff8841a023d06c83a108f5afce04c4081b76beaf62366bd4c895/clt1/va02/disneyplus/event/2025/10/04/Texas_State_vs_Arkansas_S_20251004_1759603472443/ctr-all-hdri-complete.m3u8?v=1&hash=dfa4e21a82b18af2500747ef44baa9a198fcba19",
-    "k1": "0f3d346df32f4762ab4bec4227b6b672",
-    "k2": "9269332e3686fa64c2af8c2968ac768a"
-  },
-  {
     "title": "Huracán vs. Banfield",
     "league": "Liga Profesional de Fútbol",
     "fecha-evento": "2025-10-04T16:45:03-05:00",
@@ -309,19 +296,6 @@
     "k2": "276eb955c27be03442ef6f892e9b6021"
   },
   {
-    "title": "Mississippi State vs. #6 Texas A&M",
-    "league": "Fútbol Americano NCAA",
-    "fecha-evento": "2025-10-04T18:30:00-05:00",
-    "img": "03d6268c-8392-4dd0-8f91-f3612f4fffd6",
-    "nombre": "disneyd4f479",
-    "status": "18:30",
-    "duration": 180,
-    "play_url": "https://www.disneyplus.com/es-es/play/e8cb4e47-d0e1-48ac-81be-3520cd0fc5db",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759707706~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F04%2FMississippi_State_vs_6_Te_20251004_1759613431034%2F~psid=f3992b49-7db0-464b-9b1b-67ec6ce867db~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=9ea63589ef3e9e529ec6a1b5ccba310776b2fadcec48de2a852490d94f78b888/clt1/va02/disneyplus/event/2025/10/04/Mississippi_State_vs_6_Te_20251004_1759613431034/ctr-all-hdri-complete.m3u8?v=1&hash=fc841a2ab95300a457d767f165389fd1d40c3276",
-    "k1": "6b1773d276124d0199535aef47836daa",
-    "k2": "cfeabe6ba08d92228faf182d3b022f80"
-  },
-  {
     "title": "Tampa Bay Sun vs. Fort Lauderdale United",
     "league": "USL Super League",
     "fecha-evento": "2025-10-04T18:30:01-05:00",
@@ -359,6 +333,19 @@
     "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1759707777~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F04%2FTampa_Bay_Rowdies_vs_Mont_20251004_1759613430031%2F~psid=8bfdd42d-958c-48c6-965c-b998f46a2e40~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=d04aaa463faab5873a3b3b03c296f4c28aabe900ec7c01d38f549f5a95c3eee0/clt1/va02/disneyplus/event/2025/10/04/Tampa_Bay_Rowdies_vs_Mont_20251004_1759613430031/ctr-all-hdri-complete.m3u8?v=1&hash=e02bdb913fdb417e598683f0e56cd334f032078c",
     "k1": "e0488115f9ce42b3948ca8f100c6a423",
     "k2": "eaf938335b4b1527929f7b11d0519a62"
+  },
+  {
+    "title": "Mississippi State vs. #6 Texas A&M",
+    "league": "Fútbol Americano NCAA",
+    "fecha-evento": "2025-10-04T18:30:00-05:00",
+    "img": "03d6268c-8392-4dd0-8f91-f3612f4fffd6",
+    "nombre": "disneyd4f479",
+    "status": "18:30",
+    "duration": 180,
+    "play_url": "https://www.disneyplus.com/es-es/play/e8cb4e47-d0e1-48ac-81be-3520cd0fc5db",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759707706~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F04%2FMississippi_State_vs_6_Te_20251004_1759613431034%2F~psid=f3992b49-7db0-464b-9b1b-67ec6ce867db~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=9ea63589ef3e9e529ec6a1b5ccba310776b2fadcec48de2a852490d94f78b888/clt1/va02/disneyplus/event/2025/10/04/Mississippi_State_vs_6_Te_20251004_1759613431034/ctr-all-hdri-complete.m3u8?v=1&hash=fc841a2ab95300a457d767f165389fd1d40c3276",
+    "k1": "6b1773d276124d0199535aef47836daa",
+    "k2": "cfeabe6ba08d92228faf182d3b022f80"
   },
   {
     "title": "FC Tulsa vs. Lexington Sporting Club",
@@ -676,6 +663,16 @@
     "fecha-evento": "2025-10-05T05:50:00-05:00",
     "img": "36d7723a-7d35-47dc-96a0-f44b0ea242fb",
     "nombre": "disney16c4dd",
+    "status": "05:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Ipswich Town vs. Norwich City",
+    "league": "Championship de Inglaterra",
+    "fecha-evento": "2025-10-05T05:50:00-05:00",
+    "img": "7f701b99-1b5f-4128-b4a5-dad1b04c677b",
+    "nombre": "disney876073",
     "status": "05:50",
     "duration": 135,
     "play_url": ""
