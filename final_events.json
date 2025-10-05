@@ -46,19 +46,6 @@
     "k2": "201127059f1dffbdc8df03ecfcd23139"
   },
   {
-    "title": "Breeders' Cup Challenge Series: Fall Stars Weekend",
-    "league": "ESPN",
-    "fecha-evento": "2025-10-05T15:00:00-05:00",
-    "img": "6926396d-b304-428c-b585-ee1d22af3670",
-    "nombre": "disneyb0d063",
-    "status": "15:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/0900567f-6857-4e31-bed1-a67793bcd6ae",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759782019~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F05%2FBreeders_Cup_Challenge_Se_20251005_1759687221038%2F~psid=c43b74cb-854d-40fd-8f3f-cd458c9838ff~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=a891f56f738ad7c07048597d80964c7e9cb4cff214dcdef20fe284f90588e075/clt1/va02/disneyplus/event/2025/10/05/Breeders_Cup_Challenge_Se_20251005_1759687221038/ctr-all-hdri-complete.m3u8?v=1&hash=88dbadb062c476c1df9094ab33b87bcb200d1b6e",
-    "k1": "7517861fd6aa4d45b3d2bd20b3a20f83",
-    "k2": "707c5be6f559a6a6ce68c03a4a70e243"
-  },
-  {
     "title": "New York Yankees vs. Toronto Blue Jays (ALDS, Game 2)",
     "league": "MLB",
     "fecha-evento": "2025-10-05T15:00:12-05:00",
@@ -310,7 +297,7 @@
     "title": "Rolex Shanghai Masters (Third Round)",
     "league": "ATP",
     "fecha-evento": "2025-10-06T05:30:00-05:00",
-    "img": "240e0d5b-2e6d-4bfc-acfc-70da62698664",
+    "img": "ea936c06-187a-4a8a-97ac-7a401b7aadf4",
     "nombre": "disneyee87f9",
     "status": "05:30",
     "duration": 135,
@@ -512,6 +499,16 @@
     "fecha-evento": "2025-10-07T18:00:00-05:00",
     "img": "977c2e96-02ac-4f07-8efa-e240813b3cc6",
     "nombre": "disney30d570",
+    "status": "18:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Toronto Blue Jays vs. New York Yankees (ALDS, Game 3)",
+    "league": "MLB",
+    "fecha-evento": "2025-10-07T18:00:00-05:00",
+    "img": "2ee9054e-d8b0-4dc4-9409-26c24889d498",
+    "nombre": "disneyfddda4",
     "status": "18:00",
     "duration": 135,
     "play_url": ""
