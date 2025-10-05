@@ -10,19 +10,6 @@
     "play_url": ""
   },
   {
-    "title": "UFC 320 | Magomed Ankalaev vs. Alex Pereira | ESPN KO",
-    "league": "UFC",
-    "fecha-evento": "2025-10-04T17:00:08-05:00",
-    "img": "1f8ce20e-f927-4573-8a01-4b125c6e5911",
-    "nombre": "disney557dbd",
-    "status": "17:00",
-    "duration": 420,
-    "play_url": "https://www.disneyplus.com/es-es/play/f8c288d6-e41e-4b4d-9a64-f2a0b986af1b",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1759702952~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F04%2FUFC_320_Magomed_Ankalaev__20251004_1759608044035%2F~psid=2feb1f82-ae3f-44cb-84c6-05d87ff30d36~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=de52adb7e4231afe9c580473ee28125ad77b2b4455253b3c708b30faddbea7d6/clt1/va02/disneyplus/event/2025/10/04/UFC_320_Magomed_Ankalaev__20251004_1759608044035/ctr-all-hdri-complete.m3u8?v=1&hash=ae0eeec8a5ced40416712d6dafaf6ec265b371eb",
-    "k1": "af591a0d1e964e0290a537eab237f70c",
-    "k2": "3a56b0facc8aa225dfe4c1f26d486da9"
-  },
-  {
     "title": "Angel Fierro vs. Abraham Cordero | ESPN KO",
     "league": "ESPN",
     "fecha-evento": "2025-10-04T21:00:00-05:00",
@@ -636,6 +623,16 @@
     "img": "068e1d93-b9fc-445d-bcb6-86fc6f434fa9",
     "nombre": "disney9ba698",
     "status": "11:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Espanyol vs. Betis",
+    "league": "LALIGA",
+    "fecha-evento": "2025-10-05T11:20:00-05:00",
+    "img": "5f1ad933-47ae-4cac-adb9-084e59679510",
+    "nombre": "disney677b52",
+    "status": "11:20",
     "duration": 135,
     "play_url": ""
   }
