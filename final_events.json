@@ -10,19 +10,6 @@
     "play_url": ""
   },
   {
-    "title": "MotoGP - Race - Pertamina Grand Prix of Indonesia",
-    "league": "MotoGP",
-    "fecha-evento": "2025-10-04T22:45:00-05:00",
-    "img": "3e8cd2d5-044c-4d20-9d87-0ab446e6fd9d",
-    "nombre": "disneyc03fc2",
-    "status": "22:45",
-    "duration": 270,
-    "play_url": "https://www.disneyplus.com/es-es/play/111e7775-6844-4cd3-a05b-cf02dfb5f394",
-    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759723217~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F921e1311-bb26-43dd-84a6-9e2284959712-1759409855938%2F~psid=17cc637d-2415-4056-b647-c62d6c89e361~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=6a30f45ab86eda842a697bfa845c35e3dfa7511238d8b19724c4473349ae1fa3/clt1/va02/disneyplus/channel/921e1311-bb26-43dd-84a6-9e2284959712-1759409855938/ctr-all-sliding-alt1.m3u8?v=1&hash=e50ddd99727af0a2947bb1b84904b1697e8043f8",
-    "k1": "61cb0be4acde4399a0d17a74d31e148e",
-    "k2": "a45a9ae96ceaeb395d069fa24aed0067"
-  },
-  {
     "title": "Rolex Shanghai Masters / Grandstand 2",
     "league": "ATP",
     "fecha-evento": "2025-10-04T23:30:01-05:00",
@@ -86,19 +73,6 @@
     "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759725661~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F05%2FRolex_Shanghai_Masters_Co_20251005_1759631425028%2F~psid=25f3d39a-cb63-4db7-b36a-d81906a858c3~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=53cc2cdcc1b5fb23d8d7b962c38af0111f851f474b29767ffabd6c7685f5019f/clt1/va02/disneyplus/event/2025/10/05/Rolex_Shanghai_Masters_Co_20251005_1759631425028/ctr-all-hdri-complete.m3u8?v=1&hash=3c57473968f01f485c1c250532f22a0d2b975f10",
     "k1": "7a770f25c1aa49a8a1f1164084238b77",
     "k2": "fa6f53413ac3e44c0714ae51126f92d5"
-  },
-  {
-    "title": "F1 Academy: GP Singapur | Carrera #2",
-    "league": "F1 Academy",
-    "fecha-evento": "2025-10-05T02:20:00-05:00",
-    "img": "68fd835a-6405-49ca-bf1d-bb4f0aecaad3",
-    "nombre": "disneyddf020",
-    "status": "02:20",
-    "duration": 45,
-    "play_url": "https://www.disneyplus.com/es-es/play/0a3b6e38-2a0f-4a20-87f7-87ad0690b70d",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1759735219~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F05%2FF1_Academy_GP_Singapur_Ca_20251005_1759641642039%2F~psid=e3cc7cef-3370-4937-9675-a13308ec7b89~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=9abae71c60ff747c48430f997fdb7f939cab59cfd0fbe01761b06b93df963245/clt1/va02/disneyplus/event/2025/10/05/F1_Academy_GP_Singapur_Ca_20251005_1759641642039/ctr-all-hdri-complete.m3u8?v=1&hash=ce75fde7909e8e0277e7a565e7c5469c21838ffc",
-    "k1": "618d0a1f35ec400ca3ee96c7ad0dd545",
-    "k2": "b1006045db0034c88fcde279842044ae"
   },
   {
     "title": "WTA China Open / Capital Group Diamond (Doubles Final)",
@@ -627,6 +601,26 @@
     "img": "9c0b3d62-516b-4b92-acc8-67d547a8b3b8",
     "nombre": "disney47b385",
     "status": "11:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Goztepe vs. Istanbul Basaksehir",
+    "league": "Super Lig de Turquía",
+    "fecha-evento": "2025-10-05T11:55:00-05:00",
+    "img": "676f2ffc-af25-4e68-bdd1-827cf4caf6eb",
+    "nombre": "disneyf14581",
+    "status": "11:55",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Washington Spirit vs. San Diego Wave FC",
+    "league": "NWSL",
+    "fecha-evento": "2025-10-05T12:00:00-05:00",
+    "img": "2e7119de-e020-49ef-a8fe-6479ed04f84c",
+    "nombre": "disney45bf66",
+    "status": "12:00",
     "duration": 135,
     "play_url": ""
   }
