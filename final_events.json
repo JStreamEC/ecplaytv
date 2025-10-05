@@ -85,19 +85,6 @@
     "k2": "201127059f1dffbdc8df03ecfcd23139"
   },
   {
-    "title": "Gloucester Rugby vs. Northampton Saints (Ronda #2)",
-    "league": "Premiership",
-    "fecha-evento": "2025-10-05T08:55:00-05:00",
-    "img": "2a5e714e-ca93-47ca-8a30-82d1f2b54a6f",
-    "nombre": "disney71ec9c",
-    "status": "08:55",
-    "duration": 125,
-    "play_url": "https://www.disneyplus.com/es-es/play/54f2f28a-0b94-403b-afe4-addd08dd1846",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759759262~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F05%2FGloucester_Rugby_vs_North_20251005_1759665315030%2F~psid=209c58c6-f227-422e-a58b-f67d1eb17c4d~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=666a861114a6323463d877b49b3681d7b3dea14ecce574e5b5a4bdd2093bc4c5/clt1/va02/disneyplus/event/2025/10/05/Gloucester_Rugby_vs_North_20251005_1759665315030/ctr-all-hdri-complete.m3u8?v=1&hash=d49364368082648ca89a9585d4730303f764ba6e",
-    "k1": "4437e61abfe346d88491045904190ce5",
-    "k2": "a82fb56a02000f25fbb3a2ff8662856b"
-  },
-  {
     "title": "Premier Padel: Rotterdam - Centre Court (Finales)",
     "league": "Premier Padel",
     "fecha-evento": "2025-10-05T09:00:00-05:00",
@@ -286,8 +273,11 @@
     "img": "5f1ad933-47ae-4cac-adb9-084e59679510",
     "nombre": "disney677b52",
     "status": "11:20",
-    "duration": 135,
-    "play_url": ""
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/89827314-4506-45aa-b6b3-e7bcc654f58b",
+    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1759767618~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Ff25bdf06-81c9-4a7c-b128-3128d610ad17-1759409600195%2F~psid=3e3c927b-4516-48b5-bf8d-33c9b561b0de~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=67d983b9f7cc587cb1408c2bed665a9ed69ef0218effc0103adaa7d3d52f6868/clt1/va02/disneyplus/channel/f25bdf06-81c9-4a7c-b128-3128d610ad17-1759409600195/ctr-all-sliding-alt1.m3u8?v=1&hash=4daaff4fdbe476e51bcd350032d73b0e9d85df99",
+    "k1": "8fd01421673d4961ad73b148b4a05ef5",
+    "k2": "58de737af88b6a6bfef7e10c7e106b88"
   },
   {
     "title": "Racing Santander vs. Malaga CF",
@@ -656,6 +646,16 @@
     "img": "2b56aa3b-e438-4396-8864-8632fb0f60d3",
     "nombre": "disneya7b2b4",
     "status": "22:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Rolex Shanghai Masters / Grandstand 2",
+    "league": "ATP",
+    "fecha-evento": "2025-10-05T23:30:00-05:00",
+    "img": "01fb5d62-c082-4ef8-9b11-4acb58016efc",
+    "nombre": "disneya631c8",
+    "status": "23:30",
     "duration": 135,
     "play_url": ""
   }
