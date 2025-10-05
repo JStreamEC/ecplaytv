@@ -10,19 +10,6 @@
     "play_url": ""
   },
   {
-    "title": "En Español-Duke vs. California",
-    "league": "Fútbol Americano NCAA",
-    "fecha-evento": "2025-10-04T21:30:00-05:00",
-    "img": "2e3ac366-c817-4bbb-b688-f32f4f2893e6",
-    "nombre": "disney85b568",
-    "status": "21:30",
-    "duration": 180,
-    "play_url": "https://www.disneyplus.com/es-es/play/561c4856-21d5-4076-b171-c3d896293f18",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1759718419~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F05%2FEn_EspaolDuke_vs_Californ_20251005_1759624243036%2F~psid=842c9855-1586-4162-a7b4-56960735fd97~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=4f8df7e8410d587441e947b41ebf515f6fc30c017c5783680ab4532f57ce8975/clt1/va02/disneyplus/event/2025/10/05/En_EspaolDuke_vs_Californ_20251005_1759624243036/ctr-all-hdri-complete.m3u8?v=1&hash=3f1993e71e4fe84f2405ad5080d846c84d829750",
-    "k1": "39710361771047f0ba72b68ef389ff65",
-    "k2": "cd52501f77ec6594a6a98e36ee229f20"
-  },
-  {
     "title": "MotoGP - Race - Pertamina Grand Prix of Indonesia",
     "league": "MotoGP",
     "fecha-evento": "2025-10-04T22:45:00-05:00",
@@ -627,6 +614,16 @@
     "img": "8e726b4e-280f-4c28-a181-b25dd2165332",
     "nombre": "disneyb12e38",
     "status": "11:25",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Samsunspor vs. Fenerbahce",
+    "league": "Super Lig de Turquía",
+    "fecha-evento": "2025-10-05T11:50:00-05:00",
+    "img": "9c0b3d62-516b-4b92-acc8-67d547a8b3b8",
+    "nombre": "disney47b385",
+    "status": "11:50",
     "duration": 135,
     "play_url": ""
   }
