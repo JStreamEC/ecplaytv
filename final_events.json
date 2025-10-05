@@ -33,32 +33,6 @@
     "k2": "e1a6c27708a308e2bcd79dc7d2032159"
   },
   {
-    "title": "Espanyol vs. Betis",
-    "league": "LALIGA",
-    "fecha-evento": "2025-10-05T11:20:00-05:00",
-    "img": "5f1ad933-47ae-4cac-adb9-084e59679510",
-    "nombre": "disney677b52",
-    "status": "11:20",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/89827314-4506-45aa-b6b3-e7bcc654f58b",
-    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1759767618~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Ff25bdf06-81c9-4a7c-b128-3128d610ad17-1759409600195%2F~psid=3e3c927b-4516-48b5-bf8d-33c9b561b0de~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=67d983b9f7cc587cb1408c2bed665a9ed69ef0218effc0103adaa7d3d52f6868/clt1/va02/disneyplus/channel/f25bdf06-81c9-4a7c-b128-3128d610ad17-1759409600195/ctr-all-sliding-alt1.m3u8?v=1&hash=4daaff4fdbe476e51bcd350032d73b0e9d85df99",
-    "k1": "8fd01421673d4961ad73b148b4a05ef5",
-    "k2": "58de737af88b6a6bfef7e10c7e106b88"
-  },
-  {
-    "title": "Racing Santander vs. Malaga CF",
-    "league": "Segunda División de España",
-    "fecha-evento": "2025-10-05T11:25:00-05:00",
-    "img": "8e726b4e-280f-4c28-a181-b25dd2165332",
-    "nombre": "disneyb12e38",
-    "status": "11:25",
-    "duration": 125,
-    "play_url": "https://www.disneyplus.com/es-es/play/f05487e0-0916-4758-9575-a6613192c7d5",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759768819~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F05%2FRacing_Santander_vs_Malag_20251005_1759674306039%2F~psid=ae0c5280-1301-4710-b393-26767feb5ba8~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=878f775c4d6e6c3dd3cb602b38a28d21a62b8d68742ee40538adfccb2b252e74/clt1/va02/disneyplus/event/2025/10/05/Racing_Santander_vs_Malag_20251005_1759674306039/ctr-all-hdri-complete.m3u8?v=1&hash=20c5d060bd82eba3983326105c5f6ec18d0c3651",
-    "k1": "619dc05424a94e958d536866cae31158",
-    "k2": "60277d31e0239d1010a1835407bbace9"
-  },
-  {
     "title": "Samsunspor vs. Fenerbahce",
     "league": "Super Lig de Turquía",
     "fecha-evento": "2025-10-05T11:50:00-05:00",
@@ -202,34 +176,43 @@
     "k2": "4b2de25698d1cbeb5b7b5ecddfda0561"
   },
   {
-    "title": "Hurling vs. San Fernando (B)",
-    "league": "Torneo Metropolitano de Hockey Masculino",
-    "fecha-evento": "2025-10-05T13:30:00-05:00",
-    "img": "2c268342-03c1-4650-ba68-058e4a728d46",
-    "nombre": "disney6a0f94",
-    "status": "13:30",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Juventus vs. Milan",
     "league": "Seria A",
     "fecha-evento": "2025-10-05T13:30:00-05:00",
     "img": "4dbbaaa0-5ce8-424a-b519-8ff0d2f44697",
     "nombre": "disneyd022a2",
     "status": "13:30",
-    "duration": 135,
-    "play_url": ""
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/667ec7bf-6edc-4a8d-8623-0079bcc51399",
+    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759776018~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F921e1311-bb26-43dd-84a6-9e2284959712-1759409855938%2F~psid=935b9c7f-94c9-4fdb-9f59-2e118554da3f~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=6e533940d04ceaa195d532dfff25c751f5ce1d653094cbd33c065184fcbdd751/clt1/va02/disneyplus/channel/921e1311-bb26-43dd-84a6-9e2284959712-1759409855938/ctr-all-sliding-alt1.m3u8?v=1&hash=e50ddd99727af0a2947bb1b84904b1697e8043f8",
+    "k1": "06011458cda44a32909fc56a1a0d5e72",
+    "k2": "b323744ba4f0df7bbc4974531fed59f0"
+  },
+  {
+    "title": "Hurling vs. San Fernando (B)",
+    "league": "Torneo Metropolitano de Hockey Masculino",
+    "fecha-evento": "2025-10-05T13:30:01-05:00",
+    "img": "2c268342-03c1-4650-ba68-058e4a728d46",
+    "nombre": "disney47189b",
+    "status": "13:30",
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/1ee97715-18fd-443e-8ea4-e2233216eaae",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759776062~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F05%2FHurling_vs_San_Fernando_B_20251005_1759681846027%2F~psid=ea46e75e-5533-410b-86e1-285c14d26787~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=85ef7ab998b033c67ed13be3e33822128baa530e8dc0d3fadf3661d461f865b2/clt1/va02/disneyplus/event/2025/10/05/Hurling_vs_San_Fernando_B_20251005_1759681846027/ctr-all-hdri-complete.m3u8?v=1&hash=f9016c8118d1aa036989adf88464a57433e70a2f",
+    "k1": "2f1cfe03ac7947edb350287415ba67ba",
+    "k2": "fd03c783108b433882e6b6ae0d4de4f7"
   },
   {
     "title": "Lille vs. PSG",
     "league": "Ligue 1",
-    "fecha-evento": "2025-10-05T13:30:00-05:00",
-    "img": "25fcbd74-1d4d-4d4f-a523-162a56bd02cc",
-    "nombre": "disneyd3b97e",
-    "status": "13:30",
-    "duration": 135,
-    "play_url": ""
+    "fecha-evento": "2025-10-05T13:36:37-05:00",
+    "img": "025b77dd-6424-4f3f-b691-b4d4fcccad9a",
+    "nombre": "disney8d9f59",
+    "status": "13:36",
+    "duration": 128,
+    "play_url": "https://www.disneyplus.com/es-es/play/ab002cff-fc51-4a35-96cb-4164986a2dce",
+    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1759776106~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Ff25bdf06-81c9-4a7c-b128-3128d610ad17-1759409600195%2F~psid=be455808-7651-4f4e-b0cd-4f3cccff7a37~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=42330cf429063793db4ee31f94e1f51f01b689c560bfbfd51221ff00ddb23d59/clt1/va02/disneyplus/channel/f25bdf06-81c9-4a7c-b128-3128d610ad17-1759409600195/ctr-all-sliding-alt1.m3u8?v=1&hash=4daaff4fdbe476e51bcd350032d73b0e9d85df99",
+    "k1": "8fd01421673d4961ad73b148b4a05ef5",
+    "k2": "58de737af88b6a6bfef7e10c7e106b88"
   },
   {
     "title": "Alabama vs. Missouri",
@@ -245,7 +228,7 @@
     "title": "En Español-Phoenix Mercury vs. Las Vegas Aces (Finals, Game 2)",
     "league": "WNBA",
     "fecha-evento": "2025-10-05T14:00:00-05:00",
-    "img": "f6b7f8e4-ad0a-4ae4-9e76-6e7304432d7e",
+    "img": "3016e724-3968-4004-8582-8303f69d2b21",
     "nombre": "disneye60c4f",
     "status": "14:00",
     "duration": 135,
@@ -617,6 +600,16 @@
     "fecha-evento": "2025-10-06T22:00:00-05:00",
     "img": "12509649-6e25-451b-882e-e7270e2da81c",
     "nombre": "disney0d6769",
+    "status": "22:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Dongfeng Voyah · Wuhan Open / Court 4 (Doubles)",
+    "league": "WTA",
+    "fecha-evento": "2025-10-06T22:00:00-05:00",
+    "img": "5edca8eb-d645-4d13-a656-e5e62a15e3bb",
+    "nombre": "disney417942",
     "status": "22:00",
     "duration": 135,
     "play_url": ""
