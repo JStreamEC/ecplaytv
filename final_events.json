@@ -36,19 +36,6 @@
     "k2": "cd52501f77ec6594a6a98e36ee229f20"
   },
   {
-    "title": "Canterbury vs. Taranaki (Fecha #10)",
-    "league": "National Provincial Championship",
-    "fecha-evento": "2025-10-04T22:30:02-05:00",
-    "img": "6891eb6a-1359-40ba-bd9e-7c3888eac0bb",
-    "nombre": "disneycba2f0",
-    "status": "22:30",
-    "duration": 125,
-    "play_url": "https://www.disneyplus.com/es-es/play/f0461f2c-149c-4ea7-b199-ff8724395e55",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759722019~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F05%2FCanterbury_vs_Taranaki_Fe_20251005_1759627811037%2F~psid=998ee1f2-f680-409f-b207-e0edeb41e8d9~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=5a12ad09df3fa975ac4827d8d2c4fd11e03e4867d365fceafc4dc7ad251a3b7b/clt1/va02/disneyplus/event/2025/10/05/Canterbury_vs_Taranaki_Fe_20251005_1759627811037/ctr-all-hdri-complete.m3u8?v=1&hash=7d9855ab3b54b403307e799af3e41af5093af8d8",
-    "k1": "48a7234fdd994f2c914e9d01b99b217f",
-    "k2": "acdf2151f6d98762fa96f1d445a628a2"
-  },
-  {
     "title": "MotoGP - Race - Pertamina Grand Prix of Indonesia",
     "league": "MotoGP",
     "fecha-evento": "2025-10-04T22:45:00-05:00",
@@ -633,6 +620,16 @@
     "img": "5f1ad933-47ae-4cac-adb9-084e59679510",
     "nombre": "disney677b52",
     "status": "11:20",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "La Ensenada III vs. La Irenita II | Torneo Clasificatorio a Palermo (Fecha #1)",
+    "league": "Abierto de Palermo",
+    "fecha-evento": "2025-10-05T11:25:00-05:00",
+    "img": "49d45b99-4ca3-402f-b8c3-d721090b8ace",
+    "nombre": "disneyade246",
+    "status": "11:25",
     "duration": 135,
     "play_url": ""
   }
