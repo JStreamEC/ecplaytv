@@ -85,19 +85,6 @@
     "k2": "a072df8e75893f003e4672df5972e999"
   },
   {
-    "title": "IWF Forde - Men 71",
-    "league": "IWF",
-    "fecha-evento": "2025-10-05T12:30:09-05:00",
-    "img": "69f7bf72-3912-4e0d-bc44-faa1aa2a8387",
-    "nombre": "disney37d2ae",
-    "status": "12:30",
-    "duration": 150,
-    "play_url": "https://www.disneyplus.com/es-es/play/3f22f32b-66df-4329-b4cb-2d6c44a30776",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759772599~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F05%2FIWF_Forde_Men_71_20251005_1759678203037%2F~psid=b9b2940f-2321-4482-8462-057ec759f831~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=52bfe4c63b8732d2ecca7aec38927b47991afb2fd9a6df6d133085b50d7e0bf8/clt1/va02/disneyplus/event/2025/10/05/IWF_Forde_Men_71_20251005_1759678203037/ctr-all-hdri-complete.m3u8?v=1&hash=811d5bef33e1775134befded40e2bb4b3faa1356",
-    "k1": "112c7fb85d3c41f086b4b0fd2c6e00f2",
-    "k2": "e8c8541c73d212f80601c65da56e70a5"
-  },
-  {
     "title": "Racing vs. Plaza Colonia",
     "league": "Campeonato Uruguayo",
     "fecha-evento": "2025-10-05T13:15:00-05:00",
@@ -565,6 +552,16 @@
     "img": "1dab1b78-83ec-4f64-a80f-be3521e99964",
     "nombre": "disney2dfb16",
     "status": "23:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "England vs. Bangladesh",
+    "league": "ESPN",
+    "fecha-evento": "2025-10-07T04:00:00-05:00",
+    "img": "3f924cb0-3281-456f-a3ad-22f42fb18e6b",
+    "nombre": "disneyafe422",
+    "status": "04:00",
     "duration": 135,
     "play_url": ""
   }
