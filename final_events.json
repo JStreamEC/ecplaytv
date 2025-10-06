@@ -1,18 +1,5 @@
 [
   {
-    "title": "Premier Padel: Milán - Secondary Court (Primera Ronda)",
-    "league": "Premier Padel",
-    "fecha-evento": "2025-10-06T02:00:07-05:00",
-    "img": "95238213-86ec-4819-a735-7edc9f252c76",
-    "nombre": "disney2bc67a",
-    "status": "02:00",
-    "duration": 645,
-    "play_url": "https://www.disneyplus.com/es-es/play/4dfa32f5-321c-48bb-986f-95617223bf1e",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759858830~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F06%2FPremier_Padel_Miln_Second_20251006_1759726854026%2F~psid=39e13bbc-078a-4324-8124-087fc57a3900~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=5de18811088a7139ec2fcc809e4e31cd421e2b34ae0c2b3cc930b7d4b956138e/clt1/va02/disneyplus/event/2025/10/06/Premier_Padel_Miln_Second_20251006_1759726854026/ctr-all-hdri-complete.m3u8?v=1&hash=20031affb1ebefdb4d3845b0a02ce8d37b745ea8",
-    "k1": "0864fe5bbfb840f8a62c25149f92b5a7",
-    "k2": "905d33dae16e74cc53aaed9a5d488c0b"
-  },
-  {
     "title": "Deportivo Riestra vs. Vélez Sarsfield",
     "league": "Liga Profesional de Fútbol",
     "fecha-evento": "2025-10-06T16:45:03-05:00",
@@ -161,6 +148,16 @@
     "img": "108c2758-4d0c-42f3-b831-2e250bf28d1c",
     "nombre": "disney2dfb16",
     "status": "23:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Premier Padel: Milán - Secondary Court (Primera Ronda)",
+    "league": "Premier Padel",
+    "fecha-evento": "2025-10-07T02:30:00-05:00",
+    "img": "271e16a9-76e6-4df2-b4ba-95165a034c64",
+    "nombre": "disney5c7fd4",
+    "status": "02:30",
     "duration": 135,
     "play_url": ""
   },
@@ -500,6 +497,16 @@
     "fecha-evento": "2025-10-08T18:00:00-05:00",
     "img": "d8917708-ee39-43c2-af57-9a150ca74c12",
     "nombre": "disney1cddf6",
+    "status": "18:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Montreal Canadiens vs. Toronto Maple Leafs",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-10-08T18:00:00-05:00",
+    "img": "1599b686-3bd3-4db4-b348-62057338fede",
+    "nombre": "disney0bcba6",
     "status": "18:00",
     "duration": 135,
     "play_url": ""
