@@ -54,12 +54,15 @@
   {
     "title": "Athletes Unlimited Pro Volleyball",
     "league": "Athletes Unlimited Volleyball",
-    "fecha-evento": "2025-10-06T17:30:00-05:00",
+    "fecha-evento": "2025-10-06T17:30:04-05:00",
     "img": "76906aae-9ea7-44cc-8f7c-c0d5e85b102f",
-    "nombre": "disney02f677",
+    "nombre": "disney4687d0",
     "status": "17:30",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/182a2b8c-80eb-486c-8cbc-732ce0e45ccd",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1759876819~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F06%2FAthletes_Unlimited_Pro_Vo_20251006_1759782602038%2F~psid=0553fcdc-414e-4ea9-b5b3-ea312fdaacf0~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=6d2af90049996e601a5c7274c9ecac306e701fd8d53431d7f04c2f1f948bcc93/clt1/va02/disneyplus/event/2025/10/06/Athletes_Unlimited_Pro_Vo_20251006_1759782602038/ctr-all-hdri-complete.m3u8?v=1&hash=7e0fc14addd21162770685cd18966e0239c840b7",
+    "k1": "578c86cbf25e4cb7bb0a340eafb6146f",
+    "k2": "3d0f9b66b45eef9318a577b2ce20cce8"
   },
   {
     "title": "Racing Club vs. Independiente Rivadavia de Mendoza",
@@ -362,6 +365,16 @@
     "play_url": ""
   },
   {
+    "title": "FC Twente Women vs. Chelsea",
+    "league": "UEFA Champions League femenina",
+    "fecha-evento": "2025-10-08T11:30:00-05:00",
+    "img": "49f18505-a857-402c-8065-64541cb89c2f",
+    "nombre": "disney739391",
+    "status": "11:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
     "title": "Real Madrid vs. Roma",
     "league": "UEFA Champions League femenina",
     "fecha-evento": "2025-10-08T11:30:00-05:00",
@@ -487,16 +500,6 @@
     "fecha-evento": "2025-10-08T18:00:00-05:00",
     "img": "d8917708-ee39-43c2-af57-9a150ca74c12",
     "nombre": "disney1cddf6",
-    "status": "18:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Montreal Canadiens vs. Toronto Maple Leafs",
-    "league": "National Hockey League",
-    "fecha-evento": "2025-10-08T18:00:00-05:00",
-    "img": "1599b686-3bd3-4db4-b348-62057338fede",
-    "nombre": "disney0bcba6",
     "status": "18:00",
     "duration": 135,
     "play_url": ""
