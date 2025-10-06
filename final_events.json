@@ -20,19 +20,6 @@
     "play_url": ""
   },
   {
-    "title": "NFL Redzone",
-    "league": "NFL",
-    "fecha-evento": "2025-10-05T12:00:00-05:00",
-    "img": "46b859dc-33d0-42a8-9651-7c408024d849",
-    "nombre": "disney4eec4e",
-    "status": "12:00",
-    "duration": 390,
-    "play_url": "https://www.disneyplus.com/es-es/play/f20b1c60-bb30-4871-9265-8074278f0072",
-    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759772529~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Fec26a05e-a9cc-4db4-804e-77465738e667-1759408066139%2F~psid=424eda9d-2c35-4fe3-b9c4-fe6a9e2e0e0a~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=1f4e0ab087a6d11b957a8872997974846e9707a8af34f92b204fe1898c9c8402/clt1/va02/disneyplus/channel/ec26a05e-a9cc-4db4-804e-77465738e667-1759408066139/ctr-all-sliding-alt1.m3u8?v=1&hash=f49ea62fa7410074aaa3483f688cb1f35dfe9b3b",
-    "k1": "1e99b0431fd349e1a579e4914ca78482",
-    "k2": "e1beec2e2b5c3196f6b2c265ee345e0d"
-  },
-  {
     "title": "Union Omaha vs. FC Naples",
     "league": "USL League One",
     "fecha-evento": "2025-10-05T16:00:00-05:00",
@@ -78,8 +65,11 @@
     "img": "4a5b49e3-94cd-4c04-8c77-03903c4bdbf8",
     "nombre": "disneye4c5eb",
     "status": "19:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 210,
+    "play_url": "https://www.disneyplus.com/es-es/play/20050f15-33ea-40da-b4d0-7f7c102fa74e",
+    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759795221~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Ff25bdf06-81c9-4a7c-b128-3128d610ad17-1759409600195%2F~psid=37aa207e-7d47-4cfb-b959-b62adb8b5fc1~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=1434f4494ce644ca84e4090a7fc96fff473a4f8d191a95cfef23624ec99f6c95/clt1/va02/disneyplus/channel/f25bdf06-81c9-4a7c-b128-3128d610ad17-1759409600195/ctr-all-sliding-alt1.m3u8?v=1&hash=4daaff4fdbe476e51bcd350032d73b0e9d85df99",
+    "k1": "8fd01421673d4961ad73b148b4a05ef5",
+    "k2": "58de737af88b6a6bfef7e10c7e106b88"
   },
   {
     "title": "Detroit Tigers vs. Seattle Mariners (ALDS, Game 2)",
@@ -94,12 +84,15 @@
   {
     "title": "Rosario Central vs. River Plate",
     "league": "Liga Profesional de Fútbol",
-    "fecha-evento": "2025-10-05T19:00:00-05:00",
+    "fecha-evento": "2025-10-05T18:58:00-05:00",
     "img": "17d3b5ad-ce28-4216-9d62-e40635ffa6f9",
-    "nombre": "disney2b783d",
-    "status": "19:00",
-    "duration": 135,
-    "play_url": ""
+    "nombre": "disney45121c",
+    "status": "18:58",
+    "duration": 132,
+    "play_url": "https://www.disneyplus.com/es-es/play/ca60eab3-198a-4964-a85d-5602b1bee701",
+    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1759795264~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F921e1311-bb26-43dd-84a6-9e2284959712-1759409855938%2F~psid=f0f9fe9d-84b9-4ce5-8db8-5c41f65a1e5c~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=fdadc7a0b570938ed0988fe015664c5a7f6bfab5e1e8dcf043993fcd11cce418/clt1/va02/disneyplus/channel/921e1311-bb26-43dd-84a6-9e2284959712-1759409855938/ctr-all-sliding-alt1.m3u8?v=1&hash=e50ddd99727af0a2947bb1b84904b1697e8043f8",
+    "k1": "06011458cda44a32909fc56a1a0d5e72",
+    "k2": "b323744ba4f0df7bbc4974531fed59f0"
   },
   {
     "title": "En Español-Los Angeles Lakers vs. Golden State Warriors",
