@@ -1,18 +1,5 @@
 [
   {
-    "title": "Racing Club vs. Independiente Rivadavia de Mendoza",
-    "league": "Liga Profesional de Fútbol",
-    "fecha-evento": "2025-10-06T18:50:09-05:00",
-    "img": "77b0d97b-d74b-411b-81ac-a1819870725b",
-    "nombre": "disney428f32",
-    "status": "18:50",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/75367410-86e3-488f-9f72-b1fd7ecf64af",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759881619~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F06%2FRacing_Club_vs_Independie_20251006_1759787405029%2F~psid=162ef7ce-0164-4a12-9a5a-a895e8fb99b8~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=d7f6f9e18858ac1caaa8aaa0286ce718a50d3fd9a2b5bb52da6d89bfa8bb3c72/clt1/va02/disneyplus/event/2025/10/06/Racing_Club_vs_Independie_20251006_1759787405029/ctr-all-hdri-complete.m3u8?v=1&hash=d654b2ba9d01cdf46d603cf157c1f2c9da691304",
-    "k1": "097c50d27ef84d279a147d7b556bd1a8",
-    "k2": "f12e02fa14b302a1465eb48d77a4294e"
-  },
-  {
     "title": "Kansas City Chiefs vs. Jacksonville Jaguars",
     "league": "NFL",
     "fecha-evento": "2025-10-06T19:00:00-05:00",
@@ -518,6 +505,16 @@
     "img": "411c931c-1604-4ff0-9b84-7124841b0a1f",
     "nombre": "disneye99551",
     "status": "19:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Philadelphia Phillies vs. Los Angeles Dodgers (NLDS, Game 3)",
+    "league": "MLB",
+    "fecha-evento": "2025-10-08T20:00:00-05:00",
+    "img": "56f64c48-bbf7-4aeb-a2a9-db70989ee9bc",
+    "nombre": "disneye0f167",
+    "status": "20:00",
     "duration": 135,
     "play_url": ""
   }
