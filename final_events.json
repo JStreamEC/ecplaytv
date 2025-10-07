@@ -13,19 +13,6 @@
     "k2": "3fa338e01f74838fc857174127a77512"
   },
   {
-    "title": "IWF Forde - Men 88",
-    "league": "IWF",
-    "fecha-evento": "2025-10-07T10:00:08-05:00",
-    "img": "69f7bf72-3912-4e0d-bc44-faa1aa2a8387",
-    "nombre": "disney5e2f05",
-    "status": "10:00",
-    "duration": 150,
-    "play_url": "https://www.disneyplus.com/es-es/play/5920b514-5752-4f35-a68f-40dcdd9dc6f7",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759939328~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F07%2FIWF_Forde_Men_88_20251007_1759842031038%2F~psid=38e75fa3-7b22-41e7-a264-0b87285acca7~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=1ff3e95c300c7336fbf358d9d906a384ded40c62dd69146d73728d6c7e46f94c/clt1/va02/disneyplus/event/2025/10/07/IWF_Forde_Men_88_20251007_1759842031038/ctr-all-hdri-complete.m3u8?v=1&hash=b5ff5f6634a46b262cac6431296256cf4b627583",
-    "k1": "eabd78b3792646b398c97cba8add975c",
-    "k2": "fe50dd332197f602c84188f35708b5f7"
-  },
-  {
     "title": "Premier Padel: Milán - Centre Court (Primera Ronda)",
     "league": "Premier Padel",
     "fecha-evento": "2025-10-07T11:00:01-05:00",
@@ -58,8 +45,11 @@
     "img": "69f7bf72-3912-4e0d-bc44-faa1aa2a8387",
     "nombre": "disney63dcf9",
     "status": "12:30",
-    "duration": 135,
-    "play_url": ""
+    "duration": 150,
+    "play_url": "https://www.disneyplus.com/es-es/play/96c09886-c0ca-4d7f-b350-e7c6f433f5a4",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759945219~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F07%2FIWF_Forde_Women_69_20251007_1759851025026%2F~psid=c597ef6d-94a8-4782-9cdb-074bff8acd78~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=38f39ff8ad4915a3cad27989ce1e30888ec0397601c6985a99e26fe93b723fd9/clt1/va02/disneyplus/event/2025/10/07/IWF_Forde_Women_69_20251007_1759851025026/ctr-all-hdri-complete.m3u8?v=1&hash=e62c85809077b33916631b0553a56b7e14838f74",
+    "k1": "b02e2347812b47aa9633fd9023c20afe",
+    "k2": "713692aae83a0cbfcec075a37c781678"
   },
   {
     "title": "Arsenal vs. OL Lyonnes",
@@ -548,6 +538,16 @@
     "img": "d0622b4a-4047-4f90-900c-f6178e7ea846",
     "nombre": "disney7f328f",
     "status": "04:15",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Wimbledon HC vs. Hamburger Polo Club",
+    "league": "European Hockey League - Men`s",
+    "fecha-evento": "2025-10-09T06:30:00-05:00",
+    "img": "8011799a-17c6-4293-b9ec-8afbe911ed3d",
+    "nombre": "disney588796",
+    "status": "06:30",
     "duration": 135,
     "play_url": ""
   }
