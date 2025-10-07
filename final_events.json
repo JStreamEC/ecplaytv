@@ -65,7 +65,7 @@
     "title": "Barcelona vs. Bayern Munich",
     "league": "UEFA Champions League femenina",
     "fecha-evento": "2025-10-07T13:40:00-05:00",
-    "img": "1caaa013-7686-4433-bda2-6b4305703808",
+    "img": "49f18505-a857-402c-8065-64541cb89c2f",
     "nombre": "disneyabfdcc",
     "status": "13:40",
     "duration": 135,
@@ -138,6 +138,16 @@
     "img": "2ee9054e-d8b0-4dc4-9409-26c24889d498",
     "nombre": "disney6b7276",
     "status": "19:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Colorado Avalanche vs. Los Angeles Kings",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-10-07T21:30:00-05:00",
+    "img": "19fdb4ee-148a-4287-a5b4-2d9de6938378",
+    "nombre": "disney2c83e7",
+    "status": "21:30",
     "duration": 135,
     "play_url": ""
   },
@@ -342,16 +352,6 @@
     "play_url": ""
   },
   {
-    "title": "Mount St. Mary's vs. Fairfield",
-    "league": "Fútbol Femenino NCAA",
-    "fecha-evento": "2025-10-08T18:00:00-05:00",
-    "img": "5f20bf3b-29af-4f7a-809c-d65436b92e83",
-    "nombre": "disneyc5c94d",
-    "status": "18:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Milwaukee Brewers vs. Chicago Cubs (NLDS, Game 3)",
     "league": "MLB",
     "fecha-evento": "2025-10-08T16:00:00-05:00",
@@ -397,6 +397,16 @@
     "fecha-evento": "2025-10-08T18:00:00-05:00",
     "img": "1599b686-3bd3-4db4-b348-62057338fede",
     "nombre": "disney0bcba6",
+    "status": "18:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Mount St. Mary's vs. Fairfield",
+    "league": "Fútbol Femenino NCAA",
+    "fecha-evento": "2025-10-08T18:00:00-05:00",
+    "img": "5f20bf3b-29af-4f7a-809c-d65436b92e83",
+    "nombre": "disneyc5c94d",
     "status": "18:00",
     "duration": 135,
     "play_url": ""
