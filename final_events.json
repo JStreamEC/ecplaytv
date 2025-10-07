@@ -1,18 +1,5 @@
 [
   {
-    "title": "Premier Padel: Milán - Centre Court (Primera Ronda)",
-    "league": "Premier Padel",
-    "fecha-evento": "2025-10-07T11:00:01-05:00",
-    "img": "06c4dd5c-9afe-4622-9a0e-328428cb96fe",
-    "nombre": "disney378dea",
-    "status": "11:00",
-    "duration": 270,
-    "play_url": "https://www.disneyplus.com/es-es/play/c3d54d73-9315-4fff-9d1c-9bbf8d2cea89",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759940418~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F07%2FPremier_Padel_Miln_Centre_20251007_1759845601053%2F~psid=f109d773-005b-4f4c-9b89-1082ffab31f8~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=98e409df445e1d633fcd0b8139457052d0b160dcaf5f3ac8850a3b952e64a3ed/clt1/va02/disneyplus/event/2025/10/07/Premier_Padel_Miln_Centre_20251007_1759845601053/ctr-all-hdri-complete.m3u8?v=1&hash=8c367f0069417e11b3bd8d1a21e859da69137439",
-    "k1": "04a59a1030394112986f009e257f2685",
-    "k2": "90357af05611ebe0bea94f748e71ee55"
-  },
-  {
     "title": "Seattle Mariners vs. Detroit Tigers (ALDS, Game 3)",
     "league": "MLB",
     "fecha-evento": "2025-10-07T15:00:00-05:00",
@@ -535,6 +522,16 @@
     "img": "d705d71e-9dc1-4978-8353-d1ce82e96599",
     "nombre": "disneyf8cc67",
     "status": "08:45",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "IWF Forde - Women 86",
+    "league": "IWF",
+    "fecha-evento": "2025-10-09T10:00:00-05:00",
+    "img": "69f7bf72-3912-4e0d-bc44-faa1aa2a8387",
+    "nombre": "disney32add7",
+    "status": "10:00",
     "duration": 135,
     "play_url": ""
   }
