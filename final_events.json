@@ -1,18 +1,5 @@
 [
   {
-    "title": "Los Angeles Dodgers vs. Philadelphia Phillies (NLDS, Game 2)",
-    "league": "MLB",
-    "fecha-evento": "2025-10-06T17:00:00-05:00",
-    "img": "b7e44c7c-36fb-4745-a21a-0c00c2029240",
-    "nombre": "disney01121d",
-    "status": "17:00",
-    "duration": 180,
-    "play_url": "https://www.disneyplus.com/es-es/play/25a2e53d-26e1-42ab-acb5-01b8931acdd6",
-    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1759875618~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Fbbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1759410188321%2F~psid=5ea00676-2b55-4028-90ee-51e37781cd4a~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=953e745d0bf4c9261cfcf0544436a362709cb8b3d1028dcb932b01b60581fdc4/clt1/va02/disneyplus/channel/bbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1759410188321/ctr-all-sliding-alt1.m3u8?v=1&hash=3f2beb7c737b132d1104736b95cd26c3f1914d57",
-    "k1": "1ec9cfa4a961443abfe6a4fee66b2a97",
-    "k2": "fcdba3418cf777185cbb999b55e17229"
-  },
-  {
     "title": "Racing Club vs. Independiente Rivadavia de Mendoza",
     "league": "Liga Profesional de Fútbol",
     "fecha-evento": "2025-10-06T18:50:09-05:00",
@@ -228,7 +215,7 @@
     "title": "Paris FC vs. OH Leuven",
     "league": "UEFA Champions League femenina",
     "fecha-evento": "2025-10-07T13:45:00-05:00",
-    "img": "1caaa013-7686-4433-bda2-6b4305703808",
+    "img": "49f18505-a857-402c-8065-64541cb89c2f",
     "nombre": "disneyf88962",
     "status": "13:45",
     "duration": 135,
@@ -521,6 +508,16 @@
     "img": "16bcbb4c-f9c3-4031-8392-b7a0feba762f",
     "nombre": "disney01760a",
     "status": "18:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "En Español-Las Vegas Aces vs. Phoenix Mercury (Finals, Game 3)",
+    "league": "WNBA",
+    "fecha-evento": "2025-10-08T19:00:00-05:00",
+    "img": "411c931c-1604-4ff0-9b84-7124841b0a1f",
+    "nombre": "disneye99551",
+    "status": "19:00",
     "duration": 135,
     "play_url": ""
   }
