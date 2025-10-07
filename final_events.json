@@ -1,31 +1,5 @@
 [
   {
-    "title": "Deportivo Riestra vs. Vélez Sarsfield",
-    "league": "Liga Profesional de Fútbol",
-    "fecha-evento": "2025-10-06T16:45:03-05:00",
-    "img": "f96b2bfe-521e-4d59-8ce1-1ebd062dd1eb",
-    "nombre": "disneyc8a50f",
-    "status": "16:45",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/381866d8-ed71-4aad-a157-58fe3b7187fd",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1759874418~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F06%2FDeportivo_Riestra_vs_Vlez_20251006_1759779929026%2F~psid=482a4d8a-9a02-4500-abf3-1db3b755b121~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=ad2d75fb0205d51e801724a576157f31e6d57837ae68c0603b7381d641347d01/clt1/va02/disneyplus/event/2025/10/06/Deportivo_Riestra_vs_Vlez_20251006_1759779929026/ctr-all-hdri-complete.m3u8?v=1&hash=8c44ab8c3088464119eaf4dca6963a4028e78414",
-    "k1": "3dcc2871b9d0479fa659490887601c1a",
-    "k2": "36160863b1a489a60d260b6318383ab4"
-  },
-  {
-    "title": "Defensor Sporting vs. Montevideo Wanderers",
-    "league": "Campeonato Uruguayo",
-    "fecha-evento": "2025-10-06T16:45:09-05:00",
-    "img": "0dccf68b-5b50-40cb-aef3-d3c9471bb9c4",
-    "nombre": "disney337978",
-    "status": "16:45",
-    "duration": 135,
-    "play_url": "https://www.disneyplus.com/es-es/play/43f9e29e-c713-4d2d-a3ab-60142a43ae73",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759874461~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F06%2FDefensor_Sporting_vs_Mont_20251006_1759779905038%2F~psid=63345096-1c97-44dc-9a25-2392f4b3bf76~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=e47c2b07a45d8f5b37d1e0209ce018befad976b635d50f1e34c3769fae550c82/clt1/va02/disneyplus/event/2025/10/06/Defensor_Sporting_vs_Mont_20251006_1759779905038/ctr-all-hdri-complete.m3u8?v=1&hash=49b61a56214a37aece76a3a9175ec184b2e47ee3",
-    "k1": "cc42ee74eade4323ab867bf441d7c899",
-    "k2": "230770eb5411a8a198eb30120a344ebe"
-  },
-  {
     "title": "Los Angeles Dodgers vs. Philadelphia Phillies (NLDS, Game 2)",
     "league": "MLB",
     "fecha-evento": "2025-10-06T17:00:00-05:00",
@@ -54,12 +28,15 @@
   {
     "title": "Racing Club vs. Independiente Rivadavia de Mendoza",
     "league": "Liga Profesional de Fútbol",
-    "fecha-evento": "2025-10-06T18:50:00-05:00",
+    "fecha-evento": "2025-10-06T18:50:09-05:00",
     "img": "77b0d97b-d74b-411b-81ac-a1819870725b",
-    "nombre": "disney0f2b4d",
+    "nombre": "disney428f32",
     "status": "18:50",
-    "duration": 135,
-    "play_url": ""
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/75367410-86e3-488f-9f72-b1fd7ecf64af",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759881619~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F06%2FRacing_Club_vs_Independie_20251006_1759787405029%2F~psid=162ef7ce-0164-4a12-9a5a-a895e8fb99b8~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=d7f6f9e18858ac1caaa8aaa0286ce718a50d3fd9a2b5bb52da6d89bfa8bb3c72/clt1/va02/disneyplus/event/2025/10/06/Racing_Club_vs_Independie_20251006_1759787405029/ctr-all-hdri-complete.m3u8?v=1&hash=d654b2ba9d01cdf46d603cf157c1f2c9da691304",
+    "k1": "097c50d27ef84d279a147d7b556bd1a8",
+    "k2": "f12e02fa14b302a1465eb48d77a4294e"
   },
   {
     "title": "Kansas City Chiefs vs. Jacksonville Jaguars",
@@ -425,7 +402,7 @@
     "title": "St. Pölten vs. Atletico Madrid",
     "league": "UEFA Champions League femenina",
     "fecha-evento": "2025-10-08T13:45:00-05:00",
-    "img": "49f18505-a857-402c-8065-64541cb89c2f",
+    "img": "1caaa013-7686-4433-bda2-6b4305703808",
     "nombre": "disneya1ca8d",
     "status": "13:45",
     "duration": 135,
@@ -508,6 +485,26 @@
     "img": "1599b686-3bd3-4db4-b348-62057338fede",
     "nombre": "disney0bcba6",
     "status": "18:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Toronto Blue Jays vs. New York Yankees (ALDS, Game 4)",
+    "league": "MLB",
+    "fecha-evento": "2025-10-08T18:00:00-05:00",
+    "img": "2ee9054e-d8b0-4dc4-9409-26c24889d498",
+    "nombre": "disney3208af",
+    "status": "18:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Missouri State vs. Middle Tennessee",
+    "league": "Fútbol Americano NCAA",
+    "fecha-evento": "2025-10-08T18:30:00-05:00",
+    "img": "0a5eb633-edf5-48b1-8c01-e8d7810a37ca",
+    "nombre": "disney923bc6",
+    "status": "18:30",
     "duration": 135,
     "play_url": ""
   }
