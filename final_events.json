@@ -13,19 +13,6 @@
     "k2": "97c632c7b640875e389c233ac7731902"
   },
   {
-    "title": "Athletes Unlimited Pro Volleyball",
-    "league": "Athletes Unlimited Volleyball",
-    "fecha-evento": "2025-10-06T20:00:00-05:00",
-    "img": "76906aae-9ea7-44cc-8f7c-c0d5e85b102f",
-    "nombre": "disney5f277c",
-    "status": "20:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/e60ead03-b682-41dc-b96c-6b2da5db6c3c",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759886418~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F07%2FAthletes_Unlimited_Pro_Vo_20251007_1759791615039%2F~psid=9869f3b4-f6c0-4e01-9192-82ebd864f0aa~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=a8dc76077ba37bc453db606eb7b6397523de95be4be4fba52189cc0ecc8ad8ea/clt1/va02/disneyplus/event/2025/10/07/Athletes_Unlimited_Pro_Vo_20251007_1759791615039/ctr-all-hdri-complete.m3u8?v=1&hash=130e5dc1bffed23d0843875070bdc8a180511de8",
-    "k1": "a4802faa8d4846be97d13c5d26a58ee2",
-    "k2": "c88fe2f21f03557da9ad5e8ee5504b65"
-  },
-  {
     "title": "Chicago Cubs vs. Milwaukee Brewers (NLDS, Game 2)",
     "league": "MLB",
     "fecha-evento": "2025-10-06T20:18:00-05:00",
@@ -61,12 +48,15 @@
   {
     "title": "Dongfeng Voyah · Wuhan Open / Court 1",
     "league": "WTA",
-    "fecha-evento": "2025-10-06T22:00:00-05:00",
+    "fecha-evento": "2025-10-06T21:59:16-05:00",
     "img": "19e6f1d1-e09b-4d7d-90b5-4cb6b0ad9edc",
-    "nombre": "disney8ba12f",
-    "status": "22:00",
-    "duration": 135,
-    "play_url": ""
+    "nombre": "disneye17a39",
+    "status": "21:59",
+    "duration": 481,
+    "play_url": "https://www.disneyplus.com/es-es/play/beec2a98-cb6b-4eee-94a3-ad179a569fe0",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1759892419~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F07%2FDongfeng_Voyah_Wuhan_Open_20251007_1759798846026%2F~psid=521dd5e5-d203-44ff-afe9-6a6be45796c6~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=08e22e6b8fa0f47e3fb16db40786eacdd796c04f6adc25c0feb20e8bec722c2f/clt1/va02/disneyplus/event/2025/10/07/Dongfeng_Voyah_Wuhan_Open_20251007_1759798846026/ctr-all-hdri-complete.m3u8?v=1&hash=1108b9d35dbe1276b6ff6dd75932b2758ff8f337",
+    "k1": "db700ea4485345bc8dc33f40ef537b11",
+    "k2": "914ddd78a035c68ffd3a22acb72c61e1"
   },
   {
     "title": "Dongfeng Voyah · Wuhan Open / Court 2",
@@ -515,6 +505,16 @@
     "img": "56f64c48-bbf7-4aeb-a2a9-db70989ee9bc",
     "nombre": "disneye0f167",
     "status": "20:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Calgary Flames vs. Edmonton Oilers",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-10-08T21:00:00-05:00",
+    "img": "9168f9e6-5fa8-43a8-8634-15ed36174d48",
+    "nombre": "disneya99a90",
+    "status": "21:00",
     "duration": 135,
     "play_url": ""
   }
