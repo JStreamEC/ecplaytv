@@ -1,31 +1,5 @@
 [
   {
-    "title": "Seattle Mariners vs. Detroit Tigers (ALDS, Game 4)",
-    "league": "MLB",
-    "fecha-evento": "2025-10-08T14:00:00-05:00",
-    "img": "1ae60841-1c3f-4249-b011-74777e11597b",
-    "nombre": "disneybbfd64",
-    "status": "14:00",
-    "duration": 180,
-    "play_url": "https://www.disneyplus.com/es-es/play/4e5c95c1-abd4-4824-a2d0-9e852aead400",
-    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1760042533~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F7f9052ce-8143-43a6-9656-a8c00c4a3e56-1759410662253%2F~psid=47c34ebb-e311-4589-b5b0-ac716d38f433~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=87dac591d2fca91f8f5fbd391285a970e3d8279fbc9a29a207a5c5bcc23359b7/clt1/va02/disneyplus/channel/7f9052ce-8143-43a6-9656-a8c00c4a3e56-1759410662253/ctr-all-sliding-alt1.m3u8?v=1&hash=62ce07132e0abe5c3d4609df742b679fdbe340b7",
-    "k1": "c30fca8cd5214e14adbc2bdecf90da9d",
-    "k2": "b804a702ee290f34595211f9f0bf94d7"
-  },
-  {
-    "title": "Mount St. Mary's vs. Fairfield",
-    "league": "Fútbol Femenino NCAA",
-    "fecha-evento": "2025-10-08T15:00:05-05:00",
-    "img": "5f20bf3b-29af-4f7a-809c-d65436b92e83",
-    "nombre": "disney7817d2",
-    "status": "15:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/98342033-d93d-437f-b81a-485b7e7ca706",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1760042557~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F08%2FMount_St_Marys_vs_Fairfie_20251008_1759946411026%2F~psid=fa7c878c-dc78-4446-a16e-1f31aeb56df9~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=28244d93856ca43def2b5d9356a28a916871ad7aee099e891cbf366bba3d0f28/clt1/va02/disneyplus/event/2025/10/08/Mount_St_Marys_vs_Fairfie_20251008_1759946411026/ctr-all-hdri-complete.m3u8?v=1&hash=9155338e0174d9600ec8456e8a34a1d30b96753d",
-    "k1": "cdce064e303243cd9d7b39debdf44d50",
-    "k2": "bc3dd221ed0e24255d685a88f3c5b3fa"
-  },
-  {
     "title": "Milwaukee Brewers vs. Chicago Cubs (NLDS, Game 3)",
     "league": "MLB",
     "fecha-evento": "2025-10-08T16:00:00-05:00",
@@ -547,6 +521,16 @@
     "fecha-evento": "2025-10-09T18:00:00-05:00",
     "img": "73fa76d1-68cc-4098-b672-4c73e817e2df",
     "nombre": "disney275c78",
+    "status": "18:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Louisiana Tech vs. Kennesaw State",
+    "league": "Fútbol Americano NCAA",
+    "fecha-evento": "2025-10-09T18:00:00-05:00",
+    "img": "efaf640b-699c-44a5-a3c3-cbba79debb91",
+    "nombre": "disney5f794c",
     "status": "18:00",
     "duration": 135,
     "play_url": ""
