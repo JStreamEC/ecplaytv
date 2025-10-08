@@ -13,19 +13,6 @@
     "k2": "50f2b3164a53a02d8bcff6b73932d63d"
   },
   {
-    "title": "Pittsburgh Penguins vs. New York Rangers",
-    "league": "National Hockey League",
-    "fecha-evento": "2025-10-07T19:00:48-05:00",
-    "img": "3b122e19-0fa5-4568-b4e1-c6a3cc86404e",
-    "nombre": "disneyb39ab5",
-    "status": "19:00",
-    "duration": 149,
-    "play_url": "https://www.disneyplus.com/es-es/play/afec68e2-275e-4b50-aafa-19a1927e606b",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759969220~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F08%2FPittsburgh_Penguins_vs_Ne_20251008_1759874405025%2F~psid=a0447bc9-75e3-4c91-b0a7-e6bc813068a9~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=a0597fb7b72dc9e38d280927ca2aeae1eb33aa7ecead151a9a1195ab3d386101/clt1/va02/disneyplus/event/2025/10/08/Pittsburgh_Penguins_vs_Ne_20251008_1759874405025/ctr-all-hdri-complete.m3u8?v=1&hash=239cfc4cd6738f522915f7df163160cc5aa92b3e",
-    "k1": "6771924b7c254306b4dc1511dcf10ea7",
-    "k2": "a65392f8c9a6a0133ca76986882d2d75"
-  },
-  {
     "title": "Toronto Blue Jays vs. New York Yankees (ALDS, Game 3)",
     "league": "MLB",
     "fecha-evento": "2025-10-07T19:00:00-05:00",
@@ -50,6 +37,19 @@
     "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759969307~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F08%2FDana_Whites_Contender_Ser_20251008_1759874430044%2F~psid=7f3273e8-4df8-4888-aa51-0232fbebc459~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=3334d59e88864023fe0a323a3b309a6eb0a4ffab5102bee14504ebd825410a93/clt1/va02/disneyplus/event/2025/10/08/Dana_Whites_Contender_Ser_20251008_1759874430044/ctr-all-hdri-complete.m3u8?v=1&hash=598f3531721d71c6c00382a30c84c34bd9909da7",
     "k1": "0b7189cb65fe40578b8da416db5ff4aa",
     "k2": "f0cfbb3812fcd70224149739f5454fae"
+  },
+  {
+    "title": "Pittsburgh Penguins vs. New York Rangers",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-10-07T19:00:48-05:00",
+    "img": "3b122e19-0fa5-4568-b4e1-c6a3cc86404e",
+    "nombre": "disneyb39ab5",
+    "status": "19:00",
+    "duration": 149,
+    "play_url": "https://www.disneyplus.com/es-es/play/afec68e2-275e-4b50-aafa-19a1927e606b",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759969220~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F08%2FPittsburgh_Penguins_vs_Ne_20251008_1759874405025%2F~psid=a0447bc9-75e3-4c91-b0a7-e6bc813068a9~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=a0597fb7b72dc9e38d280927ca2aeae1eb33aa7ecead151a9a1195ab3d386101/clt1/va02/disneyplus/event/2025/10/08/Pittsburgh_Penguins_vs_Ne_20251008_1759874405025/ctr-all-hdri-complete.m3u8?v=1&hash=239cfc4cd6738f522915f7df163160cc5aa92b3e",
+    "k1": "6771924b7c254306b4dc1511dcf10ea7",
+    "k2": "a65392f8c9a6a0133ca76986882d2d75"
   },
   {
     "title": "Colorado Avalanche vs. Los Angeles Kings",
@@ -165,7 +165,7 @@
     "title": "Oman vs. Qatar",
     "league": "Eliminatorias de Asia",
     "fecha-evento": "2025-10-08T09:55:00-05:00",
-    "img": "32c51adb-6295-4721-be85-3188aed42948",
+    "img": "65c39b4c-bc80-4a79-9cbf-10adb3fe86de",
     "nombre": "disney9ab865",
     "status": "09:55",
     "duration": 135,
