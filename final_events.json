@@ -1,18 +1,5 @@
 [
   {
-    "title": "Toronto Blue Jays vs. New York Yankees (ALDS, Game 3)",
-    "league": "MLB",
-    "fecha-evento": "2025-10-07T19:00:00-05:00",
-    "img": "2ee9054e-d8b0-4dc4-9409-26c24889d498",
-    "nombre": "disney6b7276",
-    "status": "19:00",
-    "duration": 180,
-    "play_url": "https://www.disneyplus.com/es-es/play/e6bed791-baf0-402a-b129-c6b1bf44e43f",
-    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1759969264~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F7f9052ce-8143-43a6-9656-a8c00c4a3e56-1759410662253%2F~psid=1f3ad9da-45fc-46cb-b8b1-d8201505272d~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=495d56eec090d75030d4c3696e0e15ab8a950edc6999f23e4525ad808a209c35/clt1/va02/disneyplus/channel/7f9052ce-8143-43a6-9656-a8c00c4a3e56-1759410662253/ctr-all-sliding-alt1.m3u8?v=1&hash=62ce07132e0abe5c3d4609df742b679fdbe340b7",
-    "k1": "3e28d21f9900483aa5d2c8afd45b6fb6",
-    "k2": "50f2b3164a53a02d8bcff6b73932d63d"
-  },
-  {
     "title": "Colorado Avalanche vs. Los Angeles Kings",
     "league": "National Hockey League",
     "fecha-evento": "2025-10-07T21:33:33-05:00",
@@ -537,6 +524,16 @@
     "img": "69f7bf72-3912-4e0d-bc44-faa1aa2a8387",
     "nombre": "disneye869a7",
     "status": "12:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Rumania vs. Moldavia",
+    "league": "Amistosos internacionales",
+    "fecha-evento": "2025-10-09T12:50:00-05:00",
+    "img": "17999235-625c-41dc-98f6-d5aeef24e85c",
+    "nombre": "disneyc8d156",
+    "status": "12:50",
     "duration": 135,
     "play_url": ""
   }
