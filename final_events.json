@@ -1,18 +1,5 @@
 [
   {
-    "title": "#3 Kentucky vs. #9 Texas A&M",
-    "league": "NCAA Women's Volleyball",
-    "fecha-evento": "2025-10-08T18:00:00-05:00",
-    "img": "d8917708-ee39-43c2-af57-9a150ca74c12",
-    "nombre": "disney1cddf6",
-    "status": "18:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/44e51cc6-d03a-4399-9c9d-dce99d0532ce",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1760050906~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F08%2F3_Kentucky_vs_9_Texas_AM_20251008_1759957653190%2F~psid=8051a51e-f8ac-402a-a3b4-156f194536db~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=44a0dc0905791e07dc314206756a1bcf741f988035dbcd2106e81c60336d920d/clt1/va02/disneyplus/event/2025/10/08/3_Kentucky_vs_9_Texas_AM_20251008_1759957653190/ctr-all-hdri-complete.m3u8?v=1&hash=840becc2f40b876c5eef689305ccb3515f19650c",
-    "k1": "ede5923f43d94cdcb6f3345963ea5fde",
-    "k2": "5fea8bcade07d31117a47238ef9a8abf"
-  },
-  {
     "title": "Missouri State vs. Middle Tennessee",
     "league": "Fútbol Americano NCAA",
     "fecha-evento": "2025-10-08T18:30:00-05:00",
@@ -528,6 +515,16 @@
     "img": "2e7cc75d-c404-45ef-a316-efc6ee3684e6",
     "nombre": "disney9415b8",
     "status": "18:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Southern Miss vs. Georgia Southern",
+    "league": "Fútbol Americano NCAA",
+    "fecha-evento": "2025-10-09T19:00:00-05:00",
+    "img": "587c025b-0b5f-4bea-8571-792ff8169804",
+    "nombre": "disneya6e5fa",
+    "status": "19:00",
     "duration": 135,
     "play_url": ""
   }
