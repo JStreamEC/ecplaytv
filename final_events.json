@@ -1,31 +1,5 @@
 [
   {
-    "title": "Milwaukee Brewers vs. Chicago Cubs (NLDS, Game 3)",
-    "league": "MLB",
-    "fecha-evento": "2025-10-08T16:00:00-05:00",
-    "img": "5fd3140e-1403-4433-b9f8-259bd7cd6034",
-    "nombre": "disneyf66fcb",
-    "status": "16:00",
-    "duration": 180,
-    "play_url": "https://www.disneyplus.com/es-es/play/4db3afeb-bfa6-42ee-aa72-bc5c7f00969c",
-    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1760044819~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Fbbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1759410188321%2F~psid=03dd02b7-d191-400b-b118-b24eb7f67444~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=3f8ba748248a9739cdd8e302a65327d2a389588bc72fb7ef7aa48ac594383c96/clt1/va02/disneyplus/channel/bbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1759410188321/ctr-all-sliding-alt1.m3u8?v=1&hash=3f2beb7c737b132d1104736b95cd26c3f1914d57",
-    "k1": "be112e75211a4da5aa7f8f47a5c1fc46",
-    "k2": "a4a108233609e617a36a55e2390bd184"
-  },
-  {
-    "title": "Copa Andes Salud | Deportes Puerto Montt vs. Colo Colo",
-    "league": "Amistosos internacionales",
-    "fecha-evento": "2025-10-08T17:50:00-05:00",
-    "img": "ce8e7440-77df-460f-88b3-0f1a2c14e1e3",
-    "nombre": "disneyea47b8",
-    "status": "17:50",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/09586e4e-8161-4ed4-9926-32dfd49e45ed",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1760050819~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F08%2FCopa_Andes_Salud_Deportes_20251008_1759956627040%2F~psid=b62e8e5f-65aa-44ed-8dd1-d318d928429b~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=e69bcc8dbf96d79e5f20f554988484d74385b28c28707932da38dae4880311cc/clt1/va02/disneyplus/event/2025/10/08/Copa_Andes_Salud_Deportes_20251008_1759956627040/ctr-all-hdri-complete.m3u8?v=1&hash=8c0906987a974937bd7e22c9d1cc21197a56fa93",
-    "k1": "cb08a12c0c6f4b3ea8956f43ea2f83d0",
-    "k2": "e823ae20ff770712bc273bcba45ce5b8"
-  },
-  {
     "title": "#3 Kentucky vs. #9 Texas A&M",
     "league": "NCAA Women's Volleyball",
     "fecha-evento": "2025-10-08T18:00:00-05:00",
@@ -67,12 +41,15 @@
   {
     "title": "Philadelphia Phillies vs. Los Angeles Dodgers (NLDS, Game 3)",
     "league": "MLB",
-    "fecha-evento": "2025-10-08T20:00:00-05:00",
+    "fecha-evento": "2025-10-08T20:09:00-05:00",
     "img": "56f64c48-bbf7-4aeb-a2a9-db70989ee9bc",
-    "nombre": "disneye0f167",
-    "status": "20:00",
-    "duration": 135,
-    "play_url": ""
+    "nombre": "disney35e359",
+    "status": "20:09",
+    "duration": 171,
+    "play_url": "https://www.disneyplus.com/es-es/play/cde360d8-2752-43f6-ada8-a2d24d80aad4",
+    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1760059220~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Fbbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1759410188321%2F~psid=f13682ad-6375-493f-a6af-d2d309a6c143~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=d7ecfad31b4475215a06ef9f89987a8ddd63dee0cd042bb12e89f78c612b6638/clt1/va02/disneyplus/channel/bbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1759410188321/ctr-all-sliding-alt1.m3u8?v=1&hash=3f2beb7c737b132d1104736b95cd26c3f1914d57",
+    "k1": "be112e75211a4da5aa7f8f47a5c1fc46",
+    "k2": "a4a108233609e617a36a55e2390bd184"
   },
   {
     "title": "Calgary Flames vs. Edmonton Oilers",
@@ -540,6 +517,16 @@
     "fecha-evento": "2025-10-09T18:30:00-05:00",
     "img": "4570da9c-90c4-4894-9aa4-3ea5aa0d0cc9",
     "nombre": "disneyf11661",
+    "status": "18:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Columbus Blue Jackets vs. Nashville Predators",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-10-09T18:30:00-05:00",
+    "img": "2e7cc75d-c404-45ef-a316-efc6ee3684e6",
+    "nombre": "disney9415b8",
     "status": "18:30",
     "duration": 135,
     "play_url": ""
