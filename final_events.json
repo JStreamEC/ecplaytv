@@ -1,18 +1,5 @@
 [
   {
-    "title": "New York Rangers vs. Buffalo Sabres",
-    "league": "National Hockey League",
-    "fecha-evento": "2025-10-09T20:39:02-05:00",
-    "img": "73fa76d1-68cc-4098-b672-4c73e817e2df",
-    "nombre": "disney3c9adb",
-    "status": "20:39",
-    "duration": 51,
-    "play_url": "https://www.disneyplus.com/es-es/play/bee97159-545b-48fa-8c99-05fc90cac5ae",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1760148020~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F09%2FNew_York_Rangers_vs_Buffa_20251009_1760048934862%2F~psid=9fd0cf9f-6800-4fc1-9c0d-26f4cac9d037~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=4ecb72497b0501e2ca06850481fcd465a03bd9c833d14729818df54d495b4d9a/clt1/va02/disneyplus/event/2025/10/09/New_York_Rangers_vs_Buffa_20251009_1760048934862/ctr-all-hdri-complete.m3u8?v=1&hash=c7d62421d9b1c9cad12c4adf9db7b77fe286a726",
-    "k1": "eec09fd632894d03bc951a830e23c7d5",
-    "k2": "318f94c1c6e69d0fbf9bf6ab9815cbd3"
-  },
-  {
     "title": "East Carolina vs. Tulane",
     "league": "Fútbol Americano NCAA",
     "fecha-evento": "2025-10-09T18:30:00-05:00",
@@ -188,8 +175,11 @@
     "img": "a901d396-df66-431f-8db8-682eee3e12df",
     "nombre": "disneya19902",
     "status": "22:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 600,
+    "play_url": "https://www.disneyplus.com/es-es/play/23975cb4-c6cb-4735-bdb7-1892deb26101",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1760151617~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F10%2FDongfeng_Voyah_Wuhan_Open_20251010_1760058043017%2F~psid=e356efa5-9674-41b5-9f3d-8a33cb2b6037~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=95369040a175cc4743c7d093cc88b38e1bba6386a7ecb0a3465d80a8fe89253e/clt1/va02/disneyplus/event/2025/10/10/Dongfeng_Voyah_Wuhan_Open_20251010_1760058043017/ctr-all-hdri-complete.m3u8?v=1&hash=a060ad0603b1b6647027e33efca8be73bd7f467f",
+    "k1": "4669fe74ab3f4b4c98f15989deb5c135",
+    "k2": "4262550e13ac65b63475076c5f55aa40"
   },
   {
     "title": "Rolex Shanghai Masters / Stadium Court (Doubles Semifinals)",
@@ -577,6 +567,16 @@
     "fecha-evento": "2025-10-10T18:30:00-05:00",
     "img": "79bfa15f-80a6-4b21-81b2-7810ca09a6c3",
     "nombre": "disney89f1c6",
+    "status": "18:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "UEFA Champions League Weekly",
+    "league": "Fútbol Americano NCAA",
+    "fecha-evento": "2025-10-10T18:30:00-05:00",
+    "img": "3d76c642-4ee3-44b0-bbb0-a12d77402adf",
+    "nombre": "disney792b5e",
     "status": "18:30",
     "duration": 135,
     "play_url": ""
