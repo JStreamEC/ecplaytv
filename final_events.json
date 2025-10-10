@@ -1,18 +1,5 @@
 [
   {
-    "title": "Premier Padel: Milán - Centre Court (Cuartos de Final)",
-    "league": "Premier Padel",
-    "fecha-evento": "2025-10-10T11:00:10-05:00",
-    "img": "06c4dd5c-9afe-4622-9a0e-328428cb96fe",
-    "nombre": "disneyabba73",
-    "status": "11:00",
-    "duration": 270,
-    "play_url": "https://www.disneyplus.com/es-es/play/a3eaf470-7c83-4c0b-a1d5-eb99f226ccfb",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1760208018~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F10%2FPremier_Padel_Miln_Centre_20251010_1760104847017%2F~psid=174347ee-cfb0-466f-b42d-affaebe5736f~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=98639c22d4c301c46b61e2e0a700e3f22d62db16f26d5fc6e89f533e55bcaecb/clt1/va02/disneyplus/event/2025/10/10/Premier_Padel_Miln_Centre_20251010_1760104847017/ctr-all-hdri-complete.m3u8?v=1&hash=da175ab9c8be200c8e930e474cdea0d21e3f8877",
-    "k1": "21df88ee48c348e29442b7649bbe0417",
-    "k2": "7554b8a3ab8d721607980d80676ecbac"
-  },
-  {
     "title": "Plaza Colonia vs. Progreso",
     "league": "Campeonato Uruguayo",
     "fecha-evento": "2025-10-10T16:45:00-05:00",
@@ -20,17 +7,20 @@
     "nombre": "disneyb2aa1e",
     "status": "16:45",
     "duration": 135,
-    "play_url": ""
+    "play_url": "https://www.disneyplus.com/es-es/play/f6fd77a1-5a07-4fde-9fa7-a6219c795ec8",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1760221218~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F10%2FPlaza_Colonia_vs_Progreso_20251010_1760125501027%2F~psid=7191c962-da0c-478e-a894-fef3504a242a~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=758aafe3ec17dea043b763ea01f1a51173ac0ddfe146e608bbcb170610832439/clt1/va02/disneyplus/event/2025/10/10/Plaza_Colonia_vs_Progreso_20251010_1760125501027/ctr-all-hdri-complete.m3u8?v=1&hash=2df0fae6366cb157b47f7271b5738eb6e9134d20",
+    "k1": "fd2a54c837764f19b852ab78c3a09114",
+    "k2": "8e9417b9ee22be22fd5de31085661c02"
   },
   {
     "title": "Lexington Sporting Club vs. Carolina Ascent",
     "league": "USL Super League",
     "fecha-evento": "2025-10-10T17:00:00-05:00",
-    "img": "f669a006-25de-410c-8e07-5682c67ab039",
+    "img": "05315c4e-9cb7-4bfd-ac9f-470f3eaf2e90",
     "nombre": "disney6c64c6",
     "status": "17:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/080c37b6-7976-463b-b0da-e8fa1bdedf93"
   },
   {
     "title": "One Knoxville SC vs. Portland Hearts of Pine",
@@ -599,6 +589,16 @@
     "img": "08e6b2f6-dbd9-4ea2-8d8c-8ee30e012a17",
     "nombre": "disney034bfd",
     "status": "12:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "United Arab Emirates vs. Oman",
+    "league": "Eliminatorias de Asia",
+    "fecha-evento": "2025-10-11T12:10:00-05:00",
+    "img": "9835798e-d42a-4069-b0a8-19f2c4b321a7",
+    "nombre": "disney4ea75e",
+    "status": "12:10",
     "duration": 135,
     "play_url": ""
   }
