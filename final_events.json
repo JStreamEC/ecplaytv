@@ -13,19 +13,6 @@
     "k2": "530da59a59cd61aeaaf0ed108ef23739"
   },
   {
-    "title": "Texas vs. #10 South Carolina",
-    "league": "Fútbol Femenino NCAA",
-    "fecha-evento": "2025-10-09T17:00:03-05:00",
-    "img": "b456c37a-9e07-4f8b-b6a8-0991b8feabed",
-    "nombre": "disneye05d56",
-    "status": "17:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/ad6f54f2-27a4-4304-8812-6d704342a109",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1760134869~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F09%2FTexas_vs_10_South_Carolin_20251009_1760040250180%2F~psid=2c97ca89-67e3-454e-9f21-7424d3760913~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=2afd5b5e7390811ccd0ee1d3a0d4b1ddfa6edbe8321011ee8d7131fc94f079eb/clt1/va02/disneyplus/event/2025/10/09/Texas_vs_10_South_Carolin_20251009_1760040250180/ctr-all-hdri-complete.m3u8?v=1&hash=0735fc44ce6a90b330e0d56b328e2e0d079a976e",
-    "k1": "cf34e3b97b7446529844477122ba15d6",
-    "k2": "59615205b68eb846fa18946de467c2da"
-  },
-  {
     "title": "East Carolina vs. Tulane",
     "league": "Fútbol Americano NCAA",
     "fecha-evento": "2025-10-09T18:30:00-05:00",
@@ -65,19 +52,6 @@
     "k2": "d2cf2427299ccfff185af87b48a4af57"
   },
   {
-    "title": "#4 Tennessee vs. Oklahoma",
-    "league": "Fútbol Femenino NCAA",
-    "fecha-evento": "2025-10-09T19:00:00-05:00",
-    "img": "369dda67-f562-4fee-8375-97b63ea52f2c",
-    "nombre": "disneybef59b",
-    "status": "19:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/b549d3d5-16ce-4a32-8fad-588cc60c7e4c",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1760140862~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F10%2F4_Tennessee_vs_Oklahoma_20251010_1760047930189%2F~psid=151e3114-5fc3-47ee-81ff-653e306c8b00~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=aef435a91425d5d2e264fdf8bc925d335092f36a0e78b552e3c404a58e8844cc/clt1/va02/disneyplus/event/2025/10/10/4_Tennessee_vs_Oklahoma_20251010_1760047930189/ctr-all-hdri-complete.m3u8?v=1&hash=e750b1dc9e14c6734b7dd35a3fed87b358003467",
-    "k1": "2dd16bfe54a842faa163c668ea2858d7",
-    "k2": "28f9e9a7b00a2f407f113f9efb708c26"
-  },
-  {
     "title": "Philadelphia Eagles vs. New York Giants",
     "league": "NFL",
     "fecha-evento": "2025-10-09T19:00:00-05:00",
@@ -115,6 +89,19 @@
     "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1760139620~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F09%2FMinnesota_Wild_vs_St_Loui_20251009_1760045455458%2F~psid=152a6752-b1d5-4576-b485-a7813ef7efbf~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=ed97d2b5b30984c96002b45b12be009e054bb6777f1a1886cfb4f9b90e4d8c0d/clt1/va02/disneyplus/event/2025/10/09/Minnesota_Wild_vs_St_Loui_20251009_1760045455458/ctr-all-hdri-complete.m3u8?v=1&hash=d86362219f7a1476c83a042ba60bab04f21c039e",
     "k1": "9675074cbc49478aaf19cdbd5a45fc3c",
     "k2": "c92b022f8b55df547967ae3eff52c75a"
+  },
+  {
+    "title": "#4 Tennessee vs. Oklahoma",
+    "league": "Fútbol Femenino NCAA",
+    "fecha-evento": "2025-10-09T19:00:00-05:00",
+    "img": "369dda67-f562-4fee-8375-97b63ea52f2c",
+    "nombre": "disneybef59b",
+    "status": "19:00",
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/b549d3d5-16ce-4a32-8fad-588cc60c7e4c",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1760140862~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F10%2F4_Tennessee_vs_Oklahoma_20251010_1760047930189%2F~psid=151e3114-5fc3-47ee-81ff-653e306c8b00~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=aef435a91425d5d2e264fdf8bc925d335092f36a0e78b552e3c404a58e8844cc/clt1/va02/disneyplus/event/2025/10/10/4_Tennessee_vs_Oklahoma_20251010_1760047930189/ctr-all-hdri-complete.m3u8?v=1&hash=e750b1dc9e14c6734b7dd35a3fed87b358003467",
+    "k1": "2dd16bfe54a842faa163c668ea2858d7",
+    "k2": "28f9e9a7b00a2f407f113f9efb708c26"
   },
   {
     "title": "Utah Mammoth vs. Colorado Avalanche",
@@ -563,6 +550,16 @@
     "img": "25d51bf0-e2ba-44e2-a56a-c0279f48b0f1",
     "nombre": "disney947670",
     "status": "18:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "#19 Kentucky vs. #17 Marshall",
+    "league": "Fútbol Masculino NCAA",
+    "fecha-evento": "2025-10-10T18:15:00-05:00",
+    "img": "0532be28-313a-4d83-b584-32c13790f93b",
+    "nombre": "disney7d9ba6",
+    "status": "18:15",
     "duration": 135,
     "play_url": ""
   }
