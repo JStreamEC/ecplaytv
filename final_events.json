@@ -91,19 +91,6 @@
     "k2": "c92b022f8b55df547967ae3eff52c75a"
   },
   {
-    "title": "#4 Tennessee vs. Oklahoma",
-    "league": "Fútbol Femenino NCAA",
-    "fecha-evento": "2025-10-09T19:00:00-05:00",
-    "img": "369dda67-f562-4fee-8375-97b63ea52f2c",
-    "nombre": "disneybef59b",
-    "status": "19:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/b549d3d5-16ce-4a32-8fad-588cc60c7e4c",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1760140862~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F10%2F4_Tennessee_vs_Oklahoma_20251010_1760047930189%2F~psid=151e3114-5fc3-47ee-81ff-653e306c8b00~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=aef435a91425d5d2e264fdf8bc925d335092f36a0e78b552e3c404a58e8844cc/clt1/va02/disneyplus/event/2025/10/10/4_Tennessee_vs_Oklahoma_20251010_1760047930189/ctr-all-hdri-complete.m3u8?v=1&hash=e750b1dc9e14c6734b7dd35a3fed87b358003467",
-    "k1": "2dd16bfe54a842faa163c668ea2858d7",
-    "k2": "28f9e9a7b00a2f407f113f9efb708c26"
-  },
-  {
     "title": "Saint Mary's vs. Pacific",
     "league": "NCAA Women's Volleyball",
     "fecha-evento": "2025-10-09T20:00:16-05:00",
@@ -156,6 +143,32 @@
     "k2": "663d8f69546d1c66308c6cd7d38fe81c"
   },
   {
+    "title": "Vegas Golden Knights vs. San Jose Sharks",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-10-09T21:00:00-05:00",
+    "img": "006e9480-5a18-46ae-a50d-85014fc3aec4",
+    "nombre": "disney5bcec2",
+    "status": "21:00",
+    "duration": 150,
+    "play_url": "https://www.disneyplus.com/es-es/play/86f16403-8e65-4430-b773-ade6f76e365b",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1760149219~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F10%2FVegas_Golden_Knights_vs_S_20251010_1760056570475%2F~psid=b86b5904-8d6c-443c-8d72-46477abea04e~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=241b306499825f6ac59a602b62eb81bc728d78a646f7ced3f228a3fc52c8fd3a/clt1/va02/disneyplus/event/2025/10/10/Vegas_Golden_Knights_vs_S_20251010_1760056570475/ctr-all-hdri-complete.m3u8?v=1&hash=0b8b396d9b1331b9e64fb649d84587807bd382a8",
+    "k1": "0e3a38c24dff499fade7b50393b99c77",
+    "k2": "2f412f2b5737b398f9ed8fdf45a1f288"
+  },
+  {
+    "title": "Calgary Flames vs. Vancouver Canucks",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-10-09T21:00:00-05:00",
+    "img": "aa727d21-2b1c-4527-9b16-7c9bfa7efddf",
+    "nombre": "disney489e0d",
+    "status": "21:00",
+    "duration": 210,
+    "play_url": "https://www.disneyplus.com/es-es/play/c2bc8833-2ee1-452a-a4b6-b9187aa82730",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1760149262~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F10%2FCalgary_Flames_vs_Vancouv_20251010_1760054422513%2F~psid=1444fae3-65be-4571-a447-bad31296934e~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=78f1063c3d9a79a841c3251245713b33a0e4546f427d105892b6969a667800d6/clt1/va02/disneyplus/event/2025/10/10/Calgary_Flames_vs_Vancouv_20251010_1760054422513/ctr-all-hdri-complete.m3u8?v=1&hash=d53e2ef517ac583525e618d6ce64c078c8eb4a27",
+    "k1": "19677ec26870412d82492ba9e929f1f0",
+    "k2": "698ee4f3bdd1c16296d4a92382bfd9cb"
+  },
+  {
     "title": "Anaheim Ducks vs. Seattle Kraken",
     "league": "National Hockey League",
     "fecha-evento": "2025-10-09T20:30:00-05:00",
@@ -167,26 +180,6 @@
     "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1760146818~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F10%2FAnaheim_Ducks_vs_Seattle__20251010_1760052656451%2F~psid=cf77d117-95fb-4b0d-9bff-6953edb0fec2~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=4b841a9ab4f925209df3f000ea323e83ed111d526579dc223c893476ec47a04b/clt1/va02/disneyplus/event/2025/10/10/Anaheim_Ducks_vs_Seattle__20251010_1760052656451/ctr-all-hdri-complete.m3u8?v=1&hash=5b662884c903d2738439188901ce564efa7d751d",
     "k1": "069cbd5737634f8f9a4539173f83695a",
     "k2": "433d883219de633d2749ad2b3040ffd2"
-  },
-  {
-    "title": "Calgary Flames vs. Vancouver Canucks",
-    "league": "National Hockey League",
-    "fecha-evento": "2025-10-09T21:00:00-05:00",
-    "img": "aa727d21-2b1c-4527-9b16-7c9bfa7efddf",
-    "nombre": "disney489e0d",
-    "status": "21:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Vegas Golden Knights vs. San Jose Sharks",
-    "league": "National Hockey League",
-    "fecha-evento": "2025-10-09T21:00:00-05:00",
-    "img": "18f3a5a9-bc39-4b33-924b-417d007da521",
-    "nombre": "disney5bcec2",
-    "status": "21:00",
-    "duration": 135,
-    "play_url": ""
   },
   {
     "title": "Dongfeng Voyah · Wuhan Open (Quarterfinals)",
@@ -575,6 +568,16 @@
     "img": "0532be28-313a-4d83-b584-32c13790f93b",
     "nombre": "disney7d9ba6",
     "status": "18:15",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "#24 South Florida vs. North Texas",
+    "league": "Fútbol Americano NCAA",
+    "fecha-evento": "2025-10-10T18:30:00-05:00",
+    "img": "79bfa15f-80a6-4b21-81b2-7810ca09a6c3",
+    "nombre": "disney89f1c6",
+    "status": "18:30",
     "duration": 135,
     "play_url": ""
   }
