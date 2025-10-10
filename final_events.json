@@ -13,19 +13,6 @@
     "k2": "6bf52c2616fc3a87d41681ca8e7f6003"
   },
   {
-    "title": "Milwaukee Brewers vs. Chicago Cubs (NLDS, Game 4)",
-    "league": "MLB",
-    "fecha-evento": "2025-10-09T20:00:29-05:00",
-    "img": "5fd3140e-1403-4433-b9f8-259bd7cd6034",
-    "nombre": "disneyd7e7e9",
-    "status": "20:00",
-    "duration": 180,
-    "play_url": "https://www.disneyplus.com/es-es/play/2b379e34-2528-4d2c-bf83-0a757dda0b28",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1760145707~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F10%2FMilwaukee_Brewers_vs_Chic_20251010_1760050821016%2F~psid=eaefdc7f-fe0e-48ba-a20c-8f50923a380f~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=92e0eb39592a5cd0b215833c2cbcfe7d5342c2263d97a511c2d4718233517715/clt1/va02/disneyplus/event/2025/10/10/Milwaukee_Brewers_vs_Chic_20251010_1760050821016/ctr-all-hdri-complete.m3u8?v=1&hash=6c954e94fef5c947fa0a99498b441d4b8785d8bf",
-    "k1": "c4aa6de2b27b4504b0d27c0a8b800c5e",
-    "k2": "663d8f69546d1c66308c6cd7d38fe81c"
-  },
-  {
     "title": "Vegas Golden Knights vs. San Jose Sharks",
     "league": "National Hockey League",
     "fecha-evento": "2025-10-09T21:00:00-05:00",
@@ -84,8 +71,11 @@
     "img": "05f5310e-6776-4f5b-924d-cddd9d222984",
     "nombre": "disney6bcffd",
     "status": "23:30",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/a1e1d965-a116-4ed4-adff-ef7e1fdf6218",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1760157620~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F10%2FRolex_Shanghai_Masters_St_20251010_1760063425039%2F~psid=c73f061c-527e-422f-b104-96747088df62~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=4702bf59ae1511e3a3909155d6af4773221e0e0e4bb5a6b46ce5ca361c63086f/clt1/va02/disneyplus/event/2025/10/10/Rolex_Shanghai_Masters_St_20251010_1760063425039/ctr-all-hdri-complete.m3u8?v=1&hash=6235c8084599dd040fa06f7f9b278e7d6d3131ab",
+    "k1": "ed3b848fd95f41bcbc4bd64868980b1e",
+    "k2": "722c64862ee39e44fb60367911ec53c5"
   },
   {
     "title": "Otago vs. Waikato",
@@ -574,6 +564,16 @@
     "img": "5d60b79d-27ca-432c-885a-3fad1d76d4f8",
     "nombre": "disneyc0088b",
     "status": "03:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Dongfeng Voyah · Wuhan Open (Semifinals)",
+    "league": "WTA",
+    "fecha-evento": "2025-10-11T04:00:00-05:00",
+    "img": "4d8d938f-874f-4fd6-b38f-0f4659ba9345",
+    "nombre": "disney9f2241",
+    "status": "04:00",
     "duration": 135,
     "play_url": ""
   }
