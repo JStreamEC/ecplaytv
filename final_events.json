@@ -13,19 +13,6 @@
     "k2": "7554b8a3ab8d721607980d80676ecbac"
   },
   {
-    "title": "IWF Forde - Men 110",
-    "league": "IWF",
-    "fecha-evento": "2025-10-10T12:30:37-05:00",
-    "img": "69f7bf72-3912-4e0d-bc44-faa1aa2a8387",
-    "nombre": "disneyaab3c0",
-    "status": "12:30",
-    "duration": 149,
-    "play_url": "https://www.disneyplus.com/es-es/play/118c452c-fac1-46c0-a07f-cc53e4ef699c",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1760208062~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F10%2FIWF_Forde_Men_110_20251010_1760110228037%2F~psid=9514b2c6-3895-4b8d-b17d-c9f61b938592~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=ef8279236de82b770274b51d0450b23b9eb8f705fa5cef155b6a44ae8b9cd5a0/clt1/va02/disneyplus/event/2025/10/10/IWF_Forde_Men_110_20251010_1760110228037/ctr-all-hdri-complete.m3u8?v=1&hash=38f80a68ce4dbc756576584e61cb1eb12bd59707",
-    "k1": "a86d5eb66e924f30a73d8066837ea98a",
-    "k2": "9660dfad360a6e46d5256b2c9cdf7f24"
-  },
-  {
     "title": "France vs. Azerbaiyán",
     "league": "Eliminatorias UEFA",
     "fecha-evento": "2025-10-10T13:25:02-05:00",
@@ -179,7 +166,7 @@
     "title": "One Knoxville SC vs. Portland Hearts of Pine",
     "league": "USL League One",
     "fecha-evento": "2025-10-10T17:30:00-05:00",
-    "img": "2354682b-e7c6-4f35-872d-d94fb0631f0f",
+    "img": "23205ae0-e223-40e8-82d7-ebb2a7e9d5bc",
     "nombre": "disneyfb7b15",
     "status": "17:30",
     "duration": 135,
@@ -231,6 +218,16 @@
     "fecha-evento": "2025-10-10T18:30:00-05:00",
     "img": "79bfa15f-80a6-4b21-81b2-7810ca09a6c3",
     "nombre": "disney32c588",
+    "status": "18:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "UEFA Champions League Weekly",
+    "league": "Fútbol Americano NCAA",
+    "fecha-evento": "2025-10-10T18:30:00-05:00",
+    "img": "79bfa15f-80a6-4b21-81b2-7810ca09a6c3",
+    "nombre": "disney792b5e",
     "status": "18:30",
     "duration": 135,
     "play_url": ""
@@ -622,6 +619,16 @@
     "img": "0c388048-59d0-4afe-8bfd-a8b09ba5e0b0",
     "nombre": "disneyfa2d94",
     "status": "10:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Pittsburgh vs. #25 Florida State",
+    "league": "Fútbol Americano NCAA",
+    "fecha-evento": "2025-10-11T11:00:00-05:00",
+    "img": "0cfcdaa8-5585-432e-b8bf-aabe6d43eda6",
+    "nombre": "disneyd1208e",
+    "status": "11:00",
     "duration": 135,
     "play_url": ""
   }
