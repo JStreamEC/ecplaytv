@@ -13,32 +13,6 @@
     "k2": "7554b8a3ab8d721607980d80676ecbac"
   },
   {
-    "title": "Fénix vs. Tacuarembó",
-    "league": "Segunda División de Uruguay",
-    "fecha-evento": "2025-10-10T13:45:02-05:00",
-    "img": "1cf6b3f5-bff3-48a3-a1bb-cb34197bfba5",
-    "nombre": "disney606cbd",
-    "status": "13:45",
-    "duration": 135,
-    "play_url": "https://www.disneyplus.com/es-es/play/831dcaa3-804f-47f5-b28d-2c22fa4395cd",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1760209217~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F10%2FFnix_vs_Tacuaremb_20251010_1760114745018%2F~psid=d1779c07-1539-4a87-820e-31dded007e30~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=b7b8fa0e81cc8f4f0f1fa0c9a6edb2f460d3e2a8c89faedb02a762159f3aa69d/clt1/va02/disneyplus/event/2025/10/10/Fnix_vs_Tacuaremb_20251010_1760114745018/ctr-all-hdri-complete.m3u8?v=1&hash=02a47eba69cb057ee341771bf2f19f9b998f0f82",
-    "k1": "a6c709a8f94f4241a797d121b8567fed",
-    "k2": "0d05bc084807d134201e579063470b65"
-  },
-  {
-    "title": "La Irenita-La Hache Clinova vs. Los Machitos (Grupo A - Fecha #1)",
-    "league": "Abierto de Tortugas",
-    "fecha-evento": "2025-10-10T13:55:02-05:00",
-    "img": "273fd048-4408-4a83-9461-bbd3647b660b",
-    "nombre": "disney47451e",
-    "status": "13:55",
-    "duration": 125,
-    "play_url": "https://www.disneyplus.com/es-es/play/f385803c-48ad-4223-bd24-2eb24639b108",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1760209261~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F10%2FLa_IrenitaLa_Hache_Clinov_20251010_1760115857136%2F~psid=d516c19d-d722-46fc-8426-f79aa5445bd2~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=cf9dc10d4485b8387b07053504b649e22af51f133ce3304bc260eb080cdeb2f9/clt1/va02/disneyplus/event/2025/10/10/La_IrenitaLa_Hache_Clinov_20251010_1760115857136/ctr-all-hdri-complete.m3u8?v=1&hash=310b0c3ea20ac3d10179ee239623f2104e38a719",
-    "k1": "5c22f265b637479d97669b550c42c313",
-    "k2": "cdf176774e7708451a006c12a1ae9b49"
-  },
-  {
     "title": "Plaza Colonia vs. Progreso",
     "league": "Campeonato Uruguayo",
     "fecha-evento": "2025-10-10T16:45:00-05:00",
@@ -605,6 +579,26 @@
     "img": "58e9b297-adb8-4537-ad92-04b8de218792",
     "nombre": "disneydf0c63",
     "status": "11:25",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Washington State vs. #4 Ole Miss",
+    "league": "Fútbol Americano NCAA",
+    "fecha-evento": "2025-10-11T11:45:00-05:00",
+    "img": "14ca5fd1-eec2-4f15-bafa-0308a1c3a635",
+    "nombre": "disney637a49",
+    "status": "11:45",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Los Angeles Kings vs. Winnipeg Jets",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-10-11T12:00:00-05:00",
+    "img": "08e6b2f6-dbd9-4ea2-8d8c-8ee30e012a17",
+    "nombre": "disney034bfd",
+    "status": "12:00",
     "duration": 135,
     "play_url": ""
   }
