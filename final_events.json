@@ -1,18 +1,5 @@
 [
   {
-    "title": "East Carolina vs. Tulane",
-    "league": "Fútbol Americano NCAA",
-    "fecha-evento": "2025-10-09T18:30:00-05:00",
-    "img": "4570da9c-90c4-4894-9aa4-3ea5aa0d0cc9",
-    "nombre": "disneyf11661",
-    "status": "18:30",
-    "duration": 180,
-    "play_url": "https://www.disneyplus.com/es-es/play/95d4fd2c-6451-42ab-980e-a26c8cf17934",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1760139706~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F09%2FEast_Carolina_vs_Tulane_20251009_1760045431016%2F~psid=bec6ddf9-058c-4074-af6c-d983a82ab6c4~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=b36a3a0eacad86cd9df2917e879d7fc573c036f8541425f431b86a6129abe5ca/clt1/va02/disneyplus/event/2025/10/09/East_Carolina_vs_Tulane_20251009_1760045431016/ctr-all-hdri-complete.m3u8?v=1&hash=c520776093416ca583f24aedb8140f854ba63fdd",
-    "k1": "bce53bb20b45452bba618cc0f3c12d1c",
-    "k2": "315445083d33bf93ae5f5e5ce2921553"
-  },
-  {
     "title": "Dallas Stars vs. Winnipeg Jets",
     "league": "National Hockey League",
     "fecha-evento": "2025-10-09T18:30:00-05:00",
@@ -63,19 +50,6 @@
     "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1760140818~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F10%2FSouthern_Miss_vs_Georgia__20251010_1760047210055%2F~psid=2c08165a-8f05-46fb-9858-0324257bf4a7~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=d271fc286d25f04a977d7ed4fbe71666bd69ef6eb4d62ee01393806e8454eeeb/clt1/va02/disneyplus/event/2025/10/10/Southern_Miss_vs_Georgia__20251010_1760047210055/ctr-all-hdri-complete.m3u8?v=1&hash=6cb7d75d960a386956ad7c0b87517a0fb168e993",
     "k1": "02fd3861ff8e4c159d6ee58eddd93b9a",
     "k2": "db988759eb786979b08216115640561c"
-  },
-  {
-    "title": "Minnesota Wild vs. St. Louis Blues",
-    "league": "National Hockey League",
-    "fecha-evento": "2025-10-09T18:30:00-05:00",
-    "img": "0f43aea6-0ddb-4dfb-a22f-d7d8f366e39e",
-    "nombre": "disney3998c6",
-    "status": "18:30",
-    "duration": 240,
-    "play_url": "https://www.disneyplus.com/es-es/play/0b64fbfc-bad4-42fb-8071-b0d7de5c7236",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1760139620~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F09%2FMinnesota_Wild_vs_St_Loui_20251009_1760045455458%2F~psid=152a6752-b1d5-4576-b485-a7813ef7efbf~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=ed97d2b5b30984c96002b45b12be009e054bb6777f1a1886cfb4f9b90e4d8c0d/clt1/va02/disneyplus/event/2025/10/09/Minnesota_Wild_vs_St_Loui_20251009_1760045455458/ctr-all-hdri-complete.m3u8?v=1&hash=d86362219f7a1476c83a042ba60bab04f21c039e",
-    "k1": "9675074cbc49478aaf19cdbd5a45fc3c",
-    "k2": "c92b022f8b55df547967ae3eff52c75a"
   },
   {
     "title": "Saint Mary's vs. Pacific",
@@ -578,6 +552,36 @@
     "img": "3d76c642-4ee3-44b0-bbb0-a12d77402adf",
     "nombre": "disney792b5e",
     "status": "18:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "BYU vs. #14 Baylor",
+    "league": "Fútbol Femenino NCAA",
+    "fecha-evento": "2025-10-10T19:00:00-05:00",
+    "img": "9ba54649-58d7-4cc1-99a0-4a4fc1b527cc",
+    "nombre": "disneya08b4a",
+    "status": "19:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "En Español-Las Vegas Aces vs. Phoenix Mercury (Finals, Game 4)",
+    "league": "WNBA",
+    "fecha-evento": "2025-10-10T19:00:00-05:00",
+    "img": "411c931c-1604-4ff0-9b84-7124841b0a1f",
+    "nombre": "disneyba9978",
+    "status": "19:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Alebrijes de Oaxaca vs. Atlético La Paz (Jornada 11)",
+    "league": "Liga de Expansión MX",
+    "fecha-evento": "2025-10-10T19:50:00-05:00",
+    "img": "e9864e99-a701-4f0b-8731-f40bfcfc1c0a",
+    "nombre": "disneya6d606",
+    "status": "19:50",
     "duration": 135,
     "play_url": ""
   }
