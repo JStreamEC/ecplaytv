@@ -30,26 +30,6 @@
     "play_url": "https://www.disneyplus.com/es-es/play/341a8a2c-ab25-486c-852f-af07818e0c29"
   },
   {
-    "title": "Pittsburgh, Carnegie Mellon, Duquesne",
-    "league": "NCAA Natación y Buceo",
-    "fecha-evento": "2025-10-11T10:00:16-05:00",
-    "img": "99d2097a-930e-48a4-9cbb-a898bb27b4c0",
-    "nombre": "disney53e824",
-    "status": "10:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/d38f8a58-42a0-4429-baef-e549b5e460ee"
-  },
-  {
-    "title": "Liverpool FC vs. Racing",
-    "league": "Campeonato Uruguayo",
-    "fecha-evento": "2025-10-11T10:17:07-05:00",
-    "img": "068b1918-4901-41c8-8685-386ef758fab4",
-    "nombre": "disney81bb06",
-    "status": "10:17",
-    "duration": 133,
-    "play_url": "https://www.disneyplus.com/es-es/play/ffd85392-d4f8-415b-b6ea-9f59ea596c28"
-  },
-  {
     "title": "LALIGA FC Futures U-12 (Quarterfinals)",
     "league": "LALIGA FC Futures",
     "fecha-evento": "2025-10-11T10:30:03-05:00",
@@ -183,19 +163,6 @@
     "k2": "562993c693e504ab87fcdaafb2602b8f"
   },
   {
-    "title": "Los Angeles Kings vs. Winnipeg Jets",
-    "league": "National Hockey League",
-    "fecha-evento": "2025-10-11T12:00:00-05:00",
-    "img": "08e6b2f6-dbd9-4ea2-8d8c-8ee30e012a17",
-    "nombre": "disney034bfd",
-    "status": "12:00",
-    "duration": 240,
-    "play_url": "https://www.disneyplus.com/es-es/play/9b3356c3-3133-42c4-bb1a-95247022a9ed",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1760288877~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F11%2FLos_Angeles_Kings_vs_Winn_20251011_1760194832534%2F~psid=d7be2c8d-917f-4d57-90fd-7bc353d0e6bd~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=acda90608e5189175b9b8933bead965ea5c1739fd742d932ea4f4e29f5b4bbae/clt1/va02/disneyplus/event/2025/10/11/Los_Angeles_Kings_vs_Winn_20251011_1760194832534/ctr-all-hdri-complete.m3u8?v=1&hash=3d165bf89ebeda539ded6b2372d6ed4fe52f8bb6",
-    "k1": "eca265a43cb64494a133dc88ef4e6a1e",
-    "k2": "5c45f83835bab4d243d070800e8c4cef"
-  },
-  {
     "title": "United Arab Emirates vs. Oman",
     "league": "Eliminatorias de Asia",
     "fecha-evento": "2025-10-11T12:05:26-05:00",
@@ -207,6 +174,19 @@
     "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1760290037~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F11%2FUnited_Arab_Emirates_vs_O_20251011_1760195453017%2F~psid=5dda3d99-a15d-4725-9457-41f4202f0917~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=b56790e3da59055cd927acbd875a560ae2570dcebbbff59a73ff3681a944c5d1/clt1/va02/disneyplus/event/2025/10/11/United_Arab_Emirates_vs_O_20251011_1760195453017/ctr-all-hdri-complete.m3u8?v=1&hash=fe82b520e69d42c99d84e164455c5a49f5195191",
     "k1": "83449572325647649f2a3574a0433dd6",
     "k2": "b662f6fd2da7d76141504a32a8a39d30"
+  },
+  {
+    "title": "Los Angeles Kings vs. Winnipeg Jets",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-10-11T12:30:10-05:00",
+    "img": "1ee563d2-5fee-44d0-9308-9ec3413461e8",
+    "nombre": "disneyaabf42",
+    "status": "12:30",
+    "duration": 210,
+    "play_url": "https://www.disneyplus.com/es-es/play/12c88c6f-31b3-47cd-8f04-92bbabc2ea62",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1760291189~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F11%2FLos_Angeles_Kings_vs_Winn_20251011_1760194831016%2F~psid=8dd69567-b51d-485d-8656-9b797fe0bb79~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=a0c1aa46d7c96a7442ab63c9da814f66b87ed830474b6a6ba07a7c7e7051da4d/clt1/va02/disneyplus/event/2025/10/11/Los_Angeles_Kings_vs_Winn_20251011_1760194831016/ctr-all-hdri-complete.m3u8?v=1&hash=c681c488f4d438bf155cb7b61a264e92332fe176",
+    "k1": "51004822b03540a2b2a95470c20326a6",
+    "k2": "5dece44b7aac470f12af3f4cc9fd8761"
   },
   {
     "title": "Cerro Largo vs. Boston River",
@@ -565,6 +545,26 @@
     "img": "2b5f991b-5247-45f0-94a9-c5727cd21229",
     "nombre": "disney8f142b",
     "status": "17:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "LALIGA FC Futures U-12 (Semifinals)",
+    "league": "LALIGA FC Futures",
+    "fecha-evento": "2025-10-11T17:55:00-05:00",
+    "img": "75afac92-be7d-42ea-ab2c-ce8e21c00989",
+    "nombre": "disney62d5ae",
+    "status": "17:55",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Pittsburgh Riverhounds SC vs. Indy Eleven",
+    "league": "USL Championship",
+    "fecha-evento": "2025-10-11T18:00:00-05:00",
+    "img": "91ea4d7b-75aa-4f0e-aca3-9349af8f83e5",
+    "nombre": "disneya97b82",
+    "status": "18:00",
     "duration": 135,
     "play_url": ""
   }
