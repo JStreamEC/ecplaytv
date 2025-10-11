@@ -30,16 +30,6 @@
     "play_url": "https://www.disneyplus.com/es-es/play/341a8a2c-ab25-486c-852f-af07818e0c29"
   },
   {
-    "title": "LALIGA FC Futures U-12 (Quarterfinals)",
-    "league": "LALIGA FC Futures",
-    "fecha-evento": "2025-10-11T10:30:03-05:00",
-    "img": "75afac92-be7d-42ea-ab2c-ce8e21c00989",
-    "nombre": "disneyd24a3d",
-    "status": "10:30",
-    "duration": 125,
-    "play_url": "https://www.disneyplus.com/es-es/play/b6bbe51d-b9fc-4769-b365-508646aa14be"
-  },
-  {
     "title": "Noruega vs. Israel",
     "league": "Eliminatorias UEFA",
     "fecha-evento": "2025-10-11T10:59:21-05:00",
@@ -58,16 +48,6 @@
     "status": "10:50",
     "duration": 130,
     "play_url": "https://www.disneyplus.com/es-es/play/484256a7-8320-4cde-84ce-3fdd08ecfb34"
-  },
-  {
-    "title": "Pittsburgh vs. #25 Florida State",
-    "league": "Fútbol Americano NCAA",
-    "fecha-evento": "2025-10-11T11:00:00-05:00",
-    "img": "0cfcdaa8-5585-432e-b8bf-aabe6d43eda6",
-    "nombre": "disneyd1208e",
-    "status": "11:00",
-    "duration": 180,
-    "play_url": "https://www.disneyplus.com/es-es/play/02d2b81c-04ce-47a6-a22b-5e0228b355da"
   },
   {
     "title": "Louisiana vs. James Madison",
@@ -98,6 +78,16 @@
     "status": "11:00",
     "duration": 179,
     "play_url": "https://www.disneyplus.com/es-es/play/c7e00405-f305-4620-8287-79078b655ad6"
+  },
+  {
+    "title": "Pittsburgh vs. #25 Florida State",
+    "league": "Fútbol Americano NCAA",
+    "fecha-evento": "2025-10-11T11:00:00-05:00",
+    "img": "0cfcdaa8-5585-432e-b8bf-aabe6d43eda6",
+    "nombre": "disneyd1208e",
+    "status": "11:00",
+    "duration": 180,
+    "play_url": "https://www.disneyplus.com/es-es/play/02d2b81c-04ce-47a6-a22b-5e0228b355da"
   },
   {
     "title": "Toledo vs. Bowling Green",
@@ -191,12 +181,15 @@
   {
     "title": "Cerro Largo vs. Boston River",
     "league": "Campeonato Uruguayo",
-    "fecha-evento": "2025-10-11T12:45:00-05:00",
-    "img": "0b8e2ded-e02c-466a-bacb-e06ade8c6c27",
-    "nombre": "disney1e9d66",
-    "status": "12:45",
-    "duration": 135,
-    "play_url": ""
+    "fecha-evento": "2025-10-11T12:49:20-05:00",
+    "img": "ee0096be-8999-4149-a1d1-91cbf4b65848",
+    "nombre": "disney93527d",
+    "status": "12:49",
+    "duration": 131,
+    "play_url": "https://www.disneyplus.com/es-es/play/becf226b-fa61-4ec2-8187-90451191bbf7",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1760292367~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F11%2FCerro_Largo_vs_Boston_Riv_20251011_1760197528054%2F~psid=7e996325-7c19-41af-b4aa-d8e18a2d2823~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=2fffd0cf8f7e1164143ddbd28e900bffa8b29eb73a337e2bab1893ee42f9d4ea/clt1/va02/disneyplus/event/2025/10/11/Cerro_Largo_vs_Boston_Riv_20251011_1760197528054/ctr-all-hdri-complete.m3u8?v=1&hash=908f11c057548fa0f5cb3c27b69b508fa2d9f062",
+    "k1": "3f6516255cc04b94901eba88e7ca0f9b",
+    "k2": "e92da91f385a9de237b9f716a158f186"
   },
   {
     "title": "Tlaxcala FC vs. Jaiba Brava (Jornada 11)",
@@ -205,8 +198,11 @@
     "img": "11e7aa73-112d-476f-8e18-3529ec455eaa",
     "nombre": "disney233ddf",
     "status": "12:50",
-    "duration": 135,
-    "play_url": ""
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/3780c8e3-9a88-4fee-ac5e-4f70622ef2b1",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1760292390~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F11%2FTlaxcala_FC_vs_Jaiba_Brav_20251011_1760197846054%2F~psid=65f2f79c-0530-4962-87d3-a7069272b1cd~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=9d63407fbf66d5c6b303d2760d1c2565bb437005dd9c342cfcdb2b8f98682236/clt1/va02/disneyplus/event/2025/10/11/Tlaxcala_FC_vs_Jaiba_Brav_20251011_1760197846054/ctr-all-hdri-complete.m3u8?v=1&hash=d692a956697b408d5050c041266b432287712e2e",
+    "k1": "4633950ff25a42d0937b0f53a583134f",
+    "k2": "4623c7648cc701fd7ecc54d9f7e1fcfb"
   },
   {
     "title": "David Allen vs. Arslanbek Makhmudov | ESPN KO",
@@ -215,8 +211,11 @@
     "img": "15cac695-3e29-4b84-8a4f-eac978f28871",
     "nombre": "disneyed6ebc",
     "status": "13:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 210,
+    "play_url": "https://www.disneyplus.com/es-es/play/9c831fee-b760-42c2-a817-a92c0548aadd",
+    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1760292414~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F921e1311-bb26-43dd-84a6-9e2284959712-1759409855938%2F~psid=642d7e91-8730-4deb-a60c-0fdce4398404~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=236ef729995ef021bd1d61758e4e47edee687a8d1a1b595fd3388cdfea6ff29f/clt1/va02/disneyplus/channel/921e1311-bb26-43dd-84a6-9e2284959712-1759409855938/ctr-all-sliding-alt1.m3u8?v=1&hash=e50ddd99727af0a2947bb1b84904b1697e8043f8",
+    "k1": "75170a6143e54779b9cfa08afdd95786",
+    "k2": "e905bd7491208e4776a5e00d07f5283e"
   },
   {
     "title": "Buenos Aires CRC vs. Belgrano Athletic (Ronda #22)",
@@ -564,6 +563,16 @@
     "fecha-evento": "2025-10-11T18:00:00-05:00",
     "img": "91ea4d7b-75aa-4f0e-aca3-9349af8f83e5",
     "nombre": "disneya97b82",
+    "status": "18:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Montreal Canadiens vs. Chicago Blackhawks",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-10-11T18:00:00-05:00",
+    "img": "71689866-9686-42f8-bb70-63369f282592",
+    "nombre": "disney3ce809",
     "status": "18:00",
     "duration": 135,
     "play_url": ""
