@@ -30,16 +30,6 @@
     "play_url": "https://www.disneyplus.com/es-es/play/0241c5e1-805e-48b7-82e9-120dc22a8ed8"
   },
   {
-    "title": "Racing 92 vs. Montpellier (Ronda #6)",
-    "league": "Top 14",
-    "fecha-evento": "2025-10-11T09:30:00-05:00",
-    "img": "f4d80acf-727d-4645-98a2-c5a98b64005d",
-    "nombre": "disney205435",
-    "status": "09:30",
-    "duration": 135,
-    "play_url": "https://www.disneyplus.com/es-es/play/52b7fb57-c5ef-49a1-a7d3-5b7e6e2a6cd0"
-  },
-  {
     "title": "IRONMAN World Championship Kona - Women's Race",
     "league": "ESPN",
     "fecha-evento": "2025-10-11T09:30:07-05:00",
@@ -160,16 +150,6 @@
     "play_url": "https://www.disneyplus.com/es-es/play/612dc3be-4eaa-4584-8602-baf32c16b86f"
   },
   {
-    "title": "UAE Polo vs. La Hache Cría & Polo (Grupo B - Fecha #1)",
-    "league": "Abierto de Tortugas",
-    "fecha-evento": "2025-10-11T11:35:33-05:00",
-    "img": "612cc492-4373-43f3-8d77-cc3703dd0f26",
-    "nombre": "disney78a494",
-    "status": "11:35",
-    "duration": 114,
-    "play_url": "https://www.disneyplus.com/es-es/play/233393b8-e858-484b-8108-0e610ce0a2da"
-  },
-  {
     "title": "Bath Rugby vs. Gloucester Rugby (Ronda #3)",
     "league": "Premiership",
     "fecha-evento": "2025-10-11T11:25:00-05:00",
@@ -190,14 +170,27 @@
     "play_url": "https://www.disneyplus.com/es-es/play/674f1a38-527f-4c93-8d48-18b824459cce"
   },
   {
+    "title": "UAE Polo vs. La Hache Cría & Polo (Grupo B - Fecha #1)",
+    "league": "Abierto de Tortugas",
+    "fecha-evento": "2025-10-11T11:35:33-05:00",
+    "img": "612cc492-4373-43f3-8d77-cc3703dd0f26",
+    "nombre": "disney78a494",
+    "status": "11:35",
+    "duration": 114,
+    "play_url": "https://www.disneyplus.com/es-es/play/233393b8-e858-484b-8108-0e610ce0a2da"
+  },
+  {
     "title": "Washington State vs. #4 Ole Miss",
     "league": "Fútbol Americano NCAA",
-    "fecha-evento": "2025-10-11T11:45:00-05:00",
+    "fecha-evento": "2025-10-11T11:44:59-05:00",
     "img": "028677cb-2d1f-4bca-b736-18d73863c5a9",
-    "nombre": "disney637a49",
-    "status": "11:45",
-    "duration": 135,
-    "play_url": ""
+    "nombre": "disneyd6f1b9",
+    "status": "11:44",
+    "duration": 180,
+    "play_url": "https://www.disneyplus.com/es-es/play/158901c1-39e5-4b34-92c8-440aa32ebed7",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1760288854~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F11%2FWashington_State_vs_4_Ole_20251011_1760193943037%2F~psid=22c249aa-6f40-4f6c-89a9-3c469b9efe0c~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=f67fb88aa1f497696795e647f54e751ba0c96beb8bc986d7a51de7607327641b/clt1/va02/disneyplus/event/2025/10/11/Washington_State_vs_4_Ole_20251011_1760193943037/ctr-all-hdri-complete.m3u8?v=1&hash=a37dae0b2a0fca6e1ae0e7ff1df3cd08723b5fda",
+    "k1": "b3b4184fc51d4401a3f204a3aa4c6644",
+    "k2": "562993c693e504ab87fcdaafb2602b8f"
   },
   {
     "title": "Los Angeles Kings vs. Winnipeg Jets",
@@ -206,8 +199,11 @@
     "img": "08e6b2f6-dbd9-4ea2-8d8c-8ee30e012a17",
     "nombre": "disney034bfd",
     "status": "12:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 240,
+    "play_url": "https://www.disneyplus.com/es-es/play/9b3356c3-3133-42c4-bb1a-95247022a9ed",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1760288877~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F11%2FLos_Angeles_Kings_vs_Winn_20251011_1760194832534%2F~psid=d7be2c8d-917f-4d57-90fd-7bc353d0e6bd~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=acda90608e5189175b9b8933bead965ea5c1739fd742d932ea4f4e29f5b4bbae/clt1/va02/disneyplus/event/2025/10/11/Los_Angeles_Kings_vs_Winn_20251011_1760194832534/ctr-all-hdri-complete.m3u8?v=1&hash=3d165bf89ebeda539ded6b2372d6ed4fe52f8bb6",
+    "k1": "eca265a43cb64494a133dc88ef4e6a1e",
+    "k2": "5c45f83835bab4d243d070800e8c4cef"
   },
   {
     "title": "United Arab Emirates vs. Oman",
