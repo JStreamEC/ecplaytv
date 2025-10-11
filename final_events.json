@@ -10,16 +10,6 @@
     "play_url": ""
   },
   {
-    "title": "England vs. Sri Lanka",
-    "league": "ESPN",
-    "fecha-evento": "2025-10-11T04:35:08-05:00",
-    "img": "3f924cb0-3281-456f-a3ad-22f42fb18e6b",
-    "nombre": "disneyb3d357",
-    "status": "04:35",
-    "duration": 430,
-    "play_url": "https://www.disneyplus.com/es-es/play/fcadc5a4-df58-4f98-b06a-c6a824689548"
-  },
-  {
     "title": "Premier Padel: Milán - Centre Court (Semifinales)",
     "league": "Premier Padel",
     "fecha-evento": "2025-10-11T07:00:00-05:00",
@@ -208,12 +198,15 @@
   {
     "title": "United Arab Emirates vs. Oman",
     "league": "Eliminatorias de Asia",
-    "fecha-evento": "2025-10-11T12:10:00-05:00",
+    "fecha-evento": "2025-10-11T12:05:26-05:00",
     "img": "044e56e6-1a87-4ebe-adb8-b55c3b5244ae",
-    "nombre": "disney4ea75e",
-    "status": "12:10",
-    "duration": 135,
-    "play_url": ""
+    "nombre": "disneyb41fdb",
+    "status": "12:05",
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/8bdb79d9-0866-49e8-80f4-bd011d5585fd",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1760290037~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F11%2FUnited_Arab_Emirates_vs_O_20251011_1760195453017%2F~psid=5dda3d99-a15d-4725-9457-41f4202f0917~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=b56790e3da59055cd927acbd875a560ae2570dcebbbff59a73ff3681a944c5d1/clt1/va02/disneyplus/event/2025/10/11/United_Arab_Emirates_vs_O_20251011_1760195453017/ctr-all-hdri-complete.m3u8?v=1&hash=fe82b520e69d42c99d84e164455c5a49f5195191",
+    "k1": "83449572325647649f2a3574a0433dd6",
+    "k2": "b662f6fd2da7d76141504a32a8a39d30"
   },
   {
     "title": "Cerro Largo vs. Boston River",
