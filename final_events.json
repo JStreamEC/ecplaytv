@@ -1,18 +1,5 @@
 [
   {
-    "title": "Cornell vs. Harvard",
-    "league": "Fútbol Americano NCAA",
-    "fecha-evento": "2025-10-10T18:00:00-05:00",
-    "img": "25d51bf0-e2ba-44e2-a56a-c0279f48b0f1",
-    "nombre": "disney947670",
-    "status": "18:00",
-    "duration": 180,
-    "play_url": "https://www.disneyplus.com/es-es/play/d5d1c008-767b-444b-a83d-e4823770656a",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1760223728~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F10%2FCornell_vs_Harvard_20251010_1760130019016%2F~psid=01226f5e-1c1a-4072-8dd3-0e8ca359fe9f~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=b0f3c2918783731b3a8d66553f2ca9027c41b9c3a456f5990a16bd0728334b37/clt1/va02/disneyplus/event/2025/10/10/Cornell_vs_Harvard_20251010_1760130019016/ctr-all-hdri-complete.m3u8?v=1&hash=e20ee20b8789b52fc84f1244f3626178771e5a23",
-    "k1": "c8210e4bb83f4127bad564fd96942c92",
-    "k2": "351828f49c41daa82579a5e6b23a02b0"
-  },
-  {
     "title": "En Español-#24 South Florida vs. North Texas",
     "league": "Fútbol Americano NCAA",
     "fecha-evento": "2025-10-10T18:30:04-05:00",
@@ -37,19 +24,6 @@
     "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1760228419~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F7f9052ce-8143-43a6-9656-a8c00c4a3e56-1759410662253%2F~psid=da49265b-cf1f-4770-b1cd-be6df4497eea~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=c2ee5f3745391a3d052598ff3c34ee0b4c0657c40a39410e8de9e2e4e226e7e8/clt1/va02/disneyplus/channel/7f9052ce-8143-43a6-9656-a8c00c4a3e56-1759410662253/ctr-all-sliding-alt1.m3u8?v=1&hash=62ce07132e0abe5c3d4609df742b679fdbe340b7",
     "k1": "9816f25807994cc389bbfba89ca65e56",
     "k2": "c3d91f3da5558df9966cea18e83f856b"
-  },
-  {
-    "title": "BYU vs. #14 Baylor",
-    "league": "Fútbol Femenino NCAA",
-    "fecha-evento": "2025-10-10T19:00:02-05:00",
-    "img": "9ba54649-58d7-4cc1-99a0-4a4fc1b527cc",
-    "nombre": "disneya3e5f3",
-    "status": "19:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/393193a3-3e2a-4a3e-8389-671be84d5096",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1760228462~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F11%2FBYU_vs_14_Baylor_20251011_1760133644018%2F~psid=ca284b65-18e7-470a-8718-71efeebb9faf~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=9eedd66e549732662da213ec8779599d0d3d7ea0a72ef23a086e31fda91e3e86/clt1/va02/disneyplus/event/2025/10/11/BYU_vs_14_Baylor_20251011_1760133644018/ctr-all-hdri-complete.m3u8?v=1&hash=34a0ca70420e0d2348b4f5949a3ebc4ebfeffb4f",
-    "k1": "17be581309b24b62aa112d75199d640f",
-    "k2": "4b95d2f80a6827ca9d92b160414d2906"
   },
   {
     "title": "En Español-Las Vegas Aces vs. Phoenix Mercury (Finals, Game 4)",
@@ -596,6 +570,26 @@
     "fecha-evento": "2025-10-11T13:10:00-05:00",
     "img": "bc97580a-876a-41d8-8529-7a71528ff6cb",
     "nombre": "disney23cf7a",
+    "status": "13:10",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Los Tilos vs. Regatas Bella Vista (Ronda #22)",
+    "league": "URBA Top 12",
+    "fecha-evento": "2025-10-11T13:10:00-05:00",
+    "img": "e4672930-2e78-47ec-a0b3-7dc50abb88a0",
+    "nombre": "disney279d1a",
+    "status": "13:10",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "SIC vs. Alumni (Ronda #22)",
+    "league": "URBA Top 12",
+    "fecha-evento": "2025-10-11T13:10:00-05:00",
+    "img": "1646498e-fbf5-4d26-8b90-d1a5c5ceddce",
+    "nombre": "disney5f3047",
     "status": "13:10",
     "duration": 135,
     "play_url": ""
