@@ -30,16 +30,6 @@
     "play_url": "https://www.disneyplus.com/es-es/play/341a8a2c-ab25-486c-852f-af07818e0c29"
   },
   {
-    "title": "Noruega vs. Israel",
-    "league": "Eliminatorias UEFA",
-    "fecha-evento": "2025-10-11T10:59:21-05:00",
-    "img": "8d3ec409-736f-4737-8aad-75ba6cd38b7b",
-    "nombre": "disney6458ff",
-    "status": "10:59",
-    "duration": 121,
-    "play_url": "https://www.disneyplus.com/es-es/play/e6c830b5-4c6d-4d0d-bb72-773f0b47c7f3"
-  },
-  {
     "title": "Hungary vs. Armenia",
     "league": "Eliminatorias UEFA",
     "fecha-evento": "2025-10-11T10:50:08-05:00",
@@ -218,24 +208,17 @@
     "k2": "e905bd7491208e4776a5e00d07f5283e"
   },
   {
-    "title": "Buenos Aires CRC vs. Belgrano Athletic (Ronda #22)",
-    "league": "URBA Top 12",
-    "fecha-evento": "2025-10-11T13:10:00-05:00",
-    "img": "612a8de7-d691-46e8-8593-bf6469289bb9",
-    "nombre": "disneyb796c3",
-    "status": "13:10",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "La Plata vs. CUBA (Ronda #22)",
     "league": "URBA Top 12",
     "fecha-evento": "2025-10-11T13:10:00-05:00",
     "img": "bc97580a-876a-41d8-8529-7a71528ff6cb",
     "nombre": "disney23cf7a",
     "status": "13:10",
-    "duration": 135,
-    "play_url": ""
+    "duration": 150,
+    "play_url": "https://www.disneyplus.com/es-es/play/a98d7c9f-e425-48ba-8f1b-93675bc7038b",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1760293537~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F11%2FLa_Plata_vs_CUBA_Ronda_22_20251011_1760199012018%2F~psid=5b8df5b7-84e1-4ae5-894c-d2571123a107~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=2f183d6ddc377ce59c6a4836c0c2845fb81614b281cfd863fbd19d5c3534d6da/clt1/va02/disneyplus/event/2025/10/11/La_Plata_vs_CUBA_Ronda_22_20251011_1760199012018/ctr-all-hdri-complete.m3u8?v=1&hash=eee61b1aabb4f57bcf46b06d87417a726297196d",
+    "k1": "cbdced84c25f454d8e8c14e103338238",
+    "k2": "46c18a5a4786d810adc76d19a887fb01"
   },
   {
     "title": "Los Tilos vs. Regatas Bella Vista (Ronda #22)",
@@ -244,28 +227,50 @@
     "img": "e4672930-2e78-47ec-a0b3-7dc50abb88a0",
     "nombre": "disney279d1a",
     "status": "13:10",
-    "duration": 135,
-    "play_url": ""
+    "duration": 150,
+    "play_url": "https://www.disneyplus.com/es-es/play/a9d1cd46-9687-40f6-aef2-280304a59399",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1760293560~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F11%2FLos_Tilos_vs_Regatas_Bell_20251011_1760199032038%2F~psid=a3a96788-2054-4295-971b-db6442c724de~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=8f0bc62b97d0255c0be1798f4aaac1d7b2f58e81a686a15cace57ec73be6dbca/clt1/va02/disneyplus/event/2025/10/11/Los_Tilos_vs_Regatas_Bell_20251011_1760199032038/ctr-all-hdri-complete.m3u8?v=1&hash=2eba3d6cd62576c611545e0df0d41602082db018",
+    "k1": "ae03a9e7ee8f4d25aefee18368af5360",
+    "k2": "a2e885cb5079e0456a7dfbfa05efd52f"
+  },
+  {
+    "title": "Buenos Aires CRC vs. Belgrano Athletic (Ronda #22)",
+    "league": "URBA Top 12",
+    "fecha-evento": "2025-10-11T13:10:07-05:00",
+    "img": "612a8de7-d691-46e8-8593-bf6469289bb9",
+    "nombre": "disney5538df",
+    "status": "13:10",
+    "duration": 150,
+    "play_url": "https://www.disneyplus.com/es-es/play/482961b9-e56e-4ad1-8ea8-90885f15e468",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1760293584~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F11%2FBuenos_Aires_CRC_vs_Belgr_20251011_1760199041016%2F~psid=f3eefc1a-ba9a-4f2c-aced-838f0f020f56~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=27e17ae7dd429a1ff749793f93c9aba29ae6f50af2e6d95971f34df6458f5f32/clt1/va02/disneyplus/event/2025/10/11/Buenos_Aires_CRC_vs_Belgr_20251011_1760199041016/ctr-all-hdri-complete.m3u8?v=1&hash=86ee8999fd4fcc9a80a616fff7bcb42b302dbc7f",
+    "k1": "7e561c397c834b11a69fdfbcd2926cff",
+    "k2": "e06553c52329522a5652f45516664b4e"
   },
   {
     "title": "SIC vs. Alumni (Ronda #22)",
     "league": "URBA Top 12",
-    "fecha-evento": "2025-10-11T13:10:00-05:00",
+    "fecha-evento": "2025-10-11T13:10:10-05:00",
     "img": "1646498e-fbf5-4d26-8b90-d1a5c5ceddce",
-    "nombre": "disney5f3047",
+    "nombre": "disney2d1ea8",
     "status": "13:10",
-    "duration": 135,
-    "play_url": ""
+    "duration": 150,
+    "play_url": "https://www.disneyplus.com/es-es/play/aeae373b-4b2f-4d50-8b4f-e165c9974c43",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1760293607~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F11%2FSIC_vs_Alumni_Ronda_22_20251011_1760199040020%2F~psid=3fd3e566-a2e7-4fd2-9f13-dfb4fb411b40~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=bc9f0c3f9f997e364c9bc0272e5bcc03dc6c5e393eaf065a319361bfd9f6829f/clt1/va02/disneyplus/event/2025/10/11/SIC_vs_Alumni_Ronda_22_20251011_1760199040020/ctr-all-hdri-complete.m3u8?v=1&hash=1d53911cc25663d5d160e4bd5c50358eef1e0eb6",
+    "k1": "cbc74ee13d8c4f48b52b24240acc72d1",
+    "k2": "2c45532759a795b81b6ab5fa85659a0f"
   },
   {
     "title": "Newman vs. San Luis (Ronda #22)",
     "league": "URBA Top 12",
-    "fecha-evento": "2025-10-11T13:10:00-05:00",
+    "fecha-evento": "2025-10-11T13:10:21-05:00",
     "img": "4059cfe3-a5f1-43a3-9c04-2aab24e90e1f",
-    "nombre": "disneyd6f468",
+    "nombre": "disney5a6cf0",
     "status": "13:10",
-    "duration": 135,
-    "play_url": ""
+    "duration": 150,
+    "play_url": "https://www.disneyplus.com/es-es/play/eb43a315-d3d0-4e20-9fce-69c51d7bfe41",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1760293630~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F11%2FNewman_vs_San_Luis_Ronda__20251011_1760199025039%2F~psid=ce29f950-4512-447b-ad36-7e817971135a~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=00edab5b6fd22c6d9e3c5373c58f20fa4feeb2623b446935e00f84065201ff29/clt1/va02/disneyplus/event/2025/10/11/Newman_vs_San_Luis_Ronda__20251011_1760199025039/ctr-all-hdri-complete.m3u8?v=1&hash=0199e71a480704fe2fa8ebb544d49764b85bfa52",
+    "k1": "c34218c610904a1fb764ce163d239c93",
+    "k2": "3678fd5fd9dafbbad28e969354bcc319"
   },
   {
     "title": "Estonia vs. Italy",
@@ -573,6 +578,16 @@
     "fecha-evento": "2025-10-11T18:00:00-05:00",
     "img": "71689866-9686-42f8-bb70-63369f282592",
     "nombre": "disney3ce809",
+    "status": "18:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "New York Rangers vs. Pittsburgh Penguins",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-10-11T18:00:00-05:00",
+    "img": "16a49fa4-68ae-436e-8834-62a094911130",
+    "nombre": "disney39a846",
     "status": "18:00",
     "duration": 135,
     "play_url": ""
