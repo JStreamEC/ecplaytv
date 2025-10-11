@@ -20,16 +20,6 @@
     "play_url": "https://www.disneyplus.com/es-es/play/341a8a2c-ab25-486c-852f-af07818e0c29"
   },
   {
-    "title": "Fórmula S",
-    "league": "Formula S",
-    "fecha-evento": "2025-10-11T11:00:04-05:00",
-    "img": "044049b2-7f90-4942-a64c-db45f5d5cf16",
-    "nombre": "disney5757e5",
-    "status": "11:00",
-    "duration": 300,
-    "play_url": "https://www.disneyplus.com/es-es/play/12d0fed6-ec3a-4fba-b90e-2740a7512955"
-  },
-  {
     "title": "David Allen vs. Arslanbek Makhmudov | ESPN KO",
     "league": "ESPN",
     "fecha-evento": "2025-10-11T13:00:00-05:00",
@@ -41,32 +31,6 @@
     "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1760292414~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F921e1311-bb26-43dd-84a6-9e2284959712-1759409855938%2F~psid=642d7e91-8730-4deb-a60c-0fdce4398404~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=236ef729995ef021bd1d61758e4e47edee687a8d1a1b595fd3388cdfea6ff29f/clt1/va02/disneyplus/channel/921e1311-bb26-43dd-84a6-9e2284959712-1759409855938/ctr-all-sliding-alt1.m3u8?v=1&hash=e50ddd99727af0a2947bb1b84904b1697e8043f8",
     "k1": "75170a6143e54779b9cfa08afdd95786",
     "k2": "e905bd7491208e4776a5e00d07f5283e"
-  },
-  {
-    "title": "Gimnasia y Esgrima La Plata vs. Talleres",
-    "league": "Liga Profesional de Fútbol",
-    "fecha-evento": "2025-10-11T13:45:01-05:00",
-    "img": "7fde77eb-377b-4c8f-b4a2-6623855c9443",
-    "nombre": "disney080f2c",
-    "status": "13:45",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/1967728e-a82a-410f-9afa-d724f3093bc4",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1760295835~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F11%2FGimnasia_y_Esgrima_La_Pla_20251011_1760201139039%2F~psid=b0c26cae-2ad1-48f3-95b5-1aa33c1d3328~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=97aaca957f7f701f52d24925a5715df4bfd1c3e447192c91d9d07a4f0b3690d3/clt1/va02/disneyplus/event/2025/10/11/Gimnasia_y_Esgrima_La_Pla_20251011_1760201139039/ctr-all-hdri-complete.m3u8?v=1&hash=f3384141c540703d6ab65ba2daf896770161be78",
-    "k1": "4e40f04188bf4989876c16bd87042eb4",
-    "k2": "6b9da89be58198789e34205fd9f6ab66"
-  },
-  {
-    "title": "New Hampshire vs. Union",
-    "league": "NCAA Women's Hockey",
-    "fecha-evento": "2025-10-11T14:00:01-05:00",
-    "img": "0b0cc00b-ac31-44da-af87-83b780d9eaf5",
-    "nombre": "disney5ff7f1",
-    "status": "14:00",
-    "duration": 150,
-    "play_url": "https://www.disneyplus.com/es-es/play/ed241227-c449-4ad9-af3f-a00e4ab06c98",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1760297022~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F11%2FNew_Hampshire_vs_Union_20251011_1760202043019%2F~psid=bb71c515-d04a-4747-961f-432484d23379~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=23bce1bbfa42007b1fd3a422e864ca9076c7b4105f736508c818c421b27b1f3d/clt1/va02/disneyplus/event/2025/10/11/New_Hampshire_vs_Union_20251011_1760202043019/ctr-all-hdri-complete.m3u8?v=1&hash=655e313b56ec4beaa8041c3ef1d88952e35ed308",
-    "k1": "ec15db598b3f499ba9972fd68b551c93",
-    "k2": "6627e813660b1b6074acd0139793aff8"
   },
   {
     "title": "Iraq vs. Indonesia",
@@ -551,6 +515,36 @@
     "img": "01f03425-6993-4144-ba24-ea54717304d8",
     "nombre": "disneyf49eb5",
     "status": "20:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Spokane Velocity vs. South Georgia Tormenta FC",
+    "league": "USL League One",
+    "fecha-evento": "2025-10-11T20:00:00-05:00",
+    "img": "78f98ff0-f990-4e1e-9531-d043accfded2",
+    "nombre": "disney07553e",
+    "status": "20:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Vélez Sarsfield vs. Rosario Central",
+    "league": "Liga Profesional de Fútbol",
+    "fecha-evento": "2025-10-11T20:00:00-05:00",
+    "img": "abc1b25e-f7de-4f69-a296-1565d9bb35a3",
+    "nombre": "disneyc08afc",
+    "status": "20:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Canterbury vs. Counties Manukau",
+    "league": "National Provincial Championship",
+    "fecha-evento": "2025-10-11T20:05:00-05:00",
+    "img": "3f0048ae-502e-4de8-b18e-8e9e90e03be7",
+    "nombre": "disneyd0e9c1",
+    "status": "20:05",
     "duration": 135,
     "play_url": ""
   }
