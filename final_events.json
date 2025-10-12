@@ -10,16 +10,6 @@
     "play_url": "https://www.disneyplus.com/es-es/play/53fa1dda-1f00-477a-829d-38ea75afd55b"
   },
   {
-    "title": "Denver Broncos vs. New York Jets",
-    "league": "NFL",
-    "fecha-evento": "2025-10-12T08:39:00-05:00",
-    "img": "0dedf531-852a-4f66-b387-178dd0b26664",
-    "nombre": "disneyfac1d6",
-    "status": "08:39",
-    "duration": 171,
-    "play_url": "https://www.disneyplus.com/es-es/play/a524d1f3-0303-4a0e-9195-59e98ef748e2"
-  },
-  {
     "title": "Premier Padel: Milán - Centre Court (Finales)",
     "league": "Premier Padel",
     "fecha-evento": "2025-10-12T09:30:02-05:00",
@@ -604,6 +594,16 @@
     "fecha-evento": "2025-10-13T12:00:00-05:00",
     "img": "08b5b02c-f968-4111-bc90-f1210d892adf",
     "nombre": "disneyafb992",
+    "status": "12:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Winnipeg Jets vs. New York Islanders",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-10-13T12:00:00-05:00",
+    "img": "36679549-7dfa-47d7-bf7d-a12b0bede16b",
+    "nombre": "disney70ee22",
     "status": "12:00",
     "duration": 135,
     "play_url": ""
