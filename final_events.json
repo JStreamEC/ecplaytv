@@ -20,16 +20,6 @@
     "play_url": "https://www.disneyplus.com/es-es/play/a524d1f3-0303-4a0e-9195-59e98ef748e2"
   },
   {
-    "title": "Sporting Gijón vs. Racing Santander",
-    "league": "Segunda División de España",
-    "fecha-evento": "2025-10-12T09:05:37-05:00",
-    "img": "f0a7fc36-ae7a-4f22-9639-e20ad4cc73dd",
-    "nombre": "disney59eb14",
-    "status": "09:05",
-    "duration": 129,
-    "play_url": "https://www.disneyplus.com/es-es/play/640548d7-a498-4f6c-96c3-34a7fe24971c"
-  },
-  {
     "title": "Premier Padel: Milán - Centre Court (Finales)",
     "league": "Premier Padel",
     "fecha-evento": "2025-10-12T09:30:02-05:00",
@@ -128,12 +118,15 @@
   {
     "title": "Cádiz vs. Huesca",
     "league": "Segunda División de España",
-    "fecha-evento": "2025-10-12T11:25:00-05:00",
+    "fecha-evento": "2025-10-12T11:25:11-05:00",
     "img": "8d9e5730-6ae2-419f-b89b-4b44ea31e49d",
-    "nombre": "disney780436",
+    "nombre": "disneye4cb55",
     "status": "11:25",
-    "duration": 135,
-    "play_url": ""
+    "duration": 125,
+    "play_url": "https://www.disneyplus.com/es-es/play/0bfa4c55-61ac-4439-a242-ba5206ad98d2",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1760373684~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F12%2FCdiz_vs_Huesca_20251012_1760279144028%2F~psid=d47d572f-aa04-45ef-92d2-a7d60b7bfdb3~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=610d763577535a9c438982e92681cc4b3ed71553c933b7e5ad1511427de4be09/clt1/va02/disneyplus/event/2025/10/12/Cdiz_vs_Huesca_20251012_1760279144028/ctr-all-hdri-complete.m3u8?v=1&hash=696a0b219f771707b113930b7e9d7869005595eb",
+    "k1": "95d653c1734a455f83117dc92be2ca12",
+    "k2": "8bb7897432cff3d7c089e83538012789"
   },
   {
     "title": "Malta vs. Bosnia-Herzegovina",
@@ -601,6 +594,16 @@
     "fecha-evento": "2025-10-13T12:00:00-05:00",
     "img": "1d9094e3-822d-4235-ae01-f2e1a2a6d131",
     "nombre": "disney884b52",
+    "status": "12:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Internacional de Tenis (First Round)",
+    "league": "ATP",
+    "fecha-evento": "2025-10-13T12:00:00-05:00",
+    "img": "08b5b02c-f968-4111-bc90-f1210d892adf",
+    "nombre": "disneyafb992",
     "status": "12:00",
     "duration": 135,
     "play_url": ""
