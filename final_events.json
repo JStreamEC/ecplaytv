@@ -10,16 +10,6 @@
     "play_url": "https://www.disneyplus.com/es-es/play/53fa1dda-1f00-477a-829d-38ea75afd55b"
   },
   {
-    "title": "acciona Spanish Open presented by Madrid (Final Round)",
-    "league": "DP World Tour",
-    "fecha-evento": "2025-10-12T05:30:02-05:00",
-    "img": "13571a74-68f4-4276-84c4-0a8b54e73c5d",
-    "nombre": "disney260592",
-    "status": "05:30",
-    "duration": 330,
-    "play_url": "https://www.disneyplus.com/es-es/play/1e691846-999a-4529-9392-7047f7249129"
-  },
-  {
     "title": "Denver Broncos vs. New York Jets",
     "league": "NFL",
     "fecha-evento": "2025-10-12T08:39:00-05:00",
@@ -596,6 +586,16 @@
     "img": "e90790a0-1b65-4662-bd04-26c2843cfec2",
     "nombre": "disney4bfc27",
     "status": "08:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Montenegro vs. Liechtenstein",
+    "league": "Amistosos internacionales",
+    "fecha-evento": "2025-10-13T10:50:00-05:00",
+    "img": "8859d643-7fac-4c14-af26-a510e6c4cce7",
+    "nombre": "disneybc23f8",
+    "status": "10:50",
     "duration": 135,
     "play_url": ""
   }
