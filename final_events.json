@@ -1,18 +1,5 @@
 [
   {
-    "title": "Cleveland Browns vs. Pittsburgh Steelers",
-    "league": "NFL",
-    "fecha-evento": "2025-10-12T12:00:00-05:00",
-    "img": "0d08361b-28d2-4eb7-88ca-06b662212a9a",
-    "nombre": "disney0b120a",
-    "status": "12:00",
-    "duration": 180,
-    "play_url": "https://www.disneyplus.com/es-es/play/6792f6dc-6740-4312-b570-b5775832e338",
-    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1760376503~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F7f9052ce-8143-43a6-9656-a8c00c4a3e56-1759410662253%2F~psid=7816fdce-17a3-48c2-b50b-d81716b7cde1~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=681ba50b952528c1aab2e88f7378009b820417331256baf8270db7d4c12cf929/clt1/va02/disneyplus/channel/7f9052ce-8143-43a6-9656-a8c00c4a3e56-1759410662253/ctr-all-sliding-alt1.m3u8?v=1&hash=62ce07132e0abe5c3d4609df742b679fdbe340b7",
-    "k1": "3789325a40cf45f48acb60f609b60ea9",
-    "k2": "57a30270bae0f08f0b79bf9c36c54d77"
-  },
-  {
     "title": "NFL Redzone",
     "league": "NFL",
     "fecha-evento": "2025-10-12T12:00:00-05:00",
@@ -171,12 +158,15 @@
   {
     "title": "San Francisco 49ers vs. Tampa Bay Buccaneers",
     "league": "NFL",
-    "fecha-evento": "2025-10-12T15:25:00-05:00",
+    "fecha-evento": "2025-10-12T15:20:00-05:00",
     "img": "83783ddb-5089-4dba-a80e-1f6929e8ad78",
-    "nombre": "disney1dabad",
-    "status": "15:25",
-    "duration": 135,
-    "play_url": ""
+    "nombre": "disney3fdd9f",
+    "status": "15:20",
+    "duration": 190,
+    "play_url": "https://www.disneyplus.com/es-es/play/8e4a273f-5111-4c46-9eb5-c4bdc7f92bc8",
+    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1760387641~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F7f9052ce-8143-43a6-9656-a8c00c4a3e56-1759410662253%2F~psid=802a121c-8cf3-4203-8d29-2eeb27ddea59~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=7a17fa9ad8f6ba63880dade58b445caa140d4efa3daf94d456c8c83577ceca84/clt1/va02/disneyplus/channel/7f9052ce-8143-43a6-9656-a8c00c4a3e56-1759410662253/ctr-all-sliding-alt1.m3u8?v=1&hash=62ce07132e0abe5c3d4609df742b679fdbe340b7",
+    "k1": "3789325a40cf45f48acb60f609b60ea9",
+    "k2": "57a30270bae0f08f0b79bf9c36c54d77"
   },
   {
     "title": "Tennessee Titans vs. Las Vegas Raiders",
@@ -587,6 +577,16 @@
     "fecha-evento": "2025-10-13T18:00:00-05:00",
     "img": "8d554fe9-94eb-41a5-b9a8-be06f2699501",
     "nombre": "disney47c0c5",
+    "status": "18:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Buffalo Bills vs. Atlanta Falcons",
+    "league": "NFL",
+    "fecha-evento": "2025-10-13T18:00:00-05:00",
+    "img": "1502640b-ad28-4720-9b63-718b698b506d",
+    "nombre": "disney06c6da",
     "status": "18:00",
     "duration": 135,
     "play_url": ""
