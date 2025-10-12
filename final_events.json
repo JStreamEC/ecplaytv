@@ -13,19 +13,6 @@
     "k2": "f39ad408bb6fcf9bdfedf24683684c4f"
   },
   {
-    "title": "Independiente Rivadavia de Mendoza vs. Godoy Cruz",
-    "league": "Liga Profesional de Fútbol",
-    "fecha-evento": "2025-10-12T14:30:00-05:00",
-    "img": "0ac10060-2ba9-4e81-b95a-8b6b163b9074",
-    "nombre": "disney9c22e6",
-    "status": "14:30",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/dd409fcd-6698-4935-bc34-f0b9138d81fe",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1760384418~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F12%2FIndependiente_Rivadavia_d_20251012_1760290242027%2F~psid=1ba267ff-e931-43ef-b0ea-570ad656e500~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=cc97014438d9d11b7b46a1a628219577cdb18d71bac55835a4ad2d28ef61e344/clt1/va02/disneyplus/event/2025/10/12/Independiente_Rivadavia_d_20251012_1760290242027/ctr-all-hdri-complete.m3u8?v=1&hash=6cfd908d97ffbc44763619f5ac9a55cd2479c5d5",
-    "k1": "97c86d97624a429b9a8f758674ad9e43",
-    "k2": "dcd42e9e0e031317288e448369851e9f"
-  },
-  {
     "title": "San Francisco 49ers vs. Tampa Bay Buccaneers",
     "league": "NFL",
     "fecha-evento": "2025-10-12T15:20:00-05:00",
@@ -71,8 +58,11 @@
     "img": "58eb2c86-aea1-42f3-8c6b-7f68b36bf0d6",
     "nombre": "disney309d5d",
     "status": "17:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/3215d7b5-2aa6-4a52-a62d-59281339bede",
+    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1760392818~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F921e1311-bb26-43dd-84a6-9e2284959712-1759409855938%2F~psid=439b1629-f658-4843-b329-739223d9b0d7~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=06c037f276ede4d4850027211536707b1558abac7519382a49e2e771b7c1304d/clt1/va02/disneyplus/channel/921e1311-bb26-43dd-84a6-9e2284959712-1759409855938/ctr-all-sliding-alt1.m3u8?v=1&hash=e50ddd99727af0a2947bb1b84904b1697e8043f8",
+    "k1": "e4d2cf1a26544e6e936b68b9df00829e",
+    "k2": "4a8c140feb9e718fd5ba1eddce0a6bc5"
   },
   {
     "title": "Athletes Unlimited Pro Volleyball",
@@ -488,7 +478,7 @@
     "title": "Los Angeles Dodgers vs. Milwaukee Brewers (NLCS, Game 1)",
     "league": "MLB",
     "fecha-evento": "2025-10-13T19:00:00-05:00",
-    "img": "6afe9922-73a2-49f5-915b-e235ebbdd2eb",
+    "img": "3ae55658-218e-4d2a-a546-aa450fc3ca8f",
     "nombre": "disneyddb0e4",
     "status": "19:00",
     "duration": 135,
