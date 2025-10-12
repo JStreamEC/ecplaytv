@@ -1,18 +1,5 @@
 [
   {
-    "title": "#19 North Carolina vs. #14 Duke",
-    "league": "Fútbol Femenino NCAA",
-    "fecha-evento": "2025-10-12T12:00:01-05:00",
-    "img": "536ccbac-d88b-473e-8570-db31ab444994",
-    "nombre": "disney50bc55",
-    "status": "12:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/d9fc950a-8152-44f0-b6fc-842bddb20208",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1760376457~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F12%2F19_North_Carolina_vs_14_D_20251012_1760282591198%2F~psid=64e75d16-ddf4-4c4c-8d11-c308154bd5bd~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=a38e174a51b67c4e42d2da495196b5b2e833a24c3c73c46c59bb22b64e03f74f/clt1/va02/disneyplus/event/2025/10/12/19_North_Carolina_vs_14_D_20251012_1760282591198/ctr-all-hdri-complete.m3u8?v=1&hash=fcb40eaec75ddd3784ddb9bfa0be7f770a334a0a",
-    "k1": "d1b3fd1f7ac94829941dd2ac9a3e7694",
-    "k2": "5e21e4762d7b185931ad5f139490a8fa"
-  },
-  {
     "title": "Cleveland Browns vs. Pittsburgh Steelers",
     "league": "NFL",
     "fecha-evento": "2025-10-12T12:00:00-05:00",
@@ -214,8 +201,11 @@
     "img": "0ac10060-2ba9-4e81-b95a-8b6b163b9074",
     "nombre": "disney9c22e6",
     "status": "14:30",
-    "duration": 135,
-    "play_url": ""
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/dd409fcd-6698-4935-bc34-f0b9138d81fe",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1760384418~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F12%2FIndependiente_Rivadavia_d_20251012_1760290242027%2F~psid=1ba267ff-e931-43ef-b0ea-570ad656e500~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=cc97014438d9d11b7b46a1a628219577cdb18d71bac55835a4ad2d28ef61e344/clt1/va02/disneyplus/event/2025/10/12/Independiente_Rivadavia_d_20251012_1760290242027/ctr-all-hdri-complete.m3u8?v=1&hash=6cfd908d97ffbc44763619f5ac9a55cd2479c5d5",
+    "k1": "97c86d97624a429b9a8f758674ad9e43",
+    "k2": "dcd42e9e0e031317288e448369851e9f"
   },
   {
     "title": "San Francisco 49ers vs. Tampa Bay Buccaneers",
@@ -604,6 +594,16 @@
     "img": "bc123d3e-5d0d-45b7-beb8-edd8bbc490ed",
     "nombre": "disneybe9a07",
     "status": "13:35",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Extreme H - Highlights",
+    "league": "ESPN",
+    "fecha-evento": "2025-10-13T16:30:00-05:00",
+    "img": "118a8f96-8f84-4038-a2a5-0982b7894fc1",
+    "nombre": "disney67eb73",
+    "status": "16:30",
     "duration": 135,
     "play_url": ""
   }
