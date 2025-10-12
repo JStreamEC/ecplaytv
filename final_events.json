@@ -20,16 +20,6 @@
     "play_url": "https://www.disneyplus.com/es-es/play/a524d1f3-0303-4a0e-9195-59e98ef748e2"
   },
   {
-    "title": "Harlequins vs. Saracens (Ronda #3)",
-    "league": "Premiership",
-    "fecha-evento": "2025-10-12T08:55:00-05:00",
-    "img": "f3d0637e-93b1-4f3f-b8e8-b53680052ea6",
-    "nombre": "disney847094",
-    "status": "08:55",
-    "duration": 125,
-    "play_url": "https://www.disneyplus.com/es-es/play/aae4f320-52ba-45d4-b6dc-a6c54c234b57"
-  },
-  {
     "title": "Sporting Gijón vs. Racing Santander",
     "league": "Segunda División de España",
     "fecha-evento": "2025-10-12T09:05:37-05:00",
@@ -38,16 +28,6 @@
     "status": "09:05",
     "duration": 129,
     "play_url": "https://www.disneyplus.com/es-es/play/640548d7-a498-4f6c-96c3-34a7fe24971c"
-  },
-  {
-    "title": "HC Olten vs. Banbridge HC",
-    "league": "European Hockey League - Men`s",
-    "fecha-evento": "2025-10-12T09:25:20-05:00",
-    "img": "235aeee2-aaf3-4dc3-af20-e22abd547ef4",
-    "nombre": "disneya0cca1",
-    "status": "09:25",
-    "duration": 125,
-    "play_url": "https://www.disneyplus.com/es-es/play/7a67c184-e194-4c2b-bcbf-d642ec3c7501"
   },
   {
     "title": "Premier Padel: Milán - Centre Court (Finales)",
@@ -126,8 +106,11 @@
     "img": "1632a9b4-288b-42fc-bb03-742e2768c3e6",
     "nombre": "disney8bbbd7",
     "status": "11:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/84fd05d2-8bbd-41bf-ba4a-4a8234ef773e",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1760372691~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F12%2FUCF_vs_Cincinnati_20251012_1760277616026%2F~psid=210a88b5-74e7-403b-b25c-e24def0f72f6~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=66180e0a825f3e3cd25d77609ef5cccb34f74f6be73f7f9eb31bfebb453081e1/clt1/va02/disneyplus/event/2025/10/12/UCF_vs_Cincinnati_20251012_1760277616026/ctr-all-hdri-complete.m3u8?v=1&hash=5cb4b15ae36bc91430ea018b3259284d814025cf",
+    "k1": "2c56107e0a674ede933a30980409eb19",
+    "k2": "7a16e0d7cf93db883b699d999f9f5760"
   },
   {
     "title": "Premier Padel 2025 - Milán P1 (Final)",
@@ -136,8 +119,11 @@
     "img": "35c5ef4e-81b0-4023-a3ce-1e58186d69c3",
     "nombre": "disneyef5083",
     "status": "11:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/cd54d5da-fcac-4250-a9f7-7d4db317cae5",
+    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1760372714~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Fbbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1759410188321%2F~psid=3ac71b9e-0240-4ced-a1d2-e3413b96db91~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=e1ed4e9cfc91b5f96ee7d2933ca9d8cd47df174dc5a6572dbaa1dca2d5718af3/clt1/va02/disneyplus/channel/bbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1759410188321/ctr-all-sliding-alt1.m3u8?v=1&hash=3f2beb7c737b132d1104736b95cd26c3f1914d57",
+    "k1": "3d1c6418c1ed4b68aea6c9fe7321439e",
+    "k2": "d4e06dd1f4789bc746326e5638b65ac2"
   },
   {
     "title": "Cádiz vs. Huesca",
@@ -596,6 +582,26 @@
     "img": "8859d643-7fac-4c14-af26-a510e6c4cce7",
     "nombre": "disneybc23f8",
     "status": "10:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Colorado Avalanche vs. Buffalo Sabres",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-10-13T11:30:00-05:00",
+    "img": "1f0ba2ce-052c-45d2-9ca1-f9bc402ca44f",
+    "nombre": "disneyd625ee",
+    "status": "11:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Nashville Predators vs. Ottawa Senators",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-10-13T12:00:00-05:00",
+    "img": "1d9094e3-822d-4235-ae01-f2e1a2a6d131",
+    "nombre": "disney884b52",
+    "status": "12:00",
     "duration": 135,
     "play_url": ""
   }
