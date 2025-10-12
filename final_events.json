@@ -13,32 +13,6 @@
     "k2": "dd0a83399b67ba74299597478462c19e"
   },
   {
-    "title": "Liverpool vs. Manchester City",
-    "league": "English Women's Super League",
-    "fecha-evento": "2025-10-12T10:30:00-05:00",
-    "img": "02fd9edb-bcc5-4994-90c6-ad486776804d",
-    "nombre": "disneye21951",
-    "status": "10:30",
-    "duration": 135,
-    "play_url": "https://www.disneyplus.com/es-es/play/b5f51d72-077e-4648-b1ae-30b9b9185276",
-    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1760376201~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Ff25bdf06-81c9-4a7c-b128-3128d610ad17-1759409600195%2F~psid=d28de166-414d-4bbf-be12-e5430d4fc6e0~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=6bb175c5a2b14ac6a622dc725785b33182f913eb456104dd820f601ec05a0b43/clt1/va02/disneyplus/channel/f25bdf06-81c9-4a7c-b128-3128d610ad17-1759409600195/ctr-all-sliding-alt1.m3u8?v=1&hash=4daaff4fdbe476e51bcd350032d73b0e9d85df99",
-    "k1": "06632bbb96754216a971cd6573a38e65",
-    "k2": "d07db49616f4007ebfa0db61246a3e29"
-  },
-  {
-    "title": "Netherlands vs. Finlandia",
-    "league": "Eliminatorias UEFA",
-    "fecha-evento": "2025-10-12T10:45:00-05:00",
-    "img": "18187dbf-643c-47fd-aeb0-78950a6f9e6e",
-    "nombre": "disney2476ba",
-    "status": "10:45",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/84e02ee5-6602-41b0-978c-5fd1c07bed1b",
-    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1760376224~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F921e1311-bb26-43dd-84a6-9e2284959712-1759409855938%2F~psid=37b26627-b8c8-4a2f-b5d1-0af3b9da853e~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=7dd7ca9cbf39f03437d010bc6c43ae1341227362b01d86872f916cb9fc308f7e/clt1/va02/disneyplus/channel/921e1311-bb26-43dd-84a6-9e2284959712-1759409855938/ctr-all-sliding-alt1.m3u8?v=1&hash=e50ddd99727af0a2947bb1b84904b1697e8043f8",
-    "k1": "e4d2cf1a26544e6e936b68b9df00829e",
-    "k2": "4a8c140feb9e718fd5ba1eddce0a6bc5"
-  },
-  {
     "title": "Juventud vs. River Plate Uruguay",
     "league": "Campeonato Uruguayo",
     "fecha-evento": "2025-10-12T10:45:10-05:00",
@@ -624,6 +598,16 @@
     "img": "36679549-7dfa-47d7-bf7d-a12b0bede16b",
     "nombre": "disney70ee22",
     "status": "12:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Detroit Red Wings vs. Toronto Maple Leafs",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-10-13T13:00:00-05:00",
+    "img": "d1d41fc3-9955-45ac-a21a-ddfd5a279199",
+    "nombre": "disneya1752b",
+    "status": "13:00",
     "duration": 135,
     "play_url": ""
   }
