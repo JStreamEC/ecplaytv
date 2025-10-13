@@ -1,31 +1,5 @@
 [
   {
-    "title": "River Plate vs. Sarmiento",
-    "league": "Liga Profesional de Fútbol",
-    "fecha-evento": "2025-10-12T17:00:00-05:00",
-    "img": "58eb2c86-aea1-42f3-8c6b-7f68b36bf0d6",
-    "nombre": "disney309d5d",
-    "status": "17:00",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/3215d7b5-2aa6-4a52-a62d-59281339bede",
-    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1760392818~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F921e1311-bb26-43dd-84a6-9e2284959712-1759409855938%2F~psid=439b1629-f658-4843-b329-739223d9b0d7~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=06c037f276ede4d4850027211536707b1558abac7519382a49e2e771b7c1304d/clt1/va02/disneyplus/channel/921e1311-bb26-43dd-84a6-9e2284959712-1759409855938/ctr-all-sliding-alt1.m3u8?v=1&hash=e50ddd99727af0a2947bb1b84904b1697e8043f8",
-    "k1": "e4d2cf1a26544e6e936b68b9df00829e",
-    "k2": "4a8c140feb9e718fd5ba1eddce0a6bc5"
-  },
-  {
-    "title": "Athletes Unlimited Pro Volleyball",
-    "league": "Athletes Unlimited Volleyball",
-    "fecha-evento": "2025-10-12T17:30:06-05:00",
-    "img": "76906aae-9ea7-44cc-8f7c-c0d5e85b102f",
-    "nombre": "disney5b8b66",
-    "status": "17:30",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/27347bf9-0e76-406c-a111-c03adcbcd594",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1760395221~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F12%2FAthletes_Unlimited_Pro_Vo_20251012_1760301011023%2F~psid=48224a04-1375-4f67-a90b-3ae313e61368~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=1798acb0c0ea9302296d1b1224975e06ef3fe3c05a70f2e2f6835011f5fe9698/clt1/va02/disneyplus/event/2025/10/12/Athletes_Unlimited_Pro_Vo_20251012_1760301011023/ctr-all-hdri-complete.m3u8?v=1&hash=00cc1f3c266d989f3c680f24990a9b50ee656978",
-    "k1": "d97c91e50bbe470bb6fa482aaaf09643",
-    "k2": "f56a8cc46da7a1190aa808ad9a5bc8bf"
-  },
-  {
     "title": "Atlético de San Luis vs. Toluca (Jornada 15)",
     "league": "Mexican Liga BBVA MX Femenil",
     "fecha-evento": "2025-10-12T17:50:00-05:00",
@@ -52,19 +26,6 @@
     "k2": "d4e06dd1f4789bc746326e5638b65ac2"
   },
   {
-    "title": "Spokane Zephyr vs. Dallas Trinity",
-    "league": "USL Super League",
-    "fecha-evento": "2025-10-12T18:00:00-05:00",
-    "img": "5046ba82-4624-4d75-a556-c1294cb72bc4",
-    "nombre": "disneyba250a",
-    "status": "18:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/96888108-0eb2-4cbe-a241-7ff7a6381411",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1760396504~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F12%2FSpokane_Zephyr_vs_Dallas__20251012_1760305631347%2F~psid=8bf6509c-a589-470e-8ebf-e89feeab7988~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=84f34012daf8c5ecb86eedc6f4065ee2f58474f2320ab645b879a2666f490b91/clt1/va02/disneyplus/event/2025/10/12/Spokane_Zephyr_vs_Dallas__20251012_1760305631347/ctr-all-hdri-complete.m3u8?v=1&hash=ad306b63f7af63a3271e49957785f2932e205618",
-    "k1": "b4028af67b8343ec9285530963d0c46a",
-    "k2": "19ccf3e2089bee31158c73d8a9d252ff"
-  },
-  {
     "title": "Washington Capitals vs. New York Rangers",
     "league": "National Hockey League",
     "fecha-evento": "2025-10-12T18:00:00-05:00",
@@ -78,24 +39,30 @@
     "k2": "4b67d11f9dd73968a576f622f767af09"
   },
   {
-    "title": "Seattle Mariners vs. Toronto Blue Jays (ALCS, Game 1)",
-    "league": "MLB",
-    "fecha-evento": "2025-10-12T19:00:00-05:00",
-    "img": "06c4622e-e328-4090-b78e-3aec2967b8db",
-    "nombre": "disney38f9dc",
-    "status": "19:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Detroit Lions vs. Kansas City Chiefs",
     "league": "NFL",
     "fecha-evento": "2025-10-12T19:00:00-05:00",
     "img": "25c23a03-64ce-46bd-8704-ba65345b523f",
     "nombre": "disney6728c0",
     "status": "19:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 210,
+    "play_url": "https://www.disneyplus.com/es-es/play/aa5c04e3-bd29-4cbf-9dc9-094f14e54c3d",
+    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1760401219~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Ff25bdf06-81c9-4a7c-b128-3128d610ad17-1759409600195%2F~psid=1b21024d-01dd-4431-ab00-c1706ddbe94f~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=a2213d940d656383dc4e5146e379ed447c4db0ce850a089f75a1fb87a02cefa8/clt1/va02/disneyplus/channel/f25bdf06-81c9-4a7c-b128-3128d610ad17-1759409600195/ctr-all-sliding-alt1.m3u8?v=1&hash=4daaff4fdbe476e51bcd350032d73b0e9d85df99",
+    "k1": "06632bbb96754216a971cd6573a38e65",
+    "k2": "d07db49616f4007ebfa0db61246a3e29"
+  },
+  {
+    "title": "Seattle Mariners vs. Toronto Blue Jays (ALCS, Game 1)",
+    "league": "MLB",
+    "fecha-evento": "2025-10-12T19:00:00-05:00",
+    "img": "06c4622e-e328-4090-b78e-3aec2967b8db",
+    "nombre": "disney38f9dc",
+    "status": "19:00",
+    "duration": 180,
+    "play_url": "https://www.disneyplus.com/es-es/play/321e97ce-82c3-4dd5-8c10-02e309395fce",
+    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1760401262~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F7f9052ce-8143-43a6-9656-a8c00c4a3e56-1759410662253%2F~psid=767cc919-3122-4a6a-b7fb-b9346764d67b~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=14a801f95f7f909021b048515cc4560b3b352e8e68b0be1e3ca73a756bb02b44/clt1/va02/disneyplus/channel/7f9052ce-8143-43a6-9656-a8c00c4a3e56-1759410662253/ctr-all-sliding-alt1.m3u8?v=1&hash=62ce07132e0abe5c3d4609df742b679fdbe340b7",
+    "k1": "3789325a40cf45f48acb60f609b60ea9",
+    "k2": "57a30270bae0f08f0b79bf9c36c54d77"
   },
   {
     "title": "En Español-Denver Nuggets vs. LA Clippers",
@@ -398,6 +365,16 @@
     "play_url": ""
   },
   {
+    "title": "Athletes Unlimited Pro Volleyball",
+    "league": "Athletes Unlimited Volleyball",
+    "fecha-evento": "2025-10-13T17:30:00-05:00",
+    "img": "76906aae-9ea7-44cc-8f7c-c0d5e85b102f",
+    "nombre": "disneycf2889",
+    "status": "17:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
     "title": "Florida Panthers vs. Philadelphia Flyers",
     "league": "National Hockey League",
     "fecha-evento": "2025-10-13T18:00:00-05:00",
@@ -484,6 +461,16 @@
     "img": "2ab9988e-508d-4480-8c45-0b7e0f82b092",
     "nombre": "disneydbd80c",
     "status": "21:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "New Zealand vs. Sri Lanka",
+    "league": "ESPN",
+    "fecha-evento": "2025-10-14T04:00:00-05:00",
+    "img": "3f924cb0-3281-456f-a3ad-22f42fb18e6b",
+    "nombre": "disneyf56b8b",
+    "status": "04:00",
     "duration": 135,
     "play_url": ""
   }
