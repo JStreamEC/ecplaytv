@@ -13,19 +13,6 @@
     "k2": "d07db49616f4007ebfa0db61246a3e29"
   },
   {
-    "title": "Seattle Mariners vs. Toronto Blue Jays (ALCS, Game 1)",
-    "league": "MLB",
-    "fecha-evento": "2025-10-12T19:00:00-05:00",
-    "img": "06c4622e-e328-4090-b78e-3aec2967b8db",
-    "nombre": "disney38f9dc",
-    "status": "19:00",
-    "duration": 180,
-    "play_url": "https://www.disneyplus.com/es-es/play/321e97ce-82c3-4dd5-8c10-02e309395fce",
-    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1760401262~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F7f9052ce-8143-43a6-9656-a8c00c4a3e56-1759410662253%2F~psid=767cc919-3122-4a6a-b7fb-b9346764d67b~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=14a801f95f7f909021b048515cc4560b3b352e8e68b0be1e3ca73a756bb02b44/clt1/va02/disneyplus/channel/7f9052ce-8143-43a6-9656-a8c00c4a3e56-1759410662253/ctr-all-sliding-alt1.m3u8?v=1&hash=62ce07132e0abe5c3d4609df742b679fdbe340b7",
-    "k1": "3789325a40cf45f48acb60f609b60ea9",
-    "k2": "57a30270bae0f08f0b79bf9c36c54d77"
-  },
-  {
     "title": "En Español-Denver Nuggets vs. LA Clippers",
     "league": "NBA",
     "fecha-evento": "2025-10-12T20:30:04-05:00",
@@ -451,6 +438,16 @@
     "img": "524729ca-9de3-4854-844c-cef9c818fcb7",
     "nombre": "disney63a084",
     "status": "10:45",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Norway vs. New Zealand",
+    "league": "Amistosos internacionales",
+    "fecha-evento": "2025-10-14T10:50:00-05:00",
+    "img": "0a279a13-7ca0-4e60-9801-4114719e813e",
+    "nombre": "disney4b4d8e",
+    "status": "10:50",
     "duration": 135,
     "play_url": ""
   }
