@@ -52,19 +52,6 @@
     "k2": "09b53e1588125653f6cbfa31cb631b53"
   },
   {
-    "title": "Florida Panthers vs. Philadelphia Flyers",
-    "league": "National Hockey League",
-    "fecha-evento": "2025-10-13T18:00:41-05:00",
-    "img": "b58df53d-3d5c-489d-bd17-22441e6bb1ad",
-    "nombre": "disney1c3842",
-    "status": "18:00",
-    "duration": 209,
-    "play_url": "https://www.disneyplus.com/es-es/play/b84750d6-e47c-470c-aeb3-7c68085dc5bd",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1760484136~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F13%2FFlorida_Panthers_vs_Phila_20251013_1760389213594%2F~psid=a2f48c9a-53a4-4c33-b307-fa890e8b2b8f~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=ca9447c1aa7286e503fc6f55d08f50fbab8cd7a7c52ca214d317923e2a6c02a6/clt1/va02/disneyplus/event/2025/10/13/Florida_Panthers_vs_Phila_20251013_1760389213594/ctr-all-hdri-complete.m3u8?v=1&hash=071ba92eb3355aa93dd0ea005064a4dcd76a8a22",
-    "k1": "8ec79f71bc6b4ddbbc2d62dcf6a34d2b",
-    "k2": "1dacfa54143f86af18a86fcac03635d8"
-  },
-  {
     "title": "New Jersey Devils vs. Columbus Blue Jackets",
     "league": "National Hockey League",
     "fecha-evento": "2025-10-13T18:00:03-05:00",
@@ -78,14 +65,30 @@
     "k2": "3c55111698dfcb1e4ece9f5c2aea235b"
   },
   {
+    "title": "Florida Panthers vs. Philadelphia Flyers",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-10-13T18:00:20-05:00",
+    "img": "b58df53d-3d5c-489d-bd17-22441e6bb1ad",
+    "nombre": "disney8e8e00",
+    "status": "18:00",
+    "duration": 210,
+    "play_url": "https://www.disneyplus.com/es-es/play/458979a1-c8b6-44ae-96a1-32e3105f933b",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1760485218~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F13%2FFlorida_Panthers_vs_Phila_20251013_1760389212038%2F~psid=0c8f487e-78fd-409d-a3d3-9a9953ef7406~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=0c973f009324455c9e2044355875d7522903c4de0b7c851ebda3147ef6727bf8/clt1/va02/disneyplus/event/2025/10/13/Florida_Panthers_vs_Phila_20251013_1760389212038/ctr-all-hdri-complete.m3u8?v=1&hash=c68be19ba0c484192f7b1c2263339d9522d4212e",
+    "k1": "a8ac0a8a672e4f82ab3d42d9815e6969",
+    "k2": "952374b17466bf0625083f7dbb36aa65"
+  },
+  {
     "title": "St. Louis Blues vs. Vancouver Canucks",
     "league": "National Hockey League",
-    "fecha-evento": "2025-10-13T18:30:00-05:00",
+    "fecha-evento": "2025-10-13T18:30:12-05:00",
     "img": "03f8a776-989f-4599-96c5-35b0cb605d1d",
-    "nombre": "disney408878",
+    "nombre": "disney46b0a1",
     "status": "18:30",
-    "duration": 135,
-    "play_url": ""
+    "duration": 210,
+    "play_url": "https://www.disneyplus.com/es-es/play/0a846c82-f057-4e65-8eeb-b7448754e3bd",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1760485261~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F13%2FSt_Louis_Blues_vs_Vancouv_20251013_1760391045524%2F~psid=7757e439-b6c0-4d93-a53c-3bf4f18c645b~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=fccd76eec0cee341c716dfd4ab9c71115e6504d12701e5637004b4dc61ee89cd/clt1/va02/disneyplus/event/2025/10/13/St_Louis_Blues_vs_Vancouv_20251013_1760391045524/ctr-all-hdri-complete.m3u8?v=1&hash=d9014c7216c15a6a48c731e487967ba82c170e92",
+    "k1": "65e23c8069b2411d9aacf284946de4eb",
+    "k2": "677d98df62bf72e7792f33a10a211462"
   },
   {
     "title": "Los Angeles Dodgers vs. Milwaukee Brewers (NLCS, Game 1)",
