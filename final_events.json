@@ -1,18 +1,5 @@
 [
   {
-    "title": "Washington Capitals vs. New York Rangers",
-    "league": "National Hockey League",
-    "fecha-evento": "2025-10-12T18:00:00-05:00",
-    "img": "599798f7-aa71-4d8c-8cf7-b5de91008e1f",
-    "nombre": "disney9dfbee",
-    "status": "18:00",
-    "duration": 210,
-    "play_url": "https://www.disneyplus.com/es-es/play/9a487d5e-e8e1-43f7-9f34-30b25f1d4d2d",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1760396528~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F12%2FWashington_Capitals_vs_Ne_20251012_1760302857578%2F~psid=bf96df51-70fd-46a4-aa3f-628e2e62fb2c~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=59d25b510335c98ed769e5c1258e5d627714ebab0c1102407cfa703a142e9c00/clt1/va02/disneyplus/event/2025/10/12/Washington_Capitals_vs_Ne_20251012_1760302857578/ctr-all-hdri-complete.m3u8?v=1&hash=07242d06e4952aa78f640c0174dd43bec1950f3c",
-    "k1": "7eca404081d44552820e8e7f22ed53d8",
-    "k2": "4b67d11f9dd73968a576f622f767af09"
-  },
-  {
     "title": "Detroit Lions vs. Kansas City Chiefs",
     "league": "NFL",
     "fecha-evento": "2025-10-12T19:00:00-05:00",
@@ -67,12 +54,15 @@
   {
     "title": "Kinoshita Group Japan Open / Center Court",
     "league": "WTA",
-    "fecha-evento": "2025-10-12T21:30:00-05:00",
+    "fecha-evento": "2025-10-12T21:30:01-05:00",
     "img": "880addbd-a584-4898-a477-af064f3cc974",
-    "nombre": "disney6fb5b6",
+    "nombre": "disney8422fc",
     "status": "21:30",
-    "duration": 135,
-    "play_url": ""
+    "duration": 480,
+    "play_url": "https://www.disneyplus.com/es-es/play/97c3fe53-d768-4ddb-affe-f5b5380aebb0",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1760409617~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F13%2FKinoshita_Group_Japan_Ope_20251013_1760315408031%2F~psid=b39dd0dd-fd6d-4d35-a4a3-cbceeed7ae50~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=05191c693498db960fff80b0f44af44500401ad42e57c5c8bb041b66d609b095/clt1/va02/disneyplus/event/2025/10/13/Kinoshita_Group_Japan_Ope_20251013_1760315408031/ctr-all-hdri-complete.m3u8?v=1&hash=799fb06b63199221c87d7fbd3a0d118b6c17d87a",
+    "k1": "d9e703f73b4240ef8579896bbcc44112",
+    "k2": "ef4a56ff878a980ce27b29b279381a90"
   },
   {
     "title": "2025 AUX · Ningbo Open / Grandstand",
@@ -451,6 +441,16 @@
     "img": "3f924cb0-3281-456f-a3ad-22f42fb18e6b",
     "nombre": "disneyf56b8b",
     "status": "04:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Estonia vs. Moldova",
+    "league": "Eliminatorias UEFA",
+    "fecha-evento": "2025-10-14T10:45:00-05:00",
+    "img": "524729ca-9de3-4854-844c-cef9c818fcb7",
+    "nombre": "disney63a084",
+    "status": "10:45",
     "duration": 135,
     "play_url": ""
   }
