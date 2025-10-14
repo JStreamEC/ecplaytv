@@ -1,18 +1,5 @@
 [
   {
-    "title": "Buffalo Bills vs. Atlanta Falcons",
-    "league": "NFL",
-    "fecha-evento": "2025-10-13T18:00:00-05:00",
-    "img": "1502640b-ad28-4720-9b63-718b698b506d",
-    "nombre": "disney06c6da",
-    "status": "18:00",
-    "duration": 195,
-    "play_url": "https://www.disneyplus.com/es-es/play/6c7d036a-10d1-4488-82a4-2da926f7afc4",
-    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1760484112~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Ff25bdf06-81c9-4a7c-b128-3128d610ad17-1759409600195%2F~psid=e906357d-7515-46ce-bb5d-0bd0c358f889~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=7b7eaa2bfc4e839491aeb396eec5b566b5434b51610b7e9cff1ef0bba6bc0119/clt1/va02/disneyplus/channel/f25bdf06-81c9-4a7c-b128-3128d610ad17-1759409600195/ctr-all-sliding-alt1.m3u8?v=1&hash=4daaff4fdbe476e51bcd350032d73b0e9d85df99",
-    "k1": "fe00f9a5ca484d4bb060b0bc953e4405",
-    "k2": "09b53e1588125653f6cbfa31cb631b53"
-  },
-  {
     "title": "Chicago Bears vs. Washington Commanders",
     "league": "NFL",
     "fecha-evento": "2025-10-13T19:00:00-05:00",
@@ -78,44 +65,56 @@
     "k2": "58c6a28413c25c1598f458e9d01d8115"
   },
   {
-    "title": "Kinoshita Group Japan Open / Court 8",
+    "title": "Kinoshita Group Japan Open / Center Court",
     "league": "WTA",
-    "fecha-evento": "2025-10-13T21:30:00-05:00",
-    "img": "2ab9988e-508d-4480-8c45-0b7e0f82b092",
-    "nombre": "disneydbd80c",
+    "fecha-evento": "2025-10-13T21:30:01-05:00",
+    "img": "00065175-5014-4d20-972e-79987dc28c4e",
+    "nombre": "disney8cb1f5",
     "status": "21:30",
-    "duration": 135,
-    "play_url": ""
+    "duration": 480,
+    "play_url": "https://www.disneyplus.com/es-es/play/aaffd990-9e06-49b9-b728-582b2ce48b36",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1760496018~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F14%2FKinoshita_Group_Japan_Ope_20251014_1760401844026%2F~psid=b2cfdf29-0a4e-4962-83d4-99e679bae33f~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=475dc741e9cf7fe83703fc71d9a44b305799f4c5e76782163e4ceefbfc25dea0/clt1/va02/disneyplus/event/2025/10/14/Kinoshita_Group_Japan_Ope_20251014_1760401844026/ctr-all-hdri-complete.m3u8?v=1&hash=a43bef5ac68037e72c24f23bda3735da3a0e3145",
+    "k1": "ed3a17deea3f40a49411853253485f8a",
+    "k2": "e00c3e7775f71e189c7b9ca0acafe271"
   },
   {
     "title": "Kinoshita Group Japan Open / Court 6 (Doubles)",
     "league": "WTA",
-    "fecha-evento": "2025-10-13T21:30:00-05:00",
+    "fecha-evento": "2025-10-13T21:30:03-05:00",
     "img": "23dfcb47-3490-4106-a386-616a8df2d596",
-    "nombre": "disney4838e8",
+    "nombre": "disney97af31",
     "status": "21:30",
-    "duration": 135,
-    "play_url": ""
+    "duration": 480,
+    "play_url": "https://www.disneyplus.com/es-es/play/a718f679-b5af-43a2-977f-cbcdfaf63b0e",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1760496062~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F14%2FKinoshita_Group_Japan_Ope_20251014_1760401823025%2F~psid=322db43e-e5c7-4b78-b1cf-f3637f1d5c6e~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=ffc855eecab6c8ba53b629bc5159de06577e38b4a788b6bac468fdfa215d3785/clt1/va02/disneyplus/event/2025/10/14/Kinoshita_Group_Japan_Ope_20251014_1760401823025/ctr-all-hdri-complete.m3u8?v=1&hash=66eb3364a14113faab70f524fe5415162ffac77b",
+    "k1": "c8671a27dab84287af31be5aecdc6cbe",
+    "k2": "b778f5e63cdec2e08a0798877021a608"
   },
   {
-    "title": "Kinoshita Group Japan Open / Center Court",
+    "title": "Kinoshita Group Japan Open / Court 8",
     "league": "WTA",
-    "fecha-evento": "2025-10-13T21:30:00-05:00",
-    "img": "00065175-5014-4d20-972e-79987dc28c4e",
-    "nombre": "disney5002e8",
+    "fecha-evento": "2025-10-13T21:30:04-05:00",
+    "img": "2ab9988e-508d-4480-8c45-0b7e0f82b092",
+    "nombre": "disney897290",
     "status": "21:30",
-    "duration": 135,
-    "play_url": ""
+    "duration": 480,
+    "play_url": "https://www.disneyplus.com/es-es/play/31b2e574-a896-454b-aa51-99faf6f2d713",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1760496105~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F14%2FKinoshita_Group_Japan_Ope_20251014_1760401819040%2F~psid=82c84f92-65bd-4bc4-871f-2439b8e1ff28~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=c18ab70d0b2b1c271ca2412e6b8b9f5a0fef660b73569f8d06b9547038550ee6/clt1/va02/disneyplus/event/2025/10/14/Kinoshita_Group_Japan_Ope_20251014_1760401819040/ctr-all-hdri-complete.m3u8?v=1&hash=080b1c34f438a7152e18ed93bd8e44473385c8e5",
+    "k1": "6d39d2f54c8442b58904415a4111bfd6",
+    "k2": "d804fefc1567e8f7664a658edf28489e"
   },
   {
     "title": "Kinoshita Group Japan Open / Court 1",
     "league": "WTA",
-    "fecha-evento": "2025-10-13T21:30:00-05:00",
+    "fecha-evento": "2025-10-13T21:30:10-05:00",
     "img": "0a6c6d70-4196-4ce4-a034-8e1a55003a12",
-    "nombre": "disneydb756b",
+    "nombre": "disney339e12",
     "status": "21:30",
-    "duration": 135,
-    "play_url": ""
+    "duration": 480,
+    "play_url": "https://www.disneyplus.com/es-es/play/c5cf7054-1342-4ff2-83c3-67e3201cded0",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1760496128~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F14%2FKinoshita_Group_Japan_Ope_20251014_1760401825041%2F~psid=1b6bd48b-581a-4391-ae3e-2502a54477fc~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=5b02093af2b54ddc6e53e2757edf678d830e1329eebdd97bdb4168a697618942/clt1/va02/disneyplus/event/2025/10/14/Kinoshita_Group_Japan_Ope_20251014_1760401825041/ctr-all-hdri-complete.m3u8?v=1&hash=c5285d3e81607632809f43a9e49678879003d0b5",
+    "k1": "ead9c4b6d2ff4e2997932df228dc60fe",
+    "k2": "b71ef7ad898b8e2dc92b6f6267ead8d0"
   },
   {
     "title": "2025 AUX · Ningbo Open / Grandstand",
@@ -524,6 +523,16 @@
     "img": "66945a39-c010-4ebc-906b-b64e282496c5",
     "nombre": "disney397035",
     "status": "06:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "BNP Paribas Nordic Open (First & Second Round)",
+    "league": "ATP",
+    "fecha-evento": "2025-10-15T07:00:00-05:00",
+    "img": "0a217ffa-5aa8-43ec-b46a-28bfb4b61903",
+    "nombre": "disneyc350c2",
+    "status": "07:00",
     "duration": 135,
     "play_url": ""
   }
