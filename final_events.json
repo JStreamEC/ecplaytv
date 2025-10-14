@@ -13,19 +13,6 @@
     "k2": "ebfda948fd7048cb800f562f5d998b60"
   },
   {
-    "title": "Los Angeles Dodgers vs. Milwaukee Brewers (NLCS, Game 1)",
-    "league": "MLB",
-    "fecha-evento": "2025-10-13T19:00:00-05:00",
-    "img": "3ae55658-218e-4d2a-a546-aa450fc3ca8f",
-    "nombre": "disneyddb0e4",
-    "status": "19:00",
-    "duration": 180,
-    "play_url": "https://www.disneyplus.com/es-es/play/0cec5f51-dd07-41a2-8c05-b290dabf7c5f",
-    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1760487618~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Fec26a05e-a9cc-4db4-804e-77465738e667-1759408066139%2F~psid=4a9d8e7c-1a30-44c8-8ee8-8b0a22087899~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=f53f5e917aaca74a6a40dbaca2c4bc40cad6c7b1eb2bc6c8915963b73e2ca527/clt1/va02/disneyplus/channel/ec26a05e-a9cc-4db4-804e-77465738e667-1759408066139/ctr-all-sliding-alt1.m3u8?v=1&hash=f49ea62fa7410074aaa3483f688cb1f35dfe9b3b",
-    "k1": "495cb7ab7d504ce1be306541a5e86c4e",
-    "k2": "88943b496cd8405e31bb7218fbf27112"
-  },
-  {
     "title": "Los Angeles Kings vs. Minnesota Wild",
     "league": "National Hockey League",
     "fecha-evento": "2025-10-13T19:00:25-05:00",
@@ -520,6 +507,16 @@
     "img": "0a217ffa-5aa8-43ec-b46a-28bfb4b61903",
     "nombre": "disneyc350c2",
     "status": "07:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Internacional de Tenis (Round of 16)",
+    "league": "ATP",
+    "fecha-evento": "2025-10-15T09:00:00-05:00",
+    "img": "3cd9bfec-307e-437d-8dca-57128c56fd6a",
+    "nombre": "disney3ead6e",
+    "status": "09:00",
     "duration": 135,
     "play_url": ""
   }
