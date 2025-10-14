@@ -36,19 +36,6 @@
     "k2": "0e9a89e67641b2a336eb70fdd59e289c"
   },
   {
-    "title": "Estonia vs. Moldova",
-    "league": "Eliminatorias UEFA",
-    "fecha-evento": "2025-10-14T10:45:00-05:00",
-    "img": "524729ca-9de3-4854-844c-cef9c818fcb7",
-    "nombre": "disney63a084",
-    "status": "10:45",
-    "duration": 135,
-    "play_url": "https://www.disneyplus.com/es-es/play/f0dbad47-80ee-45fb-8b76-8d55b6d01255",
-    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1760546504~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Ff25bdf06-81c9-4a7c-b128-3128d610ad17-1759409600195%2F~psid=8fd83d02-1c8b-4384-bd2f-e5f23f38ef84~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=0312407e9c803106a0d384dd6f756fc643d064672608462796d1df4abef06541/clt1/va02/disneyplus/channel/f25bdf06-81c9-4a7c-b128-3128d610ad17-1759409600195/ctr-all-sliding-alt1.m3u8?v=1&hash=4daaff4fdbe476e51bcd350032d73b0e9d85df99",
-    "k1": "436df2cf1e734a1d97a0967a69d3ccc6",
-    "k2": "2875c400333c58778e9d09965a60253a"
-  },
-  {
     "title": "BNP Paribas Nordic Open (First Round)",
     "league": "ATP",
     "fecha-evento": "2025-10-14T11:09:26-05:00",
@@ -567,6 +554,16 @@
     "img": "1117c858-22a2-486c-8e1a-42637aae0255",
     "nombre": "disney03311b",
     "status": "18:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Defensor Sporting vs. Peñarol",
+    "league": "Copa Uruguay",
+    "fecha-evento": "2025-10-15T18:30:00-05:00",
+    "img": "0eae9792-039a-462f-af08-043db0c8c44d",
+    "nombre": "disney595112",
+    "status": "18:30",
     "duration": 135,
     "play_url": ""
   }
