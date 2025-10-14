@@ -1,18 +1,5 @@
 [
   {
-    "title": "Seattle Mariners vs. Toronto Blue Jays (ALCS, Game 2)",
-    "league": "MLB",
-    "fecha-evento": "2025-10-13T16:00:00-05:00",
-    "img": "06c4622e-e328-4090-b78e-3aec2967b8db",
-    "nombre": "disney34f0da",
-    "status": "16:00",
-    "duration": 180,
-    "play_url": "https://www.disneyplus.com/es-es/play/a8ed7375-c5c8-40ac-8c1f-bbfcdd9213b2",
-    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1760484026~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F7f9052ce-8143-43a6-9656-a8c00c4a3e56-1759410662253%2F~psid=cd7b4ae1-b04e-400e-b53c-4fcccc54bacb~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=79a3219a3b29f83465e7257b58cfd87eb450028fa91dc71a9e661fd7db610a0c/clt1/va02/disneyplus/channel/7f9052ce-8143-43a6-9656-a8c00c4a3e56-1759410662253/ctr-all-sliding-alt1.m3u8?v=1&hash=62ce07132e0abe5c3d4609df742b679fdbe340b7",
-    "k1": "f0d6308a39b24137b903e308458a3b1a",
-    "k2": "1fd357d27291cd51389ea62cff5cc473"
-  },
-  {
     "title": "Buffalo Bills vs. Atlanta Falcons",
     "league": "NFL",
     "fecha-evento": "2025-10-13T18:00:00-05:00",
@@ -67,12 +54,15 @@
   {
     "title": "Utah Mammoth vs. Chicago Blackhawks",
     "league": "National Hockey League",
-    "fecha-evento": "2025-10-13T19:30:00-05:00",
+    "fecha-evento": "2025-10-13T19:29:45-05:00",
     "img": "13b240d2-30eb-4e33-a1e1-171a0447171e",
-    "nombre": "disney472542",
-    "status": "19:30",
-    "duration": 135,
-    "play_url": ""
+    "nombre": "disneya59a2e",
+    "status": "19:29",
+    "duration": 210,
+    "play_url": "https://www.disneyplus.com/es-es/play/ba2cfae0-50d2-425e-8f95-38ff4b431c82",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1760488818~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F14%2FUtah_Mammoth_vs_Chicago_B_20251014_1760394635036%2F~psid=33ca60d6-f596-43ab-bfb2-ba9b32998683~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=a0e70b12a28aa3f725f4d2b4558b62527b2099d986dc5d428e07e64f8c929186/clt1/va02/disneyplus/event/2025/10/14/Utah_Mammoth_vs_Chicago_B_20251014_1760394635036/ctr-all-hdri-complete.m3u8?v=1&hash=ee99d00a0a3669448e3464875dad6c15a21fa250",
+    "k1": "1e209c55b27a4c90a452b0de3de2b0e2",
+    "k2": "eb9812ab3870efde7d64b351499a02d5"
   },
   {
     "title": "Athletes Unlimited Pro Volleyball",
@@ -188,7 +178,7 @@
     "title": "Laslo Djere (SRB) vs. Alexander Shevchenko (RUS) (First Round)",
     "league": "ATP",
     "fecha-evento": "2025-10-14T09:00:00-05:00",
-    "img": "c28d540d-0d33-4173-a0b2-22e2ea6d7612",
+    "img": "dfde8843-3a0a-4ccc-9b21-cdddfa154153",
     "nombre": "disney937668",
     "status": "09:00",
     "duration": 135,
@@ -521,6 +511,16 @@
     "img": "3f924cb0-3281-456f-a3ad-22f42fb18e6b",
     "nombre": "disney7804cd",
     "status": "04:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "European Open (Second Round)",
+    "league": "ATP",
+    "fecha-evento": "2025-10-15T06:30:00-05:00",
+    "img": "66945a39-c010-4ebc-906b-b64e282496c5",
+    "nombre": "disney397035",
+    "status": "06:30",
     "duration": 135,
     "play_url": ""
   }
