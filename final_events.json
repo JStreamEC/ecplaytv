@@ -49,32 +49,6 @@
     "k2": "5ee5c21a6a9ad9e75b50b857004274e1"
   },
   {
-    "title": "Albania vs. Jordan",
-    "league": "Amistosos internacionales",
-    "fecha-evento": "2025-10-14T11:50:00-05:00",
-    "img": "fb1da264-6fce-493a-9a11-bc0543404663",
-    "nombre": "disneyd7d6a5",
-    "status": "11:50",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/a09fc2a4-dc69-439e-81f3-35499652da45",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1760547618~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F14%2FAlbania_vs_Jordan_20251014_1760453407037%2F~psid=8574e157-a50e-40fb-aac9-887c2f0d4609~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=7fa9d78e18d21517c9c10c7ce34461132adf0d7c5cdcc0e4fe54e2a4790ebf7b/clt1/va02/disneyplus/event/2025/10/14/Albania_vs_Jordan_20251014_1760453407037/ctr-all-hdri-complete.m3u8?v=1&hash=93ef97ea1e2deb3ae055b75ec93ed9e8c1e00241",
-    "k1": "4e4c627f35564484b2a9c55af1de54c3",
-    "k2": "2e52c23743f057c66d7d540b8aa971c4"
-  },
-  {
-    "title": "Qatar vs. United Arab Emirates",
-    "league": "Eliminatorias de Asia",
-    "fecha-evento": "2025-10-14T11:50:28-05:00",
-    "img": "d0b40a6b-22f6-4ad7-9e89-24703b234f67",
-    "nombre": "disney921b80",
-    "status": "11:50",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/35d771eb-2172-4b72-a8b3-8f4e9e0f5cfd",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1760547662~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F14%2FQatar_vs_United_Arab_Emir_20251014_1760453754039%2F~psid=5f577868-996f-4001-b632-940d114eef92~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=bb93b0912c81ec6ee3f7833f71491b312332bef6384e3ee36478deb70ae2491c/clt1/va02/disneyplus/event/2025/10/14/Qatar_vs_United_Arab_Emir_20251014_1760453754039/ctr-all-hdri-complete.m3u8?v=1&hash=33dedcdd132f9ebbaf06f2ff369bf383582fc103",
-    "k1": "01358c987068492982bba11e729fc55f",
-    "k2": "e44542013133e098d1eb94865f1667aa"
-  },
-  {
     "title": "Portugal vs. Hungría",
     "league": "Eliminatorias UEFA",
     "fecha-evento": "2025-10-14T13:25:02-05:00",
@@ -588,6 +562,26 @@
     "img": "2fa0ed33-0f1d-4a99-8cb2-4c06efca3d6f",
     "nombre": "disney0e6693",
     "status": "19:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Orlando Pride vs. CF Pachuca Femenil (Fecha #5)",
+    "league": "Concacaf W Champions Cup",
+    "fecha-evento": "2025-10-15T19:10:00-05:00",
+    "img": "24e4c90f-7ad6-465b-9d8a-d78124b91fdb",
+    "nombre": "disneyac451c",
+    "status": "19:10",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Calgary Flames vs. Utah Mammoth",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-10-15T20:30:00-05:00",
+    "img": "467a7882-68e2-475e-82e5-f11b3b61acee",
+    "nombre": "disney906b65",
+    "status": "20:30",
     "duration": 135,
     "play_url": ""
   }
