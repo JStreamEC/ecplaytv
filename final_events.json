@@ -1,31 +1,5 @@
 [
   {
-    "title": "Los Angeles Kings vs. Minnesota Wild",
-    "league": "National Hockey League",
-    "fecha-evento": "2025-10-13T19:00:25-05:00",
-    "img": "610cf8e1-c659-4ecb-94c1-79c4965ba834",
-    "nombre": "disney3658e5",
-    "status": "19:00",
-    "duration": 210,
-    "play_url": "https://www.disneyplus.com/es-es/play/9b40d4ce-d3bc-4785-b260-8f633cd20870",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1760487661~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F14%2FLos_Angeles_Kings_vs_Minn_20251014_1760392804425%2F~psid=7510b8d2-0055-4189-85b2-59b95361f90d~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=360f190ed8c543d95cfdd977ab5f4efa73460a0d81a5dc69523464ab74520d72/clt1/va02/disneyplus/event/2025/10/14/Los_Angeles_Kings_vs_Minn_20251014_1760392804425/ctr-all-hdri-complete.m3u8?v=1&hash=860c9e2989eb33efa9c0a34172474f8a6b681c70",
-    "k1": "60905829528044b1bff1737978f226b8",
-    "k2": "6b3b39769cdf646d4264538b46bba46f"
-  },
-  {
-    "title": "Utah Mammoth vs. Chicago Blackhawks",
-    "league": "National Hockey League",
-    "fecha-evento": "2025-10-13T19:29:45-05:00",
-    "img": "13b240d2-30eb-4e33-a1e1-171a0447171e",
-    "nombre": "disneya59a2e",
-    "status": "19:29",
-    "duration": 210,
-    "play_url": "https://www.disneyplus.com/es-es/play/ba2cfae0-50d2-425e-8f95-38ff4b431c82",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1760488818~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F14%2FUtah_Mammoth_vs_Chicago_B_20251014_1760394635036%2F~psid=33ca60d6-f596-43ab-bfb2-ba9b32998683~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=a0e70b12a28aa3f725f4d2b4558b62527b2099d986dc5d428e07e64f8c929186/clt1/va02/disneyplus/event/2025/10/14/Utah_Mammoth_vs_Chicago_B_20251014_1760394635036/ctr-all-hdri-complete.m3u8?v=1&hash=ee99d00a0a3669448e3464875dad6c15a21fa250",
-    "k1": "1e209c55b27a4c90a452b0de3de2b0e2",
-    "k2": "eb9812ab3870efde7d64b351499a02d5"
-  },
-  {
     "title": "Kinoshita Group Japan Open / Center Court",
     "league": "WTA",
     "fecha-evento": "2025-10-13T21:30:01-05:00",
@@ -514,6 +488,36 @@
     "img": "bc4d0d92-57f3-4720-a06b-686ec59bfc92",
     "nombre": "disneye43573",
     "status": "11:25",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Valerenga vs. Wolfsburg",
+    "league": "UEFA Women's Champions League",
+    "fecha-evento": "2025-10-15T11:30:00-05:00",
+    "img": "f2fdb88f-d262-4118-ac2c-9ad4ec1d3ca6",
+    "nombre": "disney8d4db4",
+    "status": "11:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "OL Lyonnes vs. St. Pölten",
+    "league": "UEFA Women's Champions League",
+    "fecha-evento": "2025-10-15T11:30:00-05:00",
+    "img": "aee09959-ac53-4cf6-bc7f-f3480537b35a",
+    "nombre": "disney83500f",
+    "status": "11:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Roma vs. Barcelona",
+    "league": "UEFA Women's Champions League",
+    "fecha-evento": "2025-10-15T13:40:00-05:00",
+    "img": "220d272b-7859-4111-b308-e37f95b2d437",
+    "nombre": "disney3d2226",
+    "status": "13:40",
     "duration": 135,
     "play_url": ""
   }
