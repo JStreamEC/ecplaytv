@@ -1,195 +1,42 @@
 [
   {
-    "title": "AS Monaco vs. Tottenham Hotspur",
-    "league": "UEFA Champions League",
-    "fecha-evento": "2025-10-21T13:40:00-05:00",
-    "img": "87953348-7be0-485b-85fb-a5c4fe2971a8",
-    "nombre": "disney10b4c3",
-    "status": "13:40",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Calgary Flames vs. Utah Mammoth",
-    "league": "National Hockey League",
-    "fecha-evento": "2025-10-15T20:29:16-05:00",
-    "img": "467a7882-68e2-475e-82e5-f11b3b61acee",
-    "nombre": "disney8f6d4c",
-    "status": "20:29",
-    "duration": 211,
-    "play_url": "https://www.disneyplus.com/es-es/play/d490c8af-10f6-4e0f-879a-aa094c3e6317",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1760676859~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F16%2FCalgary_Flames_vs_Utah_Ma_20251016_1760571014472%2F~psid=9a91fbc3-5de7-4560-b286-bffdc5d0bf49~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=3ea960be3ea41321585ee903a900ed85d6a7f71aedf25bf035f3018e747a7c5f/clt1/va02/disneyplus/event/2025/10/16/Calgary_Flames_vs_Utah_Ma_20251016_1760571014472/ctr-all-hdri-complete.m3u8?v=1&hash=b5fec144373b36ffeeffdedf40741e9977e36910",
-    "k1": "ba29e59c77fd4e6dbfe06208fa93f506",
-    "k2": "6a3e052112a8a76ce5428825377bcc14"
-  },
-  {
-    "title": "Kinoshita Group Japan Open / Court 1",
-    "league": "WTA",
-    "fecha-evento": "2025-10-15T21:30:00-05:00",
-    "img": "0a6c6d70-4196-4ce4-a034-8e1a55003a12",
-    "nombre": "disney5fcde1",
-    "status": "21:30",
-    "duration": 360,
-    "play_url": "https://www.disneyplus.com/es-es/play/641dfcd5-6b40-4f31-876e-2a912685689a",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1760676902~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F16%2FKinoshita_Group_Japan_Ope_20251016_1760574625037%2F~psid=cbe93a27-0754-41b8-8325-d7b4e8066d5d~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=02aab10a69f28041b9b66144a1386fdb03d4bd63b5e7e2e10fd6d791b81b21f1/clt1/va02/disneyplus/event/2025/10/16/Kinoshita_Group_Japan_Ope_20251016_1760574625037/ctr-all-hdri-complete.m3u8?v=1&hash=140cef3aeadc3b75d8a9c00778508991275b8a58",
-    "k1": "127a47dd56b6418dbd492760556b61b5",
-    "k2": "fb553a75d349260848106a0e72189fee"
-  },
-  {
-    "title": "Kinoshita Group Japan Open (Second Round)",
-    "league": "WTA",
-    "fecha-evento": "2025-10-15T21:30:00-05:00",
-    "img": "26f47a48-6a1f-4e43-acef-a4dd50723d19",
-    "nombre": "disney097bdb",
-    "status": "21:30",
-    "duration": 360,
-    "play_url": "https://www.disneyplus.com/es-es/play/cc23c87d-608b-4f0d-a1b1-0b340355d5d5",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1760676945~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F16%2FKinoshita_Group_Japan_Ope_20251016_1760574631040%2F~psid=819eef53-b438-4969-bc49-9cc60dbd63eb~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=7998f33fd415e31225c7ca7d3eb432c28579de24bd121f31f67c0978be3ead10/clt1/va02/disneyplus/event/2025/10/16/Kinoshita_Group_Japan_Ope_20251016_1760574631040/ctr-all-hdri-complete.m3u8?v=1&hash=ad2b9ce73bed5659e64cd2b79826570d4ca91f6e",
-    "k1": "61acb50637c04106aabc356523e36a2e",
-    "k2": "68f4a17e225d142206ee58f32df34e62"
-  },
-  {
-    "title": "En Español-Dallas Mavericks vs. Los Angeles Lakers",
-    "league": "NBA",
-    "fecha-evento": "2025-10-15T21:30:00-05:00",
-    "img": "8b2874ef-50bb-464c-bf9f-52fccb9c377a",
-    "nombre": "disney40e78a",
-    "status": "21:30",
-    "duration": 150,
-    "play_url": "https://www.disneyplus.com/es-es/play/cba3226e-5b1d-4e86-b53d-ba854176079d",
-    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1760676968~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Ff25bdf06-81c9-4a7c-b128-3128d610ad17-1759409600195%2F~psid=37761e98-b09d-49d7-8908-8592e4f873d2~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=5a2a4a047428337d681dd6d07549f88ecdfb99359254378a6196ca9692b1f459/clt1/va02/disneyplus/channel/f25bdf06-81c9-4a7c-b128-3128d610ad17-1759409600195/ctr-all-sliding-alt1.m3u8?v=1&hash=4daaff4fdbe476e51bcd350032d73b0e9d85df99",
-    "k1": "d50cd1cdb5614f4c96fffb1693842eb4",
-    "k2": "d033e7bfbce56865d369c5eff978fdce"
-  },
-  {
-    "title": "2025 AUX · Ningbo Open (Second Round)",
-    "league": "WTA",
-    "fecha-evento": "2025-10-16T00:00:00-05:00",
-    "img": "90aa2650-c0f9-4e6e-b973-30924f5972fa",
-    "nombre": "disneyd7cfb0",
-    "status": "00:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "DP World India Championship (First Round)",
-    "league": "DP World Tour",
-    "fecha-evento": "2025-10-16T00:30:00-05:00",
-    "img": "0ecec15d-0125-4e10-bcac-ca5d782a76c3",
-    "nombre": "disney0bfe66",
-    "status": "00:30",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Almaty Open (Second Round)",
-    "league": "ATP",
-    "fecha-evento": "2025-10-16T01:00:00-05:00",
-    "img": "0a00fcbb-7815-4ae3-9180-7456385f7271",
-    "nombre": "disneya7ad85",
-    "status": "01:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "2025 AUX · Ningbo Open / Grandstand (Doubles Quarterfinals)",
-    "league": "WTA",
-    "fecha-evento": "2025-10-16T01:00:00-05:00",
-    "img": "222b001a-6790-4f60-8cc0-838202d8ae3a",
-    "nombre": "disney01097d",
-    "status": "01:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Australia vs. Bangladesh",
-    "league": "ESPN",
-    "fecha-evento": "2025-10-16T04:00:00-05:00",
-    "img": "3f924cb0-3281-456f-a3ad-22f42fb18e6b",
-    "nombre": "disneyb7c738",
-    "status": "04:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "European Open (Second Round)",
-    "league": "ATP",
-    "fecha-evento": "2025-10-16T06:30:00-05:00",
-    "img": "059a7000-53f3-4e59-af0b-4bde6d5b3840",
-    "nombre": "disneya13ad5",
-    "status": "06:30",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "BNP Paribas Nordic Open (Second Round)",
     "league": "ATP",
-    "fecha-evento": "2025-10-16T07:00:00-05:00",
-    "img": "1fb08300-d6a4-4a40-98ff-3825bfc5f696",
-    "nombre": "disney35fe28",
+    "fecha-evento": "2025-10-16T07:00:07-05:00",
+    "img": "18b7c6d0-9c05-4f75-8060-1cfeabd4bf60",
+    "nombre": "disney226a4c",
     "status": "07:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "La Aguada vs. La Esquina | Torneo Clasificatorio a Palermo (Fecha #3)",
-    "league": "Abierto de Palermo",
-    "fecha-evento": "2025-10-16T08:25:00-05:00",
-    "img": "0f2cebf6-a191-44d1-a46d-3b3ee351e5b8",
-    "nombre": "disneyf8f1a9",
-    "status": "08:25",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Karen Khachanov (RUS) vs. Jan-Lennard Struff (GER) (Second Round)",
-    "league": "ATP",
-    "fecha-evento": "2025-10-16T09:00:00-05:00",
-    "img": "07f7618b-6440-4738-b58a-d4c7a2cd9070",
-    "nombre": "disneyf26828",
-    "status": "09:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 480,
+    "play_url": "https://www.disneyplus.com/es-es/play/5956afa9-d989-47e1-bc91-e784044c9f32",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1760727622~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F16%2FBNP_Paribas_Nordic_Open_S_20251016_1760608821037%2F~psid=96ba372a-7d11-42c4-8b08-259b1ae4a1a9~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=6773bf625ab536db610cb00c0f6285f61f728ee28342e465fac5e7c14fa7132c/clt1/va02/disneyplus/event/2025/10/16/BNP_Paribas_Nordic_Open_S_20251016_1760608821037/ctr-all-hdri-complete.m3u8?v=1&hash=ab50f04fc35699ee07a49c592554c603cdc537b6",
+    "k1": "a43d1a5d463e4050a952b708e5f7b194",
+    "k2": "93da2b01c83f066cedc45a139b25a2a6"
   },
   {
     "title": "Internacional de Tenis (Round of 16)",
     "league": "ATP",
-    "fecha-evento": "2025-10-16T09:00:00-05:00",
+    "fecha-evento": "2025-10-16T09:32:10-05:00",
     "img": "de2a78ea-656e-4f6e-a724-c537e56ba5af",
-    "nombre": "disney69bd39",
-    "status": "09:00",
-    "duration": 135,
-    "play_url": ""
+    "nombre": "disneye6e32c",
+    "status": "09:32",
+    "duration": 538,
+    "play_url": "https://www.disneyplus.com/es-es/play/6f1fbf29-bc15-48e9-87bd-2a06d8f8ee8c",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1760727665~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F16%2FInternacional_de_Tenis_Ro_20251016_1760616030047%2F~psid=1a9d50da-e04c-4266-a495-254d7b60ea4f~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=b1817597de6779cd053e28327b6f946b09576fe1295aa4f9f2ca4f0ead0c96eb/clt1/va02/disneyplus/event/2025/10/16/Internacional_de_Tenis_Ro_20251016_1760616030047/ctr-all-hdri-complete.m3u8?v=1&hash=897092e03a954137928693281a36a2c44017f54e",
+    "k1": "6600b1f89e3c4428a9cccde7b014b1e8",
+    "k2": "4ca3027362b7670b74e159538af7f8bd"
   },
   {
-    "title": "Velay vs. La Irenita II | Torneo Clasificatorio a Palermo (Fecha #3)",
-    "league": "Abierto de Palermo",
-    "fecha-evento": "2025-10-16T11:25:00-05:00",
-    "img": "7d5432f4-3f1c-4942-b66f-4e0fcd89e77c",
-    "nombre": "disney3a587b",
-    "status": "11:25",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Atletico Madrid vs. Manchester United",
-    "league": "UEFA Women's Champions League",
-    "fecha-evento": "2025-10-16T11:30:00-05:00",
-    "img": "30fb1e5c-f01b-4d7f-85d7-89802064aeae",
-    "nombre": "disney054b40",
-    "status": "11:30",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Benfica vs. Arsenal",
-    "league": "UEFA Women's Champions League",
-    "fecha-evento": "2025-10-16T13:40:00-05:00",
-    "img": "3019b13b-4665-43cc-b5c4-cfdedc67a62d",
-    "nombre": "disney896d11",
-    "status": "13:40",
-    "duration": 135,
-    "play_url": ""
+    "title": "European Open (Second Round)",
+    "league": "ATP",
+    "fecha-evento": "2025-10-16T11:38:45-05:00",
+    "img": "059a7000-53f3-4e59-af0b-4bde6d5b3840",
+    "nombre": "disneye08bc9",
+    "status": "11:38",
+    "duration": 201,
+    "play_url": "https://www.disneyplus.com/es-es/play/914291a8-2972-41bc-83c1-4355ec121264",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1760727708~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F16%2FEuropean_Open_Second_Roun_20251016_1760623218035%2F~psid=67e61b40-35bc-4486-ac1a-3fa0f628362e~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=3fe0b92a1c8557a2b5a949f13787ef162a62e0a7b81e3a6c806a3dbd0d715fdf/clt1/va02/disneyplus/event/2025/10/16/European_Open_Second_Roun_20251016_1760623218035/ctr-all-hdri-complete.m3u8?v=1&hash=76cfe100c4b874073e8ace75de3860ce37d2a13a",
+    "k1": "2b2fa3480e034835b198ae8839d7eaf5",
+    "k2": "1e4da14a6df740c7e3470278018aa5dc"
   },
   {
     "title": "Bayern Munich vs. Juventus",
@@ -198,18 +45,37 @@
     "img": "9d80ebea-d3bc-47b3-9b51-1f464b7c7c41",
     "nombre": "disney410cd1",
     "status": "13:40",
-    "duration": 135,
-    "play_url": ""
+    "duration": 140,
+    "play_url": "https://www.disneyplus.com/es-es/play/90bed4f6-c25f-4154-9f96-4789999ba772",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1760727731~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F16%2FBayern_Munich_vs_Juventus_20251016_1760632827046%2F~psid=acae40af-350c-419e-ac91-b1400255ffff~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=eb89df674c367144bf04561f50c83c47ec0dccdbc630ccf12b07146268916488/clt1/va02/disneyplus/event/2025/10/16/Bayern_Munich_vs_Juventus_20251016_1760632827046/ctr-all-hdri-complete.m3u8?v=1&hash=390da51be09224f65ab283b02c750ab1419535f5",
+    "k1": "32ad4752ac0d4c68a54ea2c2988045b4",
+    "k2": "295931b1fd1ecd328d1f645a7ceb4b4c"
+  },
+  {
+    "title": "Benfica vs. Arsenal",
+    "league": "UEFA Women's Champions League",
+    "fecha-evento": "2025-10-16T13:40:02-05:00",
+    "img": "3019b13b-4665-43cc-b5c4-cfdedc67a62d",
+    "nombre": "disney1c6a15",
+    "status": "13:40",
+    "duration": 140,
+    "play_url": "https://www.disneyplus.com/es-es/play/041212a5-961d-4d85-a770-529ea1a8e438",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1760727754~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F16%2FBenfica_vs_Arsenal_20251016_1760632845049%2F~psid=e83cb0f1-fbc5-4417-84d9-0718db3930c7~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=edbf1af1b642aff6fd027ae858516a61add910c004386fa212a55c66b0d11828/clt1/va02/disneyplus/event/2025/10/16/Benfica_vs_Arsenal_20251016_1760632845049/ctr-all-hdri-complete.m3u8?v=1&hash=8f0dfc4a4abf985cfccf9b392c2d66f964cd52d6",
+    "k1": "17bc81e49eca4574ab4b925d2fa9e649",
+    "k2": "d130ee37e623816f6c6e5636096a6a3f"
   },
   {
     "title": "Paris Saint-Germain vs. Real Madrid",
     "league": "UEFA Women's Champions League",
-    "fecha-evento": "2025-10-16T13:40:00-05:00",
+    "fecha-evento": "2025-10-16T13:44:00-05:00",
     "img": "673fde6a-94c8-4f5c-8c7e-4c0600e741ef",
-    "nombre": "disney8e013d",
-    "status": "13:40",
-    "duration": 135,
-    "play_url": ""
+    "nombre": "disney938c63",
+    "status": "13:44",
+    "duration": 136,
+    "play_url": "https://www.disneyplus.com/es-es/play/a8ca00ed-85e3-4d81-8a95-141907ed91de",
+    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1760727778~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F921e1311-bb26-43dd-84a6-9e2284959712-1759409855938%2F~psid=1a04f4c2-a5b8-45a9-a459-b92b111f0854~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=079b8b029d863dbcb3c3f0dd1a6d24320ebd8db96abf4610e0a00b069b97f036/clt1/va02/disneyplus/channel/921e1311-bb26-43dd-84a6-9e2284959712-1759409855938/ctr-all-sliding-alt1.m3u8?v=1&hash=e50ddd99727af0a2947bb1b84904b1697e8043f8",
+    "k1": "81df91a64f5441d59303ce1777d30ffa",
+    "k2": "1d3454ae57e8770a46ee81f4cd0486c6"
   },
   {
     "title": "Huddersfield Town vs. Bolton Wanderers",
@@ -218,8 +84,11 @@
     "img": "2e964b93-9745-4809-9c0d-1a744ed98d09",
     "nombre": "disney6b018d",
     "status": "13:50",
-    "duration": 135,
-    "play_url": ""
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/f267fa74-70dc-493c-b1e1-a88d80c05f5e",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1760727801~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F16%2FHuddersfield_Town_vs_Bolt_20251016_1760633445030%2F~psid=de7bc7aa-df99-4efd-b60e-3ec90d8bd2ce~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=c9202e1e7ce406ebad6a2e7964bae02e84dd1307fee45b2191bf8b72b8ffdc74/clt1/va02/disneyplus/event/2025/10/16/Huddersfield_Town_vs_Bolt_20251016_1760633445030/ctr-all-hdri-complete.m3u8?v=1&hash=cdfd0df15d7648efad8517abb8b7f34ca0171072",
+    "k1": "666645e081b94f5fa4e3239ff29cc731",
+    "k2": "8121cb564889bd3691c79225a3fb7ba5"
   },
   {
     "title": "La Zeta vs. La Natividad II | Torneo Clasificatorio a Palermo (Fecha #3)",
@@ -228,8 +97,11 @@
     "img": "71fc70e8-60e0-4358-b750-08c0886bb28c",
     "nombre": "disney610c2f",
     "status": "13:55",
-    "duration": 135,
-    "play_url": ""
+    "duration": 125,
+    "play_url": "https://www.disneyplus.com/es-es/play/c1b33dab-f74f-4161-b6dd-309069e71b05",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1760727825~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F16%2FLa_Zeta_vs_La_Natividad_I_20251016_1760633734029%2F~psid=2fc14990-6093-4412-8c48-fd30ab1cfb26~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=1bedeb18b484909789a5aee8f9b1f2322e3bc32df16a3a3b1070978b087f7d0d/clt1/va02/disneyplus/event/2025/10/16/La_Zeta_vs_La_Natividad_I_20251016_1760633734029/ctr-all-hdri-complete.m3u8?v=1&hash=8dadecc12ea6e6036dfe7f12396a7263050c3b4e",
+    "k1": "e6fa0c37ee894eb6ac258729fe4c88ea",
+    "k2": "d57a20bf880ed592d38f69ce304312ab"
   },
   {
     "title": "Australian Motorcycle Grand Prix - Free Practice 1 (Moto3)",
@@ -502,6 +374,16 @@
     "play_url": ""
   },
   {
+    "title": "Kinoshita Group Japan Open / Court 1 (Doubles Semifinals)",
+    "league": "WTA",
+    "fecha-evento": "2025-10-16T21:30:00-05:00",
+    "img": "0a6c6d70-4196-4ce4-a034-8e1a55003a12",
+    "nombre": "disney60eb4b",
+    "status": "21:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
     "title": "Australian Motorcycle Grand Prix -  Practice (Moto2)",
     "league": "MotoGP",
     "fecha-evento": "2025-10-16T21:55:00-05:00",
@@ -512,12 +394,152 @@
     "play_url": ""
   },
   {
-    "title": "Kinoshita Group Japan Open / Court 1 (Doubles Semifinals)",
+    "title": "Australian Motorcycle Grand Prix - Practice (MotoGP)",
+    "league": "MotoGP",
+    "fecha-evento": "2025-10-16T22:50:00-05:00",
+    "img": "f8c1f235-a91b-49e2-a599-89e13bd55dc6",
+    "nombre": "disney56a49b",
+    "status": "22:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "2025 AUX · Ningbo Open (Quarterfinals)",
     "league": "WTA",
-    "fecha-evento": "2025-10-16T22:00:00-05:00",
-    "img": "0a6c6d70-4196-4ce4-a034-8e1a55003a12",
-    "nombre": "disney42fa82",
-    "status": "22:00",
+    "fecha-evento": "2025-10-17T00:00:00-05:00",
+    "img": "1c42dd43-0085-4c61-8144-73448fd06c6f",
+    "nombre": "disney61ec57",
+    "status": "00:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Almaty Open (Quarterfinals)",
+    "league": "ATP",
+    "fecha-evento": "2025-10-17T01:00:00-05:00",
+    "img": "2c9fb226-4ca5-41aa-a97a-39610c71bb5e",
+    "nombre": "disney5f76dc",
+    "status": "01:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Otago vs. Bay of Plenty (Semifinal)",
+    "league": "National Provincial Championship",
+    "fecha-evento": "2025-10-17T01:10:00-05:00",
+    "img": "500d6d26-574d-47c9-acb3-ad541a47dd42",
+    "nombre": "disney8f7a75",
+    "status": "01:10",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "DP World India Championship (Second Round)",
+    "league": "DP World Tour",
+    "fecha-evento": "2025-10-17T01:30:00-05:00",
+    "img": "02f324f3-a3c9-4bef-92a1-1aae7f55fb1f",
+    "nombre": "disneyee48fd",
+    "status": "01:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "2025 AUX · Ningbo Open / Grandstand (Doubles Quarterfinals)",
+    "league": "WTA",
+    "fecha-evento": "2025-10-17T02:00:00-05:00",
+    "img": "222b001a-6790-4f60-8cc0-838202d8ae3a",
+    "nombre": "disney91cb19",
+    "status": "02:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "South Africa vs. Sri Lanka",
+    "league": "ESPN",
+    "fecha-evento": "2025-10-17T04:00:00-05:00",
+    "img": "3f924cb0-3281-456f-a3ad-22f42fb18e6b",
+    "nombre": "disney5fface",
+    "status": "04:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "BNP Paribas Nordic Open (Quarterfinals)",
+    "league": "ATP",
+    "fecha-evento": "2025-10-17T05:00:00-05:00",
+    "img": "89f95e87-1dca-4e10-adc3-263461f7242d",
+    "nombre": "disneyd2f0b3",
+    "status": "05:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "European Open (Quarterfinals)",
+    "league": "ATP",
+    "fecha-evento": "2025-10-17T07:00:00-05:00",
+    "img": "000554d9-12b9-442b-9398-38ce865e51e2",
+    "nombre": "disney840916",
+    "status": "07:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Tomas Martin Etcheverry (ARG) (Cuartos de Final)",
+    "league": "ATP",
+    "fecha-evento": "2025-10-17T07:30:00-05:00",
+    "img": "f5d7c938-e1da-4c72-81c8-b77e20b966d7",
+    "nombre": "disney722aa1",
+    "status": "07:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "2025 Australian Open Juniors Series (Semifinales)",
+    "league": "ESPN",
+    "fecha-evento": "2025-10-17T08:00:00-05:00",
+    "img": "37f692c1-38e3-487d-afd0-4937cc1ed745",
+    "nombre": "disneyaf9aa5",
+    "status": "08:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Jan-Lennard Struff (GER) vs. Corentin Moutet (FRA) (Quarterfinals)",
+    "league": "ATP",
+    "fecha-evento": "2025-10-17T09:00:00-05:00",
+    "img": "e6dc1d89-8c94-4d94-81a3-89624ee10242",
+    "nombre": "disney56d5e9",
+    "status": "09:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Internacional de Tenis (Quarterfinals)",
+    "league": "ATP",
+    "fecha-evento": "2025-10-17T09:00:00-05:00",
+    "img": "6b800d0a-fa13-4f04-9cf5-97a78941c84c",
+    "nombre": "disney71f63b",
+    "status": "09:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Hannover 96 vs. FC Schalke 04",
+    "league": "Bundesliga 2 de Alemania",
+    "fecha-evento": "2025-10-17T11:20:00-05:00",
+    "img": "d313a15c-ea39-4bb1-92fd-ba6f9c16f78b",
+    "nombre": "disney872274",
+    "status": "11:20",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Fortuna Dusseldorf vs. Eintracht Braunschweig",
+    "league": "Bundesliga 2 de Alemania",
+    "fecha-evento": "2025-10-17T11:25:00-05:00",
+    "img": "739bd0fa-035b-477c-9670-1d25af93503f",
+    "nombre": "disney870ef4",
+    "status": "11:25",
     "duration": 135,
     "play_url": ""
   }
