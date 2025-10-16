@@ -1,18 +1,5 @@
 [
   {
-    "title": "BNP Paribas Nordic Open (Second Round)",
-    "league": "ATP",
-    "fecha-evento": "2025-10-16T07:00:07-05:00",
-    "img": "18b7c6d0-9c05-4f75-8060-1cfeabd4bf60",
-    "nombre": "disney226a4c",
-    "status": "07:00",
-    "duration": 480,
-    "play_url": "https://www.disneyplus.com/es-es/play/5956afa9-d989-47e1-bc91-e784044c9f32",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1760727622~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F16%2FBNP_Paribas_Nordic_Open_S_20251016_1760608821037%2F~psid=96ba372a-7d11-42c4-8b08-259b1ae4a1a9~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=6773bf625ab536db610cb00c0f6285f61f728ee28342e465fac5e7c14fa7132c/clt1/va02/disneyplus/event/2025/10/16/BNP_Paribas_Nordic_Open_S_20251016_1760608821037/ctr-all-hdri-complete.m3u8?v=1&hash=ab50f04fc35699ee07a49c592554c603cdc537b6",
-    "k1": "a43d1a5d463e4050a952b708e5f7b194",
-    "k2": "93da2b01c83f066cedc45a139b25a2a6"
-  },
-  {
     "title": "Internacional de Tenis (Round of 16)",
     "league": "ATP",
     "fecha-evento": "2025-10-16T09:32:10-05:00",
@@ -424,7 +411,7 @@
     "title": "DP World India Championship (Second Round)",
     "league": "DP World Tour",
     "fecha-evento": "2025-10-17T01:30:00-05:00",
-    "img": "02f324f3-a3c9-4bef-92a1-1aae7f55fb1f",
+    "img": "f68dbe5f-79b2-4e93-957b-30f1a57bc81f",
     "nombre": "disneyee48fd",
     "status": "01:30",
     "duration": 135,
@@ -527,6 +514,16 @@
     "img": "739bd0fa-035b-477c-9670-1d25af93503f",
     "nombre": "disney870ef4",
     "status": "11:25",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Bradley Pink Classic CC Meet",
+    "league": "NCAA Cross Country",
+    "fecha-evento": "2025-10-17T12:00:00-05:00",
+    "img": "6cf55ca9-32d6-4a7d-aa2a-5520275c7f29",
+    "nombre": "disney9bab81",
+    "status": "12:00",
     "duration": 135,
     "play_url": ""
   }
