@@ -13,19 +13,6 @@
     "k2": "0965a3ade6e0689673aa8d6183aa9d72"
   },
   {
-    "title": "2025 Australian Open Juniors Series (Semifinales)",
-    "league": "ESPN",
-    "fecha-evento": "2025-10-17T08:01:39-05:00",
-    "img": "37f692c1-38e3-487d-afd0-4937cc1ed745",
-    "nombre": "disneyd12c6f",
-    "status": "08:01",
-    "duration": 238,
-    "play_url": "https://www.disneyplus.com/es-es/play/e6c8442e-9b10-40aa-9d22-ed9a8335e2c9",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1760805661~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F17%2F2025_Australian_Open_Juni_20251017_1760698827043%2F~psid=0d33e910-e630-4679-80e9-3fa5490b6398~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=3ac13860712a27a8b6b06807fa1cbd92d9da2bd7cdb4ac5cd0c0d64b306cf0d9/clt1/va02/disneyplus/event/2025/10/17/2025_Australian_Open_Juni_20251017_1760698827043/ctr-all-hdri-complete.m3u8?v=1&hash=e12b8e17319fdc7c7cf14b446ef38945b697889c",
-    "k1": "6b27e68688fa496e9e29d56b01bfdbf4",
-    "k2": "63467419d20a9a71c56a9be1a89dbbe6"
-  },
-  {
     "title": "Internacional de Tenis (Quarterfinals)",
     "league": "ATP",
     "fecha-evento": "2025-10-17T09:03:53-05:00",
@@ -98,12 +85,22 @@
     "play_url": ""
   },
   {
+    "title": "2025 Australian Open Juniors Series (Semifinales)",
+    "league": "ESPN",
+    "fecha-evento": "2025-10-17T12:00:00-05:00",
+    "img": "37f692c1-38e3-487d-afd0-4937cc1ed745",
+    "nombre": "disney952248",
+    "status": "12:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
     "title": "F1 - GP Estados Unidos - Prácticas #1",
     "league": "Fórmula 1",
-    "fecha-evento": "2025-10-17T12:25:00-05:00",
+    "fecha-evento": "2025-10-17T12:00:00-05:00",
     "img": "6f0eb959-7ded-4a98-a23b-dc57ef6ca605",
-    "nombre": "disney74bf09",
-    "status": "12:25",
+    "nombre": "disney2b7dd7",
+    "status": "12:00",
     "duration": 135,
     "play_url": ""
   },
@@ -594,6 +591,16 @@
     "img": "dbbdf026-dd6f-4f07-9c86-944c465a067c",
     "nombre": "disney788457",
     "status": "05:35",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Karlsruher SC vs. 1. FC Kaiserslautern",
+    "league": "Bundesliga 2 de Alemania",
+    "fecha-evento": "2025-10-18T05:55:00-05:00",
+    "img": "1487de39-e9dd-48d1-ae2e-70870fff4ea0",
+    "nombre": "disneycffa87",
+    "status": "05:55",
     "duration": 135,
     "play_url": ""
   }
