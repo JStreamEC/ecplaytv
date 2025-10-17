@@ -1,28 +1,5 @@
 [
   {
-    "title": "Internacional de Tenis (Quarterfinals)",
-    "league": "ATP",
-    "fecha-evento": "2025-10-17T09:03:53-05:00",
-    "img": "f4b09970-ce9e-4b12-ba70-b02ea4a8c67c",
-    "nombre": "disney626029",
-    "status": "09:03",
-    "duration": 566,
-    "play_url": "https://www.disneyplus.com/es-es/play/d063c0ad-c5bd-4e2d-8199-363f0da2d684"
-  },
-  {
-    "title": "Australian Motorcycle Grand Prix - Free Practice 2 (Moto3/Moto2)",
-    "league": "MotoGP",
-    "fecha-evento": "2025-10-17T16:35:00-05:00",
-    "img": "b2c03e29-fe8c-4679-a50d-54294744fc58",
-    "nombre": "disney70bc69",
-    "status": "16:35",
-    "duration": 85,
-    "play_url": "https://www.disneyplus.com/es-es/play/1f676366-4fc3-4f09-a9ed-62348808461b",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1760823752~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F17%2FAustralian_Motorcycle_Gra_20251017_1760729742027%2F~psid=80932663-e13f-4707-8521-467881d14692~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=113997e277ce4e92ec2687da54e7d5f28487aa8c8dd654ff58989020cd1ba8aa/clt1/va02/disneyplus/event/2025/10/17/Australian_Motorcycle_Gra_20251017_1760729742027/ctr-all-hdri-complete.m3u8?v=1&hash=0f93690bcce2d996e41fdb90164cfede5a2ab209",
-    "k1": "951bad05ba7c4aa1bc436cfac92f932f",
-    "k2": "fbc69700100c1e1562fc2d72291e162f"
-  },
-  {
     "title": "Racing Club vs. Aldosivi",
     "league": "Liga Profesional de Fútbol",
     "fecha-evento": "2025-10-17T16:50:04-05:00",
@@ -75,6 +52,45 @@
     "k2": "6fac2b24ac0adf01da456a703b2b97e5"
   },
   {
+    "title": "Charlotte Independence vs. Chattanooga Red Wolves SC",
+    "league": "USL League One",
+    "fecha-evento": "2025-10-17T18:00:03-05:00",
+    "img": "d756d29d-78a4-46ff-85dd-7ab078a48f05",
+    "nombre": "disneyc227d5",
+    "status": "18:00",
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/3a2512d9-6d14-42b3-9d92-d9bc63e5d908",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1760829625~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F17%2FCharlotte_Independence_vs_20251017_1760734801042%2F~psid=2278a5ac-3621-4935-8adb-40e457290f0d~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=938d55f0b7eb63394cd241acb5d70253311d3411299d1a5e5c88202a5fca9166/clt1/va02/disneyplus/event/2025/10/17/Charlotte_Independence_vs_20251017_1760734801042/ctr-all-hdri-complete.m3u8?v=1&hash=a0d330ccdf52e6e62acf4b3337987c088ce8e1a2",
+    "k1": "b08943cd991e440596062b220fd5d8ca",
+    "k2": "dd23584bf1e5cf24f19539bce5c05348"
+  },
+  {
+    "title": "Alabama vs. Georgia",
+    "league": "NCAA Women's Volleyball",
+    "fecha-evento": "2025-10-17T18:00:03-05:00",
+    "img": "0ef46651-6ef8-462a-b263-e5ed0f3efd2b",
+    "nombre": "disney1fa794",
+    "status": "18:00",
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/82c63839-abf1-4d7a-82ba-c6644efe12cc",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1760829670~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F17%2FAlabama_vs_Georgia_20251017_1760736392764%2F~psid=0b732a9e-3520-4a43-ac5b-08c5995fcbe2~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=52915b45a9b2b4e6bb786eb3acccaab93ce7eee51bce225dd9a1a944aa38c01d/clt1/va02/disneyplus/event/2025/10/17/Alabama_vs_Georgia_20251017_1760736392764/ctr-all-hdri-complete.m3u8?v=1&hash=4b2242767e167f49fb3cb64e925fc06358ec7c02",
+    "k1": "da60853264014ab8bab9006865b16327",
+    "k2": "0848b4df49c057dbac460ec2fde2e04b"
+  },
+  {
+    "title": "Círculo de Tenis vs. Club Champagnat",
+    "league": "Campeonato Uruguayo de Rugby",
+    "fecha-evento": "2025-10-17T18:00:05-05:00",
+    "img": "ea606b53-9150-4990-b9e7-ab1e3d95e0b8",
+    "nombre": "disneydad294",
+    "status": "18:00",
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/c9493a39-67d5-4cbb-9583-425f54d4fdc3",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1760829715~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F17%2FCrculo_de_Tenis_vs_Club_C_20251017_1760734843026%2F~psid=dd2071ed-fd83-4a3c-aa0c-d21276bb2ffd~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=60620ea6e5356f5e7f6575987e0b035e898469fd47e33b0888aa912d29ac7b66/clt1/va02/disneyplus/event/2025/10/17/Crculo_de_Tenis_vs_Club_C_20251017_1760734843026/ctr-all-hdri-complete.m3u8?v=1&hash=4f6dfcf9bff58849d545eeea7679324e7ef3c857",
+    "k1": "ca38347327e14b1480abf360257ee43b",
+    "k2": "849416ec3fa4cc40fcc78441b3252ed3"
+  },
+  {
     "title": "Minnesota Wild vs. Washington Capitals",
     "league": "National Hockey League",
     "fecha-evento": "2025-10-17T18:00:00-05:00",
@@ -90,75 +106,41 @@
   {
     "title": "Tampa Bay Lightning vs. Detroit Red Wings",
     "league": "National Hockey League",
-    "fecha-evento": "2025-10-17T18:00:00-05:00",
+    "fecha-evento": "2025-10-17T18:00:20-05:00",
     "img": "58e9ba5d-64bc-4525-a007-9c35bb5a7756",
-    "nombre": "disney89052f",
+    "nombre": "disney1afd6f",
     "status": "18:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Charlotte Independence vs. Chattanooga Red Wolves SC",
-    "league": "USL League One",
-    "fecha-evento": "2025-10-17T18:00:00-05:00",
-    "img": "d756d29d-78a4-46ff-85dd-7ab078a48f05",
-    "nombre": "disney723dd4",
-    "status": "18:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 210,
+    "play_url": "https://www.disneyplus.com/es-es/play/dbcacb54-a223-4b02-af01-38060bf597d9",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1760829739~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F17%2FTampa_Bay_Lightning_vs_De_20251017_1760734842603%2F~psid=108a38d3-65c3-4d6f-a9f4-b34723079e1c~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=ed46485a1ae71e9ee9049263db6fa13481cc137bc9e364c291fb6e909a8e5831/clt1/va02/disneyplus/event/2025/10/17/Tampa_Bay_Lightning_vs_De_20251017_1760734842603/ctr-all-hdri-complete.m3u8?v=1&hash=9ff34927242aa282b0c2c4b71ec6ade6e33a0940",
+    "k1": "8dc3b58d75244b84aaa277542f683d1c",
+    "k2": "56c460e0164005c08dc58054d429693d"
   },
   {
     "title": "Australian Motorcycle Grand Prix - Free Practice 2 (MotoGP)",
     "league": "MotoGP",
-    "fecha-evento": "2025-10-17T18:00:00-05:00",
+    "fecha-evento": "2025-10-17T18:03:04-05:00",
     "img": "6b3d0cb6-1f2e-48f1-ac6c-47a63b2e44bd",
-    "nombre": "disneya6979f",
-    "status": "18:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Compacto | F1 GP Estados Unidos | Clasificación Sprint (3 min)",
-    "league": "Fórmula 1",
-    "fecha-evento": "2025-10-17T18:00:00-05:00",
-    "img": "32b10095-0c9b-4020-9b25-5a26f29a0e4b",
-    "nombre": "disneycf1ed6",
-    "status": "18:00",
-    "duration": 8,
-    "play_url": "https://www.disneyplus.com/es-es/play/6261be9d-f2fc-47de-9a0e-04051c6cf896",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1760828537~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F17%2FCompacto_F1_GP_Estados_Un_20251017_1760734846027%2F~psid=d6a9316e-af68-4165-81ac-f36e87881404~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=a2398162a4e807ed9e2f73e34748e5eff795a424135b5a68c8ec0da1afd66f67/clt1/va02/disneyplus/event/2025/10/17/Compacto_F1_GP_Estados_Un_20251017_1760734846027/ctr-all-hdri-complete.m3u8?v=1&hash=29310c3c0fd6cc78b0cd24990a77b22faba8bd5f",
-    "k1": "94798aad3ddc450d9769bb6d0ccfdd46",
-    "k2": "bd35e5a86b44ed785f08c689ab6a179a"
-  },
-  {
-    "title": "Alabama vs. Georgia",
-    "league": "NCAA Women's Volleyball",
-    "fecha-evento": "2025-10-17T18:00:00-05:00",
-    "img": "0ef46651-6ef8-462a-b263-e5ed0f3efd2b",
-    "nombre": "disney34ca7e",
-    "status": "18:00",
-    "duration": 135,
-    "play_url": ""
+    "nombre": "disney7c0e1b",
+    "status": "18:03",
+    "duration": 42,
+    "play_url": "https://www.disneyplus.com/es-es/play/493fe304-aaa4-4f0b-8463-254c60a5bc19",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1760829764~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F17%2FAustralian_Motorcycle_Gra_20251017_1760734823040%2F~psid=6576172b-5ae5-4ce9-97d5-d0186010aede~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=3bd06ad9e93c9dae2f7bf29c9dfe95621239929097ad2bd8014e9c90314d503c/clt1/va02/disneyplus/event/2025/10/17/Australian_Motorcycle_Gra_20251017_1760734823040/ctr-all-hdri-complete.m3u8?v=1&hash=bcd96c9898800d5a561090c708174103576c1a45",
+    "k1": "27b2f2f9a6604fb2b2be4033643a5d55",
+    "k2": "9de0d14b61ef08f50bd4f420eb9e9c86"
   },
   {
     "title": "En Español-Louisville vs. #2 Miami",
     "league": "Fútbol Americano NCAA",
-    "fecha-evento": "2025-10-17T18:00:00-05:00",
+    "fecha-evento": "2025-10-17T18:05:36-05:00",
     "img": "4b26da20-d83f-43c8-8ed9-0c3ea9ec9c61",
-    "nombre": "disneyaf64bb",
-    "status": "18:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Círculo de Tenis vs. Club Champagnat",
-    "league": "Campeonato Uruguayo de Rugby",
-    "fecha-evento": "2025-10-17T18:00:00-05:00",
-    "img": "ea606b53-9150-4990-b9e7-ab1e3d95e0b8",
-    "nombre": "disney7e79f6",
-    "status": "18:00",
-    "duration": 135,
-    "play_url": ""
+    "nombre": "disney86afb7",
+    "status": "18:05",
+    "duration": 174,
+    "play_url": "https://www.disneyplus.com/es-es/play/9714e595-17b6-4c7b-9902-112b5d870fb1",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1760829789~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F17%2FEn_EspaolLouisville_vs_2__20251017_1760734849026%2F~psid=5241e18b-3652-4a9f-b55f-0dbc88f84181~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=f759d547157148b8df282d64fad32e9586f2c6beff7fefaf9d75fed9e974d7e3/clt1/va02/disneyplus/event/2025/10/17/En_EspaolLouisville_vs_2__20251017_1760734849026/ctr-all-hdri-complete.m3u8?v=1&hash=41d424fc118bb6677658eed7da8159b955efaf40",
+    "k1": "a84eed3499404c4fa953112387a784df",
+    "k2": "39766b11fc4a713a4e5dbab1bb669ba8"
   },
   {
     "title": "MotoGP Qualifying - Australian Motorcycle Grand Prix",
@@ -284,7 +266,7 @@
     "title": "Kinoshita Group Japan Open (Semifinals)",
     "league": "WTA",
     "fecha-evento": "2025-10-17T22:00:00-05:00",
-    "img": "26f47a48-6a1f-4e43-acef-a4dd50723d19",
+    "img": "eec05ae9-08ab-43ef-8af8-22d5244f9571",
     "nombre": "disney1d6749",
     "status": "22:00",
     "duration": 135,
@@ -607,6 +589,36 @@
     "img": "ecbc6106-102d-4112-be8e-e06236b45d99",
     "nombre": "disneyacf40a",
     "status": "08:40",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Manchester City vs. Everton",
+    "league": "Premier League",
+    "fecha-evento": "2025-10-18T08:40:00-05:00",
+    "img": "c5c83a81-23f0-4d52-ad2d-ac0e5ed8037e",
+    "nombre": "disneyadbb37",
+    "status": "08:40",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Besiktas vs. Genclerbirligi",
+    "league": "Super Lig de Turquía",
+    "fecha-evento": "2025-10-18T08:45:00-05:00",
+    "img": "a19ef37c-185b-4871-ab63-f9660a825a76",
+    "nombre": "disneyc599eb",
+    "status": "08:45",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Charlton Athletic vs. Sheffield Wednesday",
+    "league": "Championship de Inglaterra",
+    "fecha-evento": "2025-10-18T08:50:00-05:00",
+    "img": "5cba9893-38df-42d8-9d90-cf3d8aa709a0",
+    "nombre": "disneydec454",
+    "status": "08:50",
     "duration": 135,
     "play_url": ""
   }
