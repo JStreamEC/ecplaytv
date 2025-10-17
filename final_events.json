@@ -26,19 +26,6 @@
     "k2": "5cc87ccfb602e6c59cebfb0951d8cf86"
   },
   {
-    "title": "#7 Arizona State vs. #19 BYU",
-    "league": "NCAA Women's Volleyball",
-    "fecha-evento": "2025-10-16T19:00:00-05:00",
-    "img": "82880572-ee76-4ced-b83d-9e70ed38a367",
-    "nombre": "disney5bc081",
-    "status": "19:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/1df9820a-d607-4434-be53-bcdef5a5ef92",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1760745777~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F17%2F7_Arizona_State_vs_19_BYU_20251017_1760652026039%2F~psid=a87a8f1b-9ac8-43ae-afff-145cf2fb97b2~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=6d914fdaab67b4dcbf3b526d89545912c8a23755ff2f4e3933aef6e76b10bc7a/clt1/va02/disneyplus/event/2025/10/17/7_Arizona_State_vs_19_BYU_20251017_1760652026039/ctr-all-hdri-complete.m3u8?v=1&hash=9efce40356f16be63a144025c0429293566b9a0e",
-    "k1": "d765cba253e74295966684978ec33002",
-    "k2": "bf6b9fff4f8ac180a2322b8aa07616fc"
-  },
-  {
     "title": "Vancouver Canucks vs. Dallas Stars",
     "league": "National Hockey League",
     "fecha-evento": "2025-10-16T19:00:00-05:00",
@@ -149,8 +136,11 @@
     "img": "2928ed2f-8be4-448f-a280-a4fe0c98a9e3",
     "nombre": "disney26eee1",
     "status": "21:30",
-    "duration": 135,
-    "play_url": ""
+    "duration": 480,
+    "play_url": "https://www.disneyplus.com/es-es/play/3269cbe3-1f87-4549-8d51-259cce29730f",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1760755219~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F17%2FKinoshita_Group_Japan_Ope_20251017_1760661018039%2F~psid=5c3b11a5-2d2e-4977-a236-98d63fd521fb~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=d68fac8680a63a1dc0a32f647c99f014b16c9dad6770ba2c544e879dda1c1be1/clt1/va02/disneyplus/event/2025/10/17/Kinoshita_Group_Japan_Ope_20251017_1760661018039/ctr-all-hdri-complete.m3u8?v=1&hash=ff3be7e896a63a8875681ef75df85db2703d9fab",
+    "k1": "e0dc307a322e48fbb23536f7d578331c",
+    "k2": "aefaf916afefe361c122b2018f7d5069"
   },
   {
     "title": "Kinoshita Group Japan Open / Court 1 (Doubles Semifinals)",
@@ -159,8 +149,11 @@
     "img": "0a6c6d70-4196-4ce4-a034-8e1a55003a12",
     "nombre": "disney60eb4b",
     "status": "21:30",
-    "duration": 135,
-    "play_url": ""
+    "duration": 240,
+    "play_url": "https://www.disneyplus.com/es-es/play/9b8505b4-d01b-4282-a472-0f5e3ba51a27",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1760755262~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F17%2FKinoshita_Group_Japan_Ope_20251017_1760661019028%2F~psid=c23f5bb2-da81-4e50-9347-d52032f1bf76~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=ffeffbcd3a1e01c11b0bad2c370f2c77225a2e780824630dd104943bd026552e/clt1/va02/disneyplus/event/2025/10/17/Kinoshita_Group_Japan_Ope_20251017_1760661019028/ctr-all-hdri-complete.m3u8?v=1&hash=c7be42bf362939371cf5705eb149e65c8ff1f7c9",
+    "k1": "527ebdd3f535497c963fa662bd2684a5",
+    "k2": "48abd132b6aac3f6954d1a4e68297d44"
   },
   {
     "title": "Australian Motorcycle Grand Prix -  Practice (Moto2)",
@@ -578,6 +571,16 @@
     "fecha-evento": "2025-10-17T18:00:00-05:00",
     "img": "0ef46651-6ef8-462a-b263-e5ed0f3efd2b",
     "nombre": "disney34ca7e",
+    "status": "18:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "En Español-Louisville vs. #2 Miami",
+    "league": "Fútbol Americano NCAA",
+    "fecha-evento": "2025-10-17T18:00:00-05:00",
+    "img": "4b26da20-d83f-43c8-8ed9-0c3ea9ec9c61",
+    "nombre": "disneyaf64bb",
     "status": "18:00",
     "duration": 135,
     "play_url": ""
