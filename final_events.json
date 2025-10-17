@@ -1,31 +1,5 @@
 [
   {
-    "title": "Milwaukee Brewers vs. Los Angeles Dodgers (NLCS, Game 3)",
-    "league": "MLB",
-    "fecha-evento": "2025-10-16T17:00:00-05:00",
-    "img": "4eb3dce7-e075-4350-be41-d5ba647250ed",
-    "nombre": "disneybb0b7b",
-    "status": "17:00",
-    "duration": 180,
-    "play_url": "https://www.disneyplus.com/es-es/play/431e58a4-b8b1-482c-b640-ff9ee28fcadb",
-    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1760739618~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Ff25bdf06-81c9-4a7c-b128-3128d610ad17-1759409600195%2F~psid=2db8e915-7d25-4300-9190-51b6d4b104b8~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=ebd79ab70dc2cc7ebe6ee59aefdaac4b3aad2727019bb17e43d34458f87a0959/clt1/va02/disneyplus/channel/f25bdf06-81c9-4a7c-b128-3128d610ad17-1759409600195/ctr-all-sliding-alt1.m3u8?v=1&hash=4daaff4fdbe476e51bcd350032d73b0e9d85df99",
-    "k1": "4729b5c9b2374184a94e8acb5159bfc9",
-    "k2": "61348fc03ab7f8e20974ec8fe406ae2c"
-  },
-  {
-    "title": "LSU vs. Ole Miss",
-    "league": "Fútbol Femenino NCAA",
-    "fecha-evento": "2025-10-16T18:00:04-05:00",
-    "img": "b7121c70-ad93-4e70-850e-b0a39c9a00ab",
-    "nombre": "disneyc6079a",
-    "status": "18:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/6b367b13-b604-4464-82e3-0221805df7f7",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1760743218~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F16%2FLSU_vs_Ole_Miss_20251016_1760648428025%2F~psid=e34b3e67-9ce5-4435-ba68-22fceff2a07f~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=fdd6e94ae21548b107a268163b1d3f5eebe82134d8cf2ad001d1fe44dc5dd6cc/clt1/va02/disneyplus/event/2025/10/16/LSU_vs_Ole_Miss_20251016_1760648428025/ctr-all-hdri-complete.m3u8?v=1&hash=b1949f6cdc57d4411a981717d9596edb93659ce2",
-    "k1": "47b066cc9ead40a5808b6d4a5eb30deb",
-    "k2": "a9f6b57faf5f6ee191208d427c2b6d09"
-  },
-  {
     "title": "En Español-Houston Rockets vs. Atlanta Hawks",
     "league": "NBA",
     "fecha-evento": "2025-10-16T18:30:00-05:00",
@@ -123,8 +97,11 @@
     "img": "482b403c-9c5c-44e8-9eae-bc12fe016427",
     "nombre": "disneyacf34a",
     "status": "20:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/d5c4a696-e628-4158-b21c-11cde5914710",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1760750418~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F17%2FArizona_vs_BYU_20251017_1760655643028%2F~psid=b9a2191e-db75-4fc5-a617-a7459664fe66~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=530188138d272f72cfb25371946a0dafb887aae4d7d82249fef811f43c30f38c/clt1/va02/disneyplus/event/2025/10/17/Arizona_vs_BYU_20251017_1760655643028/ctr-all-hdri-complete.m3u8?v=1&hash=c374668900451575ab53de8c6f60edb1cc078bfa",
+    "k1": "1d81ca70d231405eb0ff591a1ae509d7",
+    "k2": "21401727b85f0708ad21f7f8d4918cb4"
   },
   {
     "title": "Vancouver Rise FC Academy vs. Alianza Women FC (Fecha #5)",
@@ -582,6 +559,16 @@
     "fecha-evento": "2025-10-17T18:00:00-05:00",
     "img": "d756d29d-78a4-46ff-85dd-7ab078a48f05",
     "nombre": "disney723dd4",
+    "status": "18:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Australian Motorcycle Grand Prix - Free Practice 2 (MotoGP)",
+    "league": "MotoGP",
+    "fecha-evento": "2025-10-17T18:00:00-05:00",
+    "img": "6b3d0cb6-1f2e-48f1-ac6c-47a63b2e44bd",
+    "nombre": "disneya6979f",
     "status": "18:00",
     "duration": 135,
     "play_url": ""
