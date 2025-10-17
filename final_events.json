@@ -10,19 +10,6 @@
     "play_url": "https://www.disneyplus.com/es-es/play/d063c0ad-c5bd-4e2d-8199-363f0da2d684"
   },
   {
-    "title": "European Open (Quarterfinals)",
-    "league": "ATP",
-    "fecha-evento": "2025-10-17T11:30:09-05:00",
-    "img": "fa8ca3a3-6b7a-4d4e-a4f2-31666429aad9",
-    "nombre": "disney77c016",
-    "status": "11:30",
-    "duration": 240,
-    "play_url": "https://www.disneyplus.com/es-es/play/a8c754ad-bbd9-48e3-a119-e7747abba74d",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1760805774~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F17%2FEuropean_Open_Quarterfina_20251017_1760711403027%2F~psid=a35e083e-5126-411b-ac10-cb2f6e0e2111~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=5251c9cbf5452309a953acf6b5235fd79f5066538ad9fb34ddbc492ae657d557/clt1/va02/disneyplus/event/2025/10/17/European_Open_Quarterfina_20251017_1760711403027/ctr-all-hdri-complete.m3u8?v=1&hash=2352a0d58f7acdcafa989bc410d947335790e665",
-    "k1": "609f02370d934f0c9f3268c091ca041f",
-    "k2": "4c67cdee2563a44bb39713b89e5604ec"
-  },
-  {
     "title": "BNP Paribas Nordic Open (Quarterfinals)",
     "league": "ATP",
     "fecha-evento": "2025-10-17T11:30:27-05:00",
@@ -34,19 +21,6 @@
     "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1760805798~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F17%2FBNP_Paribas_Nordic_Open_Q_20251017_1760711456028%2F~psid=2577f8e9-b287-4d9c-9686-c51fe18b2f25~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=1432fc55faa076e6b249fb03b1dc32fce100a849c64b055e0e7e18ba7bfd3991/clt1/va02/disneyplus/event/2025/10/17/BNP_Paribas_Nordic_Open_Q_20251017_1760711456028/ctr-all-hdri-complete.m3u8?v=1&hash=2c21710ffe535bcfe6b7e1fbe48b98a06ee6160f",
     "k1": "e376219195ab43ef9db3d64364ee7b4f",
     "k2": "b4be88ba7ca2fc4ee3e91d80f466b5ef"
-  },
-  {
-    "title": "Union Berlin vs. Borussia Mönchengladbach",
-    "league": "Bundesliga",
-    "fecha-evento": "2025-10-17T13:20:02-05:00",
-    "img": "00e7cfd0-71ab-452e-a3da-dc10edc6decb",
-    "nombre": "disneyd21570",
-    "status": "13:20",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/e11d64ab-934c-4841-a8d0-8c70587eb4e9",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1760812861~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F17%2FUnion_Berlin_vs_Borussia__20251017_1760718052035%2F~psid=43ed6a56-57ec-454e-8409-f5672e84f2ef~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=d97e14a5e92ac531242b62920721e36f37263f13f4d11bec72ea859325306ea9/clt1/va02/disneyplus/event/2025/10/17/Union_Berlin_vs_Borussia__20251017_1760718052035/ctr-all-hdri-complete.m3u8?v=1&hash=dc5116f5531c852e8cd0c715875393898489e39e",
-    "k1": "6eb236e17d2646e7811d7c9d7f9c5feb",
-    "k2": "d3ec33b66b65a8681103cf219e3bd0a4"
   },
   {
     "title": "PSG vs. Strasbourg",
@@ -607,6 +581,26 @@
     "img": "2bf6a396-25ff-4be8-b005-07d697296679",
     "nombre": "disney17e6bb",
     "status": "07:55",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Lecce vs. Sassuolo",
+    "league": "Seria A",
+    "fecha-evento": "2025-10-18T07:55:00-05:00",
+    "img": "d80a60dd-c1e7-433e-99f4-726f81b1fe49",
+    "nombre": "disneyd2f7b1",
+    "status": "07:55",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Corentin Moutet (FRA) vs. Alex Michelsen (USA) (Semifinals)",
+    "league": "ATP",
+    "fecha-evento": "2025-10-18T08:00:00-05:00",
+    "img": "26aeb962-c41b-410a-9f64-aa492b124b7e",
+    "nombre": "disneycb0c08",
+    "status": "08:00",
     "duration": 135,
     "play_url": ""
   }
