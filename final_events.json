@@ -1,18 +1,5 @@
 [
   {
-    "title": "South Africa vs. Sri Lanka",
-    "league": "ESPN",
-    "fecha-evento": "2025-10-17T04:00:07-05:00",
-    "img": "3f924cb0-3281-456f-a3ad-22f42fb18e6b",
-    "nombre": "disney1ba475",
-    "status": "04:00",
-    "duration": 465,
-    "play_url": "https://www.disneyplus.com/es-es/play/3786b4a3-84b1-4fd3-af99-abb437eec02d",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1760805617~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F17%2FSouth_Africa_vs_Sri_Lanka_20251017_1760687012645%2F~psid=b41b1657-78e9-4bd9-88e2-1570769b7802~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=fbfb9bcf6f6f4f21926640d12dbe527d307c674f1e948560793f0000a6748cc0/clt1/va02/disneyplus/event/2025/10/17/South_Africa_vs_Sri_Lanka_20251017_1760687012645/ctr-all-hdri-complete.m3u8?v=1&hash=9ef374e77ea7be7e109c04e86a41a6e662e507c4",
-    "k1": "6fe4ec3b890b43b98ee6a9bf8dea6fd5",
-    "k2": "0965a3ade6e0689673aa8d6183aa9d72"
-  },
-  {
     "title": "Internacional de Tenis (Quarterfinals)",
     "league": "ATP",
     "fecha-evento": "2025-10-17T09:03:53-05:00",
@@ -618,6 +605,16 @@
     "fecha-evento": "2025-10-18T05:55:00-05:00",
     "img": "1487de39-e9dd-48d1-ae2e-70870fff4ea0",
     "nombre": "disneycffa87",
+    "status": "05:55",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Preußen Münster vs. SG Dynamo Dresden",
+    "league": "Bundesliga 2 de Alemania",
+    "fecha-evento": "2025-10-18T05:55:00-05:00",
+    "img": "e2afd103-496b-4b6b-bd61-d7b1278f2aec",
+    "nombre": "disney3afd94",
     "status": "05:55",
     "duration": 135,
     "play_url": ""
