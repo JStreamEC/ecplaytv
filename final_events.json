@@ -127,16 +127,6 @@
     "k2": "ca6a140a94da4383c892ec3f5d396d26"
   },
   {
-    "title": "Compacto | F1 GP Estados Unidos | Práctica (3 min)",
-    "league": "Fórmula 1",
-    "fecha-evento": "2025-10-17T14:00:00-05:00",
-    "img": "8ca8e192-f8ba-43c6-ad73-7ed3ec73f432",
-    "nombre": "disney0aebf3",
-    "status": "14:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "F1 - GP Estados Unidos - Clasificación Sprint",
     "league": "Fórmula 1",
     "fecha-evento": "2025-10-17T16:25:00-05:00",
@@ -440,7 +430,7 @@
     "title": "MotoGP - Sprint Race - Australian Motorcycle Grand Prix",
     "league": "MotoGP",
     "fecha-evento": "2025-10-17T22:30:00-05:00",
-    "img": "6249a12f-76a2-4592-9182-d39023c3af62",
+    "img": "a77607dd-c6c9-46af-9d85-3a5bd1a3fb02",
     "nombre": "disney3da6e4",
     "status": "22:30",
     "duration": 135,
@@ -613,6 +603,16 @@
     "img": "389d455f-59c3-46a4-8748-5cad216d1f22",
     "nombre": "disney165b13",
     "status": "07:25",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Holger Rune (DEN) vs. Ugo Humbert (FRA) (Semifinals)",
+    "league": "ATP",
+    "fecha-evento": "2025-10-18T07:30:00-05:00",
+    "img": "0178deab-11c0-4dd6-bbbf-db1d8810fb21",
+    "nombre": "disney353d40",
+    "status": "07:30",
     "duration": 135,
     "play_url": ""
   }
