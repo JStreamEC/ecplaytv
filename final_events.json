@@ -1,44 +1,5 @@
 [
   {
-    "title": "Tulsa vs. East Carolina",
-    "league": "Fútbol Americano NCAA",
-    "fecha-evento": "2025-10-16T18:30:02-05:00",
-    "img": "099984c9-eb80-4303-af04-092ee29b5ec7",
-    "nombre": "disney4edd85",
-    "status": "18:30",
-    "duration": 180,
-    "play_url": "https://www.disneyplus.com/es-es/play/64e1a41f-0944-4652-9b28-185f9607ea32",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1760745708~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F16%2FTulsa_vs_East_Carolina_20251016_1760650222026%2F~psid=43613c52-0b24-49d3-8968-a42262c93eeb~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=a773fffa2aefefc465cea1d3d62b7d0c55720373c2e5f47748082a9391c034ce/clt1/va02/disneyplus/event/2025/10/16/Tulsa_vs_East_Carolina_20251016_1760650222026/ctr-all-hdri-complete.m3u8?v=1&hash=513e90246feab8065840ce733cd9936811b4457e",
-    "k1": "0ec8dbe383a04ade82927e0263408fc2",
-    "k2": "7b275420aabc4b128366282a71d46f98"
-  },
-  {
-    "title": "Pittsburgh Steelers vs. Cincinnati Bengals",
-    "league": "NFL",
-    "fecha-evento": "2025-10-16T19:00:00-05:00",
-    "img": "31a3e22b-838c-41e1-bb52-ad0c002e4341",
-    "nombre": "disney2df963",
-    "status": "19:00",
-    "duration": 210,
-    "play_url": "https://www.disneyplus.com/es-es/play/ebbd84e9-2137-4e5d-97de-084c40ba9f05",
-    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1760745824~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F7f9052ce-8143-43a6-9656-a8c00c4a3e56-1760554479235%2F~psid=0ced24e1-5521-4a58-b1b3-71024bf61cf4~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=fbf38778e1ea02f89c2e053063196c504f940554311487f12489dd87c395fe6f/clt1/va02/disneyplus/channel/7f9052ce-8143-43a6-9656-a8c00c4a3e56-1760554479235/ctr-all-sliding-alt1.m3u8?v=1&hash=437e3ef416fefcb19394ac9c8d3e57c2f7f2cec4",
-    "k1": "41555951e3f043cc96372fe4ffe84723",
-    "k2": "5cc87ccfb602e6c59cebfb0951d8cf86"
-  },
-  {
-    "title": "Toronto Blue Jays vs. Seattle Mariners (ALCS, Game 4)",
-    "league": "MLB",
-    "fecha-evento": "2025-10-16T19:30:00-05:00",
-    "img": "0592dc84-6d32-4c5c-bb47-4071d75ddea9",
-    "nombre": "disney21215c",
-    "status": "19:30",
-    "duration": 180,
-    "play_url": "https://www.disneyplus.com/es-es/play/ae7ab778-6ede-41c8-b757-339b165e3442",
-    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1760748018~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F47873700-1b85-4497-8f84-d6f321fbb196-1759410995494%2F~psid=2aaf9b59-9adb-4e71-998e-0cd9d11d82e0~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=aba49fb20a823aa28a24d60aaded2333771f8b3ee6d517747a7df981008c2718/clt1/va02/disneyplus/channel/47873700-1b85-4497-8f84-d6f321fbb196-1759410995494/ctr-all-sliding-alt1.m3u8?v=1&hash=2e1c2c39a1658935937a58e79ecd56c0e3dfb9d6",
-    "k1": "477c789c228449e59e55e787a66dedae",
-    "k2": "614b8d18646a0c41070122145faf64cf"
-  },
-  {
     "title": "Vancouver Rise FC Academy vs. Alianza Women FC (Fecha #5)",
     "league": "Concacaf W Champions Cup",
     "fecha-evento": "2025-10-16T20:50:02-05:00",
@@ -576,6 +537,36 @@
     "img": "ec3f734b-1865-44f7-938c-47d1400568f3",
     "nombre": "disney198016",
     "status": "19:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Milwaukee Brewers vs. Los Angeles Dodgers (NLCS, Game 4)",
+    "league": "MLB",
+    "fecha-evento": "2025-10-17T19:30:00-05:00",
+    "img": "4eb3dce7-e075-4350-be41-d5ba647250ed",
+    "nombre": "disneybd4917",
+    "status": "19:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Vancouver Canucks vs. Chicago Blackhawks",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-10-17T19:30:00-05:00",
+    "img": "e74a6aaf-dafe-48dc-80a7-93b2630a2da8",
+    "nombre": "disneyb4920c",
+    "status": "19:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Correcaminos UAT vs. Dorados de Sinaloa (Jornada 12)",
+    "league": "Liga de Expansión MX",
+    "fecha-evento": "2025-10-17T19:50:00-05:00",
+    "img": "01caa88d-4b1d-4fac-86e2-4ec8092bc011",
+    "nombre": "disney50d12c",
+    "status": "19:50",
     "duration": 135,
     "play_url": ""
   }
