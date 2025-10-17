@@ -23,32 +23,6 @@
     "k2": "b4be88ba7ca2fc4ee3e91d80f466b5ef"
   },
   {
-    "title": "PSG vs. Strasbourg",
-    "league": "Ligue 1",
-    "fecha-evento": "2025-10-17T13:30:00-05:00",
-    "img": "1188e144-db88-4131-a141-78969424c1a9",
-    "nombre": "disney061449",
-    "status": "13:30",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/98227757-e7b4-4a0e-8cdb-cfd51178dc75",
-    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1760812905~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F921e1311-bb26-43dd-84a6-9e2284959712-1759409855938%2F~psid=c08c1204-03c2-411f-85ba-da73aa2eb185~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=a593050c06c6567ee803aea77bb4aafc8d26e48b55f0146053cb4d187ca9e3db/clt1/va02/disneyplus/channel/921e1311-bb26-43dd-84a6-9e2284959712-1759409855938/ctr-all-sliding-alt1.m3u8?v=1&hash=e50ddd99727af0a2947bb1b84904b1697e8043f8",
-    "k1": "b96d928e3d034d33a2db6bc33ca7fc96",
-    "k2": "a457f9ba4f20cacbee20ad2c9a7ba06b"
-  },
-  {
-    "title": "Gloucester Rugby vs. Bristol Bears (Ronda #4)",
-    "league": "Premiership",
-    "fecha-evento": "2025-10-17T13:40:00-05:00",
-    "img": "9eaee885-7ee5-46b9-803b-1b309dbfb79f",
-    "nombre": "disneyea77e9",
-    "status": "13:40",
-    "duration": 125,
-    "play_url": "https://www.disneyplus.com/es-es/play/78f1cd48-ca93-47be-83e7-31ead81612b2",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1760812928~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F17%2FGloucester_Rugby_vs_Brist_20251017_1760719227040%2F~psid=2f5848cd-0e6c-450e-b066-69e6bc9f9bde~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=0fe6ce5170bd9fe86b37be1bb6198fd6f05ab80010b3a07a3d08a920923ff39c/clt1/va02/disneyplus/event/2025/10/17/Gloucester_Rugby_vs_Brist_20251017_1760719227040/ctr-all-hdri-complete.m3u8?v=1&hash=1ef7ab73301011618103579b3e9351b8fbf76494",
-    "k1": "2dd0dca60bb4483a8cd4d3ad3af4c3aa",
-    "k2": "c4c3034831457805d019ecc494d1ddd1"
-  },
-  {
     "title": "Middlesbrough vs. Ipswich Town",
     "league": "Championship de Inglaterra",
     "fecha-evento": "2025-10-17T13:50:00-05:00",
@@ -77,10 +51,10 @@
   {
     "title": "F1 - GP Estados Unidos - Clasificación Sprint",
     "league": "Fórmula 1",
-    "fecha-evento": "2025-10-17T16:25:00-05:00",
+    "fecha-evento": "2025-10-17T16:00:00-05:00",
     "img": "03ec8d41-b174-450b-9406-05c55e209f6c",
-    "nombre": "disney0d02c0",
-    "status": "16:25",
+    "nombre": "disney9c5109",
+    "status": "16:00",
     "duration": 135,
     "play_url": ""
   },
@@ -257,10 +231,10 @@
   {
     "title": "Lanús vs. Godoy Cruz",
     "league": "Liga Profesional de Fútbol",
-    "fecha-evento": "2025-10-17T19:00:00-05:00",
+    "fecha-evento": "2025-10-17T18:55:00-05:00",
     "img": "ec3f734b-1865-44f7-938c-47d1400568f3",
-    "nombre": "disney198016",
-    "status": "19:00",
+    "nombre": "disneyd2a9b3",
+    "status": "18:55",
     "duration": 135,
     "play_url": ""
   },
@@ -601,6 +575,26 @@
     "img": "26aeb962-c41b-410a-9f64-aa492b124b7e",
     "nombre": "disneycb0c08",
     "status": "08:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Spanish - Circuito de Jerez - World SSP - Race 1",
+    "league": "FIM Superbike World Championship",
+    "fecha-evento": "2025-10-18T08:03:00-05:00",
+    "img": "dbbdf026-dd6f-4f07-9c86-944c465a067c",
+    "nombre": "disney2bf1c1",
+    "status": "08:03",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "RB Leipzig vs. Hamburger SV",
+    "league": "Bundesliga",
+    "fecha-evento": "2025-10-18T08:20:00-05:00",
+    "img": "87b72d86-a094-448a-983a-916d565f77c4",
+    "nombre": "disney786912",
+    "status": "08:20",
     "duration": 135,
     "play_url": ""
   }
