@@ -26,19 +26,6 @@
     "k2": "5cc87ccfb602e6c59cebfb0951d8cf86"
   },
   {
-    "title": "Vancouver Canucks vs. Dallas Stars",
-    "league": "National Hockey League",
-    "fecha-evento": "2025-10-16T19:00:00-05:00",
-    "img": "49342fc5-b3f0-4857-ac04-2198e23d3969",
-    "nombre": "disney44e4b1",
-    "status": "19:00",
-    "duration": 210,
-    "play_url": "https://www.disneyplus.com/es-es/play/74d971f3-e88b-4849-aeb6-a213cf278fb4",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1760745801~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F17%2FVancouver_Canucks_vs_Dall_20251017_1760652030044%2F~psid=90b32256-9b79-4b87-aac5-a64de6f40331~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=a60715d033e6ed18adea1adaaf8db2affa2a2ef86ceeda7ad1ce7fc2c612755d/clt1/va02/disneyplus/event/2025/10/17/Vancouver_Canucks_vs_Dall_20251017_1760652030044/ctr-all-hdri-complete.m3u8?v=1&hash=15d47141175e5e4da82eb33ede6b31a3b4b760f1",
-    "k1": "b1687b2efd5d467e85507cb7997601f9",
-    "k2": "a76a8ed0140833685b531747da78d950"
-  },
-  {
     "title": "Toronto Blue Jays vs. Seattle Mariners (ALCS, Game 4)",
     "league": "MLB",
     "fecha-evento": "2025-10-16T19:30:00-05:00",
@@ -50,19 +37,6 @@
     "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1760748018~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F47873700-1b85-4497-8f84-d6f321fbb196-1759410995494%2F~psid=2aaf9b59-9adb-4e71-998e-0cd9d11d82e0~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=aba49fb20a823aa28a24d60aaded2333771f8b3ee6d517747a7df981008c2718/clt1/va02/disneyplus/channel/47873700-1b85-4497-8f84-d6f321fbb196-1759410995494/ctr-all-sliding-alt1.m3u8?v=1&hash=2e1c2c39a1658935937a58e79ecd56c0e3dfb9d6",
     "k1": "477c789c228449e59e55e787a66dedae",
     "k2": "614b8d18646a0c41070122145faf64cf"
-  },
-  {
-    "title": "Arizona vs. BYU",
-    "league": "Fútbol Femenino NCAA",
-    "fecha-evento": "2025-10-16T20:00:00-05:00",
-    "img": "482b403c-9c5c-44e8-9eae-bc12fe016427",
-    "nombre": "disneyacf34a",
-    "status": "20:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/d5c4a696-e628-4158-b21c-11cde5914710",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1760750418~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F17%2FArizona_vs_BYU_20251017_1760655643028%2F~psid=b9a2191e-db75-4fc5-a617-a7459664fe66~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=530188138d272f72cfb25371946a0dafb887aae4d7d82249fef811f43c30f38c/clt1/va02/disneyplus/event/2025/10/17/Arizona_vs_BYU_20251017_1760655643028/ctr-all-hdri-complete.m3u8?v=1&hash=c374668900451575ab53de8c6f60edb1cc078bfa",
-    "k1": "1d81ca70d231405eb0ff591a1ae509d7",
-    "k2": "21401727b85f0708ad21f7f8d4918cb4"
   },
   {
     "title": "Vancouver Rise FC Academy vs. Alianza Women FC (Fecha #5)",
@@ -582,6 +556,26 @@
     "img": "ea606b53-9150-4990-b9e7-ab1e3d95e0b8",
     "nombre": "disney7e79f6",
     "status": "18:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "MotoGP Qualifying - Australian Motorcycle Grand Prix",
+    "league": "MotoGP",
+    "fecha-evento": "2025-10-17T18:45:00-05:00",
+    "img": "80e6823b-a19b-42e2-a8b5-e1716539d602",
+    "nombre": "disney22dbcd",
+    "status": "18:45",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Lanús vs. Godoy Cruz",
+    "league": "Liga Profesional de Fútbol",
+    "fecha-evento": "2025-10-17T19:00:00-05:00",
+    "img": "ec3f734b-1865-44f7-938c-47d1400568f3",
+    "nombre": "disney198016",
+    "status": "19:00",
     "duration": 135,
     "play_url": ""
   }
