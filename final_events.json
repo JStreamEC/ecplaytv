@@ -117,19 +117,6 @@
     "k2": "aaef574ae72cd55843f19bf2cfa04ed5"
   },
   {
-    "title": "Australian Motorcycle Grand Prix -  Practice (Moto3)",
-    "league": "MotoGP",
-    "fecha-evento": "2025-10-16T21:10:10-05:00",
-    "img": "2a8137c8-c88d-4ec7-a8ca-295864a53836",
-    "nombre": "disney99aed2",
-    "status": "21:10",
-    "duration": 45,
-    "play_url": "https://www.disneyplus.com/es-es/play/0193784e-dd7d-4815-8fac-d4e444d8831c",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1760754128~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F17%2FAustralian_Motorcycle_Gra_20251017_1760659812039%2F~psid=adce7493-21cc-4193-b8d0-631a0d6dd779~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=42186f168b53099e12b596982737abb73c370994941de56f1dd6e40db028a6ec/clt1/va02/disneyplus/event/2025/10/17/Australian_Motorcycle_Gra_20251017_1760659812039/ctr-all-hdri-complete.m3u8?v=1&hash=77bf3f135a99e9d826bdd40885856723ae8f3fed",
-    "k1": "811ae3deaba44a28ac410dc2b81932cd",
-    "k2": "25109b335cf3839b94d29b1a3d1aada8"
-  },
-  {
     "title": "Kinoshita Group Japan Open (Quarterfinals)",
     "league": "WTA",
     "fecha-evento": "2025-10-16T21:30:00-05:00",
@@ -162,8 +149,11 @@
     "img": "15d12c8b-f015-4374-ba23-69a3f6b36550",
     "nombre": "disney81ab3b",
     "status": "21:55",
-    "duration": 135,
-    "play_url": ""
+    "duration": 55,
+    "play_url": "https://www.disneyplus.com/es-es/play/f836f81c-e4df-4b62-97ca-adfd190ae7cc",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1760756418~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F17%2FAustralian_Motorcycle_Gra_20251017_1760662508041%2F~psid=0e4f2150-7e4d-4660-9cfd-b2f093547ffa~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=dc91095c805f99abd78aee36f966070c39e4b9af7dd9f0d0c9291939281d5d9f/clt1/va02/disneyplus/event/2025/10/17/Australian_Motorcycle_Gra_20251017_1760662508041/ctr-all-hdri-complete.m3u8?v=1&hash=b7f438eab5269d648f9fb744c33917c73bb97d42",
+    "k1": "d0fd1b39a701494d8b5bb0666560f40d",
+    "k2": "691bbf0a8148cc56c75097cb80321723"
   },
   {
     "title": "Australian Motorcycle Grand Prix - Practice (MotoGP)",
@@ -581,6 +571,16 @@
     "fecha-evento": "2025-10-17T18:00:00-05:00",
     "img": "4b26da20-d83f-43c8-8ed9-0c3ea9ec9c61",
     "nombre": "disneyaf64bb",
+    "status": "18:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Círculo de Tenis vs. Club Champagnat",
+    "league": "Campeonato Uruguayo de Rugby",
+    "fecha-evento": "2025-10-17T18:00:00-05:00",
+    "img": "ea606b53-9150-4990-b9e7-ab1e3d95e0b8",
+    "nombre": "disney7e79f6",
     "status": "18:00",
     "duration": 135,
     "play_url": ""
