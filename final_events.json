@@ -13,19 +13,6 @@
     "k2": "cfa50c20d2d5eef08fbd0704c035ab11"
   },
   {
-    "title": "Torino vs. Napoli",
-    "league": "Seria A",
-    "fecha-evento": "2025-10-18T10:50:00-05:00",
-    "img": "33f6ecb2-b3d8-4b75-85ed-2a500da6206b",
-    "nombre": "disney58d882",
-    "status": "10:50",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/eba5d972-b023-4429-9bf8-4bb7acee3d19",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1760889619~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F18%2FTorino_vs_Napoli_20251018_1760795407042%2F~psid=768a03e9-7bd1-4972-bc1a-6c8f80bc1662~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=0f1382e219354d0c91442d65c596b070c6a0c86d7c780c3445ee0cc0fd3b45f4/clt1/va02/disneyplus/event/2025/10/18/Torino_vs_Napoli_20251018_1760795407042/ctr-all-hdri-complete.m3u8?v=1&hash=26795344535e1e9e7e6dce965231b7004308c4a1",
-    "k1": "6faccf5b47cb4238a375dd7110241955",
-    "k2": "ac9a3029b6b26b3e5c43d225c9e9cd42"
-  },
-  {
     "title": "#12 Georgia Tech vs. Duke",
     "league": "Fútbol Americano NCAA",
     "fecha-evento": "2025-10-18T11:00:00-05:00",
@@ -280,7 +267,10 @@
     "nombre": "disneyb638b3",
     "status": "13:15",
     "duration": 135,
-    "play_url": ""
+    "play_url": "https://www.disneyplus.com/es-es/play/92a62297-4c0c-414c-a958-e6e505472715",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1760898018~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F18%2FMontevideo_City_Torque_vs_20251018_1760804105026%2F~psid=535178c7-d884-4f27-9203-15f652497a1d~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=dafe2fe4243318fa70b692a7e44cfa7c2a095b54c920a55db1129f1dbd33c1ca/clt1/va02/disneyplus/event/2025/10/18/Montevideo_City_Torque_vs_20251018_1760804105026/ctr-all-hdri-complete.m3u8?v=1&hash=b87a9b0421026abd20d5e6927132f4a01e86ea8f",
+    "k1": "b1c55b00caac4501bce8cb3ad7799a17",
+    "k2": "f4784fc979bd25e753fdc1964deab600"
   },
   {
     "title": "Vfl Bochum 1848 vs. Hertha BSC",
@@ -616,7 +606,7 @@
     "title": "Nacional vs. Miramar Misiones",
     "league": "Campeonato Uruguayo",
     "fecha-evento": "2025-10-18T16:00:00-05:00",
-    "img": "2d20ea40-3a1d-4234-b1a7-01ee093edb13",
+    "img": "8109c160-12c0-4993-a6db-58242805678e",
     "nombre": "disney74daa8",
     "status": "16:00",
     "duration": 135,
@@ -658,6 +648,16 @@
     "fecha-evento": "2025-10-18T18:00:00-05:00",
     "img": "01804c67-8645-40a0-9876-e1054a98c659",
     "nombre": "disney08be59",
+    "status": "18:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Minnesota Wild vs. Philadelphia Flyers",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-10-18T18:00:00-05:00",
+    "img": "2524c1e5-40dd-4bf8-b306-6b3564485402",
+    "nombre": "disneyd8b390",
     "status": "18:00",
     "duration": 135,
     "play_url": ""
