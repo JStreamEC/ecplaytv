@@ -39,45 +39,6 @@
     "k2": "88b558994e213d28d0531553df55850b"
   },
   {
-    "title": "Olympique Marseille vs. Le Havre AC",
-    "league": "Ligue 1",
-    "fecha-evento": "2025-10-18T13:45:00-05:00",
-    "img": "40539c8c-e93b-44da-8bb3-3d453c65cff4",
-    "nombre": "disney44aa07",
-    "status": "13:45",
-    "duration": 135,
-    "play_url": "https://www.disneyplus.com/es-es/play/4da5a3d3-0b58-4045-a277-305e13389b12",
-    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1760900418~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Fbbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1759410188321%2F~psid=ad74f46a-c7b2-46d4-860f-e28c12fef87f~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=02c10057564aa8d7d104234e1eb802e6ed465cabedbb1979b6eb21a2541c2ded/clt1/va02/disneyplus/channel/bbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1759410188321/ctr-all-sliding-alt1.m3u8?v=1&hash=3f2beb7c737b132d1104736b95cd26c3f1914d57",
-    "k1": "728364246f49429fb05e1ddaae9f7eda",
-    "k2": "dcc26d592156c680d87de03fde84ff64"
-  },
-  {
-    "title": "Atlético Madrid vs. Osasuna",
-    "league": "LALIGA",
-    "fecha-evento": "2025-10-18T13:50:00-05:00",
-    "img": "25f13bce-aeb5-411a-96f5-f160f1700269",
-    "nombre": "disneyc3932b",
-    "status": "13:50",
-    "duration": 125,
-    "play_url": "https://www.disneyplus.com/es-es/play/4db58085-60a0-4f34-98dd-619e9b595460",
-    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1760900505~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Ff25bdf06-81c9-4a7c-b128-3128d610ad17-1759409600195%2F~psid=85e947cb-c542-4509-a5cc-2fffa4b24c88~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=7a21438083f2a947548f768f83997ae99604615ed04206084f47357efda7f364/clt1/va02/disneyplus/channel/f25bdf06-81c9-4a7c-b128-3128d610ad17-1759409600195/ctr-all-sliding-alt1.m3u8?v=1&hash=4daaff4fdbe476e51bcd350032d73b0e9d85df99",
-    "k1": "8b16b5cf755b42a49e3e918904831b58",
-    "k2": "7efd11debe6e2563167bb01faf38308e"
-  },
-  {
-    "title": "#7 Arizona State vs. Utah",
-    "league": "NCAA Women's Volleyball",
-    "fecha-evento": "2025-10-18T14:00:13-05:00",
-    "img": "2a87bde8-91c3-4cd0-ad03-cc0a160ae7d2",
-    "nombre": "disney709243",
-    "status": "14:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/de78d11c-8c0f-4f57-ac52-fc944cbefdda",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1760901660~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F18%2F7_Arizona_State_vs_Utah_20251018_1760806806041%2F~psid=1e4d43d5-0164-45d1-969e-9e2575513187~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=0c01c2c99112e55736abb86338591d1d90a7ed625301e07ef2555506486ac46d/clt1/va02/disneyplus/event/2025/10/18/7_Arizona_State_vs_Utah_20251018_1760806806041/ctr-all-hdri-complete.m3u8?v=1&hash=d4d04af45bc45bc12702667d805f77f0683d7ead",
-    "k1": "85ffb04997774d24a78d9ba3d7a156a0",
-    "k2": "dcbe59c8765caf964de7c5ba3d2cfb19"
-  },
-  {
     "title": "Troy vs. UL Monroe",
     "league": "Fútbol Americano NCAA",
     "fecha-evento": "2025-10-18T14:00:05-05:00",
@@ -639,6 +600,36 @@
     "img": "d1a008e5-fb65-44cd-9190-b3a42d4d53da",
     "nombre": "disneya134dc",
     "status": "19:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Tacuarembó vs. Albion FC",
+    "league": "Segunda División de Uruguay",
+    "fecha-evento": "2025-10-18T19:00:00-05:00",
+    "img": "045be687-2705-44f1-b191-723f6e7bb33d",
+    "nombre": "disneyd7aece",
+    "status": "19:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "BKFC Fight Night | Bryce Henry vs. Roderick Stewart",
+    "league": "Bare Knuckle Fighting Championship",
+    "fecha-evento": "2025-10-18T20:00:00-05:00",
+    "img": "f501b0fa-61f6-45d6-9591-3d354ca469db",
+    "nombre": "disney4164b8",
+    "status": "20:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "MotoGP - Race - Australian Motorcycle Grand Prix",
+    "league": "MotoGP",
+    "fecha-evento": "2025-10-18T19:45:00-05:00",
+    "img": "1f368153-1e1e-47ec-94b1-f6d9fd5a605d",
+    "nombre": "disney0edd49",
+    "status": "19:45",
     "duration": 135,
     "play_url": ""
   }
