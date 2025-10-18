@@ -13,19 +13,6 @@
     "k2": "cfa50c20d2d5eef08fbd0704c035ab11"
   },
   {
-    "title": "Nice vs. Lyon",
-    "league": "Ligue 1",
-    "fecha-evento": "2025-10-18T09:55:06-05:00",
-    "img": "ccd09d16-0a14-4f7d-92a0-7058c1b85c0a",
-    "nombre": "disneya8f65f",
-    "status": "09:55",
-    "duration": 125,
-    "play_url": "https://www.disneyplus.com/es-es/play/0019e5c9-6e88-4701-a128-cd464225dfb3",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1760887264~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F18%2FNice_vs_Lyon_20251018_1760792110027%2F~psid=8e003e88-0a41-4b94-82bb-3f66490d1c37~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=b4dd14a2638f31c86744f06ddf2b95d9b6a22f6094617ef5e930d324e272c653/clt1/va02/disneyplus/event/2025/10/18/Nice_vs_Lyon_20251018_1760792110027/ctr-all-hdri-complete.m3u8?v=1&hash=9a3adfe849e64cc50646f29b2d7e386cece7351d",
-    "k1": "e171efcb6d944d2a83ac9595ad8702c2",
-    "k2": "c80bca0de08e17979a2207eb54709ff8"
-  },
-  {
     "title": "La Luz vs. Oriental",
     "league": "Segunda División de Uruguay",
     "fecha-evento": "2025-10-18T10:30:07-05:00",
@@ -299,44 +286,56 @@
     "k2": "c9b24b4d2757dc4f4246a1f1ad7588ae"
   },
   {
-    "title": "F1 GP Estados Unidos, carrera sprint | Cámara On Board",
-    "league": "Fórmula 1",
-    "fecha-evento": "2025-10-18T12:00:00-05:00",
-    "img": "c173bae6-9844-4549-bd07-a1044c4f07ba",
-    "nombre": "disneybc4d0a",
-    "status": "12:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Florida Panthers vs. Buffalo Sabres",
-    "league": "National Hockey League",
-    "fecha-evento": "2025-10-18T12:00:00-05:00",
-    "img": "c17bf794-43ce-4606-a38a-5aff6c0d8c21",
-    "nombre": "disney4a2cd5",
-    "status": "12:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "F1 GP Estados Unidos, carrera sprint | On Board Colapinto",
-    "league": "Fórmula 1",
-    "fecha-evento": "2025-10-18T12:00:00-05:00",
-    "img": "8e04efc2-6f25-4ca8-b2ed-9af9b6bfd263",
-    "nombre": "disneyc06482",
-    "status": "12:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "F1 GP Estados Unidos, carrera sprint | On Board Hamilton",
     "league": "Fórmula 1",
     "fecha-evento": "2025-10-18T12:00:00-05:00",
     "img": "44a6753e-8b38-437a-b4dc-56fbcc5926d6",
     "nombre": "disney03c2f9",
     "status": "12:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 60,
+    "play_url": "https://www.disneyplus.com/es-es/play/afabde14-5f2f-4870-a011-e7dc009af443",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1760894418~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F18%2FF1_GP_Estados_Unidos_carr_20251018_1760799605044%2F~psid=3e9fc180-8dc7-4b38-ac17-e366c7c9a141~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=d862d7aff833d850f6e3f0ae4554d229a6234c8f4ea01037e5db15da8bb2d991/clt1/va02/disneyplus/event/2025/10/18/F1_GP_Estados_Unidos_carr_20251018_1760799605044/ctr-all-hdri-complete.m3u8?v=1&hash=5798661e03f74a3987f9acaa1933a2568a8a76c8",
+    "k1": "47c05a369afa4c1c946ff32f1c9e7056",
+    "k2": "49eb080c18d599b0147b0fd0c50e7bad"
+  },
+  {
+    "title": "F1 GP Estados Unidos, carrera sprint | On Board Colapinto",
+    "league": "Fórmula 1",
+    "fecha-evento": "2025-10-18T12:00:03-05:00",
+    "img": "9f244259-f76d-4e05-a9fd-c9dfaaeba5c2",
+    "nombre": "disneyc5b6af",
+    "status": "12:00",
+    "duration": 60,
+    "play_url": "https://www.disneyplus.com/es-es/play/ad16b313-2544-4760-a95f-e8bc1ca9c2e4",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1760894461~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F18%2FF1_GP_Estados_Unidos_carr_20251018_1760799634040%2F~psid=5908edb8-2eb9-4624-9816-fa1f89ad1381~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=c30310c9c8c70e1c383c1909e60f229a1199bd6d1104fe78430c61320d4dab42/clt1/va02/disneyplus/event/2025/10/18/F1_GP_Estados_Unidos_carr_20251018_1760799634040/ctr-all-hdri-complete.m3u8?v=1&hash=d1c1f55e2fcd539fbeee505d01ffdd0a2ca5cbae",
+    "k1": "4122753b270c4d329aabeced394ad0d5",
+    "k2": "bedd399baca98fb03394a9882c715033"
+  },
+  {
+    "title": "Florida Panthers vs. Buffalo Sabres",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-10-18T12:00:05-05:00",
+    "img": "c17bf794-43ce-4606-a38a-5aff6c0d8c21",
+    "nombre": "disneydd4426",
+    "status": "12:00",
+    "duration": 210,
+    "play_url": "https://www.disneyplus.com/es-es/play/96027cdc-7b14-4270-b311-e0f334c60fb4",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1760894505~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F18%2FFlorida_Panthers_vs_Buffa_20251018_1760799620040%2F~psid=bcf2650f-f915-4129-b322-4974fa0539ae~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=ff3cc243c46f175c90594ff0e46ac08df532ecccd880cc3770826e885fbcd4ea/clt1/va02/disneyplus/event/2025/10/18/Florida_Panthers_vs_Buffa_20251018_1760799620040/ctr-all-hdri-complete.m3u8?v=1&hash=d5d768356f31f340ba55967e0cc763b58d1e82cf",
+    "k1": "f1abb92e02ce4727a0ceb42e2ebce499",
+    "k2": "f71156fee67fb199dd958f477a833b85"
+  },
+  {
+    "title": "F1 GP Estados Unidos, carrera sprint | Cámara On Board",
+    "league": "Fórmula 1",
+    "fecha-evento": "2025-10-18T12:01:59-05:00",
+    "img": "d1e325b5-3463-45b8-a3cf-26192266839b",
+    "nombre": "disneye5ca49",
+    "status": "12:01",
+    "duration": 58,
+    "play_url": "https://www.disneyplus.com/es-es/play/8da5c4d8-292c-4669-9ade-838ef2297a16",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1760894528~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F18%2FF1_GP_Estados_Unidos_carr_20251018_1760799610041%2F~psid=216f8a18-6468-41cb-a0bd-40e0db1b963d~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=7d45fa9e8ebd990c32fd5c30457b3ffa269b2aa1e7c008dcf912e0d3ed5605e2/clt1/va02/disneyplus/event/2025/10/18/F1_GP_Estados_Unidos_carr_20251018_1760799610041/ctr-all-hdri-complete.m3u8?v=1&hash=475483792d5db5dd04b353c1511cb1d29bf80038",
+    "k1": "a080adef26b44d1e92a75cad126012b9",
+    "k2": "d16b24d86ec8f025e67987a4cbbdb460"
   },
   {
     "title": "El Infierno 1v1 | Día #1",
@@ -519,16 +518,6 @@
     "play_url": ""
   },
   {
-    "title": "#4 Texas A&M vs. Arkansas",
-    "league": "Fútbol Americano NCAA",
-    "fecha-evento": "2025-10-18T14:30:00-05:00",
-    "img": "bebc0f4f-721f-4295-ac25-18f9b6155fff",
-    "nombre": "disney74cab8",
-    "status": "14:30",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Akron vs. Ball State",
     "league": "Fútbol Americano NCAA",
     "fecha-evento": "2025-10-18T14:30:00-05:00",
@@ -585,6 +574,16 @@
     "img": "dd1babdb-8b1a-43fb-a7f6-14c622c43ef7",
     "nombre": "disney075fb4",
     "status": "14:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "#4 Texas A&M vs. Arkansas",
+    "league": "Fútbol Americano NCAA",
+    "fecha-evento": "2025-10-18T16:30:00-05:00",
+    "img": "bebc0f4f-721f-4295-ac25-18f9b6155fff",
+    "nombre": "disneyc2ab86",
+    "status": "16:30",
     "duration": 135,
     "play_url": ""
   },
@@ -664,6 +663,16 @@
     "fecha-evento": "2025-10-18T15:55:00-05:00",
     "img": "7cdf2301-e224-45a2-b1c5-b5f9dffb98d8",
     "nombre": "disney050d2a",
+    "status": "15:55",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Kings Cup México (Round 1)",
+    "league": "Kings League Americas",
+    "fecha-evento": "2025-10-18T15:55:00-05:00",
+    "img": "9a68a700-062f-4113-82c9-a3821b0bfbc0",
+    "nombre": "disneydcd657",
     "status": "15:55",
     "duration": 135,
     "play_url": ""
