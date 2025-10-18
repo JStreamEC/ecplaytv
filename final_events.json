@@ -1,18 +1,5 @@
 [
   {
-    "title": "DP World India Championship (Third Round)",
-    "league": "DP World Tour",
-    "fecha-evento": "2025-10-18T01:30:05-05:00",
-    "img": "e306d78e-8793-4fa6-8856-a02d9d088e80",
-    "nombre": "disneyd3d43d",
-    "status": "01:30",
-    "duration": 300,
-    "play_url": "https://www.disneyplus.com/es-es/play/602e165b-1914-4a67-912b-e1bbd753b633",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1760857355~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F18%2FDP_World_India_Championsh_20251018_1760761819028%2F~psid=7685d77f-69f5-4ff2-9c04-d69e3c7433a9~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=bbbb6697dda7b5e9b8edb35e22dea0416659329fe72e890b07a8fdbed49d45b7/clt1/va02/disneyplus/event/2025/10/18/DP_World_India_Championsh_20251018_1760761819028/ctr-all-hdri-complete.m3u8?v=1&hash=56dc11ff5d29ef818e218d9942b2ccfa2ddb1368",
-    "k1": "74ea73a5ae834bb6afae0aca5b71e093",
-    "k2": "02e698383cf38f3c9aeb11e15b405710"
-  },
-  {
     "title": "New Zealand vs. Pakistan",
     "league": "ESPN",
     "fecha-evento": "2025-10-18T04:00:08-05:00",
@@ -101,6 +88,19 @@
     "k2": "a402923ce026ea68decf4546142ead51"
   },
   {
+    "title": "Queens Park Rangers vs. Millwall",
+    "league": "Championship de Inglaterra",
+    "fecha-evento": "2025-10-18T06:20:00-05:00",
+    "img": "1a1de8b1-42d5-46e3-8968-c9784d90e615",
+    "nombre": "disneybdf632",
+    "status": "06:20",
+    "duration": 145,
+    "play_url": "https://www.disneyplus.com/es-es/play/b3e73edd-7535-4445-9c66-8138f96cf6af",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1760874063~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F18%2FQueens_Park_Rangers_vs_Mi_20251018_1760779253040%2F~psid=aa8c5d18-6acd-460b-996b-a76edcbd8af4~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=e1652fb5d200238859ba5b4155fa509c29a35cd6555513d53a463297e880c477/clt1/va02/disneyplus/event/2025/10/18/Queens_Park_Rangers_vs_Mi_20251018_1760779253040/ctr-all-hdri-complete.m3u8?v=1&hash=40468214458f8367799ce25967e7f0025aae0b94",
+    "k1": "fcfbfb681a054cdfa0760ef40d49c149",
+    "k2": "66594a170a8cac9aa0b7d65eb97731bf"
+  },
+  {
     "title": "Nottingham Forest vs. Chelsea",
     "league": "Premier League",
     "fecha-evento": "2025-10-18T06:20:00-05:00",
@@ -112,16 +112,6 @@
     "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1760872862~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F921e1311-bb26-43dd-84a6-9e2284959712-1759409855938%2F~psid=6e4f05f9-c119-44d9-a25e-32cb3a1d8434~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=73289c0866942bf615837acd322408d16b005f89a15ef7ee3d0283d0ebe83ebf/clt1/va02/disneyplus/channel/921e1311-bb26-43dd-84a6-9e2284959712-1759409855938/ctr-all-sliding-alt1.m3u8?v=1&hash=e50ddd99727af0a2947bb1b84904b1697e8043f8",
     "k1": "210ca35fdcd645f09c910aa61dc080c5",
     "k2": "3d9b89baeb7bf0c8de53107cbcdf1430"
-  },
-  {
-    "title": "Queens Park Rangers vs. Millwall",
-    "league": "Championship de Inglaterra",
-    "fecha-evento": "2025-10-18T06:20:00-05:00",
-    "img": "1a1de8b1-42d5-46e3-8968-c9784d90e615",
-    "nombre": "disneybdf632",
-    "status": "06:20",
-    "duration": 135,
-    "play_url": ""
   },
   {
     "title": "Spanish - Circuito de Jerez - World SBK - Race 1",
@@ -649,6 +639,16 @@
     "fecha-evento": "2025-10-18T12:00:00-05:00",
     "img": "c173bae6-9844-4549-bd07-a1044c4f07ba",
     "nombre": "disneybc4d0a",
+    "status": "12:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Florida Panthers vs. Buffalo Sabres",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-10-18T12:00:00-05:00",
+    "img": "c17bf794-43ce-4606-a38a-5aff6c0d8c21",
+    "nombre": "disney4a2cd5",
     "status": "12:00",
     "duration": 135,
     "play_url": ""
