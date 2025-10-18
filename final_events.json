@@ -26,19 +26,6 @@
     "k2": "ffe4fd5c74edf0c1d0e37f092f9c78f8"
   },
   {
-    "title": "Canterbury vs. Hawke's Bay (Semifinal)",
-    "league": "National Provincial Championship",
-    "fecha-evento": "2025-10-18T01:11:40-05:00",
-    "img": "bdcd31bb-acf3-436c-af21-d322c951a29c",
-    "nombre": "disney72ac20",
-    "status": "01:11",
-    "duration": 123,
-    "play_url": "https://www.disneyplus.com/es-es/play/b3453555-f5ad-4ff1-bdd0-bafc021a5ae3",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1760857332~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F18%2FCanterbury_vs_Hawkes_Bay__20251018_1760760620041%2F~psid=c9a602b7-2501-4bdd-b846-a15608805066~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=ac20dac0b754ec9d477e01fa3bae2518b67f70b0f903e2be4621c2ee71ea03ae/clt1/va02/disneyplus/event/2025/10/18/Canterbury_vs_Hawkes_Bay__20251018_1760760620041/ctr-all-hdri-complete.m3u8?v=1&hash=f273aa2489b5934a614e2c82459047bf5f71356e",
-    "k1": "660654953bb04530955bf03c3dae7036",
-    "k2": "cbed3fc302f6841abd125669f8bb007a"
-  },
-  {
     "title": "DP World India Championship (Third Round)",
     "league": "DP World Tour",
     "fecha-evento": "2025-10-18T01:30:05-05:00",
@@ -641,6 +628,16 @@
     "img": "ceeaec4a-5f77-4ebb-8425-c0e05118fede",
     "nombre": "disney86f485",
     "status": "11:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "FC Utrecht vs. FC Volendam",
+    "league": "Eredivisie",
+    "fecha-evento": "2025-10-18T11:40:00-05:00",
+    "img": "894988a9-81eb-48b7-9060-4ab74b70f394",
+    "nombre": "disneyd063a2",
+    "status": "11:40",
     "duration": 135,
     "play_url": ""
   }
