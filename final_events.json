@@ -1,15 +1,5 @@
 [
   {
-    "title": "New Zealand vs. Pakistan",
-    "league": "ESPN",
-    "fecha-evento": "2025-10-18T04:00:08-05:00",
-    "img": "3f924cb0-3281-456f-a3ad-22f42fb18e6b",
-    "nombre": "disneya5f2e8",
-    "status": "04:00",
-    "duration": 450,
-    "play_url": "https://www.disneyplus.com/es-es/play/92d3a79c-d3fb-4703-9503-42205395694d"
-  },
-  {
     "title": "James Duckworth (AUS) vs. Daniil Medvedev (RUS) (Semifinals)",
     "league": "ATP",
     "fecha-evento": "2025-10-18T05:00:06-05:00",
@@ -34,19 +24,6 @@
     "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1760870461~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F18%2F2025_AUX_Ningbo_Open_Cent_20251018_1760776206027%2F~psid=f1952764-865b-41be-981c-e7c7decf707b~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=b5e4650080ea9ec2e9ead55c53d7628bea94f09c91bd5d4f90241d9ed87d0288/clt1/va02/disneyplus/event/2025/10/18/2025_AUX_Ningbo_Open_Cent_20251018_1760776206027/ctr-all-hdri-complete.m3u8?v=1&hash=92c13948768a9f66a0fb3dc977879851aa45329e",
     "k1": "8aa84f1857e544d2a8579a695931bdde",
     "k2": "6e2a90bc2bdff21df4d1ecc4a662d55c"
-  },
-  {
-    "title": "Spanish - Circuito de Jerez - World SSP 300 - Race 1",
-    "league": "FIM Superbike World Championship",
-    "fecha-evento": "2025-10-18T05:35:00-05:00",
-    "img": "dbbdf026-dd6f-4f07-9c86-944c465a067c",
-    "nombre": "disney788457",
-    "status": "05:35",
-    "duration": 57,
-    "play_url": "https://www.disneyplus.com/es-es/play/1b36c4b5-41c9-4811-b0ae-35c7f6103885",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1760870504~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F18%2FSpanish_Circuito_de_Jerez_20251018_1760779237543%2F~psid=cca35a57-6988-4d36-8f09-04896dd08e46~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=53da79f1db40bacc0fa556506ea5a61127fc695fb17b8be604ba457d9df7067a/clt1/va02/disneyplus/event/2025/10/18/Spanish_Circuito_de_Jerez_20251018_1760779237543/ctr-all-hdri-complete.m3u8?v=1&hash=380cdb5c56e5df94f345b229e4bffea237e70288",
-    "k1": "cd3fdacca431470f8ae2fa18d74e03af",
-    "k2": "071ada9c780ed652895cd1f7f7ba846b"
   },
   {
     "title": "Preußen Münster vs. SG Dynamo Dresden",
@@ -120,8 +97,11 @@
     "img": "dbbdf026-dd6f-4f07-9c86-944c465a067c",
     "nombre": "disney186db9",
     "status": "06:55",
-    "duration": 135,
-    "play_url": ""
+    "duration": 65,
+    "play_url": "https://www.disneyplus.com/es-es/play/5864b21a-9b9f-4327-abb2-4793a821a8e2",
+    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1760875219~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Ff25bdf06-81c9-4a7c-b128-3128d610ad17-1759409600195%2F~psid=6f86bd7a-d08c-4139-9346-9895f5d6f327~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=a323b82e06880738a6f6a67e9d684f55a63de939e91a43807839f01212f272da/clt1/va02/disneyplus/channel/f25bdf06-81c9-4a7c-b128-3128d610ad17-1759409600195/ctr-all-sliding-alt1.m3u8?v=1&hash=4daaff4fdbe476e51bcd350032d73b0e9d85df99",
+    "k1": "8b16b5cf755b42a49e3e918904831b58",
+    "k2": "7efd11debe6e2563167bb01faf38308e"
   },
   {
     "title": "2025 Australian Open Juniors Series (Finals)",
@@ -649,6 +629,26 @@
     "fecha-evento": "2025-10-18T12:00:00-05:00",
     "img": "c17bf794-43ce-4606-a38a-5aff6c0d8c21",
     "nombre": "disney4a2cd5",
+    "status": "12:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "F1 GP Estados Unidos, carrera sprint | On Board Colapinto",
+    "league": "Fórmula 1",
+    "fecha-evento": "2025-10-18T12:00:00-05:00",
+    "img": "8e04efc2-6f25-4ca8-b2ed-9af9b6bfd263",
+    "nombre": "disneyc06482",
+    "status": "12:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "F1 GP Estados Unidos, carrera sprint | On Board Hamilton",
+    "league": "Fórmula 1",
+    "fecha-evento": "2025-10-18T12:00:00-05:00",
+    "img": "44a6753e-8b38-437a-b4dc-56fbcc5926d6",
+    "nombre": "disney03c2f9",
     "status": "12:00",
     "duration": 135,
     "play_url": ""
