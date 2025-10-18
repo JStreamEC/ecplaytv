@@ -1,18 +1,5 @@
 [
   {
-    "title": "Kinoshita Group Japan Open / Center Court (Doubles Final)",
-    "league": "WTA",
-    "fecha-evento": "2025-10-18T01:00:00-05:00",
-    "img": "00065175-5014-4d20-972e-79987dc28c4e",
-    "nombre": "disney26895c",
-    "status": "01:00",
-    "duration": 180,
-    "play_url": "https://www.disneyplus.com/es-es/play/bfd6351c-29ab-47de-8161-07939aef5cf7",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1760857288~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F18%2FKinoshita_Group_Japan_Ope_20251018_1760760033040%2F~psid=b85dd25e-9498-4106-bebe-6384f6f3ff46~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=437f3126298efb8f3422a51ea86df32899e8f83b9332761bfb64b15b1e5f461d/clt1/va02/disneyplus/event/2025/10/18/Kinoshita_Group_Japan_Ope_20251018_1760760033040/ctr-all-hdri-complete.m3u8?v=1&hash=d06ee5e5d60b970b0ee38052ef80ec6de1a435c1",
-    "k1": "627a37af57a34a67b9a563fd18171e21",
-    "k2": "ffe4fd5c74edf0c1d0e37f092f9c78f8"
-  },
-  {
     "title": "DP World India Championship (Third Round)",
     "league": "DP World Tour",
     "fecha-evento": "2025-10-18T01:30:05-05:00",
@@ -81,8 +68,11 @@
     "img": "37cc4a81-94e1-4ed5-9b82-87e08ada6358",
     "nombre": "disneyb941f6",
     "status": "05:30",
-    "duration": 135,
-    "play_url": ""
+    "duration": 180,
+    "play_url": "https://www.disneyplus.com/es-es/play/7ec8e6a6-5dc9-4959-aa8d-f03568c983cd",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1760870461~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F18%2F2025_AUX_Ningbo_Open_Cent_20251018_1760776206027%2F~psid=f1952764-865b-41be-981c-e7c7decf707b~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=b5e4650080ea9ec2e9ead55c53d7628bea94f09c91bd5d4f90241d9ed87d0288/clt1/va02/disneyplus/event/2025/10/18/2025_AUX_Ningbo_Open_Cent_20251018_1760776206027/ctr-all-hdri-complete.m3u8?v=1&hash=92c13948768a9f66a0fb3dc977879851aa45329e",
+    "k1": "8aa84f1857e544d2a8579a695931bdde",
+    "k2": "6e2a90bc2bdff21df4d1ecc4a662d55c"
   },
   {
     "title": "Spanish - Circuito de Jerez - World SSP 300 - Race 1",
@@ -91,8 +81,11 @@
     "img": "dbbdf026-dd6f-4f07-9c86-944c465a067c",
     "nombre": "disney788457",
     "status": "05:35",
-    "duration": 135,
-    "play_url": ""
+    "duration": 57,
+    "play_url": "https://www.disneyplus.com/es-es/play/1b36c4b5-41c9-4811-b0ae-35c7f6103885",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1760870504~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F18%2FSpanish_Circuito_de_Jerez_20251018_1760779237543%2F~psid=cca35a57-6988-4d36-8f09-04896dd08e46~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=53da79f1db40bacc0fa556506ea5a61127fc695fb17b8be604ba457d9df7067a/clt1/va02/disneyplus/event/2025/10/18/Spanish_Circuito_de_Jerez_20251018_1760779237543/ctr-all-hdri-complete.m3u8?v=1&hash=380cdb5c56e5df94f345b229e4bffea237e70288",
+    "k1": "cd3fdacca431470f8ae2fa18d74e03af",
+    "k2": "071ada9c780ed652895cd1f7f7ba846b"
   },
   {
     "title": "Karlsruher SC vs. 1. FC Kaiserslautern",
@@ -641,6 +634,16 @@
     "img": "27542975-99d6-49aa-9eca-16cd75c99cee",
     "nombre": "disneyaa25bf",
     "status": "11:45",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Angers vs. Monaco",
+    "league": "Ligue 1",
+    "fecha-evento": "2025-10-18T11:55:00-05:00",
+    "img": "c76df30c-6515-49cb-8734-d252c05911b2",
+    "nombre": "disney39a066",
+    "status": "11:55",
     "duration": 135,
     "play_url": ""
   }
