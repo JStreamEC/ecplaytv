@@ -1,18 +1,5 @@
 [
   {
-    "title": "Queens Park Rangers vs. Millwall",
-    "league": "Championship de Inglaterra",
-    "fecha-evento": "2025-10-18T06:20:00-05:00",
-    "img": "1a1de8b1-42d5-46e3-8968-c9784d90e615",
-    "nombre": "disneybdf632",
-    "status": "06:20",
-    "duration": 145,
-    "play_url": "https://www.disneyplus.com/es-es/play/b3e73edd-7535-4445-9c66-8138f96cf6af",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1760874063~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F18%2FQueens_Park_Rangers_vs_Mi_20251018_1760779253040%2F~psid=aa8c5d18-6acd-460b-996b-a76edcbd8af4~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=e1652fb5d200238859ba5b4155fa509c29a35cd6555513d53a463297e880c477/clt1/va02/disneyplus/event/2025/10/18/Queens_Park_Rangers_vs_Mi_20251018_1760779253040/ctr-all-hdri-complete.m3u8?v=1&hash=40468214458f8367799ce25967e7f0025aae0b94",
-    "k1": "fcfbfb681a054cdfa0760ef40d49c149",
-    "k2": "66594a170a8cac9aa0b7d65eb97731bf"
-  },
-  {
     "title": "2025 Australian Open Juniors Series (Finals)",
     "league": "ESPN",
     "fecha-evento": "2025-10-18T07:00:56-05:00",
@@ -208,19 +195,6 @@
     "k2": "c092ecb598633635e773ca05c730c48d"
   },
   {
-    "title": "Brighton & Hove Albion vs. Newcastle United",
-    "league": "Premier League",
-    "fecha-evento": "2025-10-18T08:40:00-05:00",
-    "img": "ecbc6106-102d-4112-be8e-e06236b45d99",
-    "nombre": "disneyacf40a",
-    "status": "08:40",
-    "duration": 135,
-    "play_url": "https://www.disneyplus.com/es-es/play/495b2b03-3f32-46e1-8750-0aedd1455558",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1760881422~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F18%2FBrighton_Hove_Albion_vs_N_20251018_1760787600069%2F~psid=d4fd72c8-191a-425e-9848-c99b20f2338a~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=8f0376c8304025fa6323f35a48c8c9022d15055fbf18ebc3801de603989c3929/clt1/va02/disneyplus/event/2025/10/18/Brighton_Hove_Albion_vs_N_20251018_1760787600069/ctr-all-hdri-complete.m3u8?v=1&hash=cf09829616b9417accd1999bd234ac157282846e",
-    "k1": "92dd61bf651f42379fa72c88098ad6c8",
-    "k2": "c9a3bdfb4fd83b24794917bf29713d97"
-  },
-  {
     "title": "Manchester City vs. Everton",
     "league": "Premier League",
     "fecha-evento": "2025-10-18T08:40:00-05:00",
@@ -234,6 +208,19 @@
     "k2": "f9be9e1e2c64d915040bd09d8d6c8fad"
   },
   {
+    "title": "Brighton & Hove Albion vs. Newcastle United",
+    "league": "Premier League",
+    "fecha-evento": "2025-10-18T08:40:00-05:00",
+    "img": "ecbc6106-102d-4112-be8e-e06236b45d99",
+    "nombre": "disneyacf40a",
+    "status": "08:40",
+    "duration": 135,
+    "play_url": "https://www.disneyplus.com/es-es/play/495b2b03-3f32-46e1-8750-0aedd1455558",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1760881422~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F18%2FBrighton_Hove_Albion_vs_N_20251018_1760787600069%2F~psid=d4fd72c8-191a-425e-9848-c99b20f2338a~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=8f0376c8304025fa6323f35a48c8c9022d15055fbf18ebc3801de603989c3929/clt1/va02/disneyplus/event/2025/10/18/Brighton_Hove_Albion_vs_N_20251018_1760787600069/ctr-all-hdri-complete.m3u8?v=1&hash=cf09829616b9417accd1999bd234ac157282846e",
+    "k1": "92dd61bf651f42379fa72c88098ad6c8",
+    "k2": "c9a3bdfb4fd83b24794917bf29713d97"
+  },
+  {
     "title": "Besiktas vs. Genclerbirligi",
     "league": "Super Lig de Turquía",
     "fecha-evento": "2025-10-18T08:45:00-05:00",
@@ -241,37 +228,36 @@
     "nombre": "disneyc599eb",
     "status": "08:45",
     "duration": 135,
-    "play_url": ""
+    "play_url": "https://www.disneyplus.com/es-es/play/5aacb2e8-52ac-4b14-ae58-c08399dbe2e2",
+    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1760882418~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F47873700-1b85-4497-8f84-d6f321fbb196-1759410995494%2F~psid=0b7bf176-af2b-481f-ac38-678eee845710~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=e1b578b1cf8fbf45c7efe56f08198a6dc603c036f051ef0779bd27f217e09468/clt1/va02/disneyplus/channel/47873700-1b85-4497-8f84-d6f321fbb196-1759410995494/ctr-all-sliding-alt1.m3u8?v=1&hash=2e1c2c39a1658935937a58e79ecd56c0e3dfb9d6",
+    "k1": "af693d3bb74443c294e6281057b1c804",
+    "k2": "21b91961dde046380e23521850c3de28"
+  },
+  {
+    "title": "Rizespor vs. Trabzonspor",
+    "league": "Super Lig de Turquía",
+    "fecha-evento": "2025-10-18T08:45:10-05:00",
+    "img": "a54454ee-7426-43a7-96d3-d2b0ae4cf548",
+    "nombre": "disney71b2bc",
+    "status": "08:45",
+    "duration": 135,
+    "play_url": "https://www.disneyplus.com/es-es/play/89a96802-f824-459c-b593-95a875ec10e0",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1760882461~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F18%2FRizespor_vs_Trabzonspor_20251018_1760788524043%2F~psid=d0cf3934-0db4-48e1-a005-e166af7400e9~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=a73926650f63252dd543521bd21c163b44febc5510ec102a07bf6649c136b3b8/clt1/va02/disneyplus/event/2025/10/18/Rizespor_vs_Trabzonspor_20251018_1760788524043/ctr-all-hdri-complete.m3u8?v=1&hash=cdd57fea107dc951c25a465f3ec129d6026c8081",
+    "k1": "c419170652e7464d9ca482fae0a70592",
+    "k2": "b73c9766feb594df9ac4dd5964d792b8"
   },
   {
     "title": "Charlton Athletic vs. Sheffield Wednesday",
     "league": "Championship de Inglaterra",
-    "fecha-evento": "2025-10-18T08:50:00-05:00",
+    "fecha-evento": "2025-10-18T08:58:17-05:00",
     "img": "5cba9893-38df-42d8-9d90-cf3d8aa709a0",
-    "nombre": "disneydec454",
-    "status": "08:50",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Burnley vs. Leeds United",
-    "league": "Premier League",
-    "fecha-evento": "2025-10-18T08:50:00-05:00",
-    "img": "0e378833-4e57-4c78-9e0f-539e0e6ab479",
-    "nombre": "disney8a0eea",
-    "status": "08:50",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Sunderland vs. Wolverhampton Wanderers",
-    "league": "Premier League",
-    "fecha-evento": "2025-10-18T08:50:00-05:00",
-    "img": "e8fa4adb-4f77-447f-876c-ea3a901d7487",
-    "nombre": "disneya41f5c",
-    "status": "08:50",
-    "duration": 135,
-    "play_url": ""
+    "nombre": "disney708e32",
+    "status": "08:58",
+    "duration": 122,
+    "play_url": "https://www.disneyplus.com/es-es/play/082baec2-29a0-4f7a-a152-f06ed2740dd5",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1760882504~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F18%2FCharlton_Athletic_vs_Shef_20251018_1760788258028%2F~psid=9a48a04a-ee5f-4ab8-8eb4-d65ba6e1e689~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=746acf79e91ca2bc4b748ed17d4b99e864f81f17db8a72fe447629c43da29e17/clt1/va02/disneyplus/event/2025/10/18/Charlton_Athletic_vs_Shef_20251018_1760788258028/ctr-all-hdri-complete.m3u8?v=1&hash=625b73e27ba79a0f56d0622f00ee3fdc77df01bc",
+    "k1": "ec7fc4351a7d4706914ee99591fe195e",
+    "k2": "8de7dec5ae12e2cd8e2111d2c012b14a"
   },
   {
     "title": "Crystal Palace vs. Bournemouth",
@@ -280,18 +266,37 @@
     "img": "5bee0744-2aed-49c2-aa15-0cf0856d376b",
     "nombre": "disney804989",
     "status": "08:50",
-    "duration": 135,
-    "play_url": ""
+    "duration": 125,
+    "play_url": "https://www.disneyplus.com/es-es/play/bbe5875b-11ea-438c-891a-4ed10106c207",
+    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1760882528~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Ff25bdf06-81c9-4a7c-b128-3128d610ad17-1759409600195%2F~psid=35135b53-b1d6-4517-810b-91bb1b36fde0~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=4f5fe37a16dd3332f95b8e5c26269d915fabe0640915495112bf2d06dff51c30/clt1/va02/disneyplus/channel/f25bdf06-81c9-4a7c-b128-3128d610ad17-1759409600195/ctr-all-sliding-alt1.m3u8?v=1&hash=4daaff4fdbe476e51bcd350032d73b0e9d85df99",
+    "k1": "8b16b5cf755b42a49e3e918904831b58",
+    "k2": "7efd11debe6e2563167bb01faf38308e"
   },
   {
-    "title": "Rizespor vs. Trabzonspor",
-    "league": "Super Lig de Turquía",
-    "fecha-evento": "2025-10-18T08:55:00-05:00",
-    "img": "a54454ee-7426-43a7-96d3-d2b0ae4cf548",
-    "nombre": "disney41a1bc",
-    "status": "08:55",
-    "duration": 135,
-    "play_url": ""
+    "title": "Sunderland vs. Wolverhampton Wanderers",
+    "league": "Premier League",
+    "fecha-evento": "2025-10-18T08:50:08-05:00",
+    "img": "e8fa4adb-4f77-447f-876c-ea3a901d7487",
+    "nombre": "disney1766c0",
+    "status": "08:50",
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/42da3da8-cf9c-44c9-92a9-ffcae1d30be3",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1760882551~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F18%2FSunderland_vs_Wolverhampt_20251018_1760788239026%2F~psid=0100b808-0531-46b8-89ed-879127a1d4db~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=711654f1441f447a09a5db33b67cb2fb8ab3f83602164cc15a089443383f7f74/clt1/va02/disneyplus/event/2025/10/18/Sunderland_vs_Wolverhampt_20251018_1760788239026/ctr-all-hdri-complete.m3u8?v=1&hash=73b1673a24d8caff8155176e9ae8ebe4a5513ef9",
+    "k1": "81ed33472079438ca1a9a198084034b0",
+    "k2": "04ca8b259287b93a0fdeba577fe71a24"
+  },
+  {
+    "title": "Burnley vs. Leeds United",
+    "league": "Premier League",
+    "fecha-evento": "2025-10-18T08:50:09-05:00",
+    "img": "0e378833-4e57-4c78-9e0f-539e0e6ab479",
+    "nombre": "disneydc73f1",
+    "status": "08:50",
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/40ef0586-d166-41df-9252-764638d215f8",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1760882575~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F18%2FBurnley_vs_Leeds_United_20251018_1760788253028%2F~psid=140bb6b7-984d-4e09-9e57-856cd13ccd0c~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=30a42d7bc3ea3681cf2e8a5b6799941724aa5d75478afd7d5fd3a2720d113087/clt1/va02/disneyplus/event/2025/10/18/Burnley_vs_Leeds_United_20251018_1760788253028/ctr-all-hdri-complete.m3u8?v=1&hash=279e69f2bfd185cb65139545a43acfc0c89e46ce",
+    "k1": "a20e1309b2f14de38b08c258f4a2cbb7",
+    "k2": "8f231d38277f5226788bbc6af62e0f95"
   },
   {
     "title": "QIPCO British Champions Day 2025",
@@ -311,7 +316,10 @@
     "nombre": "disneyf77366",
     "status": "09:00",
     "duration": 135,
-    "play_url": ""
+    "play_url": "https://www.disneyplus.com/es-es/play/3f7a44e8-0533-4cfe-9d02-3ca4c2c7d027",
+    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1760882599~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F921e1311-bb26-43dd-84a6-9e2284959712-1759409855938%2F~psid=d5948ef0-b05f-43a6-a96d-83d49cadd59f~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=633de8977402414050970ff13e6a42afa2927ee88acd8ddf8be6703f90ea8cdd/clt1/va02/disneyplus/channel/921e1311-bb26-43dd-84a6-9e2284959712-1759409855938/ctr-all-sliding-alt1.m3u8?v=1&hash=e50ddd99727af0a2947bb1b84904b1697e8043f8",
+    "k1": "210ca35fdcd645f09c910aa61dc080c5",
+    "k2": "3d9b89baeb7bf0c8de53107cbcdf1430"
   },
   {
     "title": "Leicester Tigers vs. Bath Rugby (Ronda #4)",
@@ -669,6 +677,16 @@
     "fecha-evento": "2025-10-18T13:30:00-05:00",
     "img": "184977f7-d2cc-4ee6-8c32-020eefc4052b",
     "nombre": "disney584d3a",
+    "status": "13:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Buffalo vs. Massachusetts",
+    "league": "Fútbol Americano NCAA",
+    "fecha-evento": "2025-10-18T13:30:00-05:00",
+    "img": "0b7c15e4-14c9-4c89-bafe-3fbe94efc7c2",
+    "nombre": "disney36ae50",
     "status": "13:30",
     "duration": 135,
     "play_url": ""
