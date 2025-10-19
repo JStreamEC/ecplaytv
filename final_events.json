@@ -1,31 +1,5 @@
 [
   {
-    "title": "#16 Missouri vs. Auburn",
-    "league": "Fútbol Americano NCAA",
-    "fecha-evento": "2025-10-18T18:50:51-05:00",
-    "img": "41080468-d229-45c6-b99f-2db1db249685",
-    "nombre": "disneyc4f27b",
-    "status": "18:50",
-    "duration": 189,
-    "play_url": "https://www.disneyplus.com/es-es/play/0e42db58-805e-4c13-a5c2-436a1546ad89",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1760918420~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F18%2F16_Missouri_vs_Auburn_20251018_1760823958038%2F~psid=348ddc10-e2e8-4432-bd52-67f572e42784~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=05a52de5e7dfa4fc1f8044ce07b54f69f1ad1b509d006bf5ac1ff65bc50fff5f/clt1/va02/disneyplus/event/2025/10/18/16_Missouri_vs_Auburn_20251018_1760823958038/ctr-all-hdri-complete.m3u8?v=1&hash=53c1bb920c30838ea2e9a39412b8a522934cd097",
-    "k1": "5f61d6696f1d4ec2b3686f80bae0528b",
-    "k2": "46d1cff9f28c5208a0351cda5b5544e2"
-  },
-  {
-    "title": "BKFC Fight Night | Bryce Henry vs. Roderick Stewart",
-    "league": "Bare Knuckle Fighting Championship",
-    "fecha-evento": "2025-10-18T19:00:00-05:00",
-    "img": "f501b0fa-61f6-45d6-9591-3d354ca469db",
-    "nombre": "disneyb0f010",
-    "status": "19:00",
-    "duration": 240,
-    "play_url": "https://www.disneyplus.com/es-es/play/880a9e4a-3b9a-4ae6-83b4-115f88db3c0b",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1760918583~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F19%2FBKFC_Fight_Night_Bryce_He_20251019_1760824846040%2F~psid=8ff12138-69dc-497d-aea4-067f81097b5e~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=3564a20cae98c483e7fd305ab01733b860c1db9a7496fcbd15fbd8b46c9e9435/clt1/va02/disneyplus/event/2025/10/19/BKFC_Fight_Night_Bryce_He_20251019_1760824846040/ctr-all-hdri-complete.m3u8?v=1&hash=28a0ee4bb97c765a0d5c4f32f3cebbbb4f6fd824",
-    "k1": "05f340726e60430fa048e0dde5dd2529",
-    "k2": "d1e59a16c2d47396736a74266ebadf4e"
-  },
-  {
     "title": "MotoGP - Race - Australian Motorcycle Grand Prix",
     "league": "MotoGP",
     "fecha-evento": "2025-10-18T19:45:00-05:00",
@@ -608,6 +582,26 @@
     "fecha-evento": "2025-10-19T13:00:00-05:00",
     "img": "76598edf-7dff-45ef-94e6-d2be15068c6d",
     "nombre": "disney0d273c",
+    "status": "13:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "DC Power vs. Spokane Zephyr",
+    "league": "USL Super League",
+    "fecha-evento": "2025-10-19T13:00:00-05:00",
+    "img": "02fbb9d4-81d4-4220-ba5f-4ad780104734",
+    "nombre": "disneyc76da4",
+    "status": "13:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Arizona State vs. Iowa State",
+    "league": "Fútbol Femenino NCAA",
+    "fecha-evento": "2025-10-19T13:00:00-05:00",
+    "img": "695d874f-d2a6-4cfb-92a5-ff0152673bdf",
+    "nombre": "disney7d67c3",
     "status": "13:00",
     "duration": 135,
     "play_url": ""
