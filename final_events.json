@@ -23,32 +23,6 @@
     "k2": "9d12dfcc835230d0582c17876b4492de"
   },
   {
-    "title": "La Ensenada Clonargen vs. La Hache Cría & Polo (Grupo B - Fecha #3)",
-    "league": "Abierto de Tortugas",
-    "fecha-evento": "2025-10-19T10:55:03-05:00",
-    "img": "214cabae-d9ff-4dcc-a728-5fc5562ff5f5",
-    "nombre": "disneyaf2c67",
-    "status": "10:55",
-    "duration": 125,
-    "play_url": "https://www.disneyplus.com/es-es/play/3d54fafe-9758-4731-b863-fd6d54082f3f",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1760980953~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F19%2FLa_Ensenada_Clonargen_vs__20251019_1760882100056%2F~psid=07c281b7-5b15-48f1-8028-80e8fc956857~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=47d0df7e23cd73d830e577131cecdeada3bc2ad8fef121c47ca2942eb57bee3b/clt1/va02/disneyplus/event/2025/10/19/La_Ensenada_Clonargen_vs__20251019_1760882100056/ctr-all-hdri-complete.m3u8?v=1&hash=5324b82533a08f99ad4796043f9246872cd140d5",
-    "k1": "1ad7e1207142448988dd46a25d0c0ba0",
-    "k2": "9745c9c3d89b4763b2b1e04cd2388ac9"
-  },
-  {
-    "title": "St. Catherine's vs. San Lorenzo",
-    "league": "Torneo Metropolitano de Hockey Femenino",
-    "fecha-evento": "2025-10-19T11:00:00-05:00",
-    "img": "59f0a02c-c5b4-418b-88c4-189f299b1315",
-    "nombre": "disneyd9a8fd",
-    "status": "11:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/c34a76f7-6874-4216-9349-c9e52d105e2e",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1760980977~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F19%2FSt_Catherines_vs_San_Lore_20251019_1760882412026%2F~psid=b06572b7-5f94-4ab0-aa89-8f61d487f841~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=7e799b8814455a71c572d81ca15e1939ded87a63a550310a53d1c2d3c20b643d/clt1/va02/disneyplus/event/2025/10/19/St_Catherines_vs_San_Lore_20251019_1760882412026/ctr-all-hdri-complete.m3u8?v=1&hash=a0d8132cc8da358c9a4c13c620155b5886ec883e",
-    "k1": "194593c3319241a681108824df0908ae",
-    "k2": "ad8f5e9f6c13d4cd9f2128e4721562c7"
-  },
-  {
     "title": "Cordoba vs. Almería",
     "league": "Segunda División de España",
     "fecha-evento": "2025-10-19T11:25:11-05:00",
@@ -140,19 +114,6 @@
     "k2": "686edbda1ae6d26d28a55cb701aea4cf"
   },
   {
-    "title": "ESPN Race Hub | GP Estados Unidos",
-    "league": "Fórmula 1",
-    "fecha-evento": "2025-10-19T12:30:00-05:00",
-    "img": "1385a35b-81c4-4055-8836-c6dd1f2d38cc",
-    "nombre": "disney9212ef",
-    "status": "12:30",
-    "duration": 210,
-    "play_url": "https://www.disneyplus.com/es-es/play/0a4cc5b8-a839-4b56-a950-88cf81b3dca2",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1760982018~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F19%2FESPN_Race_Hub_GP_Estados__20251019_1760887813045%2F~psid=201b3920-2ceb-4529-b681-3dd11ef1511c~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=c4eb19e25263d864cb120f36248f2a0aaa9690c6adafbc39df425d2777e6c68a/clt1/va02/disneyplus/event/2025/10/19/ESPN_Race_Hub_GP_Estados__20251019_1760887813045/ctr-all-hdri-complete.m3u8?v=1&hash=f02a4c682ea801cca64921e20b79f83623b94cee",
-    "k1": "fe6dd02c33714ca1af71989422012f36",
-    "k2": "ae900391f8be33e3df22cf13b6ea8cf3"
-  },
-  {
     "title": "F1 - GP Estados Unidos - Carrera",
     "league": "Fórmula 1",
     "fecha-evento": "2025-10-19T12:30:01-05:00",
@@ -166,14 +127,30 @@
     "k2": "424a1b55975370f302bdd6d95505f6b2"
   },
   {
+    "title": "ESPN Race Hub | GP Estados Unidos",
+    "league": "Fórmula 1",
+    "fecha-evento": "2025-10-19T12:30:00-05:00",
+    "img": "1385a35b-81c4-4055-8836-c6dd1f2d38cc",
+    "nombre": "disney9212ef",
+    "status": "12:30",
+    "duration": 210,
+    "play_url": "https://www.disneyplus.com/es-es/play/0a4cc5b8-a839-4b56-a950-88cf81b3dca2",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1760982018~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F19%2FESPN_Race_Hub_GP_Estados__20251019_1760887813045%2F~psid=201b3920-2ceb-4529-b681-3dd11ef1511c~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=c4eb19e25263d864cb120f36248f2a0aaa9690c6adafbc39df425d2777e6c68a/clt1/va02/disneyplus/event/2025/10/19/ESPN_Race_Hub_GP_Estados__20251019_1760887813045/ctr-all-hdri-complete.m3u8?v=1&hash=f02a4c682ea801cca64921e20b79f83623b94cee",
+    "k1": "fe6dd02c33714ca1af71989422012f36",
+    "k2": "ae900391f8be33e3df22cf13b6ea8cf3"
+  },
+  {
     "title": "Sarmiento vs. Vélez Sarsfield",
     "league": "Liga Profesional de Fútbol",
-    "fecha-evento": "2025-10-19T12:45:00-05:00",
-    "img": "57dfca56-5fb0-49a2-a8c8-98a5e248f8ca",
-    "nombre": "disneya74146",
+    "fecha-evento": "2025-10-19T12:45:01-05:00",
+    "img": "cd8fa9da-6be7-416c-bad4-ce749bd38ea4",
+    "nombre": "disneycd885b",
     "status": "12:45",
-    "duration": 135,
-    "play_url": ""
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/f8374c88-9709-4424-96a7-97cc69f08000",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1760983218~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F19%2FSarmiento_vs_Vlez_Sarsfie_20251019_1760888750031%2F~psid=be4ed29e-ea6e-4f11-9fba-ca14d1b117ad~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=f85b5bbc01326306ac90104985daca80838e7b82d18b7c6bdbeb909fc01e4760/clt1/va02/disneyplus/event/2025/10/19/Sarmiento_vs_Vlez_Sarsfie_20251019_1760888750031/ctr-all-hdri-complete.m3u8?v=1&hash=35ee81745265ace3244c6fdad571d838005c1c9d",
+    "k1": "c9660b205f0a4acbb5fa8a3a5de184b6",
+    "k2": "65f63b54889cc55484a7c6f4bc92dfba"
   },
   {
     "title": "Arizona vs. Houston",
@@ -622,6 +599,26 @@
     "img": "c5749dfd-cc33-4b50-a3e8-87243266be80",
     "nombre": "disneyce2eb9",
     "status": "07:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Velay vs. La Ensenada III | Torneo Clasificatorio a Palermo (Fecha #4)",
+    "league": "Abierto de Palermo",
+    "fecha-evento": "2025-10-20T08:25:00-05:00",
+    "img": "08b05413-6853-4316-b46c-60d855fe8349",
+    "nombre": "disneya62f69",
+    "status": "08:25",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Erste BankOpen 500 / #glaubandich Court",
+    "league": "ATP",
+    "fecha-evento": "2025-10-20T10:30:00-05:00",
+    "img": "096d4478-909a-4ebc-af9a-9708360935f6",
+    "nombre": "disney736d17",
+    "status": "10:30",
     "duration": 135,
     "play_url": ""
   }
