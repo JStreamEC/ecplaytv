@@ -10,6 +10,19 @@
     "play_url": ""
   },
   {
+    "title": "Edmonton Oilers vs. Detroit Red Wings",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-10-19T13:30:00-05:00",
+    "img": "56e47654-9bf0-43c4-9070-0a6b22bd8be0",
+    "nombre": "disney390083",
+    "status": "13:30",
+    "duration": 240,
+    "play_url": "https://www.disneyplus.com/es-es/play/4435e72a-d0b3-440c-9c46-04d6cafe672d",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1760985663~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F19%2FEdmonton_Oilers_vs_Detroi_20251019_1760891419039%2F~psid=ee2391f4-4e6b-4b6b-9db4-0e2421f515a8~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=efc63cf3f1d13579c5da5332f397bd060742428667fed04d5370f1d89fe7a409/clt1/va02/disneyplus/event/2025/10/19/Edmonton_Oilers_vs_Detroi_20251019_1760891419039/ctr-all-hdri-complete.m3u8?v=1&hash=3a935e0419816e7b631ef2659bb8221ec9bbe64b",
+    "k1": "67a4f2ed668e43a08501869a9b330839",
+    "k2": "0dbc778a8aa49891fa74f2b58c24de41"
+  },
+  {
     "title": "Vancouver Canucks vs. Washington Capitals",
     "league": "National Hockey League",
     "fecha-evento": "2025-10-19T11:30:16-05:00",
@@ -192,19 +205,6 @@
     "k2": "ee9281b374c8b388483c662b055e4b5c"
   },
   {
-    "title": "Edmonton Oilers vs. Detroit Red Wings",
-    "league": "National Hockey League",
-    "fecha-evento": "2025-10-19T13:30:00-05:00",
-    "img": "56e47654-9bf0-43c4-9070-0a6b22bd8be0",
-    "nombre": "disney390083",
-    "status": "13:30",
-    "duration": 240,
-    "play_url": "https://www.disneyplus.com/es-es/play/4435e72a-d0b3-440c-9c46-04d6cafe672d",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1760985663~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F19%2FEdmonton_Oilers_vs_Detroi_20251019_1760891419039%2F~psid=ee2391f4-4e6b-4b6b-9db4-0e2421f515a8~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=efc63cf3f1d13579c5da5332f397bd060742428667fed04d5370f1d89fe7a409/clt1/va02/disneyplus/event/2025/10/19/Edmonton_Oilers_vs_Detroi_20251019_1760891419039/ctr-all-hdri-complete.m3u8?v=1&hash=3a935e0419816e7b631ef2659bb8221ec9bbe64b",
-    "k1": "67a4f2ed668e43a08501869a9b330839",
-    "k2": "0dbc778a8aa49891fa74f2b58c24de41"
-  },
-  {
     "title": "Milan vs. Fiorentina",
     "league": "Seria A",
     "fecha-evento": "2025-10-19T13:30:00-05:00",
@@ -233,32 +233,41 @@
   {
     "title": "Atenas vs. Rampla Juniors",
     "league": "Segunda División de Uruguay",
-    "fecha-evento": "2025-10-19T13:45:00-05:00",
+    "fecha-evento": "2025-10-19T13:45:21-05:00",
     "img": "21998175-f423-4c82-b485-6685ed52339a",
-    "nombre": "disney047962",
+    "nombre": "disney84ce90",
     "status": "13:45",
     "duration": 135,
-    "play_url": ""
+    "play_url": "https://www.disneyplus.com/es-es/play/d099a44a-8465-4d45-862e-8c05b3ab9249",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1760986821~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F19%2FAtenas_vs_Rampla_Juniors_20251019_1760892339026%2F~psid=64e2ed16-abee-4499-ae3f-ba6c4377c133~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=2db4b80c61e9a986e4ecd50ba660eb48c7f86d6aaf6cf9bb0ad62042990e902c/clt1/va02/disneyplus/event/2025/10/19/Atenas_vs_Rampla_Juniors_20251019_1760892339026/ctr-all-hdri-complete.m3u8?v=1&hash=bb11d9fa8c1b5ab016e43c71ee66494194c8a83f",
+    "k1": "a83ec575a5404b7da9120e90380da803",
+    "k2": "a009fd7f3d57c883524e2bc921bae262"
   },
   {
     "title": "Ellerstina-I. Chapaleufú Vista vs. UAE Polo (Grupo B - Fecha #3)",
     "league": "Abierto de Tortugas",
-    "fecha-evento": "2025-10-19T13:55:00-05:00",
-    "img": "da87a5e6-7af8-4833-8c01-8ac5441628d3",
-    "nombre": "disneya7bcc6",
+    "fecha-evento": "2025-10-19T13:55:03-05:00",
+    "img": "dfb092fc-4640-490d-ab47-ea46555994f8",
+    "nombre": "disneydaa4e5",
     "status": "13:55",
-    "duration": 135,
-    "play_url": ""
+    "duration": 125,
+    "play_url": "https://www.disneyplus.com/es-es/play/6907d7e2-3c91-4591-870f-0ebb634009df",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1760986864~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F19%2FEllerstinaI_Chapaleuf_Vis_20251019_1760892949038%2F~psid=5783fa62-5fa9-4cd8-ada7-e212d4789606~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=b5c3153290934c90045db566624ff52fcb0a8bf2de177f78d253d9f5e0fe891d/clt1/va02/disneyplus/event/2025/10/19/EllerstinaI_Chapaleuf_Vis_20251019_1760892949038/ctr-all-hdri-complete.m3u8?v=1&hash=6bb37aec886cee37f23ee0e9397896b7c82183a0",
+    "k1": "2ffe474db6864a0dadb0fd05b7418f3d",
+    "k2": "992b357694c3c9803c8b26ce4f79f0fd"
   },
   {
     "title": "Las Palmas vs. SD Eibar",
     "league": "Segunda División de España",
-    "fecha-evento": "2025-10-19T13:55:00-05:00",
+    "fecha-evento": "2025-10-19T13:55:04-05:00",
     "img": "885a5782-d6cc-4187-8926-76ad66925d9c",
-    "nombre": "disney893926",
+    "nombre": "disney0874a9",
     "status": "13:55",
-    "duration": 135,
-    "play_url": ""
+    "duration": 125,
+    "play_url": "https://www.disneyplus.com/es-es/play/fb0023c4-b780-4c87-8a8c-febb86ebd3f6",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1760986908~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F19%2FLas_Palmas_vs_SD_Eibar_20251019_1760892915029%2F~psid=69b20a09-5989-48b7-acd7-63c2516b3852~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=f72cd904ab0d6079aff86bf6fb2ada7cfa3defe706285396e55a2597f1a8f884/clt1/va02/disneyplus/event/2025/10/19/Las_Palmas_vs_SD_Eibar_20251019_1760892915029/ctr-all-hdri-complete.m3u8?v=1&hash=eaacf98cb5498a8ce5daa09cf1250c1ca4416593",
+    "k1": "9b5f84e61af54e39847fafb70c485673",
+    "k2": "f91767caf3d6a58506d77198b79eacf7"
   },
   {
     "title": "LSU vs. Missouri",
@@ -267,8 +276,11 @@
     "img": "5570758e-e695-4357-b96c-f6cc0d72e8f2",
     "nombre": "disney11b7e6",
     "status": "14:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/775d76ea-ac34-42ba-93fb-e9f7d6a8b979",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1760986932~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F19%2FLSU_vs_Missouri_20251019_1760895278395%2F~psid=b6afcc07-1002-493a-b67d-80ddbef37cd1~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=0a98d97a2ea7a26ddf6a0bb4e38444194344b4648d613ffd4d1d00f6ed7d250c/clt1/va02/disneyplus/event/2025/10/19/LSU_vs_Missouri_20251019_1760895278395/ctr-all-hdri-complete.m3u8?v=1&hash=e265484fa532dd9769354ec12bb8590e51a9e0ab",
+    "k1": "b51b4f384ebc47ffa4a693ca585db1db",
+    "k2": "0ba2cdf5068b1b990ac8c2226201a9d7"
   },
   {
     "title": "F1 GP Estados Unidos, carrera | On Board Colapinto",
@@ -277,8 +289,11 @@
     "img": "04202ac4-4296-438d-a7e4-b91cfd51ea10",
     "nombre": "disney5afd67",
     "status": "14:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/88d647b3-1e25-4c1d-b5bf-3bfc52ad63ab",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1760986956~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F19%2FF1_GP_Estados_Unidos_carr_20251019_1760893225040%2F~psid=8ed7f256-8b4b-496e-84fc-8cb39f2ecd13~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=2a2469cdebccde22f33448194e04ed8bff05943865245571af6289df3dacb5d7/clt1/va02/disneyplus/event/2025/10/19/F1_GP_Estados_Unidos_carr_20251019_1760893225040/ctr-all-hdri-complete.m3u8?v=1&hash=e200e3aced52ab86022005281f7f3962980a5a65",
+    "k1": "b6578a8991c94bf382af1a08e138c8e1",
+    "k2": "56c1bfd08a0d4305ed7d023fdabea360"
   },
   {
     "title": "F1 GP Estados Unidos, carrera | Cámara On Board",
@@ -287,8 +302,11 @@
     "img": "90141808-64d7-4616-a98d-b7d00b4d185e",
     "nombre": "disney73c19f",
     "status": "14:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/cfb8047d-ba3e-404d-afe2-69b3d29b8f6a",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1760986979~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F19%2FF1_GP_Estados_Unidos_carr_20251019_1760893213028%2F~psid=cc2e15bc-e0f3-4f62-912f-fe330797b602~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=258ec389694cda1344fac5ff02e1082659d98f1e8bed16c866183a6a36324bef/clt1/va02/disneyplus/event/2025/10/19/F1_GP_Estados_Unidos_carr_20251019_1760893213028/ctr-all-hdri-complete.m3u8?v=1&hash=7b6879079d820f170396ef9f8e753f7bc6a36b2a",
+    "k1": "8cd4d97f76be403bb50882fbcaab1e20",
+    "k2": "634655466dcd0f67858b29d150a4cddd"
   },
   {
     "title": "#12 Texas Tech vs. Arizona",
@@ -297,8 +315,11 @@
     "img": "f412a353-82e2-402d-9b5f-09c49913be2e",
     "nombre": "disneydd3227",
     "status": "14:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/e2ca39bc-166d-49a8-9ebd-a4fb144caad8",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1760987003~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F19%2F12_Texas_Tech_vs_Arizona_20251019_1760893255025%2F~psid=61c02dc5-c6aa-46b7-8c0a-585c09d7ff4b~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=ead23a383f8f6ddddb282090450581d8aebd6cc23110d68556e991b1ffe1e5d2/clt1/va02/disneyplus/event/2025/10/19/12_Texas_Tech_vs_Arizona_20251019_1760893255025/ctr-all-hdri-complete.m3u8?v=1&hash=8aa25a25d2b738d406aecb53fcc094e398c18866",
+    "k1": "4092a030603a45e9a8ed3d975e436b24",
+    "k2": "7405e1d26fec7f1128ea9362f44ee08d"
   },
   {
     "title": "Florida vs. #3 Kentucky",
@@ -307,8 +328,11 @@
     "img": "17b0f975-8b7c-49ee-9741-f6ec8cc95fd1",
     "nombre": "disneybd2bd6",
     "status": "14:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/e9fd8611-52f0-47e0-bddc-34441deba538",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1760987027~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F19%2FFlorida_vs_3_Kentucky_20251019_1760894253293%2F~psid=67c36837-2ebe-4e3a-8734-51324d32c6cf~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=4ceb2855ad3f9b9be24e689ad16ae2960c7f80d8c0ef5e26f3b5953933933e84/clt1/va02/disneyplus/event/2025/10/19/Florida_vs_3_Kentucky_20251019_1760894253293/ctr-all-hdri-complete.m3u8?v=1&hash=94b01fd2675890eb4609202d9ad7c2fe89167d48",
+    "k1": "979582ae68e7462f8dfbd77678002449",
+    "k2": "bead602df8db0562bae181c078ca9b36"
   },
   {
     "title": "F1 GP Estados Unidos, carrera | On Board Hamilton",
@@ -317,8 +341,11 @@
     "img": "3e1e016d-0e04-44c7-85e4-574ebb8263ed",
     "nombre": "disneyc1629b",
     "status": "14:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/ef26042c-7040-45c1-bb72-1aba4a51665b",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1760987051~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F19%2FF1_GP_Estados_Unidos_carr_20251019_1760893236028%2F~psid=731a7f31-6f7a-4ba0-80bb-6f0ae6dbd4a4~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=81a9e1985697504ad84c6407789d07b976c76d8773e2aa1939bc43a6148a91d7/clt1/va02/disneyplus/event/2025/10/19/F1_GP_Estados_Unidos_carr_20251019_1760893236028/ctr-all-hdri-complete.m3u8?v=1&hash=15672926fee5fc0826f6815fb2e89b0b909c0c37",
+    "k1": "6c36aaa9ccb343e5b266c65d015712e1",
+    "k2": "563aac0c880afdf2bff0e3de409cfe5a"
   },
   {
     "title": "Indianapolis Colts vs. Los Angeles Chargers",
@@ -601,6 +628,16 @@
     "play_url": ""
   },
   {
+    "title": "Alejandro Tabilo (CHI) vs. Alexander Bublik (KAZ) (First Round)",
+    "league": "ATP",
+    "fecha-evento": "2025-10-20T08:00:00-05:00",
+    "img": "f5d7c938-e1da-4c72-81c8-b77e20b966d7",
+    "nombre": "disneya20a92",
+    "status": "08:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
     "title": "Velay vs. La Ensenada III | Torneo Clasificatorio a Palermo (Fecha #4)",
     "league": "Abierto de Palermo",
     "fecha-evento": "2025-10-20T08:25:00-05:00",
@@ -613,10 +650,10 @@
   {
     "title": "Erste BankOpen 500 / #glaubandich Court",
     "league": "ATP",
-    "fecha-evento": "2025-10-20T10:30:00-05:00",
+    "fecha-evento": "2025-10-20T09:00:00-05:00",
     "img": "096d4478-909a-4ebc-af9a-9708360935f6",
-    "nombre": "disney736d17",
-    "status": "10:30",
+    "nombre": "disney9dd7d1",
+    "status": "09:00",
     "duration": 135,
     "play_url": ""
   },
@@ -627,16 +664,6 @@
     "img": "00b82b1e-4cfa-4cc1-a254-55aaf34775c8",
     "nombre": "disneyc8efb0",
     "status": "10:50",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "La Ensenada II vs. La Dolfina | Torneo Clasificatorio a Palermo (Fecha #4)",
-    "league": "Abierto de Palermo",
-    "fecha-evento": "2025-10-20T11:25:00-05:00",
-    "img": "0b36e733-f270-41f8-8768-dbc8378cc7ee",
-    "nombre": "disney1614f7",
-    "status": "11:25",
     "duration": 135,
     "play_url": ""
   }
