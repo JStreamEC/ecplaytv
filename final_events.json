@@ -1,18 +1,5 @@
 [
   {
-    "title": "Florida State vs. Stanford",
-    "league": "Fútbol Americano NCAA",
-    "fecha-evento": "2025-10-18T21:30:00-05:00",
-    "img": "4c8b3859-5b0b-4722-b9cd-718e59610857",
-    "nombre": "disney9629e3",
-    "status": "21:30",
-    "duration": 180,
-    "play_url": "https://www.disneyplus.com/es-es/play/5104ec87-698b-4195-8af1-968fb88f0e24",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1760928018~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F19%2FFlorida_State_vs_Stanford_20251019_1760833853033%2F~psid=2a6c0985-5460-407c-b3e0-b691b8084f41~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=3451228af46b9262f00f181995826d22d89fbc98334dceb7a9ea0148f8817553/clt1/va02/disneyplus/event/2025/10/19/Florida_State_vs_Stanford_20251019_1760833853033/ctr-all-hdri-complete.m3u8?v=1&hash=fa5e6e0a8f707dfc07ed441585de94e11bfa71af",
-    "k1": "90f7c0d678384879a003c25378ee9452",
-    "k2": "994a6aaaae2b7a68a3516292ec7cd278"
-  },
-  {
     "title": "DP World India Championship (Final Round)",
     "league": "DP World Tour",
     "fecha-evento": "2025-10-19T01:00:05-05:00",
@@ -28,12 +15,15 @@
   {
     "title": "2025 AUX · Ningbo Open / Centre Court (Doubles Final)",
     "league": "WTA",
-    "fecha-evento": "2025-10-19T01:30:00-05:00",
+    "fecha-evento": "2025-10-19T01:30:46-05:00",
     "img": "37cc4a81-94e1-4ed5-9b82-87e08ada6358",
-    "nombre": "disney73d80b",
+    "nombre": "disneybb16bf",
     "status": "01:30",
-    "duration": 135,
-    "play_url": ""
+    "duration": 149,
+    "play_url": "https://www.disneyplus.com/es-es/play/16929080-725c-45ad-90d5-22dae2d34c94",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1760942418~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F19%2F2025_AUX_Ningbo_Open_Cent_20251019_1760848243029%2F~psid=bc21df71-44fb-4228-92be-9b62ac0b3f79~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=a36131317fab7cb3f25100b898c5d1e411224446be6a23fdfbb728de3b2e8a3f/clt1/va02/disneyplus/event/2025/10/19/2025_AUX_Ningbo_Open_Cent_20251019_1760848243029/ctr-all-hdri-complete.m3u8?v=1&hash=eb7d3eba50d216ff44aca06b96d5e28026e49880",
+    "k1": "842c8c3249e94649b4bc3bcf026686aa",
+    "k2": "5a972fb96b1f729742b67ae09ed7ef5f"
   },
   {
     "title": "Spanish - Circuito de Jerez - World SBK - Superpole Race",
@@ -611,6 +601,16 @@
     "fecha-evento": "2025-10-19T14:00:00-05:00",
     "img": "0ba7fb30-f713-4921-9f59-12c095b0d63a",
     "nombre": "disney453c9d",
+    "status": "14:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "F1 GP Estados Unidos, carrera | Cámara On Board",
+    "league": "Fórmula 1",
+    "fecha-evento": "2025-10-19T14:00:00-05:00",
+    "img": "90141808-64d7-4616-a98d-b7d00b4d185e",
+    "nombre": "disney73c19f",
     "status": "14:00",
     "duration": 135,
     "play_url": ""
