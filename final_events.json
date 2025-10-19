@@ -1,31 +1,5 @@
 [
   {
-    "title": "UFC | \"Chito\" Vera vs. Zahabi + De Ridder vs. Allen | ESPN KO",
-    "league": "UFC",
-    "fecha-evento": "2025-10-18T15:00:07-05:00",
-    "img": "b46d062d-8476-4cd9-ab4d-e52357e0e6b4",
-    "nombre": "disney829aea",
-    "status": "15:00",
-    "duration": 360,
-    "play_url": "https://www.disneyplus.com/es-es/play/f6e7d3fb-885d-4aac-81db-5f8cd7e11a89",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1760905329~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F18%2FUFC_Chito_Vera_vs_Zahabi__20251018_1760810420028%2F~psid=da5ac6b6-b79f-4022-a477-cfb1b61cacb0~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=2bf959a1a5e75c772ba89c2f56fc4c8d10b04a0784cc7afddbe9dba411135c06/clt1/va02/disneyplus/event/2025/10/18/UFC_Chito_Vera_vs_Zahabi__20251018_1760810420028/ctr-all-hdri-complete.m3u8?v=1&hash=8cd350460db68df5a3b5fc82798fa244cdf6c1de",
-    "k1": "0d59b0a0519f49e3a8490fa48e711fa8",
-    "k2": "679e0ffd1ec387c6ed260240e3cfbb42"
-  },
-  {
-    "title": "Seattle Kraken vs. Toronto Maple Leafs",
-    "league": "National Hockey League",
-    "fecha-evento": "2025-10-18T18:00:17-05:00",
-    "img": "19199853-95af-4bca-a13b-95db4bc6eaf4",
-    "nombre": "disney32bab3",
-    "status": "18:00",
-    "duration": 210,
-    "play_url": "https://www.disneyplus.com/es-es/play/e53e567d-5a36-4da4-8cd7-e3eefa9677a4",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1760916128~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F18%2FSeattle_Kraken_vs_Toronto_20251018_1760821258036%2F~psid=1893b550-4529-409c-8c28-4ebd178fd7c5~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=51500ac3efeebc9843e50b7603873feaeb08544e6d958f3d86ea49d1b2d2b3a7/clt1/va02/disneyplus/event/2025/10/18/Seattle_Kraken_vs_Toronto_20251018_1760821258036/ctr-all-hdri-complete.m3u8?v=1&hash=e5c762469dce46fe05e2640bda11dbe1cdd65f95",
-    "k1": "9542a191e6e544239d765c2507873575",
-    "k2": "a5894fced754655f6d9ff25d9344d112"
-  },
-  {
     "title": "Indy Eleven vs. Loudoun United FC",
     "league": "USL Championship",
     "fecha-evento": "2025-10-18T18:00:00-05:00",
@@ -240,8 +214,11 @@
     "img": "4c8b3859-5b0b-4722-b9cd-718e59610857",
     "nombre": "disney9629e3",
     "status": "21:30",
-    "duration": 135,
-    "play_url": ""
+    "duration": 180,
+    "play_url": "https://www.disneyplus.com/es-es/play/5104ec87-698b-4195-8af1-968fb88f0e24",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1760928018~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F19%2FFlorida_State_vs_Stanford_20251019_1760833853033%2F~psid=2a6c0985-5460-407c-b3e0-b691b8084f41~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=3451228af46b9262f00f181995826d22d89fbc98334dceb7a9ea0148f8817553/clt1/va02/disneyplus/event/2025/10/19/Florida_State_vs_Stanford_20251019_1760833853033/ctr-all-hdri-complete.m3u8?v=1&hash=fa5e6e0a8f707dfc07ed441585de94e11bfa71af",
+    "k1": "90f7c0d678384879a003c25378ee9452",
+    "k2": "994a6aaaae2b7a68a3516292ec7cd278"
   },
   {
     "title": "Tereza Valentova (CZE) vs. Leylah Fernandez (CAN) (Final)",
@@ -630,6 +607,26 @@
     "img": "ecb9c5bc-421c-41a8-93ed-164a2cfe259f",
     "nombre": "disney0d45cf",
     "status": "11:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Fenerbahce vs. Fatih Karagumruk",
+    "league": "Super Lig de Turquía",
+    "fecha-evento": "2025-10-19T11:50:00-05:00",
+    "img": "f99c9a99-50bf-4a39-ad9d-cf4dcffdf601",
+    "nombre": "disneyf513ee",
+    "status": "11:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "#6 Pittsburgh vs. #4 Louisville",
+    "league": "NCAA Women's Volleyball",
+    "fecha-evento": "2025-10-19T12:00:00-05:00",
+    "img": "d0ea6efa-954f-42f8-a968-9ed31652d396",
+    "nombre": "disney464a52",
+    "status": "12:00",
     "duration": 135,
     "play_url": ""
   }
