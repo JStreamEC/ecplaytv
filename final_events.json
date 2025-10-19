@@ -13,19 +13,6 @@
     "k2": "7efd11debe6e2563167bb01faf38308e"
   },
   {
-    "title": "Carolina Hurricanes vs. Los Angeles Kings",
-    "league": "National Hockey League",
-    "fecha-evento": "2025-10-18T20:00:00-05:00",
-    "img": "7cf2d4e6-ab87-4208-90b0-a724762ffd83",
-    "nombre": "disney42d370",
-    "status": "20:00",
-    "duration": 210,
-    "play_url": "https://www.disneyplus.com/es-es/play/85a1576c-9e1f-4dfc-b2a8-cb313cff50f1",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1760922105~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F19%2FCarolina_Hurricanes_vs_Lo_20251019_1760828451025%2F~psid=8f014544-72d7-426f-93b0-fa4fdab092ae~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=6cdc751256522136eb36307204f1d7f6f8b58fe833df262e778a19d07f73cee7/clt1/va02/disneyplus/event/2025/10/19/Carolina_Hurricanes_vs_Lo_20251019_1760828451025/ctr-all-hdri-complete.m3u8?v=1&hash=81655d5bc30e523aa6ce2d5c68e67a0e64927ba6",
-    "k1": "6b5e9658fc1e4359b4298a31f046a11d",
-    "k2": "b73b7f6cb08f35116f3cfbc5bd1d4f4f"
-  },
-  {
     "title": "Calgary Flames vs. Vegas Golden Knights",
     "league": "National Hockey League",
     "fecha-evento": "2025-10-18T20:59:37-05:00",
@@ -604,6 +591,26 @@
     "img": "317003df-a381-4fea-9a03-86b242979eb9",
     "nombre": "disney91d4f6",
     "status": "13:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Edmonton Oilers vs. Detroit Red Wings",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-10-19T13:30:00-05:00",
+    "img": "56e47654-9bf0-43c4-9070-0a6b22bd8be0",
+    "nombre": "disney390083",
+    "status": "13:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Atenas vs. Rampla Juniors",
+    "league": "Segunda División de Uruguay",
+    "fecha-evento": "2025-10-19T13:45:00-05:00",
+    "img": "21998175-f423-4c82-b485-6685ed52339a",
+    "nombre": "disney047962",
+    "status": "13:45",
     "duration": 135,
     "play_url": ""
   }
