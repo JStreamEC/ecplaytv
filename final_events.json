@@ -36,19 +36,6 @@
     "k2": "686edbda1ae6d26d28a55cb701aea4cf"
   },
   {
-    "title": "F1 - GP Estados Unidos - Carrera",
-    "league": "Fórmula 1",
-    "fecha-evento": "2025-10-19T12:30:01-05:00",
-    "img": "1690b72f-fb1c-4e5f-b451-c0c76749d245",
-    "nombre": "disneyabf65d",
-    "status": "12:30",
-    "duration": 255,
-    "play_url": "https://www.disneyplus.com/es-es/play/92c4b097-c243-4337-a7ca-86d5a88457f0",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1760982062~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F19%2FF1_GP_Estados_Unidos_Carr_20251019_1760887802041%2F~psid=081fc6ff-4ca2-472e-98b4-5b4bf99ff0b1~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=d73e8225262e5ad2510ba1ba196be13b08e8021ae6ef75c3717e78fea8849d12/clt1/va02/disneyplus/event/2025/10/19/F1_GP_Estados_Unidos_Carr_20251019_1760887802041/ctr-all-hdri-complete.m3u8?v=1&hash=1441d647a4ba7ddbb1b173397fbbf4798e8a4a8e",
-    "k1": "5fc94c2a70f74a88b4e1cc32f7451546",
-    "k2": "424a1b55975370f302bdd6d95505f6b2"
-  },
-  {
     "title": "Edmonton Oilers vs. Detroit Red Wings",
     "league": "National Hockey League",
     "fecha-evento": "2025-10-19T13:30:00-05:00",
@@ -177,16 +164,6 @@
     "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1760996553~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F19%2FAngel_City_FC_vs_Portland_20251019_1760900410041%2F~psid=6e336e94-5cf9-40c0-a824-0f8d42ddfd52~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=8c3a92ed352d56328764410a42cf870a1f78ba6a1da5391a36de4f324fa94e9f/clt1/va02/disneyplus/event/2025/10/19/Angel_City_FC_vs_Portland_20251019_1760900410041/ctr-all-hdri-complete.m3u8?v=1&hash=a9bde4a1773ec0d5ed4eb843829d718273dc381b",
     "k1": "1e0eb01ab9734dff839c1a254676e46b",
     "k2": "c98afeada507e9ad21147dfe992913df"
-  },
-  {
-    "title": "Compacto | F1 GP Estados Unidos | Carrera (3 min)",
-    "league": "Fórmula 1",
-    "fecha-evento": "2025-10-19T16:55:00-05:00",
-    "img": "0580dbb4-51e9-4130-9f23-1f41d74a46cc",
-    "nombre": "disneyf11008",
-    "status": "16:55",
-    "duration": 135,
-    "play_url": ""
   },
   {
     "title": "Compacto | F1 GP Estados Unidos | Carrera (30 min)",
@@ -352,7 +329,7 @@
     "title": "Erste BankOpen 500 (First Round)",
     "league": "ATP",
     "fecha-evento": "2025-10-20T06:30:00-05:00",
-    "img": "6817c052-2179-4d70-ab35-a2b3a6d85f18",
+    "img": "ac58b643-22fd-44a9-a866-d0724544009f",
     "nombre": "disneyc8adbc",
     "status": "06:30",
     "duration": 135,
@@ -362,7 +339,7 @@
     "title": "Swiss Indoors Basel (First Round)",
     "league": "ATP",
     "fecha-evento": "2025-10-20T07:00:00-05:00",
-    "img": "c5749dfd-cc33-4b50-a3e8-87243266be80",
+    "img": "779eaa8a-bdd7-458a-8b0f-71c42e74861c",
     "nombre": "disneyce2eb9",
     "status": "07:00",
     "duration": 135,
@@ -574,6 +551,16 @@
     "fecha-evento": "2025-10-20T21:00:00-05:00",
     "img": "368a6819-4ddc-4588-8c30-be30d3ff8c49",
     "nombre": "disney10a69b",
+    "status": "21:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Houston Texans vs. Seattle Seahawks",
+    "league": "NFL",
+    "fecha-evento": "2025-10-20T21:00:00-05:00",
+    "img": "3044a4fc-05fb-4d2b-8fe4-85bbe04fc605",
+    "nombre": "disneydc6397",
     "status": "21:00",
     "duration": 135,
     "play_url": ""
