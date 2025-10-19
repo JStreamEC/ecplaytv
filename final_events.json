@@ -65,19 +65,6 @@
     "k2": "8b424b79e388f6bd398f5e69befd5d36"
   },
   {
-    "title": "Talleres vs. River Plate",
-    "league": "Liga Profesional de Fútbol",
-    "fecha-evento": "2025-10-18T18:10:00-05:00",
-    "img": "048dfc9c-50e1-4d65-8c92-d3d356ed5059",
-    "nombre": "disney1fbdb6",
-    "status": "18:10",
-    "duration": 140,
-    "play_url": "https://www.disneyplus.com/es-es/play/7f22483c-3ce8-425d-96d3-d23818ac7ca5",
-    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1760916224~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F7f9052ce-8143-43a6-9656-a8c00c4a3e56-1760554479235%2F~psid=322d390b-692f-40de-b79d-f637713996c3~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=0183be31799d8141f3a3ee02eda27d9e5be77b25f8b66fdfc0aab5f66c62a4d5/clt1/va02/disneyplus/channel/7f9052ce-8143-43a6-9656-a8c00c4a3e56-1760554479235/ctr-all-sliding-alt1.m3u8?v=1&hash=437e3ef416fefcb19394ac9c8d3e57c2f7f2cec4",
-    "k1": "78e0996adacd47ea95a1cf454cab3fd2",
-    "k2": "850f9a05c731c0cb782c230013afb7e0"
-  },
-  {
     "title": "#16 Missouri vs. Auburn",
     "league": "Fútbol Americano NCAA",
     "fecha-evento": "2025-10-18T18:50:51-05:00",
@@ -434,7 +421,7 @@
     "title": "Genoa vs. Parma",
     "league": "Seria A",
     "fecha-evento": "2025-10-19T07:50:00-05:00",
-    "img": "361db012-2891-4a4a-9f02-bfcceb852865",
+    "img": "9c0d3a99-076c-4503-b6e1-8129a98626b6",
     "nombre": "disneyae8012",
     "status": "07:50",
     "duration": 135,
@@ -627,6 +614,16 @@
     "img": "214cabae-d9ff-4dcc-a728-5fc5562ff5f5",
     "nombre": "disney3572ed",
     "status": "10:55",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "St. Catherine's vs. San Lorenzo",
+    "league": "Torneo Metropolitano de Hockey Femenino",
+    "fecha-evento": "2025-10-19T11:00:00-05:00",
+    "img": "59f0a02c-c5b4-418b-88c4-189f299b1315",
+    "nombre": "disneyd9a8fd",
+    "status": "11:00",
     "duration": 135,
     "play_url": ""
   }
