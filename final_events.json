@@ -13,32 +13,6 @@
     "k2": "46d1cff9f28c5208a0351cda5b5544e2"
   },
   {
-    "title": "En Español-#11 Tennessee vs. #6 Alabama",
-    "league": "Fútbol Americano NCAA",
-    "fecha-evento": "2025-10-18T18:30:03-05:00",
-    "img": "a5859eb7-b87b-4999-b111-6aedc29c8ef4",
-    "nombre": "disney7ab17f",
-    "status": "18:30",
-    "duration": 210,
-    "play_url": "https://www.disneyplus.com/es-es/play/d8bf0015-1f21-4f3f-8750-4c96cea35746",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1760917261~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F18%2FEn_Espaol11_Tennessee_vs__20251018_1760823045027%2F~psid=56764d03-82a3-41e5-9a07-6b2e0d8488f0~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=4c40a9f1e0d7291d4898f3427e879e79ba1fbcf8f22c27f944165a645e2672fd/clt1/va02/disneyplus/event/2025/10/18/En_Espaol11_Tennessee_vs__20251018_1760823045027/ctr-all-hdri-complete.m3u8?v=1&hash=3dce5e22201b5ef36bec7b32077ed08d8ea72e24",
-    "k1": "f913789d7fde46fe83bdb28a94faccf9",
-    "k2": "c838c1dc8991de695679c6bbf6a7829c"
-  },
-  {
-    "title": "#24 Cincinnati vs. Oklahoma State",
-    "league": "Fútbol Americano NCAA",
-    "fecha-evento": "2025-10-18T19:00:00-05:00",
-    "img": "e40495b2-d95a-4ad4-9c9b-38f18bb98545",
-    "nombre": "disney3e9bed",
-    "status": "19:00",
-    "duration": 180,
-    "play_url": "https://www.disneyplus.com/es-es/play/290c52fd-8873-4e8e-80bd-095bdcaddca7",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1760918510~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F19%2F24_Cincinnati_vs_Oklahoma_20251019_1760824836034%2F~psid=9f1e1907-13dd-4e21-ba12-d247cd1767e7~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=2e2c8244432085bdcd92357e8f8baf7bf0955cf1f0ed628a0c0bf441d4213e66/clt1/va02/disneyplus/event/2025/10/19/24_Cincinnati_vs_Oklahoma_20251019_1760824836034/ctr-all-hdri-complete.m3u8?v=1&hash=d2994c93b425c42eb9445ab961592b39292a6319",
-    "k1": "33963ab7b37447f68a769c2a1578cda5",
-    "k2": "87be7b8ba22079fd30fd65bb29c68777"
-  },
-  {
     "title": "BKFC Fight Night | Bryce Henry vs. Roderick Stewart",
     "league": "Bare Knuckle Fighting Championship",
     "fecha-evento": "2025-10-18T19:00:00-05:00",
@@ -615,6 +589,26 @@
     "img": "1690b72f-fb1c-4e5f-b451-c0c76749d245",
     "nombre": "disneye57966",
     "status": "13:55",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Sarmiento vs. Vélez Sarsfield",
+    "league": "Liga Profesional de Fútbol",
+    "fecha-evento": "2025-10-19T12:45:00-05:00",
+    "img": "57dfca56-5fb0-49a2-a8c8-98a5e248f8ca",
+    "nombre": "disneya74146",
+    "status": "12:45",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Arizona vs. Houston",
+    "league": "NCAA Women's Volleyball",
+    "fecha-evento": "2025-10-19T13:00:00-05:00",
+    "img": "76598edf-7dff-45ef-94e6-d2be15068c6d",
+    "nombre": "disney0d273c",
+    "status": "13:00",
     "duration": 135,
     "play_url": ""
   }
