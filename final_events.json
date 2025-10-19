@@ -39,19 +39,6 @@
     "k2": "679e0ffd1ec387c6ed260240e3cfbb42"
   },
   {
-    "title": "Mississippi State vs. Florida",
-    "league": "Fútbol Americano NCAA",
-    "fecha-evento": "2025-10-18T15:15:00-05:00",
-    "img": "160db84a-9d71-4f82-a707-2a88109bf127",
-    "nombre": "disneycff732",
-    "status": "15:15",
-    "duration": 180,
-    "play_url": "https://www.disneyplus.com/es-es/play/34da6856-99ea-463b-b3be-b8b7934144f6",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1760905352~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F18%2FMississippi_State_vs_Flor_20251018_1760811347024%2F~psid=3a179ffb-4b91-42b4-b425-a865e394f9f2~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=414a536247cffa8593d5f2adb2681fde8c8b0499dd5a96f40c972b28380b48a9/clt1/va02/disneyplus/event/2025/10/18/Mississippi_State_vs_Flor_20251018_1760811347024/ctr-all-hdri-complete.m3u8?v=1&hash=d3ba6ef57abbd91b6869f5eb7922e51c6df44210",
-    "k1": "04d5a284f8d64982b59b8b6ecfbf15a2",
-    "k2": "f21a4924f74d218b8c9cd2cb4641194c"
-  },
-  {
     "title": "Kings Cup México (Round 1)",
     "league": "Kings League Americas",
     "fecha-evento": "2025-10-18T15:55:01-05:00",
@@ -327,22 +314,28 @@
   {
     "title": "#16 Missouri vs. Auburn",
     "league": "Fútbol Americano NCAA",
-    "fecha-evento": "2025-10-18T18:45:00-05:00",
+    "fecha-evento": "2025-10-18T18:50:51-05:00",
     "img": "41080468-d229-45c6-b99f-2db1db249685",
-    "nombre": "disney477f88",
-    "status": "18:45",
-    "duration": 135,
-    "play_url": ""
+    "nombre": "disneyc4f27b",
+    "status": "18:50",
+    "duration": 189,
+    "play_url": "https://www.disneyplus.com/es-es/play/0e42db58-805e-4c13-a5c2-436a1546ad89",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1760918420~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F18%2F16_Missouri_vs_Auburn_20251018_1760823958038%2F~psid=348ddc10-e2e8-4432-bd52-67f572e42784~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=05a52de5e7dfa4fc1f8044ce07b54f69f1ad1b509d006bf5ac1ff65bc50fff5f/clt1/va02/disneyplus/event/2025/10/18/16_Missouri_vs_Auburn_20251018_1760823958038/ctr-all-hdri-complete.m3u8?v=1&hash=53c1bb920c30838ea2e9a39412b8a522934cd097",
+    "k1": "5f61d6696f1d4ec2b3686f80bae0528b",
+    "k2": "46d1cff9f28c5208a0351cda5b5544e2"
   },
   {
     "title": "Club Deportivo Irapuato vs. Club Atlético Morelia (Jornada 12)",
     "league": "Liga de Expansión MX",
-    "fecha-evento": "2025-10-18T18:50:00-05:00",
+    "fecha-evento": "2025-10-18T18:50:03-05:00",
     "img": "46155f78-34fd-4580-a258-60e79f33e82a",
-    "nombre": "disney551140",
+    "nombre": "disneyf01c46",
     "status": "18:50",
-    "duration": 135,
-    "play_url": ""
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/11738c5d-579f-4e68-90a8-0cd8db45c55e",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1760918465~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F18%2FClub_Deportivo_Irapuato_v_20251018_1760825673154%2F~psid=11574d6d-74c7-425a-a9c6-d87b109228f3~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=4dc4f802b63d8d8fe795699c10d6f928b5bdf8e4b642380dd022bc9b4ec44598/clt1/va02/disneyplus/event/2025/10/18/Club_Deportivo_Irapuato_v_20251018_1760825673154/ctr-all-hdri-complete.m3u8?v=1&hash=55c4b78be5c89d355cb02649fd1042a97124e069",
+    "k1": "bcfdaf31fab547b193ad4b234861e2fe",
+    "k2": "c319d2eb1db8162499a55e4348e246e9"
   },
   {
     "title": "#24 Cincinnati vs. Oklahoma State",
@@ -351,8 +344,11 @@
     "img": "e40495b2-d95a-4ad4-9c9b-38f18bb98545",
     "nombre": "disney3e9bed",
     "status": "19:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 180,
+    "play_url": "https://www.disneyplus.com/es-es/play/290c52fd-8873-4e8e-80bd-095bdcaddca7",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1760918510~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F19%2F24_Cincinnati_vs_Oklahoma_20251019_1760824836034%2F~psid=9f1e1907-13dd-4e21-ba12-d247cd1767e7~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=2e2c8244432085bdcd92357e8f8baf7bf0955cf1f0ed628a0c0bf441d4213e66/clt1/va02/disneyplus/event/2025/10/19/24_Cincinnati_vs_Oklahoma_20251019_1760824836034/ctr-all-hdri-complete.m3u8?v=1&hash=d2994c93b425c42eb9445ab961592b39292a6319",
+    "k1": "33963ab7b37447f68a769c2a1578cda5",
+    "k2": "87be7b8ba22079fd30fd65bb29c68777"
   },
   {
     "title": "Colorado Springs Switchbacks FC vs. Las Vegas Lights FC",
@@ -361,8 +357,11 @@
     "img": "d1a008e5-fb65-44cd-9190-b3a42d4d53da",
     "nombre": "disneya134dc",
     "status": "19:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/56b50a7c-3aca-4a93-981d-f5025788da76",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1760918534~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F19%2FColorado_Springs_Switchba_20251019_1760824827024%2F~psid=035aea3a-5e40-49cb-8f80-2698b6000cc2~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=7c32eafb5e7c4598f0f4ab6d264917b4c60f368761e6157f340a600961260b45/clt1/va02/disneyplus/event/2025/10/19/Colorado_Springs_Switchba_20251019_1760824827024/ctr-all-hdri-complete.m3u8?v=1&hash=d8caa7c47c73bd8092c013e850d13341c4263e96",
+    "k1": "f405b184bc464bb8b304db070265bd34",
+    "k2": "4836314909991e1cd9180659032198fa"
   },
   {
     "title": "Tacuarembó vs. Albion FC",
@@ -372,17 +371,23 @@
     "nombre": "disneyd7aece",
     "status": "19:00",
     "duration": 135,
-    "play_url": ""
+    "play_url": "https://www.disneyplus.com/es-es/play/5a6168cd-1d58-453b-84de-04ff55570094",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1760918558~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F19%2FTacuaremb_vs_Albion_FC_20251019_1760824812026%2F~psid=57240e51-e42b-4d3d-a66a-2b2d3a20b538~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=93246269c3dced80c499cda64d1ca88ea859db54e20833e87aa4810aeb393d37/clt1/va02/disneyplus/event/2025/10/19/Tacuaremb_vs_Albion_FC_20251019_1760824812026/ctr-all-hdri-complete.m3u8?v=1&hash=2df8f9acca2994dd3c30e0a2267feb3890470248",
+    "k1": "6609c6c624474294b4ebc4e8a092fa5d",
+    "k2": "dc05a5a6058fb4b4b45858ef21b647e4"
   },
   {
     "title": "BKFC Fight Night | Bryce Henry vs. Roderick Stewart",
     "league": "Bare Knuckle Fighting Championship",
-    "fecha-evento": "2025-10-18T20:00:00-05:00",
+    "fecha-evento": "2025-10-18T19:00:00-05:00",
     "img": "f501b0fa-61f6-45d6-9591-3d354ca469db",
-    "nombre": "disney4164b8",
-    "status": "20:00",
-    "duration": 135,
-    "play_url": ""
+    "nombre": "disneyb0f010",
+    "status": "19:00",
+    "duration": 240,
+    "play_url": "https://www.disneyplus.com/es-es/play/880a9e4a-3b9a-4ae6-83b4-115f88db3c0b",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1760918583~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F19%2FBKFC_Fight_Night_Bryce_He_20251019_1760824846040%2F~psid=8ff12138-69dc-497d-aea4-067f81097b5e~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=3564a20cae98c483e7fd305ab01733b860c1db9a7496fcbd15fbd8b46c9e9435/clt1/va02/disneyplus/event/2025/10/19/BKFC_Fight_Night_Bryce_He_20251019_1760824846040/ctr-all-hdri-complete.m3u8?v=1&hash=28a0ee4bb97c765a0d5c4f32f3cebbbb4f6fd824",
+    "k1": "05f340726e60430fa048e0dde5dd2529",
+    "k2": "d1e59a16c2d47396736a74266ebadf4e"
   },
   {
     "title": "MotoGP - Race - Australian Motorcycle Grand Prix",
@@ -600,6 +605,16 @@
     "fecha-evento": "2025-10-19T06:25:00-05:00",
     "img": "96da8dbd-8889-45eb-b0e7-6453faadcfd1",
     "nombre": "disney9a02bf",
+    "status": "06:25",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "SV Darmstadt 98 vs. 1. FC Magdeburg",
+    "league": "Bundesliga 2 de Alemania",
+    "fecha-evento": "2025-10-19T06:25:00-05:00",
+    "img": "e1bc05d7-4e02-4f92-bfe4-e7a60df3ec1f",
+    "nombre": "disneya8f8c5",
     "status": "06:25",
     "duration": 135,
     "play_url": ""
