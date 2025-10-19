@@ -10,19 +10,6 @@
     "play_url": ""
   },
   {
-    "title": "Cordoba vs. Almería",
-    "league": "Segunda División de España",
-    "fecha-evento": "2025-10-19T11:25:11-05:00",
-    "img": "fe83e723-b0c4-4754-8dff-aa88f2e09292",
-    "nombre": "disneydeab3c",
-    "status": "11:25",
-    "duration": 125,
-    "play_url": "https://www.disneyplus.com/es-es/play/64d6dc95-8960-4428-a218-a4e7734ee02b",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1760981000~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F19%2FCordoba_vs_Almera_20251019_1760883956029%2F~psid=6949a284-24bd-48e6-be11-24ae016f2390~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=4bc7fe61d9a21fad6fcfa599c16fb4a8a0de8f041a33b6e9d268c39ec37e97af/clt1/va02/disneyplus/event/2025/10/19/Cordoba_vs_Almera_20251019_1760883956029/ctr-all-hdri-complete.m3u8?v=1&hash=4ad9935b5e8a5e74940c11173a4a731d2688d604",
-    "k1": "ead34292e691440585f79e9f49c7f93a",
-    "k2": "0ea5f2c2324c784cd668f87674207fd8"
-  },
-  {
     "title": "Vancouver Canucks vs. Washington Capitals",
     "league": "National Hockey League",
     "fecha-evento": "2025-10-19T11:30:16-05:00",
@@ -199,27 +186,10 @@
     "nombre": "disney813721",
     "status": "13:30",
     "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Banfield vs. Hurling",
-    "league": "Torneo Metropolitano de Hockey Masculino",
-    "fecha-evento": "2025-10-19T13:30:00-05:00",
-    "img": "aa6622a3-d496-4d09-9d82-46188efe88ce",
-    "nombre": "disney356a11",
-    "status": "13:30",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Milan vs. Fiorentina",
-    "league": "Seria A",
-    "fecha-evento": "2025-10-19T13:30:00-05:00",
-    "img": "317003df-a381-4fea-9a03-86b242979eb9",
-    "nombre": "disney91d4f6",
-    "status": "13:30",
-    "duration": 135,
-    "play_url": ""
+    "play_url": "https://www.disneyplus.com/es-es/play/17a44dd5-677b-4d63-a3ab-09b81c42edad",
+    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1760985620~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Fbbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1759410188321%2F~psid=d7500472-4e6d-4301-9966-2a44ac83cd5f~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=6a29ca48bf2c51820d47771e5020a41b37b9f2bbe98783bf34e5c9008a191820/clt1/va02/disneyplus/channel/bbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1759410188321/ctr-all-sliding-alt1.m3u8?v=1&hash=3f2beb7c737b132d1104736b95cd26c3f1914d57",
+    "k1": "c21a7a1305e8478aab65ca5ad9528938",
+    "k2": "ee9281b374c8b388483c662b055e4b5c"
   },
   {
     "title": "Edmonton Oilers vs. Detroit Red Wings",
@@ -228,8 +198,37 @@
     "img": "56e47654-9bf0-43c4-9070-0a6b22bd8be0",
     "nombre": "disney390083",
     "status": "13:30",
-    "duration": 135,
-    "play_url": ""
+    "duration": 240,
+    "play_url": "https://www.disneyplus.com/es-es/play/4435e72a-d0b3-440c-9c46-04d6cafe672d",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1760985663~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F19%2FEdmonton_Oilers_vs_Detroi_20251019_1760891419039%2F~psid=ee2391f4-4e6b-4b6b-9db4-0e2421f515a8~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=efc63cf3f1d13579c5da5332f397bd060742428667fed04d5370f1d89fe7a409/clt1/va02/disneyplus/event/2025/10/19/Edmonton_Oilers_vs_Detroi_20251019_1760891419039/ctr-all-hdri-complete.m3u8?v=1&hash=3a935e0419816e7b631ef2659bb8221ec9bbe64b",
+    "k1": "67a4f2ed668e43a08501869a9b330839",
+    "k2": "0dbc778a8aa49891fa74f2b58c24de41"
+  },
+  {
+    "title": "Milan vs. Fiorentina",
+    "league": "Seria A",
+    "fecha-evento": "2025-10-19T13:30:00-05:00",
+    "img": "317003df-a381-4fea-9a03-86b242979eb9",
+    "nombre": "disney91d4f6",
+    "status": "13:30",
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/27c225d1-0960-4aeb-84de-332dd08dbd23",
+    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1760985707~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Ff25bdf06-81c9-4a7c-b128-3128d610ad17-1759409600195%2F~psid=205d6aef-b335-4371-ba22-f9d8dcbfa1ea~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=edcfc632f7177fd16728b98d489779fa5ef18568b224761572dc27332797e87a/clt1/va02/disneyplus/channel/f25bdf06-81c9-4a7c-b128-3128d610ad17-1759409600195/ctr-all-sliding-alt1.m3u8?v=1&hash=4daaff4fdbe476e51bcd350032d73b0e9d85df99",
+    "k1": "5ad6d445769a4dddb28e16c5b3e5ba99",
+    "k2": "9d12dfcc835230d0582c17876b4492de"
+  },
+  {
+    "title": "Banfield vs. Hurling",
+    "league": "Torneo Metropolitano de Hockey Masculino",
+    "fecha-evento": "2025-10-19T13:30:03-05:00",
+    "img": "221b6094-9ff6-4fa5-8474-21b6e6aa06c4",
+    "nombre": "disney37a5bf",
+    "status": "13:30",
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/23fab95a-45f6-4902-8258-6d690811ca6b",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1760985730~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F19%2FBanfield_vs_Hurling_20251019_1760891450043%2F~psid=35b1afa3-87a8-48ae-a48d-f4e47486b1f6~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=593dd8a7564454c86d337c941ccda368c36a0d55f764c613784ca4ee73975ce8/clt1/va02/disneyplus/event/2025/10/19/Banfield_vs_Hurling_20251019_1760891450043/ctr-all-hdri-complete.m3u8?v=1&hash=0acc2d26df0582153c84162009a3bf8207a5e898",
+    "k1": "72e299ac718d4787ad54d940ce03cb8e",
+    "k2": "1ac8484c1eb6832e364d7e78ac21d5cf"
   },
   {
     "title": "Atenas vs. Rampla Juniors",
@@ -335,7 +334,7 @@
     "title": "El Infierno 1v1 | Día #2",
     "league": "El Infierno 1v1",
     "fecha-evento": "2025-10-19T15:30:00-05:00",
-    "img": "0a93e002-a42a-40c4-a306-77d03e9d6f0b",
+    "img": "321f12cc-2dee-459a-b50f-9b59e8227aa7",
     "nombre": "disney1df68e",
     "status": "15:30",
     "duration": 135,
@@ -628,6 +627,16 @@
     "img": "00b82b1e-4cfa-4cc1-a254-55aaf34775c8",
     "nombre": "disneyc8efb0",
     "status": "10:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "La Ensenada II vs. La Dolfina | Torneo Clasificatorio a Palermo (Fecha #4)",
+    "league": "Abierto de Palermo",
+    "fecha-evento": "2025-10-20T11:25:00-05:00",
+    "img": "0b36e733-f270-41f8-8768-dbc8378cc7ee",
+    "nombre": "disney1614f7",
+    "status": "11:25",
     "duration": 135,
     "play_url": ""
   }
