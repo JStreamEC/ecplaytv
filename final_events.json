@@ -10,19 +10,6 @@
     "play_url": ""
   },
   {
-    "title": "Atalanta vs. Lazio",
-    "league": "Seria A",
-    "fecha-evento": "2025-10-19T10:50:00-05:00",
-    "img": "e2b4ef70-6cb1-4099-a70c-2427f018552f",
-    "nombre": "disneyf91678",
-    "status": "10:50",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/e86e929a-06c5-483e-be2e-8b0121c89665",
-    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1760980929~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Ff25bdf06-81c9-4a7c-b128-3128d610ad17-1759409600195%2F~psid=5be64ac5-fc9f-4cad-89d4-bc5bb66409bc~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=436692d3871dc684c9a2e840b648c898d8f2f956a879ae78bdbe2a35e3a613fc/clt1/va02/disneyplus/channel/f25bdf06-81c9-4a7c-b128-3128d610ad17-1759409600195/ctr-all-sliding-alt1.m3u8?v=1&hash=4daaff4fdbe476e51bcd350032d73b0e9d85df99",
-    "k1": "5ad6d445769a4dddb28e16c5b3e5ba99",
-    "k2": "9d12dfcc835230d0582c17876b4492de"
-  },
-  {
     "title": "Cordoba vs. Almería",
     "league": "Segunda División de España",
     "fecha-evento": "2025-10-19T11:25:11-05:00",
@@ -153,34 +140,43 @@
     "k2": "65f63b54889cc55484a7c6f4bc92dfba"
   },
   {
-    "title": "Arizona vs. Houston",
-    "league": "NCAA Women's Volleyball",
-    "fecha-evento": "2025-10-19T13:00:00-05:00",
-    "img": "76598edf-7dff-45ef-94e6-d2be15068c6d",
-    "nombre": "disney0d273c",
-    "status": "13:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "DC Power vs. Spokane Zephyr",
     "league": "USL Super League",
-    "fecha-evento": "2025-10-19T13:00:00-05:00",
+    "fecha-evento": "2025-10-19T13:00:03-05:00",
     "img": "02fbb9d4-81d4-4220-ba5f-4ad780104734",
-    "nombre": "disneyc76da4",
+    "nombre": "disneyd8615a",
     "status": "13:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/0f48c696-25ed-4b7c-a8ee-5dc0e37d6326",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1760984420~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F19%2FDC_Power_vs_Spokane_Zephy_20251019_1760889648043%2F~psid=cfd8ad8e-be69-48e9-8813-0ba0f46e8b69~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=398972989dffec2db41f827291215144b0bf1608228e486c6c4c8be587c86152/clt1/va02/disneyplus/event/2025/10/19/DC_Power_vs_Spokane_Zephy_20251019_1760889648043/ctr-all-hdri-complete.m3u8?v=1&hash=25b3596aef07bde38d84b18868aa7489ab1033f3",
+    "k1": "0b28e2710e7b44e08c69a207bccf98f5",
+    "k2": "8a45be5c874b25e4a0adb5fa2867df20"
   },
   {
     "title": "Arizona State vs. Iowa State",
     "league": "Fútbol Femenino NCAA",
-    "fecha-evento": "2025-10-19T13:00:00-05:00",
+    "fecha-evento": "2025-10-19T13:00:03-05:00",
     "img": "695d874f-d2a6-4cfb-92a5-ff0152673bdf",
-    "nombre": "disney7d67c3",
+    "nombre": "disneyab3351",
     "status": "13:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/93d2fe17-40cc-47db-8b4a-e58120a07231",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1760984463~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F19%2FArizona_State_vs_Iowa_Sta_20251019_1760889627040%2F~psid=1449d3e1-a131-4ddd-b596-ef1bfbb3ccce~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=93ed71970aade42413135520c2614f159f29fc5d77dadc2334e8691d9abd0e16/clt1/va02/disneyplus/event/2025/10/19/Arizona_State_vs_Iowa_Sta_20251019_1760889627040/ctr-all-hdri-complete.m3u8?v=1&hash=3785642d8689bf8a83f4c6ea5ec86dfde0561123",
+    "k1": "282186b8ae1f44d7935a5c14f9755940",
+    "k2": "22bd2f62befe0ccf2e5dccdced2c3456"
+  },
+  {
+    "title": "Arizona vs. Houston",
+    "league": "NCAA Women's Volleyball",
+    "fecha-evento": "2025-10-19T13:00:05-05:00",
+    "img": "76598edf-7dff-45ef-94e6-d2be15068c6d",
+    "nombre": "disneyec7858",
+    "status": "13:00",
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/03d96b7c-a2b4-48e2-8077-429d61c5ea46",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1760984507~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F19%2FArizona_vs_Houston_20251019_1760892513292%2F~psid=14b23ded-006d-4067-a443-4312b87af774~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=87f7bcd8d727a167834af702763732b433dc80c4c63ac0bf6ed3fe4e462e08a6/clt1/va02/disneyplus/event/2025/10/19/Arizona_vs_Houston_20251019_1760892513292/ctr-all-hdri-complete.m3u8?v=1&hash=878e41a6fb5480c365f03d329b5865950335cf2f",
+    "k1": "f2cc4700a9e1441e86d54b51d2bd21ec",
+    "k2": "5927036fee09b27c575f7abac682a557"
   },
   {
     "title": "Progreso vs. Defensor Sporting",
@@ -190,7 +186,10 @@
     "nombre": "disney5840f7",
     "status": "13:15",
     "duration": 135,
-    "play_url": ""
+    "play_url": "https://www.disneyplus.com/es-es/play/06a91260-224e-467a-a1b7-5dd3b63f2661",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1760984531~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F19%2FProgreso_vs_Defensor_Spor_20251019_1760890512042%2F~psid=7fbba7f7-0497-448f-8cce-5bb249eea37c~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=e07aeca174c4054f5e37d93836fe375a455d468cb899b5e5a4b557b98068293c/clt1/va02/disneyplus/event/2025/10/19/Progreso_vs_Defensor_Spor_20251019_1760890512042/ctr-all-hdri-complete.m3u8?v=1&hash=7cfffcf4efabf2e804eb1be0542d2b4b19404a9b",
+    "k1": "f4b84239c68c49868f24728f8f4ec9b4",
+    "k2": "67a5136c029ff2e1674d51c701ff701d"
   },
   {
     "title": "Nantes vs. Lille",
@@ -619,6 +618,16 @@
     "img": "096d4478-909a-4ebc-af9a-9708360935f6",
     "nombre": "disney736d17",
     "status": "10:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Al Shorta (IRQ) vs. Al Ittihad (KSA)",
+    "league": "AFC Champions League",
+    "fecha-evento": "2025-10-20T10:50:00-05:00",
+    "img": "00b82b1e-4cfa-4cc1-a254-55aaf34775c8",
+    "nombre": "disneyc8efb0",
+    "status": "10:50",
     "duration": 135,
     "play_url": ""
   }
