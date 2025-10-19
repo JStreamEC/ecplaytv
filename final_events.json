@@ -13,19 +13,6 @@
     "k2": "aabfc88f269820af62b94fff386f5666"
   },
   {
-    "title": "Spanish - Circuito de Jerez - World SBK - Superpole Race",
-    "league": "FIM Superbike World Championship",
-    "fecha-evento": "2025-10-19T03:55:00-05:00",
-    "img": "dbbdf026-dd6f-4f07-9c86-944c465a067c",
-    "nombre": "disneya630ab",
-    "status": "03:55",
-    "duration": 45,
-    "play_url": "https://www.disneyplus.com/es-es/play/4e0c46a4-5edc-46f1-8c40-afb979a4d4e3",
-    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1760950817~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Ff25bdf06-81c9-4a7c-b128-3128d610ad17-1759409600195%2F~psid=7389e600-c28d-4d5f-9f0c-b97ac5bf656a~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=a90064e4437696b2bd6380158661e51af0c0b405a1f4e4dacc6de063b5630b44/clt1/va02/disneyplus/channel/f25bdf06-81c9-4a7c-b128-3128d610ad17-1759409600195/ctr-all-sliding-alt1.m3u8?v=1&hash=4daaff4fdbe476e51bcd350032d73b0e9d85df99",
-    "k1": "8b16b5cf755b42a49e3e918904831b58",
-    "k2": "7efd11debe6e2563167bb01faf38308e"
-  },
-  {
     "title": "India vs. England",
     "league": "ESPN",
     "fecha-evento": "2025-10-19T04:00:06-05:00",
@@ -58,8 +45,11 @@
     "img": "305a131d-3439-4ba0-9ba2-c830ff02307e",
     "nombre": "disney05ded0",
     "status": "04:40",
-    "duration": 135,
-    "play_url": ""
+    "duration": 50,
+    "play_url": "https://www.disneyplus.com/es-es/play/559f04b2-2e6c-42c1-9e31-2e5e923635b5",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1760953218~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F19%2FWorld_WCR_Spanish_Circuit_20251019_1760859640027%2F~psid=bd9524ed-5f01-4df6-a78a-2cb11b3b6558~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=5bc6b147dc753ed08dfaca099994d62ac9915f7860b80eb167ca9f11ba6e029a/clt1/va02/disneyplus/event/2025/10/19/World_WCR_Spanish_Circuit_20251019_1760859640027/ctr-all-hdri-complete.m3u8?v=1&hash=dcb4a2e699973e863947c56dd525ad04af86f53f",
+    "k1": "5c9ba5ed4c524c0cb5fed202fe819171",
+    "k2": "6e3a9f31871b0cb13178472a86b5b0f7"
   },
   {
     "title": "Corentin Moutet (FRA) vs. Daniil Medvedev (RUS) (Final)",
@@ -617,6 +607,16 @@
     "fecha-evento": "2025-10-19T14:00:00-05:00",
     "img": "f412a353-82e2-402d-9b5f-09c49913be2e",
     "nombre": "disneydd3227",
+    "status": "14:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Florida vs. #3 Kentucky",
+    "league": "NCAA Women's Volleyball",
+    "fecha-evento": "2025-10-19T14:00:00-05:00",
+    "img": "17b0f975-8b7c-49ee-9741-f6ec8cc95fd1",
+    "nombre": "disneybd2bd6",
     "status": "14:00",
     "duration": 135,
     "play_url": ""
