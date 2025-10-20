@@ -59,19 +59,6 @@
     "k2": "7f75f202a0162138623cb58566d36cc9"
   },
   {
-    "title": "Swiss Indoors Basel (First Round)",
-    "league": "ATP",
-    "fecha-evento": "2025-10-20T07:00:03-05:00",
-    "img": "f2aec1a7-4696-472b-9ca3-3168f867c707",
-    "nombre": "disneycd117a",
-    "status": "07:00",
-    "duration": 240,
-    "play_url": "https://www.disneyplus.com/es-es/play/e2a631a1-27fc-40f2-9c63-bbd00a66d00f",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1761061357~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F20%2FSwiss_Indoors_Basel_First_20251020_1760954420040%2F~psid=4e026f7b-e54a-4137-ae86-be05b4068ffa~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=46d6546e06248088c9ed9e8a59e925636478baf980077748c680f2f3b678c0a8/clt1/va02/disneyplus/event/2025/10/20/Swiss_Indoors_Basel_First_20251020_1760954420040/ctr-all-hdri-complete.m3u8?v=1&hash=f3e68b00e881312c3a514bd5d5d188346b0fca3e",
-    "k1": "3398cf96720343e8b5582abb8e62dd68",
-    "k2": "86603821377c352c0f2642f3b2215fd5"
-  },
-  {
     "title": "Velay vs. La Ensenada III | Torneo Clasificatorio a Palermo (Fecha #4)",
     "league": "Abierto de Palermo",
     "fecha-evento": "",
@@ -101,8 +88,11 @@
     "img": "00b82b1e-4cfa-4cc1-a254-55aaf34775c8",
     "nombre": "disneyc8efb0",
     "status": "10:50",
-    "duration": 135,
-    "play_url": ""
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/b831f830-96fa-427f-aba1-ed9fe219593c",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1761062461~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F20%2FAl_Shorta_IRQ_vs_Al_Ittih_20251020_1760968207036%2F~psid=e290d052-d948-49af-be7f-cd7dcd2fe642~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=05688889b44726c634a04a75b58319a8c94d1e41c626975d1fef7be58272f565/clt1/va02/disneyplus/event/2025/10/20/Al_Shorta_IRQ_vs_Al_Ittih_20251020_1760968207036/ctr-all-hdri-complete.m3u8?v=1&hash=f818c58a9b40c5e5fa9c474bd2d7b030d50acb87",
+    "k1": "1da1adecd1834114a1ee78fce89ce4fd",
+    "k2": "689be6efc8044239b9439110b7ea5d03"
   },
   {
     "title": "La Ensenada II vs. La Dolfina | Torneo Clasificatorio a Palermo (Fecha #4)",
@@ -111,6 +101,16 @@
     "img": "69232310-7d1b-4ddb-84ef-6e521fec3d99",
     "nombre": "disney1614f7",
     "status": "11:25",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Swiss Indoors Basel (First Round)",
+    "league": "ATP",
+    "fecha-evento": "2025-10-20T13:00:00-05:00",
+    "img": "19ddb9df-f156-4b37-9b9e-912cfd69afb4",
+    "nombre": "disneyd25d77",
+    "status": "13:00",
     "duration": 135,
     "play_url": ""
   },
@@ -510,6 +510,16 @@
     "fecha-evento": "2025-10-21T18:00:00-05:00",
     "img": "dc4d316a-43f6-40cc-a527-107bba46d4ec",
     "nombre": "disney98da80",
+    "status": "18:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Vancouver Canucks vs. Pittsburgh Penguins",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-10-21T18:00:00-05:00",
+    "img": "2433ec3a-cba0-4ea7-90b1-b89cb15fa2eb",
+    "nombre": "disney057d08",
     "status": "18:00",
     "duration": 135,
     "play_url": ""
