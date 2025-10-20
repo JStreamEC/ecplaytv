@@ -10,19 +10,6 @@
     "play_url": ""
   },
   {
-    "title": "Guangzhou Open / Center Court",
-    "league": "WTA",
-    "fecha-evento": "2025-10-20T04:01:24-05:00",
-    "img": "0cfbb234-badb-4df2-a280-4ea12b4812d3",
-    "nombre": "disneycae0a3",
-    "status": "04:01",
-    "duration": 404,
-    "play_url": "https://www.disneyplus.com/es-es/play/ece37f68-a3ea-4dbd-b93c-849843e78160",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1761061224~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F20%2FGuangzhou_Open_Center_Cou_20251020_1760936450040%2F~psid=202db78d-70e4-4137-b124-69c4ed314dd6~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=ab212b0d2de51cf30a43cba32497961eee09e2e55ac73299790f9670dd91c7f3/clt1/va02/disneyplus/event/2025/10/20/Guangzhou_Open_Center_Cou_20251020_1760936450040/ctr-all-hdri-complete.m3u8?v=1&hash=1aaafec7534ee819aa09a5df6d100a556c4ceb32",
-    "k1": "af3a778a220d491782c0ffd85be08827",
-    "k2": "17c5d3a5e28cae089ee9adcf2f908716"
-  },
-  {
     "title": "Sri Lanka vs. Bangladesh",
     "league": "ESPN",
     "fecha-evento": "2025-10-20T04:29:50-05:00",
@@ -71,15 +58,12 @@
   {
     "title": "Erste BankOpen 500 / #glaubandich Court",
     "league": "ATP",
-    "fecha-evento": "2025-10-20T09:00:14-05:00",
+    "fecha-evento": "",
     "img": "096d4478-909a-4ebc-af9a-9708360935f6",
-    "nombre": "disney13b078",
-    "status": "09:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/4a324a45-6c43-4f4f-b519-fbc90c08b9f0",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1761061380~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F20%2FErste_BankOpen_500_glauba_20251020_1760961647027%2F~psid=c0cfce25-db85-466f-837c-4a0bef35a3e7~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=ab644cedd00a0fe84a2d2885cbf9986576cb2904599607abeb09030bc13bb983/clt1/va02/disneyplus/event/2025/10/20/Erste_BankOpen_500_glauba_20251020_1760961647027/ctr-all-hdri-complete.m3u8?v=1&hash=fe1c31f6cff272b8fb2fa9ec19aa227e12b3f272",
-    "k1": "aaae031b59d14da5add89fd3b13a4a1b",
-    "k2": "b175c88c694513bdd141f4f62d45e03e"
+    "nombre": "disneyd97ed7",
+    "status": "",
+    "duration": 135,
+    "play_url": ""
   },
   {
     "title": "Al Shorta (IRQ) vs. Al Ittihad (KSA)",
@@ -305,6 +289,16 @@
     "play_url": ""
   },
   {
+    "title": "Guangzhou Open / Center Court",
+    "league": "WTA",
+    "fecha-evento": "2025-10-20T22:00:00-05:00",
+    "img": "0cfbb234-badb-4df2-a280-4ea12b4812d3",
+    "nombre": "disney1ae597",
+    "status": "22:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
     "title": "Guangzhou Open / Court 2",
     "league": "WTA",
     "fecha-evento": "2025-10-20T22:00:00-05:00",
@@ -520,6 +514,16 @@
     "fecha-evento": "2025-10-21T18:00:00-05:00",
     "img": "2433ec3a-cba0-4ea7-90b1-b89cb15fa2eb",
     "nombre": "disney057d08",
+    "status": "18:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Edmonton Oilers vs. Ottawa Senators",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-10-21T18:00:00-05:00",
+    "img": "7c33389b-acc9-48f5-af74-00c66b76499b",
+    "nombre": "disney0fc065",
     "status": "18:00",
     "duration": 135,
     "play_url": ""
