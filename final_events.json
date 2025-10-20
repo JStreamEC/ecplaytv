@@ -10,26 +10,6 @@
     "play_url": ""
   },
   {
-    "title": "West Ham United vs. Brentford",
-    "league": "Premier League",
-    "fecha-evento": "2025-10-20T13:50:00-05:00",
-    "img": "2ddaa045-69b7-403a-88b3-378ab302c762",
-    "nombre": "disneyb11647",
-    "status": "13:50",
-    "duration": 125,
-    "play_url": "https://www.disneyplus.com/es-es/play/d8bd28ad-bdcc-456a-b129-9a282b5d2d79"
-  },
-  {
-    "title": "La Zeta vs. La Matera | Torneo Clasificatorio a Palermo (Fecha #4)",
-    "league": "Abierto de Palermo",
-    "fecha-evento": "2025-10-20T14:00:02-05:00",
-    "img": "637e75c9-e5ca-40b5-bab1-93c3a51e03fa",
-    "nombre": "disney86434d",
-    "status": "14:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/adcef0b1-c10d-4c00-8c28-d56da6fadf3d"
-  },
-  {
     "title": "Costa do Sauipe Open (First Round)",
     "league": "ATP",
     "fecha-evento": "2025-10-20T14:30:01-05:00",
@@ -486,6 +466,26 @@
     "img": "3b610a67-e933-4a28-a3d7-ae6d56ed477b",
     "nombre": "disneyc748a9",
     "status": "19:15",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Toray Pan Pacific Open Tennis (Second Round)",
+    "league": "WTA",
+    "fecha-evento": "2025-10-21T20:30:00-05:00",
+    "img": "a0876b13-bee4-48e6-a81b-8ce4f3d03d10",
+    "nombre": "disney4120ef",
+    "status": "20:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Toray Pan Pacific Open Tennis / Show Court (Doubles)",
+    "league": "WTA",
+    "fecha-evento": "2025-10-21T20:30:00-05:00",
+    "img": "0e9e6762-bf5a-4afc-bdfd-d5fae9fbdd82",
+    "nombre": "disney2782d6",
+    "status": "20:30",
     "duration": 135,
     "play_url": ""
   }
