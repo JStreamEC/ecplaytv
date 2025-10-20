@@ -20,19 +20,6 @@
     "play_url": ""
   },
   {
-    "title": "Swiss Indoors Basel / IWB Court 1",
-    "league": "ATP",
-    "fecha-evento": "2025-10-20T05:03:19-05:00",
-    "img": "fe3fb6d2-1dc1-4e5a-a08b-8f75e91d2081",
-    "nombre": "disney996c89",
-    "status": "05:03",
-    "duration": 597,
-    "play_url": "https://www.disneyplus.com/es-es/play/5b07ae6d-dc7e-41e8-94d7-aab76af29c71",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1761061310~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F20%2FSwiss_Indoors_Basel_IWB_C_20251020_1760953083866%2F~psid=ff646a6c-a52a-45b9-8f87-0d778a09abfb~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=db19054cdb02dfd6bec9eb262661fc6325d65a15b9358fd83f66f1edd2d541a8/clt1/va02/disneyplus/event/2025/10/20/Swiss_Indoors_Basel_IWB_C_20251020_1760953083866/ctr-all-hdri-complete.m3u8?v=1&hash=1cbbea316f1bb3603ed9aedf2217ecde304b3907",
-    "k1": "1c5f4e25a8ec42828f58383e15cf4c1f",
-    "k2": "0f813497d2343c72ef63518d54cab8a1"
-  },
-  {
     "title": "Erste BankOpen 500 (First Round)",
     "league": "ATP",
     "fecha-evento": "2025-10-20T06:30:06-05:00",
@@ -44,16 +31,6 @@
     "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1761061333~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F20%2FErste_BankOpen_500_First__20251020_1760952633040%2F~psid=67fc82a5-bfb2-4c23-9e92-a2b7a7d8552c~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=e46c01dfdff4d2bdaf9aed3b2efb44217dad6d0eea6d63a30cd4005b5f0c8a82/clt1/va02/disneyplus/event/2025/10/20/Erste_BankOpen_500_First__20251020_1760952633040/ctr-all-hdri-complete.m3u8?v=1&hash=e7a0b425730520924526b448536a15a83225138d",
     "k1": "c7363d031a794fa8a93a7cba205ab0a4",
     "k2": "7f75f202a0162138623cb58566d36cc9"
-  },
-  {
-    "title": "Velay vs. La Ensenada III | Torneo Clasificatorio a Palermo (Fecha #4)",
-    "league": "Abierto de Palermo",
-    "fecha-evento": "",
-    "img": "c6e51b48-c278-40b0-afaa-aeeb3b0289b2",
-    "nombre": "disney288ccc",
-    "status": "",
-    "duration": 135,
-    "play_url": ""
   },
   {
     "title": "Erste BankOpen 500 / #glaubandich Court",
@@ -339,6 +316,16 @@
     "play_url": ""
   },
   {
+    "title": "Swiss Indoors Basel / IWB Court 1",
+    "league": "ATP",
+    "fecha-evento": "2025-10-21T05:00:00-05:00",
+    "img": "0a933770-a508-4d9e-98e6-99ddfac50ca8",
+    "nombre": "disney15d7b0",
+    "status": "05:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
     "title": "Arsenal vs. Atletico Madrid",
     "league": "UEFA Youth League",
     "fecha-evento": "2025-10-21T06:50:00-05:00",
@@ -524,6 +511,16 @@
     "fecha-evento": "2025-10-21T18:00:00-05:00",
     "img": "7c33389b-acc9-48f5-af74-00c66b76499b",
     "nombre": "disney0fc065",
+    "status": "18:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "San Jose Sharks vs. New York Islanders",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-10-21T18:00:00-05:00",
+    "img": "e42e0b35-cc97-455b-bb1f-9616a188d068",
+    "nombre": "disney82da11",
     "status": "18:00",
     "duration": 135,
     "play_url": ""
