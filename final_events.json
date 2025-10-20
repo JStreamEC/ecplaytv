@@ -68,15 +68,12 @@
   {
     "title": "Al Ahli Saudi (KSA) vs. Al Gharafa (QAT)",
     "league": "AFC Champions League",
-    "fecha-evento": "2025-10-20T13:05:29-05:00",
+    "fecha-evento": "",
     "img": "edd2057a-000a-4416-895e-f745a721b9d9",
-    "nombre": "disney51a4e6",
-    "status": "13:05",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/370fa652-6c56-46d4-98d7-89eacec62b13",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1761076860~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F20%2FAl_Ahli_Saudi_KSA_vs_Al_G_20251020_1760976622028%2F~psid=60c31aa0-aabc-4670-8a91-5f2fb1a8662f~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=0bf773a693898fee8cd8887e9b8ccd80c3cab17156b4ba1c2fc5df82cb821e6f/clt1/va02/disneyplus/event/2025/10/20/Al_Ahli_Saudi_KSA_vs_Al_G_20251020_1760976622028/ctr-all-hdri-complete.m3u8?v=1&hash=fb8de230dd5b593c08c7d75e0a6d60e4d835d4fa",
-    "k1": "752063ebb88c4fee96a7546f7d5bd4c2",
-    "k2": "8c3c57c8cf78d1c8085e397695646e48"
+    "nombre": "disney3a3d6f",
+    "status": "",
+    "duration": 135,
+    "play_url": ""
   },
   {
     "title": "Cádiz vs. Burgos",
@@ -195,22 +192,22 @@
     "play_url": ""
   },
   {
-    "title": "Buffalo Sabres vs. Montreal Canadiens",
-    "league": "National Hockey League",
-    "fecha-evento": "2025-10-20T18:30:00-05:00",
-    "img": "4cc8a939-eb0e-4696-9e00-c126c1167d66",
-    "nombre": "disney7ce0a8",
-    "status": "18:30",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Seattle Mariners vs. Toronto Blue Jays (ALCS, Game 7)",
     "league": "MLB",
     "fecha-evento": "2025-10-20T19:00:00-05:00",
     "img": "06c4622e-e328-4090-b78e-3aec2967b8db",
     "nombre": "disney648108",
     "status": "19:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Buffalo Sabres vs. Montreal Canadiens",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-10-20T18:30:00-05:00",
+    "img": "4cc8a939-eb0e-4696-9e00-c126c1167d66",
+    "nombre": "disney7ce0a8",
+    "status": "18:30",
     "duration": 135,
     "play_url": ""
   },
