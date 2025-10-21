@@ -20,19 +20,6 @@
     "play_url": "https://www.disneyplus.com/es-es/play/013c2a38-40f5-4425-8804-e463ff5ea021"
   },
   {
-    "title": "Plaza Colonia vs. Liverpool FC",
-    "league": "Campeonato Uruguayo",
-    "fecha-evento": "2025-10-20T16:45:00-05:00",
-    "img": "94a64b1b-f2cd-4b77-b519-902e95b404f0",
-    "nombre": "disneyf0a9ca",
-    "status": "16:45",
-    "duration": 135,
-    "play_url": "https://www.disneyplus.com/es-es/play/c1dcc418-1946-4360-98b4-c81caed3855b",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1761084061~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F20%2FPlaza_Colonia_vs_Liverpoo_20251020_1760989526026%2F~psid=73865fab-b06f-41f7-8501-8dbca1786e47~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=b936eb77a6f20c5b4ab3cfcd20750f71d617009b5996e5091dfb07bdca1d0888/clt1/va02/disneyplus/event/2025/10/20/Plaza_Colonia_vs_Liverpoo_20251020_1760989526026/ctr-all-hdri-complete.m3u8?v=1&hash=f83f7e34db3e2a02368987da4bf883135cd6f28e",
-    "k1": "e2a969e06b8c494c83b8beb357cba47e",
-    "k2": "439033753d9908eda089cbe9f502d9a1"
-  },
-  {
     "title": "Tampa Bay Buccaneers vs. Detroit Lions",
     "league": "NFL",
     "fecha-evento": "2025-10-20T17:50:00-05:00",
@@ -501,6 +488,16 @@
     "img": "0e9e6762-bf5a-4afc-bdfd-d5fae9fbdd82",
     "nombre": "disney2782d6",
     "status": "20:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "CS Cartaginés vs. FC Motagua (Play-In, Leg 1)",
+    "league": "Concacaf Central American Cup",
+    "fecha-evento": "2025-10-21T20:50:00-05:00",
+    "img": "636a0f14-951c-43be-9d39-c77b738a2d1a",
+    "nombre": "disney106e4e",
+    "status": "20:50",
     "duration": 135,
     "play_url": ""
   }
