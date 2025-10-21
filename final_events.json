@@ -25,15 +25,15 @@
   {
     "title": "Minnesota Wild vs. New York Rangers",
     "league": "National Hockey League",
-    "fecha-evento": "2025-10-20T18:00:00-05:00",
+    "fecha-evento": "2025-10-20T18:00:20-05:00",
     "img": "01f82e35-3dc7-4232-bd05-61fffca434ab",
-    "nombre": "disneyd0a132",
+    "nombre": "disney3e254c",
     "status": "18:00",
     "duration": 210,
-    "play_url": "https://www.disneyplus.com/es-es/play/340032e6-6036-4921-a8da-050bd4f09efc",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1761087705~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F20%2FMinnesota_Wild_vs_New_Yor_20251020_1760994014559%2F~psid=3e9bc8d0-69d7-4a0f-a26c-5cb953e16c9b~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=24ba1ebb324fd0f73378c1f92585dad4ee671c47e7a4d6a2b34108ddb94c54f2/clt1/va02/disneyplus/event/2025/10/20/Minnesota_Wild_vs_New_Yor_20251020_1760994014559/ctr-all-hdri-complete.m3u8?v=1&hash=3350b1462bc8462c2dd5798a9e8e6a4f781b8ed6",
-    "k1": "5ed198cd69c64dfb844ad8aa4b414897",
-    "k2": "56a661db99117e3dae0fae6032d21f4c"
+    "play_url": "https://www.disneyplus.com/es-es/play/8380e5f1-01a0-4eb5-9ed3-355f0447f479",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1761099618~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F20%2FMinnesota_Wild_vs_New_Yor_20251020_1760994012026%2F~psid=55d99d53-cfb1-4353-b755-2600d8a5c006~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=4f61fa5eb97d9d5db72472ef4bac87678b72f1631a9aab284a63faf072d00b84/clt1/va02/disneyplus/event/2025/10/20/Minnesota_Wild_vs_New_Yor_20251020_1760994012026/ctr-all-hdri-complete.m3u8?v=1&hash=63d9c11a2e42c5332a606d9e1e8cbe828d62ee20",
+    "k1": "e928f7e431d44c399404bd5b19955b1f",
+    "k2": "429cd808ba6f0ebe768a656ef68714f1"
   },
   {
     "title": "Seattle Mariners vs. Toronto Blue Jays (ALCS, Game 7)",
@@ -90,20 +90,23 @@
   {
     "title": "Carolina Hurricanes vs. Vegas Golden Knights",
     "league": "National Hockey League",
-    "fecha-evento": "2025-10-20T21:00:00-05:00",
+    "fecha-evento": "2025-10-20T20:57:53-05:00",
     "img": "368a6819-4ddc-4588-8c30-be30d3ff8c49",
-    "nombre": "disney10a69b",
-    "status": "21:00",
-    "duration": 135,
-    "play_url": ""
+    "nombre": "disney71a004",
+    "status": "20:57",
+    "duration": 212,
+    "play_url": "https://www.disneyplus.com/es-es/play/15b872bc-488c-486e-b055-15e1880f5aea",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1761099662~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F21%2FCarolina_Hurricanes_vs_Ve_20251021_1761004829036%2F~psid=45b3843b-fdfa-492e-a9e4-b4de959e80bb~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=a112b725fa8c8ff3b6300e6170c78f83927183848c1170a1932ab6401d39a188/clt1/va02/disneyplus/event/2025/10/21/Carolina_Hurricanes_vs_Ve_20251021_1761004829036/ctr-all-hdri-complete.m3u8?v=1&hash=cb73db2ef11ed5b0924ddba82f0934f68242d597",
+    "k1": "88db25b905f84c889246dc15f11bf71a",
+    "k2": "773f994318ae749775c16761c9a641f9"
   },
   {
     "title": "Houston Texans vs. Seattle Seahawks",
     "league": "NFL",
-    "fecha-evento": "2025-10-20T21:05:00-05:00",
+    "fecha-evento": "2025-10-20T21:25:00-05:00",
     "img": "3044a4fc-05fb-4d2b-8fe4-85bbe04fc605",
-    "nombre": "disney847f36",
-    "status": "21:05",
+    "nombre": "disneyfd562c",
+    "status": "21:25",
     "duration": 135,
     "play_url": ""
   },
