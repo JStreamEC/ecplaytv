@@ -3,24 +3,11 @@
     "title": "Princeton vs. Brown",
     "league": "NCAA Women's Volleyball",
     "fecha-evento": "2025-11-02T12:00:00-05:00",
-    "img": "2ba533cd-45e5-419a-9f75-845fc1ab8b7e",
+    "img": "2b7163bb-e851-4ec5-a21f-91d7e170d561",
     "nombre": "disneybbbab1",
     "status": "12:00",
     "duration": 135,
     "play_url": ""
-  },
-  {
-    "title": "South Africa vs. Pakistan",
-    "league": "ESPN",
-    "fecha-evento": "2025-10-21T04:20:10-05:00",
-    "img": "3f924cb0-3281-456f-a3ad-22f42fb18e6b",
-    "nombre": "disneyb9ada0",
-    "status": "04:20",
-    "duration": 430,
-    "play_url": "https://www.disneyplus.com/es-es/play/0c243f4d-ece3-4cdf-be9e-e7a7a85a078d",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1761150026~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F21%2FSouth_Africa_vs_Pakistan_20251021_1761030043026%2F~psid=659fbf36-4aaa-4b4f-bc99-839e4110a70f~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=fe077324d849683f826de7bda5b3a59d349c024e548d37b740a9acf46c6aee41/clt1/va02/disneyplus/event/2025/10/21/South_Africa_vs_Pakistan_20251021_1761030043026/ctr-all-hdri-complete.m3u8?v=1&hash=7ad0db6f6613a256cfe4fb1a5392ab79090978b7",
-    "k1": "ac7e78498d3d4bc0b3ef3c59c7d6d7e2",
-    "k2": "03a85213e8fdcb1bfa2e87ebb2dbd835"
   },
   {
     "title": "Swiss Indoors Basel / IWB Court 1",
@@ -94,18 +81,24 @@
     "img": "fd0ae8b6-8b45-420f-a646-1d6f06f87fd6",
     "nombre": "disney804d1b",
     "status": "13:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 360,
+    "play_url": "https://www.disneyplus.com/es-es/play/2fb85c0f-eb13-4412-93d4-6fc52a2da75c",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1761157220~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F21%2FCosta_do_Sauipe_Open_Firs_20251021_1761062455026%2F~psid=a1d4ff1f-7051-4043-8ab8-024552167a71~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=1b9c418d329656f702e02dbb63f6cc41bb2803835c94df5381460b0f0ebc5fdc/clt1/va02/disneyplus/event/2025/10/21/Costa_do_Sauipe_Open_Firs_20251021_1761062455026/ctr-all-hdri-complete.m3u8?v=1&hash=5f086dd156095f07486d1b14691bf64faaa8a850",
+    "k1": "3f53d7fd6e3b4c10a4bcb0482ae8fed0",
+    "k2": "75cc73eb5165665ba3ae24aad4912593"
   },
   {
     "title": "Al Hilal (KSA) vs. Al Sadd (QAT)",
     "league": "AFC Champions League",
-    "fecha-evento": "2025-10-21T13:00:00-05:00",
+    "fecha-evento": "2025-10-21T13:00:01-05:00",
     "img": "618d54ad-991e-46cc-8298-8c8494d7bbb8",
-    "nombre": "disney81199c",
+    "nombre": "disney51644f",
     "status": "13:00",
     "duration": 135,
-    "play_url": ""
+    "play_url": "https://www.disneyplus.com/es-es/play/3bf9ebda-5916-45fb-9c89-ca78d01fb991",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1761157263~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F21%2FAl_Hilal_KSA_vs_Al_Sadd_Q_20251021_1761062467959%2F~psid=746ddb0e-4d18-42a5-bcac-8900ebc06189~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=77e396adc7def17ef00583c294f905c4115341a643f4532a97e96582e63e1dc4/clt1/va02/disneyplus/event/2025/10/21/Al_Hilal_KSA_vs_Al_Sadd_Q_20251021_1761062467959/ctr-all-hdri-complete.m3u8?v=1&hash=a16042611ad35d88f746757ab9ceb8ef5a15eab4",
+    "k1": "c337f56906604c29983b0ddda182ab03",
+    "k2": "4b50cb11efcb34f88fcc0df7e8908c38"
   },
   {
     "title": "Union St. Gilloise vs. Inter Milan",
@@ -543,6 +536,16 @@
     "fecha-evento": "2025-10-22T13:40:00-05:00",
     "img": "b6d519c6-afc2-406d-9594-087070152633",
     "nombre": "disney72d96b",
+    "status": "13:40",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Chelsea vs. Ajax",
+    "league": "UEFA Champions League",
+    "fecha-evento": "2025-10-22T13:40:00-05:00",
+    "img": "1cfc0eea-82ab-4c7f-9695-7c07022d2815",
+    "nombre": "disney67e996",
     "status": "13:40",
     "duration": 135,
     "play_url": ""
