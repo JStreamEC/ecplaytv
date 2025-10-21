@@ -10,32 +10,6 @@
     "play_url": ""
   },
   {
-    "title": "Tampa Bay Buccaneers vs. Detroit Lions",
-    "league": "NFL",
-    "fecha-evento": "2025-10-20T17:50:00-05:00",
-    "img": "17673533-22a4-4e9c-b19d-7da811cf63d9",
-    "nombre": "disneye12825",
-    "status": "17:50",
-    "duration": 190,
-    "play_url": "https://www.disneyplus.com/es-es/play/8cd33e34-cb5a-4469-bdc3-4442ffea1c9b",
-    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1761087661~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Ff25bdf06-81c9-4a7c-b128-3128d610ad17-1759409600195%2F~psid=29ab7dd5-d6fe-47f3-951f-f91ea7feece5~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=969099624ef86d15edf0671045587caea9792692153377ca052305262253d8bc/clt1/va02/disneyplus/channel/f25bdf06-81c9-4a7c-b128-3128d610ad17-1759409600195/ctr-all-sliding-alt1.m3u8?v=1&hash=4daaff4fdbe476e51bcd350032d73b0e9d85df99",
-    "k1": "82c32e0b20be4d5a84caeec340f0f62b",
-    "k2": "b11bfac8a2a24862d33703cafb556b69"
-  },
-  {
-    "title": "Minnesota Wild vs. New York Rangers",
-    "league": "National Hockey League",
-    "fecha-evento": "2025-10-20T18:00:20-05:00",
-    "img": "01f82e35-3dc7-4232-bd05-61fffca434ab",
-    "nombre": "disney3e254c",
-    "status": "18:00",
-    "duration": 210,
-    "play_url": "https://www.disneyplus.com/es-es/play/8380e5f1-01a0-4eb5-9ed3-355f0447f479",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1761099618~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F20%2FMinnesota_Wild_vs_New_Yor_20251020_1760994012026%2F~psid=55d99d53-cfb1-4353-b755-2600d8a5c006~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=4f61fa5eb97d9d5db72472ef4bac87678b72f1631a9aab284a63faf072d00b84/clt1/va02/disneyplus/event/2025/10/20/Minnesota_Wild_vs_New_Yor_20251020_1760994012026/ctr-all-hdri-complete.m3u8?v=1&hash=63d9c11a2e42c5332a606d9e1e8cbe828d62ee20",
-    "k1": "e928f7e431d44c399404bd5b19955b1f",
-    "k2": "429cd808ba6f0ebe768a656ef68714f1"
-  },
-  {
     "title": "Seattle Mariners vs. Toronto Blue Jays (ALCS, Game 7)",
     "league": "MLB",
     "fecha-evento": "2025-10-20T19:00:00-05:00",
@@ -103,12 +77,15 @@
   {
     "title": "Houston Texans vs. Seattle Seahawks",
     "league": "NFL",
-    "fecha-evento": "2025-10-20T21:25:00-05:00",
+    "fecha-evento": "2025-10-20T21:23:48-05:00",
     "img": "3044a4fc-05fb-4d2b-8fe4-85bbe04fc605",
-    "nombre": "disneyfd562c",
-    "status": "21:25",
-    "duration": 135,
-    "play_url": ""
+    "nombre": "disney678102",
+    "status": "21:23",
+    "duration": 156,
+    "play_url": "https://www.disneyplus.com/es-es/play/f521ddd9-7db9-4be7-92f4-d62d9b8bde30",
+    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1761100819~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Ff25bdf06-81c9-4a7c-b128-3128d610ad17-1759409600195%2F~psid=877a9271-9054-4c01-bd65-64574de11162~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=f17b7e0e633285c83ebf67b1a08a6ab750d2faa03b73d974d0b9fe3ca39d2534/clt1/va02/disneyplus/channel/f25bdf06-81c9-4a7c-b128-3128d610ad17-1759409600195/ctr-all-sliding-alt1.m3u8?v=1&hash=4daaff4fdbe476e51bcd350032d73b0e9d85df99",
+    "k1": "82c32e0b20be4d5a84caeec340f0f62b",
+    "k2": "b11bfac8a2a24862d33703cafb556b69"
   },
   {
     "title": "Guangzhou Open / Center Court",
@@ -517,6 +494,36 @@
     "img": "0b31831d-8330-4be8-864d-3d281a1979a1",
     "nombre": "disney08887a",
     "status": "06:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "AS Monaco vs. Tottenham Hotspur",
+    "league": "UEFA Youth League",
+    "fecha-evento": "2025-10-22T06:50:00-05:00",
+    "img": "c76dbcb6-5c07-4198-b4fd-713bb72fcc40",
+    "nombre": "disney5675b4",
+    "status": "06:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Swiss Indoors Basel (Second Round)",
+    "league": "ATP",
+    "fecha-evento": "2025-10-22T07:00:00-05:00",
+    "img": "00b4fe24-8965-4c4f-8059-2af6a2abf04d",
+    "nombre": "disneya5d219",
+    "status": "07:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Shanghai Shenhua vs. FC Seoul",
+    "league": "AFC Champions League",
+    "fecha-evento": "2025-10-22T07:10:00-05:00",
+    "img": "546fcd1d-3dbf-4bf3-88c5-7a4fc1bee5e8",
+    "nombre": "disney40cf66",
+    "status": "07:10",
     "duration": 135,
     "play_url": ""
   }
