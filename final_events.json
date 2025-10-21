@@ -10,16 +10,6 @@
     "play_url": ""
   },
   {
-    "title": "Costa do Sauipe Open (First Round)",
-    "league": "ATP",
-    "fecha-evento": "2025-10-20T14:30:01-05:00",
-    "img": "fd0ae8b6-8b45-420f-a646-1d6f06f87fd6",
-    "nombre": "disneyfe051a",
-    "status": "14:30",
-    "duration": 270,
-    "play_url": "https://www.disneyplus.com/es-es/play/013c2a38-40f5-4425-8804-e463ff5ea021"
-  },
-  {
     "title": "Tampa Bay Buccaneers vs. Detroit Lions",
     "league": "NFL",
     "fecha-evento": "2025-10-20T17:50:00-05:00",
@@ -46,40 +36,17 @@
     "k2": "56a661db99117e3dae0fae6032d21f4c"
   },
   {
-    "title": "Seattle Kraken vs. Philadelphia Flyers",
-    "league": "National Hockey League",
-    "fecha-evento": "2025-10-20T18:00:14-05:00",
-    "img": "01884e5d-d982-4330-ac03-072b8b055781",
-    "nombre": "disney4fb79f",
-    "status": "18:00",
-    "duration": 210,
-    "play_url": "https://www.disneyplus.com/es-es/play/c6e7bc35-b4d8-43eb-bd91-dc423aa1e2f8",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1761088861~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F20%2FSeattle_Kraken_vs_Philade_20251020_1760994016207%2F~psid=e4c9be62-9330-43b9-8005-97650fef75b7~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=577299c124acdb189439e10de0c9b6340b59cee83c14a93b744e0fffd68fb268/clt1/va02/disneyplus/event/2025/10/20/Seattle_Kraken_vs_Philade_20251020_1760994016207/ctr-all-hdri-complete.m3u8?v=1&hash=126f72bc83bc0affa5fd55b922fd14f73b04845e",
-    "k1": "e5ea8acf4ff3486f9d5541ea806fc80e",
-    "k2": "84193735eea390fe4afce208985e3b58"
-  },
-  {
     "title": "Seattle Mariners vs. Toronto Blue Jays (ALCS, Game 7)",
     "league": "MLB",
     "fecha-evento": "2025-10-20T19:00:00-05:00",
     "img": "06c4622e-e328-4090-b78e-3aec2967b8db",
     "nombre": "disney648108",
     "status": "19:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Buffalo Sabres vs. Montreal Canadiens",
-    "league": "National Hockey League",
-    "fecha-evento": "2025-10-20T18:30:34-05:00",
-    "img": "4cc8a939-eb0e-4696-9e00-c126c1167d66",
-    "nombre": "disneye51ff8",
-    "status": "18:30",
-    "duration": 209,
-    "play_url": "https://www.disneyplus.com/es-es/play/34fea8cf-9334-4b9b-8da8-7ed69ff187bc",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1761090061~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F20%2FBuffalo_Sabres_vs_Montrea_20251020_1760995804037%2F~psid=534f1922-4d78-4d60-a762-c119fc5cbecb~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=6b1875180c6bccc4c8f7e45ad3671fae5b585ea59cbe4956f7908f40c35d16d1/clt1/va02/disneyplus/event/2025/10/20/Buffalo_Sabres_vs_Montrea_20251020_1760995804037/ctr-all-hdri-complete.m3u8?v=1&hash=83d724937966f11c47d5b0c94c23579e4c9ce789",
-    "k1": "79ee8b1393b043b994bd0669df0060ac",
-    "k2": "ce6ec833a309b131d8a124e620000e7e"
+    "duration": 180,
+    "play_url": "https://www.disneyplus.com/es-es/play/5717daa6-082c-474a-bd74-6e528d4d2744",
+    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1761092419~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F7f9052ce-8143-43a6-9656-a8c00c4a3e56-1760554479235%2F~psid=1764b952-b001-4f11-9e6e-e6bcb12e3261~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=228e790eccff5bae073b5ce2d1c95492a481b37ef72dc258bc07daf6d049f9f0/clt1/va02/disneyplus/channel/7f9052ce-8143-43a6-9656-a8c00c4a3e56-1760554479235/ctr-all-sliding-alt1.m3u8?v=1&hash=437e3ef416fefcb19394ac9c8d3e57c2f7f2cec4",
+    "k1": "27cf3de120c44cd49daf78801ef01394",
+    "k2": "ec1f82da2d4a13f4db816c572df282ee"
   },
   {
     "title": "Toray Pan Pacific Open Tennis (First Round)",
@@ -258,6 +225,16 @@
     "img": "bb6c70f2-ab75-4c9e-a55d-e46eab1eeae3",
     "nombre": "disney71fe24",
     "status": "11:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Costa do Sauipe Open (First Round)",
+    "league": "ATP",
+    "fecha-evento": "2025-10-21T13:00:00-05:00",
+    "img": "fd0ae8b6-8b45-420f-a646-1d6f06f87fd6",
+    "nombre": "disney804d1b",
+    "status": "13:00",
     "duration": 135,
     "play_url": ""
   },
@@ -498,6 +475,36 @@
     "img": "636a0f14-951c-43be-9d39-c77b738a2d1a",
     "nombre": "disney106e4e",
     "status": "20:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Guangzhou Open / Court 2 (Doubles)",
+    "league": "WTA",
+    "fecha-evento": "2025-10-22T00:00:00-05:00",
+    "img": "4d430853-1934-4c90-a27b-0c3b2bf964c5",
+    "nombre": "disney551475",
+    "status": "00:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Australia vs. England",
+    "league": "ESPN",
+    "fecha-evento": "2025-10-22T04:00:00-05:00",
+    "img": "78c957b3-4b9e-4aa8-a6a2-e01c815cc725",
+    "nombre": "disneyca1e25",
+    "status": "04:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Erste BankOpen 500 (Second Round)",
+    "league": "ATP",
+    "fecha-evento": "2025-10-22T06:30:00-05:00",
+    "img": "0b31831d-8330-4be8-864d-3d281a1979a1",
+    "nombre": "disney08887a",
+    "status": "06:30",
     "duration": 135,
     "play_url": ""
   }
