@@ -10,19 +10,6 @@
     "play_url": ""
   },
   {
-    "title": "Swiss Indoors Basel / IWB Court 1",
-    "league": "ATP",
-    "fecha-evento": "2025-10-21T05:01:10-05:00",
-    "img": "0a933770-a508-4d9e-98e6-99ddfac50ca8",
-    "nombre": "disney724331",
-    "status": "05:01",
-    "duration": 599,
-    "play_url": "https://www.disneyplus.com/es-es/play/d77457fd-4fef-4b10-93ea-886ccc42ee66",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1761150070~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F21%2FSwiss_Indoors_Basel_IWB_C_20251021_1761033621027%2F~psid=232b26d1-baa7-4e3d-bb7a-817daba28f4e~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=85c3cf51f032011891081ff8ae172fa7206837bd9574dc1745db91e9a178384d/clt1/va02/disneyplus/event/2025/10/21/Swiss_Indoors_Basel_IWB_C_20251021_1761033621027/ctr-all-hdri-complete.m3u8?v=1&hash=8c5facef870f5572c31c52386ccde2570adeedb7",
-    "k1": "00fd33741bce40878d29af0df6759e1e",
-    "k2": "241d12a30f3b0fe249b385b98777a521"
-  },
-  {
     "title": "Erste BankOpen 500 (First Round)",
     "league": "ATP",
     "fecha-evento": "2025-10-21T06:30:05-05:00",
@@ -392,6 +379,16 @@
     "play_url": ""
   },
   {
+    "title": "Swiss Indoors Basel / IWB Court 1",
+    "league": "ATP",
+    "fecha-evento": "2025-10-22T05:00:00-05:00",
+    "img": "0a933770-a508-4d9e-98e6-99ddfac50ca8",
+    "nombre": "disneyc604c9",
+    "status": "05:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
     "title": "Erste BankOpen 500 / #glaubandich Court",
     "league": "ATP",
     "fecha-evento": "2025-10-22T06:00:00-05:00",
@@ -567,6 +564,16 @@
     "fecha-evento": "2025-10-22T13:40:00-05:00",
     "img": "1cfc0eea-82ab-4c7f-9695-7c07022d2815",
     "nombre": "disney67e996",
+    "status": "13:40",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Sporting Lisboa vs. Olympique de Marseille",
+    "league": "UEFA Champions League",
+    "fecha-evento": "2025-10-22T13:40:00-05:00",
+    "img": "622700b5-923e-4d42-9505-2f1b43666f73",
+    "nombre": "disney746c20",
     "status": "13:40",
     "duration": 135,
     "play_url": ""
