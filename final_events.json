@@ -75,19 +75,6 @@
     "k2": "4b50cb11efcb34f88fcc0df7e8908c38"
   },
   {
-    "title": "Copenhagen vs. Borussia Dortmund",
-    "league": "UEFA Champions League",
-    "fecha-evento": "2025-10-21T13:40:00-05:00",
-    "img": "141621ab-5920-4d80-bf07-67e3a2a6830d",
-    "nombre": "disneye8f70e",
-    "status": "13:40",
-    "duration": 135,
-    "play_url": "https://www.disneyplus.com/es-es/play/bdfe7f33-d64b-4839-a4da-ce3f09ab54df",
-    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1761158798~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Ffad7477a-2557-4c86-93ad-97e682f108c9-1759410931367%2F~psid=f0d48a7d-28c3-48c1-beed-5ac46e2aabeb~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=a6a4e07b7cb2f586e3c6b20d354092e26f131aa2310598059d9224c8237365d5/clt1/va02/disneyplus/channel/fad7477a-2557-4c86-93ad-97e682f108c9-1759410931367/ctr-all-sliding-alt1.m3u8?v=1&hash=7e1f38fa10e5c323f70b6ce396c24a8618a30289",
-    "k1": "51ef9a8d529544578ed7c4de05d52eae",
-    "k2": "c2a2a3a49f8e76900e536cbd0b911077"
-  },
-  {
     "title": "PSV vs. Napoli",
     "league": "UEFA Champions League",
     "fecha-evento": "2025-10-21T13:40:00-05:00",
@@ -179,14 +166,30 @@
     "k2": "759a2d0e4bd71506a156a8e3d118ca12"
   },
   {
+    "title": "Copenhagen vs. Borussia Dortmund",
+    "league": "UEFA Champions League",
+    "fecha-evento": "2025-10-21T13:40:00-05:00",
+    "img": "141621ab-5920-4d80-bf07-67e3a2a6830d",
+    "nombre": "disneye8f70e",
+    "status": "13:40",
+    "duration": 135,
+    "play_url": "https://www.disneyplus.com/es-es/play/bdfe7f33-d64b-4839-a4da-ce3f09ab54df",
+    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1761158798~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Ffad7477a-2557-4c86-93ad-97e682f108c9-1759410931367%2F~psid=f0d48a7d-28c3-48c1-beed-5ac46e2aabeb~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=a6a4e07b7cb2f586e3c6b20d354092e26f131aa2310598059d9224c8237365d5/clt1/va02/disneyplus/channel/fad7477a-2557-4c86-93ad-97e682f108c9-1759410931367/ctr-all-sliding-alt1.m3u8?v=1&hash=7e1f38fa10e5c323f70b6ce396c24a8618a30289",
+    "k1": "51ef9a8d529544578ed7c4de05d52eae",
+    "k2": "c2a2a3a49f8e76900e536cbd0b911077"
+  },
+  {
     "title": "Bristol City vs. Southampton",
     "league": "Championship de Inglaterra",
-    "fecha-evento": "2025-10-21T13:50:00-05:00",
+    "fecha-evento": "2025-10-21T13:50:01-05:00",
     "img": "11f4c907-416d-4026-b16a-7e7c95c8b418",
-    "nombre": "disney287fb0",
+    "nombre": "disney237867",
     "status": "13:50",
-    "duration": 135,
-    "play_url": ""
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/ad1f3965-4ac2-41db-aca4-65b7ef72a8d9",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1761159618~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F21%2FBristol_City_vs_Southampt_20251021_1761065414037%2F~psid=d89a62e1-47ea-4702-b749-35e73634e66f~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=489b1b574eafaaff5b614bfc6b5c796bcc283741e80e63d1e50562c246b76ab1/clt1/va02/disneyplus/event/2025/10/21/Bristol_City_vs_Southampt_20251021_1761065414037/ctr-all-hdri-complete.m3u8?v=1&hash=178779d5634f323d70adca4d350ca9ea9bfbdc1b",
+    "k1": "9e312a79d917445184b11451d2b7de07",
+    "k2": "afce68db9eda7fb5dd8c8ff7d0a0001f"
   },
   {
     "title": "Unión de Santa Fe vs. Defensa y Justicia",
@@ -465,6 +468,16 @@
     "img": "5838a3fb-1457-4230-a4bf-d6ac4f752b21",
     "nombre": "disneyda9b21",
     "status": "08:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Jannik Sinner (ITA) vs. Daniel Altmaier (GER) (First Round)",
+    "league": "ATP",
+    "fecha-evento": "2025-10-22T10:30:00-05:00",
+    "img": "f5d7c938-e1da-4c72-81c8-b77e20b966d7",
+    "nombre": "disneybf27e3",
+    "status": "10:30",
     "duration": 135,
     "play_url": ""
   },
