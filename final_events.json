@@ -36,19 +36,6 @@
     "k2": "ccd60bbdaf05c0be8a9d001da90042fe"
   },
   {
-    "title": "Winnipeg Jets vs. Calgary Flames",
-    "league": "National Hockey League",
-    "fecha-evento": "2025-10-20T20:30:08-05:00",
-    "img": "db5ee9db-4ae5-46ef-a564-1b13be0add56",
-    "nombre": "disney81b71f",
-    "status": "20:30",
-    "duration": 210,
-    "play_url": "https://www.disneyplus.com/es-es/play/c87f9142-1a1c-4fc4-b167-a3f9369b79d8",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1761097307~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F21%2FWinnipeg_Jets_vs_Calgary__20251021_1761003011346%2F~psid=0ef1852f-173c-4b3c-b8af-b22b36a34441~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=7c4f224eb043557abb4d4a75a3457e955eda987184e6645b887bd986a1600090/clt1/va02/disneyplus/event/2025/10/21/Winnipeg_Jets_vs_Calgary__20251021_1761003011346/ctr-all-hdri-complete.m3u8?v=1&hash=051d563e0ff3f7a7022ae5491e44e76185897f5f",
-    "k1": "7be585821c74422ab073cddb58509fc9",
-    "k2": "99c85a7012a0fae5109f3cad35739c02"
-  },
-  {
     "title": "Carolina Hurricanes vs. Vegas Golden Knights",
     "league": "National Hockey League",
     "fecha-evento": "2025-10-20T20:57:53-05:00",
@@ -520,6 +507,26 @@
     "img": "546fcd1d-3dbf-4bf3-88c5-7a4fc1bee5e8",
     "nombre": "disney40cf66",
     "status": "07:10",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "FC Goa (IND) vs. Al Nassr (KSA)",
+    "league": "Asian Cup",
+    "fecha-evento": "2025-10-22T08:30:00-05:00",
+    "img": "d39c3127-be62-4648-9701-6c63ee4f9ab4",
+    "nombre": "disneyff9809",
+    "status": "08:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Bayern Munich vs. Club Brugge",
+    "league": "UEFA Youth League",
+    "fecha-evento": "2025-10-22T08:50:00-05:00",
+    "img": "5838a3fb-1457-4230-a4bf-d6ac4f752b21",
+    "nombre": "disneyda9b21",
+    "status": "08:50",
     "duration": 135,
     "play_url": ""
   }
