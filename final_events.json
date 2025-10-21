@@ -29,8 +29,11 @@
     "img": "705cf0dd-edb0-43aa-94fe-169f2e329bc6",
     "nombre": "disney4b70b3",
     "status": "17:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/2ef204c6-4982-40f2-b18e-d47e3e6b973e",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1761170420~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F21%2FUnin_de_Santa_Fe_vs_Defen_20251021_1761076855040%2F~psid=c6729730-8845-49bb-89f1-a957b7f8ab5c~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=bb7df00bf1cebff8753248f54b8dc0be380c1fd99affe1d59effae6d7062f80b/clt1/va02/disneyplus/event/2025/10/21/Unin_de_Santa_Fe_vs_Defen_20251021_1761076855040/ctr-all-hdri-complete.m3u8?v=1&hash=a690f87eefe09c0500c77d1de804566639af04f5",
+    "k1": "3e31b761065d4bbab4b26661bb78fafc",
+    "k2": "5f2a95d377652ace4912b5e4e3460091"
   },
   {
     "title": "New Jersey Devils vs. Toronto Maple Leafs",
@@ -123,21 +126,21 @@
     "play_url": ""
   },
   {
-    "title": "Anaheim Ducks vs. Nashville Predators",
-    "league": "National Hockey League",
-    "fecha-evento": "2025-10-21T19:00:00-05:00",
-    "img": "3baa3694-72ab-4c7d-bc11-c8ca40be6db6",
-    "nombre": "disney852e5d",
-    "status": "19:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Columbus Blue Jackets vs. Dallas Stars",
     "league": "National Hockey League",
     "fecha-evento": "2025-10-21T19:00:00-05:00",
     "img": "34b05ea3-4373-4526-841a-4c192789cc3b",
     "nombre": "disney1b41cd",
+    "status": "19:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Anaheim Ducks vs. Nashville Predators",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-10-21T19:00:00-05:00",
+    "img": "3baa3694-72ab-4c7d-bc11-c8ca40be6db6",
+    "nombre": "disney852e5d",
     "status": "19:00",
     "duration": 135,
     "play_url": ""
@@ -518,16 +521,6 @@
     "fecha-evento": "2025-10-22T19:00:00-05:00",
     "img": "0357d275-49b9-49e5-90e7-e8a3a1918c38",
     "nombre": "disney89ad32",
-    "status": "19:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Flamengo (BRA) vs. Racing Club (ARG) | Semifinal, ida",
-    "league": "CONMEBOL Libertadores",
-    "fecha-evento": "2025-10-22T19:00:00-05:00",
-    "img": "08c377ef-7d4c-4fe9-874b-76878bbc92fd",
-    "nombre": "disney805266",
     "status": "19:00",
     "duration": 135,
     "play_url": ""
