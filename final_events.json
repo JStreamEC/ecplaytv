@@ -36,32 +36,6 @@
     "k2": "ccd60bbdaf05c0be8a9d001da90042fe"
   },
   {
-    "title": "Carolina Hurricanes vs. Vegas Golden Knights",
-    "league": "National Hockey League",
-    "fecha-evento": "2025-10-20T20:57:53-05:00",
-    "img": "368a6819-4ddc-4588-8c30-be30d3ff8c49",
-    "nombre": "disney71a004",
-    "status": "20:57",
-    "duration": 212,
-    "play_url": "https://www.disneyplus.com/es-es/play/15b872bc-488c-486e-b055-15e1880f5aea",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1761099662~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F21%2FCarolina_Hurricanes_vs_Ve_20251021_1761004829036%2F~psid=45b3843b-fdfa-492e-a9e4-b4de959e80bb~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=a112b725fa8c8ff3b6300e6170c78f83927183848c1170a1932ab6401d39a188/clt1/va02/disneyplus/event/2025/10/21/Carolina_Hurricanes_vs_Ve_20251021_1761004829036/ctr-all-hdri-complete.m3u8?v=1&hash=cb73db2ef11ed5b0924ddba82f0934f68242d597",
-    "k1": "88db25b905f84c889246dc15f11bf71a",
-    "k2": "773f994318ae749775c16761c9a641f9"
-  },
-  {
-    "title": "Houston Texans vs. Seattle Seahawks",
-    "league": "NFL",
-    "fecha-evento": "2025-10-20T21:23:48-05:00",
-    "img": "3044a4fc-05fb-4d2b-8fe4-85bbe04fc605",
-    "nombre": "disney678102",
-    "status": "21:23",
-    "duration": 156,
-    "play_url": "https://www.disneyplus.com/es-es/play/f521ddd9-7db9-4be7-92f4-d62d9b8bde30",
-    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1761100819~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Ff25bdf06-81c9-4a7c-b128-3128d610ad17-1759409600195%2F~psid=877a9271-9054-4c01-bd65-64574de11162~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=f17b7e0e633285c83ebf67b1a08a6ab750d2faa03b73d974d0b9fe3ca39d2534/clt1/va02/disneyplus/channel/f25bdf06-81c9-4a7c-b128-3128d610ad17-1759409600195/ctr-all-sliding-alt1.m3u8?v=1&hash=4daaff4fdbe476e51bcd350032d73b0e9d85df99",
-    "k1": "82c32e0b20be4d5a84caeec340f0f62b",
-    "k2": "b11bfac8a2a24862d33703cafb556b69"
-  },
-  {
     "title": "Guangzhou Open / Court 2",
     "league": "WTA",
     "fecha-evento": "2025-10-20T22:00:02-05:00",
@@ -527,6 +501,36 @@
     "img": "5838a3fb-1457-4230-a4bf-d6ac4f752b21",
     "nombre": "disneyda9b21",
     "status": "08:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Athletic Club Bilbao vs. Qarabag",
+    "league": "UEFA Champions League",
+    "fecha-evento": "2025-10-22T11:30:00-05:00",
+    "img": "64e530a8-902e-4061-88d9-27cca2ef4ce8",
+    "nombre": "disney2ec025",
+    "status": "11:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Galatasaray vs. FK Bodø/Glimt",
+    "league": "UEFA Champions League",
+    "fecha-evento": "2025-10-22T11:30:00-05:00",
+    "img": "b569db38-dc69-47e1-8377-b7826308b221",
+    "nombre": "disney7cab1e",
+    "status": "11:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Konyaspor vs. Besiktas",
+    "league": "Super Lig de Turquía",
+    "fecha-evento": "2025-10-22T11:55:00-05:00",
+    "img": "0f9f977c-f0ea-4dbd-83df-a483b2962721",
+    "nombre": "disney0c8d54",
+    "status": "11:55",
     "duration": 135,
     "play_url": ""
   }
