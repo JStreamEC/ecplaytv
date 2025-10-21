@@ -10,19 +10,6 @@
     "play_url": ""
   },
   {
-    "title": "Costa do Sauipe Open (First Round)",
-    "league": "ATP",
-    "fecha-evento": "2025-10-21T13:00:00-05:00",
-    "img": "fd0ae8b6-8b45-420f-a646-1d6f06f87fd6",
-    "nombre": "disney804d1b",
-    "status": "13:00",
-    "duration": 360,
-    "play_url": "https://www.disneyplus.com/es-es/play/2fb85c0f-eb13-4412-93d4-6fc52a2da75c",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1761157220~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F21%2FCosta_do_Sauipe_Open_Firs_20251021_1761062455026%2F~psid=a1d4ff1f-7051-4043-8ab8-024552167a71~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=1b9c418d329656f702e02dbb63f6cc41bb2803835c94df5381460b0f0ebc5fdc/clt1/va02/disneyplus/event/2025/10/21/Costa_do_Sauipe_Open_Firs_20251021_1761062455026/ctr-all-hdri-complete.m3u8?v=1&hash=5f086dd156095f07486d1b14691bf64faaa8a850",
-    "k1": "3f53d7fd6e3b4c10a4bcb0482ae8fed0",
-    "k2": "75cc73eb5165665ba3ae24aad4912593"
-  },
-  {
     "title": "Unión de Santa Fe vs. Defensa y Justicia",
     "league": "Liga Profesional de Fútbol",
     "fecha-evento": "2025-10-21T17:00:00-05:00",
@@ -42,18 +29,24 @@
     "img": "f94f8ed3-72f0-473d-9bb1-db8d0b9de982",
     "nombre": "disney7b7579",
     "status": "17:30",
-    "duration": 135,
-    "play_url": ""
+    "duration": 240,
+    "play_url": "https://www.disneyplus.com/es-es/play/7c80f1e6-1fb1-4ef0-88d3-d49a5e4c7133",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1761172819~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F21%2FNew_Jersey_Devils_vs_Toro_20251021_1761078632026%2F~psid=aa4a91cd-b67d-4718-9de1-60400604fe44~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=51f3918b77c6fb74ddb36f5d1848e7d60e65edf54345f46d604547fe0461c9ae/clt1/va02/disneyplus/event/2025/10/21/New_Jersey_Devils_vs_Toro_20251021_1761078632026/ctr-all-hdri-complete.m3u8?v=1&hash=6f5ccb1cab42fef41bc9b1a586b268a382ccfc7e",
+    "k1": "7b0b51cd7b1347d0b0b7a3763323e286",
+    "k2": "1f91e04aa59178270085eaff6d8b2036"
   },
   {
     "title": "Portland Hearts of Pine vs. Spokane Velocity",
     "league": "USL League One",
-    "fecha-evento": "2025-10-21T17:30:00-05:00",
+    "fecha-evento": "2025-10-21T17:30:03-05:00",
     "img": "6b967527-82a4-4d98-903e-37cc0ae9f56c",
-    "nombre": "disney62f23f",
+    "nombre": "disney61f0a9",
     "status": "17:30",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/bb5ed955-e259-4b05-bbc4-5f2a8d94b941",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1761172862~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F21%2FPortland_Hearts_of_Pine_v_20251021_1761078614024%2F~psid=a409370e-fbd9-44e6-a556-849897a64c4e~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=ec6ed96ba6b8901a6224b5d0fcd9d2aece6cc368df4feb20665388da9cdb6e1c/clt1/va02/disneyplus/event/2025/10/21/Portland_Hearts_of_Pine_v_20251021_1761078614024/ctr-all-hdri-complete.m3u8?v=1&hash=162e6b9d4b509a6b52aaed646fbd653820244182",
+    "k1": "6688e8b34fb048c5b8771d54db0069bc",
+    "k2": "bf307b64fcfe97d3131c310372858227"
   },
   {
     "title": "Seattle Kraken vs. Washington Capitals",
@@ -521,6 +514,16 @@
     "fecha-evento": "2025-10-22T19:00:00-05:00",
     "img": "0357d275-49b9-49e5-90e7-e8a3a1918c38",
     "nombre": "disney89ad32",
+    "status": "19:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Flamengo (BRA) vs. Racing Club (ARG) | Semifinal, ida",
+    "league": "CONMEBOL Libertadores",
+    "fecha-evento": "2025-10-22T19:00:00-05:00",
+    "img": "08c377ef-7d4c-4fe9-874b-76878bbc92fd",
+    "nombre": "disney805266",
     "status": "19:00",
     "duration": 135,
     "play_url": ""
