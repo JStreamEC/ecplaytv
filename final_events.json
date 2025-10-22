@@ -10,19 +10,6 @@
     "play_url": ""
   },
   {
-    "title": "Australia vs. England",
-    "league": "ESPN",
-    "fecha-evento": "2025-10-22T04:00:10-05:00",
-    "img": "3f924cb0-3281-456f-a3ad-22f42fb18e6b",
-    "nombre": "disney3cfc9d",
-    "status": "04:00",
-    "duration": 450,
-    "play_url": "https://www.disneyplus.com/es-es/play/5d7efef2-0253-44ba-b79e-99f758a456ee",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1761235223~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F22%2FAustralia_vs_England_20251022_1761116459043%2F~psid=b263bb44-9dca-4929-a9ef-18dbf225dc99~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=3205c2986e84e591f3330f19208479dae07384a53bb1d8e080f4416fec66105c/clt1/va02/disneyplus/event/2025/10/22/Australia_vs_England_20251022_1761116459043/ctr-all-hdri-complete.m3u8?v=1&hash=73a9ba40304f92501b549953434d480e4b136dfd",
-    "k1": "c74fefb53a5b471abe97b1f999024119",
-    "k2": "6201e40ebf530763209a531ac49f9b97"
-  },
-  {
     "title": "Swiss Indoors Basel / IWB Court 1",
     "league": "ATP",
     "fecha-evento": "2025-10-22T05:01:00-05:00",
@@ -107,8 +94,11 @@
     "img": "fd0ae8b6-8b45-420f-a646-1d6f06f87fd6",
     "nombre": "disneyb6337d",
     "status": "11:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 480,
+    "play_url": "https://www.disneyplus.com/es-es/play/5db11064-5022-4d7a-8ad7-36a5c8f59140",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1761236421~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F22%2FCosta_do_Sauipe_Open_Roun_20251022_1761141618027%2F~psid=acfd8a2a-c02b-49cc-9d35-41a6ec1712b9~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=f823b5e122a08f3d72ecfb064be9f85fc19abc006a13ba0058439a1e0bf489f4/clt1/va02/disneyplus/event/2025/10/22/Costa_do_Sauipe_Open_Roun_20251022_1761141618027/ctr-all-hdri-complete.m3u8?v=1&hash=8ee06d4a71b4410fd0b241857f3de5a4f3e3ca22",
+    "k1": "15864c64533448b28702dcec98ca4f93",
+    "k2": "f9f43437fde64a98dbb152d6c5999c0c"
   },
   {
     "title": "Athletic Club Bilbao vs. Qarabag",
@@ -287,6 +277,16 @@
     "img": "f288a65d-56fc-4e3e-b242-f216c395fd1f",
     "nombre": "disney238eb3",
     "status": "18:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Detroit Red Wings vs. Buffalo Sabres",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-10-22T18:30:00-05:00",
+    "img": "89b5ffb4-0243-4977-abdc-c24084a23e3a",
+    "nombre": "disney42b6f5",
+    "status": "18:30",
     "duration": 135,
     "play_url": ""
   },
