@@ -10,32 +10,6 @@
     "play_url": ""
   },
   {
-    "title": "Swiss Indoors Basel (Second Round)",
-    "league": "ATP",
-    "fecha-evento": "2025-10-22T07:00:08-05:00",
-    "img": "00b4fe24-8965-4c4f-8059-2af6a2abf04d",
-    "nombre": "disney9e1277",
-    "status": "07:00",
-    "duration": 480,
-    "play_url": "https://www.disneyplus.com/es-es/play/42cbf403-92a3-4e4d-9dcc-963257daf66d",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1761235358~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F22%2FSwiss_Indoors_Basel_Secon_20251022_1761128674282%2F~psid=533afbef-9f13-4931-b33d-e38850aeb961~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=1851667fbfb44b2e397337ffeb188e9bfe3294e0596b32d9c645a4d38c8dce3b/clt1/va02/disneyplus/event/2025/10/22/Swiss_Indoors_Basel_Secon_20251022_1761128674282/ctr-all-hdri-complete.m3u8?v=1&hash=46a76ad9ba8c3be5a2a578511edf5dc3e3486492",
-    "k1": "3053ff27178f445d8905cb0e9eb29f76",
-    "k2": "0d44f0665ce8c657cf5aa634b84c86de"
-  },
-  {
-    "title": "Costa do Sauipe Open (Round of 16)",
-    "league": "ATP",
-    "fecha-evento": "2025-10-22T11:00:00-05:00",
-    "img": "fd0ae8b6-8b45-420f-a646-1d6f06f87fd6",
-    "nombre": "disneyb6337d",
-    "status": "11:00",
-    "duration": 480,
-    "play_url": "https://www.disneyplus.com/es-es/play/5db11064-5022-4d7a-8ad7-36a5c8f59140",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1761236421~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F22%2FCosta_do_Sauipe_Open_Roun_20251022_1761141618027%2F~psid=acfd8a2a-c02b-49cc-9d35-41a6ec1712b9~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=f823b5e122a08f3d72ecfb064be9f85fc19abc006a13ba0058439a1e0bf489f4/clt1/va02/disneyplus/event/2025/10/22/Costa_do_Sauipe_Open_Roun_20251022_1761141618027/ctr-all-hdri-complete.m3u8?v=1&hash=8ee06d4a71b4410fd0b241857f3de5a4f3e3ca22",
-    "k1": "15864c64533448b28702dcec98ca4f93",
-    "k2": "f9f43437fde64a98dbb152d6c5999c0c"
-  },
-  {
     "title": "Top 14 de Francia 2025/26 - Resumen Semanal",
     "league": "ESPN",
     "fecha-evento": "2025-10-22T17:00:00-05:00",
@@ -335,9 +309,19 @@
     "title": "Bank of Utah Championship: Theegala & Potgieter Featured Groups (First Round)",
     "league": "PGA TOUR",
     "fecha-evento": "2025-10-23T08:45:00-05:00",
-    "img": "48e80e33-eaaf-49e6-ae5e-652ac3a59b10",
+    "img": "019a0df9-6b99-770f-b21f-1a736a80b1f2",
     "nombre": "disneycc46e3",
     "status": "08:45",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Costa do Sauipe Open (Round of 16)",
+    "league": "ATP",
+    "fecha-evento": "2025-10-23T09:00:00-05:00",
+    "img": "fd0ae8b6-8b45-420f-a646-1d6f06f87fd6",
+    "nombre": "disney765c5b",
+    "status": "09:00",
     "duration": 135,
     "play_url": ""
   },
@@ -365,7 +349,7 @@
     "title": "Feyenoord vs. Panathinaikos",
     "league": "UEFA Europa League",
     "fecha-evento": "2025-10-23T11:30:00-05:00",
-    "img": "1348d078-b21e-49e7-8fe0-3b7d7395895e",
+    "img": "63f32729-b50e-4451-8f99-56d764086f9e",
     "nombre": "disneycc76e6",
     "status": "11:30",
     "duration": 135,
@@ -607,6 +591,26 @@
     "fecha-evento": "2025-10-23T13:50:00-05:00",
     "img": "1036e8da-c60c-43b2-be42-65984e7a8ef5",
     "nombre": "disney70b7f3",
+    "status": "13:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "AZ Alkmaar - Slovan Bratislava",
+    "league": "UEFA Conference League",
+    "fecha-evento": "2025-10-23T13:50:00-05:00",
+    "img": "1ca459f4-198c-4bf0-9cef-628ddad7f5d2",
+    "nombre": "disney54ee74",
+    "status": "13:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Young Boys - Ludogorets",
+    "league": "UEFA Europa League",
+    "fecha-evento": "2025-10-23T13:50:00-05:00",
+    "img": "19ee06ce-faa4-4c22-8eff-35fa47dcaa11",
+    "nombre": "disney18796f",
     "status": "13:50",
     "duration": 135,
     "play_url": ""
