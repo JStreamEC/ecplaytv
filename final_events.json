@@ -10,45 +10,6 @@
     "play_url": ""
   },
   {
-    "title": "Los Angeles Kings vs. St. Louis Blues",
-    "league": "National Hockey League",
-    "fecha-evento": "2025-10-21T19:00:09-05:00",
-    "img": "624840ce-6b8c-4801-b129-35dd4b7b6020",
-    "nombre": "disney28044a",
-    "status": "19:00",
-    "duration": 210,
-    "play_url": "https://www.disneyplus.com/es-es/play/0e5117c9-bc2f-43c6-b4ea-a52c21d0cbbb",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1761178862~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F22%2FLos_Angeles_Kings_vs_St_L_20251022_1761084050037%2F~psid=86620594-9cf6-4241-823a-99f203a78464~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=f8a61f1aaabe18fe0b00cb1bea64c058e914f16c4e0323fb837c438be17f5ea4/clt1/va02/disneyplus/event/2025/10/22/Los_Angeles_Kings_vs_St_L_20251022_1761084050037/ctr-all-hdri-complete.m3u8?v=1&hash=3e3bec2789b27663c94a10a1cbfc4c22ea42fa8d",
-    "k1": "82318e8182de41f1826d1368b3b2e1f7",
-    "k2": "52960106dc143206384be8be77fca14d"
-  },
-  {
-    "title": "Columbus Blue Jackets vs. Dallas Stars",
-    "league": "National Hockey League",
-    "fecha-evento": "2025-10-21T19:00:22-05:00",
-    "img": "34b05ea3-4373-4526-841a-4c192789cc3b",
-    "nombre": "disney1c39cc",
-    "status": "19:00",
-    "duration": 210,
-    "play_url": "https://www.disneyplus.com/es-es/play/78a4fa82-2020-4e4e-a1cf-e4dbb8ed638d",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1761178906~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F22%2FColumbus_Blue_Jackets_vs__20251022_1761085535820%2F~psid=d1aa098d-e14c-4fcd-b573-e891acd0ae83~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=f6e30dfe52af13d82f301bb94ef0c2882e269fa4f0d4a44ca5a65c30edd45704/clt1/va02/disneyplus/event/2025/10/22/Columbus_Blue_Jackets_vs__20251022_1761085535820/ctr-all-hdri-complete.m3u8?v=1&hash=9fee7775b4d38eb68353d10729dc9187707c4ede",
-    "k1": "41e91a964a8342faa725c933bcbe7ac4",
-    "k2": "9630b5ba040b329c1bfe658ef690d60d"
-  },
-  {
-    "title": "Anaheim Ducks vs. Nashville Predators",
-    "league": "National Hockey League",
-    "fecha-evento": "2025-10-21T19:00:11-05:00",
-    "img": "3baa3694-72ab-4c7d-bc11-c8ca40be6db6",
-    "nombre": "disneyc5d465",
-    "status": "19:00",
-    "duration": 210,
-    "play_url": "https://www.disneyplus.com/es-es/play/ff607a9c-ff74-4c1f-8e67-24d59e42648a",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1761178929~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F22%2FAnaheim_Ducks_vs_Nashvill_20251022_1761084046045%2F~psid=30f82fb2-72ab-45de-9b2c-beff969240bf~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=47853bedc92cfa35eab1e49eb67f87a230bfe61fa8364a099879e600a2a6cb0d/clt1/va02/disneyplus/event/2025/10/22/Anaheim_Ducks_vs_Nashvill_20251022_1761084046045/ctr-all-hdri-complete.m3u8?v=1&hash=50ebf11235af984abcda8ac0ffd558b1500c972c",
-    "k1": "9bd6844c5881456ea8c3d365218199a3",
-    "k2": "634b9958bbbb5ef19105d58cc74c9b8b"
-  },
-  {
     "title": "Toray Pan Pacific Open Tennis (Second Round)",
     "league": "WTA",
     "fecha-evento": "2025-10-21T20:30:00-05:00",
@@ -147,6 +108,16 @@
     "img": "096d4478-909a-4ebc-af9a-9708360935f6",
     "nombre": "disneye7c259",
     "status": "06:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Erste BankOpen 500 (Second Round)",
+    "league": "ATP",
+    "fecha-evento": "2025-10-22T06:30:00-05:00",
+    "img": "0b31831d-8330-4be8-864d-3d281a1979a1",
+    "nombre": "disney08887a",
+    "status": "06:30",
     "duration": 135,
     "play_url": ""
   },
@@ -531,12 +502,42 @@
     "play_url": ""
   },
   {
-    "title": "Erste BankOpen 500 (Second Round)",
+    "title": "Swiss Indoors Basel (Third Round)",
     "league": "ATP",
-    "fecha-evento": "2025-10-23T05:00:00-05:00",
-    "img": "0b31831d-8330-4be8-864d-3d281a1979a1",
-    "nombre": "disneya9fa7f",
-    "status": "05:00",
+    "fecha-evento": "2025-10-23T07:00:00-05:00",
+    "img": "0515ade5-9b39-4d06-a3ad-0183fa533d78",
+    "nombre": "disney8dc306",
+    "status": "07:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Erste BankOpen 500 / Fairplay Court (Doubles)",
+    "league": "ATP",
+    "fecha-evento": "2025-10-23T08:00:00-05:00",
+    "img": "015b9666-e91c-4735-bf55-396ae9189b01",
+    "nombre": "disneye02221",
+    "status": "08:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "La Ensenada II vs. La Ensenada III | Torneo Clasificatorio a Palermo (Fecha #5)",
+    "league": "Abierto de Palermo",
+    "fecha-evento": "2025-10-23T08:25:00-05:00",
+    "img": "db8ae6b9-18bb-4779-86b2-5946433ec82a",
+    "nombre": "disney4146b3",
+    "status": "08:25",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Bank of Utah Championship: Featured Groups (First Round)",
+    "league": "PGA TOUR",
+    "fecha-evento": "2025-10-23T09:00:00-05:00",
+    "img": "48e80e33-eaaf-49e6-ae5e-652ac3a59b10",
+    "nombre": "disney156859",
+    "status": "09:00",
     "duration": 135,
     "play_url": ""
   }
