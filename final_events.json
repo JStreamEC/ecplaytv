@@ -10,19 +10,6 @@
     "play_url": ""
   },
   {
-    "title": "New Jersey Devils vs. Toronto Maple Leafs",
-    "league": "National Hockey League",
-    "fecha-evento": "2025-10-21T18:00:00-05:00",
-    "img": "f94f8ed3-72f0-473d-9bb1-db8d0b9de982",
-    "nombre": "disney08076e",
-    "status": "18:00",
-    "duration": 330,
-    "play_url": "https://www.disneyplus.com/es-es/play/72419570-73df-4f44-b279-a682cf17934b",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1761178818~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F21%2FNew_Jersey_Devils_vs_Toro_20251021_1761086750404%2F~psid=bf539cb0-7409-4f86-a3c7-955c03f3935b~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=3603b45ae045eb1790b0ed74864942eef0360f4896dde87aa0834002146ff898/clt1/va02/disneyplus/event/2025/10/21/New_Jersey_Devils_vs_Toro_20251021_1761086750404/ctr-all-hdri-complete.m3u8?v=1&hash=e48ff3548fa4473ffc9079416810e04726095ae6",
-    "k1": "6ed16197dfb748ea9fecf1c50d20e25b",
-    "k2": "361b502303129269572b611a7397c388"
-  },
-  {
     "title": "Kennesaw State vs. Florida International",
     "league": "Fútbol Americano NCAA",
     "fecha-evento": "2025-10-21T18:00:03-05:00",
@@ -116,12 +103,15 @@
   {
     "title": "CS Cartaginés vs. FC Motagua (Play-In, Leg 1)",
     "league": "Concacaf Central American Cup",
-    "fecha-evento": "2025-10-21T20:50:00-05:00",
+    "fecha-evento": "2025-10-21T20:50:01-05:00",
     "img": "636a0f14-951c-43be-9d39-c77b738a2d1a",
-    "nombre": "disney106e4e",
+    "nombre": "disneyb74d15",
     "status": "20:50",
-    "duration": 135,
-    "play_url": ""
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/f5ffdc8e-f084-45ba-b9a9-7e69dbe9ab8a",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1761184820~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F22%2FCS_Cartagins_vs_FC_Motagu_20251022_1761090659027%2F~psid=7da24bf4-6115-4d64-b639-a425fa38b920~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=f2c368205d23a2dd1813e2d83794678faf00e79e3c4384258ffa399a1a85535e/clt1/va02/disneyplus/event/2025/10/22/CS_Cartagins_vs_FC_Motagu_20251022_1761090659027/ctr-all-hdri-complete.m3u8?v=1&hash=aa49a9f5d1d5300944e068ab547e2797f20b35e8",
+    "k1": "02f53ab473424d2282e51f5829692145",
+    "k2": "6fd9b83cea214ec5a69493d92fd49d53"
   },
   {
     "title": "Toray Pan Pacific Open Tennis / Show Court (Doubles)",
@@ -560,6 +550,16 @@
     "img": "607b3482-1a9d-4376-98e7-65620c4f1d65",
     "nombre": "disney083310",
     "status": "00:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "2025 Asia-Pacific Amateur Championship (First Round)",
+    "league": "ESPN",
+    "fecha-evento": "2025-10-23T04:00:00-05:00",
+    "img": "045513e0-c10a-4e79-8082-321237128f46",
+    "nombre": "disney167852",
+    "status": "04:00",
     "duration": 135,
     "play_url": ""
   }
