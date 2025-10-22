@@ -62,24 +62,30 @@
     "k2": "055285bb502f5a09415485fb2ce574a2"
   },
   {
-    "title": "Detroit Red Wings vs. Buffalo Sabres",
-    "league": "National Hockey League",
-    "fecha-evento": "2025-10-22T18:30:00-05:00",
-    "img": "89b5ffb4-0243-4977-abdc-c24084a23e3a",
-    "nombre": "disney42b6f5",
-    "status": "18:30",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Middle Tennessee vs. Delaware",
     "league": "Fútbol Americano NCAA",
     "fecha-evento": "2025-10-22T18:30:00-05:00",
     "img": "63be7883-6f1f-4b18-be41-4e3a1ca6bbc1",
     "nombre": "disneyc31996",
     "status": "18:30",
-    "duration": 135,
-    "play_url": ""
+    "duration": 180,
+    "play_url": "https://www.disneyplus.com/es-es/play/61894817-f83f-4bf7-bc0d-f91e2d37b566",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1761262822~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F22%2FMiddle_Tennessee_vs_Delaw_20251022_1761168636024%2F~psid=46852391-ac00-470e-a7f5-912b52ffb860~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=7a4eaecb0e12a1d67d7f8d4e1a89a6d9875f7b0387bd8736891fe264160e616f/clt1/va02/disneyplus/event/2025/10/22/Middle_Tennessee_vs_Delaw_20251022_1761168636024/ctr-all-hdri-complete.m3u8?v=1&hash=fa284ac6cdd8b48d359d2ac799e8c444287f3eac",
+    "k1": "2be9613e99804aa2b983f1125a01581f",
+    "k2": "570bdd8066222d83603e523d5c362f50"
+  },
+  {
+    "title": "Detroit Red Wings vs. Buffalo Sabres",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-10-22T18:30:25-05:00",
+    "img": "89b5ffb4-0243-4977-abdc-c24084a23e3a",
+    "nombre": "disney7c5482",
+    "status": "18:30",
+    "duration": 210,
+    "play_url": "https://www.disneyplus.com/es-es/play/5bd7023a-59d6-468a-975a-e6f1cfbb807a",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1761262866~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F22%2FDetroit_Red_Wings_vs_Buff_20251022_1761171814814%2F~psid=77f47917-ea01-47e4-bcd4-f0d6743640d3~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=e443693717824b57a36f275a592a732607ab70d49c94e27dfe1d4ca9f2f1fde0/clt1/va02/disneyplus/event/2025/10/22/Detroit_Red_Wings_vs_Buff_20251022_1761171814814/ctr-all-hdri-complete.m3u8?v=1&hash=309d81448d550e1833c54459bbd97acc423f0787",
+    "k1": "d81dfc2952c8414cbc129a4caaf5dd56",
+    "k2": "3f2021a03c21c140fc6d63d1a3e73dcb"
   },
   {
     "title": "Sporting San Miguelito vs. CD Plaza Amador (Play-In, Leg 1)",
