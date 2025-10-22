@@ -10,19 +10,6 @@
     "play_url": ""
   },
   {
-    "title": "Kennesaw State vs. Florida International",
-    "league": "Fútbol Americano NCAA",
-    "fecha-evento": "2025-10-21T18:00:03-05:00",
-    "img": "dc4d316a-43f6-40cc-a527-107bba46d4ec",
-    "nombre": "disney46603f",
-    "status": "18:00",
-    "duration": 180,
-    "play_url": "https://www.disneyplus.com/es-es/play/30ca7772-c96f-4522-9226-9dcf70a0c86b",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1761175330~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F21%2FKennesaw_State_vs_Florida_20251021_1761080409024%2F~psid=7fd2a78b-a0bc-4dc5-860d-8884e005abb1~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=a46c9cac8d6770dbca4e0b6a75b13c142caaf6efeab75b10bf50f404f19ab6b8/clt1/va02/disneyplus/event/2025/10/21/Kennesaw_State_vs_Florida_20251021_1761080409024/ctr-all-hdri-complete.m3u8?v=1&hash=854694572b9f14b39635caa21d5ccfff8912dc5b",
-    "k1": "b75aaeae30604e36b9c9f8934b6ff753",
-    "k2": "b9da6c1e383589d30499a36287eda2cf"
-  },
-  {
     "title": "Los Angeles Kings vs. St. Louis Blues",
     "league": "National Hockey League",
     "fecha-evento": "2025-10-21T19:00:09-05:00",
@@ -160,16 +147,6 @@
     "img": "096d4478-909a-4ebc-af9a-9708360935f6",
     "nombre": "disneye7c259",
     "status": "06:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Erste BankOpen 500 (Second Round)",
-    "league": "ATP",
-    "fecha-evento": "2025-10-22T06:30:00-05:00",
-    "img": "0b31831d-8330-4be8-864d-3d281a1979a1",
-    "nombre": "disney08887a",
-    "status": "06:30",
     "duration": 135,
     "play_url": ""
   },
@@ -550,6 +527,16 @@
     "img": "3f924cb0-3281-456f-a3ad-22f42fb18e6b",
     "nombre": "disneyc1eb35",
     "status": "04:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Erste BankOpen 500 (Second Round)",
+    "league": "ATP",
+    "fecha-evento": "2025-10-23T05:00:00-05:00",
+    "img": "0b31831d-8330-4be8-864d-3d281a1979a1",
+    "nombre": "disneya9fa7f",
+    "status": "05:00",
     "duration": 135,
     "play_url": ""
   }
