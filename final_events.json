@@ -88,19 +88,6 @@
     "k2": "44b7fa1dc56fd49d6c9dbcab0774b572"
   },
   {
-    "title": "La Ensenada II vs. La Ensenada III | Torneo Clasificatorio a Palermo (Fecha #5)",
-    "league": "Abierto de Palermo",
-    "fecha-evento": "2025-10-23T08:25:02-05:00",
-    "img": "d9559211-478e-4c19-bf2a-61f4c2b5d393",
-    "nombre": "disney4e9632",
-    "status": "08:25",
-    "duration": 125,
-    "play_url": "https://www.disneyplus.com/es-es/play/852a7a5e-caa7-47ee-8a84-c8f1bf865173",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1761318203~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F23%2FLa_Ensenada_II_vs_La_Ense_20251023_1761218733027%2F~psid=b00b1851-4399-4c72-9240-27baba96ed8c~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=45a219ba2067cd036a33cc1d93187ea5ba41270997f5bec59e5786a2bae79e99/clt1/va02/disneyplus/event/2025/10/23/La_Ensenada_II_vs_La_Ense_20251023_1761218733027/ctr-all-hdri-complete.m3u8?v=1&hash=60b6d021b1abb8607cbfc723352c02c23658a288",
-    "k1": "5a95d859c35f48af8cc7a7f399ae275a",
-    "k2": "541011f964c5300d5b60c44857a1928f"
-  },
-  {
     "title": "Bank of Utah Championship: Theegala & Potgieter Featured Groups (First Round)",
     "league": "PGA TOUR",
     "fecha-evento": "2025-10-23T08:45:00-05:00",
@@ -143,8 +130,11 @@
     "img": "82bbeb2f-68b8-4c34-9abb-3e034f2fbfb5",
     "nombre": "disney67d8c5",
     "status": "10:30",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/3880cbef-6b9f-4904-b8b2-f2af80b34aaf",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1761320419~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F23%2FJannik_Sinner_ITA_vs_Flav_20251023_1761226232051%2F~psid=54cb18b5-e41d-4150-be37-6aee150196aa~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=f30aed23fb8a7a1eec312d7b72bc032a767adeb6d01e80fc2d63892edbe5afc4/clt1/va02/disneyplus/event/2025/10/23/Jannik_Sinner_ITA_vs_Flav_20251023_1761226232051/ctr-all-hdri-complete.m3u8?v=1&hash=f997debbd3b7fa2efd78f71360e12daed5fab01d",
+    "k1": "be66fe2a8dde4601b14926373d82ab37",
+    "k2": "fdf9da0ed0bd8afc76d0c02e29cf88ed"
   },
   {
     "title": "La Dolfina II vs. La Irenita II | Torneo Clasificatorio a Palermo (Fecha #5)",
@@ -642,6 +632,16 @@
     "fecha-evento": "2025-10-23T18:00:00-05:00",
     "img": "b088fdd9-0a6b-4a18-a504-745f38189716",
     "nombre": "disney14b853",
+    "status": "18:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Philadelphia Flyers vs. Ottawa Senators",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-10-23T18:00:00-05:00",
+    "img": "0b1e1e8f-71b3-4645-9a2a-7bb450f93b03",
+    "nombre": "disney8f731f",
     "status": "18:00",
     "duration": 135,
     "play_url": ""
