@@ -23,19 +23,6 @@
     "k2": "13b30802206b09efe68ac5b8a2ddf07d"
   },
   {
-    "title": "Arkansas vs. Auburn",
-    "league": "NCAA Women's Volleyball",
-    "fecha-evento": "2025-10-22T18:00:21-05:00",
-    "img": "f288a65d-56fc-4e3e-b242-f216c395fd1f",
-    "nombre": "disneyc8b01d",
-    "status": "18:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/c599c03c-271b-47d3-8c23-e070caaebdbf",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1761261709~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F22%2FArkansas_vs_Auburn_20251022_1761167317962%2F~psid=82073b2c-1509-435d-abe3-9d4865a2ec31~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=3fd68dff9716f5116c427695fe14a489850b76c600356f87b8244da22432d3f2/clt1/va02/disneyplus/event/2025/10/22/Arkansas_vs_Auburn_20251022_1761167317962/ctr-all-hdri-complete.m3u8?v=1&hash=f72644c52afa9a3ecabc22fc36ea401bd262a679",
-    "k1": "3d9f1612ed8c4f02b440cfaf06437fbc",
-    "k2": "055285bb502f5a09415485fb2ce574a2"
-  },
-  {
     "title": "Middle Tennessee vs. Delaware",
     "league": "Fútbol Americano NCAA",
     "fecha-evento": "2025-10-22T18:30:00-05:00",
@@ -103,18 +90,21 @@
   {
     "title": "Santa Clara vs. Gonzaga",
     "league": "Fútbol Femenino NCAA",
-    "fecha-evento": "2025-10-22T20:00:00-05:00",
+    "fecha-evento": "2025-10-22T20:00:09-05:00",
     "img": "401905be-e998-400c-8d98-4921935c6c0e",
-    "nombre": "disney99c01f",
+    "nombre": "disney6821c2",
     "status": "20:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/34a28663-349e-4f09-8a2e-1530317b9250",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1761268819~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F23%2FSanta_Clara_vs_Gonzaga_20251023_1761174033023%2F~psid=06145e07-b499-43f8-8cca-e7459491dad0~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=0c71c65440358700210c290a02c520b41238c739fbe8312ff026fe13457ff763/clt1/va02/disneyplus/event/2025/10/23/Santa_Clara_vs_Gonzaga_20251023_1761174033023/ctr-all-hdri-complete.m3u8?v=1&hash=01c36f0540f95eeb556cb013be30455fd327d199",
+    "k1": "6d5f5c3aa67843589dbb7b440126f0d5",
+    "k2": "7f7ffeb5cee7f3c1a64d5af7211297ff"
   },
   {
     "title": "Toray Pan Pacific Open Tennis (Second Round)",
     "league": "WTA",
     "fecha-evento": "2025-10-22T20:30:00-05:00",
-    "img": "18858e5f-db41-4845-981e-e5419cd1230c",
+    "img": "95d57dea-74d1-420c-9d5b-abf6e71cfbd7",
     "nombre": "disneyf608e1",
     "status": "20:30",
     "duration": 135,
@@ -154,7 +144,7 @@
     "title": "Toray Pan Pacific Open Tennis / Show Court (Doubles Quarterfinals)",
     "league": "WTA",
     "fecha-evento": "2025-10-22T21:00:00-05:00",
-    "img": "0e9e6762-bf5a-4afc-bdfd-d5fae9fbdd82",
+    "img": "1eb0ff86-722c-4213-8458-d9b64db88cc9",
     "nombre": "disneyc51a53",
     "status": "21:00",
     "duration": 135,
@@ -636,6 +626,16 @@
     "fecha-evento": "2025-10-23T13:50:00-05:00",
     "img": "092489aa-8cb2-4bef-9736-db9cc08bd088",
     "nombre": "disney5df09e",
+    "status": "13:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Lincoln Red Imps vs. Lech Poznan",
+    "league": "UEFA Conference League",
+    "fecha-evento": "2025-10-23T13:50:00-05:00",
+    "img": "4ac3266c-a18f-4619-a21c-278a433d700c",
+    "nombre": "disneyb12aa8",
     "status": "13:50",
     "duration": 135,
     "play_url": ""
