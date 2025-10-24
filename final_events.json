@@ -40,26 +40,6 @@
     "play_url": "https://www.disneyplus.com/es-es/play/13b692e6-1237-4fe5-8473-f7ea8b246f03"
   },
   {
-    "title": "#4 Cornell vs. Harvard",
-    "league": "NCAA Women's Hockey",
-    "fecha-evento": "2025-10-24T16:00:04-05:00",
-    "img": "25d51bf0-e2ba-44e2-a56a-c0279f48b0f1",
-    "nombre": "disneyc256fc",
-    "status": "16:00",
-    "duration": 150,
-    "play_url": "https://www.disneyplus.com/es-es/play/9b7d274f-ef92-4f19-8b58-cf020c08faab"
-  },
-  {
-    "title": "F1 - GP México - Prácticas #2",
-    "league": "Fórmula 1",
-    "fecha-evento": "2025-10-24T16:30:01-05:00",
-    "img": "6bed2823-5a75-4c47-abe5-505dd8e89a22",
-    "nombre": "disney9db081",
-    "status": "16:30",
-    "duration": 115,
-    "play_url": "https://www.disneyplus.com/es-es/play/a1786b4e-8bbf-44dd-9d7b-6bce3464d544"
-  },
-  {
     "title": "Columbia vs. Dartmouth",
     "league": "Fútbol Americano NCAA",
     "fecha-evento": "2025-10-24T17:00:04-05:00",
@@ -160,14 +140,17 @@
     "play_url": "https://www.disneyplus.com/es-es/play/ecf2dac7-e527-437d-a3a8-38f2c5fb5f7f"
   },
   {
-    "title": "Compacto | F1 GP México | Práctica 2 (3 min)",
-    "league": "Fórmula 1",
+    "title": "California vs. Virginia Tech",
+    "league": "Fútbol Americano NCAA",
     "fecha-evento": "2025-10-24T18:30:00-05:00",
-    "img": "32b10095-0c9b-4020-9b25-5a26f29a0e4b",
-    "nombre": "disneyee194a",
+    "img": "0f9bf5b0-83a6-454e-9c7a-62816fbb42ef",
+    "nombre": "disney967f3c",
     "status": "18:30",
-    "duration": 135,
-    "play_url": ""
+    "duration": 180,
+    "play_url": "https://www.disneyplus.com/es-es/play/fa8de4e9-c872-4e4a-b098-e354ef4139b7",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1761435964~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F24%2FCalifornia_vs_Virginia_Te_20251024_1761341450035%2F~psid=6ec48dd0-e653-406c-9afd-982d99d2d909~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=1ec9c5cc95eb07dc4367513b2e823ba2d17e6f06a26e41e62f7bd285ee7dd7bf/clt1/va02/disneyplus/event/2025/10/24/California_vs_Virginia_Te_20251024_1761341450035/ctr-all-hdri-complete.m3u8?v=1&hash=abaf4f9f213b6c5a4ca6c3a10491364a41f10d55",
+    "k1": "ec93edb1052e42298ae80c6efedfdec1",
+    "k2": "b4f68c039b3a57c4791fa019645c4e2a"
   },
   {
     "title": "Kansas vs. Louisville",
@@ -176,18 +159,11 @@
     "img": "b09be93a-6260-43d1-b6b1-fe637225ffb0",
     "nombre": "disneyd96ae2",
     "status": "18:30",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "California vs. Virginia Tech",
-    "league": "Fútbol Americano NCAA",
-    "fecha-evento": "2025-10-24T18:30:00-05:00",
-    "img": "0f9bf5b0-83a6-454e-9c7a-62816fbb42ef",
-    "nombre": "disney967f3c",
-    "status": "18:30",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/bb7aafc1-a9d6-42a9-8eb2-d61043ea5f0b",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1761435988~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F24%2FKansas_vs_Louisville_20251024_1761342195539%2F~psid=af80f130-a888-4c4c-a7e1-221e1780b512~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=e95274ffca84886d63576bf502474b0334653938eb357873594be61e50463668/clt1/va02/disneyplus/event/2025/10/24/Kansas_vs_Louisville_20251024_1761342195539/ctr-all-hdri-complete.m3u8?v=1&hash=ea43ac138d935303d882fa69d04c78f8ed250e44",
+    "k1": "81307faf0a104eb19bef1acdbadc82c2",
+    "k2": "06d1920a75b05bb5c673c3a29842bb95"
   },
   {
     "title": "MLB Watch Party Serie Mundial, Juego 1",
@@ -585,6 +561,36 @@
     "fecha-evento": "2025-10-25T08:20:00-05:00",
     "img": "3f715d5c-4006-475c-8324-27c9212c339f",
     "nombre": "disney8fc8fa",
+    "status": "08:20",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Eintracht Frankfurt vs. St. Pauli",
+    "league": "Bundesliga",
+    "fecha-evento": "2025-10-25T08:20:00-05:00",
+    "img": "2691ac71-b9df-4386-bada-c6e0b08d924f",
+    "nombre": "disneyfb5df0",
+    "status": "08:20",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Augsburg vs. RB Leipzig",
+    "league": "Bundesliga",
+    "fecha-evento": "2025-10-25T08:20:00-05:00",
+    "img": "eaa0240f-8dae-49aa-8f42-573143edfa25",
+    "nombre": "disney5e2aef",
+    "status": "08:20",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Hoffenheim vs. 1. FC Heidenheim 1846",
+    "league": "Bundesliga",
+    "fecha-evento": "2025-10-25T08:20:00-05:00",
+    "img": "ad6cd693-82a3-4f3d-8a89-80f433c2d75e",
+    "nombre": "disneyd9a8f7",
     "status": "08:20",
     "duration": 135,
     "play_url": ""
