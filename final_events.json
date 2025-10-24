@@ -88,19 +88,6 @@
     "k2": "3f8008b20ca2175196fee565b74dd1a8"
   },
   {
-    "title": "Kansas State vs. Houston",
-    "league": "Fútbol Femenino NCAA",
-    "fecha-evento": "2025-10-23T19:00:03-05:00",
-    "img": "070a3402-702e-4f37-9f11-3ad140aeb047",
-    "nombre": "disneydeb35e",
-    "status": "19:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/bd0d5dd4-22c9-405d-860a-7b782a4bd8fc",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1761351756~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F24%2FKansas_State_vs_Houston_20251024_1761256845046%2F~psid=6c24306f-8a2d-4544-a64a-082aef21918d~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=455f34b026f4a34dcd485806d5e918215fd0ffd74b3a9d6db85a981e521a79da/clt1/va02/disneyplus/event/2025/10/24/Kansas_State_vs_Houston_20251024_1761256845046/ctr-all-hdri-complete.m3u8?v=1&hash=7f53a62cfd0a4ed3a8f1891759522faead071ec0",
-    "k1": "5643a69b55d443f0800abd35a5053c91",
-    "k2": "66ad00a03c959581eb9deb38a52fae47"
-  },
-  {
     "title": "Liga de Quito (ECU) vs. Palmeiras (BRA) (Semifinal - Ida)",
     "league": "CONMEBOL Libertadores",
     "fecha-evento": "2025-10-23T19:12:00-05:00",
@@ -138,19 +125,6 @@
     "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1761355220~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F24%2FCarolina_Hurricanes_vs_Co_20251024_1761260409509%2F~psid=837bd56c-8eab-4207-a955-dc4deadee421~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=47793fec2c27f28f468380ea68231a9fae8d2953b1cfd3d784c4e457b5cf9cab/clt1/va02/disneyplus/event/2025/10/24/Carolina_Hurricanes_vs_Co_20251024_1761260409509/ctr-all-hdri-complete.m3u8?v=1&hash=eedb2a4a68bd0be2a1ed3efa3d27a42129187b63",
     "k1": "383c0fec256b4b88a21658c50f8819b2",
     "k2": "7c72e84c42c1d7d67175144e0a1f314a"
-  },
-  {
-    "title": "Petronas Grand Prix of Malaysia - Free Practice 1 (Moto3)",
-    "league": "MotoGP",
-    "fecha-evento": "2025-10-23T19:55:10-05:00",
-    "img": "01615a1b-ce4d-4a88-9148-4c1905d569a8",
-    "nombre": "disney9ac9fc",
-    "status": "19:55",
-    "duration": 45,
-    "play_url": "https://www.disneyplus.com/es-es/play/aa68edb1-3020-44f0-bd0f-aa76dd1f79f2",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1761354021~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F24%2FPetronas_Grand_Prix_of_Ma_20251024_1761260155048%2F~psid=726fc238-6cd1-4082-9e53-24930c805d54~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=42ef40e7e8c23db0d53a53313ea7234acd0230e33eedd33320f38af6c67eb488/clt1/va02/disneyplus/event/2025/10/24/Petronas_Grand_Prix_of_Ma_20251024_1761260155048/ctr-all-hdri-complete.m3u8?v=1&hash=83822a00f4fbc82fede86813831fd1d5280fc716",
-    "k1": "3e3f71b5fff846d28a42f9c4e1c2e11f",
-    "k2": "37200d9e386abd436b8229eef50721a7"
   },
   {
     "title": "Los Angeles Kings vs. Dallas Stars",
@@ -413,22 +387,22 @@
     "play_url": ""
   },
   {
-    "title": "Bank of Utah Championship: Horschel & Homa Featured Groups (Second Round)",
-    "league": "PGA TOUR",
-    "fecha-evento": "2025-10-24T08:45:00-05:00",
-    "img": "019a12ff-13eb-7aff-94ee-72aa92d861bc",
-    "nombre": "disney27a1d1",
-    "status": "08:45",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "HNK Rijeka vs. Sparta Praga",
     "league": "UEFA Conference League",
     "fecha-evento": "2025-10-24T08:50:00-05:00",
     "img": "e7c9e09b-14e5-4bc6-ae4d-b310a423d3c1",
     "nombre": "disney1fc364",
     "status": "08:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Bank of Utah Championship: Horschel & Homa Featured Groups (Second Round)",
+    "league": "PGA TOUR",
+    "fecha-evento": "2025-10-24T09:00:00-05:00",
+    "img": "019a12ff-13eb-7aff-94ee-72aa92d861bc",
+    "nombre": "disneyfa7f55",
+    "status": "09:00",
     "duration": 135,
     "play_url": ""
   },
@@ -659,6 +633,26 @@
     "img": "66e11ff0-fa49-4e5d-9158-d826da9688b9",
     "nombre": "disneyab6201",
     "status": "16:55",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Loyola Marymount vs. Santa Clara",
+    "league": "NCAA Men's Water Polo",
+    "fecha-evento": "2025-10-24T16:40:00-05:00",
+    "img": "78b13d22-e497-45a5-ba4a-23f0ed36de3d",
+    "nombre": "disney9b4504",
+    "status": "16:40",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "#1 Purdue vs. #9 Kentucky",
+    "league": "Básquetbol Masculino NCAA",
+    "fecha-evento": "2025-10-24T17:00:00-05:00",
+    "img": "41982fd9-fd2f-465a-943d-bc88c6705b69",
+    "nombre": "disney1d86e7",
+    "status": "17:00",
     "duration": 135,
     "play_url": ""
   }
