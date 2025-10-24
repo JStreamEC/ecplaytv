@@ -192,19 +192,6 @@
     "k2": "111f85216beaae2b485f0c1057d23a05"
   },
   {
-    "title": "Petronas Grand Prix of Malaysia - Free Practice 1 (Moto2)",
-    "league": "MotoGP",
-    "fecha-evento": "2025-10-23T20:40:00-05:00",
-    "img": "f9ac8018-28fe-4c74-b317-c17a4110b13c",
-    "nombre": "disney16b52f",
-    "status": "20:40",
-    "duration": 55,
-    "play_url": "https://www.disneyplus.com/es-es/play/135582da-e9e0-4eef-a87a-ccd15017e5ee",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1761356464~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F24%2FPetronas_Grand_Prix_of_Ma_20251024_1761262855040%2F~psid=f518c303-b215-4d59-9629-1801a211f04b~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=21274caed78b6c873da4c2ac3bb88e2f7c2b3b89cbbf2c005a14092416eaec0e/clt1/va02/disneyplus/event/2025/10/24/Petronas_Grand_Prix_of_Ma_20251024_1761262855040/ctr-all-hdri-complete.m3u8?v=1&hash=44e5951a4199d4aefca538cecea5451324d9d5b8",
-    "k1": "8ba604f5431f4f60a98832619063c81f",
-    "k2": "fab4625f0f3cd794315166a1eec9db02"
-  },
-  {
     "title": "LD Alajuelense vs. CD Olimpia (Semifinals, Leg 1)",
     "league": "Concacaf Central American Cup",
     "fecha-evento": "2025-10-23T20:50:02-05:00",
@@ -397,6 +384,16 @@
     "play_url": ""
   },
   {
+    "title": "Costa do Sauípe Open (Quarterfinals)",
+    "league": "ESPN",
+    "fecha-evento": "2025-10-24T10:00:00-05:00",
+    "img": "fd0ae8b6-8b45-420f-a646-1d6f06f87fd6",
+    "nombre": "disneyceb2e8",
+    "status": "10:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
     "title": "ATP 500: Basel & Vienna (Quarterfinals)",
     "league": "ATP",
     "fecha-evento": "2025-10-24T10:30:00-05:00",
@@ -443,16 +440,6 @@
     "img": "56d843f2-eaaa-47c6-b4f3-79c5718c8d45",
     "nombre": "disney6990dd",
     "status": "12:45",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Costa do Sauípe Open (Quarterfinals)",
-    "league": "ATP",
-    "fecha-evento": "2025-10-24T13:00:00-05:00",
-    "img": "fd0ae8b6-8b45-420f-a646-1d6f06f87fd6",
-    "nombre": "disney7bd3d3",
-    "status": "13:00",
     "duration": 135,
     "play_url": ""
   },
@@ -652,6 +639,16 @@
     "fecha-evento": "2025-10-24T17:00:00-05:00",
     "img": "1d96f160-797f-4a7a-9e77-1b7d3c745335",
     "nombre": "disney050d8a",
+    "status": "17:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "F1 GP México, práctica #2 | Cámara On Board",
+    "league": "Fórmula 1",
+    "fecha-evento": "2025-10-24T17:00:00-05:00",
+    "img": "f277f930-7920-49c6-9dc5-0f428f216f79",
+    "nombre": "disney564f89",
     "status": "17:00",
     "duration": 135,
     "play_url": ""
