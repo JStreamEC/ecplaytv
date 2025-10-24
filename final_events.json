@@ -10,19 +10,6 @@
     "play_url": ""
   },
   {
-    "title": "Athletes Unlimited Pro Volleyball",
-    "league": "Athletes Unlimited Volleyball",
-    "fecha-evento": "2025-10-23T18:00:06-05:00",
-    "img": "76906aae-9ea7-44cc-8f7c-c0d5e85b102f",
-    "nombre": "disneye56cef",
-    "status": "18:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/5e1286c6-1c40-4149-9c15-f626e0d70cc2",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1761349569~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F23%2FAthletes_Unlimited_Pro_Vo_20251023_1761255615356%2F~psid=345e6f17-42c6-49e4-89d0-838d4f8b12d3~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=48974a6b84e08c1dac1d0db8057de640bd04b40eedf3a1926677f7f24d5f18b6/clt1/va02/disneyplus/event/2025/10/23/Athletes_Unlimited_Pro_Vo_20251023_1761255615356/ctr-all-hdri-complete.m3u8?v=1&hash=29c4a350ad721f5902f476d73c31d08107de3655",
-    "k1": "8e63e5a5a3874f59b78c5a50163399ae",
-    "k2": "938e2a53e20eaeb87653b1cd121cf0d9"
-  },
-  {
     "title": "En Español-Oklahoma City Thunder vs. Indiana Pacers",
     "league": "NBA",
     "fecha-evento": "2025-10-23T18:30:00-05:00",
@@ -140,6 +127,19 @@
     "k2": "5f44b92ca4f9606bba22f67386cbb42a"
   },
   {
+    "title": "Carolina Hurricanes vs. Colorado Avalanche",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-10-23T20:00:08-05:00",
+    "img": "44bd6ed8-ab85-4dbc-9bf8-a7f309a11e84",
+    "nombre": "disneya5975f",
+    "status": "20:00",
+    "duration": 210,
+    "play_url": "https://www.disneyplus.com/es-es/play/517b6e8f-ea85-471b-bf0e-6500500d5d23",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1761355220~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F24%2FCarolina_Hurricanes_vs_Co_20251024_1761260409509%2F~psid=837bd56c-8eab-4207-a955-dc4deadee421~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=47793fec2c27f28f468380ea68231a9fae8d2953b1cfd3d784c4e457b5cf9cab/clt1/va02/disneyplus/event/2025/10/24/Carolina_Hurricanes_vs_Co_20251024_1761260409509/ctr-all-hdri-complete.m3u8?v=1&hash=eedb2a4a68bd0be2a1ed3efa3d27a42129187b63",
+    "k1": "383c0fec256b4b88a21658c50f8819b2",
+    "k2": "7c72e84c42c1d7d67175144e0a1f314a"
+  },
+  {
     "title": "Petronas Grand Prix of Malaysia - Free Practice 1 (Moto3)",
     "league": "MotoGP",
     "fecha-evento": "2025-10-23T19:55:10-05:00",
@@ -151,26 +151,6 @@
     "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1761354021~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F24%2FPetronas_Grand_Prix_of_Ma_20251024_1761260155048%2F~psid=726fc238-6cd1-4082-9e53-24930c805d54~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=42ef40e7e8c23db0d53a53313ea7234acd0230e33eedd33320f38af6c67eb488/clt1/va02/disneyplus/event/2025/10/24/Petronas_Grand_Prix_of_Ma_20251024_1761260155048/ctr-all-hdri-complete.m3u8?v=1&hash=83822a00f4fbc82fede86813831fd1d5280fc716",
     "k1": "3e3f71b5fff846d28a42f9c4e1c2e11f",
     "k2": "37200d9e386abd436b8229eef50721a7"
-  },
-  {
-    "title": "Montreal Canadiens vs. Edmonton Oilers",
-    "league": "National Hockey League",
-    "fecha-evento": "2025-10-23T20:00:00-05:00",
-    "img": "5db14e5a-551e-49aa-963f-67cff7a66dab",
-    "nombre": "disney3ad388",
-    "status": "20:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "#5 Texas Tech vs. #22 Colorado",
-    "league": "Fútbol Femenino NCAA",
-    "fecha-evento": "2025-10-23T20:00:00-05:00",
-    "img": "03032320-8c78-4427-8b11-6a072fb3a8f3",
-    "nombre": "disneyf44f24",
-    "status": "20:00",
-    "duration": 135,
-    "play_url": ""
   },
   {
     "title": "Los Angeles Kings vs. Dallas Stars",
@@ -186,34 +166,56 @@
     "k2": "bc371f52ee733ea79919e55dbed69378"
   },
   {
-    "title": "Carolina Hurricanes vs. Colorado Avalanche",
-    "league": "National Hockey League",
-    "fecha-evento": "2025-10-23T20:00:00-05:00",
-    "img": "44bd6ed8-ab85-4dbc-9bf8-a7f309a11e84",
-    "nombre": "disneyee605b",
-    "status": "20:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Arizona State vs. Utah",
     "league": "Fútbol Femenino NCAA",
     "fecha-evento": "2025-10-23T20:00:00-05:00",
     "img": "2a87bde8-91c3-4cd0-ad03-cc0a160ae7d2",
     "nombre": "disneyf94530",
     "status": "20:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/9ddf5835-b7c4-4121-a2dd-3a49f73bd942",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1761355264~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F24%2FArizona_State_vs_Utah_20251024_1761260437023%2F~psid=c1ee601d-7035-402a-b8d0-ba9ce8ba4bdd~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=63166b6113da7a618a20e4017fd147302ef9b45d0840f015597adb1df3b574e0/clt1/va02/disneyplus/event/2025/10/24/Arizona_State_vs_Utah_20251024_1761260437023/ctr-all-hdri-complete.m3u8?v=1&hash=767585b5e57847e5c70272eee4f0bfe1e9aefd39",
+    "k1": "a94910a150284650978ebbfd19a94a6c",
+    "k2": "44de15843707f6d1b99d92d43c76528d"
   },
   {
     "title": "Kansas vs. BYU",
     "league": "Fútbol Femenino NCAA",
-    "fecha-evento": "2025-10-23T20:00:00-05:00",
+    "fecha-evento": "2025-10-23T20:00:02-05:00",
     "img": "6ed2a475-7819-4b0d-9854-94d65efee3e8",
-    "nombre": "disney0ef37f",
+    "nombre": "disneye73c4a",
     "status": "20:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/f1f662fa-01a8-4a8e-bfaa-4b879a42b103",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1761355307~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F24%2FKansas_vs_BYU_20251024_1761260419023%2F~psid=97ada21a-82a0-4447-8b1c-687265bd00dc~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=40eaa07598881afecbf32c2112d53ff6f813746dfaeb58f165990d9064c1a6ef/clt1/va02/disneyplus/event/2025/10/24/Kansas_vs_BYU_20251024_1761260419023/ctr-all-hdri-complete.m3u8?v=1&hash=d7480bbb000fcc1a04a26456346f9f4a0432193d",
+    "k1": "551e9a2d52284996b06b61c43e6d9e2b",
+    "k2": "9f034582a84a17de3d16441335e306cc"
+  },
+  {
+    "title": "#5 Texas Tech vs. #22 Colorado",
+    "league": "Fútbol Femenino NCAA",
+    "fecha-evento": "2025-10-23T20:00:04-05:00",
+    "img": "03032320-8c78-4427-8b11-6a072fb3a8f3",
+    "nombre": "disney36e45e",
+    "status": "20:00",
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/142342fe-7213-4a4d-a750-0898236f1fac",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1761355331~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F24%2F5_Texas_Tech_vs_22_Colora_20251024_1761260404037%2F~psid=6a12bf44-1573-4d33-864f-b0664b9ceb89~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=801423553a598134ee95d61ac823807bb9748694b0b261a6d5619273938f87a8/clt1/va02/disneyplus/event/2025/10/24/5_Texas_Tech_vs_22_Colora_20251024_1761260404037/ctr-all-hdri-complete.m3u8?v=1&hash=c4739447d2ff04a658bdb0dafa8a43e4d10e20af",
+    "k1": "8e121e88d93940d49e1327e0fbdcfcdf",
+    "k2": "b16ed23d2427899316272326e240988e"
+  },
+  {
+    "title": "Montreal Canadiens vs. Edmonton Oilers",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-10-23T20:00:16-05:00",
+    "img": "5db14e5a-551e-49aa-963f-67cff7a66dab",
+    "nombre": "disneyd32e01",
+    "status": "20:00",
+    "duration": 210,
+    "play_url": "https://www.disneyplus.com/es-es/play/08c8d472-8b51-45d4-8038-c5e0607e3b7e",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1761355355~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F24%2FMontreal_Canadiens_vs_Edm_20251024_1761260448020%2F~psid=37afdf74-ab54-438e-8794-62a313755605~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=050f938e8eddb4cc3450c7075da3502390bebca68f31afd2c4f8e8309476c35e/clt1/va02/disneyplus/event/2025/10/24/Montreal_Canadiens_vs_Edm_20251024_1761260448020/ctr-all-hdri-complete.m3u8?v=1&hash=4dac0fcbb4c3be68836e53ff342ef4c837dc60c6",
+    "k1": "3041a0835b1741799e518df99f5bec5f",
+    "k2": "f505a54b6cebf60fc1b61dc288a27bd9"
   },
   {
     "title": "Toray Pan Pacific Open Tennis (Quarterfinals)",
@@ -632,6 +634,16 @@
     "img": "25d51bf0-e2ba-44e2-a56a-c0279f48b0f1",
     "nombre": "disneyd063cb",
     "status": "16:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "F1 - GP México - Prácticas #2",
+    "league": "Fórmula 1",
+    "fecha-evento": "2025-10-24T16:55:00-05:00",
+    "img": "66e11ff0-fa49-4e5d-9158-d826da9688b9",
+    "nombre": "disneyab6201",
+    "status": "16:55",
     "duration": 135,
     "play_url": ""
   }
