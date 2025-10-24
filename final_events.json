@@ -88,19 +88,6 @@
     "k2": "3f8008b20ca2175196fee565b74dd1a8"
   },
   {
-    "title": "Liga de Quito (ECU) vs. Palmeiras (BRA) (Semifinal - Ida)",
-    "league": "CONMEBOL Libertadores",
-    "fecha-evento": "2025-10-23T19:12:00-05:00",
-    "img": "65ae14e4-f568-4963-a9cc-404eae8741e0",
-    "nombre": "disney394727",
-    "status": "19:12",
-    "duration": 133,
-    "play_url": "https://www.disneyplus.com/es-es/play/03e0812e-097c-4c33-b97e-0af403b455e1",
-    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1761351779~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F921e1311-bb26-43dd-84a6-9e2284959712-1759409855938%2F~psid=11d4690c-f465-4863-89d8-f5696272cff3~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=229637e5473f86315b4a9687470bf48e26756ce4206e7b921c2e488a75524bfe/clt1/va02/disneyplus/channel/921e1311-bb26-43dd-84a6-9e2284959712-1759409855938/ctr-all-sliding-alt1.m3u8?v=1&hash=e50ddd99727af0a2947bb1b84904b1697e8043f8",
-    "k1": "4d4f68912ac3444e8014e33262c5b7df",
-    "k2": "4670e010d4bcbcb0a3c5ccdc6550c7e0"
-  },
-  {
     "title": "Querétaro Open (Second Round)",
     "league": "WTA",
     "fecha-evento": "2025-10-23T19:05:14-05:00",
@@ -259,12 +246,15 @@
   {
     "title": "Petronas Grand Prix of Malaysia - Free Practice 1 (MotoGP)",
     "league": "MotoGP",
-    "fecha-evento": "2025-10-23T21:35:00-05:00",
+    "fecha-evento": "2025-10-23T21:35:10-05:00",
     "img": "d17f7916-9dcc-442b-b707-56e9a08ddd72",
-    "nombre": "disneydaf510",
+    "nombre": "disneye43768",
     "status": "21:35",
-    "duration": 135,
-    "play_url": ""
+    "duration": 75,
+    "play_url": "https://www.disneyplus.com/es-es/play/a1104ad8-e667-4fef-8e76-23ec42291365",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1761360020~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F24%2FPetronas_Grand_Prix_of_Ma_20251024_1761266130030%2F~psid=84975799-ea53-4169-ba96-1c1120ea1dde~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=bb0a7ff1462d614d68409c38baf2754dff9e8ac8bea44c3daff76c09256da5fe/clt1/va02/disneyplus/event/2025/10/24/Petronas_Grand_Prix_of_Ma_20251024_1761266130030/ctr-all-hdri-complete.m3u8?v=1&hash=f3c17b84cf23ab897c54b02960913fa52b5cd810",
+    "k1": "c8075d10f6dc44a09376982d406eec4c",
+    "k2": "1ce9e8c095ea2f620dad06c8143ed638"
   },
   {
     "title": "Genesis Championship (Second Round)",
@@ -380,7 +370,7 @@
     "title": "Swiss Indoors Basel (Quarterfinals)",
     "league": "ATP",
     "fecha-evento": "2025-10-24T07:00:00-05:00",
-    "img": "64f11986-18a5-450d-88e4-f9b4d22c217a",
+    "img": "bcf7591f-0fb1-4b52-8f48-d6e5e5873a04",
     "nombre": "disneyfd3f39",
     "status": "07:00",
     "duration": 135,
@@ -450,7 +440,7 @@
     "title": "España vs. Suecia",
     "league": "UEFA Women's Nations League",
     "fecha-evento": "2025-10-24T12:45:00-05:00",
-    "img": "f398967f-1f59-4b8e-be8f-27d9d984bb9a",
+    "img": "56d843f2-eaaa-47c6-b4f3-79c5718c8d45",
     "nombre": "disney6990dd",
     "status": "12:45",
     "duration": 135,
@@ -652,6 +642,16 @@
     "fecha-evento": "2025-10-24T17:00:00-05:00",
     "img": "41982fd9-fd2f-465a-943d-bc88c6705b69",
     "nombre": "disney1d86e7",
+    "status": "17:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "F1 GP México, práctica #2 | On Board Colapinto",
+    "league": "Fórmula 1",
+    "fecha-evento": "2025-10-24T17:00:00-05:00",
+    "img": "1d96f160-797f-4a7a-9e77-1b7d3c745335",
+    "nombre": "disney050d8a",
     "status": "17:00",
     "duration": 135,
     "play_url": ""
