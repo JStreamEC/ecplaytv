@@ -10,26 +10,6 @@
     "play_url": ""
   },
   {
-    "title": "Martín León vs. Jaret González | ESPN KO",
-    "league": "ESPN",
-    "fecha-evento": "2025-10-24T21:00:00-05:00",
-    "img": "5a3f1372-767d-49eb-8d3e-99cf26f90b54",
-    "nombre": "disney685224",
-    "status": "21:00",
-    "duration": 180,
-    "play_url": "https://www.disneyplus.com/es-es/play/5d857d6b-245e-4bf4-9596-15bbee6ea022"
-  },
-  {
-    "title": "Montana vs. Sacramento State",
-    "league": "Fútbol Americano NCAA",
-    "fecha-evento": "2025-10-24T21:31:00-05:00",
-    "img": "1a7d8583-b916-49fe-82f2-07d341e702f8",
-    "nombre": "disney022fe6",
-    "status": "21:31",
-    "duration": 179,
-    "play_url": "https://www.disneyplus.com/es-es/play/cadecdc2-a2e9-4459-933f-32e55ff69fe8"
-  },
-  {
     "title": "Toray Pan Pacific Open Tennis (Semifinals)",
     "league": "WTA",
     "fecha-evento": "2025-10-24T22:00:00-05:00",
@@ -612,6 +592,26 @@
     "img": "cb1fbd3c-c82c-4ff3-b936-1a98420114ef",
     "nombre": "disney5253d1",
     "status": "12:25",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Delaware vs. Kennesaw State",
+    "league": "NCAA Women's Volleyball",
+    "fecha-evento": "2025-10-25T12:00:00-05:00",
+    "img": "3f462d44-83d3-45b0-9d53-973cefa3ebfd",
+    "nombre": "disney83e001",
+    "status": "12:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Texas Tech vs. UCF",
+    "league": "NCAA Women's Volleyball",
+    "fecha-evento": "2025-10-25T12:00:00-05:00",
+    "img": "656960ec-f18c-48d1-b60f-79973ce982ae",
+    "nombre": "disney4b4083",
+    "status": "12:00",
     "duration": 135,
     "play_url": ""
   }
