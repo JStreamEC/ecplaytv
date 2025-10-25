@@ -20,26 +20,6 @@
     "play_url": "https://www.disneyplus.com/es-es/play/913de676-f6a7-424e-8113-097b691189b2"
   },
   {
-    "title": "Querétaro Open (Quarterfinals)",
-    "league": "WTA",
-    "fecha-evento": "2025-10-24T15:02:02-05:00",
-    "img": "4a0ed1ff-bcff-4db2-aec2-fce9661596dc",
-    "nombre": "disney5bda77",
-    "status": "15:02",
-    "duration": 238,
-    "play_url": "https://www.disneyplus.com/es-es/play/9e40ac32-8dd2-4074-902b-d231ceee06b3"
-  },
-  {
-    "title": "Stanford",
-    "league": "NCAA Natación y Buceo",
-    "fecha-evento": "2025-10-24T16:00:03-05:00",
-    "img": "99d2097a-930e-48a4-9cbb-a898bb27b4c0",
-    "nombre": "disneyb0e619",
-    "status": "16:00",
-    "duration": 145,
-    "play_url": "https://www.disneyplus.com/es-es/play/13b692e6-1237-4fe5-8473-f7ea8b246f03"
-  },
-  {
     "title": "Columbia vs. Dartmouth",
     "league": "Fútbol Americano NCAA",
     "fecha-evento": "2025-10-24T17:00:04-05:00",
@@ -166,10 +146,20 @@
     "k2": "06d1920a75b05bb5c673c3a29842bb95"
   },
   {
+    "title": "Querétaro Open (Quarterfinals)",
+    "league": "WTA",
+    "fecha-evento": "2025-10-24T19:00:00-05:00",
+    "img": "4a0ed1ff-bcff-4db2-aec2-fce9661596dc",
+    "nombre": "disneyd89c53",
+    "status": "19:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
     "title": "MLB Watch Party Serie Mundial, Juego 1",
     "league": "MLB",
     "fecha-evento": "2025-10-24T19:00:00-05:00",
-    "img": "019a17ac-44d1-71f7-baab-c26341af0f12",
+    "img": "019a17ac-44b9-7da0-a20a-7e01fad9d85a",
     "nombre": "disney40fd96",
     "status": "19:00",
     "duration": 135,
@@ -591,6 +581,26 @@
     "fecha-evento": "2025-10-25T08:20:00-05:00",
     "img": "ad6cd693-82a3-4f3d-8a89-80f433c2d75e",
     "nombre": "disneyd9a8f7",
+    "status": "08:20",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Borussia Mönchengladbach vs. Bayern Munich",
+    "league": "Bundesliga",
+    "fecha-evento": "2025-10-25T08:20:00-05:00",
+    "img": "7f5f9be0-92ca-4aae-8404-8b037ca2bb01",
+    "nombre": "disney65e961",
+    "status": "08:20",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Hamburger SV vs. Wolfsburg",
+    "league": "Bundesliga",
+    "fecha-evento": "2025-10-25T08:20:00-05:00",
+    "img": "b24d9f6c-2884-4d95-9bdc-72a62dd7e37a",
+    "nombre": "disneya524b5",
     "status": "08:20",
     "duration": 135,
     "play_url": ""
