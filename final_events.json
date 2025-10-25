@@ -10,16 +10,6 @@
     "play_url": ""
   },
   {
-    "title": "North Texas vs. Charlotte",
-    "league": "Fútbol Americano NCAA",
-    "fecha-evento": "2025-10-24T18:00:04-05:00",
-    "img": "f07d408f-87cf-44ff-9d38-4679dae3eb44",
-    "nombre": "disney9b8dc0",
-    "status": "18:00",
-    "duration": 180,
-    "play_url": "https://www.disneyplus.com/es-es/play/ecf2dac7-e527-437d-a3a8-38f2c5fb5f7f"
-  },
-  {
     "title": "California vs. Virginia Tech",
     "league": "Fútbol Americano NCAA",
     "fecha-evento": "2025-10-24T18:30:00-05:00",
@@ -57,16 +47,6 @@
     "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1761438156~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F25%2FQuertaro_Open_Quarterfina_20251025_1761343235042%2F~psid=44b7dca7-c204-47b2-81cd-494b49de55df~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=282b8d8908ab2f93565ff96184bbcee303125807a35ab4f010a0ebec21ca210d/clt1/va02/disneyplus/event/2025/10/25/Quertaro_Open_Quarterfina_20251025_1761343235042/ctr-all-hdri-complete.m3u8?v=1&hash=7ff024d7ec56456c142339b4db57d37f77180916",
     "k1": "b88b9dad23d5466e9da8f562dd888b31",
     "k2": "8eff0a1a2a1a371111ca5d9278e0d0cd"
-  },
-  {
-    "title": "#2 Texas vs. Ole Miss",
-    "league": "NCAA Women's Volleyball",
-    "fecha-evento": "2025-10-24T19:00:00-05:00",
-    "img": "a97b3242-87ea-438d-af6f-bf4aaae113d7",
-    "nombre": "disney01cedb",
-    "status": "19:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/a9a30908-735a-479f-a72b-0a7580ad3ca8"
   },
   {
     "title": "MLB Watch Party Serie Mundial, Juego 1",
@@ -173,12 +153,12 @@
   {
     "title": "Montana vs. Sacramento State",
     "league": "Fútbol Americano NCAA",
-    "fecha-evento": "2025-10-24T21:30:00-05:00",
+    "fecha-evento": "2025-10-24T21:31:00-05:00",
     "img": "1a7d8583-b916-49fe-82f2-07d341e702f8",
-    "nombre": "disney5f6c1e",
-    "status": "21:30",
-    "duration": 135,
-    "play_url": ""
+    "nombre": "disney022fe6",
+    "status": "21:31",
+    "duration": 179,
+    "play_url": "https://www.disneyplus.com/es-es/play/cadecdc2-a2e9-4459-933f-32e55ff69fe8"
   },
   {
     "title": "MotoGP Qualifying - Petronas Grand Prix of Malaysia",
@@ -636,6 +616,16 @@
     "fecha-evento": "2025-10-25T11:00:00-05:00",
     "img": "b56b85ef-170b-4032-a164-702c131e93e0",
     "nombre": "disney1bb2e5",
+    "status": "11:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "App State vs. Old Dominion",
+    "league": "Fútbol Americano NCAA",
+    "fecha-evento": "2025-10-25T11:00:00-05:00",
+    "img": "37fcea2e-255b-4014-abcc-52533b1f6e8e",
+    "nombre": "disneyc865f5",
     "status": "11:00",
     "duration": 135,
     "play_url": ""
