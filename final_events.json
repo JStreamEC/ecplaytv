@@ -89,19 +89,6 @@
     "play_url": "https://www.disneyplus.com/es-es/play/947da224-69db-4c00-acd8-dd6e6f6b6542"
   },
   {
-    "title": "Petronas Grand Prix of Malaysia - Free Practice 2 (Moto3/Moto2)",
-    "league": "MotoGP",
-    "fecha-evento": "2025-10-24T19:35:20-05:00",
-    "img": "b2c03e29-fe8c-4679-a50d-54294744fc58",
-    "nombre": "disneycf48a1",
-    "status": "19:35",
-    "duration": 85,
-    "play_url": "https://www.disneyplus.com/es-es/play/38b8d397-083e-4d5b-8425-896ba2cd6c56",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1761439403~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F25%2FPetronas_Grand_Prix_of_Ma_20251025_1761345357039%2F~psid=c4301fc0-137b-445a-b9ce-f7fe313d88e1~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=606ff1f6e41581590f42407688812346df61abff958ff39f00d3404ae4619e54/clt1/va02/disneyplus/event/2025/10/25/Petronas_Grand_Prix_of_Ma_20251025_1761345357039/ctr-all-hdri-complete.m3u8?v=1&hash=1b8b0f194fe15a0e1adb51493947a143701caaf9",
-    "k1": "041b3acc3f1e48d28466dddd29f2d2cc",
-    "k2": "e16a5e362647859a7d22370932da56c9"
-  },
-  {
     "title": "Alebrijes de Oaxaca vs. Tepatitlán FC (Jornada 13)",
     "league": "Liga de Expansión MX",
     "fecha-evento": "2025-10-24T19:51:20-05:00",
@@ -151,17 +138,14 @@
     "k2": "da8f3a943f6015197236f0318dbbd1be"
   },
   {
-    "title": "Kansas State vs. Missouri",
-    "league": "Básquetbol Masculino NCAA",
+    "title": "Martín León vs. Jaret González | ESPN KO",
+    "league": "ESPN",
     "fecha-evento": "2025-10-24T21:00:00-05:00",
-    "img": "f638e816-c088-4335-ade6-af09a51db6fc",
-    "nombre": "disneye48e40",
+    "img": "5a3f1372-767d-49eb-8d3e-99cf26f90b54",
+    "nombre": "disney685224",
     "status": "21:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/1585aba7-7b7a-4777-a4fe-b83120c9ffb1",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1761444180~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F25%2FKansas_State_vs_Missouri_20251025_1761353301719%2F~psid=038c8017-539a-4db3-b79f-2a62505367e7~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=cb22a37999374ea99c878fef9d009da8e198b0097adb5711b79e3619a41aeae8/clt1/va02/disneyplus/event/2025/10/25/Kansas_State_vs_Missouri_20251025_1761353301719/ctr-all-hdri-complete.m3u8?v=1&hash=aeb30289f56a97e65f4d4f117804c71d8cf30eca",
-    "k1": "12314fd263444e3b828ad70163bd5758",
-    "k2": "ac4f030aace979f1f3d90dc4eaa061d5"
+    "duration": 180,
+    "play_url": "https://www.disneyplus.com/es-es/play/5d857d6b-245e-4bf4-9596-15bbee6ea022"
   },
   {
     "title": "Petronas Grand Prix of Malaysia - Free Practice 2 (MotoGP)",
@@ -174,14 +158,17 @@
     "play_url": "https://www.disneyplus.com/es-es/play/57f4ef92-f6e4-4f3b-9208-d81ab328e5b4"
   },
   {
-    "title": "Martín León vs. Jaret González | ESPN KO",
-    "league": "ESPN",
+    "title": "Kansas State vs. Missouri",
+    "league": "Básquetbol Masculino NCAA",
     "fecha-evento": "2025-10-24T21:00:00-05:00",
-    "img": "5a3f1372-767d-49eb-8d3e-99cf26f90b54",
-    "nombre": "disney685224",
+    "img": "f638e816-c088-4335-ade6-af09a51db6fc",
+    "nombre": "disneye48e40",
     "status": "21:00",
-    "duration": 180,
-    "play_url": "https://www.disneyplus.com/es-es/play/5d857d6b-245e-4bf4-9596-15bbee6ea022"
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/1585aba7-7b7a-4777-a4fe-b83120c9ffb1",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1761444180~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F25%2FKansas_State_vs_Missouri_20251025_1761353301719%2F~psid=038c8017-539a-4db3-b79f-2a62505367e7~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=cb22a37999374ea99c878fef9d009da8e198b0097adb5711b79e3619a41aeae8/clt1/va02/disneyplus/event/2025/10/25/Kansas_State_vs_Missouri_20251025_1761353301719/ctr-all-hdri-complete.m3u8?v=1&hash=aeb30289f56a97e65f4d4f117804c71d8cf30eca",
+    "k1": "12314fd263444e3b828ad70163bd5758",
+    "k2": "ac4f030aace979f1f3d90dc4eaa061d5"
   },
   {
     "title": "Montana vs. Sacramento State",
@@ -427,7 +414,7 @@
     "title": "ATP 500: Basel & Vienna (Semifinals)",
     "league": "ATP",
     "fecha-evento": "2025-10-25T08:00:00-05:00",
-    "img": "019a185b-4eb0-7d5b-ba74-20a7a1e1cc2e",
+    "img": "019a185b-4ec6-7ff4-9a71-91bef258b225",
     "nombre": "disney53365d",
     "status": "08:00",
     "duration": 135,
@@ -467,7 +454,7 @@
     "title": "Eintracht Frankfurt vs. St. Pauli",
     "league": "Bundesliga",
     "fecha-evento": "2025-10-25T08:20:00-05:00",
-    "img": "2691ac71-b9df-4386-bada-c6e0b08d924f",
+    "img": "ee540d99-788b-4c9e-9bfa-e898cf07dc76",
     "nombre": "disneyfb5df0",
     "status": "08:20",
     "duration": 135,
@@ -577,7 +564,7 @@
     "title": "SD Eibar vs. Leganés",
     "league": "Segunda División de España",
     "fecha-evento": "2025-10-25T09:10:00-05:00",
-    "img": "87d4b461-397e-4274-9c1f-d34786715127",
+    "img": "77d0655c-4044-412e-a5d4-8470e234e7db",
     "nombre": "disney38412b",
     "status": "09:10",
     "duration": 135,
@@ -639,6 +626,16 @@
     "fecha-evento": "2025-10-25T11:00:00-05:00",
     "img": "102503c6-84d3-4d0b-a249-4c5789db8f89",
     "nombre": "disney297d90",
+    "status": "11:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Syracuse vs. #7 Georgia Tech",
+    "league": "Fútbol Americano NCAA",
+    "fecha-evento": "2025-10-25T11:00:00-05:00",
+    "img": "b56b85ef-170b-4032-a164-702c131e93e0",
+    "nombre": "disney1bb2e5",
     "status": "11:00",
     "duration": 135,
     "play_url": ""
