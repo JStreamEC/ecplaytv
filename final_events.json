@@ -186,6 +186,19 @@
     "k2": "354f85379c431dfb0c7fff2030a260d0"
   },
   {
+    "title": "New York Islanders vs. Philadelphia Flyers",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-10-25T11:30:07-05:00",
+    "img": "44cdda46-48d6-47d5-a5ae-b89a7bf44ca9",
+    "nombre": "disney1363c4",
+    "status": "11:30",
+    "duration": 210,
+    "play_url": "https://www.disneyplus.com/es-es/play/19c13165-2f7f-4e75-ac03-7e296bb7c03e",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1761496908~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F25%2FNew_York_Islanders_vs_Phi_20251025_1761402642022%2F~psid=bac36c8b-c59c-47b1-95a3-38ad91a08e22~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=bed2b5ec97a0e697cca3ef24e23016d9f5fa5521daa64d75903ec11bd7461bb9/clt1/va02/disneyplus/event/2025/10/25/New_York_Islanders_vs_Phi_20251025_1761402642022/ctr-all-hdri-complete.m3u8?v=1&hash=b835057370bf11fa7318dea8a83be362aedbcc77",
+    "k1": "ea5630fe5a4545cb8df5127fdc0941e4",
+    "k2": "53466ec385968552aaa7d4c73e7da7f3"
+  },
+  {
     "title": "App State vs. Old Dominion",
     "league": "Fútbol Americano NCAA",
     "fecha-evento": "2025-10-25T11:00:00-05:00",
@@ -238,19 +251,6 @@
     "k2": "748d72b3fe3e0f98d08b3e22e32804c6"
   },
   {
-    "title": "Athletic Club vs. Getafe CF",
-    "league": "LALIGA",
-    "fecha-evento": "2025-10-25T11:20:00-05:00",
-    "img": "5f1ad933-47ae-4cac-adb9-084e59679510",
-    "nombre": "disney3860a5",
-    "status": "11:20",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/0f6c6983-4caa-44bb-9165-f899fd77e564",
-    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1761495780~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Fbbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1759410188321%2F~psid=022bf464-8878-4a77-b687-95dc35da231c~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=a5a8260afbfb3a630f6678ff1a82ff15c6db657ce7881f25bdc64d9f9773e200/clt1/va02/disneyplus/channel/bbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1759410188321/ctr-all-sliding-alt1.m3u8?v=1&hash=3f2beb7c737b132d1104736b95cd26c3f1914d57",
-    "k1": "62d83beeadbc413ca4d04eb18fcdcfbd",
-    "k2": "46b157bba77a184ae06186c68116a43e"
-  },
-  {
     "title": "Borussia Dortmund vs. Koln",
     "league": "Bundesliga",
     "fecha-evento": "2025-10-25T11:20:00-05:00",
@@ -277,24 +277,30 @@
     "k2": "f1096765556001d06e3488834ed1fc2f"
   },
   {
-    "title": "Granada vs. Cadiz",
-    "league": "Segunda División de España",
-    "fecha-evento": "2025-10-25T11:25:00-05:00",
-    "img": "6b963ded-b547-4281-bba5-571e71352a6c",
-    "nombre": "disney19eaec",
-    "status": "11:25",
-    "duration": 135,
-    "play_url": ""
+    "title": "Athletic Club vs. Getafe CF",
+    "league": "LALIGA",
+    "fecha-evento": "2025-10-25T11:20:00-05:00",
+    "img": "5f1ad933-47ae-4cac-adb9-084e59679510",
+    "nombre": "disney3860a5",
+    "status": "11:20",
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/0f6c6983-4caa-44bb-9165-f899fd77e564",
+    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1761495780~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Fbbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1759410188321%2F~psid=022bf464-8878-4a77-b687-95dc35da231c~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=a5a8260afbfb3a630f6678ff1a82ff15c6db657ce7881f25bdc64d9f9773e200/clt1/va02/disneyplus/channel/bbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1759410188321/ctr-all-sliding-alt1.m3u8?v=1&hash=3f2beb7c737b132d1104736b95cd26c3f1914d57",
+    "k1": "62d83beeadbc413ca4d04eb18fcdcfbd",
+    "k2": "46b157bba77a184ae06186c68116a43e"
   },
   {
-    "title": "New York Islanders vs. Philadelphia Flyers",
-    "league": "National Hockey League",
-    "fecha-evento": "2025-10-25T11:30:00-05:00",
-    "img": "44cdda46-48d6-47d5-a5ae-b89a7bf44ca9",
-    "nombre": "disneyd88d81",
-    "status": "11:30",
-    "duration": 135,
-    "play_url": ""
+    "title": "Granada vs. Cadiz",
+    "league": "Segunda División de España",
+    "fecha-evento": "2025-10-25T11:25:06-05:00",
+    "img": "6b963ded-b547-4281-bba5-571e71352a6c",
+    "nombre": "disneyab50e2",
+    "status": "11:25",
+    "duration": 125,
+    "play_url": "https://www.disneyplus.com/es-es/play/6603530a-cbfa-4d4e-af47-2466944b491c",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1761496932~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F25%2FGranada_vs_Cadiz_20251025_1761402344023%2F~psid=657c96b4-c476-40ee-b0ff-0b50bbfc0629~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=1e99329cbd7a220ba8aa3fbdaf2859b6e79fb8f3d453252672c4031781b606fb/clt1/va02/disneyplus/event/2025/10/25/Granada_vs_Cadiz_20251025_1761402344023/ctr-all-hdri-complete.m3u8?v=1&hash=b47c6d5dbcb59ff7a4af1b4ee0880310bf930427",
+    "k1": "1d57fae52a3d406eaa5ca0d41c357801",
+    "k2": "eeb81f03ff83a9a7bcd49aaa3035811c"
   },
   {
     "title": "Auburn vs. Arkansas",
