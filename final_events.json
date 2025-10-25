@@ -36,19 +36,6 @@
     "k2": "173c3dad82ffedcebbd5e3a8160f6493"
   },
   {
-    "title": "MotoGP Asia Talent Cup - Grand Prix of Malaysia (Carrera 1)",
-    "league": "MotoGP",
-    "fecha-evento": "2025-10-25T03:00:09-05:00",
-    "img": "ab54444e-96e1-42ed-a13a-7537f2968bfc",
-    "nombre": "disneyaf5459",
-    "status": "03:00",
-    "duration": 56,
-    "play_url": "https://www.disneyplus.com/es-es/play/bae06061-9184-4af2-87ca-4e09fdd45c7c",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1761466868~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F25%2FMotoGP_Asia_Talent_Cup_Gr_20251025_1761372027022%2F~psid=839b6c51-970a-43bb-b9ea-a8c806abbfc4~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=3816bbb975950087ca6f932873c3c5a68c7fc9c92f7d0ef377d7942689659026/clt1/va02/disneyplus/event/2025/10/25/MotoGP_Asia_Talent_Cup_Gr_20251025_1761372027022/ctr-all-hdri-complete.m3u8?v=1&hash=9bf3847c41360922773bdba6edba213b71b6d8d2",
-    "k1": "8c12ee25b6bd44ffa502218fa28eeed1",
-    "k2": "0c25986f66701a3c59cab7d4acdc5373"
-  },
-  {
     "title": "Guangzhou Open (Semifinals)",
     "league": "WTA",
     "fecha-evento": "2025-10-25T03:30:45-05:00",
@@ -68,8 +55,11 @@
     "img": "184e3792-3d7c-4d9c-82d8-b6c19859d5c3",
     "nombre": "disney093042",
     "status": "04:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 450,
+    "play_url": "https://www.disneyplus.com/es-es/play/8d9a41de-cef7-4cd6-864f-d6a377f2e1ef",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1761469226~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F25%2FAustralia_vs_South_Africa_20251025_1761375631022%2F~psid=d4bd1d16-6a52-48eb-b691-c37decbc4ef9~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=fc329fb72834c85bf4c2ba4cd6afbbbacb2ecd0c85a40aae2a7cb35dcfdf1a89/clt1/va02/disneyplus/event/2025/10/25/Australia_vs_South_Africa_20251025_1761375631022/ctr-all-hdri-complete.m3u8?v=1&hash=1b50ddd4cee7e437fc9efb6223e430f8cf41ac30",
+    "k1": "d0395acc7e9d48ffb972efc2d82ddbaf",
+    "k2": "0e18743918cf788f81d4e80066e40db8"
   },
   {
     "title": "Erste BankOpen 500 / #glaubandich Court (Doubles Semifinals)",
@@ -618,6 +608,16 @@
     "img": "d48f78e6-a8ab-4da8-bb2d-f474e6fe5350",
     "nombre": "disney795b3d",
     "status": "13:25",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Cerro vs. Peñarol",
+    "league": "Campeonato Uruguayo",
+    "fecha-evento": "2025-10-25T13:30:00-05:00",
+    "img": "a0212f6f-b26b-4fdc-9299-1784cea78e1a",
+    "nombre": "disney66f4fd",
+    "status": "13:30",
     "duration": 135,
     "play_url": ""
   }
