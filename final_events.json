@@ -36,16 +36,6 @@
     "k2": "db5c91ecd6c4d28f3457c448c9fb81d2"
   },
   {
-    "title": "Tom Aspinall vs. Ciryl Gane",
-    "league": "UFC",
-    "fecha-evento": "2025-10-25T09:00:00-05:00",
-    "img": "3ba2006b-4d79-4b3c-8743-e4eb877717a6",
-    "nombre": "disney32b6da",
-    "status": "09:00",
-    "duration": 240,
-    "play_url": "https://www.disneyplus.com/es-es/play/aa5bbb39-b647-458c-af6c-fa8f8d9b08b4"
-  },
-  {
     "title": "Costa do Sauípe Open (Semifinals)",
     "league": "ATP",
     "fecha-evento": "2025-10-25T09:00:00-05:00",
@@ -57,19 +47,6 @@
     "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1761487424~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F25%2FCosta_do_Saupe_Open_Semif_20251025_1761393651037%2F~psid=d04368f9-9202-44f6-be4a-c2128412e4dd~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=143116ed92940df94f00a244b21087c11f4df01feea2c6b71a72b4a53636f38b/clt1/va02/disneyplus/event/2025/10/25/Costa_do_Saupe_Open_Semif_20251025_1761393651037/ctr-all-hdri-complete.m3u8?v=1&hash=48ec5fc328bb62cc65385ec8a6c199a713506d0e",
     "k1": "e0ba2ee499a041148038f96bbbc11284",
     "k2": "354e7561ea6e71f9d35d0cc39db35212"
-  },
-  {
-    "title": "Napoli vs. Inter",
-    "league": "Seria A",
-    "fecha-evento": "2025-10-25T10:40:00-05:00",
-    "img": "4d6f2d29-d83d-4206-96e1-9c3be2b2d9a4",
-    "nombre": "disney6cd685",
-    "status": "10:40",
-    "duration": 135,
-    "play_url": "https://www.disneyplus.com/es-es/play/121e2df0-1970-4ea5-a73b-4fe12db89256",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1761493308~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F25%2FNapoli_vs_Inter_20251025_1761399605038%2F~psid=f645f31e-5cfd-45a0-89f0-21a26e638e0d~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=77ae46de4079e65010a6430d7fc59f1585b4c884237d57c51d446fa63f839bcf/clt1/va02/disneyplus/event/2025/10/25/Napoli_vs_Inter_20251025_1761399605038/ctr-all-hdri-complete.m3u8?v=1&hash=0219f5debbd81980e6bd65cfdeb6c483dee0981e",
-    "k1": "7be2bea5b30c405ca0a4a3ae1baecca1",
-    "k2": "3a267b5233d95dea84d7ac4a642a5c10"
   },
   {
     "title": "#18 South Florida vs. Memphis",
@@ -360,12 +337,12 @@
   {
     "title": "BKFC 83 | Chris Camozzi vs. Alessio Sakara",
     "league": "Bare Knuckle Fighting Championship",
-    "fecha-evento": "2025-10-25T13:00:00-05:00",
+    "fecha-evento": "2025-10-25T13:00:02-05:00",
     "img": "e06f69d0-8945-449e-801e-74e0e9d73c6e",
-    "nombre": "disney75451e",
+    "nombre": "disney55b63b",
     "status": "13:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 180,
+    "play_url": "https://www.disneyplus.com/es-es/play/c8ffb584-39a0-4bf7-91ee-ef9512eaa73a"
   },
   {
     "title": "Hertha BSC vs. Fortuna Dusseldorf",
@@ -663,6 +640,16 @@
     "fecha-evento": "2025-10-25T16:00:00-05:00",
     "img": "045f0f0f-b742-4630-adaf-a2370741bb87",
     "nombre": "disneyb9b434",
+    "status": "16:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Loudoun United FC vs. North Carolina FC",
+    "league": "USL Championship",
+    "fecha-evento": "2025-10-25T16:00:00-05:00",
+    "img": "77c1cba6-98db-4631-a433-e694e107c740",
+    "nombre": "disneyddc34b",
     "status": "16:00",
     "duration": 135,
     "play_url": ""
