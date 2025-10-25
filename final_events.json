@@ -40,16 +40,6 @@
     "play_url": "https://www.disneyplus.com/es-es/play/a716c8f4-ffa0-46b4-ad5a-f8716bb17f15"
   },
   {
-    "title": "Canterbury vs. Otago (Final)",
-    "league": "National Provincial Championship",
-    "fecha-evento": "2025-10-24T21:57:13-05:00",
-    "img": "9baf8abd-bc43-4c4c-a2e1-55e47b31a364",
-    "nombre": "disney16eb16",
-    "status": "21:57",
-    "duration": 123,
-    "play_url": "https://www.disneyplus.com/es-es/play/883441d4-1e38-46d8-9fea-6ead748be8bf"
-  },
-  {
     "title": "Genesis Championship (Third Round)",
     "league": "DP World Tour",
     "fecha-evento": "2025-10-24T22:30:03-05:00",
@@ -609,6 +599,16 @@
     "img": "90ba85e6-86cb-4887-b546-7547457a401a",
     "nombre": "disneycd5b4f",
     "status": "11:55",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Georgia Southern vs. James Madison",
+    "league": "NCAA Women's Volleyball",
+    "fecha-evento": "2025-10-25T12:00:00-05:00",
+    "img": "39531059-f2ed-4585-9b30-34194e1d0936",
+    "nombre": "disney4819bf",
+    "status": "12:00",
     "duration": 135,
     "play_url": ""
   }
