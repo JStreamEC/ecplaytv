@@ -10,16 +10,6 @@
     "play_url": ""
   },
   {
-    "title": "Toray Pan Pacific Open Tennis (Semifinals)",
-    "league": "WTA",
-    "fecha-evento": "2025-10-24T22:00:00-05:00",
-    "img": "ab621066-ab6a-4720-bcf0-ab8ffbf99681",
-    "nombre": "disney2d1d03",
-    "status": "22:00",
-    "duration": 240,
-    "play_url": "https://www.disneyplus.com/es-es/play/a716c8f4-ffa0-46b4-ad5a-f8716bb17f15"
-  },
-  {
     "title": "Genesis Championship (Third Round)",
     "league": "DP World Tour",
     "fecha-evento": "2025-10-24T22:30:03-05:00",
@@ -31,19 +21,6 @@
     "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1761450180~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F25%2FGenesis_Championship_Thir_20251025_1761355805022%2F~psid=0c1bd85c-66b5-4a60-98c2-be98d3be6f22~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=c51808ab2b1b7455c51f6de26db509fba5466c5f2e052e509ec78a27bdac1c95/clt1/va02/disneyplus/event/2025/10/25/Genesis_Championship_Thir_20251025_1761355805022/ctr-all-hdri-complete.m3u8?v=1&hash=9cb81ae8a361314b1116fed74ec7a2a11caed1b6",
     "k1": "4fd9098478d24175b8110d66c371fcc9",
     "k2": "0c027ab90a00005e8a54ad523475cca4"
-  },
-  {
-    "title": "Petronas Grand Prix of Malaysia - Qualifying (Moto2)",
-    "league": "MotoGP",
-    "fecha-evento": "2025-10-25T00:35:11-05:00",
-    "img": "96f9b310-31dd-4ad9-8221-e0e36c3c7af5",
-    "nombre": "disneydac8d3",
-    "status": "00:35",
-    "duration": 55,
-    "play_url": "https://www.disneyplus.com/es-es/play/f99e9a8b-aa3e-40f2-9208-a630b2b39d0e",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1761457332~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F25%2FPetronas_Grand_Prix_of_Ma_20251025_1761363334023%2F~psid=f6d4d040-1605-4003-a45e-05ba72c59b65~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=5fdd3903dd90d2156192b2ea261b6a8c2e83c6bfe5b09f03e00b988519ab7b38/clt1/va02/disneyplus/event/2025/10/25/Petronas_Grand_Prix_of_Ma_20251025_1761363334023/ctr-all-hdri-complete.m3u8?v=1&hash=ab8d67890b3aba7a7596f2cf7a1d6ec6ffc87441",
-    "k1": "976642a855ea459b9c41ff1a9540dbf6",
-    "k2": "87722842f94c1d9ec89ae43cd04087bb"
   },
   {
     "title": "Toray Pan Pacific Open Tennis / Center Court (Doubles Semifinals)",
@@ -62,21 +39,27 @@
     "title": "MotoGP - Sprint Race - Petronas Grand Prix of Malaysia",
     "league": "MotoGP",
     "fecha-evento": "2025-10-25T01:30:00-05:00",
-    "img": "f3de2f51-21c7-4e4d-8e12-fa41e6bd2ceb",
+    "img": "c25ca692-73be-4c03-b537-2e725b640ebe",
     "nombre": "disneydac58f",
     "status": "01:30",
-    "duration": 135,
-    "play_url": ""
+    "duration": 75,
+    "play_url": "https://www.disneyplus.com/es-es/play/38391998-6516-4500-a9f2-05a0b098cae9",
+    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1761460822~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Ff25bdf06-81c9-4a7c-b128-3128d610ad17-1759409600195%2F~psid=8e3a0b26-f52e-4595-ba3d-6e4dd044d3b2~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=e115d5d29e565e529eda03bf000250af2ee9d230f9294ca95d2f9ac5b707f411/clt1/va02/disneyplus/channel/f25bdf06-81c9-4a7c-b128-3128d610ad17-1759409600195/ctr-all-sliding-alt1.m3u8?v=1&hash=4daaff4fdbe476e51bcd350032d73b0e9d85df99",
+    "k1": "778eb3695afb403db6c53380f334e88a",
+    "k2": "204b076a5c3109863f5e7c96774139e4"
   },
   {
     "title": "Guangzhou Open / Center Court (Doubles Semifinals)",
     "league": "WTA",
-    "fecha-evento": "2025-10-25T01:30:00-05:00",
+    "fecha-evento": "2025-10-25T01:31:00-05:00",
     "img": "5608d70e-ae33-497c-8102-36d65e5a03b0",
-    "nombre": "disney5ea2ac",
-    "status": "01:30",
-    "duration": 135,
-    "play_url": ""
+    "nombre": "disneya09654",
+    "status": "01:31",
+    "duration": 119,
+    "play_url": "https://www.disneyplus.com/es-es/play/d3dd73c2-8618-4e4d-a61e-6eca389aec08",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1761460865~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F25%2FGuangzhou_Open_Center_Cou_20251025_1761366649023%2F~psid=6f8e8afe-2fa4-47a5-9582-a87eefdb31d9~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=1027fd18273c2dc9dd888a404832558a1a43e0d7b90523e8e778b73bef2e3f53/clt1/va02/disneyplus/event/2025/10/25/Guangzhou_Open_Center_Cou_20251025_1761366649023/ctr-all-hdri-complete.m3u8?v=1&hash=de41bc07ec6ce49460dc1a7f4fffbd72a0a15e1e",
+    "k1": "d4a621c8ea024cb78269a502fa834512",
+    "k2": "26c527ae78086a9df7aad9a9a7c1a087"
   },
   {
     "title": "2025 Asia-Pacific Amateur Championship (Third Round)",
@@ -615,6 +598,26 @@
     "img": "656960ec-f18c-48d1-b60f-79973ce982ae",
     "nombre": "disney4b4083",
     "status": "12:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "F1 GP México, práctica #3 | Cámara On Board",
+    "league": "Fórmula 1",
+    "fecha-evento": "2025-10-25T12:30:00-05:00",
+    "img": "aec34e76-8882-49be-9d59-80a79f2fc912",
+    "nombre": "disney7fb125",
+    "status": "12:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "F1 GP México, práctica #3 | On Board Colapinto",
+    "league": "Fórmula 1",
+    "fecha-evento": "2025-10-25T12:30:00-05:00",
+    "img": "5b1c1fc8-75f9-43d3-b177-e4aa4914af64",
+    "nombre": "disneyff6063",
+    "status": "12:30",
     "duration": 135,
     "play_url": ""
   }
