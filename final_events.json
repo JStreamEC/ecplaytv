@@ -36,19 +36,6 @@
     "k2": "2c24ec7a8fc6aa4cc089cdffe05e0884"
   },
   {
-    "title": "MotoGP - Sprint Race - Petronas Grand Prix of Malaysia",
-    "league": "MotoGP",
-    "fecha-evento": "2025-10-25T01:30:00-05:00",
-    "img": "c25ca692-73be-4c03-b537-2e725b640ebe",
-    "nombre": "disneydac58f",
-    "status": "01:30",
-    "duration": 75,
-    "play_url": "https://www.disneyplus.com/es-es/play/38391998-6516-4500-a9f2-05a0b098cae9",
-    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1761460822~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Ff25bdf06-81c9-4a7c-b128-3128d610ad17-1759409600195%2F~psid=8e3a0b26-f52e-4595-ba3d-6e4dd044d3b2~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=e115d5d29e565e529eda03bf000250af2ee9d230f9294ca95d2f9ac5b707f411/clt1/va02/disneyplus/channel/f25bdf06-81c9-4a7c-b128-3128d610ad17-1759409600195/ctr-all-sliding-alt1.m3u8?v=1&hash=4daaff4fdbe476e51bcd350032d73b0e9d85df99",
-    "k1": "778eb3695afb403db6c53380f334e88a",
-    "k2": "204b076a5c3109863f5e7c96774139e4"
-  },
-  {
     "title": "Guangzhou Open / Center Court (Doubles Semifinals)",
     "league": "WTA",
     "fecha-evento": "2025-10-25T01:31:00-05:00",
@@ -617,6 +604,16 @@
     "fecha-evento": "2025-10-25T12:30:00-05:00",
     "img": "5b1c1fc8-75f9-43d3-b177-e4aa4914af64",
     "nombre": "disneyff6063",
+    "status": "12:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "F1 GP México, práctica #3 | On Board Norris",
+    "league": "Fórmula 1",
+    "fecha-evento": "2025-10-25T12:30:00-05:00",
+    "img": "7d271084-87c7-4cbf-8242-7187fa1e619f",
+    "nombre": "disneyfdad66",
     "status": "12:30",
     "duration": 135,
     "play_url": ""
