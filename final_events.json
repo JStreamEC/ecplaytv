@@ -358,32 +358,6 @@
     "k2": "0afe1064c44bf87c1a0ba507046c6174"
   },
   {
-    "title": "F1 GP México, práctica #3 | On Board Colapinto",
-    "league": "Fórmula 1",
-    "fecha-evento": "2025-10-25T12:30:00-05:00",
-    "img": "5b1c1fc8-75f9-43d3-b177-e4aa4914af64",
-    "nombre": "disneyff6063",
-    "status": "12:30",
-    "duration": 60,
-    "play_url": "https://www.disneyplus.com/es-es/play/4417d91e-ad1d-4db9-a0de-70d269261e06",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1761500506~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F25%2FF1_GP_Mxico_prctica_3_On__20251025_1761406206023%2F~psid=617d5843-0728-4d1d-8576-02042f8bc85d~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=9dffa69c99f0b015cb48643ec19b37e5b4e11a3b2749281bcb1d2d6116a75cf1/clt1/va02/disneyplus/event/2025/10/25/F1_GP_Mxico_prctica_3_On__20251025_1761406206023/ctr-all-hdri-complete.m3u8?v=1&hash=9116f3cb731d6336df4b56ad8427a8b575a64126",
-    "k1": "c8960a23d5fe4179a800f6305cd5b30f",
-    "k2": "1127bc437f47437c67faa67295c42518"
-  },
-  {
-    "title": "F1 GP México, práctica #3 | On Board Norris",
-    "league": "Fórmula 1",
-    "fecha-evento": "2025-10-25T12:30:00-05:00",
-    "img": "7d271084-87c7-4cbf-8242-7187fa1e619f",
-    "nombre": "disneyfdad66",
-    "status": "12:30",
-    "duration": 60,
-    "play_url": "https://www.disneyplus.com/es-es/play/ec6408be-e05f-4b17-9c54-6ef33aef855f",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1761500530~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F25%2FF1_GP_Mxico_prctica_3_On__20251025_1761406216039%2F~psid=23564f5a-9671-4541-8bb8-89dcc80a8f1d~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=68a5f36c1fab64443f274b9e5f1375c31830aadcaa4ce120d99878b5dce65d53/clt1/va02/disneyplus/event/2025/10/25/F1_GP_Mxico_prctica_3_On__20251025_1761406216039/ctr-all-hdri-complete.m3u8?v=1&hash=a896f7d35bfab1501d6c8ef4fee2eae7e171e693",
-    "k1": "65694aa3c3d04fb0854a896800447316",
-    "k2": "b316d3217501ff311091babdedbbc696"
-  },
-  {
     "title": "BKFC 83 | Chris Camozzi vs. Alessio Sakara",
     "league": "Bare Knuckle Fighting Championship",
     "fecha-evento": "2025-10-25T13:00:00-05:00",
@@ -669,6 +643,26 @@
     "fecha-evento": "2025-10-25T16:00:00-05:00",
     "img": "0847493d-3ea3-4b38-a93d-d0f1da941c6d",
     "nombre": "disney557cd8",
+    "status": "16:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Portland Hearts of Pine vs. AV Alta FC",
+    "league": "USL League One",
+    "fecha-evento": "2025-10-25T16:00:00-05:00",
+    "img": "d3876ee5-ff95-4eb7-b0bc-44980ce21cdf",
+    "nombre": "disney6363c4",
+    "status": "16:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Wright State vs. Green Bay",
+    "league": "Fútbol Masculino NCAA",
+    "fecha-evento": "2025-10-25T16:00:00-05:00",
+    "img": "045f0f0f-b742-4630-adaf-a2370741bb87",
+    "nombre": "disneyb9b434",
     "status": "16:00",
     "duration": 135,
     "play_url": ""
