@@ -62,19 +62,6 @@
     "k2": "86992eee215eca36d9f71b58130a1456"
   },
   {
-    "title": "Holstein Kiel vs. Vfl Bochum 1848",
-    "league": "Bundesliga 2 de Alemania",
-    "fecha-evento": "2025-10-25T05:50:26-05:00",
-    "img": "e0592b9f-39ff-4b97-ab7c-797f6dddf709",
-    "nombre": "disney054f66",
-    "status": "05:50",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/ef749590-ca95-4919-9c6a-6c9c26b17020",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1761476429~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F25%2FHolstein_Kiel_vs_Vfl_Boch_20251025_1761382546028%2F~psid=bc47dd05-4afa-4299-a36e-66940080b353~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=dc2a329917bcd75a58070b47fd0d5cf28aa2a4f2a8c999256d5310bc35f41f63/clt1/va02/disneyplus/event/2025/10/25/Holstein_Kiel_vs_Vfl_Boch_20251025_1761382546028/ctr-all-hdri-complete.m3u8?v=1&hash=8d58c0bd5b7f2e10053f4199d3f019090b7a61e1",
-    "k1": "fe78ed1996aa491abd52c1a4abd3ac22",
-    "k2": "be0369023ce2c0b5c191b5f065ac993c"
-  },
-  {
     "title": "Swiss Indoors Basel / Center Court (Doubles Semifinals)",
     "league": "ATP",
     "fecha-evento": "2025-10-25T06:00:41-05:00",
@@ -120,24 +107,30 @@
     "img": "3f6d6033-e779-4fdd-8d32-4708942ffc39",
     "nombre": "disney5ed7ff",
     "status": "07:50",
-    "duration": 135,
-    "play_url": ""
+    "duration": 125,
+    "play_url": "https://www.disneyplus.com/es-es/play/3cdc5de4-aef5-4c8e-8fe1-901bbee6ee87",
+    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1761483619~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Fbbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1759410188321%2F~psid=e73813b3-c8e0-40df-ab69-0454ad56ad25~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=5146757321d5fb9a9554fcda4bf671b4eee124a083facb22ccebc00afb697eee/clt1/va02/disneyplus/channel/bbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1759410188321/ctr-all-sliding-alt1.m3u8?v=1&hash=3f2beb7c737b132d1104736b95cd26c3f1914d57",
+    "k1": "62d83beeadbc413ca4d04eb18fcdcfbd",
+    "k2": "46b157bba77a184ae06186c68116a43e"
   },
   {
     "title": "Udinese vs. Lecce",
     "league": "Seria A",
-    "fecha-evento": "2025-10-25T07:55:00-05:00",
+    "fecha-evento": "2025-10-25T07:54:36-05:00",
     "img": "bb84d5d0-b1dc-463a-81ff-170dd6231523",
-    "nombre": "disney17f108",
-    "status": "07:55",
-    "duration": 135,
-    "play_url": ""
+    "nombre": "disneye72cc7",
+    "status": "07:54",
+    "duration": 125,
+    "play_url": "https://www.disneyplus.com/es-es/play/b39561da-675c-4990-bbd4-e4eb9c5d2157",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1761483663~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F25%2FUdinese_vs_Lecce_20251025_1761389732023%2F~psid=e6f725ae-2978-49b9-b921-6b16e1c4e5cc~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=0c5c60efe0c06ec624e010335dc5d8a2aae1269b377a85a3f6485966f6de9620/clt1/va02/disneyplus/event/2025/10/25/Udinese_vs_Lecce_20251025_1761389732023/ctr-all-hdri-complete.m3u8?v=1&hash=e783a9d49ffa33a6022455db45fb07f9b780f3a0",
+    "k1": "888cfc9531b248208e728fd56a432d98",
+    "k2": "2fdf2122550345cad90ab1a5cb24abbf"
   },
   {
     "title": "Erste BankOpen 500 (Semifinals)",
     "league": "ATP",
     "fecha-evento": "2025-10-25T08:00:00-05:00",
-    "img": "019a185b-4fcc-74af-9cdf-ca4121a761a4",
+    "img": "019a185b-4e9f-7b35-8078-eded236b2ed7",
     "nombre": "disney7c74d0",
     "status": "08:00",
     "duration": 135,
@@ -157,7 +150,7 @@
     "title": "Swiss Indoors Basel (Semifinals)",
     "league": "ATP",
     "fecha-evento": "2025-10-25T08:00:00-05:00",
-    "img": "019a185b-4fb3-7858-9110-cdacafffc5f1",
+    "img": "019a185b-4e88-7f8f-8e8a-5501584fee3e",
     "nombre": "disney19fab8",
     "status": "08:00",
     "duration": 135,
@@ -629,6 +622,16 @@
     "fecha-evento": "2025-10-25T13:50:00-05:00",
     "img": "c22da4c5-b279-4bb5-aaf0-319e378909ed",
     "nombre": "disneyd8c2f5",
+    "status": "13:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Brentford vs. Liverpool",
+    "league": "Premier League",
+    "fecha-evento": "2025-10-25T13:50:00-05:00",
+    "img": "3cb7e240-a618-4dbe-a903-d29ef6518aca",
+    "nombre": "disneycf4f71",
     "status": "13:50",
     "duration": 135,
     "play_url": ""
