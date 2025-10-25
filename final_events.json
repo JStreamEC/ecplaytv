@@ -23,19 +23,6 @@
     "k2": "b4f68c039b3a57c4791fa019645c4e2a"
   },
   {
-    "title": "Calgary Flames vs. Winnipeg Jets",
-    "league": "National Hockey League",
-    "fecha-evento": "2025-10-24T19:00:40-05:00",
-    "img": "4a3dd201-5423-4f44-bc2b-59d95a072c89",
-    "nombre": "disneyd0eb5b",
-    "status": "19:00",
-    "duration": 209,
-    "play_url": "https://www.disneyplus.com/es-es/play/98d7c7c5-261b-4d1f-957b-ac47027cf4e3",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1761438132~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F25%2FCalgary_Flames_vs_Winnipe_20251025_1761343257025%2F~psid=bfcfa567-c352-4a2e-ab74-30985d46d8e1~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=d4f773668d4263e9101ef57cb1583526534b48a0fbd0f741bd67a44b593478ae/clt1/va02/disneyplus/event/2025/10/25/Calgary_Flames_vs_Winnipe_20251025_1761343257025/ctr-all-hdri-complete.m3u8?v=1&hash=a5f81d84df45f599b738c7a5ebf0c2f82860993f",
-    "k1": "06fd10686c1548ceae359c58f193244b",
-    "k2": "b39f103c44100c4248e02974b6ebce2c"
-  },
-  {
     "title": "Querétaro Open (Quarterfinals)",
     "league": "WTA",
     "fecha-evento": "2025-10-24T19:00:00-05:00",
@@ -128,16 +115,6 @@
     "play_url": "https://www.disneyplus.com/es-es/play/5d857d6b-245e-4bf4-9596-15bbee6ea022"
   },
   {
-    "title": "Petronas Grand Prix of Malaysia - Free Practice 2 (MotoGP)",
-    "league": "MotoGP",
-    "fecha-evento": "2025-10-24T21:00:00-05:00",
-    "img": "e06b4e89-48cf-4c50-ab95-02c9995d584f",
-    "nombre": "disney4723d8",
-    "status": "21:00",
-    "duration": 45,
-    "play_url": "https://www.disneyplus.com/es-es/play/57f4ef92-f6e4-4f3b-9208-d81ab328e5b4"
-  },
-  {
     "title": "Kansas State vs. Missouri",
     "league": "Básquetbol Masculino NCAA",
     "fecha-evento": "2025-10-24T21:00:00-05:00",
@@ -167,18 +144,18 @@
     "img": "0e33d343-70e3-4144-8657-551db3d8d8d0",
     "nombre": "disneye0c3ad",
     "status": "21:45",
-    "duration": 135,
-    "play_url": ""
+    "duration": 55,
+    "play_url": "https://www.disneyplus.com/es-es/play/b9b153e4-c278-435f-bc77-ee9b483a90e3"
   },
   {
     "title": "Canterbury vs. Otago (Final)",
     "league": "National Provincial Championship",
-    "fecha-evento": "2025-10-24T22:00:00-05:00",
+    "fecha-evento": "2025-10-24T21:57:13-05:00",
     "img": "9baf8abd-bc43-4c4c-a2e1-55e47b31a364",
-    "nombre": "disneyaee8f6",
-    "status": "22:00",
-    "duration": 135,
-    "play_url": ""
+    "nombre": "disney16eb16",
+    "status": "21:57",
+    "duration": 123,
+    "play_url": "https://www.disneyplus.com/es-es/play/883441d4-1e38-46d8-9fea-6ead748be8bf"
   },
   {
     "title": "Toray Pan Pacific Open Tennis (Semifinals)",
@@ -187,8 +164,8 @@
     "img": "ab621066-ab6a-4720-bcf0-ab8ffbf99681",
     "nombre": "disney2d1d03",
     "status": "22:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 240,
+    "play_url": "https://www.disneyplus.com/es-es/play/a716c8f4-ffa0-46b4-ad5a-f8716bb17f15"
   },
   {
     "title": "Genesis Championship (Third Round)",
@@ -627,6 +604,36 @@
     "img": "37fcea2e-255b-4014-abcc-52533b1f6e8e",
     "nombre": "disneyc865f5",
     "status": "11:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Manchester United vs. Brighton & Hove Albion",
+    "league": "Premier League",
+    "fecha-evento": "2025-10-25T11:10:00-05:00",
+    "img": "3172133d-6cd1-4937-a53b-974deea1c24d",
+    "nombre": "disney5f7fba",
+    "status": "11:10",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Juventud vs. Plaza Colonia",
+    "league": "Campeonato Uruguayo",
+    "fecha-evento": "2025-10-25T11:15:00-05:00",
+    "img": "7c2c7e31-6839-40f7-88c4-e24cff132f10",
+    "nombre": "disney10056e",
+    "status": "11:15",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Athletic Club vs. Getafe CF",
+    "league": "LALIGA",
+    "fecha-evento": "2025-10-25T11:20:00-05:00",
+    "img": "5f1ad933-47ae-4cac-adb9-084e59679510",
+    "nombre": "disney3860a5",
+    "status": "11:20",
     "duration": 135,
     "play_url": ""
   }
