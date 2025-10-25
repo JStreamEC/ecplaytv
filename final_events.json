@@ -56,16 +56,6 @@
     "play_url": "https://www.disneyplus.com/es-es/play/cadecdc2-a2e9-4459-933f-32e55ff69fe8"
   },
   {
-    "title": "MotoGP Qualifying - Petronas Grand Prix of Malaysia",
-    "league": "MotoGP",
-    "fecha-evento": "2025-10-24T21:45:00-05:00",
-    "img": "0e33d343-70e3-4144-8657-551db3d8d8d0",
-    "nombre": "disneye0c3ad",
-    "status": "21:45",
-    "duration": 55,
-    "play_url": "https://www.disneyplus.com/es-es/play/b9b153e4-c278-435f-bc77-ee9b483a90e3"
-  },
-  {
     "title": "Toray Pan Pacific Open Tennis (Semifinals)",
     "league": "WTA",
     "fecha-evento": "2025-10-24T22:00:00-05:00",
@@ -615,6 +605,16 @@
     "img": "97d8591a-ca14-4dd2-910b-1f34bdb78b28",
     "nombre": "disneyb06585",
     "status": "11:45",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Monaco vs. Toulouse",
+    "league": "Ligue 1",
+    "fecha-evento": "2025-10-25T11:55:00-05:00",
+    "img": "25ea5a45-eea3-4834-99ab-278da79e0c92",
+    "nombre": "disney7d53af",
+    "status": "11:55",
     "duration": 135,
     "play_url": ""
   }
