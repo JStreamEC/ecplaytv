@@ -10,19 +10,6 @@
     "play_url": ""
   },
   {
-    "title": "2025 Asia-Pacific Amateur Championship (Third Round)",
-    "league": "ESPN",
-    "fecha-evento": "2025-10-25T03:00:00-05:00",
-    "img": "ae0d5285-b40f-4254-ad27-36d27961f441",
-    "nombre": "disney7d2ef9",
-    "status": "03:00",
-    "duration": 180,
-    "play_url": "https://www.disneyplus.com/es-es/play/12ef3668-2f96-4b9a-b296-2e8d90f971ef",
-    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1761466825~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Fbbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1759410188321%2F~psid=f2e3eb02-8857-4679-83b2-6e28291959d4~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=3a63ea9b58d01345f690f94a266401a8529ffc8754462d7d5ebea92cdc3117b4/clt1/va02/disneyplus/channel/bbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1759410188321/ctr-all-sliding-alt1.m3u8?v=1&hash=3f2beb7c737b132d1104736b95cd26c3f1914d57",
-    "k1": "61ea67efb1934ab0a5ba46840af7a940",
-    "k2": "173c3dad82ffedcebbd5e3a8160f6493"
-  },
-  {
     "title": "Guangzhou Open (Semifinals)",
     "league": "WTA",
     "fecha-evento": "2025-10-25T03:30:45-05:00",
@@ -62,6 +49,19 @@
     "k2": "2ea4607a1bd88460ba5cf8b08ccc27c8"
   },
   {
+    "title": "Arminia Bielefeld vs. SV Elversberg",
+    "league": "Bundesliga 2 de Alemania",
+    "fecha-evento": "2025-10-25T05:55:00-05:00",
+    "img": "98901f6c-710e-4446-9878-9eaa66f89db2",
+    "nombre": "disneybcf027",
+    "status": "05:55",
+    "duration": 125,
+    "play_url": "https://www.disneyplus.com/es-es/play/b2f9a659-d8e4-4419-afef-953b3929daf7",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1761476516~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F25%2FArminia_Bielefeld_vs_SV_E_20251025_1761382525036%2F~psid=f9ac0932-ccf3-408f-8eea-c372458f8f3f~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=c9632e6660c0f07e94dd276b9fcecedeae32f71265480b249e57789bec62aa66/clt1/va02/disneyplus/event/2025/10/25/Arminia_Bielefeld_vs_SV_E_20251025_1761382525036/ctr-all-hdri-complete.m3u8?v=1&hash=f8b900b797a962d3795b5d02af25afd1086aad36",
+    "k1": "47171e788a6e4229be9fae59eb89e79d",
+    "k2": "e6b8b5409283b76ae7d71541444d9c46"
+  },
+  {
     "title": "Holstein Kiel vs. Vfl Bochum 1848",
     "league": "Bundesliga 2 de Alemania",
     "fecha-evento": "2025-10-25T05:50:26-05:00",
@@ -88,27 +88,17 @@
     "k2": "86992eee215eca36d9f71b58130a1456"
   },
   {
-    "title": "Arminia Bielefeld vs. SV Elversberg",
-    "league": "Bundesliga 2 de Alemania",
-    "fecha-evento": "2025-10-25T05:55:00-05:00",
-    "img": "98901f6c-710e-4446-9878-9eaa66f89db2",
-    "nombre": "disneybcf027",
-    "status": "05:55",
-    "duration": 125,
-    "play_url": "https://www.disneyplus.com/es-es/play/b2f9a659-d8e4-4419-afef-953b3929daf7",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1761476516~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F25%2FArminia_Bielefeld_vs_SV_E_20251025_1761382525036%2F~psid=f9ac0932-ccf3-408f-8eea-c372458f8f3f~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=c9632e6660c0f07e94dd276b9fcecedeae32f71265480b249e57789bec62aa66/clt1/va02/disneyplus/event/2025/10/25/Arminia_Bielefeld_vs_SV_E_20251025_1761382525036/ctr-all-hdri-complete.m3u8?v=1&hash=f8b900b797a962d3795b5d02af25afd1086aad36",
-    "k1": "47171e788a6e4229be9fae59eb89e79d",
-    "k2": "e6b8b5409283b76ae7d71541444d9c46"
-  },
-  {
     "title": "Swiss Indoors Basel / Center Court (Doubles Semifinals)",
     "league": "ATP",
-    "fecha-evento": "2025-10-25T06:00:00-05:00",
+    "fecha-evento": "2025-10-25T06:00:41-05:00",
     "img": "b960f031-8920-4400-a079-d0e1b8002062",
-    "nombre": "disney289fc2",
+    "nombre": "disneyd6ee81",
     "status": "06:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 119,
+    "play_url": "https://www.disneyplus.com/es-es/play/43845d62-33be-4338-8c62-4a8c873a85d3",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1761477630~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F25%2FSwiss_Indoors_Basel_Cente_20251025_1761382815030%2F~psid=3542eafd-9952-4388-ab30-08c5ef3714f0~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=a8fb15ba2d3ba9454a9387da2abfb84f69bb6164808391abdc31ffd0b0be192e/clt1/va02/disneyplus/event/2025/10/25/Swiss_Indoors_Basel_Cente_20251025_1761382815030/ctr-all-hdri-complete.m3u8?v=1&hash=24a4988ca04ebe9539773cb84bf84354baf6985f",
+    "k1": "8e8090a517954314b494e14bd60b7447",
+    "k2": "4f7ff8d7dcbf8fbfcb6973b6b634a6d5"
   },
   {
     "title": "Ipswich Town vs. West Bromwich Albion",
@@ -117,8 +107,11 @@
     "img": "2a76915e-51f2-49a4-8639-5c91c205257a",
     "nombre": "disney5f1550",
     "status": "06:20",
-    "duration": 135,
-    "play_url": ""
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/0fd90d66-d780-4e28-8bb5-828e607fdcc4",
+    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1761477673~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F7f9052ce-8143-43a6-9656-a8c00c4a3e56-1760554479235%2F~psid=7eda452a-b51f-4f0b-89ee-3fd0c54f0559~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=47dc7d09c383779f0068df3f62b270ec7131c5e4a447efb9e9156dfd292cc44f/clt1/va02/disneyplus/channel/7f9052ce-8143-43a6-9656-a8c00c4a3e56-1760554479235/ctr-all-sliding-alt1.m3u8?v=1&hash=437e3ef416fefcb19394ac9c8d3e57c2f7f2cec4",
+    "k1": "ef645be0c7de444c954519c967336561",
+    "k2": "a26c11de22e266e42d5929ff28e10512"
   },
   {
     "title": "Girona FC vs. Real Oviedo",
@@ -627,6 +620,16 @@
     "img": "b7d474dc-a8b1-44ef-b50c-cd81cc3dfd6f",
     "nombre": "disney4ff6b6",
     "status": "13:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Bordeaux vs. Bayonne",
+    "league": "Top 14",
+    "fecha-evento": "2025-10-25T13:45:00-05:00",
+    "img": "ba82c7e3-6f41-4635-92f1-eea2d4472957",
+    "nombre": "disney711a9c",
+    "status": "13:45",
     "duration": 135,
     "play_url": ""
   }
