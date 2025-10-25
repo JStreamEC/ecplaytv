@@ -10,19 +10,6 @@
     "play_url": ""
   },
   {
-    "title": "Toray Pan Pacific Open Tennis / Center Court (Doubles Semifinals)",
-    "league": "WTA",
-    "fecha-evento": "2025-10-25T01:00:00-05:00",
-    "img": "118b8e30-3236-4575-ac1a-ef00e5fdc0b1",
-    "nombre": "disneyb87e18",
-    "status": "01:00",
-    "duration": 300,
-    "play_url": "https://www.disneyplus.com/es-es/play/12385b03-86e7-4512-a29b-d4e981caaa7d",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1761459666~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F25%2FToray_Pan_Pacific_Open_Te_20251025_1761364855040%2F~psid=67b09dbb-2e41-4d8f-bd5a-fc835479ea87~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=00f99e9b19bed47430d5b44034cf50f3859b4ac62c916ce991e435c7a442ad8f/clt1/va02/disneyplus/event/2025/10/25/Toray_Pan_Pacific_Open_Te_20251025_1761364855040/ctr-all-hdri-complete.m3u8?v=1&hash=e7df5c54ad3a4f810b96efa2999c791e33fdfc36",
-    "k1": "20562f79725c4e98b068bbc10026c2a0",
-    "k2": "2c24ec7a8fc6aa4cc089cdffe05e0884"
-  },
-  {
     "title": "2025 Asia-Pacific Amateur Championship (Third Round)",
     "league": "ESPN",
     "fecha-evento": "2025-10-25T03:00:00-05:00",
@@ -68,8 +55,11 @@
     "img": "1ddc346d-ae72-46be-b51c-bfdff4eb00c4",
     "nombre": "disney902a60",
     "status": "05:30",
-    "duration": 135,
-    "play_url": ""
+    "duration": 240,
+    "play_url": "https://www.disneyplus.com/es-es/play/3bdcb6c8-24e5-4a0b-94ad-06e092e6781c",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1761475230~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F25%2FErste_BankOpen_500_glauba_20251025_1761381049023%2F~psid=51a6feea-bf30-403e-a700-49c8eaa99897~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=7599530421d302ade6e6a8062c0b4b4de554cf82c23825540eed4ba428c1db59/clt1/va02/disneyplus/event/2025/10/25/Erste_BankOpen_500_glauba_20251025_1761381049023/ctr-all-hdri-complete.m3u8?v=1&hash=5a0d4d464bbae6abea191301fe7419a89fc004c7",
+    "k1": "c4b4c4ad056d4160b801e9503ff1f520",
+    "k2": "2ea4607a1bd88460ba5cf8b08ccc27c8"
   },
   {
     "title": "SG Dynamo Dresden vs. SC Paderborn 07",
@@ -617,6 +607,16 @@
     "fecha-evento": "2025-10-25T13:30:00-05:00",
     "img": "a0212f6f-b26b-4fdc-9299-1784cea78e1a",
     "nombre": "disney66f4fd",
+    "status": "13:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Cremonese vs. Atalanta",
+    "league": "Seria A",
+    "fecha-evento": "2025-10-25T13:30:00-05:00",
+    "img": "b7d474dc-a8b1-44ef-b50c-cd81cc3dfd6f",
+    "nombre": "disney4ff6b6",
     "status": "13:30",
     "duration": 135,
     "play_url": ""
