@@ -85,16 +85,6 @@
     "play_url": "https://www.disneyplus.com/es-es/play/e7bfb560-3148-4162-b5e1-4bfc9475c9e9"
   },
   {
-    "title": "Boca Juniors vs. Belgrano",
-    "league": "Torneo Proyección",
-    "fecha-evento": "2025-10-25T08:05:00-05:00",
-    "img": "1ac085f6-34a9-4a81-8a92-0b16b97df192",
-    "nombre": "disney586dd3",
-    "status": "08:05",
-    "duration": 75,
-    "play_url": "https://www.disneyplus.com/es-es/play/c0187c84-10cc-471b-9a3b-be19c0e34fa8"
-  },
-  {
     "title": "Goal Arena - The Bundesliga Konferenz (Bundesliga)",
     "league": "Bundesliga",
     "fecha-evento": "2025-10-25T08:20:01-05:00",
@@ -225,19 +215,6 @@
     "k2": "07161a857d162291d4a10b76ab48dc8d"
   },
   {
-    "title": "Costa do Sauípe Open (Semifinals)",
-    "league": "ATP",
-    "fecha-evento": "2025-10-25T09:00:00-05:00",
-    "img": "fd0ae8b6-8b45-420f-a646-1d6f06f87fd6",
-    "nombre": "disney047db3",
-    "status": "09:00",
-    "duration": 600,
-    "play_url": "https://www.disneyplus.com/es-es/play/eb988436-cc2a-4394-96d7-0dc3857427dd",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1761487424~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F25%2FCosta_do_Saupe_Open_Semif_20251025_1761393651037%2F~psid=d04368f9-9202-44f6-be4a-c2128412e4dd~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=143116ed92940df94f00a244b21087c11f4df01feea2c6b71a72b4a53636f38b/clt1/va02/disneyplus/event/2025/10/25/Costa_do_Saupe_Open_Semif_20251025_1761393651037/ctr-all-hdri-complete.m3u8?v=1&hash=48ec5fc328bb62cc65385ec8a6c199a713506d0e",
-    "k1": "e0ba2ee499a041148038f96bbbc11284",
-    "k2": "354e7561ea6e71f9d35d0cc39db35212"
-  },
-  {
     "title": "UFC 321 | Tom Aspinall vs. Ciryl Gane | ESPN KO",
     "league": "UFC",
     "fecha-evento": "2025-10-25T09:00:00-05:00",
@@ -259,6 +236,19 @@
     "status": "09:00",
     "duration": 240,
     "play_url": "https://www.disneyplus.com/es-es/play/aa5bbb39-b647-458c-af6c-fa8f8d9b08b4"
+  },
+  {
+    "title": "Costa do Sauípe Open (Semifinals)",
+    "league": "ATP",
+    "fecha-evento": "2025-10-25T09:00:00-05:00",
+    "img": "fd0ae8b6-8b45-420f-a646-1d6f06f87fd6",
+    "nombre": "disney047db3",
+    "status": "09:00",
+    "duration": 600,
+    "play_url": "https://www.disneyplus.com/es-es/play/eb988436-cc2a-4394-96d7-0dc3857427dd",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1761487424~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F25%2FCosta_do_Saupe_Open_Semif_20251025_1761393651037%2F~psid=d04368f9-9202-44f6-be4a-c2128412e4dd~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=143116ed92940df94f00a244b21087c11f4df01feea2c6b71a72b4a53636f38b/clt1/va02/disneyplus/event/2025/10/25/Costa_do_Saupe_Open_Semif_20251025_1761393651037/ctr-all-hdri-complete.m3u8?v=1&hash=48ec5fc328bb62cc65385ec8a6c199a713506d0e",
+    "k1": "e0ba2ee499a041148038f96bbbc11284",
+    "k2": "354e7561ea6e71f9d35d0cc39db35212"
   },
   {
     "title": "SD Eibar vs. Leganés",
