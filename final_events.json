@@ -23,32 +23,6 @@
     "k2": "4f7ff8d7dcbf8fbfcb6973b6b634a6d5"
   },
   {
-    "title": "Parma vs. Como",
-    "league": "Seria A",
-    "fecha-evento": "2025-10-25T07:50:00-05:00",
-    "img": "3f6d6033-e779-4fdd-8d32-4708942ffc39",
-    "nombre": "disney5ed7ff",
-    "status": "07:50",
-    "duration": 125,
-    "play_url": "https://www.disneyplus.com/es-es/play/3cdc5de4-aef5-4c8e-8fe1-901bbee6ee87",
-    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1761483619~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Fbbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1759410188321%2F~psid=e73813b3-c8e0-40df-ab69-0454ad56ad25~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=5146757321d5fb9a9554fcda4bf671b4eee124a083facb22ccebc00afb697eee/clt1/va02/disneyplus/channel/bbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1759410188321/ctr-all-sliding-alt1.m3u8?v=1&hash=3f2beb7c737b132d1104736b95cd26c3f1914d57",
-    "k1": "62d83beeadbc413ca4d04eb18fcdcfbd",
-    "k2": "46b157bba77a184ae06186c68116a43e"
-  },
-  {
-    "title": "Udinese vs. Lecce",
-    "league": "Seria A",
-    "fecha-evento": "2025-10-25T07:54:36-05:00",
-    "img": "bb84d5d0-b1dc-463a-81ff-170dd6231523",
-    "nombre": "disneye72cc7",
-    "status": "07:54",
-    "duration": 125,
-    "play_url": "https://www.disneyplus.com/es-es/play/b39561da-675c-4990-bbd4-e4eb9c5d2157",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1761483663~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F25%2FUdinese_vs_Lecce_20251025_1761389732023%2F~psid=e6f725ae-2978-49b9-b921-6b16e1c4e5cc~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=0c5c60efe0c06ec624e010335dc5d8a2aae1269b377a85a3f6485966f6de9620/clt1/va02/disneyplus/event/2025/10/25/Udinese_vs_Lecce_20251025_1761389732023/ctr-all-hdri-complete.m3u8?v=1&hash=e783a9d49ffa33a6022455db45fb07f9b780f3a0",
-    "k1": "888cfc9531b248208e728fd56a432d98",
-    "k2": "2fdf2122550345cad90ab1a5cb24abbf"
-  },
-  {
     "title": "ATP 500: Basel & Vienna (Semifinals)",
     "league": "ATP",
     "fecha-evento": "2025-10-25T08:00:01-05:00",
@@ -653,6 +627,26 @@
     "img": "24212b50-51a5-4eb4-83b6-1167618cbd77",
     "nombre": "disneyfd1c2e",
     "status": "14:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "#15 Missouri vs. #10 Vanderbilt",
+    "league": "Fútbol Americano NCAA",
+    "fecha-evento": "2025-10-25T14:30:00-05:00",
+    "img": "17736e11-5f36-4891-a511-6536dd1e5325",
+    "nombre": "disney8e3b32",
+    "status": "14:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "#4 Alabama vs. South Carolina",
+    "league": "Fútbol Americano NCAA",
+    "fecha-evento": "2025-10-25T14:40:00-05:00",
+    "img": "a49c9748-351b-47b1-a100-35abcaf3a474",
+    "nombre": "disney529027",
+    "status": "14:40",
     "duration": 135,
     "play_url": ""
   }
