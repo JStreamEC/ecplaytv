@@ -55,18 +55,24 @@
     "img": "ae0d5285-b40f-4254-ad27-36d27961f441",
     "nombre": "disney7d2ef9",
     "status": "03:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 180,
+    "play_url": "https://www.disneyplus.com/es-es/play/12ef3668-2f96-4b9a-b296-2e8d90f971ef",
+    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1761466825~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Fbbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1759410188321%2F~psid=f2e3eb02-8857-4679-83b2-6e28291959d4~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=3a63ea9b58d01345f690f94a266401a8529ffc8754462d7d5ebea92cdc3117b4/clt1/va02/disneyplus/channel/bbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1759410188321/ctr-all-sliding-alt1.m3u8?v=1&hash=3f2beb7c737b132d1104736b95cd26c3f1914d57",
+    "k1": "61ea67efb1934ab0a5ba46840af7a940",
+    "k2": "173c3dad82ffedcebbd5e3a8160f6493"
   },
   {
     "title": "MotoGP Asia Talent Cup - Grand Prix of Malaysia (Carrera 1)",
     "league": "MotoGP",
-    "fecha-evento": "2025-10-25T03:00:00-05:00",
+    "fecha-evento": "2025-10-25T03:00:09-05:00",
     "img": "ab54444e-96e1-42ed-a13a-7537f2968bfc",
-    "nombre": "disneyd485cb",
+    "nombre": "disneyaf5459",
     "status": "03:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 56,
+    "play_url": "https://www.disneyplus.com/es-es/play/bae06061-9184-4af2-87ca-4e09fdd45c7c",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1761466868~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F25%2FMotoGP_Asia_Talent_Cup_Gr_20251025_1761372027022%2F~psid=839b6c51-970a-43bb-b9ea-a8c806abbfc4~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=3816bbb975950087ca6f932873c3c5a68c7fc9c92f7d0ef377d7942689659026/clt1/va02/disneyplus/event/2025/10/25/MotoGP_Asia_Talent_Cup_Gr_20251025_1761372027022/ctr-all-hdri-complete.m3u8?v=1&hash=9bf3847c41360922773bdba6edba213b71b6d8d2",
+    "k1": "8c12ee25b6bd44ffa502218fa28eeed1",
+    "k2": "0c25986f66701a3c59cab7d4acdc5373"
   },
   {
     "title": "Guangzhou Open (Semifinals)",
