@@ -23,29 +23,6 @@
     "k2": "4f7ff8d7dcbf8fbfcb6973b6b634a6d5"
   },
   {
-    "title": "ATP 500: Basel & Vienna (Semifinals)",
-    "league": "ATP",
-    "fecha-evento": "2025-10-25T08:00:01-05:00",
-    "img": "019a185b-4e88-7f8f-8e8a-5501584fee3e",
-    "nombre": "disneyb836ad",
-    "status": "08:00",
-    "duration": 240,
-    "play_url": "https://www.disneyplus.com/es-es/play/79727429-c0b0-42c0-b6be-e17853d6b0a2",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1761484819~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F25%2FATP_500_Basel_Vienna_Semi_20251025_1761392715664%2F~psid=caaacb2c-1ae9-48b3-b9d8-5265f179aea4~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=297d0e2cb845f0d4f6f345f40057436a4b8a2e9d3f0c59b673450d9ab1130e82/clt1/va02/disneyplus/event/2025/10/25/ATP_500_Basel_Vienna_Semi_20251025_1761392715664/ctr-all-hdri-complete.m3u8?v=1&hash=e4e2bbc8cd1f711f1dc2066586ce7bac88672baa",
-    "k1": "3a964d0eea4e482197d1fbabff200ea2",
-    "k2": "3e10efdc4a0959f6a0259123a0bab5e9"
-  },
-  {
-    "title": "Swiss Indoors Basel (Semifinals)",
-    "league": "ATP",
-    "fecha-evento": "2025-10-25T08:00:03-05:00",
-    "img": "019a185b-4eac-782d-8af8-10dc1ba46a12",
-    "nombre": "disney570221",
-    "status": "08:00",
-    "duration": 240,
-    "play_url": "https://www.disneyplus.com/es-es/play/e7bfb560-3148-4162-b5e1-4bfc9475c9e9"
-  },
-  {
     "title": "UFC 321 | Tom Aspinall vs. Ciryl Gane | ESPN KO",
     "league": "UFC",
     "fecha-evento": "2025-10-25T09:00:00-05:00",
@@ -121,19 +98,6 @@
     "k2": "2aed9246c12f192dae0b73e42ee70a51"
   },
   {
-    "title": "Syracuse vs. #7 Georgia Tech",
-    "league": "Fútbol Americano NCAA",
-    "fecha-evento": "2025-10-25T11:00:00-05:00",
-    "img": "b56b85ef-170b-4032-a164-702c131e93e0",
-    "nombre": "disney1bb2e5",
-    "status": "11:00",
-    "duration": 180,
-    "play_url": "https://www.disneyplus.com/es-es/play/caff21fa-6655-4cc2-a38c-661e127c9aff",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1761494603~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F25%2FSyracuse_vs_7_Georgia_Tec_20251025_1761402321835%2F~psid=d9354a6b-cde9-45d0-bbb6-4ad3f466052c~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=2f8c775c0279433df27ed742e637af9f32db31a46aa95c4aaca32f924b1cbfaa/clt1/va02/disneyplus/event/2025/10/25/Syracuse_vs_7_Georgia_Tec_20251025_1761402321835/ctr-all-hdri-complete.m3u8?v=1&hash=6b2c9f505bb09d9c92b28178e9efb8b5c0be4881",
-    "k1": "e7969973e7ab4148b211bce7a90b2714",
-    "k2": "bda6f837d00d5e91c2fb46d26fcd61bc"
-  },
-  {
     "title": "UAB vs. Florida State",
     "league": "NCAA Beisbol",
     "fecha-evento": "2025-10-25T11:00:00-05:00",
@@ -171,6 +135,19 @@
     "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1761496908~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F25%2FNew_York_Islanders_vs_Phi_20251025_1761402642022%2F~psid=bac36c8b-c59c-47b1-95a3-38ad91a08e22~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=bed2b5ec97a0e697cca3ef24e23016d9f5fa5521daa64d75903ec11bd7461bb9/clt1/va02/disneyplus/event/2025/10/25/New_York_Islanders_vs_Phi_20251025_1761402642022/ctr-all-hdri-complete.m3u8?v=1&hash=b835057370bf11fa7318dea8a83be362aedbcc77",
     "k1": "ea5630fe5a4545cb8df5127fdc0941e4",
     "k2": "53466ec385968552aaa7d4c73e7da7f3"
+  },
+  {
+    "title": "Syracuse vs. #7 Georgia Tech",
+    "league": "Fútbol Americano NCAA",
+    "fecha-evento": "2025-10-25T11:00:00-05:00",
+    "img": "b56b85ef-170b-4032-a164-702c131e93e0",
+    "nombre": "disney1bb2e5",
+    "status": "11:00",
+    "duration": 180,
+    "play_url": "https://www.disneyplus.com/es-es/play/caff21fa-6655-4cc2-a38c-661e127c9aff",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1761494603~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F25%2FSyracuse_vs_7_Georgia_Tec_20251025_1761402321835%2F~psid=d9354a6b-cde9-45d0-bbb6-4ad3f466052c~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=2f8c775c0279433df27ed742e637af9f32db31a46aa95c4aaca32f924b1cbfaa/clt1/va02/disneyplus/event/2025/10/25/Syracuse_vs_7_Georgia_Tec_20251025_1761402321835/ctr-all-hdri-complete.m3u8?v=1&hash=6b2c9f505bb09d9c92b28178e9efb8b5c0be4881",
+    "k1": "e7969973e7ab4148b211bce7a90b2714",
+    "k2": "bda6f837d00d5e91c2fb46d26fcd61bc"
   },
   {
     "title": "App State vs. Old Dominion",
@@ -290,19 +267,6 @@
     "k2": "a2cbd61b8c0e8a50057eccfd218558c8"
   },
   {
-    "title": "Monaco vs. Toulouse",
-    "league": "Ligue 1",
-    "fecha-evento": "2025-10-25T11:56:05-05:00",
-    "img": "25ea5a45-eea3-4834-99ab-278da79e0c92",
-    "nombre": "disney7e8dbd",
-    "status": "11:56",
-    "duration": 119,
-    "play_url": "https://www.disneyplus.com/es-es/play/4f7f0993-df1e-4ece-ac4b-11162a217d9c",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1761498133~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F25%2FMonaco_vs_Toulouse_20251025_1761404131036%2F~psid=af7bc7b7-4b7f-4811-93d2-0a71126ae8e7~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=c16fa80e5468ef41e5bccc12fb36402df638c511b150ea6d952dcb70ed142baa/clt1/va02/disneyplus/event/2025/10/25/Monaco_vs_Toulouse_20251025_1761404131036/ctr-all-hdri-complete.m3u8?v=1&hash=c9e79d3e29d4b4f23e85062305114d9fa456df57",
-    "k1": "8eb35bbcc4e447b0878594e27c01c17a",
-    "k2": "1a017da1b027162a1475f000fe90bfd3"
-  },
-  {
     "title": "Trabzonspor vs. Eyuspor",
     "league": "Super Lig de Turquía",
     "fecha-evento": "2025-10-25T11:55:00-05:00",
@@ -316,17 +280,17 @@
     "k2": "a349f9304a53ae14081b8ac248eef1a1"
   },
   {
-    "title": "Georgia Southern vs. James Madison",
-    "league": "NCAA Women's Volleyball",
-    "fecha-evento": "2025-10-25T12:00:00-05:00",
-    "img": "39531059-f2ed-4585-9b30-34194e1d0936",
-    "nombre": "disney4819bf",
-    "status": "12:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/4b20aa8e-28e7-48bb-b9c5-c4e25b9350a4",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1761498182~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F25%2FGeorgia_Southern_vs_James_20251025_1761404408024%2F~psid=d26227ec-9b0e-454a-a9de-3361fe6f0c4c~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=2a66eaba95bc897c59bc20426374782267791c9626d7fdd54b16930e1173e94e/clt1/va02/disneyplus/event/2025/10/25/Georgia_Southern_vs_James_20251025_1761404408024/ctr-all-hdri-complete.m3u8?v=1&hash=8b834e731f19955d08d4227f63a55899f9a9bd6b",
-    "k1": "f6d624063b3f4f04bf820256dcbd1de6",
-    "k2": "f617253d0bad938db60071cd4a492a29"
+    "title": "Monaco vs. Toulouse",
+    "league": "Ligue 1",
+    "fecha-evento": "2025-10-25T11:56:05-05:00",
+    "img": "25ea5a45-eea3-4834-99ab-278da79e0c92",
+    "nombre": "disney7e8dbd",
+    "status": "11:56",
+    "duration": 119,
+    "play_url": "https://www.disneyplus.com/es-es/play/4f7f0993-df1e-4ece-ac4b-11162a217d9c",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1761498133~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F25%2FMonaco_vs_Toulouse_20251025_1761404131036%2F~psid=af7bc7b7-4b7f-4811-93d2-0a71126ae8e7~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=c16fa80e5468ef41e5bccc12fb36402df638c511b150ea6d952dcb70ed142baa/clt1/va02/disneyplus/event/2025/10/25/Monaco_vs_Toulouse_20251025_1761404131036/ctr-all-hdri-complete.m3u8?v=1&hash=c9e79d3e29d4b4f23e85062305114d9fa456df57",
+    "k1": "8eb35bbcc4e447b0878594e27c01c17a",
+    "k2": "1a017da1b027162a1475f000fe90bfd3"
   },
   {
     "title": "F1 - GP México - Prácticas #3",
@@ -342,6 +306,19 @@
     "k2": "b42522d765b57a555dc8bfe098a31e0f"
   },
   {
+    "title": "Texas Tech vs. UCF",
+    "league": "NCAA Women's Volleyball",
+    "fecha-evento": "2025-10-25T12:00:00-05:00",
+    "img": "656960ec-f18c-48d1-b60f-79973ce982ae",
+    "nombre": "disney4b4083",
+    "status": "12:00",
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/dc6669fe-b0c9-4434-8a26-2cf37c38cd82",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1761498253~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F25%2FTexas_Tech_vs_UCF_20251025_1761404437040%2F~psid=b3a896ba-b307-4ce6-980b-682bb166eafa~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=5e991e3ad37a654c250953bb33d1425e2761d79cb7c2939b41df6acc97b599f5/clt1/va02/disneyplus/event/2025/10/25/Texas_Tech_vs_UCF_20251025_1761404437040/ctr-all-hdri-complete.m3u8?v=1&hash=4657c0e3d536d180bba6d85ef93f32b6b935ccd5",
+    "k1": "fafc62266a1c43d1bfc6e81613934c98",
+    "k2": "179787828a254411b99f29fa23095577"
+  },
+  {
     "title": "Delaware vs. Kennesaw State",
     "league": "NCAA Women's Volleyball",
     "fecha-evento": "2025-10-25T12:00:00-05:00",
@@ -355,17 +332,17 @@
     "k2": "0662e3fc2e741a7ef9a9e12980366516"
   },
   {
-    "title": "Texas Tech vs. UCF",
+    "title": "Georgia Southern vs. James Madison",
     "league": "NCAA Women's Volleyball",
     "fecha-evento": "2025-10-25T12:00:00-05:00",
-    "img": "656960ec-f18c-48d1-b60f-79973ce982ae",
-    "nombre": "disney4b4083",
+    "img": "39531059-f2ed-4585-9b30-34194e1d0936",
+    "nombre": "disney4819bf",
     "status": "12:00",
     "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/dc6669fe-b0c9-4434-8a26-2cf37c38cd82",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1761498253~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F25%2FTexas_Tech_vs_UCF_20251025_1761404437040%2F~psid=b3a896ba-b307-4ce6-980b-682bb166eafa~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=5e991e3ad37a654c250953bb33d1425e2761d79cb7c2939b41df6acc97b599f5/clt1/va02/disneyplus/event/2025/10/25/Texas_Tech_vs_UCF_20251025_1761404437040/ctr-all-hdri-complete.m3u8?v=1&hash=4657c0e3d536d180bba6d85ef93f32b6b935ccd5",
-    "k1": "fafc62266a1c43d1bfc6e81613934c98",
-    "k2": "179787828a254411b99f29fa23095577"
+    "play_url": "https://www.disneyplus.com/es-es/play/4b20aa8e-28e7-48bb-b9c5-c4e25b9350a4",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1761498182~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F25%2FGeorgia_Southern_vs_James_20251025_1761404408024%2F~psid=d26227ec-9b0e-454a-a9de-3361fe6f0c4c~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=2a66eaba95bc897c59bc20426374782267791c9626d7fdd54b16930e1173e94e/clt1/va02/disneyplus/event/2025/10/25/Georgia_Southern_vs_James_20251025_1761404408024/ctr-all-hdri-complete.m3u8?v=1&hash=8b834e731f19955d08d4227f63a55899f9a9bd6b",
+    "k1": "f6d624063b3f4f04bf820256dcbd1de6",
+    "k2": "f617253d0bad938db60071cd4a492a29"
   },
   {
     "title": "F1 GP México, práctica #3 | Cámara On Board",
@@ -673,6 +650,16 @@
     "fecha-evento": "2025-10-25T16:00:00-05:00",
     "img": "997593a6-0a89-438b-a5a9-b47047e21a30",
     "nombre": "disneyc6086b",
+    "status": "16:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Charleston Battery vs. Birmingham Legion FC",
+    "league": "USL Championship",
+    "fecha-evento": "2025-10-25T16:00:00-05:00",
+    "img": "0847493d-3ea3-4b38-a93d-d0f1da941c6d",
+    "nombre": "disney557cd8",
     "status": "16:00",
     "duration": 135,
     "play_url": ""
