@@ -10,19 +10,6 @@
     "play_url": ""
   },
   {
-    "title": "Querétaro Open (Quarterfinals)",
-    "league": "WTA",
-    "fecha-evento": "2025-10-24T19:00:00-05:00",
-    "img": "4a0ed1ff-bcff-4db2-aec2-fce9661596dc",
-    "nombre": "disneyd89c53",
-    "status": "19:00",
-    "duration": 240,
-    "play_url": "https://www.disneyplus.com/es-es/play/284e74f4-a6a2-4dd3-a780-f09a0f8d9dc6",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1761438156~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F25%2FQuertaro_Open_Quarterfina_20251025_1761343235042%2F~psid=44b7dca7-c204-47b2-81cd-494b49de55df~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=282b8d8908ab2f93565ff96184bbcee303125807a35ab4f010a0ebec21ca210d/clt1/va02/disneyplus/event/2025/10/25/Quertaro_Open_Quarterfina_20251025_1761343235042/ctr-all-hdri-complete.m3u8?v=1&hash=7ff024d7ec56456c142339b4db57d37f77180916",
-    "k1": "b88b9dad23d5466e9da8f562dd888b31",
-    "k2": "8eff0a1a2a1a371111ca5d9278e0d0cd"
-  },
-  {
     "title": "Martín León vs. Jaret González | ESPN KO",
     "league": "ESPN",
     "fecha-evento": "2025-10-24T21:00:00-05:00",
@@ -78,12 +65,12 @@
   {
     "title": "Petronas Grand Prix of Malaysia - Qualifying (Moto3)",
     "league": "MotoGP",
-    "fecha-evento": "2025-10-24T23:40:00-05:00",
+    "fecha-evento": "2025-10-24T23:40:10-05:00",
     "img": "01615a1b-ce4d-4a88-9148-4c1905d569a8",
-    "nombre": "disney38422a",
+    "nombre": "disney0c3faf",
     "status": "23:40",
-    "duration": 135,
-    "play_url": ""
+    "duration": 55,
+    "play_url": "https://www.disneyplus.com/es-es/play/a3a81211-7c23-4cc5-8c03-329139add7b3"
   },
   {
     "title": "Petronas Grand Prix of Malaysia - Qualifying (Moto2)",
@@ -401,6 +388,16 @@
     "fecha-evento": "2025-10-25T09:00:00-05:00",
     "img": "cd6c4820-5291-4658-8162-fdb8068e156c",
     "nombre": "disney5081b3",
+    "status": "09:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Costa do Sauípe Open (Semifinals)",
+    "league": "ATP",
+    "fecha-evento": "2025-10-25T09:00:00-05:00",
+    "img": "fd0ae8b6-8b45-420f-a646-1d6f06f87fd6",
+    "nombre": "disney047db3",
     "status": "09:00",
     "duration": 135,
     "play_url": ""
