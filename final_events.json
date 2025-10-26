@@ -23,32 +23,6 @@
     "k2": "cad167fb6b31293c55a52dd22cb7cd8f"
   },
   {
-    "title": "Eintracht Braunschweig vs. Hannover 96",
-    "league": "Bundesliga 2 de Alemania",
-    "fecha-evento": "2025-10-26T07:20:00-05:00",
-    "img": "96e76e1c-7115-41ec-b39b-e09c9d35211e",
-    "nombre": "disney2f52f1",
-    "status": "07:20",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/7b8f0a19-bb36-4721-aecb-4441e9304a5f",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1761572512~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F26%2FEintracht_Braunschweig_vs_20251026_1761474048023%2F~psid=a4d56338-c629-4045-997e-7530b930e38e~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=e6668b35ac263469d5f70bcb8c5f66217c2617fd88365ed8ff013fe95786fcd8/clt1/va02/disneyplus/event/2025/10/26/Eintracht_Braunschweig_vs_20251026_1761474048023/ctr-all-hdri-complete.m3u8?v=1&hash=7de43ee7741ea078dc1c3adfb4d19388a2bb9ab7",
-    "k1": "d10ff59a74804c1c945fbf6feb441c93",
-    "k2": "bce43b498a2cfa163cad46dc1c0f05b9"
-  },
-  {
-    "title": "1. FC Kaiserslautern vs. 1. FC Nurnberg",
-    "league": "Bundesliga 2 de Alemania",
-    "fecha-evento": "2025-10-26T07:25:00-05:00",
-    "img": "20471769-9332-40ef-8770-489315776cd2",
-    "nombre": "disney0b3634",
-    "status": "07:25",
-    "duration": 125,
-    "play_url": "https://www.disneyplus.com/es-es/play/722a1ce4-10e1-4fdc-a248-82f0fc756fa8",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1761572535~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F26%2F1_FC_Kaiserslautern_vs_1__20251026_1761476295934%2F~psid=e7566877-1e7f-49a7-add9-3283066f95d6~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=f0f0ffeb1da420fe4aa2bfe349bf48a1834c38bb514e5f6ba94a09f2bf8ec679/clt1/va02/disneyplus/event/2025/10/26/1_FC_Kaiserslautern_vs_1__20251026_1761476295934/ctr-all-hdri-complete.m3u8?v=1&hash=621f12948253d3cd3364b8a14eebaaf6e2e22479",
-    "k1": "fb75235aa05c44418edad9e3bc2522bb",
-    "k2": "56fb604afb7653ce1f21dbd5e839b98a"
-  },
-  {
     "title": "1. FC Magdeburg vs. Preußen Münster",
     "league": "Bundesliga 2 de Alemania",
     "fecha-evento": "2025-10-26T07:25:00-05:00",
@@ -260,8 +234,11 @@
     "img": "019a1cb1-87ad-76b9-ba33-6ae151f835d1",
     "nombre": "disney60b617",
     "status": "09:30",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/789c20f5-bfff-4052-8bae-40f4816cfec9",
+    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1761576062~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Fec26a05e-a9cc-4db4-804e-77465738e667-1759408066139%2F~psid=ec4ec01f-58ea-493f-ba19-f4bc4813a0f1~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=e23646af25b60e26e342e255fb391374ed8940243675a166a72234fac353ba86/clt1/va02/disneyplus/channel/ec26a05e-a9cc-4db4-804e-77465738e667-1759408066139/ctr-all-sliding-alt1.m3u8?v=1&hash=f49ea62fa7410074aaa3483f688cb1f35dfe9b3b",
+    "k1": "491bc3265c77482da91f003f7917d86d",
+    "k2": "4a777aa86888c9e5d5479d6146ecd752"
   },
   {
     "title": "Real Madrid vs. Barcelona",
@@ -669,6 +646,16 @@
     "fecha-evento": "2025-10-26T16:00:00-05:00",
     "img": "79da3342-f077-4c28-b5cd-6b8ac824b5b9",
     "nombre": "disneyd6ec2e",
+    "status": "16:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "2025 Carvana PPA Tour: Las Vegas Cup",
+    "league": "Professional Pickleball Association",
+    "fecha-evento": "2025-10-26T16:00:00-05:00",
+    "img": "bcc83014-4ac4-4061-87d9-2abbc77a54a6",
+    "nombre": "disneyc3d3a3",
     "status": "16:00",
     "duration": 135,
     "play_url": ""
