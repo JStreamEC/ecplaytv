@@ -36,32 +36,6 @@
     "k2": "27764509e42f407b9ea0aae6fa9f72e1"
   },
   {
-    "title": "Bayer Leverkusen vs. Freiburg",
-    "league": "Bundesliga",
-    "fecha-evento": "2025-10-26T09:20:00-05:00",
-    "img": "ce611f8e-497a-433e-93bf-6d870a08459b",
-    "nombre": "disney1b9c75",
-    "status": "09:20",
-    "duration": 125,
-    "play_url": "https://www.disneyplus.com/es-es/play/1931acd9-c496-421c-ace4-346d81f9dee3",
-    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1761574862~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Ff25bdf06-81c9-4a7c-b128-3128d610ad17-1759409600195%2F~psid=1c9da652-3451-4e40-910d-0ef58d75c8a0~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=7a85e2a8daeb37448b470b90e6d7e77cf926c2685c8c250714b5d9e52acad38f/clt1/va02/disneyplus/channel/f25bdf06-81c9-4a7c-b128-3128d610ad17-1759409600195/ctr-all-sliding-alt1.m3u8?v=1&hash=4daaff4fdbe476e51bcd350032d73b0e9d85df99",
-    "k1": "17186a13452a452a98a46ce4723db868",
-    "k2": "cfa798e2ebf9b779897b06e3e5a86283"
-  },
-  {
-    "title": "Alejandro Davidovich Fokina (ESP) vs. Joao Fonseca (BRA) (Final)",
-    "league": "ATP",
-    "fecha-evento": "2025-10-26T09:30:00-05:00",
-    "img": "019a1cb1-87ad-76b9-ba33-6ae151f835d1",
-    "nombre": "disney60b617",
-    "status": "09:30",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/789c20f5-bfff-4052-8bae-40f4816cfec9",
-    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1761576062~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Fec26a05e-a9cc-4db4-804e-77465738e667-1759408066139%2F~psid=ec4ec01f-58ea-493f-ba19-f4bc4813a0f1~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=e23646af25b60e26e342e255fb391374ed8940243675a166a72234fac353ba86/clt1/va02/disneyplus/channel/ec26a05e-a9cc-4db4-804e-77465738e667-1759408066139/ctr-all-sliding-alt1.m3u8?v=1&hash=f49ea62fa7410074aaa3483f688cb1f35dfe9b3b",
-    "k1": "491bc3265c77482da91f003f7917d86d",
-    "k2": "4a777aa86888c9e5d5479d6146ecd752"
-  },
-  {
     "title": "Real Madrid vs. Barcelona",
     "league": "LALIGA",
     "fecha-evento": "2025-10-26T10:00:00-05:00",
@@ -165,12 +139,15 @@
   {
     "title": "Everton vs. Tottenham Hotspur",
     "league": "Premier League",
-    "fecha-evento": "2025-10-26T11:25:00-05:00",
+    "fecha-evento": "2025-10-26T11:34:50-05:00",
     "img": "d816bd86-1f4f-4e4f-b735-df0087a163b6",
-    "nombre": "disneyc9bc6a",
-    "status": "11:25",
-    "duration": 135,
-    "play_url": ""
+    "nombre": "disneyf8f595",
+    "status": "11:34",
+    "duration": 115,
+    "play_url": "https://www.disneyplus.com/es-es/play/c49afc14-1e57-440c-bf57-405e50a3db97",
+    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1761583262~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Ff25bdf06-81c9-4a7c-b128-3128d610ad17-1759409600195%2F~psid=0d27e7ea-068d-4543-8ef9-3ff485b954ff~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=3ba4db4a308068dee5db1d4ab72fe1d0ed913c8846a19684178d2ecb0f926b7c/clt1/va02/disneyplus/channel/f25bdf06-81c9-4a7c-b128-3128d610ad17-1759409600195/ctr-all-sliding-alt1.m3u8?v=1&hash=4daaff4fdbe476e51bcd350032d73b0e9d85df99",
+    "k1": "17186a13452a452a98a46ce4723db868",
+    "k2": "cfa798e2ebf9b779897b06e3e5a86283"
   },
   {
     "title": "Fiorentina vs. Bologna",
@@ -608,6 +585,26 @@
     "fecha-evento": "2025-10-26T18:00:00-05:00",
     "img": "7e5b286c-56c9-4de1-a61d-e46f99459bc9",
     "nombre": "disney6cc75d",
+    "status": "18:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Compacto | F1 GP México | Carrera (30 min)",
+    "league": "Fórmula 1",
+    "fecha-evento": "2025-10-26T18:00:00-05:00",
+    "img": "cb4dd526-8ecf-4b33-84af-2a6fce315492",
+    "nombre": "disneyd805b4",
+    "status": "18:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Los Angeles Kings vs. Chicago Blackhawks",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-10-26T18:00:00-05:00",
+    "img": "25b71eec-6b97-429e-aba4-88299004ca6b",
+    "nombre": "disney6d6b6c",
     "status": "18:00",
     "duration": 135,
     "play_url": ""
