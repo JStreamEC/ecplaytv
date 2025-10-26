@@ -10,19 +10,6 @@
     "play_url": ""
   },
   {
-    "title": "India vs. Bangladesh",
-    "league": "ESPN",
-    "fecha-evento": "2025-10-26T04:00:10-05:00",
-    "img": "184e3792-3d7c-4d9c-82d8-b6c19859d5c3",
-    "nombre": "disney47b12b",
-    "status": "04:00",
-    "duration": 450,
-    "play_url": "https://www.disneyplus.com/es-es/play/f7e364a2-a4e7-4e7b-a614-15ec7512f0a5",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1761572426~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F26%2FIndia_vs_Bangladesh_20251026_1761463342350%2F~psid=83bb6d5e-c4d1-4ff0-a87d-9eb8e6747ddb~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=5e9c7741f99f4bfa67b368d38e13d884ca00b650d988c8d03194874a3935323a/clt1/va02/disneyplus/event/2025/10/26/India_vs_Bangladesh_20251026_1761463342350/ctr-all-hdri-complete.m3u8?v=1&hash=2baa696e6d6975f8e0e09978c6d3d1ea64e52d06",
-    "k1": "673b8cd53b5b4283b11c26b4f22f13c9",
-    "k2": "cad167fb6b31293c55a52dd22cb7cd8f"
-  },
-  {
     "title": "Costa do Sauípe Open (Final)",
     "league": "ATP",
     "fecha-evento": "2025-10-26T08:02:34-05:00",
@@ -176,16 +163,6 @@
     "k2": "c9f1eb80a5e461296dde63d5769fa5fa"
   },
   {
-    "title": "New York Giants vs. Philadelphia Eagles",
-    "league": "NFL",
-    "fecha-evento": "2025-10-26T12:00:00-05:00",
-    "img": "45eb73aa-c865-49e9-8809-b8419a4c06d5",
-    "nombre": "disney1223d1",
-    "status": "12:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Colorado Avalanche vs. New Jersey Devils",
     "league": "National Hockey League",
     "fecha-evento": "2025-10-26T12:00:00-05:00",
@@ -205,8 +182,24 @@
     "img": "bb874e71-9d8e-4eda-b356-652009eeca90",
     "nombre": "disney4e9106",
     "status": "12:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 180,
+    "play_url": "https://www.disneyplus.com/es-es/play/5e69913f-73d4-42fd-8c5d-99220eeb6d22",
+    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1761585671~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F47873700-1b85-4497-8f84-d6f321fbb196-1759410995494%2F~psid=d8b772e3-b6b8-4d8d-a4af-70a80561bce3~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=e29d331ed09ab7a74ff1a2a1fc13ac97e40ce14263d1ff0a5456a3d49ed84e32/clt1/va02/disneyplus/channel/47873700-1b85-4497-8f84-d6f321fbb196-1759410995494/ctr-all-sliding-alt1.m3u8?v=1&hash=2e1c2c39a1658935937a58e79ecd56c0e3dfb9d6",
+    "k1": "17753f621b5a4aaea7addabb94da39c9",
+    "k2": "30c26cc7c5bfce162a4cb2b739e36ffc"
+  },
+  {
+    "title": "Lindenwood vs. Little Rock",
+    "league": "Fútbol Femenino NCAA",
+    "fecha-evento": "2025-10-26T12:00:00-05:00",
+    "img": "22f05ccd-2be6-4381-b484-0c0a9582da5b",
+    "nombre": "disney1b5f0c",
+    "status": "12:00",
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/f1df2827-bd2a-4773-9057-8aacc21fe327",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1761584600~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F26%2FLindenwood_vs_Little_Rock_20251026_1761490808023%2F~psid=b4ac05d7-38ee-428a-a9f9-877c8b0ef107~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=8064567ebf70bc0140066492d3f8c01fe9bb96a9e79cef18815f4ea3430639c1/clt1/va02/disneyplus/event/2025/10/26/Lindenwood_vs_Little_Rock_20251026_1761490808023/ctr-all-hdri-complete.m3u8?v=1&hash=caee0e64aa432c9e9d9d8be35083212593d0aab5",
+    "k1": "52bf01df16fa4feda51d16fedbc01f26",
+    "k2": "b06d1bb6866c02e7091769b268b738cf"
   },
   {
     "title": "Auburn vs. Oklahoma",
@@ -235,17 +228,17 @@
     "k2": "57561b18a7402bd7bf83a2d1ba6c8d37"
   },
   {
-    "title": "Lindenwood vs. Little Rock",
-    "league": "Fútbol Femenino NCAA",
+    "title": "New York Giants vs. Philadelphia Eagles",
+    "league": "NFL",
     "fecha-evento": "2025-10-26T12:00:00-05:00",
-    "img": "22f05ccd-2be6-4381-b484-0c0a9582da5b",
-    "nombre": "disney1b5f0c",
+    "img": "45eb73aa-c865-49e9-8809-b8419a4c06d5",
+    "nombre": "disney1223d1",
     "status": "12:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/f1df2827-bd2a-4773-9057-8aacc21fe327",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1761584600~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F26%2FLindenwood_vs_Little_Rock_20251026_1761490808023%2F~psid=b4ac05d7-38ee-428a-a9f9-877c8b0ef107~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=8064567ebf70bc0140066492d3f8c01fe9bb96a9e79cef18815f4ea3430639c1/clt1/va02/disneyplus/event/2025/10/26/Lindenwood_vs_Little_Rock_20251026_1761490808023/ctr-all-hdri-complete.m3u8?v=1&hash=caee0e64aa432c9e9d9d8be35083212593d0aab5",
-    "k1": "52bf01df16fa4feda51d16fedbc01f26",
-    "k2": "b06d1bb6866c02e7091769b268b738cf"
+    "duration": 180,
+    "play_url": "https://www.disneyplus.com/es-es/play/0df87841-de12-4de4-82a2-26ca86c6edaf",
+    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1761585715~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F7f9052ce-8143-43a6-9656-a8c00c4a3e56-1760554479235%2F~psid=e03323d7-b89d-4fe0-920c-ae954edbbdb6~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=824d4760926b5db6d2d508f660ea55edadf58adf5fa641b44d164e0815dc53c8/clt1/va02/disneyplus/channel/7f9052ce-8143-43a6-9656-a8c00c4a3e56-1760554479235/ctr-all-sliding-alt1.m3u8?v=1&hash=437e3ef416fefcb19394ac9c8d3e57c2f7f2cec4",
+    "k1": "c69fe8df05e44054878d089ed5121439",
+    "k2": "ac7a7436883c0f9ce23ec93dcd1f0403"
   },
   {
     "title": "NFL Redzone",
@@ -267,8 +260,11 @@
     "img": "5f1ad933-47ae-4cac-adb9-084e59679510",
     "nombre": "disney7d89ac",
     "status": "12:20",
-    "duration": 135,
-    "play_url": ""
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/c252945f-8fad-4f46-b128-22824c89b7eb",
+    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1761585738~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Fbbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1759410188321%2F~psid=f4851d1e-a735-40b5-b560-2f3472806d3c~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=f1d391f2073bd485b9cd36120637669187009f996bae2703d027c39741eedb98/clt1/va02/disneyplus/channel/bbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1759410188321/ctr-all-sliding-alt1.m3u8?v=1&hash=3f2beb7c737b132d1104736b95cd26c3f1914d57",
+    "k1": "e04f50fb0acb43219c3108ed4247ec73",
+    "k2": "6ac42c603a9eb8ea45e969ef00d1bc86"
   },
   {
     "title": "Almeria vs. Castellón",
