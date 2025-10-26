@@ -23,19 +23,6 @@
     "k2": "27764509e42f407b9ea0aae6fa9f72e1"
   },
   {
-    "title": "Colorado Avalanche vs. New Jersey Devils",
-    "league": "National Hockey League",
-    "fecha-evento": "2025-10-26T12:00:00-05:00",
-    "img": "4916486f-262f-479a-96f6-581ab12dfbaa",
-    "nombre": "disneye43b42",
-    "status": "12:00",
-    "duration": 210,
-    "play_url": "https://www.disneyplus.com/es-es/play/42091d7a-6034-4b6c-a13a-ff86c82a24e9",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1761584530~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F26%2FColorado_Avalanche_vs_New_20251026_1761490842022%2F~psid=bfb792a7-d718-4d65-bf97-ac5bd9cbba06~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=433d525e5dfd50a125ebc4930e18f48ae632e2b517042cfbc7c53e1aa2d3f924/clt1/va02/disneyplus/event/2025/10/26/Colorado_Avalanche_vs_New_20251026_1761490842022/ctr-all-hdri-complete.m3u8?v=1&hash=2cf3a7ab614890c60da03a35ea7b24687f313f43",
-    "k1": "3dd6234af73745cab6757501622e2c5f",
-    "k2": "f54a164be12ac0642d6e2a50c82b6e50"
-  },
-  {
     "title": "NFL Redzone",
     "league": "NFL",
     "fecha-evento": "2025-10-26T12:00:00-05:00",
@@ -177,6 +164,19 @@
     "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1761595222~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F26%2FDeportivo_La_Corua_vs_Val_20251026_1761501310023%2F~psid=6fbd69bd-0a90-44d5-8063-a1dca461d0d1~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=9d3618517c17c875181c3d9aedfb64b01e4247108f80e21d44b54ec57b88d13a/clt1/va02/disneyplus/event/2025/10/26/Deportivo_La_Corua_vs_Val_20251026_1761501310023/ctr-all-hdri-complete.m3u8?v=1&hash=24a5a74e9a7da216cc10b67bb6b1ed4fb1e98d69",
     "k1": "8922a26e81674cec81a75e10a5b8b2a3",
     "k2": "9177ac4373ca1f67e87135917e865725"
+  },
+  {
+    "title": "Tennessee Titans vs. Indianapolis Colts",
+    "league": "NFL",
+    "fecha-evento": "2025-10-26T15:03:41-05:00",
+    "img": "70376f8e-f015-4f7b-afd8-4ebf60cca5f1",
+    "nombre": "disneybf3b1b",
+    "status": "15:03",
+    "duration": 206,
+    "play_url": "https://www.disneyplus.com/es-es/play/1da0a339-9d1e-4388-a9dc-965434a686e9",
+    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1761597623~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F47873700-1b85-4497-8f84-d6f321fbb196-1759410995494%2F~psid=7fef2282-f943-4525-aec8-15d4644df195~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=76f75a537a82ca0345ef6fa9040b5937db619ab708df6041981c556c42fbf5ce/clt1/va02/disneyplus/channel/47873700-1b85-4497-8f84-d6f321fbb196-1759410995494/ctr-all-sliding-alt1.m3u8?v=1&hash=2e1c2c39a1658935937a58e79ecd56c0e3dfb9d6",
+    "k1": "17753f621b5a4aaea7addabb94da39c9",
+    "k2": "30c26cc7c5bfce162a4cb2b739e36ffc"
   },
   {
     "title": "Dallas Cowboys vs. Denver Broncos",
@@ -602,6 +602,16 @@
     "fecha-evento": "2025-10-27T05:00:00-05:00",
     "img": "71be2e2b-35f0-468d-92ae-8da947c3ccb5",
     "nombre": "disneyd40c3a",
+    "status": "05:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "ATP 1000: Paris",
+    "league": "ATP",
+    "fecha-evento": "2025-10-27T05:00:00-05:00",
+    "img": "019a21d1-fa91-761a-a6ec-042c7b6d195f",
+    "nombre": "disney249bc0",
     "status": "05:00",
     "duration": 135,
     "play_url": ""
