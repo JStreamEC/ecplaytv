@@ -23,16 +23,6 @@
     "k2": "27764509e42f407b9ea0aae6fa9f72e1"
   },
   {
-    "title": "AZ vs. FC Utrecht (Fecha #10)",
-    "league": "Eredivisie",
-    "fecha-evento": "2025-10-26T10:30:00-05:00",
-    "img": "dd00dde4-4fb2-4529-84e1-350410a41005",
-    "nombre": "disney5dce1c",
-    "status": "10:30",
-    "duration": 135,
-    "play_url": "https://www.disneyplus.com/es-es/play/bbd6df2e-4251-4a69-b31c-27dfcd10293e"
-  },
-  {
     "title": "Oklahoma State vs. #24 West Virginia",
     "league": "Fútbol Femenino NCAA",
     "fecha-evento": "2025-10-26T11:00:02-05:00",
@@ -273,8 +263,11 @@
     "img": "6f3732a5-70c4-46ad-8f09-4e9137a5cc7f",
     "nombre": "disneya6e8ec",
     "status": "13:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/22c11c85-b62c-4607-a610-be659b326d64",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1761588022~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F26%2FArizona_vs_22_Colorado_20251026_1761494436023%2F~psid=2747fc10-ceeb-413c-9d7d-1bc580a784ee~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=4d08dd7258b4fcbf3163be16949b50d6306a75d82a8cb6b6afc84ec6abe17e70/clt1/va02/disneyplus/event/2025/10/26/Arizona_vs_22_Colorado_20251026_1761494436023/ctr-all-hdri-complete.m3u8?v=1&hash=5dc4a7571f7ddbf15276aba33973fa242eb5b9b6",
+    "k1": "a8c6262dc58a4933af2f0ae4901a8cef",
+    "k2": "3963cc1e231bcf0bdfa90b3c0512e771"
   },
   {
     "title": "F1 - GP México - Carrera",
@@ -623,6 +616,16 @@
     "img": "a8c31a2d-13ce-41a8-acbb-4ba8cdf3dda0",
     "nombre": "disneyddb8d0",
     "status": "18:45",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "New York Rangers vs. Calgary Flames",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-10-26T19:00:00-05:00",
+    "img": "e26d855e-bf94-419e-9c2e-62838f411e75",
+    "nombre": "disney59cf47",
+    "status": "19:00",
     "duration": 135,
     "play_url": ""
   }
