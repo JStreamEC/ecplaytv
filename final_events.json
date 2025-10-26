@@ -263,8 +263,11 @@
     "img": "df59a151-0572-466e-a5e6-23ec5fdd6e84",
     "nombre": "disney70acaf",
     "status": "15:55",
-    "duration": 135,
-    "play_url": ""
+    "duration": 65,
+    "play_url": "https://www.disneyplus.com/es-es/play/0699b9ca-477b-41c9-8918-47eec395b56b",
+    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1761598824~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Fbbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1759410188321%2F~psid=6e5c98c5-73ce-4713-ad4f-1fa896fba6cf~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=07fc3ebb163d37fa8e81290c63ebd79429f63753475273693309e79209b4938e/clt1/va02/disneyplus/channel/bbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1759410188321/ctr-all-sliding-alt1.m3u8?v=1&hash=3f2beb7c737b132d1104736b95cd26c3f1914d57",
+    "k1": "e04f50fb0acb43219c3108ed4247ec73",
+    "k2": "6ac42c603a9eb8ea45e969ef00d1bc86"
   },
   {
     "title": "Kings League Americas",
@@ -273,8 +276,11 @@
     "img": "004c3ac9-acd8-4f4e-b57e-2fd3874aa309",
     "nombre": "disney775d5d",
     "status": "15:55",
-    "duration": 135,
-    "play_url": ""
+    "duration": 365,
+    "play_url": "https://www.disneyplus.com/es-es/play/f56e36a4-c777-4418-be7e-ccaa58bfcba7",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1761598868~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F26%2FKings_League_Americas_20251026_1761504934023%2F~psid=669cdba6-8c5f-44ca-831e-70aa132ea49b~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=bf7ead78ea91915b66748bff2757a9a3ac2c5841ee6069f97cd4e2f0f6f0de2d/clt1/va02/disneyplus/event/2025/10/26/Kings_League_Americas_20251026_1761504934023/ctr-all-hdri-complete.m3u8?v=1&hash=c40880508096271f54ad3c4fe41312d8179a31a8",
+    "k1": "1724970f01d84e4fb69342edbcba4ae2",
+    "k2": "6f9de4665c5b7ac55a77df22260d9f2e"
   },
   {
     "title": "Vegas Golden Knights vs. Tampa Bay Lightning",
@@ -313,8 +319,11 @@
     "img": "d8917708-ee39-43c2-af57-9a150ca74c12",
     "nombre": "disneycc4ad5",
     "status": "16:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/a46bfb79-8664-4f00-a1c1-4c24652d41c8",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1761598912~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F26%2FKentucky_vs_Texas_AM_20251026_1761505253032%2F~psid=e7804024-99f6-4146-83ee-34f43a7f0bd3~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=535b00b69af3ffab0ad72baeb86989047e042aeed93800c135b89801aea0a35f/clt1/va02/disneyplus/event/2025/10/26/Kentucky_vs_Texas_AM_20251026_1761505253032/ctr-all-hdri-complete.m3u8?v=1&hash=e62aa5def4ae2a8fa9c506bb2b6bf85f3498515c",
+    "k1": "6aca95ae143d48518c615dd6bada2b01",
+    "k2": "ae7de7bffefc6751e0ff26c64e760777"
   },
   {
     "title": "Utah Mammoth vs. Winnipeg Jets",
@@ -350,7 +359,7 @@
     "title": "Sara Bejlek (CZE) vs. Katrina Scott (USA) (Final)",
     "league": "WTA",
     "fecha-evento": "2025-10-26T17:00:00-05:00",
-    "img": "019a2128-5ad3-7f03-a8eb-5b28edf78f3a",
+    "img": "019a2128-593e-7de7-9ffb-0b174a72ecc2",
     "nombre": "disney8b7088",
     "status": "17:00",
     "duration": 135,
@@ -500,7 +509,7 @@
     "title": "Jiangxi Open / Court 2",
     "league": "WTA",
     "fecha-evento": "2025-10-26T23:00:00-05:00",
-    "img": "e29d165b-b539-43ed-ad35-542a26d49a70",
+    "img": "77874de1-e182-4629-9557-4d0866adb3b5",
     "nombre": "disney0990cf",
     "status": "23:00",
     "duration": 135,
