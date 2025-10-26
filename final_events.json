@@ -23,19 +23,6 @@
     "k2": "27764509e42f407b9ea0aae6fa9f72e1"
   },
   {
-    "title": "Real Madrid vs. Barcelona",
-    "league": "LALIGA",
-    "fecha-evento": "2025-10-26T10:00:00-05:00",
-    "img": "5f1ad933-47ae-4cac-adb9-084e59679510",
-    "nombre": "disney981b18",
-    "status": "10:00",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/a0fc7654-332f-49d4-baea-b04ee2cd61fb",
-    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1761577422~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F921e1311-bb26-43dd-84a6-9e2284959712-1759409855938%2F~psid=7e22e8d9-73ac-44d8-af87-5cf5a8bc097e~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=fe7dc1d685483dd37af17ce6c2396da5ec2b09dddecbed84c5742e1e8954265e/clt1/va02/disneyplus/channel/921e1311-bb26-43dd-84a6-9e2284959712-1759409855938/ctr-all-sliding-alt1.m3u8?v=1&hash=e50ddd99727af0a2947bb1b84904b1697e8043f8",
-    "k1": "3c408fa2f40b47679af0411e0388d617",
-    "k2": "9658031ab1024344e268f4553bd7d815"
-  },
-  {
     "title": "AZ vs. FC Utrecht (Fecha #10)",
     "league": "Eredivisie",
     "fecha-evento": "2025-10-26T10:30:00-05:00",
@@ -176,19 +163,6 @@
     "k2": "f54a164be12ac0642d6e2a50c82b6e50"
   },
   {
-    "title": "San Francisco 49ers vs. Houston Texans",
-    "league": "NFL",
-    "fecha-evento": "2025-10-26T12:00:00-05:00",
-    "img": "bb874e71-9d8e-4eda-b356-652009eeca90",
-    "nombre": "disney4e9106",
-    "status": "12:00",
-    "duration": 180,
-    "play_url": "https://www.disneyplus.com/es-es/play/5e69913f-73d4-42fd-8c5d-99220eeb6d22",
-    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1761585671~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F47873700-1b85-4497-8f84-d6f321fbb196-1759410995494%2F~psid=d8b772e3-b6b8-4d8d-a4af-70a80561bce3~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=e29d331ed09ab7a74ff1a2a1fc13ac97e40ce14263d1ff0a5456a3d49ed84e32/clt1/va02/disneyplus/channel/47873700-1b85-4497-8f84-d6f321fbb196-1759410995494/ctr-all-sliding-alt1.m3u8?v=1&hash=2e1c2c39a1658935937a58e79ecd56c0e3dfb9d6",
-    "k1": "17753f621b5a4aaea7addabb94da39c9",
-    "k2": "30c26cc7c5bfce162a4cb2b739e36ffc"
-  },
-  {
     "title": "Lindenwood vs. Little Rock",
     "league": "Fútbol Femenino NCAA",
     "fecha-evento": "2025-10-26T12:00:00-05:00",
@@ -226,6 +200,19 @@
     "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1761584577~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F26%2FFlorida_vs_Arkansas_20251026_1761491355977%2F~psid=7a8f3688-7a2a-4ab9-b0c8-2f30b6483af6~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=53e706f1993704791c4c39c4db0ba451fc2c9958c07fcd0c20e4cb032841243f/clt1/va02/disneyplus/event/2025/10/26/Florida_vs_Arkansas_20251026_1761491355977/ctr-all-hdri-complete.m3u8?v=1&hash=9744dc4f1c987b5bb6cbb902d32ae385de73d44b",
     "k1": "954014bb99c9467e9d4885cafa68a963",
     "k2": "57561b18a7402bd7bf83a2d1ba6c8d37"
+  },
+  {
+    "title": "San Francisco 49ers vs. Houston Texans",
+    "league": "NFL",
+    "fecha-evento": "2025-10-26T12:00:00-05:00",
+    "img": "bb874e71-9d8e-4eda-b356-652009eeca90",
+    "nombre": "disney4e9106",
+    "status": "12:00",
+    "duration": 180,
+    "play_url": "https://www.disneyplus.com/es-es/play/5e69913f-73d4-42fd-8c5d-99220eeb6d22",
+    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1761585671~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F47873700-1b85-4497-8f84-d6f321fbb196-1759410995494%2F~psid=d8b772e3-b6b8-4d8d-a4af-70a80561bce3~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=e29d331ed09ab7a74ff1a2a1fc13ac97e40ce14263d1ff0a5456a3d49ed84e32/clt1/va02/disneyplus/channel/47873700-1b85-4497-8f84-d6f321fbb196-1759410995494/ctr-all-sliding-alt1.m3u8?v=1&hash=2e1c2c39a1658935937a58e79ecd56c0e3dfb9d6",
+    "k1": "17753f621b5a4aaea7addabb94da39c9",
+    "k2": "30c26cc7c5bfce162a4cb2b739e36ffc"
   },
   {
     "title": "New York Giants vs. Philadelphia Eagles",
@@ -273,8 +260,11 @@
     "img": "35fa6972-04b4-4cb3-ae67-49adef3680d6",
     "nombre": "disneyc50e06",
     "status": "12:25",
-    "duration": 135,
-    "play_url": ""
+    "duration": 125,
+    "play_url": "https://www.disneyplus.com/es-es/play/ead5b615-c7b4-49a5-ae9e-276e31ec4a0a",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1761586864~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F26%2FAlmeria_vs_Castelln_20251026_1761492347041%2F~psid=92b15144-7cf8-4212-b987-b8d95fc6c3e2~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=6748acd1e033b269434b53aa794a9549838e5ab73efb54c511d9b2a5ec3fe663/clt1/va02/disneyplus/event/2025/10/26/Almeria_vs_Castelln_20251026_1761492347041/ctr-all-hdri-complete.m3u8?v=1&hash=ef3dbae45358f68757eb0137955ddf3cf2aa4066",
+    "k1": "68ced869d3c64b44bb8b182dd7071587",
+    "k2": "52f9e591d489e5ffede48aee7d129227"
   },
   {
     "title": "Arizona vs. #22 Colorado",
@@ -623,6 +613,16 @@
     "img": "25b71eec-6b97-429e-aba4-88299004ca6b",
     "nombre": "disney6d6b6c",
     "status": "18:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Miramar Misiones vs. Boston River",
+    "league": "Campeonato Uruguayo",
+    "fecha-evento": "2025-10-26T18:45:00-05:00",
+    "img": "a8c31a2d-13ce-41a8-acbb-4ba8cdf3dda0",
+    "nombre": "disneyddb8d0",
+    "status": "18:45",
     "duration": 135,
     "play_url": ""
   }
