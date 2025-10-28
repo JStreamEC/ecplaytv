@@ -36,19 +36,6 @@
     "k2": "3211379b4881f9242c057797ec9a67f2"
   },
   {
-    "title": "Rolex Paris Masters / Court 1",
-    "league": "ATP",
-    "fecha-evento": "2025-10-28T05:02:33-05:00",
-    "img": "9b93d6f7-f1d8-49ba-b278-9bda2a5ba766",
-    "nombre": "disney38627e",
-    "status": "05:02",
-    "duration": 602,
-    "play_url": "https://www.disneyplus.com/es-es/play/5b931ba7-6eae-486f-8554-06bb40609179",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1761768136~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F28%2FRolex_Paris_Masters_Court_20251028_1761640216720%2F~psid=ef0ee98d-aa86-491c-b160-6203f66f149f~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=32923f3bb8a5caa561ab14918c96b8411297e3a15c7e017726494a173aa55679/clt1/va02/disneyplus/event/2025/10/28/Rolex_Paris_Masters_Court_20251028_1761640216720/ctr-all-hdri-complete.m3u8?v=1&hash=2cc0ab17b26dc966667c23ca3ad40e2427bc71c3",
-    "k1": "142c136583e049cabc27805acc045247",
-    "k2": "4642615091e6713e5706e62a5828eb97"
-  },
-  {
     "title": "Inglaterra vs. Australia",
     "league": "Amistoso Internacional Femenino",
     "fecha-evento": "2025-10-28T13:54:15-05:00",
@@ -511,6 +498,16 @@
     "fecha-evento": "2025-10-29T05:00:00-05:00",
     "img": "019a220f-830d-757e-be1a-875cd97d7897",
     "nombre": "disney9d231c",
+    "status": "05:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Rolex Paris Masters / Court 2",
+    "league": "ATP",
+    "fecha-evento": "2025-10-29T05:00:00-05:00",
+    "img": "363086ae-b049-421d-acf6-e946732429bb",
+    "nombre": "disney9f81f8",
     "status": "05:00",
     "duration": 135,
     "play_url": ""
