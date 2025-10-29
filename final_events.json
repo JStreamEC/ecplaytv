@@ -114,24 +114,30 @@
     "k2": "fb748e3dfb95df98463f6852d1bca56e"
   },
   {
-    "title": "Washington Capitals vs. Dallas Stars",
-    "league": "National Hockey League",
-    "fecha-evento": "2025-10-28T19:30:00-05:00",
-    "img": "5affa8b5-9da9-44b5-b33d-a20aa246625e",
-    "nombre": "disneyd0d343",
-    "status": "19:30",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Ottawa Senators vs. Chicago Blackhawks",
     "league": "National Hockey League",
-    "fecha-evento": "2025-10-28T19:45:00-05:00",
+    "fecha-evento": "2025-10-28T19:30:22-05:00",
     "img": "f758b99e-254e-40d9-be58-75ef530f7ca7",
-    "nombre": "disneyb598e5",
-    "status": "19:45",
-    "duration": 135,
-    "play_url": ""
+    "nombre": "disneyef9894",
+    "status": "19:30",
+    "duration": 225,
+    "play_url": "https://www.disneyplus.com/es-es/play/991e7eef-94f6-4737-8be0-4db20c8d8ecd",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1761784822~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F29%2FOttawa_Senators_vs_Chicag_20251029_1761691508059%2F~psid=5e7443f5-cb25-437b-b332-2f9f84169837~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=ac7e5455ffa269ca438a276bef63b6718369b773c55f1673dc3b7a3090d4d1c6/clt1/va02/disneyplus/event/2025/10/29/Ottawa_Senators_vs_Chicag_20251029_1761691508059/ctr-all-hdri-complete.m3u8?v=1&hash=a6523508614bb3ff88a7614574b31042477725a4",
+    "k1": "bc8a90e4d2dd478b88048318110efe27",
+    "k2": "2c5853f54ed49283783d5a80be200948"
+  },
+  {
+    "title": "Washington Capitals vs. Dallas Stars",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-10-28T19:29:27-05:00",
+    "img": "5affa8b5-9da9-44b5-b33d-a20aa246625e",
+    "nombre": "disney9a4f48",
+    "status": "19:29",
+    "duration": 151,
+    "play_url": "https://www.disneyplus.com/es-es/play/939ec55d-1069-4d29-9b13-4ee84159ae8e",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1761784865~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F29%2FWashington_Capitals_vs_Da_20251029_1761690659036%2F~psid=ae57b5d7-7976-4e96-8a7b-c3ab5bb65d79~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=60f7911f3b00b292619b7f5b3bf3e0c7023f846e792cb3517e5c9c837980106b/clt1/va02/disneyplus/event/2025/10/29/Washington_Capitals_vs_Da_20251029_1761690659036/ctr-all-hdri-complete.m3u8?v=1&hash=464f9e3b0e185e5150503c11be12995353a99eb2",
+    "k1": "650c7371b1d649b7a0eed48bb44f3232",
+    "k2": "df1dc1f8f917167dc59a5798ae33dcd0"
   },
   {
     "title": "New Jersey Devils vs. Colorado Avalanche",
@@ -329,6 +335,16 @@
     "fecha-evento": "2025-10-29T05:00:00-05:00",
     "img": "9b93d6f7-f1d8-49ba-b278-9bda2a5ba766",
     "nombre": "disney659254",
+    "status": "05:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "ATP 1000: Paris",
+    "league": "ATP",
+    "fecha-evento": "2025-10-29T05:00:00-05:00",
+    "img": "019a2d65-8a54-7631-a4a7-7d3fc682a0f1",
+    "nombre": "disneyed5408",
     "status": "05:00",
     "duration": 135,
     "play_url": ""
