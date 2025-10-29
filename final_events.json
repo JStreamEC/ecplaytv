@@ -75,19 +75,6 @@
     "k2": "262f482aa42082db1262c66789e97396"
   },
   {
-    "title": "Rolex Paris Masters / Court 3 (Doubles)",
-    "league": "ATP",
-    "fecha-evento": "2025-10-29T08:03:16-05:00",
-    "img": "17fd5424-9de2-45d4-b937-4efa1fed9f27",
-    "nombre": "disney7ed13f",
-    "status": "08:03",
-    "duration": 417,
-    "play_url": "https://www.disneyplus.com/es-es/play/9727e87e-88d6-4f68-8f66-4d4e9420f453",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1761842586~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F29%2FRolex_Paris_Masters_Court_20251029_1761724838024%2F~psid=dd4b9e7c-6629-41b8-b3d0-2abead823a0d~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=069999d47d7a69dbc61076e8eedd45428fef21a81862f8c340a82f099201eba6/clt1/va02/disneyplus/event/2025/10/29/Rolex_Paris_Masters_Court_20251029_1761724838024/ctr-all-hdri-complete.m3u8?v=1&hash=f34a9733d758ea4e3970825f65fe9c97637aee98",
-    "k1": "ea3f2768d7bf4a5184cb286962584519",
-    "k2": "31ddfa3fda3e0b11e660f0dd25f587cb"
-  },
-  {
     "title": "Premier Padel: Newgiza - Centre Court (Segunda Ronda)",
     "league": "Premier Padel",
     "fecha-evento": "2025-10-29T08:00:11-05:00",
@@ -166,6 +153,29 @@
     "k2": "a9d1c0a66ff57ab05e2f99fe63405ab5"
   },
   {
+    "title": "Le Havre AC vs. Brest",
+    "league": "Ligue 1",
+    "fecha-evento": "2025-10-29T12:48:11-05:00",
+    "img": "358991b3-03c4-4bcf-8b59-c8df85cd5b6d",
+    "nombre": "disney36d456",
+    "status": "12:48",
+    "duration": 132,
+    "play_url": "https://www.disneyplus.com/es-es/play/b48663a6-e060-4b9e-a93f-2322fa621792"
+  },
+  {
+    "title": "Metz vs. Lens",
+    "league": "Ligue 1",
+    "fecha-evento": "2025-10-29T12:48:12-05:00",
+    "img": "db959eef-f9b7-4fea-8825-94e512f6bb2d",
+    "nombre": "disney184e17",
+    "status": "12:48",
+    "duration": 132,
+    "play_url": "https://www.disneyplus.com/es-es/play/ddf95130-7192-4103-956f-acf41d5172b3",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1761847260~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F29%2FMetz_vs_Lens_20251029_1761753307037%2F~psid=ce22c716-6b7a-48ce-a515-e72f4caf1679~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=02472adc0d6c11148aa993e12f4d3ac751f6f6f44b977cceeba9549925d21c8f/clt1/va02/disneyplus/event/2025/10/29/Metz_vs_Lens_20251029_1761753307037/ctr-all-hdri-complete.m3u8?v=1&hash=e7b4bf5e3502045fc15cb3b04306a1c88355a0d7",
+    "k1": "cf5417aa4070427d80b836959f179112",
+    "k2": "b0f2f73a67dde55d04eafe9ea581951f"
+  },
+  {
     "title": "Belgrano vs. Unión de Santa Fe (Fecha # 16)",
     "league": "Torneo Proyección",
     "fecha-evento": "2025-10-29T12:45:00-05:00",
@@ -173,7 +183,10 @@
     "nombre": "disneyb0abc5",
     "status": "12:45",
     "duration": 135,
-    "play_url": ""
+    "play_url": "https://www.disneyplus.com/es-es/play/26fd4c1f-8a3a-4123-a610-0a4bc4bf553b",
+    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1761847303~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Fec26a05e-a9cc-4db4-804e-77465738e667-1759408066139%2F~psid=d4ec37d0-8d15-4a08-99ce-5654ce2473e2~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=6a3d7cd66eafe6d9fd514b6dbff3284d9e667eaef4cdee7ff3fa1c6d6e6e7d97/clt1/va02/disneyplus/channel/ec26a05e-a9cc-4db4-804e-77465738e667-1759408066139/ctr-all-sliding-alt1.m3u8?v=1&hash=f49ea62fa7410074aaa3483f688cb1f35dfe9b3b",
+    "k1": "353cc674ac164f6891621793a5000a99",
+    "k2": "19d4babdd15811dec389521b92e96a77"
   },
   {
     "title": "Lorient vs. PSG",
@@ -182,38 +195,24 @@
     "img": "019a1179-f294-7629-8e6a-24dbc15fef54",
     "nombre": "disneya0b638",
     "status": "12:50",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Le Havre AC vs. Brest",
-    "league": "Ligue 1",
-    "fecha-evento": "2025-10-29T12:55:00-05:00",
-    "img": "5bb35bb3-f707-4c4c-9257-51e3deb99aa9",
-    "nombre": "disney911874",
-    "status": "12:55",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Metz vs. Lens",
-    "league": "Ligue 1",
-    "fecha-evento": "2025-10-29T12:55:00-05:00",
-    "img": "db959eef-f9b7-4fea-8825-94e512f6bb2d",
-    "nombre": "disneyac5e53",
-    "status": "12:55",
-    "duration": 135,
-    "play_url": ""
+    "duration": 125,
+    "play_url": "https://www.disneyplus.com/es-es/play/a778dc7d-ee05-47f3-9a27-d4214cabdfa4",
+    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1761847326~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Ff25bdf06-81c9-4a7c-b128-3128d610ad17-1759409600195%2F~psid=2815f922-a161-4498-b9cb-5afc1aae6457~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=2a8ab1e46ad88acf3a8785c4765141fa324b8908bede9e5ccac25386de6c9267/clt1/va02/disneyplus/channel/f25bdf06-81c9-4a7c-b128-3128d610ad17-1759409600195/ctr-all-sliding-alt1.m3u8?v=1&hash=4daaff4fdbe476e51bcd350032d73b0e9d85df99",
+    "k1": "e63c6d8326dc4c0489d330ceb5820d7b",
+    "k2": "e668fb516b715be71405c944aeadee0f"
   },
   {
     "title": "Nice vs. Lille",
     "league": "Ligue 1",
-    "fecha-evento": "2025-10-29T12:55:00-05:00",
+    "fecha-evento": "2025-10-29T12:52:09-05:00",
     "img": "019a12ba-fd5b-7008-8127-2a1cc40e01b7",
-    "nombre": "disney6e23c1",
-    "status": "12:55",
-    "duration": 135,
-    "play_url": ""
+    "nombre": "disneyd6ee00",
+    "status": "12:52",
+    "duration": 128,
+    "play_url": "https://www.disneyplus.com/es-es/play/f6d5db92-c877-4a10-af86-d5fa4b3e312d",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1761847348~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F29%2FNice_vs_Lille_20251029_1761753339022%2F~psid=4deff7a7-1983-4741-b584-80f3984c3f29~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=237a0fc8ced20168d4a57ff86703559d9379442ce71dbcd7de640fea21af00c4/clt1/va02/disneyplus/event/2025/10/29/Nice_vs_Lille_20251029_1761753339022/ctr-all-hdri-complete.m3u8?v=1&hash=3e07d4d395e2fcd3bb4944b0ff0e3bd65b83cace",
+    "k1": "a81c32e5ef0845bab497d4fbb5b240b0",
+    "k2": "64edaa88b1d8592d1370c94cae52963c"
   },
   {
     "title": "Wolverhampton Wanderers vs. Chelsea",
