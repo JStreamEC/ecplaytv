@@ -10,32 +10,6 @@
     "play_url": ""
   },
   {
-    "title": "Rolex Paris Masters / Court 1",
-    "league": "ATP",
-    "fecha-evento": "2025-10-29T04:58:15-05:00",
-    "img": "9b93d6f7-f1d8-49ba-b278-9bda2a5ba766",
-    "nombre": "disneyb3e399",
-    "status": "04:58",
-    "duration": 512,
-    "play_url": "https://www.disneyplus.com/es-es/play/a778fec3-d6ce-4257-8e8e-bcc1e6208744",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1761842432~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F29%2FRolex_Paris_Masters_Court_20251029_1761724803023%2F~psid=83882e3f-b195-42c1-8b45-cfcbbbbbbd96~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=582d06274c869e27a07aee7e6213743eea7117c4c42774266abe9b9e5b8c8043/clt1/va02/disneyplus/event/2025/10/29/Rolex_Paris_Masters_Court_20251029_1761724803023/ctr-all-hdri-complete.m3u8?v=1&hash=c3b0312c70a674282e502103e77b836813fe7955",
-    "k1": "0b21afa5bab740ba88f9179abc9c6fd5",
-    "k2": "45188f0f38908f1a4b7cb1c6f6fe0cfc"
-  },
-  {
-    "title": "ATP 1000: Paris",
-    "league": "ATP",
-    "fecha-evento": "2025-10-29T05:00:02-05:00",
-    "img": "019a30c3-76e0-7fe0-8d33-fe80361b4c29",
-    "nombre": "disney13f1f4",
-    "status": "05:00",
-    "duration": 720,
-    "play_url": "https://www.disneyplus.com/es-es/play/e21da2cb-4490-4c58-a28c-472ec057c76e",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1761842517~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F29%2FATP_1000_Paris_20251029_1761724839040%2F~psid=b1b654df-0481-4913-94c6-f5a9e182f59f~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=4de8d0275a38783a9e36d711835f943a09ec68ddd18a13189cef8f648ebf34eb/clt1/va02/disneyplus/event/2025/10/29/ATP_1000_Paris_20251029_1761724839040/ctr-all-hdri-complete.m3u8?v=1&hash=af457457accdce07691a06f09c6037142b9f1379",
-    "k1": "82dda12e611a483f84ada183af32d658",
-    "k2": "faa1cf86eb5eda60043cdb555888f553"
-  },
-  {
     "title": "Georgia Southern vs. App State",
     "league": "Fútbol Femenino NCAA",
     "fecha-evento": "2025-10-29T17:00:02-05:00",
@@ -342,6 +316,26 @@
     "play_url": ""
   },
   {
+    "title": "Rolex Paris Masters / Court 1",
+    "league": "ATP",
+    "fecha-evento": "2025-10-30T05:00:00-05:00",
+    "img": "13e3d621-3c42-458a-a111-034b2c4e8c6f",
+    "nombre": "disney363870",
+    "status": "05:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "ATP 1000: Paris",
+    "league": "ATP",
+    "fecha-evento": "2025-10-30T05:00:00-05:00",
+    "img": "019a31c6-91cf-78c9-ba50-957c45807ffb",
+    "nombre": "disney7d3d63",
+    "status": "05:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
     "title": "The Rolex Grand Final supported by The R&A (First Round)",
     "league": "DP World Tour",
     "fecha-evento": "2025-10-30T06:00:00-05:00",
@@ -558,6 +552,26 @@
     "img": "96db4039-891b-4da3-95fc-dda4b56249a9",
     "nombre": "disney750d7a",
     "status": "18:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Marshall vs. Coastal Carolina",
+    "league": "Fútbol Americano NCAA",
+    "fecha-evento": "2025-10-30T18:30:00-05:00",
+    "img": "834f9796-122b-477a-893c-e5c3b61b9eb7",
+    "nombre": "disney1d4946",
+    "status": "18:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Vancouver Canucks vs. St. Louis Blues",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-10-30T19:00:00-05:00",
+    "img": "d9ce2013-bec7-4419-810b-72c2ff7357a9",
+    "nombre": "disneyb8643f",
+    "status": "19:00",
     "duration": 135,
     "play_url": ""
   }
