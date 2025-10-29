@@ -88,19 +88,6 @@
     "k2": "c6b15646e0aa0ea2d3e860881ff02e79"
   },
   {
-    "title": "Atlético Mineiro (BRA) vs. Independiente Del Valle (ECU) | Semifinal, vuelta",
-    "league": "CONMEBOL Sudamericana",
-    "fecha-evento": "2025-10-28T19:15:00-05:00",
-    "img": "019a0dfc-4401-7177-a946-a4e20f154bcc",
-    "nombre": "disneyec83e6",
-    "status": "19:15",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/2de37408-aee7-4a9f-a98e-ae18d134f6e2",
-    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1761783803~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F921e1311-bb26-43dd-84a6-9e2284959712-1759409855938%2F~psid=f78563e3-d65b-4fb2-8df1-41b156e7bf8a~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=1263977b127117a0ad7c004fa60dbe31bafe4978c6601376a895879d3dd5b8bd/clt1/va02/disneyplus/channel/921e1311-bb26-43dd-84a6-9e2284959712-1759409855938/ctr-all-sliding-alt1.m3u8?v=1&hash=e50ddd99727af0a2947bb1b84904b1697e8043f8",
-    "k1": "d2756c5da97c48e2b47892001ee726c9",
-    "k2": "fb748e3dfb95df98463f6852d1bca56e"
-  },
-  {
     "title": "Ottawa Senators vs. Chicago Blackhawks",
     "league": "National Hockey League",
     "fecha-evento": "2025-10-28T19:30:22-05:00",
@@ -181,12 +168,15 @@
   {
     "title": "Montreal Canadiens vs. Seattle Kraken",
     "league": "National Hockey League",
-    "fecha-evento": "2025-10-28T21:30:00-05:00",
+    "fecha-evento": "2025-10-28T21:30:16-05:00",
     "img": "6918f3e1-088b-4930-99a2-51f4a227fb39",
-    "nombre": "disneyb1a095",
+    "nombre": "disney0f5e0a",
     "status": "21:30",
-    "duration": 135,
-    "play_url": ""
+    "duration": 210,
+    "play_url": "https://www.disneyplus.com/es-es/play/2817863a-fd42-421e-a2a8-8267df634f27",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1761792019~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F29%2FMontreal_Canadiens_vs_Sea_20251029_1761697858023%2F~psid=df1d1b43-b81c-435d-b010-173cede04e4f~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=aca6057e85c028a56bf6d911badb1b4cd7959a678093138c44420d07542f5031/clt1/va02/disneyplus/event/2025/10/29/Montreal_Canadiens_vs_Sea_20251029_1761697858023/ctr-all-hdri-complete.m3u8?v=1&hash=edb528b24589356fedaccd8431af43e61c8e315b",
+    "k1": "fb822bbdcc1940a08e5eebe5965776d2",
+    "k2": "0c95ee5a5e78e8bd113be2079164c7e5"
   },
   {
     "title": "Jiangxi Open / Court 1 (Doubles)",
@@ -575,6 +565,16 @@
     "img": "019a12a3-17c3-78f4-8d01-d54a585a1536",
     "nombre": "disney26df71",
     "status": "14:55",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Paris FC vs. Lyon",
+    "league": "Ligue 1",
+    "fecha-evento": "2025-10-29T15:00:00-05:00",
+    "img": "019a12a7-cd70-70ed-92f8-9e9f6fd819e3",
+    "nombre": "disneyca3866",
+    "status": "15:00",
     "duration": 135,
     "play_url": ""
   }
