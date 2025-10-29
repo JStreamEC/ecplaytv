@@ -49,19 +49,6 @@
     "k2": "6d6a8c7ee8824c4643ba40602378a54a"
   },
   {
-    "title": "FC Motagua vs. CS Cartaginés (Play-In, Leg 2)",
-    "league": "Concacaf Central American Cup",
-    "fecha-evento": "2025-10-28T20:50:00-05:00",
-    "img": "79de447d-f0e6-4cc3-9011-4740f19708d3",
-    "nombre": "disneycf13f8",
-    "status": "20:50",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/472c6984-fe43-404b-8b7e-bb05e1388511",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1761789623~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F29%2FFC_Motagua_vs_CS_Cartagin_20251029_1761695437022%2F~psid=3980b50e-a7e3-449b-9f4c-906fcbd649a3~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=376cc1fd831d0e6e7b6814df45c771538c53ec5ba1f819a2bc131ce3e2f5fcc9/clt1/va02/disneyplus/event/2025/10/29/FC_Motagua_vs_CS_Cartagin_20251029_1761695437022/ctr-all-hdri-complete.m3u8?v=1&hash=ab7cf87b94e184baab9c5416c22e04fbaf5e58d6",
-    "k1": "734083bc79bb456db062c21ecf2f2d8a",
-    "k2": "b915593c0ceb0b74a766ed32d9de5ff3"
-  },
-  {
     "title": "New York Rangers vs. Vancouver Canucks",
     "league": "National Hockey League",
     "fecha-evento": "2025-10-28T21:00:01-05:00",
@@ -583,6 +570,16 @@
     "img": "8b0b0100-dc53-41fa-837d-942813d79085",
     "nombre": "disneyb354c3",
     "status": "18:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Jacksonville State vs. Middle Tennessee",
+    "league": "Fútbol Americano NCAA",
+    "fecha-evento": "2025-10-29T18:30:00-05:00",
+    "img": "5e74ed6b-92b6-4a91-9d0a-1e0b0471bff0",
+    "nombre": "disney766896",
+    "status": "18:30",
     "duration": 135,
     "play_url": ""
   }
