@@ -1,8 +1,8 @@
 [
   {
-    "daddy_base": "https://kondoplay.cfd/premiumtv/daddyhd.php?id=",
+    "daddy_base": "https://newzar.xyz/premiumtv/daddyhd.php?id=",
     "auth_base": "https://top2new.newkso.ru/auth.php",
-    "referer": "https://kondoplay.cfd/",
-    "origin": "https://kondoplay.cfd/"
+    "referer": "https://jxoplay.xyz/",
+    "origin": "https://jxoplay.xyz/"
   }
 ]
