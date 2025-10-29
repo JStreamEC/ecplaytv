@@ -10,19 +10,6 @@
     "play_url": ""
   },
   {
-    "title": "Pittsburgh Penguins vs. Philadelphia Flyers",
-    "league": "National Hockey League",
-    "fecha-evento": "2025-10-28T17:00:03-05:00",
-    "img": "cd0c5553-d422-41a2-b746-05abc167edee",
-    "nombre": "disney61364a",
-    "status": "17:00",
-    "duration": 150,
-    "play_url": "https://www.disneyplus.com/es-es/play/6b31516d-b3b4-46e7-a9f9-e7ad35d1bd8a",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1761776463~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F28%2FPittsburgh_Penguins_vs_Ph_20251028_1761681635035%2F~psid=613abfa2-d567-44fe-9b89-5e577cf3e7cd~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=bac38dd1c2d1d83791914dfe4bbd500502a0a966167f69a8352ae69a7317d9fa/clt1/va02/disneyplus/event/2025/10/28/Pittsburgh_Penguins_vs_Ph_20251028_1761681635035/ctr-all-hdri-complete.m3u8?v=1&hash=ae2e2d0f41ab09ea4b1dce179e9a1178edf51653",
-    "k1": "1b87e080f7dc4dfe95cbf13122c0864c",
-    "k2": "e192725a38fcc701fe2a05b781f2014b"
-  },
-  {
     "title": "Winnipeg Jets vs. Minnesota Wild",
     "league": "National Hockey League",
     "fecha-evento": "2025-10-28T19:00:10-05:00",
@@ -142,12 +129,15 @@
   {
     "title": "New Jersey Devils vs. Colorado Avalanche",
     "league": "National Hockey League",
-    "fecha-evento": "2025-10-28T20:00:00-05:00",
+    "fecha-evento": "2025-10-28T20:00:17-05:00",
     "img": "9578ebfe-54af-4707-b84a-0b209c2e4dda",
-    "nombre": "disney1b782a",
+    "nombre": "disney333dd4",
     "status": "20:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 210,
+    "play_url": "https://www.disneyplus.com/es-es/play/1b9d83ea-bf1a-4970-aeaf-6b6f6127d52b",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1761787222~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F29%2FNew_Jersey_Devils_vs_Colo_20251029_1761692443022%2F~psid=fea04378-aa3a-45f8-b8c5-22e0744ecba5~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=607adaee51a0c242301d460d6d7fa28b2c6f866796b50f887674867454312e18/clt1/va02/disneyplus/event/2025/10/29/New_Jersey_Devils_vs_Colo_20251029_1761692443022/ctr-all-hdri-complete.m3u8?v=1&hash=068087b4402e157b7cc613dfe8c050470860091f",
+    "k1": "04f6a97281774e32aaa5bc497d171bc2",
+    "k2": "4f5f06a3b5f164c29a93beb94d48825a"
   },
   {
     "title": "Utah Mammoth vs. Edmonton Oilers",
@@ -565,6 +555,16 @@
     "fecha-evento": "2025-10-29T14:55:00-05:00",
     "img": "019a1154-78ce-77f3-8771-d4525cae532d",
     "nombre": "disney789b29",
+    "status": "14:55",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Olympique Marseille vs. Angers",
+    "league": "Ligue 1",
+    "fecha-evento": "2025-10-29T14:55:00-05:00",
+    "img": "019a12a3-17c3-78f4-8d01-d54a585a1536",
+    "nombre": "disney26df71",
     "status": "14:55",
     "duration": 135,
     "play_url": ""
