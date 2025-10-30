@@ -10,19 +10,6 @@
     "play_url": ""
   },
   {
-    "title": "Arkansas vs. Oklahoma",
-    "league": "NCAA Women's Volleyball",
-    "fecha-evento": "2025-10-29T18:00:01-05:00",
-    "img": "727ee0a2-2018-47e8-a2f7-283ef11885e4",
-    "nombre": "disney19646f",
-    "status": "18:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/0a64dd95-1b25-40ad-a439-1e7fc3cdf65b",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1761866418~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F29%2FArkansas_vs_Oklahoma_20251029_1761771643021%2F~psid=919d98e9-7ef8-442a-a6a8-bcc2bc14e979~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=43c8794c3621bb3b5531b0571df64cd6b87d13cb753186948ac91e21f73a0c76/clt1/va02/disneyplus/event/2025/10/29/Arkansas_vs_Oklahoma_20251029_1761771643021/ctr-all-hdri-complete.m3u8?v=1&hash=d66f334fce451bb4d607cc463dd4d92fd48fb706",
-    "k1": "5e0b5d73e07d419cae903de33466b3dc",
-    "k2": "0143b70ecccf1c74f6004301d9b3d2e5"
-  },
-  {
     "title": "En Español-Cleveland Cavaliers vs. Boston Celtics",
     "league": "NBA",
     "fecha-evento": "2025-10-29T18:00:00-05:00",
@@ -133,8 +120,11 @@
     "img": "06b9ec8d-cb12-4e6c-9c06-4756f1f5d634",
     "nombre": "disney2478da",
     "status": "20:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/2d3c4c12-a12a-4391-8773-6f373f454b9d",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1761873619~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F30%2F13_TCU_vs_6_Arizona_State_20251030_1761778817022%2F~psid=e70f7cd3-34cf-44e1-bb1f-3ebda61b6b72~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=5badfbef41afb715aa05f5b23e78a58e636b00cc01efa8b1655c39d7485252b3/clt1/va02/disneyplus/event/2025/10/30/13_TCU_vs_6_Arizona_State_20251030_1761778817022/ctr-all-hdri-complete.m3u8?v=1&hash=6b77ad5c820793456166198d9eb3afd35b567b15",
+    "k1": "10a472207db2400b8bbc82553ca0dbf9",
+    "k2": "9214768eaa60e05389e2e6fac7bba12d"
   },
   {
     "title": "En Español-Los Angeles Lakers vs. Minnesota Timberwolves",
