@@ -10,19 +10,6 @@
     "play_url": ""
   },
   {
-    "title": "En Español-Cleveland Cavaliers vs. Boston Celtics",
-    "league": "NBA",
-    "fecha-evento": "2025-10-29T18:00:00-05:00",
-    "img": "aa98ef7b-193e-42bc-9bf5-4ab5a7f79e32",
-    "nombre": "disney2d99bf",
-    "status": "18:00",
-    "duration": 150,
-    "play_url": "https://www.disneyplus.com/es-es/play/9ff0ebf1-e049-488c-8e7b-acc573d4bac7",
-    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1761866504~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Fbbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1759410188321%2F~psid=e457254d-cb36-49d1-8db3-dccdf1a848e7~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=a8314707d81999b8baf9d877e2e19ca74f11f2c10dfe8df99291aca14916c918/clt1/va02/disneyplus/channel/bbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1759410188321/ctr-all-sliding-alt1.m3u8?v=1&hash=3f2beb7c737b132d1104736b95cd26c3f1914d57",
-    "k1": "346f50a0aaa44138942d578385a743fa",
-    "k2": "556d6b32353744992abc9cbdc559d305"
-  },
-  {
     "title": "CD Plaza Amador vs. Sporting San Miguelito (Play-In, Leg 2)",
     "league": "Concacaf Central American Cup",
     "fecha-evento": "2025-10-29T18:30:01-05:00",
@@ -129,12 +116,15 @@
   {
     "title": "En Español-Los Angeles Lakers vs. Minnesota Timberwolves",
     "league": "NBA",
-    "fecha-evento": "2025-10-29T20:30:00-05:00",
+    "fecha-evento": "2025-10-29T20:38:00-05:00",
     "img": "6850e1f5-94a3-49b5-a976-7da740b6c69b",
-    "nombre": "disneyc09be0",
-    "status": "20:30",
-    "duration": 135,
-    "play_url": ""
+    "nombre": "disneyfb8831",
+    "status": "20:38",
+    "duration": 142,
+    "play_url": "https://www.disneyplus.com/es-es/play/2e0318ee-3f17-4f4b-90fb-fc21a12f9a0e",
+    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1761874819~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Fbbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1759410188321%2F~psid=46af58eb-d429-431d-a334-9f09182ab8bd~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=c528469e726a08b2b321307bc34f9ab896e856ea8af14db913f95db18912f8ce/clt1/va02/disneyplus/channel/bbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1759410188321/ctr-all-sliding-alt1.m3u8?v=1&hash=3f2beb7c737b132d1104736b95cd26c3f1914d57",
+    "k1": "346f50a0aaa44138942d578385a743fa",
+    "k2": "556d6b32353744992abc9cbdc559d305"
   },
   {
     "title": "Club Xelajú MC vs. Real CD España (Semifinals, Leg 2)",
@@ -572,6 +562,16 @@
     "fecha-evento": "2025-10-30T19:00:00-05:00",
     "img": "6c7966b8-983c-4cf9-bd7e-77db8b9fa3f2",
     "nombre": "disney0daf27",
+    "status": "19:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Baltimore Ravens vs. Miami Dolphins",
+    "league": "NFL",
+    "fecha-evento": "2025-10-30T19:00:00-05:00",
+    "img": "6d1a7fb2-9075-4db7-8d12-8241781d6205",
+    "nombre": "disneyd27b16",
     "status": "19:00",
     "duration": 135,
     "play_url": ""
