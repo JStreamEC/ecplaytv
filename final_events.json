@@ -23,29 +23,6 @@
     "k2": "e4045e91c6280af9e28a7fa5027671a8"
   },
   {
-    "title": "Augsburg vs. Borussia Dortmund",
-    "league": "Bundesliga",
-    "fecha-evento": "2025-10-31T14:20:00-05:00",
-    "img": "019a2d1c-2da4-78f9-bc90-79080c9a105e",
-    "nombre": "disney8bba17",
-    "status": "14:20",
-    "duration": 125,
-    "play_url": "https://www.disneyplus.com/es-es/play/fcf15936-aaf6-4805-b425-86c5f0075d72",
-    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1762024818~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F921e1311-bb26-43dd-84a6-9e2284959712-1759409855938%2F~psid=c401fd9a-dbba-4b00-b105-157624044f79~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=2fae4860e598931b9dcfb62c95554d2002463def10f77731ea06b318027aef83/clt1/va02/disneyplus/channel/921e1311-bb26-43dd-84a6-9e2284959712-1759409855938/ctr-all-sliding-alt1.m3u8?v=1&hash=e50ddd99727af0a2947bb1b84904b1697e8043f8",
-    "k1": "8313e2b472a1493b98c17a277c543b25",
-    "k2": "9e66a4f0061af4b400840b632bb41678"
-  },
-  {
-    "title": "Luton Town vs. Forest Green Rovers (Round 1)",
-    "league": "FA Cup",
-    "fecha-evento": "2025-10-31T14:20:15-05:00",
-    "img": "019a1e6c-6f07-7482-ad37-5e50ab70c9ab",
-    "nombre": "disneyf24831",
-    "status": "14:20",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/ac41d54f-be09-4d14-aeee-a270c706fccb"
-  },
-  {
     "title": "Racing Santander vs. Real Sociedad B",
     "league": "Segunda División de España",
     "fecha-evento": "2025-10-31T14:25:03-05:00",
@@ -181,16 +158,6 @@
     "fecha-evento": "2025-10-31T17:00:00-05:00",
     "img": "beff5b5c-7d5e-4436-b986-a8930a44d6fd",
     "nombre": "disney9e894d",
-    "status": "17:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Wagner vs. Mount St. Mary's",
-    "league": "NCAA Men's Water Polo",
-    "fecha-evento": "2025-10-31T17:00:00-05:00",
-    "img": "78b13d22-e497-45a5-ba4a-23f0ed36de3d",
-    "nombre": "disney86e89c",
     "status": "17:00",
     "duration": 135,
     "play_url": ""
@@ -622,6 +589,26 @@
     "img": "6cf55ca9-32d6-4a7d-aa2a-5520275c7f29",
     "nombre": "disneycd0b59",
     "status": "08:10",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "RC Toulon vs. Lyon",
+    "league": "Top 14",
+    "fecha-evento": "2025-11-01T08:20:00-05:00",
+    "img": "019a27a3-fb63-7129-86de-34ce94decea7",
+    "nombre": "disneye9a82b",
+    "status": "08:20",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Rolex Paris Masters (Semifinals)",
+    "league": "ATP",
+    "fecha-evento": "2025-11-01T08:30:00-05:00",
+    "img": "019a3bfb-dc8a-76f8-ae16-230d577408a9",
+    "nombre": "disney80a00e",
+    "status": "08:30",
     "duration": 135,
     "play_url": ""
   }
