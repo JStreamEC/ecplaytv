@@ -49,16 +49,6 @@
     "k2": "5105b3a42b8fe759d24aa3e3ae91d673"
   },
   {
-    "title": "Istanbul Basaksehir vs. Kocaelispor",
-    "league": "Super Lig de Turquía",
-    "fecha-evento": "2025-10-31T11:52:10-05:00",
-    "img": "019a3b31-02df-79f5-b7ca-9aa6fdbaebda",
-    "nombre": "disney8f2fa8",
-    "status": "11:52",
-    "duration": 143,
-    "play_url": "https://www.disneyplus.com/es-es/play/a4a85b41-5d0e-49f5-8899-4376ad602503"
-  },
-  {
     "title": "SV Elversberg vs. Hannover 96",
     "league": "Bundesliga 2 de Alemania",
     "fecha-evento": "2025-10-31T12:20:05-05:00",
@@ -130,8 +120,11 @@
     "img": "019a2d1c-2da4-78f9-bc90-79080c9a105e",
     "nombre": "disney8bba17",
     "status": "14:20",
-    "duration": 135,
-    "play_url": ""
+    "duration": 125,
+    "play_url": "https://www.disneyplus.com/es-es/play/fcf15936-aaf6-4805-b425-86c5f0075d72",
+    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1762024818~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F921e1311-bb26-43dd-84a6-9e2284959712-1759409855938%2F~psid=c401fd9a-dbba-4b00-b105-157624044f79~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=2fae4860e598931b9dcfb62c95554d2002463def10f77731ea06b318027aef83/clt1/va02/disneyplus/channel/921e1311-bb26-43dd-84a6-9e2284959712-1759409855938/ctr-all-sliding-alt1.m3u8?v=1&hash=e50ddd99727af0a2947bb1b84904b1697e8043f8",
+    "k1": "8313e2b472a1493b98c17a277c543b25",
+    "k2": "9e66a4f0061af4b400840b632bb41678"
   },
   {
     "title": "Racing Santander vs. Real Sociedad B",
@@ -609,6 +602,16 @@
     "fecha-evento": "2025-11-01T06:55:00-05:00",
     "img": "bbd9b335-786d-4d2b-8575-68d4182eee4e",
     "nombre": "disney052e55",
+    "status": "06:55",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Chelsea vs. London City Lionesses",
+    "league": "English Women's Super League",
+    "fecha-evento": "2025-11-01T06:55:00-05:00",
+    "img": "044ab229-0689-4ff7-8b38-d7319cd93ed4",
+    "nombre": "disney590a58",
     "status": "06:55",
     "duration": 135,
     "play_url": ""
