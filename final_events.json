@@ -62,19 +62,6 @@
     "k2": "929899adbaa30de5c64327bab473ede1"
   },
   {
-    "title": "Wake Forest vs. Virginia",
-    "league": "NCAA Women's Field Hockey",
-    "fecha-evento": "2025-10-31T16:00:00-05:00",
-    "img": "85af0f1b-f304-4837-8b8e-5ed358effb74",
-    "nombre": "disney7bab7f",
-    "status": "16:00",
-    "duration": 90,
-    "play_url": "https://www.disneyplus.com/es-es/play/8da28bc0-ea9f-43b4-aecd-25c8486b18f3",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1762030952~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F31%2FWake_Forest_vs_Virginia_20251031_1761937218040%2F~psid=97ea07b6-734d-4c64-8f6f-6d75ea184375~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=6e4e70451464c2a96972fb5b1fba24191d98e2413d83bf91b900d45a5f934a29/clt1/va02/disneyplus/event/2025/10/31/Wake_Forest_vs_Virginia_20251031_1761937218040/ctr-all-hdri-complete.m3u8?v=1&hash=58c8231bcace10bf849baba2aee08f64021466ab",
-    "k1": "17bdeb631a444a67987238f20ffa9afe",
-    "k2": "5de8fab51c24fe7a264ad951a62d1da8"
-  },
-  {
     "title": "Wagner vs. Mount St. Mary's",
     "league": "NCAA Men's Water Polo",
     "fecha-evento": "2025-10-31T16:55:16-05:00",
@@ -121,7 +108,10 @@
     "nombre": "disneyf3c736",
     "status": "17:45",
     "duration": 135,
-    "play_url": ""
+    "play_url": "https://www.disneyplus.com/es-es/play/13c3ba8e-cf53-48d9-9cd6-8521d6295462",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1762038019~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F31%2FMontevideo_Wanderers_vs_B_20251031_1761943542037%2F~psid=e1c2d40e-e815-4d7a-b9cd-6ddfa232c6c8~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=89b73df117b61004abbc32e0b28982f926035d9339aaa6162aaf62673874d984/clt1/va02/disneyplus/event/2025/10/31/Montevideo_Wanderers_vs_B_20251031_1761943542037/ctr-all-hdri-complete.m3u8?v=1&hash=78fb9cfa9791782b9431aa4cab220f671b0a3935",
+    "k1": "1d6eb717b3254aac99775cb1fcfef2aa",
+    "k2": "37c8fe0fbd6cecac57aac23c15aa4460"
   },
   {
     "title": "New York Islanders vs. Washington Capitals",
@@ -609,6 +599,16 @@
     "fecha-evento": "2025-11-01T09:20:00-05:00",
     "img": "c121a56f-0512-4670-b90a-acc83845ca4c",
     "nombre": "disney1e31d8",
+    "status": "09:20",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Goal Arena - The Bundesliga Konferenz (Bundesliga)",
+    "league": "Bundesliga",
+    "fecha-evento": "2025-11-01T09:20:00-05:00",
+    "img": "3f715d5c-4006-475c-8324-27c9212c339f",
+    "nombre": "disney260716",
     "status": "09:20",
     "duration": 135,
     "play_url": ""
