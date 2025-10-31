@@ -127,19 +127,6 @@
     "k2": "2fa5306eba91f0c45c1a260cfffdde37"
   },
   {
-    "title": "Oregon vs. Stanford",
-    "league": "Básquetbol Masculino NCAA",
-    "fecha-evento": "2025-10-30T19:00:00-05:00",
-    "img": "019a0ed1-73f7-736e-b0c2-07c41cd9d8e6",
-    "nombre": "disneyba8812",
-    "status": "19:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/f06554da-d36f-42d1-8845-f447664d4ede",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1761956527~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F31%2FOregon_vs_Stanford_20251031_1761863282781%2F~psid=a7f19d34-bebc-43d0-9399-3cd77b7048f7~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=d751412833c34410cb854dcaf79dda7e54e8ca10b053613e491438acb5e6cfdd/clt1/va02/disneyplus/event/2025/10/31/Oregon_vs_Stanford_20251031_1761863282781/ctr-all-hdri-complete.m3u8?v=1&hash=3ceb8daccf70d23c1394a46edffaaba9dcef8ba4",
-    "k1": "70b42c8c1c1847bf97bce92e83e64e5d",
-    "k2": "da53b28bf28c8121a00af490bc05c1fd"
-  },
-  {
     "title": "Spokane Zephyr vs. Carolina Ascent",
     "league": "USL Super League",
     "fecha-evento": "2025-10-30T20:00:03-05:00",
@@ -192,19 +179,6 @@
     "k2": "f090710ed1c44325e69cb08600d1f50c"
   },
   {
-    "title": "CD Olimpia vs. LD Alajuelense (Semifinals, Leg 2)",
-    "league": "Concacaf Central American Cup",
-    "fecha-evento": "2025-10-30T20:50:01-05:00",
-    "img": "826ad31a-256a-4379-8d6e-75d988b3bce8",
-    "nombre": "disneyec2aff",
-    "status": "20:50",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/925372c6-04f4-4386-b578-64c74fd8fad4",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1761962424~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F31%2FCD_Olimpia_vs_LD_Alajuele_20251031_1761868241037%2F~psid=ba591f5d-10e7-4f0b-8f48-fae58c8ff34e~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=4b7d880f39b960e1f01892358e9cea5bcf29a86e7a0b593df093415896500488/clt1/va02/disneyplus/event/2025/10/31/CD_Olimpia_vs_LD_Alajuele_20251031_1761868241037/ctr-all-hdri-complete.m3u8?v=1&hash=bc10c75255ceac93e4731cb3eaf4fac61769b6b4",
-    "k1": "c7fa1937676d4561a0f80f9be51f406f",
-    "k2": "58442cb98aab3fc8d2d5ada26bd7c4dc"
-  },
-  {
     "title": "New Jersey Devils vs. San Jose Sharks",
     "league": "National Hockey League",
     "fecha-evento": "2025-10-30T21:00:00-05:00",
@@ -216,6 +190,19 @@
     "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1761962468~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F31%2FNew_Jersey_Devils_vs_San__20251031_1761868808031%2F~psid=714db8b6-e378-4a1c-9f4e-d6674e1b04d7~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=f114d9d451759f89b585ab3f2b54f2288f15078878952f49fe95fc666ac952a5/clt1/va02/disneyplus/event/2025/10/31/New_Jersey_Devils_vs_San__20251031_1761868808031/ctr-all-hdri-complete.m3u8?v=1&hash=118f3bb048e0947c879de62ed8a41e24c39bddf4",
     "k1": "427f892118434e4692374479b2b98f93",
     "k2": "4509fc9ff2777d0ddac6d10d27fd86d9"
+  },
+  {
+    "title": "CD Olimpia vs. LD Alajuelense (Semifinals, Leg 2)",
+    "league": "Concacaf Central American Cup",
+    "fecha-evento": "2025-10-30T20:50:01-05:00",
+    "img": "826ad31a-256a-4379-8d6e-75d988b3bce8",
+    "nombre": "disneyec2aff",
+    "status": "20:50",
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/925372c6-04f4-4386-b578-64c74fd8fad4",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1761962424~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F31%2FCD_Olimpia_vs_LD_Alajuele_20251031_1761868241037%2F~psid=ba591f5d-10e7-4f0b-8f48-fae58c8ff34e~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=4b7d880f39b960e1f01892358e9cea5bcf29a86e7a0b593df093415896500488/clt1/va02/disneyplus/event/2025/10/31/CD_Olimpia_vs_LD_Alajuele_20251031_1761868241037/ctr-all-hdri-complete.m3u8?v=1&hash=bc10c75255ceac93e4731cb3eaf4fac61769b6b4",
+    "k1": "c7fa1937676d4561a0f80f9be51f406f",
+    "k2": "58442cb98aab3fc8d2d5ada26bd7c4dc"
   },
   {
     "title": "Arizona State vs. Arizona",
@@ -437,7 +424,7 @@
     "title": "New Hampshire vs. Merrimack",
     "league": "NCAA Women's Hockey",
     "fecha-evento": "2025-10-31T13:00:00-05:00",
-    "img": "fa784483-92d6-45b3-b452-4cddb33d2a67",
+    "img": "221d463f-a563-4419-ab26-a1e3ce8701b4",
     "nombre": "disney84f4be",
     "status": "13:00",
     "duration": 135,
@@ -599,6 +586,16 @@
     "fecha-evento": "2025-10-31T17:00:00-05:00",
     "img": "78b13d22-e497-45a5-ba4a-23f0ed36de3d",
     "nombre": "disney86e89c",
+    "status": "17:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Lexington Sporting Club vs. Sporting Jax",
+    "league": "USL Super League",
+    "fecha-evento": "2025-10-31T17:00:00-05:00",
+    "img": "1f3e5253-1955-4053-91ca-94236b1b6330",
+    "nombre": "disneyfefc5c",
     "status": "17:00",
     "duration": 135,
     "play_url": ""
