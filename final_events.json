@@ -10,19 +10,6 @@
     "play_url": ""
   },
   {
-    "title": "Rolex Paris Masters (Quarterfinals)",
-    "league": "ATP",
-    "fecha-evento": "2025-10-31T08:00:04-05:00",
-    "img": "019a3715-4187-7524-9f90-dda6e6a41162",
-    "nombre": "disneyada0f1",
-    "status": "08:00",
-    "duration": 540,
-    "play_url": "https://www.disneyplus.com/es-es/play/5e8b8352-bbff-4dcd-8503-83c6a0826452",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1762024177~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F31%2FATP_1000_Paris_QuartasdeF_20251031_1761908417028%2F~psid=d21476ca-a8c6-4ebc-bf9c-27bad9bce8ee~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=3decfa568303c008551b9cd749023a879b54672f7bd4f2d052ab324868ee0b16/clt1/va02/disneyplus/event/2025/10/31/ATP_1000_Paris_QuartasdeF_20251031_1761908417028/ctr-all-hdri-complete.m3u8?v=1&hash=c71de26dc98498f0b492d29febd778df074a71d2",
-    "k1": "2b71491e54314a77951651396cfd5fb4",
-    "k2": "e4045e91c6280af9e28a7fa5027671a8"
-  },
-  {
     "title": "Colorado Avalanche vs. Vegas Golden Knights",
     "league": "National Hockey League",
     "fecha-evento": "2025-10-31T15:00:00-05:00",
@@ -557,16 +544,6 @@
     "play_url": ""
   },
   {
-    "title": "Rolex Paris Masters (Semifinals)",
-    "league": "ATP",
-    "fecha-evento": "2025-11-01T08:30:00-05:00",
-    "img": "019a3bfb-dc8a-76f8-ae16-230d577408a9",
-    "nombre": "disney80a00e",
-    "status": "08:30",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Felix Auger-Aliassime (CAN) vs. Alexander Bublik (KAZ) (Semifinals)",
     "league": "ATP",
     "fecha-evento": "2025-11-01T08:30:00-05:00",
@@ -612,6 +589,26 @@
     "fecha-evento": "2025-11-01T09:20:00-05:00",
     "img": "019a0ef4-597b-72d6-92b9-34d6ada3e3ec",
     "nombre": "disney9f5c76",
+    "status": "09:20",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Mainz 05 vs. Werder Bremen",
+    "league": "Bundesliga",
+    "fecha-evento": "2025-11-01T09:20:00-05:00",
+    "img": "d7c8570b-7d7f-40b8-8a0b-b4cf8e2db099",
+    "nombre": "disney371aa5",
+    "status": "09:20",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "1. FC Heidenheim 1846 vs. Eintracht Frankfurt",
+    "league": "Bundesliga",
+    "fecha-evento": "2025-11-01T09:20:00-05:00",
+    "img": "c121a56f-0512-4670-b90a-acc83845ca4c",
+    "nombre": "disney1e31d8",
     "status": "09:20",
     "duration": 135,
     "play_url": ""
