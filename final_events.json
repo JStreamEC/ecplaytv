@@ -10,19 +10,6 @@
     "play_url": ""
   },
   {
-    "title": "Dallas Stars vs. Tampa Bay Lightning",
-    "league": "National Hockey League",
-    "fecha-evento": "2025-10-30T18:10:34-05:00",
-    "img": "01d55f47-7e58-4d1b-8d76-9ff1a9071a69",
-    "nombre": "disneyfdb9c8",
-    "status": "18:10",
-    "duration": 199,
-    "play_url": "https://www.disneyplus.com/es-es/play/2a42b483-7e96-492d-82f1-20486bebdaad",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1761952992~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F30%2FDallas_Stars_vs_Tampa_Bay_20251030_1761858053020%2F~psid=17e2c944-07ec-4eeb-ac9d-62de653edb0a~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=4b2c236e1d76eee96949fe5d938f4cd81dd7b38d517ce192646cb6a70a1e5d52/clt1/va02/disneyplus/event/2025/10/30/Dallas_Stars_vs_Tampa_Bay_20251030_1761858053020/ctr-all-hdri-complete.m3u8?v=1&hash=cb200157cafb93dad0e96984e2e9ce5da88e606d",
-    "k1": "49990b22f82746f78236b3659e6b79a5",
-    "k2": "e1833da57a63f07c6248d7377a11a52a"
-  },
-  {
     "title": "Mary Spencer vs. Mikaela Mayer | ESPN KO",
     "league": "ESPN",
     "fecha-evento": "2025-10-30T18:30:00-05:00",
@@ -207,12 +194,15 @@
   {
     "title": "CD Olimpia vs. LD Alajuelense (Semifinals, Leg 2)",
     "league": "Concacaf Central American Cup",
-    "fecha-evento": "2025-10-30T20:50:00-05:00",
+    "fecha-evento": "2025-10-30T20:50:01-05:00",
     "img": "826ad31a-256a-4379-8d6e-75d988b3bce8",
-    "nombre": "disney1df65e",
+    "nombre": "disneyec2aff",
     "status": "20:50",
-    "duration": 135,
-    "play_url": ""
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/925372c6-04f4-4386-b578-64c74fd8fad4",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1761962424~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F31%2FCD_Olimpia_vs_LD_Alajuele_20251031_1761868241037%2F~psid=ba591f5d-10e7-4f0b-8f48-fae58c8ff34e~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=4b7d880f39b960e1f01892358e9cea5bcf29a86e7a0b593df093415896500488/clt1/va02/disneyplus/event/2025/10/31/CD_Olimpia_vs_LD_Alajuele_20251031_1761868241037/ctr-all-hdri-complete.m3u8?v=1&hash=bc10c75255ceac93e4731cb3eaf4fac61769b6b4",
+    "k1": "c7fa1937676d4561a0f80f9be51f406f",
+    "k2": "58442cb98aab3fc8d2d5ada26bd7c4dc"
   },
   {
     "title": "New Jersey Devils vs. San Jose Sharks",
@@ -221,8 +211,11 @@
     "img": "14412ccb-6039-4f72-96aa-7a5e27b396ce",
     "nombre": "disneybcfc37",
     "status": "21:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 210,
+    "play_url": "https://www.disneyplus.com/es-es/play/1beeb0f7-48bd-41fa-bb59-494f1773722d",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1761962468~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F31%2FNew_Jersey_Devils_vs_San__20251031_1761868808031%2F~psid=714db8b6-e378-4a1c-9f4e-d6674e1b04d7~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=f114d9d451759f89b585ab3f2b54f2288f15078878952f49fe95fc666ac952a5/clt1/va02/disneyplus/event/2025/10/31/New_Jersey_Devils_vs_San__20251031_1761868808031/ctr-all-hdri-complete.m3u8?v=1&hash=118f3bb048e0947c879de62ed8a41e24c39bddf4",
+    "k1": "427f892118434e4692374479b2b98f93",
+    "k2": "4509fc9ff2777d0ddac6d10d27fd86d9"
   },
   {
     "title": "Arizona State vs. Arizona",
@@ -231,8 +224,11 @@
     "img": "dd85ddc6-c11f-4d21-994d-8291cd23397e",
     "nombre": "disneyc15991",
     "status": "21:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/43e149fa-e79f-495f-beb6-727ad63c443c",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1761962511~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F31%2FArizona_State_vs_Arizona_20251031_1761871082816%2F~psid=810090bb-1080-4749-9625-7e8f5d7c0ff3~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=9173800130ea3eff201981f963281617b78a05d01060eab84d932bb4a6de9cb5/clt1/va02/disneyplus/event/2025/10/31/Arizona_State_vs_Arizona_20251031_1761871082816/ctr-all-hdri-complete.m3u8?v=1&hash=a549ddbb7c78483fd94990d101655ba1bdaf917b",
+    "k1": "81e1dfc6657a4508b505a83b5b744c3c",
+    "k2": "5e027d281a248db34398c629900440d3"
   },
   {
     "title": "Loyola Marymount vs. Pepperdine",
@@ -241,8 +237,11 @@
     "img": "e24128a8-3077-41fb-8ce7-92b4fc45d1c4",
     "nombre": "disney7c41a6",
     "status": "21:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/cde9eb4a-4356-4d91-8bff-c8e1ca7ab8a0",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1761962533~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F31%2FLoyola_Marymount_vs_Peppe_20251031_1761868803036%2F~psid=339ab533-e478-4531-8f50-20c955ffd9e5~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=1c2653984b463a7b376f3e1120bc5050635f668cf448fa64178c374d84d9b23a/clt1/va02/disneyplus/event/2025/10/31/Loyola_Marymount_vs_Peppe_20251031_1761868803036/ctr-all-hdri-complete.m3u8?v=1&hash=8f966459da8b6811ab20cd6236aab24fe37164dd",
+    "k1": "c47b30196ea040f7842a3a8e3e80e42a",
+    "k2": "174722b75ffd6471df1e35205bb0723c"
   },
   {
     "title": "Detroit Red Wings vs. Los Angeles Kings",
@@ -590,6 +589,16 @@
     "fecha-evento": "2025-10-31T17:00:00-05:00",
     "img": "3bfeafad-b63f-42c2-a536-090d6a546dd0",
     "nombre": "disney9e894d",
+    "status": "17:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Wagner vs. Mount St. Mary's",
+    "league": "NCAA Men's Water Polo",
+    "fecha-evento": "2025-10-31T17:00:00-05:00",
+    "img": "78b13d22-e497-45a5-ba4a-23f0ed36de3d",
+    "nombre": "disney86e89c",
     "status": "17:00",
     "duration": 135,
     "play_url": ""
