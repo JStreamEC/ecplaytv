@@ -10,19 +10,6 @@
     "play_url": ""
   },
   {
-    "title": "Lanús (ARG) vs. Universidad de Chile (CHI) | Semifinal, vuelta",
-    "league": "CONMEBOL Sudamericana",
-    "fecha-evento": "2025-10-30T16:45:00-05:00",
-    "img": "019a1372-6f6b-7d73-811b-e4c5155be37f",
-    "nombre": "disney6fca01",
-    "status": "16:45",
-    "duration": 135,
-    "play_url": "https://www.disneyplus.com/es-es/play/0eac169e-fba0-4a8d-85ae-df3a4fdecea8",
-    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1761950468~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F921e1311-bb26-43dd-84a6-9e2284959712-1759409855938%2F~psid=0e311ba4-f48e-4bab-908a-0f1a727b1bbe~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=21929fc73ffa0beb27a7faf4e401f541ca2f1150a7c2bf68b9e76e850f19fc27/clt1/va02/disneyplus/channel/921e1311-bb26-43dd-84a6-9e2284959712-1759409855938/ctr-all-sliding-alt1.m3u8?v=1&hash=e50ddd99727af0a2947bb1b84904b1697e8043f8",
-    "k1": "f6997fc0f2114380b21a2a6097d3b4f8",
-    "k2": "2fa5306eba91f0c45c1a260cfffdde37"
-  },
-  {
     "title": "Dallas Stars vs. Tampa Bay Lightning",
     "league": "National Hockey League",
     "fecha-evento": "2025-10-30T18:10:34-05:00",
@@ -140,19 +127,6 @@
     "k2": "ee53a2d0a439a74ae77e6d79e89242bc"
   },
   {
-    "title": "Oregon vs. Stanford",
-    "league": "Básquetbol Masculino NCAA",
-    "fecha-evento": "2025-10-30T19:00:00-05:00",
-    "img": "019a0ed1-73f7-736e-b0c2-07c41cd9d8e6",
-    "nombre": "disneyba8812",
-    "status": "19:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/f06554da-d36f-42d1-8845-f447664d4ede",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1761956527~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F31%2FOregon_vs_Stanford_20251031_1761863282781%2F~psid=a7f19d34-bebc-43d0-9399-3cd77b7048f7~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=d751412833c34410cb854dcaf79dda7e54e8ca10b053613e491438acb5e6cfdd/clt1/va02/disneyplus/event/2025/10/31/Oregon_vs_Stanford_20251031_1761863282781/ctr-all-hdri-complete.m3u8?v=1&hash=3ceb8daccf70d23c1394a46edffaaba9dcef8ba4",
-    "k1": "70b42c8c1c1847bf97bce92e83e64e5d",
-    "k2": "da53b28bf28c8121a00af490bc05c1fd"
-  },
-  {
     "title": "Palmeiras (BRA) vs. Liga de Quito (ECU) | Semifinal, vuelta",
     "league": "CONMEBOL Libertadores",
     "fecha-evento": "2025-10-30T18:59:00-05:00",
@@ -164,6 +138,19 @@
     "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1761955218~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F921e1311-bb26-43dd-84a6-9e2284959712-1759409855938%2F~psid=6611b540-2b41-435b-b93a-afae27163fb4~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=ff0b0ba0974f6597711baced23c07c0a9173b2be45c9c0a510c9b77b02d31a75/clt1/va02/disneyplus/channel/921e1311-bb26-43dd-84a6-9e2284959712-1759409855938/ctr-all-sliding-alt1.m3u8?v=1&hash=e50ddd99727af0a2947bb1b84904b1697e8043f8",
     "k1": "f6997fc0f2114380b21a2a6097d3b4f8",
     "k2": "2fa5306eba91f0c45c1a260cfffdde37"
+  },
+  {
+    "title": "Oregon vs. Stanford",
+    "league": "Básquetbol Masculino NCAA",
+    "fecha-evento": "2025-10-30T19:00:00-05:00",
+    "img": "019a0ed1-73f7-736e-b0c2-07c41cd9d8e6",
+    "nombre": "disneyba8812",
+    "status": "19:00",
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/f06554da-d36f-42d1-8845-f447664d4ede",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1761956527~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F10%2F31%2FOregon_vs_Stanford_20251031_1761863282781%2F~psid=a7f19d34-bebc-43d0-9399-3cd77b7048f7~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=d751412833c34410cb854dcaf79dda7e54e8ca10b053613e491438acb5e6cfdd/clt1/va02/disneyplus/event/2025/10/31/Oregon_vs_Stanford_20251031_1761863282781/ctr-all-hdri-complete.m3u8?v=1&hash=3ceb8daccf70d23c1394a46edffaaba9dcef8ba4",
+    "k1": "70b42c8c1c1847bf97bce92e83e64e5d",
+    "k2": "da53b28bf28c8121a00af490bc05c1fd"
   },
   {
     "title": "UC San Diego vs. Cal State Fullerton",
@@ -582,6 +569,16 @@
     "img": "85af0f1b-f304-4837-8b8e-5ed358effb74",
     "nombre": "disney7bab7f",
     "status": "16:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "#12 Northeastern vs. Boston University",
+    "league": "NCAA Women's Hockey",
+    "fecha-evento": "2025-10-31T17:00:00-05:00",
+    "img": "3bfeafad-b63f-42c2-a536-090d6a546dd0",
+    "nombre": "disney9e894d",
+    "status": "17:00",
     "duration": 135,
     "play_url": ""
   }
