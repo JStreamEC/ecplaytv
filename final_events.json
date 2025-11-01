@@ -36,19 +36,6 @@
     "k2": "a9dedf650e33729142bf5f76cc225d3d"
   },
   {
-    "title": "Feyenoord vs. FC Volendam",
-    "league": "Eredivisie",
-    "fecha-evento": "2025-11-01T13:50:00-05:00",
-    "img": "bba0eaef-938d-4b48-9cc9-370ffccd4243",
-    "nombre": "disneyf151ce",
-    "status": "13:50",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/5763c06c-f00e-4ee5-bd8c-e7e2ddc13c28",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1762110077~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F01%2FFeyenoord_vs_FC_Volendam__20251101_1762015813027%2F~psid=b50eecd5-67cb-4212-ba23-661f792feeaf~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=9f2c57cf0325545301237d010dc7a6cc455aefdb0044848df7473ce5912f789b/clt1/va02/disneyplus/event/2025/11/01/Feyenoord_vs_FC_Volendam__20251101_1762015813027/ctr-all-hdri-complete.m3u8?v=1&hash=d221384bc6f6de05d637a98a72dee80b15056775",
-    "k1": "a308a88be5a54c8e849bb9f3136c8c78",
-    "k2": "a5b86f1630c8973b4002a072a4cf3cc2"
-  },
-  {
     "title": "Boston University vs. #12 Northeastern",
     "league": "NCAA Women's Hockey",
     "fecha-evento": "2025-11-01T14:00:02-05:00",
@@ -60,19 +47,6 @@
     "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1762111322~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F01%2FBoston_University_vs_12_N_20251101_1762016425040%2F~psid=a0fe300f-9bb7-43b1-8619-dcfaff689086~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=41f88e28462ef9b6e39a10f1c6958c2d948c5bdda91ad1de73bbe29e76e55ea0/clt1/va02/disneyplus/event/2025/11/01/Boston_University_vs_12_N_20251101_1762016425040/ctr-all-hdri-complete.m3u8?v=1&hash=21cdc5c741b4ccb400fcd940ddec663562a6d646",
     "k1": "b77f6ef593cc49c1a02d0478459e311d",
     "k2": "2c1eaf8efa0cda8a951abd00e9ea584e"
-  },
-  {
-    "title": "Loyola Chicago vs. Saint Louis (Quarterfinals)",
-    "league": "Fútbol Femenino NCAA",
-    "fecha-evento": "2025-11-01T14:00:05-05:00",
-    "img": "614e6838-af04-4af6-a523-0b42ff3edcd9",
-    "nombre": "disneyd97a55",
-    "status": "14:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/a702e387-8ed0-41e3-bfba-7cdd0ae30cc8",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1762111347~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F01%2FLoyola_Chicago_vs_Saint_L_20251101_1762016406040%2F~psid=d9683867-df32-4e66-9d77-e25c7b5b65c2~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=16125ff36290bd597542544347f014a5e2bfcde34d6667d9991bbabdbb2260ac/clt1/va02/disneyplus/event/2025/11/01/Loyola_Chicago_vs_Saint_L_20251101_1762016406040/ctr-all-hdri-complete.m3u8?v=1&hash=f3d3d8d0f037a9d20f7896d1c456c0c66913d8b6",
-    "k1": "71c68673dca74a7892e76af4615e520e",
-    "k2": "05bf7dd6d1ab353955f394a632b551d8"
   },
   {
     "title": "Calgary Flames vs. Nashville Predators",
@@ -629,6 +603,26 @@
     "fecha-evento": "2025-11-01T20:00:00-05:00",
     "img": "019a37c7-851a-789b-b5b8-f407e97a09f0",
     "nombre": "disney791ae4",
+    "status": "20:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Saint Mary's vs. Gonzaga",
+    "league": "Fútbol Masculino NCAA",
+    "fecha-evento": "2025-11-01T20:00:00-05:00",
+    "img": "e40c3023-94a1-4d36-b24b-fc73ea6c8a01",
+    "nombre": "disney76a60d",
+    "status": "20:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "New Mexico United vs. San Antonio FC (Quarterfinals)",
+    "league": "USL Championship",
+    "fecha-evento": "2025-11-01T20:00:00-05:00",
+    "img": "44b469fc-981c-4042-8aae-885cac43ea03",
+    "nombre": "disney74dcb1",
     "status": "20:00",
     "duration": 135,
     "play_url": ""
