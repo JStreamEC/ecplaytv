@@ -168,12 +168,15 @@
   {
     "title": "River Plate Uruguay vs. Miramar Misiones",
     "league": "Campeonato Uruguayo",
-    "fecha-evento": "2025-11-02T07:45:00-05:00",
+    "fecha-evento": "2025-11-02T07:45:05-05:00",
     "img": "019a2d34-7cbe-72a4-b004-b91ba5bfa02d",
-    "nombre": "disney0b139a",
+    "nombre": "disneyda3db5",
     "status": "07:45",
     "duration": 135,
-    "play_url": ""
+    "play_url": "https://www.disneyplus.com/es-es/play/46535238-27cc-4f1f-bea6-f93aa5ed5547",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1762174829~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F02%2FRiver_Plate_Uruguay_vs_Mi_20251102_1762080343041%2F~psid=af296c8b-4e09-4e36-80ae-e19a6e0aa9e1~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=14d86a814351cffcd06a6113cf08c295bdff320821cb455a376a20ac8073292a/clt1/va02/disneyplus/event/2025/11/02/River_Plate_Uruguay_vs_Mi_20251102_1762080343041/ctr-all-hdri-complete.m3u8?v=1&hash=f393e6f03912900668542ae2fe32307ca5aae34d",
+    "k1": "0e578519e22544028e38aa8e544e36f1",
+    "k2": "395533c34d10905f24fd4337d780d437"
   },
   {
     "title": "Levante UD vs. Celta de Vigo",
@@ -182,8 +185,11 @@
     "img": "306e4c7a-a433-4234-98d9-c5fe78291900",
     "nombre": "disney3fb554",
     "status": "07:50",
-    "duration": 135,
-    "play_url": ""
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/ebc98b82-6258-4bdb-9b93-eca424de8203",
+    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1762174873~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Fbbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1759410188321%2F~psid=14d2ecc6-5562-4a9d-8086-24beb43b98da~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=96552b560b6abd815c508d98c069255aeaf8b7f5bd0b0256ac02818fd34f9db3/clt1/va02/disneyplus/channel/bbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1759410188321/ctr-all-sliding-alt1.m3u8?v=1&hash=3f2beb7c737b132d1104736b95cd26c3f1914d57",
+    "k1": "f167332ad8854c89aba3ee17960f7e18",
+    "k2": "485f715136af71fe54e186b0b1cb7ea3"
   },
   {
     "title": "TCS New York City Marathon",
