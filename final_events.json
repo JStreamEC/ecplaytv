@@ -75,19 +75,6 @@
     "k2": "2210814da63518dde2b5a83ca959c740"
   },
   {
-    "title": "WTA Finals Riyadh (Doubles)",
-    "league": "WTA",
-    "fecha-evento": "2025-11-02T07:00:00-05:00",
-    "img": "019a3662-7de2-7d11-b69c-347979b6252b",
-    "nombre": "disney94b35b",
-    "status": "07:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/fd69c251-c3eb-49bb-95b9-2d264446a63b",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1762172428~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F02%2FWTA_Finals_Riyadh_Doubles_20251102_1762077647040%2F~psid=4450e91d-dc89-4236-aac6-702c8abd0b2d~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=bf162495de9f4f434354bf943727d3a21d8a8e9c1d028d45eb1c89952f1e2e89/clt1/va02/disneyplus/event/2025/11/02/WTA_Finals_Riyadh_Doubles_20251102_1762077647040/ctr-all-hdri-complete.m3u8?v=1&hash=ce07c4b432c437124fa5e31b1ffcf5230a860166",
-    "k1": "3a3fb69fbfda4f698db7d116cdebe7e1",
-    "k2": "c771a58a0f27d0c8a47a8786670aa3e8"
-  },
-  {
     "title": "Vfl Bochum 1848 vs. 1. FC Magdeburg",
     "league": "Bundesliga 2 de Alemania",
     "fecha-evento": "2025-11-02T07:27:16-05:00",
@@ -192,44 +179,56 @@
     "k2": "52be5d3510a47d8f10b1d8e2897c29fc"
   },
   {
+    "title": "Rennes vs. Strasbourg",
+    "league": "Ligue 1",
+    "fecha-evento": "2025-11-02T08:48:20-05:00",
+    "img": "019a3874-d324-7e7e-8011-ee4d396443a6",
+    "nombre": "disneyfcb58e",
+    "status": "08:48",
+    "duration": 132,
+    "play_url": "https://www.disneyplus.com/es-es/play/0e7b7487-07c0-4df1-927a-a4b9a186c125",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1762178423~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F02%2FRennes_vs_Strasbourg_20251102_1762084552042%2F~psid=0ffafff9-49f5-420c-b4fc-abd62133f3b0~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=e40357bf4e73d79cd9603102427a5bcf14068fcdaacc7c2d2e70bd0cc5d56ddd/clt1/va02/disneyplus/event/2025/11/02/Rennes_vs_Strasbourg_20251102_1762084552042/ctr-all-hdri-complete.m3u8?v=1&hash=e38c5a36e7ed4216139c67412215abc1cb3cdb59",
+    "k1": "6ee77f2790584439964f5ba35fe22c4d",
+    "k2": "de21a3397a90aef4e457c434bb8f64d0"
+  },
+  {
+    "title": "Fiorentina vs. Lecce",
+    "league": "Seria A",
+    "fecha-evento": "2025-11-02T08:50:01-05:00",
+    "img": "019a386b-1cf4-7cec-9b25-5366890f1233",
+    "nombre": "disney964682",
+    "status": "08:50",
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/f20d9548-dd3c-4459-8b8d-bb5b77a15078",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1762178467~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F02%2FFiorentina_vs_Lecce_20251102_1762084222041%2F~psid=1d3f6d0a-fafc-40ae-a654-7cabfe978c7e~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=5d590cced1709b86119caca20352b1414db22f7f6309cc6e2cc6cd12978eb135/clt1/va02/disneyplus/event/2025/11/02/Fiorentina_vs_Lecce_20251102_1762084222041/ctr-all-hdri-complete.m3u8?v=1&hash=1fc18ed38ced377faead8e73dda140ac59c78420",
+    "k1": "e2a93ecc986345cf93b7558d531e0e53",
+    "k2": "608235325e4974fe765c58546d751438"
+  },
+  {
     "title": "West Ham United vs. Newcastle United",
     "league": "Premier League",
     "fecha-evento": "2025-11-02T08:50:00-05:00",
     "img": "5b9fc6ba-623f-4f5e-b05c-4493e0a45af0",
     "nombre": "disney1e1c38",
     "status": "08:50",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Fiorentina vs. Lecce",
-    "league": "Seria A",
-    "fecha-evento": "2025-11-02T08:50:00-05:00",
-    "img": "019a386b-1cf4-7cec-9b25-5366890f1233",
-    "nombre": "disney3566bc",
-    "status": "08:50",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Rennes vs. Strasbourg",
-    "league": "Ligue 1",
-    "fecha-evento": "2025-11-02T08:55:00-05:00",
-    "img": "019a3874-d324-7e7e-8011-ee4d396443a6",
-    "nombre": "disney4a940c",
-    "status": "08:55",
-    "duration": 135,
-    "play_url": ""
+    "duration": 125,
+    "play_url": "https://www.disneyplus.com/es-es/play/eb6a8d31-ee37-4df7-add0-c727dee446a0",
+    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1762178512~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F921e1311-bb26-43dd-84a6-9e2284959712-1759409855938%2F~psid=a2d13e31-ddee-4399-bfc8-2b4401578611~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=407b342f0f010912ab9cd4d289389e6c84dd08006e2714eb48b80a789efddbc1/clt1/va02/disneyplus/channel/921e1311-bb26-43dd-84a6-9e2284959712-1759409855938/ctr-all-sliding-alt1.m3u8?v=1&hash=e50ddd99727af0a2947bb1b84904b1697e8043f8",
+    "k1": "cca30895974f4dec8cb3b65cbd021028",
+    "k2": "ae96a52a98e350856731d9ba1c64de31"
   },
   {
     "title": "Torino vs. Pisa",
     "league": "Seria A",
-    "fecha-evento": "2025-11-02T08:55:00-05:00",
+    "fecha-evento": "2025-11-02T08:50:28-05:00",
     "img": "019a386b-2f1e-7da1-95b2-01e9aa4f4a18",
-    "nombre": "disney6f3c00",
-    "status": "08:55",
-    "duration": 135,
-    "play_url": ""
+    "nombre": "disney4765bf",
+    "status": "08:50",
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/782b3c1e-ee81-48a3-94ba-958744ea240b",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1762178537~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F02%2FTorino_vs_Pisa_20251102_1762084514030%2F~psid=67fd5f0f-54eb-4b9b-a9f5-bc49072aa0c0~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=afb7a46be2e42368d7d6a22e6a1ac542873ebc34accf15f5c67e90826fbbba34/clt1/va02/disneyplus/event/2025/11/02/Torino_vs_Pisa_20251102_1762084514030/ctr-all-hdri-complete.m3u8?v=1&hash=00b0f245b2d84c1e4099c1b6e0a74387f77c5f5c",
+    "k1": "52cd8e9ef1b04386b922ef1547531f96",
+    "k2": "bd801142cc04ef4dd1a6f77f045e20ff"
   },
   {
     "title": "Moselle Open (First Round)",
@@ -258,8 +257,11 @@
     "img": "019a3686-7805-7bc7-9d97-f76a1ded6ada",
     "nombre": "disney31dd7b",
     "status": "09:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 90,
+    "play_url": "https://www.disneyplus.com/es-es/play/df635f1d-4ea8-4520-8daa-99778fb3ffa9",
+    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1762178561~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F7f9052ce-8143-43a6-9656-a8c00c4a3e56-1760554479235%2F~psid=6ab3c6f2-d81e-4b7b-b887-a7df86acdedc~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=7890d948f5fde061c4c6163704e747e523d9e3f2aec0e6e9c6e5ff4a3ef56ba2/clt1/va02/disneyplus/channel/7f9052ce-8143-43a6-9656-a8c00c4a3e56-1760554479235/ctr-all-sliding-alt1.m3u8?v=1&hash=437e3ef416fefcb19394ac9c8d3e57c2f7f2cec4",
+    "k1": "ceea9bbcc44845649cbb1ba3f6045e60",
+    "k2": "4d57a950ea4ca66621d6ecdd4332f2da"
   },
   {
     "title": "Eastleigh vs. Walsall (Round 1)",
@@ -408,6 +410,16 @@
     "img": "a0f30dee-4cdf-4b5a-8e14-0ee25b12a5e2",
     "nombre": "disney87ee08",
     "status": "11:20",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "WTA Finals Riyadh (Doubles)",
+    "league": "WTA",
+    "fecha-evento": "2025-11-02T11:30:00-05:00",
+    "img": "019a3662-7de2-7d11-b69c-347979b6252b",
+    "nombre": "disney0d47dd",
+    "status": "11:30",
     "duration": 135,
     "play_url": ""
   },
@@ -658,6 +670,16 @@
     "img": "3e6de695-94d1-4c04-957d-2a80f0a50948",
     "nombre": "disneyc97a63",
     "status": "13:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Estudiantes de La Plata vs. Boca Juniors",
+    "league": "Liga Profesional de Fútbol",
+    "fecha-evento": "2025-11-02T13:45:00-05:00",
+    "img": "019a2fde-99c9-7555-b713-b5f23dc4b597",
+    "nombre": "disneyb2537a",
+    "status": "13:45",
     "duration": 135,
     "play_url": ""
   }
