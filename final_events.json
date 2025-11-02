@@ -49,19 +49,6 @@
     "k2": "ea19b26989b06a326fa2590ca41ba497"
   },
   {
-    "title": "Sparta Rotterdam vs. AZ",
-    "league": "Eredivisie",
-    "fecha-evento": "2025-11-02T08:19:58-05:00",
-    "img": "a22ba674-fb1e-4557-8c73-cc8333c9ed53",
-    "nombre": "disney0f9614",
-    "status": "08:19",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/6a2f7d6d-3736-4b8e-a8e6-526829d56a6c",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1762177223~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F02%2FSparta_Rotterdam_vs_AZ_20251102_1762082441030%2F~psid=df8a7847-daf7-4bcb-bcd2-87aecaf9622e~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=dffbda35e1334ef651a0598eac47541a02590f4d1ec18b41f9d5efbac142ac8f/clt1/va02/disneyplus/event/2025/11/02/Sparta_Rotterdam_vs_AZ_20251102_1762082441030/ctr-all-hdri-complete.m3u8?v=1&hash=dd9730815e66b06462be0b60c71bec17a080e8ef",
-    "k1": "dbc963e8e9aa438e90989864b901cba8",
-    "k2": "52be5d3510a47d8f10b1d8e2897c29fc"
-  },
-  {
     "title": "Rennes vs. Strasbourg",
     "league": "Ligue 1",
     "fecha-evento": "2025-11-02T08:48:20-05:00",
@@ -207,12 +194,15 @@
   {
     "title": "Coco Gauff (USA) vs. Jessica Pegula (USA) (Round Robin - Day #2)",
     "league": "WTA",
-    "fecha-evento": "2025-11-02T10:30:00-05:00",
+    "fecha-evento": "2025-11-02T10:39:00-05:00",
     "img": "019a366e-54db-7536-8ac7-3c8414ad7d81",
-    "nombre": "disney82b09e",
-    "status": "10:30",
-    "duration": 135,
-    "play_url": ""
+    "nombre": "disneyb47998",
+    "status": "10:39",
+    "duration": 111,
+    "play_url": "https://www.disneyplus.com/es-es/play/c0c4fe82-d684-45fb-8780-6876316ea6c8",
+    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1762184422~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F7f9052ce-8143-43a6-9656-a8c00c4a3e56-1760554479235%2F~psid=ed3f239a-b1c2-4d4c-9842-42c0565e8c9b~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=4685af6737e022aec46e3cab6e195ba31485f2f85c475aebc99e83af892530ae/clt1/va02/disneyplus/channel/7f9052ce-8143-43a6-9656-a8c00c4a3e56-1760554479235/ctr-all-sliding-alt1.m3u8?v=1&hash=437e3ef416fefcb19394ac9c8d3e57c2f7f2cec4",
+    "k1": "ceea9bbcc44845649cbb1ba3f6045e60",
+    "k2": "4d57a950ea4ca66621d6ecdd4332f2da"
   },
   {
     "title": "Louisiana Tech vs. Liberty (Quarterfinal)",
@@ -671,6 +661,16 @@
     "img": "019a3874-c78e-7637-993e-1b9ce1d1b820",
     "nombre": "disney9c90e8",
     "status": "14:40",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Zaragoza vs. Deportivo La Coruña",
+    "league": "Segunda División de España",
+    "fecha-evento": "2025-11-02T14:55:00-05:00",
+    "img": "8429d52f-6547-4be8-99c5-d2a743a61e6b",
+    "nombre": "disney088a6f",
+    "status": "14:55",
     "duration": 135,
     "play_url": ""
   }
