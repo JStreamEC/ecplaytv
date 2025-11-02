@@ -36,45 +36,6 @@
     "k2": "db394f4b9575eedb79bc34d5a32c5fed"
   },
   {
-    "title": "Vfl Bochum 1848 vs. 1. FC Magdeburg",
-    "league": "Bundesliga 2 de Alemania",
-    "fecha-evento": "2025-11-02T07:27:16-05:00",
-    "img": "ca808bf5-4c45-4aee-a9ad-937ec7ee200a",
-    "nombre": "disneyd13f1a",
-    "status": "07:27",
-    "duration": 123,
-    "play_url": "https://www.disneyplus.com/es-es/play/3dc3bbd6-73b7-4278-a0e2-e284ded6c2b5",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1762173628~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F02%2FVfl_Bochum_1848_vs_1_FC_M_20251102_1762079156028%2F~psid=a511634b-d4a8-4891-9573-816662680f75~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=886f72b43cd315e3dd92a0111a460c14246b30f32cc364bc00172e7d28e949ec/clt1/va02/disneyplus/event/2025/11/02/Vfl_Bochum_1848_vs_1_FC_M_20251102_1762079156028/ctr-all-hdri-complete.m3u8?v=1&hash=7cbf5b28db55ff1a90be08bb70714a373f49156b",
-    "k1": "feb204a5a56d4877b367b92a1e7943b2",
-    "k2": "5e7b90171bbd8f29e8fd2033de68524c"
-  },
-  {
-    "title": "SC Paderborn 07 vs. SpVgg Greuther Fürth",
-    "league": "Bundesliga 2 de Alemania",
-    "fecha-evento": "2025-11-02T07:26:39-05:00",
-    "img": "6490fc00-80e4-4c3e-af29-16f7ab0ced0f",
-    "nombre": "disney3dbb3c",
-    "status": "07:26",
-    "duration": 123,
-    "play_url": "https://www.disneyplus.com/es-es/play/ca9f53c1-3547-4172-82c3-a84d6e07b0ea",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1762173672~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F02%2FSC_Paderborn_07_vs_SpVgg__20251102_1762079154028%2F~psid=50482e1d-4396-4e4c-af54-4019f8464ab7~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=a2ad1b977fb430639a3e1f8d8f9ada7c518162ec41e2ace04ab9bac4ae883499/clt1/va02/disneyplus/event/2025/11/02/SC_Paderborn_07_vs_SpVgg__20251102_1762079154028/ctr-all-hdri-complete.m3u8?v=1&hash=0d388dc552d7c528a0253743d8ce09ac101c1355",
-    "k1": "ae82f8b1ebde47ef914fd754ed4e39e3",
-    "k2": "2101b0bdb5ca04141c9f9b45409c6130"
-  },
-  {
-    "title": "Fortuna Dusseldorf vs. 1. FC Kaiserslautern",
-    "league": "Bundesliga 2 de Alemania",
-    "fecha-evento": "2025-11-02T07:27:31-05:00",
-    "img": "023c3ba2-81f5-4a02-9f2b-53d0a8a2c76f",
-    "nombre": "disneybf8db9",
-    "status": "07:27",
-    "duration": 122,
-    "play_url": "https://www.disneyplus.com/es-es/play/65ebf5ce-c652-42d6-a3f9-030f817914e4",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1762173717~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F02%2FFortuna_Dusseldorf_vs_1_F_20251102_1762079133028%2F~psid=80fb4838-adff-4264-a5a4-59f453e51eea~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=17fd2f5d8d41d09c8aedbb3516ec6ab8597e191efe57bb8658d3bf63af7919e4/clt1/va02/disneyplus/event/2025/11/02/Fortuna_Dusseldorf_vs_1_F_20251102_1762079133028/ctr-all-hdri-complete.m3u8?v=1&hash=49091639a55de5a56a917a3e08cc8fb3e7317808",
-    "k1": "5e51d311283f412cb0140275f7c128ad",
-    "k2": "c487ac0ae205dd1b9862ebf09e40c7de"
-  },
-  {
     "title": "Janice Tjen (INA) vs. Kimberly Birrell (AUS) (Final)",
     "league": "WTA",
     "fecha-evento": "2025-11-02T07:25:09-05:00",
@@ -246,12 +207,15 @@
   {
     "title": "Koln vs. Hamburger SV",
     "league": "Bundesliga",
-    "fecha-evento": "2025-11-02T09:20:00-05:00",
+    "fecha-evento": "2025-11-02T09:20:16-05:00",
     "img": "4180fee2-42b3-4d45-a815-10be4e8ea2c2",
-    "nombre": "disney918a38",
+    "nombre": "disney404049",
     "status": "09:20",
-    "duration": 135,
-    "play_url": ""
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/e7654fe8-99cf-48b5-80b4-fa7549d7a66d",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1762180822~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F02%2FKoln_vs_Hamburger_SV_20251102_1762086020030%2F~psid=6e9f6af3-5e96-4763-93a3-b775288d227f~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=1e86619c7498dc8a568153fd2668d4450a26d9964e9df0cc83aca2f0c0dd97a1/clt1/va02/disneyplus/event/2025/11/02/Koln_vs_Hamburger_SV_20251102_1762086020030/ctr-all-hdri-complete.m3u8?v=1&hash=c17c55414703fc4412ea4f47688d2a1172142cd7",
+    "k1": "5a1f4538a17243b196dfd6ee2e88fea2",
+    "k2": "e2a9e6ee4259366259be43240ef4ff50"
   },
   {
     "title": "Port Vale vs. Maldon & Tiptree (Round 1)",
@@ -680,6 +644,36 @@
     "img": "97e37d3a-5c8a-474c-86b1-5afba702ed41",
     "nombre": "disney963ae3",
     "status": "14:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "SIU Edwardsville vs. Lindenwood (Quarterfinals)",
+    "league": "Fútbol Femenino NCAA",
+    "fecha-evento": "2025-11-02T14:00:00-05:00",
+    "img": "10c006ab-797a-4053-81af-421bdebd3044",
+    "nombre": "disneyef7109",
+    "status": "14:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Mercer vs. Western Carolina (Semifinal #2)",
+    "league": "Fútbol Femenino NCAA",
+    "fecha-evento": "2025-11-02T14:00:00-05:00",
+    "img": "de7f62e6-25f9-44f5-95d3-4e76fdb5a0d6",
+    "nombre": "disney14dd5e",
+    "status": "14:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Racing vs. Danubio",
+    "league": "Campeonato Uruguayo",
+    "fecha-evento": "2025-11-02T14:15:00-05:00",
+    "img": "019a2d34-7d6b-7c8a-8824-ddcc6dbab9cf",
+    "nombre": "disney3a281c",
+    "status": "14:15",
     "duration": 135,
     "play_url": ""
   }
