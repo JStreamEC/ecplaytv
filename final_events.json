@@ -62,24 +62,17 @@
     "k2": "d130f44b92f86250b4e1c67fbe84f77e"
   },
   {
-    "title": "Brighton & Hove Albion vs. Manchester United",
-    "league": "English Women's Super League",
-    "fecha-evento": "2025-11-02T06:55:00-05:00",
-    "img": "63cbf6a8-c99f-44d7-9638-e91d51c7b43a",
-    "nombre": "disneycf0793",
-    "status": "06:55",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "South Shields vs. Shrewsbury Town (Round 1)",
     "league": "FA Cup",
     "fecha-evento": "2025-11-02T06:55:00-05:00",
     "img": "019a1e6f-7803-7f56-aa4d-330f8b06c3a7",
     "nombre": "disney33ca35",
     "status": "06:55",
-    "duration": 135,
-    "play_url": ""
+    "duration": 125,
+    "play_url": "https://www.disneyplus.com/es-es/play/8b1be608-ec46-4e63-aecf-ced556f1a171",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1762171226~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F02%2FSouth_Shields_vs_Shrewsbu_20251102_1762077335029%2F~psid=20e53af9-6961-4245-95f8-c8b92411fa92~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=b65cbea0224729c49eddecea32077a298fcd9dcb13d2b8237a21e1f979606732/clt1/va02/disneyplus/event/2025/11/02/South_Shields_vs_Shrewsbu_20251102_1762077335029/ctr-all-hdri-complete.m3u8?v=1&hash=a0adefacfca97a9602b1de2f18dc27e3307994bd",
+    "k1": "bcaad8ef6ff648e6b06e6ae707aaea71",
+    "k2": "9d838d85f65ace7dcd805c269d1d862a"
   },
   {
     "title": "Leicester City vs. Arsenal",
@@ -88,8 +81,24 @@
     "img": "1888f985-c4ff-47aa-9261-0b9e6bf2eb8e",
     "nombre": "disney95c4a2",
     "status": "06:55",
-    "duration": 135,
-    "play_url": ""
+    "duration": 125,
+    "play_url": "https://www.disneyplus.com/es-es/play/f3d86e64-cae6-4b43-a25d-e0b0a6920a62",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1762171271~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F02%2FLeicester_City_vs_Arsenal_20251102_1762077304036%2F~psid=25772197-1102-4b01-9e7e-35697ec67c1a~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=c3ea11d82837366d84ffa97e515f8e7dc39be0c5a818cbfe5759519d7543747b/clt1/va02/disneyplus/event/2025/11/02/Leicester_City_vs_Arsenal_20251102_1762077304036/ctr-all-hdri-complete.m3u8?v=1&hash=c1c056dc8fc6b5c1fd936d27f407c03d50cb4f67",
+    "k1": "2217efafd2414447a0aac5398639b1b1",
+    "k2": "147009765fe1bb43ad830f41866492ac"
+  },
+  {
+    "title": "Brighton & Hove Albion vs. Manchester United",
+    "league": "English Women's Super League",
+    "fecha-evento": "2025-11-02T06:55:00-05:00",
+    "img": "63cbf6a8-c99f-44d7-9638-e91d51c7b43a",
+    "nombre": "disneycf0793",
+    "status": "06:55",
+    "duration": 125,
+    "play_url": "https://www.disneyplus.com/es-es/play/6d330c96-be68-412a-8e58-2fc2b174d3c1",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1762171316~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F02%2FBrighton_Hove_Albion_vs_M_20251102_1762077341029%2F~psid=c3a787d1-e790-4af2-af05-98e00a80de59~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=485db002ed7f20a080c42637485839c958132d6a8448f1694ffd44afd4b12fe3/clt1/va02/disneyplus/event/2025/11/02/Brighton_Hove_Albion_vs_M_20251102_1762077341029/ctr-all-hdri-complete.m3u8?v=1&hash=d0402ce8e7d7991121c7e8bb1a4caae6d7823ee2",
+    "k1": "13cb84b05e14465cb2edcc4a1cca5430",
+    "k2": "2210814da63518dde2b5a83ca959c740"
   },
   {
     "title": "WTA Finals Riyadh (Doubles)",
