@@ -49,19 +49,6 @@
     "k2": "7e3664143945419ef4c33fd4a0097291"
   },
   {
-    "title": "River Plate Uruguay vs. Miramar Misiones",
-    "league": "Campeonato Uruguayo",
-    "fecha-evento": "2025-11-02T07:45:05-05:00",
-    "img": "019a2d34-7cbe-72a4-b004-b91ba5bfa02d",
-    "nombre": "disneyda3db5",
-    "status": "07:45",
-    "duration": 135,
-    "play_url": "https://www.disneyplus.com/es-es/play/46535238-27cc-4f1f-bea6-f93aa5ed5547",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1762174829~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F02%2FRiver_Plate_Uruguay_vs_Mi_20251102_1762080343041%2F~psid=af296c8b-4e09-4e36-80ae-e19a6e0aa9e1~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=14d86a814351cffcd06a6113cf08c295bdff320821cb455a376a20ac8073292a/clt1/va02/disneyplus/event/2025/11/02/River_Plate_Uruguay_vs_Mi_20251102_1762080343041/ctr-all-hdri-complete.m3u8?v=1&hash=f393e6f03912900668542ae2fe32307ca5aae34d",
-    "k1": "0e578519e22544028e38aa8e544e36f1",
-    "k2": "395533c34d10905f24fd4337d780d437"
-  },
-  {
     "title": "Levante UD vs. Celta de Vigo",
     "league": "LALIGA",
     "fecha-evento": "2025-11-02T07:50:00-05:00",
@@ -220,12 +207,15 @@
   {
     "title": "Port Vale vs. Maldon & Tiptree (Round 1)",
     "league": "FA Cup",
-    "fecha-evento": "2025-11-02T09:55:00-05:00",
+    "fecha-evento": "2025-11-02T09:50:02-05:00",
     "img": "019a1e74-ed5a-70fc-8289-019a9c73cedd",
-    "nombre": "disneye5a013",
-    "status": "09:55",
-    "duration": 135,
-    "play_url": ""
+    "nombre": "disney222489",
+    "status": "09:50",
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/8100b584-b84e-4b5f-ab31-0ee42f6fdcb7",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1762182023~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F02%2FPort_Vale_vs_Maldon_Tiptr_20251102_1762091340647%2F~psid=4e40dd39-7047-444d-b3e3-64828310f613~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=cb74e5be3117683eb61aec5366444dac9b6c02a565cf91a8a79e4f55d36a7cf2/clt1/va02/disneyplus/event/2025/11/02/Port_Vale_vs_Maldon_Tiptr_20251102_1762091340647/ctr-all-hdri-complete.m3u8?v=1&hash=557ceed933f672a9c62d5ec1249054a2c4205438",
+    "k1": "388b8692c9a64c25bcd045988570a3ed",
+    "k2": "6bc94c497338acd7a03ae2583a0b88be"
   },
   {
     "title": "Chennai Open / Center Court (Doubles Final)",
@@ -674,6 +664,16 @@
     "img": "019a2d34-7d6b-7c8a-8824-ddcc6dbab9cf",
     "nombre": "disney3a281c",
     "status": "14:15",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "La Ensenada vs. La Hache Cría & Polo (Grupo B - Fecha #1)",
+    "league": "Abierto de Palermo",
+    "fecha-evento": "2025-11-02T14:20:00-05:00",
+    "img": "019a3260-e29c-7bc2-a514-8e5f5a5ea977",
+    "nombre": "disneyf5a0cc",
+    "status": "14:20",
     "duration": 135,
     "play_url": ""
   }
