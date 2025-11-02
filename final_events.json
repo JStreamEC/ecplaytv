@@ -49,19 +49,6 @@
     "k2": "ae96a52a98e350856731d9ba1c64de31"
   },
   {
-    "title": "Rolex Paris Masters / Court Central (Doubles Final)",
-    "league": "ATP",
-    "fecha-evento": "2025-11-02T06:30:00-05:00",
-    "img": "6c169b1c-926a-411a-af73-661f81ba5cbd",
-    "nombre": "disneyf986a2",
-    "status": "06:30",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/83af6786-6343-40f5-96ce-f92fb4417efe",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1762170026~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F02%2FRolex_Paris_Masters_Court_20251102_1762075832041%2F~psid=2a112af7-d54e-4c04-9d64-0c9097955367~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=5eb6a9927b20b576c77f55a785e1a560a26f283b914e6a8c63e3448364e05eff/clt1/va02/disneyplus/event/2025/11/02/Rolex_Paris_Masters_Court_20251102_1762075832041/ctr-all-hdri-complete.m3u8?v=1&hash=004a4e733f72a6e6cd6f62f10b6250408d84d099",
-    "k1": "a279f8a7de934408815636025356294b",
-    "k2": "d130f44b92f86250b4e1c67fbe84f77e"
-  },
-  {
     "title": "South Shields vs. Shrewsbury Town (Round 1)",
     "league": "FA Cup",
     "fecha-evento": "2025-11-02T06:55:00-05:00",
@@ -198,8 +185,11 @@
     "img": "019a354b-c6e2-78ae-8690-75a0c7280848",
     "nombre": "disneyc54f41",
     "status": "08:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 210,
+    "play_url": "https://www.disneyplus.com/es-es/play/2016cb2e-2fb7-4b1c-8461-5e77f865325a",
+    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1762176032~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Fec26a05e-a9cc-4db4-804e-77465738e667-1759408066139%2F~psid=c3f25ca1-838d-43bf-a96b-95148eed0218~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=22e9645f6f29a9dcf2604d67cba5c123666baa27aa59facbfd3cca8ed176d5f2/clt1/va02/disneyplus/channel/ec26a05e-a9cc-4db4-804e-77465738e667-1759408066139/ctr-all-sliding-alt1.m3u8?v=1&hash=f49ea62fa7410074aaa3483f688cb1f35dfe9b3b",
+    "k1": "bae7b8e162f7401babf5a3af66383c31",
+    "k2": "ea19b26989b06a326fa2590ca41ba497"
   },
   {
     "title": "Sparta Rotterdam vs. AZ",
@@ -657,6 +647,16 @@
     "fecha-evento": "2025-11-02T13:30:00-05:00",
     "img": "019a40b8-912b-7aaa-8696-b7901a9a5542",
     "nombre": "disney3b023b",
+    "status": "13:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Banco Provincia vs. Mitre",
+    "league": "Torneo Metropolitano de Hockey Masculino",
+    "fecha-evento": "2025-11-02T13:30:00-05:00",
+    "img": "d26ff705-5de9-4490-a60e-db0e0bf37c07",
+    "nombre": "disneyd71512",
     "status": "13:30",
     "duration": 135,
     "play_url": ""
