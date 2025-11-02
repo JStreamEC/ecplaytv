@@ -36,19 +36,6 @@
     "k2": "db394f4b9575eedb79bc34d5a32c5fed"
   },
   {
-    "title": "Hellas Verona vs. Inter",
-    "league": "Seria A",
-    "fecha-evento": "2025-11-02T06:20:00-05:00",
-    "img": "019a371c-0a40-7a5b-ad3b-e9a6dad803f9",
-    "nombre": "disneye53d10",
-    "status": "06:20",
-    "duration": 125,
-    "play_url": "https://www.disneyplus.com/es-es/play/a15b0a61-dd12-43f9-8f0c-6951434b1917",
-    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1762168826~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F921e1311-bb26-43dd-84a6-9e2284959712-1759409855938%2F~psid=07c7d837-618f-49f8-9a7a-f1f5090348bc~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=03b80525bbf11df47bfa45a6a5588af891195063c17bb11d34e6c6522c70cbba/clt1/va02/disneyplus/channel/921e1311-bb26-43dd-84a6-9e2284959712-1759409855938/ctr-all-sliding-alt1.m3u8?v=1&hash=e50ddd99727af0a2947bb1b84904b1697e8043f8",
-    "k1": "cca30895974f4dec8cb3b65cbd021028",
-    "k2": "ae96a52a98e350856731d9ba1c64de31"
-  },
-  {
     "title": "South Shields vs. Shrewsbury Town (Round 1)",
     "league": "FA Cup",
     "fecha-evento": "2025-11-02T06:55:00-05:00",
@@ -194,12 +181,15 @@
   {
     "title": "Sparta Rotterdam vs. AZ",
     "league": "Eredivisie",
-    "fecha-evento": "2025-11-02T08:20:00-05:00",
+    "fecha-evento": "2025-11-02T08:19:58-05:00",
     "img": "a22ba674-fb1e-4557-8c73-cc8333c9ed53",
-    "nombre": "disney169b36",
-    "status": "08:20",
-    "duration": 135,
-    "play_url": ""
+    "nombre": "disney0f9614",
+    "status": "08:19",
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/6a2f7d6d-3736-4b8e-a8e6-526829d56a6c",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1762177223~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F02%2FSparta_Rotterdam_vs_AZ_20251102_1762082441030%2F~psid=df8a7847-daf7-4bcb-bcd2-87aecaf9622e~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=dffbda35e1334ef651a0598eac47541a02590f4d1ec18b41f9d5efbac142ac8f/clt1/va02/disneyplus/event/2025/11/02/Sparta_Rotterdam_vs_AZ_20251102_1762082441030/ctr-all-hdri-complete.m3u8?v=1&hash=dd9730815e66b06462be0b60c71bec17a080e8ef",
+    "k1": "dbc963e8e9aa438e90989864b901cba8",
+    "k2": "52be5d3510a47d8f10b1d8e2897c29fc"
   },
   {
     "title": "West Ham United vs. Newcastle United",
@@ -657,6 +647,16 @@
     "fecha-evento": "2025-11-02T13:30:00-05:00",
     "img": "d26ff705-5de9-4490-a60e-db0e0bf37c07",
     "nombre": "disneyd71512",
+    "status": "13:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "#4 Pittsburgh vs. #21 North Carolina",
+    "league": "NCAA Women's Volleyball",
+    "fecha-evento": "2025-11-02T13:30:00-05:00",
+    "img": "3e6de695-94d1-4c04-957d-2a80f0a50948",
+    "nombre": "disneyc97a63",
     "status": "13:30",
     "duration": 135,
     "play_url": ""
