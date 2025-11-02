@@ -36,32 +36,6 @@
     "k2": "db394f4b9575eedb79bc34d5a32c5fed"
   },
   {
-    "title": "Janice Tjen (INA) vs. Kimberly Birrell (AUS) (Final)",
-    "league": "WTA",
-    "fecha-evento": "2025-11-02T07:25:09-05:00",
-    "img": "d72704c5-2423-4dfd-840f-aed9c6847528",
-    "nombre": "disney44130e",
-    "status": "07:25",
-    "duration": 155,
-    "play_url": "https://www.disneyplus.com/es-es/play/80cf2c8b-7bc0-40a6-bf67-cca4052f344b",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1762173742~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F02%2FJanice_Tjen_INA_vs_Kimber_20251102_1762079416041%2F~psid=b67c84d2-d87a-4b54-ac1b-61f1c9eea768~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=b68639ac2f8a465d1dda4ffb5ebd3d3b2d14ae3a7513008930d05a188959877f/clt1/va02/disneyplus/event/2025/11/02/Janice_Tjen_INA_vs_Kimber_20251102_1762079416041/ctr-all-hdri-complete.m3u8?v=1&hash=e6d70892aad1ec3156d80be90d9f71847a119a3d",
-    "k1": "68ffa297ed224b72808b58b7948145c5",
-    "k2": "7e3664143945419ef4c33fd4a0097291"
-  },
-  {
-    "title": "Levante UD vs. Celta de Vigo",
-    "league": "LALIGA",
-    "fecha-evento": "2025-11-02T07:50:00-05:00",
-    "img": "306e4c7a-a433-4234-98d9-c5fe78291900",
-    "nombre": "disney3fb554",
-    "status": "07:50",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/ebc98b82-6258-4bdb-9b93-eca424de8203",
-    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1762174873~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Fbbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1759410188321%2F~psid=14d2ecc6-5562-4a9d-8086-24beb43b98da~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=96552b560b6abd815c508d98c069255aeaf8b7f5bd0b0256ac02818fd34f9db3/clt1/va02/disneyplus/channel/bbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1759410188321/ctr-all-sliding-alt1.m3u8?v=1&hash=3f2beb7c737b132d1104736b95cd26c3f1914d57",
-    "k1": "f167332ad8854c89aba3ee17960f7e18",
-    "k2": "485f715136af71fe54e186b0b1cb7ea3"
-  },
-  {
     "title": "TCS New York City Marathon",
     "league": "ESPN",
     "fecha-evento": "2025-11-02T08:00:00-05:00",
@@ -224,8 +198,11 @@
     "img": "481734d5-35fd-47b5-a1c1-00f072b61bbf",
     "nombre": "disney861db3",
     "status": "10:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/11d27db1-1cc8-4bb0-8d60-8e698e2ca319",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1762183222~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F02%2FChennai_Open_Center_Court_20251102_1762088400078%2F~psid=b4628428-d55e-4376-b8bc-1f2587be4aa9~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=e1f1a6f67554492d20ab396f493bfd2c8c81bcde5439ec02d59186a7831516c9/clt1/va02/disneyplus/event/2025/11/02/Chennai_Open_Center_Court_20251102_1762088400078/ctr-all-hdri-complete.m3u8?v=1&hash=e538b7d4543e44f9a671856b050b6a67ca26c074",
+    "k1": "befd480e9b0a410cb55e2dcd68aa0311",
+    "k2": "0e22f7340f251af222c7ddadd6d4e44b"
   },
   {
     "title": "Coco Gauff (USA) vs. Jessica Pegula (USA) (Round Robin - Day #2)",
@@ -468,6 +445,16 @@
     "play_url": ""
   },
   {
+    "title": "North Florida vs. Bellarmine (Semifinal)",
+    "league": "Fútbol Femenino NCAA",
+    "fecha-evento": "2025-11-02T13:00:00-05:00",
+    "img": "042d59e4-2a9c-469f-9cf9-ca1a9d4332d1",
+    "nombre": "disney040780",
+    "status": "13:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
     "title": "Loyola Maryland vs. Army (Quarterfinals)",
     "league": "Fútbol Femenino NCAA",
     "fecha-evento": "2025-11-02T13:00:00-05:00",
@@ -483,16 +470,6 @@
     "fecha-evento": "2025-11-02T13:00:00-05:00",
     "img": "aff003a0-e599-4194-99d7-cc51fb00479c",
     "nombre": "disney03e302",
-    "status": "13:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Jacksonville vs. Lipscomb (Semifinal)",
-    "league": "Fútbol Femenino NCAA",
-    "fecha-evento": "2025-11-02T13:00:00-05:00",
-    "img": "29bd7945-e141-41d4-9658-bf7580090700",
-    "nombre": "disney7f49f6",
     "status": "13:00",
     "duration": 135,
     "play_url": ""
@@ -608,11 +585,11 @@
     "play_url": ""
   },
   {
-    "title": "North Florida vs. Bellarmine (Semifinal)",
+    "title": "Jacksonville vs. Lipscomb (Semifinal)",
     "league": "Fútbol Femenino NCAA",
     "fecha-evento": "2025-11-02T14:00:00-05:00",
-    "img": "042d59e4-2a9c-469f-9cf9-ca1a9d4332d1",
-    "nombre": "disney62441e",
+    "img": "29bd7945-e141-41d4-9658-bf7580090700",
+    "nombre": "disneya4d870",
     "status": "14:00",
     "duration": 135,
     "play_url": ""
@@ -674,6 +651,26 @@
     "img": "019a3260-e29c-7bc2-a514-8e5f5a5ea977",
     "nombre": "disneyf5a0cc",
     "status": "14:20",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Milan vs. Roma",
+    "league": "Seria A",
+    "fecha-evento": "2025-11-02T14:30:00-05:00",
+    "img": "019a386b-22fd-7ab8-8d41-aeef65e7f658",
+    "nombre": "disney2c0e46",
+    "status": "14:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Brest vs. Lyon",
+    "league": "Ligue 1",
+    "fecha-evento": "2025-11-02T14:40:00-05:00",
+    "img": "019a3874-c78e-7637-993e-1b9ce1d1b820",
+    "nombre": "disney9c90e8",
+    "status": "14:40",
     "duration": 135,
     "play_url": ""
   }
