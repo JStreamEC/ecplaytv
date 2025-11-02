@@ -39,19 +39,6 @@
     "k2": "4d57a950ea4ca66621d6ecdd4332f2da"
   },
   {
-    "title": "San Fernando vs. Lomas Athletic Club",
-    "league": "Torneo Metropolitano de Hockey Femenino",
-    "fecha-evento": "2025-11-02T10:59:47-05:00",
-    "img": "52e315b2-b306-4fe2-af26-09cdad6ac9fc",
-    "nombre": "disneydc5e58",
-    "status": "10:59",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/a8592025-0227-4581-beca-1896a5760900",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1762186823~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F02%2FSan_Fernando_vs_Lomas_Ath_20251102_1762092006038%2F~psid=075f195c-dab6-4c3e-8ffe-91de1567fb31~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=3adab2e5a9d2b3b45b933e268ea86cd70a0aa954742140345a606991e4e81a56/clt1/va02/disneyplus/event/2025/11/02/San_Fernando_vs_Lomas_Ath_20251102_1762092006038/ctr-all-hdri-complete.m3u8?v=1&hash=251120cbe72cc87aaff77926637e7e34e0ba7455",
-    "k1": "bb0f1d6b63474a648e832d983fa53f65",
-    "k2": "092f4af65c924cc4cf0907305a17cc79"
-  },
-  {
     "title": "Louisiana Tech vs. Liberty (Quarterfinal)",
     "league": "Fútbol Femenino NCAA",
     "fecha-evento": "2025-11-02T11:00:01-05:00",
@@ -247,16 +234,6 @@
     "k2": "565228f15bd11f987f8199dcf5c6514c"
   },
   {
-    "title": "Missouri Duals",
-    "league": "NCAA Luchas",
-    "fecha-evento": "2025-11-02T13:00:00-05:00",
-    "img": "79dccdb5-ae78-4f5d-9a66-a92bf90f5698",
-    "nombre": "disney593efa",
-    "status": "13:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "FC Barcelona vs. Elche CF",
     "league": "LALIGA",
     "fecha-evento": "2025-11-02T12:15:00-05:00",
@@ -354,10 +331,10 @@
   {
     "title": "Indianapolis Colts vs. Pittsburgh Steelers",
     "league": "NFL",
-    "fecha-evento": "2025-11-02T13:00:00-05:00",
+    "fecha-evento": "2025-11-02T13:05:00-05:00",
     "img": "0cf405a2-5b4e-4f5f-9257-35b4e2d2d621",
-    "nombre": "disney08a2f2",
-    "status": "13:00",
+    "nombre": "disney5812cf",
+    "status": "13:05",
     "duration": 135,
     "play_url": ""
   },
@@ -382,14 +359,27 @@
     "play_url": ""
   },
   {
+    "title": "Missouri Duals",
+    "league": "NCAA Luchas",
+    "fecha-evento": "2025-11-02T13:00:00-05:00",
+    "img": "79dccdb5-ae78-4f5d-9a66-a92bf90f5698",
+    "nombre": "disney593efa",
+    "status": "13:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
     "title": "San Francisco 49ers vs. New York Giants",
     "league": "NFL",
     "fecha-evento": "2025-11-02T13:00:00-05:00",
     "img": "dbec5b91-3f77-4c1b-bd08-aecd9c6d1a37",
     "nombre": "disney3da6d7",
     "status": "13:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 180,
+    "play_url": "https://www.disneyplus.com/es-es/play/cc8b274a-6df8-4c1c-a045-1c686d48128a",
+    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1762192823~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F47873700-1b85-4497-8f84-d6f321fbb196-1759410995494%2F~psid=c8cfdd72-5c5a-4e94-9a7a-7246cb9e2cdc~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=23fde9be51f5ce9c058b166d17b66803097de97e63129193fe340448b9d669bd/clt1/va02/disneyplus/channel/47873700-1b85-4497-8f84-d6f321fbb196-1759410995494/ctr-all-sliding-alt1.m3u8?v=1&hash=2e1c2c39a1658935937a58e79ecd56c0e3dfb9d6",
+    "k1": "8fe4cbd1c8684050b09b8b93c1a400cd",
+    "k2": "6ef2678033e727292b4069f16248cde4"
   },
   {
     "title": "Green Bay vs. Wright State (Quarterfinal)",
@@ -404,12 +394,15 @@
   {
     "title": "Lafayette vs. Holy Cross (Quarterfinals)",
     "league": "Fútbol Femenino NCAA",
-    "fecha-evento": "2025-11-02T13:00:00-05:00",
+    "fecha-evento": "2025-11-02T12:56:35-05:00",
     "img": "95d655cb-9f33-4e45-8bea-42cb39621769",
-    "nombre": "disney35bdee",
-    "status": "13:00",
-    "duration": 135,
-    "play_url": ""
+    "nombre": "disneyb71aa1",
+    "status": "12:56",
+    "duration": 123,
+    "play_url": "https://www.disneyplus.com/es-es/play/e9edf2f6-adb2-4822-9f94-1d0cf885d8d3",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1762192867~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F02%2FLafayette_vs_Holy_Cross_Q_20251102_1762099208045%2F~psid=8aa13133-6235-463f-afc6-9a58e3acc16d~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=491c8bf6ef8d376ef6b0eb75687b2cc54362cfd221599738acfe077658ae094b/clt1/va02/disneyplus/event/2025/11/02/Lafayette_vs_Holy_Cross_Q_20251102_1762099208045/ctr-all-hdri-complete.m3u8?v=1&hash=e66994bd3f03199cdf982a1a44904a86e8371b54",
+    "k1": "875b792a87124f4699b906d438b8fe61",
+    "k2": "fc8034bfa0e718bb0fb8209e8f7eceac"
   },
   {
     "title": "NFL Redzone",
@@ -687,6 +680,16 @@
     "fecha-evento": "2025-11-02T16:30:00-05:00",
     "img": "019a2be7-e262-78df-b8df-9caca8311e5f",
     "nombre": "disneye9a64d",
+    "status": "16:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Missouri State vs. Western Kentucky (Quarterfinal)",
+    "league": "Fútbol Femenino NCAA",
+    "fecha-evento": "2025-11-02T16:30:00-05:00",
+    "img": "019a4083-5e44-743f-b7d7-89f216924040",
+    "nombre": "disneyd225f9",
     "status": "16:30",
     "duration": 135,
     "play_url": ""
