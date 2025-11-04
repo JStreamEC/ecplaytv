@@ -182,19 +182,6 @@
     "k2": "c991a50583ef63d0193ae4935697d03f"
   },
   {
-    "title": "#8 Tennessee vs. #9 NC State",
-    "league": "Básquet Femenino NCAA",
-    "fecha-evento": "2025-11-04T16:00:00-05:00",
-    "img": "7d97ee1d-1696-43e0-aa25-8de71bfa51a9",
-    "nombre": "disney67c3f5",
-    "status": "16:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/d75af0ba-bb67-4aa6-9129-2d4de7cc39ec",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1762376469~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F04%2F8_Tennessee_vs_9_NC_State_20251104_1762285160026%2F~psid=df81fde2-edf1-4ecf-837d-ae1f4086a546~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=b56b2265f1ca61a1cd2064ca8bdba47a2425c1adeb3df7648c04b1e704b5aacb/clt1/va02/disneyplus/event/2025/11/04/8_Tennessee_vs_9_NC_State_20251104_1762285160026/ctr-all-hdri-complete.m3u8?v=1&hash=fa1831557f3ddb50a333790f40ec962c95121d14",
-    "k1": "cace0c9be8a241adafc102077f13149e",
-    "k2": "8f249c2f1a75681db40808e96698db63"
-  },
-  {
     "title": "Sam Houston vs. Liberty (Semifinal #1)",
     "league": "Fútbol Femenino NCAA",
     "fecha-evento": "2025-11-04T16:00:00-05:00",
@@ -206,6 +193,19 @@
     "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1762376514~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F04%2FSam_Houston_vs_Liberty_Se_20251104_1762282825042%2F~psid=10207eed-0b47-4cbb-be24-d2ff362b8caf~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=d61c6d0176eb0b313e2398d6b6aa8694817beb07eea2e67421a0fb0a0be54e28/clt1/va02/disneyplus/event/2025/11/04/Sam_Houston_vs_Liberty_Se_20251104_1762282825042/ctr-all-hdri-complete.m3u8?v=1&hash=7b042eb03082f40891cf22834fe08a7c7da89b5a",
     "k1": "8c5dd63a591a49f6bed241c094337bc2",
     "k2": "d2a2f0f7e0695fd5914386ecfbc368c7"
+  },
+  {
+    "title": "#8 Tennessee vs. #9 NC State",
+    "league": "Básquet Femenino NCAA",
+    "fecha-evento": "2025-11-04T16:00:00-05:00",
+    "img": "7d97ee1d-1696-43e0-aa25-8de71bfa51a9",
+    "nombre": "disney67c3f5",
+    "status": "16:00",
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/d75af0ba-bb67-4aa6-9129-2d4de7cc39ec",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1762376469~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F04%2F8_Tennessee_vs_9_NC_State_20251104_1762285160026%2F~psid=df81fde2-edf1-4ecf-837d-ae1f4086a546~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=b56b2265f1ca61a1cd2064ca8bdba47a2425c1adeb3df7648c04b1e704b5aacb/clt1/va02/disneyplus/event/2025/11/04/8_Tennessee_vs_9_NC_State_20251104_1762285160026/ctr-all-hdri-complete.m3u8?v=1&hash=fa1831557f3ddb50a333790f40ec962c95121d14",
+    "k1": "cace0c9be8a241adafc102077f13149e",
+    "k2": "8f249c2f1a75681db40808e96698db63"
   },
   {
     "title": "#20 Louisville vs. #1 UConn",
@@ -328,11 +328,11 @@
     "play_url": ""
   },
   {
-    "title": "LSU vs. #14 Tennessee (Quarterfinal #4)",
+    "title": "#25 LSU vs. #14 Tennessee (Quarterfinal #4)",
     "league": "Fútbol Femenino NCAA",
     "fecha-evento": "2025-11-04T20:00:00-05:00",
-    "img": "165dc18d-076c-4add-9f8f-ea6220bbf846",
-    "nombre": "disneyc9b79a",
+    "img": "fa3b5ee0-ee3d-4690-a79d-254b4b518365",
+    "nombre": "disneyd25647",
     "status": "20:00",
     "duration": 135,
     "play_url": ""
@@ -421,7 +421,7 @@
     "title": "Vissel Kobe (JPN) vs. Ulsan Hyundai (KOR)",
     "league": "AFC Champions League",
     "fecha-evento": "2025-11-05T04:55:00-05:00",
-    "img": "019a1d3b-6faf-74bf-b3c2-87847ee92f6d",
+    "img": "019a1d3b-6e70-7bf4-8f6f-402c071e5ac9",
     "nombre": "disneydbee16",
     "status": "04:55",
     "duration": 135,
