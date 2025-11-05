@@ -240,7 +240,7 @@
     "title": "Moselle Open (Second Round)",
     "league": "ATP",
     "fecha-evento": "2025-11-05T08:00:00-05:00",
-    "img": "019a3a1b-b96b-7f23-8776-d0795fe5b7ca",
+    "img": "019a3a1b-baf3-7b40-9c7a-b3fcb01b2b59",
     "nombre": "disney17fd16",
     "status": "08:00",
     "duration": 135,
@@ -307,11 +307,11 @@
     "play_url": ""
   },
   {
-    "title": "ACC Field Hockey Championship (Semifinal)",
+    "title": "Syracuse vs. Wake Forest (Quarterfinals)",
     "league": "NCAA Hockey sobre Césped",
     "fecha-evento": "2025-11-05T13:00:00-05:00",
     "img": "85f7abfd-977d-4aa5-ac39-459d7d36f8bb",
-    "nombre": "disney283ccc",
+    "nombre": "disney13080c",
     "status": "13:00",
     "duration": 135,
     "play_url": ""
@@ -413,6 +413,16 @@
     "img": "5235ffa9-8ee8-44c0-9d97-fe28421cb87f",
     "nombre": "disneyadf0d4",
     "status": "14:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "ACC Field Hockey Championship (Semifinal)",
+    "league": "NCAA Hockey sobre Césped",
+    "fecha-evento": "2025-11-05T15:30:00-05:00",
+    "img": "85f7abfd-977d-4aa5-ac39-459d7d36f8bb",
+    "nombre": "disneya2a09b",
+    "status": "15:30",
     "duration": 135,
     "play_url": ""
   },
