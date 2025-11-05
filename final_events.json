@@ -1,18 +1,5 @@
 [
   {
-    "title": "Ball State vs. Western Michigan (Semifinal)",
-    "league": "Fútbol Femenino NCAA",
-    "fecha-evento": "2025-11-04T16:00:00-05:00",
-    "img": "8ad62e0d-147e-4768-bef2-09eda27c5add",
-    "nombre": "disney93917e",
-    "status": "16:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/48b815ad-1f10-4cb2-ba83-6ab15639d209",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1762376425~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F04%2FBall_State_vs_Western_Mic_20251104_1762282848042%2F~psid=5ce90c72-41fb-4492-91b9-a20baf211aa8~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=4dbf3169a07a95dd6e2eaae0ed4b8b9459e7f9ac5e0b7606297dd66d08c65d64/clt1/va02/disneyplus/event/2025/11/04/Ball_State_vs_Western_Mic_20251104_1762282848042/ctr-all-hdri-complete.m3u8?v=1&hash=15a6d68e837a981f89fd3f9853a27d428654c43a",
-    "k1": "87dffb8bbfa4463cbf4aad79d9911a8b",
-    "k2": "c991a50583ef63d0193ae4935697d03f"
-  },
-  {
     "title": "#20 Louisville vs. #1 UConn",
     "league": "Básquet Femenino NCAA",
     "fecha-evento": "2025-11-04T17:30:00-05:00",
@@ -78,7 +65,7 @@
     "title": "Missouri State vs. Middle Tennessee (Semifinal #2)",
     "league": "Fútbol Femenino NCAA",
     "fecha-evento": "2025-11-04T19:00:00-05:00",
-    "img": "b68970ba-7945-4218-ac65-8a0324a5ffd0",
+    "img": "54f9ff4c-22c6-4fa0-acb8-df31c03620ba",
     "nombre": "disney44e4a0",
     "status": "19:00",
     "duration": 135,
@@ -258,7 +245,7 @@
     "title": "Hellenic Championship (Second Round)",
     "league": "ATP",
     "fecha-evento": "2025-11-05T07:00:00-05:00",
-    "img": "019a3b90-39aa-7c21-a8c5-43d0d97df3e4",
+    "img": "019a3b90-3ba2-756c-af9b-00f2b79ae7dc",
     "nombre": "disney28e12f",
     "status": "07:00",
     "duration": 135,
@@ -520,6 +507,16 @@
     "fecha-evento": "2025-11-05T19:00:00-05:00",
     "img": "92cf8626-f446-4fea-9b74-622add63ef41",
     "nombre": "disney0be24a",
+    "status": "19:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Utah Mammoth vs. Toronto Maple Leafs",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-11-05T19:00:00-05:00",
+    "img": "019a35dc-d923-77ed-9196-1a20168cfecc",
+    "nombre": "disneybab82a",
     "status": "19:00",
     "duration": 135,
     "play_url": ""
