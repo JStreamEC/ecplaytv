@@ -36,32 +36,6 @@
     "k2": "37427cea95e7d8fe0d5ac88f3af205a2"
   },
   {
-    "title": "WTA Finals Riyadh (Doubles)",
-    "league": "WTA",
-    "fecha-evento": "2025-11-05T11:30:00-05:00",
-    "img": "019a368e-4db4-74c4-8a1b-15e000669ac7",
-    "nombre": "disney9d70f3",
-    "status": "11:30",
-    "duration": 180,
-    "play_url": "https://www.disneyplus.com/es-es/play/33ac1ac4-2207-4220-bc4e-80db52d532cb",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1762448589~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F05%2FWTA_Finals_Riyadh_Doubles_20251105_1762353050033%2F~psid=e5247cab-fb08-4d8c-b886-01225a46d07d~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=0ac7f851e09ce71309e428b2c5d0a4b27bba762b734137bf5359ce660703a16a/clt1/va02/disneyplus/event/2025/11/05/WTA_Finals_Riyadh_Doubles_20251105_1762353050033/ctr-all-hdri-complete.m3u8?v=1&hash=1578543c4fa2f77b48a5f5e59f57007cc4bb2259",
-    "k1": "f40b13f4879a4e19ac154a130f5485f3",
-    "k2": "f4b73ad5f6612b5ba9a6b96d7a88ba33"
-  },
-  {
-    "title": "Al Nassr (KSA) vs. FC Goa (IND)",
-    "league": "Asian Cup",
-    "fecha-evento": "2025-11-05T13:00:01-05:00",
-    "img": "019a12d4-6b12-7ebe-a4c1-e6d4ed6af47c",
-    "nombre": "disney91182e",
-    "status": "13:00",
-    "duration": 135,
-    "play_url": "https://www.disneyplus.com/es-es/play/79fbdf6d-044d-4d26-87c5-9cb0f27486ce",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1762453269~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F05%2FAl_Nassr_KSA_vs_FC_Goa_IN_20251105_1762358417031%2F~psid=040e9f8b-7979-4ed1-b029-814dd6d0c460~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=718d46c5c4579c86cc1edac9e1beb5869c97d3e85ef1b0521ce4f0cdd6108501/clt1/va02/disneyplus/event/2025/11/05/Al_Nassr_KSA_vs_FC_Goa_IN_20251105_1762358417031/ctr-all-hdri-complete.m3u8?v=1&hash=277147bc33b56ea0b9216a9087f3b67913afec42",
-    "k1": "05add4c0be084d23a95db1abe973aa0e",
-    "k2": "c7e676c6fb66ec051acb6a4c933f912d"
-  },
-  {
     "title": "Ohio vs. App State (Quarterfinals)",
     "league": "NCAA Women's Field Hockey",
     "fecha-evento": "2025-11-05T14:30:04-05:00",
@@ -452,6 +426,16 @@
     "play_url": ""
   },
   {
+    "title": "WTA Finals Riyadh (Doubles)",
+    "league": "WTA",
+    "fecha-evento": "2025-11-06T07:00:00-05:00",
+    "img": "019a3694-af44-7609-9ca9-d2fdad7d594b",
+    "nombre": "disneye1cf1a",
+    "status": "07:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
     "title": "Moselle Open (Quarterfinals)",
     "league": "ATP",
     "fecha-evento": "2025-11-06T08:00:00-05:00",
@@ -597,6 +581,26 @@
     "fecha-evento": "2025-11-06T12:25:00-05:00",
     "img": "019a1541-afba-7622-bf4f-c63803a597c6",
     "nombre": "disney54fd75",
+    "status": "12:25",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "KuPS - Slovan Bratislava",
+    "league": "UEFA Conference League",
+    "fecha-evento": "2025-11-06T12:25:00-05:00",
+    "img": "019a1541-b2ed-79e8-93e7-68280e42d04a",
+    "nombre": "disney7815cc",
+    "status": "12:25",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Samsunspor - Hamrun Spartans",
+    "league": "UEFA Conference League",
+    "fecha-evento": "2025-11-06T12:25:00-05:00",
+    "img": "019a1540-9c6b-7973-989f-e273829fc23f",
+    "nombre": "disney7d59b1",
     "status": "12:25",
     "duration": 135,
     "play_url": ""
