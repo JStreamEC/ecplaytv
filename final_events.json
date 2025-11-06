@@ -26,19 +26,6 @@
     "k2": "da416e6ae0e54480919426e4bb86abb6"
   },
   {
-    "title": "WTA Finals Riyadh (Doubles)",
-    "league": "WTA",
-    "fecha-evento": "2025-11-06T11:30:00-05:00",
-    "img": "019a3694-aec8-7948-b5ab-5b1e075a8b37",
-    "nombre": "disneyf08a16",
-    "status": "11:30",
-    "duration": 180,
-    "play_url": "https://www.disneyplus.com/es-es/play/730e0211-3b58-4dd1-aad7-ecb542750eb2",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1762533625~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F06%2FWTA_Finals_Riyadh_Doubles_20251106_1762439431043%2F~psid=4481eba6-095b-4c89-8fe4-f279fa953cdb~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=1048e705ea45c3c5e660c0d5e0deb30e10103df8279cc6de7ad78e908339aba0/clt1/va02/disneyplus/event/2025/11/06/WTA_Finals_Riyadh_Doubles_20251106_1762439431043/ctr-all-hdri-complete.m3u8?v=1&hash=7579d98e80f77029a2761a9227b96ab625ac61f7",
-    "k1": "1adb235b6706451bb0bbab4e04b72ecf",
-    "k2": "dcc61c6719efdcce1252fbd9a633901c"
-  },
-  {
     "title": "Midtjylland vs. Celtic",
     "league": "UEFA Europa League",
     "fecha-evento": "2025-11-06T12:30:00-05:00",
@@ -302,7 +289,7 @@
     "title": "Wagner vs. Saint Francis (PA) (Semifinal)",
     "league": "NCAA Women's Field Hockey",
     "fecha-evento": "2025-11-06T14:00:00-05:00",
-    "img": "019a3d12-5c23-783a-9773-41d7ba9e9f04",
+    "img": "019a3d12-5c0f-775f-af9b-c4d2129bdb47",
     "nombre": "disney132298",
     "status": "14:00",
     "duration": 135,
@@ -322,7 +309,7 @@
     "title": "Oakland vs. Milwaukee (Semifinal)",
     "league": "Fútbol Femenino NCAA",
     "fecha-evento": "2025-11-06T14:00:00-05:00",
-    "img": "aca16419-66bc-450a-a86e-720e1e0b50f6",
+    "img": "0b035118-9e89-458b-8d7e-6de13447b935",
     "nombre": "disneye6a786",
     "status": "14:00",
     "duration": 135,
@@ -684,6 +671,16 @@
     "fecha-evento": "2025-11-06T18:00:00-05:00",
     "img": "54b2ff46-3141-4798-8bf6-a007c999eff8",
     "nombre": "disneye2870d",
+    "status": "18:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Army vs. Colgate (Semifinal)",
+    "league": "Fútbol Femenino NCAA",
+    "fecha-evento": "2025-11-06T18:00:00-05:00",
+    "img": "fdf7449d-1d8b-482e-a30b-3f687b46ab54",
+    "nombre": "disneyff0b46",
     "status": "18:00",
     "duration": 135,
     "play_url": ""
