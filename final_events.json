@@ -62,27 +62,17 @@
     "k2": "da416e6ae0e54480919426e4bb86abb6"
   },
   {
-    "title": "Jessica Pegula (USA) vs. Jasmine Paolini (ITA) (Round Robin - Day #6)",
-    "league": "WTA",
-    "fecha-evento": "2025-11-06T09:00:00-05:00",
-    "img": "019a5559-4446-7ea9-9864-3f2dfd4e4eb2",
-    "nombre": "disneyf70752",
-    "status": "09:00",
-    "duration": 90,
-    "play_url": "https://www.disneyplus.com/es-es/play/4e6d2486-9c54-4104-9423-e5d363e0d8aa",
-    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1762525222~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Ff25bdf06-81c9-4a7c-b128-3128d610ad17-1759409600195%2F~psid=34a16194-ad38-41ab-841d-8ccf21dc4562~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=7bb989403f7c3605b5829fdf59d29602e80790bb1891b067b2fa5b57b3ad797c/clt1/va02/disneyplus/channel/f25bdf06-81c9-4a7c-b128-3128d610ad17-1759409600195/ctr-all-sliding-alt1.m3u8?v=1&hash=4daaff4fdbe476e51bcd350032d73b0e9d85df99",
-    "k1": "9cf4b5b0b18a4d82bfd02c575576bd9d",
-    "k2": "1246cce374564a8d1822c597a5767cc8"
-  },
-  {
     "title": "Aryna Sabalenka (BLR) vs. Coco Gauff (USA) (Round Robin - Day #6)",
     "league": "WTA",
     "fecha-evento": "2025-11-06T10:30:00-05:00",
     "img": "019a555e-d34b-78ce-b501-6a238fb7e3a4",
     "nombre": "disneyec0cce",
     "status": "10:30",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/8666922f-f4a8-4205-b4e5-7996117a1b7f",
+    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1762530024~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Ff25bdf06-81c9-4a7c-b128-3128d610ad17-1759409600195%2F~psid=97ccf9c4-d5d2-41d8-9b90-5bb10de87ebf~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=2dcd8f61ae809bb61caf43e0f193de312fd0c1dc8c4446f459ea965bab3f948c/clt1/va02/disneyplus/channel/f25bdf06-81c9-4a7c-b128-3128d610ad17-1759409600195/ctr-all-sliding-alt1.m3u8?v=1&hash=4daaff4fdbe476e51bcd350032d73b0e9d85df99",
+    "k1": "9cf4b5b0b18a4d82bfd02c575576bd9d",
+    "k2": "1246cce374564a8d1822c597a5767cc8"
   },
   {
     "title": "Rider vs. Fairfield (Semifinal)",
@@ -631,6 +621,16 @@
     "img": "6f24faec-f764-40eb-a24c-a9ac2bcff819",
     "nombre": "disney7e517e",
     "status": "16:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Mississippi State vs. #25 LSU (Semifinal #1)",
+    "league": "Fútbol Femenino NCAA",
+    "fecha-evento": "2025-11-06T16:30:00-05:00",
+    "img": "1d525bc3-6abe-4ffb-a20b-db6d9fc30d16",
+    "nombre": "disneyddfc0b",
+    "status": "16:30",
     "duration": 135,
     "play_url": ""
   }
