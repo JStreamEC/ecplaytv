@@ -1,18 +1,5 @@
 [
   {
-    "title": "Premier Padel: World Cup Pairs Kuwait - Secondary Court (Octavos de Final)",
-    "league": "ESPN",
-    "fecha-evento": "2025-11-06T04:00:06-05:00",
-    "img": "019a590f-6e5c-7b00-b267-816c079fe0f1",
-    "nombre": "disney077ca1",
-    "status": "04:00",
-    "duration": 450,
-    "play_url": "https://www.disneyplus.com/es-es/play/4190f6bc-57a9-4200-a596-6d3d337e94c6",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1762524022~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F06%2FPremier_Padel_World_Cup_P_20251106_1762412433043%2F~psid=b6df44c9-889a-4052-ba95-f98e3e14d0f3~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=78bfeb978bf6e38417292ecd991c1ffaaca32e34f24d3c20bf8612f8f86c5c99/clt1/va02/disneyplus/event/2025/11/06/Premier_Padel_World_Cup_P_20251106_1762412433043/ctr-all-hdri-complete.m3u8?v=1&hash=d4e35cc9f4f16499a62b092e23144eaf473f33c5",
-    "k1": "54a01db5b77840908598b87b1768a40d",
-    "k2": "07d50f05b2b6f2737ed40a54b1751515"
-  },
-  {
     "title": "Premier Padel: World Cup Pairs Kuwait - Centre Court (Octavos de Final)",
     "league": "Premier Padel",
     "fecha-evento": "2025-11-06T04:00:09-05:00",
@@ -313,7 +300,7 @@
     "title": "FC Basel - FCSB",
     "league": "UEFA Europa League",
     "fecha-evento": "2025-11-06T12:35:00-05:00",
-    "img": "019a152a-e237-7ac2-9e85-5eae7e3fa2df",
+    "img": "019a152a-e238-7584-b1ec-67cf525ed479",
     "nombre": "disney6cd674",
     "status": "12:35",
     "duration": 135,
@@ -646,6 +633,16 @@
     "img": "3918b8e0-581b-4011-a7e6-18cb352d0105",
     "nombre": "disney035325",
     "status": "16:55",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "UConn vs. #22 Xavier (Semifinal)",
+    "league": "Fútbol Femenino NCAA",
+    "fecha-evento": "2025-11-06T17:00:00-05:00",
+    "img": "019a50a4-9015-705c-ba2e-0aa57d578273",
+    "nombre": "disneycb9990",
+    "status": "17:00",
     "duration": 135,
     "play_url": ""
   }
