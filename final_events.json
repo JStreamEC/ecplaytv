@@ -169,19 +169,6 @@
     "k2": "bf2e8c8591c41fd03e68343bc0f05e82"
   },
   {
-    "title": "NK Celje - Legia Warszawa",
-    "league": "UEFA Conference League",
-    "fecha-evento": "2025-11-06T12:34:27-05:00",
-    "img": "019a1544-ee1e-72b7-89f7-4a3503c6d263",
-    "nombre": "disney83db9a",
-    "status": "12:34",
-    "duration": 131,
-    "play_url": "https://www.disneyplus.com/es-es/play/4da11259-a84d-4e9f-ad0a-8f631fbbcb79",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1762537542~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F06%2FNK_Celje_vs_Legia_Warsaw_20251106_1762447040371%2F~psid=1bb7cc27-1652-4d29-8bc9-8a3b72af102a~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=6edc2e77376179b1750f9f792a0db1ae971f849460b6040d00f56792827f7f2c/clt1/va02/disneyplus/event/2025/11/06/NK_Celje_vs_Legia_Warsaw_20251106_1762447040371/ctr-all-hdri-complete.m3u8?r=720&v=1&hash=67b4e7f173ec5024db893e06a1ae51badcc89306",
-    "k1": "24e8534107d848d895bc0ba3cbdcd621",
-    "k2": "e70381712811c60d5d863e5c744cd1cb"
-  },
-  {
     "title": "Samsunspor - Hamrun Spartans",
     "league": "UEFA Conference League",
     "fecha-evento": "2025-11-06T12:34:28-05:00",
@@ -353,12 +340,15 @@
   {
     "title": "App State vs. Massachusetts (Semifinal)",
     "league": "NCAA Women's Field Hockey",
-    "fecha-evento": "2025-11-06T14:30:00-05:00",
+    "fecha-evento": "2025-11-06T14:30:21-05:00",
     "img": "019a59eb-1d3d-7717-ac12-3552b481a2bb",
-    "nombre": "disney7ae1be",
+    "nombre": "disney7c40d8",
     "status": "14:30",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/924aba01-b416-4a35-af09-0c116978f0ec",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1762544424~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F06%2FApp_State_vs_Massachusett_20251106_1762450248032%2F~psid=3aed9cf4-19a6-43d0-877e-f3635b8a0cb1~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=fee85500b43c5fc1cba788feeabf79fadb5842d41a10a5fd6ee66bb6ac75cf02/clt1/va02/disneyplus/event/2025/11/06/App_State_vs_Massachusett_20251106_1762450248032/ctr-all-hdri-complete.m3u8?v=1&hash=5360227fddafceea6fc64142ac98809f7e3fc784",
+    "k1": "928c6c76706c4c9f895dccaa66729b22",
+    "k2": "b64ca30da7accb1e02a6d5e4d33fb4eb"
   },
   {
     "title": "Aston Villa vs. Maccabi Tel Aviv",
@@ -423,12 +413,15 @@
   {
     "title": "Stuttgart vs. Feyenoord",
     "league": "UEFA Europa League",
-    "fecha-evento": "2025-11-06T14:40:00-05:00",
+    "fecha-evento": "2025-11-06T14:37:00-05:00",
     "img": "019a262b-1b5e-7c50-adbc-69634803dcdf",
-    "nombre": "disneyec0960",
-    "status": "14:40",
-    "duration": 135,
-    "play_url": ""
+    "nombre": "disney938eb7",
+    "status": "14:37",
+    "duration": 138,
+    "play_url": "https://www.disneyplus.com/es-es/play/e065df1f-06ff-4c8c-a211-dcf05ae48b47",
+    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1762544468~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Fec26a05e-a9cc-4db4-804e-77465738e667-1759408066139%2F~psid=51ddcc65-6b0b-4cdc-9518-607a33a8ea9d~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=5938150a566548c59550b2bbaa7a54506038a9122ef35ce6b25bdb163ebf4f3a/clt1/va02/disneyplus/channel/ec26a05e-a9cc-4db4-804e-77465738e667-1759408066139/ctr-all-sliding-alt1.m3u8?v=1&hash=f49ea62fa7410074aaa3483f688cb1f35dfe9b3b",
+    "k1": "e95b1af6f5854fdab19a9866610d04da",
+    "k2": "3e6883933d697c41e442b6d52d3a8b0c"
   },
   {
     "title": "Dynamo Kyiv - Zrinjski Mostar",
@@ -696,6 +689,16 @@
     "fecha-evento": "2025-11-06T18:00:00-05:00",
     "img": "fdf7449d-1d8b-482e-a30b-3f687b46ab54",
     "nombre": "disneyff0b46",
+    "status": "18:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Bryant vs. Vermont (Semifinal)",
+    "league": "Fútbol Femenino NCAA",
+    "fecha-evento": "2025-11-06T18:00:00-05:00",
+    "img": "7d638907-167a-45d4-b9a8-589489ffd12b",
+    "nombre": "disneyfe0b3e",
     "status": "18:00",
     "duration": 135,
     "play_url": ""
