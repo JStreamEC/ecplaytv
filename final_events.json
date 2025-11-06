@@ -1,18 +1,5 @@
 [
   {
-    "title": "Moselle Open (Quarterfinals)",
-    "league": "ATP",
-    "fecha-evento": "2025-11-06T08:00:08-05:00",
-    "img": "019a3b6e-e30b-7054-be01-2cca1bb4e97e",
-    "nombre": "disney541267",
-    "status": "08:00",
-    "duration": 480,
-    "play_url": "https://www.disneyplus.com/es-es/play/cd258f62-a802-4096-8e63-302ddfcd9a0e",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1762524160~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F06%2FMoselle_Open_Quarterfinal_20251106_1762426819030%2F~psid=17254026-7339-440c-ac1d-b28683b000dd~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=3e7aeb776c03f6a496065586d1dfc4ca1f1d1bca6b7bc8d2c02faee7acc0bf9e/clt1/va02/disneyplus/event/2025/11/06/Moselle_Open_Quarterfinal_20251106_1762426819030/ctr-all-hdri-complete.m3u8?v=1&hash=a16be6314e791c43b8509d3f5a2820898fdaddf5",
-    "k1": "24a2012d6f754006aea0fae50d68f096",
-    "k2": "da416e6ae0e54480919426e4bb86abb6"
-  },
-  {
     "title": "Dartmouth vs. Columbia (Semifinal)",
     "league": "Fútbol Femenino NCAA",
     "fecha-evento": "2025-11-06T15:34:20-05:00",
@@ -78,19 +65,6 @@
     "k2": "96ced3225698bbbd4c3af08784897567"
   },
   {
-    "title": "Polo Aap",
-    "league": "Polo Internacional",
-    "fecha-evento": "2025-11-06T16:55:00-05:00",
-    "img": "3918b8e0-581b-4011-a7e6-18cb352d0105",
-    "nombre": "disney035325",
-    "status": "16:55",
-    "duration": 33,
-    "play_url": "https://www.disneyplus.com/es-es/play/45966a23-b6d8-43e8-9d05-ef5426105fed",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1762552829~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F06%2FPolo_Aap_20251106_1762458953024%2F~psid=eb7aae9a-2ba9-4f06-89bb-35a502f94f9d~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=06134d2799b6435805a5d63956194f66eac4643fcb01700e48cbd3312bd97ff8/clt1/va02/disneyplus/event/2025/11/06/Polo_Aap_20251106_1762458953024/ctr-all-hdri-complete.m3u8?v=1&hash=ab4f81ed32248dc56092ec3d933d4de2c1ba894b",
-    "k1": "c53b76bd6c8545ad898ce4b827454f8a",
-    "k2": "0d2d9ee74469abb150c3212e90987872"
-  },
-  {
     "title": "UConn vs. #22 Xavier (Semifinal)",
     "league": "Fútbol Femenino NCAA",
     "fecha-evento": "2025-11-06T17:00:00-05:00",
@@ -146,8 +120,11 @@
     "img": "2a05b9f2-7733-4f0d-9bb4-dea248447474",
     "nombre": "disneya601ed",
     "status": "17:30",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/e7648dac-7cb3-43e2-92e0-4644f023eb17",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1762555267~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F06%2F11_Duke_vs_2_Notre_Dame_S_20251106_1762461018025%2F~psid=a3ab5538-f725-48fa-a6ba-590e0f2d9eb2~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=22de40253f755c77cf767cb60bcca30d8f9a8ccccdf70e98191cbc7da7909013/clt1/va02/disneyplus/event/2025/11/06/11_Duke_vs_2_Notre_Dame_S_20251106_1762461018025/ctr-all-hdri-complete.m3u8?v=1&hash=2a1f7f685ecef7b643d0f3c3fe762d4231cefcc0",
+    "k1": "7706b6c655c746b388b7436d00e0ac94",
+    "k2": "faf9e5bf6dd315ed5796d649934b8384"
   },
   {
     "title": "Cibao FC vs. O&M FC",
@@ -570,11 +547,31 @@
     "play_url": ""
   },
   {
-    "title": "Moselle Open (Semifinal)",
+    "title": "Cameron Norrie (GBR) vs. Lorenzo Sonego (ITA) (Semifinal)",
     "league": "ATP",
     "fecha-evento": "2025-11-07T09:30:00-05:00",
-    "img": "019a4f19-bd87-7e8e-a6a8-79996fd69595",
-    "nombre": "disneyc11788",
+    "img": "019a4f19-be21-7f6f-9d7d-50b4276ee2c3",
+    "nombre": "disney846c9a",
+    "status": "09:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "F1 GP Brasil, práctica #1 | On Board Colapinto",
+    "league": "Fórmula 1",
+    "fecha-evento": "2025-11-07T09:30:00-05:00",
+    "img": "019a276e-da93-7445-a8d9-4f63d9909124",
+    "nombre": "disneyc8811a",
+    "status": "09:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "F1 GP Brasil, práctica #1 | On Board Verstappen",
+    "league": "Fórmula 1",
+    "fecha-evento": "2025-11-07T09:30:00-05:00",
+    "img": "019a2768-ff0c-7dbd-8de6-65e00c1284c9",
+    "nombre": "disney8b6019",
     "status": "09:30",
     "duration": 135,
     "play_url": ""
