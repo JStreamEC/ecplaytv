@@ -26,19 +26,6 @@
     "k2": "a8803fa4cf5150b526dd1c50e4ad0cfb"
   },
   {
-    "title": "Canisius vs. Quinnipiac (Semifinal)",
-    "league": "Fútbol Femenino NCAA",
-    "fecha-evento": "2025-11-06T13:00:00-05:00",
-    "img": "3be2cb63-6bb0-4cd1-b9bb-5c745eebca5e",
-    "nombre": "disney1fb8c0",
-    "status": "13:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/6c9902ed-56a1-4aad-aae8-ce6453681220",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1762538468~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F06%2FCanisius_vs_Quinnipiac_Se_20251106_1762444855030%2F~psid=dd7bf32c-ac4b-4470-b367-90962f7e90ce~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=9a6d1abe94b92033c39bc7c0e68126cfdc5c1aad527a1db28e19ef3e8e20dbaf/clt1/va02/disneyplus/event/2025/11/06/Canisius_vs_Quinnipiac_Se_20251106_1762444855030/ctr-all-hdri-complete.m3u8?v=1&hash=6f615b255118128e813ed399f14b80a5a529f767",
-    "k1": "eacfbe6358ca46199af010b65775ff93",
-    "k2": "839332e63cdb04de8d21c5dfe1df13d3"
-  },
-  {
     "title": "UIC vs. Murray State (Semifinal #1)",
     "league": "Fútbol Femenino NCAA",
     "fecha-evento": "2025-11-06T14:00:10-05:00",
@@ -353,12 +340,15 @@
   {
     "title": "Mississippi State vs. #25 LSU (Semifinal #1)",
     "league": "Fútbol Femenino NCAA",
-    "fecha-evento": "2025-11-06T16:30:00-05:00",
+    "fecha-evento": "2025-11-06T16:30:01-05:00",
     "img": "1d525bc3-6abe-4ffb-a20b-db6d9fc30d16",
-    "nombre": "disneyddfc0b",
+    "nombre": "disneyd6046d",
     "status": "16:30",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/8a47c49c-8cb8-45db-8986-22a1ae03ac3b",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1762551628~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F06%2FMississippi_State_vs_25_L_20251106_1762457409037%2F~psid=bc766341-9804-43a8-98b1-2536a7b79d18~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=b635015cccf9ce012f5a4b2b2d5b48de6e59cb6d1118cc6f70e4ac14a21ccfaa/clt1/va02/disneyplus/event/2025/11/06/Mississippi_State_vs_25_L_20251106_1762457409037/ctr-all-hdri-complete.m3u8?v=1&hash=14f2ac4749d7376a6a37652bd08f4622b030e008",
+    "k1": "9bc27018e9a841478837438a3f214873",
+    "k2": "96ced3225698bbbd4c3af08784897567"
   },
   {
     "title": "Polo Aap",
@@ -666,6 +656,16 @@
     "fecha-evento": "2025-11-06T20:00:00-05:00",
     "img": "bc24d178-d35f-4072-9c28-083d03cafff9",
     "nombre": "disney6dda87",
+    "status": "20:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Alcorn State vs. South Alabama",
+    "league": "Básquetbol Masculino NCAA",
+    "fecha-evento": "2025-11-06T20:00:00-05:00",
+    "img": "fe79199b-7260-4d95-b667-a6d241632aca",
+    "nombre": "disneya1a170",
     "status": "20:00",
     "duration": 135,
     "play_url": ""
