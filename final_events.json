@@ -1,18 +1,5 @@
 [
   {
-    "title": "Dartmouth vs. Columbia (Semifinal)",
-    "league": "Fútbol Femenino NCAA",
-    "fecha-evento": "2025-11-06T15:34:20-05:00",
-    "img": "0b035118-9e89-458b-8d7e-6de13447b935",
-    "nombre": "disney2bc5a0",
-    "status": "15:34",
-    "duration": 116,
-    "play_url": "https://www.disneyplus.com/es-es/play/8d38a0a9-4b29-4486-ac76-91b1eed92fc9",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1762548026~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F06%2FDartmouth_vs_Columbia_Sem_20251106_1762453808029%2F~psid=fbb05632-12c1-4540-8826-c261d52708b7~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=c0f6625554f3f946a5efe8243f7d3b3f7eccfa2814e3e756b5aa0d345f01bfd9/clt1/va02/disneyplus/event/2025/11/06/Dartmouth_vs_Columbia_Sem_20251106_1762453808029/ctr-all-hdri-complete.m3u8?v=1&hash=588a90afcd5e81ff10054b1aa46d9ec8ceea4cda",
-    "k1": "1d55ebd3b5f9468cadc82e8a2fcc3c23",
-    "k2": "bdf7d2262d06b6b1aa76a04dc8070329"
-  },
-  {
     "title": "High Point vs. Radford (Semifinal)",
     "league": "Fútbol Femenino NCAA",
     "fecha-evento": "2025-11-06T15:59:59-05:00",
@@ -129,12 +116,12 @@
   {
     "title": "Cibao FC vs. O&M FC",
     "league": "Concacaf Caribbean Cup",
-    "fecha-evento": "2025-11-06T17:50:00-05:00",
+    "fecha-evento": "2025-11-06T17:50:04-05:00",
     "img": "1b31a5c5-d271-47f2-80cf-8f1ffe082be3",
-    "nombre": "disney0e002a",
+    "nombre": "disney637d9f",
     "status": "17:50",
-    "duration": 135,
-    "play_url": ""
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/2eb5238f-a885-4a2a-8468-cf4facbc94b9"
   },
   {
     "title": "Lafayette vs. Boston University (Semifinal)",
@@ -143,8 +130,11 @@
     "img": "998284f1-2c40-4e41-aa22-bee5ad8716e3",
     "nombre": "disney94f568",
     "status": "18:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/4c7a5e09-93c9-4408-9a2a-e072d0adcd54",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1762556512~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F06%2FLafayette_vs_Boston_Unive_20251106_1762462832031%2F~psid=884d6a59-6243-402a-80a7-49c7a62ff0e3~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=c777c23dab1685c824ef91f7f7f117c416b0aea9e9d2e456c76e8f1d2db6da3e/clt1/va02/disneyplus/event/2025/11/06/Lafayette_vs_Boston_Unive_20251106_1762462832031/ctr-all-hdri-complete.m3u8?v=1&hash=8414c94355518af4c1b0d891049e7e6976fee82e",
+    "k1": "8a7973797a3442df91724a1204d04424",
+    "k2": "c620fbe94c2087ce668009a17ac8bd17"
   },
   {
     "title": "Sacred Heart vs. Fairfield (Semifinal)",
@@ -153,8 +143,11 @@
     "img": "54b2ff46-3141-4798-8bf6-a007c999eff8",
     "nombre": "disneye2870d",
     "status": "18:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/4cdf227b-8b2d-4d95-b243-44354f7dadea",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1762556536~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F06%2FSacred_Heart_vs_Fairfield_20251106_1762462856041%2F~psid=065a42ee-a5ac-44a8-bc26-095c40456415~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=7a612dbe3f0e7d9525218989316e0925635b797714081d71d6804c402bf7f578/clt1/va02/disneyplus/event/2025/11/06/Sacred_Heart_vs_Fairfield_20251106_1762462856041/ctr-all-hdri-complete.m3u8?v=1&hash=0c4d9e0d39a39e52bc894166ff06362d7a338b5f",
+    "k1": "d4c183d4ec7b4d2fb2932466171de4dd",
+    "k2": "ab58329bafeddd15e74fae31dd90926c"
   },
   {
     "title": "Army vs. Colgate (Semifinal)",
@@ -163,8 +156,11 @@
     "img": "fdf7449d-1d8b-482e-a30b-3f687b46ab54",
     "nombre": "disneyff0b46",
     "status": "18:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/53921115-3113-46ee-8d42-bf8a2061312f",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1762556561~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F06%2FArmy_vs_Colgate_Semifinal_20251106_1762462851043%2F~psid=f9fcae7b-ab42-42b9-989b-b40a883aca69~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=bc8eab76ffe1b9d7e3c39a15ae86b92575690718a475bf969958bd37dc2ba3d2/clt1/va02/disneyplus/event/2025/11/06/Army_vs_Colgate_Semifinal_20251106_1762462851043/ctr-all-hdri-complete.m3u8?v=1&hash=bb304e2c29fcff18fa2624a0144d078c7c4404c9",
+    "k1": "80b3b52ab29942f5884a154f4408f495",
+    "k2": "2ee69bfab3da20979c71b3e004d8fa9e"
   },
   {
     "title": "Bryant vs. Vermont (Semifinal)",
@@ -173,8 +169,11 @@
     "img": "7d638907-167a-45d4-b9a8-589489ffd12b",
     "nombre": "disneyfe0b3e",
     "status": "18:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/c87d633d-6dfb-4869-b34a-fec782e8856e",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1762556587~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F06%2FBryant_vs_Vermont_Semifin_20251106_1762462808043%2F~psid=dc971924-2da0-4756-89c2-2dcc4035d26d~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=1ff9bbc6b96b8d190a741b99442fc9468466c63a6498821b7123abe6e46a4d4c/clt1/va02/disneyplus/event/2025/11/06/Bryant_vs_Vermont_Semifin_20251106_1762462808043/ctr-all-hdri-complete.m3u8?v=1&hash=f772a81812bbf41bf9283cc580f2b551ef0ff8c6",
+    "k1": "5afabb17e34c4ef093aa7c98f0429caa",
+    "k2": "b1f61fbe95b23f70b0b4944f8b3632eb"
   },
   {
     "title": "Brown vs. Princeton (Semifinal)",
@@ -573,6 +572,16 @@
     "img": "019a2768-ff0c-7dbd-8de6-65e00c1284c9",
     "nombre": "disney8b6019",
     "status": "09:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Qatar Airways Grand Prix of Portugal - Practice (MotoGP)",
+    "league": "MotoGP",
+    "fecha-evento": "2025-11-07T09:50:00-05:00",
+    "img": "019a4761-62a6-7266-b50c-7567163d8bd7",
+    "nombre": "disney55625d",
+    "status": "09:50",
     "duration": 135,
     "play_url": ""
   }
