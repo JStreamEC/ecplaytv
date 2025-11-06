@@ -1,18 +1,5 @@
 [
   {
-    "title": "Premier Padel: World Cup Pairs Kuwait - Centre Court (Octavos de Final)",
-    "league": "Premier Padel",
-    "fecha-evento": "2025-11-06T04:00:09-05:00",
-    "img": "019a5913-d85b-71c2-81c5-cee7f5749d5e",
-    "nombre": "disneyb92ee8",
-    "status": "04:00",
-    "duration": 570,
-    "play_url": "https://www.disneyplus.com/es-es/play/165c2640-d415-4dbd-8987-a7ab9a172604",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1762524066~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F06%2FPremier_Padel_World_Cup_P_20251106_1762412404031%2F~psid=fea4072b-037d-4264-8482-c2bc05bdc56d~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=9ff70b99b48210e9a618fdc925f56a33fbe949ba183521221666497b6a714ef5/clt1/va02/disneyplus/event/2025/11/06/Premier_Padel_World_Cup_P_20251106_1762412404031/ctr-all-hdri-complete.m3u8?v=1&hash=2f8c9881cd9e734697d3776385fa50dc8672cb60",
-    "k1": "2ad51b7e7aa848fab4aa9d20ea4f95a2",
-    "k2": "f38c51a8f4408e0bc90d78adab02a16a"
-  },
-  {
     "title": "Hellenic Championship (Quarterfinals)",
     "league": "ATP",
     "fecha-evento": "2025-11-06T06:04:56-05:00",
@@ -37,16 +24,6 @@
     "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1762524160~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F06%2FMoselle_Open_Quarterfinal_20251106_1762426819030%2F~psid=17254026-7339-440c-ac1d-b28683b000dd~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=3e7aeb776c03f6a496065586d1dfc4ca1f1d1bca6b7bc8d2c02faee7acc0bf9e/clt1/va02/disneyplus/event/2025/11/06/Moselle_Open_Quarterfinal_20251106_1762426819030/ctr-all-hdri-complete.m3u8?v=1&hash=a16be6314e791c43b8509d3f5a2820898fdaddf5",
     "k1": "24a2012d6f754006aea0fae50d68f096",
     "k2": "da416e6ae0e54480919426e4bb86abb6"
-  },
-  {
-    "title": "Miami (OH) vs. James Madison (Semifinal)",
-    "league": "NCAA Women's Field Hockey",
-    "fecha-evento": "2025-11-06T11:30:09-05:00",
-    "img": "019a59ea-a853-7bc6-b600-4a660e07556b",
-    "nombre": "disneyb646e0",
-    "status": "11:30",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/1abcbca6-b7c4-4ab8-ab68-3fe524a1e9bf"
   },
   {
     "title": "WTA Finals Riyadh (Doubles)",
@@ -688,6 +665,26 @@
     "img": "1b31a5c5-d271-47f2-80cf-8f1ffe082be3",
     "nombre": "disney0e002a",
     "status": "17:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Lafayette vs. Boston University (Semifinal)",
+    "league": "Fútbol Femenino NCAA",
+    "fecha-evento": "2025-11-06T18:00:00-05:00",
+    "img": "998284f1-2c40-4e41-aa22-bee5ad8716e3",
+    "nombre": "disney94f568",
+    "status": "18:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Sacred Heart vs. Fairfield (Semifinal)",
+    "league": "Fútbol Femenino NCAA",
+    "fecha-evento": "2025-11-06T18:00:00-05:00",
+    "img": "54b2ff46-3141-4798-8bf6-a007c999eff8",
+    "nombre": "disneye2870d",
+    "status": "18:00",
     "duration": 135,
     "play_url": ""
   }
