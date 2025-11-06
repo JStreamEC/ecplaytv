@@ -39,32 +39,6 @@
     "k2": "da416e6ae0e54480919426e4bb86abb6"
   },
   {
-    "title": "Davidson vs. Richmond (Semifinal)",
-    "league": "NCAA Women's Field Hockey",
-    "fecha-evento": "2025-11-06T11:00:00-05:00",
-    "img": "8d16b012-1a69-4d48-ac49-f80f45a3a80f",
-    "nombre": "disneyfd2bfe",
-    "status": "11:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/b1a7ca62-e629-49cf-8251-8029a118c9d3",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1762531315~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F06%2FDavidson_vs_Richmond_Semi_20251106_1762437603047%2F~psid=40bb2361-f506-4220-b5f8-a3eef1164ce7~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=7edd34ab9653039853b7af30755503502f5710c07784eda4b35063e1a6363122/clt1/va02/disneyplus/event/2025/11/06/Davidson_vs_Richmond_Semi_20251106_1762437603047/ctr-all-hdri-complete.m3u8?v=1&hash=4d670ca9f9d4693b28a4b0c513834bd474bf2d8e",
-    "k1": "ba43f814707b43fa9260ff3677a366e5",
-    "k2": "cd0ab203b901be614bb1632059a7de88"
-  },
-  {
-    "title": "Novak Djokovic (SRB) vs. Nuno Borges (POR) (Quarterfinals)",
-    "league": "ATP",
-    "fecha-evento": "2025-11-06T11:00:00-05:00",
-    "img": "019a55d2-6d49-7541-b496-a6ce3ae60f4c",
-    "nombre": "disney4b098a",
-    "status": "11:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/8142bf54-4ad0-4aba-aedb-45ad453b5cbc",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1762531269~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F06%2FNovak_Djokovic_SRB_vs_Nun_20251106_1762437603030%2F~psid=0ee4a8c2-b84b-41d4-86ec-2fa3eb19ca2b~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=271ca9928a122ba488d4fe8b717f398609196dc38c48d1b01078530873e62984/clt1/va02/disneyplus/event/2025/11/06/Novak_Djokovic_SRB_vs_Nun_20251106_1762437603030/ctr-all-hdri-complete.m3u8?v=1&hash=d365478ddb151a47f71064b1453d771a96a8b5a3",
-    "k1": "c6ad23425bd84d828d476c5df394b00f",
-    "k2": "2da471600db6c6fa99ef46101d789dae"
-  },
-  {
     "title": "Miami (OH) vs. James Madison (Semifinal)",
     "league": "NCAA Women's Field Hockey",
     "fecha-evento": "2025-11-06T11:30:09-05:00",
@@ -694,6 +668,26 @@
     "img": "52a53ccf-74a1-4982-b676-c9c7d12e6d1d",
     "nombre": "disney93eb6e",
     "status": "17:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "#11 Duke vs. #2 Notre Dame (Semifinal)",
+    "league": "Fútbol Femenino NCAA",
+    "fecha-evento": "2025-11-06T17:30:00-05:00",
+    "img": "2a05b9f2-7733-4f0d-9bb4-dea248447474",
+    "nombre": "disneya601ed",
+    "status": "17:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Cibao FC vs. O&M FC",
+    "league": "Concacaf Caribbean Cup",
+    "fecha-evento": "2025-11-06T17:50:00-05:00",
+    "img": "1b31a5c5-d271-47f2-80cf-8f1ffe082be3",
+    "nombre": "disney0e002a",
+    "status": "17:50",
     "duration": 135,
     "play_url": ""
   }
