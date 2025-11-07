@@ -10,19 +10,6 @@
     "play_url": ""
   },
   {
-    "title": "WTA Finals Riyadh (Doubles Semifinals)",
-    "league": "WTA",
-    "fecha-evento": "2025-11-07T13:00:00-05:00",
-    "img": "019a3674-e183-75d7-bf07-a32af0888ddf",
-    "nombre": "disney26c865",
-    "status": "13:00",
-    "duration": 180,
-    "play_url": "https://www.disneyplus.com/es-es/play/6e30ac51-9c18-43f4-a1cf-2c7a9a0a3304",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1762624867~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F07%2FWTA_Finals_Riyadh_Doubles_20251107_1762531211048%2F~psid=ef2c3649-1f02-496e-8588-c616a3550c27~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=1ec820a69dec4411773186b66fb1121eb147d96c2433d67aaad36a7c06ee8ac4/clt1/va02/disneyplus/event/2025/11/07/WTA_Finals_Riyadh_Doubles_20251107_1762531211048/ctr-all-hdri-complete.m3u8?v=1&hash=5c61bd8bef74287ee10edb2f3b5f4604229c8988",
-    "k1": "5ce88ec4ec5c45a094577f07b21211ea",
-    "k2": "49e3805c5997c1a126a3e05f26b642d4"
-  },
-  {
     "title": "Queens Cup México",
     "league": "Queens League Americas",
     "fecha-evento": "2025-11-07T15:55:09-05:00",
@@ -644,6 +631,16 @@
     "img": "019a3174-f090-7e2e-a4aa-7d36fa54d210",
     "nombre": "disneya86553",
     "status": "09:40",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Stoke City vs. Coventry City",
+    "league": "Championship de Inglaterra",
+    "fecha-evento": "2025-11-08T09:45:00-05:00",
+    "img": "019a12d1-f90e-78f2-807b-0b97475bf80a",
+    "nombre": "disney59cbf2",
+    "status": "09:45",
     "duration": 135,
     "play_url": ""
   }
