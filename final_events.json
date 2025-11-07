@@ -1,31 +1,5 @@
 [
   {
-    "title": "South Florida vs. Rice (Semifinal #1)",
-    "league": "Fútbol Femenino NCAA",
-    "fecha-evento": "2025-11-06T16:00:03-05:00",
-    "img": "01f4e1b5-19ea-4125-93c9-5e050dca58db",
-    "nombre": "disney5484bf",
-    "status": "16:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/afacf65f-d693-47ac-8683-d3ce33a2dd6a",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1762550472~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F06%2FSouth_Florida_vs_Rice_Sem_20251106_1762455636030%2F~psid=91d01acc-e4e0-40b7-b60e-f3d282a40303~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=c7f6e72411925f65927da17ac6b590d9d4ced5d253d7ce52b83830a50aefa923/clt1/va02/disneyplus/event/2025/11/06/South_Florida_vs_Rice_Sem_20251106_1762455636030/ctr-all-hdri-complete.m3u8?v=1&hash=ac8451a32efdc8100f7d7e0052cbed45131471a6",
-    "k1": "7635c16c74f5440da127e65219d94639",
-    "k2": "8443de57a4b43513180c03e2fafb28ad"
-  },
-  {
-    "title": "Mississippi State vs. #25 LSU (Semifinal #1)",
-    "league": "Fútbol Femenino NCAA",
-    "fecha-evento": "2025-11-06T16:30:01-05:00",
-    "img": "1d525bc3-6abe-4ffb-a20b-db6d9fc30d16",
-    "nombre": "disneyd6046d",
-    "status": "16:30",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/8a47c49c-8cb8-45db-8986-22a1ae03ac3b",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1762551628~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F06%2FMississippi_State_vs_25_L_20251106_1762457409037%2F~psid=bc766341-9804-43a8-98b1-2536a7b79d18~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=b635015cccf9ce012f5a4b2b2d5b48de6e59cb6d1118cc6f70e4ac14a21ccfaa/clt1/va02/disneyplus/event/2025/11/06/Mississippi_State_vs_25_L_20251106_1762457409037/ctr-all-hdri-complete.m3u8?v=1&hash=14f2ac4749d7376a6a37652bd08f4622b030e008",
-    "k1": "9bc27018e9a841478837438a3f214873",
-    "k2": "96ced3225698bbbd4c3af08784897567"
-  },
-  {
     "title": "UConn vs. #22 Xavier (Semifinal)",
     "league": "Fútbol Femenino NCAA",
     "fecha-evento": "2025-11-06T17:00:00-05:00",
@@ -150,14 +124,30 @@
     "k2": "b1f61fbe95b23f70b0b4944f8b3632eb"
   },
   {
+    "title": "#19 Georgia vs. #8 Vanderbilt (Semifinal #2)",
+    "league": "Fútbol Femenino NCAA",
+    "fecha-evento": "2025-11-06T19:00:00-05:00",
+    "img": "c4c4167c-a2e2-40b2-92bc-275ef6604ab2",
+    "nombre": "disneyff61e5",
+    "status": "19:00",
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/a46dcf8a-6e4b-495c-857c-466c1aa1e58e",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1762560115~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F07%2F19_Georgia_vs_8_Vanderbil_20251107_1762466440041%2F~psid=abeca8a6-f6ab-4b22-b284-b8f279cad34b~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=29420571460c816375c063f1243efb834b61807bbc5221fce68b6bb354a32f08/clt1/va02/disneyplus/event/2025/11/07/19_Georgia_vs_8_Vanderbil_20251107_1762466440041/ctr-all-hdri-complete.m3u8?v=1&hash=3d24b247470b251eaa2a8d4a73d1c48612d10a04",
+    "k1": "f48f6009a6f04cf789ed657785cb1d8b",
+    "k2": "1f2882ecb3dc47ad40fe280fa9bbac2c"
+  },
+  {
     "title": "Brown vs. Princeton (Semifinal)",
     "league": "Fútbol Femenino NCAA",
     "fecha-evento": "2025-11-06T19:00:00-05:00",
     "img": "60f47a8b-76df-4b35-b164-a716ed5ed4b1",
     "nombre": "disney14d176",
     "status": "19:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/0d1a0c5e-f941-4bfb-8765-c6d3cbe29525",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1762560140~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F07%2FBrown_vs_Princeton_Semifi_20251107_1762466455029%2F~psid=da012e59-7b23-49c7-ac60-39b700ab25fd~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=32071173b9864dee5e9a11d3b0bdb388ab9e5ed18df8d8a4d0cfdb94720d82ca/clt1/va02/disneyplus/event/2025/11/07/Brown_vs_Princeton_Semifi_20251107_1762466455029/ctr-all-hdri-complete.m3u8?v=1&hash=ecd8a7c0c380a43252b495dadc28c85e6c08bef3",
+    "k1": "a076f6703eb84c7c894cd186842c8450",
+    "k2": "59e63dc2e98c44c5596bc5df462dc738"
   },
   {
     "title": "Minnesota Wild vs. Carolina Hurricanes",
@@ -166,8 +156,11 @@
     "img": "db9cb4c6-855a-45ba-ad03-e793b97b53dc",
     "nombre": "disneyba298a",
     "status": "19:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 210,
+    "play_url": "https://www.disneyplus.com/es-es/play/0d719547-c3b9-4292-922a-bc8b48a715c6",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1762560165~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F07%2FMinnesota_Wild_vs_Carolin_20251107_1762466434611%2F~psid=ff522752-cd24-49da-9ab4-9cbdf855566f~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=c288f2cafdf6d0e870b8005aee57490b9b073dead61d14c49c273d013f0150a7/clt1/va02/disneyplus/event/2025/11/07/Minnesota_Wild_vs_Carolin_20251107_1762466434611/ctr-all-hdri-complete.m3u8?v=1&hash=b0963c8f106d6867a2073f7d1c35753c6392ff4b",
+    "k1": "fda252a50390490e9153f036593cb7da",
+    "k2": "675d5f2fd1490b5108b99943368c8b25"
   },
   {
     "title": "Montreal Canadiens vs. New Jersey Devils",
@@ -176,8 +169,11 @@
     "img": "5ecc6325-4166-4a5a-97bb-093de15a112e",
     "nombre": "disney7daa61",
     "status": "19:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 210,
+    "play_url": "https://www.disneyplus.com/es-es/play/1543f86e-d439-4807-a215-56cd3920dae6",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1762560191~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F07%2FMontreal_Canadiens_vs_New_20251107_1762466404752%2F~psid=fc8583a2-ce5c-42b8-ac7a-73fc642918ac~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=52b8641f916f7ca1de7427353f79541c3ab14df735de2e744559f260122f6a61/clt1/va02/disneyplus/event/2025/11/07/Montreal_Canadiens_vs_New_20251107_1762466404752/ctr-all-hdri-complete.m3u8?v=1&hash=a85db93e6318f015307e1542965cb8484230c02d",
+    "k1": "7cdc63b17ac44c5388c5649355d5b380",
+    "k2": "d51c9d519f8891f505eb14d38af11edd"
   },
   {
     "title": "William & Mary vs. Davidson",
@@ -186,8 +182,11 @@
     "img": "019a194c-adaa-717b-b70c-94a4e6d13710",
     "nombre": "disneyab96ac",
     "status": "19:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/5eeaf8f8-0931-4a99-9645-1a3501f55470",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1762560215~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F07%2FWilliam_Mary_vs_Davidson_20251107_1762466412036%2F~psid=7ca54690-5685-45c8-81b3-4f7da5bf1c42~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=e0fb12c179ff8597227a4776d985a9b455c582888f0e64938c6097432fd10043/clt1/va02/disneyplus/event/2025/11/07/William_Mary_vs_Davidson_20251107_1762466412036/ctr-all-hdri-complete.m3u8?v=1&hash=442f06752b82ba35dbae7574b015cd696dc4ac8b",
+    "k1": "1b7d60d53b364eac957d1f59fe4402f4",
+    "k2": "1bea4236c21632881a70b9b0157c537d"
   },
   {
     "title": "Ottawa Senators vs. Boston Bruins",
@@ -196,8 +195,11 @@
     "img": "019a35e1-8d68-7d1a-8ce8-84e5ad028906",
     "nombre": "disneyba99bd",
     "status": "19:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 210,
+    "play_url": "https://www.disneyplus.com/es-es/play/629c88fc-88a0-4520-8902-573cfa8ae1b3",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1762560240~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F07%2FOttawa_Senators_vs_Boston_20251107_1762466428042%2F~psid=da265796-d8df-4219-8fb6-3838fe6f6bd3~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=d2f4c1ac1685d6a21dd64bd9f35b1e3705143ea1f6dc58987fd66a9450303081/clt1/va02/disneyplus/event/2025/11/07/Ottawa_Senators_vs_Boston_20251107_1762466428042/ctr-all-hdri-complete.m3u8?v=1&hash=fc16a9b35bbea045ee0215941f7041e81d8ac2c1",
+    "k1": "f30ff4001aa24a14b82a420cd731a634",
+    "k2": "a15bfc2f9a32279b12d13192db034894"
   },
   {
     "title": "UTSA vs. #3 Memphis (Semifinal #2)",
@@ -206,8 +208,11 @@
     "img": "9217608f-c6d7-4ad6-842d-0bbe70f8dd43",
     "nombre": "disneya2dd49",
     "status": "19:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/65fb04f0-d2ab-4601-bd1b-5ca185b997ff",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1762560266~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F07%2FUTSA_vs_3_Memphis_Semifin_20251107_1762466455046%2F~psid=39ffa97d-427b-4e3b-a5ec-c4246c2d80ef~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=aba02158e73feaf47b48a52a60a56da2b33200e7e8455fd5dd5e7271a9e3428b/clt1/va02/disneyplus/event/2025/11/07/UTSA_vs_3_Memphis_Semifin_20251107_1762466455046/ctr-all-hdri-complete.m3u8?v=1&hash=4f038b227afe8d7da91caff919ac61c7704a236e",
+    "k1": "7825425e356a4a9388e3243ecb52ead2",
+    "k2": "7f42dc6a2a401f94f8eb3c07d97a16e8"
   },
   {
     "title": "Longwood vs. South Carolina Upstate (Semifinal)",
@@ -216,18 +221,21 @@
     "img": "7bf0eacc-8e99-4288-abef-3e8ea96dd14c",
     "nombre": "disneye27e4d",
     "status": "19:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/67e48747-2dac-4a77-a2f7-711b37b66e8c"
   },
   {
     "title": "Clemson vs. Mercer",
     "league": "Básquet Femenino NCAA",
     "fecha-evento": "2025-11-06T19:00:00-05:00",
-    "img": "019a194e-d8b8-73a0-820a-bb0a0c95baaf",
+    "img": "019a194e-d89e-737a-8721-f87b7d9578de",
     "nombre": "disney37178f",
     "status": "19:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/68925eff-50d4-4331-bd5a-83f99da38daf",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1762560317~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F07%2FClemson_vs_Mercer_20251107_1762466444030%2F~psid=ba2758e0-25b1-4f2e-95de-5d82e335c845~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=41c86b71bc39dd1937cbf774d304e3cce97b23941b74d29dd25427180a947445/clt1/va02/disneyplus/event/2025/11/07/Clemson_vs_Mercer_20251107_1762466444030/ctr-all-hdri-complete.m3u8?v=1&hash=f07f63e44bb3e45e393ac153a5dee979471f7681",
+    "k1": "6827bfa4abc1415581cbb10525be9cfa",
+    "k2": "3db079563e6520fbf66a080454a27375"
   },
   {
     "title": "St. Louis Blues vs. Buffalo Sabres",
@@ -236,18 +244,11 @@
     "img": "63fa2718-ba87-4cb7-9f48-1689aa1f29b2",
     "nombre": "disney6403fc",
     "status": "19:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "#19 Georgia vs. #8 Vanderbilt (Semifinal #2)",
-    "league": "Fútbol Femenino NCAA",
-    "fecha-evento": "2025-11-06T19:00:00-05:00",
-    "img": "c4c4167c-a2e2-40b2-92bc-275ef6604ab2",
-    "nombre": "disneyff61e5",
-    "status": "19:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 210,
+    "play_url": "https://www.disneyplus.com/es-es/play/8ec7c492-8856-4dc6-b86e-c19602dfae80",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1762560340~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F07%2FSt_Louis_Blues_vs_Buffalo_20251107_1762466443605%2F~psid=0199bd2b-f378-42d1-ab99-60d024162e7f~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=5e1cf0872921b1ee006ca1c20f85032cbb4c3ab9b5db23512bba35bfa9ff3c4c/clt1/va02/disneyplus/event/2025/11/07/St_Louis_Blues_vs_Buffalo_20251107_1762466443605/ctr-all-hdri-complete.m3u8?v=1&hash=b5d7320cb80e671959c2f3025cd22a7a9c3d8bc2",
+    "k1": "3e104922ef6441db9a2be7a6d8b435fd",
+    "k2": "f6ca87ef3ec2eff7bcf6ae68cfd88301"
   },
   {
     "title": "Cal State Fullerton vs. Cal Poly (Semifinal)",
@@ -256,8 +257,11 @@
     "img": "6a8b1e11-cbaf-4588-b7a6-49806374565e",
     "nombre": "disney8c92eb",
     "status": "19:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/ff0fa7b5-0234-4aaa-bd02-663a41dbbda2",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1762560365~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F07%2FCal_State_Fullerton_vs_Ca_20251107_1762466429045%2F~psid=19289a49-ca26-4323-b7a3-f35b07848ee5~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=bff56133aa672e326009dcdb44cb84953e4bcf218fe27ee9ada71387ea1e7f86/clt1/va02/disneyplus/event/2025/11/07/Cal_State_Fullerton_vs_Ca_20251107_1762466429045/ctr-all-hdri-complete.m3u8?v=1&hash=7e9397eec6f1be311200fdafc0a649415525925d",
+    "k1": "9c1d03cbb03f4943a8ef00297863a273",
+    "k2": "59dc1ca6f5f765776571c73cebf39240"
   },
   {
     "title": "Washington Capitals vs. Pittsburgh Penguins",
@@ -576,6 +580,26 @@
     "img": "019a5aed-82f6-74fa-bf74-f4cccd7c3a35",
     "nombre": "disney3cf78e",
     "status": "10:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Novak Djokovic (SRB) (Semifinals)",
+    "league": "ATP",
+    "fecha-evento": "2025-11-07T10:00:00-05:00",
+    "img": "f5d7c938-e1da-4c72-81c8-b77e20b966d7",
+    "nombre": "disneyf1cb72",
+    "status": "10:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Compacto | F1 GP Brasil | Práctica 1 (3 min)",
+    "league": "Fórmula 1",
+    "fecha-evento": "2025-11-07T11:00:00-05:00",
+    "img": "32b10095-0c9b-4020-9b25-5a26f29a0e4b",
+    "nombre": "disneyf8fcaa",
+    "status": "11:00",
     "duration": 135,
     "play_url": ""
   }
