@@ -49,19 +49,6 @@
     "k2": "619728bd810cdc9490a298ca11ae1a6b"
   },
   {
-    "title": "Old Dominion vs. UConn (Semifinal #2)",
-    "league": "NCAA Women's Field Hockey",
-    "fecha-evento": "2025-11-07T16:00:00-05:00",
-    "img": "8db066db-48ea-4a31-b465-d7b222fda52b",
-    "nombre": "disney026a30",
-    "status": "16:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/41c90351-e879-4742-9c56-5cf8002aa4a6",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1762635712~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F07%2FOld_Dominion_vs_UConn_Sem_20251107_1762542041028%2F~psid=1ea7a2ce-ad8b-4b99-aab0-3764fe3d5598~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=06600490a50d0a9452d99f5ab8b7455a0da1eb5924fe994169050a71e4cd1085/clt1/va02/disneyplus/event/2025/11/07/Old_Dominion_vs_UConn_Sem_20251107_1762542041028/ctr-all-hdri-complete.m3u8?v=1&hash=a8863247d098cb2c84cb0e348d09ae04317e167a",
-    "k1": "2676f38c011a4f60a70948d34de8ae59",
-    "k2": "b75f060cc1d03d9f6392e885d71e282f"
-  },
-  {
     "title": "Cerro Largo vs. Liverpool FC",
     "league": "Campeonato Uruguayo",
     "fecha-evento": "2025-11-07T17:15:06-05:00",
@@ -208,7 +195,7 @@
     "title": "Wright State vs. Tennessee State",
     "league": "Básquet Femenino NCAA",
     "fecha-evento": "2025-11-07T20:00:00-05:00",
-    "img": "019a1e7a-5d50-769a-b779-4e0bd86202e6",
+    "img": "019a1e7a-5d49-7802-a65b-1fb9e0f2cefb",
     "nombre": "disneyd289ed",
     "status": "20:00",
     "duration": 135,
@@ -641,6 +628,16 @@
     "img": "019a12d1-f90e-78f2-807b-0b97475bf80a",
     "nombre": "disney59cbf2",
     "status": "09:45",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Everton vs. Fulham",
+    "league": "Premier League",
+    "fecha-evento": "2025-11-08T09:50:00-05:00",
+    "img": "019a3084-4a46-78bd-a49c-cc57868ebe08",
+    "nombre": "disney97ed76",
+    "status": "09:50",
     "duration": 135,
     "play_url": ""
   }
