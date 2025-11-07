@@ -23,19 +23,6 @@
     "k2": "adaa0c51e23299d8584affdaab8865ac"
   },
   {
-    "title": "Wofford vs. East Tennessee State (Quarterfinal)",
-    "league": "Fútbol Masculino NCAA",
-    "fecha-evento": "2025-11-07T16:00:00-05:00",
-    "img": "641cfdcb-7a81-4575-bcca-d5c1f54c56c6",
-    "nombre": "disney1beb60",
-    "status": "16:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/3fd482d3-e8c5-4fc2-b178-b5e170804403",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1762635736~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F07%2FWofford_vs_East_Tennessee_20251107_1762542047029%2F~psid=7c37062f-9046-4fc7-9467-a76716fe5f08~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=a182e567f5acb46c8196cde290fa548afd620123d4d49101fe0b2f16061de301/clt1/va02/disneyplus/event/2025/11/07/Wofford_vs_East_Tennessee_20251107_1762542047029/ctr-all-hdri-complete.m3u8?v=1&hash=3d3869b6dad5f54ad216d3cc2190ac636249c682",
-    "k1": "cf2d187676ad4c7bac63f74d3cda94d8",
-    "k2": "884a09d2524063f565a8b9beb135509e"
-  },
-  {
     "title": "Idaho vs. Montana (Semifinal)",
     "league": "Fútbol Femenino NCAA",
     "fecha-evento": "2025-11-07T16:00:00-05:00",
@@ -465,7 +452,7 @@
     "title": "WTA Finals Riyadh (Doubles Final)",
     "league": "WTA",
     "fecha-evento": "2025-11-08T08:00:00-05:00",
-    "img": "019a3674-5e34-7005-bbd3-0bfc27fd2a43",
+    "img": "019a60a2-96f9-7f9e-b003-d039caf2b963",
     "nombre": "disney81715d",
     "status": "08:00",
     "duration": 135,
@@ -638,6 +625,16 @@
     "img": "019a3084-4a46-78bd-a49c-cc57868ebe08",
     "nombre": "disney97ed76",
     "status": "09:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Liceo Militar vs. San Carlos",
+    "league": "URBA Primera A",
+    "fecha-evento": "2025-11-08T09:55:00-05:00",
+    "img": "019a4aa0-cd55-7c57-94ba-78a6a9194ff5",
+    "nombre": "disney162d30",
+    "status": "09:55",
     "duration": 135,
     "play_url": ""
   }
