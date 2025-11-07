@@ -52,19 +52,6 @@
     "k2": "1bea4236c21632881a70b9b0157c537d"
   },
   {
-    "title": "Clemson vs. Mercer",
-    "league": "Básquet Femenino NCAA",
-    "fecha-evento": "2025-11-06T19:00:00-05:00",
-    "img": "019a194e-d89e-737a-8721-f87b7d9578de",
-    "nombre": "disney37178f",
-    "status": "19:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/68925eff-50d4-4331-bd5a-83f99da38daf",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1762560317~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F07%2FClemson_vs_Mercer_20251107_1762466444030%2F~psid=ba2758e0-25b1-4f2e-95de-5d82e335c845~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=41c86b71bc39dd1937cbf774d304e3cce97b23941b74d29dd25427180a947445/clt1/va02/disneyplus/event/2025/11/07/Clemson_vs_Mercer_20251107_1762466444030/ctr-all-hdri-complete.m3u8?v=1&hash=f07f63e44bb3e45e393ac153a5dee979471f7681",
-    "k1": "6827bfa4abc1415581cbb10525be9cfa",
-    "k2": "3db079563e6520fbf66a080454a27375"
-  },
-  {
     "title": "Longwood vs. South Carolina Upstate (Semifinal)",
     "league": "Fútbol Femenino NCAA",
     "fecha-evento": "2025-11-06T19:00:00-05:00",
@@ -596,6 +583,16 @@
     "img": "019a1316-687f-77d9-8c9f-9454013729e3",
     "nombre": "disney1604ab",
     "status": "13:25",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "New Hampshire vs. Vermont (Championship)",
+    "league": "NCAA Women's Field Hockey",
+    "fecha-evento": "2025-11-07T13:00:00-05:00",
+    "img": "05feb19e-2f38-4fc3-9eeb-6a9461d8b11d",
+    "nombre": "disneyd0a2e3",
+    "status": "13:00",
     "duration": 135,
     "play_url": ""
   }
