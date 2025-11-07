@@ -26,19 +26,6 @@
     "k2": "f6ca87ef3ec2eff7bcf6ae68cfd88301"
   },
   {
-    "title": "Brown vs. Princeton (Semifinal)",
-    "league": "Fútbol Femenino NCAA",
-    "fecha-evento": "2025-11-06T19:00:00-05:00",
-    "img": "60f47a8b-76df-4b35-b164-a716ed5ed4b1",
-    "nombre": "disney14d176",
-    "status": "19:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/0d1a0c5e-f941-4bfb-8765-c6d3cbe29525",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1762560140~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F07%2FBrown_vs_Princeton_Semifi_20251107_1762466455029%2F~psid=da012e59-7b23-49c7-ac60-39b700ab25fd~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=32071173b9864dee5e9a11d3b0bdb388ab9e5ed18df8d8a4d0cfdb94720d82ca/clt1/va02/disneyplus/event/2025/11/07/Brown_vs_Princeton_Semifi_20251107_1762466455029/ctr-all-hdri-complete.m3u8?v=1&hash=ecd8a7c0c380a43252b495dadc28c85e6c08bef3",
-    "k1": "a076f6703eb84c7c894cd186842c8450",
-    "k2": "59e63dc2e98c44c5596bc5df462dc738"
-  },
-  {
     "title": "Longwood vs. South Carolina Upstate (Semifinal)",
     "league": "Fútbol Femenino NCAA",
     "fecha-evento": "2025-11-06T19:00:00-05:00",
@@ -60,19 +47,6 @@
     "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1762560240~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F07%2FOttawa_Senators_vs_Boston_20251107_1762466428042%2F~psid=da265796-d8df-4219-8fb6-3838fe6f6bd3~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=d2f4c1ac1685d6a21dd64bd9f35b1e3705143ea1f6dc58987fd66a9450303081/clt1/va02/disneyplus/event/2025/11/07/Ottawa_Senators_vs_Boston_20251107_1762466428042/ctr-all-hdri-complete.m3u8?v=1&hash=fc16a9b35bbea045ee0215941f7041e81d8ac2c1",
     "k1": "f30ff4001aa24a14b82a420cd731a634",
     "k2": "a15bfc2f9a32279b12d13192db034894"
-  },
-  {
-    "title": "Montreal Canadiens vs. New Jersey Devils",
-    "league": "National Hockey League",
-    "fecha-evento": "2025-11-06T19:00:00-05:00",
-    "img": "5ecc6325-4166-4a5a-97bb-093de15a112e",
-    "nombre": "disney7daa61",
-    "status": "19:00",
-    "duration": 210,
-    "play_url": "https://www.disneyplus.com/es-es/play/1543f86e-d439-4807-a215-56cd3920dae6",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1762560191~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F07%2FMontreal_Canadiens_vs_New_20251107_1762466404752%2F~psid=fc8583a2-ce5c-42b8-ac7a-73fc642918ac~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=52b8641f916f7ca1de7427353f79541c3ab14df735de2e744559f260122f6a61/clt1/va02/disneyplus/event/2025/11/07/Montreal_Canadiens_vs_New_20251107_1762466404752/ctr-all-hdri-complete.m3u8?v=1&hash=a85db93e6318f015307e1542965cb8484230c02d",
-    "k1": "7cdc63b17ac44c5388c5649355d5b380",
-    "k2": "d51c9d519f8891f505eb14d38af11edd"
   },
   {
     "title": "UTSA vs. #3 Memphis (Semifinal #2)",
@@ -587,6 +561,36 @@
     "img": "019a276f-b6b0-7608-a54a-65e7fcd649d2",
     "nombre": "disney80ed79",
     "status": "13:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "F1 GP Brasil, clasificación sprint | On Board Verstappen",
+    "league": "Fórmula 1",
+    "fecha-evento": "2025-11-07T13:30:00-05:00",
+    "img": "019a2769-a3f2-7df6-b732-6f9dd5de9273",
+    "nombre": "disney3d095a",
+    "status": "13:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "FC Twente vs. Telstar",
+    "league": "Eredivisie",
+    "fecha-evento": "2025-11-07T13:55:00-05:00",
+    "img": "99363d6c-2df4-4689-a4ea-139bc0d4f558",
+    "nombre": "disneyea5f22",
+    "status": "13:55",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "East Carolina vs. Liberty",
+    "league": "Básquet Femenino NCAA",
+    "fecha-evento": "2025-11-07T14:00:00-05:00",
+    "img": "019a17a8-06f3-7716-a3ca-0f2f09cc5989",
+    "nombre": "disney3e4298",
+    "status": "14:00",
     "duration": 135,
     "play_url": ""
   }
