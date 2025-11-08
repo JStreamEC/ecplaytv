@@ -49,19 +49,6 @@
     "k2": "249e9019e8cb07959697696c751b33b2"
   },
   {
-    "title": "La Natividad-La Dolfina vs. La Zeta Kazak (Grupo A - Fecha #2)",
-    "league": "Abierto de Palermo",
-    "fecha-evento": "2025-11-08T11:50:05-05:00",
-    "img": "019a5544-db1e-7104-ba43-3a64818804a6",
-    "nombre": "disneyf74ab1",
-    "status": "11:50",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/4cd34a8a-d48d-43e5-b153-6425a23d491c",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1762707713~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F08%2FLa_NatividadLa_Dolfina_vs_20251108_1762613404028%2F~psid=94d68064-acf7-44a9-b373-abccb5bc432d~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=e4ec2239ee7d4d659ab18387aa2d9a97f3141d0cae4136e401e67231c9320723/clt1/va02/disneyplus/event/2025/11/08/La_NatividadLa_Dolfina_vs_20251108_1762613404028/ctr-all-hdri-complete.m3u8?v=1&hash=1ac3450980f7f16857bec026992515f2cceddf30",
-    "k1": "74c9b770cec94c9b8ba95f0ac400c03a",
-    "k2": "5bcd00cd6cecbb492b957094023aac9d"
-  },
-  {
     "title": "#5 Georgia vs. Mississippi State",
     "league": "Fútbol Americano NCAA",
     "fecha-evento": "2025-11-08T12:03:07-05:00",
@@ -380,8 +367,11 @@
     "img": "36ecca52-ec92-48a3-9a18-e932a91788f6",
     "nombre": "disney647410",
     "status": "14:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/61242051-2541-49c0-88f3-38d471f51eb2",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1762714826~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F08%2FGreen_Bay_vs_Milwaukee_Ch_20251108_1762621203045%2F~psid=b78075a8-53a7-4927-9119-b26a60b65b20~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=a4dd6f7d5d636e931e3561bd9ad808edded764c7f52e9d6c2486fb67654a09b3/clt1/va02/disneyplus/event/2025/11/08/Green_Bay_vs_Milwaukee_Ch_20251108_1762621203045/ctr-all-hdri-complete.m3u8?v=1&hash=6d37c3ab12e4d5e428966451cdd9a9337d630afa",
+    "k1": "a5071df2599d47beaec6c74dcc755779",
+    "k2": "30879bd624f4c65d19fbb89d7a52a9db"
   },
   {
     "title": "Danubio vs. Plaza Colonia",
@@ -699,6 +689,16 @@
     "fecha-evento": "2025-11-08T19:00:00-05:00",
     "img": "019a366c-193e-7909-a681-5102c1b043c1",
     "nombre": "disney524808",
+    "status": "19:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Seattle Kraken vs. St. Louis Blues",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-11-08T19:00:00-05:00",
+    "img": "019a366c-1888-73c0-a5a4-e386ef33c953",
+    "nombre": "disneyc3f2de",
     "status": "19:00",
     "duration": 135,
     "play_url": ""
