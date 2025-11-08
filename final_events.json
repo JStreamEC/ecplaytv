@@ -10,19 +10,6 @@
     "play_url": ""
   },
   {
-    "title": "Malaga CF vs. Cordoba",
-    "league": "Segunda División de España",
-    "fecha-evento": "2025-11-08T14:55:00-05:00",
-    "img": "04618db9-35b6-4732-ba7d-b07f7f0870d1",
-    "nombre": "disneybb6bd6",
-    "status": "14:55",
-    "duration": 125,
-    "play_url": "https://www.disneyplus.com/es-es/play/ed0e326a-7ad5-4b2e-9da4-642882f2aaaa",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1762718476~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F08%2FMalaga_CF_vs_Cordoba_20251108_1762624526029%2F~psid=c3b7a1d4-2b23-44ff-9534-cfa2e37a1613~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=4a79f2d9e0f6c73c4805a25751cda69d15b20dd0de198e285585d0bc62e41f35/clt1/va02/disneyplus/event/2025/11/08/Malaga_CF_vs_Cordoba_20251108_1762624526029/ctr-all-hdri-complete.m3u8?v=1&hash=4fe07ed645466e368e02cd2a8c120c49d1b3893c",
-    "k1": "4c6527aff35c49cf81b3ab1b12a5b24f",
-    "k2": "ca62256d2ff96062b2a8732c3adc3cb6"
-  },
-  {
     "title": "Syracuse vs. #18 Miami",
     "league": "Fútbol Americano NCAA",
     "fecha-evento": "2025-11-08T15:30:00-05:00",
@@ -86,19 +73,6 @@
     "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1762722145~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F08%2FQueens_Cup_Mxico_20251108_1762628135043%2F~psid=d9e1d3d5-26de-4ceb-8274-3dbb7b9fcc7a~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=bcc0631b8c116150f603ab39929204b3ebf60204d0521d27b2ecd188b534cc5d/clt1/va02/disneyplus/event/2025/11/08/Queens_Cup_Mxico_20251108_1762628135043/ctr-all-hdri-complete.m3u8?v=1&hash=52e9c35c1fb80742a9b08f6efc2e55686c32ea5e",
     "k1": "27bc4ee39184428693a6ba5c97f0f87e",
     "k2": "689bcfd860b4384854f28beef8d1b6af"
-  },
-  {
-    "title": "San Luis vs. Champagnat",
-    "league": "URBA Primera A",
-    "fecha-evento": "2025-11-08T15:57:02-05:00",
-    "img": "019a4a05-ca10-7e5f-b6a4-09f2766f1df0",
-    "nombre": "disney626478",
-    "status": "15:57",
-    "duration": 123,
-    "play_url": "https://www.disneyplus.com/es-es/play/f9d70746-0419-4ee9-b21c-1d8aead088c1",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1762722074~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F08%2FSan_Luis_vs_Champagnat_20251108_1762628154036%2F~psid=a8477ae6-c553-4a49-9d69-a1776ca1bf01~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=4e06fc0f4f708eaaadf7e0ab08c13a5bb2172862ddeb0818e7fbb9a4d52949ca/clt1/va02/disneyplus/event/2025/11/08/San_Luis_vs_Champagnat_20251108_1762628154036/ctr-all-hdri-complete.m3u8?v=1&hash=7bf7373992b697840d463ea60040c71d8f1afcc9",
-    "k1": "1d1b9635e8e54ef1bd67b174672e0ed8",
-    "k2": "27d0040f040a5f54204e15bb46489c8b"
   },
   {
     "title": "South Dakota State vs. South Dakota",
@@ -664,6 +638,26 @@
     "img": "019a119c-579c-7c52-ba75-f7f65308b9ed",
     "nombre": "disney12c810",
     "status": "07:25",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Holstein Kiel vs. Fortuna Dusseldorf",
+    "league": "Bundesliga 2 de Alemania",
+    "fecha-evento": "2025-11-09T07:25:00-05:00",
+    "img": "782e5ef2-888b-4695-bf8c-2b537271f39f",
+    "nombre": "disney64835e",
+    "status": "07:25",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Cerro vs. Boston River",
+    "league": "Campeonato Uruguayo",
+    "fecha-evento": "2025-11-09T07:45:00-05:00",
+    "img": "019a5b71-972d-78c7-b1ea-58105f990adf",
+    "nombre": "disney348aee",
+    "status": "07:45",
     "duration": 135,
     "play_url": ""
   }
