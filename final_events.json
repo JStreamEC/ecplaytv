@@ -23,19 +23,6 @@
     "k2": "ca62256d2ff96062b2a8732c3adc3cb6"
   },
   {
-    "title": "UMBC vs. New Hampshire (Quarterfinal)",
-    "league": "Fútbol Masculino NCAA",
-    "fecha-evento": "2025-11-08T15:00:00-05:00",
-    "img": "2d506ac4-4391-4cb3-a236-d7ad7d983a21",
-    "nombre": "disney4e9253",
-    "status": "15:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/b5886a94-8797-4b61-90d8-ced1b33ce5fe",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1762719674~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F08%2FUMBC_vs_New_Hampshire_Qua_20251108_1762624858030%2F~psid=0a6d9c81-e092-4d80-a3d3-61ae66f87350~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=2442677656624c832fe1b4e092c517ad447b380ec30df3fdc5b7e87f024340d2/clt1/va02/disneyplus/event/2025/11/08/UMBC_vs_New_Hampshire_Qua_20251108_1762624858030/ctr-all-hdri-complete.m3u8?v=1&hash=5d57aa2039391ec4e64294fa316bab935dd040aa",
-    "k1": "9f1ca08527274f76aae617ee0aa00b05",
-    "k2": "61dfbdaaefcc4b544f208eb80fc5c7fe"
-  },
-  {
     "title": "Syracuse vs. #18 Miami",
     "league": "Fútbol Americano NCAA",
     "fecha-evento": "2025-11-08T15:30:00-05:00",
@@ -211,8 +198,11 @@
     "img": "24d659d0-7f16-48ae-b1f8-b801e5db05dc",
     "nombre": "disney1952c4",
     "status": "18:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/9a954484-1c7e-4298-8a6b-424d3ecc5fdf",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1762729230~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F08%2FCalifornia_Baptist_vs_Uta_20251108_1762635602030%2F~psid=ac2231bd-f3d8-4495-9e3c-df57b478d5c3~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=3e9562121dfc8b4359d701b330240a37c0a25a585ee7e5c6e48ca6c4fee71e67/clt1/va02/disneyplus/event/2025/11/08/California_Baptist_vs_Uta_20251108_1762635602030/ctr-all-hdri-complete.m3u8?v=1&hash=ed379cdd1e7718988a24479710ed3ba5aa8be191",
+    "k1": "fc322ef84fa748fb871bc8027de8687e",
+    "k2": "54c4c24fd256d1138f71e17c3501cadb"
   },
   {
     "title": "East Carolina vs. Richmond",
@@ -221,8 +211,11 @@
     "img": "dae888f5-6cde-491f-84e4-cc45dbf7ca2a",
     "nombre": "disney17654e",
     "status": "18:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/641ddafc-8da0-4ccf-91e7-df7f578673b6",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1762729275~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F08%2FEast_Carolina_vs_Richmond_20251108_1762635605029%2F~psid=6898d097-5f41-45ed-bec0-215103659783~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=07eac52ccc71dd430f31d880c0c57ae89bc88d501566d86822acbc4629844fbf/clt1/va02/disneyplus/event/2025/11/08/East_Carolina_vs_Richmond_20251108_1762635605029/ctr-all-hdri-complete.m3u8?v=1&hash=db1159bf8aa5cd07079af476c6d7df1bd5afdb17",
+    "k1": "292ab4daec534e029e0fbdb2df25ebd9",
+    "k2": "e68efeedad7e8b2aee405cf5719cb720"
   },
   {
     "title": "Buffalo Sabres vs. Carolina Hurricanes",
@@ -661,6 +654,16 @@
     "img": "019a11a7-c466-7c39-851c-74aa9fc7e75b",
     "nombre": "disney990bca",
     "status": "07:20",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Eintracht Braunschweig vs. Vfl Bochum 1848",
+    "league": "Bundesliga 2 de Alemania",
+    "fecha-evento": "2025-11-09T07:25:00-05:00",
+    "img": "019a119c-579c-7c52-ba75-f7f65308b9ed",
+    "nombre": "disney12c810",
+    "status": "07:25",
     "duration": 135,
     "play_url": ""
   }
