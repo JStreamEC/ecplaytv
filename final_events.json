@@ -10,32 +10,6 @@
     "play_url": ""
   },
   {
-    "title": "Ottawa Senators vs. Philadelphia Flyers",
-    "league": "National Hockey League",
-    "fecha-evento": "2025-11-08T13:00:04-05:00",
-    "img": "e5519c0f-c75a-4c1b-a64e-9c9d0331508c",
-    "nombre": "disneyaeeb33",
-    "status": "13:00",
-    "duration": 210,
-    "play_url": "https://www.disneyplus.com/es-es/play/99f3f255-f324-4823-b1ba-2165afa5dbb1",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1762712566~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F08%2FOttawa_Senators_vs_Philad_20251108_1762617659795%2F~psid=75967a48-0464-44de-bec7-a26a5705ff2b~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=f2953bdfab48ec87633507774a1de8f68595bfa308eff8572bb37307fdf11e65/clt1/va02/disneyplus/event/2025/11/08/Ottawa_Senators_vs_Philad_20251108_1762617659795/ctr-all-hdri-complete.m3u8?v=1&hash=e40aed217d0da0b37cb3bad1d15a06ef2ce0c7a5",
-    "k1": "a1d14eb3893545ae9b0ed6a2ebcbe12f",
-    "k2": "daa0ab976590a898620e4cfee0fbb64e"
-  },
-  {
-    "title": "Danubio vs. Plaza Colonia",
-    "league": "Campeonato Uruguayo",
-    "fecha-evento": "2025-11-08T14:00:19-05:00",
-    "img": "019a5a6d-e66b-7c05-b00b-227167fcf664",
-    "nombre": "disney2e2d23",
-    "status": "14:00",
-    "duration": 150,
-    "play_url": "https://www.disneyplus.com/es-es/play/5636f263-e8c4-4a9d-9e6c-428ea67bf69a",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1762717225~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F08%2FDanubio_vs_Plaza_Colonia_20251108_1762622145045%2F~psid=b2033e3d-1406-4f40-ab35-f65aaa35dc4a~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=7c61e20c792e8ff10b415139403515e92d2356b91dc9a4f3191da066ce2ced0d/clt1/va02/disneyplus/event/2025/11/08/Danubio_vs_Plaza_Colonia_20251108_1762622145045/ctr-all-hdri-complete.m3u8?v=1&hash=e862e6c734dcb92cfbb7325a826bcd158c47ca79",
-    "k1": "ea146296f034470f931c3da1e2822467",
-    "k2": "1cfb3742c477339ea9a2c9fdb2389e78"
-  },
-  {
     "title": "UAE Polo vs. Sol de Agosto (Grupo A - Fecha #2)",
     "league": "Abierto de Palermo",
     "fecha-evento": "2025-11-08T14:20:00-05:00",
@@ -685,6 +659,26 @@
     "img": "8224c323-d728-462e-bd07-c89e09627f74",
     "nombre": "disney790276",
     "status": "22:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "En Español-Phoenix Suns vs. LA Clippers",
+    "league": "NBA",
+    "fecha-evento": "2025-11-08T22:30:00-05:00",
+    "img": "38156c86-3b54-427f-ae04-e5cb81e42411",
+    "nombre": "disneyf66456",
+    "status": "22:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Oklahoma vs. #21 Gonzaga",
+    "league": "Básquetbol Masculino NCAA",
+    "fecha-evento": "2025-11-08T22:30:00-05:00",
+    "img": "039b7ba6-414a-4295-8b79-d09be16dfc43",
+    "nombre": "disneyc08305",
+    "status": "22:30",
     "duration": 135,
     "play_url": ""
   }
