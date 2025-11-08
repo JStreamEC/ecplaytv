@@ -134,19 +134,6 @@
     "k2": "17d1155bda621bb2e895c33cd37caf99"
   },
   {
-    "title": "Qatar Airways Grand Prix of Portugal - Qualifying (Moto3)",
-    "league": "MotoGP",
-    "fecha-evento": "2025-11-08T07:40:57-05:00",
-    "img": "019a475e-8ac2-7789-bb81-229dcf22e312",
-    "nombre": "disneye5d8a3",
-    "status": "07:40",
-    "duration": 54,
-    "play_url": "https://www.disneyplus.com/es-es/play/15ffeb1a-6b5a-478a-a5cd-99ea7069c8ab",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1762694713~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F08%2FQatar_Airways_Grand_Prix__20251108_1762598407029%2F~psid=113ec1f9-ce95-4d58-a5d7-e5a3564b703b~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=6114fd99c10588a041b7af288413e0abb87476547889dd1070b0c64ac144832a/clt1/va02/disneyplus/event/2025/11/08/Qatar_Airways_Grand_Prix__20251108_1762598407029/ctr-all-hdri-complete.m3u8?v=1&hash=7548745939cec5abed3735946fb644b5b06570d5",
-    "k1": "edb1edb8280d4b83b9b7d36892e790aa",
-    "k2": "c301a1c5c7c9eb2bc2a374cfac264d84"
-  },
-  {
     "title": "Georgia vs. United States",
     "league": "Test Matches",
     "fecha-evento": "2025-11-08T07:44:58-05:00",
@@ -214,12 +201,15 @@
   {
     "title": "Qatar Airways Grand Prix of Portugal - Qualifying (Moto2)",
     "league": "MotoGP",
-    "fecha-evento": "2025-11-08T08:35:00-05:00",
+    "fecha-evento": "2025-11-08T08:35:11-05:00",
     "img": "019a475f-6c7a-7371-a15c-cc52ba9b0a4b",
-    "nombre": "disney6e6b36",
+    "nombre": "disney842b86",
     "status": "08:35",
-    "duration": 135,
-    "play_url": ""
+    "duration": 55,
+    "play_url": "https://www.disneyplus.com/es-es/play/865a3b76-fd03-414e-ad74-82d4c3279fdb",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1762695712~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F08%2FQatar_Airways_Grand_Prix__20251108_1762601726028%2F~psid=e36e53ed-0b0e-4c8f-96d2-7365850f05f0~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=78366c40ab8d3c9293a85ee46ffaf1ebb6276442aaabe8bff466b7080785ff7f/clt1/va02/disneyplus/event/2025/11/08/Qatar_Airways_Grand_Prix__20251108_1762601726028/ctr-all-hdri-complete.m3u8?v=1&hash=fd11cf58c58895b543a24b760c4eebb2c54d7a6f",
+    "k1": "6373716775224a219b27b7da1faaddfc",
+    "k2": "1c762dfa659eef81376ae9b8a60d724a"
   },
   {
     "title": "Como vs. Cagliari",
@@ -668,6 +658,16 @@
     "img": "019a110f-ff93-7484-a695-d572e851c83e",
     "nombre": "disneyf60de8",
     "status": "12:20",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Italy vs. Australia",
+    "league": "Autumn Nations Series",
+    "fecha-evento": "2025-11-08T12:30:00-05:00",
+    "img": "019a5023-b118-71a9-be5e-a4c7c18ce9ae",
+    "nombre": "disney0e7013",
+    "status": "12:30",
     "duration": 135,
     "play_url": ""
   }
