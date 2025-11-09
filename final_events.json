@@ -166,19 +166,6 @@
     "k2": "cbb632ea5fe9d66f44a41c102e422c1e"
   },
   {
-    "title": "San Martín de San Juan vs. Lanús",
-    "league": "Liga Profesional de Fútbol",
-    "fecha-evento": "2025-11-08T19:15:00-05:00",
-    "img": "019a4a4f-e029-72c3-b7a0-9371ae34f9f4",
-    "nombre": "disneye98eff",
-    "status": "19:15",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/8417c13a-b11d-4eb4-b48e-c2c18cb41f0b",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1762734482~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F09%2FSan_Martn_de_San_Juan_vs__20251109_1762640139041%2F~psid=dedbb432-5ed4-410a-aa3b-24151e58f62f~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=25e665005127ff6f1f26814389ae203a811b42f36dd766ad8a6a124424390671/clt1/va02/disneyplus/event/2025/11/09/San_Martn_de_San_Juan_vs__20251109_1762640139041/ctr-all-hdri-complete.m3u8?v=1&hash=7f7587303b4c51a3d51dd3bf6252e0d4673b9dd0",
-    "k1": "97eddba2c77e439780ee50171f323249",
-    "k2": "d23abdaad48d429daf97bf2456b16c2b"
-  },
-  {
     "title": "Pittsburgh Riverhounds SC vs. Detroit City FC (Semifinals)",
     "league": "USL Championship",
     "fecha-evento": "2025-11-08T19:30:01-05:00",
@@ -296,16 +283,6 @@
     "k2": "77c9f9dfbd29a385839538948f62c070"
   },
   {
-    "title": "Florida Panthers vs. San Jose Sharks",
-    "league": "National Hockey League",
-    "fecha-evento": "2025-11-08T22:00:00-05:00",
-    "img": "d31f1648-b48a-4b2f-9d1e-b4d05cce4daf",
-    "nombre": "disney1afc67",
-    "status": "22:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Anaheim Ducks vs. Vegas Golden Knights",
     "league": "National Hockey League",
     "fecha-evento": "2025-11-08T22:00:00-05:00",
@@ -331,6 +308,16 @@
     "fecha-evento": "2025-11-08T22:00:00-05:00",
     "img": "5b902e86-0ebc-4a62-868c-80c48597db3e",
     "nombre": "disney297e16",
+    "status": "22:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Florida Panthers vs. San Jose Sharks",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-11-08T22:00:00-05:00",
+    "img": "d31f1648-b48a-4b2f-9d1e-b4d05cce4daf",
+    "nombre": "disney1afc67",
     "status": "22:00",
     "duration": 135,
     "play_url": ""
@@ -681,6 +668,16 @@
     "fecha-evento": "2025-11-09T11:10:00-05:00",
     "img": "019a2bc1-613f-7aea-bc32-a6b2e11b8cbd",
     "nombre": "disney6c76f9",
+    "status": "11:10",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Strasbourg vs. Lille",
+    "league": "Ligue 1",
+    "fecha-evento": "2025-11-09T11:10:00-05:00",
+    "img": "019a3857-bf84-7d19-ab55-17a56347569b",
+    "nombre": "disney49abd3",
     "status": "11:10",
     "duration": 135,
     "play_url": ""
