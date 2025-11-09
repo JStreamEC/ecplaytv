@@ -26,19 +26,6 @@
     "k2": "123dbd0502925cc63d6f915214d98c08"
   },
   {
-    "title": "Freiburg vs. St. Pauli",
-    "league": "Bundesliga",
-    "fecha-evento": "2025-11-09T09:20:01-05:00",
-    "img": "019a1112-090d-7fd8-8945-6d9273b3ad54",
-    "nombre": "disney48945a",
-    "status": "09:20",
-    "duration": 125,
-    "play_url": "https://www.disneyplus.com/es-es/play/4f72c6da-83ab-4719-aad7-63e35a928bb0",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1762785712~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F09%2FFreiburg_vs_St_Pauli_20251109_1762690825029%2F~psid=ad5e8c07-a6fe-463a-a67e-f5945fe6b133~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=7b3ea31a72d7705735fa0ff069387f047a41af8ebfceaa2b244f2a3625bdb7b8/clt1/va02/disneyplus/event/2025/11/09/Freiburg_vs_St_Pauli_20251109_1762690825029/ctr-all-hdri-complete.m3u8?v=1&hash=a7189730d850d32dd28f83ed0a166933de1177c6",
-    "k1": "c83dbeb20bdf483c9574d8287f45b075",
-    "k2": "703eb25869ff1edd324db2180d0f180e"
-  },
-  {
     "title": "Everton vs. Manchester City",
     "league": "English Women's Super League",
     "fecha-evento": "2025-11-09T09:20:02-05:00",
@@ -158,12 +145,15 @@
   {
     "title": "Stuttgart vs. Augsburg",
     "league": "Bundesliga",
-    "fecha-evento": "2025-11-09T11:30:00-05:00",
+    "fecha-evento": "2025-11-09T11:20:07-05:00",
     "img": "019a1113-a235-7e7f-9465-398edccc2493",
-    "nombre": "disneyeb5932",
-    "status": "11:30",
-    "duration": 135,
-    "play_url": ""
+    "nombre": "disney8e4129",
+    "status": "11:20",
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/dd1bb9dc-966a-477e-ac3f-b4744baf580e",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1762792823~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F09%2FStuttgart_vs_Augsburg_20251109_1762698604029%2F~psid=6e1ea9c2-4da2-4c80-9a44-4df39bfb7c14~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=7033f582e556d536dfbb4117d605bcf7a9fcc76b568d74739adb479ff8946532/clt1/va02/disneyplus/event/2025/11/09/Stuttgart_vs_Augsburg_20251109_1762698604029/ctr-all-hdri-complete.m3u8?v=1&hash=9606261eb57a0114f0ccf967057ba060fd8a245f",
+    "k1": "935cff9dd2794cb18ece2938180cfe81",
+    "k2": "20aa54299bf7ee5291559ac7bbce5cc5"
   },
   {
     "title": "La Irenita-La Hache Clinova vs. La Dolfina II (Grupo B - Fecha #2)",
@@ -179,7 +169,7 @@
     "title": "Fenerbahce vs. Yukatel Kayserispor",
     "league": "Super Lig de Turquía",
     "fecha-evento": "2025-11-09T11:50:00-05:00",
-    "img": "0f3c88ae-4fd6-46f2-9cab-ce4a5b1967b2",
+    "img": "198a66d0-4246-47e4-99b3-cd4da4865fe6",
     "nombre": "disneyccac69",
     "status": "11:50",
     "duration": 135,
@@ -642,6 +632,16 @@
     "img": "306e4c7a-a433-4234-98d9-c5fe78291900",
     "nombre": "disney42348e",
     "status": "14:45",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Cadiz vs. Valladolid",
+    "league": "Segunda División de España",
+    "fecha-evento": "2025-11-09T14:55:00-05:00",
+    "img": "019a11cb-ea6e-7757-9bef-1c51187eeaf1",
+    "nombre": "disneyb7e17c",
+    "status": "14:55",
     "duration": 135,
     "play_url": ""
   }
