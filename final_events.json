@@ -39,16 +39,6 @@
     "k2": "123dbd0502925cc63d6f915214d98c08"
   },
   {
-    "title": "Bologna vs. Napoli",
-    "league": "Seria A",
-    "fecha-evento": "2025-11-09T08:40:04-05:00",
-    "img": "019a36b6-e2c7-78e8-90be-11e97f5a96d8",
-    "nombre": "disney08a133",
-    "status": "08:40",
-    "duration": 135,
-    "play_url": "https://www.disneyplus.com/es-es/play/5d5164c8-eb11-45ce-ac67-56e6f5ba881e"
-  },
-  {
     "title": "Kocaelispor vs. Galatasaray",
     "league": "Super Lig de Turquía",
     "fecha-evento": "2025-11-09T08:45:04-05:00",
@@ -658,6 +648,16 @@
     "img": "1dab90a8-f58a-411c-b037-e84f06187967",
     "nombre": "disneyd73285",
     "status": "14:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Juventud vs. Progreso",
+    "league": "Campeonato Uruguayo",
+    "fecha-evento": "2025-11-09T14:15:00-05:00",
+    "img": "019252c1-5ce6-4305-810b-51578b25beb7",
+    "nombre": "disney9d18d4",
+    "status": "14:15",
     "duration": 135,
     "play_url": ""
   }
