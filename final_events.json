@@ -26,16 +26,6 @@
     "k2": "3dd69d44d146e98240562c528adfd009"
   },
   {
-    "title": "Weber State vs. Montana (Championship)",
-    "league": "Fútbol Femenino NCAA",
-    "fecha-evento": "2025-11-09T15:00:00-05:00",
-    "img": "eb074184-9a1a-47aa-bcf1-ea328996b34b",
-    "nombre": "disney5dda52",
-    "status": "15:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/19b2d98a-ae65-4460-82ce-b4720941c8f3"
-  },
-  {
     "title": "Old Dominion vs. #16 West Virginia (Quarterfinals)",
     "league": "Fútbol Masculino NCAA",
     "fecha-evento": "2025-11-09T15:00:00-05:00",
@@ -73,19 +63,6 @@
     "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1762808593~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F09%2FKings_Cup_Mxico_20251109_1762714553029%2F~psid=9b3c513c-5481-4dc4-9efa-530aa0342f6a~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=d20ad4c2f1cb357ba76b9a76c7d3606b6f87b8b2ea5e4bbdca317f2d3a6bbf35/clt1/va02/disneyplus/event/2025/11/09/Kings_Cup_Mxico_20251109_1762714553029/ctr-all-hdri-complete.m3u8?v=1&hash=1f4602734191d8aebecfe4e61bffdb6164cc29df",
     "k1": "20f0253dd83545d8a9c307881a31be83",
     "k2": "ecb319db30f3951bf097619059cf1b8c"
-  },
-  {
-    "title": "Utah vs. #23 Baylor",
-    "league": "NCAA Women's Volleyball",
-    "fecha-evento": "2025-11-09T16:00:00-05:00",
-    "img": "02e9f57d-7041-4e22-843f-9c5b0f26ee46",
-    "nombre": "disney3b1d1a",
-    "status": "16:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/e20b03e5-9311-4b11-aaad-2d0afc9d9af7",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1762808644~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F09%2FUtah_vs_23_Baylor_20251109_1762714847025%2F~psid=fc95be66-f7f2-453f-9d5e-c5deaf122ed4~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=f2d1c921737752a821b38be50326a9e47ca8b9be3ba914a5865d2325654f044d/clt1/va02/disneyplus/event/2025/11/09/Utah_vs_23_Baylor_20251109_1762714847025/ctr-all-hdri-complete.m3u8?v=1&hash=e1490174eaf687eb3188240ed37e5a8877149ae3",
-    "k1": "fd493ad4a7ff48f49d6c3d6b32500e3b",
-    "k2": "bb4b6064f6f15fad74d34502cff8de0a"
   },
   {
     "title": "UC Santa Barbara vs. Cal Poly (Championship)",
@@ -220,12 +197,15 @@
   {
     "title": "Tapatío CD vs. Dorados de Sinaloa (Jornada 15)",
     "league": "Liga de Expansión MX",
-    "fecha-evento": "2025-11-09T17:50:00-05:00",
+    "fecha-evento": "2025-11-09T17:50:04-05:00",
     "img": "019a3b3d-1101-7b80-b2dd-b0bab4845fe9",
-    "nombre": "disney65e4cf",
+    "nombre": "disney366770",
     "status": "17:50",
-    "duration": 135,
-    "play_url": ""
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/2d0e31ae-2c90-49bb-9941-fa763a6b8d84",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1762815629~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F09%2FTapato_CD_vs_Dorados_de_S_20251109_1762721448027%2F~psid=4d99af19-b489-4fc3-858a-a2bd06a71e6c~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=0c6f7cfa239c31c39632c4aeec6e0026c860915378eff30e86cb2215ead47257/clt1/va02/disneyplus/event/2025/11/09/Tapato_CD_vs_Dorados_de_S_20251109_1762721448027/ctr-all-hdri-complete.m3u8?v=1&hash=3c22a5be5ce4369ea95c6e69514e9ae8dae4bba5",
+    "k1": "9655deb445d043a9a4030a16a398b688",
+    "k2": "0bd5c8842ec2857f745c5e586e25823f"
   },
   {
     "title": "Presbyterian vs. Gardner-Webb (Semifinals)",
