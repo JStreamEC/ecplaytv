@@ -174,7 +174,7 @@
     "title": "Westchester Knicks vs. Capital City Go-Go",
     "league": "NBA G League",
     "fecha-evento": "2025-11-12T19:00:00-05:00",
-    "img": "019a5000-6f8d-7a48-b5de-0b57e9a2f91f",
+    "img": "019a5000-6f8d-7e72-9283-eb07fd07fa96",
     "nombre": "disneyfa6b31",
     "status": "19:00",
     "duration": 135,
@@ -324,7 +324,7 @@
     "title": "Maine Celtics vs. Raptors 905",
     "league": "NBA G League",
     "fecha-evento": "2025-11-12T19:30:00-05:00",
-    "img": "019a5000-607d-7d95-aa53-7ccabf7eddac",
+    "img": "019a5000-607b-7b45-9b9c-ec92d7575b22",
     "nombre": "disney0eda44",
     "status": "19:30",
     "duration": 135,
@@ -521,16 +521,6 @@
     "play_url": ""
   },
   {
-    "title": "Capitanes de Ciudad de México vs. Osceola Magic",
-    "league": "NBA G League",
-    "fecha-evento": "2025-11-13T11:00:00-05:00",
-    "img": "a32157ee-d7f8-4be0-9cc7-9e6d7756e707",
-    "nombre": "disneyc29ab1",
-    "status": "11:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Noruega vs. Estonia",
     "league": "Eliminatorias UEFA",
     "fecha-evento": "2025-11-13T11:45:00-05:00",
@@ -606,6 +596,16 @@
     "fecha-evento": "2025-11-13T14:25:00-05:00",
     "img": "019a7463-33bd-70ce-8e67-2dcdfb47802f",
     "nombre": "disney16d5bd",
+    "status": "14:25",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Inglaterra vs. Serbia",
+    "league": "Eliminatorias UEFA",
+    "fecha-evento": "2025-11-13T14:25:00-05:00",
+    "img": "019a737b-33bb-7520-8d7e-0488f6f85287",
+    "nombre": "disney0bfcb4",
     "status": "14:25",
     "duration": 135,
     "play_url": ""
