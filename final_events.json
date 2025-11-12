@@ -13,32 +13,6 @@
     "k2": "d4cc6095dff30d11d12acc8abc358181"
   },
   {
-    "title": "Dayton vs. Fordham (Semifinal)",
-    "league": "Fútbol Masculino NCAA",
-    "fecha-evento": "2025-11-12T13:00:00-05:00",
-    "img": "e1d67df9-a94d-4c3a-8825-cafb15bc60c8",
-    "nombre": "disney8d3904",
-    "status": "13:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/e8a60872-1456-4ac8-9599-a003b9020588",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1763058022~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F12%2FDayton_vs_Fordham_Semifin_20251112_1762963232018%2F~psid=5a041419-4e28-49b7-8d52-f3a923b5a481~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=50fec52aa782e0152a64ad480f9055435dc60ae32fa8da2faa62d080815bf927/clt1/va02/disneyplus/event/2025/11/12/Dayton_vs_Fordham_Semifin_20251112_1762963232018/ctr-all-hdri-complete.m3u8?v=1&hash=7378077bff06cde4ecadc33b71710427ee28f1a3",
-    "k1": "99acd8b050fc4202b46a6677da5d4751",
-    "k2": "18c1c7bf32c55818674cf0376ca10dd0"
-  },
-  {
-    "title": "Saint Joseph's vs. Drexel (Opening Round)",
-    "league": "NCAA Women's Field Hockey",
-    "fecha-evento": "2025-11-12T14:00:00-05:00",
-    "img": "019a6e46-873e-7c02-ac03-63c942ffc1d5",
-    "nombre": "disney4ccab6",
-    "status": "14:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/075195ff-d8f5-4aa9-9037-c88cadf26806",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1763061623~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F12%2FSaint_Josephs_vs_Drexel_O_20251112_1762966850025%2F~psid=c144d8f9-f182-4d5b-a43a-3ebe943b2c84~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=9cdc3c901229091c5d74462b330e59e230524709d114ea14f77b43cfdf5e65ad/clt1/va02/disneyplus/event/2025/11/12/Saint_Josephs_vs_Drexel_O_20251112_1762966850025/ctr-all-hdri-complete.m3u8?v=1&hash=1a04559ff922ff0e4f209ec24ee520f629d25531",
-    "k1": "196a789063c34552bd1bc7bcb51c0c1b",
-    "k2": "975ad5d1b434e178238837d537377107"
-  },
-  {
     "title": "Boston University vs. Fairfield (Opening Round)",
     "league": "NCAA Women's Field Hockey",
     "fecha-evento": "2025-11-12T14:00:06-05:00",
@@ -93,12 +67,15 @@
   {
     "title": "Tulsa vs. Florida Atlantic (Semifinal #1)",
     "league": "Fútbol Masculino NCAA",
-    "fecha-evento": "2025-11-12T15:30:00-05:00",
+    "fecha-evento": "2025-11-12T15:30:27-05:00",
     "img": "9ca6915a-8f27-4ad6-bf0f-ae3bf349611d",
-    "nombre": "disney4a7e8a",
+    "nombre": "disney128704",
     "status": "15:30",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/f864360c-6d1a-425b-a8b3-cedae1509d57",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1763066425~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F12%2FTulsa_vs_Florida_Atlantic_20251112_1762972240029%2F~psid=4e81086f-b83b-48d0-9834-6f13dd1f4b13~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=82cdbd8cbad5753c3ddf8de515c7065c3f450ea1f053cd53f0b1019ff88b72e6/clt1/va02/disneyplus/event/2025/11/12/Tulsa_vs_Florida_Atlantic_20251112_1762972240029/ctr-all-hdri-complete.m3u8?v=1&hash=c7f501fc69840b40538d71738ec9c353001c9f90",
+    "k1": "164131fde6c84eb1a609f58fc7f88960",
+    "k2": "111a5925fdd037e71702b2a26b7d378c"
   },
   {
     "title": "Green Bay vs. Purdue Fort Wayne (Semifinals)",
@@ -607,6 +584,26 @@
     "img": "019a737b-33bb-7520-8d7e-0488f6f85287",
     "nombre": "disney0bfcb4",
     "status": "14:25",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "France vs. Ukraine",
+    "league": "Eliminatorias UEFA",
+    "fecha-evento": "2025-11-13T14:30:00-05:00",
+    "img": "019a7467-caf6-7a9f-819c-d0e926e58aed",
+    "nombre": "disney5d9c92",
+    "status": "14:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Irlanda vs. Portugal",
+    "league": "Eliminatorias UEFA",
+    "fecha-evento": "2025-11-13T14:30:00-05:00",
+    "img": "019a787a-6baf-7aa9-9b28-8d2a1320fcb1",
+    "nombre": "disney5452cb",
+    "status": "14:30",
     "duration": 135,
     "play_url": ""
   }
