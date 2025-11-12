@@ -13,19 +13,6 @@
     "k2": "d4cc6095dff30d11d12acc8abc358181"
   },
   {
-    "title": "Kennesaw State vs. East Tennessee State",
-    "league": "Básquet Femenino NCAA",
-    "fecha-evento": "2025-11-12T14:00:32-05:00",
-    "img": "c83815b7-d056-4a4c-b9e9-a2f70a4cbfb4",
-    "nombre": "disneyee4fb3",
-    "status": "14:00",
-    "duration": 119,
-    "play_url": "https://www.disneyplus.com/es-es/play/ad731db9-e756-4caf-bfc3-03bcfcdc82c5",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1763061711~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F12%2FKennesaw_State_vs_East_Te_20251112_1762966810021%2F~psid=335cb354-f70a-459e-8f44-e8c994856c96~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=addccad5d26234cb24656afa59422363ba8c24e861754f2691dbe6c6d4e160fc/clt1/va02/disneyplus/event/2025/11/12/Kennesaw_State_vs_East_Te_20251112_1762966810021/ctr-all-hdri-complete.m3u8?v=1&hash=7a122c8591ccd31f40df9e2aa90c031f35210499",
-    "k1": "d9333ea02b4446378be0006110fa6d83",
-    "k2": "0850036bae9d610df773be91299b4f70"
-  },
-  {
     "title": "Jannik Sinner (ITA) vs. Alexander Zverev (GER) (Augmented Reality)",
     "league": "ATP",
     "fecha-evento": "2025-11-12T14:30:00-05:00",
@@ -65,24 +52,30 @@
     "k2": "111a5925fdd037e71702b2a26b7d378c"
   },
   {
-    "title": "Green Bay vs. Purdue Fort Wayne (Semifinals)",
-    "league": "Fútbol Masculino NCAA",
-    "fecha-evento": "2025-11-12T16:00:00-05:00",
-    "img": "e2f62397-92fa-494a-ade3-876db6e9531e",
-    "nombre": "disney5a70e4",
-    "status": "16:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Robert Morris vs. Cleveland State (Semifinals)",
     "league": "Fútbol Masculino NCAA",
-    "fecha-evento": "2025-11-12T16:00:00-05:00",
+    "fecha-evento": "2025-11-12T16:00:03-05:00",
     "img": "4faacfd1-b7f9-4606-997e-515c3c49c818",
-    "nombre": "disney2fbf7d",
+    "nombre": "disney74572b",
     "status": "16:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/0f073a7f-b184-4171-97dd-baa41c97b3a5",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1763068822~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F12%2FRobert_Morris_vs_Clevelan_20251112_1762974014032%2F~psid=04e722f5-45e2-4ae4-9326-6c564c6ffcb5~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=090066d608d02aaf6771430af0f03478f7dd25c3c95a95fb05917bead007e6c8/clt1/va02/disneyplus/event/2025/11/12/Robert_Morris_vs_Clevelan_20251112_1762974014032/ctr-all-hdri-complete.m3u8?v=1&hash=401cd3f5bae790905d2dd9edd528ed434f38a605",
+    "k1": "464aaa55be324d03a80cf2435c5da10c",
+    "k2": "f7acd43de7731b5397072f6eebb51306"
+  },
+  {
+    "title": "Green Bay vs. Purdue Fort Wayne (Semifinals)",
+    "league": "Fútbol Masculino NCAA",
+    "fecha-evento": "2025-11-12T16:00:01-05:00",
+    "img": "e2f62397-92fa-494a-ade3-876db6e9531e",
+    "nombre": "disney5ffd76",
+    "status": "16:00",
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/46360211-52ff-49cc-b698-b1f9c373e058",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1763068866~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F12%2FGreen_Bay_vs_Purdue_Fort__20251112_1762974044028%2F~psid=04c8e0b1-dd11-4025-8f5c-cdc1461bdbbf~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=c0aef0dbfa01280e094ecb692194fa7db95e1399a34a24844f1801b3c3a73d45/clt1/va02/disneyplus/event/2025/11/12/Green_Bay_vs_Purdue_Fort__20251112_1762974044028/ctr-all-hdri-complete.m3u8?v=1&hash=f247b146db18e4a7e6ef76934a3ecff3c17ebf23",
+    "k1": "b0148e937a9040f0b0c7727d7278bdcc",
+    "k2": "8333340c3679b9af67db375468a5b954"
   },
   {
     "title": "SIU Edwardsville vs. Lindenwood (Semifinal #1)",
