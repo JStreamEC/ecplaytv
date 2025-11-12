@@ -13,32 +13,6 @@
     "k2": "d4cc6095dff30d11d12acc8abc358181"
   },
   {
-    "title": "Jannik Sinner (ITA) vs. Alexander Zverev (GER) (Augmented Reality)",
-    "league": "ATP",
-    "fecha-evento": "2025-11-12T14:30:00-05:00",
-    "img": "019a74bc-aac6-7dec-9970-4d85e77cb24b",
-    "nombre": "disneyc2b09c",
-    "status": "14:30",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/b36131ef-c226-459f-8aca-6192acad6455",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1763062824~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F12%2FJannik_Sinner_ITA_vs_Alex_20251112_1762968651019%2F~psid=988d5b64-d571-4876-9b8b-83b49fc97e21~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=31b8c6c929ba6ebc92e7c5ad76950ab9cee30b7456f0a1a3275fc0e576741da9/clt1/va02/disneyplus/event/2025/11/12/Jannik_Sinner_ITA_vs_Alex_20251112_1762968651019/ctr-all-hdri-complete.m3u8?v=1&hash=628405813653806cf8bec16a7fd73d811a0a2d5e",
-    "k1": "e9a252f4a36c454ba9df8da4d6ef988e",
-    "k2": "7601d3a8f3eebaf3dc546a904c08f5c6"
-  },
-  {
-    "title": "Jannik Sinner (ITA) vs. Alexander Zverev (GER) (Round Robin - Day #4)",
-    "league": "ATP",
-    "fecha-evento": "2025-11-12T14:30:00-05:00",
-    "img": "019a74bc-aa5a-790a-a6f0-b51b69784e21",
-    "nombre": "disney877a80",
-    "status": "14:30",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/39334cb1-ae7c-412a-be05-5e099fd76bd6",
-    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1763062868~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F921e1311-bb26-43dd-84a6-9e2284959712-1762950465141%2F~psid=b81fbf43-9f48-4937-a75f-740183f5b13f~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=24211bae9648fc8a5cc62cb144d6af3053bffad476c4ae2d6ab22988ea7cbf4f/clt1/va02/disneyplus/channel/921e1311-bb26-43dd-84a6-9e2284959712-1762950465141/ctr-all-sliding-alt1.m3u8?v=1&hash=03915bf69f19826611ecdeecc79455eab40b229c",
-    "k1": "74927dd54790488db401926ac74a7e53",
-    "k2": "a8649a4256d70347ffe4afd3541db60b"
-  },
-  {
     "title": "Tulsa vs. Florida Atlantic (Semifinal #1)",
     "league": "Fútbol Masculino NCAA",
     "fecha-evento": "2025-11-12T15:30:27-05:00",
@@ -594,6 +568,26 @@
     "img": "019a5559-f507-7139-adc0-5b456e076126",
     "nombre": "disney96cdf6",
     "status": "14:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Andorra vs. Albania",
+    "league": "Eliminatorias UEFA",
+    "fecha-evento": "2025-11-13T14:35:00-05:00",
+    "img": "019a309e-4f05-7c0d-b540-a567c887975a",
+    "nombre": "disneye68853",
+    "status": "14:35",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Belgrano vs. San Lorenzo (Cuartos de Final #4)",
+    "league": "Torneo Proyección",
+    "fecha-evento": "2025-11-13T14:45:00-05:00",
+    "img": "019a795e-ea4b-75a5-8f50-c328f2c12ab2",
+    "nombre": "disney3fbc64",
+    "status": "14:45",
     "duration": 135,
     "play_url": ""
   }
