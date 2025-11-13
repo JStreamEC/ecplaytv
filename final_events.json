@@ -13,19 +13,6 @@
     "k2": "d4cc6095dff30d11d12acc8abc358181"
   },
   {
-    "title": "Green Bay vs. Purdue Fort Wayne (Semifinals)",
-    "league": "Fútbol Masculino NCAA",
-    "fecha-evento": "2025-11-12T16:00:01-05:00",
-    "img": "e2f62397-92fa-494a-ade3-876db6e9531e",
-    "nombre": "disney5ffd76",
-    "status": "16:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/46360211-52ff-49cc-b698-b1f9c373e058",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1763068866~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F12%2FGreen_Bay_vs_Purdue_Fort__20251112_1762974044028%2F~psid=04c8e0b1-dd11-4025-8f5c-cdc1461bdbbf~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=c0aef0dbfa01280e094ecb692194fa7db95e1399a34a24844f1801b3c3a73d45/clt1/va02/disneyplus/event/2025/11/12/Green_Bay_vs_Purdue_Fort__20251112_1762974044028/ctr-all-hdri-complete.m3u8?v=1&hash=f247b146db18e4a7e6ef76934a3ecff3c17ebf23",
-    "k1": "b0148e937a9040f0b0c7727d7278bdcc",
-    "k2": "8333340c3679b9af67db375468a5b954"
-  },
-  {
     "title": "SIU Edwardsville vs. Lindenwood (Semifinal #1)",
     "league": "Fútbol Masculino NCAA",
     "fecha-evento": "2025-11-12T17:00:01-05:00",
@@ -124,7 +111,7 @@
     "title": "DC Power vs. Fort Lauderdale United",
     "league": "USL Super League",
     "fecha-evento": "2025-11-12T19:00:00-05:00",
-    "img": "975b20f5-f486-41e6-ac66-eaf09623ed45",
+    "img": "7172e0d0-c4a1-476c-87f8-0d7e7054651b",
     "nombre": "disneyd9e07f",
     "status": "19:00",
     "duration": 135,
@@ -394,7 +381,7 @@
     "title": "2025 Nitto ATP Finals (Doubles Round Robin)",
     "league": "ATP",
     "fecha-evento": "2025-11-13T05:30:00-05:00",
-    "img": "019a7955-356e-7d6c-b75e-e25d18d0f5a4",
+    "img": "019a7955-3580-70a2-950f-322dc2594aff",
     "nombre": "disneycef4f8",
     "status": "05:30",
     "duration": 135,
@@ -597,6 +584,16 @@
     "img": "019a7358-0cb0-76f6-a91c-e2826edd4cdb",
     "nombre": "disney80f7d8",
     "status": "14:55",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Ivy League Men's Soccer Championship (Semifinal)",
+    "league": "Fútbol Masculino NCAA",
+    "fecha-evento": "2025-11-13T15:30:00-05:00",
+    "img": "7aed1339-90de-4539-b6ea-ec436aa4408a",
+    "nombre": "disneyc845ee",
+    "status": "15:30",
     "duration": 135,
     "play_url": ""
   }
