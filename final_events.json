@@ -13,27 +13,17 @@
     "k2": "9a06f4a1bbd6265552a665903693c1c0"
   },
   {
-    "title": "Pittsburgh Penguins vs. Nashville Predators",
-    "league": "National Hockey League",
-    "fecha-evento": "2025-11-14T14:00:00-05:00",
-    "img": "25c5fb83-33ee-4397-819b-c1f7fa77c9d2",
-    "nombre": "disney73e5c5",
-    "status": "14:00",
-    "duration": 210,
-    "play_url": "https://www.disneyplus.com/es-es/play/a40d84a2-b007-44e1-8407-2bd50d1f85d7",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1763235961~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F14%2FPittsburgh_Penguins_vs_Na_20251114_1763139624030%2F~psid=c0406f5a-c9ab-470c-b158-aa767cba1c89~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=6b1a1568c17b8637bdb7e1f65d3d29c9944a1dd632c63dbc8a4eba7a06a7c655/clt1/va02/disneyplus/event/2025/11/14/Pittsburgh_Penguins_vs_Na_20251114_1763139624030/ctr-all-hdri-complete.m3u8?v=1&hash=1f62de6e3b18da18e64718921b8f44626ebc5c8d",
-    "k1": "f06dadb9384e4f45ad9e2484de3bd212",
-    "k2": "0c4b3f8d13a1782ae265e785cbed6870"
-  },
-  {
     "title": "En Español-South Carolina State vs. North Carolina Central",
     "league": "Fútbol Americano NCAA",
     "fecha-evento": "2025-11-14T17:30:00-05:00",
     "img": "2d963f43-87b7-4483-8c87-49a2a8093251",
     "nombre": "disney6b58dd",
     "status": "17:30",
-    "duration": 135,
-    "play_url": ""
+    "duration": 180,
+    "play_url": "https://www.disneyplus.com/es-es/play/af00505c-d6b0-460f-886c-9db6fb994f4a",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1763246426~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F14%2FEn_EspaolSouth_Carolina_S_20251114_1763152256045%2F~psid=67f96924-93ea-42e8-b8f9-1d79512daab8~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=ef890e5ced05deecc51351248fc3a1d7bb43a8c56d9c8742607f864291d4e2e4/clt1/va02/disneyplus/event/2025/11/14/En_EspaolSouth_Carolina_S_20251114_1763152256045/ctr-all-hdri-complete.m3u8?v=1&hash=c60184eec5fe28a249c8e39ef3474a27844a3ec6",
+    "k1": "d8d8a17eb8524e55afe15e2e71ab2fb2",
+    "k2": "582ae59834adb3465302d94cc44611ef"
   },
   {
     "title": "Lanús vs. Atlético Tucumán",
@@ -89,7 +79,7 @@
     "title": "Indiana State vs. #4 Duke",
     "league": "Básquetbol Masculino NCAA",
     "fecha-evento": "2025-11-14T19:00:00-05:00",
-    "img": "019a1924-c51f-7c92-9cf3-0104ad902054",
+    "img": "019a1924-c4d0-7cac-9287-09aaffbde5d2",
     "nombre": "disneybeabe3",
     "status": "19:00",
     "duration": 135,
@@ -622,6 +612,16 @@
     "img": "c398b4ee-8062-4720-92e1-d8dc0f41809a",
     "nombre": "disney00a92a",
     "status": "13:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Marista vs. Newman",
+    "league": "Torneo Nacional de Clubes XV",
+    "fecha-evento": "2025-11-15T13:30:00-05:00",
+    "img": "019a7381-7e64-7881-88ca-68dd5330af72",
+    "nombre": "disney66894f",
+    "status": "13:30",
     "duration": 135,
     "play_url": ""
   }
