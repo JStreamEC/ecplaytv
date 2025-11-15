@@ -13,19 +13,6 @@
     "k2": "fc711ceeaaf3ca22ec3863b2121a6f41"
   },
   {
-    "title": "Brazil vs. Senegal",
-    "league": "Amistosos internacionales",
-    "fecha-evento": "2025-11-15T10:50:00-05:00",
-    "img": "019a61b9-571e-7136-b4d3-98d61815ef14",
-    "nombre": "disneye29450",
-    "status": "10:50",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/a21743e5-0153-47d6-83db-c9f838a2c7aa",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1763310143~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F15%2FBrazil_vs_Senegal_20251115_1763214645048%2F~psid=96d6f98e-3d0f-4491-9ab2-a54c3ee65247~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=11bed9ba80f6b564ffdc1ab716b8fa2f6a15ac1892d02a17dae1025220995dc7/clt1/va02/disneyplus/event/2025/11/15/Brazil_vs_Senegal_20251115_1763214645048/ctr-all-hdri-complete.m3u8?v=1&hash=94b593938b476106ac8b7a110bcf19cac2be2121",
-    "k1": "e4527c678fe34aa0b7bc794aa6a4ec13",
-    "k2": "5c71d7691a2fedadc5249b6308cbd7ab"
-  },
-  {
     "title": "GEBA vs. GB Sports | Canchas #1 y #2",
     "league": "Argentine Copa Potrero",
     "fecha-evento": "2025-11-15T11:30:00-05:00",
@@ -234,24 +221,30 @@
     "k2": "f9887a84bbd99fd3422ed9a5b69d3f1c"
   },
   {
-    "title": "Brooklyn vs. Lexington Sporting Club",
-    "league": "USL Super League",
-    "fecha-evento": "2025-11-15T13:00:00-05:00",
-    "img": "019a5af5-e3ec-7315-8d8f-ba95ad871965",
-    "nombre": "disneye8e721",
-    "status": "13:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Purdue Fort Wayne vs. Cleveland State (Championship)",
     "league": "Fútbol Masculino NCAA",
-    "fecha-evento": "2025-11-15T13:00:00-05:00",
+    "fecha-evento": "2025-11-15T13:00:02-05:00",
     "img": "c398b4ee-8062-4720-92e1-d8dc0f41809a",
-    "nombre": "disney00a92a",
+    "nombre": "disney37a431",
     "status": "13:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/fa9037f8-948c-4ff3-83cc-43e898318856",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1763317223~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F15%2FPurdue_Fort_Wayne_vs_Clev_20251115_1763222440031%2F~psid=0cd75843-b509-42a1-a48b-43df1e872f92~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=3ca5cdd8a3fa0425fa26bb5398bb58a2befcdc8a64861726b64539496173b2ed/clt1/va02/disneyplus/event/2025/11/15/Purdue_Fort_Wayne_vs_Clev_20251115_1763222440031/ctr-all-hdri-complete.m3u8?v=1&hash=3ac9c44633dfc320e748799b61d67d9d93d611af",
+    "k1": "40e090faa4b64fc2a951da1e9c00a86e",
+    "k2": "5320eb4f293e852ff214e0e73fd14369"
+  },
+  {
+    "title": "Brooklyn vs. Lexington Sporting Club",
+    "league": "USL Super League",
+    "fecha-evento": "2025-11-15T13:00:05-05:00",
+    "img": "019a5af5-e3ec-7315-8d8f-ba95ad871965",
+    "nombre": "disneyecb960",
+    "status": "13:00",
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/d9283e63-a8f4-4e9e-a40e-69863669e5e0",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1763317269~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F15%2FBrooklyn_vs_Lexington_Spo_20251115_1763228036777%2F~psid=53534ca7-bcb4-4291-b338-1386cf5b5da0~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=7db71373ff7925414a38778d8b3bf2cd1ba3d542b36cb7ae4ad79fa05b9a3847/clt1/va02/disneyplus/event/2025/11/15/Brooklyn_vs_Lexington_Spo_20251115_1763228036777/ctr-all-hdri-complete.m3u8?v=1&hash=456c74a6521eb5b0dee0290f70af4e916d68a82f",
+    "k1": "ac09a0aba5bc4821b2dc1ff7f8b1ada5",
+    "k2": "c42b6af428d52f27b65fb1d0dc8f155d"
   },
   {
     "title": "Marista vs. Newman",
@@ -669,6 +662,16 @@
     "fecha-evento": "2025-11-15T19:00:00-05:00",
     "img": "39901c62-e194-4e60-901c-69fafd6b7763",
     "nombre": "disney2d5da7",
+    "status": "19:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Bellarmine vs. North Florida (Championship)",
+    "league": "Fútbol Masculino NCAA",
+    "fecha-evento": "2025-11-15T19:00:00-05:00",
+    "img": "d2dc9fb5-393e-4b41-98ae-1d32fcaa47b4",
+    "nombre": "disney27e556",
     "status": "19:00",
     "duration": 135,
     "play_url": ""
