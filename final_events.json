@@ -78,19 +78,6 @@
     "k2": "ee69e74e2d4380e0ba06d31cb4674d58"
   },
   {
-    "title": "Gillingham FC vs. Crawley Town",
-    "league": "League Two de Inglaterra",
-    "fecha-evento": "2025-11-15T12:22:09-05:00",
-    "img": "019a510f-033f-7e23-9c56-1b07b4945258",
-    "nombre": "disneyddc477",
-    "status": "12:22",
-    "duration": 128,
-    "play_url": "https://www.disneyplus.com/es-es/play/b8b0da89-c926-4289-9aa9-e89435c0c8b9",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1763314824~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F15%2FGillingham_FC_vs_Crawley__20251115_1763220331029%2F~psid=c5cc0100-e69d-41d7-9fab-f093015b5dcc~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=32dca1dcd7ea46a8deb5869a270068f163dc37bfb9ed8137977f682268f24c59/clt1/va02/disneyplus/event/2025/11/15/Gillingham_FC_vs_Crawley__20251115_1763220331029/ctr-all-hdri-complete.m3u8?v=1&hash=bf8676919c9da99028ae05ac69691cb7ba8a8732",
-    "k1": "58a2a4826ab443ba951ddb66f31e3eee",
-    "k2": "e1d21ebfa973a6dd254ce9a3581c6f67"
-  },
-  {
     "title": "Uruguay Open (Semifinals)",
     "league": "ATP",
     "fecha-evento": "2025-11-15T12:30:57-05:00",
@@ -301,12 +288,15 @@
   {
     "title": "Racing Santander vs. Granada",
     "league": "Segunda División de España",
-    "fecha-evento": "2025-11-15T14:55:00-05:00",
+    "fecha-evento": "2025-11-15T14:55:44-05:00",
     "img": "019a5116-e011-75a0-b84d-a996fe275c15",
-    "nombre": "disney6ed0ff",
+    "nombre": "disneya0001a",
     "status": "14:55",
-    "duration": 135,
-    "play_url": ""
+    "duration": 124,
+    "play_url": "https://www.disneyplus.com/es-es/play/ec25aafd-7640-490e-80b9-739fff39282f",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1763323228~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F15%2FRacing_Santander_vs_Grana_20251115_1763229322031%2F~psid=89ca6098-fe23-4f7b-915e-08527095b46d~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=92267d7f2d18c87b2ceec50b01d791132c014e1912dcbb8ead38f9cc8ad90299/clt1/va02/disneyplus/event/2025/11/15/Racing_Santander_vs_Grana_20251115_1763229322031/ctr-all-hdri-complete.m3u8?v=1&hash=98fc5dfcd561440af7a3eb6ec4988c3d179a7cc1",
+    "k1": "307ed790b4c74ffbb315d84f255cc33e",
+    "k2": "49de973d7baa2d4b39caaf4dca03c203"
   },
   {
     "title": "#14 Colgate vs. #4 Cornell",
@@ -685,6 +675,16 @@
     "img": "019a5afa-ef9b-7f26-96a7-9eb6bdcbfa58",
     "nombre": "disney0d31f5",
     "status": "19:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Vegas Golden Knights vs. St. Louis Blues",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-11-15T20:00:00-05:00",
+    "img": "019a4b87-a184-78a5-bce8-b8fd89dd7dd8",
+    "nombre": "disney4e7e63",
+    "status": "20:00",
     "duration": 135,
     "play_url": ""
   }
