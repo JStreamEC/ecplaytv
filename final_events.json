@@ -26,19 +26,6 @@
     "k2": "cf60d7127fdbb496048d58e2cc1a4e6c"
   },
   {
-    "title": "San Fernando vs. River Plate (Cuartos de Final)",
-    "league": "Torneo Metropolitano de Hockey Femenino",
-    "fecha-evento": "2025-11-15T11:30:07-05:00",
-    "img": "019a7984-bc62-7ce7-ad69-e823b4ca3d1e",
-    "nombre": "disney1735c3",
-    "status": "11:30",
-    "duration": 135,
-    "play_url": "https://www.disneyplus.com/es-es/play/c0739aa9-f495-41f2-85e6-e550ae6294e7",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1763311270~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F15%2FSan_Fernando_vs_River_Pla_20251115_1763217022039%2F~psid=bbc80d43-3795-4e89-9fb6-dde279f02e10~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=6a7ce5e2f7654cdc9c73bca7e0a4f95da19757aefad0081a4ef83af05b4d8185/clt1/va02/disneyplus/event/2025/11/15/San_Fernando_vs_River_Pla_20251115_1763217022039/ctr-all-hdri-complete.m3u8?v=1&hash=044d5a1912a559761263954f9f9eb201b3b90761",
-    "k1": "d845762e76d64568b0f9b94d57553b2d",
-    "k2": "1168a1602f1106b489176aaf79f8eb85"
-  },
-  {
     "title": "Georgia vs. España",
     "league": "Eliminatorias UEFA",
     "fecha-evento": "2025-11-15T11:45:00-05:00",
@@ -249,12 +236,15 @@
   {
     "title": "Marista vs. Newman",
     "league": "Torneo Nacional de Clubes XV",
-    "fecha-evento": "2025-11-15T13:30:00-05:00",
+    "fecha-evento": "2025-11-15T13:29:59-05:00",
     "img": "019a7381-7e64-7881-88ca-68dd5330af72",
-    "nombre": "disney66894f",
-    "status": "13:30",
-    "duration": 135,
-    "play_url": ""
+    "nombre": "disneyb2c6eb",
+    "status": "13:29",
+    "duration": 180,
+    "play_url": "https://www.disneyplus.com/es-es/play/58c08cf4-58f0-48ad-b4b8-60c1379388bc",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1763318424~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F15%2FMarista_vs_Newman_20251115_1763224241028%2F~psid=6415e7d8-08ef-4c24-a69a-fb5c27b7c468~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=ec946c88e60d8036a04116a88dea9703d9ad193130fb4b5896deaa4ff6829b0a/clt1/va02/disneyplus/event/2025/11/15/Marista_vs_Newman_20251115_1763224241028/ctr-all-hdri-complete.m3u8?v=1&hash=0443499f0ece85d3b2f28748973e613beb5ab778",
+    "k1": "56a78de75c934765accc0185f9c04102",
+    "k2": "d41e6302202fc66ed388efb4785783fc"
   },
   {
     "title": "Boston College vs. Temple",
@@ -672,6 +662,16 @@
     "fecha-evento": "2025-11-15T19:00:00-05:00",
     "img": "d2dc9fb5-393e-4b41-98ae-1d32fcaa47b4",
     "nombre": "disney27e556",
+    "status": "19:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "#13 Utah vs. Baylor",
+    "league": "Fútbol Americano NCAA",
+    "fecha-evento": "2025-11-15T19:00:00-05:00",
+    "img": "02e9f57d-7041-4e22-843f-9c5b0f26ee46",
+    "nombre": "disneye12612",
     "status": "19:00",
     "duration": 135,
     "play_url": ""
