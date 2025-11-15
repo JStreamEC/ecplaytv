@@ -13,19 +13,6 @@
     "k2": "582ae59834adb3465302d94cc44611ef"
   },
   {
-    "title": "Lanús vs. Atlético Tucumán",
-    "league": "Liga Profesional de Fútbol",
-    "fecha-evento": "2025-11-14T17:45:02-05:00",
-    "img": "019a78bd-5a5e-70b8-af75-134452328e28",
-    "nombre": "disney078827",
-    "status": "17:45",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/2a6c9979-8e02-4431-b3c4-cc3ecdd3ff61",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1763247628~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F14%2FLans_vs_Atltico_Tucumn_20251114_1763153111028%2F~psid=57619228-b690-4553-8115-c3d7f6508255~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=1b524ac9f7de2c431576355c93c73517dc455493efec4e15f23c88ed4ea22977/clt1/va02/disneyplus/event/2025/11/14/Lans_vs_Atltico_Tucumn_20251114_1763153111028/ctr-all-hdri-complete.m3u8?v=1&hash=70691c518bdaa4d98d54dd2d381ebb5feb0c55eb",
-    "k1": "98e78e8916ee4f72bbd16eabbaef42bd",
-    "k2": "196214f451073d2e5fbd46f7477616fe"
-  },
-  {
     "title": "Indiana State vs. #4 Duke",
     "league": "Básquetbol Masculino NCAA",
     "fecha-evento": "2025-11-14T19:00:00-05:00",
@@ -91,16 +78,6 @@
     "k2": "52f78768a1ea01de784680996ea9c044"
   },
   {
-    "title": "Philadelphia Flyers vs. St. Louis Blues",
-    "league": "National Hockey League",
-    "fecha-evento": "2025-11-14T20:00:00-05:00",
-    "img": "c4a6eaf0-80a8-4ed6-b3c8-0e65dbc8f4e9",
-    "nombre": "disney8651b0",
-    "status": "20:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Clemson vs. #20 Louisville",
     "league": "Fútbol Americano NCAA",
     "fecha-evento": "2025-11-14T19:30:05-05:00",
@@ -112,6 +89,16 @@
     "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1763253633~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F15%2FClemson_vs_20_Louisville_20251115_1763159445029%2F~psid=d9a1f47a-e740-4697-b919-2f00b9263426~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=7440c3f95196a7a5176403fa38b0502456ae52ced737fef2fe31a42e7a974257/clt1/va02/disneyplus/event/2025/11/15/Clemson_vs_20_Louisville_20251115_1763159445029/ctr-all-hdri-complete.m3u8?v=1&hash=99cfb51f8b786dec9a2cae7b63f24fb7f289b0aa",
     "k1": "94205ebe13004bb6a7d535e12349469a",
     "k2": "6b58ddc074459656d75ca5b7d320c86e"
+  },
+  {
+    "title": "Philadelphia Flyers vs. St. Louis Blues",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-11-14T20:00:00-05:00",
+    "img": "c4a6eaf0-80a8-4ed6-b3c8-0e65dbc8f4e9",
+    "nombre": "disney8651b0",
+    "status": "20:00",
+    "duration": 135,
+    "play_url": ""
   },
   {
     "title": "Tennessee Tech vs. #1 Vanderbilt (First Round)",
@@ -640,6 +627,16 @@
     "img": "019a756a-80a2-771c-868e-166621aca1b9",
     "nombre": "disney989494",
     "status": "14:15",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "La Natividad-La Dolfina vs. Los Machitos (Grupo A - Fecha #3)",
+    "league": "Abierto de Palermo",
+    "fecha-evento": "2025-11-15T14:20:00-05:00",
+    "img": "019a7ef6-4c10-765b-8d84-c27e01fc7590",
+    "nombre": "disney740257",
+    "status": "14:20",
     "duration": 135,
     "play_url": ""
   }
