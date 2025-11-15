@@ -1,18 +1,5 @@
 [
   {
-    "title": "Uruguay Open (Quarterfinals)",
-    "league": "ATP",
-    "fecha-evento": "2025-11-14T11:30:03-05:00",
-    "img": "019a83a1-d422-7a17-8d3a-4909bc5ce606",
-    "nombre": "disneyfc5c4a",
-    "status": "11:30",
-    "duration": 510,
-    "play_url": "https://www.disneyplus.com/es-es/play/bc0cf40b-ca14-4542-bef7-8fed27fcdd92",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1763235864~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F14%2FUruguay_Open_Quarterfinal_20251114_1763130649044%2F~psid=46cdc6ce-9d9f-4a7f-8f45-8f6e22e029b0~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=652b34907e291a2eb83b5dc773a67b56fe02c5bb4c3a3fe980f679e394fd6f9e/clt1/va02/disneyplus/event/2025/11/14/Uruguay_Open_Quarterfinal_20251114_1763130649044/ctr-all-hdri-complete.m3u8?v=1&hash=03b2d0a77c37178d682759d1df50eae45346ac26",
-    "k1": "71f0307ae0e645bb9758afd1921cc9a9",
-    "k2": "9a06f4a1bbd6265552a665903693c1c0"
-  },
-  {
     "title": "En Español-South Carolina State vs. North Carolina Central",
     "league": "Fútbol Americano NCAA",
     "fecha-evento": "2025-11-14T17:30:00-05:00",
@@ -39,17 +26,43 @@
     "k2": "196214f451073d2e5fbd46f7477616fe"
   },
   {
-    "title": "North Carolina vs. #3 Tennessee (First Round)",
-    "league": "Fútbol Femenino NCAA",
-    "fecha-evento": "2025-11-14T18:00:00-05:00",
-    "img": "a22db444-40c2-4f3d-bd98-e86a44873058",
-    "nombre": "disney3d1a32",
-    "status": "18:00",
+    "title": "Indiana State vs. #4 Duke",
+    "league": "Básquetbol Masculino NCAA",
+    "fecha-evento": "2025-11-14T19:00:00-05:00",
+    "img": "019a1924-c4d0-7cac-9287-09aaffbde5d2",
+    "nombre": "disneybeabe3",
+    "status": "19:00",
     "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/72a334d7-296e-4187-abf1-fe48171e4f5b",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1763248828~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F14%2FNorth_Carolina_vs_3_Tenne_20251114_1763154045041%2F~psid=7bfc7506-3c0b-4dce-bd08-66492f7b6d11~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=0872950e5b1e0e03ac4854f0bcce534919c87eb805c9e73d4462ebe828ab42ce/clt1/va02/disneyplus/event/2025/11/14/North_Carolina_vs_3_Tenne_20251114_1763154045041/ctr-all-hdri-complete.m3u8?v=1&hash=beb53fc17481260a52cfe7806e0bd85c390c8d6a",
-    "k1": "658bd033d1a541d8b5c3d6f224631155",
-    "k2": "1e0e6240c10b76b13d60531e825175b9"
+    "play_url": "https://www.disneyplus.com/es-es/play/415474fd-64c2-4a4f-9366-fecc0e9ad4d0",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1763251348~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F15%2FIndiana_State_vs_4_Duke_20251115_1763159404647%2F~psid=23901d74-df59-4a76-8342-08f57e12bdf1~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=f2d6443aff14587ebc9a87ac87bb7f40c2fc348cac2bc5bcb7f6e217449781bd/clt1/va02/disneyplus/event/2025/11/15/Indiana_State_vs_4_Duke_20251115_1763159404647/ctr-all-hdri-complete.m3u8?v=1&hash=57795147b890197989a7d22465316625d1219aa5",
+    "k1": "79963d81105c4cf2b49dc39fb57dd9f7",
+    "k2": "234bf6d63335c988b9e11f2ccb83a8cb"
+  },
+  {
+    "title": "#15 Duke vs. West Virginia",
+    "league": "Básquet Femenino NCAA",
+    "fecha-evento": "2025-11-14T19:00:00-05:00",
+    "img": "fa6041f5-f5c5-4633-85c4-b0a12edfcfa5",
+    "nombre": "disney143b27",
+    "status": "19:00",
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/4b4d39b2-f212-41c4-83bb-4469c4760ad1",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1763251322~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F15%2F15_Duke_vs_West_Virginia_20251115_1763157626026%2F~psid=bc4f6abd-5e5d-4a16-aa51-65acaffbca72~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=893839c9ee037d5039ab97dff7b1a421f85c0a77a2a42ed4b516d29f8cc237b4/clt1/va02/disneyplus/event/2025/11/15/15_Duke_vs_West_Virginia_20251115_1763157626026/ctr-all-hdri-complete.m3u8?v=1&hash=e85afb14a5961c34cc6a9b0f0a94df87a68529f9",
+    "k1": "e896cd3f8dbc409782fb369f3445f112",
+    "k2": "fb27dfbb0b9af975713893cfa2b94749"
+  },
+  {
+    "title": "Missouri vs. Mississippi State",
+    "league": "NCAA Women's Volleyball",
+    "fecha-evento": "2025-11-14T19:00:00-05:00",
+    "img": "1af13c92-ee9e-4902-93ee-a57e38dda6c9",
+    "nombre": "disney0f97c0",
+    "status": "19:00",
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/25c00613-a9ff-463a-8cf9-9290062fce15",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1763251374~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F15%2FMissouri_vs_Mississippi_S_20251115_1763159404622%2F~psid=bd107b7e-591a-4029-8661-7ffbbad627be~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=13a1f4d4415f32046dd670b5f42881e5552c70911674955502dccf331f080df9/clt1/va02/disneyplus/event/2025/11/15/Missouri_vs_Mississippi_S_20251115_1763159404622/ctr-all-hdri-complete.m3u8?v=1&hash=6dfc0ecddbff93eba12a7e3dedad16b1665e4a24",
+    "k1": "e1571223d8dc4a6ca6e2b4afa317230b",
+    "k2": "916142a3fac030ec0801e248a8f619f0"
   },
   {
     "title": "Vancouver Canucks vs. Carolina Hurricanes",
@@ -76,55 +89,6 @@
     "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1763251277~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F15%2FBrown_vs_19_Cornell_20251115_1763157630032%2F~psid=98eb239c-4e5b-4edb-b166-0e5fc0ca8ce8~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=710abac673eb1e091efaf1e5bb4022b52c34cee7694bbd07a2c017cbe8a4d869/clt1/va02/disneyplus/event/2025/11/15/Brown_vs_19_Cornell_20251115_1763157630032/ctr-all-hdri-complete.m3u8?v=1&hash=d4b1a08fdc045e292693eb02cb028b6b66931b14",
     "k1": "ddacfd5f0ec34d1195ae321000eb1641",
     "k2": "52f78768a1ea01de784680996ea9c044"
-  },
-  {
-    "title": "#15 Duke vs. West Virginia",
-    "league": "Básquet Femenino NCAA",
-    "fecha-evento": "2025-11-14T19:00:00-05:00",
-    "img": "fa6041f5-f5c5-4633-85c4-b0a12edfcfa5",
-    "nombre": "disney143b27",
-    "status": "19:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/4b4d39b2-f212-41c4-83bb-4469c4760ad1",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1763251322~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F15%2F15_Duke_vs_West_Virginia_20251115_1763157626026%2F~psid=bc4f6abd-5e5d-4a16-aa51-65acaffbca72~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=893839c9ee037d5039ab97dff7b1a421f85c0a77a2a42ed4b516d29f8cc237b4/clt1/va02/disneyplus/event/2025/11/15/15_Duke_vs_West_Virginia_20251115_1763157626026/ctr-all-hdri-complete.m3u8?v=1&hash=e85afb14a5961c34cc6a9b0f0a94df87a68529f9",
-    "k1": "e896cd3f8dbc409782fb369f3445f112",
-    "k2": "fb27dfbb0b9af975713893cfa2b94749"
-  },
-  {
-    "title": "Indiana State vs. #4 Duke",
-    "league": "Básquetbol Masculino NCAA",
-    "fecha-evento": "2025-11-14T19:00:00-05:00",
-    "img": "019a1924-c4d0-7cac-9287-09aaffbde5d2",
-    "nombre": "disneybeabe3",
-    "status": "19:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/415474fd-64c2-4a4f-9366-fecc0e9ad4d0",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1763251348~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F15%2FIndiana_State_vs_4_Duke_20251115_1763159404647%2F~psid=23901d74-df59-4a76-8342-08f57e12bdf1~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=f2d6443aff14587ebc9a87ac87bb7f40c2fc348cac2bc5bcb7f6e217449781bd/clt1/va02/disneyplus/event/2025/11/15/Indiana_State_vs_4_Duke_20251115_1763159404647/ctr-all-hdri-complete.m3u8?v=1&hash=57795147b890197989a7d22465316625d1219aa5",
-    "k1": "79963d81105c4cf2b49dc39fb57dd9f7",
-    "k2": "234bf6d63335c988b9e11f2ccb83a8cb"
-  },
-  {
-    "title": "Missouri vs. Mississippi State",
-    "league": "NCAA Women's Volleyball",
-    "fecha-evento": "2025-11-14T19:00:00-05:00",
-    "img": "1af13c92-ee9e-4902-93ee-a57e38dda6c9",
-    "nombre": "disney0f97c0",
-    "status": "19:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/25c00613-a9ff-463a-8cf9-9290062fce15",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1763251374~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F15%2FMissouri_vs_Mississippi_S_20251115_1763159404622%2F~psid=bd107b7e-591a-4029-8661-7ffbbad627be~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=13a1f4d4415f32046dd670b5f42881e5552c70911674955502dccf331f080df9/clt1/va02/disneyplus/event/2025/11/15/Missouri_vs_Mississippi_S_20251115_1763159404622/ctr-all-hdri-complete.m3u8?v=1&hash=6dfc0ecddbff93eba12a7e3dedad16b1665e4a24",
-    "k1": "e1571223d8dc4a6ca6e2b4afa317230b",
-    "k2": "916142a3fac030ec0801e248a8f619f0"
-  },
-  {
-    "title": "Toronto Maple Leafs vs. Chicago Blackhawks",
-    "league": "National Hockey League",
-    "fecha-evento": "2025-11-15T19:00:00-05:00",
-    "img": "912cda70-bac7-4bc7-85e3-4d394a673c54",
-    "nombre": "disney18e98f",
-    "status": "19:00",
-    "duration": 135,
-    "play_url": ""
   },
   {
     "title": "Philadelphia Flyers vs. St. Louis Blues",
@@ -643,6 +607,36 @@
     "img": "019a7381-7e64-7881-88ca-68dd5330af72",
     "nombre": "disney66894f",
     "status": "13:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Boston College vs. Temple",
+    "league": "Básquetbol Masculino NCAA",
+    "fecha-evento": "2025-11-15T14:00:00-05:00",
+    "img": "d729278b-e977-4d7d-bddd-746f4eca05e2",
+    "nombre": "disney5df233",
+    "status": "14:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Club Italiano vs. Ciudad de Buenos Aires (Cuartos de Final)",
+    "league": "Torneo Metropolitano de Hockey Femenino",
+    "fecha-evento": "2025-11-15T14:00:00-05:00",
+    "img": "1de65310-a449-4e4e-b3ff-0628b62ffc3b",
+    "nombre": "disney3138b3",
+    "status": "14:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Colón FC vs. Deportivo Maldonado",
+    "league": "Segunda División de Uruguay",
+    "fecha-evento": "2025-11-15T14:15:00-05:00",
+    "img": "019a756a-80a2-771c-868e-166621aca1b9",
+    "nombre": "disney989494",
+    "status": "14:15",
     "duration": 135,
     "play_url": ""
   }
