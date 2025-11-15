@@ -26,19 +26,6 @@
     "k2": "cf60d7127fdbb496048d58e2cc1a4e6c"
   },
   {
-    "title": "Georgia vs. España",
-    "league": "Eliminatorias UEFA",
-    "fecha-evento": "2025-11-15T11:45:00-05:00",
-    "img": "019a4a14-e917-7655-b096-836161cb5dc6",
-    "nombre": "disney0a8f93",
-    "status": "11:45",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/4cf5f88d-6604-4476-9be6-bcd02d031513",
-    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1763312422~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F921e1311-bb26-43dd-84a6-9e2284959712-1762950465141%2F~psid=f9b74e31-7a73-4c49-a277-b9cd4239156b~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=ecb67eec749af4c3ca6a52b511c6eb88a134bcae09680924a835e61709234c49/clt1/va02/disneyplus/channel/921e1311-bb26-43dd-84a6-9e2284959712-1762950465141/ctr-all-sliding-alt1.m3u8?v=1&hash=03915bf69f19826611ecdeecc79455eab40b229c",
-    "k1": "4889ca09906446c29d6d5faa684c68ef",
-    "k2": "202d2ba39f419187f78798013087e3cd"
-  },
-  {
     "title": "Turquia vs. Bulgaria",
     "league": "Eliminatorias UEFA",
     "fecha-evento": "2025-11-15T11:50:02-05:00",
@@ -102,19 +89,6 @@
     "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1763312641~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F15%2FEn_Espaol9_Notre_Dame_vs__20251115_1763218840042%2F~psid=d90110f0-b84f-4e25-a8c3-eba1c48fa525~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=6500d48ce26df45766b8d98cf85819329f2ae872a7142a837ffae3cec0da55ad/clt1/va02/disneyplus/event/2025/11/15/En_Espaol9_Notre_Dame_vs__20251115_1763218840042/ctr-all-hdri-complete.m3u8?v=1&hash=55085bab5ac16fda2257ee61418c570f633c7b65",
     "k1": "65b952f841734c0bbb62a57721bc6cac",
     "k2": "ae58e9bd5029b7e6537d94f3e559549c"
-  },
-  {
-    "title": "J. Salisbury/N. Skupski vs. J. Cash/L. Glasspool (Doubles Semifinals)",
-    "league": "ATP",
-    "fecha-evento": "2025-11-15T12:00:00-05:00",
-    "img": "019a84a6-b0a3-7022-89d2-2810fcabf3f2",
-    "nombre": "disney4d69f5",
-    "status": "12:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/cb8685c8-0a83-4807-a3b4-869249abdbdd",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1763312666~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F15%2F_J_SalisburyN_Skupski_vs__20251115_1763218800063%2F~psid=fb758068-10eb-4308-9920-d387995c45f0~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=eff98c3bcf2d3c165fcfadb29894d75e3a1343db86a1c3bad8be4086570ac57e/clt1/va02/disneyplus/event/2025/11/15/_J_SalisburyN_Skupski_vs__20251115_1763218800063/ctr-all-hdri-complete.m3u8?v=1&hash=2da7ed6613976f118156fc222cfb33ccbb299c11",
-    "k1": "781b70a6e799402f897bf84c7599bffa",
-    "k2": "afbce107594a70cc80a72f53e66d4907"
   },
   {
     "title": "#24 South Florida vs. Navy",
@@ -672,6 +646,26 @@
     "fecha-evento": "2025-11-15T19:00:00-05:00",
     "img": "02e9f57d-7041-4e22-843f-9c5b0f26ee46",
     "nombre": "disneye12612",
+    "status": "19:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Western Michigan vs. Evansville (Championship)",
+    "league": "Fútbol Masculino NCAA",
+    "fecha-evento": "2025-11-15T19:00:00-05:00",
+    "img": "019a7b83-49db-7751-9035-288bc2da6f29",
+    "nombre": "disneyf767e5",
+    "status": "19:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Wisconsin vs. Ohio",
+    "league": "NCAA Luchas",
+    "fecha-evento": "2025-11-15T19:00:00-05:00",
+    "img": "79dccdb5-ae78-4f5d-9a66-a92bf90f5698",
+    "nombre": "disney384da7",
     "status": "19:00",
     "duration": 135,
     "play_url": ""
