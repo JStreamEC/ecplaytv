@@ -2,15 +2,12 @@
   {
     "title": "#20 Cornell vs. #3 Princeton (Championship)",
     "league": "Fútbol Masculino NCAA",
-    "fecha-evento": "2025-11-16T11:00:14-05:00",
+    "fecha-evento": "",
     "img": "28c5c91f-90db-4250-b80b-8d1079ae6eff",
-    "nombre": "disneyde40b5",
-    "status": "11:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/760dc16f-e3c5-45a8-953b-20c3fc24d69a",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1763396538~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F16%2F20_Cornell_vs_3_Princeton_20251116_1763304365352%2F~psid=4bb576df-97a5-43fa-adae-8c96b37e5e51~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=efcf76168a93a76d075e464582ec27cf2d987aeae21eb5f8cb64c8ac81572081/clt1/va02/disneyplus/event/2025/11/16/20_Cornell_vs_3_Princeton_20251116_1763304365352/ctr-all-hdri-complete.m3u8?v=1&hash=321bc2f21ba371b41464f8b07f4d1b4541fd6447",
-    "k1": "dc98e06aa56242dfb739f7accf7ab05b",
-    "k2": "186ac9e6ca4632502285283418863653"
+    "nombre": "disneye648e7",
+    "status": "",
+    "duration": 135,
+    "play_url": ""
   },
   {
     "title": "Tap San Pedro vs. GB Sports | Canchas #1 y #2",
@@ -193,19 +190,6 @@
     "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1763402472~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F16%2FDayton_vs_22_Saint_Louis__20251116_1763308807048%2F~psid=5424efcc-ba61-4f82-8bdc-c828245a4325~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=427bd53115965d1a2e405e56b6105d412965bcbe55939b0b1f233342675c7d65/clt1/va02/disneyplus/event/2025/11/16/Dayton_vs_22_Saint_Louis__20251116_1763308807048/ctr-all-hdri-complete.m3u8?v=1&hash=b71b574096135bd0c90c8d6462a3d066dda075c0",
     "k1": "06c67e024f904d3eaa817bc59a0c8827",
     "k2": "588559dfc65caf93397c9767c64b36a9"
-  },
-  {
-    "title": "#17 TCU vs. #10 NC State",
-    "league": "Básquet Femenino NCAA",
-    "fecha-evento": "2025-11-16T13:00:00-05:00",
-    "img": "597af3f7-1b2b-4c9a-b07f-960a69e26076",
-    "nombre": "disney2fc44c",
-    "status": "13:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/8619b10e-d676-4e7e-89e5-21b09f282700",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1763402543~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F16%2F17_TCU_vs_10_NC_State_20251116_1763309498624%2F~psid=d54d02ab-618d-45ea-8b4e-9d057c12ef6a~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=edfe530bc82c5a3744a834308898950ec5e8d30275f0d90ad045b3da198572dd/clt1/va02/disneyplus/event/2025/11/16/17_TCU_vs_10_NC_State_20251116_1763309498624/ctr-all-hdri-complete.m3u8?v=1&hash=5130c68da9da4257284f272340983a7f45ec84ca",
-    "k1": "57f61801b25e415e84fa42c4459a8099",
-    "k2": "f110f30522aaf30e4438a4cd5fdd038b"
   },
   {
     "title": "UConn vs. Harvard (Second Round)",
@@ -697,6 +681,16 @@
     "img": "2127743a-2f39-4206-a4a6-d0a67f1b7535",
     "nombre": "disney00d7f7",
     "status": "21:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Miami vs. #10 Florida",
+    "league": "Básquetbol Masculino NCAA",
+    "fecha-evento": "2025-11-16T20:30:00-05:00",
+    "img": "9ef52384-199a-4b06-b878-306265e86620",
+    "nombre": "disney4724c8",
+    "status": "20:30",
     "duration": 135,
     "play_url": ""
   }
