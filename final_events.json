@@ -108,19 +108,6 @@
     "k2": "d02d2c83bf540bdc007136dd32a3a416"
   },
   {
-    "title": "Western Michigan vs. Evansville (Championship)",
-    "league": "Fútbol Masculino NCAA",
-    "fecha-evento": "2025-11-15T19:00:19-05:00",
-    "img": "019a7b83-49dd-79ee-b87e-10461be90355",
-    "nombre": "disney8e8405",
-    "status": "19:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/0ae888aa-ef78-462d-878b-78b95fc50b52",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1763339094~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F16%2FWestern_Michigan_vs_Evans_20251116_1763244024041%2F~psid=3817796e-e8eb-4049-8206-ceecef8e9de3~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=3237f50dd439dad7ab0e09fd7969ab9756672a7b2ad3458bda61335c46d472b1/clt1/va02/disneyplus/event/2025/11/16/Western_Michigan_vs_Evans_20251116_1763244024041/ctr-all-hdri-complete.m3u8?v=1&hash=805728ae55807ee0dd4136b46389cac2cce5236c",
-    "k1": "c6f5ccab338d43a298c56a88cb3e7db2",
-    "k2": "99560f5dadb332c3d0eecdef28a52f1d"
-  },
-  {
     "title": "New Jersey Devils vs. Washington Capitals",
     "league": "National Hockey League",
     "fecha-evento": "2025-11-15T19:00:19-05:00",
@@ -353,16 +340,6 @@
     "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1763344967~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F16%2FSpokane_Zephyr_vs_Dallas__20251116_1763251254039%2F~psid=0c263e61-fe81-47ce-8f90-bdb703cd1347~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=03c0d6f89717843b9d122e3d95dd7ecc3305cdac286411b0e7f1533bb1b3c997/clt1/va02/disneyplus/event/2025/11/16/Spokane_Zephyr_vs_Dallas__20251116_1763251254039/ctr-all-hdri-complete.m3u8?v=1&hash=8e64e49463c758eabefea52d9c72b2619a2f5f7d",
     "k1": "e744fd9ff5ff4408be7ac8af804e942b",
     "k2": "90e0f42e3063f62c5ab69197fc00480f"
-  },
-  {
-    "title": "New York Islanders vs. Colorado Avalanche",
-    "league": "National Hockey League",
-    "fecha-evento": "2025-11-16T21:00:00-05:00",
-    "img": "2127743a-2f39-4206-a4a6-d0a67f1b7535",
-    "nombre": "disney00d7f7",
-    "status": "21:00",
-    "duration": 135,
-    "play_url": ""
   },
   {
     "title": "San Jose Sharks vs. Seattle Kraken",
@@ -691,6 +668,26 @@
     "img": "019a4a23-a5fd-7e0b-ac01-1dd3f75a6c54",
     "nombre": "disneyf50769",
     "status": "11:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "MotoGP  2025 - Premiación",
+    "league": "MotoGP",
+    "fecha-evento": "2025-11-16T11:55:00-05:00",
+    "img": "987e94e1-2932-4ab6-992d-22b501549676",
+    "nombre": "disney0e26df",
+    "status": "11:55",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "2025 Nitto ATP Finals (Final)",
+    "league": "ATP",
+    "fecha-evento": "2025-11-16T12:00:00-05:00",
+    "img": "019a89b0-0bdd-7dbf-b3a9-89db01545cb6",
+    "nombre": "disneycee490",
+    "status": "12:00",
     "duration": 135,
     "play_url": ""
   }
