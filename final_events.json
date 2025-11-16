@@ -26,19 +26,6 @@
     "k2": "4c66b48b90aabd72f85597659b80caef"
   },
   {
-    "title": "Copa Potrero | Cancha #3",
-    "league": "Argentine Copa Potrero",
-    "fecha-evento": "2025-11-16T07:30:02-05:00",
-    "img": "019a8cfa-4525-7eff-b72a-268883fe1210",
-    "nombre": "disney3bcfc9",
-    "status": "07:30",
-    "duration": 225,
-    "play_url": "https://www.disneyplus.com/es-es/play/689ed0f9-69d0-44a0-ab96-b297351cb3ac",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1763391739~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F16%2FCopa_Potrero_Cancha_3_20251116_1763289044042%2F~psid=f22296b9-866c-4024-ae07-5ffbf9903b56~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=0016aa895b9f4ea7643fc50cee151b4e6250b382caf48d82ea4731f00105e475/clt1/va02/disneyplus/event/2025/11/16/Copa_Potrero_Cancha_3_20251116_1763289044042/ctr-all-hdri-complete.m3u8?v=1&hash=4615dc6bf32eb62fa90801801335c5fbef561e6e",
-    "k1": "eb0ff95cb21b4e608d340678a999b356",
-    "k2": "a7655e90de3dd184f0d102d0fc508433"
-  },
-  {
     "title": "Premier Padel: Dubai - Centre Court (Finales)",
     "league": "Premier Padel",
     "fecha-evento": "2025-11-16T09:00:02-05:00",
@@ -60,19 +47,6 @@
     "status": "09:00",
     "duration": 210,
     "play_url": "https://www.disneyplus.com/es-es/play/1f2207af-23a7-43bf-9d60-85578101d743"
-  },
-  {
-    "title": "Tottenham Hotspur vs. Arsenal",
-    "league": "English Women's Super League",
-    "fecha-evento": "2025-11-16T09:29:00-05:00",
-    "img": "019a55f3-08ca-766d-90af-b9928729af82",
-    "nombre": "disney2d1c10",
-    "status": "09:29",
-    "duration": 121,
-    "play_url": "https://www.disneyplus.com/es-es/play/ee6392ea-0eaa-4c5c-a671-59261f3fdd03",
-    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1763391921~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Ff25bdf06-81c9-4a7c-b128-3128d610ad17-1762951253360%2F~psid=37101e9e-6cdc-42d1-a2aa-a3c5f7a77947~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=5159337b84fa31143df9c5c0e066d3d2356b142de0e5037fda9c998849568a77/clt1/va02/disneyplus/channel/f25bdf06-81c9-4a7c-b128-3128d610ad17-1762951253360/ctr-all-sliding-alt1.m3u8?v=1&hash=57a1e5c4737768952c5164be5d4f5ba525d47674",
-    "k1": "0dda5bf6bd334373908be014b0adfccc",
-    "k2": "10c14298220f3f9810f929bd8846ca85"
   },
   {
     "title": "Escocia vs. Argentina",
@@ -127,18 +101,24 @@
     "img": "019a8d1d-d6df-775f-9fe6-574c147db548",
     "nombre": "disney7ee146",
     "status": "11:30",
-    "duration": 135,
-    "play_url": ""
+    "duration": 300,
+    "play_url": "https://www.disneyplus.com/es-es/play/4806d8e5-2068-4a74-aaa9-b4fade9123e7",
+    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1763397739~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Fbbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1762950822680%2F~psid=5ce5fca0-130f-461f-b1ad-2deb5bd64de3~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=b43e18552dc0d02f242487d1b92cb680870cd6624ec83305e93db28694694a1f/clt1/va02/disneyplus/channel/bbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1762950822680/ctr-all-sliding-alt1.m3u8?v=1&hash=2204dc483842bd9152836a99fc823b0b9e410a70",
+    "k1": "592a149c1c274dcd8835287329d6892b",
+    "k2": "50bc59a434dbf0a5e4bf1d05ebe2ecf0"
   },
   {
     "title": "Ducilo vs. Ciudad de Buenos Aires (Cuartos de Final)",
     "league": "Torneo Metropolitano de Hockey Masculino",
-    "fecha-evento": "2025-11-16T11:30:00-05:00",
+    "fecha-evento": "2025-11-16T11:30:05-05:00",
     "img": "019a783c-7273-7f38-9dac-a8dd387091ee",
-    "nombre": "disney84ed9a",
+    "nombre": "disney67ed40",
     "status": "11:30",
     "duration": 135,
-    "play_url": ""
+    "play_url": "https://www.disneyplus.com/es-es/play/5e43a4e9-db7a-47e0-978c-c50b9f975f04",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1763397764~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F16%2FDucilo_vs_Ciudad_de_Bueno_20251116_1763303446042%2F~psid=98a9ffa9-29ae-4657-9960-545896a95b6a~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=124e850aa4e7b7f0e2cb93adff9514d70192ccc5d5b196e4cafd8f124e49e521/clt1/va02/disneyplus/event/2025/11/16/Ducilo_vs_Ciudad_de_Bueno_20251116_1763303446042/ctr-all-hdri-complete.m3u8?v=1&hash=1f4b231d10c70b8263c92d3ece32bbc5379ea2ea",
+    "k1": "7139a0eaf9c14841af27b833d0c990f2",
+    "k2": "b491abe315465f50258d002f74c91b02"
   },
   {
     "title": "Azerbaiyán vs. France",
@@ -637,6 +617,26 @@
     "img": "019a740b-53db-70a7-8519-f04d92154edf",
     "nombre": "disney522c20",
     "status": "17:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Central Córdoba vs. Banfield",
+    "league": "Liga Profesional de Fútbol",
+    "fecha-evento": "2025-11-16T18:00:00-05:00",
+    "img": "019a78b2-14d1-73f1-963f-59b04938769a",
+    "nombre": "disneydc9e06",
+    "status": "18:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Mount St. Mary's vs. Cincinnati",
+    "league": "Básquetbol Masculino NCAA",
+    "fecha-evento": "2025-11-16T18:00:00-05:00",
+    "img": "019a36f1-9fc5-785b-9f92-fc6f87dd66d1",
+    "nombre": "disneya2fb5a",
+    "status": "18:00",
     "duration": 135,
     "play_url": ""
   }
