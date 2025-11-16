@@ -26,19 +26,6 @@
     "k2": "202d2ba39f419187f78798013087e3cd"
   },
   {
-    "title": "BKFC 84 | Josh Dyer vs. Lorenzo Hunt",
-    "league": "Bare Knuckle Fighting Championship",
-    "fecha-evento": "2025-11-15T21:00:00-05:00",
-    "img": "019a4545-18bc-7782-a123-ab868a6b106d",
-    "nombre": "disney42c048",
-    "status": "21:00",
-    "duration": 240,
-    "play_url": "https://www.disneyplus.com/es-es/play/159ae494-ec83-4baa-b0f9-107cbb50b0da",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1763344941~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F16%2FBKFC_84_Josh_Dyer_vs_Lore_20251116_1763251240041%2F~psid=26814e3f-6807-4f37-a828-dbc5ee7edc6f~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=67b0abe59697d91a2af7eb0f0de346fde3d054dc9bd0a89a43a5dbb2c0ce103f/clt1/va02/disneyplus/event/2025/11/16/BKFC_84_Josh_Dyer_vs_Lore_20251116_1763251240041/ctr-all-hdri-complete.m3u8?v=1&hash=d1116c55405964cffb3d769e4461defa27cea45d",
-    "k1": "3551c29f5cd54afab0f73f795ae46628",
-    "k2": "2ede24dbf9f1dea91248289b0916fac5"
-  },
-  {
     "title": "San Jose Sharks vs. Seattle Kraken",
     "league": "National Hockey League",
     "fecha-evento": "2025-11-15T22:00:09-05:00",
@@ -50,19 +37,6 @@
     "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1763349717~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F16%2FSan_Jose_Sharks_vs_Seattl_20251116_1763256999966%2F~psid=5cc014cd-9b7a-4738-a5a0-5c16e97a328e~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=85990611150f70a85715e9adb973638289f48ba23bebd2ef923177f8763294bd/clt1/va02/disneyplus/event/2025/11/16/San_Jose_Sharks_vs_Seattl_20251116_1763256999966/ctr-all-hdri-complete.m3u8?v=1&hash=fae62153e3901a365bb106686718adb32fbdebd5",
     "k1": "cf79696321f44af3ab438685d054a57d",
     "k2": "260a2650227dc7b94914ec6bdf112f4a"
-  },
-  {
-    "title": "Winnipeg Jets vs. Calgary Flames",
-    "league": "National Hockey League",
-    "fecha-evento": "2025-11-15T22:02:06-05:00",
-    "img": "db5ee9db-4ae5-46ef-a564-1b13be0add56",
-    "nombre": "disney59f960",
-    "status": "22:02",
-    "duration": 208,
-    "play_url": "https://www.disneyplus.com/es-es/play/b3cfa8ed-15c1-4301-ad0a-d40a046da918",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1763349742~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F16%2FWinnipeg_Jets_vs_Calgary__20251116_1763254841036%2F~psid=fdfd3285-e72a-4bba-9ed2-a8b249f2c117~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=65afa0c79270c0895d760afc37c6b25553f7a346368148638c2e569e6ab3924e/clt1/va02/disneyplus/event/2025/11/16/Winnipeg_Jets_vs_Calgary__20251116_1763254841036/ctr-all-hdri-complete.m3u8?v=1&hash=5d42a8f828af8c33ee6286789162b4be69c7c9e9",
-    "k1": "4713edb9643b4b5e8619cac1fb5b3ea1",
-    "k2": "203544db7893dc7b2abb67fbf063f676"
   },
   {
     "title": "TCU vs. #12 BYU",
@@ -637,6 +611,26 @@
     "img": "019a8082-9a58-73c7-94f5-c04296a8a65d",
     "nombre": "disneyafde81",
     "status": "14:20",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Italy vs. Noruega",
+    "league": "Eliminatorias UEFA",
+    "fecha-evento": "2025-11-16T14:30:00-05:00",
+    "img": "019a4a25-00cd-7fb0-ad22-c1467ba6b034",
+    "nombre": "disney8f77f4",
+    "status": "14:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Israel vs. Moldova",
+    "league": "Eliminatorias UEFA",
+    "fecha-evento": "2025-11-16T14:35:00-05:00",
+    "img": "019a4a7c-de7c-7094-9238-1b2024390104",
+    "nombre": "disney01f75f",
+    "status": "14:35",
     "duration": 135,
     "play_url": ""
   }
