@@ -13,19 +13,6 @@
     "k2": "e30bb1a63ba26f88c8b24a37a48d414b"
   },
   {
-    "title": "Mississippi State vs. Missouri",
-    "league": "Fútbol Americano NCAA",
-    "fecha-evento": "2025-11-15T19:45:00-05:00",
-    "img": "8eb1beb3-3c37-488d-a3e1-79e04b98da87",
-    "nombre": "disney91e7ef",
-    "status": "19:45",
-    "duration": 195,
-    "play_url": "https://www.disneyplus.com/es-es/play/0526a737-79ec-426b-8acc-c3ba8e3112ff",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1763341391~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F16%2FMississippi_State_vs_Miss_20251116_1763246723038%2F~psid=c1cd7919-68c0-42f5-957c-e43f1db758ba~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=2188c8b7fa2ab35c0fd6effef1500158bc4616eeb72c92a9c71c9db311b99750/clt1/va02/disneyplus/event/2025/11/16/Mississippi_State_vs_Miss_20251116_1763246723038/ctr-all-hdri-complete.m3u8?v=1&hash=879df9976acb7655300c961dee301eb566d4a55c",
-    "k1": "eb2326adaab04a54bee4cd61a073b5e4",
-    "k2": "23a541b8690951f9ff12ba5893f41a08"
-  },
-  {
     "title": "Rafael Espinoza vs. Arnold Khegai  | ESPN KO",
     "league": "ESPN",
     "fecha-evento": "2025-11-15T20:00:00-05:00",
@@ -37,19 +24,6 @@
     "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1763341469~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F921e1311-bb26-43dd-84a6-9e2284959712-1762950465141%2F~psid=a150bf1c-d6e6-4269-abe4-4d96c83f6779~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=ab8c1617b9a9eb2ed1e3629b3c350883e47ef15ab11685857586be73683c20f2/clt1/va02/disneyplus/channel/921e1311-bb26-43dd-84a6-9e2284959712-1762950465141/ctr-all-sliding-alt1.m3u8?v=1&hash=03915bf69f19826611ecdeecc79455eab40b229c",
     "k1": "4889ca09906446c29d6d5faa684c68ef",
     "k2": "202d2ba39f419187f78798013087e3cd"
-  },
-  {
-    "title": "Kennesaw State vs. Jacksonville State",
-    "league": "Fútbol Americano NCAA",
-    "fecha-evento": "2025-11-15T20:00:00-05:00",
-    "img": "1159794c-452c-4e21-bba9-3a5310e25eaf",
-    "nombre": "disneyd4da55",
-    "status": "20:00",
-    "duration": 180,
-    "play_url": "https://www.disneyplus.com/es-es/play/559ed7ae-d4e1-458b-b198-0e87ffbed4d1",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1763341495~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F16%2FKennesaw_State_vs_Jackson_20251116_1763252357418%2F~psid=29974e50-c95f-4d7c-ab15-f5a8dac185a6~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=fb28199edbc05ff93591a6e3a96ee474bcdf98b7eb3cdaeedbc2be6b3eab8ed7/clt1/va02/disneyplus/event/2025/11/16/Kennesaw_State_vs_Jackson_20251116_1763252357418/ctr-all-hdri-complete.m3u8?v=1&hash=0f35d6b1605a08bd8e49962074adbbc324fb1674",
-    "k1": "ea63b15950604e62be448013067198c3",
-    "k2": "6301a86e06e471db4789af6e13ff62ac"
   },
   {
     "title": "Houston Christian vs. Lindenwood (Championship)",
@@ -645,6 +619,26 @@
     "fecha-evento": "2025-11-16T14:00:00-05:00",
     "img": "019a7989-7445-7399-b199-b8ba25315af7",
     "nombre": "disney858fce",
+    "status": "14:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "#18 UNC Greensboro vs. #12 Furman (Championship)",
+    "league": "Fútbol Masculino NCAA",
+    "fecha-evento": "2025-11-16T14:00:00-05:00",
+    "img": "81eb58e2-5a2c-4e23-a202-941738144262",
+    "nombre": "disney2c7085",
+    "status": "14:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "ESPN Tenis | ATP Finals",
+    "league": "ESPN",
+    "fecha-evento": "2025-11-16T14:00:00-05:00",
+    "img": "f4810769-baac-49be-84aa-fc46b0fdb6ee",
+    "nombre": "disneybe49a2",
     "status": "14:00",
     "duration": 135,
     "play_url": ""
