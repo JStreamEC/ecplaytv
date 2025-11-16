@@ -123,12 +123,15 @@
   {
     "title": "Azerbaiyán vs. France",
     "league": "Eliminatorias UEFA",
-    "fecha-evento": "2025-11-16T11:40:00-05:00",
+    "fecha-evento": "2025-11-16T11:40:03-05:00",
     "img": "019a4a23-832a-799a-a212-34a8f0de823b",
-    "nombre": "disneyaef9fe",
+    "nombre": "disney8b0640",
     "status": "11:40",
     "duration": 135,
-    "play_url": ""
+    "play_url": "https://www.disneyplus.com/es-es/play/319e883a-4e6c-44cf-84d6-3a67e261d5de",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1763398940~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F16%2FAzerbaiyn_vs_France_20251116_1763304059041%2F~psid=b728bba9-7ce2-4f30-864a-454373e5bec9~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=8f0232006ad9378d54f4c6cd6f13bf27adfe66180f2feef9f902a18d3830237d/clt1/va02/disneyplus/event/2025/11/16/Azerbaiyn_vs_France_20251116_1763304059041/ctr-all-hdri-complete.m3u8?v=1&hash=ce6a5b4181cf92f48ca2a933ddeefb29c4d0db90",
+    "k1": "57d80480a4ea4a9983d8b150ef8459fb",
+    "k2": "2a4021f775382d67dab5f5b2ba058208"
   },
   {
     "title": "Albania vs. Inglaterra",
@@ -137,18 +140,11 @@
     "img": "019a4a22-5569-7c8d-91ea-ceb52bdd9ac3",
     "nombre": "disney4b9d72",
     "status": "11:45",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Ukraine vs. Iceland",
-    "league": "Eliminatorias UEFA",
-    "fecha-evento": "2025-11-16T11:50:00-05:00",
-    "img": "019a4a23-cf89-71f0-967e-072103ea8deb",
-    "nombre": "disneye53c68",
-    "status": "11:50",
-    "duration": 135,
-    "play_url": ""
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/d0601c92-1316-42d6-adad-a597f7bd62ff",
+    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1763398965~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F921e1311-bb26-43dd-84a6-9e2284959712-1762950465141%2F~psid=c376c3be-0c04-406e-8c6a-22727632b056~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=5225bc0c05f0849ab64a891702509be0fb26124388304786f846e71d8cacdcd3/clt1/va02/disneyplus/channel/921e1311-bb26-43dd-84a6-9e2284959712-1762950465141/ctr-all-sliding-alt1.m3u8?v=1&hash=03915bf69f19826611ecdeecc79455eab40b229c",
+    "k1": "4ef080ee63ab487da9593c952316122b",
+    "k2": "12b6e3106a1c7172151f0af62561bbb7"
   },
   {
     "title": "Serbia vs. Latvia",
@@ -157,8 +153,24 @@
     "img": "019a4a23-a5fd-7e0b-ac01-1dd3f75a6c54",
     "nombre": "disneyf50769",
     "status": "11:50",
-    "duration": 135,
-    "play_url": ""
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/22bc84cd-24c1-46dc-a1d6-aa44b6e02790",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1763398991~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F16%2FSerbia_vs_Latvia_20251116_1763304612043%2F~psid=a7623e5d-8307-42ae-a3c3-ea70da4c111d~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=df4789d4c12350b7fb3ed220fd3a3124a3e10106e44b2e03b73893c36bff6c19/clt1/va02/disneyplus/event/2025/11/16/Serbia_vs_Latvia_20251116_1763304612043/ctr-all-hdri-complete.m3u8?v=1&hash=bb5d8b08e6ee73390cfe29032f4eb0cb43ddc735",
+    "k1": "0ad6af9368bb4c5288f76903ee686fa2",
+    "k2": "a002f944fd4bfe99caa6949bf17cd473"
+  },
+  {
+    "title": "Ukraine vs. Iceland",
+    "league": "Eliminatorias UEFA",
+    "fecha-evento": "2025-11-16T11:50:01-05:00",
+    "img": "019a4a23-cf89-71f0-967e-072103ea8deb",
+    "nombre": "disney83248f",
+    "status": "11:50",
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/6f933d98-4e87-41c4-8177-cd71c99b2956",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1763399015~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F16%2FUkraine_vs_Iceland_20251116_1763305745356%2F~psid=a4d2facb-cdeb-4de1-b1c9-a2d3d4729722~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=41b67aed7c71d22cd42e795270a5e199f08a3f532c99f11aead74daadd578b02/clt1/va02/disneyplus/event/2025/11/16/Ukraine_vs_Iceland_20251116_1763305745356/ctr-all-hdri-complete.m3u8?v=1&hash=2db7f2df0e9be9dd5c9a8943b3c2f9d589aab253",
+    "k1": "0baaac99de714987ba547808bc8e88f3",
+    "k2": "059db0af262bf9ae27ba49323ce9467a"
   },
   {
     "title": "MotoGP  2025 - Premiación",
@@ -167,8 +179,11 @@
     "img": "987e94e1-2932-4ab6-992d-22b501549676",
     "nombre": "disney0e26df",
     "status": "11:55",
-    "duration": 135,
-    "play_url": ""
+    "duration": 95,
+    "play_url": "https://www.disneyplus.com/es-es/play/17dc13c6-c106-4df1-bcb6-5df6c739383a",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1763399041~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F16%2FMotoGP_2025_Premiacin_20251116_1763304934043%2F~psid=4369b0f5-7118-4f2b-8fd5-3f8ed520d8a2~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=938c57317f34dd9735efe1b27f8f63b837d2d776336477469e0977544be2d662/clt1/va02/disneyplus/event/2025/11/16/MotoGP_2025_Premiacin_20251116_1763304934043/ctr-all-hdri-complete.m3u8?v=1&hash=5e9e79ea89831194aa0ff86490cada776a799827",
+    "k1": "0d8e9128c82744fd9b4e01cb4988b5cb",
+    "k2": "a8695262fc3030fa919563f3eb1e63f1"
   },
   {
     "title": "Carlos Alcaraz (ESP) vs. Jannik Sinner (ITA) (Final)",
