@@ -205,6 +205,19 @@
     "img": "fabb64be-8d6d-40ae-b027-61ebf10587c5",
     "nombre": "disneyc55c6b",
     "status": "19:37",
+    "duration": 203,
+    "play_url": "https://www.disneyplus.com/es-es/play/03339db9-450e-40cd-a9b7-3b5c7cad6cb4",
+    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1763340139~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Fec26a05e-a9cc-4db4-804e-77465738e667-1762950455142%2F~psid=22d41ff9-64ac-4d70-be6a-d318baf7472b~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=db77ed73600569dd35d722b65c7e838f697d20a3cbf720adf0a4d89a2c5f28ee/clt1/va02/disneyplus/channel/ec26a05e-a9cc-4db4-804e-77465738e667-1762950455142/ctr-all-sliding-alt1.m3u8?v=1&hash=e2faf4444722e1f805096ad7b7489a5d09f9944f",
+    "k1": "cf58d9b697ef498ca79dde935a04457a",
+    "k2": "cf60d7127fdbb496048d58e2cc1a4e6c"
+  },
+  {
+    "title": "Vegas Golden Knights vs. St. Louis Blues",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-11-15T20:00:00-05:00",
+    "img": "019a4b87-a184-78a5-bce8-b8fd89dd7dd8",
+    "nombre": "disney4e7e63",
+    "status": "20:00",
     "duration": 135,
     "play_url": ""
   },
@@ -221,32 +234,28 @@
   {
     "title": "Fort Lauderdale United vs. Tampa Bay Sun",
     "league": "USL Super League",
-    "fecha-evento": "2025-11-15T19:30:00-05:00",
+    "fecha-evento": "2025-11-15T19:30:33-05:00",
     "img": "019a5afa-ef9b-7f26-96a7-9eb6bdcbfa58",
-    "nombre": "disney0d31f5",
+    "nombre": "disney4bf1f9",
     "status": "19:30",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Vegas Golden Knights vs. St. Louis Blues",
-    "league": "National Hockey League",
-    "fecha-evento": "2025-11-15T20:00:00-05:00",
-    "img": "019a4b87-a184-78a5-bce8-b8fd89dd7dd8",
-    "nombre": "disney4e7e63",
-    "status": "20:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 119,
+    "play_url": "https://www.disneyplus.com/es-es/play/454ac4bd-1d26-43f0-8444-1cea8d732bc7",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1763340165~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F16%2FFort_Lauderdale_United_vs_20251116_1763245835039%2F~psid=9d7c2b05-8f25-40e2-bb60-4debc065f744~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=f940f6e501e62152779cde34f509faf0c26db93dd37ce5234b1594308da0de88/clt1/va02/disneyplus/event/2025/11/16/Fort_Lauderdale_United_vs_20251116_1763245835039/ctr-all-hdri-complete.m3u8?v=1&hash=9bb5a0ca9536bee2197254cb2cae11e8603777e6",
+    "k1": "1227d39fb3ce438ba1ac1d3b7d63cb19",
+    "k2": "8a85795dff6a1462f6fc391fe1819a56"
   },
   {
     "title": "Virginia Tech vs. Florida State",
     "league": "Fútbol Americano NCAA",
-    "fecha-evento": "2025-11-15T19:30:00-05:00",
+    "fecha-evento": "2025-11-15T19:31:08-05:00",
     "img": "bf439ad4-093c-4f37-96f2-268f0fa27d03",
-    "nombre": "disney24c69c",
-    "status": "19:30",
-    "duration": 135,
-    "play_url": ""
+    "nombre": "disney9ee9df",
+    "status": "19:31",
+    "duration": 179,
+    "play_url": "https://www.disneyplus.com/es-es/play/a83fd9e2-4af7-4d58-a93d-cbd1d6d1c7b6",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1763340190~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F16%2FVirginia_Tech_vs_Florida__20251116_1763245850038%2F~psid=37bc1bd1-0be4-450b-94e5-058954408f09~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=16bd2986c13770b07c9db0f850c2f718f1d91a4d139e03ef5ca9f55bab5c3f7b/clt1/va02/disneyplus/event/2025/11/16/Virginia_Tech_vs_Florida__20251116_1763245850038/ctr-all-hdri-complete.m3u8?v=1&hash=4f61bfd5dbc5ed1db093d47542af8e44a168235b",
+    "k1": "759de6e5bac44450b73954087b4ac3e8",
+    "k2": "939f5a007fbe756339b69d4d186b25ae"
   },
   {
     "title": "Mississippi State vs. Missouri",
