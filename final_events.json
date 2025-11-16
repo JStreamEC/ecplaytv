@@ -147,19 +147,6 @@
     "k2": "a7598d9cb276fba1eed57be9bb08241b"
   },
   {
-    "title": "Independiente vs. Rosario Central",
-    "league": "Liga Profesional de Fútbol",
-    "fecha-evento": "2025-11-15T19:15:02-05:00",
-    "img": "019a7890-e1ca-74cc-bbd5-1ea467a8808d",
-    "nombre": "disney9c604e",
-    "status": "19:15",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/bd6de3f4-0699-44de-a196-f9409ee3b959",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1763339196~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F16%2FIndependiente_vs_Rosario__20251116_1763244922030%2F~psid=08475257-08d1-4a5a-a754-84b4207c4e91~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=b07e6345b4e1383121028c1921374d6400eabce86bce5b1a08a5aa17ccd381f2/clt1/va02/disneyplus/event/2025/11/16/Independiente_vs_Rosario__20251116_1763244922030/ctr-all-hdri-complete.m3u8?v=1&hash=e51fff91964d3afee9b3b7be9955261b468a5c22",
-    "k1": "21e0918392a94c03bef28690734991b0",
-    "k2": "29e861e4373de454ef61f318f4fc2370"
-  },
-  {
     "title": "En Español-#10 Texas vs. #5 Georgia",
     "league": "Fútbol Americano NCAA",
     "fecha-evento": "2025-11-15T19:37:00-05:00",
@@ -682,11 +669,21 @@
     "play_url": ""
   },
   {
-    "title": "2025 Nitto ATP Finals (Final)",
+    "title": "Carlos Alcaraz (ESP) vs. Jannik Sinner (ITA) (Final)",
     "league": "ATP",
     "fecha-evento": "2025-11-16T12:00:00-05:00",
-    "img": "019a89b0-0bdd-7dbf-b3a9-89db01545cb6",
-    "nombre": "disneycee490",
+    "img": "019a89b0-0c40-7cec-860b-64a386e342b8",
+    "nombre": "disneyc737df",
+    "status": "12:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "UConn vs. #15 Georgetown (Championship)",
+    "league": "Fútbol Masculino NCAA",
+    "fecha-evento": "2025-11-16T12:00:00-05:00",
+    "img": "dbb1c8fe-a441-44b8-8f79-cd210ebb8f6a",
+    "nombre": "disneyec02c7",
     "status": "12:00",
     "duration": 135,
     "play_url": ""
