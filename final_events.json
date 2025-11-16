@@ -72,19 +72,6 @@
     "play_url": "https://www.disneyplus.com/es-es/play/ed463b0c-7d0b-4319-b115-a0272c77b519"
   },
   {
-    "title": "Wisconsin vs. Ohio",
-    "league": "NCAA Luchas",
-    "fecha-evento": "2025-11-15T19:00:05-05:00",
-    "img": "79dccdb5-ae78-4f5d-9a66-a92bf90f5698",
-    "nombre": "disney488af0",
-    "status": "19:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/ef8663f2-efcb-45d1-a8f5-4efc64d07575",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1763338992~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F16%2FWisconsin_vs_Ohio_20251116_1763245085234%2F~psid=07edf034-ea37-46cd-808f-a57d701d2688~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=0fc2d0531e120b874430c96d2608dcba85a6d7176fa2b14852a0316e355256de/clt1/va02/disneyplus/event/2025/11/16/Wisconsin_vs_Ohio_20251116_1763245085234/ctr-all-hdri-complete.m3u8?v=1&hash=470580659dd9a46db93311bff9b197eb790302a6",
-    "k1": "ee405cdf122547dca30fd4d5bd93e674",
-    "k2": "81d3210c3bc35e36a46f5501eb6d01f6"
-  },
-  {
     "title": "Boston Bruins vs. Montreal Canadiens",
     "league": "National Hockey League",
     "fecha-evento": "2025-11-15T19:00:16-05:00",
@@ -277,19 +264,6 @@
     "k2": "d2f2775bba20c3cd18d1d6f2e4fd72f9"
   },
   {
-    "title": "Kennesaw State vs. Jacksonville State",
-    "league": "Fútbol Americano NCAA",
-    "fecha-evento": "2025-11-15T20:00:00-05:00",
-    "img": "1159794c-452c-4e21-bba9-3a5310e25eaf",
-    "nombre": "disneyd4da55",
-    "status": "20:00",
-    "duration": 180,
-    "play_url": "https://www.disneyplus.com/es-es/play/559ed7ae-d4e1-458b-b198-0e87ffbed4d1",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1763341495~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F16%2FKennesaw_State_vs_Jackson_20251116_1763252357418%2F~psid=29974e50-c95f-4d7c-ab15-f5a8dac185a6~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=fb28199edbc05ff93591a6e3a96ee474bcdf98b7eb3cdaeedbc2be6b3eab8ed7/clt1/va02/disneyplus/event/2025/11/16/Kennesaw_State_vs_Jackson_20251116_1763252357418/ctr-all-hdri-complete.m3u8?v=1&hash=0f35d6b1605a08bd8e49962074adbbc324fb1674",
-    "k1": "ea63b15950604e62be448013067198c3",
-    "k2": "6301a86e06e471db4789af6e13ff62ac"
-  },
-  {
     "title": "Rafael Espinoza vs. Arnold Khegai  | ESPN KO",
     "league": "ESPN",
     "fecha-evento": "2025-11-15T20:00:00-05:00",
@@ -301,6 +275,19 @@
     "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1763341469~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F921e1311-bb26-43dd-84a6-9e2284959712-1762950465141%2F~psid=a150bf1c-d6e6-4269-abe4-4d96c83f6779~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=ab8c1617b9a9eb2ed1e3629b3c350883e47ef15ab11685857586be73683c20f2/clt1/va02/disneyplus/channel/921e1311-bb26-43dd-84a6-9e2284959712-1762950465141/ctr-all-sliding-alt1.m3u8?v=1&hash=03915bf69f19826611ecdeecc79455eab40b229c",
     "k1": "4889ca09906446c29d6d5faa684c68ef",
     "k2": "202d2ba39f419187f78798013087e3cd"
+  },
+  {
+    "title": "Kennesaw State vs. Jacksonville State",
+    "league": "Fútbol Americano NCAA",
+    "fecha-evento": "2025-11-15T20:00:00-05:00",
+    "img": "1159794c-452c-4e21-bba9-3a5310e25eaf",
+    "nombre": "disneyd4da55",
+    "status": "20:00",
+    "duration": 180,
+    "play_url": "https://www.disneyplus.com/es-es/play/559ed7ae-d4e1-458b-b198-0e87ffbed4d1",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1763341495~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F16%2FKennesaw_State_vs_Jackson_20251116_1763252357418%2F~psid=29974e50-c95f-4d7c-ab15-f5a8dac185a6~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=fb28199edbc05ff93591a6e3a96ee474bcdf98b7eb3cdaeedbc2be6b3eab8ed7/clt1/va02/disneyplus/event/2025/11/16/Kennesaw_State_vs_Jackson_20251116_1763252357418/ctr-all-hdri-complete.m3u8?v=1&hash=0f35d6b1605a08bd8e49962074adbbc324fb1674",
+    "k1": "ea63b15950604e62be448013067198c3",
+    "k2": "6301a86e06e471db4789af6e13ff62ac"
   },
   {
     "title": "Philadelphia Flyers vs. Dallas Stars",
@@ -348,8 +335,11 @@
     "img": "019a4545-18bc-7782-a123-ab868a6b106d",
     "nombre": "disney42c048",
     "status": "21:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 240,
+    "play_url": "https://www.disneyplus.com/es-es/play/159ae494-ec83-4baa-b0f9-107cbb50b0da",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1763344941~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F16%2FBKFC_84_Josh_Dyer_vs_Lore_20251116_1763251240041%2F~psid=26814e3f-6807-4f37-a828-dbc5ee7edc6f~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=67b0abe59697d91a2af7eb0f0de346fde3d054dc9bd0a89a43a5dbb2c0ce103f/clt1/va02/disneyplus/event/2025/11/16/BKFC_84_Josh_Dyer_vs_Lore_20251116_1763251240041/ctr-all-hdri-complete.m3u8?v=1&hash=d1116c55405964cffb3d769e4461defa27cea45d",
+    "k1": "3551c29f5cd54afab0f73f795ae46628",
+    "k2": "2ede24dbf9f1dea91248289b0916fac5"
   },
   {
     "title": "Spokane Zephyr vs. Dallas Trinity",
@@ -358,8 +348,11 @@
     "img": "5046ba82-4624-4d75-a556-c1294cb72bc4",
     "nombre": "disneyc57bda",
     "status": "21:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/5a678d0b-ad2c-4484-aef7-614a9d24f1ad",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1763344967~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F16%2FSpokane_Zephyr_vs_Dallas__20251116_1763251254039%2F~psid=0c263e61-fe81-47ce-8f90-bdb703cd1347~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=03c0d6f89717843b9d122e3d95dd7ecc3305cdac286411b0e7f1533bb1b3c997/clt1/va02/disneyplus/event/2025/11/16/Spokane_Zephyr_vs_Dallas__20251116_1763251254039/ctr-all-hdri-complete.m3u8?v=1&hash=8e64e49463c758eabefea52d9c72b2619a2f5f7d",
+    "k1": "e744fd9ff5ff4408be7ac8af804e942b",
+    "k2": "90e0f42e3063f62c5ab69197fc00480f"
   },
   {
     "title": "New York Islanders vs. Colorado Avalanche",
@@ -687,6 +680,16 @@
     "fecha-evento": "2025-11-16T11:50:00-05:00",
     "img": "019a803f-198e-758a-abc1-550f173eebbb",
     "nombre": "disneycd17c2",
+    "status": "11:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Serbia vs. Latvia",
+    "league": "Eliminatorias UEFA",
+    "fecha-evento": "2025-11-16T11:50:00-05:00",
+    "img": "019a4a23-a5fd-7e0b-ac01-1dd3f75a6c54",
+    "nombre": "disneyf50769",
     "status": "11:50",
     "duration": 135,
     "play_url": ""
