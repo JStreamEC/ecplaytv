@@ -228,16 +228,6 @@
     "play_url": "https://www.disneyplus.com/es-es/play/ae8557de-8252-495e-bca0-e1889d21807a"
   },
   {
-    "title": "Edmonton Oilers vs. Carolina Hurricanes",
-    "league": "National Hockey League",
-    "fecha-evento": "2025-11-15T19:00:00-05:00",
-    "img": "96b5e2dc-85f6-4a71-b4bf-a8a4d31906ca",
-    "nombre": "disney7d744e",
-    "status": "19:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "New York Rangers vs. Columbus Blue Jackets",
     "league": "National Hockey League",
     "fecha-evento": "2025-11-15T19:00:00-05:00",
@@ -283,12 +273,15 @@
   {
     "title": "Toronto Maple Leafs vs. Chicago Blackhawks",
     "league": "National Hockey League",
-    "fecha-evento": "2025-11-15T19:00:00-05:00",
+    "fecha-evento": "2025-11-15T18:58:15-05:00",
     "img": "912cda70-bac7-4bc7-85e3-4d394a673c54",
-    "nombre": "disney18e98f",
-    "status": "19:00",
-    "duration": 135,
-    "play_url": ""
+    "nombre": "disneyd6c299",
+    "status": "18:58",
+    "duration": 212,
+    "play_url": "https://www.disneyplus.com/es-es/play/4bff2a26-90e7-43f2-a3fc-9bd890314220",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1763337718~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F16%2FToronto_Maple_Leafs_vs_Ch_20251116_1763244049540%2F~psid=f3a51b37-8cbd-48db-8500-43d1415bfc01~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=3be615161f232db6481623969c2d51cdf7125c3ead6ea4b4c71c711316e44ad4/clt1/va02/disneyplus/event/2025/11/16/Toronto_Maple_Leafs_vs_Ch_20251116_1763244049540/ctr-all-hdri-complete.m3u8?v=1&hash=41410855287178775cb08203cfa44c11385ebb26",
+    "k1": "f7018a5f7c3a4769ab3149fdb1dfd4c6",
+    "k2": "3ac2c788ff18ba68dbcc62fbb1f96028"
   },
   {
     "title": "Los Angeles Kings vs. Ottawa Senators",
@@ -296,6 +289,16 @@
     "fecha-evento": "2025-11-15T19:00:00-05:00",
     "img": "019a4b87-b80d-7ff4-979a-6fb97c1e894f",
     "nombre": "disneyd165b6",
+    "status": "19:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Edmonton Oilers vs. Carolina Hurricanes",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-11-15T19:00:00-05:00",
+    "img": "96b5e2dc-85f6-4a71-b4bf-a8a4d31906ca",
+    "nombre": "disney7d744e",
     "status": "19:00",
     "duration": 135,
     "play_url": ""
