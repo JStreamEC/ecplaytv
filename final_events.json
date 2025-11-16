@@ -1,18 +1,5 @@
 [
   {
-    "title": "Potrero al instante",
-    "league": "Argentine Copa Potrero",
-    "fecha-evento": "2025-11-16T07:15:02-05:00",
-    "img": "019a7da1-50ce-73e7-b4eb-8bd9ee20307b",
-    "nombre": "disney28f868",
-    "status": "07:15",
-    "duration": 240,
-    "play_url": "https://www.disneyplus.com/es-es/play/0b7549a0-0b62-4d68-b700-f6d65f11abfa",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1763391623~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F16%2FPotrero_al_instante_20251116_1763288122044%2F~psid=dcba8197-4770-4b03-9b02-cb0bd4894ad6~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=25944deba8dc4276af5fd3bca40df3b71ccd31333d92613ab6258348a60e85e8/clt1/va02/disneyplus/event/2025/11/16/Potrero_al_instante_20251116_1763288122044/ctr-all-hdri-complete.m3u8?v=1&hash=bb916c862c824faff0b010b8c296b77f13f0d8ac",
-    "k1": "96a558aa42c74b6ab46a11083d636e40",
-    "k2": "26d7c7d70b01f5efbba4386bc3bed7fc"
-  },
-  {
     "title": "Copa Potrero | Cancha #4",
     "league": "Argentine Copa Potrero",
     "fecha-evento": "2025-11-16T07:15:04-05:00",
@@ -37,29 +24,6 @@
     "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1763391842~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F16%2FPremier_Padel_Dubai_Centr_20251116_1763294434031%2F~psid=047edde3-4edb-4398-9a49-93aafa7f9548~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=f33dd7566bbe8d780ccb994bb74fb6f546f071d5be3f670fc3b402b95b15f42e/clt1/va02/disneyplus/event/2025/11/16/Premier_Padel_Dubai_Centr_20251116_1763294434031/ctr-all-hdri-complete.m3u8?v=1&hash=5e07e923279cbc022790ac2753bc781c41b3f6bd",
     "k1": "19e571b60fcb4e899f6c78084f6becd8",
     "k2": "c5384e01219e871768196780d2aa56db"
-  },
-  {
-    "title": "Nashville Predators vs. Pittsburgh Penguins",
-    "league": "National Hockey League",
-    "fecha-evento": "2025-11-16T09:00:21-05:00",
-    "img": "db013c54-8344-46f5-a412-60dc9cb0647f",
-    "nombre": "disneya0826c",
-    "status": "09:00",
-    "duration": 210,
-    "play_url": "https://www.disneyplus.com/es-es/play/1f2207af-23a7-43bf-9d60-85578101d743"
-  },
-  {
-    "title": "Escocia vs. Argentina",
-    "league": "Test Matches",
-    "fecha-evento": "2025-11-16T09:25:00-05:00",
-    "img": "019a7392-2cb2-7678-a110-883f02f9311e",
-    "nombre": "disney3a887c",
-    "status": "09:25",
-    "duration": 155,
-    "play_url": "https://www.disneyplus.com/es-es/play/a30e00f2-05c9-4d5f-b4e3-4b4ac4e4b243",
-    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1763391947~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F7f9052ce-8143-43a6-9656-a8c00c4a3e56-1762950862652%2F~psid=70b1c745-fffc-47ef-b37e-9b9d8212e416~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=614e7ef36d325674d60231b48e81d284d1f6f92b7172b0ca3ea3a215e801cff7/clt1/va02/disneyplus/channel/7f9052ce-8143-43a6-9656-a8c00c4a3e56-1762950862652/ctr-all-sliding-alt1.m3u8?v=1&hash=2daf186937da77473bf07bbbecfc5597024e944f",
-    "k1": "3747032dc981421ba30e65302adcaa0b",
-    "k2": "1066c723a9d636fc8007f849c57ff442"
   },
   {
     "title": "Washington Commanders vs. Miami Dolphins",
@@ -186,54 +150,69 @@
     "k2": "a8695262fc3030fa919563f3eb1e63f1"
   },
   {
-    "title": "Carlos Alcaraz (ESP) vs. Jannik Sinner (ITA) (Final)",
-    "league": "ATP",
-    "fecha-evento": "2025-11-16T12:00:00-05:00",
-    "img": "019a89b0-0c40-7cec-860b-64a386e342b8",
-    "nombre": "disneyc737df",
-    "status": "12:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "UConn vs. #15 Georgetown (Championship)",
     "league": "Fútbol Masculino NCAA",
     "fecha-evento": "2025-11-16T12:00:00-05:00",
     "img": "dbb1c8fe-a441-44b8-8f79-cd210ebb8f6a",
     "nombre": "disneyec02c7",
     "status": "12:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/d18853e8-f1c8-4e3e-9bd6-bb2a4377a289",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1763400115~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F16%2FUConn_vs_15_Georgetown_Ch_20251116_1763305236042%2F~psid=e23f0ae3-1832-4c71-8cd4-cd076d39360e~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=cfd292296dbf2feb97b1d3e99a0a861e85d2f38cc3545e6d49b71156074d9317/clt1/va02/disneyplus/event/2025/11/16/UConn_vs_15_Georgetown_Ch_20251116_1763305236042/ctr-all-hdri-complete.m3u8?v=1&hash=a3f8a8f06b496f2d4969ce5b62221972d8ad0e47",
+    "k1": "ae78b25933c54534afd74249ed275b77",
+    "k2": "40c641aa783c175c418bccfdf18e40cf"
   },
   {
-    "title": "Siena vs. Sacred Heart (Championship)",
-    "league": "Fútbol Masculino NCAA",
+    "title": "Carlos Alcaraz (ESP) vs. Jannik Sinner (ITA) (Final)",
+    "league": "ATP",
     "fecha-evento": "2025-11-16T12:00:00-05:00",
-    "img": "691c461f-d42c-4892-ba64-c17ec124a1ca",
-    "nombre": "disney4b84e7",
+    "img": "019a89b0-0c3d-7d4d-b249-e91112f000c3",
+    "nombre": "disneyc737df",
     "status": "12:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Saint Francis (PA) vs. Fairleigh Dickinson (Championship)",
-    "league": "Fútbol Masculino NCAA",
-    "fecha-evento": "2025-11-16T12:00:00-05:00",
-    "img": "019a83c4-0bf3-70e3-9046-441715b5d7e3",
-    "nombre": "disney6f086c",
-    "status": "12:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/6f796626-bf83-45ec-a244-406298efd762",
+    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1763400140~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Ff25bdf06-81c9-4a7c-b128-3128d610ad17-1762951253360%2F~psid=10321324-85c6-4416-ab21-8b830ba6b9e0~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=99464baabd985846088fcd250e9742a6d75c80c357bb6e1550178b9f8c4df1b3/clt1/va02/disneyplus/channel/f25bdf06-81c9-4a7c-b128-3128d610ad17-1762951253360/ctr-all-sliding-alt1.m3u8?v=1&hash=57a1e5c4737768952c5164be5d4f5ba525d47674",
+    "k1": "0dda5bf6bd334373908be014b0adfccc",
+    "k2": "10c14298220f3f9810f929bd8846ca85"
   },
   {
     "title": "Carlos Alcaraz (ESP) vs. Jannik Sinner (ITA) (Final) (Augmented Reality)",
     "league": "ATP",
-    "fecha-evento": "2025-11-16T12:00:00-05:00",
+    "fecha-evento": "2025-11-16T12:00:02-05:00",
     "img": "019a89b0-0c3d-7d4d-b249-e91112f000c3",
-    "nombre": "disneyae8839",
+    "nombre": "disney2c9417",
     "status": "12:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/8c0c6dc9-c61a-4d09-ada4-7be571d3a8d4",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1763400165~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F16%2FCarlos_Alcaraz_ESP_vs_Jan_20251116_1763305238027%2F~psid=653f1533-96e5-47ac-b6c2-1569bba3c7b6~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=dd6d1ae546d5ada577754580e9997939fd65657921d107843252be4306e23300/clt1/va02/disneyplus/event/2025/11/16/Carlos_Alcaraz_ESP_vs_Jan_20251116_1763305238027/ctr-all-hdri-complete.m3u8?v=1&hash=a14726aedecc395e8fa09ad2a3903620d42f6e79",
+    "k1": "5219e9e543b34f16a29f20f598290db9",
+    "k2": "d4176c21f8a79b9ed5a236c04a59d2ba"
+  },
+  {
+    "title": "Siena vs. Sacred Heart (Championship)",
+    "league": "Fútbol Masculino NCAA",
+    "fecha-evento": "2025-11-16T12:00:05-05:00",
+    "img": "691c461f-d42c-4892-ba64-c17ec124a1ca",
+    "nombre": "disney97e26b",
+    "status": "12:00",
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/64b8d6ca-2c6e-41f5-b64e-0be421e72102",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1763400191~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F16%2FSiena_vs_Sacred_Heart_Cha_20251116_1763305253029%2F~psid=a4b02164-2a2c-4791-9129-2ffa15919fc6~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=3c0ed2dee3c6fe79e3e8b51752b6410522e669950184718d87e2bc64da5df5b2/clt1/va02/disneyplus/event/2025/11/16/Siena_vs_Sacred_Heart_Cha_20251116_1763305253029/ctr-all-hdri-complete.m3u8?v=1&hash=55f16ecb0ad003d84a6aab2afe1296682998c336",
+    "k1": "4c41c004a2c44427bf6c6ee538fa7509",
+    "k2": "1a6e3499657306736c30d84295fabc2e"
+  },
+  {
+    "title": "Saint Francis (PA) vs. Fairleigh Dickinson (Championship)",
+    "league": "Fútbol Masculino NCAA",
+    "fecha-evento": "2025-11-16T12:00:05-05:00",
+    "img": "019a83c4-0bf3-70e3-9046-441715b5d7e3",
+    "nombre": "disneyb1d67e",
+    "status": "12:00",
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/892620ce-43a5-4c85-b890-f32284380115",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1763400217~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F16%2FSaint_Francis_PA_vs_Fairl_20251116_1763305224041%2F~psid=8a937680-d1ff-4b9c-a0be-5a1da35a9518~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=26a57d81e0eaa3f2bc6b27bf9f9499ea49a2b01bbf88e58c63df864b9b808b1e/clt1/va02/disneyplus/event/2025/11/16/Saint_Francis_PA_vs_Fairl_20251116_1763305224041/ctr-all-hdri-complete.m3u8?v=1&hash=b749ed8c0da0c39c9ac95303848236c19c8ea783",
+    "k1": "9ba3b922a85a49ff9403364b2bd28764",
+    "k2": "fc7edf525db98065147d0d24b1dbdf0e"
   },
   {
     "title": "Mirandés vs. Burgos",
@@ -652,6 +631,36 @@
     "img": "019a36f1-9fc5-785b-9f92-fc6f87dd66d1",
     "nombre": "disneya2fb5a",
     "status": "18:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Boca Juniors vs. Tigre",
+    "league": "Liga Profesional de Fútbol",
+    "fecha-evento": "2025-11-16T19:00:00-05:00",
+    "img": "019a743b-ab49-7a0d-b5b1-845c74b10857",
+    "nombre": "disney673bc1",
+    "status": "19:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Detroit Red Wings vs. New York Rangers",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-11-16T19:00:00-05:00",
+    "img": "dfc071fb-cf52-4ee7-98c6-a46cd5a558c3",
+    "nombre": "disney678b26",
+    "status": "19:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "National Duals Invitational Presented by Paycom",
+    "league": "NCAA Luchas",
+    "fecha-evento": "2025-11-16T19:00:00-05:00",
+    "img": "79dccdb5-ae78-4f5d-9a66-a92bf90f5698",
+    "nombre": "disneyc47580",
+    "status": "19:00",
     "duration": 135,
     "play_url": ""
   }
