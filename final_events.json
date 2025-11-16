@@ -26,19 +26,6 @@
     "k2": "d48fc770af38a699dedaa95e8c72ed31"
   },
   {
-    "title": "Tampa Bay Buccaneers vs. Buffalo Bills",
-    "league": "NFL",
-    "fecha-evento": "2025-11-16T13:00:00-05:00",
-    "img": "019a5065-de3c-75b3-a722-480d05f95ff9",
-    "nombre": "disney4ad683",
-    "status": "13:00",
-    "duration": 180,
-    "play_url": "https://www.disneyplus.com/es-es/play/2b5fb2da-b016-44de-9f56-09a8b7724357",
-    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1763402773~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F7f9052ce-8143-43a6-9656-a8c00c4a3e56-1762950862652%2F~psid=1341eade-eb9b-4de4-a2a1-47057e47ef79~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=e3fe4378eda11ce8966c8f28b3a66682301071ea034ae736e189d6e56c9d8548/clt1/va02/disneyplus/channel/7f9052ce-8143-43a6-9656-a8c00c4a3e56-1762950862652/ctr-all-sliding-alt1.m3u8?v=1&hash=2daf186937da77473bf07bbbecfc5597024e944f",
-    "k1": "3747032dc981421ba30e65302adcaa0b",
-    "k2": "1066c723a9d636fc8007f849c57ff442"
-  },
-  {
     "title": "Seven URBA",
     "league": "Rugby Sevens",
     "fecha-evento": "2025-11-16T13:55:00-05:00",
@@ -234,22 +221,25 @@
     "k2": "13c94b9ec6af1c3e7ee4bb9db73e2474"
   },
   {
+    "title": "Kansas City Chiefs vs. Denver Broncos",
+    "league": "NFL",
+    "fecha-evento": "2025-11-16T16:24:00-05:00",
+    "img": "e276a868-49ff-485b-9522-f6071d24bf02",
+    "nombre": "disney750eff",
+    "status": "16:24",
+    "duration": 186,
+    "play_url": "https://www.disneyplus.com/es-es/play/5883830d-9059-47c7-93c6-08d8f2da0047",
+    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1763415625~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F7f9052ce-8143-43a6-9656-a8c00c4a3e56-1762950862652%2F~psid=bae04b36-6830-4a8f-8cf3-a12ce0fc4106~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=a229105fc7c1c9e08dbfad9e0690a827c7070e3c569b1f6bf44e821a218d1a0b/clt1/va02/disneyplus/channel/7f9052ce-8143-43a6-9656-a8c00c4a3e56-1762950862652/ctr-all-sliding-alt1.m3u8?v=1&hash=2daf186937da77473bf07bbbecfc5597024e944f",
+    "k1": "3747032dc981421ba30e65302adcaa0b",
+    "k2": "1066c723a9d636fc8007f849c57ff442"
+  },
+  {
     "title": "Vancouver Canucks vs. Tampa Bay Lightning",
     "league": "National Hockey League",
     "fecha-evento": "2025-11-16T17:00:00-05:00",
     "img": "13e8f6d8-f5e4-42a1-ab81-e1ba89cc2a84",
     "nombre": "disney846aab",
     "status": "17:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Kansas City Chiefs vs. Denver Broncos",
-    "league": "NFL",
-    "fecha-evento": "2025-11-16T16:25:00-05:00",
-    "img": "e276a868-49ff-485b-9522-f6071d24bf02",
-    "nombre": "disney942858",
-    "status": "16:25",
     "duration": 135,
     "play_url": ""
   },
@@ -660,6 +650,16 @@
     "img": "6a681cd0-ebe5-4639-8541-d6d53348d444",
     "nombre": "disney8f8f30",
     "status": "19:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Leones de Yucatán vs. Combinado LMB",
+    "league": "ESPN",
+    "fecha-evento": "2025-11-17T19:55:00-05:00",
+    "img": "019a7d8e-c507-77d1-9d5c-6a74e5b3b109",
+    "nombre": "disneya05a81",
+    "status": "19:55",
     "duration": 135,
     "play_url": ""
   }
