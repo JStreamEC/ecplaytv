@@ -13,19 +13,6 @@
     "k2": "62d48aa836222ae20d608c81baecaf4a"
   },
   {
-    "title": "Detroit Red Wings vs. New York Rangers",
-    "league": "National Hockey League",
-    "fecha-evento": "2025-11-16T19:00:00-05:00",
-    "img": "dfc071fb-cf52-4ee7-98c6-a46cd5a558c3",
-    "nombre": "disney678b26",
-    "status": "19:00",
-    "duration": 210,
-    "play_url": "https://www.disneyplus.com/es-es/play/592c6e3c-6b07-467b-8a67-074e03e0d16c",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1763424032~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F17%2FDetroit_Red_Wings_vs_New__20251117_1763330420039%2F~psid=bbb8ee14-53ce-4792-9ce7-490169f977c9~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=bb8aa46330829a9f17d5607a043daa7912531938a2cd8c361d1a3b9e0c98619a/clt1/va02/disneyplus/event/2025/11/17/Detroit_Red_Wings_vs_New__20251117_1763330420039/ctr-all-hdri-complete.m3u8?v=1&hash=4e09df735f011d818fd738f01249f69bc319d8b1",
-    "k1": "88531f700dda46b08fed71560cb56d87",
-    "k2": "3079cde9ec2a93259c5b8424e8e8a935"
-  },
-  {
     "title": "Diablos Rojos del México vs. Combinado LMB",
     "league": "ESPN",
     "fecha-evento": "2025-11-16T19:55:03-05:00",
@@ -567,6 +554,16 @@
     "img": "019a55ff-b571-7c67-8111-c3ead73d5574",
     "nombre": "disney4a240a",
     "status": "14:35",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Navy vs. Bucknell (Quarterfinal #2)",
+    "league": "NCAA Women's Volleyball",
+    "fecha-evento": "2025-11-18T18:00:00-05:00",
+    "img": "1b810158-6dca-49b9-98b9-275398bcd01f",
+    "nombre": "disneyfe8f6e",
+    "status": "18:00",
     "duration": 135,
     "play_url": ""
   }
