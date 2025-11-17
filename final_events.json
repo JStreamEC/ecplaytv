@@ -13,19 +13,6 @@
     "k2": "62d48aa836222ae20d608c81baecaf4a"
   },
   {
-    "title": "Boca Juniors vs. Tigre",
-    "league": "Liga Profesional de Fútbol",
-    "fecha-evento": "2025-11-16T18:00:01-05:00",
-    "img": "019a743b-ab49-7a0d-b5b1-845c74b10857",
-    "nombre": "disney7d89b7",
-    "status": "18:00",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/8a980344-ed19-43b5-b920-780d26ac90b9",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1763421674~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F16%2FBoca_Juniors_vs_Tigre_20251116_1763326822032%2F~psid=2659fbb2-30b6-4233-98f8-6c6659d5528a~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=909cbe7a0625bdd898b8c54bebc04ed7563c8952d46f02eafd0902be54a9c88e/clt1/va02/disneyplus/event/2025/11/16/Boca_Juniors_vs_Tigre_20251116_1763326822032/ctr-all-hdri-complete.m3u8?v=1&hash=cb6985a2ccc8067fdb2c1aacfcfb6f0454a5745c",
-    "k1": "19c2fe40bd874ff3a4ccc36a9aec7b27",
-    "k2": "84c2ac0122cee711de7513103c4932fd"
-  },
-  {
     "title": "Oklahoma City Blue vs. Capitanes de Ciudad de México",
     "league": "NBA G League",
     "fecha-evento": "2025-11-16T19:00:00-05:00",
@@ -103,12 +90,15 @@
   {
     "title": "Miami vs. #10 Florida",
     "league": "Básquetbol Masculino NCAA",
-    "fecha-evento": "2025-11-16T20:30:00-05:00",
+    "fecha-evento": "2025-11-16T20:30:02-05:00",
     "img": "9ef52384-199a-4b06-b878-306265e86620",
-    "nombre": "disney4724c8",
+    "nombre": "disneye40ebc",
     "status": "20:30",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/29677b2a-8dbb-4588-a53c-47a779cc510a",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1763430025~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F17%2FMiami_vs_10_Florida_20251117_1763335853026%2F~psid=bd07d05d-f8cf-407c-a0c3-74c7d2b06b9f~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=5a465256e508667a14d2a8ff519c5dd694939a11ae8fb9086019c9f34c2916b0/clt1/va02/disneyplus/event/2025/11/17/Miami_vs_10_Florida_20251117_1763335853026/ctr-all-hdri-complete.m3u8?v=1&hash=78c977de1c8c08e582349cd045108287f873ec1c",
+    "k1": "2d5c5b8a60e445b0b6bc9616e1aa11b8",
+    "k2": "b56dd2d5095ad242e8ff0d27d38c7e3e"
   },
   {
     "title": "Jaiba Brava vs. Universidad de Guadalajara (Cuartos de Final (Partido de Vuelta))",
@@ -154,7 +144,7 @@
     "title": "Copa Potrero | Cancha #5",
     "league": "Argentine Copa Potrero",
     "fecha-evento": "2025-11-17T07:30:00-05:00",
-    "img": "019a8e83-36a0-7ac5-ae4f-6bf9d9a3c9ff",
+    "img": "019a8e83-369e-7220-87be-c1a7e3ac80cc",
     "nombre": "disneyc103cd",
     "status": "07:30",
     "duration": 135,
@@ -167,16 +157,6 @@
     "img": "019a8e82-f1c4-70e5-a187-4edca6b6cf43",
     "nombre": "disney06eeae",
     "status": "07:30",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Copa Potrero | Canchas #1 y #2",
-    "league": "Argentine Copa Potrero",
-    "fecha-evento": "2025-11-17T11:30:00-05:00",
-    "img": "019a8dcf-e48c-7480-aaf1-4ade93d2babf",
-    "nombre": "disney2b0425",
-    "status": "11:30",
     "duration": 135,
     "play_url": ""
   },
@@ -364,7 +344,7 @@
     "title": "Leones de Yucatán vs. Combinado LMB",
     "league": "ESPN",
     "fecha-evento": "2025-11-17T19:55:00-05:00",
-    "img": "019a7d8e-c507-77d1-9d5c-6a74e5b3b109",
+    "img": "019a7d8e-c542-78ea-a850-35e9eacafb6d",
     "nombre": "disneya05a81",
     "status": "19:55",
     "duration": 135,
@@ -457,6 +437,16 @@
     "img": "019a5138-e492-7065-932d-6039f128bc54",
     "nombre": "disney744ff8",
     "status": "10:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Copa Potrero | Canchas #1 y #2",
+    "league": "Argentine Copa Potrero",
+    "fecha-evento": "2025-11-18T11:30:00-05:00",
+    "img": "019a8f11-8922-7744-9e51-754553504ed6",
+    "nombre": "disney4b1a21",
+    "status": "11:30",
     "duration": 135,
     "play_url": ""
   },
@@ -566,6 +556,26 @@
     "fecha-evento": "2025-11-18T14:35:00-05:00",
     "img": "019a55ff-3a98-7161-8de9-9980bdea6906",
     "nombre": "disney24cc7e",
+    "status": "14:35",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Sweden vs. Slovenia",
+    "league": "Eliminatorias UEFA",
+    "fecha-evento": "2025-11-18T14:35:00-05:00",
+    "img": "019a55ff-1d3b-7e66-bb0f-534e92dd7337",
+    "nombre": "disney17f3f2",
+    "status": "14:35",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Belarus vs. Greece",
+    "league": "Eliminatorias UEFA",
+    "fecha-evento": "2025-11-18T14:35:00-05:00",
+    "img": "019a55ff-b571-7c67-8111-c3ead73d5574",
+    "nombre": "disney4a240a",
     "status": "14:35",
     "duration": 135,
     "play_url": ""
