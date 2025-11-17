@@ -26,32 +26,6 @@
     "k2": "10c14298220f3f9810f929bd8846ca85"
   },
   {
-    "title": "Miami vs. #10 Florida",
-    "league": "Básquetbol Masculino NCAA",
-    "fecha-evento": "2025-11-16T20:30:02-05:00",
-    "img": "9ef52384-199a-4b06-b878-306265e86620",
-    "nombre": "disneye40ebc",
-    "status": "20:30",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/29677b2a-8dbb-4588-a53c-47a779cc510a",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1763430025~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F17%2FMiami_vs_10_Florida_20251117_1763335853026%2F~psid=bd07d05d-f8cf-407c-a0c3-74c7d2b06b9f~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=5a465256e508667a14d2a8ff519c5dd694939a11ae8fb9086019c9f34c2916b0/clt1/va02/disneyplus/event/2025/11/17/Miami_vs_10_Florida_20251117_1763335853026/ctr-all-hdri-complete.m3u8?v=1&hash=78c977de1c8c08e582349cd045108287f873ec1c",
-    "k1": "2d5c5b8a60e445b0b6bc9616e1aa11b8",
-    "k2": "b56dd2d5095ad242e8ff0d27d38c7e3e"
-  },
-  {
-    "title": "Jaiba Brava vs. Universidad de Guadalajara (Cuartos de Final (Partido de Vuelta))",
-    "league": "Liga de Expansión MX",
-    "fecha-evento": "2025-11-16T20:49:58-05:00",
-    "img": "152e2ebb-910d-490c-9fbe-321c44ae7a71",
-    "nombre": "disney83ce5f",
-    "status": "20:49",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/7c7c583d-6c14-4544-99b3-8f34cacf0a40",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1763431268~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F17%2FJaiba_Brava_vs_Universida_20251117_1763337046033%2F~psid=2a6c7697-56be-45c7-943f-6dba935e969c~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=4578a5fb18e8b8bf570786510e6ba83838be3358233b9ceb48751ebdeb9d691a/clt1/va02/disneyplus/event/2025/11/17/Jaiba_Brava_vs_Universida_20251117_1763337046033/ctr-all-hdri-complete.m3u8?v=1&hash=4f85de42e658fbabcee747e312bc3c800cbf3d28",
-    "k1": "f17d110d0ddb476a88aaa29c42c54d6b",
-    "k2": "13a986d1d217a4c774ca7691471cfb2b"
-  },
-  {
     "title": "New York Islanders vs. Colorado Avalanche",
     "league": "National Hockey League",
     "fecha-evento": "2025-11-16T21:00:00-05:00",
@@ -561,6 +535,26 @@
     "img": "862b443c-29d0-436f-b256-70993fba0356",
     "nombre": "disneyae874f",
     "status": "18:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "St. Louis Blues vs. Toronto Maple Leafs",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-11-18T19:00:00-05:00",
+    "img": "019a3635-f3f2-76ea-9143-2b2ca79cdb9d",
+    "nombre": "disney030fbc",
+    "status": "19:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Seattle Kraken vs. Detroit Red Wings",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-11-18T19:00:00-05:00",
+    "img": "8a7838b7-a9df-47f6-abd1-1087e57d24de",
+    "nombre": "disney27efbc",
+    "status": "19:00",
     "duration": 135,
     "play_url": ""
   }
