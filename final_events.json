@@ -1,31 +1,5 @@
 [
   {
-    "title": "Moreno FC vs. La Rosario | Canchas #1 y #2",
-    "league": "Argentine Copa Potrero",
-    "fecha-evento": "2025-11-17T11:30:00-05:00",
-    "img": "019a9361-6c78-75d7-86c7-12e79b6587d1",
-    "nombre": "disney346360",
-    "status": "11:30",
-    "duration": 300,
-    "play_url": "https://www.disneyplus.com/es-es/play/6d5f1171-d53c-4162-a06d-4bb1c528a360",
-    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1763500829~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Fec26a05e-a9cc-4db4-804e-77465738e667-1762950455142%2F~psid=06e9f46f-78ce-4838-b7a2-6d397f462078~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=8927f71b7229b643ce275c7fe84d3d62649e44f5be012da560a675797a69dbab/clt1/va02/disneyplus/channel/ec26a05e-a9cc-4db4-804e-77465738e667-1762950455142/ctr-all-sliding-alt1.m3u8?v=1&hash=e2faf4444722e1f805096ad7b7489a5d09f9944f",
-    "k1": "2f1412131da64fd9b0585f6bbd0cb273",
-    "k2": "1827c7bfc3a306cefd484756bd89b039"
-  },
-  {
-    "title": "La Irenita-La Hache Clinova vs. La Ensenada (Grupo B - Fecha #3)",
-    "league": "Abierto de Palermo",
-    "fecha-evento": "2025-11-17T14:20:05-05:00",
-    "img": "019a8082-9a58-73c7-94f5-c04296a8a65d",
-    "nombre": "disney51c506",
-    "status": "14:20",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/71a2dde1-8015-4eef-afb9-ddd90f7f6447",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1763500874~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F17%2FLa_IrenitaLa_Hache_Clinov_20251117_1763400046044%2F~psid=d63d83d2-7b19-447e-acf0-4738ea8a2aa1~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=c5eb389d8031b8f8d3b69f5ad84b442579d133705094c49c1e158546225ca280/clt1/va02/disneyplus/event/2025/11/17/La_IrenitaLa_Hache_Clinov_20251117_1763400046044/ctr-all-hdri-complete.m3u8?v=1&hash=3ce2657e56bdbfc12e505ee14758c016036e8998",
-    "k1": "3e4419d8f3d0456cbf5179225504a81b",
-    "k2": "2867e7695f7c9b8b7d2f64dfcbccb2cf"
-  },
-  {
     "title": "Germany vs. Eslovaquia",
     "league": "Eliminatorias UEFA",
     "fecha-evento": "2025-11-17T14:30:00-05:00",
@@ -653,6 +627,26 @@
     "img": "1b810158-6dca-49b9-98b9-275398bcd01f",
     "nombre": "disney59fe61",
     "status": "18:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Lehigh vs. Army (First Round)",
+    "league": "NCAA Women's Volleyball",
+    "fecha-evento": "2025-11-18T18:00:00-05:00",
+    "img": "862b443c-29d0-436f-b256-70993fba0356",
+    "nombre": "disney50ac88",
+    "status": "18:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "St. Louis Blues vs. Toronto Maple Leafs",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-11-18T19:00:00-05:00",
+    "img": "019a3635-f47e-7900-bf54-526b9e2e3b3c",
+    "nombre": "disney030fbc",
+    "status": "19:00",
     "duration": 135,
     "play_url": ""
   }
