@@ -13,19 +13,6 @@
     "k2": "62d48aa836222ae20d608c81baecaf4a"
   },
   {
-    "title": "Cancún FC vs. Club Atlético Morelia (Cuartos de Final (Partido de Vuelta))",
-    "league": "Liga de Expansión MX",
-    "fecha-evento": "2025-11-16T17:49:57-05:00",
-    "img": "019a740b-53db-70a7-8519-f04d92154edf",
-    "nombre": "disney9f0f1b",
-    "status": "17:49",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/e63f40f9-9da0-4e61-867e-f3081fc3646b",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1763420431~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F16%2FCancn_FC_vs_Club_Atltico__20251116_1763326230037%2F~psid=3aa18b51-fdf8-4313-9376-ab9ffb28108a~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=d5f9f093522c208f18d0c93b689e00755108ed7659430c857f7e28818f7fc47d/clt1/va02/disneyplus/event/2025/11/16/Cancn_FC_vs_Club_Atltico__20251116_1763326230037/ctr-all-hdri-complete.m3u8?v=1&hash=cb82491f20da2392cbd408fb69ec13ed76671c19",
-    "k1": "6d9375ba59274f80856ef16f20d33de9",
-    "k2": "141534fdeb70f4b0346cb95278530f96"
-  },
-  {
     "title": "Boca Juniors vs. Tigre",
     "league": "Liga Profesional de Fútbol",
     "fecha-evento": "2025-11-16T18:00:01-05:00",
@@ -97,8 +84,11 @@
     "img": "92a922a2-5cb4-42af-813d-54dad551438a",
     "nombre": "disney1b7072",
     "status": "20:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 210,
+    "play_url": "https://www.disneyplus.com/es-es/play/2fa8bb88-deb4-4186-acb3-47183d42e30a",
+    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1763428822~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Ff25bdf06-81c9-4a7c-b128-3128d610ad17-1762951253360%2F~psid=111a5bbc-65b1-4346-a325-162e26ed8f59~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=25adcc0fdd376d54c32ce3d7a327c053574ead4dd1e03b2418e17a8b98d45ef7/clt1/va02/disneyplus/channel/f25bdf06-81c9-4a7c-b128-3128d610ad17-1762951253360/ctr-all-sliding-alt1.m3u8?v=1&hash=57a1e5c4737768952c5164be5d4f5ba525d47674",
+    "k1": "0dda5bf6bd334373908be014b0adfccc",
+    "k2": "10c14298220f3f9810f929bd8846ca85"
   },
   {
     "title": "New York Islanders vs. Colorado Avalanche",
@@ -566,6 +556,16 @@
     "fecha-evento": "2025-11-18T14:35:00-05:00",
     "img": "019a55ff-4c29-783e-b9e3-0ff2d9d72953",
     "nombre": "disney8f38ee",
+    "status": "14:35",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Kosovo vs. Switzerland",
+    "league": "Eliminatorias UEFA",
+    "fecha-evento": "2025-11-18T14:35:00-05:00",
+    "img": "019a55ff-3a98-7161-8de9-9980bdea6906",
+    "nombre": "disney24cc7e",
     "status": "14:35",
     "duration": 135,
     "play_url": ""
