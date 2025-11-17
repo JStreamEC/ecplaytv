@@ -1,139 +1,29 @@
 [
   {
-    "title": "Kings Cup México",
-    "league": "Kings League Americas",
-    "fecha-evento": "2025-11-16T15:55:06-05:00",
-    "img": "42e94b08-5d6c-4233-9efb-e669469ab379",
-    "nombre": "disneye56796",
-    "status": "15:55",
-    "duration": 365,
-    "play_url": "https://www.disneyplus.com/es-es/play/15ae53d5-3d81-4a9f-a3ef-1e284fc4520f",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1763413227~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F16%2FKings_Cup_Mxico_20251116_1763319353031%2F~psid=6e2072b4-194a-48e0-8842-f44148a20813~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=e01be1145df2d1a01e19ad730fc3ef658b189c676ea47e56d0db358a4a99cc94/clt1/va02/disneyplus/event/2025/11/16/Kings_Cup_Mxico_20251116_1763319353031/ctr-all-hdri-complete.m3u8?v=1&hash=e21a27f050851f18da11a36b84001d53e79bf750",
-    "k1": "6afd2114fb904c25a3163e4a69743ef0",
-    "k2": "62d48aa836222ae20d608c81baecaf4a"
-  },
-  {
-    "title": "New York Islanders vs. Colorado Avalanche",
-    "league": "National Hockey League",
-    "fecha-evento": "2025-11-16T21:00:00-05:00",
-    "img": "2127743a-2f39-4206-a4a6-d0a67f1b7535",
-    "nombre": "disney00d7f7",
-    "status": "21:00",
-    "duration": 210,
-    "play_url": "https://www.disneyplus.com/es-es/play/e5ae1f40-5b9b-4a14-81e6-0bd39128d11c",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1763431224~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F17%2FNew_York_Islanders_vs_Col_20251117_1763337637410%2F~psid=8fc823a3-1049-4384-a29b-a4f07245482d~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=f71e9f8998184551d7c74ac1491adadf0612ce52d16cbd02c74d5ffee2a00cfb/clt1/va02/disneyplus/event/2025/11/17/New_York_Islanders_vs_Col_20251117_1763337637410/ctr-all-hdri-complete.m3u8?v=1&hash=6e96883f10ef2f79652dd1380f4d52332cbbda4c",
-    "k1": "9599ce576d494e1e93a564d3d8fa1171",
-    "k2": "62bf4ea564bb54baeced67d03eac57b5"
-  },
-  {
-    "title": "Copa Potrero | Cancha #4",
-    "league": "Argentine Copa Potrero",
-    "fecha-evento": "2025-11-17T07:15:00-05:00",
-    "img": "019a8e85-f957-78e5-b0b4-5129297c37e9",
-    "nombre": "disney561fc7",
-    "status": "07:15",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Potrero al instante",
-    "league": "Argentine Copa Potrero",
-    "fecha-evento": "2025-11-17T07:15:00-05:00",
-    "img": "019a7da1-51d1-7913-872a-32a6fc2068eb",
-    "nombre": "disneyf60709",
-    "status": "07:15",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Copa Potrero | Cancha #6",
-    "league": "Argentine Copa Potrero",
-    "fecha-evento": "2025-11-17T07:15:00-05:00",
-    "img": "019a8e85-f947-716a-8ebb-337a2c532010",
-    "nombre": "disney80d2e9",
-    "status": "07:15",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Copa Potrero | Cancha #5",
-    "league": "Argentine Copa Potrero",
-    "fecha-evento": "2025-11-17T07:30:00-05:00",
-    "img": "019a8e83-369e-7220-87be-c1a7e3ac80cc",
-    "nombre": "disneyc103cd",
-    "status": "07:30",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Copa Potrero | Cancha #3",
-    "league": "Argentine Copa Potrero",
-    "fecha-evento": "2025-11-17T07:30:00-05:00",
-    "img": "019a8e82-f1c4-70e5-a187-4edca6b6cf43",
-    "nombre": "disney06eeae",
-    "status": "07:30",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Copa Potrero | Canchas #1 y #2",
+    "title": "Moreno FC vs. La Rosario | Canchas #1 y #2",
     "league": "Argentine Copa Potrero",
     "fecha-evento": "2025-11-17T11:30:00-05:00",
-    "img": "019a8dcf-e48b-77f8-b476-7983e431e3e3",
-    "nombre": "disney2b0425",
+    "img": "019a9361-6c78-75d7-86c7-12e79b6587d1",
+    "nombre": "disney346360",
     "status": "11:30",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "La Hache Cría & Polo vs. La Dolfina II (Grupo B - Fecha #3)",
-    "league": "Abierto de Palermo",
-    "fecha-evento": "2025-11-17T11:50:00-05:00",
-    "img": "019a803f-198e-758a-abc1-550f173eebbb",
-    "nombre": "disney774662",
-    "status": "11:50",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Finlandia vs. Andorra",
-    "league": "Amistosos internacionales",
-    "fecha-evento": "2025-11-17T11:50:00-05:00",
-    "img": "019a50be-6339-7e74-91a8-752ee3e0e710",
-    "nombre": "disney3ac69e",
-    "status": "11:50",
-    "duration": 135,
-    "play_url": ""
+    "duration": 300,
+    "play_url": "https://www.disneyplus.com/es-es/play/6d5f1171-d53c-4162-a06d-4bb1c528a360",
+    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1763500829~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Fec26a05e-a9cc-4db4-804e-77465738e667-1762950455142%2F~psid=06e9f46f-78ce-4838-b7a2-6d397f462078~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=8927f71b7229b643ce275c7fe84d3d62649e44f5be012da560a675797a69dbab/clt1/va02/disneyplus/channel/ec26a05e-a9cc-4db4-804e-77465738e667-1762950455142/ctr-all-sliding-alt1.m3u8?v=1&hash=e2faf4444722e1f805096ad7b7489a5d09f9944f",
+    "k1": "2f1412131da64fd9b0585f6bbd0cb273",
+    "k2": "1827c7bfc3a306cefd484756bd89b039"
   },
   {
     "title": "La Irenita-La Hache Clinova vs. La Ensenada (Grupo B - Fecha #3)",
     "league": "Abierto de Palermo",
-    "fecha-evento": "2025-11-17T14:20:00-05:00",
+    "fecha-evento": "2025-11-17T14:20:05-05:00",
     "img": "019a8082-9a58-73c7-94f5-c04296a8a65d",
-    "nombre": "disney8b5000",
+    "nombre": "disney51c506",
     "status": "14:20",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Montenegro vs. Croatia",
-    "league": "Eliminatorias UEFA",
-    "fecha-evento": "2025-11-17T14:30:00-05:00",
-    "img": "019a4a7d-c14d-79a7-b7b1-f9db7ab6f230",
-    "nombre": "disney0fc96f",
-    "status": "14:30",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Malta vs. Poland",
-    "league": "Eliminatorias UEFA",
-    "fecha-evento": "2025-11-17T14:30:00-05:00",
-    "img": "019a4a26-887a-74ec-bc8b-95205ada6b1f",
-    "nombre": "disney69dc61",
-    "status": "14:30",
-    "duration": 135,
-    "play_url": ""
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/71a2dde1-8015-4eef-afb9-ddd90f7f6447",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1763500874~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F17%2FLa_IrenitaLa_Hache_Clinov_20251117_1763400046044%2F~psid=d63d83d2-7b19-447e-acf0-4738ea8a2aa1~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=c5eb389d8031b8f8d3b69f5ad84b442579d133705094c49c1e158546225ca280/clt1/va02/disneyplus/event/2025/11/17/La_IrenitaLa_Hache_Clinov_20251117_1763400046044/ctr-all-hdri-complete.m3u8?v=1&hash=3ce2657e56bdbfc12e505ee14758c016036e8998",
+    "k1": "3e4419d8f3d0456cbf5179225504a81b",
+    "k2": "2867e7695f7c9b8b7d2f64dfcbccb2cf"
   },
   {
     "title": "Germany vs. Eslovaquia",
@@ -142,8 +32,11 @@
     "img": "019a4a7f-0268-7f22-8d72-6d51f128f40e",
     "nombre": "disney80003d",
     "status": "14:30",
-    "duration": 135,
-    "play_url": ""
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/a467ac8b-b414-469a-8c9d-5ff16282ab0d",
+    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1763500919~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F921e1311-bb26-43dd-84a6-9e2284959712-1762950465141%2F~psid=ef181fa3-4f5f-4dc6-b2b5-f219caa04654~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=6ac3c3cfa62d08f63a21b69e2d0acd0131cc4ac77a06e775a3dfc7bd9b962e25/clt1/va02/disneyplus/channel/921e1311-bb26-43dd-84a6-9e2284959712-1762950465141/ctr-all-sliding-alt1.m3u8?v=1&hash=03915bf69f19826611ecdeecc79455eab40b229c",
+    "k1": "5ff9fdd88cd7436889311f7d1690949c",
+    "k2": "0c5a37ba86d2e88f4967a3e5f262786f"
   },
   {
     "title": "Netherlands vs. Lituania",
@@ -152,38 +45,76 @@
     "img": "019a4a7e-17c4-771f-848e-bc1ace40bd8c",
     "nombre": "disneyf776e2",
     "status": "14:30",
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/8ca3d0bb-b22f-4103-9f4e-d52ca7d50bef",
+    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1763500943~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Ff25bdf06-81c9-4a7c-b128-3128d610ad17-1762951253360%2F~psid=6a7dfeba-ad02-401a-9d70-db7a6de9d9bb~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=2298b39117bdf0960f3299ddadca5ec247f574694acdbc776a59599670cc0d6e/clt1/va02/disneyplus/channel/f25bdf06-81c9-4a7c-b128-3128d610ad17-1762951253360/ctr-all-sliding-alt1.m3u8?v=1&hash=57a1e5c4737768952c5164be5d4f5ba525d47674",
+    "k1": "b09f1fdd5452442ea6a0a09f07b05945",
+    "k2": "3ac64b9d424d40f2b3261bc75775aaa2"
+  },
+  {
+    "title": "Malta vs. Poland",
+    "league": "Eliminatorias UEFA",
+    "fecha-evento": "2025-11-17T14:30:13-05:00",
+    "img": "019a4a26-887a-74ec-bc8b-95205ada6b1f",
+    "nombre": "disney583f0f",
+    "status": "14:30",
     "duration": 135,
-    "play_url": ""
+    "play_url": "https://www.disneyplus.com/es-es/play/0fe4a4c5-ccca-4fae-9ac0-6f411e98aa6c",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1763500968~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F17%2FMalta_vs_Poland_20251117_1763400622044%2F~psid=848950ae-4e4f-46ee-9e2e-4e080e730b2e~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=63d8d7959b34b8b2e18ac8996f5f5e73ec1bda59c7a4e9a08a8b28892164d6fe/clt1/va02/disneyplus/event/2025/11/17/Malta_vs_Poland_20251117_1763400622044/ctr-all-hdri-complete.m3u8?v=1&hash=c7d02da684bbd56dbcedd87232218cf643bffeda",
+    "k1": "ab35e9c1ad474c6cb4ea00d5b618548c",
+    "k2": "edd22e3ab2bd103369bdf01c8a305e65"
+  },
+  {
+    "title": "Montenegro vs. Croatia",
+    "league": "Eliminatorias UEFA",
+    "fecha-evento": "2025-11-17T14:30:31-05:00",
+    "img": "019a4a7d-c14d-79a7-b7b1-f9db7ab6f230",
+    "nombre": "disneye0df4b",
+    "status": "14:30",
+    "duration": 134,
+    "play_url": "https://www.disneyplus.com/es-es/play/99c1b646-cea1-4517-b78e-6f0fc1fded6f",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1763500993~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F17%2FMontenegro_vs_Croatia_20251117_1763401418859%2F~psid=1a3984f7-f21a-4729-87a8-34ad8b1e8fb9~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=c8e467dcdbd855fb229322ff12b3c41f3d3d0fae4b5cb79c913609beef93e5a4/clt1/va02/disneyplus/event/2025/11/17/Montenegro_vs_Croatia_20251117_1763401418859/ctr-all-hdri-complete.m3u8?v=1&hash=151a2c93a0628251b8462426c8a59892baecde6f",
+    "k1": "7027523ddf614b698f49c64f576270fa",
+    "k2": "21959e8dd33b8dedf229ef2ca647514c"
   },
   {
     "title": "Czechia vs. Gibraltar",
     "league": "Eliminatorias UEFA",
-    "fecha-evento": "2025-11-17T14:35:00-05:00",
+    "fecha-evento": "2025-11-17T14:35:11-05:00",
     "img": "019a5127-a445-7347-a03b-8ebd3ffd797a",
-    "nombre": "disney60edfd",
+    "nombre": "disney752c17",
     "status": "14:35",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Northern Ireland vs. Luxembourg",
-    "league": "Eliminatorias UEFA",
-    "fecha-evento": "2025-11-17T14:35:00-05:00",
-    "img": "019a5128-a49c-7894-b662-7e3a9b6eca57",
-    "nombre": "disneycec9c8",
-    "status": "14:35",
-    "duration": 135,
-    "play_url": ""
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/63c71df7-a15c-4f94-af8a-3cd7feb2cbf3",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1763501020~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F17%2FCzechia_vs_Gibraltar_20251117_1763400922047%2F~psid=95cf77b4-fbbc-4a52-ad7e-85569a232dc7~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=f194064ca41daeda72dfa7688d3bb0cc1c5de725b626f4014d36b82e47fbda4c/clt1/va02/disneyplus/event/2025/11/17/Czechia_vs_Gibraltar_20251117_1763400922047/ctr-all-hdri-complete.m3u8?v=1&hash=eef44f9e30724e7e9ffd39baf6e64fd06cce7155",
+    "k1": "efef17b4524a406eb2cb6ba52cd7d83e",
+    "k2": "74b06502cac64b305c1d88f542623da8"
   },
   {
     "title": "Defensa y Justicia vs. Independiente Rivadavia de Mendoza",
     "league": "Liga Profesional de Fútbol",
-    "fecha-evento": "2025-11-17T14:45:00-05:00",
+    "fecha-evento": "2025-11-17T14:47:19-05:00",
     "img": "019a78f4-3e38-79b0-a382-5bdc0133b428",
-    "nombre": "disney6bb561",
-    "status": "14:45",
-    "duration": 135,
-    "play_url": ""
+    "nombre": "disneye57849",
+    "status": "14:47",
+    "duration": 128,
+    "play_url": "https://www.disneyplus.com/es-es/play/a467180f-b563-4978-9e74-e2770c642176",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1763501044~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F17%2FDefensa_y_Justicia_vs_Ind_20251117_1763401549029%2F~psid=c714472c-8d23-478d-9a26-ec732e935def~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=9b346446438686325741c64eefc1a520520d1091ed84dc6cbe684a0de29e6c99/clt1/va02/disneyplus/event/2025/11/17/Defensa_y_Justicia_vs_Ind_20251117_1763401549029/ctr-all-hdri-complete.m3u8?v=1&hash=4773f6512659368f05f52d3439e2ed8763f8ed40",
+    "k1": "eb7ef1fb8dae4b4a9e75557a7f1f47f3",
+    "k2": "0baa2ec17b30622edfb90c2ce048e967"
+  },
+  {
+    "title": "Northern Ireland vs. Luxembourg",
+    "league": "Eliminatorias UEFA",
+    "fecha-evento": "2025-11-17T14:59:25-05:00",
+    "img": "019a5128-a49c-7894-b662-7e3a9b6eca57",
+    "nombre": "disney6e0135",
+    "status": "14:59",
+    "duration": 106,
+    "play_url": "https://www.disneyplus.com/es-es/play/d14bc048-b453-4515-b7a8-25eef56cf29f",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1763501068~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F17%2FNorthern_Ireland_vs_Luxem_20251117_1763400929044%2F~psid=f6b70847-bb36-4e6d-aeae-f8cce02a6997~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=7a1a1ce1de4f47a37b87b7a7cb1a8c8fa9d088976b6b21227169d2c003ce061a/clt1/va02/disneyplus/event/2025/11/17/Northern_Ireland_vs_Luxem_20251117_1763400929044/ctr-all-hdri-complete.m3u8?v=1&hash=eebd599bda30493e9982cad1821ba1ccb6a90bc0",
+    "k1": "7e753c15fe564eeea79107fd8647e863",
+    "k2": "34064202b00caf4c9184439ca9443c98"
   },
   {
     "title": "Carolina Hurricanes vs. Boston Bruins",
@@ -226,11 +157,11 @@
     "play_url": ""
   },
   {
-    "title": "VCU vs. NC State",
+    "title": "VCU vs. #25 NC State",
     "league": "Básquetbol Masculino NCAA",
     "fecha-evento": "2025-11-17T19:00:00-05:00",
     "img": "019a2b75-29e9-7a9d-9647-ee9aca61cf18",
-    "nombre": "disney1ee1c8",
+    "nombre": "disney815e1c",
     "status": "19:00",
     "duration": 135,
     "play_url": ""
@@ -336,12 +267,72 @@
     "play_url": ""
   },
   {
+    "title": "Test Oficial MotoGP - Valencia",
+    "league": "MotoGP",
+    "fecha-evento": "2025-11-18T03:30:00-05:00",
+    "img": "019a5ef5-a5d7-7caf-9f39-8a28b0756dd0",
+    "nombre": "disney605eae",
+    "status": "03:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
     "title": "MotoGP Test - Valencia",
     "league": "MotoGP",
-    "fecha-evento": "2025-11-18T01:50:00-05:00",
-    "img": "019a5ef5-a5d8-74d8-aa0d-3d389abdbae1",
-    "nombre": "disneyaf034f",
-    "status": "01:50",
+    "fecha-evento": "2025-11-18T03:50:00-05:00",
+    "img": "019a5ef5-a623-7e1b-86ce-2fd9e3af6009",
+    "nombre": "disney25a7be",
+    "status": "03:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Potrero al instante",
+    "league": "Argentine Copa Potrero",
+    "fecha-evento": "2025-11-18T07:15:00-05:00",
+    "img": "019a7da1-50ce-73e7-b4eb-8bd9ee20307b",
+    "nombre": "disney09d4e7",
+    "status": "07:15",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Copa Potrero | Cancha #4",
+    "league": "Argentine Copa Potrero",
+    "fecha-evento": "2025-11-18T07:15:00-05:00",
+    "img": "019a8ed0-edab-7fa2-9d60-0ca93664fd26",
+    "nombre": "disney675ebc",
+    "status": "07:15",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Copa Potrero | Cancha #6",
+    "league": "Argentine Copa Potrero",
+    "fecha-evento": "2025-11-18T07:15:00-05:00",
+    "img": "019a8f11-88aa-7e9c-8ca9-59c82c5a2fe9",
+    "nombre": "disney2cacf0",
+    "status": "07:15",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Copa Potrero | Cancha #3",
+    "league": "Argentine Copa Potrero",
+    "fecha-evento": "2025-11-18T07:30:00-05:00",
+    "img": "019a8f11-7df6-701c-a354-83e20b971cbd",
+    "nombre": "disney698cdc",
+    "status": "07:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Copa Potrero | Cancha #5",
+    "league": "Argentine Copa Potrero",
+    "fecha-evento": "2025-11-18T07:30:00-05:00",
+    "img": "019a8f11-6c3f-799c-b93f-bfa2007a3e0f",
+    "nombre": "disney956eff",
+    "status": "07:30",
     "duration": 135,
     "play_url": ""
   },
@@ -352,6 +343,146 @@
     "img": "019a55e9-eb2c-7a78-b59b-1e25e50c83ca",
     "nombre": "disney2fba8c",
     "status": "07:55",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Court 8-NCAA Division I Singles & Doubles Championships (Round of 64)",
+    "league": "NCAA Tenis",
+    "fecha-evento": "2025-11-18T09:00:00-05:00",
+    "img": "1e61949d-a19f-4823-8a84-06b3051c5157",
+    "nombre": "disney89f718",
+    "status": "09:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Court 11-NCAA Division I Singles & Doubles Championships (Round of 64)",
+    "league": "NCAA Tenis",
+    "fecha-evento": "2025-11-18T09:00:00-05:00",
+    "img": "1e61949d-a19f-4823-8a84-06b3051c5157",
+    "nombre": "disney1f21fa",
+    "status": "09:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Court 7-NCAA Division I Singles & Doubles Championships (Round of 64)",
+    "league": "NCAA Tenis",
+    "fecha-evento": "2025-11-18T09:00:00-05:00",
+    "img": "1e61949d-a19f-4823-8a84-06b3051c5157",
+    "nombre": "disney25b800",
+    "status": "09:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Court 2-NCAA Division I Singles & Doubles Championships (Round of 64)",
+    "league": "NCAA Tenis",
+    "fecha-evento": "2025-11-18T09:00:00-05:00",
+    "img": "1e61949d-a19f-4823-8a84-06b3051c5157",
+    "nombre": "disney590b84",
+    "status": "09:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Court 1-NCAA Division I Singles & Doubles Championships (Round of 64)",
+    "league": "NCAA Tenis",
+    "fecha-evento": "2025-11-18T09:00:00-05:00",
+    "img": "7f84452a-6d57-4c72-b555-fe01c4b07958",
+    "nombre": "disney525387",
+    "status": "09:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Court 9-NCAA Division I Singles & Doubles Championships (Round of 64)",
+    "league": "NCAA Tenis",
+    "fecha-evento": "2025-11-18T09:00:00-05:00",
+    "img": "1e61949d-a19f-4823-8a84-06b3051c5157",
+    "nombre": "disneyc95a32",
+    "status": "09:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Court 12-NCAA Division I Singles & Doubles Championships (Round of 64)",
+    "league": "NCAA Tenis",
+    "fecha-evento": "2025-11-18T09:00:00-05:00",
+    "img": "1e61949d-a19f-4823-8a84-06b3051c5157",
+    "nombre": "disney2788d4",
+    "status": "09:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "CrossCourt Cast-NCAA Division I Singles & Doubles Championships (Round of 64)",
+    "league": "NCAA Tenis",
+    "fecha-evento": "2025-11-18T09:00:00-05:00",
+    "img": "1e61949d-a19f-4823-8a84-06b3051c5157",
+    "nombre": "disney6380ec",
+    "status": "09:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Court 6-NCAA Division I Singles & Doubles Championships (Round of 64)",
+    "league": "NCAA Tenis",
+    "fecha-evento": "2025-11-18T09:00:00-05:00",
+    "img": "1e61949d-a19f-4823-8a84-06b3051c5157",
+    "nombre": "disney60744c",
+    "status": "09:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Court 4-NCAA Division I Singles & Doubles Championships (Round of 64)",
+    "league": "NCAA Tenis",
+    "fecha-evento": "2025-11-18T09:00:00-05:00",
+    "img": "7f84452a-6d57-4c72-b555-fe01c4b07958",
+    "nombre": "disneyee03a6",
+    "status": "09:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Court 10-NCAA Division I Singles & Doubles Championships (Round of 64)",
+    "league": "NCAA Tenis",
+    "fecha-evento": "2025-11-18T09:00:00-05:00",
+    "img": "1e61949d-a19f-4823-8a84-06b3051c5157",
+    "nombre": "disneycd844b",
+    "status": "09:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Court 5-NCAA Division I Singles & Doubles Championships (Round of 64)",
+    "league": "NCAA Tenis",
+    "fecha-evento": "2025-11-18T09:00:00-05:00",
+    "img": "1e61949d-a19f-4823-8a84-06b3051c5157",
+    "nombre": "disneyea0782",
+    "status": "09:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Featured Matches-NCAA Division I Singles & Doubles Championships (Round of 64)",
+    "league": "NCAA Tenis",
+    "fecha-evento": "2025-11-18T09:00:00-05:00",
+    "img": "7f84452a-6d57-4c72-b555-fe01c4b07958",
+    "nombre": "disneye0b9b8",
+    "status": "09:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Court 3-NCAA Division I Singles & Doubles Championships (Round of 64)",
+    "league": "NCAA Tenis",
+    "fecha-evento": "2025-11-18T09:00:00-05:00",
+    "img": "1e61949d-a19f-4823-8a84-06b3051c5157",
+    "nombre": "disney15d25f",
+    "status": "09:00",
     "duration": 135,
     "play_url": ""
   },
@@ -368,10 +499,20 @@
   {
     "title": "Iraq vs. United Arab Emirates",
     "league": "Eliminatorias de Asia",
-    "fecha-evento": "2025-11-18T10:50:00-05:00",
+    "fecha-evento": "2025-11-18T10:55:00-05:00",
     "img": "019a5138-e492-7065-932d-6039f128bc54",
-    "nombre": "disney744ff8",
-    "status": "10:50",
+    "nombre": "disney322885",
+    "status": "10:55",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Copa Potrero | Canchas #1 y #2",
+    "league": "Argentine Copa Potrero",
+    "fecha-evento": "2025-11-18T11:30:00-05:00",
+    "img": "019a8f11-8922-7744-9e51-754553504ed6",
+    "nombre": "disney4b1a21",
+    "status": "11:30",
     "duration": 135,
     "play_url": ""
   },
@@ -506,52 +647,12 @@
     "play_url": ""
   },
   {
-    "title": "Navy vs. Bucknell (Quarterfinal #2)",
+    "title": "Navy vs. Bucknell (First Round)",
     "league": "NCAA Women's Volleyball",
     "fecha-evento": "2025-11-18T18:00:00-05:00",
     "img": "1b810158-6dca-49b9-98b9-275398bcd01f",
-    "nombre": "disneyfe8f6e",
+    "nombre": "disney59fe61",
     "status": "18:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Lehigh vs. Army (Quarterfinal #1)",
-    "league": "NCAA Women's Volleyball",
-    "fecha-evento": "2025-11-18T18:00:00-05:00",
-    "img": "862b443c-29d0-436f-b256-70993fba0356",
-    "nombre": "disneyae874f",
-    "status": "18:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "St. Louis Blues vs. Toronto Maple Leafs",
-    "league": "National Hockey League",
-    "fecha-evento": "2025-11-18T19:00:00-05:00",
-    "img": "019a3635-f3f2-76ea-9143-2b2ca79cdb9d",
-    "nombre": "disney030fbc",
-    "status": "19:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Seattle Kraken vs. Detroit Red Wings",
-    "league": "National Hockey League",
-    "fecha-evento": "2025-11-18T19:00:00-05:00",
-    "img": "8a7838b7-a9df-47f6-abd1-1087e57d24de",
-    "nombre": "disney27efbc",
-    "status": "19:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "En Español-#17 Michigan State vs. #9 Kentucky",
-    "league": "Básquetbol Masculino NCAA",
-    "fecha-evento": "2025-11-18T18:30:00-05:00",
-    "img": "3966f867-2aac-4254-aefc-2666d139c35c",
-    "nombre": "disney68dfb0",
-    "status": "18:30",
     "duration": 135,
     "play_url": ""
   }
