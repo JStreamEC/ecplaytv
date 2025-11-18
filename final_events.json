@@ -1,31 +1,5 @@
 [
   {
-    "title": "Dallas Cowboys vs. Las Vegas Raiders",
-    "league": "NFL",
-    "fecha-evento": "2025-11-17T20:00:00-05:00",
-    "img": "504c6428-fca8-470d-8c18-d0713027f607",
-    "nombre": "disneycb4094",
-    "status": "20:00",
-    "duration": 195,
-    "play_url": "https://www.disneyplus.com/es-es/play/c01bef20-db7d-468e-b420-3bfde0723af7",
-    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1763515275~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Ff25bdf06-81c9-4a7c-b128-3128d610ad17-1762951253360%2F~psid=e5a1920c-95ec-462c-b2ed-aa2d7a722e1a~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=1347084287d3b1388d4d197a06d9f5b4dad45109bf2b1969dac4a917de90336c/clt1/va02/disneyplus/channel/f25bdf06-81c9-4a7c-b128-3128d610ad17-1762951253360/ctr-all-sliding-alt1.m3u8?v=1&hash=57a1e5c4737768952c5164be5d4f5ba525d47674",
-    "k1": "b09f1fdd5452442ea6a0a09f07b05945",
-    "k2": "3ac64b9d424d40f2b3261bc75775aaa2"
-  },
-  {
-    "title": "North Alabama vs. Clemson",
-    "league": "Básquetbol Masculino NCAA",
-    "fecha-evento": "2025-11-17T21:00:00-05:00",
-    "img": "019a2b75-7051-7937-ae86-12d6d23049de",
-    "nombre": "disneyaeeabb",
-    "status": "21:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/46b8037b-5119-4da2-8d4a-6b5303fdbd36",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1763517632~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F18%2FNorth_Alabama_vs_Clemson_20251118_1763424938939%2F~psid=ebc67234-7596-41e8-84a0-d1c5281569fc~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=a0ce43303506df241ac98bd0d5316a90e317756420a27f10b7073a1b61e64580/clt1/va02/disneyplus/event/2025/11/18/North_Alabama_vs_Clemson_20251118_1763424938939/ctr-all-hdri-complete.m3u8?v=1&hash=dfe4b001f86e9b84034a293f811d09bb576cdd51",
-    "k1": "b0e5b1a8c2b14a548711a19b0a065c09",
-    "k2": "818004aa587c6bb789ea95af740afed0"
-  },
-  {
     "title": "Utah Mammoth vs. Anaheim Ducks",
     "league": "National Hockey League",
     "fecha-evento": "2025-11-17T22:00:37-05:00",
@@ -634,6 +608,26 @@
     "fecha-evento": "2025-11-19T09:00:00-05:00",
     "img": "fb56271e-4622-4811-ab96-a4439300f157",
     "nombre": "disneyf73000",
+    "status": "09:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Court 9-NCAA Division I Singles & Doubles Championships (Round of 32)",
+    "league": "NCAA Tenis",
+    "fecha-evento": "2025-11-19T09:00:00-05:00",
+    "img": "1e61949d-a19f-4823-8a84-06b3051c5157",
+    "nombre": "disney5bc958",
+    "status": "09:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Court 10-NCAA Division I Singles & Doubles Championships (Round of 32)",
+    "league": "NCAA Tenis",
+    "fecha-evento": "2025-11-19T09:00:00-05:00",
+    "img": "1e61949d-a19f-4823-8a84-06b3051c5157",
+    "nombre": "disney54251a",
     "status": "09:00",
     "duration": 135,
     "play_url": ""
