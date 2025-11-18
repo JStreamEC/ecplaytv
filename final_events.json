@@ -10,16 +10,6 @@
     "play_url": "https://www.disneyplus.com/es-es/play/60fcdfee-e33b-4edc-8072-94032f8d1d9c"
   },
   {
-    "title": "Montreal Canadiens vs. Columbus Blue Jackets",
-    "league": "National Hockey League",
-    "fecha-evento": "2025-11-17T19:30:00-05:00",
-    "img": "afde22e9-1013-4a47-9ea6-0bab888828fb",
-    "nombre": "disneya16c6d",
-    "status": "19:30",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Oklahoma City Blue vs. Capitanes de Ciudad de México",
     "league": "NBA G League",
     "fecha-evento": "2025-11-17T19:00:00-05:00",
@@ -109,6 +99,19 @@
     "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1763511845~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F18%2FLos_Angeles_Kings_vs_Wash_20251118_1763416822582%2F~psid=9dcc7a92-6c51-4e88-8e96-edf0315ae057~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=72e6026ef7cae07f0eb1db9fe28dab1b339eaa23f6695b3fbd407905761d8073/clt1/va02/disneyplus/event/2025/11/18/Los_Angeles_Kings_vs_Wash_20251118_1763416822582/ctr-all-hdri-complete.m3u8?v=1&hash=413483c740cf0648f243da6621e387f7f72c8089",
     "k1": "625ed67ab9dc451b85a6163cb1246c19",
     "k2": "e6e418831ac597e93ecce3a860ca4543"
+  },
+  {
+    "title": "Montreal Canadiens vs. Columbus Blue Jackets",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-11-17T19:30:23-05:00",
+    "img": "afde22e9-1013-4a47-9ea6-0bab888828fb",
+    "nombre": "disneyeb5c25",
+    "status": "19:30",
+    "duration": 210,
+    "play_url": "https://www.disneyplus.com/es-es/play/27efa063-ba82-46a2-890e-ad7d20e7ec69",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1763512874~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F18%2FMontreal_Canadiens_vs_Col_20251118_1763418602042%2F~psid=c55d6409-c945-4bcd-9965-fbe024f2e451~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=7083811df47c712494d7834d6c46bcc9233da86b24623e259d870f92f372196e/clt1/va02/disneyplus/event/2025/11/18/Montreal_Canadiens_vs_Col_20251118_1763418602042/ctr-all-hdri-complete.m3u8?v=1&hash=86e180d773a440f68459066c452bf008e6f2b387",
+    "k1": "ae8a5e59c61a49f49932fdca2bcbd6fd",
+    "k2": "07a993e2700ee88fa69f628bffcfc0e6"
   },
   {
     "title": "Leones de Yucatán vs. Combinado LMB",
