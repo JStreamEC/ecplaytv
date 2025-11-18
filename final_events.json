@@ -13,19 +13,6 @@
     "k2": "dca55c6e642ee40a0ef1410e87a91a21"
   },
   {
-    "title": "Carolina Hurricanes vs. Boston Bruins",
-    "league": "National Hockey League",
-    "fecha-evento": "2025-11-17T19:00:17-05:00",
-    "img": "d2346b89-3d8c-4205-a8fb-37ebce6c192e",
-    "nombre": "disney663cf3",
-    "status": "19:00",
-    "duration": 210,
-    "play_url": "https://www.disneyplus.com/es-es/play/f730bccd-69b0-47e8-a3db-fbbdda149a9f",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1763511820~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F18%2FCarolina_Hurricanes_vs_Bo_20251118_1763416827727%2F~psid=d5b0f610-5e9b-45a9-82e5-de5b53926f2a~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=487c91b26a0ceb0d4522c92a4231e969d8bb4399720e3634f5f1b4c118dd052a/clt1/va02/disneyplus/event/2025/11/18/Carolina_Hurricanes_vs_Bo_20251118_1763416827727/ctr-all-hdri-complete.m3u8?v=1&hash=2024f857b5e106432466e2469c90208b24f131e0",
-    "k1": "00050ed60d5a49f28bbdd1b73720af38",
-    "k2": "07cc0febd155af0fb21e9a86a36f1b0f"
-  },
-  {
     "title": "Los Angeles Kings vs. Washington Capitals",
     "league": "National Hockey League",
     "fecha-evento": "2025-11-17T19:00:18-05:00",
@@ -106,12 +93,15 @@
   {
     "title": "Utah Mammoth vs. Anaheim Ducks",
     "league": "National Hockey League",
-    "fecha-evento": "2025-11-17T22:00:00-05:00",
+    "fecha-evento": "2025-11-17T22:00:37-05:00",
     "img": "da74c2df-bd37-4bd8-a2f0-e0228cbdea28",
-    "nombre": "disney7e03c1",
+    "nombre": "disney178d8e",
     "status": "22:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 209,
+    "play_url": "https://www.disneyplus.com/es-es/play/6b482ecc-afa1-4cbb-9e64-4be072c3a62b",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1763522432~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F18%2FUtah_Mammoth_vs_Anaheim_D_20251118_1763430307400%2F~psid=cf9cddfc-9154-42ba-916d-1cbdf1467c57~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=612320292516aaff3e14e3b3c6ebe5ea5bc09e951486522ccd1f83c57e56edd1/clt1/va02/disneyplus/event/2025/11/18/Utah_Mammoth_vs_Anaheim_D_20251118_1763430307400/ctr-all-hdri-complete.m3u8?v=1&hash=c0280b14c4def58bc97824dab8d732d0dcd86cca",
+    "k1": "7fcfae7a9ba54119bc3e54a1c2ecee5f",
+    "k2": "e8c95c7e1326a1626b4a0702f538b9df"
   },
   {
     "title": "MotoGP Test - Valencia",
@@ -649,6 +639,16 @@
     "fecha-evento": "2025-11-18T21:00:00-05:00",
     "img": "daad0369-e23a-46cf-8225-7725915e5e0d",
     "nombre": "disney47a141",
+    "status": "21:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Monmouth vs. Syracuse",
+    "league": "Básquetbol Masculino NCAA",
+    "fecha-evento": "2025-11-18T21:00:00-05:00",
+    "img": "019a2b75-6df0-78b2-b3a6-d0a5208ad145",
+    "nombre": "disneye05d11",
     "status": "21:00",
     "duration": 135,
     "play_url": ""
