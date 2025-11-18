@@ -13,32 +13,6 @@
     "k2": "5d0c565c8ab3ae214f988a228537c265"
   },
   {
-    "title": "#5 LSU vs. Tulane",
-    "league": "Básquet Femenino NCAA",
-    "fecha-evento": "2025-11-17T19:00:00-05:00",
-    "img": "c09d3d87-fccb-4c09-a358-f469ebaf899e",
-    "nombre": "disneya55652",
-    "status": "19:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/635e93b5-dbf5-43e4-b63b-aa4b5ae1eb16",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1763511719~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F18%2F5_LSU_vs_Tulane_20251118_1763418878926%2F~psid=efabd6b4-84f9-432d-89e1-bcfee7b2ca04~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=475c88c112fe00a5174a7155ef98cfdb3bafe597f83ade5fd2b9e977969b78f8/clt1/va02/disneyplus/event/2025/11/18/5_LSU_vs_Tulane_20251118_1763418878926/ctr-all-hdri-complete.m3u8?v=1&hash=1bb3bba38d7606bc507fb1075bb626de8c44daca",
-    "k1": "b6273debe8f0421f90dff6d850f3ae02",
-    "k2": "caccf8b8e29f08c3205ef2367517a557"
-  },
-  {
-    "title": "VCU vs. #25 NC State",
-    "league": "Básquetbol Masculino NCAA",
-    "fecha-evento": "2025-11-17T19:00:03-05:00",
-    "img": "019a2b75-29e9-7a9d-9647-ee9aca61cf18",
-    "nombre": "disney415118",
-    "status": "19:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/ff2d0180-0950-43ca-b3e0-543c69bf0af9",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1763511744~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F18%2FVCU_vs_25_NC_State_20251118_1763417526101%2F~psid=390336ba-090a-4352-a91e-6a143ab1887e~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=ab7c459dcff070bde1749bb2d399488b4f7f3300d4fef379b864992cce80cfab/clt1/va02/disneyplus/event/2025/11/18/VCU_vs_25_NC_State_20251118_1763417526101/ctr-all-hdri-complete.m3u8?v=1&hash=d086673c73ac213de4e65739bf90751694a2d261",
-    "k1": "0bd288bfc1f14fb4b5089cacbc4f65ab",
-    "k2": "6ea4e3b3e722687c73df121a6e57f1b6"
-  },
-  {
     "title": "Vancouver Canucks vs. Florida Panthers",
     "league": "National Hockey League",
     "fecha-evento": "2025-11-17T19:00:14-05:00",
@@ -479,7 +453,7 @@
     "title": "Austria vs. Bosnia-Herzegovina",
     "league": "Eliminatorias UEFA",
     "fecha-evento": "2025-11-18T14:30:00-05:00",
-    "img": "019a55fe-e268-7e17-af6d-302ec58a1f7f",
+    "img": "019a55fe-e1c9-7f61-942c-379d437a23c0",
     "nombre": "disney580ad9",
     "status": "14:30",
     "duration": 135,
@@ -662,6 +636,26 @@
     "img": "019a757b-8f16-708f-bd22-92454258cbfe",
     "nombre": "disneyaceb04",
     "status": "20:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "New York Islanders vs. Dallas Stars",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-11-18T20:00:00-05:00",
+    "img": "4a50438c-a09f-4886-90e9-a6de90772f08",
+    "nombre": "disney4b04de",
+    "status": "20:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Calgary Flames vs. Chicago Blackhawks",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-11-18T20:30:00-05:00",
+    "img": "19480e09-35ee-459d-89e3-85d4412a6af6",
+    "nombre": "disney8abcb0",
+    "status": "20:30",
     "duration": 135,
     "play_url": ""
   }
