@@ -1,44 +1,5 @@
 [
   {
-    "title": "Los Angeles Kings vs. Washington Capitals",
-    "league": "National Hockey League",
-    "fecha-evento": "2025-11-17T19:00:18-05:00",
-    "img": "019a73dd-e688-7579-8391-5352f06869e5",
-    "nombre": "disney1e1049",
-    "status": "19:00",
-    "duration": 210,
-    "play_url": "https://www.disneyplus.com/es-es/play/459d4a68-b439-48ba-b6a6-49cd20cc68a1",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1763511845~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F18%2FLos_Angeles_Kings_vs_Wash_20251118_1763416822582%2F~psid=9dcc7a92-6c51-4e88-8e96-edf0315ae057~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=72e6026ef7cae07f0eb1db9fe28dab1b339eaa23f6695b3fbd407905761d8073/clt1/va02/disneyplus/event/2025/11/18/Los_Angeles_Kings_vs_Wash_20251118_1763416822582/ctr-all-hdri-complete.m3u8?v=1&hash=413483c740cf0648f243da6621e387f7f72c8089",
-    "k1": "625ed67ab9dc451b85a6163cb1246c19",
-    "k2": "e6e418831ac597e93ecce3a860ca4543"
-  },
-  {
-    "title": "Montreal Canadiens vs. Columbus Blue Jackets",
-    "league": "National Hockey League",
-    "fecha-evento": "2025-11-17T19:30:23-05:00",
-    "img": "afde22e9-1013-4a47-9ea6-0bab888828fb",
-    "nombre": "disneyeb5c25",
-    "status": "19:30",
-    "duration": 210,
-    "play_url": "https://www.disneyplus.com/es-es/play/27efa063-ba82-46a2-890e-ad7d20e7ec69",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1763512874~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F18%2FMontreal_Canadiens_vs_Col_20251118_1763418602042%2F~psid=c55d6409-c945-4bcd-9965-fbe024f2e451~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=7083811df47c712494d7834d6c46bcc9233da86b24623e259d870f92f372196e/clt1/va02/disneyplus/event/2025/11/18/Montreal_Canadiens_vs_Col_20251118_1763418602042/ctr-all-hdri-complete.m3u8?v=1&hash=86e180d773a440f68459066c452bf008e6f2b387",
-    "k1": "ae8a5e59c61a49f49932fdca2bcbd6fd",
-    "k2": "07a993e2700ee88fa69f628bffcfc0e6"
-  },
-  {
-    "title": "Leones de Yucatán vs. Combinado LMB",
-    "league": "ESPN",
-    "fecha-evento": "2025-11-17T19:55:00-05:00",
-    "img": "019a7d8e-c542-78ea-a850-35e9eacafb6d",
-    "nombre": "disneya05a81",
-    "status": "19:55",
-    "duration": 185,
-    "play_url": "https://www.disneyplus.com/es-es/play/9c323a73-c975-476e-941f-8f4451a5b77a",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1763514072~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F18%2FLeones_de_Yucatn_vs_Combi_20251118_1763421938936%2F~psid=933f0108-c1cb-47ec-9204-99f6e303f174~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=84fc1e0b77cddf6bab5a65f563d319cfdc67a99838ae0ca730445aa3a4b1fd76/clt1/va02/disneyplus/event/2025/11/18/Leones_de_Yucatn_vs_Combi_20251118_1763421938936/ctr-all-hdri-complete.m3u8?v=1&hash=780c6a63bb5d7996211c63e8471305e20c66cf66",
-    "k1": "ab1d02a8d38e467091adda3873d4a268",
-    "k2": "4f0e6a1424247f653d6b73c269c4ce3e"
-  },
-  {
     "title": "Dallas Cowboys vs. Las Vegas Raiders",
     "league": "NFL",
     "fecha-evento": "2025-11-17T20:00:00-05:00",
@@ -644,6 +605,36 @@
     "img": "019a75ea-ed84-71fd-bf4f-2e455fe6a360",
     "nombre": "disney33cbcc",
     "status": "22:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "New York Rangers vs. Vegas Golden Knights",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-11-18T22:00:00-05:00",
+    "img": "8f67cf96-fe39-46da-806a-df5b978b8c0c",
+    "nombre": "disney78cf93",
+    "status": "22:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Copa Potrero | Cancha #3 y #4",
+    "league": "Argentine Copa Potrero",
+    "fecha-evento": "2025-11-19T07:15:00-05:00",
+    "img": "019a6ef9-c0b6-7127-8797-ab828a3c8fd5",
+    "nombre": "disney3f37c7",
+    "status": "07:15",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Court 11-NCAA Division I Singles & Doubles Championships (Round of 32)",
+    "league": "NCAA Tenis",
+    "fecha-evento": "2025-11-19T09:00:00-05:00",
+    "img": "fb56271e-4622-4811-ab96-a4439300f157",
+    "nombre": "disneyf73000",
+    "status": "09:00",
     "duration": 135,
     "play_url": ""
   }
