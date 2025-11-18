@@ -1,18 +1,5 @@
 [
   {
-    "title": "Vancouver Canucks vs. Florida Panthers",
-    "league": "National Hockey League",
-    "fecha-evento": "2025-11-17T19:00:14-05:00",
-    "img": "81e497fc-8c72-40d7-8d2e-84352a2e774f",
-    "nombre": "disneye11e8a",
-    "status": "19:00",
-    "duration": 210,
-    "play_url": "https://www.disneyplus.com/es-es/play/f80f6c4e-128f-49ab-854a-1a85b5f7feb8",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1763511770~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F18%2FVancouver_Canucks_vs_Flor_20251118_1763416816044%2F~psid=c4673cec-801c-4043-9c90-17536c67ee0c~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=bc4ff0a37c18c1465163a2e2d4be9332b44167894896025949906ec2b3b7ec86/clt1/va02/disneyplus/event/2025/11/18/Vancouver_Canucks_vs_Flor_20251118_1763416816044/ctr-all-hdri-complete.m3u8?v=1&hash=b36caa65c349ebff5016b411731bad1071856e49",
-    "k1": "d9223b3b34884beaa9de7ca0859a960d",
-    "k2": "dca55c6e642ee40a0ef1410e87a91a21"
-  },
-  {
     "title": "Los Angeles Kings vs. Washington Capitals",
     "league": "National Hockey League",
     "fecha-evento": "2025-11-17T19:00:18-05:00",
@@ -63,19 +50,6 @@
     "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1763515275~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Ff25bdf06-81c9-4a7c-b128-3128d610ad17-1762951253360%2F~psid=e5a1920c-95ec-462c-b2ed-aa2d7a722e1a~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=1347084287d3b1388d4d197a06d9f5b4dad45109bf2b1969dac4a917de90336c/clt1/va02/disneyplus/channel/f25bdf06-81c9-4a7c-b128-3128d610ad17-1762951253360/ctr-all-sliding-alt1.m3u8?v=1&hash=57a1e5c4737768952c5164be5d4f5ba525d47674",
     "k1": "b09f1fdd5452442ea6a0a09f07b05945",
     "k2": "3ac64b9d424d40f2b3261bc75775aaa2"
-  },
-  {
-    "title": "Rice vs. #20 Tennessee",
-    "league": "Básquetbol Masculino NCAA",
-    "fecha-evento": "2025-11-17T20:30:03-05:00",
-    "img": "cafd8523-e734-4019-acee-6b0fbe7246bb",
-    "nombre": "disneyb6ecee",
-    "status": "20:30",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/84dda64b-0d4b-4264-b10f-1a4007c91546",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1763516430~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F18%2FRice_vs_20_Tennessee_20251118_1763425358949%2F~psid=312b22ba-7106-4fef-9f9b-77d399d81740~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=053dda00af9cc0906ec71aea2c4b7e00ac9196f7a8c231b7705468b5ec4e7107/clt1/va02/disneyplus/event/2025/11/18/Rice_vs_20_Tennessee_20251118_1763425358949/ctr-all-hdri-complete.m3u8?v=1&hash=ab9dc38352713fd3a0c9e84d619a0264fae176fd",
-    "k1": "e4d96650c91c485486f059c678bf3083",
-    "k2": "703177d06640dc5447a1e1fd63bb410d"
   },
   {
     "title": "North Alabama vs. Clemson",
@@ -650,6 +624,26 @@
     "img": "019a2b75-6df0-78b2-b3a6-d0a5208ad145",
     "nombre": "disneye05d11",
     "status": "21:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Rider vs. Texas",
+    "league": "Básquetbol Masculino NCAA",
+    "fecha-evento": "2025-11-18T21:00:00-05:00",
+    "img": "3501320b-562a-499d-ba01-9d3f94f684e3",
+    "nombre": "disneye2c2f0",
+    "status": "21:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Utah Mammoth vs. San Jose Sharks",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-11-18T22:00:00-05:00",
+    "img": "019a75ea-ed84-71fd-bf4f-2e455fe6a360",
+    "nombre": "disney33cbcc",
+    "status": "22:00",
     "duration": 135,
     "play_url": ""
   }
