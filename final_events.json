@@ -1,25 +1,5 @@
 [
   {
-    "title": "Carolina Hurricanes vs. Boston Bruins",
-    "league": "National Hockey League",
-    "fecha-evento": "2025-11-17T19:00:00-05:00",
-    "img": "d2346b89-3d8c-4205-a8fb-37ebce6c192e",
-    "nombre": "disneyac1342",
-    "status": "19:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Vancouver Canucks vs. Florida Panthers",
-    "league": "National Hockey League",
-    "fecha-evento": "2025-11-17T19:00:00-05:00",
-    "img": "81e497fc-8c72-40d7-8d2e-84352a2e774f",
-    "nombre": "disney2e17b9",
-    "status": "19:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Florida A&M vs. Georgia",
     "league": "Básquetbol Masculino NCAA",
     "fecha-evento": "2025-11-17T18:30:03-05:00",
@@ -28,26 +8,6 @@
     "status": "18:30",
     "duration": 120,
     "play_url": "https://www.disneyplus.com/es-es/play/60fcdfee-e33b-4edc-8072-94032f8d1d9c"
-  },
-  {
-    "title": "Los Angeles Kings vs. Washington Capitals",
-    "league": "National Hockey League",
-    "fecha-evento": "2025-11-17T19:00:00-05:00",
-    "img": "019a73dd-e688-7579-8391-5352f06869e5",
-    "nombre": "disney5c5697",
-    "status": "19:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "VCU vs. #25 NC State",
-    "league": "Básquetbol Masculino NCAA",
-    "fecha-evento": "2025-11-17T19:00:00-05:00",
-    "img": "019a2b75-29e9-7a9d-9647-ee9aca61cf18",
-    "nombre": "disney815e1c",
-    "status": "19:00",
-    "duration": 135,
-    "play_url": ""
   },
   {
     "title": "Montreal Canadiens vs. Columbus Blue Jackets",
@@ -66,8 +26,11 @@
     "img": "979d2b65-4236-49ed-9d88-b473bd02ce1a",
     "nombre": "disneyeca5b6",
     "status": "19:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 150,
+    "play_url": "https://www.disneyplus.com/es-es/play/a7789f72-0b35-464f-8a94-a8b63b455abf",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1763511674~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F18%2FOklahoma_City_Blue_vs_Cap_20251118_1763416848044%2F~psid=849c5894-9d0d-414d-95b0-8d95af856182~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=56bb8dc3748750d2dddada7dd58ddc85b44aab782a0bc66eb4f88386f818afad/clt1/va02/disneyplus/event/2025/11/18/Oklahoma_City_Blue_vs_Cap_20251118_1763416848044/ctr-all-hdri-complete.m3u8?v=1&hash=77651503039053b7343ba251f767457b93b91185",
+    "k1": "2f34d3ae251e4bc9ab02b505f070eb71",
+    "k2": "5d0c565c8ab3ae214f988a228537c265"
   },
   {
     "title": "#5 LSU vs. Tulane",
@@ -76,18 +39,76 @@
     "img": "c09d3d87-fccb-4c09-a358-f469ebaf899e",
     "nombre": "disneya55652",
     "status": "19:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/635e93b5-dbf5-43e4-b63b-aa4b5ae1eb16",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1763511719~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F18%2F5_LSU_vs_Tulane_20251118_1763418878926%2F~psid=efabd6b4-84f9-432d-89e1-bcfee7b2ca04~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=475c88c112fe00a5174a7155ef98cfdb3bafe597f83ade5fd2b9e977969b78f8/clt1/va02/disneyplus/event/2025/11/18/5_LSU_vs_Tulane_20251118_1763418878926/ctr-all-hdri-complete.m3u8?v=1&hash=1bb3bba38d7606bc507fb1075bb626de8c44daca",
+    "k1": "b6273debe8f0421f90dff6d850f3ae02",
+    "k2": "caccf8b8e29f08c3205ef2367517a557"
+  },
+  {
+    "title": "VCU vs. #25 NC State",
+    "league": "Básquetbol Masculino NCAA",
+    "fecha-evento": "2025-11-17T19:00:03-05:00",
+    "img": "019a2b75-29e9-7a9d-9647-ee9aca61cf18",
+    "nombre": "disney415118",
+    "status": "19:00",
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/ff2d0180-0950-43ca-b3e0-543c69bf0af9",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1763511744~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F18%2FVCU_vs_25_NC_State_20251118_1763417526101%2F~psid=390336ba-090a-4352-a91e-6a143ab1887e~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=ab7c459dcff070bde1749bb2d399488b4f7f3300d4fef379b864992cce80cfab/clt1/va02/disneyplus/event/2025/11/18/VCU_vs_25_NC_State_20251118_1763417526101/ctr-all-hdri-complete.m3u8?v=1&hash=d086673c73ac213de4e65739bf90751694a2d261",
+    "k1": "0bd288bfc1f14fb4b5089cacbc4f65ab",
+    "k2": "6ea4e3b3e722687c73df121a6e57f1b6"
+  },
+  {
+    "title": "Vancouver Canucks vs. Florida Panthers",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-11-17T19:00:14-05:00",
+    "img": "81e497fc-8c72-40d7-8d2e-84352a2e774f",
+    "nombre": "disneye11e8a",
+    "status": "19:00",
+    "duration": 210,
+    "play_url": "https://www.disneyplus.com/es-es/play/f80f6c4e-128f-49ab-854a-1a85b5f7feb8",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1763511770~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F18%2FVancouver_Canucks_vs_Flor_20251118_1763416816044%2F~psid=c4673cec-801c-4043-9c90-17536c67ee0c~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=bc4ff0a37c18c1465163a2e2d4be9332b44167894896025949906ec2b3b7ec86/clt1/va02/disneyplus/event/2025/11/18/Vancouver_Canucks_vs_Flor_20251118_1763416816044/ctr-all-hdri-complete.m3u8?v=1&hash=b36caa65c349ebff5016b411731bad1071856e49",
+    "k1": "d9223b3b34884beaa9de7ca0859a960d",
+    "k2": "dca55c6e642ee40a0ef1410e87a91a21"
   },
   {
     "title": "Edmonton Oilers vs. Buffalo Sabres",
     "league": "National Hockey League",
-    "fecha-evento": "2025-11-17T19:00:00-05:00",
+    "fecha-evento": "2025-11-17T19:00:18-05:00",
     "img": "6a681cd0-ebe5-4639-8541-d6d53348d444",
-    "nombre": "disney8f8f30",
+    "nombre": "disneyb767b5",
     "status": "19:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 210,
+    "play_url": "https://www.disneyplus.com/es-es/play/ea8f2fd0-ca4a-4f11-b5d4-1b751dc15307",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1763511795~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F18%2FEdmonton_Oilers_vs_Buffal_20251118_1763416834030%2F~psid=84404c9b-795b-4176-a544-3b269c53bf3d~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=baaef84a8594844fc2948306314e7b2176656897714d80c967d687694029034f/clt1/va02/disneyplus/event/2025/11/18/Edmonton_Oilers_vs_Buffal_20251118_1763416834030/ctr-all-hdri-complete.m3u8?v=1&hash=aed417e67e6e33e24acea4ac6cfd10ae7aafdd2a",
+    "k1": "08d081696ec64eeeb3601931ecdfe59f",
+    "k2": "87b339e651467062505cb52aacc590e4"
+  },
+  {
+    "title": "Carolina Hurricanes vs. Boston Bruins",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-11-17T19:00:17-05:00",
+    "img": "d2346b89-3d8c-4205-a8fb-37ebce6c192e",
+    "nombre": "disney663cf3",
+    "status": "19:00",
+    "duration": 210,
+    "play_url": "https://www.disneyplus.com/es-es/play/f730bccd-69b0-47e8-a3db-fbbdda149a9f",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1763511820~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F18%2FCarolina_Hurricanes_vs_Bo_20251118_1763416827727%2F~psid=d5b0f610-5e9b-45a9-82e5-de5b53926f2a~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=487c91b26a0ceb0d4522c92a4231e969d8bb4399720e3634f5f1b4c118dd052a/clt1/va02/disneyplus/event/2025/11/18/Carolina_Hurricanes_vs_Bo_20251118_1763416827727/ctr-all-hdri-complete.m3u8?v=1&hash=2024f857b5e106432466e2469c90208b24f131e0",
+    "k1": "00050ed60d5a49f28bbdd1b73720af38",
+    "k2": "07cc0febd155af0fb21e9a86a36f1b0f"
+  },
+  {
+    "title": "Los Angeles Kings vs. Washington Capitals",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-11-17T19:00:18-05:00",
+    "img": "019a73dd-e688-7579-8391-5352f06869e5",
+    "nombre": "disney1e1049",
+    "status": "19:00",
+    "duration": 210,
+    "play_url": "https://www.disneyplus.com/es-es/play/459d4a68-b439-48ba-b6a6-49cd20cc68a1",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1763511845~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F18%2FLos_Angeles_Kings_vs_Wash_20251118_1763416822582%2F~psid=9dcc7a92-6c51-4e88-8e96-edf0315ae057~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=72e6026ef7cae07f0eb1db9fe28dab1b339eaa23f6695b3fbd407905761d8073/clt1/va02/disneyplus/event/2025/11/18/Los_Angeles_Kings_vs_Wash_20251118_1763416822582/ctr-all-hdri-complete.m3u8?v=1&hash=413483c740cf0648f243da6621e387f7f72c8089",
+    "k1": "625ed67ab9dc451b85a6163cb1246c19",
+    "k2": "e6e418831ac597e93ecce3a860ca4543"
   },
   {
     "title": "Leones de Yucatán vs. Combinado LMB",
