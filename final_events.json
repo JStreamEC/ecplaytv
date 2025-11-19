@@ -117,26 +117,6 @@
     "k2": "39eb554d3842cdc8fd38c8be9d3f1fdb"
   },
   {
-    "title": "New York Islanders vs. Dallas Stars",
-    "league": "National Hockey League",
-    "fecha-evento": "2025-11-18T20:00:00-05:00",
-    "img": "4a50438c-a09f-4886-90e9-a6de90772f08",
-    "nombre": "disney4b04de",
-    "status": "20:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Columbus Blue Jackets vs. Winnipeg Jets",
-    "league": "National Hockey League",
-    "fecha-evento": "2025-11-18T20:00:00-05:00",
-    "img": "019a757b-8f16-708f-bd22-92454258cbfe",
-    "nombre": "disneyaceb04",
-    "status": "20:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Calgary Flames vs. Chicago Blackhawks",
     "league": "National Hockey League",
     "fecha-evento": "2025-11-18T20:30:00-05:00",
@@ -149,12 +129,41 @@
   {
     "title": "South Bay Lakers vs. Salt Lake City Stars",
     "league": "NBA G League",
-    "fecha-evento": "2025-11-18T20:00:00-05:00",
+    "fecha-evento": "2025-11-18T20:00:03-05:00",
     "img": "4c9b0331-0aa0-424e-87b5-7a350965af31",
-    "nombre": "disneyb96fb4",
+    "nombre": "disney655de1",
     "status": "20:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/50c6c232-733b-4056-b400-aa1499c613f3",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1763601624~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F19%2FSouth_Bay_Lakers_vs_Salt__20251119_1763506855044%2F~psid=4507820a-fca3-48ad-a601-d6108ee32f02~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=81c8a2890b770e7e5e68dded87ebe7893802d46809a6358ffa08571bb55ceb3c/clt1/va02/disneyplus/event/2025/11/19/South_Bay_Lakers_vs_Salt__20251119_1763506855044/ctr-all-hdri-complete.m3u8?v=1&hash=97b70822cc84a815be5fddb751b314219362cde5",
+    "k1": "264003d449c5485eba129d9d48f1a827",
+    "k2": "905f72f1a3c6a1069ea56514dcf1145c"
+  },
+  {
+    "title": "Columbus Blue Jackets vs. Winnipeg Jets",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-11-18T20:00:18-05:00",
+    "img": "019a757b-8f16-708f-bd22-92454258cbfe",
+    "nombre": "disneya17549",
+    "status": "20:00",
+    "duration": 210,
+    "play_url": "https://www.disneyplus.com/es-es/play/060ba9e3-acc3-49a0-9212-63aebcbaf92d",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1763601669~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F19%2FColumbus_Blue_Jackets_vs__20251119_1763506859648%2F~psid=d0c123ed-e1ce-480a-81f2-83f14eac849c~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=14bc84275aad453dab88309ecc626f2e53619f5cb18ed63c86e8b17a07e538c0/clt1/va02/disneyplus/event/2025/11/19/Columbus_Blue_Jackets_vs__20251119_1763506859648/ctr-all-hdri-complete.m3u8?v=1&hash=97d4d5b6ed2927780f2f0c5d2b396f9c765d0844",
+    "k1": "ae40bcce0e554d1eb8980e8be2ed2779",
+    "k2": "7678b9b2400967ac72409afe88603739"
+  },
+  {
+    "title": "New York Islanders vs. Dallas Stars",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-11-18T20:00:21-05:00",
+    "img": "4a50438c-a09f-4886-90e9-a6de90772f08",
+    "nombre": "disney7a67c4",
+    "status": "20:00",
+    "duration": 210,
+    "play_url": "https://www.disneyplus.com/es-es/play/7e2e2994-5339-4288-87e9-bbf92d3d13ff",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1763601714~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F19%2FNew_York_Islanders_vs_Dal_20251119_1763506855608%2F~psid=c29b38cb-9066-49e7-befe-b1bf1f46d207~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=14b577f67b563ddbb396223e4fba559b67b92b7193db802ca652bbaa80daf9ac/clt1/va02/disneyplus/event/2025/11/19/New_York_Islanders_vs_Dal_20251119_1763506855608/ctr-all-hdri-complete.m3u8?v=1&hash=059020eefd7d46152573f4019bcf4db26b74f501",
+    "k1": "e5b8e46a06cc4d31b8c1c6c0f79f4443",
+    "k2": "9ac395d6eea6960486303eeed50f6b9a"
   },
   {
     "title": "En Español-#25 Kansas vs. #4 Duke",
