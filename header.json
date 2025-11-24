@@ -4,16 +4,16 @@
       "domain": "tv-mgmt.gtd.cl",
       "headers": {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
-        "Referer": "https://tv-mgmt.gtd.cl/",
-        "Origin": "https://tv-mgmt.gtd.cl"
+        "Referer": "https://tv-cdn02.gtd.cl",
+        "Origin": "https://tv-cdn02.gtd.cl"
       }
     },
     {
-      "domain": "tv-mgmt.gtd.cl",
+      "domain": "https://tv-cdn02.gtd.cl",
       "headers": {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
-        "Referer": "https://www.clarovideo.com/",
-        "Origin": "https://www.clarovideo.com"
+        "Referer": "https://tv-mgmt.gtd.cl/",
+        "Origin": "https://tv-mgmt.gtd.cl"
       }
     },
     {
