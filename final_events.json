@@ -1,18 +1,5 @@
 [
   {
-    "title": "Southern Indiana vs. Morehead State (Semifinal #2)",
-    "league": "NCAA Women's Volleyball",
-    "fecha-evento": "2025-11-24T16:00:12-05:00",
-    "img": "73d65155-a60b-4cca-9362-b02b0a4317a8",
-    "nombre": "disney217f58",
-    "status": "16:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/33175412-165e-461e-9dac-abc676c1ec47",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1764105623~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F24%2FSouthern_Indiana_vs_Moreh_20251124_1764010830025%2F~psid=0fada042-c01b-4339-a43b-203142affbf0~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=8b2f0cfd2501f0c5cc0b15d4ea3d0477cdfa55317876604c46cfdb43f82e1a11/clt1/va02/disneyplus/event/2025/11/24/Southern_Indiana_vs_Moreh_20251124_1764010830025/ctr-all-hdri-complete.m3u8?v=1&hash=0e74ef0f695e95593d6f681df357da0fd9c8775d",
-    "k1": "1c27df7b051e48eb838697bb2f42033d",
-    "k2": "e1b1c71c1924c2e078964c120bcb60ec"
-  },
-  {
     "title": "Temple vs. UC San Diego",
     "league": "Básquetbol Masculino NCAA",
     "fecha-evento": "2025-11-24T16:30:00-05:00",
@@ -67,12 +54,15 @@
   {
     "title": "#18 Tennessee vs. #2 Kentucky (Semifinal #1)",
     "league": "NCAA Women's Volleyball",
-    "fecha-evento": "2025-11-24T18:00:00-05:00",
-    "img": "43425396-8b07-47bc-8f74-82b029e57030",
-    "nombre": "disneybf600c",
+    "fecha-evento": "2025-11-24T18:00:02-05:00",
+    "img": "4bb37fb5-d0b5-452b-ab9a-e211d84dff3e",
+    "nombre": "disney8e90e8",
     "status": "18:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/773f1d83-3842-425c-8d32-f08a29fba502",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1764112825~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F24%2F18_Tennessee_vs_2_Kentuck_20251124_1764018018037%2F~psid=ad63d232-94db-444b-be0c-a7c30649d006~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=f32f38bc5e2fd4867d9b459a98cff93958293efbbe3f21c32cb0074cad18119c/clt1/va02/disneyplus/event/2025/11/24/18_Tennessee_vs_2_Kentuck_20251124_1764018018037/ctr-all-hdri-complete.m3u8?v=1&hash=2161b18e20f147e8d10feac491612b780e182f41",
+    "k1": "a763b0421de04fb99876a6285d096f4a",
+    "k2": "d66e7065438391ba6378d118b858d20b"
   },
   {
     "title": "Columbus Blue Jackets vs. Washington Capitals",
@@ -601,6 +591,16 @@
     "img": "d7333672-81a5-43ac-89e5-64ba7e7a2960",
     "nombre": "disneycf2727",
     "status": "20:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Dallas Stars vs. Edmonton Oilers",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-11-25T21:00:00-05:00",
+    "img": "cfe32137-e737-4575-b7af-8272372d42fb",
+    "nombre": "disney0986d7",
+    "status": "21:00",
     "duration": 135,
     "play_url": ""
   }
