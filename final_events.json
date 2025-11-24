@@ -1,18 +1,5 @@
 [
   {
-    "title": "Diablos Rojos del México vs. Acereros de Monclova",
-    "league": "ESPN",
-    "fecha-evento": "2025-11-24T14:55:00-05:00",
-    "img": "019ab6ef-fdc4-7877-b275-f198773282d3",
-    "nombre": "disneya47d4c",
-    "status": "14:55",
-    "duration": 185,
-    "play_url": "https://www.disneyplus.com/es-es/play/0980cfb8-05a9-4017-a98b-583c12daf338",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1764100823~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F24%2FDiablos_Rojos_del_Mxico_v_20251124_1764006958041%2F~psid=16adfa41-852e-4750-91e9-4bb145168bc5~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=51f9173b66601ed74780f1c50ec451d542e1cd924efec3cb9a8c142b257f9899/clt1/va02/disneyplus/event/2025/11/24/Diablos_Rojos_del_Mxico_v_20251124_1764006958041/ctr-all-hdri-complete.m3u8?v=1&hash=17fff3cf8e9dee1f1e27dc2ddaf7c93672633bd9",
-    "k1": "9add8b6859b246d69fd67aecd252dc66",
-    "k2": "711aee505ec232a20502b963bf033a37"
-  },
-  {
     "title": "Southern Indiana vs. Morehead State (Semifinal #2)",
     "league": "NCAA Women's Volleyball",
     "fecha-evento": "2025-11-24T16:00:12-05:00",
@@ -67,12 +54,15 @@
   {
     "title": "Charleston vs. Evansville (3rd Place)",
     "league": "Básquetbol Masculino NCAA",
-    "fecha-evento": "2025-11-24T17:30:00-05:00",
-    "img": "019ab670-bd4e-7669-b9b2-ce99c45ac88e",
-    "nombre": "disneyecacdf",
+    "fecha-evento": "2025-11-24T17:30:05-05:00",
+    "img": "019ab670-bd49-7d46-b54e-398f3075f769",
+    "nombre": "disney09bd35",
     "status": "17:30",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/8b5631a8-7e1c-487c-b513-2f3f578bff3e",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1764110423~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F24%2FCharleston_vs_Evansville__20251124_1764016249021%2F~psid=4d3b10f6-05b1-4f80-bd49-d665940ae8b2~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=97cd9d332aaf2077124aedf8162e1cc8c6ebe9ee81c3c732ae52103f2e9eed56/clt1/va02/disneyplus/event/2025/11/24/Charleston_vs_Evansville__20251124_1764016249021/ctr-all-hdri-complete.m3u8?v=1&hash=b9d76b25e1318c74df7665796f504fb3105ca5c4",
+    "k1": "3792dbd4600441bc8b2ee3bf54a4d5f1",
+    "k2": "eae383371b241f0dd03744b1527df716"
   },
   {
     "title": "#18 Tennessee vs. #2 Kentucky (Semifinal #1)",
@@ -315,11 +305,11 @@
     "play_url": ""
   },
   {
-    "title": "Terry's Chocolate ESPN Events Invitational - Adventure Bracket as part of Feast Week Presented by Lowe's (Semifinal)",
+    "title": "Towson vs. Liberty (Semifinal)",
     "league": "Básquetbol Masculino NCAA",
     "fecha-evento": "2025-11-25T12:00:00-05:00",
     "img": "054dd145-9866-407b-b68d-87f18abb31f9",
-    "nombre": "disney38c1a0",
+    "nombre": "disneyab9265",
     "status": "12:00",
     "duration": 135,
     "play_url": ""
@@ -485,6 +475,16 @@
     "play_url": ""
   },
   {
+    "title": "Terry's Chocolate ESPN Events Invitational - Adventure Bracket as part of Feast Week Presented by Lowe's (Semifinal)",
+    "league": "Básquetbol Masculino NCAA",
+    "fecha-evento": "2025-11-25T17:00:00-05:00",
+    "img": "054dd145-9866-407b-b68d-87f18abb31f9",
+    "nombre": "disney9f33ff",
+    "status": "17:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
     "title": "Maui Invitational",
     "league": "Básquetbol Masculino NCAA",
     "fecha-evento": "2025-11-25T17:00:00-05:00",
@@ -591,6 +591,16 @@
     "img": "019ab729-183e-7fb0-a6a6-db7fa1329d3a",
     "nombre": "disney224752",
     "status": "19:55",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Maui Invitational (Semifinal)",
+    "league": "Básquetbol Masculino NCAA",
+    "fecha-evento": "2025-11-25T20:00:00-05:00",
+    "img": "054dd145-9866-407b-b68d-87f18abb31f9",
+    "nombre": "disney6fa87d",
+    "status": "20:00",
     "duration": 135,
     "play_url": ""
   }
