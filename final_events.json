@@ -13,32 +13,6 @@
     "k2": "d4ec9b6863e9d823f175f3bfd5e82ea9"
   },
   {
-    "title": "Al Ahli Saudi (KSA) vs. Sharjah (UAE)",
-    "league": "AFC Champions League",
-    "fecha-evento": "2025-11-24T13:10:00-05:00",
-    "img": "019a7990-14a0-7832-aefb-8f5748a8309e",
-    "nombre": "disneyf125e2",
-    "status": "13:10",
-    "duration": 125,
-    "play_url": "https://www.disneyplus.com/es-es/play/b2931e95-e53a-4347-adb4-f77089849754",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1764094826~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F24%2FAl_Ahli_Saudi_KSA_vs_Shar_20251124_1764000630028%2F~psid=40e62772-cf55-4016-a6c5-30c3719599cb~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=57577471057a39ef16157c13d215f893ccd994cd830cd13f452ba94665662a9b/clt1/va02/disneyplus/event/2025/11/24/Al_Ahli_Saudi_KSA_vs_Shar_20251124_1764000630028/ctr-all-hdri-complete.m3u8?v=1&hash=c54e9cdc1e29a16e7dfca7d0d41d63c9b8e8bedb",
-    "k1": "f91ecd0bd739413d895bdc643ac45641",
-    "k2": "c52920d76481e49bd18f8055c9fcd139"
-  },
-  {
-    "title": "Liberty vs. Vermont",
-    "league": "Básquetbol Masculino NCAA",
-    "fecha-evento": "2025-11-24T13:30:01-05:00",
-    "img": "e4347acc-f86f-4b28-9529-f73a0fd4e13e",
-    "nombre": "disney88bc4c",
-    "status": "13:30",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/efac4a46-f0f1-4a28-ae8c-696aade08423",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1764096023~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F24%2FLiberty_vs_Vermont_20251124_1764001815020%2F~psid=b0660cc6-70df-4433-b91c-5531aad40c32~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=7dea32a1b216772272d725146a5c8e4f24898f30ace76e54560ff24bc4637524/clt1/va02/disneyplus/event/2025/11/24/Liberty_vs_Vermont_20251124_1764001815020/ctr-all-hdri-complete.m3u8?v=1&hash=18cccb07d2fe780fd4eda43d14bef573a7daf26a",
-    "k1": "24bc268cd4f944e9a8ed3ccefe310710",
-    "k2": "143a103df1f7b8be0f24373d7108f781"
-  },
-  {
     "title": "New Mexico State vs. San Diego",
     "league": "Básquet Femenino NCAA",
     "fecha-evento": "2025-11-24T14:00:05-05:00",
@@ -346,7 +320,7 @@
     "title": "#6 Texas A&M vs. #3 Texas (Semifinal #2)",
     "league": "NCAA Women's Volleyball",
     "fecha-evento": "2025-11-24T20:30:00-05:00",
-    "img": "53a5ca9b-3449-4ee5-80e7-1da1414812c7",
+    "img": "c7d5ad42-31af-47db-93fd-230e851e7523",
     "nombre": "disney134e0e",
     "status": "20:30",
     "duration": 135,
@@ -619,6 +593,26 @@
     "img": "054dd145-9866-407b-b68d-87f18abb31f9",
     "nombre": "disney2fea79",
     "status": "17:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "O&M FC vs. Mt. Pleasant FA (Final, First Leg)",
+    "league": "Concacaf Caribbean Cup",
+    "fecha-evento": "2025-11-25T17:50:00-05:00",
+    "img": "019a9286-6a56-7b1b-9e31-0d499c2c6e6c",
+    "nombre": "disney30799e",
+    "status": "17:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Big Sky Volleyball Championship (Semifinals)",
+    "league": "NCAA Women's Volleyball",
+    "fecha-evento": "2025-11-25T18:00:00-05:00",
+    "img": "67ce49cc-c04b-4427-86f2-3c19d738603c",
+    "nombre": "disney4433d7",
+    "status": "18:00",
     "duration": 135,
     "play_url": ""
   }
