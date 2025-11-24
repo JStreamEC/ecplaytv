@@ -1,18 +1,5 @@
 [
   {
-    "title": "Temple vs. UC San Diego",
-    "league": "Básquetbol Masculino NCAA",
-    "fecha-evento": "2025-11-24T16:30:00-05:00",
-    "img": "019aa61f-648e-7ebb-8162-606d5cad6cbe",
-    "nombre": "disney963b5a",
-    "status": "16:30",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/7a59e281-89c2-4531-9c4a-65c488f165a1",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1764106821~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F24%2FTemple_vs_UC_San_Diego_20251124_1764012629017%2F~psid=f4f34628-5665-44bd-931a-3858ec80021c~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=8e4bb985bc4f1d7ece523a36abb18962dc7c3b31a544efade77f2ac8685e56d5/clt1/va02/disneyplus/event/2025/11/24/Temple_vs_UC_San_Diego_20251124_1764012629017/ctr-all-hdri-complete.m3u8?v=1&hash=2097eea3e6092b4f356fbd4d8fd9ec2b81a9c8f8",
-    "k1": "d85e84f8a1904e4a98407c8a30b3c952",
-    "k2": "dadf5f218dca6ec1d7dbb693879174a9"
-  },
-  {
     "title": "Racing Club vs. River Plate",
     "league": "Liga Profesional de Fútbol",
     "fecha-evento": "2025-11-24T17:00:00-05:00",
@@ -65,6 +52,16 @@
     "k2": "d66e7065438391ba6378d118b858d20b"
   },
   {
+    "title": "Detroit Red Wings vs. New Jersey Devils",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-11-24T19:00:00-05:00",
+    "img": "d716d211-dc4d-4034-b6a1-9f81a5924620",
+    "nombre": "disneydfba44",
+    "status": "19:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
     "title": "Columbus Blue Jackets vs. Washington Capitals",
     "league": "National Hockey League",
     "fecha-evento": "2025-11-24T19:00:00-05:00",
@@ -80,16 +77,6 @@
     "fecha-evento": "2025-11-24T19:00:00-05:00",
     "img": "36510398-a8a0-4bc4-9aeb-607a207f7765",
     "nombre": "disney103388",
-    "status": "19:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Detroit Red Wings vs. New Jersey Devils",
-    "league": "National Hockey League",
-    "fecha-evento": "2025-11-24T19:00:00-05:00",
-    "img": "d716d211-dc4d-4034-b6a1-9f81a5924620",
-    "nombre": "disneydfba44",
     "status": "19:00",
     "duration": 135,
     "play_url": ""
@@ -118,7 +105,7 @@
     "title": "Princeton vs. Bradley",
     "league": "Básquetbol Masculino NCAA",
     "fecha-evento": "2025-11-24T19:00:00-05:00",
-    "img": "8bf489f3-011b-416e-87cb-0be01a4f6ea9",
+    "img": "106b068c-7305-4f84-aadb-5020d87c6e93",
     "nombre": "disneyff1285",
     "status": "19:00",
     "duration": 135,
@@ -168,7 +155,7 @@
     "title": "Yale vs. Akron (Championship)",
     "league": "Básquetbol Masculino NCAA",
     "fecha-evento": "2025-11-24T20:00:00-05:00",
-    "img": "019ab670-9895-7812-93b8-3d1be034fb4a",
+    "img": "019ab670-989c-7e11-ac3c-5bf79b89b513",
     "nombre": "disney52abad",
     "status": "20:00",
     "duration": 135,
@@ -600,6 +587,16 @@
     "fecha-evento": "2025-11-25T21:00:00-05:00",
     "img": "cfe32137-e737-4575-b7af-8272372d42fb",
     "nombre": "disney0986d7",
+    "status": "21:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Rip City Remix vs. Valley Suns",
+    "league": "NBA G League",
+    "fecha-evento": "2025-11-25T21:00:00-05:00",
+    "img": "019a504a-42e1-77d8-bebd-affc03995cb9",
+    "nombre": "disneya6fa8a",
     "status": "21:00",
     "duration": 135,
     "play_url": ""
