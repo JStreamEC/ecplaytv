@@ -65,19 +65,6 @@
     "k2": "36e058378069cf52b50f3b159b3553b6"
   },
   {
-    "title": "Illinois vs. Missouri",
-    "league": "NCAA Luchas",
-    "fecha-evento": "2025-11-24T12:05:00-05:00",
-    "img": "79dccdb5-ae78-4f5d-9a66-a92bf90f5698",
-    "nombre": "disneya9e416",
-    "status": "12:05",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/e4ef1931-efe3-483a-ada7-95ebffbe055a",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1764091393~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F24%2FIllinois_vs_Missouri_20251124_1763996702042%2F~psid=802c0601-f2e8-4e24-88f8-4ae99b480708~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=9242c3de8f11f9f373dfaa19d364de57948461bbe6623e091b1a9618557bc2f1/clt1/va02/disneyplus/event/2025/11/24/Illinois_vs_Missouri_20251124_1763996702042/ctr-all-hdri-complete.m3u8?v=1&hash=7baeae0c699e646a367838f43dce69f75f16556b",
-    "k1": "e72e6cb275df4f42a6b61142089c59ec",
-    "k2": "835ce7b2a4637abaa0fb6b06200a704c"
-  },
-  {
     "title": "Torino vs. Como",
     "league": "Seria A",
     "fecha-evento": "2025-11-24T12:20:00-05:00",
@@ -107,7 +94,7 @@
     "title": "Al Ahli Saudi (KSA) vs. Sharjah (UAE)",
     "league": "AFC Champions League",
     "fecha-evento": "2025-11-24T13:10:00-05:00",
-    "img": "019a7990-14be-7f10-98f6-8acfcf5543c3",
+    "img": "019a7990-14c7-7e99-8fcf-72ea16ce104d",
     "nombre": "disneyf125e2",
     "status": "13:10",
     "duration": 135,
@@ -127,7 +114,7 @@
     "title": "New Mexico State vs. San Diego",
     "league": "Básquet Femenino NCAA",
     "fecha-evento": "2025-11-24T14:00:00-05:00",
-    "img": "93f52e95-e76b-4338-b8f9-a82b75b572fb",
+    "img": "336d575f-0c47-4b82-b410-fdb493e8ab93",
     "nombre": "disneyb53382",
     "status": "14:00",
     "duration": 135,
@@ -330,6 +317,16 @@
     "img": "63a2962a-af42-47dd-90f6-48b97d846867",
     "nombre": "disney81a95a",
     "status": "20:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Illinois vs. Missouri",
+    "league": "NCAA Luchas",
+    "fecha-evento": "2025-11-24T19:30:00-05:00",
+    "img": "79dccdb5-ae78-4f5d-9a66-a92bf90f5698",
+    "nombre": "disneye1822d",
+    "status": "19:30",
     "duration": 135,
     "play_url": ""
   },
