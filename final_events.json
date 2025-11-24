@@ -1,31 +1,5 @@
 [
   {
-    "title": "Fórmula S",
-    "league": "Formula S",
-    "fecha-evento": "2025-11-24T10:00:00-05:00",
-    "img": "019ab276-62da-7557-8831-af7b01487d14",
-    "nombre": "disney32aba1",
-    "status": "10:00",
-    "duration": 360,
-    "play_url": "https://www.disneyplus.com/es-es/play/27ee884f-b810-4068-a6be-d41e74ef51a8",
-    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1764091228~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Fbbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1762950822680%2F~psid=ee0e96e3-faef-456e-9029-77be7f38316e~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=c3ae1d98672fcec788cd5efd5d0d315abe30367e0ad374eeaf6ee48999650c68/clt1/va02/disneyplus/channel/bbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1762950822680/ctr-all-sliding-alt1.m3u8?v=1&hash=2204dc483842bd9152836a99fc823b0b9e410a70",
-    "k1": "6df33e4a8ade4889be51e6a9558e7866",
-    "k2": "d4ec9b6863e9d823f175f3bfd5e82ea9"
-  },
-  {
-    "title": "New Mexico State vs. San Diego",
-    "league": "Básquet Femenino NCAA",
-    "fecha-evento": "2025-11-24T14:00:05-05:00",
-    "img": "ffad2001-27f5-44bd-9dbf-5240aeb413d8",
-    "nombre": "disneyf1a495",
-    "status": "14:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/689b410f-53ed-441d-a682-85c39a21b394",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1764098424~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F24%2FNew_Mexico_State_vs_San_D_20251124_1764006228688%2F~psid=683c95e0-d0b3-453a-a537-f71728c5097f~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=149705a16fa0fbdb617459b7b4f4cdc1b0f12cf88bff3c2b22c5ea86d72d07a6/clt1/va02/disneyplus/event/2025/11/24/New_Mexico_State_vs_San_D_20251124_1764006228688/ctr-all-hdri-complete.m3u8?v=1&hash=63f294de3cc3503a63e196f53856a4c57cae531e",
-    "k1": "d1a3bf7b190144638930dd6e0cbf5793",
-    "k2": "814c2d5517d819d6b2d25d67cf8c2d60"
-  },
-  {
     "title": "La Natividad-La Dolfina vs. Sol de Agosto (Grupo A - Fecha #4)",
     "league": "Abierto de Palermo",
     "fecha-evento": "2025-11-24T14:20:04-05:00",
@@ -119,12 +93,15 @@
   {
     "title": "Southern Indiana vs. Morehead State (Semifinal #2)",
     "league": "NCAA Women's Volleyball",
-    "fecha-evento": "2025-11-24T16:00:00-05:00",
+    "fecha-evento": "2025-11-24T16:00:12-05:00",
     "img": "73d65155-a60b-4cca-9362-b02b0a4317a8",
-    "nombre": "disneyac29a9",
+    "nombre": "disney217f58",
     "status": "16:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/33175412-165e-461e-9dac-abc676c1ec47",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1764105623~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F24%2FSouthern_Indiana_vs_Moreh_20251124_1764010830025%2F~psid=0fada042-c01b-4339-a43b-203142affbf0~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=8b2f0cfd2501f0c5cc0b15d4ea3d0477cdfa55317876604c46cfdb43f82e1a11/clt1/va02/disneyplus/event/2025/11/24/Southern_Indiana_vs_Moreh_20251124_1764010830025/ctr-all-hdri-complete.m3u8?v=1&hash=0e74ef0f695e95593d6f681df357da0fd9c8775d",
+    "k1": "1c27df7b051e48eb838697bb2f42033d",
+    "k2": "e1b1c71c1924c2e078964c120bcb60ec"
   },
   {
     "title": "Temple vs. UC San Diego",
@@ -613,6 +590,26 @@
     "img": "67ce49cc-c04b-4427-86f2-3c19d738603c",
     "nombre": "disney4433d7",
     "status": "18:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "OVC Women's Volleyball Championships (Championship)",
+    "league": "NCAA Women's Volleyball",
+    "fecha-evento": "2025-11-25T19:00:00-05:00",
+    "img": "67ce49cc-c04b-4427-86f2-3c19d738603c",
+    "nombre": "disney4fce8f",
+    "status": "19:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Wisconsin Herd vs. Motor City Cruise",
+    "league": "NBA G League",
+    "fecha-evento": "2025-11-25T19:00:00-05:00",
+    "img": "019a5001-5dbc-7e95-ae0a-7f5656b92c23",
+    "nombre": "disney5b14f2",
+    "status": "19:00",
     "duration": 135,
     "play_url": ""
   }
