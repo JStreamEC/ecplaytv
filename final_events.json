@@ -1,18 +1,5 @@
 [
   {
-    "title": "Towson vs. Liberty (Semifinal)",
-    "league": "Básquetbol Masculino NCAA",
-    "fecha-evento": "2025-11-25T12:00:03-05:00",
-    "img": "019ab860-b8a7-7670-b568-9adbbd6d4412",
-    "nombre": "disney91156c",
-    "status": "12:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/3ed14df6-a897-48f7-9322-fe421b99a52c",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1764177623~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F25%2FTowson_vs_Liberty_Semifin_20251125_1764082800030%2F~psid=1c7314cc-8d87-4027-840c-2649d1848c70~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=f8be5aa85bc965d5f5c888299aa559f388101d97b1aa35ee7bb1c2c317a5a8c2/clt1/va02/disneyplus/event/2025/11/25/Towson_vs_Liberty_Semifin_20251125_1764082800030/ctr-all-hdri-complete.m3u8?v=1&hash=7e8fdb51efd064eb51c8e9634ec123723da431ca",
-    "k1": "86a8b3a076fc4cb69c1a7c875033acd4",
-    "k2": "17488e500e6a2073b095cef3cfc2c5f7"
-  },
-  {
     "title": "Ajax vs. Benfica",
     "league": "UEFA Champions League",
     "fecha-evento": "2025-11-25T12:30:00-05:00",
@@ -395,7 +382,7 @@
     "title": "Texas vs. Chaminade (Consolation Game)",
     "league": "Básquetbol Masculino NCAA",
     "fecha-evento": "2025-11-25T22:30:00-05:00",
-    "img": "054dd145-9866-407b-b68d-87f18abb31f9",
+    "img": "019abc73-8d83-7aa7-93fd-e317be053386",
     "nombre": "disney2bf0cf",
     "status": "22:30",
     "duration": 135,
@@ -608,6 +595,16 @@
     "img": "019a6091-eb43-7499-a9d1-4db38d99885a",
     "nombre": "disney95170b",
     "status": "14:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "La Aguada vs. Velay | Cámara de Diputados",
+    "league": "Polo Internacional",
+    "fecha-evento": "2025-11-26T14:55:00-05:00",
+    "img": "019ab28f-5f08-7579-9aff-7976ae1b5327",
+    "nombre": "disney7997b8",
+    "status": "14:55",
     "duration": 135,
     "play_url": ""
   }
