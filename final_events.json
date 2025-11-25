@@ -201,8 +201,11 @@
     "img": "c7d5ad42-31af-47db-93fd-230e851e7523",
     "nombre": "disney134e0e",
     "status": "20:30",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/6185233f-e3e7-40ef-8d44-9517bb5302ff",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1764121228~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F25%2F6_Texas_AM_vs_3_Texas_Sem_20251125_1764027006020%2F~psid=798f9237-ff59-4197-bbf6-76fb1c10ac24~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=994e9a71f5c392750cc27bf31af3d758e5097283b09e7d518c13ab263ca5fb0b/clt1/va02/disneyplus/event/2025/11/25/6_Texas_AM_vs_3_Texas_Sem_20251125_1764027006020/ctr-all-hdri-complete.m3u8?v=1&hash=4e2daa83827a7ee174ea6c1fad8798f54d3ed18f",
+    "k1": "e49ac7d8d621401ea8c8b2f0f6b012d8",
+    "k2": "1a4500ff8db3c4bea13460d40ee294cc"
   },
   {
     "title": "Ottawa Senators vs. Los Angeles Kings",
@@ -535,11 +538,11 @@
     "play_url": ""
   },
   {
-    "title": "Allstate SEC Volleyball Tournament (Championship)",
+    "title": "Kentucky (Championship)",
     "league": "NCAA Women's Volleyball",
     "fecha-evento": "2025-11-25T19:00:00-05:00",
     "img": "67ce49cc-c04b-4427-86f2-3c19d738603c",
-    "nombre": "disneyf6f76c",
+    "nombre": "disneyaff85c",
     "status": "19:00",
     "duration": 135,
     "play_url": ""
