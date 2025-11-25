@@ -13,19 +13,6 @@
     "k2": "d4ec9b6863e9d823f175f3bfd5e82ea9"
   },
   {
-    "title": "Southeast Missouri State vs. Eastern Illinois (Semifinal #1)",
-    "league": "NCAA Women's Volleyball",
-    "fecha-evento": "2025-11-24T19:00:09-05:00",
-    "img": "329a0819-b7d9-4833-8b86-9dc7cb463e43",
-    "nombre": "disney12b935",
-    "status": "19:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/1ad4443a-288e-4259-921c-e132de359da7",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1764116515~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F25%2FSoutheast_Missouri_State__20251125_1764021650019%2F~psid=3dfa4d87-c731-442b-a8a0-6fdfe12a0580~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=1f788fad6c25a3cf55f12b7964b2338b3a1cba373459552c019e63b0ffe1086d/clt1/va02/disneyplus/event/2025/11/25/Southeast_Missouri_State__20251125_1764021650019/ctr-all-hdri-complete.m3u8?v=1&hash=1c3cbe9fa6644587fbf9767c70e036420276ec05",
-    "k1": "30838eb23f174ca28da2bf727d29a29c",
-    "k2": "2b5f5dbf03de3a276c940e0a4b97bdb3"
-  },
-  {
     "title": "Detroit Red Wings vs. New Jersey Devils",
     "league": "National Hockey League",
     "fecha-evento": "2025-11-24T19:00:10-05:00",
@@ -63,19 +50,6 @@
     "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1764116590~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F25%2FColumbus_Blue_Jackets_vs__20251125_1764021603475%2F~psid=aa2127be-15b9-48e9-a9b7-0c4ef507b52f~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=6b3fb82fc3c1753b0170221448fa11aade2f3b722e752239c0e6df8ee11844c0/clt1/va02/disneyplus/event/2025/11/25/Columbus_Blue_Jackets_vs__20251125_1764021603475/ctr-all-hdri-complete.m3u8?v=1&hash=01dde14c9f1e6113e540a8b26f467c412923ba5f",
     "k1": "e98d883da7bb4b2394a0fc0d04d5c16a",
     "k2": "892da747fed538676663e422dabfb83a"
-  },
-  {
-    "title": "Illinois vs. Missouri",
-    "league": "NCAA Luchas",
-    "fecha-evento": "2025-11-24T19:30:03-05:00",
-    "img": "79dccdb5-ae78-4f5d-9a66-a92bf90f5698",
-    "nombre": "disneye360ce",
-    "status": "19:30",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/e4ef1931-efe3-483a-ada7-95ebffbe055a",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1764117627~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F24%2FIllinois_vs_Missouri_20251124_1763996702042%2F~psid=d44c680a-6b3d-4f5f-977e-a85622396597~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=b8326342ed34f365d8f1f01c3d308cc570a10730721f93634801ce17aeb66663/clt1/va02/disneyplus/event/2025/11/24/Illinois_vs_Missouri_20251124_1763996702042/ctr-all-hdri-complete.m3u8?v=1&hash=7baeae0c699e646a367838f43dce69f75f16556b",
-    "k1": "e72e6cb275df4f42a6b61142089c59ec",
-    "k2": "835ce7b2a4637abaa0fb6b06200a704c"
   },
   {
     "title": "Unión de Santa Fe vs. Gimnasia y Esgrima La Plata",
@@ -620,6 +594,26 @@
     "img": "016e09e8-1e74-465b-9057-c6846b3c49a3",
     "nombre": "disney725801",
     "status": "22:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Shanghai Shenhua vs. Vissel Kobe (JPN)",
+    "league": "AFC Champions League",
+    "fecha-evento": "2025-11-26T07:10:00-05:00",
+    "img": "019a7992-2396-7b0c-aedc-5dc8d227dab5",
+    "nombre": "disney5d7734",
+    "status": "07:10",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Arsenal vs. Bayern Munich",
+    "league": "UEFA Youth League",
+    "fecha-evento": "2025-11-26T07:50:00-05:00",
+    "img": "019a79b7-463b-79af-aca7-d4480a91bbb2",
+    "nombre": "disneyf251c2",
+    "status": "07:50",
     "duration": 135,
     "play_url": ""
   }
