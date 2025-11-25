@@ -2,15 +2,15 @@
   {
     "title": "St. Louis Blues vs. New York Rangers",
     "league": "National Hockey League",
-    "fecha-evento": "2025-11-24T19:00:00-05:00",
-    "img": "019a9768-6c91-7fb5-86a8-c14d22402e65",
-    "nombre": "disneya9f520",
+    "fecha-evento": "2025-11-24T19:00:17-05:00",
+    "img": "019a9768-6c91-74fe-a6b8-12439afea5ba",
+    "nombre": "disney09b774",
     "status": "19:00",
-    "duration": 150,
-    "play_url": "https://www.disneyplus.com/es-es/play/7fe8c74c-8a32-40a8-b587-a16315146272",
-    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1764116426~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Fbbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1762950822680%2F~psid=a49e0578-071e-449a-a9fc-469b9a5b1876~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=91656775002bf20a4db841122a0bf848e9d0b36e8cb1c37435cbdfe40bbd1512/clt1/va02/disneyplus/channel/bbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1762950822680/ctr-all-sliding-alt1.m3u8?v=1&hash=2204dc483842bd9152836a99fc823b0b9e410a70",
-    "k1": "6df33e4a8ade4889be51e6a9558e7866",
-    "k2": "d4ec9b6863e9d823f175f3bfd5e82ea9"
+    "duration": 210,
+    "play_url": "https://www.disneyplus.com/es-es/play/bdf8f758-d1cf-4df9-a70e-8ddd57512a70",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1764126030~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F25%2FSt_Louis_Blues_vs_New_Yor_20251125_1764021632707%2F~psid=32f83a5c-a9c1-4585-aef8-d412ad2f04f7~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=39783b3b49c8f8c34bc87a41069aea4c9a136d2603601f148b75e04a611881db/clt1/va02/disneyplus/event/2025/11/25/St_Louis_Blues_vs_New_Yor_20251125_1764021632707/ctr-all-hdri-complete.m3u8?v=1&hash=db09e8dda54eb5c995a70f6df9e2328cf7d0d65e",
+    "k1": "2b5f36a1343a4cf18c82b5ef94de7cd8",
+    "k2": "ae853f00affa2235f202f516ae7db488"
   },
   {
     "title": "Detroit Red Wings vs. New Jersey Devils",
@@ -468,21 +468,21 @@
     "play_url": ""
   },
   {
-    "title": "OVC Women's Volleyball Championships (Championship)",
-    "league": "NCAA Women's Volleyball",
-    "fecha-evento": "2025-11-25T19:00:00-05:00",
-    "img": "67ce49cc-c04b-4427-86f2-3c19d738603c",
-    "nombre": "disney4fce8f",
-    "status": "19:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Wisconsin Herd vs. Motor City Cruise",
     "league": "NBA G League",
     "fecha-evento": "2025-11-25T19:00:00-05:00",
     "img": "019a5001-5dbc-7e95-ae0a-7f5656b92c23",
     "nombre": "disney5b14f2",
+    "status": "19:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Morehead State vs. Eastern Illinois (Championship)",
+    "league": "NCAA Women's Volleyball",
+    "fecha-evento": "2025-11-25T19:00:00-05:00",
+    "img": "5b5341fc-f4d7-4b11-9ad7-adb7adfa7690",
+    "nombre": "disneyc5ae64",
     "status": "19:00",
     "duration": 135,
     "play_url": ""
