@@ -1,18 +1,5 @@
 [
   {
-    "title": "Seton Hall vs. USC (Semifinal)",
-    "league": "Básquetbol Masculino NCAA",
-    "fecha-evento": "2025-11-25T17:22:02-05:00",
-    "img": "019abb76-e62f-7fbc-8f2d-451dd2e99fe5",
-    "nombre": "disneyb2246a",
-    "status": "17:22",
-    "duration": 98,
-    "play_url": "https://www.disneyplus.com/es-es/play/19bc5f5f-b0c6-4e9a-82ff-3a11745a3ba2",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1764198114~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F25%2FSeton_Hall_vs_USC_Semifin_20251125_1764100818017%2F~psid=37a73b8e-bf39-4e77-a4c2-c0d7811458eb~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=75a14fea89388c682778db35ecac7b875702d492a5d0e52f3bf43282d8bc904f/clt1/va02/disneyplus/event/2025/11/25/Seton_Hall_vs_USC_Semifin_20251125_1764100818017/ctr-all-hdri-complete.m3u8?v=1&hash=4e2d497424b259ba3b0892225ef6c9dedbfdfdbc",
-    "k1": "4d65a4f1ba524bb7b47b2900694e10b6",
-    "k2": "596bb80295bde0b79b35a41d5ae15281"
-  },
-  {
     "title": "O&M FC vs. Mt. Pleasant FA (Final, First Leg)",
     "league": "Concacaf Caribbean Cup",
     "fecha-evento": "2025-11-25T17:50:01-05:00",
@@ -78,19 +65,6 @@
     "k2": "88f54920ae391b2e83a8bc3ad1d75d92"
   },
   {
-    "title": "Temple vs. Princeton (Consolation Game)",
-    "league": "Básquetbol Masculino NCAA",
-    "fecha-evento": "2025-11-25T19:30:00-05:00",
-    "img": "019aa20d-91f7-781b-b39b-e11f742d45a9",
-    "nombre": "disney7d94c2",
-    "status": "19:30",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/82e44d04-cb2f-4b91-b7ef-063d89a13328",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1764204025~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F26%2FTemple_vs_Princeton_Conso_20251126_1764109824040%2F~psid=6065afd9-c81b-4768-8649-45aeaad03a55~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=451aae1b6810c15e39e18e3ff910f4d90233c34f1d343e807164d7767b91aa07/clt1/va02/disneyplus/event/2025/11/26/Temple_vs_Princeton_Conso_20251126_1764109824040/ctr-all-hdri-complete.m3u8?v=1&hash=a072a5900f2f668551b7455515f8106a974043e2",
-    "k1": "722b078b89a748b78ac2a7e21374530e",
-    "k2": "58d144e7b6020ebeb6cf520ca5265b71"
-  },
-  {
     "title": "Western Michigan vs. Eastern Michigan",
     "league": "Fútbol Americano NCAA",
     "fecha-evento": "2025-11-25T19:30:03-05:00",
@@ -104,10 +78,23 @@
     "k2": "2a6dd2e775c7f21ab95c2ef0fc334bc8"
   },
   {
+    "title": "Temple vs. Princeton (Consolation Game)",
+    "league": "Básquetbol Masculino NCAA",
+    "fecha-evento": "2025-11-25T19:30:00-05:00",
+    "img": "019aa20d-91f7-781b-b39b-e11f742d45a9",
+    "nombre": "disney7d94c2",
+    "status": "19:30",
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/82e44d04-cb2f-4b91-b7ef-063d89a13328",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1764204025~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F26%2FTemple_vs_Princeton_Conso_20251126_1764109824040%2F~psid=6065afd9-c81b-4768-8649-45aeaad03a55~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=451aae1b6810c15e39e18e3ff910f4d90233c34f1d343e807164d7767b91aa07/clt1/va02/disneyplus/event/2025/11/26/Temple_vs_Princeton_Conso_20251126_1764109824040/ctr-all-hdri-complete.m3u8?v=1&hash=a072a5900f2f668551b7455515f8106a974043e2",
+    "k1": "722b078b89a748b78ac2a7e21374530e",
+    "k2": "58d144e7b6020ebeb6cf520ca5265b71"
+  },
+  {
     "title": "Washington State vs. Arizona State (Semifinal)",
     "league": "Básquetbol Masculino NCAA",
     "fecha-evento": "2025-11-25T20:00:00-05:00",
-    "img": "019ab9e1-18fe-7c95-8eb6-706c34b64a7a",
+    "img": "019ab9e1-18fd-7df2-b0d7-4f67c54c3045",
     "nombre": "disney2dc2a0",
     "status": "20:00",
     "duration": 135,
@@ -629,6 +616,16 @@
     "fecha-evento": "2025-11-26T19:00:00-05:00",
     "img": "15024e73-fead-460e-946f-83f2aef5a0b9",
     "nombre": "disney3953e6",
+    "status": "19:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Tennessee Tech vs. #19 Kentucky",
+    "league": "Básquetbol Masculino NCAA",
+    "fecha-evento": "2025-11-26T19:00:00-05:00",
+    "img": "c9433577-cf3a-4ac1-bc07-69809439f6fe",
+    "nombre": "disneyc5bd90",
     "status": "19:00",
     "duration": 135,
     "play_url": ""
