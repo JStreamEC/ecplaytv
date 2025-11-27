@@ -26,19 +26,6 @@
     "k2": "f4e83a8fdb76da258d7a679e5ce8bea0"
   },
   {
-    "title": "Audi FIS Ski World Cup - Copper Mountain, USA (Super-G)",
-    "league": "ESPN",
-    "fecha-evento": "2025-11-27T13:00:00-05:00",
-    "img": "2ba9f40e-b243-4737-9cff-a1f9774ac58d",
-    "nombre": "disney3d7d93",
-    "status": "13:00",
-    "duration": 90,
-    "play_url": "https://www.disneyplus.com/es-es/play/d8c5470b-0750-427c-ab72-1065572175e6",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1764352820~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F27%2FAudi_FIS_Ski_World_Cup_Co_20251127_1764259221016%2F~psid=72293a75-c00e-48ec-990e-4f681383f455~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=5d0ad46ae953b4a2098685c46565aa2f78bc0a4f992971f940699094e6d7cb46/clt1/va02/disneyplus/event/2025/11/27/Audi_FIS_Ski_World_Cup_Co_20251127_1764259221016/ctr-all-hdri-complete.m3u8?v=1&hash=0b675b187fcf1cdc6fb399b14c6f2becd7b2ef5e",
-    "k1": "9224cf97d8b343da812135b358362d3a",
-    "k2": "446130482d7aedc84b18a128af46d5ed"
-  },
-  {
     "title": "Green Bay Packers vs. Detroit Lions",
     "league": "NFL",
     "fecha-evento": "2025-11-27T13:00:00-05:00",
@@ -688,6 +675,16 @@
     "img": "019a92af-84f7-7cd4-ac9a-c7bd32edb23b",
     "nombre": "disney4df82f",
     "status": "11:55",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "#13 Utah vs. Kansas",
+    "league": "Fútbol Americano NCAA",
+    "fecha-evento": "2025-11-28T12:00:00-05:00",
+    "img": "019a937f-8235-7453-90e9-739490165f1d",
+    "nombre": "disney8e921c",
+    "status": "12:00",
     "duration": 135,
     "play_url": ""
   }
