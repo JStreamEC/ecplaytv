@@ -26,19 +26,6 @@
     "k2": "f4e83a8fdb76da258d7a679e5ce8bea0"
   },
   {
-    "title": "Green Bay Packers vs. Detroit Lions",
-    "league": "NFL",
-    "fecha-evento": "2025-11-27T13:00:00-05:00",
-    "img": "f6fc4c47-1810-45e4-9f4a-322f8fbc9aa0",
-    "nombre": "disney09871c",
-    "status": "13:00",
-    "duration": 210,
-    "play_url": "https://www.disneyplus.com/es-es/play/36727986-845c-4b42-8aac-6c74b8d884ca",
-    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1764354020~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F7f9052ce-8143-43a6-9656-a8c00c4a3e56-1762950862652%2F~psid=acc1605d-ab12-47af-a2ae-bd5d8856fe8c~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=14ce69fcc544a6a14ac3f43c3c8676663843894259966e60b68755fd89f53a64/clt1/va02/disneyplus/channel/7f9052ce-8143-43a6-9656-a8c00c4a3e56-1762950862652/ctr-all-sliding-alt1.m3u8?v=1&hash=2daf186937da77473bf07bbbecfc5597024e944f",
-    "k1": "ad24e4159a6b4249a8c5334043a7c03c",
-    "k2": "0477a3231c6d29e1bfa930cd07d08463"
-  },
-  {
     "title": "Saint Mary's vs. Virginia Tech (Semifinal)",
     "league": "Básquetbol Masculino NCAA",
     "fecha-evento": "2025-11-27T14:30:00-05:00",
@@ -302,11 +289,14 @@
     "title": "Kansas City Chiefs vs. Dallas Cowboys",
     "league": "NFL",
     "fecha-evento": "2025-11-27T16:30:00-05:00",
-    "img": "9692529f-8d55-4560-adcd-54ed61340870",
+    "img": "f9dd9e00-235b-4991-b05e-24310526dc66",
     "nombre": "disneyc3973a",
     "status": "16:30",
-    "duration": 135,
-    "play_url": ""
+    "duration": 210,
+    "play_url": "https://www.disneyplus.com/es-es/play/57a89b76-ac3b-4f0e-9e18-767a5df9f1e9",
+    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1764366021~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F7f9052ce-8143-43a6-9656-a8c00c4a3e56-1762950862652%2F~psid=a24bb7a0-828f-4f36-b885-c0b1526d9d8d~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=d55d2b22516443cc0d5c22698ac5e91c9231b3e353273b7b7d24711c925be539/clt1/va02/disneyplus/channel/7f9052ce-8143-43a6-9656-a8c00c4a3e56-1762950862652/ctr-all-sliding-alt1.m3u8?v=1&hash=2daf186937da77473bf07bbbecfc5597024e944f",
+    "k1": "ad24e4159a6b4249a8c5334043a7c03c",
+    "k2": "0477a3231c6d29e1bfa930cd07d08463"
   },
   {
     "title": "Polo Aap",
@@ -684,6 +674,16 @@
     "fecha-evento": "2025-11-28T12:00:00-05:00",
     "img": "0274b458-8947-4743-8f34-4c484c558ca5",
     "nombre": "disney45ac33",
+    "status": "12:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "F1 - GP Qatar - Clasificación Sprint",
+    "league": "Fórmula 1",
+    "fecha-evento": "2025-11-28T12:00:00-05:00",
+    "img": "019a8eff-f01e-7108-bf61-026bd8f01a5a",
+    "nombre": "disney041830",
     "status": "12:00",
     "duration": 135,
     "play_url": ""
