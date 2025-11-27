@@ -13,19 +13,6 @@
     "k2": "b9200b8f3cd92a1798905aec20b69a48"
   },
   {
-    "title": "VCU vs. #24 Vanderbilt (Semifinal)",
-    "league": "Básquetbol Masculino NCAA",
-    "fecha-evento": "2025-11-27T12:00:00-05:00",
-    "img": "019ac637-e5d9-7b63-b93a-40e083f93569",
-    "nombre": "disney2756b0",
-    "status": "12:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/945c4850-2381-48a7-a424-9a269b312fcc",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1764350422~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F27%2FVCU_vs_24_Vanderbilt_Semi_20251127_1764255635016%2F~psid=412fa211-884a-4ad5-a3a6-cce32a086142~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=b366ba7abe2595070e4730b9f3bce31c66b2b94e77e211919888fb7cc62e4232/clt1/va02/disneyplus/event/2025/11/27/VCU_vs_24_Vanderbilt_Semi_20251127_1764255635016/ctr-all-hdri-complete.m3u8?v=1&hash=f12fb1c753b1a1f80600878e54451dec5f1b8f14",
-    "k1": "860e39e488d14b298181c403e4e037cb",
-    "k2": "6fa878a05b4ae15169ce0bde39b5e41d"
-  },
-  {
     "title": "PFC Ludogorets Razgrad vs. Celta",
     "league": "UEFA Europa League",
     "fecha-evento": "2025-11-27T12:30:00-05:00",
@@ -260,11 +247,14 @@
     "title": "Saint Mary's vs. Virginia Tech (Semifinal)",
     "league": "Básquetbol Masculino NCAA",
     "fecha-evento": "2025-11-27T14:30:00-05:00",
-    "img": "019ac6c1-b5db-7001-8270-d7c66fd4aef2",
+    "img": "019ac6c1-b5e2-7687-a965-2d76c1f76f47",
     "nombre": "disney302d2f",
     "status": "14:30",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/43913293-a8ee-4df5-87f3-09d772dd08b0",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1764358865~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F27%2FSaint_Marys_vs_Virginia_T_20251127_1764264604017%2F~psid=fbdc8ae8-6ee2-4429-872e-ff219285ab95~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=710e38c81c2a32b544d986a170644a8c8f87a1cb6b4117cb65a74ebcefbbb76c/clt1/va02/disneyplus/event/2025/11/27/Saint_Marys_vs_Virginia_T_20251127_1764264604017/ctr-all-hdri-complete.m3u8?v=1&hash=014558b5e86dc749537ac0722071b976dd2b9161",
+    "k1": "5d6262289a8b452782dfe592ca3e8a70",
+    "k2": "91c5fe85ba7812d311236e6390c1d5bd"
   },
   {
     "title": "Maccabi Tel Aviv vs. Lyon",
@@ -682,6 +672,16 @@
     "fecha-evento": "2025-11-28T07:15:00-05:00",
     "img": "019a6f10-3bfe-7568-a97a-37241f66f66c",
     "nombre": "disney912afd",
+    "status": "07:15",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "FIS Men's Cross Country World Cup - Ruka, FIN",
+    "league": "ESPN",
+    "fecha-evento": "2025-11-28T07:15:00-05:00",
+    "img": "2ba9f40e-b243-4737-9cff-a1f9774ac58d",
+    "nombre": "disney90aa18",
     "status": "07:15",
     "duration": 135,
     "play_url": ""
