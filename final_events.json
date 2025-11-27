@@ -39,34 +39,43 @@
     "k2": "6fa878a05b4ae15169ce0bde39b5e41d"
   },
   {
-    "title": "FC Porto vs. OGC Nice",
-    "league": "UEFA Europa League",
-    "fecha-evento": "2025-11-27T12:30:00-05:00",
-    "img": "019a987a-aadc-76d9-8102-b7d1ffbf8646",
-    "nombre": "disneyde576b",
-    "status": "12:30",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "PFC Ludogorets Razgrad vs. Celta",
-    "league": "UEFA Europa League",
-    "fecha-evento": "2025-11-27T12:30:00-05:00",
-    "img": "019a987e-1364-75fd-8b4b-b93b7e9e9259",
-    "nombre": "disney67ff37",
-    "status": "12:30",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Fenerbahce vs. Ferencváros",
     "league": "UEFA Europa League",
     "fecha-evento": "2025-11-27T12:30:00-05:00",
     "img": "019a9885-53c0-7184-8bce-ffce32b1ad51",
     "nombre": "disney20692c",
     "status": "12:30",
-    "duration": 135,
-    "play_url": ""
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/e572c0fe-b1e2-4fbb-bac4-2873a90b81d0",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1764351622~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F27%2FFenerbahce_vs_Ferencvros_20251127_1764257402020%2F~psid=6f2c80ee-f4c3-491f-bf77-785d4ff975da~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=032d213a1ebe3d2a5a44181a484153ac3da6392655ebbd735dde4730a0ed076f/clt1/va02/disneyplus/event/2025/11/27/Fenerbahce_vs_Ferencvros_20251127_1764257402020/ctr-all-hdri-complete.m3u8?r=720&v=1&hash=9756ddc24abad501ac646d5effffd2fcdaebef02",
+    "k1": "9b2ba2e6f7c345318808883341de69c6",
+    "k2": "a66f30050fa4c736e08a4967661d5335"
+  },
+  {
+    "title": "PFC Ludogorets Razgrad vs. Celta",
+    "league": "UEFA Europa League",
+    "fecha-evento": "2025-11-27T12:30:00-05:00",
+    "img": "019a987e-12a0-7006-84e9-22c881a7c7da",
+    "nombre": "disney67ff37",
+    "status": "12:30",
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/c97ced41-c201-4fec-8045-2652579f926f",
+    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1764351666~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F47873700-1b85-4497-8f84-d6f321fbb196-1762950817735%2F~psid=542d9b62-9f39-4062-be5f-27dec578c64e~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=5ef2a724af8daa4648296bbd456eb67c919538b97a099cc29854bdc754a76296/clt1/va02/disneyplus/channel/47873700-1b85-4497-8f84-d6f321fbb196-1762950817735/ctr-all-sliding-alt1.m3u8?v=1&hash=47b2c0b057c5c5c39ef0f49826b655a1e4ceacb9",
+    "k1": "98ff0054e31f4c46b811872bc1c7828b",
+    "k2": "860b30bef83103f2f135c0d4a0640333"
+  },
+  {
+    "title": "FC Porto vs. OGC Nice",
+    "league": "UEFA Europa League",
+    "fecha-evento": "2025-11-27T12:30:00-05:00",
+    "img": "019a987a-aadc-736f-a7a0-4223b174decd",
+    "nombre": "disneyde576b",
+    "status": "12:30",
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/d989ac12-a168-4464-9498-1e077fdcd9f8",
+    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1764351710~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Fbbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1762950822680%2F~psid=b106900a-94f2-4441-bf61-a1ea429ace45~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=f6c951db5355280bf7eedd0e411d60b7970cd69ef3341208d0ea8b595c78a980/clt1/va02/disneyplus/channel/bbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1762950822680/ctr-all-sliding-alt1.m3u8?v=1&hash=2204dc483842bd9152836a99fc823b0b9e410a70",
+    "k1": "563fc881e71e4e89a65f8d5740528dcd",
+    "k2": "6e20d5d6e18153782d5ddf0b4b690b6f"
   },
   {
     "title": "Universitatea Craiova- Mainz",
@@ -75,18 +84,24 @@
     "img": "019a91a0-4f76-7a19-b720-a544cf49f0aa",
     "nombre": "disney4842b2",
     "status": "12:35",
-    "duration": 135,
-    "play_url": ""
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/d3412a1d-87c9-439e-b10d-be4530842137",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1764351734~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F27%2FUniversitatea_Craiova_vs__20251127_1764257730055%2F~psid=a5de1a29-c750-4baf-8896-9c0e50da4e62~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=9c177842860b7fa009dc8b78ded3959f994c309a0eec69e944f5ac6600227267/clt1/va02/disneyplus/event/2025/11/27/Universitatea_Craiova_vs__20251127_1764257730055/ctr-all-hdri-complete.m3u8?r=720&v=1&hash=02d27423023abd2d8ece957e51ef2b04593d1844",
+    "k1": "63b4ad92502149a09e2aea4f915fb972",
+    "k2": "5282148f354f8f5aa49e3abfb6f04f93"
   },
   {
     "title": "PAOK - Brann",
     "league": "UEFA Europa League",
-    "fecha-evento": "2025-11-27T12:35:00-05:00",
+    "fecha-evento": "2025-11-27T12:34:19-05:00",
     "img": "019a819d-02fe-7225-a959-1523a5f56f78",
-    "nombre": "disney4ebec0",
-    "status": "12:35",
-    "duration": 135,
-    "play_url": ""
+    "nombre": "disney027b7c",
+    "status": "12:34",
+    "duration": 131,
+    "play_url": "https://www.disneyplus.com/es-es/play/17c81c82-a04f-46c8-89b7-63282d4f5319",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1764351758~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F27%2FPaok_FC_vs_Brann_20251127_1764257717020%2F~psid=07b4f69c-0931-42cc-abdd-338339ab3c30~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=036d5e484dc58a9edc01e67a6e60210bb4246e66f5be2d10cbda0a58f63feafe/clt1/va02/disneyplus/event/2025/11/27/Paok_FC_vs_Brann_20251127_1764257717020/ctr-all-hdri-complete.m3u8?r=720&v=1&hash=f7693e34604ab108e4cca1af2e54920e4561d818",
+    "k1": "daaa6aa47b09452d96f16325cc12b929",
+    "k2": "4084ad52dd2ccf1e10689d9819220f19"
   },
   {
     "title": "AZ vs. Shelbourne",
@@ -95,28 +110,37 @@
     "img": "019a91a0-4fda-7f67-8ff6-d6b862cb8f44",
     "nombre": "disneyfb8170",
     "status": "12:35",
-    "duration": 135,
-    "play_url": ""
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/1dae3425-3f68-4e2c-88ae-ac2f6a4544ab",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1764351783~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F27%2FAZ_vs_Shelbourne_20251127_1764257726022%2F~psid=2e10fd3e-4901-438b-8df8-d0f8679de119~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=a09c5ff434cac8cff5fbb48877aba8ac7cbbfbfe20740c9224ad40bd161f7d3b/clt1/va02/disneyplus/event/2025/11/27/AZ_vs_Shelbourne_20251127_1764257726022/ctr-all-hdri-complete.m3u8?r=720&v=1&hash=a778a9f1ce477cf8e861fc6ff3b889b140ecc35c",
+    "k1": "32ace8675ffd454e9c09d58a743ee1f2",
+    "k2": "6ec90e28cb268a2abc1d1350fc357965"
   },
   {
     "title": "Lech Poznan - FC Lausanne",
     "league": "UEFA Conference League",
-    "fecha-evento": "2025-11-27T12:35:00-05:00",
-    "img": "019a91a2-dc90-743f-8152-ba6beb45d8ba",
-    "nombre": "disney94f605",
-    "status": "12:35",
-    "duration": 135,
-    "play_url": ""
+    "fecha-evento": "2025-11-27T12:34:22-05:00",
+    "img": "019a91a2-dc9e-72d9-b3f5-edb02ff7cef8",
+    "nombre": "disneya60dfe",
+    "status": "12:34",
+    "duration": 131,
+    "play_url": "https://www.disneyplus.com/es-es/play/4fd8d901-da1d-42e5-8bac-72d2e250b431",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1764351806~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F27%2FLech_Poznan_vs_FC_Lausann_20251127_1764257725044%2F~psid=9a6af20a-6d2a-4772-bd89-14af6f16a157~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=0f6b6568c71e1ae5696cdf1b5bcd3257813989a7b5901add0d516a307bfe3920/clt1/va02/disneyplus/event/2025/11/27/Lech_Poznan_vs_FC_Lausann_20251127_1764257725044/ctr-all-hdri-complete.m3u8?r=720&v=1&hash=3b56958223f6b31990e4894e3b2a0c0dc8f923bd",
+    "k1": "7dfbe40f48da4de4ac1b229dff5af268",
+    "k2": "24737a35952b27d3c6a2b0653b53536c"
   },
   {
     "title": "Sigma Olomuc - NK Celje",
     "league": "UEFA Conference League",
-    "fecha-evento": "2025-11-27T12:35:00-05:00",
-    "img": "019a91a5-e8a9-76b2-a2ba-f91800ab86ba",
-    "nombre": "disney60d09f",
-    "status": "12:35",
-    "duration": 135,
-    "play_url": ""
+    "fecha-evento": "2025-11-27T12:34:21-05:00",
+    "img": "019a91a5-e8c1-765a-bec6-e8dfd48b7c62",
+    "nombre": "disneyb4c1f1",
+    "status": "12:34",
+    "duration": 131,
+    "play_url": "https://www.disneyplus.com/es-es/play/01fb6601-6623-4144-8252-2a4e907fcf03",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1764351830~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F27%2FSigma_Olomouc_vs_NK_Celje_20251127_1764257727054%2F~psid=40ffe51b-cc50-4435-bec6-678981d2f90a~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=adaa74b785e0771f011f8ea960cbe799e00fd9b00b9d5febb54b930f2bf34cb4/clt1/va02/disneyplus/event/2025/11/27/Sigma_Olomouc_vs_NK_Celje_20251127_1764257727054/ctr-all-hdri-complete.m3u8?r=720&v=1&hash=2b58ded745bd8660343c004c18f719b422d83431",
+    "k1": "db8c33ee7af64a6484ab8ecb8312b6b5",
+    "k2": "555d53f773053832b5246468b038f289"
   },
   {
     "title": "Hamrun Spartans vs. Lincoln Red Imps",
@@ -125,8 +149,11 @@
     "img": "019a91a2-11ea-7cc3-b205-3cfc60e86357",
     "nombre": "disney465e87",
     "status": "12:35",
-    "duration": 135,
-    "play_url": ""
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/612e7b10-23ab-474c-b3dd-6132d944bc32",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1764351855~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F27%2FHamrun_Spartans_vs_Lincol_20251127_1764257724019%2F~psid=3cef59bf-7ba4-4a63-9719-31ea93f4aa7e~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=08ad8c6aa90e76fe5c7ddf9a5fe526147e8b7a7fd65532215c70c141e9a97ceb/clt1/va02/disneyplus/event/2025/11/27/Hamrun_Spartans_vs_Lincol_20251127_1764257724019/ctr-all-hdri-complete.m3u8?r=720&v=1&hash=ad016a5e999ba3a0025efe0308e54901b23d6835",
+    "k1": "0b3a83985d8645a4a278e2862397bb1c",
+    "k2": "b045d1a57746970e1bcfc4a3a3bb5f8a"
   },
   {
     "title": "Slovan Bratislava - Rayo Vallecano",
@@ -135,8 +162,11 @@
     "img": "019a9fc5-4c61-7839-a7e7-b4e082788098",
     "nombre": "disney16fe34",
     "status": "12:35",
-    "duration": 135,
-    "play_url": ""
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/90b7a51b-b593-4a67-bd42-48bdb9b739dd",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1764351879~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F27%2FSK_Slovan_Bratislava_vs_R_20251127_1764257751043%2F~psid=9e799945-bd9c-45b9-a801-072ee6f1615f~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=3dc47b11025257de99f5935cdd915fb3d6f2f2a4fc80978bcbe7ca440f62842f/clt1/va02/disneyplus/event/2025/11/27/SK_Slovan_Bratislava_vs_R_20251127_1764257751043/ctr-all-hdri-complete.m3u8?r=720&v=1&hash=22ff5888942a45480392a8b2c94f9fc559b6de5f",
+    "k1": "918a0b8023284bb08268642a48f13738",
+    "k2": "eddd291d62062c7d8f93d54244e454f2"
   },
   {
     "title": "Lille - Dinamo Zagreb",
@@ -145,18 +175,24 @@
     "img": "019a9c88-b052-74e0-81de-4f8e87a2487c",
     "nombre": "disney5d7203",
     "status": "12:35",
-    "duration": 135,
-    "play_url": ""
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/e2f3f59b-2de3-44fc-b012-3ef577f93655",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1764351903~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F27%2FLille_vs_Dinamo_Zagreb_20251127_1764257714020%2F~psid=db43c063-ba2c-4ce7-9939-68905747207f~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=f563cd0d623bddf82e9f93a6853bd47d04ebdb3992c98b8bfdfee2b1b289946d/clt1/va02/disneyplus/event/2025/11/27/Lille_vs_Dinamo_Zagreb_20251127_1764257714020/ctr-all-hdri-complete.m3u8?r=720&v=1&hash=4a14c4650d92f3b1a20023cde78a08931ea98cbe",
+    "k1": "02a1992086e548d7833d1940e7e7daca",
+    "k2": "cfe86b3d20905b02f0c772d3444843bd"
   },
   {
     "title": "Viktoria Plzeň - Freiburg",
     "league": "UEFA Europa League",
-    "fecha-evento": "2025-11-27T12:35:00-05:00",
+    "fecha-evento": "2025-11-27T12:34:26-05:00",
     "img": "019a81a0-7a7e-774e-9943-aa949b0f0846",
-    "nombre": "disney268b1e",
-    "status": "12:35",
-    "duration": 135,
-    "play_url": ""
+    "nombre": "disneyb2db57",
+    "status": "12:34",
+    "duration": 131,
+    "play_url": "https://www.disneyplus.com/es-es/play/2d0cd804-353b-455a-90ca-fb54d40f363e",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1764351927~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F27%2FViktoria_Plze_vs_SC_Freib_20251127_1764257749020%2F~psid=2c3ac459-db38-4231-8623-406c590659c1~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=ed1d50f3b550dd66f102eeb98855f2f98a56c6fc2d30732ea92534fa8491f537/clt1/va02/disneyplus/event/2025/11/27/Viktoria_Plze_vs_SC_Freib_20251127_1764257749020/ctr-all-hdri-complete.m3u8?r=720&v=1&hash=bc9e73cf706198cc952f30d243f76ad0a2e38f2e",
+    "k1": "2646618fa5534197a41a4d05f78fa1ff",
+    "k2": "38972c835b5c96ac96e4054db63b00ce"
   },
   {
     "title": "Raków Czestochowa - Rapid Wien",
@@ -165,18 +201,24 @@
     "img": "019a91a4-ef03-78d7-bd9e-98bc63a8ff66",
     "nombre": "disneyf9ff41",
     "status": "12:35",
-    "duration": 135,
-    "play_url": ""
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/731aaf96-2996-4454-a27d-b6b69df3b57a",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1764351952~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F27%2FRakw_Czstochowa_vs_SK_Rap_20251127_1764257721045%2F~psid=0c4c05c5-8977-4209-9d50-d2149886e6b5~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=293ce7fac5b7505b19ce6965178f15c1238200801726f334331b94171fb913d1/clt1/va02/disneyplus/event/2025/11/27/Rakw_Czstochowa_vs_SK_Rap_20251127_1764257721045/ctr-all-hdri-complete.m3u8?r=720&v=1&hash=96d7befc3a9da4fd043151388eb714421b2d78bb",
+    "k1": "dd963195387147169f5d72d7836b6dc9",
+    "k2": "64aba731bc53cf15db8ef3ff71d3fb10"
   },
   {
     "title": "Omonia FC - Dynamo Kyiv",
     "league": "UEFA Conference League",
-    "fecha-evento": "2025-11-27T12:35:00-05:00",
-    "img": "019a91a3-c2a0-7106-bfe0-daf7c3337ccb",
-    "nombre": "disney173083",
-    "status": "12:35",
-    "duration": 135,
-    "play_url": ""
+    "fecha-evento": "2025-11-27T12:34:24-05:00",
+    "img": "019a91a3-c2b2-7736-bd1c-51a6e15e6b6e",
+    "nombre": "disneyac3001",
+    "status": "12:34",
+    "duration": 131,
+    "play_url": "https://www.disneyplus.com/es-es/play/65c8af8a-e93e-4d28-aac0-0140ac83069e",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1764351976~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F27%2FAC_Omonia_vs_FC_Dynamo_Ky_20251127_1764257705045%2F~psid=54cbf2de-eaf5-4304-9362-88598248882d~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=7a2243e3a09283a37a9dd677529dcb90d1ab2b2379f59738969b8d8007e1dde2/clt1/va02/disneyplus/event/2025/11/27/AC_Omonia_vs_FC_Dynamo_Ky_20251127_1764257705045/ctr-all-hdri-complete.m3u8?r=720&v=1&hash=410e9880bff3063da1147d5b4945408d521b5ff0",
+    "k1": "91520b1930e04afa8de5913b8c169bfe",
+    "k2": "ac2eeffa47b0e57a5e684fd5a1f08f96"
   },
   {
     "title": "UEL al Instante",
@@ -185,8 +227,11 @@
     "img": "bdadd0a0-01e4-4f75-bdc4-07c25c0b749c",
     "nombre": "disney007967",
     "status": "12:40",
-    "duration": 135,
-    "play_url": ""
+    "duration": 280,
+    "play_url": "https://www.disneyplus.com/es-es/play/0b381972-ea7e-4317-af68-5219d51eea91",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1764352000~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F27%2FUEL_al_Instante_20251127_1764258031037%2F~psid=6fc0c406-5c7d-421f-bed8-68b18654ebea~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=8e5acd571e77937af94a8a253d1cf96bf94ed9c9108996003f509a668d7c3e0f/clt1/va02/disneyplus/event/2025/11/27/UEL_al_Instante_20251127_1764258031037/ctr-all-hdri-complete.m3u8?r=720&v=1&hash=198a395afd21ab3c63976361472e931d2f8a026e",
+    "k1": "59a0151073af46c39144a0e1e9ee3ca8",
+    "k2": "f4e83a8fdb76da258d7a679e5ce8bea0"
   },
   {
     "title": "Audi FIS Ski World Cup - Copper Mountain, USA (Super-G)",
