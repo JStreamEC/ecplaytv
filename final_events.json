@@ -71,8 +71,11 @@
     "img": "019abe00-afec-7702-9f5b-ee9a0888497a",
     "nombre": "disneye64c28",
     "status": "21:30",
-    "duration": 135,
-    "play_url": ""
+    "duration": 210,
+    "play_url": "https://www.disneyplus.com/es-es/play/207792d4-1483-4f19-84e1-96dcdaf5f4b8",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1764384021~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F28%2FBMW_Australian_PGA_Champi_20251128_1764289811042%2F~psid=342e5d03-3732-49eb-99cf-268d78c52bbb~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=b007fc4ccdc78dcfb07dd63e4f9cada9496750d803623d14d6e5923ee2e08938/clt1/va02/disneyplus/event/2025/11/28/BMW_Australian_PGA_Champi_20251128_1764289811042/ctr-all-hdri-complete.m3u8?v=1&hash=42d89d0af7acaef52c33528f258b3f1dd9616feb",
+    "k1": "76af1dbf372c4eba8e856ebbc185e42a",
+    "k2": "febec1cb8ab8211f0d6a3022f714c755"
   },
   {
     "title": "Germany vs. Sudáfrica",
@@ -405,6 +408,16 @@
     "play_url": ""
   },
   {
+    "title": "Richmond vs. Charlotte (Third Place Game)",
+    "league": "Básquetbol Masculino NCAA",
+    "fecha-evento": "2025-11-28T12:30:00-05:00",
+    "img": "47deb1d1-79f9-4af1-afc1-6daef2825187",
+    "nombre": "disneyd497f6",
+    "status": "12:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
     "title": "F1 GP Qatar, clasificación sprint | Cámara On Board",
     "league": "Fórmula 1",
     "fecha-evento": "2025-11-28T12:30:00-05:00",
@@ -535,6 +548,16 @@
     "play_url": ""
   },
   {
+    "title": "Furman vs. Illinois State (Championship)",
+    "league": "Básquetbol Masculino NCAA",
+    "fecha-evento": "2025-11-28T15:00:00-05:00",
+    "img": "019ac850-346a-7207-91f8-1cfc9ebb699f",
+    "nombre": "disney8ed721",
+    "status": "15:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
     "title": "Colorado Avalanche vs. Minnesota Wild",
     "league": "National Hockey League",
     "fecha-evento": "2025-11-28T15:30:00-05:00",
@@ -600,26 +623,6 @@
     "fecha-evento": "2025-11-28T16:00:00-05:00",
     "img": "653186d3-a5e0-4509-a684-ed54026fc311",
     "nombre": "disneybb6dcb",
-    "status": "16:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Vancouver Canucks vs. San Jose Sharks",
-    "league": "National Hockey League",
-    "fecha-evento": "2025-11-28T16:00:00-05:00",
-    "img": "59f7a26e-7b11-466c-807f-baae9b316ddf",
-    "nombre": "disneya1594e",
-    "status": "16:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Philadelphia Flyers vs. New York Islanders",
-    "league": "National Hockey League",
-    "fecha-evento": "2025-11-28T16:00:00-05:00",
-    "img": "941be216-b08f-47a3-a6dd-b84e85ff58a3",
-    "nombre": "disney72ef54",
     "status": "16:00",
     "duration": 135,
     "play_url": ""
