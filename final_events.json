@@ -36,19 +36,6 @@
     "k2": "4a88070e14badb3fb96a75926ffb0949"
   },
   {
-    "title": "Parma vs. Udinese",
-    "league": "Seria A",
-    "fecha-evento": "2025-11-29T08:55:00-05:00",
-    "img": "019abcac-6950-77e2-8e08-664dcf6ee058",
-    "nombre": "disney9d2e54",
-    "status": "08:55",
-    "duration": 125,
-    "play_url": "https://www.disneyplus.com/es-es/play/c5b3864b-1ef5-4b7a-9ae3-1cad645f9965",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1764512665~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F29%2FParma_vs_Udinese_20251129_1764417318020%2F~psid=7cf21896-3300-4138-a796-62a0c5f10752~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=8e4fe0ef2dd429c376f8c82b126de3a1cb84cf58cd46cf532152e59db7503cdc/clt1/va02/disneyplus/event/2025/11/29/Parma_vs_Udinese_20251129_1764417318020/ctr-all-hdri-complete.m3u8?v=1&hash=ced7fcbc3303691c6fc2ac45b5def0065e7fefaf",
-    "k1": "cd950d26b3a3449f9f13c8b3da60d15f",
-    "k2": "439a6c39e030fe4abb1702569761a589"
-  },
-  {
     "title": "ATP Challenger DOVE Men Care Temuco (Semifinales)",
     "league": "ATP",
     "fecha-evento": "2025-11-29T09:00:13-05:00",
@@ -276,8 +263,11 @@
     "img": "019a8f1c-ac0a-758b-80fa-a01a6e60c121",
     "nombre": "disney691e09",
     "status": "11:10",
-    "duration": 135,
-    "play_url": ""
+    "duration": 70,
+    "play_url": "https://www.disneyplus.com/es-es/play/6c905434-3bd5-4586-b4f8-5769525e8ab0",
+    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1764519623~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Fbbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1762950822680%2F~psid=1a680eea-5aa5-4f4d-9f57-7590ea11a73e~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=46215f980449e70706a5bc486142e2409fbc9268f2f195ef92cc151f72a4ce9b/clt1/va02/disneyplus/channel/bbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1762950822680/ctr-all-sliding-alt1.m3u8?v=1&hash=2204dc483842bd9152836a99fc823b0b9e410a70",
+    "k1": "40af0e8817184d938d5407a355169dfb",
+    "k2": "d6c2e6d59883c83328890ec209615a56"
   },
   {
     "title": "Los Machitos vs. La Zeta Kazak (Grupo A - Fecha #5)",
