@@ -244,24 +244,17 @@
     "k2": "7b048bac3692116fb29b161256f1541a"
   },
   {
-    "title": "Compacto | F1 GP Qatar | Carrera Sprint (3 min)",
-    "league": "Fórmula 1",
-    "fecha-evento": "2025-11-29T10:40:00-05:00",
-    "img": "019ad014-d397-7e09-ab56-b6271e040ed7",
-    "nombre": "disney7477a7",
-    "status": "10:40",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Monaco vs. PSG",
     "league": "Ligue 1",
-    "fecha-evento": "2025-11-29T10:55:00-05:00",
+    "fecha-evento": "2025-11-29T10:59:00-05:00",
     "img": "019a9fc5-74bd-7fd5-b62b-e69ecf39de73",
-    "nombre": "disneyc85a6e",
-    "status": "10:55",
-    "duration": 135,
-    "play_url": ""
+    "nombre": "disney13acb9",
+    "status": "10:59",
+    "duration": 116,
+    "play_url": "https://www.disneyplus.com/es-es/play/89d76733-07e8-4baa-b701-ef25cda14bb3",
+    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1764518423~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Fec26a05e-a9cc-4db4-804e-77465738e667-1762950455142%2F~psid=b45cab89-223d-4edb-afdc-4a7e1c89e755~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=82ef7f8b1483aa3375deb49dfe1d57831cd31fcb9d6e11cd1d17887c4bdc01a8/clt1/va02/disneyplus/channel/ec26a05e-a9cc-4db4-804e-77465738e667-1762950455142/ctr-all-sliding-alt1.m3u8?v=1&hash=e2faf4444722e1f805096ad7b7489a5d09f9944f",
+    "k1": "9357d372dcb14bfb83b9d6ffb142ff1e",
+    "k2": "4a88070e14badb3fb96a75926ffb0949"
   },
   {
     "title": "HSBC World Rugby Sevens Series | Dubai | En español",
@@ -270,8 +263,11 @@
     "img": "019ac061-d958-7fd0-b00e-16453e0dad26",
     "nombre": "disney64d9b4",
     "status": "11:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 60,
+    "play_url": "https://www.disneyplus.com/es-es/play/73ed1f04-abbf-4f8b-a16e-ada721d4d9f3",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1764518468~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F29%2FHSBC_World_Rugby_Sevens_S_20251129_1764424816018%2F~psid=64a29bf2-0043-4bed-8b7b-65457b65290b~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=d86f85302bb622b432801efe1480c9239f992e866c4bb9245b9a18ba23bcfe8a/clt1/va02/disneyplus/event/2025/11/29/HSBC_World_Rugby_Sevens_S_20251129_1764424816018/ctr-all-hdri-complete.m3u8?v=1&hash=5a95e30c184b9c0e6a955b55057161cb3983876d",
+    "k1": "1dcedb1d14394aab99f9356dadcf5a25",
+    "k2": "1efe285207afeb599793054a2b455a48"
   },
   {
     "title": "F2 - GP Qatar - Sprint Race",
@@ -660,6 +656,16 @@
     "img": "be5f3d8a-fcd9-42b3-a6cd-c0319a7692ea",
     "nombre": "disneydfbb89",
     "status": "15:45",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Edmonton Oilers vs. Seattle Kraken",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-11-29T16:00:00-05:00",
+    "img": "94e20744-78c6-47c2-a993-a479be1dce0a",
+    "nombre": "disneycae087",
+    "status": "16:00",
     "duration": 135,
     "play_url": ""
   }
