@@ -13,19 +13,6 @@
     "k2": "46c1ff8a16d44f6d2281223045338037"
   },
   {
-    "title": "UCF vs. #11 BYU",
-    "league": "Fútbol Americano NCAA",
-    "fecha-evento": "2025-11-29T13:00:00-05:00",
-    "img": "0734eca4-7109-44a1-b825-165546bcb53a",
-    "nombre": "disney27b342",
-    "status": "13:00",
-    "duration": 180,
-    "play_url": "https://www.disneyplus.com/es-es/play/7fbd45a9-76a4-42d7-b8ed-4d41baad0ef2",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1764525716~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F29%2FUCF_vs_11_BYU_20251129_1764432054036%2F~psid=c4cc3109-2db3-4c82-9500-22e497c06c21~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=ea67c601d013a4675788a4f73b5c8d1cf6a6d4994000b01edbd77860ce049bde/clt1/va02/disneyplus/event/2025/11/29/UCF_vs_11_BYU_20251129_1764432054036/ctr-all-hdri-complete.m3u8?v=1&hash=1f1660467b7857a5f3f0d5b30b33e2d69312500d",
-    "k1": "e982d87e7ff84482afbd07459b874209",
-    "k2": "cf81ebd17c18c0105f6507502856b176"
-  },
-  {
     "title": "Tampa Bay Lightning vs. New York Rangers",
     "league": "National Hockey League",
     "fecha-evento": "2025-11-29T14:00:17-05:00",
@@ -233,12 +220,15 @@
   {
     "title": "Florida State vs. Florida",
     "league": "Fútbol Americano NCAA",
-    "fecha-evento": "2025-11-29T16:30:00-05:00",
+    "fecha-evento": "2025-11-29T16:30:04-05:00",
     "img": "63ab1b28-3e1c-4bb6-8d98-85d4594fe2c0",
-    "nombre": "disneyd5adfa",
+    "nombre": "disney049588",
     "status": "16:30",
-    "duration": 135,
-    "play_url": ""
+    "duration": 180,
+    "play_url": "https://www.disneyplus.com/es-es/play/bee311fc-8e5c-4590-946c-9fcb44c15bd6",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1764538869~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F29%2FFlorida_State_vs_Florida_20251129_1764447052056%2F~psid=1085aaa7-6f06-4a1a-83bc-02c43b57dfde~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=1dde7729d4f5e304fa9eb3eb3eddf74ba03c349d0943f91145221e27bad4a3f7/clt1/va02/disneyplus/event/2025/11/29/Florida_State_vs_Florida_20251129_1764447052056/ctr-all-hdri-complete.m3u8?v=1&hash=830d470c0665b1a41c97ef431b3900542e111f32",
+    "k1": "bcddff3b428a4575b2bbd22619fc9bd3",
+    "k2": "9624a716b71cfcdc8198fdb8e3b7780c"
   },
   {
     "title": "Premier Padel: Acapulco - Centre Court (Semifinals)",
@@ -576,6 +566,16 @@
     "fecha-evento": "2025-11-29T22:00:00-05:00",
     "img": "019a9fc6-4ea7-74ae-acd4-64851888b31c",
     "nombre": "disney4d183c",
+    "status": "22:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Colorado Mammoth vs. Vancouver Warriors",
+    "league": "National Lacrosse League",
+    "fecha-evento": "2025-11-29T22:00:00-05:00",
+    "img": "8aa0ad80-cd51-455b-aea0-c1090d1c210c",
+    "nombre": "disney7375ef",
     "status": "22:00",
     "duration": 135,
     "play_url": ""
