@@ -13,32 +13,6 @@
     "k2": "46c1ff8a16d44f6d2281223045338037"
   },
   {
-    "title": "Tampa Bay Lightning vs. New York Rangers",
-    "league": "National Hockey League",
-    "fecha-evento": "2025-11-29T14:00:17-05:00",
-    "img": "32f77de4-503d-4268-93f7-5644b5387a45",
-    "nombre": "disneyae1ad7",
-    "status": "14:00",
-    "duration": 210,
-    "play_url": "https://www.disneyplus.com/es-es/play/bddeeedf-1b6d-443a-9f10-3b3f8e452600",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1764530478~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F29%2FTampa_Bay_Lightning_vs_Ne_20251129_1764435651584%2F~psid=c0882acd-1e9e-46e5-84cd-44cc1ded0298~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=1594a4f2b70f7428b514c6b57e23b8abc9ef256d1892cca71eb0142f07377d87/clt1/va02/disneyplus/event/2025/11/29/Tampa_Bay_Lightning_vs_Ne_20251129_1764435651584/ctr-all-hdri-complete.m3u8?v=1&hash=9ca77685f5d69e7c6d617c54b7653d6f14af34b4",
-    "k1": "9da0edbf11c243c1a894f6c03cf5b8aa",
-    "k2": "d7e1a083a86d899249e25f1b71d665f2"
-  },
-  {
-    "title": "Sacred Heart vs. #9 Quinnipiac",
-    "league": "NCAA Women's Hockey",
-    "fecha-evento": "2025-11-29T15:00:06-05:00",
-    "img": "4c6152af-e1f3-49a6-8c22-0a97d0cb5cbf",
-    "nombre": "disney1b40a0",
-    "status": "15:00",
-    "duration": 150,
-    "play_url": "https://www.disneyplus.com/es-es/play/409bd182-6b40-46d6-85d3-e71f3dc1b3fc",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1764537764~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F29%2FSacred_Heart_vs_9_Quinnip_20251129_1764439222040%2F~psid=6381deaf-08e6-45ae-ba15-b1c9b2a94bd7~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=37c33c56e06deea006f75af80cddeebfe967237b6dec081c15ab35f5fc3da7e5/clt1/va02/disneyplus/event/2025/11/29/Sacred_Heart_vs_9_Quinnip_20251129_1764439222040/ctr-all-hdri-complete.m3u8?v=1&hash=35b2da0634f0af0353b631004fae90733ac482ce",
-    "k1": "91452a667a44403690378d5d7d223c5c",
-    "k2": "99afe0dae62521da216a5bce2f95aec4"
-  },
-  {
     "title": "Palmeiras (BRA) vs. Flamengo (BRA) | Final",
     "league": "CONMEBOL Libertadores",
     "fecha-evento": "2025-11-29T15:20:00-05:00",
@@ -539,6 +513,36 @@
     "img": "019ac018-d1bf-7853-bcc6-6bc096e3d2ff",
     "nombre": "disney6e48af",
     "status": "01:40",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Japan vs. China",
+    "league": "Men's FIH Hockey Junior World Cup",
+    "fecha-evento": "2025-11-30T02:45:00-05:00",
+    "img": "019a6f88-ea15-7423-804d-83ffb82ed25f",
+    "nombre": "disneye25be2",
+    "status": "02:45",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Inglaterra vs. Austria",
+    "league": "Men's FIH Hockey Junior World Cup",
+    "fecha-evento": "2025-11-30T03:00:00-05:00",
+    "img": "019a6f8a-f32a-7f72-b8c9-0750f773ea27",
+    "nombre": "disney1ad206",
+    "status": "03:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "FIS Nordic Combined World Cup - Ruka, FIN",
+    "league": "ESPN",
+    "fecha-evento": "2025-11-30T03:00:00-05:00",
+    "img": "2ba9f40e-b243-4737-9cff-a1f9774ac58d",
+    "nombre": "disney39638e",
+    "status": "03:00",
     "duration": 135,
     "play_url": ""
   }
