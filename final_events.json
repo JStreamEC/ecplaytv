@@ -1,18 +1,5 @@
 [
   {
-    "title": "Montreal Canadiens vs. Colorado Avalanche",
-    "league": "National Hockey League",
-    "fecha-evento": "2025-11-29T15:00:09-05:00",
-    "img": "715b3904-3c2f-4364-adbb-8ef2a84c8a68",
-    "nombre": "disney7fefb1",
-    "status": "15:00",
-    "duration": 210,
-    "play_url": "https://www.disneyplus.com/es-es/play/ef7e63de-ff40-4773-b7f9-50e87cbc812a",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1764537623~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F29%2FMontreal_Canadiens_vs_Col_20251129_1764439231039%2F~psid=a60ce77a-0e71-4cdc-a9ca-6af719e8b677~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=a5218a8c0d4233f9c40791e42f651595332ebecb5a6e7e7206f6ca6187b265b6/clt1/va02/disneyplus/event/2025/11/29/Montreal_Canadiens_vs_Col_20251129_1764439231039/ctr-all-hdri-complete.m3u8?v=1&hash=67734a85bfe50ca5fe0304b8109fc71d9e73f8ea",
-    "k1": "bc70a1cb61154d16bac651c240fdc353",
-    "k2": "46c1ff8a16d44f6d2281223045338037"
-  },
-  {
     "title": "Palmeiras (BRA) vs. Flamengo (BRA) | Final",
     "league": "CONMEBOL Libertadores",
     "fecha-evento": "2025-11-29T15:20:00-05:00",
@@ -181,12 +168,15 @@
   {
     "title": "Jacksonville State vs. Pacific",
     "league": "Básquet Femenino NCAA",
-    "fecha-evento": "2025-11-29T18:30:00-05:00",
+    "fecha-evento": "2025-11-29T18:30:14-05:00",
     "img": "019a903d-7dc1-7715-bb91-f6b58f3df9a9",
-    "nombre": "disneyaf6d87",
+    "nombre": "disney0373a4",
     "status": "18:30",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/8f723f12-63dc-4c17-8d49-9c294c6f840d",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1764546069~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F29%2FJacksonville_State_vs_Pac_20251129_1764451836043%2F~psid=c5070127-eefe-4705-b33f-88103080e36c~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=4557f74a3791a01caa6194926e7fab4c01e60926429dbabcb0e76bb31df2487d/clt1/va02/disneyplus/event/2025/11/29/Jacksonville_State_vs_Pac_20251129_1764451836043/ctr-all-hdri-complete.m3u8?v=1&hash=e8ff34b825785763e0efd048196051ce352fc698",
+    "k1": "63ea302c9ce7429dbbcec4d2643ec69d",
+    "k2": "66dd299ee146fffa608fa9c1c642b2ac"
   },
   {
     "title": "Virginia Tech vs. #18 Virginia",
@@ -555,6 +545,26 @@
     "img": "2ba9f40e-b243-4737-9cff-a1f9774ac58d",
     "nombre": "disney39638e",
     "status": "03:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "FIS Men's Cross Country World Cup - Ruka, FIN",
+    "league": "ESPN",
+    "fecha-evento": "2025-11-30T04:00:00-05:00",
+    "img": "2ba9f40e-b243-4737-9cff-a1f9774ac58d",
+    "nombre": "disney0364d6",
+    "status": "04:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "HSBC World Rugby Sevens Series | Dubai | Session 2",
+    "league": "World Rugby Sevens Series",
+    "fecha-evento": "2025-11-30T04:05:00-05:00",
+    "img": "445e5c22-16c2-4fe7-b4d0-586f0de16d41",
+    "nombre": "disneybe5bb5",
+    "status": "04:05",
     "duration": 135,
     "play_url": ""
   }
