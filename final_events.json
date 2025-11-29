@@ -10,32 +10,6 @@
     "play_url": ""
   },
   {
-    "title": "RCD Mallorca vs. CA Osasuna",
-    "league": "LALIGA",
-    "fecha-evento": "2025-11-29T07:50:00-05:00",
-    "img": "306e4c7a-a433-4234-98d9-c5fe78291900",
-    "nombre": "disneya7d3db",
-    "status": "07:50",
-    "duration": 125,
-    "play_url": "https://www.disneyplus.com/es-es/play/e6fbba94-4a6c-41c7-9932-478aa07ad705",
-    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1764512513~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Ff25bdf06-81c9-4a7c-b128-3128d610ad17-1762951253360%2F~psid=0d59f354-25f7-4225-bd3a-d6e14e66313e~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=c619c0cc3a5fc8a8f28c48400c2db3f0246e142c759b678a1510194b1464d61f/clt1/va02/disneyplus/channel/f25bdf06-81c9-4a7c-b128-3128d610ad17-1762951253360/ctr-all-sliding-alt1.m3u8?v=1&hash=57a1e5c4737768952c5164be5d4f5ba525d47674",
-    "k1": "2285dd56038243caaa73c9d7220eda6e",
-    "k2": "4ab0b061d000b86a4a805cd048588046"
-  },
-  {
-    "title": "Ceuta vs. Burgos",
-    "league": "Segunda División de España",
-    "fecha-evento": "2025-11-29T07:55:09-05:00",
-    "img": "019a79f1-5bb0-7b3b-b80f-bed6aba839f7",
-    "nombre": "disney722c58",
-    "status": "07:55",
-    "duration": 125,
-    "play_url": "https://www.disneyplus.com/es-es/play/6a129861-2fc5-4da3-8e10-6abeddc51bc1",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1764512538~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F29%2FCeuta_vs_Burgos_20251129_1764413729018%2F~psid=e79ce5c0-5837-4601-99dc-b993db5636af~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=406576e0131316f149d0896a6ab13a3527d9db2128febdd26c71916c1a02ae3f/clt1/va02/disneyplus/event/2025/11/29/Ceuta_vs_Burgos_20251129_1764413729018/ctr-all-hdri-complete.m3u8?v=1&hash=c50a928db25b4350968d9f974c44535f6de2d33d",
-    "k1": "57326dfc11284ed9965cb4fc4b575b09",
-    "k2": "d0278a7889d923bf701d7460504fb529"
-  },
-  {
     "title": "F1 - GP Qatar - Carrera Sprint",
     "league": "Fórmula 1",
     "fecha-evento": "2025-11-29T08:00:00-05:00",
@@ -220,22 +194,28 @@
   {
     "title": "Gales vs. Sudáfrica",
     "league": "Autumn Nations Series",
-    "fecha-evento": "2025-11-29T10:00:00-05:00",
-    "img": "019ac34b-3af9-7711-86db-94aa54dddc9b",
-    "nombre": "disney38decf",
+    "fecha-evento": "2025-11-29T10:00:03-05:00",
+    "img": "019ac34b-3aee-7707-994a-c8013990fbd8",
+    "nombre": "disney5dac3f",
     "status": "10:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/855fe22b-83b3-4cb4-99ce-4d84e655c8fe",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1764516024~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F29%2FGales_vs_Sudfrica_20251129_1764421251018%2F~psid=0eb904e9-7cf0-4aa7-b3e6-c7ed3217d843~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=55d8770febb5bb71a70597363ab98f11ac07dc18ad061b6c5a722d6c52e414e1/clt1/va02/disneyplus/event/2025/11/29/Gales_vs_Sudfrica_20251129_1764421251018/ctr-all-hdri-complete.m3u8?v=1&hash=d69f5d6b74189b20bf7c6bce762dbd724d84675c",
+    "k1": "e8eeccd163b441fd959d0308b803a1fd",
+    "k2": "1b424ec31995c40341e5fc3e0f66cab7"
   },
   {
     "title": "Cultural Leonesa vs. Granada",
     "league": "Segunda División de España",
-    "fecha-evento": "2025-11-29T10:10:00-05:00",
+    "fecha-evento": "2025-11-29T10:10:02-05:00",
     "img": "019a79f2-582c-7a28-af90-89f658a959ca",
-    "nombre": "disneybc5fb9",
+    "nombre": "disneyfb077f",
     "status": "10:10",
-    "duration": 135,
-    "play_url": ""
+    "duration": 125,
+    "play_url": "https://www.disneyplus.com/es-es/play/6287a57c-fa7f-41ae-a62d-98d2da57a126",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1764516068~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F29%2FCultural_Leonesa_vs_Grana_20251129_1764421842042%2F~psid=5b3585c6-8181-4196-b87a-ec73bca34e22~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=ebe79f2b9b602fd1912a14488a582525dc43d8044af9f37418a3814f860b2056/clt1/va02/disneyplus/event/2025/11/29/Cultural_Leonesa_vs_Grana_20251129_1764421842042/ctr-all-hdri-complete.m3u8?v=1&hash=846677522b7857081d85dc638c7b42c7c3ac16ee",
+    "k1": "b0636facaf1e4da4a0ab8c0aae9c0eb5",
+    "k2": "a8248f55f1206002470f92a91fdba31f"
   },
   {
     "title": "HSBC World Rugby Sevens Series | Dubai | Session 2",
@@ -338,16 +318,6 @@
     "play_url": ""
   },
   {
-    "title": "Iowa State vs. Oklahoma State",
-    "league": "Fútbol Americano NCAA",
-    "fecha-evento": "2025-11-29T11:58:00-05:00",
-    "img": "02146feb-ee19-4f77-905a-9177c41670e1",
-    "nombre": "disney15c806",
-    "status": "11:58",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "#12 Miami vs. #22 Pittsburgh",
     "league": "Fútbol Americano NCAA",
     "fecha-evento": "2025-11-29T12:00:00-05:00",
@@ -363,6 +333,16 @@
     "fecha-evento": "2025-11-29T12:00:00-05:00",
     "img": "eaa31ee6-60e6-4d4c-9c45-9841335873ac",
     "nombre": "disneyf72044",
+    "status": "12:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Iowa State vs. Oklahoma State",
+    "league": "Fútbol Americano NCAA",
+    "fecha-evento": "2025-11-29T12:00:00-05:00",
+    "img": "02146feb-ee19-4f77-905a-9177c41670e1",
+    "nombre": "disney048151",
     "status": "12:00",
     "duration": 135,
     "play_url": ""
@@ -654,6 +634,26 @@
     "img": "bdc19485-aa28-49d0-8b0e-db77dbcf0a88",
     "nombre": "disneyeeebb8",
     "status": "15:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "LSU vs. #8 Oklahoma",
+    "league": "Fútbol Americano NCAA",
+    "fecha-evento": "2025-11-29T15:40:00-05:00",
+    "img": "3f8704b1-6b59-4f4a-b724-388cadc1105f",
+    "nombre": "disneye2e1b0",
+    "status": "15:40",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "James Madison vs. Coastal Carolina",
+    "league": "Fútbol Americano NCAA",
+    "fecha-evento": "2025-11-29T15:45:00-05:00",
+    "img": "be5f3d8a-fcd9-42b3-a6cd-c0319a7692ea",
+    "nombre": "disneydfbb89",
+    "status": "15:45",
     "duration": 135,
     "play_url": ""
   }
