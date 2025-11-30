@@ -85,19 +85,6 @@
     "k2": "3109f43dc439e327c197040b604e07c1"
   },
   {
-    "title": "Ajax vs. FC Groningen",
-    "league": "Eredivisie",
-    "fecha-evento": "2025-11-30T13:50:00-05:00",
-    "img": "019ab0fb-ce33-75f6-9819-5757ad458116",
-    "nombre": "disney69fbb9",
-    "status": "13:50",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/f6d076de-4cde-4f58-beec-cd35279a12a6",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1764615715~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F30%2FAjax_vs_FC_Groningen_20251130_1764521404018%2F~psid=2f4bbe10-17c7-4a45-af04-45bd684531ec~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=e14332e8f7faccdb5fef2358c86e9cc7d60ffb2fa0b22eed638e6d59519f9411/clt1/va02/disneyplus/event/2025/11/30/Ajax_vs_FC_Groningen_20251130_1764521404018/ctr-all-hdri-complete.m3u8?v=1&hash=e28425ce128a5fe369ecc4dfb3ed249e4da82b33",
-    "k1": "d1e3efbb6ae3430abdfefb48df6d1375",
-    "k2": "48284cdd61b52c583c2f459cdbed57ee"
-  },
-  {
     "title": "Florida A&M vs. South Alabama",
     "league": "Básquet Femenino NCAA",
     "fecha-evento": "2025-11-30T14:00:03-05:00",
@@ -152,22 +139,28 @@
   {
     "title": "Anaheim Ducks vs. Chicago Blackhawks",
     "league": "National Hockey League",
-    "fecha-evento": "2025-11-30T15:30:00-05:00",
+    "fecha-evento": "2025-11-30T15:30:26-05:00",
     "img": "b9470238-a312-428e-b7ce-80cd55adae27",
-    "nombre": "disney9df9b3",
+    "nombre": "disney6fcadb",
     "status": "15:30",
-    "duration": 135,
-    "play_url": ""
+    "duration": 210,
+    "play_url": "https://www.disneyplus.com/es-es/play/20605df1-28c7-4732-8e54-da60a836194d",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1764621721~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F30%2FAnaheim_Ducks_vs_Chicago__20251130_1764527445422%2F~psid=e83a70aa-2e07-412f-b8d0-6800ea1a6952~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=2219516d0fc8a88fd2e25d09b29eed465e6c500ae7b0e6f6f61903f5b09647fc/clt1/va02/disneyplus/event/2025/11/30/Anaheim_Ducks_vs_Chicago__20251130_1764527445422/ctr-all-hdri-complete.m3u8?v=1&hash=9079d50818ecd607a861b46b7b668cea75fc17a4",
+    "k1": "324040fa99d34a7a82249204109bc314",
+    "k2": "f0612de76f0ffc825f32ce63d977732d"
   },
   {
     "title": "St. Bonaventure vs. Florida Atlantic",
     "league": "Básquetbol Masculino NCAA",
-    "fecha-evento": "2025-11-30T15:30:00-05:00",
+    "fecha-evento": "2025-11-30T15:30:01-05:00",
     "img": "019a74b9-9242-7de5-85cc-f64391a544e5",
-    "nombre": "disney1ec4df",
+    "nombre": "disneyb4ca44",
     "status": "15:30",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/6f3cad33-6a61-4e42-81a2-86a7a1694826",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1764621747~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F30%2FSt_Bonaventure_vs_Florida_20251130_1764529792316%2F~psid=6b68eb80-ec5f-4d7a-b541-3587c0f8cc21~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=421d9b1c29aefeec2cf60f141fedd5a1ddbdb0f6cfd37fd5350d34abb225aa12/clt1/va02/disneyplus/event/2025/11/30/St_Bonaventure_vs_Florida_20251130_1764529792316/ctr-all-hdri-complete.m3u8?v=1&hash=0dbd7f02aa99a5d84c18a613ec83a9b289897e7c",
+    "k1": "c8e1df72c9044f45982970fce162908e",
+    "k2": "8589038455a6c5b334c1213df8b94ace"
   },
   {
     "title": "Duke vs. #14 Akron (Third Round)",
@@ -566,6 +559,16 @@
     "img": "019aa8d4-d2ae-71ce-9210-9f064d57b993",
     "nombre": "disney74712e",
     "status": "00:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Egpyt vs. Belgium",
+    "league": "Men's FIH Hockey Junior World Cup",
+    "fecha-evento": "2025-12-02T02:45:00-05:00",
+    "img": "019aa8d7-3eba-7a50-b9ce-5dc52cd6cb36",
+    "nombre": "disney19bbfe",
+    "status": "02:45",
     "duration": 135,
     "play_url": ""
   }
