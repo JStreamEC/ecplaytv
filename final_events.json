@@ -127,11 +127,14 @@
     "title": "Lyon vs. Nantes",
     "league": "Ligue 1",
     "fecha-evento": "2025-11-30T14:40:00-05:00",
-    "img": "019a9fc5-4b28-73e0-8952-6c57ed96debd",
+    "img": "019a9fc5-4b27-7792-9d58-4afc20e01d62",
     "nombre": "disney580f2c",
     "status": "14:40",
-    "duration": 135,
-    "play_url": ""
+    "duration": 125,
+    "play_url": "https://www.disneyplus.com/es-es/play/5355d672-aeb1-4c36-ad37-12284c0cf297",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1764619315~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F30%2FLyon_vs_Nantes_20251130_1764524456040%2F~psid=c2c3664e-1dbb-4c6b-820c-40a18520322c~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=3ed35ad3d81fbc711da0618e76ea7b933a69a31cad155a5142087ca9bbbf2db9/clt1/va02/disneyplus/event/2025/11/30/Lyon_vs_Nantes_20251130_1764524456040/ctr-all-hdri-complete.m3u8?v=1&hash=7c17b58ffb28b8724830162f20361c480f0941ac",
+    "k1": "f7e91a0336df4e17916d04c8afd3ae58",
+    "k2": "e3343f2bc3678c8def34b5f10b7390e4"
   },
   {
     "title": "Girona FC vs. Real Madrid",
@@ -140,8 +143,11 @@
     "img": "306e4c7a-a433-4234-98d9-c5fe78291900",
     "nombre": "disney953e1f",
     "status": "14:45",
-    "duration": 135,
-    "play_url": ""
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/f681883a-57e8-43f9-aa26-96c2ee5297cf",
+    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1764619339~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Ff25bdf06-81c9-4a7c-b128-3128d610ad17-1762951253360%2F~psid=4237c195-aadf-4cb3-abc0-7110c5f0c0dc~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=a2a123798f117d10680242e00a80c4db8e6d5bd05f948ab92cde76d1468aabfd/clt1/va02/disneyplus/channel/f25bdf06-81c9-4a7c-b128-3128d610ad17-1762951253360/ctr-all-sliding-alt1.m3u8?v=1&hash=57a1e5c4737768952c5164be5d4f5ba525d47674",
+    "k1": "6ce4d736bb6a4ba1a34a996b24f26e76",
+    "k2": "eb89b2387d1bc01b922e29757af4b509"
   },
   {
     "title": "Anaheim Ducks vs. Chicago Blackhawks",
