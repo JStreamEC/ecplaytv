@@ -1,28 +1,5 @@
 [
   {
-    "title": "Atalanta vs. Fiorentina",
-    "league": "Seria A",
-    "fecha-evento": "",
-    "img": "019a9d86-e46e-7e05-aea8-0ab422fb29bc",
-    "nombre": "disney916b0e",
-    "status": "",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Fatih Karagumruk vs. Besiktas",
-    "league": "Super Lig de Turquía",
-    "fecha-evento": "2025-11-30T11:50:00-05:00",
-    "img": "019a92b0-447c-7aa3-835a-de063296aac0",
-    "nombre": "disney50156f",
-    "status": "11:50",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/bfea19eb-f7bd-4682-8d4f-1b5fa2e1e8e5",
-    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1764608468~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Ffad7477a-2557-4c86-93ad-97e682f108c9-1762950787704%2F~psid=adb970ce-d87c-4d1c-b85b-f94631279be1~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=1e0685bb96ab4dea0609df703a88b9b7ad06713921864e681d70dd5199d3e90e/clt1/va02/disneyplus/channel/fad7477a-2557-4c86-93ad-97e682f108c9-1762950787704/ctr-all-sliding-alt1.m3u8?v=1&hash=c22bdedf975b3d9dfa4f45b9a274403d0b673d71",
-    "k1": "e51d3f6231964c78b5b1c38494a7cc8c",
-    "k2": "52deb643e0f4e5b9fa3d52cce3e64db0"
-  },
-  {
     "title": "Houston Texans vs. Indianapolis Colts",
     "league": "NFL",
     "fecha-evento": "2025-11-30T13:00:00-05:00",
@@ -123,12 +100,15 @@
   {
     "title": "Florida A&M vs. South Alabama",
     "league": "Básquet Femenino NCAA",
-    "fecha-evento": "2025-11-30T14:00:00-05:00",
-    "img": "8f0e12a8-bb15-40a7-a171-51371e724587",
-    "nombre": "disney10dd4c",
+    "fecha-evento": "2025-11-30T14:00:03-05:00",
+    "img": "6b6a8c7c-f8a6-416f-9cb0-5af6847cabdf",
+    "nombre": "disney4cb2ea",
     "status": "14:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/276fb1b0-25a3-4d25-a533-5a2dcb882a79",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1764616915~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F30%2FFlorida_AM_vs_South_Alaba_20251130_1764522050019%2F~psid=8fe6fc91-6529-4e30-a5d6-9709ef810245~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=56d6836ec8fb7dba4086a0f663887584cdf9fe1b842ff99dffd77b3f788b34ee/clt1/va02/disneyplus/event/2025/11/30/Florida_AM_vs_South_Alaba_20251130_1764522050019/ctr-all-hdri-complete.m3u8?v=1&hash=f6a71384d39534c614b6cfaae5edc8361652b667",
+    "k1": "4828e4a7e0db4b58902bd44c7a765b28",
+    "k2": "7745a5aae20acb406dfacd8a9155a67f"
   },
   {
     "title": "Compacto | F1 GP Qatar | Carrera (30 min)",
@@ -137,8 +117,11 @@
     "img": "019ad59f-e18b-75ea-a0b5-cc0338c1cd2e",
     "nombre": "disneya12506",
     "status": "14:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 30,
+    "play_url": "https://www.disneyplus.com/es-es/play/43143ba8-eb1c-4fd6-8489-d4c426c520e6",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1764616940~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F30%2FCompacto_F1_GP_Qatar_Carr_20251130_1764522027043%2F~psid=98d77719-6b60-4046-9246-e610573c2434~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=bcb54327143aec38152493d3bcec904e5cb8035d58d03af71f562992f98f96c7/clt1/va02/disneyplus/event/2025/11/30/Compacto_F1_GP_Qatar_Carr_20251130_1764522027043/ctr-all-hdri-complete.m3u8?v=1&hash=dcee77b0bbe6a91249b010285dda97a74d4f0a1b",
+    "k1": "e747cdb077974292950d6c98bdc58e1a",
+    "k2": "dd257ca9b6b912df7f8d092c4003c4d7"
   },
   {
     "title": "Roma vs. Napoli",
@@ -157,6 +140,16 @@
     "img": "019a9fc5-4b27-7810-84ba-4f52593cef8e",
     "nombre": "disney580f2c",
     "status": "14:40",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Girona FC vs. Real Madrid",
+    "league": "LALIGA",
+    "fecha-evento": "2025-11-30T14:45:00-05:00",
+    "img": "306e4c7a-a433-4234-98d9-c5fe78291900",
+    "nombre": "disney953e1f",
+    "status": "14:45",
     "duration": 135,
     "play_url": ""
   },
