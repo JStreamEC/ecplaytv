@@ -1,18 +1,5 @@
 [
   {
-    "title": "Washington Capitals vs. New York Islanders",
-    "league": "National Hockey League",
-    "fecha-evento": "2025-11-30T13:00:17-05:00",
-    "img": "2b5f991b-5247-45f0-94a9-c5727cd21229",
-    "nombre": "disney4d8734",
-    "status": "13:00",
-    "duration": 210,
-    "play_url": "https://www.disneyplus.com/es-es/play/21d1f639-7895-4145-acb5-9b954a96410a",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1764613314~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F30%2FWashington_Capitals_vs_Ne_20251130_1764518442553%2F~psid=5f1d7f8f-48fa-40b3-877b-440bf3301803~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=5ac3deaf9bceba23895995c63b6d7b1eed2ddc69843d70fda875f6e9c26610bc/clt1/va02/disneyplus/event/2025/11/30/Washington_Capitals_vs_Ne_20251130_1764518442553/ctr-all-hdri-complete.m3u8?v=1&hash=bf87a1e022ee317f828c3151634a59ab3d5ad609",
-    "k1": "309a45b07fee425a830595882621cc1c",
-    "k2": "9e115133745a12d93e3bb329f2a651e5"
-  },
-  {
     "title": "NFL Redzone",
     "league": "NFL",
     "fecha-evento": "2025-11-30T13:00:00-05:00",
@@ -212,7 +199,7 @@
     "title": "Eastern Washington vs. Portland",
     "league": "Básquet Femenino NCAA",
     "fecha-evento": "2025-11-30T18:00:00-05:00",
-    "img": "0e9b9a19-9891-4ab4-bef8-ab96f57f9d2f",
+    "img": "887236e2-7f53-44d5-a833-7bed47466806",
     "nombre": "disneyed1bf5",
     "status": "18:00",
     "duration": 135,
@@ -575,6 +562,26 @@
     "img": "019aa8d9-fe2e-7413-8e26-2d8d2f629ecf",
     "nombre": "disneyc9eb71",
     "status": "07:15",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "South Korea vs. Australia",
+    "league": "Men's FIH Hockey Junior World Cup",
+    "fecha-evento": "2025-12-02T07:30:00-05:00",
+    "img": "019aa8d9-5225-7d35-957c-c0a499274b18",
+    "nombre": "disneyf22a80",
+    "status": "07:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Inglaterra vs. China",
+    "league": "Copa del Mundo - Hockey Junior",
+    "fecha-evento": "2025-12-02T09:15:00-05:00",
+    "img": "019aad75-a0c7-7bd1-a22d-0316b9395c82",
+    "nombre": "disney9be817",
+    "status": "09:15",
     "duration": 135,
     "play_url": ""
   }
