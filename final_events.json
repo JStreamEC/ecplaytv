@@ -26,19 +26,6 @@
     "k2": "3109f43dc439e327c197040b604e07c1"
   },
   {
-    "title": "Girona FC vs. Real Madrid",
-    "league": "LALIGA",
-    "fecha-evento": "2025-11-30T14:45:00-05:00",
-    "img": "306e4c7a-a433-4234-98d9-c5fe78291900",
-    "nombre": "disney953e1f",
-    "status": "14:45",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/f681883a-57e8-43f9-aa26-96c2ee5297cf",
-    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1764619339~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Ff25bdf06-81c9-4a7c-b128-3128d610ad17-1762951253360%2F~psid=4237c195-aadf-4cb3-abc0-7110c5f0c0dc~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=a2a123798f117d10680242e00a80c4db8e6d5bd05f948ab92cde76d1468aabfd/clt1/va02/disneyplus/channel/f25bdf06-81c9-4a7c-b128-3128d610ad17-1762951253360/ctr-all-sliding-alt1.m3u8?v=1&hash=57a1e5c4737768952c5164be5d4f5ba525d47674",
-    "k1": "6ce4d736bb6a4ba1a34a996b24f26e76",
-    "k2": "eb89b2387d1bc01b922e29757af4b509"
-  },
-  {
     "title": "Anaheim Ducks vs. Chicago Blackhawks",
     "league": "National Hockey League",
     "fecha-evento": "2025-11-30T15:30:26-05:00",
@@ -132,22 +119,28 @@
   {
     "title": "Calgary Flames vs. Carolina Hurricanes",
     "league": "National Hockey League",
-    "fecha-evento": "2025-11-30T17:00:00-05:00",
+    "fecha-evento": "2025-11-30T17:00:13-05:00",
     "img": "e0c171f4-2377-4b62-9182-f26342ebd3f7",
-    "nombre": "disney0a7766",
+    "nombre": "disney6b7836",
     "status": "17:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 210,
+    "play_url": "https://www.disneyplus.com/es-es/play/563fae8b-461e-4848-9c94-753bba9f2ea7",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1764627632~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F30%2FCalgary_Flames_vs_Carolin_20251130_1764532805744%2F~psid=0cf01620-20a6-46cc-9883-a6025e202695~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=4b79b4c00c35b5a3bd993aa3d9597fe09aac81fa5cb390b9085458aedc700591/clt1/va02/disneyplus/event/2025/11/30/Calgary_Flames_vs_Carolin_20251130_1764532805744/ctr-all-hdri-complete.m3u8?v=1&hash=4d5eec372afa5cb39d9b213e1de39ff241c04df4",
+    "k1": "322f9d73280f48d6bdb7a0210be4441e",
+    "k2": "5c07bc8b3c26654d17edce832b97678d"
   },
   {
     "title": "CSU Monterey Bay vs. San Francisco",
     "league": "Básquet Femenino NCAA",
-    "fecha-evento": "2025-11-30T17:00:00-05:00",
+    "fecha-evento": "2025-11-30T17:00:02-05:00",
     "img": "019aaf46-cf03-700a-98bc-c4df15c4ad97",
-    "nombre": "disneybf343e",
+    "nombre": "disneyad933d",
     "status": "17:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/6c2afa46-f0f9-45dc-b84f-2b9df2924183",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1764627680~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F30%2FCSU_Monterey_Bay_vs_San_F_20251130_1764533632321%2F~psid=2aa4130b-bc4b-4254-a23c-6d4d339bcdbb~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=c223455048b9c5172b15bdfa8c6dc1eb8cab5246597254afab34b860797a026c/clt1/va02/disneyplus/event/2025/11/30/CSU_Monterey_Bay_vs_San_F_20251130_1764533632321/ctr-all-hdri-complete.m3u8?v=1&hash=343903214d97dbd00884f717bc006625ffc4da5c",
+    "k1": "62e5dba7ca3c424987afb661d0626b50",
+    "k2": "8697faf44a9a10350762036f416d1eb3"
   },
   {
     "title": "Ottawa Senators vs. Dallas Stars",
@@ -576,6 +569,16 @@
     "img": "019aad76-110c-7ffe-83c9-948e17a32c46",
     "nombre": "disney64f717",
     "status": "11:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Borussia Mönchengladbach vs. St. Pauli",
+    "league": "Copa de Alemania",
+    "fecha-evento": "2025-12-02T11:50:00-05:00",
+    "img": "019a9992-5636-7e88-8844-67523cde876f",
+    "nombre": "disneyc8f9ea",
+    "status": "11:50",
     "duration": 135,
     "play_url": ""
   }
