@@ -1,18 +1,5 @@
 [
   {
-    "title": "Crystal Palace vs. Manchester United",
-    "league": "Premier League",
-    "fecha-evento": "2025-11-30T06:50:00-05:00",
-    "img": "019acc06-e0ba-7e5a-befa-3b0cb87fe0d1",
-    "nombre": "disneyf892f9",
-    "status": "06:50",
-    "duration": 125,
-    "play_url": "https://www.disneyplus.com/es-es/play/4306758d-8c57-45f9-ac51-178456f75044",
-    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1764594112~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F921e1311-bb26-43dd-84a6-9e2284959712-1762950465141%2F~psid=53e264ee-fc1e-40ce-91a0-2dd02b9d4dbb~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=9cc84c8767b30239d984b48c79aa7f9e02a5207ffc34e80d4fe3983829f9f932/clt1/va02/disneyplus/channel/921e1311-bb26-43dd-84a6-9e2284959712-1762950465141/ctr-all-sliding-alt1.m3u8?v=1&hash=03915bf69f19826611ecdeecc79455eab40b229c",
-    "k1": "042e9a6e6f54447bbb2d251f8086e555",
-    "k2": "e95f409c9886c5975bcabaa623bd9e7d"
-  },
-  {
     "title": "South Korea vs. Bangladesh",
     "league": "Men's FIH Hockey Junior World Cup",
     "fecha-evento": "2025-11-30T07:15:14-05:00",
@@ -91,14 +78,43 @@
     "k2": "73439057aa5bbeba44c36726ac58c39d"
   },
   {
+    "title": "FIS Men's Ski Jumping World Cup - Ruka, FIN",
+    "league": "ESPN",
+    "fecha-evento": "2025-11-30T08:40:10-05:00",
+    "img": "2ba9f40e-b243-4737-9cff-a1f9774ac58d",
+    "nombre": "disney08eec4",
+    "status": "08:40",
+    "duration": 100,
+    "play_url": "https://www.disneyplus.com/es-es/play/b72ed533-dfc9-4452-9f27-04f0dd1646df",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1764597623~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F30%2FFIS_Mens_Ski_Jumping_Worl_20251130_1764503405042%2F~psid=d5985e85-b154-4199-b5e6-02b132fb84e5~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=a4ae086faf7a914ca92d53fc939e7a50ed429a36f29916440146b28f41e18496/clt1/va02/disneyplus/event/2025/11/30/FIS_Mens_Ski_Jumping_Worl_20251130_1764503405042/ctr-all-hdri-complete.m3u8?v=1&hash=dc3c011ba2e1b4be8f032d306d1ef46648269899",
+    "k1": "d6f9541e3ec742528c54d0efce1ee0a2",
+    "k2": "bb545bd7c3f03c43b55f75b2923c46e4"
+  },
+  {
     "title": "West Ham United vs. Liverpool",
     "league": "Premier League",
-    "fecha-evento": "2025-11-30T08:45:00-05:00",
-    "img": "019a9fc5-85b3-758f-974e-6fd0a112d433",
-    "nombre": "disney4bf088",
+    "fecha-evento": "2025-11-30T08:45:01-05:00",
+    "img": "019a9fc5-8643-75f9-b640-e8aa4e9bf6ac",
+    "nombre": "disney7e7ba1",
     "status": "08:45",
     "duration": 135,
-    "play_url": ""
+    "play_url": "https://www.disneyplus.com/es-es/play/9d39f567-0df8-4be4-b60d-0d1a6e15e336",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1764597668~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F30%2FWest_Ham_United_vs_Liverp_20251130_1764503132017%2F~psid=605a5c5f-ecee-4416-b2cd-8440be6314ec~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=94dd72345629b29f4de3cc7c8e7d43ac073a7d16c212baa1359f59cc5bb49146/clt1/va02/disneyplus/event/2025/11/30/West_Ham_United_vs_Liverp_20251130_1764503132017/ctr-all-hdri-complete.m3u8?v=1&hash=a30d9316ddc3d84655ddec6c2e1f8d889a443902",
+    "k1": "fbe1a2459f294210b364da7fc1b15b5e",
+    "k2": "6957b5cd4285e762789730474eaf91a3"
+  },
+  {
+    "title": "Strasbourg vs. Brest",
+    "league": "Ligue 1",
+    "fecha-evento": "2025-11-30T08:48:24-05:00",
+    "img": "019a9fc5-54a3-7e50-9d53-75397599a180",
+    "nombre": "disneyed8d0a",
+    "status": "08:48",
+    "duration": 132,
+    "play_url": "https://www.disneyplus.com/es-es/play/0ed98cc0-0582-4dc5-9393-2b77cfb914fb",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1764597713~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F30%2FStrasbourg_vs_Brest_20251130_1764503725019%2F~psid=e90a15cd-0748-40a0-a0f3-52a0a44136f7~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=453d719b56c808cc02da3503ddcc65369721464cdfd381b4cf0a12b058e86066/clt1/va02/disneyplus/event/2025/11/30/Strasbourg_vs_Brest_20251130_1764503725019/ctr-all-hdri-complete.m3u8?v=1&hash=c2f17d08284a668347244c22d95cdf0a9f95db0a",
+    "k1": "642c98bbb4e44809b96a1ad7adcda977",
+    "k2": "88299f776c5b68c6dff0d0eea525bc5d"
   },
   {
     "title": "Pisa vs. Inter",
@@ -107,48 +123,37 @@
     "img": "019a9d89-6bcb-742a-b5b0-7fc0120be9c4",
     "nombre": "disney78754a",
     "status": "08:50",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "FIS Men's Ski Jumping World Cup - Ruka, FIN",
-    "league": "ESPN",
-    "fecha-evento": "2025-11-30T08:50:00-05:00",
-    "img": "2ba9f40e-b243-4737-9cff-a1f9774ac58d",
-    "nombre": "disney4f7d90",
-    "status": "08:50",
-    "duration": 135,
-    "play_url": ""
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/a422cca5-42db-452a-ba4a-01154db3f113",
+    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1764597738~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Fbbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1762950822680%2F~psid=044edb6c-dcda-41a1-8139-43aefa27569c~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=303a2a0a7c128a86e233fa94e2f276b2a932226f1b7b128866a1b1b61015cfdf/clt1/va02/disneyplus/channel/bbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1762950822680/ctr-all-sliding-alt1.m3u8?v=1&hash=2204dc483842bd9152836a99fc823b0b9e410a70",
+    "k1": "a3de817d264c43bcaa02251547562758",
+    "k2": "6ab1a1cec249346195e8968f7c58da2d"
   },
   {
     "title": "Nottingham Forest vs. Brighton & Hove Albion",
     "league": "Premier League",
-    "fecha-evento": "2025-11-30T08:55:00-05:00",
+    "fecha-evento": "2025-11-30T08:55:11-05:00",
     "img": "019a9da1-a987-72d6-9716-1bdd69e70457",
-    "nombre": "disney12adcd",
+    "nombre": "disney1f1417",
     "status": "08:55",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Strasbourg vs. Brest",
-    "league": "Ligue 1",
-    "fecha-evento": "2025-11-30T08:55:00-05:00",
-    "img": "019a9fc5-54a3-7e50-9d53-75397599a180",
-    "nombre": "disney2c151c",
-    "status": "08:55",
-    "duration": 135,
-    "play_url": ""
+    "duration": 125,
+    "play_url": "https://www.disneyplus.com/es-es/play/01fffed6-0b20-424c-821c-1dfe521076f8",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1764597763~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F30%2FNottingham_Forest_vs_Brig_20251130_1764503758018%2F~psid=6cc607e6-4838-4af8-9d5b-eeadbf92fcc8~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=2b8a5dbba8ea99f86e9018540918752477466ff15e7425436ecbbc9b71b830c1/clt1/va02/disneyplus/event/2025/11/30/Nottingham_Forest_vs_Brig_20251130_1764503758018/ctr-all-hdri-complete.m3u8?v=1&hash=341ece4912e66b3133c7bb0395929c1219e569d5",
+    "k1": "6cceca6b3cef43bcbbf3a8518bd84f98",
+    "k2": "79e4ddba54575cae01d6f1a34af856f6"
   },
   {
     "title": "Aston Villa vs. Wolverhampton Wanderers",
     "league": "Premier League",
-    "fecha-evento": "2025-11-30T08:55:00-05:00",
-    "img": "019a9da2-8cf8-7b39-8584-ca049f6207e3",
-    "nombre": "disneyb97f17",
-    "status": "08:55",
-    "duration": 135,
-    "play_url": ""
+    "fecha-evento": "2025-11-30T08:58:53-05:00",
+    "img": "019a9da2-8c0a-7d5e-977f-2a32578efe48",
+    "nombre": "disneydbb568",
+    "status": "08:58",
+    "duration": 116,
+    "play_url": "https://www.disneyplus.com/es-es/play/9af576c4-88bc-4732-8011-82361fa34368",
+    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1764597788~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F921e1311-bb26-43dd-84a6-9e2284959712-1762950465141%2F~psid=a8da1ea1-fd09-4a97-b9fd-993657ddada3~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=c2b28800113fc80409c9a971b9e05f6dfee91fd7f8155b49d9c5023c7cbf4e49/clt1/va02/disneyplus/channel/921e1311-bb26-43dd-84a6-9e2284959712-1762950465141/ctr-all-sliding-alt1.m3u8?v=1&hash=03915bf69f19826611ecdeecc79455eab40b229c",
+    "k1": "042e9a6e6f54447bbb2d251f8086e555",
+    "k2": "e95f409c9886c5975bcabaa623bd9e7d"
   },
   {
     "title": "Hamburger SV vs. Stuttgart",
@@ -606,6 +611,16 @@
     "fecha-evento": "2025-11-30T18:00:00-05:00",
     "img": "019a8e47-f475-7a9d-a283-99fb127e40d7",
     "nombre": "disney874329",
+    "status": "18:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Eastern Washington vs. Portland",
+    "league": "Básquet Femenino NCAA",
+    "fecha-evento": "2025-11-30T18:00:00-05:00",
+    "img": "0e9b9a19-9891-4ab4-bef8-ab96f57f9d2f",
+    "nombre": "disneyed1bf5",
     "status": "18:00",
     "duration": 135,
     "play_url": ""
