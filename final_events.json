@@ -1,18 +1,5 @@
 [
   {
-    "title": "PSV vs. FC Volendam",
-    "league": "Eredivisie",
-    "fecha-evento": "2025-11-30T06:00:00-05:00",
-    "img": "019ab0f5-3997-77cf-a88d-52e86c56acd9",
-    "nombre": "disney633729",
-    "status": "06:00",
-    "duration": 135,
-    "play_url": "https://www.disneyplus.com/es-es/play/5d57c507-9566-49a3-be98-1ca5e0ee9122",
-    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1764594022~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Fbbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1762950822680%2F~psid=b8bb21e5-b012-4b35-a242-5daab97cc2e9~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=d5a602c78d5a3b6c59811eb991a9bb158c1ee34d7378561963f1712832918360/clt1/va02/disneyplus/channel/bbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1762950822680/ctr-all-sliding-alt1.m3u8?v=1&hash=2204dc483842bd9152836a99fc823b0b9e410a70",
-    "k1": "a3de817d264c43bcaa02251547562758",
-    "k2": "6ab1a1cec249346195e8968f7c58da2d"
-  },
-  {
     "title": "Lecce vs. Torino",
     "league": "Seria A",
     "fecha-evento": "2025-11-30T06:20:01-05:00",
@@ -132,12 +119,15 @@
   {
     "title": "Telstar vs. Feyenoord",
     "league": "Eredivisie",
-    "fecha-evento": "2025-11-30T08:15:00-05:00",
+    "fecha-evento": "2025-11-30T08:13:03-05:00",
     "img": "019ab241-962e-7155-a67f-20e0c4db611b",
-    "nombre": "disney98627f",
-    "status": "08:15",
-    "duration": 135,
-    "play_url": ""
+    "nombre": "disney09cc02",
+    "status": "08:13",
+    "duration": 137,
+    "play_url": "https://www.disneyplus.com/es-es/play/5556b6cd-b49f-4ecb-babf-1cca1b6ed439",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1764595221~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F30%2FTelstar_vs_Feyenoord_20251130_1764501331017%2F~psid=e812d9e9-4ebc-4eb6-80f2-f05646e57e8a~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=46f637e9b5869ec67a63d8cbd7dcff2a02b12c8b746ab55650db7ab5d3ec58e4/clt1/va02/disneyplus/event/2025/11/30/Telstar_vs_Feyenoord_20251130_1764501331017/ctr-all-hdri-complete.m3u8?v=1&hash=d1528ce628a5cd07fdbcf4202e64b4a0b19cd6cb",
+    "k1": "7594a8c242b041e4968ce8827beee1ae",
+    "k2": "73439057aa5bbeba44c36726ac58c39d"
   },
   {
     "title": "West Ham United vs. Liverpool",
