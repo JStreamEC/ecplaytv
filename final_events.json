@@ -23,16 +23,6 @@
     "play_url": "https://www.disneyplus.com/es-es/play/e1a9d7fe-665e-4d27-9aa3-9e4b4d5b2505"
   },
   {
-    "title": "Iowa vs. Iowa State",
-    "league": "NCAA Luchas",
-    "fecha-evento": "2025-11-30T13:00:11-05:00",
-    "img": "79dccdb5-ae78-4f5d-9a66-a92bf90f5698",
-    "nombre": "disneya2c3fa",
-    "status": "13:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/ca8bf097-1f16-48d3-a294-a14d1323ba13"
-  },
-  {
     "title": "Washington Capitals vs. New York Islanders",
     "league": "National Hockey League",
     "fecha-evento": "2025-11-30T13:00:17-05:00",
@@ -57,19 +47,6 @@
     "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1764612072~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Fec26a05e-a9cc-4db4-804e-77465738e667-1762950455142%2F~psid=c1389c70-f5f2-4499-9856-b3ffa3d4ec60~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=a2097d92b924e9b3f44abe4480f541f54985d887bf594f66c12ffbe513ccc90b/clt1/va02/disneyplus/channel/ec26a05e-a9cc-4db4-804e-77465738e667-1762950455142/ctr-all-sliding-alt1.m3u8?v=1&hash=e2faf4444722e1f805096ad7b7489a5d09f9944f",
     "k1": "10ecdd5ca389464f8d73c4a32e49d5eb",
     "k2": "034b0091889666c4a9167cf381ffbaec"
-  },
-  {
-    "title": "Freiburg vs. Mainz 05",
-    "league": "Bundesliga",
-    "fecha-evento": "2025-11-30T13:20:02-05:00",
-    "img": "019a9238-c2b8-7816-b339-0c58d25300ea",
-    "nombre": "disney8115f1",
-    "status": "13:20",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/a989aee0-3f5e-4a7e-8a74-79c603314928",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1764614513~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F30%2FFreiburg_vs_Mainz_05_20251130_1764519647019%2F~psid=ac1cd948-4968-4a4b-8245-6db65e793907~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=0567d9767e37434a225c6d2aec22aa1dd7defc10692292dd23f4e9978109208d/clt1/va02/disneyplus/event/2025/11/30/Freiburg_vs_Mainz_05_20251130_1764519647019/ctr-all-hdri-complete.m3u8?v=1&hash=47883bfad609190840d7a296b028dc6223729740",
-    "k1": "fca5db4f505a4355ae95e1d7e95cda71",
-    "k2": "317766ba540a048119aba8aaa2613728"
   },
   {
     "title": "Nacional vs. Peñarol | Final, vuelta",
@@ -175,20 +152,20 @@
   {
     "title": "Las Vegas Raiders vs. Los Angeles Chargers",
     "league": "NFL",
-    "fecha-evento": "2025-11-30T16:00:00-05:00",
+    "fecha-evento": "2025-11-30T16:05:00-05:00",
     "img": "8dd8a15c-0789-48ef-aa94-0abb014270a9",
-    "nombre": "disneya34ab1",
-    "status": "16:00",
+    "nombre": "disney8b404f",
+    "status": "16:05",
     "duration": 135,
     "play_url": ""
   },
   {
     "title": "Buffalo Bills vs. Pittsburgh Steelers",
     "league": "NFL",
-    "fecha-evento": "2025-11-30T16:00:00-05:00",
+    "fecha-evento": "2025-11-30T16:05:00-05:00",
     "img": "019a9a96-41bf-73d6-97ce-484ff3541a07",
-    "nombre": "disneyd8d950",
-    "status": "16:00",
+    "nombre": "disney64cb7c",
+    "status": "16:05",
     "duration": 135,
     "play_url": ""
   },
@@ -569,6 +546,26 @@
     "img": "019aa8d7-3eba-7a50-b9ce-5dc52cd6cb36",
     "nombre": "disney19bbfe",
     "status": "02:45",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Chile vs. Omán",
+    "league": "Men's FIH Hockey Junior World Cup",
+    "fecha-evento": "2025-12-02T03:00:00-05:00",
+    "img": "019aa8d6-8672-75a9-aa10-1f698f75c552",
+    "nombre": "disneyd0fa71",
+    "status": "03:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Netherlands vs. Austria",
+    "league": "Men's FIH Hockey Junior World Cup",
+    "fecha-evento": "2025-12-02T05:00:00-05:00",
+    "img": "019aa8d7-0c2b-7574-8c23-ce532e80155d",
+    "nombre": "disney7cfce9",
+    "status": "05:00",
     "duration": 135,
     "play_url": ""
   }
