@@ -65,19 +65,6 @@
     "k2": "74d80c8dc28e7ef4b65d12ae8715738f"
   },
   {
-    "title": "Boca Juniors vs. Argentinos Juniors (ARG)",
-    "league": "Liga Profesional de Fútbol",
-    "fecha-evento": "2025-11-30T16:15:00-05:00",
-    "img": "019ac1b2-88af-7991-9f87-ac11ceea882f",
-    "nombre": "disneyfbf272",
-    "status": "16:15",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/ce872d42-4084-43d2-aad5-0e81f3753909",
-    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1764624172~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F921e1311-bb26-43dd-84a6-9e2284959712-1762950465141%2F~psid=13aea3df-51ff-4f35-a1da-58fc8be5cc21~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=167d4358c80c76faf1fda4f36ccb409423440e17cab1e802ac0fe468d7602182/clt1/va02/disneyplus/channel/921e1311-bb26-43dd-84a6-9e2284959712-1762950465141/ctr-all-sliding-alt1.m3u8?v=1&hash=03915bf69f19826611ecdeecc79455eab40b229c",
-    "k1": "042e9a6e6f54447bbb2d251f8086e555",
-    "k2": "e95f409c9886c5975bcabaa623bd9e7d"
-  },
-  {
     "title": "Calgary Flames vs. Carolina Hurricanes",
     "league": "National Hockey League",
     "fecha-evento": "2025-11-30T17:00:13-05:00",
@@ -569,6 +556,16 @@
     "img": "019a9e15-e51b-79b8-b974-ab2a810a83d5",
     "nombre": "disney32f427",
     "status": "11:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "España vs. Germany (Final, Leg 2)",
+    "league": "UEFA Women's Nations League",
+    "fecha-evento": "2025-12-02T12:20:00-05:00",
+    "img": "019ad0a8-9838-7925-98c4-00b65b39d14d",
+    "nombre": "disney2cc855",
+    "status": "12:20",
     "duration": 135,
     "play_url": ""
   }
