@@ -26,32 +26,6 @@
     "k2": "3109f43dc439e327c197040b604e07c1"
   },
   {
-    "title": "Roma vs. Napoli",
-    "league": "Seria A",
-    "fecha-evento": "2025-11-30T14:30:00-05:00",
-    "img": "019a9d85-4a5b-717e-9be3-f67c75c39769",
-    "nombre": "disney35e667",
-    "status": "14:30",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/3870e68d-12e4-47ba-b606-4c912d352341",
-    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1764618116~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Fbbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1762950822680%2F~psid=092da7af-12b0-44c4-8d97-7d2235fb6e2d~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=4e157c4e912ed648ea7c1930976b806c348962a5a948169b4c93b6ed3cecd9c2/clt1/va02/disneyplus/channel/bbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1762950822680/ctr-all-sliding-alt1.m3u8?v=1&hash=2204dc483842bd9152836a99fc823b0b9e410a70",
-    "k1": "a3de817d264c43bcaa02251547562758",
-    "k2": "6ab1a1cec249346195e8968f7c58da2d"
-  },
-  {
-    "title": "Lyon vs. Nantes",
-    "league": "Ligue 1",
-    "fecha-evento": "2025-11-30T14:40:00-05:00",
-    "img": "019a9fc5-4b27-7792-9d58-4afc20e01d62",
-    "nombre": "disney580f2c",
-    "status": "14:40",
-    "duration": 125,
-    "play_url": "https://www.disneyplus.com/es-es/play/5355d672-aeb1-4c36-ad37-12284c0cf297",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1764619315~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F30%2FLyon_vs_Nantes_20251130_1764524456040%2F~psid=c2c3664e-1dbb-4c6b-820c-40a18520322c~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=3ed35ad3d81fbc711da0618e76ea7b933a69a31cad155a5142087ca9bbbf2db9/clt1/va02/disneyplus/event/2025/11/30/Lyon_vs_Nantes_20251130_1764524456040/ctr-all-hdri-complete.m3u8?v=1&hash=7c17b58ffb28b8724830162f20361c480f0941ac",
-    "k1": "f7e91a0336df4e17916d04c8afd3ae58",
-    "k2": "e3343f2bc3678c8def34b5f10b7390e4"
-  },
-  {
     "title": "Girona FC vs. Real Madrid",
     "league": "LALIGA",
     "fecha-evento": "2025-11-30T14:45:00-05:00",
@@ -582,6 +556,26 @@
     "img": "019aad75-a0c7-7bd1-a22d-0316b9395c82",
     "nombre": "disney9be817",
     "status": "09:15",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "India vs. Suiza",
+    "league": "Men's FIH Hockey Junior World Cup",
+    "fecha-evento": "2025-12-02T09:30:00-05:00",
+    "img": "019aa8d8-5d62-775c-a3cf-4cf3029b8152",
+    "nombre": "disneyd3c48a",
+    "status": "09:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Australia vs. Canada",
+    "league": "Copa del Mundo - Hockey Junior",
+    "fecha-evento": "2025-12-02T11:30:00-05:00",
+    "img": "019aad76-110c-7ffe-83c9-948e17a32c46",
+    "nombre": "disney64f717",
+    "status": "11:30",
     "duration": 135,
     "play_url": ""
   }
