@@ -117,16 +117,6 @@
     "k2": "52deb643e0f4e5b9fa3d52cce3e64db0"
   },
   {
-    "title": "Washington Capitals vs. New York Islanders",
-    "league": "National Hockey League",
-    "fecha-evento": "2025-11-30T13:00:00-05:00",
-    "img": "2b5f991b-5247-45f0-94a9-c5727cd21229",
-    "nombre": "disneye8cce3",
-    "status": "13:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Houston Texans vs. Indianapolis Colts",
     "league": "NFL",
     "fecha-evento": "2025-11-30T13:00:00-05:00",
@@ -140,24 +130,37 @@
     "k2": "74d80c8dc28e7ef4b65d12ae8715738f"
   },
   {
-    "title": "Iowa vs. Iowa State",
-    "league": "NCAA Luchas",
-    "fecha-evento": "2025-11-30T13:00:00-05:00",
-    "img": "79dccdb5-ae78-4f5d-9a66-a92bf90f5698",
-    "nombre": "disneyfb4585",
-    "status": "13:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Los Angeles Rams vs. Carolina Panthers",
     "league": "NFL",
     "fecha-evento": "2025-11-30T13:00:00-05:00",
     "img": "019a9877-030b-7c92-bad4-328b8c674813",
     "nombre": "disneyfae2d1",
     "status": "13:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 180,
+    "play_url": "https://www.disneyplus.com/es-es/play/e1a9d7fe-665e-4d27-9aa3-9e4b4d5b2505"
+  },
+  {
+    "title": "Iowa vs. Iowa State",
+    "league": "NCAA Luchas",
+    "fecha-evento": "2025-11-30T13:00:11-05:00",
+    "img": "79dccdb5-ae78-4f5d-9a66-a92bf90f5698",
+    "nombre": "disneya2c3fa",
+    "status": "13:00",
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/ca8bf097-1f16-48d3-a294-a14d1323ba13"
+  },
+  {
+    "title": "Washington Capitals vs. New York Islanders",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-11-30T13:00:17-05:00",
+    "img": "2b5f991b-5247-45f0-94a9-c5727cd21229",
+    "nombre": "disney4d8734",
+    "status": "13:00",
+    "duration": 210,
+    "play_url": "https://www.disneyplus.com/es-es/play/21d1f639-7895-4145-acb5-9b954a96410a",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1764613314~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F30%2FWashington_Capitals_vs_Ne_20251130_1764518442553%2F~psid=5f1d7f8f-48fa-40b3-877b-440bf3301803~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=5ac3deaf9bceba23895995c63b6d7b1eed2ddc69843d70fda875f6e9c26610bc/clt1/va02/disneyplus/event/2025/11/30/Washington_Capitals_vs_Ne_20251130_1764518442553/ctr-all-hdri-complete.m3u8?v=1&hash=bf87a1e022ee317f828c3151634a59ab3d5ad609",
+    "k1": "309a45b07fee425a830595882621cc1c",
+    "k2": "9e115133745a12d93e3bb329f2a651e5"
   },
   {
     "title": "NFL Redzone",
@@ -216,7 +219,7 @@
     "title": "Florida A&M vs. South Alabama",
     "league": "Básquet Femenino NCAA",
     "fecha-evento": "2025-11-30T14:00:00-05:00",
-    "img": "6b6a8c7c-f8a6-416f-9cb0-5af6847cabdf",
+    "img": "8f0e12a8-bb15-40a7-a171-51371e724587",
     "nombre": "disney10dd4c",
     "status": "14:00",
     "duration": 135,
