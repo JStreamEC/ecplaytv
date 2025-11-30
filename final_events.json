@@ -1,18 +1,5 @@
 [
   {
-    "title": "Real Sociedad vs. Villarreal CF",
-    "league": "LALIGA",
-    "fecha-evento": "2025-11-30T07:50:00-05:00",
-    "img": "306e4c7a-a433-4234-98d9-c5fe78291900",
-    "nombre": "disney92501f",
-    "status": "07:50",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/6ce76089-1f57-4c82-871e-d402335eff86",
-    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1764594288~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Fec26a05e-a9cc-4db4-804e-77465738e667-1762950455142%2F~psid=a7ce048e-606e-4b36-abab-e2d2004773a4~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=c92e655e81c7391a0f3084f73922e39eb213363af2a65273b81c032d34405ecf/clt1/va02/disneyplus/channel/ec26a05e-a9cc-4db4-804e-77465738e667-1762950455142/ctr-all-sliding-alt1.m3u8?v=1&hash=e2faf4444722e1f805096ad7b7489a5d09f9944f",
-    "k1": "10ecdd5ca389464f8d73c4a32e49d5eb",
-    "k2": "034b0091889666c4a9167cf381ffbaec"
-  },
-  {
     "title": "Telstar vs. Feyenoord",
     "league": "Eredivisie",
     "fecha-evento": "2025-11-30T08:13:03-05:00",
@@ -207,12 +194,15 @@
   {
     "title": "Racing Santander vs. SD Eibar",
     "league": "Segunda División de España",
-    "fecha-evento": "2025-11-30T10:10:00-05:00",
+    "fecha-evento": "2025-11-30T10:10:09-05:00",
     "img": "019a79f2-b2fd-767f-a9a2-018afc05b1bc",
-    "nombre": "disney681496",
+    "nombre": "disneyf70875",
     "status": "10:10",
-    "duration": 135,
-    "play_url": ""
+    "duration": 125,
+    "play_url": "https://www.disneyplus.com/es-es/play/4e053b46-1928-4f76-95e8-02befd3d61de",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1764602467~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F30%2FRacing_Santander_vs_SD_Ei_20251130_1764508230043%2F~psid=4596d8cd-d608-44d8-aa34-8cb9eb2de010~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=38f199406b6a540a399b7dacfa7e4cebf2e9293c4b921737c4677c77fe5e7b03/clt1/va02/disneyplus/event/2025/11/30/Racing_Santander_vs_SD_Ei_20251130_1764508230043/ctr-all-hdri-complete.m3u8?v=1&hash=1cf8155eb8e6cd93d96bf1e838cf41c123fcfc68",
+    "k1": "3883ca1e36c4451cb32a65d47f969d33",
+    "k2": "19bef942aee756bcb4d9aaea4e295a06"
   },
   {
     "title": "FC Twente vs. AZ",
@@ -631,6 +621,16 @@
     "img": "019aa8d9-d9cf-7c7c-a8f9-e264988ec2fc",
     "nombre": "disney5244aa",
     "status": "03:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Sudáfrica vs. Canada",
+    "league": "Men's FIH Hockey Junior World Cup",
+    "fecha-evento": "2025-12-01T05:15:00-05:00",
+    "img": "019aa8da-a7d6-7ecd-8d1e-3f52dd1b0e91",
+    "nombre": "disney9c0dfe",
+    "status": "05:15",
     "duration": 135,
     "play_url": ""
   }
