@@ -1,18 +1,5 @@
 [
   {
-    "title": "Telstar vs. Feyenoord",
-    "league": "Eredivisie",
-    "fecha-evento": "2025-11-30T08:13:03-05:00",
-    "img": "019ab241-962e-7155-a67f-20e0c4db611b",
-    "nombre": "disney09cc02",
-    "status": "08:13",
-    "duration": 137,
-    "play_url": "https://www.disneyplus.com/es-es/play/5556b6cd-b49f-4ecb-babf-1cca1b6ed439",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1764595221~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F30%2FTelstar_vs_Feyenoord_20251130_1764501331017%2F~psid=e812d9e9-4ebc-4eb6-80f2-f05646e57e8a~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=46f637e9b5869ec67a63d8cbd7dcff2a02b12c8b746ab55650db7ab5d3ec58e4/clt1/va02/disneyplus/event/2025/11/30/Telstar_vs_Feyenoord_20251130_1764501331017/ctr-all-hdri-complete.m3u8?v=1&hash=d1528ce628a5cd07fdbcf4202e64b4a0b19cd6cb",
-    "k1": "7594a8c242b041e4968ce8827beee1ae",
-    "k2": "73439057aa5bbeba44c36726ac58c39d"
-  },
-  {
     "title": "West Ham United vs. Liverpool",
     "league": "Premier League",
     "fecha-evento": "2025-11-30T08:45:01-05:00",
@@ -207,12 +194,15 @@
   {
     "title": "FC Twente vs. AZ",
     "league": "Eredivisie",
-    "fecha-evento": "2025-11-30T10:30:00-05:00",
+    "fecha-evento": "2025-11-30T10:35:34-05:00",
     "img": "019ab139-777a-7e37-834b-28ef4b909cf4",
-    "nombre": "disney506747",
-    "status": "10:30",
-    "duration": 135,
-    "play_url": ""
+    "nombre": "disney2e0a73",
+    "status": "10:35",
+    "duration": 129,
+    "play_url": "https://www.disneyplus.com/es-es/play/04dcf505-efe5-46d4-82e4-7fd6714d658d",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1764603668~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F30%2FFC_Twente_vs_AZ_20251130_1764509445024%2F~psid=0c843919-d99d-4a61-af5b-f40687dfbb47~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=6104b262199292bf5903c668dfed7f33776227332baaf2e784e97e574237a71e/clt1/va02/disneyplus/event/2025/11/30/FC_Twente_vs_AZ_20251130_1764509445024/ctr-all-hdri-complete.m3u8?v=1&hash=4c13239d63abf629287a9dccb2bb71ea518f7b2f",
+    "k1": "8993e4bb26b54be89ef918782aca63d6",
+    "k2": "feb1a098b006d48ece5839c003032752"
   },
   {
     "title": "F1 GP Qatar, carrera | On Board Piastri",
