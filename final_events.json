@@ -111,33 +111,23 @@
     "k2": "7745a5aae20acb406dfacd8a9155a67f"
   },
   {
-    "title": "Compacto | F1 GP Qatar | Carrera (30 min)",
-    "league": "Fórmula 1",
-    "fecha-evento": "2025-11-30T14:00:00-05:00",
-    "img": "019ad59f-e18b-75ea-a0b5-cc0338c1cd2e",
-    "nombre": "disneya12506",
-    "status": "14:00",
-    "duration": 30,
-    "play_url": "https://www.disneyplus.com/es-es/play/43143ba8-eb1c-4fd6-8489-d4c426c520e6",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1764616940~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F30%2FCompacto_F1_GP_Qatar_Carr_20251130_1764522027043%2F~psid=98d77719-6b60-4046-9246-e610573c2434~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=bcb54327143aec38152493d3bcec904e5cb8035d58d03af71f562992f98f96c7/clt1/va02/disneyplus/event/2025/11/30/Compacto_F1_GP_Qatar_Carr_20251130_1764522027043/ctr-all-hdri-complete.m3u8?v=1&hash=dcee77b0bbe6a91249b010285dda97a74d4f0a1b",
-    "k1": "e747cdb077974292950d6c98bdc58e1a",
-    "k2": "dd257ca9b6b912df7f8d092c4003c4d7"
-  },
-  {
     "title": "Roma vs. Napoli",
     "league": "Seria A",
     "fecha-evento": "2025-11-30T14:30:00-05:00",
     "img": "019a9d85-4a5b-717e-9be3-f67c75c39769",
     "nombre": "disney35e667",
     "status": "14:30",
-    "duration": 135,
-    "play_url": ""
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/3870e68d-12e4-47ba-b606-4c912d352341",
+    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1764618116~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Fbbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1762950822680%2F~psid=092da7af-12b0-44c4-8d97-7d2235fb6e2d~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=4e157c4e912ed648ea7c1930976b806c348962a5a948169b4c93b6ed3cecd9c2/clt1/va02/disneyplus/channel/bbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1762950822680/ctr-all-sliding-alt1.m3u8?v=1&hash=2204dc483842bd9152836a99fc823b0b9e410a70",
+    "k1": "a3de817d264c43bcaa02251547562758",
+    "k2": "6ab1a1cec249346195e8968f7c58da2d"
   },
   {
     "title": "Lyon vs. Nantes",
     "league": "Ligue 1",
     "fecha-evento": "2025-11-30T14:40:00-05:00",
-    "img": "019a9fc5-4b27-7810-84ba-4f52593cef8e",
+    "img": "019a9fc5-4b28-73e0-8952-6c57ed96debd",
     "nombre": "disney580f2c",
     "status": "14:40",
     "duration": 135,
@@ -560,6 +550,16 @@
     "img": "019a75ea-ed84-71fd-bf4f-2e455fe6a360",
     "nombre": "disney5cd7cf",
     "status": "22:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "España vs. Namibia",
+    "league": "Men's FIH Hockey Junior World Cup",
+    "fecha-evento": "2025-12-02T00:30:00-05:00",
+    "img": "019aa8d4-d2ae-71ce-9210-9f064d57b993",
+    "nombre": "disney74712e",
+    "status": "00:30",
     "duration": 135,
     "play_url": ""
   }
