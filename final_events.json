@@ -39,29 +39,6 @@
     "k2": "c67a02a3a85eefa7e470acdaf4538bc0"
   },
   {
-    "title": "HSBC World Rugby Sevens Series | Dubai | Session 4",
-    "league": "World Rugby Sevens Series",
-    "fecha-evento": "2025-11-30T09:30:06-05:00",
-    "img": "445e5c22-16c2-4fe7-b4d0-586f0de16d41",
-    "nombre": "disneye64342",
-    "status": "09:30",
-    "duration": 135,
-    "play_url": "https://www.disneyplus.com/es-es/play/927d81b6-82fb-4484-a29b-955d67fdb808"
-  },
-  {
-    "title": "Saracens vs. Bath Rugby",
-    "league": "Premiership",
-    "fecha-evento": "2025-11-30T09:55:02-05:00",
-    "img": "019aa724-b4ac-7eda-b4ab-25288813d024",
-    "nombre": "disneya6b321",
-    "status": "09:55",
-    "duration": 125,
-    "play_url": "https://www.disneyplus.com/es-es/play/e80620bc-ef1c-4129-b00e-f4e7ba7c4412",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1764601267~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F30%2FSaracens_vs_Bath_Rugby_20251130_1764507346059%2F~psid=f21dd7ff-3836-4162-b646-a7cf6c20d4f6~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=1667a5d91fb8e416961510780378270585e8e88d2dbef77096c49b2422073528/clt1/va02/disneyplus/event/2025/11/30/Saracens_vs_Bath_Rugby_20251130_1764507346059/ctr-all-hdri-complete.m3u8?v=1&hash=c009118321cc9b2a93b8304a72d03c1403f9e05c",
-    "k1": "f541e0dddde6456dbbd53464e5feb3b7",
-    "k2": "9f1bf524355b505b35d535baa334c142"
-  },
-  {
     "title": "ATP Challenger DOVE Men Care Temuco (Final)",
     "league": "ATP",
     "fecha-evento": "2025-11-30T10:00:00-05:00",
@@ -211,8 +188,11 @@
     "img": "019a9d86-e46d-735c-ac35-c09b393bdc44",
     "nombre": "disneyc7e33d",
     "status": "11:50",
-    "duration": 135,
-    "play_url": ""
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/1afae822-ff40-4343-9569-993bc2e22f2e",
+    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1764608424~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Ff25bdf06-81c9-4a7c-b128-3128d610ad17-1762951253360%2F~psid=06227128-744c-4ac2-862a-bff2dca4e38a~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=1286f0176399f3adcb7397aa9332edce859c3db17913ff521f428c5e0391fb9a/clt1/va02/disneyplus/channel/f25bdf06-81c9-4a7c-b128-3128d610ad17-1762951253360/ctr-all-sliding-alt1.m3u8?v=1&hash=57a1e5c4737768952c5164be5d4f5ba525d47674",
+    "k1": "6ce4d736bb6a4ba1a34a996b24f26e76",
+    "k2": "eb89b2387d1bc01b922e29757af4b509"
   },
   {
     "title": "Fatih Karagumruk vs. Besiktas",
@@ -221,8 +201,11 @@
     "img": "019a92b0-447c-7aa3-835a-de063296aac0",
     "nombre": "disney50156f",
     "status": "11:50",
-    "duration": 135,
-    "play_url": ""
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/bfea19eb-f7bd-4682-8d4f-1b5fa2e1e8e5",
+    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1764608468~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Ffad7477a-2557-4c86-93ad-97e682f108c9-1762950787704%2F~psid=adb970ce-d87c-4d1c-b85b-f94631279be1~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=1e0685bb96ab4dea0609df703a88b9b7ad06713921864e681d70dd5199d3e90e/clt1/va02/disneyplus/channel/fad7477a-2557-4c86-93ad-97e682f108c9-1762950787704/ctr-all-sliding-alt1.m3u8?v=1&hash=c22bdedf975b3d9dfa4f45b9a274403d0b673d71",
+    "k1": "e51d3f6231964c78b5b1c38494a7cc8c",
+    "k2": "52deb643e0f4e5b9fa3d52cce3e64db0"
   },
   {
     "title": "Washington Capitals vs. New York Islanders",
@@ -621,6 +604,26 @@
     "img": "019a79f5-02e6-7e59-8b27-b4289285ffa1",
     "nombre": "disney22521f",
     "status": "14:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Rayo Vallecano vs. Valencia CF",
+    "league": "LALIGA",
+    "fecha-evento": "2025-12-01T14:50:00-05:00",
+    "img": "306e4c7a-a433-4234-98d9-c5fe78291900",
+    "nombre": "disney7f8259",
+    "status": "14:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Barbados vs. Trinidad & Tobago",
+    "league": "Concacaf W Championship Qualifying",
+    "fecha-evento": "2025-12-01T14:55:00-05:00",
+    "img": "019ab6b8-e9f9-74be-9e93-10cf3001fe40",
+    "nombre": "disney705c32",
+    "status": "14:55",
     "duration": 135,
     "play_url": ""
   }
