@@ -1,18 +1,5 @@
 [
   {
-    "title": "NFL Redzone",
-    "league": "NFL",
-    "fecha-evento": "2025-11-30T13:00:00-05:00",
-    "img": "46b859dc-33d0-42a8-9651-7c408024d849",
-    "nombre": "disneyefed59",
-    "status": "13:00",
-    "duration": 390,
-    "play_url": "https://www.disneyplus.com/es-es/play/3c0f1e52-0811-407e-bf73-0ffec94a8e1e",
-    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1764612072~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Fec26a05e-a9cc-4db4-804e-77465738e667-1762950455142%2F~psid=c1389c70-f5f2-4499-9856-b3ffa3d4ec60~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=a2097d92b924e9b3f44abe4480f541f54985d887bf594f66c12ffbe513ccc90b/clt1/va02/disneyplus/channel/ec26a05e-a9cc-4db4-804e-77465738e667-1762950455142/ctr-all-sliding-alt1.m3u8?v=1&hash=e2faf4444722e1f805096ad7b7489a5d09f9944f",
-    "k1": "10ecdd5ca389464f8d73c4a32e49d5eb",
-    "k2": "034b0091889666c4a9167cf381ffbaec"
-  },
-  {
     "title": "Buffalo Bills vs. Pittsburgh Steelers",
     "league": "NFL",
     "fecha-evento": "2025-11-30T16:05:00-05:00",
@@ -24,19 +11,6 @@
     "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1764624075~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F7f9052ce-8143-43a6-9656-a8c00c4a3e56-1762950862652%2F~psid=b24dc174-020e-4cb5-a4d9-938c8160d9c0~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=e186e44631f00369a75b8b460a0a7ab221f7c2f52e7f666990f705046ed6691a/clt1/va02/disneyplus/channel/7f9052ce-8143-43a6-9656-a8c00c4a3e56-1762950862652/ctr-all-sliding-alt1.m3u8?v=1&hash=2daf186937da77473bf07bbbecfc5597024e944f",
     "k1": "17d158f79fe84ce8ba23530028f7105f",
     "k2": "0ea1e48ac29645dca401670a114971e5"
-  },
-  {
-    "title": "Tigres de Cartagena vs. Caimanes de Barranquilla",
-    "league": "Colombian Beisbol",
-    "fecha-evento": "2025-11-30T16:00:18-05:00",
-    "img": "019ab23b-318f-73c6-9cc5-0851b1a5bf08",
-    "nombre": "disneyf4da60",
-    "status": "16:00",
-    "duration": 180,
-    "play_url": "https://www.disneyplus.com/es-es/play/f806e0dc-cc35-4e21-b738-0b0fc8d699ee",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1764624121~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F30%2FTigres_de_Cartagena_vs_Ca_20251130_1764529200084%2F~psid=457347b6-487d-4f79-89c0-1ee1c688a903~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=5fabdceb2e37dcf4a0b3df0f575b088520cd1ff0fbeda2d649457b5a51c9562a/clt1/va02/disneyplus/event/2025/11/30/Tigres_de_Cartagena_vs_Ca_20251130_1764529200084/ctr-all-hdri-complete.m3u8?v=1&hash=a6240628651483286ba1137f7d84ca38e481c89a",
-    "k1": "59edebb6e4cb44708fbf6addfdb5f850",
-    "k2": "2afc101747f5e186755c24c4ec008bd9"
   },
   {
     "title": "Las Vegas Raiders vs. Los Angeles Chargers",
@@ -52,45 +26,6 @@
     "k2": "74d80c8dc28e7ef4b65d12ae8715738f"
   },
   {
-    "title": "Calgary Flames vs. Carolina Hurricanes",
-    "league": "National Hockey League",
-    "fecha-evento": "2025-11-30T17:00:13-05:00",
-    "img": "e0c171f4-2377-4b62-9182-f26342ebd3f7",
-    "nombre": "disney6b7836",
-    "status": "17:00",
-    "duration": 210,
-    "play_url": "https://www.disneyplus.com/es-es/play/563fae8b-461e-4848-9c94-753bba9f2ea7",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1764627632~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F30%2FCalgary_Flames_vs_Carolin_20251130_1764532805744%2F~psid=0cf01620-20a6-46cc-9883-a6025e202695~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=4b79b4c00c35b5a3bd993aa3d9597fe09aac81fa5cb390b9085458aedc700591/clt1/va02/disneyplus/event/2025/11/30/Calgary_Flames_vs_Carolin_20251130_1764532805744/ctr-all-hdri-complete.m3u8?v=1&hash=4d5eec372afa5cb39d9b213e1de39ff241c04df4",
-    "k1": "322f9d73280f48d6bdb7a0210be4441e",
-    "k2": "5c07bc8b3c26654d17edce832b97678d"
-  },
-  {
-    "title": "Ottawa Senators vs. Dallas Stars",
-    "league": "National Hockey League",
-    "fecha-evento": "2025-11-30T18:00:25-05:00",
-    "img": "e1717920-4afb-4849-8574-a4df737da145",
-    "nombre": "disneyb1b2de",
-    "status": "18:00",
-    "duration": 210,
-    "play_url": "https://www.disneyplus.com/es-es/play/1779d6a6-f887-4e57-a1fd-b68da3a60122",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1764631225~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F30%2FOttawa_Senators_vs_Dallas_20251130_1764536440674%2F~psid=c1a38355-50e8-4211-872c-2aa4d91e4f0f~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=15b1c989d9c246c9ce3f237070e8c52fdf2c5acb64beebd6bceca89a40b00310/clt1/va02/disneyplus/event/2025/11/30/Ottawa_Senators_vs_Dallas_20251130_1764536440674/ctr-all-hdri-complete.m3u8?v=1&hash=56c29c4543d489f89605332298563e3a2a59a65a",
-    "k1": "08afa8d577464e4ebd3436c87a5d0405",
-    "k2": "d4c726b372c25a8693cb402c4dc073b6"
-  },
-  {
-    "title": "Eastern Washington vs. Portland",
-    "league": "Básquet Femenino NCAA",
-    "fecha-evento": "2025-11-30T17:59:13-05:00",
-    "img": "887236e2-7f53-44d5-a833-7bed47466806",
-    "nombre": "disneya33f21",
-    "status": "17:59",
-    "duration": 121,
-    "play_url": "https://www.disneyplus.com/es-es/play/bcfdb286-947f-4bdf-8e37-22a936e7d9ff",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1764630116~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F30%2FEastern_Washington_vs_Por_20251130_1764538192330%2F~psid=76310e01-e5f1-4205-8f8a-fa1b04650da9~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=7ec754cc818b34a5dbef77fe1a4bd9a93247f47db6e9e8bf7e9e97a6a6f0a1f0/clt1/va02/disneyplus/event/2025/11/30/Eastern_Washington_vs_Por_20251130_1764538192330/ctr-all-hdri-complete.m3u8?v=1&hash=0995c86608c1813cb3cb12678bf0e4e2579ad3a7",
-    "k1": "7e1d247eb33e4333af90a0b75e56c891",
-    "k2": "8e9061aab3090333c52305776559cde4"
-  },
-  {
     "title": "Premier Padel: Acapulco - Centre Court (Finales)",
     "league": "Premier Padel",
     "fecha-evento": "2025-11-30T18:00:00-05:00",
@@ -102,19 +37,6 @@
     "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1764630072~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Fbbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1762950822680%2F~psid=e9187fd8-fca4-4ea4-a7c9-691323626b14~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=ddeaad33413d00eca092d80809683e6218cbe84147ae244dae064e50f1dc5af0/clt1/va02/disneyplus/channel/bbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1762950822680/ctr-all-sliding-alt1.m3u8?v=1&hash=2204dc483842bd9152836a99fc823b0b9e410a70",
     "k1": "a3de817d264c43bcaa02251547562758",
     "k2": "6ab1a1cec249346195e8968f7c58da2d"
-  },
-  {
-    "title": "Curazao vs. Panamá",
-    "league": "Concacaf W Championship Qualifying",
-    "fecha-evento": "2025-11-30T18:50:01-05:00",
-    "img": "019ab6c2-17e4-7ac2-a8fb-fbd3a5d3154a",
-    "nombre": "disney56870d",
-    "status": "18:50",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/3902dd6d-e7c4-45ef-88f6-db77acba125d",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1764633625~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F30%2FCurazao_vs_Panam_20251130_1764539446041%2F~psid=e1dca8e6-122c-480d-a54e-d94a3e5374cc~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=b8a31c42101d2ef95d32d7b9a09f119bf282e507ccaf81d1597276daf2fb1ba4/clt1/va02/disneyplus/event/2025/11/30/Curazao_vs_Panam_20251130_1764539446041/ctr-all-hdri-complete.m3u8?v=1&hash=e12b529d0234c3daea52437479cc339028ca5d1b",
-    "k1": "4ad732bf8b5846848c495b7197181f31",
-    "k2": "46407df633b50e58f88946be2c511ec4"
   },
   {
     "title": "Belize vs. Haiti",
@@ -573,6 +495,86 @@
     "img": "019a9914-57de-77a9-98e2-a053add8754a",
     "nombre": "disneye343b4",
     "status": "13:55",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Evergreen State vs. Seattle U",
+    "league": "Básquet Femenino NCAA",
+    "fecha-evento": "2025-12-02T14:00:00-05:00",
+    "img": "cb28c678-16ea-4a9c-96b4-5c9e045ae8bc",
+    "nombre": "disneyd866fd",
+    "status": "14:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Bournemouth vs. Everton",
+    "league": "Premier League",
+    "fecha-evento": "2025-12-02T14:20:00-05:00",
+    "img": "019abb48-813e-7a84-aa2d-9a5bb1bf7086",
+    "nombre": "disney4dccb2",
+    "status": "14:20",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Fulham vs. Manchester City",
+    "league": "Premier League",
+    "fecha-evento": "2025-12-02T14:20:00-05:00",
+    "img": "019abb48-86f2-7cae-9ad8-8dc20b70f117",
+    "nombre": "disney9390f8",
+    "status": "14:20",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Borussia Dortmund vs. Bayer Leverkusen",
+    "league": "Copa de Alemania",
+    "fecha-evento": "2025-12-02T14:50:00-05:00",
+    "img": "019a9992-47cc-702b-a9c4-f1b2c881d6f1",
+    "nombre": "disneyb8eb40",
+    "status": "14:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "RB Leipzig vs. 1. FC Magdeburg (Round of 16) (German Cup)",
+    "league": "Copa de Alemania",
+    "fecha-evento": "2025-12-02T14:50:00-05:00",
+    "img": "019a9e1e-1bf1-723d-8486-63023fa282fa",
+    "nombre": "disney924410",
+    "status": "14:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Cuba vs. St. Kitts & Nevis",
+    "league": "Concacaf W Championship Qualifying",
+    "fecha-evento": "2025-12-02T14:55:00-05:00",
+    "img": "019ab6bf-2d9b-7b75-b167-1158ba2ca3e9",
+    "nombre": "disney689eb1",
+    "status": "14:55",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Newcastle United vs. Tottenham Hotspur",
+    "league": "Premier League",
+    "fecha-evento": "2025-12-02T14:55:00-05:00",
+    "img": "019abb47-871a-701a-a0f9-3e49dc8da17f",
+    "nombre": "disneybe02b2",
+    "status": "14:55",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Cibao FC vs. Defence Force FC (Third Place, Second Leg)",
+    "league": "Concacaf Caribbean Cup",
+    "fecha-evento": "2025-12-02T15:50:00-05:00",
+    "img": "7b1d7d4b-2493-40dc-98cb-943d292eb71e",
+    "nombre": "disneyceb27d",
+    "status": "15:50",
     "duration": 135,
     "play_url": ""
   }
