@@ -1,31 +1,5 @@
 [
   {
-    "title": "Buffalo Bills vs. Pittsburgh Steelers",
-    "league": "NFL",
-    "fecha-evento": "2025-11-30T16:05:00-05:00",
-    "img": "019a9a96-41bf-73d6-97ce-484ff3541a07",
-    "nombre": "disney64cb7c",
-    "status": "16:05",
-    "duration": 205,
-    "play_url": "https://www.disneyplus.com/es-es/play/e191e9e1-c627-451e-a178-c33ff918a316",
-    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1764624075~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F7f9052ce-8143-43a6-9656-a8c00c4a3e56-1762950862652%2F~psid=b24dc174-020e-4cb5-a4d9-938c8160d9c0~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=e186e44631f00369a75b8b460a0a7ab221f7c2f52e7f666990f705046ed6691a/clt1/va02/disneyplus/channel/7f9052ce-8143-43a6-9656-a8c00c4a3e56-1762950862652/ctr-all-sliding-alt1.m3u8?v=1&hash=2daf186937da77473bf07bbbecfc5597024e944f",
-    "k1": "17d158f79fe84ce8ba23530028f7105f",
-    "k2": "0ea1e48ac29645dca401670a114971e5"
-  },
-  {
-    "title": "Las Vegas Raiders vs. Los Angeles Chargers",
-    "league": "NFL",
-    "fecha-evento": "2025-11-30T16:03:00-05:00",
-    "img": "8dd8a15c-0789-48ef-aa94-0abb014270a9",
-    "nombre": "disneye6e223",
-    "status": "16:03",
-    "duration": 207,
-    "play_url": "https://www.disneyplus.com/es-es/play/5a44cc04-7845-43ad-9037-d90dd69479ff",
-    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1764624147~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F47873700-1b85-4497-8f84-d6f321fbb196-1762950817735%2F~psid=bdb3db87-9e94-4a48-ab5a-2e41238d138c~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=230731d5cb2724e8b7f9ead8c9d68d8652387fbdd3bbbcd8c7654b0d980bf66f/clt1/va02/disneyplus/channel/47873700-1b85-4497-8f84-d6f321fbb196-1762950817735/ctr-all-sliding-alt1.m3u8?v=1&hash=47b2c0b057c5c5c39ef0f49826b655a1e4ceacb9",
-    "k1": "12576714342e4cb29791afd27dd27eb2",
-    "k2": "74d80c8dc28e7ef4b65d12ae8715738f"
-  },
-  {
     "title": "Premier Padel: Acapulco - Centre Court (Finales)",
     "league": "Premier Padel",
     "fecha-evento": "2025-11-30T18:00:00-05:00",
@@ -575,6 +549,26 @@
     "img": "7b1d7d4b-2493-40dc-98cb-943d292eb71e",
     "nombre": "disneyceb27d",
     "status": "15:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "España vs. Escocia",
+    "league": "Copa del Mundo - Hockey Junior",
+    "fecha-evento": "2025-12-02T16:00:00-05:00",
+    "img": "019aad76-a852-7453-8547-011a4671253a",
+    "nombre": "disney3faeb5",
+    "status": "16:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "#1 UConn vs. South Florida",
+    "league": "Básquet Femenino NCAA",
+    "fecha-evento": "2025-12-02T17:00:00-05:00",
+    "img": "019a126b-22aa-7cf1-8e9a-976d09e832f9",
+    "nombre": "disney273f86",
+    "status": "17:00",
     "duration": 135,
     "play_url": ""
   }
