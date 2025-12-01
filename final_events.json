@@ -13,19 +13,6 @@
     "k2": "034b0091889666c4a9167cf381ffbaec"
   },
   {
-    "title": "Anaheim Ducks vs. Chicago Blackhawks",
-    "league": "National Hockey League",
-    "fecha-evento": "2025-11-30T15:30:26-05:00",
-    "img": "b9470238-a312-428e-b7ce-80cd55adae27",
-    "nombre": "disney6fcadb",
-    "status": "15:30",
-    "duration": 210,
-    "play_url": "https://www.disneyplus.com/es-es/play/20605df1-28c7-4732-8e54-da60a836194d",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1764621721~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F30%2FAnaheim_Ducks_vs_Chicago__20251130_1764527445422%2F~psid=e83a70aa-2e07-412f-b8d0-6800ea1a6952~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=2219516d0fc8a88fd2e25d09b29eed465e6c500ae7b0e6f6f61903f5b09647fc/clt1/va02/disneyplus/event/2025/11/30/Anaheim_Ducks_vs_Chicago__20251130_1764527445422/ctr-all-hdri-complete.m3u8?v=1&hash=9079d50818ecd607a861b46b7b668cea75fc17a4",
-    "k1": "324040fa99d34a7a82249204109bc314",
-    "k2": "f0612de76f0ffc825f32ce63d977732d"
-  },
-  {
     "title": "Buffalo Bills vs. Pittsburgh Steelers",
     "league": "NFL",
     "fecha-evento": "2025-11-30T16:05:00-05:00",
@@ -78,19 +65,6 @@
     "k2": "5c07bc8b3c26654d17edce832b97678d"
   },
   {
-    "title": "CSU Monterey Bay vs. San Francisco",
-    "league": "Básquet Femenino NCAA",
-    "fecha-evento": "2025-11-30T17:00:02-05:00",
-    "img": "019aaf46-cf03-700a-98bc-c4df15c4ad97",
-    "nombre": "disneyad933d",
-    "status": "17:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/6c2afa46-f0f9-45dc-b84f-2b9df2924183",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1764627680~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F30%2FCSU_Monterey_Bay_vs_San_F_20251130_1764533632321%2F~psid=2aa4130b-bc4b-4254-a23c-6d4d339bcdbb~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=c223455048b9c5172b15bdfa8c6dc1eb8cab5246597254afab34b860797a026c/clt1/va02/disneyplus/event/2025/11/30/CSU_Monterey_Bay_vs_San_F_20251130_1764533632321/ctr-all-hdri-complete.m3u8?v=1&hash=343903214d97dbd00884f717bc006625ffc4da5c",
-    "k1": "62e5dba7ca3c424987afb661d0626b50",
-    "k2": "8697faf44a9a10350762036f416d1eb3"
-  },
-  {
     "title": "Ottawa Senators vs. Dallas Stars",
     "league": "National Hockey League",
     "fecha-evento": "2025-11-30T18:00:25-05:00",
@@ -132,12 +106,15 @@
   {
     "title": "Curazao vs. Panamá",
     "league": "Concacaf W Championship Qualifying",
-    "fecha-evento": "2025-11-30T18:50:00-05:00",
+    "fecha-evento": "2025-11-30T18:50:01-05:00",
     "img": "019ab6c2-17e4-7ac2-a8fb-fbd3a5d3154a",
-    "nombre": "disney910b62",
+    "nombre": "disney56870d",
     "status": "18:50",
-    "duration": 135,
-    "play_url": ""
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/3902dd6d-e7c4-45ef-88f6-db77acba125d",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1764633625~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F11%2F30%2FCurazao_vs_Panam_20251130_1764539446041%2F~psid=e1dca8e6-122c-480d-a54e-d94a3e5374cc~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=b8a31c42101d2ef95d32d7b9a09f119bf282e507ccaf81d1597276daf2fb1ba4/clt1/va02/disneyplus/event/2025/11/30/Curazao_vs_Panam_20251130_1764539446041/ctr-all-hdri-complete.m3u8?v=1&hash=e12b529d0234c3daea52437479cc339028ca5d1b",
+    "k1": "4ad732bf8b5846848c495b7197181f31",
+    "k2": "46407df633b50e58f88946be2c511ec4"
   },
   {
     "title": "Belize vs. Haiti",
@@ -566,6 +543,36 @@
     "img": "019ad0a8-9838-7925-98c4-00b65b39d14d",
     "nombre": "disney2cc855",
     "status": "12:20",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Suecia vs. France",
+    "league": "UEFA Women's Nations League",
+    "fecha-evento": "2025-12-02T12:50:00-05:00",
+    "img": "019a7e65-79b8-7edc-a721-2c29166bec09",
+    "nombre": "disney2aaa50",
+    "status": "12:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Belgium vs. Gales",
+    "league": "Copa del Mundo - Hockey Junior",
+    "fecha-evento": "2025-12-02T13:45:00-05:00",
+    "img": "019aacee-7bf6-7e00-8460-d518651c9c19",
+    "nombre": "disneya2ed50",
+    "status": "13:45",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Inglaterra vs. Ghana",
+    "league": "Amistoso Internacional Femenino",
+    "fecha-evento": "2025-12-02T13:55:00-05:00",
+    "img": "019a9914-57de-77a9-98e2-a053add8754a",
+    "nombre": "disneye343b4",
+    "status": "13:55",
     "duration": 135,
     "play_url": ""
   }
