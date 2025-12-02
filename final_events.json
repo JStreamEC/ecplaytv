@@ -10,19 +10,6 @@
     "play_url": ""
   },
   {
-    "title": "Cibao FC vs. Defence Force FC (Third Place, Second Leg)",
-    "league": "Concacaf Caribbean Cup",
-    "fecha-evento": "2025-12-02T15:50:00-05:00",
-    "img": "019adb20-d08f-76bb-8988-1a51760cb5df",
-    "nombre": "disneyceb27d",
-    "status": "15:50",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/2a9b8e64-87a0-49e9-9de7-6bb34c3cb281",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1764795621~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F02%2FCibao_FC_vs_Defence_Force_20251202_1764701452033%2F~psid=276bcd51-045a-4c95-a037-9e49ed41c79d~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=2138e39f6bd708e40e893d94fa94c215384958f1924f7f9bb14d92678e690e28/clt1/va02/disneyplus/event/2025/12/02/Cibao_FC_vs_Defence_Force_20251202_1764701452033/ctr-all-hdri-complete.m3u8?v=1&hash=7c48c7ca1a8156f34fc5a25cda6837b41dfdafe6",
-    "k1": "a8076a56ef7a49208109bea15c5c4da8",
-    "k2": "b85fa27aae3375d787f1fcabf03fc6a6"
-  },
-  {
     "title": "#1 UConn vs. South Florida",
     "league": "Básquet Femenino NCAA",
     "fecha-evento": "2025-12-02T17:00:00-05:00",
@@ -51,12 +38,15 @@
   {
     "title": "Argentina vs. Zimbabue",
     "league": "Copa del Mundo - Hockey Junior",
-    "fecha-evento": "2025-12-02T18:15:00-05:00",
+    "fecha-evento": "2025-12-02T18:15:02-05:00",
     "img": "019aad55-7cca-763d-833b-142d95e56012",
-    "nombre": "disneyebee71",
+    "nombre": "disney001043",
     "status": "18:15",
-    "duration": 135,
-    "play_url": ""
+    "duration": 105,
+    "play_url": "https://www.disneyplus.com/es-es/play/4088e36c-8053-47cc-a0c8-a3419675f512",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1764804022~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F02%2FArgentina_vs_Zimbabue_20251202_1764710124043%2F~psid=5338d5e5-4e72-48d7-ba73-b928b67e1a3f~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=e5c5d1c4bc2c3d0772347db30b6c53a6dd76c074541bcf960bfeaad9308e01e7/clt1/va02/disneyplus/event/2025/12/02/Argentina_vs_Zimbabue_20251202_1764710124043/ctr-all-hdri-complete.m3u8?v=1&hash=8c87e20ca23fe34eeb12804d7f15000751f9f5de",
+    "k1": "96a5befda9d64d7d89adb89aa5a246cf",
+    "k2": "2adeca41a7dac0f9d7f39140599f9c9a"
   },
   {
     "title": "Mt. Pleasant FA vs. O&M FC (Final, Second Leg)",
@@ -554,6 +544,16 @@
     "fecha-evento": "2025-12-03T17:00:00-05:00",
     "img": "b30970de-8aed-4439-96c5-3b90f11c0feb",
     "nombre": "disneyaa5275",
+    "status": "17:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "#17 Kentucky vs. Miami",
+    "league": "Básquet Femenino NCAA",
+    "fecha-evento": "2025-12-03T17:00:00-05:00",
+    "img": "8cee53bb-f399-492b-afaa-ed30f9d1ef69",
+    "nombre": "disneya17f60",
     "status": "17:00",
     "duration": 135,
     "play_url": ""
