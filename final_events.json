@@ -23,19 +23,6 @@
     "k2": "b85fa27aae3375d787f1fcabf03fc6a6"
   },
   {
-    "title": "España vs. Escocia",
-    "league": "Copa del Mundo - Hockey Junior",
-    "fecha-evento": "2025-12-02T16:00:00-05:00",
-    "img": "019aad76-a852-7453-8547-011a4671253a",
-    "nombre": "disney3faeb5",
-    "status": "16:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/6bc68036-bd9c-4744-9d68-e2dd41c01ee5",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1764795664~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F02%2FEspaa_vs_Escocia_20251202_1764702032041%2F~psid=5292a26c-bd76-4bb5-9788-165c7f4fd3f9~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=47d82baa4404299c8cdc9db4c4702005b8a51b43d76783ccbcff1bee9d298ac7/clt1/va02/disneyplus/event/2025/12/02/Espaa_vs_Escocia_20251202_1764702032041/ctr-all-hdri-complete.m3u8?v=1&hash=8e2efc1f1749efa0203b43bf8f7fcb5fef9b2de2",
-    "k1": "8e26f960d5ba4070955c5607a1bebc6f",
-    "k2": "a514c908f9efc82c61cdf2d9f84075bf"
-  },
-  {
     "title": "#1 UConn vs. South Florida",
     "league": "Básquet Femenino NCAA",
     "fecha-evento": "2025-12-02T17:00:00-05:00",
@@ -51,12 +38,15 @@
   {
     "title": "Dominican Republic vs. Surinam",
     "league": "Concacaf W Championship Qualifying",
-    "fecha-evento": "2025-12-02T17:50:00-05:00",
+    "fecha-evento": "2025-12-02T17:50:03-05:00",
     "img": "019ab6c1-0291-77e2-ae42-d0437d1abde6",
-    "nombre": "disneycf8f94",
+    "nombre": "disneybc7fd4",
     "status": "17:50",
-    "duration": 135,
-    "play_url": ""
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/07610aef-0565-4240-b22f-9bbd8607bbe7",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1764802823~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F02%2FDominican_Republic_vs_Sur_20251202_1764708617033%2F~psid=104d39ef-bef5-4730-bc52-a64f40921deb~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=e125ef06e5716773defce306e145447aedbd8051ca86dfd49c145fc5d428403f/clt1/va02/disneyplus/event/2025/12/02/Dominican_Republic_vs_Sur_20251202_1764708617033/ctr-all-hdri-complete.m3u8?v=1&hash=c1b88c32f0de6f643005c53f5abe539c074c38de",
+    "k1": "f074ae3471a34ae687b6db86917713b0",
+    "k2": "e71f325f4672ee24fe0724a5e9f3a142"
   },
   {
     "title": "Argentina vs. Zimbabue",
@@ -352,7 +342,7 @@
     "title": "William & Mary vs. Wake Forest",
     "league": "Básquet Femenino NCAA",
     "fecha-evento": "2025-12-03T11:30:00-05:00",
-    "img": "019abecc-17a6-7f11-881d-b49d0937d690",
+    "img": "019abecc-1770-77aa-9f7e-2db08a5da12c",
     "nombre": "disneyd9e43b",
     "status": "11:30",
     "duration": 135,
@@ -554,6 +544,16 @@
     "fecha-evento": "2025-12-03T17:00:00-05:00",
     "img": "25e20010-30b4-405e-b556-b3d34baae40d",
     "nombre": "disneyeb3668",
+    "status": "17:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Top 14 de Francia 2025/26 - Resumen Semanal",
+    "league": "ESPN",
+    "fecha-evento": "2025-12-03T17:00:00-05:00",
+    "img": "b30970de-8aed-4439-96c5-3b90f11c0feb",
+    "nombre": "disneyaa5275",
     "status": "17:00",
     "duration": 135,
     "play_url": ""
