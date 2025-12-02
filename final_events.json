@@ -10,19 +10,6 @@
     "play_url": ""
   },
   {
-    "title": "Inglaterra vs. Ghana",
-    "league": "Amistoso Internacional Femenino",
-    "fecha-evento": "2025-12-02T13:54:29-05:00",
-    "img": "019a9914-57de-77a9-98e2-a053add8754a",
-    "nombre": "disneyfb426b",
-    "status": "13:54",
-    "duration": 126,
-    "play_url": "https://www.disneyplus.com/es-es/play/2657dbea-bade-452a-ac7d-826c212e8d8d",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1764790942~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F02%2FInglaterra_vs_Ghana_20251202_1764694501037%2F~psid=4c4d9d45-56db-4756-b168-a6e3a292774d~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=6a8fdcbe50ff8e17c659642a7151f4c0a4eaedae1013f2c25d74567643932e71/clt1/va02/disneyplus/event/2025/12/02/Inglaterra_vs_Ghana_20251202_1764694501037/ctr-all-hdri-complete.m3u8?v=1&hash=7c80dcf6d5d814227108db2b3725f689d8df4584",
-    "k1": "1780f32b53e04082914ef3f44137c91d",
-    "k2": "49695b141e7f2b26b60f9c6c492bf53b"
-  },
-  {
     "title": "Bournemouth vs. Everton",
     "league": "Premier League",
     "fecha-evento": "2025-12-02T14:20:00-05:00",
@@ -573,6 +560,16 @@
     "img": "019abb43-8142-710c-adc0-d167cb9da433",
     "nombre": "disney5747f2",
     "status": "14:20",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Union Berlin vs. Bayern Munich",
+    "league": "Copa de Alemania",
+    "fecha-evento": "2025-12-03T14:30:00-05:00",
+    "img": "019ae05e-04f4-7ffc-92c3-0c28f674843b",
+    "nombre": "disneyf4078b",
+    "status": "14:30",
     "duration": 135,
     "play_url": ""
   }
