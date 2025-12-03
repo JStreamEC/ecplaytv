@@ -10,19 +10,6 @@
     "play_url": ""
   },
   {
-    "title": "Dominican Republic vs. Surinam",
-    "league": "Concacaf W Championship Qualifying",
-    "fecha-evento": "2025-12-02T17:50:03-05:00",
-    "img": "019ab6c1-0291-77e2-ae42-d0437d1abde6",
-    "nombre": "disneybc7fd4",
-    "status": "17:50",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/07610aef-0565-4240-b22f-9bbd8607bbe7",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1764802823~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F02%2FDominican_Republic_vs_Sur_20251202_1764708617033%2F~psid=104d39ef-bef5-4730-bc52-a64f40921deb~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=e125ef06e5716773defce306e145447aedbd8051ca86dfd49c145fc5d428403f/clt1/va02/disneyplus/event/2025/12/02/Dominican_Republic_vs_Sur_20251202_1764708617033/ctr-all-hdri-complete.m3u8?v=1&hash=c1b88c32f0de6f643005c53f5abe539c074c38de",
-    "k1": "f074ae3471a34ae687b6db86917713b0",
-    "k2": "e71f325f4672ee24fe0724a5e9f3a142"
-  },
-  {
     "title": "Argentina vs. Zimbabue",
     "league": "Copa del Mundo - Hockey Junior",
     "fecha-evento": "2025-12-02T18:15:02-05:00",
@@ -588,6 +575,16 @@
     "img": "019ad247-5d42-7d82-acdd-bf902a6c9230",
     "nombre": "disneyb1b009",
     "status": "17:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Chile vs. Malasia",
+    "league": "Copa del Mundo - Hockey Junior",
+    "fecha-evento": "2025-12-03T18:15:00-05:00",
+    "img": "019ac745-8ecb-7d1b-af6e-8bc954771d01",
+    "nombre": "disney22304e",
+    "status": "18:15",
     "duration": 135,
     "play_url": ""
   }
