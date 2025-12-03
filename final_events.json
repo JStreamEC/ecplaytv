@@ -1,18 +1,5 @@
 [
   {
-    "title": "William & Mary vs. Wake Forest",
-    "league": "Básquet Femenino NCAA",
-    "fecha-evento": "2025-12-03T11:30:01-05:00",
-    "img": "019abecc-1770-77aa-9f7e-2db08a5da12c",
-    "nombre": "disneyb3a30d",
-    "status": "11:30",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/f6533fc5-cbed-43f2-bb7c-80a2c1efd92a",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1764866424~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F03%2FWilliam_Mary_vs_Wake_Fore_20251203_1764772247041%2F~psid=8a2ecad2-a745-4aae-ae97-f6cb216570b2~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=956b0e31f997e035b5be21ccd616a6c69803578db9ef6a491a29e174356dcba9/clt1/va02/disneyplus/event/2025/12/03/William_Mary_vs_Wake_Fore_20251203_1764772247041/ctr-all-hdri-complete.m3u8?v=1&hash=119a409be254e623c45db0c104a499d2eef4a745",
-    "k1": "d9fc3353b3ae4297b2bcae72881ebd28",
-    "k2": "8fed9814d4d2efc766c26f3e87ae5825"
-  },
-  {
     "title": "Los Machitos vs. La Zeta Kazak (Grupo A - Fecha #5)",
     "league": "Abierto de Palermo",
     "fecha-evento": "2025-12-03T11:50:02-05:00",
@@ -524,7 +511,7 @@
     "title": "Inglaterra vs. Chile",
     "league": "Men's FIH Hockey Junior World Cup",
     "fecha-evento": "2025-12-04T02:00:00-05:00",
-    "img": "019ab471-2108-7ff3-9ef0-e88bd875c93f",
+    "img": "019ae111-3278-7849-ac51-29faf84fcd18",
     "nombre": "disney499ac9",
     "status": "02:00",
     "duration": 135,
@@ -617,6 +604,16 @@
     "img": "99d2097a-930e-48a4-9cbb-a898bb27b4c0",
     "nombre": "disneyd21c4b",
     "status": "10:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "FIS Women's Ski Jumping World Cup - Wisla, POL",
+    "league": "ESPN",
+    "fecha-evento": "2025-12-04T11:15:00-05:00",
+    "img": "2ba9f40e-b243-4737-9cff-a1f9774ac58d",
+    "nombre": "disneyc704d8",
+    "status": "11:15",
     "duration": 135,
     "play_url": ""
   }
