@@ -1,18 +1,5 @@
 [
   {
-    "title": "Los Machitos vs. La Zeta Kazak (Grupo A - Fecha #5)",
-    "league": "Abierto de Palermo",
-    "fecha-evento": "2025-12-03T11:50:02-05:00",
-    "img": "019ac19e-ef66-7e6a-bf11-3cfb52f9c828",
-    "nombre": "disneyedfff5",
-    "status": "11:50",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/1965a6a5-dccb-4f1f-896b-8b40c3c3087c",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1764867668~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F03%2FLos_Machitos_vs_La_Zeta_K_20251203_1764773407057%2F~psid=c4dbf6b2-5787-43a7-831e-136b7ca00fef~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=eb250204a3417ea63533e7758ddc3c74412ecdbe01a92120dca259e77b39f437/clt1/va02/disneyplus/event/2025/12/03/Los_Machitos_vs_La_Zeta_K_20251203_1764773407057/ctr-all-hdri-complete.m3u8?v=1&hash=495194c3d6bab20738c371de063b6f07c4d79391",
-    "k1": "f6acda535f7d43f6a49b3ae33577f07d",
-    "k2": "eeaef4fed4e69ba100d2a10f623913ed"
-  },
-  {
     "title": "Bochum vs. Stuttgart",
     "league": "Copa de Alemania",
     "fecha-evento": "2025-12-03T11:50:00-05:00",
@@ -80,12 +67,15 @@
   {
     "title": "South Korea vs. United States",
     "league": "Copa del Mundo - Hockey Junior",
-    "fecha-evento": "2025-12-03T13:45:00-05:00",
+    "fecha-evento": "2025-12-03T13:44:59-05:00",
     "img": "019ac6cf-7e19-7108-a544-c0cc24feb7e8",
-    "nombre": "disneyfc3475",
-    "status": "13:45",
-    "duration": 135,
-    "play_url": ""
+    "nombre": "disneyf5595b",
+    "status": "13:44",
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/b314dff5-4e0f-4737-bb42-6a42988c0dc2",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1764874825~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F03%2FSouth_Korea_vs_United_Sta_20251203_1764780339038%2F~psid=03d31890-af1c-43dd-872f-f227fb5d365c~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=ac665234d2b8f99757596c891151b7d32ee8eb8146c5193c576cc6361a3ec4b3/clt1/va02/disneyplus/event/2025/12/03/South_Korea_vs_United_Sta_20251203_1764780339038/ctr-all-hdri-complete.m3u8?v=1&hash=b0ac143d6ac0b485fa92a86c349df42916eceff1",
+    "k1": "580bf9ae6ef7409b8159dec333df5948",
+    "k2": "cdc2270c44286e110e78611b273fe42c"
   },
   {
     "title": "Binghamton vs. San Diego",
@@ -614,6 +604,16 @@
     "img": "2ba9f40e-b243-4737-9cff-a1f9774ac58d",
     "nombre": "disneyc704d8",
     "status": "11:15",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Canada vs. Escocia",
+    "league": "Copa del Mundo - Hockey Junior",
+    "fecha-evento": "2025-12-04T11:30:00-05:00",
+    "img": "019ac747-8129-7075-8b6b-278294ec2669",
+    "nombre": "disneyb8c2e9",
+    "status": "11:30",
     "duration": 135,
     "play_url": ""
   }
