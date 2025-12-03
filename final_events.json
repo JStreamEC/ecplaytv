@@ -10,19 +10,6 @@
     "play_url": ""
   },
   {
-    "title": "Argentina vs. Zimbabue",
-    "league": "Copa del Mundo - Hockey Junior",
-    "fecha-evento": "2025-12-02T18:15:02-05:00",
-    "img": "019aad55-7cca-763d-833b-142d95e56012",
-    "nombre": "disney001043",
-    "status": "18:15",
-    "duration": 105,
-    "play_url": "https://www.disneyplus.com/es-es/play/4088e36c-8053-47cc-a0c8-a3419675f512",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1764804022~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F02%2FArgentina_vs_Zimbabue_20251202_1764710124043%2F~psid=5338d5e5-4e72-48d7-ba73-b928b67e1a3f~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=e5c5d1c4bc2c3d0772347db30b6c53a6dd76c074541bcf960bfeaad9308e01e7/clt1/va02/disneyplus/event/2025/12/02/Argentina_vs_Zimbabue_20251202_1764710124043/ctr-all-hdri-complete.m3u8?v=1&hash=8c87e20ca23fe34eeb12804d7f15000751f9f5de",
-    "k1": "96a5befda9d64d7d89adb89aa5a246cf",
-    "k2": "2adeca41a7dac0f9d7f39140599f9c9a"
-  },
-  {
     "title": "Boston Bruins vs. Detroit Red Wings",
     "league": "National Hockey League",
     "fecha-evento": "2025-12-02T19:00:18-05:00",
@@ -179,24 +166,30 @@
     "k2": "52bdf25ffb83c903c6b2ab9f13f070a2"
   },
   {
-    "title": "South Bay Lakers vs. Salt Lake City Stars",
-    "league": "NBA G League",
-    "fecha-evento": "2025-12-02T20:00:00-05:00",
-    "img": "4c9b0331-0aa0-424e-87b5-7a350965af31",
-    "nombre": "disney25f8a0",
-    "status": "20:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Calgary Flames vs. Nashville Predators",
     "league": "National Hockey League",
-    "fecha-evento": "2025-12-02T20:00:00-05:00",
+    "fecha-evento": "2025-12-02T20:00:14-05:00",
     "img": "05811690-09bc-4c4d-9b47-082d67a431e9",
-    "nombre": "disney184e02",
+    "nombre": "disney6cf3e5",
     "status": "20:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 210,
+    "play_url": "https://www.disneyplus.com/es-es/play/3d2da8af-9df5-40dd-ae9f-5776bdd82ba6",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1764811228~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F03%2FCalgary_Flames_vs_Nashvil_20251203_1764716456578%2F~psid=614c1b1d-dbe4-4616-9e62-ec9c7261ef62~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=08871cbbb62e71bb2ebdd713bd5cc7716820e39b40914cfff062232173419462/clt1/va02/disneyplus/event/2025/12/03/Calgary_Flames_vs_Nashvil_20251203_1764716456578/ctr-all-hdri-complete.m3u8?v=1&hash=601009f0c4c03ffeb0854aafe319a1505dd77881",
+    "k1": "d1ae10fe5ef740bb931443bd91f0055e",
+    "k2": "88dae6e2fa5c308206af54189ff2db4e"
+  },
+  {
+    "title": "South Bay Lakers vs. Salt Lake City Stars",
+    "league": "NBA G League",
+    "fecha-evento": "2025-12-02T20:00:06-05:00",
+    "img": "4c9b0331-0aa0-424e-87b5-7a350965af31",
+    "nombre": "disneyeb8a4e",
+    "status": "20:00",
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/15392900-f436-46b6-9c60-dc1c58dceaf5",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1764811273~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F03%2FSouth_Bay_Lakers_vs_Salt__20251203_1764716441037%2F~psid=006a3a5c-a811-4f2a-a10a-64c8d3cd72f3~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=3add1d897ca513f0c709f82de901dea97782dbbb84c93726fb8828a7075bb3a2/clt1/va02/disneyplus/event/2025/12/03/South_Bay_Lakers_vs_Salt__20251203_1764716441037/ctr-all-hdri-complete.m3u8?v=1&hash=73ab3403afd88ed407c277e8cf345a2a4d71bceb",
+    "k1": "b858cd2b5a844d25ac6f0c526fbc921f",
+    "k2": "fa52e14e9919399e36568299a96f4caf"
   },
   {
     "title": "El Salvador vs. Honduras",
@@ -585,6 +578,16 @@
     "img": "019ac745-8ecb-7d1b-af6e-8bc954771d01",
     "nombre": "disney22304e",
     "status": "18:15",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Dallas Stars vs. New Jersey Devils",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-12-03T19:00:00-05:00",
+    "img": "b6e31086-de8e-4c97-9c7d-1e8093c49091",
+    "nombre": "disney2af111",
+    "status": "19:00",
     "duration": 135,
     "play_url": ""
   }
