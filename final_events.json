@@ -67,22 +67,15 @@
   {
     "title": "Burnley vs. Crystal Palace",
     "league": "Premier League",
-    "fecha-evento": "2025-12-03T14:20:00-05:00",
+    "fecha-evento": "2025-12-03T14:20:04-05:00",
     "img": "019abb45-6bf8-7e7a-8ff7-0d42cd9c5bd3",
-    "nombre": "disney1ff824",
+    "nombre": "disney6146c3",
     "status": "14:20",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "La Natividad-La Dolfina vs. UAE Polo (Grupo A - Fecha #5)",
-    "league": "Abierto de Palermo",
-    "fecha-evento": "2025-12-03T14:20:00-05:00",
-    "img": "019ac0b2-8a62-765d-9f34-886961b4eb38",
-    "nombre": "disney195a34",
-    "status": "14:20",
-    "duration": 135,
-    "play_url": ""
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/12e14173-2bae-489d-ad4d-3e555cc84b98",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1764877227~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F03%2FBurnley_vs_Crystal_Palace_20251203_1764785049910%2F~psid=0ec7df2d-5842-4eea-93a5-625486317952~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=d3b49b7296e1e47d9a27040b432f9a1b8456ebe990a522cd0ff57fe54f0efa46/clt1/va02/disneyplus/event/2025/12/03/Burnley_vs_Crystal_Palace_20251203_1764785049910/ctr-all-hdri-complete.m3u8?v=1&hash=75608797c6e506f8e637e532bd0e9e981872e51d",
+    "k1": "deb836e453124611a99fe5a2e9f1a164",
+    "k2": "20ef303d70be397528b84868c0aa9cd3"
   },
   {
     "title": "Arsenal vs. Brentford",
@@ -104,18 +97,37 @@
     "img": "019abb43-8142-710c-adc0-d167cb9da433",
     "nombre": "disney5747f2",
     "status": "14:20",
-    "duration": 135,
-    "play_url": ""
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/c564b3fe-5c5d-4bd9-974b-a8de2f95b7d9",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1764877271~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F03%2FWolverhampton_Wanderers_v_20251203_1764785049881%2F~psid=15f058c4-8391-4b0b-9f28-783a4a30d23f~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=e705879aca588b91c492b6c5c6b9d7f1abbb3730a071335ad4d040c569865f9d/clt1/va02/disneyplus/event/2025/12/03/Wolverhampton_Wanderers_v_20251203_1764785049881/ctr-all-hdri-complete.m3u8?v=1&hash=cb364085319ddc93ff66527845411671bd4be5b2",
+    "k1": "b7c1bacbf07349f5b28f5c63f9b33718",
+    "k2": "52dd7e6efb31c3b3fc815f5952d73342"
+  },
+  {
+    "title": "La Natividad-La Dolfina vs. UAE Polo (Grupo A - Fecha #5)",
+    "league": "Abierto de Palermo",
+    "fecha-evento": "2025-12-03T14:20:00-05:00",
+    "img": "019ac0b2-8a62-765d-9f34-886961b4eb38",
+    "nombre": "disney195a34",
+    "status": "14:20",
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/8325af76-2325-411b-ae1d-8f3497c7e66f",
+    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1764877316~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Fec26a05e-a9cc-4db4-804e-77465738e667-1762950455142%2F~psid=45d11c5e-3459-4b08-a29b-60444884d277~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=ec8957388d2c4d4d2700a8dfc919ee349f37a31625372f7afc38919ea6698785/clt1/va02/disneyplus/channel/ec26a05e-a9cc-4db4-804e-77465738e667-1762950455142/ctr-all-sliding-alt1.m3u8?v=1&hash=e2faf4444722e1f805096ad7b7489a5d09f9944f",
+    "k1": "22018303eb714f10b51526a74b66524e",
+    "k2": "9c093e9d4799ec9e50e49cd8a4cba5fb"
   },
   {
     "title": "Union Berlin vs. Bayern Munich",
     "league": "Copa de Alemania",
-    "fecha-evento": "2025-12-03T14:30:00-05:00",
+    "fecha-evento": "2025-12-03T14:30:02-05:00",
     "img": "019ae05e-04f4-7ffc-92c3-0c28f674843b",
-    "nombre": "disneyf4078b",
+    "nombre": "disney23e27a",
     "status": "14:30",
     "duration": 135,
-    "play_url": ""
+    "play_url": "https://www.disneyplus.com/es-es/play/16437525-3dfe-4b26-b09c-d98fe5e2e259",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1764877340~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F03%2FUnion_Berlin_vs_Bayern_Mu_20251203_1764783047042%2F~psid=9d590635-5939-48e7-a176-c108a5815ffb~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=640f07d7432dd4c686205e3be7fc4cd7b81bf783030d68d24dcd8aed6193d2f8/clt1/va02/disneyplus/event/2025/12/03/Union_Berlin_vs_Bayern_Mu_20251203_1764783047042/ctr-all-hdri-complete.m3u8?v=1&hash=a81ba990270475bd5d594f588b075fda473afaa4",
+    "k1": "5b7ac169385140699c4901b1700c5933",
+    "k2": "d841e09e495a07ded8032b8b67173e26"
   },
   {
     "title": "Hamburger SV vs. Holstein Kiel (Round of 16) (German Cup)",
@@ -124,8 +136,11 @@
     "img": "019a9e1b-76d4-7e58-bdb3-20f6456c1aec",
     "nombre": "disney21781e",
     "status": "14:35",
-    "duration": 135,
-    "play_url": ""
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/29f50001-d21f-4fcc-944f-71b9d501b9f6",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1764877365~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F03%2FHamburger_SV_vs_Holstein__20251203_1764783320037%2F~psid=cc586fc9-9c26-4e7f-88f0-8ccc5cbaea71~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=a3798d1de8439dc6a3e8349590288ff66a4424925281f4c3b1b9ecd07975bcb6/clt1/va02/disneyplus/event/2025/12/03/Hamburger_SV_vs_Holstein__20251203_1764783320037/ctr-all-hdri-complete.m3u8?v=1&hash=1efb5671ff39c84439ad58210159f943ce10eaec",
+    "k1": "006255b03bec44b086633bd9ef7fd846",
+    "k2": "7b9c048c546077d68ca6c711cbd0d47d"
   },
   {
     "title": "Liverpool vs. Sunderland",
@@ -491,7 +506,7 @@
     "title": "2025 Nedbank Golf Challenge in honour of Gary Player (First Round)",
     "league": "DP World Tour",
     "fecha-evento": "2025-12-04T04:00:00-05:00",
-    "img": "67c8e290-abb1-4a60-b2d8-b010b15e7bfe",
+    "img": "019ae5a9-d1ac-723a-a335-da3c471b5690",
     "nombre": "disneyf23b55",
     "status": "04:00",
     "duration": 135,
