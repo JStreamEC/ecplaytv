@@ -65,19 +65,6 @@
     "k2": "7a2a3554d0439310873db748c40221c5"
   },
   {
-    "title": "Burnley vs. Crystal Palace",
-    "league": "Premier League",
-    "fecha-evento": "2025-12-03T14:20:04-05:00",
-    "img": "019abb45-6bf8-7e7a-8ff7-0d42cd9c5bd3",
-    "nombre": "disney6146c3",
-    "status": "14:20",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/12e14173-2bae-489d-ad4d-3e555cc84b98",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1764877227~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F03%2FBurnley_vs_Crystal_Palace_20251203_1764785049910%2F~psid=0ec7df2d-5842-4eea-93a5-625486317952~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=d3b49b7296e1e47d9a27040b432f9a1b8456ebe990a522cd0ff57fe54f0efa46/clt1/va02/disneyplus/event/2025/12/03/Burnley_vs_Crystal_Palace_20251203_1764785049910/ctr-all-hdri-complete.m3u8?v=1&hash=75608797c6e506f8e637e532bd0e9e981872e51d",
-    "k1": "deb836e453124611a99fe5a2e9f1a164",
-    "k2": "20ef303d70be397528b84868c0aa9cd3"
-  },
-  {
     "title": "Arsenal vs. Brentford",
     "league": "Premier League",
     "fecha-evento": "2025-12-03T14:20:00-05:00",
@@ -117,6 +104,19 @@
     "k2": "9c093e9d4799ec9e50e49cd8a4cba5fb"
   },
   {
+    "title": "Burnley vs. Crystal Palace",
+    "league": "Premier League",
+    "fecha-evento": "2025-12-03T14:20:04-05:00",
+    "img": "019abb45-6bf8-7e7a-8ff7-0d42cd9c5bd3",
+    "nombre": "disney6146c3",
+    "status": "14:20",
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/12e14173-2bae-489d-ad4d-3e555cc84b98",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1764877227~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F03%2FBurnley_vs_Crystal_Palace_20251203_1764785049910%2F~psid=0ec7df2d-5842-4eea-93a5-625486317952~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=d3b49b7296e1e47d9a27040b432f9a1b8456ebe990a522cd0ff57fe54f0efa46/clt1/va02/disneyplus/event/2025/12/03/Burnley_vs_Crystal_Palace_20251203_1764785049910/ctr-all-hdri-complete.m3u8?v=1&hash=75608797c6e506f8e637e532bd0e9e981872e51d",
+    "k1": "deb836e453124611a99fe5a2e9f1a164",
+    "k2": "20ef303d70be397528b84868c0aa9cd3"
+  },
+  {
     "title": "Union Berlin vs. Bayern Munich",
     "league": "Copa de Alemania",
     "fecha-evento": "2025-12-03T14:30:02-05:00",
@@ -145,12 +145,15 @@
   {
     "title": "Liverpool vs. Sunderland",
     "league": "Premier League",
-    "fecha-evento": "2025-12-03T14:55:00-05:00",
-    "img": "019abb42-ee0a-73eb-851f-793fb24ee8b3",
-    "nombre": "disney6083dc",
+    "fecha-evento": "2025-12-03T14:55:03-05:00",
+    "img": "019abb42-ee06-7fe0-847c-7831fe29a53b",
+    "nombre": "disney664f96",
     "status": "14:55",
     "duration": 135,
-    "play_url": ""
+    "play_url": "https://www.disneyplus.com/es-es/play/add01643-68c2-43fe-8ad3-3186b276d4e8",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1764878427~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F03%2FLiverpool_vs_Sunderland_20251203_1764784531040%2F~psid=0d2d542a-1a1d-40f1-98b2-b38a0fd68d2a~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=c0355299876fa27b1ec34bec5fb7d674c963c40c8793c11ec9ceee420ada21d7/clt1/va02/disneyplus/event/2025/12/03/Liverpool_vs_Sunderland_20251203_1764784531040/ctr-all-hdri-complete.m3u8?v=1&hash=81c06c019ffa9e367e54c10321b19715016065d7",
+    "k1": "0e60c36700ff438f9d0cf6ff43303fb4",
+    "k2": "e2ecb1ed444b91504a3538bf3d516a3c"
   },
   {
     "title": "Leeds United vs. Chelsea",
