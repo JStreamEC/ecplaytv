@@ -1,18 +1,5 @@
 [
   {
-    "title": "India vs. Germany",
-    "league": "Copa del Mundo - Hockey Junior",
-    "fecha-evento": "2025-12-03T09:15:03-05:00",
-    "img": "019ac63a-246d-7510-bba9-69e314714f98",
-    "nombre": "disneyfa5e15",
-    "status": "09:15",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/b0e51066-8dd4-419f-a7ad-ee4f9d263c42",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1764861622~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F03%2FIndia_vs_Germany_20251203_1764764101040%2F~psid=44568759-12d5-4b62-8e40-c08e61b9836c~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=e1f1a933f399a01245de8a8db1132075a937f006d05eabd09f0b08b033d78a3a/clt1/va02/disneyplus/event/2025/12/03/India_vs_Germany_20251203_1764764101040/ctr-all-hdri-complete.m3u8?v=1&hash=aa085f352a6143a1d9fab8958401558595787375",
-    "k1": "dfa4299e34064a99a416d98d4305e41c",
-    "k2": "96f1692384576e14638e60a8703fcd29"
-  },
-  {
     "title": "Nueva Zelanda vs. Uruguay",
     "league": "Copa del Mundo - Hockey Junior",
     "fecha-evento": "2025-12-03T11:30:00-05:00",
@@ -66,7 +53,7 @@
     "title": "Arkansas-Pine Bluff vs. UIC",
     "league": "Básquetbol Masculino NCAA",
     "fecha-evento": "2025-12-03T12:00:00-05:00",
-    "img": "019aa25d-412c-7f4b-9412-1bf7af900505",
+    "img": "019aa25d-412b-7ec3-b9cd-e26a83d3a834",
     "nombre": "disneydfb168",
     "status": "12:00",
     "duration": 135,
@@ -599,6 +586,16 @@
     "img": "019ac746-9284-7c15-ae1e-1fece0bc48d6",
     "nombre": "disneyf62f54",
     "status": "09:15",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Australia vs. Japan",
+    "league": "Men's FIH Hockey Junior World Cup",
+    "fecha-evento": "2025-12-04T09:30:00-05:00",
+    "img": "019ae120-7eb8-7168-9eb4-43a048998320",
+    "nombre": "disney778c4c",
+    "status": "09:30",
     "duration": 135,
     "play_url": ""
   }
