@@ -13,19 +13,6 @@
     "k2": "9c093e9d4799ec9e50e49cd8a4cba5fb"
   },
   {
-    "title": "Union Berlin vs. Bayern Munich",
-    "league": "Copa de Alemania",
-    "fecha-evento": "2025-12-03T14:30:02-05:00",
-    "img": "019ae05e-04f4-7ffc-92c3-0c28f674843b",
-    "nombre": "disney23e27a",
-    "status": "14:30",
-    "duration": 135,
-    "play_url": "https://www.disneyplus.com/es-es/play/16437525-3dfe-4b26-b09c-d98fe5e2e259",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1764877340~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F03%2FUnion_Berlin_vs_Bayern_Mu_20251203_1764783047042%2F~psid=9d590635-5939-48e7-a176-c108a5815ffb~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=640f07d7432dd4c686205e3be7fc4cd7b81bf783030d68d24dcd8aed6193d2f8/clt1/va02/disneyplus/event/2025/12/03/Union_Berlin_vs_Bayern_Mu_20251203_1764783047042/ctr-all-hdri-complete.m3u8?v=1&hash=a81ba990270475bd5d594f588b075fda473afaa4",
-    "k1": "5b7ac169385140699c4901b1700c5933",
-    "k2": "d841e09e495a07ded8032b8b67173e26"
-  },
-  {
     "title": "Hamburger SV vs. Holstein Kiel (Round of 16) (German Cup)",
     "league": "Copa de Alemania",
     "fecha-evento": "2025-12-03T14:35:00-05:00",
@@ -417,7 +404,7 @@
     "title": "2025 Nedbank Golf Challenge in honour of Gary Player (First Round)",
     "league": "DP World Tour",
     "fecha-evento": "2025-12-04T04:00:00-05:00",
-    "img": "019ae5a9-d1ac-723a-a335-da3c471b5690",
+    "img": "019ae5a9-d1dd-7fce-950e-033a8c0b88e6",
     "nombre": "disneyf23b55",
     "status": "04:00",
     "duration": 135,
@@ -620,6 +607,16 @@
     "img": "019ad760-3b0c-7bfc-b8d2-e45cd9e70b29",
     "nombre": "disney04ca5a",
     "status": "16:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Polo Aap",
+    "league": "Polo Internacional",
+    "fecha-evento": "2025-12-04T17:00:00-05:00",
+    "img": "3918b8e0-581b-4011-a7e6-18cb352d0105",
+    "nombre": "disney7d447b",
+    "status": "17:00",
     "duration": 135,
     "play_url": ""
   }
