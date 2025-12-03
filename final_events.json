@@ -1,18 +1,5 @@
 [
   {
-    "title": "Binghamton vs. San Diego",
-    "league": "Básquet Femenino NCAA",
-    "fecha-evento": "2025-12-03T14:00:23-05:00",
-    "img": "019aa4f1-08bc-7b29-a50e-515dfd67d649",
-    "nombre": "disney5eb469",
-    "status": "14:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/3fe49286-0c69-4102-b8af-92430004f4d4",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1764876025~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F03%2FBinghamton_vs_San_Diego_20251203_1764781200044%2F~psid=36b800fa-f37d-4304-a41e-081c10085d2c~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=fb05d06a84f31036a8ed9c609878eec288cd921ac8c14d393ee6c19724ed82a2/clt1/va02/disneyplus/event/2025/12/03/Binghamton_vs_San_Diego_20251203_1764781200044/ctr-all-hdri-complete.m3u8?v=1&hash=14d4ec74963b50d2e350aad69d2ffcde67a49b53",
-    "k1": "7f04f0f8f839451d8ed31a728b11ddaf",
-    "k2": "ff9eb44d80b035eb8e48994dd6da7c3d"
-  },
-  {
     "title": "Brighton & Hove Albion vs. Aston Villa",
     "league": "Premier League",
     "fecha-evento": "2025-12-03T14:10:01-05:00",
@@ -117,19 +104,6 @@
     "k2": "e2ecb1ed444b91504a3538bf3d516a3c"
   },
   {
-    "title": "UW- Osh Kosh vs. Calvin (Quarterfinals)",
-    "league": "NCAA Women's Volleyball",
-    "fecha-evento": "2025-12-03T15:00:00-05:00",
-    "img": "019ad257-4798-7d38-92a8-5c0ac1530445",
-    "nombre": "disney300593",
-    "status": "15:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/85a6402f-b53b-4a61-9d17-dfea3a90c7b6",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1764879622~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F03%2FUW_Osh_Kosh_vs_Calvin_Qua_20251203_1764784805036%2F~psid=fda6dbe3-c27e-43ea-bd80-78628fe64913~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=5f9e8213b30b69d36486061076b26bbc4270f80d3bf7b31b605bb6e8eef5dc93/clt1/va02/disneyplus/event/2025/12/03/UW_Osh_Kosh_vs_Calvin_Qua_20251203_1764784805036/ctr-all-hdri-complete.m3u8?v=1&hash=2ab231432d156f2a8f158bc5ea118b921c75744a",
-    "k1": "f3bf064be9fc433f987ab51453d10859",
-    "k2": "01489f8930b6f969b8a3ecdbdffc6f81"
-  },
-  {
     "title": "Leeds United vs. Chelsea",
     "league": "Premier League",
     "fecha-evento": "2025-12-03T15:01:00-05:00",
@@ -156,14 +130,30 @@
     "k2": "fa3c7ad861a0278e0014fdbde64a6cf7"
   },
   {
+    "title": "UW- Osh Kosh vs. Calvin (Quarterfinals)",
+    "league": "NCAA Women's Volleyball",
+    "fecha-evento": "2025-12-03T15:00:00-05:00",
+    "img": "019ad257-4798-7d38-92a8-5c0ac1530445",
+    "nombre": "disney300593",
+    "status": "15:00",
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/85a6402f-b53b-4a61-9d17-dfea3a90c7b6",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1764879622~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F03%2FUW_Osh_Kosh_vs_Calvin_Qua_20251203_1764784805036%2F~psid=fda6dbe3-c27e-43ea-bd80-78628fe64913~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=5f9e8213b30b69d36486061076b26bbc4270f80d3bf7b31b605bb6e8eef5dc93/clt1/va02/disneyplus/event/2025/12/03/UW_Osh_Kosh_vs_Calvin_Qua_20251203_1764784805036/ctr-all-hdri-complete.m3u8?v=1&hash=2ab231432d156f2a8f158bc5ea118b921c75744a",
+    "k1": "f3bf064be9fc433f987ab51453d10859",
+    "k2": "01489f8930b6f969b8a3ecdbdffc6f81"
+  },
+  {
     "title": "Japan vs. Netherlands",
     "league": "Copa del Mundo - Hockey Junior",
-    "fecha-evento": "2025-12-03T16:00:00-05:00",
+    "fecha-evento": "2025-12-03T16:00:09-05:00",
     "img": "019ac745-7e29-7555-847e-4beab66fda3f",
-    "nombre": "disney6c631a",
+    "nombre": "disney424bab",
     "status": "16:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/f49378e4-4794-471b-8e4d-c29989d9233d",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1764883223~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F03%2FJapan_vs_Netherlands_20251203_1764788459044%2F~psid=607dfb0a-d3c7-4ef7-9a76-c17e171077b1~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=be593294c00534b0a4b3b0d4b758cfe85b8249a654966d0cd28253b160da0e48/clt1/va02/disneyplus/event/2025/12/03/Japan_vs_Netherlands_20251203_1764788459044/ctr-all-hdri-complete.m3u8?v=1&hash=6ef11258c76913956d3387b8844eeb23397bf7d3",
+    "k1": "80ea9662a2f24bc2a85888a8a7f06d55",
+    "k2": "4cf481f23a8013e55952910cbf9c9d1d"
   },
   {
     "title": "Georgia vs. Florida State",
@@ -609,7 +599,7 @@
     "title": "2025 World Champions Cup (Day One)",
     "league": "World Champions Cup",
     "fecha-evento": "2025-12-04T12:00:00-05:00",
-    "img": "019ab14b-4c4c-71bc-bdb6-81f5891e6052",
+    "img": "019ae610-c0de-7c7d-91ca-7a2194fcfcd9",
     "nombre": "disneyce2e1f",
     "status": "12:00",
     "duration": 135,
@@ -632,6 +622,16 @@
     "img": "019ac0b2-9713-7062-ab2e-918810d2d283",
     "nombre": "disney674ace",
     "status": "14:20",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Manchester United vs. West Ham United",
+    "league": "Premier League",
+    "fecha-evento": "2025-12-04T14:50:00-05:00",
+    "img": "019abbf1-84e2-793e-9a73-dfa61e061c5c",
+    "nombre": "disneye22c95",
+    "status": "14:50",
     "duration": 135,
     "play_url": ""
   }
