@@ -10,19 +10,6 @@
     "play_url": ""
   },
   {
-    "title": "Skechers World Champions Cup (Day One)",
-    "league": "World Champions Cup",
-    "fecha-evento": "2025-12-04T08:30:02-05:00",
-    "img": "019adb67-d009-70f7-b8a0-6755fae54a62",
-    "nombre": "disneyf7de42",
-    "status": "08:30",
-    "duration": 210,
-    "play_url": "https://www.disneyplus.com/es-es/play/b37d6c05-ef64-44ce-95e6-92fe214413de",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1764951623~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F04%2FWorld_Champions_Cup_Day_O_20251204_1764847852030%2F~psid=c02fa0f9-48d9-4553-8ce7-5eb738978ecc~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=7e6892961c2c0bbb746c4a756d94ed8f7f7491800fa52ce88454b9c6df3fc320/clt1/va02/disneyplus/event/2025/12/04/World_Champions_Cup_Day_O_20251204_1764847852030/ctr-all-hdri-complete.m3u8?v=1&hash=96beca66ba2fabd05276d373c3f671cfd7d42bc7",
-    "k1": "3eb8ec09b4a2456389822a6ae45a3d7a",
-    "k2": "c6d1ed36b3756b28c6337b07de1f8e2f"
-  },
-  {
     "title": "Big Al Invitational (Swimming)",
     "league": "NCAA Natación y Buceo",
     "fecha-evento": "2025-12-04T10:00:04-05:00",
@@ -64,12 +51,15 @@
   {
     "title": "La Ensenada vs. La Dolfina II (Grupo B - Fecha #5)",
     "league": "Abierto de Palermo",
-    "fecha-evento": "2025-12-04T11:50:00-05:00",
+    "fecha-evento": "2025-12-04T11:50:03-05:00",
     "img": "019ac125-f620-7015-98c5-8330f69d4689",
-    "nombre": "disney652989",
+    "nombre": "disney8120ea",
     "status": "11:50",
-    "duration": 135,
-    "play_url": ""
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/39faa5f2-a0c0-4193-b5b0-ffe4bcd29b4c",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1764954023~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F04%2FLa_Ensenada_vs_La_Dolfina_20251204_1764859812033%2F~psid=7b87e45b-6e0a-4d29-8142-7c4136d641e9~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=13317f92d9746e9fd1a2fc1373d0ea57b3290c157edbab1a164ed91e264ed9e1/clt1/va02/disneyplus/event/2025/12/04/La_Ensenada_vs_La_Dolfina_20251204_1764859812033/ctr-all-hdri-complete.m3u8?v=1&hash=3b19b981a374c43f10c9d85e6e51ffcc16ae012f",
+    "k1": "c307505081b14dad89298f5e3c337d09",
+    "k2": "f6723aab7a7d4497f47a256a57b4e989"
   },
   {
     "title": "Big Al Invitational (Diving)",
@@ -537,6 +527,16 @@
     "fecha-evento": "2025-12-04T21:00:00-05:00",
     "img": "e81ceba3-7fd4-4bc0-8820-e18c9fb08746",
     "nombre": "disney2e4975",
+    "status": "21:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Hawai'i vs. UC Davis",
+    "league": "Básquet Femenino NCAA",
+    "fecha-evento": "2025-12-04T21:00:00-05:00",
+    "img": "bf8c7deb-f92e-4029-bf1c-a13fcba3dbb1",
+    "nombre": "disneybf13b4",
     "status": "21:00",
     "duration": 135,
     "play_url": ""
