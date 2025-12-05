@@ -1,19 +1,19 @@
 {
   "domains": [
     {
-      "domain": "tv-mgmt.gtd.cl",
+      "domain": "cdndirector.dailymotion.com",
       "headers": {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
-        "Referer": "https://www.gtd.cl/",
-        "Origin": "https://www.gtd.cl"
+        "Referer": "https://geo.dailymotion.com/",
+        "Origin": "https://geo.dailymotion.com"
       }
     },
     {
-      "domain": "tv-cdn02.gtd.cl",
+      "domain": "dailymotion.com",
       "headers": {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
-        "Referer": "https://tv-mgmt.gtd.cl/",
-        "Origin": "https://tv-mgmt.gtd.cl"
+        "Referer": "https://geo.dailymotion.com/",
+        "Origin": "https://geo.dailymotion.com"
       }
     },
     {
