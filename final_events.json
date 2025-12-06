@@ -179,19 +179,6 @@
     "k2": "7bf720c5aecf74d415ca30311e334297"
   },
   {
-    "title": "Kansas City Current vs. UANL Tigres",
-    "league": "ESPN",
-    "fecha-evento": "2025-12-06T12:25:00-05:00",
-    "img": "019ae67d-f710-787e-a86b-2f5eb09b02e6",
-    "nombre": "disney80702b",
-    "status": "12:25",
-    "duration": 65,
-    "play_url": "https://www.disneyplus.com/es-es/play/708f0cd5-e33a-4b42-ba5e-17cd9fca1c18",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1765129318~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F06%2FKansas_City_Current_vs_UA_20251206_1765034717033%2F~psid=f84dffea-ea7b-40f9-8916-3efe15906a4a~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=5805e8c123b77cf242b7b8cc4538a8f015a9a121fa0430162534459097f156c4/clt1/va02/disneyplus/event/2025/12/06/Kansas_City_Current_vs_UA_20251206_1765034717033/ctr-all-hdri-complete.m3u8?v=1&hash=bb21d59c56c4c35ef0d114dae683780eed2fba7c",
-    "k1": "95212dc284fd4f7d87f68dec097c5adb",
-    "k2": "e6af40acae743af63791627f52029fbc"
-  },
-  {
     "title": "Fortuna Sittard vs. Ajax",
     "league": "Eredivisie",
     "fecha-evento": "2025-12-06T12:30:00-05:00",
@@ -272,12 +259,15 @@
   {
     "title": "Nacional (URU) vs. Deportivo Cali",
     "league": "ESPN",
-    "fecha-evento": "2025-12-06T13:25:00-05:00",
+    "fecha-evento": "2025-12-06T13:29:01-05:00",
     "img": "019ae55b-5eee-7380-899a-cbb813a8b870",
-    "nombre": "disneyad3a34",
-    "status": "13:25",
-    "duration": 135,
-    "play_url": ""
+    "nombre": "disney7a562b",
+    "status": "13:29",
+    "duration": 61,
+    "play_url": "https://www.disneyplus.com/es-es/play/963809ca-d3ed-4afa-ba32-bd547d06f99a",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1765132876~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F06%2FNacional_URU_vs_Deportivo_20251206_1765038318040%2F~psid=9441f4bb-99fd-486f-b49e-472bd5e810b8~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=9d3ccafd6212d9f66ad96e256acbbfb8cefdd6cf0d157baad799fffe2431cbd8/clt1/va02/disneyplus/event/2025/12/06/Nacional_URU_vs_Deportivo_20251206_1765038318040/ctr-all-hdri-complete.m3u8?v=1&hash=d10643bdd92dffbf4fda4fb8cf7d703a9e98620a",
+    "k1": "1e0a520eb77447afa51fa789b9f22a02",
+    "k2": "9174c0074eabb7b29e7855debc945cbb"
   },
   {
     "title": "Boston College vs. #6 Northeastern",
@@ -286,8 +276,11 @@
     "img": "693828df-79fa-44a0-8673-473fededbe18",
     "nombre": "disney95a2f1",
     "status": "13:30",
-    "duration": 135,
-    "play_url": ""
+    "duration": 150,
+    "play_url": "https://www.disneyplus.com/es-es/play/483d8ae3-8162-4707-a0ce-00367ff3eca3",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1765132921~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F06%2FBoston_College_vs_6_North_20251206_1765038601039%2F~psid=95c08d2b-1592-414d-b976-a44e1951ba87~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=70fe625c4b79f9d669721e6afc17b4375db3ce956cc39fc2330a765091ad31e4/clt1/va02/disneyplus/event/2025/12/06/Boston_College_vs_6_North_20251206_1765038601039/ctr-all-hdri-complete.m3u8?v=1&hash=907f8cab95c3318a6874317740156477254b7c6b",
+    "k1": "56064e3ef5934ea4a41d8bf8394f8af8",
+    "k2": "060762a6a5c9b32ed64dde2739ac772f"
   },
   {
     "title": "Zimbabue vs. Belgium",
@@ -666,6 +659,16 @@
     "img": "019ae55b-6d5e-769b-b931-a417e87f2350",
     "nombre": "disney9cc859",
     "status": "18:25",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "New York Islanders vs. Tampa Bay Lightning",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-12-06T19:00:00-05:00",
+    "img": "0fe21347-17a8-4a29-b96b-afc03c67d325",
+    "nombre": "disney643ebe",
+    "status": "19:00",
     "duration": 135,
     "play_url": ""
   }
