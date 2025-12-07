@@ -30,16 +30,6 @@
     "play_url": "https://www.disneyplus.com/es-es/play/c9c3c44b-dbfe-4c64-b5dc-4f1fd2c52179"
   },
   {
-    "title": "Napoli vs. Juventus",
-    "league": "Seria A",
-    "fecha-evento": "2025-12-07T14:30:00-05:00",
-    "img": "019abd3e-ae8f-74e0-9aa6-1da1455daffc",
-    "nombre": "disney593ec6",
-    "status": "14:30",
-    "duration": 135,
-    "play_url": "https://www.disneyplus.com/es-es/play/8e2d8f0b-80ba-464b-a6b9-475469da5529"
-  },
-  {
     "title": "La Natividad-La Dolfina vs. Ellerstina-I. Chapaleufú Vista | Final",
     "league": "Abierto de Palermo",
     "fecha-evento": "2025-12-07T14:30:02-05:00",
@@ -48,16 +38,6 @@
     "status": "14:30",
     "duration": 150,
     "play_url": "https://www.disneyplus.com/es-es/play/3c7bae17-5e34-47f7-a17d-ce1ba3ec95cd"
-  },
-  {
-    "title": "Lorient vs. Lyon",
-    "league": "Ligue 1",
-    "fecha-evento": "2025-12-07T14:33:10-05:00",
-    "img": "019ac1af-6471-70e7-9457-ddf64839cd17",
-    "nombre": "disney4750b4",
-    "status": "14:33",
-    "duration": 132,
-    "play_url": "https://www.disneyplus.com/es-es/play/90991718-9953-433a-bc74-0319f573e986"
   },
   {
     "title": "#19 Texas Tech vs. LSU",
@@ -136,8 +116,8 @@
     "img": "019ae0a1-6ab4-7bdc-92d4-681173f6d2f1",
     "nombre": "disney9681d6",
     "status": "16:45",
-    "duration": 135,
-    "play_url": ""
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/d1c4a111-4c84-448b-9bef-d96c38adb2a8"
   },
   {
     "title": "Texas A&M vs. SMU",
@@ -146,8 +126,8 @@
     "img": "019a8436-22c4-7839-ad7c-ddcc1fc32df2",
     "nombre": "disneyd74013",
     "status": "17:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/094c16a0-05e1-434a-84e6-b2d5fa5098d5"
   },
   {
     "title": "Georgetown vs. #16 North Carolina",
@@ -156,8 +136,8 @@
     "img": "019a2d97-71d2-70ef-a14a-2d2366f1c52d",
     "nombre": "disneyb9c0d2",
     "status": "17:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/6df307ce-f2cb-4745-9411-c4325db877f4"
   },
   {
     "title": "Utah State vs. San Diego",
@@ -166,8 +146,8 @@
     "img": "019aa860-388e-7d92-b4e0-29504469020b",
     "nombre": "disney4227bc",
     "status": "17:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/75556780-471f-4d26-897c-9e25c2289d33"
   },
   {
     "title": "New York Islanders vs. Florida Panthers",
@@ -176,8 +156,8 @@
     "img": "dbbc3693-8597-4b63-b2e1-cb50feb76222",
     "nombre": "disneyeb6044",
     "status": "17:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 210,
+    "play_url": "https://www.disneyplus.com/es-es/play/7c4d8ca2-e2e9-4fab-97eb-31ba4339258b"
   },
   {
     "title": "San Jose Sharks vs. Carolina Hurricanes",
@@ -186,8 +166,8 @@
     "img": "d7d0d619-2841-4337-a0c4-4b550b9646d5",
     "nombre": "disney5e5c33",
     "status": "17:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 210,
+    "play_url": "https://www.disneyplus.com/es-es/play/a537e94e-a38b-4b61-8e94-af7afd29666a"
   },
   {
     "title": "Nevada vs. Washington State",
@@ -196,8 +176,8 @@
     "img": "019aa860-7d38-7dd4-b961-65de2ef9ebf4",
     "nombre": "disney113ff9",
     "status": "17:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/f4444cd5-a52f-4994-940a-171081b9c718"
   },
   {
     "title": "Pittsburgh Penguins vs. Dallas Stars",
@@ -545,6 +525,16 @@
     "fecha-evento": "2025-12-08T21:00:00-05:00",
     "img": "c4fec5aa-c8d6-41d1-bcac-33307c9d3383",
     "nombre": "disney5de111",
+    "status": "21:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Los Angeles Kings vs. Utah Mammoth",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-12-08T21:00:00-05:00",
+    "img": "019abecd-a064-7b30-a113-4b65ea4dbcc7",
+    "nombre": "disneyd3dc75",
     "status": "21:00",
     "duration": 135,
     "play_url": ""
