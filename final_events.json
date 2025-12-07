@@ -179,19 +179,6 @@
     "k2": "ebb770cea24c93f2f75d5003190ef495"
   },
   {
-    "title": "Deportivo Cali vs. Club America",
-    "league": "ESPN",
-    "fecha-evento": "2025-12-06T19:24:27-05:00",
-    "img": "019ae55b-61ab-7ec1-a4a8-fc9f38374a37",
-    "nombre": "disneyf00321",
-    "status": "19:24",
-    "duration": 66,
-    "play_url": "https://www.disneyplus.com/es-es/play/bbb11100-c10f-48cb-a196-a0662bf01a0b",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1765154426~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F07%2FDeportivo_Cali_vs_Club_Am_20251207_1765059951038%2F~psid=9df0bf86-bc7b-422e-900b-b991ad408212~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=556ca605e5ee74947fa9e36e1bd6cd54452f25fb4c2fd45591eb4499ae4395ee/clt1/va02/disneyplus/event/2025/12/07/Deportivo_Cali_vs_Club_Am_20251207_1765059951038/ctr-all-hdri-complete.m3u8?v=1&hash=0b1e65c7d22136c5344d2cf51d6a79269210f1c7",
-    "k1": "49981ff32ced4851b4f4296ad461fa81",
-    "k2": "149053126f015e5ab2f08a336d92bfe1"
-  },
-  {
     "title": "Tampa Bay Sun vs. Sporting Jax",
     "league": "ESPN",
     "fecha-evento": "2025-12-06T19:30:02-05:00",
@@ -354,18 +341,24 @@
     "img": "019ac1f5-cc31-787b-b3cf-d076af194f24",
     "nombre": "disney9f2d68",
     "status": "20:30",
-    "duration": 135,
-    "play_url": ""
+    "duration": 270,
+    "play_url": "https://www.disneyplus.com/es-es/play/67ff3f7d-a12d-40ca-8cb3-3733b33ea712",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1765158028~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F07%2F2025_Crown_Australian_Ope_20251207_1765063843043%2F~psid=86cf663d-9319-47a7-b273-626755f352dc~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=bb64ae519f2fde0d773b7100672c0c87388b4f9788ef0183f8a318b50f3c822a/clt1/va02/disneyplus/event/2025/12/07/2025_Crown_Australian_Ope_20251207_1765063843043/ctr-all-hdri-complete.m3u8?v=1&hash=6456120201426060345e69310d0ab98deb8656d0",
+    "k1": "837bb00bac004025bb84a28f1551ca58",
+    "k2": "8de5e57dcba40d0ec5e04b4f58865e05"
   },
   {
     "title": "LXF 29 | Eduardo Alvarado vs. Shane Torres | ESPN KO",
     "league": "Lights Out Extreme Fighting",
-    "fecha-evento": "2025-12-06T22:30:00-05:00",
+    "fecha-evento": "2025-12-06T20:30:02-05:00",
     "img": "019aefe2-fe29-7126-bd68-df25b86a07ba",
-    "nombre": "disneya42ee6",
-    "status": "22:30",
-    "duration": 135,
-    "play_url": ""
+    "nombre": "disney1e788b",
+    "status": "20:30",
+    "duration": 270,
+    "play_url": "https://www.disneyplus.com/es-es/play/dc5098eb-3100-434c-955d-770fcbb05566",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1765158073~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F07%2FLXF_29_Eduardo_Alvarado_v_20251207_1765063811033%2F~psid=4be47d31-dc07-452a-b534-9c483139b564~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=e47483758763c8d1b3d7820b15b2a9467d77676bb8f838614679119918081fce/clt1/va02/disneyplus/event/2025/12/07/LXF_29_Eduardo_Alvarado_v_20251207_1765063811033/ctr-all-hdri-complete.m3u8?v=1&hash=ecb2746003f6cc41db176c77b33407d1847687d1",
+    "k1": "16f528a905c2479ea5e0b4192798ca50",
+    "k2": "6f06faf597f8270cbb3e264118529039"
   },
   {
     "title": "Arkansas State vs. Little Rock",
@@ -624,6 +617,16 @@
     "img": "019ae77a-9bea-79ca-ae40-bcc60aad492c",
     "nombre": "disneya05f99",
     "status": "06:55",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "España vs. Argentina (Semifinal)",
+    "league": "Men's FIH Hockey Junior World Cup",
+    "fecha-evento": "2025-12-07T07:00:00-05:00",
+    "img": "019af0ca-bae0-7f8d-88ab-c8e843277712",
+    "nombre": "disneyc3ca50",
+    "status": "07:00",
     "duration": 135,
     "play_url": ""
   }
