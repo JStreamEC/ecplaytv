@@ -10,16 +10,6 @@
     "play_url": ""
   },
   {
-    "title": "Hamburger SV vs. Werder Bremen",
-    "league": "Bundesliga",
-    "fecha-evento": "2025-12-07T09:20:00-05:00",
-    "img": "019aa14a-78a0-7808-8ab6-25560054a9ce",
-    "nombre": "disneyc8aafc",
-    "status": "09:20",
-    "duration": 125,
-    "play_url": "https://www.disneyplus.com/es-es/play/ad29d444-b0a0-4e65-8317-3629e3a6163c"
-  },
-  {
     "title": "Leganés vs. Cordoba",
     "league": "Segunda División de España",
     "fecha-evento": "2025-12-07T10:09:59-05:00",
@@ -110,34 +100,34 @@
     "play_url": "https://www.disneyplus.com/es-es/play/610f96b6-abd0-4838-b4df-8ae23795f159"
   },
   {
-    "title": "La Zeta Kazak vs. La Aguada | Repechaje",
-    "league": "Abierto de Palermo",
-    "fecha-evento": "2025-12-07T11:50:00-05:00",
-    "img": "019af03a-f074-794c-ae49-7d1fd1e8bcf8",
-    "nombre": "disney4ae619",
-    "status": "11:50",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Lazio vs. Bologna",
     "league": "Seria A",
-    "fecha-evento": "2025-12-07T11:50:00-05:00",
+    "fecha-evento": "2025-12-07T11:50:02-05:00",
     "img": "019aefe2-ed10-7b6c-9300-60e209db03a3",
-    "nombre": "disney72aa9e",
+    "nombre": "disney7970c6",
     "status": "11:50",
-    "duration": 135,
-    "play_url": ""
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/c70aa90b-4671-4ffa-b803-a5486b8d7dd1"
+  },
+  {
+    "title": "La Zeta Kazak vs. La Aguada | Repechaje",
+    "league": "Abierto de Palermo",
+    "fecha-evento": "2025-12-07T11:50:02-05:00",
+    "img": "019af03a-f074-794c-ae49-7d1fd1e8bcf8",
+    "nombre": "disney2b4009",
+    "status": "11:50",
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/4a7f1735-143f-4c7c-932a-cd6028a5cbbd"
   },
   {
     "title": "Goztepe vs. Trabzonspor",
     "league": "Super Lig de Turquía",
-    "fecha-evento": "2025-12-07T11:55:00-05:00",
+    "fecha-evento": "2025-12-07T11:56:57-05:00",
     "img": "019aa722-71eb-7859-8194-8e9082673e4a",
-    "nombre": "disney075d5f",
-    "status": "11:55",
-    "duration": 135,
-    "play_url": ""
+    "nombre": "disney67989d",
+    "status": "11:56",
+    "duration": 123,
+    "play_url": "https://www.disneyplus.com/es-es/play/b6830708-8f11-4e9b-83ae-10817978618d"
   },
   {
     "title": "Audi FIS Ski World Cup - Beaver Creek, USA (Giant Slalom)",
@@ -146,8 +136,8 @@
     "img": "2ba9f40e-b243-4737-9cff-a1f9774ac58d",
     "nombre": "disneya451a3",
     "status": "12:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 90,
+    "play_url": "https://www.disneyplus.com/es-es/play/5e58896f-103c-459b-a083-53a047b838aa"
   },
   {
     "title": "Espanyol vs. Rayo Vallecano",
@@ -545,6 +535,16 @@
     "fecha-evento": "2025-12-07T20:00:00-05:00",
     "img": "019aa861-0451-7419-a035-60bf4f8de0eb",
     "nombre": "disney1ca76a",
+    "status": "20:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Chicago Blackhawks vs. Anaheim Ducks",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-12-07T20:00:00-05:00",
+    "img": "06d303c8-e988-467b-9799-9402e1a82731",
+    "nombre": "disneybd54f7",
     "status": "20:00",
     "duration": 135,
     "play_url": ""
