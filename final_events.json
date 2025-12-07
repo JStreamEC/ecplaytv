@@ -49,19 +49,6 @@
     "k2": "53bf7aeee55ad9789030937abcd6bb89"
   },
   {
-    "title": "Argentina vs. Gales",
-    "league": "Copa del Mundo - Hockey Junior",
-    "fecha-evento": "2025-12-06T18:15:02-05:00",
-    "img": "019ac67d-8d41-70ca-8d30-9adb02c7ed9c",
-    "nombre": "disney3c3234",
-    "status": "18:15",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/b70c02bc-5820-4d02-bdda-c90ebae81c19",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1765149628~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F06%2FArgentina_vs_Gales_20251206_1765055713039%2F~psid=d69b1c9e-fb04-4a56-8077-7599be3e02c7~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=cfa605d20b476d95694b8e4d3a181d56d5a7f250d1bb061ee37b6e90b552ec5f/clt1/va02/disneyplus/event/2025/12/06/Argentina_vs_Gales_20251206_1765055713039/ctr-all-hdri-complete.m3u8?v=1&hash=d2bed918f99a25e6549f2f70770816256f2cd39b",
-    "k1": "30e0092c9172499582bec0d132d2d7a7",
-    "k2": "faece79699caf1a977d3900fc758f3ac"
-  },
-  {
     "title": "New York Islanders vs. Tampa Bay Lightning",
     "league": "National Hockey League",
     "fecha-evento": "2025-12-06T19:00:10-05:00",
@@ -244,24 +231,17 @@
     "k2": "252c37a9e7f99c5d3fdc71f1c53dc5c6"
   },
   {
-    "title": "Capitanes de Ciudad de México vs. Rio Grande Valley Vipers",
-    "league": "NBA G League",
+    "title": "En Español-Duke vs. #17 Virginia (Championship)",
+    "league": "Fútbol Americano NCAA",
     "fecha-evento": "2025-12-06T20:00:00-05:00",
-    "img": "95bd9bdc-3642-484d-8cb5-695f3a839ede",
-    "nombre": "disneyc4c2d9",
+    "img": "227fb066-a5cc-4f62-babe-984a28d9bbf2",
+    "nombre": "disney114bce",
     "status": "20:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Kansas State vs. #1 Nebraska (Second Round)",
-    "league": "NCAA Women's Volleyball",
-    "fecha-evento": "2025-12-06T20:00:00-05:00",
-    "img": "019af1e9-9c91-7e60-9ee2-ce5ea16f3bba",
-    "nombre": "disney9ca715",
-    "status": "20:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 180,
+    "play_url": "https://www.disneyplus.com/es-es/play/d74fdcfb-a048-40cd-bb09-ce8e208ace9a",
+    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1765156826~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Fec26a05e-a9cc-4db4-804e-77465738e667-1762950455142%2F~psid=45cb937e-f042-4aba-af41-8dbdbd3aadb7~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=2e9775d0af1e2b3b0cd2b99e3359d67c869b00e784a3019929490168aedb06de/clt1/va02/disneyplus/channel/ec26a05e-a9cc-4db4-804e-77465738e667-1762950455142/ctr-all-sliding-alt1.m3u8?v=1&hash=e2faf4444722e1f805096ad7b7489a5d09f9944f",
+    "k1": "02783c5a65004ebcbd5b77c02b75db3f",
+    "k2": "d0f1b3695849ed6fac8adda0c0f35e8a"
   },
   {
     "title": "#6 TCU vs. #3 Texas A&M (Second Round)",
@@ -277,36 +257,6 @@
     "k2": "9d245fc35ab410c50fa91f04422f5f89"
   },
   {
-    "title": "BYU vs. Portland",
-    "league": "Básquet Femenino NCAA",
-    "fecha-evento": "2025-12-06T20:00:00-05:00",
-    "img": "019aa85f-fbd9-7617-bf97-0fd49e9649d7",
-    "nombre": "disney4149a7",
-    "status": "20:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "En Español-Duke vs. #17 Virginia (Championship)",
-    "league": "Fútbol Americano NCAA",
-    "fecha-evento": "2025-12-06T20:00:00-05:00",
-    "img": "227fb066-a5cc-4f62-babe-984a28d9bbf2",
-    "nombre": "disney114bce",
-    "status": "20:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Calgary Roughnecks vs. Saskatchewan Rush",
-    "league": "National Lacrosse League",
-    "fecha-evento": "2025-12-06T20:00:00-05:00",
-    "img": "0a020099-fa18-4485-8eda-31786e5f8871",
-    "nombre": "disney0ffa39",
-    "status": "20:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "#5 Iowa State vs. #4 Minnesota (Second Round)",
     "league": "NCAA Women's Volleyball",
     "fecha-evento": "2025-12-06T20:00:00-05:00",
@@ -320,14 +270,17 @@
     "k2": "91bc799c892b3784e066aaa87c41fa35"
   },
   {
-    "title": "#14 Illinois vs. #13 Tennessee",
-    "league": "Básquetbol Masculino NCAA",
-    "fecha-evento": "2025-12-06T20:00:00-05:00",
-    "img": "019a2638-7d07-75fe-ac1d-2aac1ea51f5a",
-    "nombre": "disneyeac4db",
+    "title": "Capitanes de Ciudad de México vs. Rio Grande Valley Vipers",
+    "league": "NBA G League",
+    "fecha-evento": "2025-12-06T20:00:01-05:00",
+    "img": "95bd9bdc-3642-484d-8cb5-695f3a839ede",
+    "nombre": "disney19f512",
     "status": "20:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 150,
+    "play_url": "https://www.disneyplus.com/es-es/play/3c2ac2cd-c863-49e3-a818-3f84eaa183cf",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1765156871~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F07%2FCapitanes_de_Ciudad_de_Mx_20251207_1765062058039%2F~psid=8ba34691-ca94-4838-81ca-e19ddedf5fff~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=df3acb09c9693a7693daf4e382dc9cbf030d700ef13e6491043b446d73cb03e0/clt1/va02/disneyplus/event/2025/12/07/Capitanes_de_Ciudad_de_Mx_20251207_1765062058039/ctr-all-hdri-complete.m3u8?v=1&hash=648b9ae2f8806e892b9f965a1adac9099ffa0989",
+    "k1": "7c2a029daf73434790242e5b4e8289f5",
+    "k2": "647be05a509cd1240cab11276a4a61bc"
   },
   {
     "title": "Florida vs. #2 SMU (Second Round)",
@@ -341,6 +294,58 @@
     "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1765155742~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F07%2FFlorida_vs_2_SMU_Second_R_20251207_1765064209483%2F~psid=266ac02d-8158-48c0-82b1-e25ad539f265~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=b673f0244520f79ba49ed7333516bf3d120fe5a469f4bca0e03a3bfecd634f00/clt1/va02/disneyplus/event/2025/12/07/Florida_vs_2_SMU_Second_R_20251207_1765064209483/ctr-all-hdri-complete.m3u8?v=1&hash=0204d2e7ff49d1148b28395fc9278e14d5fdf2b7",
     "k1": "8e3002c35ea54440bfb665077768393d",
     "k2": "4ce681bad0dd619fb3b17838ea94e7ca"
+  },
+  {
+    "title": "#14 Illinois vs. #13 Tennessee",
+    "league": "Básquetbol Masculino NCAA",
+    "fecha-evento": "2025-12-06T20:00:03-05:00",
+    "img": "019a2638-7d07-75fe-ac1d-2aac1ea51f5a",
+    "nombre": "disneyac2ff1",
+    "status": "20:00",
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/e5607202-1a09-4f45-8d27-02f2c474074a",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1765156916~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F07%2F14_Illinois_vs_13_Tenness_20251207_1765062054025%2F~psid=8adedaa4-266c-4a73-8cc8-8cb74e43f596~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=d89e3dafc2adcd436c1962acb7d0b2ce48f091334f05c9c4265f27ed1d508ea1/clt1/va02/disneyplus/event/2025/12/07/14_Illinois_vs_13_Tenness_20251207_1765062054025/ctr-all-hdri-complete.m3u8?v=1&hash=c99f662c58becdb54289ab03e7bf0accf25a1491",
+    "k1": "5646ee7ac3384e25a05fb172de5f2d30",
+    "k2": "6c1819a27fe169ee2f66c362ae3e1ce9"
+  },
+  {
+    "title": "Calgary Roughnecks vs. Saskatchewan Rush",
+    "league": "National Lacrosse League",
+    "fecha-evento": "2025-12-06T20:00:04-05:00",
+    "img": "0a020099-fa18-4485-8eda-31786e5f8871",
+    "nombre": "disney52c89c",
+    "status": "20:00",
+    "duration": 150,
+    "play_url": "https://www.disneyplus.com/es-es/play/dba92c99-4b93-4efc-97db-80c8a68eba10",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1765156941~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F07%2FCalgary_Roughnecks_vs_Sas_20251207_1765063271643%2F~psid=4d71f26f-101d-4094-9f5f-eff46d25a3b7~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=85dfa4e2abf87018eebd1af3b3d47b1502a9ffc5f7a5d97ccdfc52972eba4e44/clt1/va02/disneyplus/event/2025/12/07/Calgary_Roughnecks_vs_Sas_20251207_1765063271643/ctr-all-hdri-complete.m3u8?v=1&hash=641ddf04ad2d2ad64a2f6d4067a2915e97bc0464",
+    "k1": "84c0360df2514c3a82f11f16905f2338",
+    "k2": "7a8f4e98d10f147c87867a1ac27ebed6"
+  },
+  {
+    "title": "BYU vs. Portland",
+    "league": "Básquet Femenino NCAA",
+    "fecha-evento": "2025-12-06T20:00:13-05:00",
+    "img": "019aa85f-fbd9-7617-bf97-0fd49e9649d7",
+    "nombre": "disney8005bd",
+    "status": "20:00",
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/cde9e2bc-f95f-444c-b8bc-f59fc774b25c",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1765156968~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F07%2FBYU_vs_Portland_20251207_1765062049035%2F~psid=a51bdbf2-a5ff-47bb-b5c1-66f125a6eadd~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=6c052a27d93c91d58366589eaffaa281c0c51362dc5255bf48182eeeb3199d01/clt1/va02/disneyplus/event/2025/12/07/BYU_vs_Portland_20251207_1765062049035/ctr-all-hdri-complete.m3u8?v=1&hash=475c2b3d7b9968cacabca60aea4a2b16734880c5",
+    "k1": "ea8fc629eb49444984c9cb96c29fd7af",
+    "k2": "44dd0b818a69a3c341f8bd85095fd8c8"
+  },
+  {
+    "title": "Kansas State vs. #1 Nebraska (Second Round)",
+    "league": "NCAA Women's Volleyball",
+    "fecha-evento": "2025-12-06T20:00:47-05:00",
+    "img": "019af1e9-9c91-7e60-9ee2-ce5ea16f3bba",
+    "nombre": "disneyb624d8",
+    "status": "20:00",
+    "duration": 119,
+    "play_url": "https://www.disneyplus.com/es-es/play/acb6394d-286a-4d5d-83f6-cc4a58985c15",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1765156993~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F07%2FKansas_State_vs_1_Nebrask_20251207_1765064149455%2F~psid=c133488b-689b-452a-812a-20613b18b285~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=a83a79f04a12bc15c4a1c2c77a45e3b3de2eda47999f08d1c782604ecf52cf79/clt1/va02/disneyplus/event/2025/12/07/Kansas_State_vs_1_Nebrask_20251207_1765064149455/ctr-all-hdri-complete.m3u8?v=1&hash=ec9476c252c71951b13b4ee4c442d211709d4544",
+    "k1": "47fed0066d784063b859c8a5ba3a0673",
+    "k2": "39396a9e29896754430129d032cde3b5"
   },
   {
     "title": "2025 Crown Australian Open (Final Round)",
@@ -608,6 +613,16 @@
     "fecha-evento": "2025-12-07T06:55:00-05:00",
     "img": "019aef1e-c7a1-7f8d-b3f3-e924861d9312",
     "nombre": "disneyff1d70",
+    "status": "06:55",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Leicester City vs. Manchester City",
+    "league": "English Women's Super League",
+    "fecha-evento": "2025-12-07T06:55:00-05:00",
+    "img": "019ae77a-9bea-79ca-ae40-bcc60aad492c",
+    "nombre": "disneya05f99",
     "status": "06:55",
     "duration": 135,
     "play_url": ""
