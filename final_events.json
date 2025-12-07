@@ -20,16 +20,6 @@
     "play_url": "https://www.disneyplus.com/es-es/play/db5c611a-3f5b-4941-9379-3b995477738d"
   },
   {
-    "title": "ESPN Race Hub | GP Abu Dhabi",
-    "league": "Fórmula 1",
-    "fecha-evento": "2025-12-07T06:30:01-05:00",
-    "img": "019ad7cc-ace1-7336-9383-046431877c6f",
-    "nombre": "disneyb9ecd9",
-    "status": "06:30",
-    "duration": 210,
-    "play_url": "https://www.disneyplus.com/es-es/play/c694d6de-4dd2-4a93-b372-879b05dea864"
-  },
-  {
     "title": "Slough Town vs. Macclesfield Town (Round 2)",
     "league": "FA Cup",
     "fecha-evento": "2025-12-07T07:20:08-05:00",
@@ -38,26 +28,6 @@
     "status": "07:20",
     "duration": 130,
     "play_url": "https://www.disneyplus.com/es-es/play/e8f88aeb-15f9-4180-9fe6-ac16adf65736"
-  },
-  {
-    "title": "Cadiz vs. Racing Santander",
-    "league": "Segunda División de España",
-    "fecha-evento": "2025-12-07T07:55:01-05:00",
-    "img": "019aa2e1-1500-7389-84bc-81fffa4da818",
-    "nombre": "disney0ae04c",
-    "status": "07:55",
-    "duration": 125,
-    "play_url": "https://www.disneyplus.com/es-es/play/91b30ca7-5b98-45bd-abe5-42ac89250962"
-  },
-  {
-    "title": "F1 Kids: Abu Dhabi",
-    "league": "Fórmula 1",
-    "fecha-evento": "2025-12-07T07:55:07-05:00",
-    "img": "6c3e77c7-68b0-4fa7-a745-ee84177aadb5",
-    "nombre": "disneya13460",
-    "status": "07:55",
-    "duration": 125,
-    "play_url": "https://www.disneyplus.com/es-es/play/68bc158c-34cb-424f-9732-4fc5e61a6319"
   },
   {
     "title": "Skechers World Champions Cup (Day Three)",
@@ -82,12 +52,12 @@
   {
     "title": "HSBC World Rugby Sevens Series | Capetown | Session 3",
     "league": "World Rugby Sevens Series",
-    "fecha-evento": "2025-12-07T08:15:11-05:00",
+    "fecha-evento": "",
     "img": "019adb52-8bd4-7cf8-8d3e-025cc4209432",
-    "nombre": "disneyc1f7a2",
-    "status": "08:15",
-    "duration": 125,
-    "play_url": "https://www.disneyplus.com/es-es/play/382e0daf-beee-406d-82c4-a65ac2fa5c88"
+    "nombre": "disney07e008",
+    "status": "",
+    "duration": 135,
+    "play_url": ""
   },
   {
     "title": "HSBC World Rugby Sevens Series | Capetown | En español (Super Session)",
@@ -180,24 +150,14 @@
     "play_url": "https://www.disneyplus.com/es-es/play/ffb4960f-30ec-444f-a3e8-d132e89e2fe7"
   },
   {
-    "title": "Germany vs. India (Semifinal)",
-    "league": "Men's FIH Hockey Junior World Cup",
-    "fecha-evento": "2025-12-07T09:30:03-05:00",
-    "img": "019aefe2-f9d9-7c44-9876-c0f39298b39d",
-    "nombre": "disneyadd6cb",
-    "status": "09:30",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/6e96b847-3b1e-45fc-98ca-0c0f7606d357"
-  },
-  {
     "title": "Leganés vs. Cordoba",
     "league": "Segunda División de España",
-    "fecha-evento": "2025-12-07T10:10:00-05:00",
+    "fecha-evento": "2025-12-07T10:09:59-05:00",
     "img": "019aa3a2-962e-7189-ae08-403cb0030e55",
-    "nombre": "disney029b36",
-    "status": "10:10",
-    "duration": 135,
-    "play_url": ""
+    "nombre": "disneyd47546",
+    "status": "10:09",
+    "duration": 125,
+    "play_url": "https://www.disneyplus.com/es-es/play/4f496c9b-33f5-48de-8a15-b9f2c8adfa54"
   },
   {
     "title": "Gateshead vs. Walsall (Round 2)",
@@ -606,6 +566,46 @@
     "img": "019ae0a1-6ab4-7bdc-92d4-681173f6d2f1",
     "nombre": "disney9681d6",
     "status": "16:45",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Texas A&M vs. SMU",
+    "league": "Básquetbol Masculino NCAA",
+    "fecha-evento": "2025-12-07T17:00:00-05:00",
+    "img": "019a8436-22c4-7839-ad7c-ddcc1fc32df2",
+    "nombre": "disneyd74013",
+    "status": "17:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Georgetown vs. #16 North Carolina",
+    "league": "Básquetbol Masculino NCAA",
+    "fecha-evento": "2025-12-07T17:00:00-05:00",
+    "img": "019a2d97-71d2-70ef-a14a-2d2366f1c52d",
+    "nombre": "disneyb9c0d2",
+    "status": "17:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Utah State vs. San Diego",
+    "league": "Básquet Femenino NCAA",
+    "fecha-evento": "2025-12-07T17:00:00-05:00",
+    "img": "019aa860-388e-7d92-b4e0-29504469020b",
+    "nombre": "disney4227bc",
+    "status": "17:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "New York Islanders vs. Florida Panthers",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-12-07T17:00:00-05:00",
+    "img": "dbbc3693-8597-4b63-b2e1-cb50feb76222",
+    "nombre": "disneyeb6044",
+    "status": "17:00",
     "duration": 135,
     "play_url": ""
   }
