@@ -40,36 +40,6 @@
     "play_url": "https://www.disneyplus.com/es-es/play/e8f88aeb-15f9-4180-9fe6-ac16adf65736"
   },
   {
-    "title": "Eintracht Braunschweig vs. Holstein Kiel",
-    "league": "Bundesliga 2 de Alemania",
-    "fecha-evento": "2025-12-07T07:20:21-05:00",
-    "img": "019aa2dd-8cc3-7e23-9492-93d51a385c1e",
-    "nombre": "disney485798",
-    "status": "07:20",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/84e055fc-73fc-4dbc-aaff-a786eea9df04"
-  },
-  {
-    "title": "FIS Men's Nordic Combined World Cup - Trondheim, NOR",
-    "league": "ESPN",
-    "fecha-evento": "2025-12-07T07:45:13-05:00",
-    "img": "2ba9f40e-b243-4737-9cff-a1f9774ac58d",
-    "nombre": "disney7bc4f3",
-    "status": "07:45",
-    "duration": 110,
-    "play_url": "https://www.disneyplus.com/es-es/play/c2689874-c6f0-41ea-a47a-6c1b899d530d"
-  },
-  {
-    "title": "Elche CF vs. Girona FC",
-    "league": "LALIGA",
-    "fecha-evento": "2025-12-07T07:50:00-05:00",
-    "img": "5f1ad933-47ae-4cac-adb9-084e59679510",
-    "nombre": "disney1dcd3c",
-    "status": "07:50",
-    "duration": 125,
-    "play_url": "https://www.disneyplus.com/es-es/play/fae0ea5a-4875-4e30-9bbe-953c0b1998e5"
-  },
-  {
     "title": "Cadiz vs. Racing Santander",
     "league": "Segunda División de España",
     "fecha-evento": "2025-12-07T07:55:01-05:00",
@@ -606,6 +576,36 @@
     "img": "01d105c0-f8d2-46fb-b03a-545d11a093f1",
     "nombre": "disneyf3c444",
     "status": "16:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "#5 LSU vs. New Orleans",
+    "league": "Básquet Femenino NCAA",
+    "fecha-evento": "2025-12-07T16:00:00-05:00",
+    "img": "019a8e7d-f464-7206-8d25-b2c202b8eba9",
+    "nombre": "disney020abb",
+    "status": "16:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "W7s Women's Football Tournament (Final)",
+    "league": "ESPN",
+    "fecha-evento": "2025-12-07T16:25:00-05:00",
+    "img": "25ed5ade-6afb-48ba-83b5-d3d9733d26e7",
+    "nombre": "disney405bb1",
+    "status": "16:25",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Boca Juniors vs. Racing Club",
+    "league": "Liga Profesional de Fútbol",
+    "fecha-evento": "2025-12-07T16:45:00-05:00",
+    "img": "019ae0a1-6ab4-7bdc-92d4-681173f6d2f1",
+    "nombre": "disney9681d6",
+    "status": "16:45",
     "duration": 135,
     "play_url": ""
   }
