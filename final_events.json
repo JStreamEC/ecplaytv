@@ -30,16 +30,6 @@
     "play_url": "https://www.disneyplus.com/es-es/play/56c0ecd4-830e-496b-9052-a5d6e4519f2e"
   },
   {
-    "title": "Chicago Bears vs. Green Bay Packers",
-    "league": "NFL",
-    "fecha-evento": "2025-12-07T16:28:00-05:00",
-    "img": "01d105c0-f8d2-46fb-b03a-545d11a093f1",
-    "nombre": "disney6f6fc0",
-    "status": "16:28",
-    "duration": 182,
-    "play_url": "https://www.disneyplus.com/es-es/play/fe10214b-4fd5-47b4-a12e-247a62bf8490"
-  },
-  {
     "title": "#5 LSU vs. New Orleans",
     "league": "Básquet Femenino NCAA",
     "fecha-evento": "2025-12-07T16:03:49-05:00",
@@ -48,6 +38,16 @@
     "status": "16:03",
     "duration": 116,
     "play_url": "https://www.disneyplus.com/es-es/play/fe34f8cf-c45b-46dd-8646-0e77ce6e1eb3"
+  },
+  {
+    "title": "Chicago Bears vs. Green Bay Packers",
+    "league": "NFL",
+    "fecha-evento": "2025-12-07T16:28:00-05:00",
+    "img": "01d105c0-f8d2-46fb-b03a-545d11a093f1",
+    "nombre": "disney6f6fc0",
+    "status": "16:28",
+    "duration": 182,
+    "play_url": "https://www.disneyplus.com/es-es/play/fe10214b-4fd5-47b4-a12e-247a62bf8490"
   },
   {
     "title": "New York Islanders vs. Florida Panthers",
@@ -90,16 +90,6 @@
     "play_url": "https://www.disneyplus.com/es-es/play/6df307ce-f2cb-4745-9411-c4325db877f4"
   },
   {
-    "title": "Nevada vs. Washington State",
-    "league": "Básquetbol Masculino NCAA",
-    "fecha-evento": "2025-12-07T17:00:00-05:00",
-    "img": "019aa860-7d38-7dd4-b961-65de2ef9ebf4",
-    "nombre": "disney113ff9",
-    "status": "17:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/f4444cd5-a52f-4994-940a-171081b9c718"
-  },
-  {
     "title": "Utah State vs. San Diego",
     "league": "Básquet Femenino NCAA",
     "fecha-evento": "2025-12-07T17:00:00-05:00",
@@ -108,6 +98,16 @@
     "status": "17:00",
     "duration": 120,
     "play_url": "https://www.disneyplus.com/es-es/play/75556780-471f-4d26-897c-9e25c2289d33"
+  },
+  {
+    "title": "Nevada vs. Washington State",
+    "league": "Básquetbol Masculino NCAA",
+    "fecha-evento": "2025-12-07T17:00:00-05:00",
+    "img": "019aa860-7d38-7dd4-b961-65de2ef9ebf4",
+    "nombre": "disney113ff9",
+    "status": "17:00",
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/f4444cd5-a52f-4994-940a-171081b9c718"
   },
   {
     "title": "Texas A&M vs. SMU",
@@ -142,12 +142,12 @@
   {
     "title": "India vs. Gales",
     "league": "Copa del Mundo - Hockey Junior",
-    "fecha-evento": "2025-12-07T18:15:00-05:00",
+    "fecha-evento": "2025-12-07T18:15:18-05:00",
     "img": "019af933-abd7-7db8-97b9-cc8ce3e25311",
-    "nombre": "disney6a6f68",
+    "nombre": "disney0fffab",
     "status": "18:15",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/2bbfe610-0bed-453b-aae5-b341daab7a19"
   },
   {
     "title": "St. Louis Blues vs. Montreal Canadiens",
