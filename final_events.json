@@ -30,16 +30,6 @@
     "play_url": "https://www.disneyplus.com/es-es/play/78ffcf61-cc61-45f1-a893-c74f40ed3847"
   },
   {
-    "title": "Missouri vs. #21 Kansas",
-    "league": "Básquetbol Masculino NCAA",
-    "fecha-evento": "2025-12-07T13:00:01-05:00",
-    "img": "926cdf06-3f53-4949-8ca9-9b676d29374d",
-    "nombre": "disney4cc32d",
-    "status": "13:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/d13d89c4-6f66-4e34-a668-bc46583403c4"
-  },
-  {
     "title": "Indianapolis Colts vs. Jacksonville Jaguars",
     "league": "NFL",
     "fecha-evento": "2025-12-07T13:00:00-05:00",
@@ -68,16 +58,6 @@
     "status": "13:00",
     "duration": 390,
     "play_url": "https://www.disneyplus.com/es-es/play/c9c3c44b-dbfe-4c64-b5dc-4f1fd2c52179"
-  },
-  {
-    "title": "España vs. Irlanda",
-    "league": "Copa del Mundo - Hockey Junior",
-    "fecha-evento": "2025-12-07T13:45:19-05:00",
-    "img": "019af8ff-3308-7df5-9aad-a50a9f4b3d84",
-    "nombre": "disney7266a8",
-    "status": "13:45",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/4f756b56-ba1e-4ca9-a6b8-a6e5d84f7d03"
   },
   {
     "title": "William & Mary vs. American University",
@@ -546,6 +526,26 @@
     "img": "019ae0cd-5939-7e8e-b27c-e6e630fdeb1a",
     "nombre": "disneyaccd7b",
     "status": "14:45",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Wolverhampton Wanderers vs. Manchester United",
+    "league": "Premier League",
+    "fecha-evento": "2025-12-08T14:45:00-05:00",
+    "img": "019ac3f5-a690-7ba8-9937-efb87f8df41a",
+    "nombre": "disney2357ea",
+    "status": "14:45",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Australia vs. China (Cuartos de Final)",
+    "league": "Copa del Mundo - Hockey Junior",
+    "fecha-evento": "2025-12-08T16:00:00-05:00",
+    "img": "019af90d-9dd8-770e-925c-b68e93f0ca5c",
+    "nombre": "disneyf1b007",
+    "status": "16:00",
     "duration": 135,
     "play_url": ""
   }
