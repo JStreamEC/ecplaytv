@@ -20,26 +20,6 @@
     "play_url": "https://www.disneyplus.com/es-es/play/ad29d444-b0a0-4e65-8317-3629e3a6163c"
   },
   {
-    "title": "Boreham Wood FC vs. Newport County (Round 2)",
-    "league": "FA Cup",
-    "fecha-evento": "2025-12-07T09:20:03-05:00",
-    "img": "019ae5f2-570e-75f7-83c7-b173e96eab2c",
-    "nombre": "disney353b47",
-    "status": "09:20",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/ddeaf8c3-e17c-4685-980e-57a8d40fce70"
-  },
-  {
-    "title": "Chelsea vs. Everton",
-    "league": "English Women's Super League",
-    "fecha-evento": "2025-12-07T09:20:18-05:00",
-    "img": "019ad33d-a41c-76b1-9022-35b5eace8b08",
-    "nombre": "disney18a28b",
-    "status": "09:20",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/ffb4960f-30ec-444f-a3e8-d132e89e2fe7"
-  },
-  {
     "title": "Leganés vs. Cordoba",
     "league": "Segunda División de España",
     "fecha-evento": "2025-12-07T10:09:59-05:00",
@@ -70,16 +50,6 @@
     "play_url": "https://www.disneyplus.com/es-es/play/16a4533e-9b9d-4717-8771-5f3cdfe205ae"
   },
   {
-    "title": "Compacto | F1 GP Abu Dhabi | Carrera (30 min)",
-    "league": "Fórmula 1",
-    "fecha-evento": "2025-12-07T11:00:02-05:00",
-    "img": "019af920-c3a9-7832-9fae-18865a65a9b2",
-    "nombre": "disney8e7b90",
-    "status": "11:00",
-    "duration": 30,
-    "play_url": "https://www.disneyplus.com/es-es/play/205ff20d-dd6a-45e5-8988-ff8be1770823"
-  },
-  {
     "title": "Le Havre AC vs. Paris FC",
     "league": "Ligue 1",
     "fecha-evento": "2025-12-07T11:03:10-05:00",
@@ -106,38 +76,38 @@
     "img": "019ac21c-ea3d-7e13-8c01-7b9d97e646c9",
     "nombre": "disney171123",
     "status": "11:20",
-    "duration": 135,
-    "play_url": ""
+    "duration": 125,
+    "play_url": "https://www.disneyplus.com/es-es/play/2f2e5456-e37b-45c9-8434-30ad5a7c0e60"
   },
   {
     "title": "Borussia Dortmund vs. Hoffenheim",
     "league": "Bundesliga",
-    "fecha-evento": "2025-12-07T11:20:00-05:00",
+    "fecha-evento": "2025-12-07T11:20:04-05:00",
     "img": "019ac1ac-fbd0-7b78-ac46-68585871cf5c",
-    "nombre": "disney6949f7",
+    "nombre": "disney5bb774",
     "status": "11:20",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/90599063-67e9-484a-a428-d2264c3ce234"
   },
   {
     "title": "UANL Tigres vs. Club America (Semifinal)",
     "league": "ESPN",
-    "fecha-evento": "2025-12-07T11:25:00-05:00",
+    "fecha-evento": "2025-12-07T11:25:02-05:00",
     "img": "019af896-c3f8-7f93-98ed-85d400bf5390",
-    "nombre": "disney7ac971",
+    "nombre": "disney229941",
     "status": "11:25",
-    "duration": 135,
-    "play_url": ""
+    "duration": 65,
+    "play_url": "https://www.disneyplus.com/es-es/play/b4bc37e4-89a1-4d79-976d-bc3d4a38a994"
   },
   {
     "title": "Nueva Zelanda vs. Austria",
     "league": "Copa del Mundo - Hockey Junior",
-    "fecha-evento": "2025-12-07T11:30:00-05:00",
+    "fecha-evento": "2025-12-07T11:30:08-05:00",
     "img": "019af8fa-d2c4-7038-8474-adabc1178a91",
-    "nombre": "disney775d91",
+    "nombre": "disneya2770b",
     "status": "11:30",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/610f96b6-abd0-4838-b4df-8ae23795f159"
   },
   {
     "title": "La Zeta Kazak vs. La Aguada | Repechaje",
@@ -566,6 +536,16 @@
     "img": "0b736db7-e523-4e28-b000-5a811c959f0d",
     "nombre": "disney378e1c",
     "status": "19:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "UTEP vs. Seattle U",
+    "league": "Básquetbol Masculino NCAA",
+    "fecha-evento": "2025-12-07T20:00:00-05:00",
+    "img": "019aa861-0451-7419-a035-60bf4f8de0eb",
+    "nombre": "disney1ca76a",
+    "status": "20:00",
     "duration": 135,
     "play_url": ""
   }
