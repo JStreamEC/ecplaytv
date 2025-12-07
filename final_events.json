@@ -60,16 +60,6 @@
     "play_url": "https://www.disneyplus.com/es-es/play/c9c3c44b-dbfe-4c64-b5dc-4f1fd2c52179"
   },
   {
-    "title": "William & Mary vs. American University",
-    "league": "Básquet Femenino NCAA",
-    "fecha-evento": "2025-12-07T14:00:00-05:00",
-    "img": "019adc5c-0081-715d-9790-ac551dbb8fbc",
-    "nombre": "disneyd0db2f",
-    "status": "14:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/361539b0-ae0b-445d-9362-4e2899f28373"
-  },
-  {
     "title": "Saint Mary's vs. Davidson",
     "league": "Básquetbol Masculino NCAA",
     "fecha-evento": "2025-12-07T14:00:00-05:00",
@@ -110,16 +100,6 @@
     "play_url": "https://www.disneyplus.com/es-es/play/90991718-9953-433a-bc74-0319f573e986"
   },
   {
-    "title": "W7s Women's Football Tournament (Third Place)",
-    "league": "ESPN",
-    "fecha-evento": "2025-12-07T14:55:00-05:00",
-    "img": "019afa3e-0c08-7df5-ac42-ffd5ad48fc64",
-    "nombre": "disney5e4450",
-    "status": "14:55",
-    "duration": 65,
-    "play_url": "https://www.disneyplus.com/es-es/play/d0c0a3db-54ec-4ec6-b894-4bec2498df12"
-  },
-  {
     "title": "#19 Texas Tech vs. LSU",
     "league": "Básquetbol Masculino NCAA",
     "fecha-evento": "2025-12-07T15:00:00-05:00",
@@ -142,10 +122,10 @@
   {
     "title": "Los Angeles Rams vs. Arizona Cardinals",
     "league": "NFL",
-    "fecha-evento": "2025-12-07T16:00:00-05:00",
+    "fecha-evento": "2025-12-07T16:05:00-05:00",
     "img": "aa6c8aaa-80b0-4193-b30a-a69fd1715d9b",
-    "nombre": "disneye6edbc",
-    "status": "16:00",
+    "nombre": "disney56f822",
+    "status": "16:05",
     "duration": 135,
     "play_url": ""
   },
@@ -172,10 +152,10 @@
   {
     "title": "Chicago Bears vs. Green Bay Packers",
     "league": "NFL",
-    "fecha-evento": "2025-12-07T16:00:00-05:00",
+    "fecha-evento": "2025-12-07T16:05:00-05:00",
     "img": "01d105c0-f8d2-46fb-b03a-545d11a093f1",
-    "nombre": "disneyf3c444",
-    "status": "16:00",
+    "nombre": "disney2da0f2",
+    "status": "16:05",
     "duration": 135,
     "play_url": ""
   },
@@ -546,6 +526,26 @@
     "img": "019af90d-9dd8-770e-925c-b68e93f0ca5c",
     "nombre": "disneyf1b007",
     "status": "16:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Germany vs. Argentina (Cuartos de Final)",
+    "league": "Copa del Mundo - Hockey Junior",
+    "fecha-evento": "2025-12-08T18:15:00-05:00",
+    "img": "019af90d-bc3d-7bad-94fb-1f78d6a91568",
+    "nombre": "disneyb58bde",
+    "status": "18:15",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "NCAA Women's Soccer Tournament (Championship)",
+    "league": "Fútbol Femenino NCAA",
+    "fecha-evento": "2025-12-08T19:00:00-05:00",
+    "img": "9b6ec07d-3eb7-4b39-b77e-d7b852a50eab",
+    "nombre": "disney1c15c8",
+    "status": "19:00",
     "duration": 135,
     "play_url": ""
   }
