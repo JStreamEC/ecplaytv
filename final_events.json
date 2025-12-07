@@ -30,16 +30,6 @@
     "play_url": "https://www.disneyplus.com/es-es/play/22e28a9b-b97d-4b9a-8519-e244f319b246"
   },
   {
-    "title": "FIS Freestyle Ski - Ruka, FIN (Moguls)",
-    "league": "ESPN",
-    "fecha-evento": "2025-12-07T10:20:08-05:00",
-    "img": "2ba9f40e-b243-4737-9cff-a1f9774ac58d",
-    "nombre": "disney4bb222",
-    "status": "10:20",
-    "duration": 100,
-    "play_url": "https://www.disneyplus.com/es-es/play/16a4533e-9b9d-4717-8771-5f3cdfe205ae"
-  },
-  {
     "title": "Le Havre AC vs. Paris FC",
     "league": "Ligue 1",
     "fecha-evento": "2025-12-07T11:03:10-05:00",
@@ -100,16 +90,6 @@
     "play_url": "https://www.disneyplus.com/es-es/play/610f96b6-abd0-4838-b4df-8ae23795f159"
   },
   {
-    "title": "Lazio vs. Bologna",
-    "league": "Seria A",
-    "fecha-evento": "2025-12-07T11:50:02-05:00",
-    "img": "019aefe2-ed10-7b6c-9300-60e209db03a3",
-    "nombre": "disney7970c6",
-    "status": "11:50",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/c70aa90b-4671-4ffa-b803-a5486b8d7dd1"
-  },
-  {
     "title": "La Zeta Kazak vs. La Aguada | Repechaje",
     "league": "Abierto de Palermo",
     "fecha-evento": "2025-12-07T11:50:02-05:00",
@@ -118,6 +98,16 @@
     "status": "11:50",
     "duration": 130,
     "play_url": "https://www.disneyplus.com/es-es/play/4a7f1735-143f-4c7c-932a-cd6028a5cbbd"
+  },
+  {
+    "title": "Lazio vs. Bologna",
+    "league": "Seria A",
+    "fecha-evento": "2025-12-07T11:50:02-05:00",
+    "img": "019aefe2-ed10-7b6c-9300-60e209db03a3",
+    "nombre": "disney7970c6",
+    "status": "11:50",
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/c70aa90b-4671-4ffa-b803-a5486b8d7dd1"
   },
   {
     "title": "Goztepe vs. Trabzonspor",
@@ -146,8 +136,8 @@
     "img": "5f1ad933-47ae-4cac-adb9-084e59679510",
     "nombre": "disney979f07",
     "status": "12:20",
-    "duration": 135,
-    "play_url": ""
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/c4109827-b5d7-4035-bb14-8934ebc8268b"
   },
   {
     "title": "SD Eibar vs. Cultural Leonesa",
@@ -545,6 +535,16 @@
     "fecha-evento": "2025-12-07T20:00:00-05:00",
     "img": "06d303c8-e988-467b-9799-9402e1a82731",
     "nombre": "disneybd54f7",
+    "status": "20:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Houston Texans vs. Kansas City Chiefs",
+    "league": "NFL",
+    "fecha-evento": "2025-12-07T20:00:00-05:00",
+    "img": "019a2dad-9071-7ff9-8e66-6caf25a99e23",
+    "nombre": "disney13c3fc",
     "status": "20:00",
     "duration": 135,
     "play_url": ""
