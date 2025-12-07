@@ -10,16 +10,6 @@
     "play_url": ""
   },
   {
-    "title": "Colorado Avalanche vs. Philadelphia Flyers",
-    "league": "National Hockey League",
-    "fecha-evento": "2025-12-07T13:00:19-05:00",
-    "img": "c35eaea2-6218-46bb-b495-5345343cf74c",
-    "nombre": "disney4debc4",
-    "status": "13:00",
-    "duration": 210,
-    "play_url": "https://www.disneyplus.com/es-es/play/b3ba555d-6435-4c8b-88a5-96a9eebf3241"
-  },
-  {
     "title": "2025 World Champions Cup (Day Three)",
     "league": "World Champions Cup",
     "fecha-evento": "2025-12-07T13:00:00-05:00",
@@ -28,16 +18,6 @@
     "status": "13:00",
     "duration": 240,
     "play_url": "https://www.disneyplus.com/es-es/play/78ffcf61-cc61-45f1-a893-c74f40ed3847"
-  },
-  {
-    "title": "Indianapolis Colts vs. Jacksonville Jaguars",
-    "league": "NFL",
-    "fecha-evento": "2025-12-07T13:00:00-05:00",
-    "img": "019abd06-b2e4-73b8-bea8-c7e7f2545976",
-    "nombre": "disney6ded98",
-    "status": "13:00",
-    "duration": 180,
-    "play_url": "https://www.disneyplus.com/es-es/play/4f0a1beb-bd91-4f90-a5aa-21508f259719"
   },
   {
     "title": "Pittsburgh Steelers vs. Baltimore Ravens",
@@ -122,12 +102,12 @@
   {
     "title": "Los Angeles Rams vs. Arizona Cardinals",
     "league": "NFL",
-    "fecha-evento": "2025-12-07T16:05:00-05:00",
+    "fecha-evento": "2025-12-07T16:17:00-05:00",
     "img": "aa6c8aaa-80b0-4193-b30a-a69fd1715d9b",
-    "nombre": "disney56f822",
-    "status": "16:05",
-    "duration": 135,
-    "play_url": ""
+    "nombre": "disney931311",
+    "status": "16:17",
+    "duration": 193,
+    "play_url": "https://www.disneyplus.com/es-es/play/56c0ecd4-830e-496b-9052-a5d6e4519f2e"
   },
   {
     "title": "Chile vs. Zimbabue",
@@ -136,8 +116,8 @@
     "img": "019af933-d425-78da-b8cb-76691d710994",
     "nombre": "disney778654",
     "status": "16:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/badfbb3a-dd63-4060-b7e5-0b2a37dac3e6"
   },
   {
     "title": "Alaska-Anchorage vs. Oregon State",
@@ -146,28 +126,28 @@
     "img": "019ae5b4-d040-7080-9e8c-344051f99cd0",
     "nombre": "disneyde4f44",
     "status": "16:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/c121b6d9-c171-4d1d-9b1e-9eb43e4024e5"
   },
   {
     "title": "Chicago Bears vs. Green Bay Packers",
     "league": "NFL",
-    "fecha-evento": "2025-12-07T16:05:00-05:00",
+    "fecha-evento": "2025-12-07T16:25:00-05:00",
     "img": "01d105c0-f8d2-46fb-b03a-545d11a093f1",
-    "nombre": "disney2da0f2",
-    "status": "16:05",
+    "nombre": "disney57c771",
+    "status": "16:25",
     "duration": 135,
     "play_url": ""
   },
   {
     "title": "#5 LSU vs. New Orleans",
     "league": "Básquet Femenino NCAA",
-    "fecha-evento": "2025-12-07T16:00:00-05:00",
+    "fecha-evento": "2025-12-07T16:03:49-05:00",
     "img": "019a8e7d-f464-7206-8d25-b2c202b8eba9",
-    "nombre": "disney020abb",
-    "status": "16:00",
-    "duration": 135,
-    "play_url": ""
+    "nombre": "disneybb8f4a",
+    "status": "16:03",
+    "duration": 116,
+    "play_url": "https://www.disneyplus.com/es-es/play/fe34f8cf-c45b-46dd-8646-0e77ce6e1eb3"
   },
   {
     "title": "W7s Women's Football Tournament (Final)",
@@ -546,6 +526,26 @@
     "img": "9b6ec07d-3eb7-4b39-b77e-d7b852a50eab",
     "nombre": "disney1c15c8",
     "status": "19:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Tampa Bay Lightning vs. Toronto Maple Leafs",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-12-08T19:30:00-05:00",
+    "img": "e58d9619-3164-40f9-9017-bfd0ba68c380",
+    "nombre": "disney041f3a",
+    "status": "19:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Philadelphia Eagles vs. Los Angeles Chargers",
+    "league": "NFL",
+    "fecha-evento": "2025-12-08T20:00:00-05:00",
+    "img": "2f8dac56-9166-413e-b8d7-8fa2ee53914e",
+    "nombre": "disney82e8d5",
+    "status": "20:00",
     "duration": 135,
     "play_url": ""
   }
