@@ -30,16 +30,6 @@
     "play_url": "https://www.disneyplus.com/es-es/play/c694d6de-4dd2-4a93-b372-879b05dea864"
   },
   {
-    "title": "Leicester City vs. Manchester City",
-    "league": "English Women's Super League",
-    "fecha-evento": "2025-12-07T06:50:13-05:00",
-    "img": "019ae77a-9bea-79ca-ae40-bcc60aad492c",
-    "nombre": "disney3d6d9e",
-    "status": "06:50",
-    "duration": 135,
-    "play_url": "https://www.disneyplus.com/es-es/play/ee2a7954-c500-4461-8f1b-833283e3f8c4"
-  },
-  {
     "title": "Manchester United vs. West Ham",
     "league": "English Women's Super League",
     "fecha-evento": "2025-12-07T07:05:12-05:00",
@@ -48,16 +38,6 @@
     "status": "07:05",
     "duration": 120,
     "play_url": "https://www.disneyplus.com/es-es/play/15f49d40-223f-4a54-8691-bdf55ed5aa72"
-  },
-  {
-    "title": "Uruguay vs. Sudáfrica",
-    "league": "Copa del Mundo - Hockey Junior",
-    "fecha-evento": "2025-12-07T07:00:17-05:00",
-    "img": "019af8fa-8b03-7d57-b859-993e3eb21d28",
-    "nombre": "disney1f9b49",
-    "status": "07:00",
-    "duration": 125,
-    "play_url": "https://www.disneyplus.com/es-es/play/e338d70e-f631-4db8-8386-f9ba1ef93dd4"
   },
   {
     "title": "Slough Town vs. Macclesfield Town (Round 2)",
@@ -252,12 +232,12 @@
   {
     "title": "Japan vs. Corea",
     "league": "Copa del Mundo - Hockey Junior",
-    "fecha-evento": "2025-12-07T09:15:00-05:00",
+    "fecha-evento": "2025-12-07T09:15:18-05:00",
     "img": "019af8fa-9bec-7766-9d36-bc968249fa2a",
-    "nombre": "disneye20f88",
+    "nombre": "disney665d85",
     "status": "09:15",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/38781bd6-cd67-49cb-8fd0-6b9b49c44b3a"
   },
   {
     "title": "Hamburger SV vs. Werder Bremen",
@@ -266,8 +246,8 @@
     "img": "019aa14a-78a0-7808-8ab6-25560054a9ce",
     "nombre": "disneyc8aafc",
     "status": "09:20",
-    "duration": 135,
-    "play_url": ""
+    "duration": 125,
+    "play_url": "https://www.disneyplus.com/es-es/play/ad29d444-b0a0-4e65-8317-3629e3a6163c"
   },
   {
     "title": "Boreham Wood FC vs. Newport County (Round 2)",
@@ -333,7 +313,7 @@
     "title": "Compacto | F1 GP Abu Dhabi | Carrera (3 min)",
     "league": "Fórmula 1",
     "fecha-evento": "2025-12-07T10:55:00-05:00",
-    "img": "32b10095-0c9b-4020-9b25-5a26f29a0e4b",
+    "img": "019af920-ad9a-756a-852c-85d619eca672",
     "nombre": "disney2667e7",
     "status": "10:55",
     "duration": 135,
@@ -343,7 +323,7 @@
     "title": "Compacto | F1 GP Abu Dhabi | Carrera (30 min)",
     "league": "Fórmula 1",
     "fecha-evento": "2025-12-07T11:00:00-05:00",
-    "img": "cb4dd526-8ecf-4b33-84af-2a6fce315492",
+    "img": "019af920-c562-70fe-a096-abd48e99827a",
     "nombre": "disney4a7c3f",
     "status": "11:00",
     "duration": 135,
@@ -616,6 +596,26 @@
     "img": "019abd3e-ae8f-74e0-9aa6-1da1455daffc",
     "nombre": "disney593ec6",
     "status": "14:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Lorient vs. Lyon",
+    "league": "Ligue 1",
+    "fecha-evento": "2025-12-07T14:40:00-05:00",
+    "img": "019ac1af-6471-70e7-9457-ddf64839cd17",
+    "nombre": "disney86a157",
+    "status": "14:40",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "W7s Women's Football Tournament (Third Place)",
+    "league": "ESPN",
+    "fecha-evento": "2025-12-07T14:55:00-05:00",
+    "img": "25ed5ade-6afb-48ba-83b5-d3d9733d26e7",
+    "nombre": "disney5e4450",
+    "status": "14:55",
     "duration": 135,
     "play_url": ""
   }
