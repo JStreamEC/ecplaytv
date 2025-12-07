@@ -49,19 +49,6 @@
     "k2": "d0f1b3695849ed6fac8adda0c0f35e8a"
   },
   {
-    "title": "#6 TCU vs. #3 Texas A&M (Second Round)",
-    "league": "NCAA Women's Volleyball",
-    "fecha-evento": "2025-12-06T20:00:00-05:00",
-    "img": "019af1e9-76ec-7040-9b6d-0b26efc8f829",
-    "nombre": "disney672070",
-    "status": "20:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/cab62890-25f2-4f39-8d8b-a4cb277d2d59",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1765155672~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F07%2F6_TCU_vs_3_Texas_AM_Secon_20251207_1765064209511%2F~psid=b3a9cb11-f31a-41db-a163-0cd68a40a2ba~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=370e2db25b77834e1989cb87eacd438c00611128e2a088f8507af2d993d187c0/clt1/va02/disneyplus/event/2025/12/07/6_TCU_vs_3_Texas_AM_Secon_20251207_1765064209511/ctr-all-hdri-complete.m3u8?v=1&hash=7cdb22e12af716041074bb650f46638b076b7aef",
-    "k1": "4e2c89da5bb74949b29d7fc7c00e5ef8",
-    "k2": "9d245fc35ab410c50fa91f04422f5f89"
-  },
-  {
     "title": "2025 Crown Australian Open (Final Round)",
     "league": "DP World Tour",
     "fecha-evento": "2025-12-06T20:30:00-05:00",
@@ -125,19 +112,6 @@
     "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1765160474~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F07%2FArkansas_State_vs_Little__20251207_1765065647040%2F~psid=824e49f4-5758-421e-87c2-b1c2f249e682~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=338ef1b627c019bb2f05625aad458691486f7926f75ae75e6fc034d9d5a42205/clt1/va02/disneyplus/event/2025/12/07/Arkansas_State_vs_Little__20251207_1765065647040/ctr-all-hdri-complete.m3u8?v=1&hash=03b6e9c4e12eb4cb15a639360803a3542b78f108",
     "k1": "bce4ad041dc5427fad456995485357aa",
     "k2": "958d59fb85b62337e26fc7490bf51b4e"
-  },
-  {
-    "title": "Arizona vs. #2 Stanford (Second Round)",
-    "league": "NCAA Women's Volleyball",
-    "fecha-evento": "2025-12-06T21:12:50-05:00",
-    "img": "5ac99317-b581-4d35-b4eb-4a9b28a36316",
-    "nombre": "disneye303ff",
-    "status": "21:12",
-    "duration": 107,
-    "play_url": "https://www.disneyplus.com/es-es/play/9be67615-0719-49c1-bae7-33e6490310ba",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1765160544~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F07%2FArizona_vs_2_Stanford_Sec_20251207_1765068611635%2F~psid=c093142f-8e45-47b1-ab3e-1fccf0d09e67~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=0bd50c7d5265c3722beb59af8430b1583b14eb1c3f6568e1a47db9354cc8293d/clt1/va02/disneyplus/event/2025/12/07/Arizona_vs_2_Stanford_Sec_20251207_1765068611635/ctr-all-hdri-complete.m3u8?v=1&hash=3cdba4005dc6bdfec8db1751da415cb7a775fe9a",
-    "k1": "a24dc34203054a5c96ab1cdea140e3c8",
-    "k2": "c8b0e6e1696eb21e413a438894505a1b"
   },
   {
     "title": "Minnesota Wild vs. Vancouver Canucks",
@@ -631,6 +605,26 @@
     "img": "019ae5f6-eae0-70f5-80c9-dc4cd018d674",
     "nombre": "disney1326ee",
     "status": "10:25",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "FIS Freestyle Ski - Ruka, FIN (Moguls)",
+    "league": "ESPN",
+    "fecha-evento": "2025-12-07T10:30:00-05:00",
+    "img": "2ba9f40e-b243-4737-9cff-a1f9774ac58d",
+    "nombre": "disneya2d220",
+    "status": "10:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Compacto | F1 GP Abu Dhabi | Carrera (3 min)",
+    "league": "Fórmula 1",
+    "fecha-evento": "2025-12-07T10:55:00-05:00",
+    "img": "32b10095-0c9b-4020-9b25-5a26f29a0e4b",
+    "nombre": "disney2667e7",
+    "status": "10:55",
     "duration": 135,
     "play_url": ""
   }
