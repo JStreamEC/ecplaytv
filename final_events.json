@@ -20,16 +20,6 @@
     "play_url": "https://www.disneyplus.com/es-es/play/78ffcf61-cc61-45f1-a893-c74f40ed3847"
   },
   {
-    "title": "Pittsburgh Steelers vs. Baltimore Ravens",
-    "league": "NFL",
-    "fecha-evento": "2025-12-07T13:00:00-05:00",
-    "img": "019ab99f-c37d-7ddf-90e8-711b5532ec2c",
-    "nombre": "disneyf9ade9",
-    "status": "13:00",
-    "duration": 180,
-    "play_url": "https://www.disneyplus.com/es-es/play/6c51b62b-ee0f-4313-9f65-3cffe5c9dcf8"
-  },
-  {
     "title": "NFL Redzone",
     "league": "NFL",
     "fecha-evento": "2025-12-07T13:00:00-05:00",
@@ -38,16 +28,6 @@
     "status": "13:00",
     "duration": 390,
     "play_url": "https://www.disneyplus.com/es-es/play/c9c3c44b-dbfe-4c64-b5dc-4f1fd2c52179"
-  },
-  {
-    "title": "Saint Mary's vs. Davidson",
-    "league": "Básquetbol Masculino NCAA",
-    "fecha-evento": "2025-12-07T14:00:00-05:00",
-    "img": "019ab75e-5235-72af-b5d0-a3515a5c9b09",
-    "nombre": "disney3da27c",
-    "status": "14:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/2272bb91-92e7-4528-89df-fc650eeec617"
   },
   {
     "title": "Napoli vs. Juventus",
@@ -90,16 +70,6 @@
     "play_url": "https://www.disneyplus.com/es-es/play/4c998505-f15d-4716-a9a5-8310d592677c"
   },
   {
-    "title": "Audi FIS Ski World Cup - Beaver Creek, USA (Giant Slalom)",
-    "league": "ESPN",
-    "fecha-evento": "2025-12-07T15:00:00-05:00",
-    "img": "2ba9f40e-b243-4737-9cff-a1f9774ac58d",
-    "nombre": "disneyec85de",
-    "status": "15:00",
-    "duration": 90,
-    "play_url": "https://www.disneyplus.com/es-es/play/dac3f10a-d0e2-4887-a468-909978a51380"
-  },
-  {
     "title": "Los Angeles Rams vs. Arizona Cardinals",
     "league": "NFL",
     "fecha-evento": "2025-12-07T16:17:00-05:00",
@@ -132,12 +102,12 @@
   {
     "title": "Chicago Bears vs. Green Bay Packers",
     "league": "NFL",
-    "fecha-evento": "2025-12-07T16:25:00-05:00",
+    "fecha-evento": "2025-12-07T16:28:00-05:00",
     "img": "01d105c0-f8d2-46fb-b03a-545d11a093f1",
-    "nombre": "disney57c771",
-    "status": "16:25",
-    "duration": 135,
-    "play_url": ""
+    "nombre": "disney6f6fc0",
+    "status": "16:28",
+    "duration": 182,
+    "play_url": "https://www.disneyplus.com/es-es/play/fe10214b-4fd5-47b4-a12e-247a62bf8490"
   },
   {
     "title": "#5 LSU vs. New Orleans",
@@ -156,8 +126,8 @@
     "img": "019afa39-be71-7dc1-b150-076e3fa4c866",
     "nombre": "disney405bb1",
     "status": "16:25",
-    "duration": 135,
-    "play_url": ""
+    "duration": 65,
+    "play_url": "https://www.disneyplus.com/es-es/play/47458f92-12a4-46da-aac1-2fc2d1077dfe"
   },
   {
     "title": "Boca Juniors vs. Racing Club",
@@ -546,6 +516,36 @@
     "img": "2f8dac56-9166-413e-b8d7-8fa2ee53914e",
     "nombre": "disney82e8d5",
     "status": "20:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Monsters Funday Football | Philadelphia Eagles at Los Angeles Chargers",
+    "league": "NFL",
+    "fecha-evento": "2025-12-08T20:00:00-05:00",
+    "img": "019ae072-14b7-7a3f-9a49-871ace2d0273",
+    "nombre": "disney7501fa",
+    "status": "20:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Buffalo Sabres vs. Calgary Flames",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-12-08T21:00:00-05:00",
+    "img": "339d1a28-a3af-4371-8807-ef84dd8876a0",
+    "nombre": "disney0726b1",
+    "status": "21:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Austin Spurs vs. Capitanes de Ciudad de México",
+    "league": "NBA G League",
+    "fecha-evento": "2025-12-08T21:00:00-05:00",
+    "img": "c4fec5aa-c8d6-41d1-bcac-33307c9d3383",
+    "nombre": "disney5de111",
+    "status": "21:00",
     "duration": 135,
     "play_url": ""
   }
