@@ -20,16 +20,6 @@
     "play_url": "https://www.disneyplus.com/es-es/play/c9c3c44b-dbfe-4c64-b5dc-4f1fd2c52179"
   },
   {
-    "title": "La Natividad-La Dolfina vs. Ellerstina-I. Chapaleufú Vista | Final",
-    "league": "Abierto de Palermo",
-    "fecha-evento": "2025-12-07T14:30:02-05:00",
-    "img": "019af9d5-af51-781f-b7e6-7de2fac6dc2b",
-    "nombre": "disney485566",
-    "status": "14:30",
-    "duration": 150,
-    "play_url": "https://www.disneyplus.com/es-es/play/3c7bae17-5e34-47f7-a17d-ce1ba3ec95cd"
-  },
-  {
     "title": "Los Angeles Rams vs. Arizona Cardinals",
     "league": "NFL",
     "fecha-evento": "2025-12-07T16:17:00-05:00",
@@ -38,16 +28,6 @@
     "status": "16:17",
     "duration": 193,
     "play_url": "https://www.disneyplus.com/es-es/play/56c0ecd4-830e-496b-9052-a5d6e4519f2e"
-  },
-  {
-    "title": "Alaska-Anchorage vs. Oregon State",
-    "league": "Básquet Femenino NCAA",
-    "fecha-evento": "2025-12-07T16:00:00-05:00",
-    "img": "019ae5b4-d040-7080-9e8c-344051f99cd0",
-    "nombre": "disneyde4f44",
-    "status": "16:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/c121b6d9-c171-4d1d-9b1e-9eb43e4024e5"
   },
   {
     "title": "Chicago Bears vs. Green Bay Packers",
@@ -68,26 +48,6 @@
     "status": "16:03",
     "duration": 116,
     "play_url": "https://www.disneyplus.com/es-es/play/fe34f8cf-c45b-46dd-8646-0e77ce6e1eb3"
-  },
-  {
-    "title": "Chile vs. Zimbabue",
-    "league": "Copa del Mundo - Hockey Junior",
-    "fecha-evento": "2025-12-07T16:00:00-05:00",
-    "img": "019af933-d425-78da-b8cb-76691d710994",
-    "nombre": "disney778654",
-    "status": "16:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/badfbb3a-dd63-4060-b7e5-0b2a37dac3e6"
-  },
-  {
-    "title": "W7s Women's Football Tournament (Final)",
-    "league": "ESPN",
-    "fecha-evento": "2025-12-07T16:25:00-05:00",
-    "img": "019afa39-be71-7dc1-b150-076e3fa4c866",
-    "nombre": "disney405bb1",
-    "status": "16:25",
-    "duration": 65,
-    "play_url": "https://www.disneyplus.com/es-es/play/47458f92-12a4-46da-aac1-2fc2d1077dfe"
   },
   {
     "title": "New York Islanders vs. Florida Panthers",
@@ -166,8 +126,8 @@
     "img": "7d5db25b-7807-4265-98ff-c5efa3da8c56",
     "nombre": "disneybf5ca5",
     "status": "18:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 210,
+    "play_url": "https://www.disneyplus.com/es-es/play/773c8dc5-70ca-48ea-a3d1-f81ac1647ac8"
   },
   {
     "title": "UCLA vs. USC (Championship)",
@@ -176,8 +136,8 @@
     "img": "78b13d22-e497-45a5-ba4a-23f0ed36de3d",
     "nombre": "disney22ec02",
     "status": "18:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 90,
+    "play_url": "https://www.disneyplus.com/es-es/play/cf2bd959-8906-42a5-aa4c-cd5a193c99b5"
   },
   {
     "title": "India vs. Gales",
@@ -526,6 +486,26 @@
     "img": "cf0e3ec6-63db-4778-a566-aff8fe60181b",
     "nombre": "disneya4b927",
     "status": "22:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Detroit Red Wings vs. Vancouver Canucks",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-12-08T22:00:00-05:00",
+    "img": "95a0c7ff-b352-4baa-b2c0-10cbc736fb9a",
+    "nombre": "disneyf733c3",
+    "status": "22:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Junior World Cup",
+    "league": "Men's FIH Hockey Junior World Cup",
+    "fecha-evento": "2025-12-09T02:00:00-05:00",
+    "img": "019ab471-2108-7ff3-9ef0-e88bd875c93f",
+    "nombre": "disney58133c",
+    "status": "02:00",
     "duration": 135,
     "play_url": ""
   }
