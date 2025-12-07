@@ -10,24 +10,14 @@
     "play_url": ""
   },
   {
-    "title": "Lazio vs. Bologna",
-    "league": "Seria A",
-    "fecha-evento": "2025-12-07T11:50:02-05:00",
-    "img": "019aefe2-ed10-7b6c-9300-60e209db03a3",
-    "nombre": "disney7970c6",
-    "status": "11:50",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/c70aa90b-4671-4ffa-b803-a5486b8d7dd1"
-  },
-  {
     "title": "Goztepe vs. Trabzonspor",
     "league": "Super Lig de Turquía",
-    "fecha-evento": "2025-12-07T11:56:57-05:00",
+    "fecha-evento": "",
     "img": "019aa722-71eb-7859-8194-8e9082673e4a",
-    "nombre": "disney67989d",
-    "status": "11:56",
-    "duration": 123,
-    "play_url": "https://www.disneyplus.com/es-es/play/b6830708-8f11-4e9b-83ae-10817978618d"
+    "nombre": "disney987a6f",
+    "status": "",
+    "duration": 135,
+    "play_url": ""
   },
   {
     "title": "Espanyol vs. Rayo Vallecano",
@@ -78,16 +68,6 @@
     "status": "13:00",
     "duration": 210,
     "play_url": "https://www.disneyplus.com/es-es/play/b3ba555d-6435-4c8b-88a5-96a9eebf3241"
-  },
-  {
-    "title": "San Diego Wave FC vs. Flamengo (Semifinal)",
-    "league": "ESPN",
-    "fecha-evento": "2025-12-07T12:54:13-05:00",
-    "img": "019af896-d89e-70ae-bc04-88b49a0d9726",
-    "nombre": "disneyc6e392",
-    "status": "12:54",
-    "duration": 66,
-    "play_url": "https://www.disneyplus.com/es-es/play/490b09f8-7fc3-400a-acd8-5a49d5867346"
   },
   {
     "title": "2025 World Champions Cup (Day Three)",
@@ -156,18 +136,8 @@
     "img": "019ab75e-5235-72af-b5d0-a3515a5c9b09",
     "nombre": "disney3da27c",
     "status": "14:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "William & Mary vs. American University",
-    "league": "Básquet Femenino NCAA",
-    "fecha-evento": "2025-12-07T14:00:00-05:00",
-    "img": "019adc5c-0081-715d-9790-ac551dbb8fbc",
-    "nombre": "disneyd0db2f",
-    "status": "14:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/2272bb91-92e7-4528-89df-fc650eeec617"
   },
   {
     "title": "Brackley Town vs. Burton Albion (Round 2)",
@@ -213,7 +183,7 @@
     "title": "W7s Women's Football Tournament (Third Place)",
     "league": "ESPN",
     "fecha-evento": "2025-12-07T14:55:00-05:00",
-    "img": "25ed5ade-6afb-48ba-83b5-d3d9733d26e7",
+    "img": "019afa3e-0c08-7df5-ac42-ffd5ad48fc64",
     "nombre": "disney5e4450",
     "status": "14:55",
     "duration": 135,
@@ -546,6 +516,36 @@
     "img": "019af946-b418-7493-a89e-f3dbb1af2062",
     "nombre": "disneyb4e980",
     "status": "09:15",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Netherlands vs. Inglaterra (Cuartos de Final)",
+    "league": "Copa del Mundo - Hockey Junior",
+    "fecha-evento": "2025-12-08T11:30:00-05:00",
+    "img": "019af90d-9dc6-74cd-a402-af0486960096",
+    "nombre": "disney9306c7",
+    "status": "11:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Udinese vs. Genoa",
+    "league": "Seria A",
+    "fecha-evento": "2025-12-08T11:50:00-05:00",
+    "img": "019abd7d-20a0-7635-a3ca-a5f67e877cfc",
+    "nombre": "disneydfe5af",
+    "status": "11:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Besiktas vs. Gaziantep (Fecha #15)",
+    "league": "Super Lig de Turquía",
+    "fecha-evento": "2025-12-08T11:50:00-05:00",
+    "img": "019abd2f-3fab-7fab-abea-2f6acadad3d4",
+    "nombre": "disney62b107",
+    "status": "11:50",
     "duration": 135,
     "play_url": ""
   }
