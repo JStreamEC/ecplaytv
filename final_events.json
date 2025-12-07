@@ -88,19 +88,6 @@
     "k2": "310793f233da27defe48a970b3bb950a"
   },
   {
-    "title": "Arkansas State vs. Little Rock",
-    "league": "Básquetbol Masculino NCAA",
-    "fecha-evento": "2025-12-06T21:00:00-05:00",
-    "img": "33ee67d9-8fc1-4621-a295-748a4c178e0b",
-    "nombre": "disney78b61c",
-    "status": "21:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/807658ef-ba44-40a5-b413-2e5a6426ff40",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1765160474~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F07%2FArkansas_State_vs_Little__20251207_1765065647040%2F~psid=824e49f4-5758-421e-87c2-b1c2f249e682~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=338ef1b627c019bb2f05625aad458691486f7926f75ae75e6fc034d9d5a42205/clt1/va02/disneyplus/event/2025/12/07/Arkansas_State_vs_Little__20251207_1765065647040/ctr-all-hdri-complete.m3u8?v=1&hash=03b6e9c4e12eb4cb15a639360803a3542b78f108",
-    "k1": "bce4ad041dc5427fad456995485357aa",
-    "k2": "958d59fb85b62337e26fc7490bf51b4e"
-  },
-  {
     "title": "Minnesota Wild vs. Vancouver Canucks",
     "league": "National Hockey League",
     "fecha-evento": "2025-12-06T22:00:00-05:00",
@@ -622,6 +609,16 @@
     "img": "cb4dd526-8ecf-4b33-84af-2a6fce315492",
     "nombre": "disney4a7c3f",
     "status": "11:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Le Havre AC vs. Paris FC",
+    "league": "Ligue 1",
+    "fecha-evento": "2025-12-07T11:10:00-05:00",
+    "img": "019aa181-f6da-71f1-b101-b67c2e6f931f",
+    "nombre": "disney501af7",
+    "status": "11:10",
     "duration": 135,
     "play_url": ""
   }
