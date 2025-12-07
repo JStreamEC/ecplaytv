@@ -10,16 +10,6 @@
     "play_url": ""
   },
   {
-    "title": "Deportivo La Coruña vs. Castellón",
-    "league": "Segunda División de España",
-    "fecha-evento": "2025-12-07T12:25:05-05:00",
-    "img": "019aa3b6-46fb-7878-91f3-df4a7f4c50d8",
-    "nombre": "disneya74626",
-    "status": "12:25",
-    "duration": 125,
-    "play_url": "https://www.disneyplus.com/es-es/play/894fb102-64cb-43cc-9e5a-c23443797bf6"
-  },
-  {
     "title": "Colorado Avalanche vs. Philadelphia Flyers",
     "league": "National Hockey League",
     "fecha-evento": "2025-12-07T13:00:19-05:00",
@@ -110,16 +100,6 @@
     "play_url": "https://www.disneyplus.com/es-es/play/2272bb91-92e7-4528-89df-fc650eeec617"
   },
   {
-    "title": "La Natividad-La Dolfina vs. Ellerstina-I. Chapaleufú Vista | Final",
-    "league": "Abierto de Palermo",
-    "fecha-evento": "2025-12-07T14:30:02-05:00",
-    "img": "019af9d5-af51-781f-b7e6-7de2fac6dc2b",
-    "nombre": "disney485566",
-    "status": "14:30",
-    "duration": 150,
-    "play_url": "https://www.disneyplus.com/es-es/play/3c7bae17-5e34-47f7-a17d-ce1ba3ec95cd"
-  },
-  {
     "title": "Napoli vs. Juventus",
     "league": "Seria A",
     "fecha-evento": "2025-12-07T14:30:00-05:00",
@@ -128,6 +108,16 @@
     "status": "14:30",
     "duration": 135,
     "play_url": "https://www.disneyplus.com/es-es/play/8e2d8f0b-80ba-464b-a6b9-475469da5529"
+  },
+  {
+    "title": "La Natividad-La Dolfina vs. Ellerstina-I. Chapaleufú Vista | Final",
+    "league": "Abierto de Palermo",
+    "fecha-evento": "2025-12-07T14:30:02-05:00",
+    "img": "019af9d5-af51-781f-b7e6-7de2fac6dc2b",
+    "nombre": "disney485566",
+    "status": "14:30",
+    "duration": 150,
+    "play_url": "https://www.disneyplus.com/es-es/play/3c7bae17-5e34-47f7-a17d-ce1ba3ec95cd"
   },
   {
     "title": "Lorient vs. Lyon",
@@ -146,8 +136,8 @@
     "img": "019afa3e-0c08-7df5-ac42-ffd5ad48fc64",
     "nombre": "disney5e4450",
     "status": "14:55",
-    "duration": 135,
-    "play_url": ""
+    "duration": 65,
+    "play_url": "https://www.disneyplus.com/es-es/play/d0c0a3db-54ec-4ec6-b894-4bec2498df12"
   },
   {
     "title": "#19 Texas Tech vs. LSU",
@@ -156,8 +146,8 @@
     "img": "e8186e36-3b12-43a5-83bb-39fd15b9424a",
     "nombre": "disney098cbe",
     "status": "15:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/4c998505-f15d-4716-a9a5-8310d592677c"
   },
   {
     "title": "Audi FIS Ski World Cup - Beaver Creek, USA (Giant Slalom)",
@@ -166,8 +156,8 @@
     "img": "2ba9f40e-b243-4737-9cff-a1f9774ac58d",
     "nombre": "disneyec85de",
     "status": "15:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 90,
+    "play_url": "https://www.disneyplus.com/es-es/play/dac3f10a-d0e2-4887-a468-909978a51380"
   },
   {
     "title": "Los Angeles Rams vs. Arizona Cardinals",
@@ -546,6 +536,16 @@
     "img": "019abd41-d80b-78ab-89d6-e1209169a077",
     "nombre": "disney15ed16",
     "status": "14:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Gimnasia y Esgrima La Plata vs. Estudiantes de La Plata",
+    "league": "Liga Profesional de Fútbol",
+    "fecha-evento": "2025-12-08T14:45:00-05:00",
+    "img": "019ae0cd-5939-7e8e-b27c-e6e630fdeb1a",
+    "nombre": "disneyaccd7b",
+    "status": "14:45",
     "duration": 135,
     "play_url": ""
   }
