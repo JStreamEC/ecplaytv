@@ -88,19 +88,6 @@
     "k2": "310793f233da27defe48a970b3bb950a"
   },
   {
-    "title": "UC Davis vs. Gonzaga",
-    "league": "Básquet Femenino NCAA",
-    "fecha-evento": "2025-12-06T21:00:05-05:00",
-    "img": "019aa85f-f7c6-71ab-9fd6-a31878a4599a",
-    "nombre": "disney30f7e6",
-    "status": "21:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/9cf9b194-63df-4abc-81f7-73afb23a0ae9",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1765160519~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F07%2FUC_Davis_vs_Gonzaga_20251207_1765065657034%2F~psid=519e38ca-408a-46a9-b2be-287900667e57~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=b5717a1a9f5404ce10946372d723e1b7d30eb75d74e96a1b8089fd76637a6c27/clt1/va02/disneyplus/event/2025/12/07/UC_Davis_vs_Gonzaga_20251207_1765065657034/ctr-all-hdri-complete.m3u8?v=1&hash=6ee266b3b9dc6862c9420db49fd9d3a11fa35c30",
-    "k1": "0f1196e4e2f042a0955e6c98779f9450",
-    "k2": "2d77d4e558af4a5942cc0674ed900d84"
-  },
-  {
     "title": "Arkansas State vs. Little Rock",
     "league": "Básquetbol Masculino NCAA",
     "fecha-evento": "2025-12-06T21:00:00-05:00",
@@ -625,6 +612,16 @@
     "img": "32b10095-0c9b-4020-9b25-5a26f29a0e4b",
     "nombre": "disney2667e7",
     "status": "10:55",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Compacto | F1 GP Abu Dhabi | Carrera (30 min)",
+    "league": "Fórmula 1",
+    "fecha-evento": "2025-12-07T11:00:00-05:00",
+    "img": "cb4dd526-8ecf-4b33-84af-2a6fce315492",
+    "nombre": "disney4a7c3f",
+    "status": "11:00",
     "duration": 135,
     "play_url": ""
   }
