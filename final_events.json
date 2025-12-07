@@ -10,16 +10,6 @@
     "play_url": ""
   },
   {
-    "title": "La Zeta Kazak vs. La Aguada | Repechaje",
-    "league": "Abierto de Palermo",
-    "fecha-evento": "2025-12-07T11:50:02-05:00",
-    "img": "019af03a-f074-794c-ae49-7d1fd1e8bcf8",
-    "nombre": "disney2b4009",
-    "status": "11:50",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/4a7f1735-143f-4c7c-932a-cd6028a5cbbd"
-  },
-  {
     "title": "Lazio vs. Bologna",
     "league": "Seria A",
     "fecha-evento": "2025-12-07T11:50:02-05:00",
@@ -152,12 +142,12 @@
   {
     "title": "España vs. Irlanda",
     "league": "Copa del Mundo - Hockey Junior",
-    "fecha-evento": "2025-12-07T13:45:00-05:00",
+    "fecha-evento": "2025-12-07T13:45:19-05:00",
     "img": "019af8ff-3308-7df5-9aad-a50a9f4b3d84",
-    "nombre": "disney531688",
+    "nombre": "disney7266a8",
     "status": "13:45",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/4f756b56-ba1e-4ca9-a6b8-a6e5d84f7d03"
   },
   {
     "title": "Saint Mary's vs. Davidson",
@@ -546,6 +536,16 @@
     "img": "019abd3f-5c85-7eb3-8eb8-d3036371e717",
     "nombre": "disneyed7378",
     "status": "08:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Escocia vs. Namibia",
+    "league": "Copa del Mundo - Hockey Junior",
+    "fecha-evento": "2025-12-08T09:15:00-05:00",
+    "img": "019af946-b418-7493-a89e-f3dbb1af2062",
+    "nombre": "disneyb4e980",
+    "status": "09:15",
     "duration": 135,
     "play_url": ""
   }
