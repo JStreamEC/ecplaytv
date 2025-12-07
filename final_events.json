@@ -10,26 +10,6 @@
     "play_url": ""
   },
   {
-    "title": "Leganés vs. Cordoba",
-    "league": "Segunda División de España",
-    "fecha-evento": "2025-12-07T10:09:59-05:00",
-    "img": "019aa3a2-962e-7189-ae08-403cb0030e55",
-    "nombre": "disneyd47546",
-    "status": "10:09",
-    "duration": 125,
-    "play_url": "https://www.disneyplus.com/es-es/play/4f496c9b-33f5-48de-8a15-b9f2c8adfa54"
-  },
-  {
-    "title": "Gateshead vs. Walsall (Round 2)",
-    "league": "FA Cup",
-    "fecha-evento": "2025-12-07T10:20:04-05:00",
-    "img": "019ae5f6-eae0-70f5-80c9-dc4cd018d674",
-    "nombre": "disney172fa8",
-    "status": "10:20",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/22e28a9b-b97d-4b9a-8519-e244f319b246"
-  },
-  {
     "title": "Le Havre AC vs. Paris FC",
     "league": "Ligue 1",
     "fecha-evento": "2025-12-07T11:03:10-05:00",
@@ -68,16 +48,6 @@
     "status": "11:20",
     "duration": 120,
     "play_url": "https://www.disneyplus.com/es-es/play/90599063-67e9-484a-a428-d2264c3ce234"
-  },
-  {
-    "title": "UANL Tigres vs. Club America (Semifinal)",
-    "league": "ESPN",
-    "fecha-evento": "2025-12-07T11:25:02-05:00",
-    "img": "019af896-c3f8-7f93-98ed-85d400bf5390",
-    "nombre": "disney229941",
-    "status": "11:25",
-    "duration": 65,
-    "play_url": "https://www.disneyplus.com/es-es/play/b4bc37e4-89a1-4d79-976d-bc3d4a38a994"
   },
   {
     "title": "Nueva Zelanda vs. Austria",
@@ -140,34 +110,34 @@
     "play_url": "https://www.disneyplus.com/es-es/play/c4109827-b5d7-4035-bb14-8934ebc8268b"
   },
   {
-    "title": "SD Eibar vs. Cultural Leonesa",
-    "league": "Segunda División de España",
-    "fecha-evento": "2025-12-07T12:25:00-05:00",
-    "img": "019aa743-fff1-77f6-97ad-2fe8348a4f59",
-    "nombre": "disney84d5ba",
-    "status": "12:25",
-    "duration": 135,
-    "play_url": ""
+    "title": "Blackpool vs. Carlisle United (Round 2)",
+    "league": "FA Cup",
+    "fecha-evento": "2025-12-07T12:20:07-05:00",
+    "img": "019ae5f9-ddf4-7f1e-a4d7-d51935f7acb9",
+    "nombre": "disneyea0991",
+    "status": "12:20",
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/df41c644-1ae9-43b6-807d-2452b83a17b1"
   },
   {
     "title": "Deportivo La Coruña vs. Castellón",
     "league": "Segunda División de España",
-    "fecha-evento": "2025-12-07T12:25:00-05:00",
+    "fecha-evento": "2025-12-07T12:25:05-05:00",
     "img": "019aa3b6-46fb-7878-91f3-df4a7f4c50d8",
-    "nombre": "disneye63c4e",
+    "nombre": "disneya74626",
     "status": "12:25",
-    "duration": 135,
-    "play_url": ""
+    "duration": 125,
+    "play_url": "https://www.disneyplus.com/es-es/play/894fb102-64cb-43cc-9e5a-c23443797bf6"
   },
   {
-    "title": "Blackpool vs. Carlisle United (Round 2)",
-    "league": "FA Cup",
-    "fecha-evento": "2025-12-07T12:25:00-05:00",
-    "img": "019ae5f9-ddf4-7f1e-a4d7-d51935f7acb9",
-    "nombre": "disneyedfb93",
+    "title": "SD Eibar vs. Cultural Leonesa",
+    "league": "Segunda División de España",
+    "fecha-evento": "2025-12-07T12:25:10-05:00",
+    "img": "019aa743-fff1-77f6-97ad-2fe8348a4f59",
+    "nombre": "disney07296a",
     "status": "12:25",
-    "duration": 135,
-    "play_url": ""
+    "duration": 125,
+    "play_url": "https://www.disneyplus.com/es-es/play/8302d423-65fa-468b-b0bc-cba41dd42be7"
   },
   {
     "title": "San Diego Wave FC vs. Flamengo (Semifinal)",
@@ -283,7 +253,7 @@
     "title": "La Natividad-La Dolfina vs. Ellerstina-I. Chapaleufú Vista | Final",
     "league": "Abierto de Palermo",
     "fecha-evento": "2025-12-07T14:30:00-05:00",
-    "img": "019aeff6-154f-7393-a103-e4d31064de90",
+    "img": "019af9d5-af51-781f-b7e6-7de2fac6dc2b",
     "nombre": "disney84ef4e",
     "status": "14:30",
     "duration": 135,
@@ -546,6 +516,26 @@
     "img": "019a2dad-9071-7ff9-8e66-6caf25a99e23",
     "nombre": "disney13c3fc",
     "status": "20:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "North Florida vs. #11 Gonzaga",
+    "league": "Básquetbol Masculino NCAA",
+    "fecha-evento": "2025-12-07T21:00:00-05:00",
+    "img": "019a8f8d-b189-7bbc-b72f-9056f4aec1db",
+    "nombre": "disney776c66",
+    "status": "21:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Compacto | F1 GP Abu Dhabi | Carrera (10 min)",
+    "league": "Fórmula 1",
+    "fecha-evento": "2025-12-07T21:01:00-05:00",
+    "img": "019af954-e509-7b74-8a7d-14abd6e9ce31",
+    "nombre": "disney0b5427",
+    "status": "21:01",
     "duration": 135,
     "play_url": ""
   }
