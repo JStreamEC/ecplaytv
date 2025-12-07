@@ -101,19 +101,6 @@
     "k2": "8e72aba91274e8c1a912b28c6abb53db"
   },
   {
-    "title": "Michigan vs. #1 Pittsburgh (Second Round)",
-    "league": "NCAA Women's Volleyball",
-    "fecha-evento": "2025-12-06T19:00:00-05:00",
-    "img": "019af1e9-a639-772d-912b-6326a4d9909d",
-    "nombre": "disneyfc59fb",
-    "status": "19:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/b0eaf4bc-79c3-41f8-93a7-3bae25e207ce",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1765153390~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F07%2FMichigan_vs_1_Pittsburgh__20251207_1765058442031%2F~psid=61c08452-995b-409f-aa0e-37421dbe711b~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=fd4344b8d4e36ff4df26510dc59d7368b928c2bd32aa89ead8c89acf033b8c55/clt1/va02/disneyplus/event/2025/12/07/Michigan_vs_1_Pittsburgh__20251207_1765058442031/ctr-all-hdri-complete.m3u8?v=1&hash=6f31b803873190f43782cf2aed1029c886be69f5",
-    "k1": "bf9db343b6ae4be9af43b17dde5cf83e",
-    "k2": "7cf51bfb52bccd2efb352607e2f53580"
-  },
-  {
     "title": "California Baptist vs. Utah",
     "league": "Básquetbol Masculino NCAA",
     "fecha-evento": "2025-12-06T19:00:03-05:00",
@@ -190,19 +177,6 @@
     "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1765154470~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F07%2FTampa_Bay_Sun_vs_Sporting_20251207_1765060238034%2F~psid=9b9f9558-6776-4fa4-8bfa-ecce1a612bda~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=cd62276197b11ae48afe0ad108d109c94d2c28fb83f67ff417fc7479c765ae1b/clt1/va02/disneyplus/event/2025/12/07/Tampa_Bay_Sun_vs_Sporting_20251207_1765060238034/ctr-all-hdri-complete.m3u8?v=1&hash=5435d6287ad698846591d78658b76c628b097496",
     "k1": "f04c05ee1c0447ec9d7f2587f98a6e8b",
     "k2": "20b5baf63bad3ee8740493a36cc36459"
-  },
-  {
-    "title": "#8 Penn State vs. #1 Texas (Second Round)",
-    "league": "NCAA Women's Volleyball",
-    "fecha-evento": "2025-12-06T19:30:03-05:00",
-    "img": "019af1e9-7f64-7746-8047-dcfff3b4af23",
-    "nombre": "disney879112",
-    "status": "19:30",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/4542289a-8b5a-4902-abeb-91f4735f8f36",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1765154516~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F07%2F8_Penn_State_vs_1_Texas_S_20251207_1765062311620%2F~psid=e8b3d3f0-ca78-4981-90af-78be714c77e8~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=cbbdcc929e20a225fdb21ce8e1d4dfcce4d7f176c3946a650a6b744a306b34c6/clt1/va02/disneyplus/event/2025/12/07/8_Penn_State_vs_1_Texas_S_20251207_1765062311620/ctr-all-hdri-complete.m3u8?v=1&hash=11031841d1133364d1059f74a172e64d3a816d4b",
-    "k1": "361139413d334530a2e9672a58914469",
-    "k2": "409135519d7016269f64d577ca6e2bc1"
   },
   {
     "title": "Jaiba Brava vs. Club Deportivo Irapuato | Final, vuelta",
@@ -627,6 +601,26 @@
     "img": "019af0ca-bae0-7f8d-88ab-c8e843277712",
     "nombre": "disneyc3ca50",
     "status": "07:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Uruguay vs. Sudáfrica",
+    "league": "Women's FIH Hockey Junior World Cup",
+    "fecha-evento": "2025-12-07T07:00:00-05:00",
+    "img": "019a738c-941d-77d1-8107-c2791b12cd32",
+    "nombre": "disneya34776",
+    "status": "07:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "1. FC Nurnberg vs. SpVgg Greuther Fürth",
+    "league": "Bundesliga 2 de Alemania",
+    "fecha-evento": "2025-12-07T07:25:00-05:00",
+    "img": "019a9dfd-1b6d-7afe-a57f-efcc5869902a",
+    "nombre": "disney2a37ec",
+    "status": "07:25",
     "duration": 135,
     "play_url": ""
   }
