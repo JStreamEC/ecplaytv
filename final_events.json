@@ -10,16 +10,6 @@
     "play_url": ""
   },
   {
-    "title": "2025 World Champions Cup (Day Three)",
-    "league": "World Champions Cup",
-    "fecha-evento": "2025-12-07T13:00:00-05:00",
-    "img": "019ae613-8e91-7fa3-8d31-34af5866e490",
-    "nombre": "disneyfa9808",
-    "status": "13:00",
-    "duration": 240,
-    "play_url": "https://www.disneyplus.com/es-es/play/78ffcf61-cc61-45f1-a893-c74f40ed3847"
-  },
-  {
     "title": "NFL Redzone",
     "league": "NFL",
     "fecha-evento": "2025-12-07T13:00:00-05:00",
@@ -38,16 +28,6 @@
     "status": "14:30",
     "duration": 150,
     "play_url": "https://www.disneyplus.com/es-es/play/3c7bae17-5e34-47f7-a17d-ce1ba3ec95cd"
-  },
-  {
-    "title": "#19 Texas Tech vs. LSU",
-    "league": "Básquetbol Masculino NCAA",
-    "fecha-evento": "2025-12-07T15:00:00-05:00",
-    "img": "e8186e36-3b12-43a5-83bb-39fd15b9424a",
-    "nombre": "disney098cbe",
-    "status": "15:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/4c998505-f15d-4716-a9a5-8310d592677c"
   },
   {
     "title": "Los Angeles Rams vs. Arizona Cardinals",
@@ -110,46 +90,6 @@
     "play_url": "https://www.disneyplus.com/es-es/play/47458f92-12a4-46da-aac1-2fc2d1077dfe"
   },
   {
-    "title": "Boca Juniors vs. Racing Club",
-    "league": "Liga Profesional de Fútbol",
-    "fecha-evento": "2025-12-07T16:45:00-05:00",
-    "img": "019ae0a1-6ab4-7bdc-92d4-681173f6d2f1",
-    "nombre": "disney9681d6",
-    "status": "16:45",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/d1c4a111-4c84-448b-9bef-d96c38adb2a8"
-  },
-  {
-    "title": "Texas A&M vs. SMU",
-    "league": "Básquetbol Masculino NCAA",
-    "fecha-evento": "2025-12-07T17:00:00-05:00",
-    "img": "019a8436-22c4-7839-ad7c-ddcc1fc32df2",
-    "nombre": "disneyd74013",
-    "status": "17:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/094c16a0-05e1-434a-84e6-b2d5fa5098d5"
-  },
-  {
-    "title": "Georgetown vs. #16 North Carolina",
-    "league": "Básquetbol Masculino NCAA",
-    "fecha-evento": "2025-12-07T17:00:00-05:00",
-    "img": "019a2d97-71d2-70ef-a14a-2d2366f1c52d",
-    "nombre": "disneyb9c0d2",
-    "status": "17:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/6df307ce-f2cb-4745-9411-c4325db877f4"
-  },
-  {
-    "title": "Utah State vs. San Diego",
-    "league": "Básquet Femenino NCAA",
-    "fecha-evento": "2025-12-07T17:00:00-05:00",
-    "img": "019aa860-388e-7d92-b4e0-29504469020b",
-    "nombre": "disney4227bc",
-    "status": "17:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/75556780-471f-4d26-897c-9e25c2289d33"
-  },
-  {
     "title": "New York Islanders vs. Florida Panthers",
     "league": "National Hockey League",
     "fecha-evento": "2025-12-07T17:00:00-05:00",
@@ -162,12 +102,32 @@
   {
     "title": "San Jose Sharks vs. Carolina Hurricanes",
     "league": "National Hockey League",
-    "fecha-evento": "2025-12-07T17:00:00-05:00",
+    "fecha-evento": "2025-12-07T17:00:23-05:00",
     "img": "d7d0d619-2841-4337-a0c4-4b550b9646d5",
-    "nombre": "disney5e5c33",
+    "nombre": "disneyfe51a6",
     "status": "17:00",
     "duration": 210,
-    "play_url": "https://www.disneyplus.com/es-es/play/a537e94e-a38b-4b61-8e94-af7afd29666a"
+    "play_url": "https://www.disneyplus.com/es-es/play/f17aa54d-daac-4dc1-8851-65a4c88404a9"
+  },
+  {
+    "title": "Boca Juniors vs. Racing Club",
+    "league": "Liga Profesional de Fútbol",
+    "fecha-evento": "2025-12-07T16:45:00-05:00",
+    "img": "019ae0a1-6ab4-7bdc-92d4-681173f6d2f1",
+    "nombre": "disney9681d6",
+    "status": "16:45",
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/d1c4a111-4c84-448b-9bef-d96c38adb2a8"
+  },
+  {
+    "title": "Georgetown vs. #16 North Carolina",
+    "league": "Básquetbol Masculino NCAA",
+    "fecha-evento": "2025-12-07T17:00:00-05:00",
+    "img": "019a2d97-71d2-70ef-a14a-2d2366f1c52d",
+    "nombre": "disneyb9c0d2",
+    "status": "17:00",
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/6df307ce-f2cb-4745-9411-c4325db877f4"
   },
   {
     "title": "Nevada vs. Washington State",
@@ -178,6 +138,26 @@
     "status": "17:00",
     "duration": 120,
     "play_url": "https://www.disneyplus.com/es-es/play/f4444cd5-a52f-4994-940a-171081b9c718"
+  },
+  {
+    "title": "Utah State vs. San Diego",
+    "league": "Básquet Femenino NCAA",
+    "fecha-evento": "2025-12-07T17:00:00-05:00",
+    "img": "019aa860-388e-7d92-b4e0-29504469020b",
+    "nombre": "disney4227bc",
+    "status": "17:00",
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/75556780-471f-4d26-897c-9e25c2289d33"
+  },
+  {
+    "title": "Texas A&M vs. SMU",
+    "league": "Básquetbol Masculino NCAA",
+    "fecha-evento": "2025-12-07T17:00:00-05:00",
+    "img": "019a8436-22c4-7839-ad7c-ddcc1fc32df2",
+    "nombre": "disneyd74013",
+    "status": "17:00",
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/094c16a0-05e1-434a-84e6-b2d5fa5098d5"
   },
   {
     "title": "Pittsburgh Penguins vs. Dallas Stars",
@@ -536,6 +516,16 @@
     "img": "019abecd-a064-7b30-a113-4b65ea4dbcc7",
     "nombre": "disneyd3dc75",
     "status": "21:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Minnesota Wild vs. Seattle Kraken",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-12-08T22:00:00-05:00",
+    "img": "cf0e3ec6-63db-4778-a566-aff8fe60181b",
+    "nombre": "disneya4b927",
+    "status": "22:00",
     "duration": 135,
     "play_url": ""
   }
