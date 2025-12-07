@@ -10,36 +10,6 @@
     "play_url": ""
   },
   {
-    "title": "Skechers World Champions Cup (Day Three)",
-    "league": "World Champions Cup",
-    "fecha-evento": "2025-12-07T08:00:00-05:00",
-    "img": "019adb67-d009-70f7-b8a0-6755fae54a62",
-    "nombre": "disney4c6bef",
-    "status": "08:00",
-    "duration": 180,
-    "play_url": "https://www.disneyplus.com/es-es/play/cd3e2e87-098c-4439-870f-22935d379ae4"
-  },
-  {
-    "title": "Nice vs. Angers",
-    "league": "Ligue 1",
-    "fecha-evento": "2025-12-07T08:56:27-05:00",
-    "img": "2fef8772-1d45-4cdc-8de0-1a1df8f9b6cd",
-    "nombre": "disneyf4ea73",
-    "status": "08:56",
-    "duration": 124,
-    "play_url": "https://www.disneyplus.com/es-es/play/5952d5f4-4412-4e54-8c08-5060ee5e1e5e"
-  },
-  {
-    "title": "Japan vs. Corea",
-    "league": "Copa del Mundo - Hockey Junior",
-    "fecha-evento": "2025-12-07T09:15:18-05:00",
-    "img": "019af8fa-9bec-7766-9d36-bc968249fa2a",
-    "nombre": "disney665d85",
-    "status": "09:15",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/38781bd6-cd67-49cb-8fd0-6b9b49c44b3a"
-  },
-  {
     "title": "Hamburger SV vs. Werder Bremen",
     "league": "Bundesliga",
     "fecha-evento": "2025-12-07T09:20:00-05:00",
@@ -68,16 +38,6 @@
     "status": "09:20",
     "duration": 130,
     "play_url": "https://www.disneyplus.com/es-es/play/ffb4960f-30ec-444f-a3e8-d132e89e2fe7"
-  },
-  {
-    "title": "Germany vs. India (Semifinal)",
-    "league": "Men's FIH Hockey Junior World Cup",
-    "fecha-evento": "2025-12-07T09:30:03-05:00",
-    "img": "019aefe2-f9d9-7c44-9876-c0f39298b39d",
-    "nombre": "disneyadd6cb",
-    "status": "09:30",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/6e96b847-3b1e-45fc-98ca-0c0f7606d357"
   },
   {
     "title": "Leganés vs. Cordoba",
@@ -112,32 +72,32 @@
   {
     "title": "Compacto | F1 GP Abu Dhabi | Carrera (30 min)",
     "league": "Fórmula 1",
-    "fecha-evento": "2025-12-07T11:00:00-05:00",
+    "fecha-evento": "2025-12-07T11:00:02-05:00",
     "img": "019af920-c3a9-7832-9fae-18865a65a9b2",
-    "nombre": "disney4a7c3f",
+    "nombre": "disney8e7b90",
     "status": "11:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 30,
+    "play_url": "https://www.disneyplus.com/es-es/play/205ff20d-dd6a-45e5-8988-ff8be1770823"
   },
   {
     "title": "Le Havre AC vs. Paris FC",
     "league": "Ligue 1",
-    "fecha-evento": "2025-12-07T11:10:00-05:00",
+    "fecha-evento": "2025-12-07T11:03:10-05:00",
     "img": "019aa181-f6da-71f1-b101-b67c2e6f931f",
-    "nombre": "disney501af7",
-    "status": "11:10",
-    "duration": 135,
-    "play_url": ""
+    "nombre": "disney3b5756",
+    "status": "11:03",
+    "duration": 132,
+    "play_url": "https://www.disneyplus.com/es-es/play/02eb16fa-cced-4443-ae55-e33764f289b5"
   },
   {
     "title": "Auxerre vs. Metz",
     "league": "Ligue 1",
-    "fecha-evento": "2025-12-07T11:10:00-05:00",
+    "fecha-evento": "2025-12-07T11:03:11-05:00",
     "img": "019aa181-2a2c-75fa-bb1f-53dc8db21532",
-    "nombre": "disney403141",
-    "status": "11:10",
-    "duration": 135,
-    "play_url": ""
+    "nombre": "disney73e5b1",
+    "status": "11:03",
+    "duration": 132,
+    "play_url": "https://www.disneyplus.com/es-es/play/a3f8832f-0116-4fc8-87a6-4c467602da6e"
   },
   {
     "title": "Fulham vs. Crystal Palace",
@@ -576,6 +536,36 @@
     "img": "019af933-abd7-7db8-97b9-cc8ce3e25311",
     "nombre": "disney6a6f68",
     "status": "18:15",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "St. Louis Blues vs. Montreal Canadiens",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-12-07T19:00:00-05:00",
+    "img": "019ab6a4-abd0-78bd-8f03-14d1bf1deb10",
+    "nombre": "disneybf10a3",
+    "status": "19:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Vegas Golden Knights vs. New York Rangers",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-12-07T19:00:00-05:00",
+    "img": "ab4af79a-6ff0-471d-8831-abb607b305a2",
+    "nombre": "disney281556",
+    "status": "19:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Columbus Blue Jackets vs. Washington Capitals",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-12-07T19:00:00-05:00",
+    "img": "0b736db7-e523-4e28-b000-5a811c959f0d",
+    "nombre": "disney378e1c",
+    "status": "19:00",
     "duration": 135,
     "play_url": ""
   }
