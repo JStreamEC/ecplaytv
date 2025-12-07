@@ -10,16 +10,6 @@
     "play_url": ""
   },
   {
-    "title": "F1 - GP Abu Dhabi - Carrera",
-    "league": "Fórmula 1",
-    "fecha-evento": "2025-12-07T06:30:00-05:00",
-    "img": "019ac7b7-41e2-7d2d-a68a-fa98b7fa5cb2",
-    "nombre": "disney658f33",
-    "status": "06:30",
-    "duration": 255,
-    "play_url": "https://www.disneyplus.com/es-es/play/db5c611a-3f5b-4941-9379-3b995477738d"
-  },
-  {
     "title": "Skechers World Champions Cup (Day Three)",
     "league": "World Champions Cup",
     "fecha-evento": "2025-12-07T08:00:00-05:00",
@@ -28,46 +18,6 @@
     "status": "08:00",
     "duration": 180,
     "play_url": "https://www.disneyplus.com/es-es/play/cd3e2e87-098c-4439-870f-22935d379ae4"
-  },
-  {
-    "title": "FIS Men's Ski Jumping World Cup - Wisla, POL",
-    "league": "ESPN",
-    "fecha-evento": "2025-12-07T08:10:11-05:00",
-    "img": "2ba9f40e-b243-4737-9cff-a1f9774ac58d",
-    "nombre": "disney494071",
-    "status": "08:10",
-    "duration": 105,
-    "play_url": "https://www.disneyplus.com/es-es/play/3965f269-4e30-40a1-8d91-d1d381dd5be8"
-  },
-  {
-    "title": "HSBC World Rugby Sevens Series | Capetown | En español (Super Session)",
-    "league": "World Rugby Sevens Series",
-    "fecha-evento": "2025-12-07T08:20:00-05:00",
-    "img": "019adb45-df8f-7211-9542-9cc50cdc4ea4",
-    "nombre": "disneyc54098",
-    "status": "08:20",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/04d06bc4-7b68-4c28-a177-c39c6b288c6b"
-  },
-  {
-    "title": "Brighton & Hove Albion vs. West Ham United",
-    "league": "Premier League",
-    "fecha-evento": "2025-12-07T08:50:00-05:00",
-    "img": "019ac21b-76a0-7264-bd3b-6ee8f1a7836f",
-    "nombre": "disneyc14c0f",
-    "status": "08:50",
-    "duration": 125,
-    "play_url": "https://www.disneyplus.com/es-es/play/9aa58356-282c-425e-9587-d1b291fa2a3c"
-  },
-  {
-    "title": "Cagliari vs. Roma",
-    "league": "Seria A",
-    "fecha-evento": "2025-12-07T08:50:02-05:00",
-    "img": "019af5fc-76b1-7827-ba9f-bd4b149c1a82",
-    "nombre": "disney427a80",
-    "status": "08:50",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/fb43ea6c-2fe8-484d-a976-098f950c2453"
   },
   {
     "title": "Nice vs. Angers",
@@ -160,20 +110,10 @@
     "play_url": "https://www.disneyplus.com/es-es/play/16a4533e-9b9d-4717-8771-5f3cdfe205ae"
   },
   {
-    "title": "Compacto | F1 GP Abu Dhabi | Carrera (3 min)",
-    "league": "Fórmula 1",
-    "fecha-evento": "2025-12-07T10:55:00-05:00",
-    "img": "019af920-ad9a-756a-852c-85d619eca672",
-    "nombre": "disney2667e7",
-    "status": "10:55",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Compacto | F1 GP Abu Dhabi | Carrera (30 min)",
     "league": "Fórmula 1",
     "fecha-evento": "2025-12-07T11:00:00-05:00",
-    "img": "019af920-c562-70fe-a096-abd48e99827a",
+    "img": "019af920-c3a9-7832-9fae-18865a65a9b2",
     "nombre": "disney4a7c3f",
     "status": "11:00",
     "duration": 135,
@@ -596,6 +536,46 @@
     "img": "d7d0d619-2841-4337-a0c4-4b550b9646d5",
     "nombre": "disney5e5c33",
     "status": "17:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Nevada vs. Washington State",
+    "league": "Básquetbol Masculino NCAA",
+    "fecha-evento": "2025-12-07T17:00:00-05:00",
+    "img": "019aa860-7d38-7dd4-b961-65de2ef9ebf4",
+    "nombre": "disney113ff9",
+    "status": "17:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Pittsburgh Penguins vs. Dallas Stars",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-12-07T18:00:00-05:00",
+    "img": "7d5db25b-7807-4265-98ff-c5efa3da8c56",
+    "nombre": "disneybf5ca5",
+    "status": "18:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "UCLA vs. USC (Championship)",
+    "league": "NCAA Men's Water Polo",
+    "fecha-evento": "2025-12-07T18:00:00-05:00",
+    "img": "78b13d22-e497-45a5-ba4a-23f0ed36de3d",
+    "nombre": "disney22ec02",
+    "status": "18:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "India vs. Gales",
+    "league": "Copa del Mundo - Hockey Junior",
+    "fecha-evento": "2025-12-07T18:15:00-05:00",
+    "img": "019af933-abd7-7db8-97b9-cc8ce3e25311",
+    "nombre": "disney6a6f68",
+    "status": "18:15",
     "duration": 135,
     "play_url": ""
   }
