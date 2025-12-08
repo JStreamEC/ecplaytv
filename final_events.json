@@ -10,32 +10,6 @@
     "play_url": ""
   },
   {
-    "title": "Columbus Blue Jackets vs. Washington Capitals",
-    "league": "National Hockey League",
-    "fecha-evento": "2025-12-07T19:00:00-05:00",
-    "img": "0b736db7-e523-4e28-b000-5a811c959f0d",
-    "nombre": "disney378e1c",
-    "status": "19:00",
-    "duration": 210,
-    "play_url": "https://www.disneyplus.com/es-es/play/6edc7da8-e052-41fb-852f-01a7ad7f77ba",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1765238882~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F08%2FColumbus_Blue_Jackets_vs__20251208_1765144823038%2F~psid=47197034-56c0-41d1-8b8c-f6e6315072f0~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=a137a2409a232a68a94cdcb62aefde6157063ff917e5721ed817c4ece9c10aa5/clt1/va02/disneyplus/event/2025/12/08/Columbus_Blue_Jackets_vs__20251208_1765144823038/ctr-all-hdri-complete.m3u8?v=1&hash=24eccf70bd4ee904207f176b65950ed62a752548",
-    "k1": "451157fdf3a244528a426d732706133b",
-    "k2": "17cbbfdc52bfc556c311a6bbafb0096a"
-  },
-  {
-    "title": "Vegas Golden Knights vs. New York Rangers",
-    "league": "National Hockey League",
-    "fecha-evento": "2025-12-07T19:00:00-05:00",
-    "img": "ab4af79a-6ff0-471d-8831-abb607b305a2",
-    "nombre": "disney281556",
-    "status": "19:00",
-    "duration": 210,
-    "play_url": "https://www.disneyplus.com/es-es/play/42d61a5b-5deb-4cb3-8ceb-28eb80332d8d",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1765238857~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F08%2FVegas_Golden_Knights_vs_N_20251208_1765144858519%2F~psid=3d13e0d5-9e60-4927-8427-20ff1e3077c7~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=c9885a76010945a89d9725102797843c41ee09967459743620a2e9d51cfbbd4b/clt1/va02/disneyplus/event/2025/12/08/Vegas_Golden_Knights_vs_N_20251208_1765144858519/ctr-all-hdri-complete.m3u8?v=1&hash=27c3477270b4fbd77b8604cc94f9c24608e9aff5",
-    "k1": "6a28921009964787a8ae692ff485e1f7",
-    "k2": "c2a4765372d9ab3277579e48377e4de5"
-  },
-  {
     "title": "Chicago Blackhawks vs. Anaheim Ducks",
     "league": "National Hockey League",
     "fecha-evento": "2025-12-07T20:00:04-05:00",
@@ -77,12 +51,15 @@
   {
     "title": "Namibia vs. Omán",
     "league": "Men's FIH Hockey Junior World Cup",
-    "fecha-evento": "2025-12-07T22:30:00-05:00",
+    "fecha-evento": "2025-12-07T22:30:10-05:00",
     "img": "019af97a-f136-7985-8ca5-d896c153d0fd",
-    "nombre": "disneydc9e11",
+    "nombre": "disneyb76520",
     "status": "22:30",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/aa6fcdb8-8f67-444f-bf02-0bdc04c110d5",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1765251625~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F08%2FNamibia_vs_Omn_20251208_1765157408039%2F~psid=e2031399-2a76-4eff-89b5-6a4d1166c454~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=b6851232ed1b8175e1dd8899cca18d000c5851bf0aec5b297e8a9540e360bd05/clt1/va02/disneyplus/event/2025/12/08/Namibia_vs_Omn_20251208_1765157408039/ctr-all-hdri-complete.m3u8?v=1&hash=b92a4aa3e779a872504b9a60a4c9ec3d4a30fe8d",
+    "k1": "a2352f66107748e08f8e4e3401bfbe86",
+    "k2": "668be6c8a9fa69d29cd7d89cbf42bc24"
   },
   {
     "title": "Canada vs. Egpyt",
@@ -511,6 +488,46 @@
     "img": "019ac1a5-8be1-7d64-9757-84bb41d28523",
     "nombre": "disney598080",
     "status": "14:40",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Real Madrid vs. Wolfsburg",
+    "league": "UEFA Women's Champions League",
+    "fecha-evento": "2025-12-09T14:45:00-05:00",
+    "img": "1caaa013-7686-4433-bda2-6b4305703808",
+    "nombre": "disney150fbd",
+    "status": "14:45",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Paris Saint-Germain vs. OH Leuven",
+    "league": "UEFA Women's Champions League",
+    "fecha-evento": "2025-12-09T14:50:00-05:00",
+    "img": "019aba50-ff72-7f68-bc22-0fc30b38c50f",
+    "nombre": "disney56120e",
+    "status": "14:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Queens Park Rangers vs. Birmingham City",
+    "league": "Championship de Inglaterra",
+    "fecha-evento": "2025-12-09T14:50:00-05:00",
+    "img": "019ac21d-1664-7717-b686-0ad8bf869007",
+    "nombre": "disneyf42292",
+    "status": "14:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Netherlands vs. Pakistán",
+    "league": "FIH Pro League",
+    "fecha-evento": "2025-12-09T17:00:00-05:00",
+    "img": "019ac29e-0939-7d47-945c-f81c1c2aebcd",
+    "nombre": "disney92764e",
+    "status": "17:00",
     "duration": 135,
     "play_url": ""
   }
