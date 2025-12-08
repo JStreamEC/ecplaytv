@@ -10,32 +10,6 @@
     "play_url": ""
   },
   {
-    "title": "Gimnasia y Esgrima La Plata vs. Estudiantes de La Plata",
-    "league": "Liga Profesional de Fútbol",
-    "fecha-evento": "2025-12-08T14:45:00-05:00",
-    "img": "019ae0cd-5939-7e8e-b27c-e6e630fdeb1a",
-    "nombre": "disneyaccd7b",
-    "status": "14:45",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/2a855619-83fd-49ad-b0e2-8b8bcf7822df",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1765310428~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F08%2FGimnasia_y_Esgrima_La_Pla_20251208_1765215956044%2F~psid=11223723-98f1-4225-abe4-ad6ea0e385f5~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=953bd9b98a63a33aa3c3badc119d995b348ab808e57e26b82538cfd619033013/clt1/va02/disneyplus/event/2025/12/08/Gimnasia_y_Esgrima_La_Pla_20251208_1765215956044/ctr-all-hdri-complete.m3u8?v=1&hash=6f94d79ff3bff26c8c6cb82235e2e43f4403ccdc",
-    "k1": "3bd658e62f3444c59af3c6aa7acae89c",
-    "k2": "62949e605340770051a67d9193e61e30"
-  },
-  {
-    "title": "Wolverhampton Wanderers vs. Manchester United",
-    "league": "Premier League",
-    "fecha-evento": "2025-12-08T14:45:00-05:00",
-    "img": "019ac3f5-a690-7ba8-9937-efb87f8df41a",
-    "nombre": "disney2357ea",
-    "status": "14:45",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/d776b3e6-77a5-4811-806d-23fc2c85017a",
-    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1765310475~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F921e1311-bb26-43dd-84a6-9e2284959712-1762950465141%2F~psid=e94aeeec-3513-4ffa-beb9-3c1a7d4c5d43~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=46ba446575aa8e361e7a4b34184e034436ec36233f3f9b0cab3eb322fd470a2f/clt1/va02/disneyplus/channel/921e1311-bb26-43dd-84a6-9e2284959712-1762950465141/ctr-all-sliding-alt1.m3u8?v=1&hash=03915bf69f19826611ecdeecc79455eab40b229c",
-    "k1": "e13327f187774800b8cb84732bbc2013",
-    "k2": "bfae37cd11232ee7252babe632325508"
-  },
-  {
     "title": "Australia vs. China (Cuartos de Final)",
     "league": "Copa del Mundo - Hockey Junior",
     "fecha-evento": "2025-12-08T16:00:18-05:00",
@@ -272,7 +246,7 @@
     "title": "Messi Cup | Día #1",
     "league": "Messi Cup",
     "fecha-evento": "2025-12-09T11:00:00-05:00",
-    "img": "019affb3-fabb-77cd-b1e5-5d51b26c01f6",
+    "img": "019affb3-fa24-7946-abb2-767ec837307e",
     "nombre": "disney34c429",
     "status": "11:00",
     "duration": 135,
@@ -449,11 +423,11 @@
     "play_url": ""
   },
   {
-    "title": "Clemson vs. #10 BYU",
+    "title": "Clemson x #10 BYU",
     "league": "Básquetbol Masculino NCAA",
     "fecha-evento": "2025-12-09T18:30:00-05:00",
     "img": "019a2dad-f244-757b-8f52-91b1eb09ea2b",
-    "nombre": "disney405e7b",
+    "nombre": "disney7e10b2",
     "status": "18:30",
     "duration": 135,
     "play_url": ""
@@ -524,6 +498,16 @@
     "fecha-evento": "2025-12-09T19:00:00-05:00",
     "img": "21dac4bf-d573-446f-8287-d0ee729cf83c",
     "nombre": "disney4ac4d4",
+    "status": "19:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Tigres de Cartagena vs. Caimanes de Barranquilla",
+    "league": "Colombian Beisbol",
+    "fecha-evento": "2025-12-09T19:00:00-05:00",
+    "img": "019ab23b-318f-73c6-9cc5-0851b1a5bf08",
+    "nombre": "disneyf5afee",
     "status": "19:00",
     "duration": 135,
     "play_url": ""
