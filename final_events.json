@@ -10,19 +10,6 @@
     "play_url": ""
   },
   {
-    "title": "St. Louis Blues vs. Montreal Canadiens",
-    "league": "National Hockey League",
-    "fecha-evento": "2025-12-07T19:00:00-05:00",
-    "img": "019ab6a4-abd0-78bd-8f03-14d1bf1deb10",
-    "nombre": "disneybf10a3",
-    "status": "19:00",
-    "duration": 210,
-    "play_url": "https://www.disneyplus.com/es-es/play/371ff8d1-78a5-4433-b38f-52eacbf62cc2",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1765238832~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F08%2FSt_Louis_Blues_vs_Montrea_20251208_1765144850641%2F~psid=4ac74fff-764c-464f-a57e-1112e611d56d~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=4340c8b26830ae3a07b6e8ba6f22e949694140230b0d6adba5387546482a68a5/clt1/va02/disneyplus/event/2025/12/08/St_Louis_Blues_vs_Montrea_20251208_1765144850641/ctr-all-hdri-complete.m3u8?v=1&hash=6576cdd8151443cdc3b349f72f9c51758c9e5d8d",
-    "k1": "8720c01961dc4e65b93aff71f9d469b6",
-    "k2": "47df5a89f79440cd67e687c2372c44d6"
-  },
-  {
     "title": "Columbus Blue Jackets vs. Washington Capitals",
     "league": "National Hockey League",
     "fecha-evento": "2025-12-07T19:00:00-05:00",
@@ -73,19 +60,6 @@
     "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1765242132~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Ff25bdf06-81c9-4a7c-b128-3128d610ad17-1762951253360%2F~psid=8a865999-2e5a-4bc7-8404-8e0bf5d71f53~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=3a6d0cfc9d1a0cb1f4d6ff5bbc1a0dfce4b16076c3d18315bf87b8ea41bf4184/clt1/va02/disneyplus/channel/f25bdf06-81c9-4a7c-b128-3128d610ad17-1762951253360/ctr-all-sliding-alt1.m3u8?v=1&hash=57a1e5c4737768952c5164be5d4f5ba525d47674",
     "k1": "b687aef541e14b019e4d33c0a8e5f614",
     "k2": "f41bc39da364780057ad185dd0b5f2bc"
-  },
-  {
-    "title": "UTEP vs. Seattle U",
-    "league": "Básquetbol Masculino NCAA",
-    "fecha-evento": "2025-12-07T20:00:00-05:00",
-    "img": "019aa861-0451-7419-a035-60bf4f8de0eb",
-    "nombre": "disney1ca76a",
-    "status": "20:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/41e01f5f-faa3-4282-a4ce-d1dd2ef92a6a",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1765242040~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F08%2FUTEP_vs_Seattle_U_20251208_1765149889758%2F~psid=2ed4dded-4385-43e2-9e26-bbe6bfa74242~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=41c074a301cbf27c128b1cc782451e90ec1d8cc758c92558466d7fd3ff0b2ad7/clt1/va02/disneyplus/event/2025/12/08/UTEP_vs_Seattle_U_20251208_1765149889758/ctr-all-hdri-complete.m3u8?v=1&hash=1bf6139144dee4ba118436f28556d73fb37f7ea2",
-    "k1": "9980c0d7e0bb4f6685058d3153ca512b",
-    "k2": "b3b495a38892b3f00d70db83740544fa"
   },
   {
     "title": "North Florida vs. #11 Gonzaga",
@@ -517,6 +491,26 @@
     "img": "019ab6e7-163c-74c1-884b-d5975d3ca2ae",
     "nombre": "disneyc5aa96",
     "status": "14:45",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Tottenham Hotspur vs. Sk Slavia Praha",
+    "league": "UEFA Champions League",
+    "fecha-evento": "2025-12-09T14:40:00-05:00",
+    "img": "019ac1a4-7383-78d3-a810-bb9411fc42cc",
+    "nombre": "disneyd6df60",
+    "status": "14:40",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Atalanta vs. Chelsea",
+    "league": "UEFA Champions League",
+    "fecha-evento": "2025-12-09T14:40:00-05:00",
+    "img": "019ac1a5-8be1-7d64-9757-84bb41d28523",
+    "nombre": "disney598080",
+    "status": "14:40",
     "duration": 135,
     "play_url": ""
   }
