@@ -10,16 +10,6 @@
     "play_url": ""
   },
   {
-    "title": "UCLA vs. USC (Championship)",
-    "league": "NCAA Men's Water Polo",
-    "fecha-evento": "2025-12-07T18:00:00-05:00",
-    "img": "78b13d22-e497-45a5-ba4a-23f0ed36de3d",
-    "nombre": "disney22ec02",
-    "status": "18:00",
-    "duration": 90,
-    "play_url": "https://www.disneyplus.com/es-es/play/cf2bd959-8906-42a5-aa4c-cd5a193c99b5"
-  },
-  {
     "title": "St. Louis Blues vs. Montreal Canadiens",
     "league": "National Hockey League",
     "fecha-evento": "2025-12-07T19:00:00-05:00",
@@ -65,8 +55,11 @@
     "img": "019aa861-0451-7419-a035-60bf4f8de0eb",
     "nombre": "disney1ca76a",
     "status": "20:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/41e01f5f-faa3-4282-a4ce-d1dd2ef92a6a",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1765242040~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F08%2FUTEP_vs_Seattle_U_20251208_1765149889758%2F~psid=2ed4dded-4385-43e2-9e26-bbe6bfa74242~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=41c074a301cbf27c128b1cc782451e90ec1d8cc758c92558466d7fd3ff0b2ad7/clt1/va02/disneyplus/event/2025/12/08/UTEP_vs_Seattle_U_20251208_1765149889758/ctr-all-hdri-complete.m3u8?v=1&hash=1bf6139144dee4ba118436f28556d73fb37f7ea2",
+    "k1": "9980c0d7e0bb4f6685058d3153ca512b",
+    "k2": "b3b495a38892b3f00d70db83740544fa"
   },
   {
     "title": "Chicago Blackhawks vs. Anaheim Ducks",
@@ -75,8 +68,11 @@
     "img": "06d303c8-e988-467b-9799-9402e1a82731",
     "nombre": "disneybd54f7",
     "status": "20:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 210,
+    "play_url": "https://www.disneyplus.com/es-es/play/4d8bd27f-4bbd-457a-a618-77d8ea75e7bf",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1765242086~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F08%2FChicago_Blackhawks_vs_Ana_20251208_1765148447040%2F~psid=ed9f76ce-a98c-499b-a215-417546eb19a8~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=49d7481deecfe5a142e0f8837286b9ab6151f04abf4168907f83c7df4ac02d1b/clt1/va02/disneyplus/event/2025/12/08/Chicago_Blackhawks_vs_Ana_20251208_1765148447040/ctr-all-hdri-complete.m3u8?v=1&hash=c3e17b63d8c3cffb27e7a790268d294e215a2c18",
+    "k1": "d92d4a53af20402b9d40b5ae52ddbe49",
+    "k2": "5f5784c9e75ee279a4cac7e76dd525e5"
   },
   {
     "title": "Houston Texans vs. Kansas City Chiefs",
@@ -85,8 +81,11 @@
     "img": "019a2dad-9071-7ff9-8e66-6caf25a99e23",
     "nombre": "disney13c3fc",
     "status": "20:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 210,
+    "play_url": "https://www.disneyplus.com/es-es/play/a4a1874f-bb25-4286-a370-165c7f006c6c",
+    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1765242132~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Ff25bdf06-81c9-4a7c-b128-3128d610ad17-1762951253360%2F~psid=8a865999-2e5a-4bc7-8404-8e0bf5d71f53~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=3a6d0cfc9d1a0cb1f4d6ff5bbc1a0dfce4b16076c3d18315bf87b8ea41bf4184/clt1/va02/disneyplus/channel/f25bdf06-81c9-4a7c-b128-3128d610ad17-1762951253360/ctr-all-sliding-alt1.m3u8?v=1&hash=57a1e5c4737768952c5164be5d4f5ba525d47674",
+    "k1": "b687aef541e14b019e4d33c0a8e5f614",
+    "k2": "f41bc39da364780057ad185dd0b5f2bc"
   },
   {
     "title": "North Florida vs. #11 Gonzaga",
@@ -142,7 +141,7 @@
     "title": "Austria vs. Bangladesh",
     "league": "Men's FIH Hockey Junior World Cup",
     "fecha-evento": "2025-12-08T06:00:00-05:00",
-    "img": "019af992-d6af-765c-bb2c-3e885721267f",
+    "img": "019af992-d6ad-7778-83b1-e3b0f9e828e7",
     "nombre": "disney370c12",
     "status": "06:00",
     "duration": 135,
