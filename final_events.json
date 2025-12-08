@@ -10,26 +10,6 @@
     "play_url": ""
   },
   {
-    "title": "Los Angeles Rams vs. Arizona Cardinals",
-    "league": "NFL",
-    "fecha-evento": "2025-12-07T16:17:00-05:00",
-    "img": "aa6c8aaa-80b0-4193-b30a-a69fd1715d9b",
-    "nombre": "disney931311",
-    "status": "16:17",
-    "duration": 193,
-    "play_url": "https://www.disneyplus.com/es-es/play/56c0ecd4-830e-496b-9052-a5d6e4519f2e"
-  },
-  {
-    "title": "Chicago Bears vs. Green Bay Packers",
-    "league": "NFL",
-    "fecha-evento": "2025-12-07T16:28:00-05:00",
-    "img": "01d105c0-f8d2-46fb-b03a-545d11a093f1",
-    "nombre": "disney6f6fc0",
-    "status": "16:28",
-    "duration": 182,
-    "play_url": "https://www.disneyplus.com/es-es/play/fe10214b-4fd5-47b4-a12e-247a62bf8490"
-  },
-  {
     "title": "UCLA vs. USC (Championship)",
     "league": "NCAA Men's Water Polo",
     "fecha-evento": "2025-12-07T18:00:00-05:00",
@@ -514,6 +494,26 @@
     "fecha-evento": "2025-12-09T14:40:00-05:00",
     "img": "019ac20f-ebf9-72c4-8358-2984227a5cf9",
     "nombre": "disneyd10dbe",
+    "status": "14:40",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "UCL al instante",
+    "league": "UEFA Champions League",
+    "fecha-evento": "2025-12-09T14:40:00-05:00",
+    "img": "1f4cfba0-a435-412b-b4cb-1cebe051956c",
+    "nombre": "disney598f2f",
+    "status": "14:40",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Union St. Gilloise vs. Olympique de Marseille",
+    "league": "UEFA Champions League",
+    "fecha-evento": "2025-12-09T14:40:00-05:00",
+    "img": "019ac1a3-8195-7432-abc3-ca725ec96432",
+    "nombre": "disney118570",
     "status": "14:40",
     "duration": 135,
     "play_url": ""
