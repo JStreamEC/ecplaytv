@@ -10,19 +10,6 @@
     "play_url": ""
   },
   {
-    "title": "Chicago Blackhawks vs. Anaheim Ducks",
-    "league": "National Hockey League",
-    "fecha-evento": "2025-12-07T20:00:04-05:00",
-    "img": "06d303c8-e988-467b-9799-9402e1a82731",
-    "nombre": "disney281ab6",
-    "status": "20:00",
-    "duration": 210,
-    "play_url": "https://www.disneyplus.com/es-es/play/b1b6c989-466c-47e8-97b2-7731b2f74d6e",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1765242619~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F08%2FChicago_Blackhawks_vs_Ana_20251208_1765148448565%2F~psid=83586e6d-8aad-43bf-8402-babf2921bcc8~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=a174e09a30e933fdf4de03a5e94c2ce14df7e7614b0efe04bfc1ba3df8042f8e/clt1/va02/disneyplus/event/2025/12/08/Chicago_Blackhawks_vs_Ana_20251208_1765148448565/ctr-all-hdri-complete.m3u8?v=1&hash=cb54c97f449386919777ac2848a62ba5ef2b7ea0",
-    "k1": "9d2483205c5f4f9dbf0fbffb433411a4",
-    "k2": "5c4e026b174a065931da5944ca912abe"
-  },
-  {
     "title": "Houston Texans vs. Kansas City Chiefs",
     "league": "NFL",
     "fecha-evento": "2025-12-07T20:00:00-05:00",
@@ -525,6 +512,26 @@
     "img": "019af47f-08df-72e0-af63-4821fd3a05b1",
     "nombre": "disneya86ade",
     "status": "17:45",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "En Español-Clemson vs. #9 BYU",
+    "league": "Básquetbol Masculino NCAA",
+    "fecha-evento": "2025-12-09T18:30:00-05:00",
+    "img": "019a2dad-f244-757b-8f52-91b1eb09ea2b",
+    "nombre": "disney89f831",
+    "status": "18:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Windy City Bulls vs. Grand Rapids Gold",
+    "league": "NBA G League",
+    "fecha-evento": "2025-12-09T19:00:00-05:00",
+    "img": "019a79b4-2181-7111-bae4-8ec040a99f06",
+    "nombre": "disneyf8443a",
+    "status": "19:00",
     "duration": 135,
     "play_url": ""
   }
