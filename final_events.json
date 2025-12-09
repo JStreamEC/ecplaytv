@@ -1,18 +1,5 @@
 [
   {
-    "title": "España vs. Japan",
-    "league": "Women's FIH Hockey Junior World Cup",
-    "fecha-evento": "2025-12-09T09:15:08-05:00",
-    "img": "019aff8e-3661-7e0c-b87d-86a33063df84",
-    "nombre": "disney946c86",
-    "status": "09:15",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/7d24f351-0294-4a54-af8b-22e5b77bd250",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1765378868~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F09%2FEspaa_vs_Japan_20251209_1765282517041%2F~psid=961c558a-e7b8-48a4-a042-3cdb745645b9~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=f2bec9694b3321197198c0b7a3bdf03c324960ae981782a179d4c5e5b6c8359e/clt1/va02/disneyplus/event/2025/12/09/Espaa_vs_Japan_20251209_1765282517041/ctr-all-hdri-complete.m3u8?v=1&hash=f66dd6346f9d14bb8ea3a503c102198bcb412675",
-    "k1": "60d9efaf090b43c7b4942a1f5195961b",
-    "k2": "c53342c1e0099d84b125d039afa36547"
-  },
-  {
     "title": "Inglaterra vs. Irlanda",
     "league": "Men's FIH Hockey Junior World Cup",
     "fecha-evento": "2025-12-09T09:30:10-05:00",
@@ -54,12 +41,15 @@
   {
     "title": "Messi Cup | Día #1",
     "league": "Messi Cup",
-    "fecha-evento": "2025-12-09T11:00:00-05:00",
+    "fecha-evento": "2025-12-09T11:00:02-05:00",
     "img": "019affb3-fa24-7946-abb2-767ec837307e",
-    "nombre": "disney34c429",
+    "nombre": "disneyced7b1",
     "status": "11:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 540,
+    "play_url": "https://www.disneyplus.com/es-es/play/a672355b-0af4-4cd6-9fa9-883da52c72ad",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1765383625~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F09%2FMessi_Cup_Da_1_20251209_1765288822040%2F~psid=e4ac05f5-fb3d-48de-b396-dd51e1d1f039~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=b4b43474d3fba19bc0f3151895368c5dde6a4bcb6c68fab738a57b15d55339f8/clt1/va02/disneyplus/event/2025/12/09/Messi_Cup_Da_1_20251209_1765288822040/ctr-all-hdri-complete.m3u8?v=1&hash=9466d73c00ec2830710f0d5587a8b48313a0e106",
+    "k1": "b65606c141d341019405cf5813ac4d68",
+    "k2": "cd0118f713ff789e60f84859bbbe6540"
   },
   {
     "title": "India vs. Uruguay",
@@ -234,10 +224,10 @@
   {
     "title": "En Español-FC Barcelona vs. River Plate",
     "league": "Messi Cup",
-    "fecha-evento": "2025-12-09T17:45:00-05:00",
+    "fecha-evento": "2025-12-09T17:50:00-05:00",
     "img": "019af47f-08df-72e0-af63-4821fd3a05b1",
-    "nombre": "disneyfd346b",
-    "status": "17:45",
+    "nombre": "disney1c6583",
+    "status": "17:50",
     "duration": 135,
     "play_url": ""
   },
@@ -538,6 +528,16 @@
     "img": "019aff5e-93ab-7796-afe6-b20624430844",
     "nombre": "disneyd234c2",
     "status": "07:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Club Brugge vs. Arsenal",
+    "league": "UEFA Youth League",
+    "fecha-evento": "2025-12-10T07:50:00-05:00",
+    "img": "019ac265-4fab-7d99-97a6-9a12ff87c16e",
+    "nombre": "disney4edb7e",
+    "status": "07:50",
     "duration": 135,
     "play_url": ""
   }
