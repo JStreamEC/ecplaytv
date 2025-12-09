@@ -1,28 +1,5 @@
 [
   {
-    "title": "#3 Duke vs. #16 Texas Tech",
-    "league": "Básquetbol Masculino NCAA",
-    "fecha-evento": "2025-12-20T20:00:00-05:00",
-    "img": "019a4f9b-c471-78ce-99a4-0aabc6a06998",
-    "nombre": "disneyd02732",
-    "status": "20:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Inglaterra vs. Belgium",
-    "league": "Women's FIH Pro League",
-    "fecha-evento": "2025-12-09T09:00:16-05:00",
-    "img": "019ac923-f598-7e0e-a616-d91f1ce0321c",
-    "nombre": "disneya55b5b",
-    "status": "09:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/ae7e4641-517f-44f4-a0e2-70f55f3cddad",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1765378824~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F09%2FInglaterra_vs_Belgium_20251209_1765281618038%2F~psid=d6115209-eb39-403e-adef-c45e5d023dcc~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=acce495d371082cf5a7346e4dcdb1ce6555613ee43ada70b2412a6bda2fee74b/clt1/va02/disneyplus/event/2025/12/09/Inglaterra_vs_Belgium_20251209_1765281618038/ctr-all-hdri-complete.m3u8?v=1&hash=94b336eb6d7b8185a974663091d56f89da37cd64",
-    "k1": "55f2f2a35e7d495ead813bac0c392793",
-    "k2": "d81ddc63022b8ac7d48ee01efca36527"
-  },
-  {
     "title": "España vs. Japan",
     "league": "Women's FIH Hockey Junior World Cup",
     "fecha-evento": "2025-12-09T09:15:08-05:00",
@@ -541,6 +518,26 @@
     "img": "b01e4fc4-bf35-451e-a337-034b662730d6",
     "nombre": "disneyd64ecf",
     "status": "06:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Austria vs. Namibia",
+    "league": "Women's FIH Hockey Junior World Cup",
+    "fecha-evento": "2025-12-10T07:00:00-05:00",
+    "img": "019a738c-941d-77d1-8107-c2791b12cd32",
+    "nombre": "disney9f76db",
+    "status": "07:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Argentina vs. India (Tercer y Cuarto puesto)",
+    "league": "Men's FIH Hockey Junior World Cup",
+    "fecha-evento": "2025-12-10T07:00:00-05:00",
+    "img": "019aff5e-93ab-7796-afe6-b20624430844",
+    "nombre": "disneyd234c2",
+    "status": "07:00",
     "duration": 135,
     "play_url": ""
   }
