@@ -1,31 +1,5 @@
 [
   {
-    "title": "Inglaterra vs. Irlanda",
-    "league": "Men's FIH Hockey Junior World Cup",
-    "fecha-evento": "2025-12-09T09:30:10-05:00",
-    "img": "019aff8e-2736-72e2-b37c-91f5eed1172e",
-    "nombre": "disneyf22d05",
-    "status": "09:30",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/33b1c4f0-46ad-4c1b-a89d-0b900e6b2cd8",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1765378914~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F09%2FInglaterra_vs_Irlanda_20251209_1765283440037%2F~psid=c68533b6-6bb0-49d4-bb64-99da9bb894bb~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=7526640f1af98bc6dc9f05466b66b1cd9254cfb3bec6d04545392c40b254ec00/clt1/va02/disneyplus/event/2025/12/09/Inglaterra_vs_Irlanda_20251209_1765283440037/ctr-all-hdri-complete.m3u8?v=1&hash=6296cbf419d155afdda2548bdc93383430d09f5b",
-    "k1": "b4526b54e1684b11bcb980aa0cdb7a44",
-    "k2": "ec5518397ae941e593aef06e376461f3"
-  },
-  {
-    "title": "Inter Milan vs. Liverpool",
-    "league": "UEFA Youth League",
-    "fecha-evento": "2025-12-09T09:49:43-05:00",
-    "img": "019ac267-5e04-743b-9776-7fae75b769e0",
-    "nombre": "disney98e90c",
-    "status": "09:49",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/343194e8-a117-4c3a-9527-f84395942f8c",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1765378938~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F09%2FInter_Milan_vs_Liverpool_20251209_1765284618040%2F~psid=19aa6df1-712c-4e83-b45e-1b42b3dbfe5f~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=f243388c9beff11c335061d2d6f9033d84f0125d73ea4b38ba3f82b257eed201/clt1/va02/disneyplus/event/2025/12/09/Inter_Milan_vs_Liverpool_20251209_1765284618040/ctr-all-hdri-complete.m3u8?v=1&hash=d8e7c8becef8d774b177b598da98e5c78cd76a88",
-    "k1": "9fb64f00020947839c89be75f4799f9d",
-    "k2": "a366a2e11aa78999df85ddf618f8f488"
-  },
-  {
     "title": "Kairat Almaty vs. Olympiakos",
     "league": "UEFA Champions League",
     "fecha-evento": "2025-12-09T10:15:00-05:00",
@@ -130,6 +104,16 @@
     "fecha-evento": "2025-12-09T14:40:00-05:00",
     "img": "019ac1a3-8195-7432-abc3-ca725ec96432",
     "nombre": "disney118570",
+    "status": "14:40",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Inter Milan vs. Liverpool",
+    "league": "UEFA Champions League",
+    "fecha-evento": "2025-12-09T14:40:00-05:00",
+    "img": "019ac1a1-e1b9-7e95-9dc9-c7ae683014bc",
+    "nombre": "disneyf8866c",
     "status": "14:40",
     "duration": 135,
     "play_url": ""
@@ -541,6 +525,26 @@
     "img": "019ac265-4fab-7d99-97a6-9a12ff87c16e",
     "nombre": "disney4edb7e",
     "status": "07:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Irlanda vs. Belgium",
+    "league": "Women's FIH Pro League",
+    "fecha-evento": "2025-12-10T09:00:00-05:00",
+    "img": "019ac696-5652-7b07-af5b-b44a257b9064",
+    "nombre": "disney36546e",
+    "status": "09:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Malasia vs. Zimbabue",
+    "league": "Women's FIH Hockey Junior World Cup",
+    "fecha-evento": "2025-12-10T09:15:00-05:00",
+    "img": "019a738c-941d-77d1-8107-c2791b12cd32",
+    "nombre": "disney41c809",
+    "status": "09:15",
     "duration": 135,
     "play_url": ""
   }
