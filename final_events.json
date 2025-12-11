@@ -1,18 +1,5 @@
 [
   {
-    "title": "Messi Cup | Día #3",
-    "league": "Messi Cup",
-    "fecha-evento": "2025-12-11T09:45:00-05:00",
-    "img": "019b0108-d224-7f13-ab0e-5050e6112d13",
-    "nombre": "disney772055",
-    "status": "09:45",
-    "duration": 375,
-    "play_url": "https://www.disneyplus.com/es-es/play/ab94dd66-ff5b-4c8d-9511-209ddc2fe6f3",
-    "url": "https://live-akc-na-east-1.media.dssott.com/dvt2=exp=1765561267~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F11%2FMessi_Cup_Da_3_20251211_1765462700575%2F~psid=85aae2c7-644d-4673-924b-2c9832e15528~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=615849a823f2f0f01b20c5262858de5a029aa666d8787c4bc94ab12256e24bfc/clt1/va02/disneyplus/event/2025/12/11/Messi_Cup_Da_3_20251211_1765462700575/ctr-all-hdri-complete.m3u8?v=1&hash=7662bd4afb527103b8a83650a9cf7b5cd47579af",
-    "k1": "bb4246930eb24556ac46d1b3833b0258",
-    "k2": "e67993aed940856d4f186f4189d0b255"
-  },
-  {
     "title": "UEL al Instante",
     "league": "UEFA Europa League",
     "fecha-evento": "2025-12-11T12:40:00-05:00",
@@ -305,8 +292,11 @@
     "img": "019b0a95-86d8-751f-98e2-a3d38e699c83",
     "nombre": "disneyb2dbc3",
     "status": "16:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/8df70c04-5164-4a11-80da-50b4859416b0",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1765573223~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F11%2FUruguay_vs_Japan_20251211_1765479630045%2F~psid=61a2dbfa-3afa-4c30-b565-ca4a1fbc36e9~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=e5e7a4c593b62bb444430e6c64f7da82db1d649aaface5a43fe1b278b98fcc11/clt1/va02/disneyplus/event/2025/12/11/Uruguay_vs_Japan_20251211_1765479630045/ctr-all-hdri-complete.m3u8?v=1&hash=ae60e574759fdd34485bca4e1d1b19bfbe19e47c",
+    "k1": "3365a166b0bb44cf9a02a88ffb69e166",
+    "k2": "d10768e145cfc77c9df983b2a736028f"
   },
   {
     "title": "Argentina vs. Pakistán",
@@ -594,6 +584,16 @@
     "fecha-evento": "2025-12-11T21:30:00-05:00",
     "img": "019af728-ba8e-79a4-843d-a3fc2b30ef9a",
     "nombre": "disneyc297c3",
+    "status": "21:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Florida Panthers vs. Colorado Avalanche",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-12-11T21:30:00-05:00",
+    "img": "f9aa1bec-6a74-463c-a5ff-d3b888c69c5b",
+    "nombre": "disney560d0e",
     "status": "21:30",
     "duration": 135,
     "play_url": ""
