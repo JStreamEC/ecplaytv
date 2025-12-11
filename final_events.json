@@ -26,19 +26,6 @@
     "k2": "0ca11ee1b3c55cd1d7ddf94e248f432f"
   },
   {
-    "title": "Gales vs. Irlanda",
-    "league": "Copa del Mundo - Hockey Junior",
-    "fecha-evento": "2025-12-11T13:45:17-05:00",
-    "img": "019b0d4a-e100-7050-b288-175b744c2e84",
-    "nombre": "disney558251",
-    "status": "13:45",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/c1c28ef4-9fc7-4fdc-9719-387a8472b36c",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1765566067~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F11%2FGales_vs_Irlanda_20251211_1765471528039%2F~psid=81b1211a-71a7-4119-97d4-f1a8c7d33131~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=6bc7060dbcb95464e7f17c75b0c5cbdc77db1010d37008c26f375bd6bdf916b3/clt1/va02/disneyplus/event/2025/12/11/Gales_vs_Irlanda_20251211_1765471528039/ctr-all-hdri-complete.m3u8?v=1&hash=b3577c801df1280b146c0a0f1ee73cdacf0539b2",
-    "k1": "eecf00196ee34c749f6a17e837b113f9",
-    "k2": "bcb19aff0cf28d59cd06668ae7835ed9"
-  },
-  {
     "title": "Aston Villa vs. Liverpool",
     "league": "English Women's Super League",
     "fecha-evento": "2025-12-11T13:55:00-05:00",
@@ -305,8 +292,11 @@
     "img": "019af870-ba8d-77a6-9f00-6c12c41660ad",
     "nombre": "disney477ae1",
     "status": "15:30",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/d11dd443-65ac-43b6-b7d4-ad5a4a7c5c81",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1765572022~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F11%2FCal_Poly_vs_1_Kentucky_Re_20251211_1765477848029%2F~psid=497176e4-f6bd-4ddb-bc20-867da575d2ea~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=2fe373b52b593579d8cd9778d907e19ed7bfd382265d63cf0f1f86be55645ea1/clt1/va02/disneyplus/event/2025/12/11/Cal_Poly_vs_1_Kentucky_Re_20251211_1765477848029/ctr-all-hdri-complete.m3u8?v=1&hash=cfb6fac6bcde7b7c0c92a12dc30b71fc3411f676",
+    "k1": "dd0da0e191484686b232a0a208cf493b",
+    "k2": "cacdd10d440920c2045eb1bb3195d3c5"
   },
   {
     "title": "Uruguay vs. Japan",
@@ -595,6 +585,16 @@
     "img": "019a79b4-1cfe-7ca4-9394-76f967e05426",
     "nombre": "disney9fbb69",
     "status": "21:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "#3 Purdue vs. #2 SMU (Regional Semifinal)",
+    "league": "NCAA Women's Volleyball",
+    "fecha-evento": "2025-12-11T21:30:00-05:00",
+    "img": "019af728-ba8e-79a4-843d-a3fc2b30ef9a",
+    "nombre": "disneyc297c3",
+    "status": "21:30",
     "duration": 135,
     "play_url": ""
   }
