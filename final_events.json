@@ -13,32 +13,6 @@
     "k2": "0ca11ee1b3c55cd1d7ddf94e248f432f"
   },
   {
-    "title": "Aston Villa vs. Liverpool",
-    "league": "English Women's Super League",
-    "fecha-evento": "2025-12-11T13:55:00-05:00",
-    "img": "43863989-29ba-460f-9c2e-93952116024c",
-    "nombre": "disney84bc13",
-    "status": "13:55",
-    "duration": 125,
-    "play_url": "https://www.disneyplus.com/es-es/play/8196977d-f339-4344-b05f-6fc0dd44da07",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1765566112~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F11%2FAston_Villa_vs_Liverpool_20251211_1765472103042%2F~psid=b5c04edb-db59-48a6-a99a-00d0d92cd0a7~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=510af5d10fb46beac698e49736e707303de0a258f7223d1b66ca17da8d3d612c/clt1/va02/disneyplus/event/2025/12/11/Aston_Villa_vs_Liverpool_20251211_1765472103042/ctr-all-hdri-complete.m3u8?v=1&hash=6285466999a8a66948bc52b90b8d70685be9b132",
-    "k1": "cb634c435064498daa42275a3a149d29",
-    "k2": "5cb0ed6cab13625d921eb272a3bb2624"
-  },
-  {
-    "title": "Concordia - St. Paul vs. Gannon (Quarterfinals)",
-    "league": "NCAA Women's Volleyball",
-    "fecha-evento": "2025-12-11T14:30:04-05:00",
-    "img": "019b03f2-4831-724e-918a-8f293f601257",
-    "nombre": "disneyaf12cb",
-    "status": "14:30",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/50a99d2a-cff2-4b7a-814a-131eae4df239",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1765568466~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F11%2FConcordia_St_Paul_vs_Gann_20251211_1765474202029%2F~psid=7bd93a28-fd77-419f-9c7b-e726545f4e25~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=32d0466ef3406fcd4f8285bd26830f4a59cbdf8827178846db023f1a5e1d5430/clt1/va02/disneyplus/event/2025/12/11/Concordia_St_Paul_vs_Gann_20251211_1765474202029/ctr-all-hdri-complete.m3u8?v=1&hash=01b717be089312a291efbad25f982897a3a2a5f7",
-    "k1": "d8350c855fc942a3bc2461263c62a740",
-    "k2": "9cc472cccfdd949945253ef3fbca0e42"
-  },
-  {
     "title": "Basel vs. Aston Villa",
     "league": "UEFA Europa League",
     "fecha-evento": "2025-12-11T14:40:00-05:00",
@@ -595,6 +569,26 @@
     "img": "f9aa1bec-6a74-463c-a5ff-d3b888c69c5b",
     "nombre": "disney560d0e",
     "status": "21:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Florida Panthers vs. Colorado Avalanche | En Español",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-12-11T21:30:00-05:00",
+    "img": "f9aa1bec-6a74-463c-a5ff-d3b888c69c5b",
+    "nombre": "disneyf3ad3b",
+    "status": "21:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Buffalo Sabres vs. Vancouver Canucks",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-12-11T22:00:00-05:00",
+    "img": "4348d251-8d37-4b10-9770-0a6796c912e7",
+    "nombre": "disneyca8e40",
+    "status": "22:00",
     "duration": 135,
     "play_url": ""
   }
