@@ -13,45 +13,6 @@
     "k2": "332a00ff1d3a0728def080a591a0b20c"
   },
   {
-    "title": "Liverpool vs. Brighton & Hove Albion",
-    "league": "Premier League",
-    "fecha-evento": "2025-12-13T09:40:02-05:00",
-    "img": "019ae0ef-d16c-74f2-a50d-5ce2fb79bb45",
-    "nombre": "disney9df0fb",
-    "status": "09:40",
-    "duration": 135,
-    "play_url": "https://www.disneyplus.com/es-es/play/c1899bf7-6a65-4c37-80c6-2c09689aacbb",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1765723751~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F13%2FLiverpool_vs_Brighton_Hov_20251213_1765629604042%2F~psid=f877f1e1-5d61-4e75-a746-9d889986f97f~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=b0180819fedd67c5c68430a79dd6169ac9e9daca722161e1e25fe65e9c736a3b/clt1/va02/disneyplus/event/2025/12/13/Liverpool_vs_Brighton_Hov_20251213_1765629604042/ctr-all-hdri-complete.m3u8?v=1&hash=f7648129824b324b44ca2f9ea782a517e39dc3d3",
-    "k1": "bf433d1086c2421d8fcb2148f8d41880",
-    "k2": "dbf1d7a8522866b9f234b7fd4399f4bb"
-  },
-  {
-    "title": "Chelsea vs. Everton",
-    "league": "Premier League",
-    "fecha-evento": "2025-12-13T09:45:00-05:00",
-    "img": "019ae2f7-31e7-7be7-838f-fa03dbc28c87",
-    "nombre": "disneyb803a4",
-    "status": "09:45",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/3f9f697b-bc6d-45a2-aec9-53e6f7e3c650",
-    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1765724424~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F921e1311-bb26-43dd-84a6-9e2284959712-1762950465141%2F~psid=8d44305a-0bb5-4004-ba4e-fc49d121de89~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=350f0e258240a14a937e83057e07978e618206726c47a5a5275fc317f4bb7d08/clt1/va02/disneyplus/channel/921e1311-bb26-43dd-84a6-9e2284959712-1762950465141/ctr-all-sliding-alt1.m3u8?v=1&hash=03915bf69f19826611ecdeecc79455eab40b229c",
-    "k1": "c618aeac90054f2cafa5c8250de19bcf",
-    "k2": "517a04dcd714cd1e5236048f58cfc69e"
-  },
-  {
-    "title": "Wrexham AFC vs. Watford",
-    "league": "Championship de Inglaterra",
-    "fecha-evento": "2025-12-13T09:50:00-05:00",
-    "img": "019ac1de-29f9-75f7-a032-27cadacf3536",
-    "nombre": "disney00b8a2",
-    "status": "09:50",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/e0b556cc-7889-4886-a378-cad4a51c6917",
-    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1765724468~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F47873700-1b85-4497-8f84-d6f321fbb196-1762950817735%2F~psid=99796f04-79cd-48f4-ac02-8358fe817e35~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=1b70dcb8bcc5add9a71f5ecb1b41fae916548a31adea2e6a0736361889afc2ce/clt1/va02/disneyplus/channel/47873700-1b85-4497-8f84-d6f321fbb196-1762950817735/ctr-all-sliding-alt1.m3u8?v=1&hash=47b2c0b057c5c5c39ef0f49826b655a1e4ceacb9",
-    "k1": "da9c8c3f792347c4a5a52af43f16475d",
-    "k2": "b0a950ec792eb8826ddb41ece94d41de"
-  },
-  {
     "title": "RCD Mallorca vs. Elche CF",
     "league": "LALIGA",
     "fecha-evento": "2025-12-13T10:00:00-05:00",
@@ -143,74 +104,95 @@
     "k2": "a8ca1b030be6d780cd7a86f7f04df69d"
   },
   {
-    "title": "DePaul vs. Wichita State",
-    "league": "Básquetbol Masculino NCAA",
-    "fecha-evento": "2025-12-13T12:00:00-05:00",
-    "img": "019a8438-175c-7870-b6be-cf01250350cb",
-    "nombre": "disneyac47a8",
-    "status": "12:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "John Carroll (OH) vs. Berry (Quarterfinal)",
-    "league": "Fútbol Americano NCAA",
-    "fecha-evento": "2025-12-13T12:00:00-05:00",
-    "img": "019b03fe-2691-7c28-88cc-4aaf7a1a3efc",
-    "nombre": "disney6ae1dd",
-    "status": "12:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "En Español-South Carolina State vs. Prairie View A&M",
     "league": "Fútbol Americano NCAA",
-    "fecha-evento": "2025-12-13T12:00:00-05:00",
+    "fecha-evento": "2025-12-13T12:00:01-05:00",
     "img": "019afe50-cd07-7765-938e-74c5b632062a",
-    "nombre": "disneycc57d4",
+    "nombre": "disney03bf35",
     "status": "12:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 210,
+    "play_url": "https://www.disneyplus.com/es-es/play/c69900e9-2a99-4ed8-a647-2f82ef56924a",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1765732823~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F13%2FEn_EspaolSouth_Carolina_S_20251213_1765638053037%2F~psid=b31e4822-071e-480d-8162-bf2b4854aa7d~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=1ec0921100bd046f90e23b573928d30831cc7b82ff8f5ebc34db732102bbce6c/clt1/va02/disneyplus/event/2025/12/13/En_EspaolSouth_Carolina_S_20251213_1765638053037/ctr-all-hdri-complete.m3u8?v=1&hash=e9b4a2d37067d4f2eed0174946e269307bde4322",
+    "k1": "8fafddec09a64e339cb9c220948ebd66",
+    "k2": "e39087d259bb9209f56f889a30e92d3a"
   },
   {
     "title": "#17 Arkansas vs. #16 Texas Tech",
     "league": "Básquetbol Masculino NCAA",
-    "fecha-evento": "2025-12-13T12:00:00-05:00",
+    "fecha-evento": "2025-12-13T12:00:02-05:00",
     "img": "f0d14681-55ba-4dfd-9300-0791a5807c56",
-    "nombre": "disney70ae79",
+    "nombre": "disneyd4810f",
     "status": "12:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/dbb1cc20-ed7b-41be-9fe5-9a4bd222a0b2",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1765732867~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F13%2F17_Arkansas_vs_16_Texas_T_20251213_1765638008035%2F~psid=a604da18-eaf6-4d33-ac8d-657a8f010a39~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=13d4ceb7dcb6621b25ff323f25782b97a29f188c5208517fdd0137bbfab26836/clt1/va02/disneyplus/event/2025/12/13/17_Arkansas_vs_16_Texas_T_20251213_1765638008035/ctr-all-hdri-complete.m3u8?v=1&hash=a212087cecee441921b1fd4a59fb1f6ef2d91232",
+    "k1": "fe762bef1f404e048c1a812fec4ab74a",
+    "k2": "11a11c33e23ff46a00d92669878226a7"
   },
   {
     "title": "Villanova vs. Tarleton State (Quarterfinal)",
     "league": "Fútbol Americano NCAA",
-    "fecha-evento": "2025-12-13T12:00:00-05:00",
+    "fecha-evento": "2025-12-13T12:00:02-05:00",
     "img": "019aff50-684c-75d0-b38f-00b8740ac073",
-    "nombre": "disney08c804",
+    "nombre": "disney8951d6",
     "status": "12:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Newberry vs. #1 Ferris State (Semifinal)",
-    "league": "Fútbol Americano NCAA",
-    "fecha-evento": "2025-12-13T12:00:00-05:00",
-    "img": "019b03fd-fa9b-7ed8-9fee-bb94ee57e7e3",
-    "nombre": "disneycef218",
-    "status": "12:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 180,
+    "play_url": "https://www.disneyplus.com/es-es/play/de94fc3e-fb5d-4828-83f5-ff4dc9f219c0",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1765732911~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F13%2FVillanova_vs_Tarleton_Sta_20251213_1765638043028%2F~psid=3887dac8-7d08-424b-a884-50b96d8f33ce~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=4f935d825958483e765574b92a51065d0892c37d8913db442e91400283133b25/clt1/va02/disneyplus/event/2025/12/13/Villanova_vs_Tarleton_Sta_20251213_1765638043028/ctr-all-hdri-complete.m3u8?v=1&hash=4c44331e9a6fdee5a3cd4e25c9c4cca40353c900",
+    "k1": "36030cbf595c466baafdb05594e1a9ef",
+    "k2": "7c3e3435e5d1e6350d3af34ed8061076"
   },
   {
     "title": "Susquehanna vs. Johns Hopkins (Quarterfinal)",
     "league": "Fútbol Americano NCAA",
-    "fecha-evento": "2025-12-13T12:00:00-05:00",
+    "fecha-evento": "2025-12-13T12:00:02-05:00",
     "img": "019b03d3-840e-7a74-aa41-f193ba1572a9",
-    "nombre": "disney696489",
+    "nombre": "disney481b25",
     "status": "12:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 180,
+    "play_url": "https://www.disneyplus.com/es-es/play/ed2269ee-9ea9-4107-be4d-1450e760c12e",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1765732937~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F13%2FSusquehanna_vs_Johns_Hopk_20251213_1765640571418%2F~psid=728a7ded-1d6d-4d28-b8ab-97ad00d984a0~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=1583c3ee024db32249dccf019a0598e0098f37485e899f7ad2236d5ced0f0d20/clt1/va02/disneyplus/event/2025/12/13/Susquehanna_vs_Johns_Hopk_20251213_1765640571418/ctr-all-hdri-complete.m3u8?v=1&hash=9f6d844935cb67cd867e9c41373bc51c1b7ac307",
+    "k1": "98ca1ea9338a4edf8c5394738aad2aae",
+    "k2": "c2785243296150d2e4f43372ff3c2add"
+  },
+  {
+    "title": "DePaul vs. Wichita State",
+    "league": "Básquetbol Masculino NCAA",
+    "fecha-evento": "2025-12-13T12:00:03-05:00",
+    "img": "019a8438-175c-7870-b6be-cf01250350cb",
+    "nombre": "disneyf2144c",
+    "status": "12:00",
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/63697ec2-acc9-4693-903b-98897b99660b",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1765732962~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F13%2FDePaul_vs_Wichita_State_20251213_1765640331430%2F~psid=6dfeabbb-104c-4550-80da-383bc02bd862~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=b486dcaa05f157f9b67a0842ff723cf3f3970e2aef9ede333a80849eefd25590/clt1/va02/disneyplus/event/2025/12/13/DePaul_vs_Wichita_State_20251213_1765640331430/ctr-all-hdri-complete.m3u8?v=1&hash=ae1342e3028dcaf0d864ceec55d3a0fbbc483e51",
+    "k1": "d51f0dae849d46099d0f73486333acb7",
+    "k2": "1de04d6a9775f3710ecd94dada478af5"
+  },
+  {
+    "title": "Newberry vs. #1 Ferris State (Semifinal)",
+    "league": "Fútbol Americano NCAA",
+    "fecha-evento": "2025-12-13T12:00:03-05:00",
+    "img": "019b03fd-fa9b-7ed8-9fee-bb94ee57e7e3",
+    "nombre": "disney0ea87b",
+    "status": "12:00",
+    "duration": 180,
+    "play_url": "https://www.disneyplus.com/es-es/play/e9cacb15-e051-45b5-8519-0db00b068586",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1765732987~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F13%2FNewberry_vs_1_Ferris_Stat_20251213_1765638057033%2F~psid=c5f28aed-8d6d-4046-9e51-f58657ea639e~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=fe346a03114f0e45a8a091dbf454332328b5983b3fad044f41693caf44f33929/clt1/va02/disneyplus/event/2025/12/13/Newberry_vs_1_Ferris_Stat_20251213_1765638057033/ctr-all-hdri-complete.m3u8?v=1&hash=6c1d3a6a49ea1b52563191f61d05e0b3c29fb554",
+    "k1": "c5abe43a3a814110b6a73cf1f9530f3f",
+    "k2": "e2c68f9d460d2c15ed5e3b729a675c0d"
+  },
+  {
+    "title": "John Carroll (OH) vs. Berry (Quarterfinal)",
+    "league": "Fútbol Americano NCAA",
+    "fecha-evento": "2025-12-13T12:00:05-05:00",
+    "img": "019b03fe-2691-7c28-88cc-4aaf7a1a3efc",
+    "nombre": "disney84b970",
+    "status": "12:00",
+    "duration": 180,
+    "play_url": "https://www.disneyplus.com/es-es/play/6a3bf481-924d-4395-87ae-ccbaf4510ca5",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1765733013~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F13%2FJohn_Carroll_OH_vs_Berry__20251213_1765640871453%2F~psid=4ded4d93-6502-454b-81e8-ec62ba703aa1~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=ee5d96e2e4923f41a78762b161eece1eccb859a9782fa54a34bb822e2ceb8a7a/clt1/va02/disneyplus/event/2025/12/13/John_Carroll_OH_vs_Berry__20251213_1765640871453/ctr-all-hdri-complete.m3u8?v=1&hash=5752db7e861736a39110a790d753e81ce0581dd3",
+    "k1": "2c32679728b048bfbae64a4d6688d379",
+    "k2": "c334553e4f77c9cf4ce1cc8b8c208186"
   },
   {
     "title": "En Español-Chelsea FC vs. River Plate (Semifinal #1)",
@@ -219,8 +201,11 @@
     "img": "019b159a-8abf-7812-a2b2-73722d6254f9",
     "nombre": "disneya5aaf7",
     "status": "12:15",
-    "duration": 135,
-    "play_url": ""
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/83f46d38-3a4a-4afa-89a6-2a17e117afd6",
+    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1765733037~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Fbbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1762950822680%2F~psid=0f6c2f8c-eff4-4e25-b3c1-76b3e8947b40~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=f02ebb3024a9ae6a786f2a4684486bb363e1af30eeaa0545bda5a851ceaf9fbe/clt1/va02/disneyplus/channel/bbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1762950822680/ctr-all-sliding-alt1.m3u8?v=1&hash=2204dc483842bd9152836a99fc823b0b9e410a70",
+    "k1": "7f6e169659674a0f8da2b4b19ba838f1",
+    "k2": "a478ee1092f487ce5594f98bc5e18f71"
   },
   {
     "title": "Burnley vs. Fulham",
@@ -229,8 +214,11 @@
     "img": "019ae0ee-5eb4-7659-89ff-e1f020ac8cc3",
     "nombre": "disney635b15",
     "status": "12:20",
-    "duration": 135,
-    "play_url": ""
+    "duration": 125,
+    "play_url": "https://www.disneyplus.com/es-es/play/1aa886df-24c1-41ce-8a83-9e73c3225728",
+    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1765733062~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F921e1311-bb26-43dd-84a6-9e2284959712-1762950465141%2F~psid=65c06674-dcbc-438c-92b7-1e2b34bcf2b9~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=e663c126e4013d43eaedce2fead6606f602231ea88f9a75044817f8448093918/clt1/va02/disneyplus/channel/921e1311-bb26-43dd-84a6-9e2284959712-1762950465141/ctr-all-sliding-alt1.m3u8?v=1&hash=03915bf69f19826611ecdeecc79455eab40b229c",
+    "k1": "c618aeac90054f2cafa5c8250de19bcf",
+    "k2": "517a04dcd714cd1e5236048f58cfc69e"
   },
   {
     "title": "Bayer Leverkusen vs. Koln",
@@ -619,6 +607,36 @@
     "img": "019b0fd4-384b-7ad5-ae9e-6754bbc65d72",
     "nombre": "disney341b13",
     "status": "17:15",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "#19 Kansas vs. NC State",
+    "league": "Básquetbol Masculino NCAA",
+    "fecha-evento": "2025-12-13T17:30:00-05:00",
+    "img": "2cf778b3-07a1-4a3d-b78b-fad056748425",
+    "nombre": "disney70e03b",
+    "status": "17:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Mount St. Mary's vs. Loyola Maryland",
+    "league": "Básquetbol Masculino NCAA",
+    "fecha-evento": "2025-12-13T18:00:00-05:00",
+    "img": "019a36f1-2f75-7589-830f-40bfdfe7c5f1",
+    "nombre": "disney6c098a",
+    "status": "18:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "MSU - Denver vs. Concordia - St. Paul (Championship)",
+    "league": "NCAA Women's Volleyball",
+    "fecha-evento": "2025-12-13T18:00:00-05:00",
+    "img": "019b17ea-1ae6-75bf-bc15-2ca094a6b352",
+    "nombre": "disney62d9f3",
+    "status": "18:00",
     "duration": 135,
     "play_url": ""
   }
