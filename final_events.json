@@ -26,32 +26,6 @@
     "k2": "d1db00a63b1d914213ac29e963309d04"
   },
   {
-    "title": "Hannover 96 vs. Vfl Bochum 1848",
-    "league": "Bundesliga 2 de Alemania",
-    "fecha-evento": "2025-12-13T14:20:26-05:00",
-    "img": "019ae618-cfeb-7219-817c-32466f187585",
-    "nombre": "disney72c2a5",
-    "status": "14:20",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/5c9c0c77-336c-46e9-8ec9-9d243ccb6ebf",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1765741226~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F13%2FHannover_96_vs_Vfl_Bochum_20251213_1765646749035%2F~psid=ea5dfd05-a328-4ab7-9431-6147c233b6a4~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=0a5ccd3ca84c4bef43246299ada906467d273ac4b5797edb24486f4a5c7ac99c/clt1/va02/disneyplus/event/2025/12/13/Hannover_96_vs_Vfl_Bochum_20251213_1765646749035/ctr-all-hdri-complete.m3u8?v=1&hash=9c4eed521cd3f871ac352c3cea106c2e0b418994",
-    "k1": "4304d810514f4bab985c267e2c8b583b",
-    "k2": "6a50dac28d3cd53e3a2e7522736fe2da"
-  },
-  {
-    "title": "Atalanta vs. Cagliari",
-    "league": "Seria A",
-    "fecha-evento": "2025-12-13T14:30:01-05:00",
-    "img": "019ae0eb-d9e3-71a0-8532-3bf796d21aa1",
-    "nombre": "disneyf9ca9d",
-    "status": "14:30",
-    "duration": 135,
-    "play_url": "https://www.disneyplus.com/es-es/play/65eb17e1-660c-4141-9a23-17ec96b3c21a",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1765741341~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F13%2FAtalanta_vs_Cagliari_20251213_1765647024037%2F~psid=3efa949e-b737-45e7-9e24-ea10851727a7~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=031d18fb2dbe7f1c18854de6f8b7498e41011d0f5992aeb80d67b9ef7f561040/clt1/va02/disneyplus/event/2025/12/13/Atalanta_vs_Cagliari_20251213_1765647024037/ctr-all-hdri-complete.m3u8?v=1&hash=98d733f9a347b89439b6fcdb4bf4a26b4977e2ba",
-    "k1": "be41299aca4945c19fd0d3fb4f2bd867",
-    "k2": "bfa3ed3dd74c919a2f652348d2136d39"
-  },
-  {
     "title": "George Washington vs. #18 Florida",
     "league": "Básquetbol Masculino NCAA",
     "fecha-evento": "2025-12-13T14:30:00-05:00",
@@ -236,12 +210,15 @@
   {
     "title": "Vaqueros de Montería vs. Caimanes de Barranquilla",
     "league": "Colombian Beisbol",
-    "fecha-evento": "2025-12-13T17:00:00-05:00",
+    "fecha-evento": "2025-12-13T16:55:21-05:00",
     "img": "019a9da2-34be-7cc5-ae57-3cbdfb59b367",
-    "nombre": "disneya0c1e8",
-    "status": "17:00",
-    "duration": 135,
-    "play_url": ""
+    "nombre": "disney9d767c",
+    "status": "16:55",
+    "duration": 185,
+    "play_url": "https://www.disneyplus.com/es-es/play/0b3c6f3c-1446-499f-bf86-c1e3adc02879",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1765749624~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F13%2FVaqueros_de_Montera_vs_Ca_20251213_1765655737030%2F~psid=4881bb92-b62d-4aad-b0ae-f1eab86e494d~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=e4de310343114fd3b65d0e96fa9ea3c3a6c209906a7d37b979a1dd65c3cadaad/clt1/va02/disneyplus/event/2025/12/13/Vaqueros_de_Montera_vs_Ca_20251213_1765655737030/ctr-all-hdri-complete.m3u8?v=1&hash=afe9a5c498a4a706b3f32e22a603e5c0b214535d",
+    "k1": "50eda56a8fdd40a197176bca5bcc6222",
+    "k2": "6d6b20b00e0023a61d82b73f578220d0"
   },
   {
     "title": "Sporting Jax vs. Fort Lauderdale United",
@@ -590,6 +567,16 @@
     "img": "019a181e-6d5c-7b6a-92bb-31566136d30b",
     "nombre": "disney185400",
     "status": "20:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Nashville Predators vs. Colorado Avalanche",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-12-13T21:00:00-05:00",
+    "img": "b1fccb0b-1366-46bc-92e5-c56c4ef00734",
+    "nombre": "disney787607",
+    "status": "21:00",
     "duration": 135,
     "play_url": ""
   }
