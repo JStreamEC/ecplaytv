@@ -26,19 +26,6 @@
     "k2": "6119fad4a2d574021e2212f4707428f5"
   },
   {
-    "title": "South Dakota vs. Montana (Quarterfinal)",
-    "league": "Fútbol Americano NCAA",
-    "fecha-evento": "2025-12-13T15:30:05-05:00",
-    "img": "019b0097-10fb-737c-89ce-59c5b4978ca5",
-    "nombre": "disney9e1220",
-    "status": "15:30",
-    "duration": 180,
-    "play_url": "https://www.disneyplus.com/es-es/play/785c8632-5dc2-4c0c-bd7b-051451fc51b5",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1765745114~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F13%2FSouth_Dakota_vs_Montana_Q_20251213_1765650647031%2F~psid=18490a52-e889-4143-b40b-7b752a503dfd~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=cc04e35791625257feb31b7a6508d056e13dc464a8a4781c5bdcf0846f39ee63/clt1/va02/disneyplus/event/2025/12/13/South_Dakota_vs_Montana_Q_20251213_1765650647031/ctr-all-hdri-complete.m3u8?v=1&hash=75cccf020c199f44b50a6a0d2104f430e82fe3e1",
-    "k1": "74ad9142bf674c42a289ada819ea8c03",
-    "k2": "bbebd0d858496d3b05b4a70db48a668e"
-  },
-  {
     "title": "Vaqueros de Montería vs. Caimanes de Barranquilla",
     "league": "Colombian Beisbol",
     "fecha-evento": "2025-12-13T16:55:21-05:00",
@@ -128,19 +115,6 @@
     "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1765750868~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F13%2FColorado_State_vs_San_Fra_20251213_1765656057031%2F~psid=298781d7-7524-473d-9aa9-ca65ee386179~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=a9de7a5aded6076cf3e5f69c3b3ef0966139e1f4f84f00177b2b3f2438861356/clt1/va02/disneyplus/event/2025/12/13/Colorado_State_vs_San_Fra_20251213_1765656057031/ctr-all-hdri-complete.m3u8?v=1&hash=185430e021231e2bc98eed1d40929db8d5447987",
     "k1": "8ba873b5cd07427b8efb8f1776590f27",
     "k2": "49bb97c24127295f07624d809508880c"
-  },
-  {
-    "title": "#3 Creighton vs. #1 Kentucky (Regional Final)",
-    "league": "NCAA Women's Volleyball",
-    "fecha-evento": "2025-12-13T17:02:55-05:00",
-    "img": "019b111a-d22e-781d-b2e5-619593b01a21",
-    "nombre": "disneye78bcb",
-    "status": "17:02",
-    "duration": 117,
-    "play_url": "https://www.disneyplus.com/es-es/play/b4991b10-8225-4f66-bb39-1487790ded12",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1765751013~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F13%2F3_Creighton_vs_1_Kentucky_20251213_1765657011476%2F~psid=a30f3c73-4ef9-451e-aff1-457b32ead01c~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=77c12d72b5132a391a0a02ee2fb776dc9c17474d05691bf49763321c7dadcd77/clt1/va02/disneyplus/event/2025/12/13/3_Creighton_vs_1_Kentucky_20251213_1765657011476/ctr-all-hdri-complete.m3u8?v=1&hash=0df62b92c5b9810648e6f3164dc60f99b8576f58",
-    "k1": "a3f656c8ab324267b08d7e1b2deb9642",
-    "k2": "25183ba5ef6ae8b9b493872514a0fd66"
   },
   {
     "title": "Argentina vs. Netherlands (Final)",
@@ -587,6 +561,16 @@
     "img": "019ac1e3-e4c0-77e1-b367-d291030143ca",
     "nombre": "disney7551db",
     "status": "06:45",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Brighton & Hove Albion vs. Chelsea",
+    "league": "English Women's Super League",
+    "fecha-evento": "2025-12-14T06:55:00-05:00",
+    "img": "45951e86-80d2-4dc2-9459-82a178441850",
+    "nombre": "disneye30c0f",
+    "status": "06:55",
     "duration": 135,
     "play_url": ""
   }
