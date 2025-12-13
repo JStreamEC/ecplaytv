@@ -26,19 +26,6 @@
     "k2": "b47b1c810e71baee5e5099381a919419"
   },
   {
-    "title": "Rennes vs. Brest",
-    "league": "Ligue 1",
-    "fecha-evento": "2025-12-13T10:55:02-05:00",
-    "img": "019aa186-5d42-771c-8600-cf03b6fd4d5b",
-    "nombre": "disney660f35",
-    "status": "10:55",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/5a2604ac-d2e0-442d-a672-efe7f1c69bee",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1765728028~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F13%2FRennes_vs_Brest_20251213_1765634151038%2F~psid=fee1c773-92e6-4fb4-8bc5-dd085a76a179~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=500540fce8f4d808ecb5f8ace9e313ce5fa2f8a4b426e524b03fd76680965371/clt1/va02/disneyplus/event/2025/12/13/Rennes_vs_Brest_20251213_1765634151038/ctr-all-hdri-complete.m3u8?v=1&hash=bc97415814e2a21ccd7380012daf4ce45966a3a7",
-    "k1": "932d0a5eb0fb48dea906c1471ba881c0",
-    "k2": "272046e4783ea34e15aa7cf5bfd0339e"
-  },
-  {
     "title": "Parma vs. Lazio",
     "league": "Seria A",
     "fecha-evento": "2025-12-13T11:50:00-05:00",
@@ -240,8 +227,11 @@
     "img": "019b0445-1a7d-7a22-b31b-ff571790dbf1",
     "nombre": "disney36d3f2",
     "status": "13:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 180,
+    "play_url": "https://www.disneyplus.com/es-es/play/5cb0130e-5c05-4fbd-a116-3a2819238b39",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1765736423~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F13%2FBethel_MN_vs_North_Centra_20251213_1765643931449%2F~psid=65abedf3-71b1-47a6-9668-14db283ed9c1~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=6bd1cf25c6be444cff63b3b28fc4eba4d651e9d02a4e556f16ff42472259d9c5/clt1/va02/disneyplus/event/2025/12/13/Bethel_MN_vs_North_Centra_20251213_1765643931449/ctr-all-hdri-complete.m3u8?v=1&hash=e8ccaffff6ecc8760f70f2193d2f620535fa9f35",
+    "k1": "9a2a201247034408aca924bc6753ef31",
+    "k2": "0b23bdcca8866ab98f4258e7acb89e88"
   },
   {
     "title": "Colorado Mammoth vs. Philadelphia Wings",
@@ -250,8 +240,11 @@
     "img": "b5f483f3-e65d-4cd9-bad3-8362aa356d95",
     "nombre": "disney1f0354",
     "status": "13:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 150,
+    "play_url": "https://www.disneyplus.com/es-es/play/f2547638-2e0a-46d1-8241-74361d9a4890",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1765736467~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F13%2FColorado_Mammoth_vs_Phila_20251213_1765641600080%2F~psid=84d63adb-277c-48f9-8fd5-9f346448b712~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=c09d3e7afc7fea35bcf1793800a224078428f6483212651ed989a629cd2136fa/clt1/va02/disneyplus/event/2025/12/13/Colorado_Mammoth_vs_Phila_20251213_1765641600080/ctr-all-hdri-complete.m3u8?v=1&hash=2fde7372953f7a2b55a4117febc1ce4ae5de37f5",
+    "k1": "5d8a9cc1583440a68d611cbc6594bc18",
+    "k2": "c63b3c8c9d9c801f644ff73cdac17757"
   },
   {
     "title": "PSV vs. Heracles Almelo",
@@ -640,6 +633,16 @@
     "img": "019b0470-216f-7da3-a226-3a5214adc6b5",
     "nombre": "disneyf211aa",
     "status": "18:45",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Montreal Canadiens vs. New York Rangers",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-12-13T19:00:00-05:00",
+    "img": "c70d2bea-c75e-4490-913f-b3ddb0abb9aa",
+    "nombre": "disneyf6c99c",
+    "status": "19:00",
     "duration": 135,
     "play_url": ""
   }
