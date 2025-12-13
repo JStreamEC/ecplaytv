@@ -162,18 +162,24 @@
     "img": "5f1ad933-47ae-4cac-adb9-084e59679510",
     "nombre": "disneydbe8c6",
     "status": "10:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 140,
+    "play_url": "https://www.disneyplus.com/es-es/play/a31bca9b-6bed-456a-b133-e2409b59e419",
+    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1765725625~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Ff25bdf06-81c9-4a7c-b128-3128d610ad17-1762951253360%2F~psid=8d27a9cb-9990-4f8e-bfb3-22a24c795a2d~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=9943b2103ce55c70306cc1fbb6539d811c427535fc8e30f7f38b2bf57169cf41/clt1/va02/disneyplus/channel/f25bdf06-81c9-4a7c-b128-3128d610ad17-1762951253360/ctr-all-sliding-alt1.m3u8?v=1&hash=57a1e5c4737768952c5164be5d4f5ba525d47674",
+    "k1": "e9b46401e1fe4cc69589444ca91c5caa",
+    "k2": "615be185a150134f7207e73e04a82cf3"
   },
   {
     "title": "Sporting Gijón vs. Granada",
     "league": "Segunda División de España",
-    "fecha-evento": "2025-12-13T10:10:00-05:00",
+    "fecha-evento": "2025-12-13T10:10:05-05:00",
     "img": "019abbf3-63bf-7df4-b74b-9db9a2dc029b",
-    "nombre": "disney120498",
+    "nombre": "disney54a1d4",
     "status": "10:10",
-    "duration": 135,
-    "play_url": ""
+    "duration": 125,
+    "play_url": "https://www.disneyplus.com/es-es/play/99fcbd64-6668-450f-bb31-70ed334ded13",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1765725670~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F13%2FSporting_Gijn_vs_Granada_20251213_1765631411034%2F~psid=9a59ab42-9b99-432c-9263-b80a8e206afb~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=8208cdf6833505f74257223981c54f571154172ba01912d3bd00341d1c019ea2/clt1/va02/disneyplus/event/2025/12/13/Sporting_Gijn_vs_Granada_20251213_1765631411034/ctr-all-hdri-complete.m3u8?v=1&hash=ab13034a0e406e79a91853ada941073d58f36f8b",
+    "k1": "9dee5fcb70ae409b8b5ff88ff4c34f05",
+    "k2": "ef4b7efc848390f05ff4532aa35569f4"
   },
   {
     "title": "Messi Cup | 5° y 7° puesto",
@@ -182,8 +188,11 @@
     "img": "019ae996-0383-7abd-b149-69f48c7fee40",
     "nombre": "disneyf89a52",
     "status": "10:15",
-    "duration": 135,
-    "play_url": ""
+    "duration": 255,
+    "play_url": "https://www.disneyplus.com/es-es/play/b07b909e-232f-4b7c-a3fa-6a05b405fdff",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1765725716~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F13%2FMessi_Cup_5_y_7_puesto_20251213_1765631759033%2F~psid=b32a5648-b08a-46ba-aabf-6b0c57e33ccc~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=84c90a1625231260478b1f17f752a8dec2eac4cd0ae171172558f17245b7c8b7/clt1/va02/disneyplus/event/2025/12/13/Messi_Cup_5_y_7_puesto_20251213_1765631759033/ctr-all-hdri-complete.m3u8?v=1&hash=98e13284667d9ebb4210770995cb0143f2c91256",
+    "k1": "92db5f8e4e984374bf242db08dcb8dd7",
+    "k2": "b47b1c810e71baee5e5099381a919419"
   },
   {
     "title": "Telstar vs. NEC Nijmegen",
