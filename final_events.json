@@ -210,15 +210,15 @@
   {
     "title": "Anaheim Ducks vs. New Jersey Devils",
     "league": "National Hockey League",
-    "fecha-evento": "2025-12-13T12:30:37-05:00",
+    "fecha-evento": "2025-12-13T12:30:20-05:00",
     "img": "5159a812-2f30-4157-986f-5bf37cde70a0",
-    "nombre": "disney57a952",
+    "nombre": "disneyd08e01",
     "status": "12:30",
-    "duration": 209,
-    "play_url": "https://www.disneyplus.com/es-es/play/46cd957f-e2f3-4a98-ac14-bc64f0e87b31",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1765734116~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F13%2FAnaheim_Ducks_vs_New_Jers_20251213_1765639859033%2F~psid=85f0345a-84da-4bc8-872e-4afe9944c2e2~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=6c17f378f4e9322928f94459d8166c21c99d478b6dcff5dbc5aaffe34d7c6092/clt1/va02/disneyplus/event/2025/12/13/Anaheim_Ducks_vs_New_Jers_20251213_1765639859033/ctr-all-hdri-complete.m3u8?v=1&hash=af0fac275cbaaa979ebe9004de49c1aace19dd46",
-    "k1": "9153104ea85a4a73bdbf1a8c8435af9b",
-    "k2": "3e82291a7650828e675c8ae091159fac"
+    "duration": 210,
+    "play_url": "https://www.disneyplus.com/es-es/play/74edb04e-f544-4771-b318-f8128740f164",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1765735224~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F13%2FAnaheim_Ducks_vs_New_Jers_20251213_1765639860621%2F~psid=0cda40cb-e1fb-4fd6-8507-e5e1228c4132~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=69b244263cd2774d6559b739389e7f7b9961d68a1cff218c7b3dbc81393243ea/clt1/va02/disneyplus/event/2025/12/13/Anaheim_Ducks_vs_New_Jers_20251213_1765639860621/ctr-all-hdri-complete.m3u8?v=1&hash=eeb2d66d6725f26460f90e380b17be7ee3e114a2",
+    "k1": "e7c4ed383fed4978ac50cad228dbef77",
+    "k2": "63d2b67a7f8b89d0ff57416d33d83525"
   },
   {
     "title": "Metz vs. PSG",
@@ -227,8 +227,11 @@
     "img": "019ae0e8-4fec-7ad9-9b5f-cf36f59b47e3",
     "nombre": "disney01689f",
     "status": "12:50",
-    "duration": 135,
-    "play_url": ""
+    "duration": 125,
+    "play_url": "https://www.disneyplus.com/es-es/play/edb1d495-9b28-4153-a706-c7d8b69ad6c2",
+    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1765735269~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Ff25bdf06-81c9-4a7c-b128-3128d610ad17-1762951253360%2F~psid=f3b2c513-8b2d-4a58-aea1-af9757c9ec99~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=10dec9b32845d29a04b2bc3afe081f345a81d6cd316b45e6794b2f3e8fb11294/clt1/va02/disneyplus/channel/f25bdf06-81c9-4a7c-b128-3128d610ad17-1762951253360/ctr-all-sliding-alt1.m3u8?v=1&hash=57a1e5c4737768952c5164be5d4f5ba525d47674",
+    "k1": "e9b46401e1fe4cc69589444ca91c5caa",
+    "k2": "615be185a150134f7207e73e04a82cf3"
   },
   {
     "title": "Bethel (MN) vs. North Central (IL) (Quarterfinal)",
