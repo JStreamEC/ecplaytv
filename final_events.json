@@ -13,32 +13,6 @@
     "k2": "bb40fb16a2fd776ecac8de3cee00e08f"
   },
   {
-    "title": "Freiburg vs. Borussia Dortmund",
-    "league": "Bundesliga",
-    "fecha-evento": "2025-12-14T09:20:00-05:00",
-    "img": "019b17e9-c0e9-749e-8f9a-a21e6b549d7f",
-    "nombre": "disney4cf4e8",
-    "status": "09:20",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/fbd2deeb-c726-4c82-af07-01524e4030f5",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1765808468~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F14%2FFreiburg_vs_Borussia_Dort_20251214_1765717011624%2F~psid=8eacb38d-07e8-4808-9c53-33af27e040c4~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=cb620cd74a64757e4ba249ef633964a8932269f22354550a4d05caf2e8be1e09/clt1/va02/disneyplus/event/2025/12/14/Freiburg_vs_Borussia_Dort_20251214_1765717011624/ctr-all-hdri-complete.m3u8?v=1&hash=8ecc12a39c63499846ba8674cd09eefb301098a4",
-    "k1": "11822028a3074e72ab9e9369bb997571",
-    "k2": "0868ffa74e258de52d5839d8943bc74c"
-  },
-  {
-    "title": "Manchester United vs. Tottenham Hotspur",
-    "league": "English Women's Super League",
-    "fecha-evento": "2025-12-14T09:20:10-05:00",
-    "img": "019b0428-b778-76c1-9216-57dbd1877dbf",
-    "nombre": "disneydb9900",
-    "status": "09:20",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/0c68ef78-e858-4dc7-9584-17666a9c27be",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1765809625~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F14%2FManchester_United_vs_Tott_20251214_1765717920000%2F~psid=165f45ec-ed72-419b-81ba-44ed258e6af9~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=2aeea58c6f2cc7b7d5d40f40efef1d7f53db654bd89fb9ceb75743094abeb723/clt1/va02/disneyplus/event/2025/12/14/Manchester_United_vs_Tott_20251214_1765717920000/ctr-all-hdri-complete.m3u8?v=1&hash=36aa73b4b0bd0cf454654d8d056aa13b8ff1a6d3",
-    "k1": "a7a9cd9d239844ea9d5bea81ffe501fd",
-    "k2": "d8dc34754439345085c19aa991e4cb0c"
-  },
-  {
     "title": "Auxerre vs. Lille",
     "league": "Ligue 1",
     "fecha-evento": "2025-12-14T11:03:09-05:00",
@@ -547,6 +521,26 @@
     "img": "019b01fa-4eed-7796-819d-cd5b8045bab0",
     "nombre": "disney2d1f51",
     "status": "10:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Cardiff City vs. Chelsea (Quarterfinals)",
+    "league": "Carabao Cup",
+    "fecha-evento": "2025-12-16T14:45:00-05:00",
+    "img": "019b0498-deb2-761e-9056-b4ca2d35ccf7",
+    "nombre": "disney25a94f",
+    "status": "14:45",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "North Dakota State vs. Pepperdine",
+    "league": "Básquet Femenino NCAA",
+    "fecha-evento": "2025-12-16T17:00:00-05:00",
+    "img": "019aa860-a52c-74e6-97c3-ba91e26f181a",
+    "nombre": "disneyfe421a",
+    "status": "17:00",
     "duration": 135,
     "play_url": ""
   }
