@@ -52,19 +52,6 @@
     "k2": "82b7a85952419c03880cd18568a30ba7"
   },
   {
-    "title": "Penn State vs. #3 South Carolina",
-    "league": "Básquet Femenino NCAA",
-    "fecha-evento": "2025-12-14T15:30:07-05:00",
-    "img": "019a126d-08ec-705b-bc13-96aa08259132",
-    "nombre": "disney3828b4",
-    "status": "15:30",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/7b4a24e8-c0b2-42b6-9fa7-8371d018a8d3",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1765831269~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F14%2FPenn_State_vs_3_South_Car_20251214_1765737471680%2F~psid=d2d737a4-6361-48e2-b56f-15466c8ed8ed~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=ff0d5c26146f2e7b7da26ac383f68af8bee9382bb1e3deaabaae9778e1b8f218/clt1/va02/disneyplus/event/2025/12/14/Penn_State_vs_3_South_Car_20251214_1765737471680/ctr-all-hdri-complete.m3u8?v=1&hash=7d2140f66197e7d2834e0060f9b61187fb7ce381",
-    "k1": "a2a98f76edc1464985e32cac5fb992b9",
-    "k2": "374aac204070b69be472773c8a5624b1"
-  },
-  {
     "title": "Green Bay Packers vs. Denver Broncos",
     "league": "NFL",
     "fecha-evento": "2025-12-14T15:57:00-05:00",
@@ -518,6 +505,16 @@
     "img": "1569256a-722a-476b-b339-1857f126a796",
     "nombre": "disney04a2b5",
     "status": "19:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Washington Capitals vs. Minnesota Wild",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-12-16T20:00:00-05:00",
+    "img": "3e7f8cb0-4250-40da-b8d2-b23170bf1bd4",
+    "nombre": "disneyd72bde",
+    "status": "20:00",
     "duration": 135,
     "play_url": ""
   }
