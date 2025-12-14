@@ -13,19 +13,6 @@
     "k2": "bb40fb16a2fd776ecac8de3cee00e08f"
   },
   {
-    "title": "FC Schalke 04 vs. 1. FC Nurnberg",
-    "league": "Bundesliga 2 de Alemania",
-    "fecha-evento": "2025-12-14T07:20:01-05:00",
-    "img": "019aa2e9-8377-7c1f-a4ef-89bbd8424de4",
-    "nombre": "disney5f946a",
-    "status": "07:20",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/b9f40eba-d457-43a5-a484-a75870039854",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1765806173~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F14%2FFC_Schalke_04_vs_1_FC_Nur_20251214_1765707627031%2F~psid=55adf03e-065b-44b2-8832-d132f6f9ab66~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=f425c2abaf7ff9d4ef55390ecc5b9cd55f7e0b67579cd3e85fe1d3959a81163d/clt1/va02/disneyplus/event/2025/12/14/FC_Schalke_04_vs_1_FC_Nur_20251214_1765707627031/ctr-all-hdri-complete.m3u8?v=1&hash=88170220356402754511f612d508023eb24624dd",
-    "k1": "480eebd78b7e47d6beaa672d4a52c358",
-    "k2": "b4ba9c6f25db17e7a4c3df24bee37c5d"
-  },
-  {
     "title": "Sevilla vs. Real Oviedo",
     "league": "LALIGA",
     "fecha-evento": "2025-12-14T07:50:00-05:00",
@@ -598,6 +585,16 @@
     "img": "019b0537-3129-7cd6-885b-c9af93e6d7af",
     "nombre": "disney28f462",
     "status": "14:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "NCAA Men's College Cup (Championship)",
+    "league": "Fútbol Masculino NCAA",
+    "fecha-evento": "2025-12-15T19:00:00-05:00",
+    "img": "9b6ec07d-3eb7-4b39-b77e-d7b852a50eab",
+    "nombre": "disneybdd8b4",
+    "status": "19:00",
     "duration": 135,
     "play_url": ""
   }
