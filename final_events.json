@@ -13,19 +13,6 @@
     "k2": "bb40fb16a2fd776ecac8de3cee00e08f"
   },
   {
-    "title": "Buffalo Bills vs. New England Patriots",
-    "league": "NFL",
-    "fecha-evento": "2025-12-14T13:00:00-05:00",
-    "img": "0385ea1c-1a32-4f2d-b665-725cbc4de562",
-    "nombre": "disney052bc2",
-    "status": "13:00",
-    "duration": 180,
-    "play_url": "https://www.disneyplus.com/es-es/play/22f76171-97da-4a47-aced-32c127b0c31e",
-    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1765825270~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F7f9052ce-8143-43a6-9656-a8c00c4a3e56-1762950862652%2F~psid=64b4d43d-f295-4266-9127-5641b8f153c1~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=a9e1b9d503ef996466d4735cee4ffc39c8385976b0530a7bb7c6f9e2b49f4c1c/clt1/va02/disneyplus/channel/7f9052ce-8143-43a6-9656-a8c00c4a3e56-1762950862652/ctr-all-sliding-alt1.m3u8?v=1&hash=2daf186937da77473bf07bbbecfc5597024e944f",
-    "k1": "397452ed69694ed5924988cc1605547d",
-    "k2": "24eda994b041f7d482ac25304318fcd8"
-  },
-  {
     "title": "NFL Redzone",
     "league": "NFL",
     "fecha-evento": "2025-12-14T13:00:00-05:00",
@@ -158,32 +145,41 @@
   {
     "title": "Arizona State vs. Oregon State",
     "league": "Básquet Femenino NCAA",
-    "fecha-evento": "2025-12-14T16:00:00-05:00",
+    "fecha-evento": "2025-12-14T16:00:05-05:00",
     "img": "019aa861-3316-71df-afc2-f831bdb5ce44",
-    "nombre": "disney38ce70",
+    "nombre": "disney51296d",
     "status": "16:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Vaqueros de Montería vs. Caimanes de Barranquilla",
-    "league": "Colombian Beisbol",
-    "fecha-evento": "2025-12-14T16:00:00-05:00",
-    "img": "019a9da2-34be-7cc5-ae57-3cbdfb59b367",
-    "nombre": "disney7a746d",
-    "status": "16:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/517a433b-9637-4b92-b964-c412bf09bfff",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1765833625~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F14%2FArizona_State_vs_Oregon_S_20251214_1765741971911%2F~psid=2cbd9df5-a21d-4c83-b368-0640de417c6e~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=8b244fc5a3b7bae3c4252ed24c653c87785d21bd7a8a2829636007b42005eafe/clt1/va02/disneyplus/event/2025/12/14/Arizona_State_vs_Oregon_S_20251214_1765741971911/ctr-all-hdri-complete.m3u8?v=1&hash=942f60c7eaa23614d49699071d78b36b9aba8642",
+    "k1": "7f0f72cc7681400ab118b6b8e06ad0a3",
+    "k2": "3596c3fd4d8ddce07124d35622616c07"
   },
   {
     "title": "Detroit Lions vs. Los Angeles Rams",
     "league": "NFL",
-    "fecha-evento": "2025-12-14T16:05:00-05:00",
+    "fecha-evento": "2025-12-14T16:09:00-05:00",
     "img": "019ae0f5-107a-7f21-9122-fa4afe23d4d0",
-    "nombre": "disney9af9f0",
-    "status": "16:05",
-    "duration": 135,
-    "play_url": ""
+    "nombre": "disney8e6c67",
+    "status": "16:09",
+    "duration": 201,
+    "play_url": "https://www.disneyplus.com/es-es/play/acf76a79-9630-4cca-aa04-81eb294b2885",
+    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1765833669~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F7f9052ce-8143-43a6-9656-a8c00c4a3e56-1762950862652%2F~psid=2ee0616f-9bcc-4c2d-862f-3322296c2bfe~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=1a7c627c21316bfd665d7a9713c924a02dc40778c7cb82afdb44019da0eff449/clt1/va02/disneyplus/channel/7f9052ce-8143-43a6-9656-a8c00c4a3e56-1762950862652/ctr-all-sliding-alt1.m3u8?v=1&hash=2daf186937da77473bf07bbbecfc5597024e944f",
+    "k1": "397452ed69694ed5924988cc1605547d",
+    "k2": "24eda994b041f7d482ac25304318fcd8"
+  },
+  {
+    "title": "Vaqueros de Montería vs. Caimanes de Barranquilla",
+    "league": "Colombian Beisbol",
+    "fecha-evento": "2025-12-14T16:00:17-05:00",
+    "img": "019a9da2-34be-7cc5-ae57-3cbdfb59b367",
+    "nombre": "disney341324",
+    "status": "16:00",
+    "duration": 180,
+    "play_url": "https://www.disneyplus.com/es-es/play/59acc240-c6d1-438f-a52b-83208b437f06",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1765833714~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F14%2FVaqueros_de_Montera_vs_Ca_20251214_1765738842037%2F~psid=46128f28-250b-40f3-bc1d-3d38d39ba0ee~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=43083fb0562c6fed8de954bea3d65b89faba41b3e77ab5e1f9de19b0c137f8b5/clt1/va02/disneyplus/event/2025/12/14/Vaqueros_de_Montera_vs_Ca_20251214_1765738842037/ctr-all-hdri-complete.m3u8?v=1&hash=594db4f764b2395d41ab94fbf1de4181b34aa582",
+    "k1": "880b355e99af49edaebaed3209c7e1f9",
+    "k2": "708561e9869d48f1791cead3b8c3fcee"
   },
   {
     "title": "Philadelphia Flyers vs. Carolina Hurricanes",
@@ -521,6 +517,16 @@
     "fecha-evento": "2025-12-16T19:00:00-05:00",
     "img": "019a79b4-3f0f-776f-86ac-09e4257d8c1a",
     "nombre": "disney23b6a9",
+    "status": "19:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "South Carolina vs. Clemson",
+    "league": "Básquetbol Masculino NCAA",
+    "fecha-evento": "2025-12-16T19:00:00-05:00",
+    "img": "9bdda981-3459-463e-85ef-08713fe32022",
+    "nombre": "disneyf8e77a",
     "status": "19:00",
     "duration": 135,
     "play_url": ""
