@@ -13,19 +13,6 @@
     "k2": "bb40fb16a2fd776ecac8de3cee00e08f"
   },
   {
-    "title": "Sevilla vs. Real Oviedo",
-    "league": "LALIGA",
-    "fecha-evento": "2025-12-14T07:50:00-05:00",
-    "img": "5f1ad933-47ae-4cac-adb9-084e59679510",
-    "nombre": "disney619da7",
-    "status": "07:50",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/99717471-315c-4e1b-8ef9-ee002d485712",
-    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1765806250~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Ff25bdf06-81c9-4a7c-b128-3128d610ad17-1762951253360%2F~psid=dd552917-31c4-4e02-8bc6-4afee4ef8ece~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=53db93a07fbaf0998f8f23b1b07263d0094d8d4ca32bc00816f7bada65830003/clt1/va02/disneyplus/channel/f25bdf06-81c9-4a7c-b128-3128d610ad17-1762951253360/ctr-all-sliding-alt1.m3u8?v=1&hash=57a1e5c4737768952c5164be5d4f5ba525d47674",
-    "k1": "fa3787f7ef3d465bb7a2d3cd2229cd18",
-    "k2": "82b7a85952419c03880cd18568a30ba7"
-  },
-  {
     "title": "Ajax vs. Feyenoord",
     "league": "Eredivisie",
     "fecha-evento": "2025-12-14T08:20:00-05:00",
@@ -594,6 +581,16 @@
     "fecha-evento": "2025-12-15T19:00:00-05:00",
     "img": "9b6ec07d-3eb7-4b39-b77e-d7b852a50eab",
     "nombre": "disneybdd8b4",
+    "status": "19:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Anaheim Ducks vs. New York Rangers",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-12-15T19:00:00-05:00",
+    "img": "f4ad66f1-9311-4c11-bacf-4dbe0b497b0d",
+    "nombre": "disneydf65d9",
     "status": "19:00",
     "duration": 135,
     "play_url": ""
