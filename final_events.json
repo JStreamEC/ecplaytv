@@ -13,19 +13,6 @@
     "k2": "bb40fb16a2fd776ecac8de3cee00e08f"
   },
   {
-    "title": "Almeria vs. Burgos",
-    "league": "Segunda División de España",
-    "fecha-evento": "2025-12-14T12:24:59-05:00",
-    "img": "019abbf4-526b-7a39-a5f4-6d8a483a20a7",
-    "nombre": "disneya6b9b5",
-    "status": "12:24",
-    "duration": 125,
-    "play_url": "https://www.disneyplus.com/es-es/play/1845ab4f-8b38-4dcc-82f8-86102077fc77",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1765820473~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F14%2FAlmeria_vs_Burgos_20251214_1765725902041%2F~psid=f52ca499-e395-49e6-b59e-172718346a7c~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=bb57470dfed81c92ef8885fd4ccf2b5fa9c91dbf451f0fb78a1af3579bbd5a94/clt1/va02/disneyplus/event/2025/12/14/Almeria_vs_Burgos_20251214_1765725902041/ctr-all-hdri-complete.m3u8?v=1&hash=755ff3ed90916aec241732476a6354faeb6052b5",
-    "k1": "9643239f7ae74c198e0c5338e7ce9f8a",
-    "k2": "f516da9cea6cfed209b90569b2915e09"
-  },
-  {
     "title": "Vancouver Canucks vs. New Jersey Devils",
     "league": "National Hockey League",
     "fecha-evento": "2025-12-14T12:30:08-05:00",
@@ -136,8 +123,11 @@
     "img": "5f1ad933-47ae-4cac-adb9-084e59679510",
     "nombre": "disney66a687",
     "status": "14:45",
-    "duration": 135,
-    "play_url": ""
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/9ef7551a-68c2-4c65-a5b7-7856ddcc8b92",
+    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1765828822~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F921e1311-bb26-43dd-84a6-9e2284959712-1762950465141%2F~psid=c4a5e920-98a0-4e52-85a9-e4a9e6faa2e5~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=0159b7ac1ecc829888213be06706cf50fbbedf43d33d009d8ef1f381ab000fcf/clt1/va02/disneyplus/channel/921e1311-bb26-43dd-84a6-9e2284959712-1762950465141/ctr-all-sliding-alt1.m3u8?v=1&hash=03915bf69f19826611ecdeecc79455eab40b229c",
+    "k1": "7bface1b0b024ade962fd9095e5c27ea",
+    "k2": "3432e7810f12b2f8e7268d5c6445d230"
   },
   {
     "title": "Utah Mammoth vs. Pittsburgh Penguins",
@@ -525,6 +515,16 @@
     "fecha-evento": "2025-12-16T19:00:00-05:00",
     "img": "019b0407-3422-7e67-a44d-c66836a77487",
     "nombre": "disney496097",
+    "status": "19:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Utah Mammoth vs. Boston Bruins",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-12-16T19:00:00-05:00",
+    "img": "019aea70-adf5-753e-89ac-e88add4b74d2",
+    "nombre": "disney725719",
     "status": "19:00",
     "duration": 135,
     "play_url": ""
