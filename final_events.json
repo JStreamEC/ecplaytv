@@ -26,32 +26,6 @@
     "k2": "b4ba9c6f25db17e7a4c3df24bee37c5d"
   },
   {
-    "title": "SV Darmstadt 98 vs. Preußen Münster",
-    "league": "Bundesliga 2 de Alemania",
-    "fecha-evento": "2025-12-14T07:20:20-05:00",
-    "img": "019ae61e-d63f-7627-a82d-5340d456ba51",
-    "nombre": "disney7dbe16",
-    "status": "07:20",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/666b6bca-58d4-4981-9cce-7050fa9521fc",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1765806198~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F14%2FSV_Darmstadt_98_vs_Preuen_20251214_1765707955028%2F~psid=3ebc7fc2-5eb4-430c-9c46-2e3a59e350d4~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=409b472e778c9829ef01e9c14a54953d4891a8e09914ca32920600a032da33e4/clt1/va02/disneyplus/event/2025/12/14/SV_Darmstadt_98_vs_Preuen_20251214_1765707955028/ctr-all-hdri-complete.m3u8?v=1&hash=9ce5b2c3a2aef5b667f8338df650c0b80dd9c3f4",
-    "k1": "65b114b0f2ec493da8fa0f6f70218d68",
-    "k2": "3b66cc26378023588ce14ee45f809a05"
-  },
-  {
-    "title": "SV Elversberg vs. Fortuna Dusseldorf",
-    "league": "Bundesliga 2 de Alemania",
-    "fecha-evento": "2025-12-14T07:20:22-05:00",
-    "img": "019ae821-9bff-78f9-a9b8-7e24c34c98fe",
-    "nombre": "disney936420",
-    "status": "07:20",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/7fbcdee9-209e-44cf-9bc9-57e54ed86f51",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1765806224~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F14%2FSV_Elversberg_vs_Fortuna__20251214_1765707950036%2F~psid=471f5594-de5c-463c-8d0d-76018867c7fa~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=f33149987ce948dec70e338b664e8eff5811719ba6bbfc1285bafe741d31c8b7/clt1/va02/disneyplus/event/2025/12/14/SV_Elversberg_vs_Fortuna__20251214_1765707950036/ctr-all-hdri-complete.m3u8?v=1&hash=d1f4d3896e8655095eb889ff1040be6247d78b0d",
-    "k1": "76532244fb064638b315c6343b177256",
-    "k2": "f882b06e7091cb723c9b0efa767fcbf6"
-  },
-  {
     "title": "Sevilla vs. Real Oviedo",
     "league": "LALIGA",
     "fecha-evento": "2025-12-14T07:50:00-05:00",
@@ -197,12 +171,15 @@
   {
     "title": "Manchester United vs. Tottenham Hotspur",
     "league": "English Women's Super League",
-    "fecha-evento": "2025-12-14T09:25:00-05:00",
+    "fecha-evento": "2025-12-14T09:20:10-05:00",
     "img": "019b0428-b778-76c1-9216-57dbd1877dbf",
-    "nombre": "disney0f5c57",
-    "status": "09:25",
-    "duration": 135,
-    "play_url": ""
+    "nombre": "disneydb9900",
+    "status": "09:20",
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/0c68ef78-e858-4dc7-9584-17666a9c27be",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1765809625~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F14%2FManchester_United_vs_Tott_20251214_1765717920000%2F~psid=165f45ec-ed72-419b-81ba-44ed258e6af9~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=2aeea58c6f2cc7b7d5d40f40efef1d7f53db654bd89fb9ceb75743094abeb723/clt1/va02/disneyplus/event/2025/12/14/Manchester_United_vs_Tott_20251214_1765717920000/ctr-all-hdri-complete.m3u8?v=1&hash=36aa73b4b0bd0cf454654d8d056aa13b8ff1a6d3",
+    "k1": "a7a9cd9d239844ea9d5bea81ffe501fd",
+    "k2": "d8dc34754439345085c19aa991e4cb0c"
   },
   {
     "title": "Lens vs. Nice",
@@ -601,6 +578,26 @@
     "img": "019ae0da-a732-7fb1-af7a-71619de264a3",
     "nombre": "disneyb798d2",
     "status": "14:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Manchester United vs. Bournemouth",
+    "league": "Premier League",
+    "fecha-evento": "2025-12-15T14:50:00-05:00",
+    "img": "019afe48-2cc5-76cb-9d73-b2cd0eae4fc5",
+    "nombre": "disney3d6f0d",
+    "status": "14:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Sheffield Wednesday vs. Derby County",
+    "league": "Championship de Inglaterra",
+    "fecha-evento": "2025-12-15T14:50:00-05:00",
+    "img": "019b0537-3129-7cd6-885b-c9af93e6d7af",
+    "nombre": "disney28f462",
+    "status": "14:50",
     "duration": 135,
     "play_url": ""
   }
