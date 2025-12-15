@@ -1,18 +1,5 @@
 [
   {
-    "title": "NFL Redzone",
-    "league": "NFL",
-    "fecha-evento": "2025-12-14T13:00:00-05:00",
-    "img": "46b859dc-33d0-42a8-9651-7c408024d849",
-    "nombre": "disney09af99",
-    "status": "13:00",
-    "duration": 390,
-    "play_url": "https://www.disneyplus.com/es-es/play/b9761f12-2769-4b94-9b84-6d94d0d56098",
-    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1765825316~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Fec26a05e-a9cc-4db4-804e-77465738e667-1762950455142%2F~psid=98005ee5-116d-4db5-814e-83247ec7813c~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=97317ca9a8434127160a747697ebb01aee16be05c7d0c0628ec17106784bc6f2/clt1/va02/disneyplus/channel/ec26a05e-a9cc-4db4-804e-77465738e667-1762950455142/ctr-all-sliding-alt1.m3u8?v=1&hash=e2faf4444722e1f805096ad7b7489a5d09f9944f",
-    "k1": "863cdcd0f06c49a484ea09efbd71a504",
-    "k2": "428349eacd26b51aa16ab7412568a50b"
-  },
-  {
     "title": "Green Bay Packers vs. Denver Broncos",
     "league": "NFL",
     "fecha-evento": "2025-12-14T15:57:00-05:00",
@@ -39,102 +26,17 @@
     "k2": "24eda994b041f7d482ac25304318fcd8"
   },
   {
-    "title": "Vaqueros de Montería vs. Caimanes de Barranquilla",
-    "league": "Colombian Beisbol",
-    "fecha-evento": "2025-12-14T16:00:17-05:00",
-    "img": "019a9da2-34be-7cc5-ae57-3cbdfb59b367",
-    "nombre": "disney341324",
-    "status": "16:00",
-    "duration": 180,
-    "play_url": "https://www.disneyplus.com/es-es/play/59acc240-c6d1-438f-a52b-83208b437f06",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1765833714~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F14%2FVaqueros_de_Montera_vs_Ca_20251214_1765738842037%2F~psid=46128f28-250b-40f3-bc1d-3d38d39ba0ee~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=43083fb0562c6fed8de954bea3d65b89faba41b3e77ab5e1f9de19b0c137f8b5/clt1/va02/disneyplus/event/2025/12/14/Vaqueros_de_Montera_vs_Ca_20251214_1765738842037/ctr-all-hdri-complete.m3u8?v=1&hash=594db4f764b2395d41ab94fbf1de4181b34aa582",
-    "k1": "880b355e99af49edaebaed3209c7e1f9",
-    "k2": "708561e9869d48f1791cead3b8c3fcee"
-  },
-  {
-    "title": "Philadelphia Flyers vs. Carolina Hurricanes",
-    "league": "National Hockey League",
-    "fecha-evento": "2025-12-14T17:00:00-05:00",
-    "img": "04dff49a-a433-4a45-9b27-98ec64a4e200",
-    "nombre": "disneycadb80",
-    "status": "17:00",
-    "duration": 210,
-    "play_url": "https://www.disneyplus.com/es-es/play/0980b17c-6fa4-41f9-a39b-b7df32988659",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1765836024~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F14%2FPhiladelphia_Flyers_vs_Ca_20251214_1765744621568%2F~psid=e1a317a5-377f-487c-8554-f4f0f4000dfc~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=c814ffa25a7bb4a8f022485cac1714cb190edda3415b18ab32aadbd81f50aadf/clt1/va02/disneyplus/event/2025/12/14/Philadelphia_Flyers_vs_Ca_20251214_1765744621568/ctr-all-hdri-complete.m3u8?v=1&hash=66a551fa1ff970217b4d585ed79f625767819f2c",
-    "k1": "6a67b2711c07468880982719e1d02334",
-    "k2": "22b14ded21e718eea2dde022baec9280"
-  },
-  {
-    "title": "UC Riverside vs. San Diego",
-    "league": "Básquet Femenino NCAA",
-    "fecha-evento": "2025-12-14T17:00:00-05:00",
-    "img": "a724c02f-b3f0-43a8-9f67-1cc0f8acff16",
-    "nombre": "disney128342",
-    "status": "17:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/7dd032e9-ab7f-4172-a7fb-a43ede82274b",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1765836112~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F14%2FUC_Riverside_vs_San_Diego_20251214_1765744611941%2F~psid=fc529b9e-b9b2-4988-9f75-f1ed47f1168b~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=58c758fe75073613a7abb771ac09de5217249eaa78a3bae3904a31f37f276b62/clt1/va02/disneyplus/event/2025/12/14/UC_Riverside_vs_San_Diego_20251214_1765744611941/ctr-all-hdri-complete.m3u8?v=1&hash=4af7d4e41e325675f6a58192ccbc49dd03d9f8eb",
-    "k1": "af786e8698bc4809be90b66540c6842c",
-    "k2": "def162be88484fe9b526e865c4d3b7d2"
-  },
-  {
-    "title": "Rochester Knighthawks vs. San Diego Seals",
-    "league": "National Lacrosse League",
-    "fecha-evento": "2025-12-14T17:00:00-05:00",
-    "img": "019a5ed1-2473-7c4a-8c42-ed4f1e883dc5",
-    "nombre": "disneyb822f7",
-    "status": "17:00",
-    "duration": 150,
-    "play_url": "https://www.disneyplus.com/es-es/play/9f687a6f-2445-4ad8-9159-dd64e6119828",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1765837224~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F14%2FRochester_Knighthawks_vs__20251214_1765742429040%2F~psid=939bd94b-e425-4fb8-b21f-d5252325ec29~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=43e75d9f66665fe140cb44414efe0944f2d530e99c7df54078c553ec485fb31d/clt1/va02/disneyplus/event/2025/12/14/Rochester_Knighthawks_vs__20251214_1765742429040/ctr-all-hdri-complete.m3u8?v=1&hash=da4aaaed20303255d50352cccf0f88b10ce9cc40",
-    "k1": "713824ad1a954ae7b0c2dd0748af749e",
-    "k2": "ac4e8297ef5f5a5e0028505652983caa"
-  },
-  {
-    "title": "Argentina vs. Pakistán",
-    "league": "FIH Pro League",
-    "fecha-evento": "2025-12-14T17:00:00-05:00",
-    "img": "019b0f54-0148-745c-a2a8-3368986c5c22",
-    "nombre": "disney369c63",
-    "status": "17:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/fd68fe7f-8e92-4a5f-ae48-57c0131eecc7",
-    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1765836162~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Fbbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1762950822680%2F~psid=b232d6ac-7b29-44cb-be81-3b581241fa35~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=5e24986e5d4a64e02a47499565161329c0129d8a7c887c7692210f97b4087d79/clt1/va02/disneyplus/channel/bbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1762950822680/ctr-all-sliding-alt1.m3u8?v=1&hash=2204dc483842bd9152836a99fc823b0b9e410a70",
-    "k1": "0d57972543a04e09ab855e0fb0dbfc9c",
-    "k2": "3e20605d4ef81f0d33c912cef078bbd2"
-  },
-  {
-    "title": "Kent State vs. Portland",
-    "league": "Básquetbol Masculino NCAA",
-    "fecha-evento": "2025-12-14T17:00:00-05:00",
-    "img": "019aa861-3053-72de-a11e-86dddecc9e7a",
-    "nombre": "disney55da9d",
-    "status": "17:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/cb1a589e-581a-4f31-95a0-cdc5f29a8f46",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1765836138~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F14%2FKent_State_vs_Portland_20251214_1765742436043%2F~psid=67152b0f-cc0c-4387-9f86-2417646b1325~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=9ddf2416d770a2df036695330ccc4668827a4f1f8130af6d42ea71edde429af1/clt1/va02/disneyplus/event/2025/12/14/Kent_State_vs_Portland_20251214_1765742436043/ctr-all-hdri-complete.m3u8?v=1&hash=e660a5265e5047f1985638d4fcb892d4ebb891c1",
-    "k1": "79bd5e6d540846df87bff1a97698ca49",
-    "k2": "181ac0dbcaaf7c48cdf664f2ee1c5c1e"
-  },
-  {
-    "title": "Boston Bruins vs. Minnesota Wild",
-    "league": "National Hockey League",
-    "fecha-evento": "2025-12-14T18:00:00-05:00",
-    "img": "019addcd-d04e-77f5-b956-d0cce3803006",
-    "nombre": "disney2134e9",
-    "status": "18:00",
-    "duration": 210,
-    "play_url": "https://www.disneyplus.com/es-es/play/1498d26b-0735-41ab-9089-6ef967447b1f"
-  },
-  {
     "title": "Edmonton Oilers vs. Montreal Canadiens",
     "league": "National Hockey League",
-    "fecha-evento": "2025-12-14T19:00:00-05:00",
+    "fecha-evento": "2025-12-14T19:00:14-05:00",
     "img": "80a63747-12a4-4d1f-939c-6346c9fdcf6b",
-    "nombre": "disneyaf890d",
+    "nombre": "disney8399d1",
     "status": "19:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 210,
+    "play_url": "https://www.disneyplus.com/es-es/play/43f8303a-1566-4181-9a94-ac378cbe8cad",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1765844424~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F15%2FEdmonton_Oilers_vs_Montre_20251215_1765749623696%2F~psid=e0e2fce7-203a-4a46-8f2d-952c671ec67d~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=2e1c03e24436efc08a6c4c86a8898bfffaae54a45111275733f1d1a8e7527bfc/clt1/va02/disneyplus/event/2025/12/15/Edmonton_Oilers_vs_Montre_20251215_1765749623696/ctr-all-hdri-complete.m3u8?v=1&hash=3044487a061b991907c96adc880933198653eb25",
+    "k1": "05b8acfeb4e8428a8ff627062be9c867",
+    "k2": "ef26be23d91f7d7800e2bb8039f9ab1f"
   },
   {
     "title": "#3 Wisconsin vs. #1 Texas (Regional Final)",
@@ -503,6 +405,86 @@
     "img": "019a79b4-37f2-79df-bdea-f9bd98c8d4ba",
     "nombre": "disney5e4041",
     "status": "21:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Arizona State vs. Gonzaga",
+    "league": "Básquet Femenino NCAA",
+    "fecha-evento": "2025-12-16T21:00:00-05:00",
+    "img": "cf988dd3-1c72-4bbc-bf61-c1d2c0159d61",
+    "nombre": "disney40e8d6",
+    "status": "21:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Chapman University vs. Loyola Marymount",
+    "league": "Básquet Femenino NCAA",
+    "fecha-evento": "2025-12-16T21:00:00-05:00",
+    "img": "019b0dff-2dcd-7de7-b3b7-19e8e0d300b4",
+    "nombre": "disneye7b193",
+    "status": "21:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Towson vs. #19 Kansas",
+    "league": "Básquetbol Masculino NCAA",
+    "fecha-evento": "2025-12-16T21:00:00-05:00",
+    "img": "019a2d9c-cfa9-762c-8407-ed665c3697ad",
+    "nombre": "disney7a506c",
+    "status": "21:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "San Diego Clippers vs. South Bay Lakers",
+    "league": "NBA G League",
+    "fecha-evento": "2025-12-16T22:00:00-05:00",
+    "img": "0c7d435b-7017-4eea-b92c-1bdb0c20aa34",
+    "nombre": "disney07802f",
+    "status": "22:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Calgary Flames vs. San Jose Sharks",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-12-16T22:00:00-05:00",
+    "img": "76ab009c-5512-4e82-b86b-7110ebfd0186",
+    "nombre": "disney655295",
+    "status": "22:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "UC San Diego vs. Loyola Marymount",
+    "league": "Básquetbol Masculino NCAA",
+    "fecha-evento": "2025-12-16T23:30:00-05:00",
+    "img": "019a28d3-ebc0-7276-9add-836d69663d05",
+    "nombre": "disney42c953",
+    "status": "23:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Next Gen ATP Finals (Round Robin - Day #1)",
+    "league": "ATP",
+    "fecha-evento": "2025-12-17T06:00:00-05:00",
+    "img": "019ae4aa-3bc9-7ea9-ac37-a1f529024b64",
+    "nombre": "disney59c710",
+    "status": "06:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Manchester City vs. Brentford (Quarterfinals)",
+    "league": "Carabao Cup",
+    "fecha-evento": "2025-12-17T14:20:00-05:00",
+    "img": "019b04c7-d52c-702e-8df1-8d514850458d",
+    "nombre": "disney2469af",
+    "status": "14:20",
     "duration": 135,
     "play_url": ""
   }
