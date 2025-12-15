@@ -1,31 +1,5 @@
 [
   {
-    "title": "Green Bay Packers vs. Denver Broncos",
-    "league": "NFL",
-    "fecha-evento": "2025-12-14T15:57:00-05:00",
-    "img": "019ae2f7-aad5-7ebf-8a87-62819d1a3100",
-    "nombre": "disney054ff1",
-    "status": "15:57",
-    "duration": 213,
-    "play_url": "https://www.disneyplus.com/es-es/play/161e11b5-b9f9-4a73-b96b-25d170c8eb87",
-    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1765832423~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F47873700-1b85-4497-8f84-d6f321fbb196-1762950817735%2F~psid=524a9466-e295-4ed0-8b06-04d8d06ba853~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=3cd8a64cab090d88eb2bb07130ab9070f80568d6427e280da338b57e06ebe5bf/clt1/va02/disneyplus/channel/47873700-1b85-4497-8f84-d6f321fbb196-1762950817735/ctr-all-sliding-alt1.m3u8?v=1&hash=47b2c0b057c5c5c39ef0f49826b655a1e4ceacb9",
-    "k1": "a3a619583bca418a81c2307f9a81ae75",
-    "k2": "a956a9ebc13925be666ef314f379c16f"
-  },
-  {
-    "title": "Detroit Lions vs. Los Angeles Rams",
-    "league": "NFL",
-    "fecha-evento": "2025-12-14T16:09:00-05:00",
-    "img": "019ae0f5-107a-7f21-9122-fa4afe23d4d0",
-    "nombre": "disney8e6c67",
-    "status": "16:09",
-    "duration": 201,
-    "play_url": "https://www.disneyplus.com/es-es/play/acf76a79-9630-4cca-aa04-81eb294b2885",
-    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1765833669~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F7f9052ce-8143-43a6-9656-a8c00c4a3e56-1762950862652%2F~psid=2ee0616f-9bcc-4c2d-862f-3322296c2bfe~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=1a7c627c21316bfd665d7a9713c924a02dc40778c7cb82afdb44019da0eff449/clt1/va02/disneyplus/channel/7f9052ce-8143-43a6-9656-a8c00c4a3e56-1762950862652/ctr-all-sliding-alt1.m3u8?v=1&hash=2daf186937da77473bf07bbbecfc5597024e944f",
-    "k1": "397452ed69694ed5924988cc1605547d",
-    "k2": "24eda994b041f7d482ac25304318fcd8"
-  },
-  {
     "title": "Edmonton Oilers vs. Montreal Canadiens",
     "league": "National Hockey League",
     "fecha-evento": "2025-12-14T19:00:14-05:00",
@@ -39,34 +13,43 @@
     "k2": "ef26be23d91f7d7800e2bb8039f9ab1f"
   },
   {
-    "title": "#3 Wisconsin vs. #1 Texas (Regional Final)",
-    "league": "NCAA Women's Volleyball",
-    "fecha-evento": "2025-12-14T19:30:00-05:00",
-    "img": "019b161e-94dd-7bc3-b0fb-fcb3b99d3b25",
-    "nombre": "disneye61dea",
-    "status": "19:30",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Argentina vs. Netherlands",
     "league": "Women's FIH Pro League",
     "fecha-evento": "2025-12-14T19:30:00-05:00",
     "img": "019b0f45-b03f-7926-9f9a-31ba6168edbd",
     "nombre": "disney8cab31",
     "status": "19:30",
-    "duration": 135,
-    "play_url": ""
+    "duration": 110,
+    "play_url": "https://www.disneyplus.com/es-es/play/74918cc4-c187-4841-bb37-765359354a31",
+    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1765848022~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Fbbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1762950822680%2F~psid=3bddb08b-a424-4a87-8147-b249165cc631~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=d9ea4af93a8411a9430ffaa6fbee4aa19a47ff0ebec735d3c5a6c77b81bcfe1c/clt1/va02/disneyplus/channel/bbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1762950822680/ctr-all-sliding-alt1.m3u8?v=1&hash=2204dc483842bd9152836a99fc823b0b9e410a70",
+    "k1": "0d57972543a04e09ab855e0fb0dbfc9c",
+    "k2": "3e20605d4ef81f0d33c912cef078bbd2"
+  },
+  {
+    "title": "#3 Wisconsin vs. #1 Texas (Regional Final)",
+    "league": "NCAA Women's Volleyball",
+    "fecha-evento": "2025-12-14T19:30:04-05:00",
+    "img": "019b161e-94dd-7bc3-b0fb-fcb3b99d3b25",
+    "nombre": "disney5c20d1",
+    "status": "19:30",
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/29958f1b-f1a3-46c4-bc82-0f00f1d169a9",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1765848067~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F15%2F3_Wisconsin_vs_1_Texas_Re_20251215_1765752351910%2F~psid=d350cc0c-7a21-4261-88c0-222bac636bbc~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=6949d7afcbee3f068f09b690c895a92f435f18f13320b9909ed9c52bd2c34287/clt1/va02/disneyplus/event/2025/12/15/3_Wisconsin_vs_1_Texas_Re_20251215_1765752351910/ctr-all-hdri-complete.m3u8?v=1&hash=e0f98bf51714a52dcef382181cbe8442cfdce3ef",
+    "k1": "4d89119f4adf4b48994d12062cacc67f",
+    "k2": "12944301bcb0f8b541336a132d3c5598"
   },
   {
     "title": "Buffalo Sabres vs. Seattle Kraken",
     "league": "National Hockey League",
-    "fecha-evento": "2025-12-14T20:00:00-05:00",
+    "fecha-evento": "2025-12-14T20:00:09-05:00",
     "img": "c2392b25-658f-4e72-9a5b-cb7f2b3bf2f2",
-    "nombre": "disney7db3fe",
+    "nombre": "disney0f494b",
     "status": "20:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 210,
+    "play_url": "https://www.disneyplus.com/es-es/play/78e83b19-1cdb-46fd-af90-d790718589d7",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1765848112~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F15%2FBuffalo_Sabres_vs_Seattle_20251215_1765753214037%2F~psid=988efecc-d14d-4a1a-ba42-b090356bf733~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=ebae764a5e1d43747c00055e9d946e613d5e58cdb6dba336ca0414cb356207b0/clt1/va02/disneyplus/event/2025/12/15/Buffalo_Sabres_vs_Seattle_20251215_1765753214037/ctr-all-hdri-complete.m3u8?v=1&hash=3b42c70d176abcc7ef347cad55cf7ee0564ced7f",
+    "k1": "e408c0652d7c4fc9801313d6eec5a3b9",
+    "k2": "8ed989f56e919188e05d7c94ed75e54f"
   },
   {
     "title": "Minnesota Vikings vs. Dallas Cowboys",
@@ -75,8 +58,11 @@
     "img": "019a2db0-bf29-7214-a534-0d254ecc4d3c",
     "nombre": "disney432211",
     "status": "20:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 210,
+    "play_url": "https://www.disneyplus.com/es-es/play/bd22faa9-31df-4333-89e3-556c9982eb4c",
+    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1765848138~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Ff25bdf06-81c9-4a7c-b128-3128d610ad17-1762951253360%2F~psid=e1b2b69a-3d52-4480-bf93-8ff34bcdb971~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=211c1d8a031fa94164c334cbf0d2e53c3de77429a8cc0a2b31bf80cfc09b2adf/clt1/va02/disneyplus/channel/f25bdf06-81c9-4a7c-b128-3128d610ad17-1762951253360/ctr-all-sliding-alt1.m3u8?v=1&hash=57a1e5c4737768952c5164be5d4f5ba525d47674",
+    "k1": "fa3787f7ef3d465bb7a2d3cd2229cd18",
+    "k2": "82b7a85952419c03880cd18568a30ba7"
   },
   {
     "title": "Compacto | Premier Padel | Barcelona (Final Masculina) (3 min)",
@@ -485,6 +471,26 @@
     "img": "019b04c7-d52c-702e-8df1-8d514850458d",
     "nombre": "disney2469af",
     "status": "14:20",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Paris FC vs. Barcelona",
+    "league": "UEFA Women's Champions League",
+    "fecha-evento": "2025-12-17T14:40:00-05:00",
+    "img": "019ae3e9-3d6d-7814-a30d-527e66bbcc5a",
+    "nombre": "disneyfcf590",
+    "status": "14:40",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "OL Lyonnes vs. Atletico de Madrid",
+    "league": "UEFA Women's Champions League",
+    "fecha-evento": "2025-12-17T14:40:00-05:00",
+    "img": "019ae3ee-7a7a-78b2-aa84-a6c6b624f9be",
+    "nombre": "disneyd55ac8",
+    "status": "14:40",
     "duration": 135,
     "play_url": ""
   }
