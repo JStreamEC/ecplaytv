@@ -1,312 +1,16 @@
 [
   {
-    "title": "Road to Australia (Round Robin)",
-    "league": "ESPN",
-    "fecha-evento": "2025-12-17T15:26:00-05:00",
-    "img": "019b2e3e-964c-7e3d-9e1c-f6737780d838",
-    "nombre": "disneyb74bf7",
-    "status": "15:26",
-    "duration": 214,
-    "play_url": "https://www.disneyplus.com/es-es/play/83bb2ca5-8a99-4dd9-90f6-0942505396db",
-    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1766095297~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Fbbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1762950822680%2F~psid=1e331035-5148-4091-8e6f-d81c5f52805d~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=d13aa2ef381687dbece79feccd08cc85a49ae6b384e85b527fd9c1fe470b6a0c/clt1/va02/disneyplus/channel/bbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1762950822680/ctr-all-sliding-alt1.m3u8?v=1&hash=2204dc483842bd9152836a99fc823b0b9e410a70",
-    "k1": "13f1b6ed11bf4c28b45257e98c2388d6",
-    "k2": "bf58bb24414502414dfb0fddaf7d20c3"
-  },
-  {
-    "title": "Newcastle United vs. Fulham (Quarterfinals)",
-    "league": "Carabao Cup",
-    "fecha-evento": "2025-12-17T15:00:02-05:00",
-    "img": "019b08c1-4bcc-7f9c-ba9f-0bd04cd38590",
-    "nombre": "disney88cfdb",
-    "status": "15:00",
-    "duration": 135,
-    "play_url": "https://www.disneyplus.com/es-es/play/9a42ede1-566f-4bb8-a0b3-725ed9632af1",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1766093764~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F17%2FNewcastle_United_vs_Fulha_20251217_1765994410053%2F~psid=54ceeef8-3fe7-4d47-b5eb-5c106b47dfef~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=e01979ae569ee3f4f96aae65adad38d125c52c8e9e395de059018021e17bd0ce/clt1/va02/disneyplus/event/2025/12/17/Newcastle_United_vs_Fulha_20251217_1765994410053/ctr-all-hdri-complete.m3u8?v=1&hash=27bb8bc791e5662a67aed6577c6ed8bf5fc24fa4",
-    "k1": "5c8621d290524016bedd2b04b7286a4a",
-    "k2": "ab4921dad83e9353fd6f95a07abc392a"
-  },
-  {
-    "title": "Old Dominion vs. South Florida",
-    "league": "Fútbol Americano NCAA",
-    "fecha-evento": "2025-12-17T17:00:00-05:00",
-    "img": "019aefe2-c05c-7dde-a571-6229926c1e79",
-    "nombre": "disneyea1604",
-    "status": "17:00",
-    "duration": 210,
-    "play_url": "https://www.disneyplus.com/es-es/play/1129233f-86c3-48fb-973c-d30eff80a599",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1766095342~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F17%2FOld_Dominion_vs_South_Flo_20251217_1766001610041%2F~psid=0f2f7855-832b-4ecf-bef6-d72bdbe920a2~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=1aaf2cd9ec2d5e5a7a28002c58395e2a9a5a2158af9e15d71043709027a71e8c/clt1/va02/disneyplus/event/2025/12/17/Old_Dominion_vs_South_Flo_20251217_1766001610041/ctr-all-hdri-complete.m3u8?v=1&hash=d3949719638bb57c5282d2449464820fc8462ea8",
-    "k1": "3bb599546d7246d59ddce15f40dd9505",
-    "k2": "f08359bd767d2df3c02f8eac0ccddd61"
-  },
-  {
-    "title": "Los Angeles Kings vs. Florida Panthers",
-    "league": "National Hockey League",
-    "fecha-evento": "2025-12-17T19:00:00-05:00",
-    "img": "019aea70-4b4e-764a-92ab-a1cf491fb540",
-    "nombre": "disneyb35312",
-    "status": "19:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Toros de Sincelejo vs. Caimanes de Barranquilla",
-    "league": "Colombian Beisbol",
-    "fecha-evento": "2025-12-17T19:00:00-05:00",
-    "img": "019aca7a-059d-78b9-8b87-23059e2fb7af",
-    "nombre": "disneyddd8f3",
-    "status": "19:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "#13 Vanderbilt vs. Memphis",
-    "league": "Básquetbol Masculino NCAA",
-    "fecha-evento": "2025-12-17T19:00:00-05:00",
-    "img": "019b2286-210a-7da3-8f7b-db564efb16c7",
-    "nombre": "disneybaaf34",
-    "status": "19:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Sacramento State vs. San Francisco",
-    "league": "Básquet Femenino NCAA",
-    "fecha-evento": "2025-12-17T19:00:00-05:00",
-    "img": "019aa860-f238-74fd-9093-fd3a8c04ad32",
-    "nombre": "disney120461",
-    "status": "19:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Chicago Blackhawks vs. Montreal Canadiens",
-    "league": "National Hockey League",
-    "fecha-evento": "2025-12-18T19:00:00-05:00",
-    "img": "019b28dd-74de-7ffb-b506-dbab52874d90",
-    "nombre": "disney8a266c",
-    "status": "19:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Winnipeg Jets vs. St. Louis Blues",
-    "league": "National Hockey League",
-    "fecha-evento": "2025-12-17T20:00:00-05:00",
-    "img": "019aea70-7aa8-7f3f-b592-e0860b17b62f",
-    "nombre": "disneyae0c30",
-    "status": "20:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Utah Mammoth vs. Detroit Red Wings",
-    "league": "National Hockey League",
-    "fecha-evento": "2025-12-17T19:30:00-05:00",
-    "img": "019aea71-2f74-73a5-8508-d5cc65c80611",
-    "nombre": "disney3b8e0b",
-    "status": "19:30",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Carolina Hurricanes vs. Nashville Predators",
-    "league": "National Hockey League",
-    "fecha-evento": "2025-12-17T20:00:00-05:00",
-    "img": "019b2993-5382-718f-a225-2a23f0e53174",
-    "nombre": "disney6fb9fc",
-    "status": "20:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "DePaul vs. UIC",
-    "league": "Básquet Femenino NCAA",
-    "fecha-evento": "2025-12-17T20:00:00-05:00",
-    "img": "169cab40-b7ae-46fe-8c40-b9bfbc082dd4",
-    "nombre": "disneydb06b7",
-    "status": "20:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "En Español-Louisiana vs. Delaware",
-    "league": "Fútbol Americano NCAA",
-    "fecha-evento": "2025-12-17T20:30:00-05:00",
-    "img": "019af7a4-544b-7821-893d-a81203d014c8",
-    "nombre": "disneya8febd",
-    "status": "20:30",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "UC Riverside vs. Utah",
-    "league": "Básquet Femenino NCAA",
-    "fecha-evento": "2025-12-17T21:00:00-05:00",
-    "img": "019aa866-7fe0-74b6-aa2d-13c306bd66e5",
-    "nombre": "disney472438",
-    "status": "21:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Campbell vs. #7 Gonzaga",
-    "league": "Básquetbol Masculino NCAA",
-    "fecha-evento": "2025-12-17T21:00:00-05:00",
-    "img": "019aa861-693f-7167-b3af-6490711eb755",
-    "nombre": "disney33b955",
-    "status": "21:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "South Dakota vs. Pepperdine",
-    "league": "Básquet Femenino NCAA",
-    "fecha-evento": "2025-12-17T21:00:00-05:00",
-    "img": "019aa860-70ee-75bc-bcc3-719ca632b261",
-    "nombre": "disneyd51a0a",
-    "status": "21:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Sam Houston vs. Oregon State",
-    "league": "Básquetbol Masculino NCAA",
-    "fecha-evento": "2025-12-17T21:30:00-05:00",
-    "img": "019aa860-b19a-77f5-8e91-7b4bc4800312",
-    "nombre": "disneyd4c4da",
-    "status": "21:30",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "New Jersey Devils vs. Vegas Golden Knights",
-    "league": "National Hockey League",
-    "fecha-evento": "2025-12-17T22:00:00-05:00",
-    "img": "e5a51f22-f6c3-4fdf-a58d-6d33df5a52c1",
-    "nombre": "disney82392f",
-    "status": "22:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Loyola Chicago vs. San Francisco",
-    "league": "Básquetbol Masculino NCAA",
-    "fecha-evento": "2025-12-17T22:00:00-05:00",
-    "img": "019aa861-8eb3-7af7-b74a-9738e65b8b6c",
-    "nombre": "disney667913",
-    "status": "22:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "2025 AfrAsia Bank Mauritius Open (First Round)",
-    "league": "DP World Tour",
-    "fecha-evento": "2025-12-18T03:30:00-05:00",
-    "img": "019aefe2-e105-758e-8896-7918c814a993",
-    "nombre": "disneya9bdb8",
-    "status": "03:30",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Next Gen ATP Finals (Round Robin - Day #2)",
     "league": "ATP",
-    "fecha-evento": "2025-12-18T06:00:00-05:00",
-    "img": "019ae4ac-90f3-74e2-ba76-9fac45020346",
-    "nombre": "disneybda5bb",
-    "status": "06:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "UEFA Women's Champions League Draw",
-    "league": "UEFA Women's Champions League",
-    "fecha-evento": "2025-12-18T07:00:00-05:00",
-    "img": "1caaa013-7686-4433-bda2-6b4305703808",
-    "nombre": "disney25b512",
-    "status": "07:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Sigma Olomuc - Lech Poznan",
-    "league": "UEFA Conference League",
-    "fecha-evento": "2025-12-18T14:40:00-05:00",
-    "img": "e7c9e09b-14e5-4bc6-ae4d-b310a423d3c1",
-    "nombre": "disneyc0c6d5",
-    "status": "14:40",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "SK Slovan Bratislava vs. BK Häcken FF",
-    "league": "UEFA Conference League",
-    "fecha-evento": "2025-12-18T14:40:00-05:00",
-    "img": "019b2776-0cb3-7cf0-8f7e-07b8859695f7",
-    "nombre": "disneydb5308",
-    "status": "14:40",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Legia Warsaw vs. Lincoln Red Imps",
-    "league": "UEFA Conference League",
-    "fecha-evento": "2025-12-18T14:40:00-05:00",
-    "img": "e7c9e09b-14e5-4bc6-ae4d-b310a423d3c1",
-    "nombre": "disneyc374af",
-    "status": "14:40",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Zrinjski Mostar - Rapid Wien",
-    "league": "UEFA Conference League",
-    "fecha-evento": "2025-12-18T14:40:00-05:00",
-    "img": "019b28c2-afba-7260-9967-0cb7c6aa3c93",
-    "nombre": "disney15f64e",
-    "status": "14:40",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Rayo Vallecano - FC Drita",
-    "league": "UEFA Conference League",
-    "fecha-evento": "2025-12-18T14:40:00-05:00",
-    "img": "019b2790-0ebf-753e-975f-e7c38bb84c63",
-    "nombre": "disneydf735a",
-    "status": "14:40",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Dynamo Kyiv - FC Noah",
-    "league": "UEFA Conference League",
-    "fecha-evento": "2025-12-18T14:40:00-05:00",
-    "img": "019b278c-ebd2-7a2d-ba84-6c8710b995a9",
-    "nombre": "disneyd1d0e9",
-    "status": "14:40",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Mainz - Samsunspor",
-    "league": "UEFA Conference League",
-    "fecha-evento": "2025-12-18T14:40:00-05:00",
-    "img": "019b278c-e87d-71ba-af97-92e90ee32630",
-    "nombre": "disney2599ac",
-    "status": "14:40",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "AEK Larnaca - KF Shkendija",
-    "league": "UEFA Conference League",
-    "fecha-evento": "2025-12-18T14:40:00-05:00",
-    "img": "019b27c1-e397-75a5-9e38-9a8031966c46",
-    "nombre": "disneye26bf5",
-    "status": "14:40",
-    "duration": 135,
-    "play_url": ""
+    "fecha-evento": "2025-12-18T11:00:00-05:00",
+    "img": "019b3288-daf1-7cab-a2b1-22652e61ba08",
+    "nombre": "disney9dd323",
+    "status": "11:00",
+    "duration": 240,
+    "play_url": "https://www.disneyplus.com/es-es/play/4f8d7b91-081d-4ac3-a42e-38cc406e1f1d",
+    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1766169629~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Fbbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1762950822680%2F~psid=a042b987-f902-4d86-af90-2d7cd25ac8ae~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=f41987c44a446a76b66b2f610093fde681fbe91b84cebdcab0ea077d01920e79/clt1/va02/disneyplus/channel/bbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1762950822680/ctr-all-sliding-alt1.m3u8?v=1&hash=2204dc483842bd9152836a99fc823b0b9e410a70",
+    "k1": "13f1b6ed11bf4c28b45257e98c2388d6",
+    "k2": "bf58bb24414502414dfb0fddaf7d20c3"
   },
   {
     "title": "Aek Athens FC vs. Universitatea Craiova",
@@ -319,52 +23,132 @@
     "play_url": ""
   },
   {
+    "title": "Sigma Olomuc - Lech Poznan",
+    "league": "UEFA Conference League",
+    "fecha-evento": "2025-12-18T14:50:00-05:00",
+    "img": "e7c9e09b-14e5-4bc6-ae4d-b310a423d3c1",
+    "nombre": "disney72f185",
+    "status": "14:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "SK Slovan Bratislava vs. BK Häcken FF",
+    "league": "UEFA Conference League",
+    "fecha-evento": "2025-12-18T14:50:00-05:00",
+    "img": "019b2776-0cb3-7cf0-8f7e-07b8859695f7",
+    "nombre": "disneybb6c81",
+    "status": "14:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Legia Warsaw vs. Lincoln Red Imps",
+    "league": "UEFA Conference League",
+    "fecha-evento": "2025-12-18T14:50:00-05:00",
+    "img": "e7c9e09b-14e5-4bc6-ae4d-b310a423d3c1",
+    "nombre": "disney7be17f",
+    "status": "14:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Zrinjski Mostar - Rapid Wien",
+    "league": "UEFA Conference League",
+    "fecha-evento": "2025-12-18T14:50:00-05:00",
+    "img": "019b28c2-afba-7260-9967-0cb7c6aa3c93",
+    "nombre": "disney89ab3e",
+    "status": "14:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Rayo Vallecano - FC Drita",
+    "league": "UEFA Conference League",
+    "fecha-evento": "2025-12-18T14:50:00-05:00",
+    "img": "019b2790-0ebf-753e-975f-e7c38bb84c63",
+    "nombre": "disney0bd427",
+    "status": "14:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Dynamo Kyiv - FC Noah",
+    "league": "UEFA Conference League",
+    "fecha-evento": "2025-12-18T14:50:00-05:00",
+    "img": "019b278c-ebd2-7a2d-ba84-6c8710b995a9",
+    "nombre": "disneyedd37d",
+    "status": "14:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Mainz - Samsunspor",
+    "league": "UEFA Conference League",
+    "fecha-evento": "2025-12-18T14:50:00-05:00",
+    "img": "019b278c-e87d-71ba-af97-92e90ee32630",
+    "nombre": "disney9a01ca",
+    "status": "14:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "AEK Larnaca - KF Shkendija",
+    "league": "UEFA Conference League",
+    "fecha-evento": "2025-12-18T14:50:00-05:00",
+    "img": "019b27c1-e397-75a5-9e38-9a8031966c46",
+    "nombre": "disney97c989",
+    "status": "14:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
     "title": "Omonia FC - Raków Czestochowa",
     "league": "UEFA Conference League",
-    "fecha-evento": "2025-12-18T14:40:00-05:00",
+    "fecha-evento": "2025-12-18T14:50:00-05:00",
     "img": "019b2788-514c-7919-b9fb-9bd4b7fab47c",
-    "nombre": "disney7ac464",
-    "status": "14:40",
+    "nombre": "disneyc46e8b",
+    "status": "14:50",
     "duration": 135,
     "play_url": ""
   },
   {
     "title": "AZ Alkmaar - Jagiellonia Bialystok",
     "league": "UEFA Conference League",
-    "fecha-evento": "2025-12-18T14:40:00-05:00",
+    "fecha-evento": "2025-12-18T14:50:00-05:00",
     "img": "019b27c1-d1d3-748b-a3a0-453f829d04ae",
-    "nombre": "disney8fbe7d",
-    "status": "14:40",
+    "nombre": "disneyb6f6d0",
+    "status": "14:50",
     "duration": 135,
     "play_url": ""
   },
   {
     "title": "Shamrock Rovers FC vs. Hamrun Spartans",
     "league": "UEFA Conference League",
-    "fecha-evento": "2025-12-18T14:40:00-05:00",
+    "fecha-evento": "2025-12-18T14:50:00-05:00",
     "img": "019b28bb-ca8c-7787-b409-f441734e8fa8",
-    "nombre": "disneybe09dc",
-    "status": "14:40",
+    "nombre": "disney82d3e5",
+    "status": "14:50",
     "duration": 135,
     "play_url": ""
   },
   {
     "title": "Shakhtar Donetsk - HNK Rijeka",
     "league": "UEFA Conference League",
-    "fecha-evento": "2025-12-18T14:40:00-05:00",
+    "fecha-evento": "2025-12-18T14:50:00-05:00",
     "img": "019b27c2-26ae-7f33-b069-565fcebe3917",
-    "nombre": "disneyb04926",
-    "status": "14:40",
+    "nombre": "disney0a45b7",
+    "status": "14:50",
     "duration": 135,
     "play_url": ""
   },
   {
     "title": "NK Celje vs. Shelbourne",
     "league": "UEFA Conference League",
-    "fecha-evento": "2025-12-18T14:40:00-05:00",
+    "fecha-evento": "2025-12-18T14:50:00-05:00",
     "img": "019b27c5-474e-783d-91d3-7dacaf73cfa8",
-    "nombre": "disney9f218b",
-    "status": "14:40",
+    "nombre": "disneyf1db64",
+    "status": "14:50",
     "duration": 135,
     "play_url": ""
   },
@@ -382,7 +166,7 @@
     "title": "Instant Highlights",
     "league": "UEFA Conference League",
     "fecha-evento": "2025-12-18T14:55:00-05:00",
-    "img": "e7c9e09b-14e5-4bc6-ae4d-b310a423d3c1",
+    "img": "019b316a-549d-78ca-b273-0c4e4a23a107",
     "nombre": "disney9fbb4a",
     "status": "14:55",
     "duration": 135,
@@ -419,12 +203,22 @@
     "play_url": ""
   },
   {
-    "title": "En Español-#3 Texas A&M vs. #1 Pittsburgh (Semifinal #1) |En Español",
+    "title": "En Español-#3 Texas A&M vs. #1 Pittsburgh (Semifinal #1)",
     "league": "NCAA Women's Volleyball",
     "fecha-evento": "2025-12-18T18:30:00-05:00",
     "img": "069a5320-151a-4698-901d-5fca85ea163e",
-    "nombre": "disney0335a6",
+    "nombre": "disney1e9977",
     "status": "18:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Chicago Blackhawks vs. Montreal Canadiens",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-12-18T19:00:00-05:00",
+    "img": "019b28dd-74de-7ffb-b506-dbab52874d90",
+    "nombre": "disney8a266c",
+    "status": "19:00",
     "duration": 135,
     "play_url": ""
   },
@@ -502,7 +296,7 @@
     "title": "Norfolk State vs. Grambling",
     "league": "Básquetbol Masculino NCAA",
     "fecha-evento": "2025-12-18T19:30:00-05:00",
-    "img": "ed2972ae-3296-4087-899d-1bcdb9332248",
+    "img": "019b2f6d-6695-7d5c-8af4-091597d57789",
     "nombre": "disney4070d2",
     "status": "19:30",
     "duration": 135,
@@ -539,11 +333,11 @@
     "play_url": ""
   },
   {
-    "title": "Xbox Bowl: Missouri State vs. Arkansas State",
+    "title": "En Español-Missouri State vs. Arkansas State",
     "league": "Fútbol Americano NCAA",
     "fecha-evento": "2025-12-18T21:00:00-05:00",
     "img": "d471c5ff-1531-4345-8075-59a9dfce7c6c",
-    "nombre": "disney3f6f25",
+    "nombre": "disneyf0bdc4",
     "status": "21:00",
     "duration": 135,
     "play_url": ""
@@ -609,11 +403,11 @@
     "play_url": ""
   },
   {
-    "title": "Kennesaw State vs. Western Michigan",
+    "title": "En Español-Kennesaw State vs. Western Michigan",
     "league": "Fútbol Americano NCAA",
     "fecha-evento": "2025-12-19T11:00:00-05:00",
     "img": "019afccd-0628-757f-b69b-61f2d525a06b",
-    "nombre": "disneya96eb2",
+    "nombre": "disney8ebfd9",
     "status": "11:00",
     "duration": 135,
     "play_url": ""
@@ -625,6 +419,206 @@
     "img": "019af50e-4087-704d-8c38-5ba13e13633b",
     "nombre": "disney3f8621",
     "status": "11:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Stockton Kings vs. Austin Spurs (Quarterfinals)",
+    "league": "NBA G League",
+    "fecha-evento": "2025-12-19T12:00:00-05:00",
+    "img": "019b2d7a-f282-7336-b848-17420b6c8274",
+    "nombre": "disneyccfab2",
+    "status": "12:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Road to Australia (Semifinals)",
+    "league": "ESPN",
+    "fecha-evento": "2025-12-19T15:00:00-05:00",
+    "img": "019b01fa-032a-7b4e-be8a-d76ba9846f3e",
+    "nombre": "disney9122c5",
+    "status": "15:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Hertha BSC vs. Arminia Bielefeld",
+    "league": "Bundesliga 2 de Alemania",
+    "fecha-evento": "2025-12-19T12:20:00-05:00",
+    "img": "019ada1b-d0cd-71bb-bf22-3bdd6fd01994",
+    "nombre": "disneya73251",
+    "status": "12:20",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "SC Paderborn 07 vs. SV Darmstadt 98",
+    "league": "Bundesliga 2 de Alemania",
+    "fecha-evento": "2025-12-19T12:25:00-05:00",
+    "img": "019ae629-681d-70b6-a0bb-4a751a2e0bd2",
+    "nombre": "disney98c962",
+    "status": "12:25",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Doña Isidora vs. BCI Seguros | Abierto de Chile (Semifinal)",
+    "league": "Polo Internacional",
+    "fecha-evento": "2025-12-19T13:40:00-05:00",
+    "img": "019b0046-a742-768a-b0cf-2b7353e3d77f",
+    "nombre": "disney0e3d41",
+    "status": "13:40",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Borussia Dortmund vs. Borussia Mönchengladbach",
+    "league": "Bundesliga",
+    "fecha-evento": "2025-12-19T14:20:00-05:00",
+    "img": "019b046b-2431-7da3-b72d-39282a2d9dc1",
+    "nombre": "disneyab57f0",
+    "status": "14:20",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Simpson (CA) vs. Pacific",
+    "league": "Básquet Femenino NCAA",
+    "fecha-evento": "2025-12-19T14:00:00-05:00",
+    "img": "019b1474-58f6-74ff-8fc5-1719ed464cee",
+    "nombre": "disney9a88c3",
+    "status": "14:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "En Español-Memphis vs. NC State",
+    "league": "Fútbol Americano NCAA",
+    "fecha-evento": "2025-12-19T14:30:00-05:00",
+    "img": "019afccd-19be-7474-90d3-ebf06b99a97e",
+    "nombre": "disneydb2f00",
+    "status": "14:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Maine Celtics vs. Salt Lake City Stars (Quarterfinals)",
+    "league": "NBA G League",
+    "fecha-evento": "2025-12-19T14:30:00-05:00",
+    "img": "019b2dd0-2350-7db3-9a3e-7ca57eac943e",
+    "nombre": "disneyd75e95",
+    "status": "14:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Leicester Tigers vs. Gloucester Rugby",
+    "league": "Premiership",
+    "fecha-evento": "2025-12-19T14:30:00-05:00",
+    "img": "019b0726-bf9e-7d01-82df-a8ef5392a940",
+    "nombre": "disney8961d1",
+    "status": "14:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Swansea City vs. Wrexham AFC",
+    "league": "Championship de Inglaterra",
+    "fecha-evento": "2025-12-19T14:50:00-05:00",
+    "img": "019acb5d-ae3d-7e25-979e-cfe7859b8282",
+    "nombre": "disney8f0a54",
+    "status": "14:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Chicago Blackhawks vs. Ottawa Senators",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-12-20T15:00:00-05:00",
+    "img": "019b28d6-ade1-7c2a-96e0-eddac0899c9e",
+    "nombre": "disneyb4d64a",
+    "status": "15:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Los Castaños vs. la Baguala | Abierto de Chile (Semifinal)",
+    "league": "Polo Internacional",
+    "fecha-evento": "2025-12-19T15:40:00-05:00",
+    "img": "019b0046-a742-768a-b0cf-2b7353e3d77f",
+    "nombre": "disneya50d93",
+    "status": "15:40",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Cleveland Charge vs. Memphis Hustle",
+    "league": "NBA G League",
+    "fecha-evento": "2025-12-19T17:00:00-05:00",
+    "img": "019b2e25-9035-78f8-81e2-f74933e7e5bf",
+    "nombre": "disneyb7de85",
+    "status": "17:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Grambling vs. Hampton",
+    "league": "Básquetbol Masculino NCAA",
+    "fecha-evento": "2025-12-19T17:00:00-05:00",
+    "img": "019a8438-8fe5-7c91-b095-d38e7f1b05a9",
+    "nombre": "disney4cedf6",
+    "status": "17:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Carolina Hurricanes vs. Florida Panthers",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-12-19T19:00:00-05:00",
+    "img": "019b28cc-3643-7239-a1b0-c736f65f8ea2",
+    "nombre": "disneye360d2",
+    "status": "19:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Norfolk State vs. Jackson State",
+    "league": "Básquetbol Masculino NCAA",
+    "fecha-evento": "2025-12-19T19:30:00-05:00",
+    "img": "019a8438-b1e3-732e-b04a-afe695737780",
+    "nombre": "disney8a1bd2",
+    "status": "19:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Texas Legends vs. College Park Skyhawks",
+    "league": "NBA G League",
+    "fecha-evento": "2025-12-19T19:30:00-05:00",
+    "img": "019b2e25-fba2-74d3-ab78-6471962cf7dc",
+    "nombre": "disney6bf83c",
+    "status": "19:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Vancouver Warriors vs. Oshawa FireWolves",
+    "league": "National Lacrosse League",
+    "fecha-evento": "2025-12-19T19:30:00-05:00",
+    "img": "019a83de-e1e0-77b4-8f88-f7d948ec2c90",
+    "nombre": "disney90edd2",
+    "status": "19:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "#9 Alabama vs. #8 Oklahoma (Primera Ronda)",
+    "league": "Fútbol Americano NCAA",
+    "fecha-evento": "2025-12-19T20:00:00-05:00",
+    "img": "fd4c2ebe-83b0-4038-a588-4421621bed96",
+    "nombre": "disneyac3aeb",
+    "status": "20:00",
     "duration": 135,
     "play_url": ""
   }
