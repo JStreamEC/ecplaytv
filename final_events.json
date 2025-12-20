@@ -1,18 +1,5 @@
 [
   {
-    "title": "Stade Rochelais vs. Bayonne (Ronda #12)",
-    "league": "Top 14",
-    "fecha-evento": "2025-12-20T10:30:05-05:00",
-    "img": "019b0c50-944f-74ce-8f08-385e8cf2ac47",
-    "nombre": "disney59a094",
-    "status": "10:30",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/6c4afca8-93bc-4418-8a20-b6d617fd0ec9",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1766331628~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F20%2FStade_Rochelais_vs_Bayonn_20251220_1766237435037%2F~psid=863e7108-9068-4882-a54b-f977f6a37702~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=ea57d973f386d80518f76e60ae434a15d76ee128a184316d11c000ac1625bb78/clt1/va02/disneyplus/event/2025/12/20/Stade_Rochelais_vs_Bayonn_20251220_1766237435037/ctr-all-hdri-complete.m3u8?v=1&hash=c348ea6ae49577e9a4599f917c427387049f2c58",
-    "k1": "0a027afbd25444879617a3b8bc45ea9f",
-    "k2": "446016b2d389699002a3ca38542c07e3"
-  },
-  {
     "title": "Next Gen ATP Finals (Semifinals)",
     "league": "ATP",
     "fecha-evento": "2025-12-20T11:00:00-05:00",
@@ -52,19 +39,6 @@
     "k2": "a923ef0a2f944c710f5fadc008c2b25c"
   },
   {
-    "title": "En Español-#10 Miami vs. #7 Texas A&M (First Round)",
-    "league": "Fútbol Americano NCAA",
-    "fecha-evento": "2025-12-20T12:12:00-05:00",
-    "img": "06a770fc-a33a-4bbb-9310-f70b5623ee4b",
-    "nombre": "disney087b1b",
-    "status": "12:12",
-    "duration": 208,
-    "play_url": "https://www.disneyplus.com/es-es/play/cc5b5f19-fec5-44fe-a945-42238567e4c1",
-    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1766337631~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Fec26a05e-a9cc-4db4-804e-77465738e667-1762950455142%2F~psid=b7a4e52d-367a-4591-83cd-d743d7a84089~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=6fe45d9db1f56446125ad8edaa5468e8f14a115806d8903caa2b9a14fa3b2089/clt1/va02/disneyplus/channel/ec26a05e-a9cc-4db4-804e-77465738e667-1762950455142/ctr-all-sliding-alt1.m3u8?v=1&hash=e2faf4444722e1f805096ad7b7489a5d09f9944f",
-    "k1": "dc29211e1e1546aba100f5a7f41e7192",
-    "k2": "04a11e6d96c82342aca9b2ddee746e05"
-  },
-  {
     "title": "Montana vs. #11 Louisville",
     "league": "Básquetbol Masculino NCAA",
     "fecha-evento": "2025-12-20T12:00:00-05:00",
@@ -78,14 +52,17 @@
     "k2": "ef40364f5a75b9680491893a5f7ebac6"
   },
   {
-    "title": "Philadelphia Flyers vs. New York Rangers",
-    "league": "National Hockey League",
-    "fecha-evento": "2025-12-20T12:30:00-05:00",
-    "img": "0fc954a6-2d64-4d74-88e1-b841d0b14603",
-    "nombre": "disneya8df72",
-    "status": "12:30",
-    "duration": 135,
-    "play_url": ""
+    "title": "En Español-#10 Miami vs. #7 Texas A&M (First Round)",
+    "league": "Fútbol Americano NCAA",
+    "fecha-evento": "2025-12-20T12:12:00-05:00",
+    "img": "06a770fc-a33a-4bbb-9310-f70b5623ee4b",
+    "nombre": "disney087b1b",
+    "status": "12:12",
+    "duration": 208,
+    "play_url": "https://www.disneyplus.com/es-es/play/cc5b5f19-fec5-44fe-a945-42238567e4c1",
+    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1766337631~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Fec26a05e-a9cc-4db4-804e-77465738e667-1762950455142%2F~psid=b7a4e52d-367a-4591-83cd-d743d7a84089~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=6fe45d9db1f56446125ad8edaa5468e8f14a115806d8903caa2b9a14fa3b2089/clt1/va02/disneyplus/channel/ec26a05e-a9cc-4db4-804e-77465738e667-1762950455142/ctr-all-sliding-alt1.m3u8?v=1&hash=e2faf4444722e1f805096ad7b7489a5d09f9944f",
+    "k1": "dc29211e1e1546aba100f5a7f41e7192",
+    "k2": "04a11e6d96c82342aca9b2ddee746e05"
   },
   {
     "title": "Tottenham Hotspur vs. Liverpool",
@@ -107,18 +84,37 @@
     "img": "019b0475-ad8f-77f4-b9ca-2dcbc6b90f5b",
     "nombre": "disneycd4320",
     "status": "12:20",
-    "duration": 135,
-    "play_url": ""
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/8fdcfb5f-497d-4111-b00f-ec16d127dd9f",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1766338836~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F20%2FRB_Leipzig_vs_Bayer_Lever_20251220_1766244040040%2F~psid=32480a50-44b2-4113-aae9-ba4daaeef6f4~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=b8fe221fa1d93999fdddbba6cb43e23fe2a5f0d2275df9ab52988c06f53d023b/clt1/va02/disneyplus/event/2025/12/20/RB_Leipzig_vs_Bayer_Lever_20251220_1766244040040/ctr-all-hdri-complete.m3u8?v=1&hash=db67371c230d92acf20c8c292e38f036cf10e208",
+    "k1": "c68450583d984ac0ad6e21214e89c5da",
+    "k2": "682bd0c401878a9e31be6ff4b9389a9b"
+  },
+  {
+    "title": "Philadelphia Flyers vs. New York Rangers",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-12-20T12:30:19-05:00",
+    "img": "0fc954a6-2d64-4d74-88e1-b841d0b14603",
+    "nombre": "disney4f7a40",
+    "status": "12:30",
+    "duration": 210,
+    "play_url": "https://www.disneyplus.com/es-es/play/2248ed7c-1068-4c4b-ba0a-7ef657385c4c",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1766338880~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F20%2FPhiladelphia_Flyers_vs_Ne_20251220_1766244624056%2F~psid=e64d94c2-7da5-4b34-ad58-17ddcd558f9a~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=eabaefde62b55ed9bc8d2a438ef4c3c3bca730c3f1cf37da0579413c1c4a50d4/clt1/va02/disneyplus/event/2025/12/20/Philadelphia_Flyers_vs_Ne_20251220_1766244624056/ctr-all-hdri-complete.m3u8?v=1&hash=90947b480c43845a50189fc039843061d120b2b9",
+    "k1": "689adbfc1f774534be759c4f5c5435b8",
+    "k2": "e2da95c8fd6b6f324c2edf1a2e01327a"
   },
   {
     "title": "Detroit Red Wings vs. Washington Capitals",
     "league": "National Hockey League",
-    "fecha-evento": "2025-12-20T12:30:00-05:00",
+    "fecha-evento": "2025-12-20T12:30:07-05:00",
     "img": "e0f6c72c-17b0-4250-929d-2ae2e856ce53",
-    "nombre": "disney0160ab",
+    "nombre": "disney46820f",
     "status": "12:30",
-    "duration": 135,
-    "play_url": ""
+    "duration": 210,
+    "play_url": "https://www.disneyplus.com/es-es/play/e7b17e9b-6b5f-4c65-8273-c4095fc9a8ff",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1766338925~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F20%2FDetroit_Red_Wings_vs_Wash_20251220_1766244625030%2F~psid=ac2305dc-cf6e-4648-bd46-788a35a7d11e~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=61f0744c7a757debb7708aa6b1121ee0fc6beab30c7994fe1b68c45853d7a32d/clt1/va02/disneyplus/event/2025/12/20/Detroit_Red_Wings_vs_Wash_20251220_1766244625030/ctr-all-hdri-complete.m3u8?v=1&hash=92f5b5445c020a88d24b67b0568e551d7a589a69",
+    "k1": "e8f63d467fe943d5ad65005c88cfdbe0",
+    "k2": "e85acaf05ece50dfd9cfb12a6a4380b2"
   },
   {
     "title": "Harlequins vs. Bristol Bears",
@@ -647,6 +643,16 @@
     "img": "019b2e25-a893-7bae-ab14-03cbaaf65024",
     "nombre": "disney1cdbf3",
     "status": "20:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Argi Cortés vs. Yahir Frank | ESPN KO",
+    "league": "ESPN",
+    "fecha-evento": "2025-12-20T21:00:00-05:00",
+    "img": "019ac1ed-7da9-7900-a598-04b0b6f5a7cd",
+    "nombre": "disney077c07",
+    "status": "21:00",
     "duration": 135,
     "play_url": ""
   }
