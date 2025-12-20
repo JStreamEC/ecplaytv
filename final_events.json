@@ -1,31 +1,5 @@
 [
   {
-    "title": "Real Oviedo vs. Celta de Vigo",
-    "league": "LALIGA",
-    "fecha-evento": "2025-12-20T07:50:00-05:00",
-    "img": "5f1ad933-47ae-4cac-adb9-084e59679510",
-    "nombre": "disney8f62f1",
-    "status": "07:50",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/65de3588-041c-4b8b-a33a-c5b07402860b",
-    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1766322029~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Fbbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1762950822680%2F~psid=759d077b-98bb-4e86-816b-f9272c7766cd~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=aaadd97da8f7fe982d76f0b0afc192ac7b7417c6fd55df6821baa19e105f67fe/clt1/va02/disneyplus/channel/bbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1762950822680/ctr-all-sliding-alt1.m3u8?v=1&hash=2204dc483842bd9152836a99fc823b0b9e410a70",
-    "k1": "8f8c4613a12c4b48a37216e261e09084",
-    "k2": "f606ebf5624f427a16da9c407b8090aa"
-  },
-  {
-    "title": "FC Andorra vs. Deportivo La Coruña",
-    "league": "Segunda División de España",
-    "fecha-evento": "2025-12-20T07:55:09-05:00",
-    "img": "019ada21-50ef-7316-adfc-853af7e1c55c",
-    "nombre": "disney2366f1",
-    "status": "07:55",
-    "duration": 125,
-    "play_url": "https://www.disneyplus.com/es-es/play/2c6b93be-e8c4-4491-aa32-f310c9d62aac",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1766322073~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F20%2FFC_Andorra_vs_Deportivo_L_20251220_1766228120038%2F~psid=4732e284-14d0-4121-a063-9adb7ded1b6a~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=788fc4a1507eca963dbd2ee90f648a430a5d2d47891ff9cb150fed3f0cb57613/clt1/va02/disneyplus/event/2025/12/20/FC_Andorra_vs_Deportivo_L_20251220_1766228120038/ctr-all-hdri-complete.m3u8?v=1&hash=a16c12b29503f9f6ac65bbfccdb02b1af10d0882",
-    "k1": "47181a7ce21b4d6e870a488b97ca0fc6",
-    "k2": "ffbe4302b5e4639babb0e5baaadc5917"
-  },
-  {
     "title": "Eyuspor vs. Fenerbahce",
     "league": "Super Lig de Turquía",
     "fecha-evento": "2025-12-20T08:50:00-05:00",
@@ -197,12 +171,15 @@
   {
     "title": "Huesca vs. Racing Santander",
     "league": "Segunda División de España",
-    "fecha-evento": "2025-12-20T10:10:00-05:00",
+    "fecha-evento": "2025-12-20T10:10:08-05:00",
     "img": "019b3197-01ca-79ad-a0a9-732d7b2e2226",
-    "nombre": "disney535c2d",
+    "nombre": "disneyc3158d",
     "status": "10:10",
-    "duration": 135,
-    "play_url": ""
+    "duration": 125,
+    "play_url": "https://www.disneyplus.com/es-es/play/203b4c9a-9364-45c4-9cde-6a5cdf2e06b0",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1766330428~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F20%2FHuesca_vs_Racing_Santande_20251220_1766236205037%2F~psid=09ebf5d8-479c-4953-ac29-621c232df24f~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=2a1c9fbf39d05d43717c56aa7935b7307abf88bdce2f8f7132b3222220930fa4/clt1/va02/disneyplus/event/2025/12/20/Huesca_vs_Racing_Santande_20251220_1766236205037/ctr-all-hdri-complete.m3u8?v=1&hash=86225059783ffe10419aa48d53a1743b70bab9c5",
+    "k1": "7512bafc05ae406fa41bb9e6e2778789",
+    "k2": "fd360419de6d4223bd7fad709b473281"
   },
   {
     "title": "Stade Rochelais vs. Bayonne (Ronda #12)",
@@ -671,6 +648,26 @@
     "img": "019b28d1-beb7-7f1a-b863-49fe2b890faf",
     "nombre": "disneye304a5",
     "status": "18:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Weber State vs. Loyola Marymount",
+    "league": "Básquet Femenino NCAA",
+    "fecha-evento": "2025-12-20T18:30:00-05:00",
+    "img": "019b117e-55c5-74b6-8e6f-f543b78208e2",
+    "nombre": "disneybc72ce",
+    "status": "18:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Carolina Hurricanes vs. Tampa Bay Lightning",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-12-20T19:00:00-05:00",
+    "img": "019b28d5-4d5e-7769-8f3a-067a64d1f937",
+    "nombre": "disneybc007a",
+    "status": "19:00",
     "duration": 135,
     "play_url": ""
   }
