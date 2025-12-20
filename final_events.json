@@ -1,18 +1,5 @@
 [
   {
-    "title": "Hamburger SV vs. Eintracht Frankfurt",
-    "league": "Bundesliga",
-    "fecha-evento": "2025-12-20T09:20:00-05:00",
-    "img": "019ad9d3-2b85-7440-9744-4c9eca1faf4e",
-    "nombre": "disney268ecb",
-    "status": "09:20",
-    "duration": 125,
-    "play_url": "https://www.disneyplus.com/es-es/play/13fe4628-928a-4c6a-9751-7fe1d46a006e",
-    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1766326831~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Ff25bdf06-81c9-4a7c-b128-3128d610ad17-1762951253360%2F~psid=458a67f4-b1e6-4658-a157-a1a9575b73f6~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=c17f979fe45cd08a6603210e6be85dc45e485dfc0b4a71cd4353f71bc02d0262/clt1/va02/disneyplus/channel/f25bdf06-81c9-4a7c-b128-3128d610ad17-1762951253360/ctr-all-sliding-alt1.m3u8?v=1&hash=57a1e5c4737768952c5164be5d4f5ba525d47674",
-    "k1": "18d276a6b308436faecfb559d77a8f6f",
-    "k2": "6317ec0f685b2c04e6ee27a9f889421e"
-  },
-  {
     "title": "Augsburg vs. Werder Bremen",
     "league": "Bundesliga",
     "fecha-evento": "2025-12-20T09:20:00-05:00",
@@ -24,19 +11,6 @@
     "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1766328032~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F20%2FAugsburg_vs_Werder_Bremen_20251220_1766233248041%2F~psid=4b8ad64a-8848-4f46-aeed-b6c485ca6450~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=a61c72191a80b863cbdc9363df1a4cbd9ec0a74ebe05d33e368b601a5625974d/clt1/va02/disneyplus/event/2025/12/20/Augsburg_vs_Werder_Bremen_20251220_1766233248041/ctr-all-hdri-complete.m3u8?v=1&hash=1b54c5729238556fcc38df7ee0c58bf06eb6765b",
     "k1": "71dbad49b5be45b8a30da06e7fbac540",
     "k2": "6a5b202db0f8026d047611e6ac1cc510"
-  },
-  {
-    "title": "Koln vs. Union Berlin",
-    "league": "Bundesliga",
-    "fecha-evento": "2025-12-20T09:20:05-05:00",
-    "img": "019ad9d1-a7e3-77a1-a172-4c65256231a0",
-    "nombre": "disney412406",
-    "status": "09:20",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/6e94209d-8012-4c28-b031-671923fa8bb8",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1766328075~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F20%2FKoln_vs_Union_Berlin_20251220_1766233235033%2F~psid=71cb2386-dde2-4e9e-a69d-07bdd75162f5~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=c276abfbaab41cf8a64c34d7b1064bd9109c730ea3d9ac6cda3d75a4ec453726/clt1/va02/disneyplus/event/2025/12/20/Koln_vs_Union_Berlin_20251220_1766233235033/ctr-all-hdri-complete.m3u8?v=1&hash=5f75496f53519725bbae46106af5fa08affff151",
-    "k1": "b51f390acfa74755a14cde8910e4e717",
-    "k2": "37c4a4d3db311a6a8fdd9507c7653f0d"
   },
   {
     "title": "Stuttgart vs. Hoffenheim",
@@ -670,6 +644,26 @@
     "fecha-evento": "2025-12-20T19:00:00-05:00",
     "img": "22f71017-1902-4b0e-9fb1-de0bae4bf4a4",
     "nombre": "disneyaee2a0",
+    "status": "19:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Equipo F  | El post de la despedida de Mario Yepes",
+    "league": "ESPN",
+    "fecha-evento": "2025-12-20T19:00:00-05:00",
+    "img": "a081f3cf-c24a-48ed-bbcc-07623e391558",
+    "nombre": "disneybcb899",
+    "status": "19:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "BKFC Fight Night | Parker Porter vs. Anthony Garrett",
+    "league": "Bare Knuckle Fighting Championship",
+    "fecha-evento": "2025-12-20T19:00:00-05:00",
+    "img": "019b2db9-3f1f-7e58-9fe2-3f5bc29aae81",
+    "nombre": "disney81141f",
     "status": "19:00",
     "duration": 135,
     "play_url": ""
