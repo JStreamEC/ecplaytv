@@ -1,28 +1,5 @@
 [
   {
-    "title": "HSBC BWF World Tour Finals 2025 - SF 2",
-    "league": "Federación Mundial de Bádminton",
-    "fecha-evento": "2025-12-20T04:00:08-05:00",
-    "img": "e1eb687b-6df0-4e2d-a426-a6e08cadf59a",
-    "nombre": "disney6a6b96",
-    "status": "04:00",
-    "duration": 300,
-    "play_url": "https://www.disneyplus.com/es-es/play/289e60ca-d77b-44ff-95d0-cf639aacf618",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1766319989~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F20%2FHSBC_BWF_World_Tour_Final_20251220_1766214046038%2F~psid=44ade8ba-9161-464c-be04-0991800c8e77~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=f93b2080ec5d6f72478243bff0272ba59638595b8dd68e4760f9d8df2871002a/clt1/va02/disneyplus/event/2025/12/20/HSBC_BWF_World_Tour_Final_20251220_1766214046038/ctr-all-hdri-complete.m3u8?v=1&hash=5415853f4310b1632562aa69f54b990befb43f0f",
-    "k1": "1862f141ac304a088b9e47f3c299759a",
-    "k2": "42b63d813ec65d7663ae43c82cfddf09"
-  },
-  {
-    "title": "Southampton vs. Coventry City",
-    "league": "Championship de Inglaterra",
-    "fecha-evento": "",
-    "img": "019acb5f-74ec-7bf2-9ee1-31c71cfd77f1",
-    "nombre": "disneyec8513",
-    "status": "",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Real Oviedo vs. Celta de Vigo",
     "league": "LALIGA",
     "fecha-evento": "2025-12-20T07:50:00-05:00",
@@ -155,12 +132,15 @@
   {
     "title": "Ipswich Town vs. Sheffield Wednesday",
     "league": "Championship de Inglaterra",
-    "fecha-evento": "2025-12-20T09:45:00-05:00",
+    "fecha-evento": "2025-12-20T09:45:04-05:00",
     "img": "0ffbddf2-37d2-463f-8c77-0510b6ed215a",
-    "nombre": "disney048cd4",
+    "nombre": "disney823559",
     "status": "09:45",
-    "duration": 135,
-    "play_url": ""
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/b62dbb46-18c1-4546-987d-e2f469517f8f",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1766328527~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F20%2FIpswich_Town_vs_Sheffield_20251220_1766234758039%2F~psid=e7600a92-50db-41ce-a746-024b35769464~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=a3213ccff797fdaf13fd54dd841a1e879fc30ddbb6a23fecdcc0e63d327b32fc/clt1/va02/disneyplus/event/2025/12/20/Ipswich_Town_vs_Sheffield_20251220_1766234758039/ctr-all-hdri-complete.m3u8?v=1&hash=e0a79a3c500de232d552484ed064a365338cc049",
+    "k1": "b423d230960e4429821109a170c8f876",
+    "k2": "b956f31f695bc2bdfb8ee7cf7cfe3cd0"
   },
   {
     "title": "Bournemouth vs. Burnley",
@@ -178,6 +158,16 @@
     "fecha-evento": "2025-12-20T09:50:00-05:00",
     "img": "019b0444-64dd-7adc-9a1d-c81bbb2241b5",
     "nombre": "disney8e4c01",
+    "status": "09:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Wolverhampton Wanderers vs. Brentford",
+    "league": "Premier League",
+    "fecha-evento": "2025-12-20T09:50:00-05:00",
+    "img": "019b0725-dfa9-72f8-9982-0f9033add638",
+    "nombre": "disney1966b2",
     "status": "09:50",
     "duration": 135,
     "play_url": ""
@@ -658,6 +648,16 @@
     "fecha-evento": "2025-12-20T18:00:00-05:00",
     "img": "019b2e25-a026-7384-9ffc-f962132a9579",
     "nombre": "disney6bec63",
+    "status": "18:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Maryland vs. #23 Virginia",
+    "league": "Básquetbol Masculino NCAA",
+    "fecha-evento": "2025-12-20T18:00:00-05:00",
+    "img": "019b28d1-beb7-7f1a-b863-49fe2b890faf",
+    "nombre": "disneye304a5",
     "status": "18:00",
     "duration": 135,
     "play_url": ""
