@@ -52,19 +52,6 @@
     "k2": "04a11e6d96c82342aca9b2ddee746e05"
   },
   {
-    "title": "Dallas Trinity vs. Lexington Sporting Club",
-    "league": "USL Super League",
-    "fecha-evento": "2025-12-20T15:30:04-05:00",
-    "img": "019b3197-6ea0-79a5-94e1-0c273aa7ec29",
-    "nombre": "disneyb81c91",
-    "status": "15:30",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/105c6e05-100d-408c-9cf6-63e0508f242c",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1766349739~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F20%2FDallas_Trinity_vs_Lexingt_20251220_1766255439043%2F~psid=cb7fc3f8-9b96-40b5-abbe-1eab025b8459~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=7fb22ca8684af6ec5556aee31d2fd718709de165da756001deaa493855432633/clt1/va02/disneyplus/event/2025/12/20/Dallas_Trinity_vs_Lexingt_20251220_1766255439043/ctr-all-hdri-complete.m3u8?v=1&hash=69a4faf1eddff27923860a46127112708c85f7a0",
-    "k1": "38515f3b6a5b48e58207fe5a1fe3b8f5",
-    "k2": "813dfc66a77f9c94a02ec59f5866088d"
-  },
-  {
     "title": "Platense vs. Estudiantes de La Plata",
     "league": "Liga Profesional de Fútbol",
     "fecha-evento": "2025-12-20T15:45:00-05:00",
@@ -89,19 +76,6 @@
     "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1766350873~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F20%2FMemphis_vs_Mississippi_St_20251220_1766257405819%2F~psid=f8cc11da-b067-4c03-9a55-7f18d82ba825~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=ab7fcf916f4b839bfe68fa54156874ee86670b260f1b62c7594fe81b24b50424/clt1/va02/disneyplus/event/2025/12/20/Memphis_vs_Mississippi_St_20251220_1766257405819/ctr-all-hdri-complete.m3u8?v=1&hash=9952cadcd254c3b52a9affd256e29d15ce1fc9ab",
     "k1": "3ec1a8cb4373471180f9279d2ecbbddf",
     "k2": "74dcb91349820d2e0f0c8cbf40ed256e"
-  },
-  {
-    "title": "Cal State Northridge vs. Pepperdine",
-    "league": "Básquet Femenino NCAA",
-    "fecha-evento": "2025-12-20T16:00:00-05:00",
-    "img": "019aa860-e8e0-7b99-8f8e-cf400f8cbc29",
-    "nombre": "disneye963c0",
-    "status": "16:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/a0e303c2-f01b-48aa-a335-b95285b68e80",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1766350995~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F20%2FCal_State_Northridge_vs_P_20251220_1766260345869%2F~psid=c1aee0a1-02a5-4ccb-8f05-961eba2bfc33~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=883bb248fc73dc92242e383c2db1dfaf6ed23efe67976f4058e7fbde6c5de80f/clt1/va02/disneyplus/event/2025/12/20/Cal_State_Northridge_vs_P_20251220_1766260345869/ctr-all-hdri-complete.m3u8?v=1&hash=da49699829e9711aacb752e85ad30358b3620f3e",
-    "k1": "a5c390cbd57446c3bc36e03da30e1c90",
-    "k2": "b7a39e5dfc744748f2d1452d6d7dd885"
   },
   {
     "title": "Montana vs. Montana State (Semifinal)",
@@ -663,6 +637,26 @@
     "img": "019afa2e-584e-7970-9a2a-bc633976f372",
     "nombre": "disneyfb1328",
     "status": "10:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Aston Villa vs. Manchester United",
+    "league": "Premier League",
+    "fecha-evento": "2025-12-21T11:10:00-05:00",
+    "img": "019b0490-c80b-71d8-8a54-b90e25c3deda",
+    "nombre": "disneyc4f500",
+    "status": "11:10",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "1. FC Heidenheim 1846 vs. Bayern Munich",
+    "league": "Bundesliga",
+    "fecha-evento": "2025-12-21T11:10:00-05:00",
+    "img": "019b0471-e25a-7f23-aec9-765a25f59a13",
+    "nombre": "disney05ab84",
+    "status": "11:10",
     "duration": 135,
     "play_url": ""
   }
