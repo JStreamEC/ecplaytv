@@ -1,18 +1,5 @@
 [
   {
-    "title": "Eyuspor vs. Fenerbahce",
-    "league": "Super Lig de Turquía",
-    "fecha-evento": "2025-12-20T08:50:00-05:00",
-    "img": "019b09bb-e543-7c49-8344-7d11a994c7f0",
-    "nombre": "disney4b66b7",
-    "status": "08:50",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/6913af7e-7481-4eb8-9c0d-7fb78f4ca62e",
-    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1766325629~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F47873700-1b85-4497-8f84-d6f321fbb196-1762950817735%2F~psid=29a65981-9d11-47f5-98ea-49802d833364~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=9caa395adb3e1b8e114e9e7ada3ba99ce7974d2293c601afe1781801cd53fb7b/clt1/va02/disneyplus/channel/47873700-1b85-4497-8f84-d6f321fbb196-1762950817735/ctr-all-sliding-alt1.m3u8?v=1&hash=47b2c0b057c5c5c39ef0f49826b655a1e4ceacb9",
-    "k1": "c951feb5778e458cbc00e5f4a6a9f6cb",
-    "k2": "6734eab08021ee9cf12be449450b95cc"
-  },
-  {
     "title": "Hamburger SV vs. Eintracht Frankfurt",
     "league": "Bundesliga",
     "fecha-evento": "2025-12-20T09:20:00-05:00",
@@ -117,19 +104,6 @@
     "k2": "b956f31f695bc2bdfb8ee7cf7cfe3cd0"
   },
   {
-    "title": "Wolverhampton Wanderers vs. Brentford",
-    "league": "Premier League",
-    "fecha-evento": "2025-12-20T09:50:05-05:00",
-    "img": "019b0725-dfa9-72f8-9982-0f9033add638",
-    "nombre": "disney6c126f",
-    "status": "09:50",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/738d31be-85cd-437f-8a80-49c536459978",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1766329228~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F20%2FWolverhampton_Wanderers_v_20251220_1766235044038%2F~psid=9c4a78b5-f33a-4fca-99f9-ffe1752181e0~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=5f35bd7440dff76c8eca1edbf637a3fbf77beb54d8eb388b5db8b9118f3019ee/clt1/va02/disneyplus/event/2025/12/20/Wolverhampton_Wanderers_v_20251220_1766235044038/ctr-all-hdri-complete.m3u8?v=1&hash=6f5e10a979c45dbab2f45913e6a37345478b4f7f",
-    "k1": "cec39d7982ff4490bd34483cfa015032",
-    "k2": "074af68c31e0b19f0f4b788a9c1d3b68"
-  },
-  {
     "title": "Bournemouth vs. Burnley",
     "league": "Premier League",
     "fecha-evento": "2025-12-20T09:50:00-05:00",
@@ -141,6 +115,19 @@
     "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1766329272~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F921e1311-bb26-43dd-84a6-9e2284959712-1762950465141%2F~psid=9707ab18-76e5-40b6-ba03-07795a7be344~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=38babd9602db2111f97f3f3ead2d686198e570b2b4fb23fe739c888a6ffcb8b4/clt1/va02/disneyplus/channel/921e1311-bb26-43dd-84a6-9e2284959712-1762950465141/ctr-all-sliding-alt1.m3u8?v=1&hash=03915bf69f19826611ecdeecc79455eab40b229c",
     "k1": "83b059522eb541ffad74a74405be9f80",
     "k2": "f8b74d7fd0010e60ad81b32f33b12081"
+  },
+  {
+    "title": "Wolverhampton Wanderers vs. Brentford",
+    "league": "Premier League",
+    "fecha-evento": "2025-12-20T09:50:05-05:00",
+    "img": "019b0725-dfa9-72f8-9982-0f9033add638",
+    "nombre": "disney6c126f",
+    "status": "09:50",
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/738d31be-85cd-437f-8a80-49c536459978",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1766329228~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F20%2FWolverhampton_Wanderers_v_20251220_1766235044038%2F~psid=9c4a78b5-f33a-4fca-99f9-ffe1752181e0~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=5f35bd7440dff76c8eca1edbf637a3fbf77beb54d8eb388b5db8b9118f3019ee/clt1/va02/disneyplus/event/2025/12/20/Wolverhampton_Wanderers_v_20251220_1766235044038/ctr-all-hdri-complete.m3u8?v=1&hash=6f5e10a979c45dbab2f45913e6a37345478b4f7f",
+    "k1": "cec39d7982ff4490bd34483cfa015032",
+    "k2": "074af68c31e0b19f0f4b788a9c1d3b68"
   },
   {
     "title": "Brighton & Hove Albion vs. Sunderland",
@@ -673,6 +660,16 @@
     "fecha-evento": "2025-12-20T19:00:00-05:00",
     "img": "019b28d5-4d5e-7769-8f3a-067a64d1f937",
     "nombre": "disneybc007a",
+    "status": "19:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Toronto Maple Leafs vs. Nashville Predators",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-12-20T19:00:00-05:00",
+    "img": "22f71017-1902-4b0e-9fb1-de0bae4bf4a4",
+    "nombre": "disneyaee2a0",
     "status": "19:00",
     "duration": 135,
     "play_url": ""
