@@ -52,19 +52,6 @@
     "k2": "04a11e6d96c82342aca9b2ddee746e05"
   },
   {
-    "title": "Capital City Go-Go vs. Oklahoma City Blue",
-    "league": "NBA G League",
-    "fecha-evento": "2025-12-20T15:30:06-05:00",
-    "img": "019b2e25-93c2-74d1-b143-65a148ae9eb0",
-    "nombre": "disney1eabe2",
-    "status": "15:30",
-    "duration": 150,
-    "play_url": "https://www.disneyplus.com/es-es/play/32abd8fc-c6f1-4155-b60a-be99c96fe70c",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1766349715~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F20%2FCapital_City_GoGo_vs_Okla_20251220_1766255436031%2F~psid=5b0eab25-9499-4b62-aeb9-66c14116f2f5~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=aa16d03341a5e205482b873f2ecbb27c358d9c90fc01c1a0846bf68cb697e726/clt1/va02/disneyplus/event/2025/12/20/Capital_City_GoGo_vs_Okla_20251220_1766255436031/ctr-all-hdri-complete.m3u8?v=1&hash=7e270d5aebf905a01f1f735c7625c55d95c28763",
-    "k1": "d6f497392a0b40e085b4ecb6d2f05fbd",
-    "k2": "b7ea5bf4c90538e4438fe6dd8d5fc1ed"
-  },
-  {
     "title": "Dallas Trinity vs. Lexington Sporting Club",
     "league": "USL Super League",
     "fecha-evento": "2025-12-20T15:30:04-05:00",
@@ -193,16 +180,6 @@
     "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1766355632~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F20%2FMercer_vs_Washington_Stat_20251220_1766260851037%2F~psid=1f823f13-363f-4696-ae91-cb95ef7f91d0~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=0068bf5a80ea642e4a827f085ba7218ef03380eae215851c2ee976e3a26a1894/clt1/va02/disneyplus/event/2025/12/20/Mercer_vs_Washington_Stat_20251220_1766260851037/ctr-all-hdri-complete.m3u8?v=1&hash=55f5e9d405f3f0fbee7c5d760ceb7cc191694797",
     "k1": "032035c8b726445abec17a860d5b64cd",
     "k2": "1971b85ca400d2851d9f10df8ab7740f"
-  },
-  {
-    "title": "Road to Australia (Men's Final)",
-    "league": "ESPN",
-    "fecha-evento": "2025-12-20T17:25:00-05:00",
-    "img": "019b3b95-d884-7faa-bc4e-ac89ed6b997e",
-    "nombre": "disney3deb25",
-    "status": "17:25",
-    "duration": 135,
-    "play_url": ""
   },
   {
     "title": "Cal State Fullerton vs. San Diego",
@@ -676,6 +653,16 @@
     "img": "019ada22-a44a-7c92-a4b3-57ad7d763fc0",
     "nombre": "disneyf82def",
     "status": "10:10",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Fortuna Sittard vs. AZ",
+    "league": "Eredivisie",
+    "fecha-evento": "2025-12-21T10:30:00-05:00",
+    "img": "019afa2e-584e-7970-9a2a-bc633976f372",
+    "nombre": "disneyfb1328",
+    "status": "10:30",
     "duration": 135,
     "play_url": ""
   }
