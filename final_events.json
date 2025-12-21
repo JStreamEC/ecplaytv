@@ -1,44 +1,5 @@
 [
   {
-    "title": "Villarreal CF vs. Barcelona",
-    "league": "LALIGA",
-    "fecha-evento": "2025-12-21T09:58:00-05:00",
-    "img": "5f1ad933-47ae-4cac-adb9-084e59679510",
-    "nombre": "disneycf7a6d",
-    "status": "09:58",
-    "duration": 132,
-    "play_url": "https://www.disneyplus.com/es-es/play/2dba11a0-da6a-4c1e-a7b5-6b42809d8d29",
-    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1766415634~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F921e1311-bb26-43dd-84a6-9e2284959712-1762950465141%2F~psid=32464faf-1ec9-4494-bc24-2005c3c7384f~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=dc95dffd81c453fd0a3a2761b2e9528de09c4022917f75035032a29269b48a4a/clt1/va02/disneyplus/channel/921e1311-bb26-43dd-84a6-9e2284959712-1762950465141/ctr-all-sliding-alt1.m3u8?v=1&hash=03915bf69f19826611ecdeecc79455eab40b229c",
-    "k1": "5d9aad7084d54a75a36834d23f1199c0",
-    "k2": "049bfab29d12f38625515ed628fffbd0"
-  },
-  {
-    "title": "Newcastle Falcons vs. Bath Rugby",
-    "league": "Premiership",
-    "fecha-evento": "2025-12-21T09:50:00-05:00",
-    "img": "019b0c50-7ccf-71d7-8c7b-90bc97f6ae5c",
-    "nombre": "disneycb5552",
-    "status": "09:50",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/557878a9-8281-4909-9565-4c130311f692",
-    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1766415678~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Fec26a05e-a9cc-4db4-804e-77465738e667-1762950455142%2F~psid=d7fcb1ab-7730-494e-b764-cccf036ced13~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=a8dd39889cfd56d550f20d802ff8586999caf2d3a944dd8287301a9166754d91/clt1/va02/disneyplus/channel/ec26a05e-a9cc-4db4-804e-77465738e667-1762950455142/ctr-all-sliding-alt1.m3u8?v=1&hash=e2faf4444722e1f805096ad7b7489a5d09f9944f",
-    "k1": "9a2499b15fa540b0a1644b545c7c9428",
-    "k2": "123c066cf15748982ee6d9358228539b"
-  },
-  {
-    "title": "Real Sociedad B vs. Ceuta",
-    "league": "Segunda División de España",
-    "fecha-evento": "2025-12-21T10:10:15-05:00",
-    "img": "019ada22-a44a-7c92-a4b3-57ad7d763fc0",
-    "nombre": "disney31dae7",
-    "status": "10:10",
-    "duration": 125,
-    "play_url": "https://www.disneyplus.com/es-es/play/abad56f3-989f-454b-abaf-b2318c7bd0fa",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1766416836~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F21%2FReal_Sociedad_B_vs_Ceuta_20251221_1766325806000%2F~psid=771343ed-c432-4a70-949c-fc593f8cbc87~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=4fc3e031af41e9de47e453de632bf74e230b242bdba1ebd5d9a879c9a41415e5/clt1/va02/disneyplus/event/2025/12/21/Real_Sociedad_B_vs_Ceuta_20251221_1766325806000/ctr-all-hdri-complete.m3u8?v=1&hash=f48c819e687b6aa2280c7f8cdcaa2866706c47a1",
-    "k1": "8ca35e4e54ac411fa345e756268afd6d",
-    "k2": "15757b429be16308f6da2d91a88ff37b"
-  },
-  {
     "title": "Fortuna Sittard vs. AZ",
     "league": "Eredivisie",
     "fecha-evento": "2025-12-21T10:30:01-05:00",
@@ -633,6 +594,36 @@
     "img": "019b29b1-f74c-76ff-91ae-145017fa1653",
     "nombre": "disney2a1730",
     "status": "22:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Columbus Blue Jackets vs. Los Angeles Kings",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-12-22T22:00:00-05:00",
+    "img": "019accf9-b944-7ca7-8fd5-3ded0bf7f626",
+    "nombre": "disney70a882",
+    "status": "22:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Northern Iowa vs. Saint Mary's",
+    "league": "Básquetbol Masculino NCAA",
+    "fecha-evento": "2025-12-22T22:00:00-05:00",
+    "img": "019aa861-4647-7a5f-9e53-eae47f58ea31",
+    "nombre": "disneyb44af1",
+    "status": "22:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Fórmula S #4 - Kartódromo Ciudad Evita",
+    "league": "Formula S",
+    "fecha-evento": "2025-12-23T11:30:00-05:00",
+    "img": "d8405fa3-9c1c-41ec-9f61-fd998cb14788",
+    "nombre": "disneyda9fb7",
+    "status": "11:30",
     "duration": 135,
     "play_url": ""
   }
