@@ -1,18 +1,5 @@
 [
   {
-    "title": "Eintracht Braunschweig vs. FC Schalke 04",
-    "league": "Bundesliga 2 de Alemania",
-    "fecha-evento": "2025-12-21T07:20:02-05:00",
-    "img": "019ada24-586d-7baa-8924-47364cb3e515",
-    "nombre": "disneydaee24",
-    "status": "07:20",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/554724aa-9286-4a5b-bb82-cffd997a1d83",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1766410497~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F21%2FEintracht_Braunschweig_vs_20251221_1766312430057%2F~psid=3baf7fd6-8a7a-405b-a77d-e684dc28b3f7~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=68b7cc04323806fb280aa600050ae2572b4370b688c8e3554080f2f055a1152b/clt1/va02/disneyplus/event/2025/12/21/Eintracht_Braunschweig_vs_20251221_1766312430057/ctr-all-hdri-complete.m3u8?v=1&hash=e8665e19c46abf951e0e1935b4c149690ae6a552",
-    "k1": "5c4e8eceed494c49876cf2ead1594a4d",
-    "k2": "36a6dc07a7ade93a67a3625ba5abed4e"
-  },
-  {
     "title": "Preußen Münster vs. SV Elversberg",
     "league": "Bundesliga 2 de Alemania",
     "fecha-evento": "2025-12-21T07:20:26-05:00",
@@ -24,19 +11,6 @@
     "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1766410541~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F21%2FPreuen_Mnster_vs_SV_Elver_20251221_1766312746036%2F~psid=46db33eb-96a4-4a86-acfa-b41f4eabfb07~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=20498e7da6e26cc8866055830efb9536efedc3e362f43d102fa60f9b92f5ba1e/clt1/va02/disneyplus/event/2025/12/21/Preuen_Mnster_vs_SV_Elver_20251221_1766312746036/ctr-all-hdri-complete.m3u8?v=1&hash=15ceb8c2a7bd7909b4070ad1b8042f86f6a680e8",
     "k1": "1b5094b68f804760a292826fbf5dba10",
     "k2": "6f426ac0aff28265227f9c8862d63529"
-  },
-  {
-    "title": "1. FC Nurnberg vs. Hannover 96",
-    "league": "Bundesliga 2 de Alemania",
-    "fecha-evento": "2025-12-21T07:20:30-05:00",
-    "img": "791e3638-9d31-4f1d-92eb-c3204457f04b",
-    "nombre": "disney222070",
-    "status": "07:20",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/2103973e-66c4-462d-b3ab-d387cd8618e5",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1766410566~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F21%2F1_FC_Nurnberg_vs_Hannover_20251221_1766312716037%2F~psid=c38f5190-4fe5-41eb-838f-8f1020ee34cb~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=2a163bf7373948ab02b3feda8cc3720b10f2c459385c3eced9156eb4d06153aa/clt1/va02/disneyplus/event/2025/12/21/1_FC_Nurnberg_vs_Hannover_20251221_1766312716037/ctr-all-hdri-complete.m3u8?v=1&hash=59ec3c56f2b77d115a885a17d30c3355cea939e0",
-    "k1": "152d39d1d13749b791ae100909850975",
-    "k2": "dac6c84a96e1f412b8b019d0b05cddd4"
   },
   {
     "title": "Malaga CF vs. Almeria",
@@ -637,6 +611,26 @@
     "img": "019b2cd7-7ffd-7f74-b2a0-2bc2db19220b",
     "nombre": "disney62ad10",
     "status": "16:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "St. Louis Blues vs. Tampa Bay Lightning",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-12-22T19:00:00-05:00",
+    "img": "019accf7-ef85-7637-98c1-d96cccf840a2",
+    "nombre": "disneyf5d93d",
+    "status": "19:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "NBA G League Winter Showcase (Championship)",
+    "league": "NBA G League",
+    "fecha-evento": "2025-12-22T18:30:00-05:00",
+    "img": "796f3889-9d84-4877-84e5-c348ae85f6b5",
+    "nombre": "disney27cda3",
+    "status": "18:30",
     "duration": 135,
     "play_url": ""
   }
