@@ -1,31 +1,5 @@
 [
   {
-    "title": "Sassuolo vs. Torino",
-    "league": "Seria A",
-    "fecha-evento": "2025-12-21T08:50:00-05:00",
-    "img": "019b04f0-fd8b-700d-ba26-ca753d5167b8",
-    "nombre": "disney3e29c0",
-    "status": "08:50",
-    "duration": 125,
-    "play_url": "https://www.disneyplus.com/es-es/play/c037098b-e1c6-418c-ae0b-90b9579964d6",
-    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1766412033~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Ff25bdf06-81c9-4a7c-b128-3128d610ad17-1762951253360%2F~psid=cb34a67b-c830-4595-8d78-0fe6c7a8360f~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=8647e8df207dbf93d2d86865eb39c82de7264618e8c26d62c72803fcaac206e4/clt1/va02/disneyplus/channel/f25bdf06-81c9-4a7c-b128-3128d610ad17-1762951253360/ctr-all-sliding-alt1.m3u8?v=1&hash=57a1e5c4737768952c5164be5d4f5ba525d47674",
-    "k1": "9f5dbe49769c47f6bff5613af27aaf22",
-    "k2": "a56becde8e9645208e9c1069a4430e9d"
-  },
-  {
-    "title": "Mainz 05 vs. St. Pauli",
-    "league": "Bundesliga",
-    "fecha-evento": "2025-12-21T09:20:00-05:00",
-    "img": "019ad9e0-9119-7a24-9d59-9bac81a5f3cc",
-    "nombre": "disneye673b9",
-    "status": "09:20",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/22da6ef0-6577-436e-a778-02e62afe374e",
-    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1766413234~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F7f9052ce-8143-43a6-9656-a8c00c4a3e56-1762950862652%2F~psid=7660112f-1e9d-461a-a4fe-01c3874e4133~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=edba9f90a218935d8af5e7fdcb78748faf703c5c1bf42039e9f9be587d8bf921/clt1/va02/disneyplus/channel/7f9052ce-8143-43a6-9656-a8c00c4a3e56-1762950862652/ctr-all-sliding-alt1.m3u8?v=1&hash=2daf186937da77473bf07bbbecfc5597024e944f",
-    "k1": "b55462749f6b4e9f8b248ca334378898",
-    "k2": "e38507ee6871c28b42ea6edb184e2054"
-  },
-  {
     "title": "Villarreal CF vs. Barcelona",
     "league": "LALIGA",
     "fecha-evento": "2025-12-21T09:58:00-05:00",
@@ -630,6 +604,26 @@
     "img": "56950e45-584f-4250-b607-bcc190653817",
     "nombre": "disney543d5c",
     "status": "20:15",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Utah Mammoth vs. Colorado Avalanche",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-12-23T21:00:00-05:00",
+    "img": "019b28c7-bc69-7203-9f18-bbd50b8d51d8",
+    "nombre": "disneybb55a4",
+    "status": "21:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Seattle Kraken vs. Anaheim Ducks",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-12-22T22:00:00-05:00",
+    "img": "019b29b1-f74c-76ff-91ae-145017fa1653",
+    "nombre": "disney2a1730",
+    "status": "22:00",
     "duration": 135,
     "play_url": ""
   }
