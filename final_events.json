@@ -1,18 +1,5 @@
 [
   {
-    "title": "Audi FIS Ski World Cup - Alta Badia, ITA (Giant Slalom)",
-    "league": "ESPN",
-    "fecha-evento": "2025-12-21T07:19:07-05:00",
-    "img": "2ba9f40e-b243-4737-9cff-a1f9774ac58d",
-    "nombre": "disney507f44",
-    "status": "07:19",
-    "duration": 101,
-    "play_url": "https://www.disneyplus.com/es-es/play/3595b20c-5853-408c-96da-528d583c8a03",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1766410454~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F21%2FAudi_FIS_Ski_World_Cup_Al_20251221_1766313005035%2F~psid=e7b9ccea-6afc-482b-85ee-8070a112e805~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=854581a0e9940056c73fff9ffa7e9723aa6b1e8a3eef5147180e8bf48ddc0c23/clt1/va02/disneyplus/event/2025/12/21/Audi_FIS_Ski_World_Cup_Al_20251221_1766313005035/ctr-all-hdri-complete.m3u8?v=1&hash=9c6a436e1661ed688250201ea4f35a705a29dc29",
-    "k1": "b457a00501bc415f98bb25847c69122a",
-    "k2": "c55dea3d292d5ec2c0b7c49bdbd59544"
-  },
-  {
     "title": "Eintracht Braunschweig vs. FC Schalke 04",
     "league": "Bundesliga 2 de Alemania",
     "fecha-evento": "2025-12-21T07:20:02-05:00",
@@ -84,8 +71,11 @@
     "img": "019b04f0-fd8b-700d-ba26-ca753d5167b8",
     "nombre": "disney3e29c0",
     "status": "08:50",
-    "duration": 135,
-    "play_url": ""
+    "duration": 125,
+    "play_url": "https://www.disneyplus.com/es-es/play/c037098b-e1c6-418c-ae0b-90b9579964d6",
+    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1766412033~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Ff25bdf06-81c9-4a7c-b128-3128d610ad17-1762951253360%2F~psid=cb34a67b-c830-4595-8d78-0fe6c7a8360f~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=8647e8df207dbf93d2d86865eb39c82de7264618e8c26d62c72803fcaac206e4/clt1/va02/disneyplus/channel/f25bdf06-81c9-4a7c-b128-3128d610ad17-1762951253360/ctr-all-sliding-alt1.m3u8?v=1&hash=57a1e5c4737768952c5164be5d4f5ba525d47674",
+    "k1": "9f5dbe49769c47f6bff5613af27aaf22",
+    "k2": "a56becde8e9645208e9c1069a4430e9d"
   },
   {
     "title": "Mainz 05 vs. St. Pauli",
@@ -634,6 +624,16 @@
     "img": "5f1ad933-47ae-4cac-adb9-084e59679510",
     "nombre": "disneyc12d45",
     "status": "14:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Mexico City Capitanes vs. Osceola Magic",
+    "league": "NBA G League",
+    "fecha-evento": "2025-12-22T16:00:00-05:00",
+    "img": "019b2cd7-7ffd-7f74-b2a0-2bc2db19220b",
+    "nombre": "disney62ad10",
+    "status": "16:00",
     "duration": 135,
     "play_url": ""
   }
