@@ -1,18 +1,5 @@
 [
   {
-    "title": "Mexico City Capitanes vs. Osceola Magic",
-    "league": "NBA G League",
-    "fecha-evento": "2025-12-22T16:00:03-05:00",
-    "img": "019b2cd7-7ffd-7f74-b2a0-2bc2db19220b",
-    "nombre": "disney9f41f2",
-    "status": "16:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/ea309cf2-a43d-45f2-8b4b-da8cfb54db46",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1766524836~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F22%2FMexico_City_Capitanes_vs__20251222_1766430004031%2F~psid=15871686-d30f-48b9-b7e2-23628adac3cd~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=7eb097d80b3da77f8786b9db6f0931f8b12bfeb4ea583837241ff60ab37a3589/clt1/va02/disneyplus/event/2025/12/22/Mexico_City_Capitanes_vs__20251222_1766430004031/ctr-all-hdri-complete.m3u8?v=1&hash=5b5786d0625e8fcf3ab0588184ce071e4493eacc",
-    "k1": "faaff82eb1344aa1addc9c27011f5c6f",
-    "k2": "d711e2bf312913b75e2a1478b1a3509e"
-  },
-  {
     "title": "St. Louis Blues vs. Tampa Bay Lightning",
     "league": "National Hockey League",
     "fecha-evento": "2025-12-22T19:00:00-05:00",
@@ -606,7 +593,7 @@
     "title": "Penn State vs. Clemson",
     "league": "Fútbol Americano NCAA",
     "fecha-evento": "2025-12-27T12:00:00-05:00",
-    "img": "019b4715-41df-739b-91eb-c0f16caa544d",
+    "img": "019b4715-4183-7f61-a7a4-c48b2df73951",
     "nombre": "disney07ef31",
     "status": "12:00",
     "duration": 135,
@@ -618,6 +605,16 @@
     "fecha-evento": "2025-12-27T12:15:00-05:00",
     "img": "019b1e6d-cade-78d4-ba7d-c52e901b8ae9",
     "nombre": "disney73de47",
+    "status": "12:15",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Bath Rugby vs. Northampton Saints",
+    "league": "Premiership",
+    "fecha-evento": "2025-12-27T12:15:00-05:00",
+    "img": "019b04f1-aee9-78ba-86a6-5683f84e89fc",
+    "nombre": "disneya41e6e",
     "status": "12:15",
     "duration": 135,
     "play_url": ""
