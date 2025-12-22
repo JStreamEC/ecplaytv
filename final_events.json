@@ -1,18 +1,5 @@
 [
   {
-    "title": "Genclerbirligi vs. Trabzonspor",
-    "league": "Super Lig de Turquía",
-    "fecha-evento": "2025-12-22T11:50:00-05:00",
-    "img": "019b0c50-6eb0-73e9-8a9c-99027ec5e115",
-    "nombre": "disneyf1fa74",
-    "status": "11:50",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/18c89b0d-61d9-45b6-af22-58a4d117f9bf",
-    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1766510523~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F7f9052ce-8143-43a6-9656-a8c00c4a3e56-1762950862652%2F~psid=b45289dd-8cf5-47d3-8415-2ee7c5406d58~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=26ff113bfbed0f4edbabb8a319916519f5aca28c2792cf45eba15e91fdcd643d/clt1/va02/disneyplus/channel/7f9052ce-8143-43a6-9656-a8c00c4a3e56-1762950862652/ctr-all-sliding-alt1.m3u8?v=1&hash=2daf186937da77473bf07bbbecfc5597024e944f",
-    "k1": "bd497ef970934741a74b80c26b8d034d",
-    "k2": "86f7594d90d487c8a710b9ae060fea46"
-  },
-  {
     "title": "Al Shorta (IRQ) vs. Al Ahli Saudi (KSA)",
     "league": "AFC Champions League",
     "fecha-evento": "2025-12-22T13:10:00-05:00",
@@ -41,12 +28,15 @@
   {
     "title": "En Español-Washington State vs. Utah State",
     "league": "Fútbol Americano NCAA",
-    "fecha-evento": "2025-12-22T14:00:00-05:00",
+    "fecha-evento": "2025-12-22T13:59:59-05:00",
     "img": "019afe5a-11a6-7a92-9e63-f9988fe7b75b",
-    "nombre": "disney8a9a26",
-    "status": "14:00",
-    "duration": 135,
-    "play_url": ""
+    "nombre": "disneydd16ff",
+    "status": "13:59",
+    "duration": 210,
+    "play_url": "https://www.disneyplus.com/es-es/play/faaeca39-f82c-484f-a654-519e330c6b4d",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1766517638~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F22%2FEn_EspaolWashington_State_20251222_1766422832035%2F~psid=f4e243be-a8c2-483f-92d6-255a69ab5e2c~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=b03bbdd74359693d5fd018af5171d634880d8cfa8db652e02211d61c7a39f4ec/clt1/va02/disneyplus/event/2025/12/22/En_EspaolWashington_State_20251222_1766422832035/ctr-all-hdri-complete.m3u8?v=1&hash=5c2084109013e10aa58f90672e2fa3d7b99fcb14",
+    "k1": "b3ca0fa4a7c9429cb624162a7012da0b",
+    "k2": "b6f0334ec5b10c7b33f11069fe0f3034"
   },
   {
     "title": "Fulham vs. Nottingham Forest",
@@ -634,6 +624,16 @@
     "fecha-evento": "2025-12-27T09:50:00-05:00",
     "img": "019b0e07-4958-7821-a67c-9e08c9de6175",
     "nombre": "disney1219b1",
+    "status": "09:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "West Ham United vs. Fulham",
+    "league": "Premier League",
+    "fecha-evento": "2025-12-27T09:50:00-05:00",
+    "img": "019b0df8-4d2d-78db-93d6-cfb6c076972e",
+    "nombre": "disney12ff69",
     "status": "09:50",
     "duration": 135,
     "play_url": ""
