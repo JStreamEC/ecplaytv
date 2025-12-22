@@ -1,18 +1,5 @@
 [
   {
-    "title": "Pittsburgh Steelers vs. Detroit Lions",
-    "league": "NFL",
-    "fecha-evento": "2025-12-21T15:57:00-05:00",
-    "img": "019b09bf-0951-7612-b35a-7b9695882db7",
-    "nombre": "disney20aca8",
-    "status": "15:57",
-    "duration": 213,
-    "play_url": "https://www.disneyplus.com/es-es/play/0e8a924b-6c77-4bc3-b854-f58906077421",
-    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1766444057~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F7f9052ce-8143-43a6-9656-a8c00c4a3e56-1762950862652%2F~psid=e8b5bc3e-0916-45ce-ad68-89c204f411ff~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=4221fde2d803f7e20aac81e1cfb23b9a07944117ec5ee71f581913ba614b09fb/clt1/va02/disneyplus/channel/7f9052ce-8143-43a6-9656-a8c00c4a3e56-1762950862652/ctr-all-sliding-alt1.m3u8?v=1&hash=2daf186937da77473bf07bbbecfc5597024e944f",
-    "k1": "b55462749f6b4e9f8b248ca334378898",
-    "k2": "e38507ee6871c28b42ea6edb184e2054"
-  },
-  {
     "title": "Oregon vs. Stanford",
     "league": "Básquet Femenino NCAA",
     "fecha-evento": "2025-12-21T18:00:01-05:00",
@@ -119,12 +106,15 @@
   {
     "title": "Vegas Golden Knights vs. Edmonton Oilers",
     "league": "National Hockey League",
-    "fecha-evento": "2025-12-21T20:00:00-05:00",
+    "fecha-evento": "2025-12-21T19:57:59-05:00",
     "img": "019b28d3-95a2-7e4f-9e47-f389a6534cb0",
-    "nombre": "disney3daf96",
-    "status": "20:00",
-    "duration": 135,
-    "play_url": ""
+    "nombre": "disneyb162e8",
+    "status": "19:57",
+    "duration": 212,
+    "play_url": "https://www.disneyplus.com/es-es/play/f064ce04-60c5-4321-be56-d411e309b787",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1766451635~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F22%2FVegas_Golden_Knights_vs_E_20251222_1766358043618%2F~psid=87b5df4e-a460-4acd-81d5-a16073519275~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=7b0946676e8e2de4a066d16a722036a92159ba36cd58994139f560f1b386d997/clt1/va02/disneyplus/event/2025/12/22/Vegas_Golden_Knights_vs_E_20251222_1766358043618/ctr-all-hdri-complete.m3u8?v=1&hash=17bf564ea98a12fff5662d78f39109dc7d616c85",
+    "k1": "c6373e6217b74a86aac62c48203058f0",
+    "k2": "278ff9a9dcea5cea39bdae81a3ead040"
   },
   {
     "title": "New England Patriots vs. Baltimore Ravens",
@@ -133,8 +123,11 @@
     "img": "019b01fa-c0ef-7c20-9346-f9bc959d1ed5",
     "nombre": "disneya8fed6",
     "status": "20:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 210,
+    "play_url": "https://www.disneyplus.com/es-es/play/3d73d1f9-46cf-427a-864c-4c51b32237d7",
+    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1766451679~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Ff25bdf06-81c9-4a7c-b128-3128d610ad17-1762951253360%2F~psid=5ba616ee-1c85-4b35-a6d6-a21614d31342~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=880d2870b23da6202131ce88cdc32f8606aa177e54d1c04d075bfa01838872d5/clt1/va02/disneyplus/channel/f25bdf06-81c9-4a7c-b128-3128d610ad17-1762951253360/ctr-all-sliding-alt1.m3u8?v=1&hash=57a1e5c4737768952c5164be5d4f5ba525d47674",
+    "k1": "9f5dbe49769c47f6bff5613af27aaf22",
+    "k2": "a56becde8e9645208e9c1069a4430e9d"
   },
   {
     "title": "#19 USC vs. California",
@@ -633,6 +626,16 @@
     "img": "019acb5d-a488-71ec-a4be-db37261a0182",
     "nombre": "disney24045b",
     "status": "12:20",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Sale Sharks vs. Harlequins",
+    "league": "Premiership",
+    "fecha-evento": "2025-12-26T12:25:00-05:00",
+    "img": "019b3111-30e6-7a2d-a47b-1d26dfb6bcdc",
+    "nombre": "disneyad8f4e",
+    "status": "12:25",
     "duration": 135,
     "play_url": ""
   }
