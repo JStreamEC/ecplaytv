@@ -1,18 +1,5 @@
 [
   {
-    "title": "Oklahoma City Blue vs. Long Island Nets",
-    "league": "NBA G League",
-    "fecha-evento": "2025-12-22T13:30:03-05:00",
-    "img": "019b2cd7-8036-720d-a7ed-449bf2fec674",
-    "nombre": "disneyb24924",
-    "status": "13:30",
-    "duration": 150,
-    "play_url": "https://www.disneyplus.com/es-es/play/9b8e1471-9810-4eb8-af2f-9e426cbaf1bf",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1766515238~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F22%2FOklahoma_City_Blue_vs_Lon_20251222_1766421002034%2F~psid=7eef9c91-b0af-4cb3-928b-c00d409eb7ad~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=00dab8e63a8b19d3731e2987e0bd1315f85de8a2e132cd01e20901a2b0170366/clt1/va02/disneyplus/event/2025/12/22/Oklahoma_City_Blue_vs_Lon_20251222_1766421002034/ctr-all-hdri-complete.m3u8?v=1&hash=c6c805b25150a6b21c5cae142158cd603b96a921",
-    "k1": "26b2afc34d654ba3bf9aa5a92fcca185",
-    "k2": "4d8d7d27ba205e2a3b8e7e3af931a80f"
-  },
-  {
     "title": "En Español-Washington State vs. Utah State",
     "league": "Fútbol Americano NCAA",
     "fecha-evento": "2025-12-22T13:59:59-05:00",
@@ -638,6 +625,16 @@
     "img": "019ada70-a49d-7cdb-9229-20203c6a9afe",
     "nombre": "disney73167a",
     "status": "10:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "En Español-Pittsburgh vs. East Carolina",
+    "league": "Fútbol Americano NCAA",
+    "fecha-evento": "2025-12-27T11:00:00-05:00",
+    "img": "019afe4f-23ea-7c48-95ec-9be16ef07a31",
+    "nombre": "disney8f97c7",
+    "status": "11:00",
     "duration": 135,
     "play_url": ""
   }
