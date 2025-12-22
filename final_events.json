@@ -1,18 +1,5 @@
 [
   {
-    "title": "Motor City Cruise vs. College Park Skyhawks",
-    "league": "NBA G League",
-    "fecha-evento": "2025-12-22T11:00:04-05:00",
-    "img": "8955f414-c7d8-49e3-b9a8-ae6bc8754589",
-    "nombre": "disney996e38",
-    "status": "11:00",
-    "duration": 150,
-    "play_url": "https://www.disneyplus.com/es-es/play/d5ac06c8-cfd2-4f60-acb4-cf0308c85466",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1766510479~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F22%2FMotor_City_Cruise_vs_Coll_20251222_1766412056031%2F~psid=bbdae923-0456-4e32-92dc-8b73fdd5eb1b~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=72b8ef0696e5bc4feb960ecc72ac9e95ea3e62cbdacbd9ea765ffad97d196197/clt1/va02/disneyplus/event/2025/12/22/Motor_City_Cruise_vs_Coll_20251222_1766412056031/ctr-all-hdri-complete.m3u8?v=1&hash=15a7bfb85fdb1c5b186c829b798890e47fb556e5",
-    "k1": "392fe80c16b94753b17b160a8ca8dea3",
-    "k2": "fc6029f321297c812efa247789e535a5"
-  },
-  {
     "title": "Genclerbirligi vs. Trabzonspor",
     "league": "Super Lig de Turquía",
     "fecha-evento": "2025-12-22T11:50:00-05:00",
@@ -41,12 +28,15 @@
   {
     "title": "Oklahoma City Blue vs. Long Island Nets",
     "league": "NBA G League",
-    "fecha-evento": "2025-12-22T13:30:00-05:00",
+    "fecha-evento": "2025-12-22T13:30:03-05:00",
     "img": "019b2cd7-8036-720d-a7ed-449bf2fec674",
-    "nombre": "disney1668d3",
+    "nombre": "disneyb24924",
     "status": "13:30",
-    "duration": 135,
-    "play_url": ""
+    "duration": 150,
+    "play_url": "https://www.disneyplus.com/es-es/play/9b8e1471-9810-4eb8-af2f-9e426cbaf1bf",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1766515238~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F22%2FOklahoma_City_Blue_vs_Lon_20251222_1766421002034%2F~psid=7eef9c91-b0af-4cb3-928b-c00d409eb7ad~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=00dab8e63a8b19d3731e2987e0bd1315f85de8a2e132cd01e20901a2b0170366/clt1/va02/disneyplus/event/2025/12/22/Oklahoma_City_Blue_vs_Lon_20251222_1766421002034/ctr-all-hdri-complete.m3u8?v=1&hash=c6c805b25150a6b21c5cae142158cd603b96a921",
+    "k1": "26b2afc34d654ba3bf9aa5a92fcca185",
+    "k2": "4d8d7d27ba205e2a3b8e7e3af931a80f"
   },
   {
     "title": "En Español-Washington State vs. Utah State",
@@ -635,6 +625,16 @@
     "img": "019b0e05-e65b-7c51-90e8-95142be23f74",
     "nombre": "disneycfd922",
     "status": "09:40",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Brentford vs. Bournemouth",
+    "league": "Premier League",
+    "fecha-evento": "2025-12-27T09:50:00-05:00",
+    "img": "019b0e07-4958-7821-a67c-9e08c9de6175",
+    "nombre": "disney1219b1",
+    "status": "09:50",
     "duration": 135,
     "play_url": ""
   }
