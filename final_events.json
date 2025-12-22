@@ -1,18 +1,5 @@
 [
   {
-    "title": "Sharjah (UAE) vs. Al Hilal (KSA)",
-    "league": "AFC Champions League",
-    "fecha-evento": "2025-12-22T10:49:57-05:00",
-    "img": "019ac1e0-cab9-784a-bc54-ecb78fdf4b0a",
-    "nombre": "disney745d77",
-    "status": "10:49",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/733acbb9-77e9-4679-ba9a-8f4b606245e3",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1766510436~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F22%2FSharjah_UAE_vs_Al_Hilal_K_20251222_1766411455038%2F~psid=deb09c63-a83a-47f1-ac16-03a02f62b9b9~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=2e2cfd03b6d38d81566d8ffac1263fc40f465e5763d7945866be2a9733bc4ef0/clt1/va02/disneyplus/event/2025/12/22/Sharjah_UAE_vs_Al_Hilal_K_20251222_1766411455038/ctr-all-hdri-complete.m3u8?v=1&hash=10d0cf741160fd539a954589ece4936482e88f78",
-    "k1": "4dbdb0d82a2a42c892a0e08e9a294928",
-    "k2": "0132672a52edfc03e672cdcdaf9db77b"
-  },
-  {
     "title": "Motor City Cruise vs. College Park Skyhawks",
     "league": "NBA G League",
     "fecha-evento": "2025-12-22T11:00:04-05:00",
@@ -45,8 +32,11 @@
     "img": "019b0048-7c1a-771a-a051-bc9838447829",
     "nombre": "disney25e525",
     "status": "13:10",
-    "duration": 135,
-    "play_url": ""
+    "duration": 125,
+    "play_url": "https://www.disneyplus.com/es-es/play/5bec22fa-5620-46e1-aea0-20b8b8780491",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1766514035~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F22%2FAl_Shorta_IRQ_vs_Al_Ahli__20251222_1766419826035%2F~psid=2e7db0bd-8a09-45db-85f2-f1b73c84801c~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=ff73d6bc2fcf5ec06b5be76e7979947e51402a35ef603ce7757ce0ec5d679f30/clt1/va02/disneyplus/event/2025/12/22/Al_Shorta_IRQ_vs_Al_Ahli__20251222_1766419826035/ctr-all-hdri-complete.m3u8?v=1&hash=423d3ed6b55d2620695645d61df67559c876d8b3",
+    "k1": "c817640e44f84f6eb04a375d2a028777",
+    "k2": "3f233c58ff69729a5bf22d5184b059b5"
   },
   {
     "title": "Oklahoma City Blue vs. Long Island Nets",
@@ -634,6 +624,16 @@
     "fecha-evento": "2025-12-27T09:40:00-05:00",
     "img": "019b0df6-e661-7e03-a181-9bc3aaa1eb86",
     "nombre": "disney23af70",
+    "status": "09:40",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Arsenal vs. Brighton & Hove Albion",
+    "league": "Premier League",
+    "fecha-evento": "2025-12-27T09:40:00-05:00",
+    "img": "019b0e05-e65b-7c51-90e8-95142be23f74",
+    "nombre": "disneycfd922",
     "status": "09:40",
     "duration": 135,
     "play_url": ""
