@@ -13,19 +13,6 @@
     "k2": "e38507ee6871c28b42ea6edb184e2054"
   },
   {
-    "title": "Las Vegas Raiders vs. Houston Texans",
-    "league": "NFL",
-    "fecha-evento": "2025-12-21T16:06:00-05:00",
-    "img": "019b09bf-5629-7890-a0b3-eb2ef3a4ca79",
-    "nombre": "disneyc5ffc7",
-    "status": "16:06",
-    "duration": 204,
-    "play_url": "https://www.disneyplus.com/es-es/play/700f1244-0e20-41fc-8795-b1cdd44179bb",
-    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1766444101~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F47873700-1b85-4497-8f84-d6f321fbb196-1762950817735%2F~psid=1fe73ffc-21a4-4a5e-bfa3-8cb084e9525c~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=a9b69a55f52d1f13e634229b7ba063c5df5506435d8fb3d4408315a7dddebc9e/clt1/va02/disneyplus/channel/47873700-1b85-4497-8f84-d6f321fbb196-1762950817735/ctr-all-sliding-alt1.m3u8?v=1&hash=47b2c0b057c5c5c39ef0f49826b655a1e4ceacb9",
-    "k1": "8058dd1a7c1a43998f2ffbff3949fedf",
-    "k2": "530048c7ec672ae059af226fb961fda8"
-  },
-  {
     "title": "Oregon vs. Stanford",
     "league": "Básquet Femenino NCAA",
     "fecha-evento": "2025-12-21T18:00:01-05:00",
@@ -636,6 +623,16 @@
     "img": "019b0537-3129-7cd6-885b-c9af93e6d7af",
     "nombre": "disneyfe724f",
     "status": "09:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Wrexham AFC vs. Sheffield United",
+    "league": "Championship de Inglaterra",
+    "fecha-evento": "2025-12-26T12:20:00-05:00",
+    "img": "019acb5d-a488-71ec-a4be-db37261a0182",
+    "nombre": "disney24045b",
+    "status": "12:20",
     "duration": 135,
     "play_url": ""
   }
