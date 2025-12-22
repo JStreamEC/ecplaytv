@@ -13,32 +13,6 @@
     "k2": "b6f0334ec5b10c7b33f11069fe0f3034"
   },
   {
-    "title": "Fulham vs. Nottingham Forest",
-    "league": "Premier League",
-    "fecha-evento": "2025-12-22T14:50:00-05:00",
-    "img": "019b0442-b39f-76bb-b8b2-0f24f5b1f3fe",
-    "nombre": "disney21c598",
-    "status": "14:50",
-    "duration": 125,
-    "play_url": "https://www.disneyplus.com/es-es/play/f70e54db-49e1-4150-bcd8-b847b2c1ef3e",
-    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1766520033~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F921e1311-bb26-43dd-84a6-9e2284959712-1762950465141%2F~psid=efd39334-64e5-45bc-a047-259deb25d067~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=3bd35e424fac7cf8234a5a6f24c98725fdcc0188c9a2251c460cd362cc5ca90c/clt1/va02/disneyplus/channel/921e1311-bb26-43dd-84a6-9e2284959712-1762950465141/ctr-all-sliding-alt1.m3u8?v=1&hash=03915bf69f19826611ecdeecc79455eab40b229c",
-    "k1": "ac784e02230949e4896a06c2d713e886",
-    "k2": "a135f9cb0b36972c14131a01890a5dc7"
-  },
-  {
-    "title": "Athletic Bilbao vs. Espanyol",
-    "league": "LALIGA",
-    "fecha-evento": "2025-12-22T14:53:00-05:00",
-    "img": "5f1ad933-47ae-4cac-adb9-084e59679510",
-    "nombre": "disneyf5a578",
-    "status": "14:53",
-    "duration": 127,
-    "play_url": "https://www.disneyplus.com/es-es/play/b9ecdc6e-3fee-4b16-8725-ebd9002018af",
-    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1766520077~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Ff25bdf06-81c9-4a7c-b128-3128d610ad17-1762951253360%2F~psid=464363e4-15ff-43dd-9c2d-d2bcf15a7ff1~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=c104d7ecc9e1001e3fbdebe808c8034ed4643705c4bb1fb50bd6323fccabe20a/clt1/va02/disneyplus/channel/f25bdf06-81c9-4a7c-b128-3128d610ad17-1762951253360/ctr-all-sliding-alt1.m3u8?v=1&hash=57a1e5c4737768952c5164be5d4f5ba525d47674",
-    "k1": "6300dcf38b64406ba71fbe554d3dbe33",
-    "k2": "99db6d278f5c3870ea7f6d8db20947df"
-  },
-  {
     "title": "Mexico City Capitanes vs. Osceola Magic",
     "league": "NBA G League",
     "fecha-evento": "2025-12-22T16:00:03-05:00",
@@ -638,6 +612,16 @@
     "img": "019afe4f-23ea-7c48-95ec-9be16ef07a31",
     "nombre": "disney8f97c7",
     "status": "11:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Penn State vs. Clemson",
+    "league": "Fútbol Americano NCAA",
+    "fecha-evento": "2025-12-27T12:00:00-05:00",
+    "img": "019b4715-41df-739b-91eb-c0f16caa544d",
+    "nombre": "disney07ef31",
+    "status": "12:00",
     "duration": 135,
     "play_url": ""
   }
