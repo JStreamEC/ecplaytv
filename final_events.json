@@ -1,18 +1,5 @@
 [
   {
-    "title": "En Español-Washington State vs. Utah State",
-    "league": "Fútbol Americano NCAA",
-    "fecha-evento": "2025-12-22T13:59:59-05:00",
-    "img": "019afe5a-11a6-7a92-9e63-f9988fe7b75b",
-    "nombre": "disneydd16ff",
-    "status": "13:59",
-    "duration": 210,
-    "play_url": "https://www.disneyplus.com/es-es/play/faaeca39-f82c-484f-a654-519e330c6b4d",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1766517638~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F22%2FEn_EspaolWashington_State_20251222_1766422832035%2F~psid=f4e243be-a8c2-483f-92d6-255a69ab5e2c~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=b03bbdd74359693d5fd018af5171d634880d8cfa8db652e02211d61c7a39f4ec/clt1/va02/disneyplus/event/2025/12/22/En_EspaolWashington_State_20251222_1766422832035/ctr-all-hdri-complete.m3u8?v=1&hash=5c2084109013e10aa58f90672e2fa3d7b99fcb14",
-    "k1": "b3ca0fa4a7c9429cb624162a7012da0b",
-    "k2": "b6f0334ec5b10c7b33f11069fe0f3034"
-  },
-  {
     "title": "Mexico City Capitanes vs. Osceola Magic",
     "league": "NBA G League",
     "fecha-evento": "2025-12-22T16:00:03-05:00",
@@ -622,6 +609,16 @@
     "img": "019b4715-41df-739b-91eb-c0f16caa544d",
     "nombre": "disney07ef31",
     "status": "12:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Chelsea vs. Aston Villa",
+    "league": "Premier League",
+    "fecha-evento": "2025-12-27T12:15:00-05:00",
+    "img": "019b1e6d-cade-78d4-ba7d-c52e901b8ae9",
+    "nombre": "disney73de47",
+    "status": "12:15",
     "duration": 135,
     "play_url": ""
   }
