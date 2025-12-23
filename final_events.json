@@ -1,18 +1,5 @@
 [
   {
-    "title": "Toledo vs. Louisville | En Español",
-    "league": "Fútbol Americano NCAA",
-    "fecha-evento": "2025-12-23T14:00:00-05:00",
-    "img": "019b4626-ef5a-7b14-8cdc-7fa26f524f1c",
-    "nombre": "disney3caaf6",
-    "status": "14:00",
-    "duration": 210,
-    "play_url": "https://www.disneyplus.com/es-es/play/e4e79d5c-4350-4e1c-a243-8b92c08b0dd3",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1766602922~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F23%2FToledo_vs_Louisville_En_E_20251223_1766509208033%2F~psid=4b3f7426-cbe8-4a2a-9461-b03c9e17c13d~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=6b16227cf5d1a5fe20f3f1f0ea843e2892992499d54ac9386abcecd12c39c072/clt1/va02/disneyplus/event/2025/12/23/Toledo_vs_Louisville_En_E_20251223_1766509208033/ctr-all-hdri-complete.m3u8?v=1&hash=816d8877501c260f99e8b060637374971d5b1695",
-    "k1": "c2b5e290b76244f1a138be95eb84d662",
-    "k2": "9d6b4d1c02b1faf12a406ed1e1a20348"
-  },
-  {
     "title": "Pittsburgh Penguins vs. Toronto Maple Leafs",
     "league": "National Hockey League",
     "fecha-evento": "2025-12-23T16:00:00-05:00",
@@ -614,6 +601,16 @@
     "fecha-evento": "2025-12-27T19:00:00-05:00",
     "img": "019b28c7-7749-7067-a9cc-0d9415e14c77",
     "nombre": "disney65c0ba",
+    "status": "19:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Washington Capitals vs. New Jersey Devils",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-12-27T19:00:00-05:00",
+    "img": "019b28c7-520c-78e7-8d42-2a72ceefa014",
+    "nombre": "disney86e78a",
     "status": "19:00",
     "duration": 135,
     "play_url": ""
