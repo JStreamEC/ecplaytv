@@ -13,19 +13,6 @@
     "k2": "9d6b4d1c02b1faf12a406ed1e1a20348"
   },
   {
-    "title": "Arsenal vs. Crystal Palace",
-    "league": "Carabao Cup",
-    "fecha-evento": "2025-12-23T14:45:00-05:00",
-    "img": "019b41fa-09bf-76b4-bdd5-1109724284af",
-    "nombre": "disneye7f6ae",
-    "status": "14:45",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/15ecd840-5dcc-45ed-834a-0b3f20fce87a",
-    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1766606434~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F921e1311-bb26-43dd-84a6-9e2284959712-1762950465141%2F~psid=929f9c5b-241e-4068-8344-1f53623573e1~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=7ebe227c588c0f6faf74b7e822bb558e786be3a7b9508a5ce3e910f343d774f1/clt1/va02/disneyplus/channel/921e1311-bb26-43dd-84a6-9e2284959712-1762950465141/ctr-all-sliding-alt1.m3u8?v=1&hash=03915bf69f19826611ecdeecc79455eab40b229c",
-    "k1": "e16493593cac4eadae94480873bea09c",
-    "k2": "045f83bc2a8220ee78f70fc9b0c192a8"
-  },
-  {
     "title": "Pittsburgh Penguins vs. Toronto Maple Leafs",
     "league": "National Hockey League",
     "fecha-evento": "2025-12-23T16:00:00-05:00",
@@ -39,14 +26,17 @@
     "k2": "0896820e29fcf84531c9508ce341fe2c"
   },
   {
-    "title": "En Español-Western Kentucky vs. Southern Miss",
+    "title": "Western Kentucky vs. Southern Miss",
     "league": "Fútbol Americano NCAA",
     "fecha-evento": "2025-12-23T17:30:00-05:00",
     "img": "019afe4d-155a-7f42-a2c5-15394a565c95",
-    "nombre": "disneya50db2",
+    "nombre": "disney32f46c",
     "status": "17:30",
-    "duration": 135,
-    "play_url": ""
+    "duration": 210,
+    "play_url": "https://www.disneyplus.com/es-es/play/32f8b245-7aee-4c57-a6f7-b851d6e09f68",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1766616041~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F23%2FWestern_Kentucky_vs_South_20251223_1766521827028%2F~psid=25051d27-6751-4610-b4dd-92a790473293~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=69d4d4618290d74c68cd043d871f94725993b09785a24434d9ae7073c484c298/clt1/va02/disneyplus/event/2025/12/23/Western_Kentucky_vs_South_20251223_1766521827028/ctr-all-hdri-complete.m3u8?v=1&hash=f9ab18ffd3df288439f59441b6687947268d318f",
+    "k1": "0c4e696df70249b79c5a1a496b7a951d",
+    "k2": "ed2a6cd9c461e7c7426b56f142131085"
   },
   {
     "title": "Morgan State vs. Loyola Marymount",
@@ -614,6 +604,16 @@
     "fecha-evento": "2025-12-27T19:00:00-05:00",
     "img": "73dbea12-b65c-45f0-a9ab-c994c5a7c354",
     "nombre": "disney2fca24",
+    "status": "19:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Minnesota Wild vs. Winnipeg Jets",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-12-27T19:00:00-05:00",
+    "img": "019b28c7-7749-7067-a9cc-0d9415e14c77",
+    "nombre": "disney65c0ba",
     "status": "19:00",
     "duration": 135,
     "play_url": ""
