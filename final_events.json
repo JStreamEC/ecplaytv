@@ -1,18 +1,5 @@
 [
   {
-    "title": "Fórmula S #4 - Kartódromo Ciudad Evita",
-    "league": "Formula S",
-    "fecha-evento": "2025-12-23T11:30:00-05:00",
-    "img": "019b429b-00b1-7f5b-a398-9aa88c7f1d75",
-    "nombre": "disneyda9fb7",
-    "status": "11:30",
-    "duration": 240,
-    "play_url": "https://www.disneyplus.com/es-es/play/0189703a-0fc6-4f80-9b07-0bac3c9d5a32",
-    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1766602834~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Ff25bdf06-81c9-4a7c-b128-3128d610ad17-1762951253360%2F~psid=987a05f6-6a71-4345-b92e-a2915baa417e~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=3dbc6d9b52c0cdbb92cb4c8b6d1c3f74c05703719efc0b09a47bfdc384b24789/clt1/va02/disneyplus/channel/f25bdf06-81c9-4a7c-b128-3128d610ad17-1762951253360/ctr-all-sliding-alt1.m3u8?v=1&hash=57a1e5c4737768952c5164be5d4f5ba525d47674",
-    "k1": "d5f64844abd54916b5f286a7ae698aa3",
-    "k2": "b7d0165266ec1c6d1c8cca529cff3ce5"
-  },
-  {
     "title": "Toledo vs. Louisville | En Español",
     "league": "Fútbol Americano NCAA",
     "fecha-evento": "2025-12-23T14:00:00-05:00",
@@ -618,6 +605,16 @@
     "img": "d4d3da59-23f3-49dc-9a1b-669d90b8b73e",
     "nombre": "disneybcc496",
     "status": "18:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Tampa Bay Lightning vs. Florida Panthers",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-12-27T19:00:00-05:00",
+    "img": "73dbea12-b65c-45f0-a9ab-c994c5a7c354",
+    "nombre": "disney2fca24",
+    "status": "19:00",
     "duration": 135,
     "play_url": ""
   }
