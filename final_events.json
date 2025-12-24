@@ -130,19 +130,6 @@
     "k2": "0920462ff0fbf5e5e9c766ae5f4a4bc9"
   },
   {
-    "title": "Paul VI (VA) vs. Archbishop Stepinac (NY) (Championship)",
-    "league": "Baloncesto Colegial",
-    "fecha-evento": "2025-12-23T21:00:00-05:00",
-    "img": "865c6339-922c-4a84-8d41-ff5728a43eba",
-    "nombre": "disney5b67fb",
-    "status": "21:00",
-    "duration": 90,
-    "play_url": "https://www.disneyplus.com/es-es/play/dd26e3f7-02dd-4000-bd42-639847b4152c",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1766628124~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F24%2FPaul_VI_VA_vs_Archbishop__20251224_1766534440030%2F~psid=9b43ee84-1abc-4e7c-b7da-069803d26a0d~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=dfe0e76185ceadb423af9464992e95d0acabb807d6f288cd4f05d84ab970676a/clt1/va02/disneyplus/event/2025/12/24/Paul_VI_VA_vs_Archbishop__20251224_1766534440030/ctr-all-hdri-complete.m3u8?v=1&hash=0ea46d7e9999b96ae2e7596955544218d2b3acf6",
-    "k1": "9f7f948594de4f02827df0ec46c7b620",
-    "k2": "5265505157d4e674b440befa7a9cfe18"
-  },
-  {
     "title": "Philadelphia Flyers vs. Chicago Blackhawks",
     "league": "National Hockey League",
     "fecha-evento": "2025-12-23T21:00:00-05:00",
@@ -154,6 +141,19 @@
     "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1766628149~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F24%2FPhiladelphia_Flyers_vs_Ch_20251224_1766534451030%2F~psid=6d04d662-7898-4847-8570-8ba8a25654f9~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=b64ce2b8795fcf782959080e514758c68cd786544ec93723979eccbbdacfc639/clt1/va02/disneyplus/event/2025/12/24/Philadelphia_Flyers_vs_Ch_20251224_1766534451030/ctr-all-hdri-complete.m3u8?v=1&hash=978c0793285b1a8ee09ec59d6a050a2e672e3e29",
     "k1": "6e978258ac8242cab230af4e84457a35",
     "k2": "57e23c1118403fb32196671574969570"
+  },
+  {
+    "title": "Paul VI (VA) vs. Archbishop Stepinac (NY) (Championship)",
+    "league": "Baloncesto Colegial",
+    "fecha-evento": "2025-12-23T21:00:00-05:00",
+    "img": "865c6339-922c-4a84-8d41-ff5728a43eba",
+    "nombre": "disney5b67fb",
+    "status": "21:00",
+    "duration": 90,
+    "play_url": "https://www.disneyplus.com/es-es/play/dd26e3f7-02dd-4000-bd42-639847b4152c",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1766628124~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F24%2FPaul_VI_VA_vs_Archbishop__20251224_1766534440030%2F~psid=9b43ee84-1abc-4e7c-b7da-069803d26a0d~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=dfe0e76185ceadb423af9464992e95d0acabb807d6f288cd4f05d84ab970676a/clt1/va02/disneyplus/event/2025/12/24/Paul_VI_VA_vs_Archbishop__20251224_1766534440030/ctr-all-hdri-complete.m3u8?v=1&hash=0ea46d7e9999b96ae2e7596955544218d2b3acf6",
+    "k1": "9f7f948594de4f02827df0ec46c7b620",
+    "k2": "5265505157d4e674b440befa7a9cfe18"
   },
   {
     "title": "Calgary Flames vs. Edmonton Oilers",
@@ -185,6 +185,16 @@
     "img": "019b28c7-6b41-7174-802b-4671418bed9a",
     "nombre": "disney181e2d",
     "status": "22:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Al Nassr (KSA) vs. Al Zawraa (IRQ)",
+    "league": "Asian Cup",
+    "fecha-evento": "2025-12-24T10:50:00-05:00",
+    "img": "019ac1de-7c7c-70c4-9423-9ea3f79a52f2",
+    "nombre": "disneybe786b",
+    "status": "10:50",
     "duration": 135,
     "play_url": ""
   },
@@ -634,16 +644,6 @@
     "fecha-evento": "2025-12-27T19:00:00-05:00",
     "img": "019a83eb-a373-701b-b6c4-8912f48bc5aa",
     "nombre": "disney30a617",
-    "status": "19:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Las Vegas Desert Dogs vs. Toronto Rock",
-    "league": "National Lacrosse League",
-    "fecha-evento": "2025-12-27T19:00:00-05:00",
-    "img": "019a83eb-98fb-7839-ba02-ae175cd5da48",
-    "nombre": "disney1ca74a",
     "status": "19:00",
     "duration": 135,
     "play_url": ""
