@@ -1,18 +1,5 @@
 [
   {
-    "title": "Central Michigan vs. Northwestern",
-    "league": "Fútbol Americano NCAA",
-    "fecha-evento": "2025-12-26T13:00:04-05:00",
-    "img": "019afe4e-1cbe-7e33-80a1-3887586d6688",
-    "nombre": "disney609662",
-    "status": "13:00",
-    "duration": 210,
-    "play_url": "https://www.disneyplus.com/es-es/play/78f5cfc7-ec6e-43d1-b72f-e367a65052af",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1766864435~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F26%2FCentral_Michigan_vs_North_20251226_1766764856042%2F~psid=128adef7-fad3-4e8f-99ec-96ff5843a352~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=5c0b7585bd85625b5aac1cea3dc80308877bba6758f373ff1c5e03af6d14c69c/clt1/va02/disneyplus/event/2025/12/26/Central_Michigan_vs_North_20251226_1766764856042/ctr-all-hdri-complete.m3u8?v=1&hash=5b6404403c565df42b01cb3c9c5b9fb7c7752ec1",
-    "k1": "b90716d2678b4d888d9c5d56c75848b6",
-    "k2": "b19c29d5404b4145bf07f5151b97a373"
-  },
-  {
     "title": "Manchester United vs. Newcastle United",
     "league": "Premier League",
     "fecha-evento": "2025-12-26T14:45:00-05:00",
@@ -26,14 +13,17 @@
     "k2": "d9d7dc98d4a67bc5c7a9ab0a5c3e2867"
   },
   {
-    "title": "New Mexico vs. Minnesota",
+    "title": "En Español-New Mexico vs.  Minnesota",
     "league": "Fútbol Americano NCAA",
-    "fecha-evento": "2025-12-26T16:30:00-05:00",
+    "fecha-evento": "2025-12-26T16:30:02-05:00",
     "img": "019afe4d-fc45-7549-bda3-80101fb728b1",
-    "nombre": "disney24cd9a",
+    "nombre": "disney283c74",
     "status": "16:30",
-    "duration": 135,
-    "play_url": ""
+    "duration": 210,
+    "play_url": "https://www.disneyplus.com/es-es/play/6ba28d23-e7fa-46ba-889b-374d2735dc79",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1766871639~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F26%2FNew_Mexico_vs_Minnesota_20251226_1766777424032%2F~psid=19403799-41a7-4484-8612-38a20a461935~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=ee9db603e4fb51072f0aa8f836b429a9342e185c8324f0985a700ab6c8c1ba9a/clt1/va02/disneyplus/event/2025/12/26/New_Mexico_vs_Minnesota_20251226_1766777424032/ctr-all-hdri-complete.m3u8?v=1&hash=c22476b0b8fa03058ffaec028f0d8f8c43ddc61e",
+    "k1": "75d0c76e3f23402180d6b1f218f7209e",
+    "k2": "d23d5f76d2e5cce449db0889dd6c2d50"
   },
   {
     "title": "Toros de Sincelejo vs. Caimanes de Barranquilla",
@@ -602,6 +592,16 @@
     "img": "019ada50-cd81-7de3-9e35-13d68dd5bfa7",
     "nombre": "disney1fb9c2",
     "status": "15:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "San Diego vs. Santa Clara",
+    "league": "Básquet Femenino NCAA",
+    "fecha-evento": "2025-12-28T16:00:00-05:00",
+    "img": "019b28c4-d388-7e40-8c08-4c7b177ee5b5",
+    "nombre": "disney42f807",
+    "status": "16:00",
     "duration": 135,
     "play_url": ""
   }
