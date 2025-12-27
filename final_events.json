@@ -1,18 +1,5 @@
 [
   {
-    "title": "Nottingham Forest vs. Manchester City",
-    "league": "Premier League",
-    "fecha-evento": "2025-12-27T07:15:00-05:00",
-    "img": "019b1e6e-282e-7f99-a876-af601c1d051d",
-    "nombre": "disneya800b9",
-    "status": "07:15",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/5df163b7-5af7-4545-9151-06f5922ec478",
-    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1766924462~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F921e1311-bb26-43dd-84a6-9e2284959712-1762950465141%2F~psid=c31e5c9a-2216-4aa8-b3fe-5ffefe8729db~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=8b534be8c31d880b268265de278d4bfc20dac540bf94ea0a8b565ffd2494502d/clt1/va02/disneyplus/channel/921e1311-bb26-43dd-84a6-9e2284959712-1762950465141/ctr-all-sliding-alt1.m3u8?v=1&hash=03915bf69f19826611ecdeecc79455eab40b229c",
-    "k1": "129f0284e5604f6a851bb8b8210a79e6",
-    "k2": "405620475a8fc98e19de1f0743bf8690"
-  },
-  {
     "title": "Lecce vs. Como",
     "league": "Seria A",
     "fecha-evento": "2025-12-27T08:50:00-05:00",
@@ -614,6 +601,16 @@
     "fecha-evento": "2025-12-28T17:00:00-05:00",
     "img": "019b2b5d-ac65-7ccd-949e-40a4b98c21e5",
     "nombre": "disneycab6e8",
+    "status": "17:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Washington State vs. Portland",
+    "league": "Básquetbol Masculino NCAA",
+    "fecha-evento": "2025-12-28T17:00:00-05:00",
+    "img": "0636bd7d-05c4-49f7-9bf2-d9b3b05dc24f",
+    "nombre": "disney941733",
     "status": "17:00",
     "duration": 135,
     "play_url": ""
