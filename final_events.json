@@ -1,31 +1,5 @@
 [
   {
-    "title": "Toros de Sincelejo vs. Caimanes de Barranquilla",
-    "league": "Colombian Beisbol",
-    "fecha-evento": "2025-12-26T19:00:00-05:00",
-    "img": "019aca7a-059d-78b9-8b87-23059e2fb7af",
-    "nombre": "disney53222b",
-    "status": "19:00",
-    "duration": 180,
-    "play_url": "https://www.disneyplus.com/es-es/play/cd551e20-fcf0-46d3-b6c6-416287d2b2d4",
-    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1766880049~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F921e1311-bb26-43dd-84a6-9e2284959712-1762950465141%2F~psid=40fa7558-6fe2-4ffa-add6-d8d4935c6886~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=2e2bd98c39678e7662b8d1d04ee820105a963f73ff53143bf57a5a1cf6c05518/clt1/va02/disneyplus/channel/921e1311-bb26-43dd-84a6-9e2284959712-1762950465141/ctr-all-sliding-alt1.m3u8?v=1&hash=03915bf69f19826611ecdeecc79455eab40b229c",
-    "k1": "e498d4db664c40c2b06c680a2c85583e",
-    "k2": "d9d7dc98d4a67bc5c7a9ab0a5c3e2867"
-  },
-  {
-    "title": "En Español-Florida International vs. UTSA",
-    "league": "Fútbol Americano NCAA",
-    "fecha-evento": "2025-12-26T20:00:00-05:00",
-    "img": "019afe4e-7f1c-783e-90a6-bd0c4e7d1684",
-    "nombre": "disneyfec511",
-    "status": "20:00",
-    "duration": 210,
-    "play_url": "https://www.disneyplus.com/es-es/play/2dfb6ea0-7bb6-40c5-b056-0032bbf7daa3",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1766883680~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F27%2FEn_EspaolFlorida_Internat_20251227_1766790015051%2F~psid=392f47bf-ace1-4e24-bfa2-4d3b135c9ef1~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=6babdb859de0906a942810f64ed0a0e2a3e41ceba16af2d7f83200df6b1fea96/clt1/va02/disneyplus/event/2025/12/27/En_EspaolFlorida_Internat_20251227_1766790015051/ctr-all-hdri-complete.m3u8?v=1&hash=d7ad051dc2837f3bebd7029ec162fa7344088e07",
-    "k1": "221ffeb7a68047a4a073a6253a536300",
-    "k2": "edb04e676b5dd451dc2fe1907764e722"
-  },
-  {
     "title": "LALIGA FC Futures | Day 1",
     "league": "ESPN",
     "fecha-evento": "2025-12-27T04:30:00-05:00",
@@ -139,7 +113,7 @@
     "title": "Pittsburgh vs. East Carolina",
     "league": "Fútbol Americano NCAA",
     "fecha-evento": "2025-12-27T11:00:00-05:00",
-    "img": "019b488c-a7c3-78fb-a532-57a9cb41460c",
+    "img": "019b5d9e-6f80-720b-bd1a-1244513149a4",
     "nombre": "disneyb52d38",
     "status": "11:00",
     "duration": 135,
@@ -176,11 +150,11 @@
     "play_url": ""
   },
   {
-    "title": "En Español-UConn vs. Army",
+    "title": "UConn vs. Army",
     "league": "Fútbol Americano NCAA",
     "fecha-evento": "2025-12-27T14:15:00-05:00",
-    "img": "019b0448-57e4-7e3d-b7ca-e07dcffd495a",
-    "nombre": "disneybac8f2",
+    "img": "019b5dbf-5ce4-7f28-b1ae-a0c314d424fe",
+    "nombre": "disney04faf5",
     "status": "14:15",
     "duration": 135,
     "play_url": ""
@@ -206,6 +180,16 @@
     "play_url": ""
   },
   {
+    "title": "Toros de Sincelejo vs. Caimanes de Barranquilla",
+    "league": "Colombian Beisbol",
+    "fecha-evento": "2025-12-27T17:00:00-05:00",
+    "img": "019aca7a-059d-78b9-8b87-23059e2fb7af",
+    "nombre": "disney480ad2",
+    "status": "17:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
     "title": "Arizona State vs. #8 Dartmouth",
     "league": "NCAA Men's Ice Hockey",
     "fecha-evento": "2025-12-27T17:00:00-05:00",
@@ -219,7 +203,7 @@
     "title": "#25 North Texas vs. San Diego State",
     "league": "Fútbol Americano NCAA",
     "fecha-evento": "2025-12-27T17:45:00-05:00",
-    "img": "019afe54-8ce5-7867-ac41-3a927892d5ee",
+    "img": "019b5e3d-f8aa-7366-afe3-4ddda30607f9",
     "nombre": "disney2ca58b",
     "status": "17:45",
     "duration": 135,
@@ -399,7 +383,7 @@
     "title": "LSU vs. #21 Houston",
     "league": "Fútbol Americano NCAA",
     "fecha-evento": "2025-12-27T21:15:00-05:00",
-    "img": "019b55f5-2669-7d1a-acb6-5cb0825b1d44",
+    "img": "019b5e42-d04f-7800-9c10-0536fc929505",
     "nombre": "disneyee63cd",
     "status": "21:15",
     "duration": 135,
@@ -591,6 +575,26 @@
     "fecha-evento": "2025-12-28T16:00:00-05:00",
     "img": "8f090117-7ba7-4a28-93f0-fe9bbd81a8d7",
     "nombre": "disney22bcc8",
+    "status": "16:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "New York Giants vs. Las Vegas Raiders",
+    "league": "NFL",
+    "fecha-evento": "2025-12-28T16:00:00-05:00",
+    "img": "019b2e72-241e-77a3-ae6f-38005fefbc55",
+    "nombre": "disney7dd3cc",
+    "status": "16:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Philadelphia Eagles vs. Buffalo Bills",
+    "league": "NFL",
+    "fecha-evento": "2025-12-28T16:00:00-05:00",
+    "img": "019b29f3-9d09-7b52-b957-4fc95f736965",
+    "nombre": "disney284834",
     "status": "16:00",
     "duration": 135,
     "play_url": ""
