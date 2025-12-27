@@ -1,31 +1,5 @@
 [
   {
-    "title": "Lecce vs. Como",
-    "league": "Seria A",
-    "fecha-evento": "2025-12-27T08:50:00-05:00",
-    "img": "019b1e6d-d16c-76fc-b3e9-a6c570ac4da8",
-    "nombre": "disney5ad5ea",
-    "status": "08:50",
-    "duration": 125,
-    "play_url": "https://www.disneyplus.com/es-es/play/064b7dba-b54c-4eab-815c-8390aff69b7e",
-    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1766931636~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Ff25bdf06-81c9-4a7c-b128-3128d610ad17-1762951253360%2F~psid=97e1019e-a6d5-4d42-bddc-a0ec89a09a19~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=0c1092178fe732df04e53f039f27f76b79a456fbeaab7cdd7a751cf7ac2a4d48/clt1/va02/disneyplus/channel/f25bdf06-81c9-4a7c-b128-3128d610ad17-1762951253360/ctr-all-sliding-alt1.m3u8?v=1&hash=57a1e5c4737768952c5164be5d4f5ba525d47674",
-    "k1": "9b39a3f62b954d25846a2f6ffc1cb2c8",
-    "k2": "ed8da7f643b8819aeec67b983a311bf8"
-  },
-  {
-    "title": "Torino vs. Cagliari",
-    "league": "Seria A",
-    "fecha-evento": "2025-12-27T08:54:34-05:00",
-    "img": "019b1e6d-f045-7fc5-8b08-9df3cc1753e6",
-    "nombre": "disneyea8025",
-    "status": "08:54",
-    "duration": 125,
-    "play_url": "https://www.disneyplus.com/es-es/play/c58a851e-7906-461d-9199-ce4baab1c854",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1766931680~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F27%2FTorino_vs_Cagliari_20251227_1766836541041%2F~psid=18e82b47-9608-4d2f-8228-7ca5b0a93142~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=9b951851aafd4e8c6d1894738cc22ec4fdc0ba6e088a82f55a7abede421a6d45/clt1/va02/disneyplus/event/2025/12/27/Torino_vs_Cagliari_20251227_1766836541041/ctr-all-hdri-complete.m3u8?v=1&hash=7e57a3384af831ba1fd35af5d999e97dcbf47395",
-    "k1": "4a89f759831a464eba4e06cbebd1df79",
-    "k2": "19e407f907ca705c10e5c30ea8d80547"
-  },
-  {
     "title": "Liverpool vs. Wolverhampton Wanderers",
     "league": "Premier League",
     "fecha-evento": "2025-12-27T09:40:02-05:00",
@@ -91,19 +65,6 @@
     "k2": "1221f90c73059ed5317b02c51f461aea"
   },
   {
-    "title": "En Español-Pittsburgh vs. East Carolina",
-    "league": "Fútbol Americano NCAA",
-    "fecha-evento": "2025-12-27T11:00:00-05:00",
-    "img": "019b5d9e-6f80-720b-bd1a-1244513149a4",
-    "nombre": "disney8f97c7",
-    "status": "11:00",
-    "duration": 195,
-    "play_url": "https://www.disneyplus.com/es-es/play/402cf311-a6df-42a5-af3b-51e8c930cb0b",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1766937639~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F27%2FPittsburgh_vs_East_Caroli_20251227_1766844016031%2F~psid=66ae6379-aae3-4de1-8cc2-73d12d138a3b~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=70b1a3f9b2c302c400a32bf75c6bc54e78f4e436224870c9293a95786d0afccc/clt1/va02/disneyplus/event/2025/12/27/Pittsburgh_vs_East_Caroli_20251227_1766844016031/ctr-all-hdri-complete.m3u8?v=1&hash=e6ff7717bb50f3c83ca1e5cea25cf5b692e327c8",
-    "k1": "a409c1a14fcf48f3a36db1259f32b92e",
-    "k2": "cf7c5a89d20e30e7f25e19fe6e326b6d"
-  },
-  {
     "title": "LALIGA FC Futures | Day 1",
     "league": "ESPN",
     "fecha-evento": "2025-12-27T10:57:31-05:00",
@@ -115,6 +76,19 @@
     "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1766937683~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F27%2FLALIGA_FC_Futures_Day_1_20251227_1766844036038%2F~psid=2702449a-cb79-4614-a4d7-99912aeaf6a5~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=7fe1439fe266716179969de7739219c3f7f77634f48b10ab658df8d581d0ecfd/clt1/va02/disneyplus/event/2025/12/27/LALIGA_FC_Futures_Day_1_20251227_1766844036038/ctr-all-hdri-complete.m3u8?v=1&hash=85e62e50f8bd5bb3a933fd0eda5eb65b4f33efd4",
     "k1": "3048937a298146b795c07e41bb0df1e1",
     "k2": "2ecfc5c08f622ca4f436bb10d28dd314"
+  },
+  {
+    "title": "En Español-Pittsburgh vs. East Carolina",
+    "league": "Fútbol Americano NCAA",
+    "fecha-evento": "2025-12-27T11:00:00-05:00",
+    "img": "019b5d9e-6f80-720b-bd1a-1244513149a4",
+    "nombre": "disney8f97c7",
+    "status": "11:00",
+    "duration": 195,
+    "play_url": "https://www.disneyplus.com/es-es/play/402cf311-a6df-42a5-af3b-51e8c930cb0b",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1766937639~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F27%2FPittsburgh_vs_East_Caroli_20251227_1766844016031%2F~psid=66ae6379-aae3-4de1-8cc2-73d12d138a3b~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=70b1a3f9b2c302c400a32bf75c6bc54e78f4e436224870c9293a95786d0afccc/clt1/va02/disneyplus/event/2025/12/27/Pittsburgh_vs_East_Caroli_20251227_1766844016031/ctr-all-hdri-complete.m3u8?v=1&hash=e6ff7717bb50f3c83ca1e5cea25cf5b692e327c8",
+    "k1": "a409c1a14fcf48f3a36db1259f32b92e",
+    "k2": "cf7c5a89d20e30e7f25e19fe6e326b6d"
   },
   {
     "title": "Bad Boy Mowers Pinstripe Bowl: Penn State vs. Clemson",
@@ -632,6 +606,26 @@
     "fecha-evento": "2025-12-28T17:00:00-05:00",
     "img": "0636bd7d-05c4-49f7-9bf2-d9b3b05dc24f",
     "nombre": "disney941733",
+    "status": "17:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Portland vs. Saint Mary's",
+    "league": "Básquet Femenino NCAA",
+    "fecha-evento": "2025-12-28T17:00:00-05:00",
+    "img": "019b35b4-7071-71e7-80aa-f12b15a5ffd9",
+    "nombre": "disney90586b",
+    "status": "17:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Oregon State vs. San Francisco",
+    "league": "Básquet Femenino NCAA",
+    "fecha-evento": "2025-12-28T17:00:00-05:00",
+    "img": "019a83ed-2857-7f21-9867-a5b44c532ae9",
+    "nombre": "disneyf5fb41",
     "status": "17:00",
     "duration": 135,
     "play_url": ""
