@@ -1,31 +1,5 @@
 [
   {
-    "title": "Brentford vs. Bournemouth",
-    "league": "Premier League",
-    "fecha-evento": "2025-12-27T09:50:08-05:00",
-    "img": "019b0e07-4958-7821-a67c-9e08c9de6175",
-    "nombre": "disney7f26bf",
-    "status": "09:50",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/45956c1c-fb53-4389-bcda-be373979232e",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1766934126~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F27%2FBrentford_vs_Bournemouth_20251227_1766839858033%2F~psid=c6c2a64b-8317-437e-9226-cfabe735eb3f~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=8db0c8ac867a4e09fb6b239434aba972ce23cb64ecd0054f82a46f93066304cf/clt1/va02/disneyplus/event/2025/12/27/Brentford_vs_Bournemouth_20251227_1766839858033/ctr-all-hdri-complete.m3u8?v=1&hash=ce7e7e0326c3656113833b99523bb8ddd455eab1",
-    "k1": "6917d0f3246e4bf2a30b6e4c76373195",
-    "k2": "0ed257c3dad377a44794686b4f17d0b4"
-  },
-  {
-    "title": "Gloucester Rugby vs. Saracens",
-    "league": "Premiership",
-    "fecha-evento": "2025-12-27T10:00:00-05:00",
-    "img": "019ada70-a49d-7cdb-9229-20203c6a9afe",
-    "nombre": "disney73167a",
-    "status": "10:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/c6d9bdfd-e3a0-4e87-b5f4-efc80d663e88",
-    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1766934176~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Fbbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1762950822680%2F~psid=8f443af9-ae5f-4d54-b95d-479b03431c6e~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=1aac1d9945c2fd93ed14365a020f8787b89eb1b99b0396a2dbfabd7eefbab823/clt1/va02/disneyplus/channel/bbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1762950822680/ctr-all-sliding-alt1.m3u8?v=1&hash=2204dc483842bd9152836a99fc823b0b9e410a70",
-    "k1": "1707ed0d6bfd4c6ab466d1c2f84b17b3",
-    "k2": "1221f90c73059ed5317b02c51f461aea"
-  },
-  {
     "title": "LALIGA FC Futures | Day 1",
     "league": "ESPN",
     "fecha-evento": "2025-12-27T10:57:31-05:00",
@@ -54,22 +28,15 @@
   {
     "title": "Bad Boy Mowers Pinstripe Bowl: Penn State vs. Clemson",
     "league": "Fútbol Americano NCAA",
-    "fecha-evento": "2025-12-27T12:00:00-05:00",
+    "fecha-evento": "2025-12-27T12:00:32-05:00",
     "img": "019b4715-4183-7f61-a7a4-c48b2df73951",
-    "nombre": "disney749803",
+    "nombre": "disney64a1c3",
     "status": "12:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Chelsea vs. Aston Villa",
-    "league": "Premier League",
-    "fecha-evento": "2025-12-27T12:15:00-05:00",
-    "img": "019b1e6d-cade-78d4-ba7d-c52e901b8ae9",
-    "nombre": "disney73de47",
-    "status": "12:15",
-    "duration": 135,
-    "play_url": ""
+    "duration": 209,
+    "play_url": "https://www.disneyplus.com/es-es/play/672fc523-df80-4e0f-9184-08dd03a8eb97",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1766942444~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F27%2FPenn_State_vs_Clemson_20251227_1766847655027%2F~psid=4072252a-aab1-4177-ad02-3030c01fae56~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=64a25597a817dd3191c2c9b22d7eb47e59f52c871cf7346813965253b66e376a/clt1/va02/disneyplus/event/2025/12/27/Penn_State_vs_Clemson_20251227_1766847655027/ctr-all-hdri-complete.m3u8?v=1&hash=964c06e75f103a0727335da1fc2d55e927e9d329",
+    "k1": "701e9208b5464e4eb15f3cbdd150b72b",
+    "k2": "fc78cc7c87f5289561f6121453bfa11d"
   },
   {
     "title": "Bath Rugby vs. Northampton Saints",
@@ -79,7 +46,23 @@
     "nombre": "disneya41e6e",
     "status": "12:15",
     "duration": 135,
-    "play_url": ""
+    "play_url": "https://www.disneyplus.com/es-es/play/5d399ccb-f888-400a-b1a3-c1673710ff43",
+    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1766942492~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Fbbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1762950822680%2F~psid=6fbf42ac-0966-419e-a6b9-a12023608152~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=c33ca6d222b9659b696d83b3d60c68838e78ef51e2699b4852f7d823d1d75456/clt1/va02/disneyplus/channel/bbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1762950822680/ctr-all-sliding-alt1.m3u8?v=1&hash=2204dc483842bd9152836a99fc823b0b9e410a70",
+    "k1": "1707ed0d6bfd4c6ab466d1c2f84b17b3",
+    "k2": "1221f90c73059ed5317b02c51f461aea"
+  },
+  {
+    "title": "Chelsea vs. Aston Villa",
+    "league": "Premier League",
+    "fecha-evento": "2025-12-27T12:15:00-05:00",
+    "img": "019b1e6d-cade-78d4-ba7d-c52e901b8ae9",
+    "nombre": "disney73de47",
+    "status": "12:15",
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/5d5f9b05-ee62-4bd3-8fef-5841a743df9b",
+    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1766942537~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F921e1311-bb26-43dd-84a6-9e2284959712-1762950465141%2F~psid=0aac01fd-9c76-43bf-b69b-8aea61ea54a3~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=fdce04d93eda5afe479ad8a7a71a1766c172c8282421b2653f7926c863b7d9b0/clt1/va02/disneyplus/channel/921e1311-bb26-43dd-84a6-9e2284959712-1762950465141/ctr-all-sliding-alt1.m3u8?v=1&hash=03915bf69f19826611ecdeecc79455eab40b229c",
+    "k1": "129f0284e5604f6a851bb8b8210a79e6",
+    "k2": "405620475a8fc98e19de1f0743bf8690"
   },
   {
     "title": "UConn vs. Army",
@@ -617,6 +600,26 @@
     "fecha-evento": "2025-12-28T19:00:00-05:00",
     "img": "019b28c6-dcbf-71f3-ab33-7d218789a323",
     "nombre": "disneyabb518",
+    "status": "19:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Pittsburgh Penguins vs. Chicago Blackhawks",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-12-28T19:00:00-05:00",
+    "img": "019b28c6-ffc4-73e6-a145-c9d30595d083",
+    "nombre": "disneyde1a79",
+    "status": "19:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Saint Mary's vs. Loyola Marymount",
+    "league": "Básquetbol Masculino NCAA",
+    "fecha-evento": "2025-12-28T19:00:00-05:00",
+    "img": "a5d9fd15-4834-4d97-b4ca-b40977359734",
+    "nombre": "disney96ef7d",
     "status": "19:00",
     "duration": 135,
     "play_url": ""
