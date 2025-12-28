@@ -1,18 +1,5 @@
 [
   {
-    "title": "Seattle Seahawks vs. Carolina Panthers",
-    "league": "NFL",
-    "fecha-evento": "2025-12-28T13:00:00-05:00",
-    "img": "019b29f3-88d4-7d46-b426-16a85e37ce55",
-    "nombre": "disney913736",
-    "status": "13:00",
-    "duration": 180,
-    "play_url": "https://www.disneyplus.com/es-es/play/7c7e0e95-ebd6-4bc0-86c6-27e87a3562b9",
-    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1767031281~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F7f9052ce-8143-43a6-9656-a8c00c4a3e56-1762950862652%2F~psid=bf76f7f8-69c7-47f7-bcf4-c8e0a2ff8820~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=27c5f2801a8a5b442208e34e5396e6f78203c8103aa4bff16d6b61596280bb7b/clt1/va02/disneyplus/channel/7f9052ce-8143-43a6-9656-a8c00c4a3e56-1762950862652/ctr-all-sliding-alt1.m3u8?v=1&hash=2daf186937da77473bf07bbbecfc5597024e944f",
-    "k1": "95c5fc89d6824c029ea00f1a0802b2b3",
-    "k2": "093a431e6c5de653ed01fcb805b3d82b"
-  },
-  {
     "title": "NFL Redzone",
     "league": "NFL",
     "fecha-evento": "2025-12-28T13:00:00-05:00",
@@ -78,6 +65,19 @@
     "k2": "887b9c732367ccbe971a851438fbe967"
   },
   {
+    "title": "Seattle U vs. Pacific",
+    "league": "Básquet Femenino NCAA",
+    "fecha-evento": "2025-12-28T16:00:00-05:00",
+    "img": "8f090117-7ba7-4a28-93f0-fe9bbd81a8d7",
+    "nombre": "disney22bcc8",
+    "status": "16:00",
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/906a8db6-c7ee-42f0-9c8b-7b3d9c41a21b",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1767042141~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F28%2FSeattle_U_vs_Pacific_20251228_1766948443032%2F~psid=f39d6209-84b4-46d2-8c05-75f0b9f9fd26~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=37acd25a8446fa4b9d4d5be371a2097c98eb2207840dd904e9e20eb03fe2e120/clt1/va02/disneyplus/event/2025/12/28/Seattle_U_vs_Pacific_20251228_1766948443032/ctr-all-hdri-complete.m3u8?v=1&hash=1ed0bd96e7e1148f0ac8136a9db02e2f21fbcb0b",
+    "k1": "f8216de508a5477a8d247021ae18d158",
+    "k2": "04781e4453271b314030486a6513a17d"
+  },
+  {
     "title": "San Diego vs. Santa Clara",
     "league": "Básquet Femenino NCAA",
     "fecha-evento": "2025-12-28T16:00:00-05:00",
@@ -104,19 +104,6 @@
     "k2": "33a260c2664be697c15da93791548a9c"
   },
   {
-    "title": "Seattle U vs. Pacific",
-    "league": "Básquet Femenino NCAA",
-    "fecha-evento": "2025-12-28T16:00:00-05:00",
-    "img": "8f090117-7ba7-4a28-93f0-fe9bbd81a8d7",
-    "nombre": "disney22bcc8",
-    "status": "16:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/906a8db6-c7ee-42f0-9c8b-7b3d9c41a21b",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1767042141~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F28%2FSeattle_U_vs_Pacific_20251228_1766948443032%2F~psid=f39d6209-84b4-46d2-8c05-75f0b9f9fd26~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=37acd25a8446fa4b9d4d5be371a2097c98eb2207840dd904e9e20eb03fe2e120/clt1/va02/disneyplus/event/2025/12/28/Seattle_U_vs_Pacific_20251228_1766948443032/ctr-all-hdri-complete.m3u8?v=1&hash=1ed0bd96e7e1148f0ac8136a9db02e2f21fbcb0b",
-    "k1": "f8216de508a5477a8d247021ae18d158",
-    "k2": "04781e4453271b314030486a6513a17d"
-  },
-  {
     "title": "New York Giants vs. Las Vegas Raiders",
     "league": "NFL",
     "fecha-evento": "2025-12-28T15:56:00-05:00",
@@ -132,12 +119,15 @@
   {
     "title": "Philadelphia Eagles vs. Buffalo Bills",
     "league": "NFL",
-    "fecha-evento": "2025-12-28T16:05:00-05:00",
+    "fecha-evento": "2025-12-28T16:01:00-05:00",
     "img": "019b29f3-9d09-7b52-b957-4fc95f736965",
-    "nombre": "disney732fff",
-    "status": "16:05",
-    "duration": 135,
-    "play_url": ""
+    "nombre": "disneya06e81",
+    "status": "16:01",
+    "duration": 209,
+    "play_url": "https://www.disneyplus.com/es-es/play/8c7fa961-09c3-4191-9060-9012321f27ab",
+    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1767043252~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F7f9052ce-8143-43a6-9656-a8c00c4a3e56-1762950862652%2F~psid=15e2f24c-8541-4ee3-8a87-01df852603dd~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=db3165c7747a871fe64e291ca9bc8594fd115d83b0054524b8c69814c4a77e39/clt1/va02/disneyplus/channel/7f9052ce-8143-43a6-9656-a8c00c4a3e56-1762950862652/ctr-all-sliding-alt1.m3u8?v=1&hash=2daf186937da77473bf07bbbecfc5597024e944f",
+    "k1": "95c5fc89d6824c029ea00f1a0802b2b3",
+    "k2": "093a431e6c5de653ed01fcb805b3d82b"
   },
   {
     "title": "New York Islanders vs. Columbus Blue Jackets",
@@ -655,6 +645,16 @@
     "fecha-evento": "2025-12-30T19:00:00-05:00",
     "img": "019b3087-f60e-74fc-be45-4ca2e70c0d4f",
     "nombre": "disney5f0fa4",
+    "status": "19:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Wisconsin Herd vs. Cleveland Charge",
+    "league": "NBA G League",
+    "fecha-evento": "2025-12-30T19:00:00-05:00",
+    "img": "019b3087-6b3e-7aa8-9345-e15cc40c5578",
+    "nombre": "disney91e743",
     "status": "19:00",
     "duration": 135,
     "play_url": ""
