@@ -1,18 +1,5 @@
 [
   {
-    "title": "Pittsburgh Steelers vs. Cleveland Browns",
-    "league": "NFL",
-    "fecha-evento": "2025-12-28T13:00:00-05:00",
-    "img": "fe2780f5-963f-4599-8846-def70b74559e",
-    "nombre": "disney1096d1",
-    "status": "13:00",
-    "duration": 180,
-    "play_url": "https://www.disneyplus.com/es-es/play/4f8f72c7-0d7b-4f99-ac91-bc023c29c32f",
-    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1767031237~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F47873700-1b85-4497-8f84-d6f321fbb196-1762950817735%2F~psid=bd7958ad-94e2-4bfa-a62b-17ced996f855~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=1b90ce2af317eb0337634f9ebebae5901dbbd48dab7ab73b62166b7d9d33721d/clt1/va02/disneyplus/channel/47873700-1b85-4497-8f84-d6f321fbb196-1762950817735/ctr-all-sliding-alt1.m3u8?v=1&hash=47b2c0b057c5c5c39ef0f49826b655a1e4ceacb9",
-    "k1": "fcc4895c5c8b4520825f03f31151738c",
-    "k2": "1e68d8eb1bb8fe741c1586f18154afdc"
-  },
-  {
     "title": "Seattle Seahawks vs. Carolina Panthers",
     "league": "NFL",
     "fecha-evento": "2025-12-28T13:00:00-05:00",
@@ -97,8 +84,11 @@
     "img": "019b28c4-d388-7e40-8c08-4c7b177ee5b5",
     "nombre": "disney42f807",
     "status": "16:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/06aa6ac4-2395-41af-8eb0-bad1e564c5fe",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1767042050~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F28%2FSan_Diego_vs_Santa_Clara_20251228_1766948408033%2F~psid=e3a7e54c-b439-4732-9766-55c27de1529d~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=37c8dda2b75b6e978f3ec291b2b16bdd902518901ca5106f525a8798bde4e10e/clt1/va02/disneyplus/event/2025/12/28/San_Diego_vs_Santa_Clara_20251228_1766948408033/ctr-all-hdri-complete.m3u8?v=1&hash=8997852787a41af93b12b5c4a07edb6f2220548a",
+    "k1": "5479afcce7224df6a2cf7c4a25eee332",
+    "k2": "663215f045043600cdb72bc5c06917e2"
   },
   {
     "title": "Toros de Sincelejo vs. Caimanes de Barranquilla",
@@ -107,8 +97,11 @@
     "img": "019afa2d-0f0e-7a0a-ad82-c8274a93807b",
     "nombre": "disneybd2d21",
     "status": "16:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 180,
+    "play_url": "https://www.disneyplus.com/es-es/play/53a3a935-8630-43ba-b59d-36f65b701b47",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1767042096~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F28%2FToros_de_Sincelejo_vs_Cai_20251228_1766948425032%2F~psid=263a753c-ffac-462f-828f-cfc4ba900f0a~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=3ba912c6d3e993e6bb1647c504405d039a4d1b4b90c035d5f94b25f0965d4607/clt1/va02/disneyplus/event/2025/12/28/Toros_de_Sincelejo_vs_Cai_20251228_1766948425032/ctr-all-hdri-complete.m3u8?v=1&hash=2f8c44e20d16ccf8221a505e84688a90340a7601",
+    "k1": "c95da2a05cfd4ebcbfe5e3c5d2cba8ce",
+    "k2": "33a260c2664be697c15da93791548a9c"
   },
   {
     "title": "Seattle U vs. Pacific",
@@ -117,26 +110,32 @@
     "img": "8f090117-7ba7-4a28-93f0-fe9bbd81a8d7",
     "nombre": "disney22bcc8",
     "status": "16:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/906a8db6-c7ee-42f0-9c8b-7b3d9c41a21b",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1767042141~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F28%2FSeattle_U_vs_Pacific_20251228_1766948443032%2F~psid=f39d6209-84b4-46d2-8c05-75f0b9f9fd26~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=37acd25a8446fa4b9d4d5be371a2097c98eb2207840dd904e9e20eb03fe2e120/clt1/va02/disneyplus/event/2025/12/28/Seattle_U_vs_Pacific_20251228_1766948443032/ctr-all-hdri-complete.m3u8?v=1&hash=1ed0bd96e7e1148f0ac8136a9db02e2f21fbcb0b",
+    "k1": "f8216de508a5477a8d247021ae18d158",
+    "k2": "04781e4453271b314030486a6513a17d"
   },
   {
     "title": "New York Giants vs. Las Vegas Raiders",
     "league": "NFL",
-    "fecha-evento": "2025-12-28T16:00:00-05:00",
+    "fecha-evento": "2025-12-28T15:56:00-05:00",
     "img": "019b2e72-241e-77a3-ae6f-38005fefbc55",
-    "nombre": "disney7dd3cc",
-    "status": "16:00",
-    "duration": 135,
-    "play_url": ""
+    "nombre": "disney49074e",
+    "status": "15:56",
+    "duration": 214,
+    "play_url": "https://www.disneyplus.com/es-es/play/52023c15-edd1-41d2-ba83-cf44fdc6f085",
+    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1767042168~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F47873700-1b85-4497-8f84-d6f321fbb196-1762950817735%2F~psid=d8dac9a9-6a0f-4f0a-a271-6e65af17a4c7~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=41cff46f08f6cabdb38cb7afb728fecfa22444e9662ab753eacc077250a2455f/clt1/va02/disneyplus/channel/47873700-1b85-4497-8f84-d6f321fbb196-1762950817735/ctr-all-sliding-alt1.m3u8?v=1&hash=47b2c0b057c5c5c39ef0f49826b655a1e4ceacb9",
+    "k1": "fcc4895c5c8b4520825f03f31151738c",
+    "k2": "1e68d8eb1bb8fe741c1586f18154afdc"
   },
   {
     "title": "Philadelphia Eagles vs. Buffalo Bills",
     "league": "NFL",
-    "fecha-evento": "2025-12-28T16:00:00-05:00",
+    "fecha-evento": "2025-12-28T16:05:00-05:00",
     "img": "019b29f3-9d09-7b52-b957-4fc95f736965",
-    "nombre": "disney284834",
-    "status": "16:00",
+    "nombre": "disney732fff",
+    "status": "16:05",
     "duration": 135,
     "play_url": ""
   },
@@ -646,6 +645,16 @@
     "fecha-evento": "2025-12-30T19:00:00-05:00",
     "img": "019b47cd-ba33-749a-9912-1594948ae5b0",
     "nombre": "disney623590",
+    "status": "19:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "New Jersey Devils vs. Toronto Maple Leafs",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-12-30T19:00:00-05:00",
+    "img": "019b3087-f60e-74fc-be45-4ca2e70c0d4f",
+    "nombre": "disney5f0fa4",
     "status": "19:00",
     "duration": 135,
     "play_url": ""
