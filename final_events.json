@@ -45,8 +45,11 @@
     "img": "fe2780f5-963f-4599-8846-def70b74559e",
     "nombre": "disney1096d1",
     "status": "13:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 180,
+    "play_url": "https://www.disneyplus.com/es-es/play/4f8f72c7-0d7b-4f99-ac91-bc023c29c32f",
+    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1767031237~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F47873700-1b85-4497-8f84-d6f321fbb196-1762950817735%2F~psid=bd7958ad-94e2-4bfa-a62b-17ced996f855~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=1b90ce2af317eb0337634f9ebebae5901dbbd48dab7ab73b62166b7d9d33721d/clt1/va02/disneyplus/channel/47873700-1b85-4497-8f84-d6f321fbb196-1762950817735/ctr-all-sliding-alt1.m3u8?v=1&hash=47b2c0b057c5c5c39ef0f49826b655a1e4ceacb9",
+    "k1": "fcc4895c5c8b4520825f03f31151738c",
+    "k2": "1e68d8eb1bb8fe741c1586f18154afdc"
   },
   {
     "title": "Seattle Seahawks vs. Carolina Panthers",
@@ -55,8 +58,11 @@
     "img": "019b29f3-88d4-7d46-b426-16a85e37ce55",
     "nombre": "disney913736",
     "status": "13:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 180,
+    "play_url": "https://www.disneyplus.com/es-es/play/7c7e0e95-ebd6-4bc0-86c6-27e87a3562b9",
+    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1767031281~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F7f9052ce-8143-43a6-9656-a8c00c4a3e56-1762950862652%2F~psid=bf76f7f8-69c7-47f7-bcf4-c8e0a2ff8820~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=27c5f2801a8a5b442208e34e5396e6f78203c8103aa4bff16d6b61596280bb7b/clt1/va02/disneyplus/channel/7f9052ce-8143-43a6-9656-a8c00c4a3e56-1762950862652/ctr-all-sliding-alt1.m3u8?v=1&hash=2daf186937da77473bf07bbbecfc5597024e944f",
+    "k1": "95c5fc89d6824c029ea00f1a0802b2b3",
+    "k2": "093a431e6c5de653ed01fcb805b3d82b"
   },
   {
     "title": "NFL Redzone",
@@ -65,8 +71,11 @@
     "img": "46b859dc-33d0-42a8-9651-7c408024d849",
     "nombre": "disneyde80b6",
     "status": "13:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 390,
+    "play_url": "https://www.disneyplus.com/es-es/play/e00ac9d0-e060-4eff-9467-932f8e9ebbed",
+    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1767031326~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Fec26a05e-a9cc-4db4-804e-77465738e667-1762950455142%2F~psid=389727fa-87a7-4c81-a2bd-4d31fb48d67b~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=7b67f4860ff218f04ffa9c742f3718736a4f7fb8c5944f341d1e8e642d490ab8/clt1/va02/disneyplus/channel/ec26a05e-a9cc-4db4-804e-77465738e667-1762950455142/ctr-all-sliding-alt1.m3u8?v=1&hash=e2faf4444722e1f805096ad7b7489a5d09f9944f",
+    "k1": "adfdf1155e62440f8d6b319a3e8226e0",
+    "k2": "07cc6dbee84c46cb0c0ba9f2fc74e5a1"
   },
   {
     "title": "Atalanta vs. Inter",
@@ -421,10 +430,10 @@
   {
     "title": "Columbus Blue Jackets vs. Ottawa Senators",
     "league": "National Hockey League",
-    "fecha-evento": "2025-12-29T18:30:00-05:00",
+    "fecha-evento": "2025-12-29T19:00:00-05:00",
     "img": "032363e6-08b5-43d1-9ba0-3d4f6ee58bfc",
-    "nombre": "disneya128b9",
-    "status": "18:30",
+    "nombre": "disney735566",
+    "status": "19:00",
     "duration": 135,
     "play_url": ""
   },
@@ -631,10 +640,10 @@
   {
     "title": "Carolina Hurricanes vs. Pittsburgh Penguins",
     "league": "National Hockey League",
-    "fecha-evento": "2025-12-30T18:30:00-05:00",
+    "fecha-evento": "2025-12-30T19:00:00-05:00",
     "img": "019b5ca9-71f1-740c-bae8-85bff3b4d6e2",
-    "nombre": "disney91451e",
-    "status": "18:30",
+    "nombre": "disneyae43f6",
+    "status": "19:00",
     "duration": 135,
     "play_url": ""
   }
