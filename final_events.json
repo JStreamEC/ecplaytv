@@ -13,19 +13,6 @@
     "k2": "8fe218984063e889342f8281793d87eb"
   },
   {
-    "title": "Exeter Chiefs vs. Leicester Tigers",
-    "league": "Premiership",
-    "fecha-evento": "2025-12-28T09:55:09-05:00",
-    "img": "019b31d8-6245-739b-8a69-085e8810b7fe",
-    "nombre": "disney38030e",
-    "status": "09:55",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/82e7945a-f217-449c-a738-de799edd47ae",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1767025559~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F28%2FExeter_Chiefs_vs_Leiceste_20251228_1766926516040%2F~psid=d07820bc-dc7f-4ad4-b15e-f76a30413f55~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=a17d26c7373a9f538d7443d753b51d4f7d31266566a125119db08451538dd837/clt1/va02/disneyplus/event/2025/12/28/Exeter_Chiefs_vs_Leiceste_20251228_1766926516040/ctr-all-hdri-complete.m3u8?v=1&hash=b98c3df8baacc80d0f0c0672dd2e0560f5ecec3d",
-    "k1": "2a89226b8de4464a9dc16d89aa366aec",
-    "k2": "30a9270e0cb588dccb15424ed81d8b49"
-  },
-  {
     "title": "Crystal Palace vs. Tottenham Hotspur",
     "league": "Premier League",
     "fecha-evento": "2025-12-28T11:15:00-05:00",
@@ -45,8 +32,11 @@
     "img": "019b236e-643b-748b-bd86-d840835e3882",
     "nombre": "disney49cdcb",
     "status": "11:50",
-    "duration": 135,
-    "play_url": ""
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/0bfcc592-d709-4a08-82b6-af54290cc236",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1767027636~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F28%2FBologna_vs_Sassuolo_20251228_1766933416031%2F~psid=26997edc-da91-4445-a6c0-0d4c6084e25f~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=5166177f5e25ae0850f5425add121edb90803d13e4e7797afb4cfd4ba4621227/clt1/va02/disneyplus/event/2025/12/28/Bologna_vs_Sassuolo_20251228_1766933416031/ctr-all-hdri-complete.m3u8?v=1&hash=8accd292ea3f52bcd3f8c7e706cecc492be26a80",
+    "k1": "05417ccc660c43a3b689f318a7519ec4",
+    "k2": "79ea9e512ffbfb215f9bb7a68a97f8e4"
   },
   {
     "title": "LALIGA FC Futures | Quarterfinals",
@@ -635,6 +625,16 @@
     "img": "a25b06fb-90dc-490b-a5ee-3a053846e8df",
     "nombre": "disney641aeb",
     "status": "17:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "En Español-Tennessee vs. Illinois",
+    "league": "Fútbol Americano NCAA",
+    "fecha-evento": "2025-12-30T17:30:00-05:00",
+    "img": "019a2638-7d07-75fe-ac1d-2aac1ea51f5a",
+    "nombre": "disney9a427d",
+    "status": "17:30",
     "duration": 135,
     "play_url": ""
   }
