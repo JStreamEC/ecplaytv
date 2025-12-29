@@ -75,19 +75,6 @@
     "play_url": "https://www.disneyplus.com/es-es/play/f76ab303-0862-4d3f-9bb4-3b5fc479ecad"
   },
   {
-    "title": "Oregon State vs. San Francisco",
-    "league": "Básquet Femenino NCAA",
-    "fecha-evento": "2025-12-28T17:00:04-05:00",
-    "img": "019a83ed-2857-7f21-9867-a5b44c532ae9",
-    "nombre": "disney2c7efa",
-    "status": "17:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/ecaf3c90-39c7-4a3e-8ebc-6115c381fd3e",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1767051724~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F28%2FOregon_State_vs_San_Franc_20251228_1766952020030%2F~psid=18b58d67-89f4-46c0-82a9-4c0f1b780e46~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=8c42a7d69d46349f6dd6d124261c77186456d8ce0fed5c4f9c49f2f84076f495/clt1/va02/disneyplus/event/2025/12/28/Oregon_State_vs_San_Franc_20251228_1766952020030/ctr-all-hdri-complete.m3u8?v=1&hash=e946d2ade32819d092cb4f83bf6ba8e329723918",
-    "k1": "591a285f872a400ca0154f68137c9591",
-    "k2": "9216fadad5f23224fdc17c3044076f97"
-  },
-  {
     "title": "Loyola Marymount vs. Gonzaga",
     "league": "Básquet Femenino NCAA",
     "fecha-evento": "2025-12-28T17:00:06-05:00",
@@ -655,6 +642,16 @@
     "fecha-evento": "2025-12-30T21:00:00-05:00",
     "img": "2141d7ff-3c4f-4c30-9e66-d20fa8dd822c",
     "nombre": "disneyad9120",
+    "status": "21:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Seattle U vs. Santa Clara",
+    "league": "Básquet Femenino NCAA",
+    "fecha-evento": "2025-12-30T21:00:00-05:00",
+    "img": "c56b4548-021b-4006-963c-e4564e127695",
+    "nombre": "disney800dec",
     "status": "21:00",
     "duration": 135,
     "play_url": ""
