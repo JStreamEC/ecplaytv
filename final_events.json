@@ -1,31 +1,5 @@
 [
   {
-    "title": "New York Giants vs. Las Vegas Raiders",
-    "league": "NFL",
-    "fecha-evento": "2025-12-28T15:56:00-05:00",
-    "img": "019b2e72-241e-77a3-ae6f-38005fefbc55",
-    "nombre": "disney49074e",
-    "status": "15:56",
-    "duration": 214,
-    "play_url": "https://www.disneyplus.com/es-es/play/52023c15-edd1-41d2-ba83-cf44fdc6f085",
-    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1767042168~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F47873700-1b85-4497-8f84-d6f321fbb196-1762950817735%2F~psid=d8dac9a9-6a0f-4f0a-a271-6e65af17a4c7~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=41cff46f08f6cabdb38cb7afb728fecfa22444e9662ab753eacc077250a2455f/clt1/va02/disneyplus/channel/47873700-1b85-4497-8f84-d6f321fbb196-1762950817735/ctr-all-sliding-alt1.m3u8?v=1&hash=47b2c0b057c5c5c39ef0f49826b655a1e4ceacb9",
-    "k1": "fcc4895c5c8b4520825f03f31151738c",
-    "k2": "1e68d8eb1bb8fe741c1586f18154afdc"
-  },
-  {
-    "title": "Philadelphia Eagles vs. Buffalo Bills",
-    "league": "NFL",
-    "fecha-evento": "2025-12-28T16:01:00-05:00",
-    "img": "019b29f3-9d09-7b52-b957-4fc95f736965",
-    "nombre": "disneya06e81",
-    "status": "16:01",
-    "duration": 209,
-    "play_url": "https://www.disneyplus.com/es-es/play/8c7fa961-09c3-4191-9060-9012321f27ab",
-    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1767043252~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F7f9052ce-8143-43a6-9656-a8c00c4a3e56-1762950862652%2F~psid=15e2f24c-8541-4ee3-8a87-01df852603dd~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=db3165c7747a871fe64e291ca9bc8594fd115d83b0054524b8c69814c4a77e39/clt1/va02/disneyplus/channel/7f9052ce-8143-43a6-9656-a8c00c4a3e56-1762950862652/ctr-all-sliding-alt1.m3u8?v=1&hash=2daf186937da77473bf07bbbecfc5597024e944f",
-    "k1": "95c5fc89d6824c029ea00f1a0802b2b3",
-    "k2": "093a431e6c5de653ed01fcb805b3d82b"
-  },
-  {
     "title": "Saint Mary's vs. Loyola Marymount",
     "league": "Básquetbol Masculino NCAA",
     "fecha-evento": "2025-12-28T19:00:00-05:00",
@@ -641,6 +615,26 @@
     "img": "80defd46-4c85-4579-8ed7-7359b13c8489",
     "nombre": "disneyca4197",
     "status": "22:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Santa Clara vs. Portland",
+    "league": "Básquetbol Masculino NCAA",
+    "fecha-evento": "2025-12-30T22:00:00-05:00",
+    "img": "b97ab776-6105-4dfa-8ff4-b48bee181f7d",
+    "nombre": "disneycd1c76",
+    "status": "22:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Johnson & Wales vs. Brown",
+    "league": "Básquetbol Masculino NCAA",
+    "fecha-evento": "2025-12-31T12:00:00-05:00",
+    "img": "3143a69b-d0fd-4880-a599-93745afd1e64",
+    "nombre": "disneye293bf",
+    "status": "12:00",
     "duration": 135,
     "play_url": ""
   }
