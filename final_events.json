@@ -1,31 +1,5 @@
 [
   {
-    "title": "NFL Redzone",
-    "league": "NFL",
-    "fecha-evento": "2025-12-28T13:00:00-05:00",
-    "img": "46b859dc-33d0-42a8-9651-7c408024d849",
-    "nombre": "disneyde80b6",
-    "status": "13:00",
-    "duration": 390,
-    "play_url": "https://www.disneyplus.com/es-es/play/e00ac9d0-e060-4eff-9467-932f8e9ebbed",
-    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1767031326~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Fec26a05e-a9cc-4db4-804e-77465738e667-1762950455142%2F~psid=389727fa-87a7-4c81-a2bd-4d31fb48d67b~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=7b67f4860ff218f04ffa9c742f3718736a4f7fb8c5944f341d1e8e642d490ab8/clt1/va02/disneyplus/channel/ec26a05e-a9cc-4db4-804e-77465738e667-1762950455142/ctr-all-sliding-alt1.m3u8?v=1&hash=e2faf4444722e1f805096ad7b7489a5d09f9944f",
-    "k1": "adfdf1155e62440f8d6b319a3e8226e0",
-    "k2": "07cc6dbee84c46cb0c0ba9f2fc74e5a1"
-  },
-  {
-    "title": "Toros de Sincelejo vs. Caimanes de Barranquilla",
-    "league": "Colombian Beisbol",
-    "fecha-evento": "2025-12-28T16:00:00-05:00",
-    "img": "019afa2d-0f0e-7a0a-ad82-c8274a93807b",
-    "nombre": "disneybd2d21",
-    "status": "16:00",
-    "duration": 180,
-    "play_url": "https://www.disneyplus.com/es-es/play/53a3a935-8630-43ba-b59d-36f65b701b47",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1767042096~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F28%2FToros_de_Sincelejo_vs_Cai_20251228_1766948425032%2F~psid=263a753c-ffac-462f-828f-cfc4ba900f0a~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=3ba912c6d3e993e6bb1647c504405d039a4d1b4b90c035d5f94b25f0965d4607/clt1/va02/disneyplus/event/2025/12/28/Toros_de_Sincelejo_vs_Cai_20251228_1766948425032/ctr-all-hdri-complete.m3u8?v=1&hash=2f8c44e20d16ccf8221a505e84688a90340a7601",
-    "k1": "c95da2a05cfd4ebcbfe5e3c5d2cba8ce",
-    "k2": "33a260c2664be697c15da93791548a9c"
-  },
-  {
     "title": "New York Giants vs. Las Vegas Raiders",
     "league": "NFL",
     "fecha-evento": "2025-12-28T15:56:00-05:00",
@@ -52,119 +26,43 @@
     "k2": "093a431e6c5de653ed01fcb805b3d82b"
   },
   {
-    "title": "Washington State vs. Portland",
-    "league": "Básquetbol Masculino NCAA",
-    "fecha-evento": "2025-12-28T17:01:32-05:00",
-    "img": "0636bd7d-05c4-49f7-9bf2-d9b3b05dc24f",
-    "nombre": "disney1af4e5",
-    "status": "17:01",
-    "duration": 118,
-    "play_url": "https://www.disneyplus.com/es-es/play/4bccb65a-2ce9-43d6-9c04-8c54a804c007",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1767051636~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F28%2FWashington_State_vs_Portl_20251228_1766952000086%2F~psid=31d4abae-e546-4e70-a67f-333a46cbf285~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=5bad0ee9407245b7aac6140f044729e02c397212daa5d2ca06180b4b12ae865a/clt1/va02/disneyplus/event/2025/12/28/Washington_State_vs_Portl_20251228_1766952000086/ctr-all-hdri-complete.m3u8?v=1&hash=04c2983035372f98657bb4092780f9b0575e3d43",
-    "k1": "0fff80d070094b7990b99add1646df25",
-    "k2": "ea2e399c25140f7e635131df266cd702"
-  },
-  {
-    "title": "Portland vs. Saint Mary's",
-    "league": "Básquet Femenino NCAA",
-    "fecha-evento": "2025-12-28T17:00:00-05:00",
-    "img": "019b35b4-7071-71e7-80aa-f12b15a5ffd9",
-    "nombre": "disney90586b",
-    "status": "17:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/f76ab303-0862-4d3f-9bb4-3b5fc479ecad"
-  },
-  {
-    "title": "Loyola Marymount vs. Gonzaga",
-    "league": "Básquet Femenino NCAA",
-    "fecha-evento": "2025-12-28T17:00:06-05:00",
-    "img": "019b2b5d-ac65-7ccd-949e-40a4b98c21e5",
-    "nombre": "disney1d3c6d",
-    "status": "17:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/d3b74824-37eb-409b-92ae-4183df96c347"
-  },
-  {
-    "title": "New York Islanders vs. Columbus Blue Jackets",
-    "league": "National Hockey League",
-    "fecha-evento": "2025-12-28T17:00:17-05:00",
-    "img": "019b28c7-cbef-7907-ba04-3d2e2e690454",
-    "nombre": "disneybb4d90",
-    "status": "17:00",
-    "duration": 210,
-    "play_url": "https://www.disneyplus.com/es-es/play/608393a0-7da8-4aa1-b6a1-bb2817e0cf84",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1767051773~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F28%2FNew_York_Islanders_vs_Col_20251228_1766952056044%2F~psid=e934a542-3f96-4867-9b9b-5465a1d72a0b~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=6760a43751b712a0fe71a33bec0716baa238f15890197b200387b1bcfe80cb14/clt1/va02/disneyplus/event/2025/12/28/New_York_Islanders_vs_Col_20251228_1766952056044/ctr-all-hdri-complete.m3u8?v=1&hash=28a28c178cc35e673247d04ff2d41b1e38a0ccc8",
-    "k1": "f79718e95929409c945d508b02773a17",
-    "k2": "b3b71ce46dbf51e5caf3829f0ee21688"
-  },
-  {
-    "title": "Montreal Canadiens vs. Tampa Bay Lightning",
-    "league": "National Hockey League",
-    "fecha-evento": "2025-12-28T17:00:16-05:00",
-    "img": "019b28c7-516e-713d-9e26-08e93a49e05d",
-    "nombre": "disneyff4943",
-    "status": "17:00",
-    "duration": 210,
-    "play_url": "https://www.disneyplus.com/es-es/play/54d1dea2-194d-4c59-a84c-2b778de4be1f",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1767051798~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F28%2FMontreal_Canadiens_vs_Tam_20251228_1766952015194%2F~psid=269ba3f1-8e77-4c31-980c-064dc07f2e66~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=9bbb4b717a3bd385897a3f35c2881f11c02cef7b07c24a2fa0090fb515385155/clt1/va02/disneyplus/event/2025/12/28/Montreal_Canadiens_vs_Tam_20251228_1766952015194/ctr-all-hdri-complete.m3u8?v=1&hash=81db894ea45aaca9de3add19a47880645a6f3d84",
-    "k1": "891db57337b04b38ad25bdabe3892439",
-    "k2": "5c92b5a9852ec4f0a9e5a7d2bf115814"
-  },
-  {
-    "title": "Santa Clara vs. Oregon State",
-    "league": "Básquetbol Masculino NCAA",
-    "fecha-evento": "2025-12-28T18:00:00-05:00",
-    "img": "a02cc6fe-8877-4a7d-a7c8-4a9062eb579d",
-    "nombre": "disneybdbe25",
-    "status": "18:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/0958d232-e59c-4dee-a381-b3ac77391ce3",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1767051823~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F28%2FSanta_Clara_vs_Oregon_Sta_20251228_1766958452244%2F~psid=c5419b4a-c655-4224-bc06-a699b1ae7976~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=a2642744288766f08d4f4c6714527fce61469c791863b290231917c26a7fc21b/clt1/va02/disneyplus/event/2025/12/28/Santa_Clara_vs_Oregon_Sta_20251228_1766958452244/ctr-all-hdri-complete.m3u8?v=1&hash=4e5828d8f37899bf3b04df75f9a9cc94ddc312f1",
-    "k1": "caa522cf52424a6ea8b3fa8571c09623",
-    "k2": "6b7d9688713f1d7e1803a0c2677d2371"
-  },
-  {
-    "title": "Pacific vs. San Diego",
-    "league": "Básquetbol Masculino NCAA",
-    "fecha-evento": "2025-12-28T18:00:03-05:00",
-    "img": "1c3d0b36-8bed-4a61-b6a5-05f7f66a70cb",
-    "nombre": "disneya36487",
-    "status": "18:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/c6689a1a-9952-428e-961a-d356ecee782e",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1767051847~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F28%2FPacific_vs_San_Diego_20251228_1766958812250%2F~psid=03413f4f-36dc-446e-b8df-89515e02e002~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=9d3c959216aeb4b59c242492bfa09d1274c116acaf248021c1d13d3b68bb0513/clt1/va02/disneyplus/event/2025/12/28/Pacific_vs_San_Diego_20251228_1766958812250/ctr-all-hdri-complete.m3u8?v=1&hash=b98800430374793aeb6421a17dd2b26e910865f6",
-    "k1": "3cf02faee72045a6b8862777d0d6d40c",
-    "k2": "416ae59e806f02d38aa9b77c52c0b08a"
-  },
-  {
-    "title": "Pittsburgh Penguins vs. Chicago Blackhawks",
-    "league": "National Hockey League",
-    "fecha-evento": "2025-12-28T19:00:00-05:00",
-    "img": "019b28c6-ffc4-73e6-a145-c9d30595d083",
-    "nombre": "disneyde1a79",
-    "status": "19:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Toronto Maple Leafs vs. Detroit Red Wings",
-    "league": "National Hockey League",
-    "fecha-evento": "2025-12-28T19:00:00-05:00",
-    "img": "019b28c6-dcbf-71f3-ab33-7d218789a323",
-    "nombre": "disneyabb518",
-    "status": "19:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Saint Mary's vs. Loyola Marymount",
     "league": "Básquetbol Masculino NCAA",
     "fecha-evento": "2025-12-28T19:00:00-05:00",
     "img": "a5d9fd15-4834-4d97-b4ca-b40977359734",
     "nombre": "disney96ef7d",
     "status": "19:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/f890beab-502b-432e-8753-7a3536ae9359",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1767054035~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F29%2FSaint_Marys_vs_Loyola_Mar_20251229_1766961572258%2F~psid=a5dba795-107f-4100-9738-45faee56f6d2~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=62341a06d0268635db9d8108bb6a76b9a4a6d362a0d9ee8204abeac96c0307a7/clt1/va02/disneyplus/event/2025/12/29/Saint_Marys_vs_Loyola_Mar_20251229_1766961572258/ctr-all-hdri-complete.m3u8?v=1&hash=3712604d2ffe3d4a2d6c51914c32728a75939d1f",
+    "k1": "a5b50ef44d184da0a597e79e95b9b376",
+    "k2": "0f92bf9f499095f96c92ce5ab3156ba8"
+  },
+  {
+    "title": "Pittsburgh Penguins vs. Chicago Blackhawks",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-12-28T19:00:09-05:00",
+    "img": "019b28c6-ffc4-73e6-a145-c9d30595d083",
+    "nombre": "disney5be37f",
+    "status": "19:00",
+    "duration": 210,
+    "play_url": "https://www.disneyplus.com/es-es/play/93cf0c16-f7d1-48f1-a327-c6bf896cbf39",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1767054078~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F29%2FPittsburgh_Penguins_vs_Ch_20251229_1766959234033%2F~psid=00d81a57-ac57-4c75-92cf-b1e40640bea5~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=5751ff40677330ca482c559c1cf37c11537a15f22d0f2874f34dcf5e69b90db9/clt1/va02/disneyplus/event/2025/12/29/Pittsburgh_Penguins_vs_Ch_20251229_1766959234033/ctr-all-hdri-complete.m3u8?v=1&hash=86a9ebcccbf0b90911cb1b24fe4dc8245fda41ad",
+    "k1": "78ad121a6da2476790d726fcaf7a04e9",
+    "k2": "ef749b244649f332705f79f53c7ecbb5"
+  },
+  {
+    "title": "Toronto Maple Leafs vs. Detroit Red Wings",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-12-28T19:00:19-05:00",
+    "img": "019b28c6-dcbf-71f3-ab33-7d218789a323",
+    "nombre": "disney849fec",
+    "status": "19:00",
+    "duration": 210,
+    "play_url": "https://www.disneyplus.com/es-es/play/e96299dc-8d92-4a7d-8c9b-82bcbdccc629",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1767054123~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F29%2FToronto_Maple_Leafs_vs_De_20251229_1766959246734%2F~psid=abc1f447-3ae0-451b-9ab9-9b180aa83f74~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=b5460a43682563d4fb805dcf994bd987bbde23de9b28ca3c4351484b80bee829/clt1/va02/disneyplus/event/2025/12/29/Toronto_Maple_Leafs_vs_De_20251229_1766959246734/ctr-all-hdri-complete.m3u8?v=1&hash=637b78a1a59946cd17596c34e14639dc668b0bab",
+    "k1": "7e43d4ecc04d44beba434e483cc4e906",
+    "k2": "ac138ec2603ea37de8abf4a716961eca"
   },
   {
     "title": "Philadelphia Flyers vs. Seattle Kraken",
@@ -653,6 +551,96 @@
     "img": "c56b4548-021b-4006-963c-e4564e127695",
     "nombre": "disney800dec",
     "status": "21:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "#16 USC vs. TCU",
+    "league": "Fútbol Americano NCAA",
+    "fecha-evento": "2025-12-30T21:00:00-05:00",
+    "img": "019b665f-952d-774c-aa59-bce4eb2d0764",
+    "nombre": "disney6845b7",
+    "status": "21:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Saint Mary's vs. Pepperdine",
+    "league": "Básquetbol Masculino NCAA",
+    "fecha-evento": "2025-12-30T21:00:00-05:00",
+    "img": "019b3087-9e24-785e-b359-64f995f2f41e",
+    "nombre": "disneya47e44",
+    "status": "21:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Loyola Marymount vs. Washington State",
+    "league": "Básquet Femenino NCAA",
+    "fecha-evento": "2025-12-30T21:00:00-05:00",
+    "img": "86b33e93-ac07-456b-97b2-c5d25a177504",
+    "nombre": "disney8a09d0",
+    "status": "21:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Portland vs. San Francisco",
+    "league": "Básquet Femenino NCAA",
+    "fecha-evento": "2025-12-30T21:00:00-05:00",
+    "img": "019a83f0-e705-73a8-8f88-616919fb67ba",
+    "nombre": "disney954a62",
+    "status": "21:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "#7 Gonzaga vs. San Diego",
+    "league": "Básquetbol Masculino NCAA",
+    "fecha-evento": "2025-12-30T21:30:00-05:00",
+    "img": "019b3087-756a-73de-b3cc-43300e65ecab",
+    "nombre": "disney917835",
+    "status": "21:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Philadelphia Flyers vs. Vancouver Canucks",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-12-30T21:30:00-05:00",
+    "img": "019b5ca9-632b-7db4-9228-7527ce67711b",
+    "nombre": "disney1a9aa0",
+    "status": "21:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "San Francisco vs. Oregon State",
+    "league": "Básquetbol Masculino NCAA",
+    "fecha-evento": "2025-12-30T22:00:00-05:00",
+    "img": "019a83f1-1d3b-7bf7-a605-6b87e153950b",
+    "nombre": "disney2b5a0c",
+    "status": "22:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Pacific vs. Loyola Marymount",
+    "league": "Básquetbol Masculino NCAA",
+    "fecha-evento": "2025-12-30T22:00:00-05:00",
+    "img": "c494f6f0-477a-4a93-9908-7dd5f70c26c9",
+    "nombre": "disney54af4d",
+    "status": "22:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Washington State vs. Seattle U",
+    "league": "Básquetbol Masculino NCAA",
+    "fecha-evento": "2025-12-30T22:00:00-05:00",
+    "img": "80defd46-4c85-4579-8ed7-7359b13c8489",
+    "nombre": "disneyca4197",
+    "status": "22:00",
     "duration": 135,
     "play_url": ""
   }
