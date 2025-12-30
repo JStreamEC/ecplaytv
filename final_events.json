@@ -28,12 +28,15 @@
   {
     "title": "Carolina Hurricanes vs. Pittsburgh Penguins",
     "league": "National Hockey League",
-    "fecha-evento": "2025-12-30T19:00:00-05:00",
+    "fecha-evento": "2025-12-30T18:30:00-05:00",
     "img": "019b5ca9-71f1-740c-bae8-85bff3b4d6e2",
-    "nombre": "disneyae43f6",
-    "status": "19:00",
-    "duration": 135,
-    "play_url": ""
+    "nombre": "disney91451e",
+    "status": "18:30",
+    "duration": 240,
+    "play_url": "https://www.disneyplus.com/es-es/play/bf7ec730-53cb-4928-a68f-455baf9c2750",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1767224444~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F30%2FCarolina_Hurricanes_vs_Pi_20251230_1767130212039%2F~psid=b62545dd-90d1-441b-bf09-b03e690bc6dc~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=b75ede228869d03b0e187a639aa9c5f592b7c9aa26e581d34b60c53c30415485/clt1/va02/disneyplus/event/2025/12/30/Carolina_Hurricanes_vs_Pi_20251230_1767130212039/ctr-all-hdri-complete.m3u8?v=1&hash=40b6b68a78e2fd9a215e9cf827ca1eaa729fd305",
+    "k1": "2f087408a5144c79b205f3a3f7dc9d86",
+    "k2": "765097656cc67975ac764b8ac3a9ea62"
   },
   {
     "title": "Montreal Canadiens vs. Florida Panthers",
@@ -42,6 +45,19 @@
     "img": "819648ba-a12a-4e29-a138-5c83f1abe240",
     "nombre": "disneye4b9f4",
     "status": "18:30",
+    "duration": 240,
+    "play_url": "https://www.disneyplus.com/es-es/play/85205380-a870-4ab3-b139-0a6060bb9926",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1767224486~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F30%2FMontreal_Canadiens_vs_Flo_20251230_1767130239662%2F~psid=f41c7f5e-f2c0-4fd0-bf71-d94eb6a0b04c~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=beff2e49587569d20ad881b081b18306e044ad254e522fc2e0076ef66ded8242/clt1/va02/disneyplus/event/2025/12/30/Montreal_Canadiens_vs_Flo_20251230_1767130239662/ctr-all-hdri-complete.m3u8?v=1&hash=a39a12302ec59effeeed79efbfbe79df801d4e9d",
+    "k1": "d186a4977eee47b2b8a252dab0588122",
+    "k2": "a5302bdc335853da771c673be39cdfe2"
+  },
+  {
+    "title": "New Jersey Devils vs. Toronto Maple Leafs",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-12-30T19:00:00-05:00",
+    "img": "019b3087-f60e-74fc-be45-4ca2e70c0d4f",
+    "nombre": "disney5f0fa4",
+    "status": "19:00",
     "duration": 135,
     "play_url": ""
   },
@@ -61,16 +77,6 @@
     "fecha-evento": "2025-12-30T19:00:00-05:00",
     "img": "019b47cd-ba33-749a-9912-1594948ae5b0",
     "nombre": "disney623590",
-    "status": "19:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "New Jersey Devils vs. Toronto Maple Leafs",
-    "league": "National Hockey League",
-    "fecha-evento": "2025-12-30T19:00:00-05:00",
-    "img": "019b3087-f60e-74fc-be45-4ca2e70c0d4f",
-    "nombre": "disney5f0fa4",
     "status": "19:00",
     "duration": 135,
     "play_url": ""
