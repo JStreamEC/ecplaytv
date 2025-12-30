@@ -13,32 +13,6 @@
     "k2": "d62384489f8c238e296713ea4bad321d"
   },
   {
-    "title": "Manchester United vs. Wolverhampton Wanderers",
-    "league": "Premier League",
-    "fecha-evento": "2025-12-30T14:55:01-05:00",
-    "img": "019b3087-7042-74f6-bd18-8caba33fe4e7",
-    "nombre": "disney1fff17",
-    "status": "14:55",
-    "duration": 135,
-    "play_url": "https://www.disneyplus.com/es-es/play/38cd1c47-8b6c-4801-ab15-ac35b230da87",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1767211233~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F30%2FManchester_United_vs_Wolv_20251230_1767117300049%2F~psid=c5fa937c-c443-4f5c-9583-35af28a94206~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=fa94278da0baddf98eb15cabfaf6af9b64b5be23578a7600590a44c37969493c/clt1/va02/disneyplus/event/2025/12/30/Manchester_United_vs_Wolv_20251230_1767117300049/ctr-all-hdri-complete.m3u8?v=1&hash=06da161f7de2b76f57206c617957aeb24e326889",
-    "k1": "d4ef4cf7bcc04e2ba91133a0a3c54239",
-    "k2": "48574e99b6a72f2304f8db2240901829"
-  },
-  {
-    "title": "Arsenal vs. Aston Villa",
-    "league": "Premier League",
-    "fecha-evento": "2025-12-30T14:55:02-05:00",
-    "img": "019b2e99-e14b-72d7-a64d-b93764206c07",
-    "nombre": "disney07f648",
-    "status": "14:55",
-    "duration": 135,
-    "play_url": "https://www.disneyplus.com/es-es/play/191d8340-208b-4874-9e6f-c6c95818ba9d",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1767211277~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F30%2FArsenal_vs_Aston_Villa_20251230_1767117333032%2F~psid=c9b996ff-cb26-479e-8f63-478fd402679c~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=d365ce2e4ee05ad6c45441fe9a5f79e0b2f15542c3da316d50648c8ebb4ab45d/clt1/va02/disneyplus/event/2025/12/30/Arsenal_vs_Aston_Villa_20251230_1767117333032/ctr-all-hdri-complete.m3u8?v=1&hash=c387353e93d399a5156cda5372d2f5a1fc934c3f",
-    "k1": "9b94e4151d2e4a7db5350c41abfa2477",
-    "k2": "c7d5e01b5b1310304b5fc86190cc4eca"
-  },
-  {
     "title": "San Diego vs. Pacific",
     "league": "Básquet Femenino NCAA",
     "fecha-evento": "2025-12-30T17:00:00-05:00",
@@ -638,6 +612,26 @@
     "img": "019b35b2-2562-749d-94ee-a1befe22d977",
     "nombre": "disneyc15dc3",
     "status": "21:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "#8 TCU vs. BYU",
+    "league": "Básquet Femenino NCAA",
+    "fecha-evento": "2025-12-31T21:00:00-05:00",
+    "img": "019b6935-ca3c-7a03-9469-b20d086dd741",
+    "nombre": "disney5d1e35",
+    "status": "21:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Boston Bruins vs. Edmonton Oilers",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-12-31T21:30:00-05:00",
+    "img": "019b5ca9-d9ef-7349-8695-42b73ffe7c9d",
+    "nombre": "disneyd416e2",
+    "status": "21:30",
     "duration": 135,
     "play_url": ""
   }
