@@ -1,18 +1,5 @@
 [
   {
-    "title": "Coastal Carolina vs. Louisiana Tech",
-    "league": "Fútbol Americano NCAA",
-    "fecha-evento": "2025-12-30T14:00:03-05:00",
-    "img": "019afe54-e51b-719e-8081-067017eb23a7",
-    "nombre": "disneyd0ccbf",
-    "status": "14:00",
-    "duration": 210,
-    "play_url": "https://www.disneyplus.com/es-es/play/6c058a6d-e87d-4b6a-b147-9fe4c2645882",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1767210864~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F30%2FCoastal_Carolina_vs_Louis_20251230_1767116012952%2F~psid=7f81dba0-fa05-4129-957a-d48c3fee2315~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=e38ef7644da4a25eee86bd61552503f5a500cd79d558140a3e09aa89a2808cac/clt1/va02/disneyplus/event/2025/12/30/Coastal_Carolina_vs_Louis_20251230_1767116012952/ctr-all-hdri-complete.m3u8?v=1&hash=948b923bb9556cfa4aeff51c296a04de22d5499d",
-    "k1": "b2eea37454294461b78cb0e0b434c522",
-    "k2": "d62384489f8c238e296713ea4bad321d"
-  },
-  {
     "title": "San Diego vs. Pacific",
     "league": "Básquet Femenino NCAA",
     "fecha-evento": "2025-12-30T17:00:00-05:00",
@@ -635,6 +622,16 @@
     "img": "019b5ca9-d9ef-7349-8695-42b73ffe7c9d",
     "nombre": "disneyd416e2",
     "status": "21:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Blackburn Rovers vs. Wrexham AFC",
+    "league": "Championship de Inglaterra",
+    "fecha-evento": "2026-01-01T07:25:00-05:00",
+    "img": "019b2d64-4ffc-7b0b-8907-e96f22a2b42c",
+    "nombre": "disney1a2a36",
+    "status": "07:25",
     "duration": 135,
     "play_url": ""
   }
