@@ -1,18 +1,5 @@
 [
   {
-    "title": "San Diego vs. Pacific",
-    "league": "Básquet Femenino NCAA",
-    "fecha-evento": "2025-12-30T17:00:00-05:00",
-    "img": "a25b06fb-90dc-490b-a5ee-3a053846e8df",
-    "nombre": "disney641aeb",
-    "status": "17:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/20ee2290-81d8-467f-b129-2747b02f5a03",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1767218441~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F30%2FSan_Diego_vs_Pacific_20251230_1767124829040%2F~psid=abbdb43c-3ffe-4c87-811a-793be691c52e~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=b5d03f35824bce850a11ead6566152b270813b349f1bfa5ed3ee6e4c98bdcdbb/clt1/va02/disneyplus/event/2025/12/30/San_Diego_vs_Pacific_20251230_1767124829040/ctr-all-hdri-complete.m3u8?v=1&hash=cae24f1a0d000aba6d09edd0ff85f6fa4371ad63",
-    "k1": "6a2df7c46e9f41649817cc14782bf3a1",
-    "k2": "d2cb629f454cb69c1d8a00ad63c91e8e"
-  },
-  {
     "title": "Tennessee vs. Illinois",
     "league": "Fútbol Americano NCAA",
     "fecha-evento": "2025-12-30T17:30:00-05:00",
@@ -26,17 +13,30 @@
     "k2": "34eb005bef0a31971d5faf22358567ea"
   },
   {
-    "title": "Carolina Hurricanes vs. Pittsburgh Penguins",
+    "title": "Florida State vs. #12 North Carolina",
+    "league": "Básquetbol Masculino NCAA",
+    "fecha-evento": "2025-12-30T19:00:01-05:00",
+    "img": "019b47cd-ba33-749a-9912-1594948ae5b0",
+    "nombre": "disneyd0d3b4",
+    "status": "19:00",
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/6ae337c7-b79d-4ca3-b356-b5c47939bea4",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1767226846~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F31%2FFlorida_State_vs_12_North_20251231_1767132452971%2F~psid=016e818e-f513-4b53-bc69-98614e4d80c7~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=004e2b8f16fa14b2b05d43d73d8bdc92a71da469e58d7016e8e2b40d09c348a1/clt1/va02/disneyplus/event/2025/12/31/Florida_State_vs_12_North_20251231_1767132452971/ctr-all-hdri-complete.m3u8?v=1&hash=db20501f343e88376a12e6c51ec824247d887bd8",
+    "k1": "dfd4e8935d364e57a2b1b262f112e4f4",
+    "k2": "72a8eb0313958ab025ec5eb33e0bc040"
+  },
+  {
+    "title": "New Jersey Devils vs. Toronto Maple Leafs",
     "league": "National Hockey League",
-    "fecha-evento": "2025-12-30T18:30:00-05:00",
-    "img": "019b5ca9-71f1-740c-bae8-85bff3b4d6e2",
-    "nombre": "disney91451e",
-    "status": "18:30",
-    "duration": 240,
-    "play_url": "https://www.disneyplus.com/es-es/play/bf7ec730-53cb-4928-a68f-455baf9c2750",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1767224444~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F30%2FCarolina_Hurricanes_vs_Pi_20251230_1767130212039%2F~psid=b62545dd-90d1-441b-bf09-b03e690bc6dc~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=b75ede228869d03b0e187a639aa9c5f592b7c9aa26e581d34b60c53c30415485/clt1/va02/disneyplus/event/2025/12/30/Carolina_Hurricanes_vs_Pi_20251230_1767130212039/ctr-all-hdri-complete.m3u8?v=1&hash=40b6b68a78e2fd9a215e9cf827ca1eaa729fd305",
-    "k1": "2f087408a5144c79b205f3a3f7dc9d86",
-    "k2": "765097656cc67975ac764b8ac3a9ea62"
+    "fecha-evento": "2025-12-30T19:00:00-05:00",
+    "img": "019b3087-f60e-74fc-be45-4ca2e70c0d4f",
+    "nombre": "disney5f0fa4",
+    "status": "19:00",
+    "duration": 150,
+    "play_url": "https://www.disneyplus.com/es-es/play/271ee33c-0957-46d2-8d75-d0e87e3a17a2",
+    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1767226890~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Fbbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1767092609127%2F~psid=aa76d799-cb75-4cec-86bf-085f53e5fded~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=c7832b3ce34d3b42d4b9dcaec96f6b373ccec2dfe4ce273532fa4e403c45309c/clt1/va02/disneyplus/channel/bbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1767092609127/ctr-all-sliding-alt1.m3u8?v=1&hash=caa611b0aedb1e1aad3e4a1a02fe77959cc0e2c7",
+    "k1": "d7ec6f048deb4366b622e7010dc26d4d",
+    "k2": "86f28b81b6e5ddf99cb41ff91d637f83"
   },
   {
     "title": "Montreal Canadiens vs. Florida Panthers",
@@ -52,54 +52,56 @@
     "k2": "a5302bdc335853da771c673be39cdfe2"
   },
   {
-    "title": "New Jersey Devils vs. Toronto Maple Leafs",
-    "league": "National Hockey League",
-    "fecha-evento": "2025-12-30T19:00:00-05:00",
-    "img": "019b3087-f60e-74fc-be45-4ca2e70c0d4f",
-    "nombre": "disney5f0fa4",
+    "title": "Grand Rapids Gold vs. Motor City Cruise",
+    "league": "NBA G League",
+    "fecha-evento": "2025-12-30T19:00:05-05:00",
+    "img": "019a79b8-506b-7179-9074-678f55bf505f",
+    "nombre": "disneye61bf7",
     "status": "19:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/a29365d0-bc4e-4ba9-a01a-e12345aee6a1",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1767226935~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F31%2FGrand_Rapids_Gold_vs_Moto_20251231_1767132043034%2F~psid=134122b4-79ea-48b5-8b65-0e75c8b71bb2~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=615d5df1f7881d048213d60bf93ae47602910059f3090fa62911925551c71d25/clt1/va02/disneyplus/event/2025/12/31/Grand_Rapids_Gold_vs_Moto_20251231_1767132043034/ctr-all-hdri-complete.m3u8?v=1&hash=9a7d5aa763923d12a2caf598cf7aa6edccce7a90",
+    "k1": "3458556e57cf4acc82446aaab16da9ac",
+    "k2": "e9a88f7155cc0a8ee8861f4260fe2ae3"
   },
   {
     "title": "Birmingham Squadron vs. College Park Skyhawks",
     "league": "NBA G League",
-    "fecha-evento": "2025-12-30T19:00:00-05:00",
+    "fecha-evento": "2025-12-30T19:00:07-05:00",
     "img": "019a79b8-45ea-7386-847d-a845f3738665",
-    "nombre": "disney453e92",
+    "nombre": "disneycd8cda",
     "status": "19:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Florida State vs. #12 North Carolina",
-    "league": "Básquetbol Masculino NCAA",
-    "fecha-evento": "2025-12-30T19:00:00-05:00",
-    "img": "019b47cd-ba33-749a-9912-1594948ae5b0",
-    "nombre": "disney623590",
-    "status": "19:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/89b18202-54e6-4c74-b68c-4e923b1fcaeb",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1767226959~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F31%2FBirmingham_Squadron_vs_Co_20251231_1767132044032%2F~psid=9e06a3b5-6c11-40d0-8e99-a5984e4ff39b~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=d8c2f65b002afa0d2453664d362de58e1584b607a9bf728c1e94902615db73cd/clt1/va02/disneyplus/event/2025/12/31/Birmingham_Squadron_vs_Co_20251231_1767132044032/ctr-all-hdri-complete.m3u8?v=1&hash=544c0e74d6d4e4fcaa901a5b5b0b486f74811692",
+    "k1": "19e60943a4ed4be69154d46539a2012d",
+    "k2": "192c6ca7d2d15027d66c35c960abfcbb"
   },
   {
     "title": "Wisconsin Herd vs. Cleveland Charge",
     "league": "NBA G League",
-    "fecha-evento": "2025-12-30T19:00:00-05:00",
+    "fecha-evento": "2025-12-30T19:00:10-05:00",
     "img": "019b3087-6b3e-7aa8-9345-e15cc40c5578",
-    "nombre": "disney91e743",
+    "nombre": "disneyf550ac",
     "status": "19:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/6f14bd57-116d-4527-8cff-0ea7944de06f",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1767226984~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F31%2FWisconsin_Herd_vs_Clevela_20251231_1767132049031%2F~psid=97887912-a14a-4ad9-bc89-1bdf16d3c47a~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=f5b105d4e3b4d83319ea3abe8f0826e7732c4695df1821391702c9eade19e139/clt1/va02/disneyplus/event/2025/12/31/Wisconsin_Herd_vs_Clevela_20251231_1767132049031/ctr-all-hdri-complete.m3u8?v=1&hash=1f3c4cd890e034bf60d9fbb021b9b32e73c7cfe0",
+    "k1": "2b61f5c265c84b5db94a9c516187fae0",
+    "k2": "1c61c9156e5cb4e9ed780a502a39b010"
   },
   {
-    "title": "Grand Rapids Gold vs. Motor City Cruise",
-    "league": "NBA G League",
-    "fecha-evento": "2025-12-30T19:00:00-05:00",
-    "img": "019a79b8-506b-7179-9074-678f55bf505f",
-    "nombre": "disney2a56fe",
+    "title": "Carolina Hurricanes vs. Pittsburgh Penguins",
+    "league": "National Hockey League",
+    "fecha-evento": "2025-12-30T19:00:22-05:00",
+    "img": "019b5ca9-71f1-740c-bae8-85bff3b4d6e2",
+    "nombre": "disney47bff2",
     "status": "19:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 210,
+    "play_url": "https://www.disneyplus.com/es-es/play/1f0410e0-58df-4e43-9610-a40a4f82523e",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1767227008~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2025%2F12%2F30%2FCarolina_Hurricanes_vs_Pi_20251230_1767130213629%2F~psid=129f39b6-5169-4464-9628-0e3584a36b9b~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=1ddda22ffda58d74339a0093b95966703e24a32050c1bea276f9d43110c30dfe/clt1/va02/disneyplus/event/2025/12/30/Carolina_Hurricanes_vs_Pi_20251230_1767130213629/ctr-all-hdri-complete.m3u8?v=1&hash=84874d800bfb326412a907124fe8d06f68ec1c8a",
+    "k1": "62958ecf6efa431bb8c525bf814baf31",
+    "k2": "2767117e68ebb7521aa62dca1cac2e01"
   },
   {
     "title": "Westchester Knicks vs. Raptors 905",
@@ -638,6 +640,16 @@
     "img": "019b2d64-4ffc-7b0b-8907-e96f22a2b42c",
     "nombre": "disney1a2a36",
     "status": "07:25",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Southampton vs. Millwall",
+    "league": "Championship de Inglaterra",
+    "fecha-evento": "2026-01-01T09:50:00-05:00",
+    "img": "019b0d87-6b90-76b3-b965-fbc787937981",
+    "nombre": "disneyafa24e",
+    "status": "09:50",
     "duration": 135,
     "play_url": ""
   }
