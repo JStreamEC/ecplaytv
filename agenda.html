@@ -1,181 +1,7 @@
-
 <!DOCTYPE html>
 <html class='v2 no-js' dir='ltr' lang='es' prefix='og: http://ogp.me/ns# article: http://ogp.me/ns/article#' xmlns='http://www.w3.org/1999/xhtml' xmlns:b='http://www.google.com/2005/gml/b' xmlns:data='http://www.google.com/2005/gml/data' xmlns:expr='http://www.google.com/2005/gml/expr'>
 <head>
-<link href='https://www.blogger.com/static/v1/widgets/55013136-widget_css_bundle.css' rel='stylesheet' type='text/css'/>
-<!-- Google tag (gtag.js) -->
-<script async='async' src='https://www.googletagmanager.com/gtag/js?id=G-HV2CWVZJHB'></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
 
-  gtag('config', 'G-HV2CWVZJHB');
-</script>
-<!-- Google Fonts -->
-<link href='https://fonts.googleapis.com' rel='preconnect'/>
-<link crossorigin='anonymous' href='https://fonts.gstatic.com' rel='preconnect'/>
-<link href='https://fonts.googleapis.com/css2?family=Rajdhani:wght@300;400;500;600;700&display=swap' rel='stylesheet'/>
-<meta content='never' name='referrer'/>
-<meta charset='utf-8'/>
-<!-- http://emiliocobos.net/seo-blogger-head/ -->
-<!-- script redirección: http://emiliocobos.net/evitar-la-redireccion-nueva-de-blogger/ -->
-<script type='text/javascript'>
-		//<![CDATA[
-		(function(){
-			var URL = document.URL,
-				reg = /\.blogspot\.(com\...|..)\//
-			if( URL.match( reg ) ){
-				window.location = URL.replace( reg, ".blogspot.com\/ncr\/" )
-			}
-		})()
-		// Fallback CSS para cuando no hay javascript
-		document.documentElement.className = document.documentElement.className.replace('no-js', 'js');
-		//]]>
-	</script>
-<!-- Comentarios condicionales IE -> Permite usar CSS condicionalmente La mejor forma de usarlos sería en el <html>, pero no se puede sin tranformar en entidades -->
-<!--[if IE 8]> <script type='text/javascript'>document.documentElement.className += ' ie8 lt-ie9'</script> <![endif]-->
-<!--[if IE 7]> <script type='text/javascript'>document.documentElement.className += ' ie7 lt-ie8 lt-ie9'</script> <![endif]-->
-<!--[if lt IE 7]> <script type='text/javascript'>document.documentElement.className += ' ie6 lt-ie7 lt-ie8 lt-ie9'</script> <![endif]-->
-<!--Meta X-UA-Compatible -> Mejor experiencia para IE -->
-<!-- <meta content='IE=edge,chrome=1' http-equiv='X-UA-Compatible'/> -->
-<!-- meta viewport -> dispositivos móviles -->
-<meta content='width=device-width,initial-scale=1.0,maximum-scale=1.0' name='viewport'/>
-<!-- Metas para facebook (name=description la incluye all-head-content) -->
-<!-- <meta property='og:title'> la incluimos donde el título, por conveniencia -->
-<meta content='Pruebas sistematicas' property='og:site_name'/>
-<meta content='blog' property='og:type'/>
-<meta content='http://calendario-futbol.blogspot.com/p/ag2526_3.html' property='og:url'/>
-<!-- all-head-content incluye la meta description si existe data:blog.metaDescription En el home siempre la hay, pero en este caso concreto no -->
-<meta content='ag2526: Pruebas sistematicas' name='description' property='og:description'/>
-<!-- Imagen del post -->
-<!-- Indexación -->
-<!-- En el resto (páginas y posts) sí -->
-<meta content='index,follow' name='robots'/>
-<!-- Título -->
-<meta content='ag2526 | Pruebas sistematicas' property='og:title'/>
-<title>ag2526 | Pruebas sistematicas</title>
-<!-- all-head-content. Incluye: => link[rel=me] => link[rel=publisher] => link[rel=canonical] => link[rel=image_src] si hay una imagen en la entrada => meta[name=description] si existe data:blog.metaDescription => meta[http-equiv=content-type] => links del feed => scripts para compatibilidad con HMTL5 -->
-<!-- <b:include data='blog' name='all-head-content'/> -->
-<!-- Meta content-type está obsoleta, usaremos charset -->
-<meta content='blogger' name='generator'/>
-<!-- Link al favicon (es el personalizado) -->
-<link href='https://calendario-futbol.blogspot.com/favicon.ico' rel='icon' type='image/x-icon'/>
-<!-- Link rel=canonical -->
-<link href='http://calendario-futbol.blogspot.com/p/ag2526_3.html' rel='canonical'/>
-<!-- La descripción -->
-<!-- La imagen del post -->
-<!-- Link rel=me si existe -->
-<!-- Links del feed -->
-<!-- Compatibilidad con HTML5 sí, pero no para IE9, que es un buen navegador -->
-<!--[if lt IE 9]> <script src='http://html5shiv.googlecode.com/svn/trunk/html5.js'></script> <![endif]-->
-<!-- /all-head-content -->
-<!-- http://emiliocobos.net/eliminar-los-estilos-y-scripts-por-defecto-de-blogger/ -->
-	<style id='page-skin-1'>/*
-	
-<style id='page-skin-1' type='text/css'><!--
-*/
-/*
------------------------------------------------
-Blogger Template Style
-Name:     Lienzo - Plantilla básica para blogger
-Designer: Emilio Cobos
-URL:      emiliocobos.net
------------------------------------------------ */
-/*
-* Aquí puedes añadir tu CSS, o bien justo debajo de </b:skin> en una hoja de estilos externa.
-* Te recomiendo que una de tus primeras reglas sea:
-* .item-control {
-*    display: none;
-* }
-* Para ocultar los iconos de edición rápida.
-* Algunos elementos clave para definir el estilo del sitio:
-* .site-wrapper             : Un contenedor general del sitio
-* .site-header              : La parte externa de la cabecera
-*   .site-title             : El logo
-*     .site-title a         : El link interno del logo
-* .content-wrapper          : El contenido general (lo que no es ni header ni footer)
-*   .content                : Columna central
-*     .post-outer           : La parte externa de los posts
-*       .post-title         : El título de los posts
-*         .post-title a     : El link del título
-*       .post-header        : Contenedor de los links de la cabecera de los posts
-*         .post-author      : El nombre del autor
-*         .post-published   : La fecha de publicación del post
-*         .post-tags        : Las etiquetas del post
-*       .post-body          : El texto del post
-*       .post-footer        : La parte de abajo del post
-*     .post-numero-0        : Primer post de todos
-*     .post-numero-1        : Segundo post de todos
-*     // así sucesivamente
-*   .sidebar                : Columna lateral (la sidebar de toda la vida)
-*     .widget               : Cada uno de los widgets
-*       .widget .title      : El título de los widgets
-* .site-footer              : El footer del sitio
-*   .widget                 : Cada uno de los widgets del footer
-*
-*
-* Si te interesa un CSS básico, pásate por http://emiliocobos.net/lienzo-plantilla-basica-blogger/
-*/
-.contacto-nombre,
-.contacto-correo {
-float: left;
-width: 48.25%
-}
-.contacto-nombre {
-margin-right: 3.5%
-}
-.contact-form-name,
-.contact-form-email,
-.contact-form-email-message,
-.contact-form-name:hover,
-.contact-form-name:focus,
-.contact-form-email:hover,
-.contact-form-email:focus,
-.contact-form-email-message:hover,
-.contact-form-email-message:focus {
-width: 100%;
-max-width: 100%;
-margin: 0 0 20px;
-padding: 10px 15px;
-font-size: 12px;
-letter-spacing: 1px;
-color: #444;
-background: #F3F3F3;
-border: medium none;
--webkit-box-shadow: none;
--moz-box-shadow: none;
-box-shadow: none
-}
-.contact-form-name,
-.contact-form-email {
-height: 37px
-}
-.contact-form-email-message {
-height: 170px
-}
-.contact-form-button-submit,
-.contact-form-button-submit:hover {
-width: 13%;
-height: 30px;
-font: normal 12px Arial;
-letter-spacing: 1px;
-color: #444;
-display: block;
-outline: none;
-margin-bottom: 20px;
-text-align: center;
-background: #E6E6E6;
-border: 0;
-cursor: pointer
-}
-.contact-form-button-submit:active {
-outline: none;
--webkit-box-shadow: none;
-box-shadow: none
-}
-
---></style>
 <style>
 #html.post {
     padding: 0px 0px;
@@ -674,11 +500,7 @@ body {
 #mi-app .theme-toggle .moon-icon {
   fill: #333;
 }
-
-
-
 </style>
-<meta content='never' name='referrer'/>
 <script>
   document.addEventListener("DOMContentLoaded", function () {
     document.body.classList.add("tema-oscuro");
@@ -703,13 +525,8 @@ body {
         e.preventDefault();
     });
 </script>
-<link href='https://www.blogger.com/dyn-css/authorization.css?targetBlogID=8265649085720875247&amp;zx=ed76af7a-d006-4199-b063-a38e91b87272' media='none' onload='if(media!=&#39;all&#39;)media=&#39;all&#39;' rel='stylesheet'/><noscript><link href='https://www.blogger.com/dyn-css/authorization.css?targetBlogID=8265649085720875247&amp;zx=ed76af7a-d006-4199-b063-a38e91b87272' rel='stylesheet'/></noscript>
-<meta name='google-adsense-platform-account' content='ca-host-pub-1556223355139109'/>
-<meta name='google-adsense-platform-domain' content='blogspot.com'/>
 
 </head><!-- http://emiliocobos.net/truco-rapido-para-blogger-personalizar-la-plantilla-con-css-dependiendo-del-tipo-de-pagina/-->
-<body class=' static_page' data-blog-url='http://calendario-futbol.blogspot.com/p/ag2526_3.html' data-home='false'>
-<div class='site-wrapper'>
 <!-- ÍCONOS SVG DEFINIDOS -->
 <svg style='display: none;'>
 <!-- Bandera estilizada para corner -->
@@ -733,14 +550,7 @@ body {
 <path d='M12,3c-4.97,0-9,4.03-9,9s4.03,9,9,9s9-4.03,9-9c0-0.46-0.04-0.92-0.1-1.36c-0.98,1.37-2.58,2.26-4.4,2.26 c-2.98,0-5.4-2.42-5.4-5.4c0-1.81,0.89-3.42,2.26-4.4C12.92,3.04,12.46,3,12,3L12,3z'></path>
 </symbol>
 </svg>
-<div class='content-wrapper'>
-<div class='content' id='content' role='main'>
-<div class='main section' id='main'><div class='widget Blog' data-version='1' id='Blog1'>
-<div class='blog-posts hfeed'>
-<!--Can't find substitution for tag [defaultAdStart]-->
-<div class='post-outer post-numero-0'>
-<div class='post hentry' id='1697750343119358599' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
-<div class='post-body entry-content' id='post-body-1697750343119358599' itemprop='articleBody'>
+
 <!--DOCTYPE html-->
 <html lang="es">
 <head>
@@ -888,7 +698,7 @@ body {
 [
   {
     "id": "782349",
-    "evento": "Aston Villa vs Nottingham Forest",
+    "evento": "Aston Villa vs Nottingham Forest3",
     "liga": "Premier League",
     "logo_equipo1": "https://media.api-sports.io/football/teams/66.png",
     "logo_equipo2": "https://media.api-sports.io/football/teams/65.png",
@@ -1011,12 +821,12 @@ body {
       {
         "nombre": "Canal 2",
         "tipo": "Web",
-        "url": "https://streamtpcloud.com/global1.php?stream=nba1"
+        "url": "https://streamtpcloud.com/global1.php?stream=disney7"
       },
       {
         "nombre": "Canal 3",
         "tipo": "Web",
-        "url": "https://streamtpcloud.com/global1.php?stream=nba1"
+        "url": "https://acectv.blogspot.com/p/tv247us.html?id=446"
       }
     ]
   },
@@ -1468,22 +1278,7 @@ document.getElementById('actualizarBoton').onclick = function() {
 <!-- Código para bloquear AdBlock fin -->
 </div>
 </div>
-<div class='comments' id='comments'>
-<a name='comments'></a>
-<div id='backlinks-container'>
-<div id='Blog1_backlinks-container'>
-</div>
-</div>
-</div>
-</div>
-<!--Can't find substitution for tag [adEnd]-->
-</div>
-<div class='blog-pager' id='blog-pager'>
-<a class='home-link' href='https://calendario-futbol.blogspot.com/'>Inicio</a>
-</div>
-<div class='clear'></div>
-</div></div>
-</div>
+
 <div class='sidebar section' id='sidebar'><div class='widget HTML' data-version='1' id='HTML1'>
 <div class='widget-content'>
 <script>
@@ -1959,17 +1754,3 @@ function formatearFechaConZona(fechaISO) {
     setInterval(actualizarDatosEventos, 60000);
   </script>
 </div>
-<div class='clear'></div>
-</div></div>
-</div><!-- .content-wrapper -->
-</div><!-- .site-wrapper -->
-
-<script type="text/javascript" src="https://www.blogger.com/static/v1/widgets/382300504-widgets.js"></script>
-<script type='text/javascript'>
-window['__wavt'] = 'AOuZoY5qG2eBaZrxkUn7i9MslBTwMkOWvA:1767448059651';_WidgetManager._Init('//www.blogger.com/rearrange?blogID\x3d8265649085720875247','//calendario-futbol.blogspot.com/p/ag2526_3.html','8265649085720875247');
-_WidgetManager._SetDataContext([{'name': 'blog', 'data': {'blogId': '8265649085720875247', 'title': 'Pruebas sistematicas', 'url': 'https://calendario-futbol.blogspot.com/p/ag2526_3.html', 'canonicalUrl': 'http://calendario-futbol.blogspot.com/p/ag2526_3.html', 'homepageUrl': 'https://calendario-futbol.blogspot.com/', 'searchUrl': 'https://calendario-futbol.blogspot.com/search', 'canonicalHomepageUrl': 'http://calendario-futbol.blogspot.com/', 'blogspotFaviconUrl': 'https://calendario-futbol.blogspot.com/favicon.ico', 'bloggerUrl': 'https://www.blogger.com', 'hasCustomDomain': false, 'httpsEnabled': true, 'enabledCommentProfileImages': true, 'gPlusViewType': 'FILTERED_POSTMOD', 'adultContent': false, 'analyticsAccountNumber': 'G-HV2CWVZJHB', 'analytics4': true, 'encoding': 'UTF-8', 'locale': 'es', 'localeUnderscoreDelimited': 'es', 'languageDirection': 'ltr', 'isPrivate': true, 'isMobile': false, 'isMobileRequest': false, 'mobileClass': '', 'isPrivateBlog': false, 'isDynamicViewsAvailable': false, 'feedLinks': '', 'meTag': '', 'adsenseHostId': 'ca-host-pub-1556223355139109', 'adsenseHasAds': false, 'adsenseAutoAds': false, 'boqCommentIframeForm': true, 'loginRedirectParam': '', 'view': '', 'dynamicViewsCommentsSrc': '//www.blogblog.com/dynamicviews/4224c15c4e7c9321/js/comments.js', 'dynamicViewsScriptSrc': '//www.blogblog.com/dynamicviews/daef15016aa26cab', 'plusOneApiSrc': 'https://apis.google.com/js/platform.js', 'disableGComments': true, 'interstitialAccepted': false, 'sharing': {'platforms': [{'name': 'Obtener enlace', 'key': 'link', 'shareMessage': 'Obtener enlace', 'target': ''}, {'name': 'Facebook', 'key': 'facebook', 'shareMessage': 'Compartir en Facebook', 'target': 'facebook'}, {'name': 'Escribe un blog', 'key': 'blogThis', 'shareMessage': 'Escribe un blog', 'target': 'blog'}, {'name': 'X', 'key': 'twitter', 'shareMessage': 'Compartir en X', 'target': 'twitter'}, {'name': 'Pinterest', 'key': 'pinterest', 'shareMessage': 'Compartir en Pinterest', 'target': 'pinterest'}, {'name': 'Correo electr\xf3nico', 'key': 'email', 'shareMessage': 'Correo electr\xf3nico', 'target': 'email'}], 'disableGooglePlus': true, 'googlePlusShareButtonWidth': 0, 'googlePlusBootstrap': '\x3cscript type\x3d\x22text/javascript\x22\x3ewindow.___gcfg \x3d {\x27lang\x27: \x27es\x27};\x3c/script\x3e'}, 'hasCustomJumpLinkMessage': false, 'jumpLinkMessage': 'Leer m\xe1s', 'pageType': 'static_page', 'pageId': '1697750343119358599', 'pageName': 'ag2526', 'pageTitle': 'Pruebas sistematicas: ag2526'}}, {'name': 'features', 'data': {}}, {'name': 'messages', 'data': {'edit': 'Editar', 'linkCopiedToClipboard': 'El enlace se ha copiado en el Portapapeles.', 'ok': 'Aceptar', 'postLink': 'Enlace de la entrada'}}, {'name': 'template', 'data': {'name': 'custom', 'localizedName': 'Personalizado', 'isResponsive': false, 'isAlternateRendering': false, 'isCustom': true}}, {'name': 'view', 'data': {'classic': {'name': 'classic', 'url': '?view\x3dclassic'}, 'flipcard': {'name': 'flipcard', 'url': '?view\x3dflipcard'}, 'magazine': {'name': 'magazine', 'url': '?view\x3dmagazine'}, 'mosaic': {'name': 'mosaic', 'url': '?view\x3dmosaic'}, 'sidebar': {'name': 'sidebar', 'url': '?view\x3dsidebar'}, 'snapshot': {'name': 'snapshot', 'url': '?view\x3dsnapshot'}, 'timeslide': {'name': 'timeslide', 'url': '?view\x3dtimeslide'}, 'isMobile': false, 'title': 'ag2526', 'description': '                                  EVENTOS DEL D\xcdA         Actualizar       Agenda V1                                 \xd7        Evento        ...', 'featuredImage': 'https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_vemibpe0HSR-qGEXVdX1QUBl0PdjuaxXq1R-cktnFJxIfF1TY2972xZnAC4D6WZdod3gtupLzsMT51tghH7CUbsXk', 'url': 'https://calendario-futbol.blogspot.com/p/ag2526_3.html', 'type': 'item', 'isSingleItem': true, 'isMultipleItems': false, 'isError': false, 'isPage': true, 'isPost': false, 'isHomepage': false, 'isArchive': false, 'isLabelSearch': false, 'pageId': 1697750343119358599}}]);
-_WidgetManager._RegisterWidget('_BlogView', new _WidgetInfo('Blog1', 'main', document.getElementById('Blog1'), {'cmtInteractionsEnabled': false, 'lightboxEnabled': true, 'lightboxModuleUrl': 'https://www.blogger.com/static/v1/jsbin/1633826892-lbx__es.js', 'lightboxCssUrl': 'https://www.blogger.com/static/v1/v-css/828616780-lightbox_bundle.css'}, 'displayModeFull'));
-_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML1', 'sidebar', document.getElementById('HTML1'), {}, 'displayModeFull'));
-</script>
-</body>
-</html>
