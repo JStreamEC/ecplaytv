@@ -2,15 +2,12 @@
   {
     "title": "Brighton & Hove Albion vs. Burnley",
     "league": "Premier League",
-    "fecha-evento": "2026-01-03T09:50:00-05:00",
+    "fecha-evento": "",
     "img": "019b2dec-8570-7464-a8aa-4bce136edc41",
-    "nombre": "disney597afa",
-    "status": "09:50",
-    "duration": 125,
-    "play_url": "https://www.disneyplus.com/es-es/play/6806def5-9094-4d9d-928d-084ace79342f",
-    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1767538838~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F921e1311-bb26-43dd-84a6-9e2284959712-1762950465141%2F~psid=3a6f42a0-7ff5-458b-a5ba-c5987dadbf1a~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=4f6f237e1a3db98689b0d1889d2ada2430b700b88cf5bc0c633441b7a8684aa8/clt1/va02/disneyplus/channel/921e1311-bb26-43dd-84a6-9e2284959712-1762950465141/ctr-all-sliding-alt1.m3u8?v=1&hash=03915bf69f19826611ecdeecc79455eab40b229c",
-    "k1": "19dc1c1e1c134f888bd8715512184c74",
-    "k2": "4455c9b6ffa8d7c910755b99d23b8248"
+    "nombre": "disney067656",
+    "status": "",
+    "duration": 135,
+    "play_url": ""
   },
   {
     "title": "Bath Rugby vs. Exeter Chiefs",
@@ -65,19 +62,6 @@
     "k2": "c712d994e3e35c171d32c2bb16b68b79"
   },
   {
-    "title": "Kings World Cup Nations | Ronda #1",
-    "league": "Kings World Cup Nations",
-    "fecha-evento": "2026-01-03T11:27:46-05:00",
-    "img": "019b6ba2-fe6f-74bd-a07d-a86f10cbcc03",
-    "nombre": "disneyfe2317",
-    "status": "11:27",
-    "duration": 332,
-    "play_url": "https://www.disneyplus.com/es-es/play/f9f06815-e480-413d-af7f-8526cabd561e",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1767544837~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F03%2FKings_World_Cup_Nations_R_20260103_1767452101041%2F~psid=6cec8529-7191-477b-b095-6b90516c2d2d~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=db8275c038d378cb6851ae1492971e1b5cd6d3fe12272880bfb7711a242e7b1a/clt1/va02/disneyplus/event/2026/01/03/Kings_World_Cup_Nations_R_20260103_1767452101041/ctr-all-hdri-complete.m3u8?v=1&hash=6ceaf3da0a5334318421f476d027ddc7887066c3",
-    "k1": "c99d95084ef1460a9e20d1962698f6b7",
-    "k2": "ea8bcc36668f2965a7c1b81257758ae2"
-  },
-  {
     "title": "Italy vs. France",
     "league": "Kings World Cup Nations",
     "fecha-evento": "2026-01-03T11:30:46-05:00",
@@ -91,14 +75,30 @@
     "k2": "ee098bfefdc888973ec8bb9c66d037a0"
   },
   {
+    "title": "Kings World Cup Nations | Ronda #1",
+    "league": "Kings World Cup Nations",
+    "fecha-evento": "2026-01-03T11:27:46-05:00",
+    "img": "019b6ba2-fe6f-74bd-a07d-a86f10cbcc03",
+    "nombre": "disneyfe2317",
+    "status": "11:27",
+    "duration": 332,
+    "play_url": "https://www.disneyplus.com/es-es/play/f9f06815-e480-413d-af7f-8526cabd561e",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1767544837~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F03%2FKings_World_Cup_Nations_R_20260103_1767452101041%2F~psid=6cec8529-7191-477b-b095-6b90516c2d2d~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=db8275c038d378cb6851ae1492971e1b5cd6d3fe12272880bfb7711a242e7b1a/clt1/va02/disneyplus/event/2026/01/03/Kings_World_Cup_Nations_R_20260103_1767452101041/ctr-all-hdri-complete.m3u8?v=1&hash=6ceaf3da0a5334318421f476d027ddc7887066c3",
+    "k1": "c99d95084ef1460a9e20d1962698f6b7",
+    "k2": "ea8bcc36668f2965a7c1b81257758ae2"
+  },
+  {
     "title": "Juventus vs. Lecce",
     "league": "Seria A",
     "fecha-evento": "2026-01-03T11:50:00-05:00",
     "img": "019b2de6-17ab-7771-b966-b31f66cf64f4",
     "nombre": "disney4eaff2",
     "status": "11:50",
-    "duration": 135,
-    "play_url": ""
+    "duration": 125,
+    "play_url": "https://www.disneyplus.com/es-es/play/fca76353-5099-4af0-9c6d-c59aad0b3ffc",
+    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1767546039~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Ff25bdf06-81c9-4a7c-b128-3128d610ad17-1762951253360%2F~psid=37393c70-6913-445b-b36e-a4e99db2fc85~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=6088fa3e6ce009cbcaf5b14759fe8179f9ca065e278f62ccfa33abd10b4a6690/clt1/va02/disneyplus/channel/f25bdf06-81c9-4a7c-b128-3128d610ad17-1762951253360/ctr-all-sliding-alt1.m3u8?v=1&hash=57a1e5c4737768952c5164be5d4f5ba525d47674",
+    "k1": "c2f89d61924e47b4b116d4731636f9db",
+    "k2": "4bb22c976ef2c50cdd0a4ca99290be5a"
   },
   {
     "title": "Pittsburgh Penguins vs. Detroit Red Wings",
@@ -127,8 +127,11 @@
     "img": "019b6e9d-6f2b-71df-8e4a-1fd9c806b217",
     "nombre": "disney28b379",
     "status": "12:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/63c48b58-da26-4f58-9ddb-46336fcb09b1",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1767546083~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F03%2FUTSA_vs_Temple_20260103_1767453514106%2F~psid=b41c7fd0-3f93-4a85-8cfa-035199b761f2~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=ccda7b5bb99a1f82c91253cdeb6faa6b9f549e9cfc34d9bb3dd3cfe288cfd261/clt1/va02/disneyplus/event/2026/01/03/UTSA_vs_Temple_20260103_1767453514106/ctr-all-hdri-complete.m3u8?v=1&hash=47e6c9aa2093529eedb05b1fe9bf5acae229bb15",
+    "k1": "57e9946ac5bf4017854fda1a8c160a96",
+    "k2": "3585fa575a056f61dd1488802dcef25d"
   },
   {
     "title": "Elche CF vs. Villarreal CF",
