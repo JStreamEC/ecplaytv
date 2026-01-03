@@ -13,19 +13,6 @@
     "k2": "4bb22c976ef2c50cdd0a4ca99290be5a"
   },
   {
-    "title": "Sassuolo vs. Parma",
-    "league": "Seria A",
-    "fecha-evento": "2026-01-03T08:54:35-05:00",
-    "img": "019b2de5-8129-7edf-8f58-0b62dff94b7e",
-    "nombre": "disney10529c",
-    "status": "08:54",
-    "duration": 125,
-    "play_url": "https://www.disneyplus.com/es-es/play/18065b5a-24e2-4e2f-8cb0-3190ff3e1830",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1767535278~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F03%2FSassuolo_vs_Parma_20260103_1767441357032%2F~psid=1553b1e4-c245-4593-83f4-efd044f42dd7~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=17de2d46358c76ce618a8263c1323f7109595e9a5a6769b7b9e661cc23296c63/clt1/va02/disneyplus/event/2026/01/03/Sassuolo_vs_Parma_20260103_1767441357032/ctr-all-hdri-complete.m3u8?v=1&hash=0a80749142dd5e9010efb4cca42ad24794f4c3c0",
-    "k1": "4da63e63762d4759a075c5891cfb9639",
-    "k2": "d6511d813c57a93dfa9b4739e3ba6aef"
-  },
-  {
     "title": "Brighton & Hove Albion vs. Burnley",
     "league": "Premier League",
     "fecha-evento": "2026-01-03T09:50:00-05:00",
@@ -67,12 +54,15 @@
   {
     "title": "Monaco vs. Lyon",
     "league": "Ligue 1",
-    "fecha-evento": "2026-01-03T10:50:00-05:00",
+    "fecha-evento": "2026-01-03T10:50:02-05:00",
     "img": "019b33bf-f664-785c-a35d-6aae75438911",
-    "nombre": "disney546336",
+    "nombre": "disney668c08",
     "status": "10:50",
-    "duration": 135,
-    "play_url": ""
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/c111d9af-fd1f-4b30-ab7b-ec7a5df920c8",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1767542435~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F03%2FMonaco_vs_Lyon_20260103_1767448209040%2F~psid=2fd97d5c-e92d-4ea3-a66b-c55c9a243064~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=79cc847ba18d0e4ff0c6ada601410d43eed91fec03a97e60e3547c654318a189/clt1/va02/disneyplus/event/2026/01/03/Monaco_vs_Lyon_20260103_1767448209040/ctr-all-hdri-complete.m3u8?v=1&hash=3e378a4a870570c3c6bf34efd35336a772bdb781",
+    "k1": "a101e78340c44aecae91edea64cae813",
+    "k2": "b38210df203ff3f81ff4583062248f1d"
   },
   {
     "title": "#21 Virginia vs. NC State",
@@ -630,6 +620,16 @@
     "fecha-evento": "2026-01-04T08:50:00-05:00",
     "img": "019b33bf-4ee2-7746-9d7e-ccea9c234bc7",
     "nombre": "disneyfb0a1a",
+    "status": "08:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Fiorentina vs. Cremonese",
+    "league": "Seria A",
+    "fecha-evento": "2026-01-04T08:50:00-05:00",
+    "img": "019b2e9f-3eeb-7b14-870c-690b73e7cd25",
+    "nombre": "disney4d7975",
     "status": "08:50",
     "duration": 135,
     "play_url": ""
