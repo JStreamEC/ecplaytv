@@ -1,18 +1,5 @@
 [
   {
-    "title": "Celta de Vigo vs. Valencia CF",
-    "league": "LALIGA",
-    "fecha-evento": "2026-01-03T07:50:00-05:00",
-    "img": "5f1ad933-47ae-4cac-adb9-084e59679510",
-    "nombre": "disneyca3da6",
-    "status": "07:50",
-    "duration": 125,
-    "play_url": "https://www.disneyplus.com/es-es/play/fced75ac-a8fc-4b39-aefd-285377e66a1c",
-    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1767534184~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Fbbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1767092609127%2F~psid=640c7847-9b98-4cf8-ae3f-09773e78f5c1~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=e767894337ccb7fc995dadb3ae310c9aaf050c8c80fe875115ca825c9fa07131/clt1/va02/disneyplus/channel/bbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1767092609127/ctr-all-sliding-alt1.m3u8?v=1&hash=caa611b0aedb1e1aad3e4a1a02fe77959cc0e2c7",
-    "k1": "22fb8c61d5fd4e558b5b98d7accd042b",
-    "k2": "b52b826f1941f95c277b67d0cda26389"
-  },
-  {
     "title": "Genoa vs. Pisa",
     "league": "Seria A",
     "fecha-evento": "2026-01-03T08:50:00-05:00",
@@ -634,6 +621,16 @@
     "img": "5f1ad933-47ae-4cac-adb9-084e59679510",
     "nombre": "disney49bb40",
     "status": "07:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Olympique Marseille vs. Nantes",
+    "league": "Ligue 1",
+    "fecha-evento": "2026-01-04T08:50:00-05:00",
+    "img": "019b33bf-4ee2-7746-9d7e-ccea9c234bc7",
+    "nombre": "disneyfb0a1a",
+    "status": "08:50",
     "duration": 135,
     "play_url": ""
   }
