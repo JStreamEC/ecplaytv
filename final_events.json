@@ -1,18 +1,5 @@
 [
   {
-    "title": "Genoa vs. Pisa",
-    "league": "Seria A",
-    "fecha-evento": "2026-01-03T08:50:00-05:00",
-    "img": "019b2de4-b35e-7ece-96e1-dcb0918b32ea",
-    "nombre": "disneyf1b2f3",
-    "status": "08:50",
-    "duration": 125,
-    "play_url": "https://www.disneyplus.com/es-es/play/d0137faf-e45c-4a37-bc11-e4a827439652",
-    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1767535234~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Ff25bdf06-81c9-4a7c-b128-3128d610ad17-1762951253360%2F~psid=b011b2a6-c925-43ab-a705-abb00f252abb~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=c42803bc95153bac4b03dfdb18dc3f177f4e5736ea2f90fc35c461b986026e5f/clt1/va02/disneyplus/channel/f25bdf06-81c9-4a7c-b128-3128d610ad17-1762951253360/ctr-all-sliding-alt1.m3u8?v=1&hash=57a1e5c4737768952c5164be5d4f5ba525d47674",
-    "k1": "c2f89d61924e47b4b116d4731636f9db",
-    "k2": "4bb22c976ef2c50cdd0a4ca99290be5a"
-  },
-  {
     "title": "Brighton & Hove Albion vs. Burnley",
     "league": "Premier League",
     "fecha-evento": "2026-01-03T09:50:00-05:00",
@@ -67,12 +54,15 @@
   {
     "title": "#21 Virginia vs. NC State",
     "league": "Básquetbol Masculino NCAA",
-    "fecha-evento": "2026-01-03T11:00:00-05:00",
+    "fecha-evento": "2026-01-03T11:00:02-05:00",
     "img": "019b4a63-45eb-73b6-846a-4f0fa8171863",
-    "nombre": "disney5fde5f",
+    "nombre": "disney440f46",
     "status": "11:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/3d049d15-d955-478f-892a-d139111bc9d0",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1767543636~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F03%2F21_Virginia_vs_NC_State_20260103_1767448832027%2F~psid=6c8e9fa8-951c-488a-9537-b8110a31c25e~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=31235fa853ef8b7c1fa3a7002924e757eb8d35449ab128937cabab6aebd0f284/clt1/va02/disneyplus/event/2026/01/03/21_Virginia_vs_NC_State_20260103_1767448832027/ctr-all-hdri-complete.m3u8?v=1&hash=627564c40d2e0caa3a8189f92c9dd8b4ff316eb5",
+    "k1": "dd3c9389fb6b444ebf0eae7249ae1b11",
+    "k2": "c712d994e3e35c171d32c2bb16b68b79"
   },
   {
     "title": "Juventus vs. Lecce",
@@ -631,6 +621,16 @@
     "img": "019b2e9f-3eeb-7b14-870c-690b73e7cd25",
     "nombre": "disney4d7975",
     "status": "08:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Newcastle United vs. Crystal Palace",
+    "league": "Premier League",
+    "fecha-evento": "2026-01-04T09:40:00-05:00",
+    "img": "019b31b8-1766-70f9-bbf2-b75e46fca165",
+    "nombre": "disney2d8fb6",
+    "status": "09:40",
     "duration": 135,
     "play_url": ""
   }
