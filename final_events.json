@@ -13,19 +13,6 @@
     "k2": "b52b826f1941f95c277b67d0cda26389"
   },
   {
-    "title": "Perpignan vs. Stade Toulousain",
-    "league": "Top 14",
-    "fecha-evento": "2026-01-03T08:25:02-05:00",
-    "img": "019b429f-58ae-790e-bb62-7acc58ef49e1",
-    "nombre": "disney11ecc2",
-    "status": "08:25",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/4e05c553-df21-45ab-be92-e4a57a102d85",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1767534237~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F03%2FPerpignan_vs_Stade_Toulou_20260103_1767439509033%2F~psid=3301e036-ee4d-49ed-994a-4831df38b4ee~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=724c857c0eb23745eff9b723b1638dd2d6c4b9bb17ceaeb893aee278a70b3a03/clt1/va02/disneyplus/event/2026/01/03/Perpignan_vs_Stade_Toulou_20260103_1767439509033/ctr-all-hdri-complete.m3u8?v=1&hash=b82fe5ee5579c892e9dd7e01c224cd88080a55cb",
-    "k1": "d13340f4c0fc44d6ba4dd9bc951aeba1",
-    "k2": "a1fe4729131454921ca79053d67f37e1"
-  },
-  {
     "title": "Genoa vs. Pisa",
     "league": "Seria A",
     "fecha-evento": "2026-01-03T08:50:00-05:00",
@@ -80,12 +67,15 @@
   {
     "title": "Castellón vs. Huesca",
     "league": "Segunda División de España",
-    "fecha-evento": "2026-01-03T10:10:00-05:00",
+    "fecha-evento": "2026-01-03T10:10:08-05:00",
     "img": "019b3264-87b3-7d83-b776-634d424d24df",
-    "nombre": "disney73a33e",
+    "nombre": "disney11ce54",
     "status": "10:10",
-    "duration": 135,
-    "play_url": ""
+    "duration": 125,
+    "play_url": "https://www.disneyplus.com/es-es/play/0a5d3d76-89ab-4589-9d13-1bb80929fa47",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1767540035~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F03%2FCastelln_vs_Huesca_20260103_1767445834032%2F~psid=985ecba6-1e8f-400b-9dba-731acb1be4f3~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=0b795c37676a99ac0ac2da6633122aded29532eed69958dab764d56c9e44e85e/clt1/va02/disneyplus/event/2026/01/03/Castelln_vs_Huesca_20260103_1767445834032/ctr-all-hdri-complete.m3u8?v=1&hash=4954da21149f13be92015b43832e5fc553f22852",
+    "k1": "95f8531b64594689b98dffe5d75037b1",
+    "k2": "10e5db82a8ba251fff2d38f8c9488cb0"
   },
   {
     "title": "Monaco vs. Lyon",
@@ -634,6 +624,16 @@
     "img": "019b2ea1-3373-7cb6-9ac2-c91981bd9c5c",
     "nombre": "disneyb5c65d",
     "status": "07:20",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Sevilla vs. Levante UD",
+    "league": "LALIGA",
+    "fecha-evento": "2026-01-04T07:50:00-05:00",
+    "img": "5f1ad933-47ae-4cac-adb9-084e59679510",
+    "nombre": "disney49bb40",
+    "status": "07:50",
     "duration": 135,
     "play_url": ""
   }
