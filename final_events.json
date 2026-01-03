@@ -1,18 +1,5 @@
 [
   {
-    "title": "Aston Villa vs. Nottingham Forest",
-    "league": "Premier League",
-    "fecha-evento": "2026-01-03T07:15:00-05:00",
-    "img": "019b2deb-515d-74a0-b775-93e8fff30d46",
-    "nombre": "disney9460e2",
-    "status": "07:15",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/dc110caa-684c-4242-8865-1d4f183d6782",
-    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1767534079~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F921e1311-bb26-43dd-84a6-9e2284959712-1762950465141%2F~psid=64b93b37-ea35-41fb-8789-76a55fbe5a5b~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=e68b060280e8f0283d2e3d0a44699b4d47666670818423db77a27b8b939f5ac3/clt1/va02/disneyplus/channel/921e1311-bb26-43dd-84a6-9e2284959712-1762950465141/ctr-all-sliding-alt1.m3u8?v=1&hash=03915bf69f19826611ecdeecc79455eab40b229c",
-    "k1": "19dc1c1e1c134f888bd8715512184c74",
-    "k2": "4455c9b6ffa8d7c910755b99d23b8248"
-  },
-  {
     "title": "Celta de Vigo vs. Valencia CF",
     "league": "LALIGA",
     "fecha-evento": "2026-01-03T07:50:00-05:00",
@@ -631,6 +618,16 @@
     "img": "019b518d-b549-73de-95ab-3f72a1d088f9",
     "nombre": "disney995ede",
     "status": "06:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Leeds United vs. Manchester United",
+    "league": "Premier League",
+    "fecha-evento": "2026-01-04T07:20:00-05:00",
+    "img": "019b2ea1-3373-7cb6-9ac2-c91981bd9c5c",
+    "nombre": "disneyb5c65d",
+    "status": "07:20",
     "duration": 135,
     "play_url": ""
   }
