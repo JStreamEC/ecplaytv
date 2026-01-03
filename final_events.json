@@ -13,19 +13,6 @@
     "k2": "ea8bcc36668f2965a7c1b81257758ae2"
   },
   {
-    "title": "Juventus vs. Lecce",
-    "league": "Seria A",
-    "fecha-evento": "2026-01-03T11:50:00-05:00",
-    "img": "019b2de6-17ab-7771-b966-b31f66cf64f4",
-    "nombre": "disney4eaff2",
-    "status": "11:50",
-    "duration": 125,
-    "play_url": "https://www.disneyplus.com/es-es/play/fca76353-5099-4af0-9c6d-c59aad0b3ffc",
-    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1767546039~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Ff25bdf06-81c9-4a7c-b128-3128d610ad17-1762951253360%2F~psid=37393c70-6913-445b-b36e-a4e99db2fc85~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=6088fa3e6ce009cbcaf5b14759fe8179f9ca065e278f62ccfa33abd10b4a6690/clt1/va02/disneyplus/channel/f25bdf06-81c9-4a7c-b128-3128d610ad17-1762951253360/ctr-all-sliding-alt1.m3u8?v=1&hash=57a1e5c4737768952c5164be5d4f5ba525d47674",
-    "k1": "c2f89d61924e47b4b116d4731636f9db",
-    "k2": "4bb22c976ef2c50cdd0a4ca99290be5a"
-  },
-  {
     "title": "Pittsburgh Penguins vs. Detroit Red Wings",
     "league": "National Hockey League",
     "fecha-evento": "2026-01-03T12:00:00-05:00",
@@ -149,8 +136,11 @@
     "img": "019b7af3-db16-72e1-82e8-db6ab4a5ee02",
     "nombre": "disneyead515",
     "status": "14:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/3fb14d48-3c45-46b0-b517-783f90598808",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1767553254~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F03%2F11_Vanderbilt_vs_South_Ca_20260103_1767460654112%2F~psid=51bc8317-eec8-4b05-bb89-c325f4c59739~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=7520192ef6455524cd58d43a6203561ad4bd57218fdc85aa96eb831df9513b9d/clt1/va02/disneyplus/event/2026/01/03/11_Vanderbilt_vs_South_Ca_20260103_1767460654112/ctr-all-hdri-complete.m3u8?v=1&hash=a91d722fb9d179a074b08e1b175cf210fae064bc",
+    "k1": "2b5c6645dcc248eda9b3812f650ccc65",
+    "k2": "a3c945521aa4605df149738884c44a7a"
   },
   {
     "title": "Saint Michael's vs. #11 Clarkson",
@@ -159,8 +149,11 @@
     "img": "019b400b-f7a4-75e5-97ac-08c3f7652f0a",
     "nombre": "disney3b119c",
     "status": "14:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 150,
+    "play_url": "https://www.disneyplus.com/es-es/play/6f8ce0a6-cde8-4e95-9b68-b1b419ea791e",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1767553301~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F03%2FSaint_Michaels_vs_11_Clar_20260103_1767459630040%2F~psid=3c9d8b73-80cf-4e37-92ee-53280efdb8bb~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=dfb572fab7ad7761886d38ec30424df12544a0980f8f419f2edc79912391001f/clt1/va02/disneyplus/event/2026/01/03/Saint_Michaels_vs_11_Clar_20260103_1767459630040/ctr-all-hdri-complete.m3u8?v=1&hash=ca5d8471da2f21cde3ee49cf5db47c8bfc598d7d",
+    "k1": "ee936a542566486b8da967635e10b7ed",
+    "k2": "e32184b4d26fe780d9196757c5372bae"
   },
   {
     "title": "Utah Mammoth vs. New Jersey Devils",
@@ -649,6 +642,16 @@
     "img": "019b47cb-dd2e-7fa9-8628-15674e598654",
     "nombre": "disney627d41",
     "status": "09:55",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Ceuta vs. FC Andorra",
+    "league": "Segunda División de España",
+    "fecha-evento": "2026-01-04T10:10:00-05:00",
+    "img": "019b3267-15b4-7886-866f-d7f2f5177f49",
+    "nombre": "disneya68ef1",
+    "status": "10:10",
     "duration": 135,
     "play_url": ""
   }
