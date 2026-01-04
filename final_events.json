@@ -1,18 +1,5 @@
 [
   {
-    "title": "Sevilla vs. Levante UD",
-    "league": "LALIGA",
-    "fecha-evento": "2026-01-04T07:50:00-05:00",
-    "img": "5f1ad933-47ae-4cac-adb9-084e59679510",
-    "nombre": "disney49bb40",
-    "status": "07:50",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/e5156fdc-46b1-4b54-ae53-3a20c39ab0c0",
-    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1767622920~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Ff25bdf06-81c9-4a7c-b128-3128d610ad17-1762951253360%2F~psid=96df693d-5ad5-4c8d-ac12-25ed902480c6~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=b8b4cf5ff5f702412faf5853c1ff934a2b4d1fbe482ace6e248ee50e69c1e905/clt1/va02/disneyplus/channel/f25bdf06-81c9-4a7c-b128-3128d610ad17-1762951253360/ctr-all-sliding-alt1.m3u8?v=1&hash=57a1e5c4737768952c5164be5d4f5ba525d47674",
-    "k1": "10a4e20ce02f423d97f141f192d94aec",
-    "k2": "2ee647944e02d3bf07ff87a5f583effc"
-  },
-  {
     "title": "Olympique Marseille vs. Nantes",
     "league": "Ligue 1",
     "fecha-evento": "2026-01-04T08:50:00-05:00",
@@ -132,12 +119,15 @@
   {
     "title": "Ceuta vs. FC Andorra",
     "league": "Segunda División de España",
-    "fecha-evento": "2026-01-04T10:10:00-05:00",
+    "fecha-evento": "2026-01-04T10:10:07-05:00",
     "img": "019b3267-15b4-7886-866f-d7f2f5177f49",
-    "nombre": "disneya68ef1",
+    "nombre": "disney8890d9",
     "status": "10:10",
-    "duration": 135,
-    "play_url": ""
+    "duration": 125,
+    "play_url": "https://www.disneyplus.com/es-es/play/99462c0c-ce29-4016-bc0e-7a775bd0603e",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1767626433~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F04%2FCeuta_vs_FC_Andorra_20260104_1767535174434%2F~psid=9ad98c6a-1693-4e75-aa7d-ed1e404bc23d~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=0ed83773e1bc38506c3a69699da3356a2733b11c693d478277e09f8399e4768b/clt1/va02/disneyplus/event/2026/01/04/Ceuta_vs_FC_Andorra_20260104_1767535174434/ctr-all-hdri-complete.m3u8?v=1&hash=2020101977e382bf4c10ad5905a636e44f6e03ff",
+    "k1": "e9a587755f4c4f7e83bef64863360cf8",
+    "k2": "6ec931f9349678c656c0c14d1d71ce92"
   },
   {
     "title": "Lorient vs. Metz",
