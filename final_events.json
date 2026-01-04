@@ -13,19 +13,6 @@
     "k2": "dd2ae9ad8f016af5eb8f2bd6bdc88132"
   },
   {
-    "title": "Stanford vs. #16 North Carolina",
-    "league": "Básquet Femenino NCAA",
-    "fecha-evento": "2026-01-04T13:00:00-05:00",
-    "img": "019b47cd-98b9-7934-8d2a-172bd55b0b0d",
-    "nombre": "disney3b279c",
-    "status": "13:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/8fa5e2fa-c549-4824-a902-2c06c50956cc",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1767636040~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F04%2FStanford_vs_16_North_Caro_20260104_1767543818476%2F~psid=2c485404-4584-45c4-863b-6d4b29b19de6~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=da744a0d394625fc5e532beb3a99b86d6970db8c2f6eafb47fa756f77cdb4882/clt1/va02/disneyplus/event/2026/01/04/Stanford_vs_16_North_Caro_20260104_1767543818476/ctr-all-hdri-complete.m3u8?v=1&hash=4af1acecc2bd829f97109a3e82c56190b19370f3",
-    "k1": "758fa0126a89495784f13d5215f4e655",
-    "k2": "0deb26f4231489c70ee94e71808a0bb8"
-  },
-  {
     "title": "UAB vs. South Florida",
     "league": "Básquetbol Masculino NCAA",
     "fecha-evento": "2026-01-04T13:00:00-05:00",
@@ -568,6 +555,16 @@
     "img": "019b521b-67e0-77a6-a917-0c130ca56d37",
     "nombre": "disney6bb734",
     "status": "14:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Sassuolo vs. Juventus",
+    "league": "Seria A",
+    "fecha-evento": "2026-01-06T14:30:00-05:00",
+    "img": "019b6afb-b23f-79e1-a1ce-c6a5adee3a39",
+    "nombre": "disneya32967",
+    "status": "14:30",
     "duration": 135,
     "play_url": ""
   }
