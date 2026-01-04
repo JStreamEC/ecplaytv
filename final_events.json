@@ -1,18 +1,5 @@
 [
   {
-    "title": "Arizona vs. #21 Texas Tech",
-    "league": "Básquet Femenino NCAA",
-    "fecha-evento": "2026-01-03T19:00:02-05:00",
-    "img": "019b7635-3742-7abf-86d3-46ad5ae2b5b8",
-    "nombre": "disneyad9caa",
-    "status": "19:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/c0cb7419-e6fc-4a06-b78a-fdc2d96b85fc",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1767574003~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F04%2FArizona_vs_21_Texas_Tech_20260104_1767477602048%2F~psid=b0ce0cac-0639-473a-b7a1-5f055568bcb9~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=a971f42a03ae85dbcc373219c553a9dc186e49d8c00234734b7e987fcf4cc7aa/clt1/va02/disneyplus/event/2026/01/04/Arizona_vs_21_Texas_Tech_20260104_1767477602048/ctr-all-hdri-complete.m3u8?v=1&hash=31e3116492f77f51c7e2561ce05060e99430be27",
-    "k1": "926bee51c21d48759cfd72b3ac5085cf",
-    "k2": "ec9a24600fd277db8b08659af92f8f2d"
-  },
-  {
     "title": "Las Vegas Desert Dogs vs. Buffalo Bandits",
     "league": "National Lacrosse League",
     "fecha-evento": "2026-01-03T19:00:03-05:00",
@@ -648,6 +635,16 @@
     "fecha-evento": "2026-01-04T17:00:00-05:00",
     "img": "019b4a63-8238-7df4-b03a-8aa04a1d212c",
     "nombre": "disney9a988c",
+    "status": "17:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Texas Legends vs. Capitanes de Ciudad de México",
+    "league": "NBA G League",
+    "fecha-evento": "2026-01-04T17:00:00-05:00",
+    "img": "019b326d-231f-7ada-b05e-60d8eb575101",
+    "nombre": "disneybfc9b4",
     "status": "17:00",
     "duration": 135,
     "play_url": ""
