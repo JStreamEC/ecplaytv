@@ -1,44 +1,5 @@
 [
   {
-    "title": "Brest vs. Auxerre",
-    "league": "Ligue 1",
-    "fecha-evento": "2026-01-04T11:00:14-05:00",
-    "img": "019b3278-eced-7223-b4b0-15212a623ead",
-    "nombre": "disney972af0",
-    "status": "11:00",
-    "duration": 135,
-    "play_url": "https://www.disneyplus.com/es-es/play/ae332973-0cee-4824-a97a-6da3700e2b67",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1767630034~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F04%2FBrest_vs_Auxerre_20260104_1767535813038%2F~psid=b2c2517c-d25c-470f-8650-3852589ae150~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=7cf80b9b6ab6760b0faa5752919dfb4a8cdbbd0169f81ad6bc66121ef66ed205/clt1/va02/disneyplus/event/2026/01/04/Brest_vs_Auxerre_20260104_1767535813038/ctr-all-hdri-complete.m3u8?v=1&hash=f9323ab583a25bfee76f1ef1ddd77e75c6cd27cf",
-    "k1": "52bdd9e27bc4472596e04ce4e6dcb244",
-    "k2": "9cf98421fdff923073767486b90146cf"
-  },
-  {
-    "title": "Lorient vs. Metz",
-    "league": "Ligue 1",
-    "fecha-evento": "2026-01-04T11:00:15-05:00",
-    "img": "019b327a-3021-7875-b701-7a93a7c5de18",
-    "nombre": "disneyd88d2e",
-    "status": "11:00",
-    "duration": 135,
-    "play_url": "https://www.disneyplus.com/es-es/play/dafc9d04-9346-48ea-adc0-9b34007af1ab",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1767630078~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F04%2FLorient_vs_Metz_20260104_1767535821042%2F~psid=d48d006f-068f-4566-a666-c1cb26f5809a~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=a0073e83e4eda91b58a479349fd87675e2120bbce098d91e4b0e39942b4987f2/clt1/va02/disneyplus/event/2026/01/04/Lorient_vs_Metz_20260104_1767535821042/ctr-all-hdri-complete.m3u8?v=1&hash=a8731641db7b4c3f09b2adaf4d8c84adeeed267f",
-    "k1": "760db27b6aba4e3cbc0150942fbfd950",
-    "k2": "57b1675689f9f849706f4ceb9ec7c8fb"
-  },
-  {
-    "title": "Le Havre AC vs. Angers",
-    "league": "Ligue 1",
-    "fecha-evento": "2026-01-04T11:03:11-05:00",
-    "img": "019b327c-db08-7cb7-9813-572160ad353d",
-    "nombre": "disney4445e3",
-    "status": "11:03",
-    "duration": 132,
-    "play_url": "https://www.disneyplus.com/es-es/play/0534bc08-b054-4c44-aae4-368a18be77ca",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1767630123~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F04%2FLe_Havre_AC_vs_Angers_20260104_1767535840043%2F~psid=749bd85e-1dcf-481c-a84d-909a8487e394~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=daa1874aafe8eedd4db5e473c2d61de3216de5314b71addc65980c4503e8ffce/clt1/va02/disneyplus/event/2026/01/04/Le_Havre_AC_vs_Angers_20260104_1767535840043/ctr-all-hdri-complete.m3u8?v=1&hash=7fb61511a1d289d0f21cf676d89ae75d8f7cf0ec",
-    "k1": "43e8b3ef1a554507939ef35914803782",
-    "k2": "b7c9ee496cef39eb46c678a36b84877e"
-  },
-  {
     "title": "Hellas Verona vs. Torino",
     "league": "Seria A",
     "fecha-evento": "2026-01-04T11:50:01-05:00",
@@ -608,6 +569,16 @@
     "img": "2d2ff7e7-3284-42d4-8540-80cab83208f3",
     "nombre": "disney367682",
     "status": "21:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Minnesota Wild vs. Los Angeles Kings",
+    "league": "National Hockey League",
+    "fecha-evento": "2026-01-05T22:30:00-05:00",
+    "img": "019b5f1c-f4b6-75bf-96ed-50ae0da56d9d",
+    "nombre": "disney46be1b",
+    "status": "22:30",
     "duration": 135,
     "play_url": ""
   }
