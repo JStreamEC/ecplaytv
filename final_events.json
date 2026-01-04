@@ -65,19 +65,6 @@
     "k2": "dd2ae9ad8f016af5eb8f2bd6bdc88132"
   },
   {
-    "title": "India vs. Indonesia",
-    "league": "Kings World Cup Nations",
-    "fecha-evento": "2026-01-04T11:55:00-05:00",
-    "img": "019b47cb-6d78-77bb-b0c0-22278be28cc7",
-    "nombre": "disney0176ac",
-    "status": "11:55",
-    "duration": 65,
-    "play_url": "https://www.disneyplus.com/es-es/play/ebca52b2-afe3-431d-ae14-46278f2d1503",
-    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1767632524~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Fec26a05e-a9cc-4db4-804e-77465738e667-1762950455142%2F~psid=36501168-8980-4905-978d-b3ddf4b373e3~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=f6f0555f6da09b83ece60dc881574aa17db73642b361422e4b94195c457edbe7/clt1/va02/disneyplus/channel/ec26a05e-a9cc-4db4-804e-77465738e667-1762950455142/ctr-all-sliding-alt1.m3u8?v=1&hash=e2faf4444722e1f805096ad7b7489a5d09f9944f",
-    "k1": "2b783b842a7f4cf195594cd6dfbad01a",
-    "k2": "16da640f36ba860c1260282ebe697da5"
-  },
-  {
     "title": "Manchester City vs. Chelsea",
     "league": "Premier League",
     "fecha-evento": "2026-01-04T12:19:00-05:00",
@@ -130,19 +117,6 @@
     "k2": "0deb26f4231489c70ee94e71808a0bb8"
   },
   {
-    "title": "UAB vs. South Florida",
-    "league": "Básquetbol Masculino NCAA",
-    "fecha-evento": "2026-01-04T13:00:00-05:00",
-    "img": "019b7f5f-41f0-77bc-a365-35fee28d7274",
-    "nombre": "disney48b48a",
-    "status": "13:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/e6e0cadc-7c77-4449-af8c-17c31dcba740",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1767636087~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F04%2FUAB_vs_South_Florida_20260104_1767543094440%2F~psid=6b3c4be1-6e2d-46de-8576-aafd6d6d8219~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=b4baa5ea98f293748dce0fc1a4dfd666c2f67f317b8c70b65f9ca96d7f63f8e2/clt1/va02/disneyplus/event/2026/01/04/UAB_vs_South_Florida_20260104_1767543094440/ctr-all-hdri-complete.m3u8?v=1&hash=f1e55c92acb28a2a82497ee4247973ee49bc6fc3",
-    "k1": "4e886031fa83478cac3d7a16d85a785c",
-    "k2": "5d3957c7607bc2722fa17a2da50c3998"
-  },
-  {
     "title": "Florida Atlantic vs. Tulane",
     "league": "Básquetbol Masculino NCAA",
     "fecha-evento": "2026-01-04T13:00:00-05:00",
@@ -154,6 +128,19 @@
     "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1767636132~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F04%2FFlorida_Atlantic_vs_Tulan_20260104_1767544174447%2F~psid=8c245211-5b1a-42b4-83e9-0a0928078293~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=ce3ec524ab75f289630c8f5582981aab58be7d21d8690de521ff720e5b81305a/clt1/va02/disneyplus/event/2026/01/04/Florida_Atlantic_vs_Tulan_20260104_1767544174447/ctr-all-hdri-complete.m3u8?v=1&hash=6d53cbd6bc5a8e5a7fac6ad458f18ee05461c901",
     "k1": "f757789d9a594c01862e026bc4a97366",
     "k2": "1da87c9365c1b808ce30f161b4dd4470"
+  },
+  {
+    "title": "UAB vs. South Florida",
+    "league": "Básquetbol Masculino NCAA",
+    "fecha-evento": "2026-01-04T13:00:00-05:00",
+    "img": "019b7f5f-41f0-77bc-a365-35fee28d7274",
+    "nombre": "disney48b48a",
+    "status": "13:00",
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/e6e0cadc-7c77-4449-af8c-17c31dcba740",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1767636087~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F04%2FUAB_vs_South_Florida_20260104_1767543094440%2F~psid=6b3c4be1-6e2d-46de-8576-aafd6d6d8219~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=b4baa5ea98f293748dce0fc1a4dfd666c2f67f317b8c70b65f9ca96d7f63f8e2/clt1/va02/disneyplus/event/2026/01/04/UAB_vs_South_Florida_20260104_1767543094440/ctr-all-hdri-complete.m3u8?v=1&hash=f1e55c92acb28a2a82497ee4247973ee49bc6fc3",
+    "k1": "4e886031fa83478cac3d7a16d85a785c",
+    "k2": "5d3957c7607bc2722fa17a2da50c3998"
   },
   {
     "title": "Indianapolis Colts vs. Houston Texans",
@@ -184,12 +171,15 @@
   {
     "title": "NFL Redzone",
     "league": "NFL",
-    "fecha-evento": "2026-01-04T13:05:00-05:00",
+    "fecha-evento": "2026-01-04T13:03:44-05:00",
     "img": "46b859dc-33d0-42a8-9651-7c408024d849",
-    "nombre": "disney7c4201",
-    "status": "13:05",
-    "duration": 135,
-    "play_url": ""
+    "nombre": "disneycf8c9f",
+    "status": "13:03",
+    "duration": 386,
+    "play_url": "https://www.disneyplus.com/es-es/play/0aaebd38-f4c0-48dc-8883-c5d6c4a440d2",
+    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1767637236~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Fec26a05e-a9cc-4db4-804e-77465738e667-1762950455142%2F~psid=1e328067-8812-4782-b010-1e3b760f7a7f~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=756fa5a3574986a1ba161378f74d52f22ddaa2d5351bfe16ee8e98a1bd4fb293/clt1/va02/disneyplus/channel/ec26a05e-a9cc-4db4-804e-77465738e667-1762950455142/ctr-all-sliding-alt1.m3u8?v=1&hash=e2faf4444722e1f805096ad7b7489a5d09f9944f",
+    "k1": "2b783b842a7f4cf195594cd6dfbad01a",
+    "k2": "16da640f36ba860c1260282ebe697da5"
   },
   {
     "title": "Montreal Canadiens vs. Dallas Stars",
@@ -608,6 +598,16 @@
     "img": "019b6b4e-4192-7ef0-8827-4d6151d2bf4d",
     "nombre": "disney44d6aa",
     "status": "20:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Seattle Kraken vs. Calgary Flames",
+    "league": "National Hockey League",
+    "fecha-evento": "2026-01-05T21:30:00-05:00",
+    "img": "2d2ff7e7-3284-42d4-8540-80cab83208f3",
+    "nombre": "disney367682",
+    "status": "21:30",
     "duration": 135,
     "play_url": ""
   }
