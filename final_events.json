@@ -123,18 +123,24 @@
     "img": "019b22a9-bf0b-768d-a85c-4a28797dc97e",
     "nombre": "disneye65c36",
     "status": "20:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 420,
+    "play_url": "https://www.disneyplus.com/es-es/play/31f69982-b427-4853-b1d8-c45623e5700e",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1767576035~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F04%2FWTA_Brisbane_Internationa_20260104_1767481251042%2F~psid=e88a5298-027e-4a86-adb7-16c10b39b5f4~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=8c6eb82a24d33c1f3233502ee30e551ca276d8665387299914335b68a3d3dd6d/clt1/va02/disneyplus/event/2026/01/04/WTA_Brisbane_Internationa_20260104_1767481251042/ctr-all-hdri-complete.m3u8?v=1&hash=d7fee40626f49cf942664e75f6fe4497e634213e",
+    "k1": "9617977670e3486093b268b568374c34",
+    "k2": "cb256cccf65eaa8be6d8ff8343512063"
   },
   {
     "title": "WTA Brisbane International presented by ANZ / Show Court 2",
     "league": "WTA",
-    "fecha-evento": "2026-01-03T20:00:00-05:00",
+    "fecha-evento": "2026-01-03T20:01:00-05:00",
     "img": "019b22a7-72e7-70a3-b182-88962353aef0",
-    "nombre": "disney3da9bc",
-    "status": "20:00",
-    "duration": 135,
-    "play_url": ""
+    "nombre": "disney54fcae",
+    "status": "20:01",
+    "duration": 599,
+    "play_url": "https://www.disneyplus.com/es-es/play/e71c5995-de36-4e07-bfda-82314e8f4300",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1767576079~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F04%2FWTA_Brisbane_Internationa_20260104_1767481203037%2F~psid=c0558f6f-f2d1-4c8e-8303-e4f1f19a9f1b~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=03738bf94c53e8b5d619bfd01356a748885101a67a5a9e559a8daf7dcaaaf1d5/clt1/va02/disneyplus/event/2026/01/04/WTA_Brisbane_Internationa_20260104_1767481203037/ctr-all-hdri-complete.m3u8?v=1&hash=69dedbcdace9c986c0f121943cee18bcc3b6c6b1",
+    "k1": "f94287683fc24dc595e59fe8bccc0d19",
+    "k2": "e71e50e5a8cc69b9f43fb738f57f019c"
   },
   {
     "title": "Minnesota Wild vs. Los Angeles Kings",
