@@ -1,15 +1,5 @@
 [
   {
-    "title": "Ceuta vs. FC Andorra",
-    "league": "Segunda División de España",
-    "fecha-evento": "",
-    "img": "019b3267-15b4-7886-866f-d7f2f5177f49",
-    "nombre": "disney1a2cff",
-    "status": "",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Brest vs. Auxerre",
     "league": "Ligue 1",
     "fecha-evento": "2026-01-04T11:00:14-05:00",
@@ -120,8 +110,11 @@
     "img": "019b3268-692e-7f0b-ad15-26db7536477c",
     "nombre": "disneye78247",
     "status": "12:25",
-    "duration": 135,
-    "play_url": ""
+    "duration": 125,
+    "play_url": "https://www.disneyplus.com/es-es/play/b112f4a2-e7c1-4a97-92d7-d86c9d239357",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1767634836~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F04%2FZaragoza_vs_Las_Palmas_20260104_1767540353059%2F~psid=a77227c9-929d-42c7-972f-6a2340cdeb47~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=c8e665ed0c496f7b46343f83d97d786e030b1be20bdc3e7f2b771ae44b2a7d39/clt1/va02/disneyplus/event/2026/01/04/Zaragoza_vs_Las_Palmas_20260104_1767540353059/ctr-all-hdri-complete.m3u8?v=1&hash=4f8ae1ac395780d9fd9741123b997191d96679fc",
+    "k1": "aafe3e0299834838b3bf8db066649900",
+    "k2": "a66a3b6699777718503351d10f5cfec5"
   },
   {
     "title": "Stanford vs. #16 North Carolina",
@@ -169,6 +162,16 @@
     "fecha-evento": "2026-01-04T13:00:00-05:00",
     "img": "312978ea-ac60-4cb7-bf4d-a9667db0daa2",
     "nombre": "disneyb5f4b4",
+    "status": "13:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "NFL Redzone",
+    "league": "NFL",
+    "fecha-evento": "2026-01-04T13:00:00-05:00",
+    "img": "46b859dc-33d0-42a8-9651-7c408024d849",
+    "nombre": "disney4e1188",
     "status": "13:00",
     "duration": 135,
     "play_url": ""
