@@ -1,31 +1,5 @@
 [
   {
-    "title": "Tottenham Hotspur vs. Sunderland",
-    "league": "Premier League",
-    "fecha-evento": "2026-01-04T09:40:03-05:00",
-    "img": "019b2ea1-85dc-7d30-bd01-d284e867353d",
-    "nombre": "disney6cf75f",
-    "status": "09:40",
-    "duration": 135,
-    "play_url": "https://www.disneyplus.com/es-es/play/7bf83a32-c726-458b-bc14-73dbd056cb94",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1767625233~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F04%2FTottenham_Hotspur_vs_Sund_20260104_1767530439033%2F~psid=c8e9f21f-fe19-45d6-a871-1c8bbd646ddd~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=a0991b597da40607752ebc4f5639560c8d4c373a9c13750bfbe1dc08aed751c8/clt1/va02/disneyplus/event/2026/01/04/Tottenham_Hotspur_vs_Sund_20260104_1767530439033/ctr-all-hdri-complete.m3u8?v=1&hash=ff59896b9e233b9e2742b2c2874d9cb6025beea3",
-    "k1": "729af116c491467f976b93aa1c8fadf7",
-    "k2": "5e92c454ff521cfbe0eb3fd4231a5aa1"
-  },
-  {
-    "title": "Newcastle United vs. Crystal Palace",
-    "league": "Premier League",
-    "fecha-evento": "2026-01-04T09:40:04-05:00",
-    "img": "019b31b8-1766-70f9-bbf2-b75e46fca165",
-    "nombre": "disneyf1daca",
-    "status": "09:40",
-    "duration": 135,
-    "play_url": "https://www.disneyplus.com/es-es/play/2b227864-4389-4bfe-aab0-b784d7919620",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1767625277~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F04%2FNewcastle_United_vs_Cryst_20260104_1767530450029%2F~psid=30d36fc9-f615-4050-9f96-55beab16566a~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=f0dc0989c541553990f2682de928b7a6ba8e9572800391df4cbfc65092a018ad/clt1/va02/disneyplus/event/2026/01/04/Newcastle_United_vs_Cryst_20260104_1767530450029/ctr-all-hdri-complete.m3u8?v=1&hash=c7a52b7c513569eb1032a657b6c84e2de4296229",
-    "k1": "6fa0c00760134307ac5338d0afb15472",
-    "k2": "aa17d2861659a8b28f3d17f46956152d"
-  },
-  {
     "title": "Fulham vs. Liverpool",
     "league": "Premier League",
     "fecha-evento": "2026-01-04T09:40:00-05:00",
@@ -54,15 +28,12 @@
   {
     "title": "Norwich City vs. Stoke City",
     "league": "Championship de Inglaterra",
-    "fecha-evento": "2026-01-04T09:50:00-05:00",
+    "fecha-evento": "",
     "img": "019b50c6-bbac-7f38-9caa-724c69f8665f",
-    "nombre": "disney2b607c",
-    "status": "09:50",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/94542934-fc32-4437-96db-95568ff62da0",
-    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1767625345~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F7f9052ce-8143-43a6-9656-a8c00c4a3e56-1762950862652%2F~psid=b2728f2d-d9e2-460d-8e3a-329345ae0661~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=14092e3cec00bf5e6d24d68a45c34c7771064c7f977bd54e8fadbb75b28b9a88/clt1/va02/disneyplus/channel/7f9052ce-8143-43a6-9656-a8c00c4a3e56-1762950862652/ctr-all-sliding-alt1.m3u8?v=1&hash=2daf186937da77473bf07bbbecfc5597024e944f",
-    "k1": "819f324f2ce848f9bd16b31fc36767a3",
-    "k2": "6a5b59480b40d0ee9f57280241b74ae3"
+    "nombre": "disney23a7f3",
+    "status": "",
+    "duration": 135,
+    "play_url": ""
   },
   {
     "title": "Everton vs. Brentford",
@@ -143,24 +114,30 @@
     "k2": "b7c9ee496cef39eb46c678a36b84877e"
   },
   {
-    "title": "Hellas Verona vs. Torino",
-    "league": "Seria A",
-    "fecha-evento": "2026-01-04T11:50:00-05:00",
-    "img": "019b2df4-9a64-721c-8d13-9f55b37034f2",
-    "nombre": "disney0e87df",
-    "status": "11:50",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Kings World Cup Nations | Ronda #1",
     "league": "Kings World Cup Nations",
-    "fecha-evento": "2026-01-04T11:55:00-05:00",
+    "fecha-evento": "2026-01-04T11:22:12-05:00",
     "img": "019b6ba2-fe6f-74bd-a07d-a86f10cbcc03",
-    "nombre": "disney4de4e6",
-    "status": "11:55",
-    "duration": 135,
-    "play_url": ""
+    "nombre": "disneybd8a52",
+    "status": "11:22",
+    "duration": 338,
+    "play_url": "https://www.disneyplus.com/es-es/play/738fcfa5-4865-4c9d-ae3c-2009525de48a",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1767632435~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F04%2FKings_World_Cup_Nations_R_20260104_1767538553041%2F~psid=2f50ae20-1f9b-4f17-9024-c97e1311d73b~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=e11dc418e761abe6991381c306356e0593430dd2444c0823370698d9e43bbf6b/clt1/va02/disneyplus/event/2026/01/04/Kings_World_Cup_Nations_R_20260104_1767538553041/ctr-all-hdri-complete.m3u8?v=1&hash=f7ba9ff78b3c72b6b78bac6bdc6b6a13ae7e3de6",
+    "k1": "2fc8c2b16378400da0fdee63bb940f52",
+    "k2": "dd2ae9ad8f016af5eb8f2bd6bdc88132"
+  },
+  {
+    "title": "Hellas Verona vs. Torino",
+    "league": "Seria A",
+    "fecha-evento": "2026-01-04T11:50:01-05:00",
+    "img": "019b2df4-9a64-721c-8d13-9f55b37034f2",
+    "nombre": "disney689db8",
+    "status": "11:50",
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/2889fed0-9bde-47c3-bd22-194aa32d9e6b",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1767632479~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F04%2FHellas_Verona_vs_Torino_20260104_1767538210042%2F~psid=59f2d9db-6028-40bb-a1ed-9b465e01b4c8~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=6e20a4dc6b36004c47d4a5b88d44db6b5ae0353e28dff39864826af6c81e1b50/clt1/va02/disneyplus/event/2026/01/04/Hellas_Verona_vs_Torino_20260104_1767538210042/ctr-all-hdri-complete.m3u8?v=1&hash=c5e6abd4d365be7104fe265b22a31649e256724d",
+    "k1": "19f8d19c901e4313a778a8cbe56b5622",
+    "k2": "05f1714069f029158d08e25f239b6242"
   },
   {
     "title": "India vs. Indonesia",
@@ -169,8 +146,11 @@
     "img": "019b47cb-6d78-77bb-b0c0-22278be28cc7",
     "nombre": "disney0176ac",
     "status": "11:55",
-    "duration": 135,
-    "play_url": ""
+    "duration": 65,
+    "play_url": "https://www.disneyplus.com/es-es/play/ebca52b2-afe3-431d-ae14-46278f2d1503",
+    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1767632524~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Fec26a05e-a9cc-4db4-804e-77465738e667-1762950455142%2F~psid=36501168-8980-4905-978d-b3ddf4b373e3~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=f6f0555f6da09b83ece60dc881574aa17db73642b361422e4b94195c457edbe7/clt1/va02/disneyplus/channel/ec26a05e-a9cc-4db4-804e-77465738e667-1762950455142/ctr-all-sliding-alt1.m3u8?v=1&hash=e2faf4444722e1f805096ad7b7489a5d09f9944f",
+    "k1": "2b783b842a7f4cf195594cd6dfbad01a",
+    "k2": "16da640f36ba860c1260282ebe697da5"
   },
   {
     "title": "Manchester City vs. Chelsea",
@@ -199,16 +179,6 @@
     "img": "019b3268-692e-7f0b-ad15-26db7536477c",
     "nombre": "disneye78247",
     "status": "12:25",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Stanford vs. #16 North Carolina",
-    "league": "Básquet Femenino NCAA",
-    "fecha-evento": "2026-01-04T13:00:00-05:00",
-    "img": "019b47cd-98b9-7934-8d2a-172bd55b0b0d",
-    "nombre": "disney3b279c",
-    "status": "13:00",
     "duration": 135,
     "play_url": ""
   },
@@ -618,6 +588,36 @@
     "fecha-evento": "2026-01-05T19:00:00-05:00",
     "img": "c5945428-43e7-4ad8-bc97-97180c0e8a73",
     "nombre": "disneyf5e8b6",
+    "status": "19:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Utah Mammoth vs. New York Rangers",
+    "league": "National Hockey League",
+    "fecha-evento": "2026-01-05T19:00:00-05:00",
+    "img": "019b3276-c678-7c23-8909-8c90f80cee04",
+    "nombre": "disneyf30a89",
+    "status": "19:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Detroit Red Wings vs. Ottawa Senators",
+    "league": "National Hockey League",
+    "fecha-evento": "2026-01-05T19:30:00-05:00",
+    "img": "7f10d3c7-fe1f-4f68-8165-6b63f0bc3985",
+    "nombre": "disneya0f90c",
+    "status": "19:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Colorado Avalanche vs. Tampa Bay Lightning",
+    "league": "National Hockey League",
+    "fecha-evento": "2026-01-06T19:00:00-05:00",
+    "img": "019b54c3-d615-7106-99f0-02dd22adf958",
+    "nombre": "disneybd9a21",
     "status": "19:00",
     "duration": 135,
     "play_url": ""
