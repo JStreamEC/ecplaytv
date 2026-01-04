@@ -1,18 +1,5 @@
 [
   {
-    "title": "Leeds United vs. Manchester United",
-    "league": "Premier League",
-    "fecha-evento": "2026-01-04T07:20:00-05:00",
-    "img": "019b2ea1-3373-7cb6-9ac2-c91981bd9c5c",
-    "nombre": "disneyb5c65d",
-    "status": "07:20",
-    "duration": 125,
-    "play_url": "https://www.disneyplus.com/es-es/play/8d58c2dc-ddec-4b40-a1f9-004aa3bc8968",
-    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1767622877~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F921e1311-bb26-43dd-84a6-9e2284959712-1762950465141%2F~psid=130643b1-7191-48bf-9934-921ff46cec6f~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=a8b2e049b0a39216a41c53217e02f33cc56dab0b5e310eea2b85e9233490b093/clt1/va02/disneyplus/channel/921e1311-bb26-43dd-84a6-9e2284959712-1762950465141/ctr-all-sliding-alt1.m3u8?v=1&hash=03915bf69f19826611ecdeecc79455eab40b229c",
-    "k1": "1336714f30104100b17e06d61fdb37c4",
-    "k2": "925bf9095b142e3d42d7ea5a3ba32044"
-  },
-  {
     "title": "Sevilla vs. Levante UD",
     "league": "LALIGA",
     "fecha-evento": "2026-01-04T07:50:00-05:00",
@@ -69,7 +56,10 @@
     "nombre": "disneyc1443c",
     "status": "09:40",
     "duration": 135,
-    "play_url": ""
+    "play_url": "https://www.disneyplus.com/es-es/play/9eaf64f1-bfd0-4dc7-839c-282f61ee22b9",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1767624038~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F04%2FFulham_vs_Liverpool_20260104_1767530428032%2F~psid=8a17ce93-639d-4b54-b48f-394dd4375571~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=c4199353effd14a45f45b0273be07abc72c2e8ea4a8f01d189b6c8998fa7f281/clt1/va02/disneyplus/event/2026/01/04/Fulham_vs_Liverpool_20260104_1767530428032/ctr-all-hdri-complete.m3u8?v=1&hash=5520c553d72cd67f7922e77af1137c9f3239ae40",
+    "k1": "e63ae38ddc6b42398fa4f943173e7934",
+    "k2": "7520925cdd1faa7ffe250bbdc99156c0"
   },
   {
     "title": "Tottenham Hotspur vs. Sunderland",
@@ -617,6 +607,16 @@
     "fecha-evento": "2026-01-05T15:55:00-05:00",
     "img": "019b4f93-0ad5-7d0c-986b-b6fb7001d8a5",
     "nombre": "disney77e03e",
+    "status": "15:55",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Kings World Cup Nations | Ronda #2",
+    "league": "Kings World Cup Nations",
+    "fecha-evento": "2026-01-05T15:55:00-05:00",
+    "img": "019b6a73-4448-7179-8e45-e89c4f87ef34",
+    "nombre": "disneyd16997",
     "status": "15:55",
     "duration": 135,
     "play_url": ""
