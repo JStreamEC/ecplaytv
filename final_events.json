@@ -36,19 +36,6 @@
     "k2": "f86022679e57c2fc28c237898773fc75"
   },
   {
-    "title": "PSV vs. Excelsior",
-    "league": "Eredivisie",
-    "fecha-evento": "2026-01-10T13:50:03-05:00",
-    "img": "019b66da-fb02-7bf6-8a5f-e2e0396a52d6",
-    "nombre": "disney0e67e7",
-    "status": "13:50",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/f9f02090-5092-4328-bf76-7b2a16777af9",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1768158085~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F10%2FPSV_vs_Excelsior_20260110_1768063834017%2F~psid=cac9d32a-e20e-4a5c-9c2e-b4ea46325736~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=a813dba018ed5b05f5320ded17fb664246c125e2146d2c4aa8957a2a6ceecf16/clt1/va02/disneyplus/event/2026/01/10/PSV_vs_Excelsior_20260110_1768063834017/ctr-all-hdri-complete.m3u8?v=1&hash=4f57a97c5f6a6ba5f9fac78a2cf17a8180d36977",
-    "k1": "984549b55f374835970f908354567176",
-    "k2": "9e4b3880c7ce7b9163e0ec0303122733"
-  },
-  {
     "title": "Mount St. Mary's vs. Saint Peter's",
     "league": "Básquet Femenino NCAA",
     "fecha-evento": "2026-01-10T14:00:00-05:00",
@@ -163,6 +150,16 @@
     "play_url": ""
   },
   {
+    "title": "Dallas Stars vs. San Jose Sharks",
+    "league": "National Hockey League",
+    "fecha-evento": "2026-01-10T16:00:00-05:00",
+    "img": "019b28dd-8815-797e-8dc6-5b09d1bc50e3",
+    "nombre": "disney36186e",
+    "status": "16:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
     "title": "Calgary Flames vs. Pittsburgh Penguins",
     "league": "National Hockey League",
     "fecha-evento": "2026-01-10T15:30:56-05:00",
@@ -174,16 +171,6 @@
     "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1768164078~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F10%2FCalgary_Flames_vs_Pittsbu_20260110_1768069846452%2F~psid=a3233246-f515-4ec3-8b58-ea550e589485~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=9f5cd908ffabc85524c0e91cc2b6bed863359b31288d4693fb8dd526ca51c304/clt1/va02/disneyplus/event/2026/01/10/Calgary_Flames_vs_Pittsbu_20260110_1768069846452/ctr-all-hdri-complete.m3u8?v=1&hash=0462509ad4ab0330f86c65ba9c766cb935ed6786",
     "k1": "da79b8d13de74d468f88f4a8b77837c2",
     "k2": "99b0ccc2cd9ea09e914a2d16e84bcb66"
-  },
-  {
-    "title": "Dallas Stars vs. San Jose Sharks",
-    "league": "National Hockey League",
-    "fecha-evento": "2026-01-10T16:00:00-05:00",
-    "img": "019b28dd-8815-797e-8dc6-5b09d1bc50e3",
-    "nombre": "disney36186e",
-    "status": "16:00",
-    "duration": 135,
-    "play_url": ""
   },
   {
     "title": "Oklahoma State vs. #3 Iowa State",
@@ -661,6 +648,16 @@
     "fecha-evento": "2026-01-11T06:55:00-05:00",
     "img": "019b6c0d-1840-7090-9e81-00520cc00714",
     "nombre": "disneybeb22d",
+    "status": "06:55",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Derby County vs. Leeds United (Round 3)",
+    "league": "FA Cup",
+    "fecha-evento": "2026-01-11T06:55:00-05:00",
+    "img": "019b6c0c-6811-7289-abe3-341245ba0f81",
+    "nombre": "disneydb1bbd",
     "status": "06:55",
     "duration": 135,
     "play_url": ""
