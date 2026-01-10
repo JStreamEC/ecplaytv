@@ -1,25 +1,5 @@
 [
   {
-    "title": "Como vs. Bologna",
-    "league": "Seria A",
-    "fecha-evento": "2026-01-10T08:50:00-05:00",
-    "img": "019b93eb-1b29-7171-909d-550fd54ba805",
-    "nombre": "disney5f70d2",
-    "status": "08:50",
-    "duration": 125,
-    "play_url": "https://www.disneyplus.com/es-es/play/1414933e-d93c-43b4-8bc2-233908dfaaba"
-  },
-  {
-    "title": "Udinese vs. Pisa",
-    "league": "Seria A",
-    "fecha-evento": "2026-01-10T08:54:33-05:00",
-    "img": "019b93ef-423b-7740-9b0b-54f8c7fe6d1e",
-    "nombre": "disney71bee6",
-    "status": "08:54",
-    "duration": 125,
-    "play_url": "https://www.disneyplus.com/es-es/play/99b0be57-5ed8-4513-b37c-39ef00f58ac9"
-  },
-  {
     "title": "Manchester City vs. Exeter City",
     "league": "FA Cup",
     "fecha-evento": "2026-01-10T09:40:02-05:00",
@@ -629,6 +609,26 @@
     "img": "019b6973-27b2-7c96-8421-d17dee91ce17",
     "nombre": "disneya8e0fc",
     "status": "19:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Independiente vs. Alianza Lima",
+    "league": "Serie Río de la Plata",
+    "fecha-evento": "2026-01-10T18:30:00-05:00",
+    "img": "019b8f2f-cc15-7d85-8563-e8b660b27b3b",
+    "nombre": "disneyc6e5bc",
+    "status": "18:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Deportivo Cali (COL) vs. Once Caldas (COL)",
+    "league": "Serie Colombia",
+    "fecha-evento": "2026-01-10T18:45:00-05:00",
+    "img": "019b8f16-0e44-7854-be5b-e0c1c052bf0f",
+    "nombre": "disney811cd5",
+    "status": "18:45",
     "duration": 135,
     "play_url": ""
   }
