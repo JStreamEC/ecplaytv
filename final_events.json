@@ -13,19 +13,6 @@
     "k2": "9337b2fc9df0b5dc38ffab2782a282ac"
   },
   {
-    "title": "Audi FIS Ski World Cup - Adelboden, SUI (Giant Slalom)",
-    "league": "ESPN",
-    "fecha-evento": "2026-01-10T04:20:10-05:00",
-    "img": "2ba9f40e-b243-4737-9cff-a1f9774ac58d",
-    "nombre": "disneyb4bb73",
-    "status": "04:20",
-    "duration": 100,
-    "play_url": "https://www.disneyplus.com/es-es/play/a639a4fc-6db7-448c-8ffa-67a47fa11cf1",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1768124442~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F10%2FAudi_FIS_Ski_World_Cup_Ad_20260110_1768030221017%2F~psid=d8e3b3bf-dcad-418f-a31e-67995d4fe5fe~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=b620427b5cbccad40eff53650781272130daa0d51604e5481b9228040bd09619/clt1/va02/disneyplus/event/2026/01/10/Audi_FIS_Ski_World_Cup_Ad_20260110_1768030221017/ctr-all-hdri-complete.m3u8?v=1&hash=56364a6df42fbc7d6a934e06c95a17c3fab30ed3",
-    "k1": "21479d01b21c4b36923c3a171970faa8",
-    "k2": "752180206e47f78f6418dbffd6fe423d"
-  },
-  {
     "title": "WTA Brisbane International presented by ANZ / Pat Rafter Arena (Doubles Final)",
     "league": "WTA",
     "fecha-evento": "2026-01-10T05:00:00-05:00",
@@ -45,8 +32,11 @@
     "img": "2ba9f40e-b243-4737-9cff-a1f9774ac58d",
     "nombre": "disney11403e",
     "status": "06:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 90,
+    "play_url": "https://www.disneyplus.com/es-es/play/a9ecfc24-ac59-4a3d-9dc3-01e627e94488",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1768130451~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F10%2FFIS_Snowboard_World_Cup_A_20260110_1768035636018%2F~psid=29c27d26-42b3-4616-add5-242c683659bd~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=62e6e0c2677478085059afde44f5b38ad6d7a492001c9428e64eb42d57ca86fc/clt1/va02/disneyplus/event/2026/01/10/FIS_Snowboard_World_Cup_A_20260110_1768035636018/ctr-all-hdri-complete.m3u8?v=1&hash=1287ebf45bc690de90a4efe22c571998e158c182",
+    "k1": "eddc490e41974efabc2af12acb3fc45f",
+    "k2": "29e97b4c2969c7436da871eb47cc02c6"
   },
   {
     "title": "FIS Snowboard World Cup - Scuol, SUI (Parallel Giant Slalom)",
@@ -55,8 +45,11 @@
     "img": "2ba9f40e-b243-4737-9cff-a1f9774ac58d",
     "nombre": "disney332a8b",
     "status": "06:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 90,
+    "play_url": "https://www.disneyplus.com/es-es/play/fce6dd72-028b-4432-a5f9-4ef879925aa4",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1768130496~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F10%2FFIS_Snowboard_World_Cup_S_20260110_1768035618040%2F~psid=a0c6fe40-f4bd-4405-a606-a963e5e14f62~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=25f1bd48557afd35331bcee7cb559940c305dc6ca07d5b3f207ad9d519a9f8ac/clt1/va02/disneyplus/event/2026/01/10/FIS_Snowboard_World_Cup_S_20260110_1768035618040/ctr-all-hdri-complete.m3u8?v=1&hash=b9af63ce8d98502f121ec5f19615614313ec324e",
+    "k1": "08bf0a61528e481292604dfd98788cac",
+    "k2": "a1cea6e4c0af0cba5a2f51d5fa318c07"
   },
   {
     "title": "Everton vs. Sunderland (Round 3)",
@@ -105,6 +98,16 @@
     "img": "019b7103-148b-768f-ba8a-8330c7409f3f",
     "nombre": "disney98c54f",
     "status": "07:20",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Audi FIS Ski World Cup - Adelboden, SUI (Giant Slalom)",
+    "league": "ESPN",
+    "fecha-evento": "2026-01-10T07:30:00-05:00",
+    "img": "2ba9f40e-b243-4737-9cff-a1f9774ac58d",
+    "nombre": "disney9271e3",
+    "status": "07:30",
     "duration": 135,
     "play_url": ""
   },
@@ -625,6 +628,16 @@
     "img": "019b2e6f-aa43-78bc-a131-77072d97a381",
     "nombre": "disney09b9a2",
     "status": "16:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Los Angeles Rams vs. Carolina Panthers",
+    "league": "NFL",
+    "fecha-evento": "2026-01-10T16:30:00-05:00",
+    "img": "019a9877-030b-7c92-bad4-328b8c674813",
+    "nombre": "disney3a58a0",
+    "status": "16:30",
     "duration": 135,
     "play_url": ""
   }
