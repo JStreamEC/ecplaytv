@@ -1,15 +1,5 @@
 [
   {
-    "title": "Manchester City vs. Exeter City",
-    "league": "FA Cup",
-    "fecha-evento": "2026-01-10T09:40:02-05:00",
-    "img": "019b9380-c851-72b8-98bb-b4c822c99c0f",
-    "nombre": "disney75cc0f",
-    "status": "09:40",
-    "duration": 135,
-    "play_url": "https://www.disneyplus.com/es-es/play/e0f89982-ddeb-4d2c-bc42-a6b575f76944"
-  },
-  {
     "title": "Freiburg vs. Hamburger SV",
     "league": "Bundesliga",
     "fecha-evento": "2026-01-10T09:32:00-05:00",
@@ -18,16 +8,6 @@
     "status": "09:32",
     "duration": 118,
     "play_url": "https://www.disneyplus.com/es-es/play/68e80a2b-da00-4298-aa2a-62ef10cf24f7"
-  },
-  {
-    "title": "Goal Arena - The Bundesliga Konferenz",
-    "league": "Bundesliga",
-    "fecha-evento": "2026-01-10T09:20:11-05:00",
-    "img": "d5a99124-2265-415c-91e1-d37d3e5dd576",
-    "nombre": "disneya1c016",
-    "status": "09:20",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/bb3b9cea-2f8f-4382-8cbd-8150c9668cfe"
   },
   {
     "title": "FA Cup Round 3 Goals Show (Round 3)",
@@ -159,8 +139,11 @@
     "img": "59035c7e-922f-4c27-aa98-9174c979520a",
     "nombre": "disney10b015",
     "status": "11:45",
-    "duration": 135,
-    "play_url": ""
+    "duration": 345,
+    "play_url": "https://www.disneyplus.com/es-es/play/57c09974-5ca1-4455-8947-2f6024b8851e",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1768151224~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F10%2FClemson_20260110_1768056302018%2F~psid=d1fd0b72-0788-4bd0-9c04-b9f1a49614f8~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=19f3bb6b3be5daec3c76b7d557127746e130da3e677f64149036548b21abffe2/clt1/va02/disneyplus/event/2026/01/10/Clemson_20260110_1768056302018/ctr-all-hdri-complete.m3u8?v=1&hash=697b699563cb080f1385d043e678b6844e0202e8",
+    "k1": "410826cc67564238a7143ba6d17e9219",
+    "k2": "09b44166643cdde13d6f1fa0c23a9bc4"
   },
   {
     "title": "Roma vs. Sassuolo",
@@ -169,8 +152,11 @@
     "img": "019b93ef-5574-70db-b0cd-c71853e5221d",
     "nombre": "disneyd51a96",
     "status": "11:50",
-    "duration": 135,
-    "play_url": ""
+    "duration": 125,
+    "play_url": "https://www.disneyplus.com/es-es/play/63b7eeb8-3735-4d39-933a-1f6a35bfcc13",
+    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1768151248~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Ff25bdf06-81c9-4a7c-b128-3128d610ad17-1762951253360%2F~psid=dd7e00e6-d491-43e7-b0f0-0523a953cbe6~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=d858ce21973db07adbb6cf1314ae23600e203680d49ab9f79393cdef12341033/clt1/va02/disneyplus/channel/f25bdf06-81c9-4a7c-b128-3128d610ad17-1762951253360/ctr-all-sliding-alt1.m3u8?v=1&hash=57a1e5c4737768952c5164be5d4f5ba525d47674",
+    "k1": "04aae61460184e1bae204d80331f6d94",
+    "k2": "fe44760d2a48964390d53f3e978a045a"
   },
   {
     "title": "Germany vs. Japan",
@@ -179,8 +165,11 @@
     "img": "019ba2de-75f7-7535-95b3-8375926cfe70",
     "nombre": "disney3b0dda",
     "status": "11:55",
-    "duration": 135,
-    "play_url": ""
+    "duration": 65,
+    "play_url": "https://www.disneyplus.com/es-es/play/58f3a439-cfcf-4fc2-9491-a5b2610eae82",
+    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1768151273~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Fec26a05e-a9cc-4db4-804e-77465738e667-1762950455142%2F~psid=72db6d2c-1bb4-476d-8da2-e22909ac77b9~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=9d902055c660af68e98b11dd5792e1d14d392a146ea3aa51c6f4d341e2793560/clt1/va02/disneyplus/channel/ec26a05e-a9cc-4db4-804e-77465738e667-1762950455142/ctr-all-sliding-alt1.m3u8?v=1&hash=e2faf4444722e1f805096ad7b7489a5d09f9944f",
+    "k1": "b00aa7c5f8ef4c3badf883eda1df8b7a",
+    "k2": "01cc9dfd8cbd8b7a33ec98f0c0bc026d"
   },
   {
     "title": "Kings World Cup Nations | Matchday #3",
@@ -189,8 +178,8 @@
     "img": "019b6a75-bcea-73bf-b51d-7e9dfc2c525d",
     "nombre": "disneyf852c8",
     "status": "11:55",
-    "duration": 135,
-    "play_url": ""
+    "duration": 365,
+    "play_url": "https://www.disneyplus.com/es-es/play/e3f6015a-5796-4584-bf94-1bde2a61de3b"
   },
   {
     "title": "VCU vs. George Mason",
@@ -628,6 +617,26 @@
     "fecha-evento": "2026-01-10T19:00:00-05:00",
     "img": "12a8ff81-790a-47e1-ab98-16472467d9b5",
     "nombre": "disneyf7a545",
+    "status": "19:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Anaheim Ducks vs. Buffalo Sabres",
+    "league": "National Hockey League",
+    "fecha-evento": "2026-01-10T19:00:00-05:00",
+    "img": "843ac517-85e9-41ad-808d-c13a8ffb9531",
+    "nombre": "disneycfba47",
+    "status": "19:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Florida Panthers vs. Ottawa Senators",
+    "league": "National Hockey League",
+    "fecha-evento": "2026-01-10T19:00:00-05:00",
+    "img": "019b6973-5d66-7d42-ad12-e37199ec753e",
+    "nombre": "disney79f341",
     "status": "19:00",
     "duration": 135,
     "play_url": ""
