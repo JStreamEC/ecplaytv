@@ -127,19 +127,6 @@
     "k2": "d54dc96f880dfd3e34fea00cb92c8885"
   },
   {
-    "title": "Santa Clara vs. Washington State",
-    "league": "Básquet Femenino NCAA",
-    "fecha-evento": "2026-01-10T15:00:00-05:00",
-    "img": "019ba506-dcec-7eda-a598-b31afc438ab7",
-    "nombre": "disney51a13a",
-    "status": "15:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/df304c09-a344-4704-9f3b-6f54b0986b01",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1768161722~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F10%2FSanta_Clara_vs_Washington_20260110_1768070702575%2F~psid=e0a99f64-5be1-4fc8-9941-a17938f87421~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=88ec945c7ae30c907fa65ccecba37bd1570155eb5405e816a192295a93226158/clt1/va02/disneyplus/event/2026/01/10/Santa_Clara_vs_Washington_20260110_1768070702575/ctr-all-hdri-complete.m3u8?v=1&hash=8d247ec44e5618162a5ad88d5317a260847e5700",
-    "k1": "fbfc266bf0fd4bf298401626794f844d",
-    "k2": "2f171481f99a7655c2b4dcac19365d2b"
-  },
-  {
     "title": "Seven de Mar del Plata 2026 | Playoffs",
     "league": "Rugby Sevens",
     "fecha-evento": "2026-01-10T15:00:00-05:00",
@@ -153,14 +140,17 @@
     "k2": "866530a8fe1abba8186b4273964cbcc1"
   },
   {
-    "title": "Calgary Flames vs. Pittsburgh Penguins",
-    "league": "National Hockey League",
-    "fecha-evento": "2026-01-10T15:30:00-05:00",
-    "img": "019b66db-59b9-799e-97c3-f0320fb34b10",
-    "nombre": "disneybcde81",
-    "status": "15:30",
-    "duration": 135,
-    "play_url": ""
+    "title": "Santa Clara vs. Washington State",
+    "league": "Básquet Femenino NCAA",
+    "fecha-evento": "2026-01-10T15:00:00-05:00",
+    "img": "019ba506-dcec-7eda-a598-b31afc438ab7",
+    "nombre": "disney51a13a",
+    "status": "15:00",
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/df304c09-a344-4704-9f3b-6f54b0986b01",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1768161722~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F10%2FSanta_Clara_vs_Washington_20260110_1768070702575%2F~psid=e0a99f64-5be1-4fc8-9941-a17938f87421~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=88ec945c7ae30c907fa65ccecba37bd1570155eb5405e816a192295a93226158/clt1/va02/disneyplus/event/2026/01/10/Santa_Clara_vs_Washington_20260110_1768070702575/ctr-all-hdri-complete.m3u8?v=1&hash=8d247ec44e5618162a5ad88d5317a260847e5700",
+    "k1": "fbfc266bf0fd4bf298401626794f844d",
+    "k2": "2f171481f99a7655c2b4dcac19365d2b"
   },
   {
     "title": "Columbus Blue Jackets vs. Colorado Avalanche",
@@ -169,6 +159,16 @@
     "img": "019b66db-8108-7655-8504-c65fb74da13e",
     "nombre": "disneyccf1d4",
     "status": "16:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Calgary Flames vs. Pittsburgh Penguins",
+    "league": "National Hockey League",
+    "fecha-evento": "2026-01-10T15:30:00-05:00",
+    "img": "019b66db-59b9-799e-97c3-f0320fb34b10",
+    "nombre": "disneybcde81",
+    "status": "15:30",
     "duration": 135,
     "play_url": ""
   },
