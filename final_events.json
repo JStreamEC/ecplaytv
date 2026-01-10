@@ -39,45 +39,6 @@
     "k2": "f28072671492e938a708db29f42e0141"
   },
   {
-    "title": "Jackson State vs. Alabama State",
-    "league": "Básquetbol Masculino NCAA",
-    "fecha-evento": "2026-01-10T16:04:06-05:00",
-    "img": "019b2e6f-aa43-78bc-a131-77072d97a381",
-    "nombre": "disney97549e",
-    "status": "16:04",
-    "duration": 116,
-    "play_url": "https://www.disneyplus.com/es-es/play/a5a497f2-078a-4448-8099-e40daa05171a",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1768166619~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F10%2FJackson_State_vs_Alabama__20260110_1768071651034%2F~psid=00128673-6c07-4e2a-84cd-60a69aa4c6fa~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=fb0f1a8ceaf219d6ac77eab891e66c9a079ad5764c6c1e71eb3e3dc1e1568d8d/clt1/va02/disneyplus/event/2026/01/10/Jackson_State_vs_Alabama__20260110_1768071651034/ctr-all-hdri-complete.m3u8?v=1&hash=d4876c600ce6f415450d118e68482228434c5ca8",
-    "k1": "2d63e5f9c9ab4f2caa98c16e607a3e69",
-    "k2": "f6f5f80062ea590253915c18bb0d76dc"
-  },
-  {
-    "title": "Oklahoma State vs. #3 Iowa State",
-    "league": "Básquetbol Masculino NCAA",
-    "fecha-evento": "2026-01-10T16:10:48-05:00",
-    "img": "019b8f00-831e-7db3-b3e3-0449bcc6fe01",
-    "nombre": "disney6d75bc",
-    "status": "16:10",
-    "duration": 109,
-    "play_url": "https://www.disneyplus.com/es-es/play/b01f3a8b-464c-4219-a743-05441a72582b",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1768166477~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F10%2FOklahoma_State_vs_3_Iowa__20260110_1768071636017%2F~psid=1fb0d195-12eb-4e67-9b5b-fbf96b9d59fa~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=21afb7faf1c36f33a5fe9afa89047a71737a66aba87ac8180e1a115fb657b1a7/clt1/va02/disneyplus/event/2026/01/10/Oklahoma_State_vs_3_Iowa__20260110_1768071636017/ctr-all-hdri-complete.m3u8?v=1&hash=276bd8cc8f297cd341be169d695c7fe8d18b4181",
-    "k1": "6f71b4d7f6e547c7818e95e26eafc8b1",
-    "k2": "58205eff913bd6eea8debf00fdf1c2bd"
-  },
-  {
-    "title": "#1 Arizona vs. TCU",
-    "league": "Básquetbol Masculino NCAA",
-    "fecha-evento": "2026-01-10T16:09:03-05:00",
-    "img": "019b8b17-de20-7cd7-8bc6-0bfe969b9d58",
-    "nombre": "disney8fdc90",
-    "status": "16:09",
-    "duration": 111,
-    "play_url": "https://www.disneyplus.com/es-es/play/052c922c-3131-4c03-941e-4e14a9aed4d4",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1768166643~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F10%2F1_Arizona_vs_TCU_20260110_1768071609027%2F~psid=ea311392-572d-40c4-945a-cdaa67d57a9a~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=b7cc984473ade976c5098e2045334ce96b7dd94b673a058ae70e449b2cb6e447/clt1/va02/disneyplus/event/2026/01/10/1_Arizona_vs_TCU_20260110_1768071609027/ctr-all-hdri-complete.m3u8?v=1&hash=434973d3741b90a933308b39abaab3a41869ceb4",
-    "k1": "6f46ae538d1f4a4b8e69722d0f27a5ce",
-    "k2": "3a935138e036d3420f00f1555de64bdf"
-  },
-  {
     "title": "Los Angeles Rams vs. Carolina Panthers",
     "league": "NFL",
     "fecha-evento": "2026-01-10T16:30:00-05:00",
@@ -182,14 +143,17 @@
     "k2": "bf6930c7cf420a4099b3f6168eb96fab"
   },
   {
-    "title": "Vancouver Canucks vs. Toronto Maple Leafs",
-    "league": "National Hockey League",
-    "fecha-evento": "2026-01-10T19:00:00-05:00",
-    "img": "121daa36-0ebe-4e41-8912-522fc0c073d4",
-    "nombre": "disney628f89",
-    "status": "19:00",
-    "duration": 135,
-    "play_url": ""
+    "title": "Independiente vs. Alianza Lima",
+    "league": "Serie Río de la Plata",
+    "fecha-evento": "2026-01-10T18:30:01-05:00",
+    "img": "019b8f2f-cc15-7d85-8563-e8b660b27b3b",
+    "nombre": "disneyb13e27",
+    "status": "18:30",
+    "duration": 150,
+    "play_url": "https://www.disneyplus.com/es-es/play/1b85916b-89da-48cf-9e3f-e1603a00bf7c",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1768174834~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F10%2FIndependiente_vs_Alianza__20260110_1768080652031%2F~psid=f82e98a6-2c72-4639-88c7-011636cccf79~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=9277cea16caef09f0b5c64edd9519bfc845f060448e3ac1a20ba503fc78daec0/clt1/va02/disneyplus/event/2026/01/10/Independiente_vs_Alianza__20260110_1768080652031/ctr-all-hdri-complete.m3u8?v=1&hash=f1b342b80e86b051116cd8147690713322665202",
+    "k1": "4058b54a15b3460580934db778acabde",
+    "k2": "b0100e3530855dfe7a5d909e78174579"
   },
   {
     "title": "Seattle Kraken vs. Carolina Hurricanes",
@@ -222,12 +186,12 @@
     "play_url": ""
   },
   {
-    "title": "Independiente vs. Alianza Lima",
-    "league": "Serie Río de la Plata",
-    "fecha-evento": "2026-01-10T18:30:00-05:00",
-    "img": "019b8f2f-cc15-7d85-8563-e8b660b27b3b",
-    "nombre": "disneyc6e5bc",
-    "status": "18:30",
+    "title": "Vancouver Canucks vs. Toronto Maple Leafs",
+    "league": "National Hockey League",
+    "fecha-evento": "2026-01-10T19:00:00-05:00",
+    "img": "121daa36-0ebe-4e41-8912-522fc0c073d4",
+    "nombre": "disney628f89",
+    "status": "19:00",
     "duration": 135,
     "play_url": ""
   },
@@ -658,6 +622,36 @@
     "img": "019b6c0d-020f-757d-b1c5-aad4ebac5461",
     "nombre": "disney3dbc10",
     "status": "09:25",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "FA Cup Round 3 Goals Show (Round 3)",
+    "league": "FA Cup",
+    "fecha-evento": "2026-01-11T09:45:00-05:00",
+    "img": "7bf6272f-9986-47ab-85d6-2692b39ff063",
+    "nombre": "disneyea9ea1",
+    "status": "09:45",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Granada vs. Castellón",
+    "league": "Segunda División de España",
+    "fecha-evento": "2026-01-11T10:10:00-05:00",
+    "img": "019b6c0a-b4a8-7bc3-afbd-a64e522c014c",
+    "nombre": "disney067fa2",
+    "status": "10:10",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Bayern Munich vs. Wolfsburg",
+    "league": "Bundesliga",
+    "fecha-evento": "2026-01-11T11:10:00-05:00",
+    "img": "019b6f89-38ff-7cf7-8437-4c445bda8a40",
+    "nombre": "disney7c87bc",
+    "status": "11:10",
     "duration": 135,
     "play_url": ""
   }
