@@ -1,18 +1,5 @@
 [
   {
-    "title": "WTA ASB Classic (Semifinals)",
-    "league": "WTA",
-    "fecha-evento": "2026-01-09T23:31:26-05:00",
-    "img": "019b8e03-5973-736f-9c84-37fe7ea24632",
-    "nombre": "disney3445b4",
-    "status": "23:31",
-    "duration": 239,
-    "play_url": "https://www.disneyplus.com/es-es/play/7b293f71-6a53-433e-8efa-98b83fe37109",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1768111282~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F10%2FWTA_ASB_Classic_Semifinal_20260110_1768012256043%2F~psid=c7a658fe-33a9-4f95-af1c-3f4f5428db04~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=fb4f730d7f3954aada367525402435bbad499bd36e40c0fa52e5bd0d978a65bb/clt1/va02/disneyplus/event/2026/01/10/WTA_ASB_Classic_Semifinal_20260110_1768012256043/ctr-all-hdri-complete.m3u8?v=1&hash=c60772d34add02974b90044b067836cd4339caea",
-    "k1": "277bc53267f94e15b61ee5c96751cad5",
-    "k2": "8cf03323571bad011bbf02d1e6413225"
-  },
-  {
     "title": "Bank of China Hong Kong Tennis Open (Semifinals)",
     "league": "ATP",
     "fecha-evento": "2026-01-10T02:30:05-05:00",
@@ -41,12 +28,15 @@
   {
     "title": "Audi FIS Ski World Cup - Adelboden, SUI (Giant Slalom)",
     "league": "ESPN",
-    "fecha-evento": "2026-01-10T04:30:00-05:00",
+    "fecha-evento": "2026-01-10T04:20:10-05:00",
     "img": "2ba9f40e-b243-4737-9cff-a1f9774ac58d",
-    "nombre": "disneyb1f554",
-    "status": "04:30",
-    "duration": 135,
-    "play_url": ""
+    "nombre": "disneyb4bb73",
+    "status": "04:20",
+    "duration": 100,
+    "play_url": "https://www.disneyplus.com/es-es/play/a639a4fc-6db7-448c-8ffa-67a47fa11cf1",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1768124442~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F10%2FAudi_FIS_Ski_World_Cup_Ad_20260110_1768030221017%2F~psid=d8e3b3bf-dcad-418f-a31e-67995d4fe5fe~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=b620427b5cbccad40eff53650781272130daa0d51604e5481b9228040bd09619/clt1/va02/disneyplus/event/2026/01/10/Audi_FIS_Ski_World_Cup_Ad_20260110_1768030221017/ctr-all-hdri-complete.m3u8?v=1&hash=56364a6df42fbc7d6a934e06c95a17c3fab30ed3",
+    "k1": "21479d01b21c4b36923c3a171970faa8",
+    "k2": "752180206e47f78f6418dbffd6fe423d"
   },
   {
     "title": "WTA Brisbane International presented by ANZ / Pat Rafter Arena (Doubles Final)",
@@ -624,6 +614,16 @@
     "fecha-evento": "2026-01-10T16:00:00-05:00",
     "img": "019ba506-1cd4-7aae-84c4-5c68512aeac2",
     "nombre": "disneycacc67",
+    "status": "16:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "#1 Arizona vs. TCU",
+    "league": "Básquetbol Masculino NCAA",
+    "fecha-evento": "2026-01-10T16:00:00-05:00",
+    "img": "019b8b17-de20-7cd7-8bc6-0bfe969b9d58",
+    "nombre": "disney831a07",
     "status": "16:00",
     "duration": 135,
     "play_url": ""
