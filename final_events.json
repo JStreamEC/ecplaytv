@@ -1,18 +1,5 @@
 [
   {
-    "title": "Notre Dame (CA) vs. Sierra Canyon (CA)",
-    "league": "Baloncesto Colegial",
-    "fecha-evento": "2026-01-09T23:30:08-05:00",
-    "img": "865c6339-922c-4a84-8d41-ff5728a43eba",
-    "nombre": "disney912f51",
-    "status": "23:30",
-    "duration": 95,
-    "play_url": "https://www.disneyplus.com/es-es/play/132c5ce1-640a-49de-b8dd-235e4f62e166",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1768111239~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F10%2FNotre_Dame_CA_vs_Sierra_C_20260110_1768015202383%2F~psid=9f7b4954-aab3-470e-be28-7e97e18ca461~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=90f5bba6f7040f88c20cc71d90e5b669c90b9f45c39ae39d980e7c6631ee3ee2/clt1/va02/disneyplus/event/2026/01/10/Notre_Dame_CA_vs_Sierra_C_20260110_1768015202383/ctr-all-hdri-complete.m3u8?v=1&hash=30dffc0d4ba4b5560758a27a85a629aa05f0b6e3",
-    "k1": "6c8945ed4fc94d749db12ba3d516d28f",
-    "k2": "8e7f543d640dd913cbf3ce187eaebeed"
-  },
-  {
     "title": "WTA ASB Classic (Semifinals)",
     "league": "WTA",
     "fecha-evento": "2026-01-09T23:31:26-05:00",
@@ -624,6 +611,16 @@
     "fecha-evento": "2026-01-10T16:00:00-05:00",
     "img": "019b8f00-831e-7db3-b3e3-0449bcc6fe01",
     "nombre": "disney43efd2",
+    "status": "16:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "#5 UConn vs. Maine",
+    "league": "NCAA Women's Hockey",
+    "fecha-evento": "2026-01-10T16:00:00-05:00",
+    "img": "019b6447-77bc-745c-b626-622d29f3480f",
+    "nombre": "disneyc7f721",
     "status": "16:00",
     "duration": 135,
     "play_url": ""
