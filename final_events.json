@@ -20,29 +20,6 @@
     "play_url": "https://www.disneyplus.com/es-es/play/0011b274-66cf-4fd6-afa5-53e973d2e354"
   },
   {
-    "title": "Villarreal CF vs. Alavés",
-    "league": "LALIGA",
-    "fecha-evento": "2026-01-10T10:00:00-05:00",
-    "img": "5f1ad933-47ae-4cac-adb9-084e59679510",
-    "nombre": "disneyb6f64a",
-    "status": "10:00",
-    "duration": 140,
-    "play_url": "https://www.disneyplus.com/es-es/play/dbc8b5fa-48c5-477c-8164-743406af0f29"
-  },
-  {
-    "title": "AZ vs. FC Volendam",
-    "league": "Eredivisie",
-    "fecha-evento": "2026-01-10T10:19:59-05:00",
-    "img": "019b6b08-4933-75f3-a57b-d384e269bd4a",
-    "nombre": "disney95548a",
-    "status": "10:19",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/30796bd7-8340-4798-bf0d-93f77080c4cc",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1768145858~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F10%2FAZ_vs_FC_Volendam_20260110_1768051256042%2F~psid=44c4c919-9b83-4d99-a61d-d769bd122a40~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=7ba250049e256b523d5491ad4e2489264c3f0c4292846690dc1d7c37bce1061c/clt1/va02/disneyplus/event/2026/01/10/AZ_vs_FC_Volendam_20260110_1768051256042/ctr-all-hdri-complete.m3u8?v=1&hash=b65e20576a3ca6bb5942f716d482158a0934b15f",
-    "k1": "3f7496d6e0824f8da5e9fd1ee35702ef",
-    "k2": "51d1cf7c15cfce84472be963a65138bd"
-  },
-  {
     "title": "Clemson",
     "league": "NCAA Atletismo",
     "fecha-evento": "2026-01-10T11:45:00-05:00",
@@ -138,7 +115,23 @@
     "nombre": "disneyc3d26e",
     "status": "12:30",
     "duration": 135,
-    "play_url": ""
+    "play_url": "https://www.disneyplus.com/es-es/play/ce215a6f-57c6-4b40-b410-a6805c1460c1",
+    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1768153354~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F921e1311-bb26-43dd-84a6-9e2284959712-1762950465141%2F~psid=140864f7-666d-46b0-8232-9e7885a3ac14~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=38c78cb064e9397945805e90325c1e05555431af8a76bc8383d55257354135c7/clt1/va02/disneyplus/channel/921e1311-bb26-43dd-84a6-9e2284959712-1762950465141/ctr-all-sliding-alt1.m3u8?v=1&hash=03915bf69f19826611ecdeecc79455eab40b229c",
+    "k1": "72ea4c6d0e83437abf653f858b3ae020",
+    "k2": "d54dc96f880dfd3e34fea00cb92c8885"
+  },
+  {
+    "title": "Las Palmas vs. Deportivo La Coruña",
+    "league": "Segunda División de España",
+    "fecha-evento": "2026-01-10T12:25:07-05:00",
+    "img": "019b66db-21e4-7da2-857f-7891efbbefea",
+    "nombre": "disney8bb6ba",
+    "status": "12:25",
+    "duration": 125,
+    "play_url": "https://www.disneyplus.com/es-es/play/ad733205-9d63-48c9-b079-01dea8f74524",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1768153380~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F10%2FLas_Palmas_vs_Deportivo_L_20260110_1768058751018%2F~psid=95a32d56-5f94-4e04-9793-8e773b608623~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=3a3e4d15f0d88a8ceb24c21658e9f9d79439bd2c695d659dfd63d456dc43ea95/clt1/va02/disneyplus/event/2026/01/10/Las_Palmas_vs_Deportivo_L_20260110_1768058751018/ctr-all-hdri-complete.m3u8?v=1&hash=6f246b18550b060a01b0c4ef40c06e92af0bee14",
+    "k1": "a7db9259318c4f0e8f2550b1a922b2a0",
+    "k2": "bf3958c9bd8655bca463f250c56bdeb9"
   },
   {
     "title": "Bayer Leverkusen vs. Stuttgart",
@@ -152,16 +145,6 @@
     "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1768152277~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F7f9052ce-8143-43a6-9656-a8c00c4a3e56-1762950862652%2F~psid=b1e1dc97-b530-4cd0-953f-bdb1819a14e6~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=4d0de87db5d11df344f1c9878a16972ae640bd0314e2a5ad5270e90238afc3a2/clt1/va02/disneyplus/channel/7f9052ce-8143-43a6-9656-a8c00c4a3e56-1762950862652/ctr-all-sliding-alt1.m3u8?v=1&hash=2daf186937da77473bf07bbbecfc5597024e944f",
     "k1": "06fc77af99564037870179cf9282181e",
     "k2": "da7273d86d7f9b0cee158d311fb75cdb"
-  },
-  {
-    "title": "Las Palmas vs. Deportivo La Coruña",
-    "league": "Segunda División de España",
-    "fecha-evento": "2026-01-10T12:25:00-05:00",
-    "img": "019b66db-21e4-7da2-857f-7891efbbefea",
-    "nombre": "disney7288f0",
-    "status": "12:25",
-    "duration": 135,
-    "play_url": ""
   },
   {
     "title": "Grimsby Town vs. Weston Super Mare (Round 3)",
@@ -650,6 +633,26 @@
     "img": "019b9524-afa0-74f8-ac5f-2eb34930c6c7",
     "nombre": "disney9feaa1",
     "status": "20:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Green Bay Packers vs. Chicago Bears",
+    "league": "NFL",
+    "fecha-evento": "2026-01-10T20:00:00-05:00",
+    "img": "019a2db4-31ed-7a27-b15e-3bb19962d73d",
+    "nombre": "disneyb8a599",
+    "status": "20:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "WTA ASB Classic / Centre Court (Doubles Final)",
+    "league": "WTA",
+    "fecha-evento": "2026-01-10T21:00:00-05:00",
+    "img": "019b238e-c4b3-7500-92b2-a757bc4d073b",
+    "nombre": "disney532c34",
+    "status": "21:00",
     "duration": 135,
     "play_url": ""
   }
