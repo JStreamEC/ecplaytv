@@ -1,31 +1,5 @@
 [
   {
-    "title": "Rayo Vallecano vs. RCD Mallorca",
-    "league": "LALIGA",
-    "fecha-evento": "2026-01-11T07:50:00-05:00",
-    "img": "5f1ad933-47ae-4cac-adb9-084e59679510",
-    "nombre": "disney0add26",
-    "status": "07:50",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/d0c76d96-9245-4172-83d8-c089f5111de4",
-    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1768225564~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Ff25bdf06-81c9-4a7c-b128-3128d610ad17-1762951253360%2F~psid=d9a13702-5eed-439d-a1ef-a16e6601df59~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=d57a93ed455e6b15ef46e4c16430dcd0dae8cdb7c239182758daeee7afb348eb/clt1/va02/disneyplus/channel/f25bdf06-81c9-4a7c-b128-3128d610ad17-1762951253360/ctr-all-sliding-alt1.m3u8?v=1&hash=57a1e5c4737768952c5164be5d4f5ba525d47674",
-    "k1": "a0a5d8c0f1b94129856bb6d1db751f20",
-    "k2": "d8fa665b4aac3206e7f3aa8a4fe911e2"
-  },
-  {
-    "title": "Leganés vs. Valladolid",
-    "league": "Segunda División de España",
-    "fecha-evento": "2026-01-11T07:55:10-05:00",
-    "img": "019b6c0a-d409-7ffc-81e7-4c33c6f45901",
-    "nombre": "disneyb41660",
-    "status": "07:55",
-    "duration": 125,
-    "play_url": "https://www.disneyplus.com/es-es/play/1eceaac5-8eb0-48ee-aced-c9d55ca7ac6e",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1768225588~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F11%2FLegans_vs_Valladolid_20260111_1768128900060%2F~psid=5e8dac15-20de-48fa-972f-d50cfd4c8185~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=cbcfec3820f442a57332c1caf9f25ed129d8b0a36df9eb86c132df3e81ef91a4/clt1/va02/disneyplus/event/2026/01/11/Legans_vs_Valladolid_20260111_1768128900060/ctr-all-hdri-complete.m3u8?v=1&hash=804287b1afefb9aee007cb3165db67b671a3435c",
-    "k1": "bbfd1904d2ed455d86203dcb3ef90f46",
-    "k2": "1bc5d04b2444e9c7b252d175643b914b"
-  },
-  {
     "title": "Telstar vs. Ajax",
     "league": "Eredivisie",
     "fecha-evento": "2026-01-11T08:15:00-05:00",
@@ -171,12 +145,15 @@
   {
     "title": "Granada vs. Castellón",
     "league": "Segunda División de España",
-    "fecha-evento": "2026-01-11T10:10:00-05:00",
+    "fecha-evento": "2026-01-11T10:10:03-05:00",
     "img": "019b6c0a-b4a8-7bc3-afbd-a64e522c014c",
-    "nombre": "disney067fa2",
+    "nombre": "disney6691cd",
     "status": "10:10",
-    "duration": 135,
-    "play_url": ""
+    "duration": 125,
+    "play_url": "https://www.disneyplus.com/es-es/play/32c03d63-5a7c-4191-9e29-2017d96c1f1b",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1768231236~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F11%2FGranada_vs_Castelln_20260111_1768137004033%2F~psid=5cbf16f5-61ab-43e4-8435-6ccc8ddcd14e~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=10d70576249d5578ef39a376792a4a51c3871b3bfeb12b24362244ee48026646/clt1/va02/disneyplus/event/2026/01/11/Granada_vs_Castelln_20260111_1768137004033/ctr-all-hdri-complete.m3u8?v=1&hash=7b4dd28478c8bc2aafacc010ca43e9916edf6d33",
+    "k1": "59e648d075ae4af0b63ddfe138cf7e52",
+    "k2": "309d9b5fd4ab4beaeae40fc4c4c90bb0"
   },
   {
     "title": "Bayern Munich vs. Wolfsburg",
@@ -665,6 +642,26 @@
     "img": "ff91e1fd-0a07-493d-bf9c-901be4011c7f",
     "nombre": "disney6d0e1c",
     "status": "20:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Los Angeles Chargers vs. New England Patriots",
+    "league": "NFL",
+    "fecha-evento": "2026-01-11T20:00:00-05:00",
+    "img": "019b8cf6-4dd0-7f4c-954e-1c936b38b39f",
+    "nombre": "disney9130f7",
+    "status": "20:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Edmonton Oilers vs. Chicago Blackhawks",
+    "league": "National Hockey League",
+    "fecha-evento": "2026-01-12T20:30:00-05:00",
+    "img": "019b9a5a-8924-72f3-81a7-ef8cd33bf92c",
+    "nombre": "disney79e568",
+    "status": "20:30",
     "duration": 135,
     "play_url": ""
   }
