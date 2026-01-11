@@ -1,18 +1,5 @@
 [
   {
-    "title": "Telstar vs. Ajax",
-    "league": "Eredivisie",
-    "fecha-evento": "2026-01-11T08:15:00-05:00",
-    "img": "019b4344-438d-7105-8097-ef02791113f6",
-    "nombre": "disneyfef3d7",
-    "status": "08:15",
-    "duration": 135,
-    "play_url": "https://www.disneyplus.com/es-es/play/02fbde1a-c6b8-4104-be34-0e42fa13fb9c",
-    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1768225612~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Fbbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1767092609127%2F~psid=8e414479-fdae-4e7d-a321-edb668266f56~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=553aafbc5c8ee2cfd55f679d2d1fd9811658b015ce052658f3ed9b6c9591d487/clt1/va02/disneyplus/channel/bbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1767092609127/ctr-all-sliding-alt1.m3u8?v=1&hash=caa611b0aedb1e1aad3e4a1a02fe77959cc0e2c7",
-    "k1": "5acbf9b0667141f187ebf40630b8a4d1",
-    "k2": "1b6c836ac06d21b5d5078797db5eac0e"
-  },
-  {
     "title": "Portsmouth vs. Arsenal",
     "league": "FA Cup",
     "fecha-evento": "2026-01-11T08:40:00-05:00",
@@ -662,6 +649,16 @@
     "img": "019b9a5a-8924-72f3-81a7-ef8cd33bf92c",
     "nombre": "disney79e568",
     "status": "20:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Adelaide International (First Round)",
+    "league": "ATP",
+    "fecha-evento": "2026-01-11T23:00:00-05:00",
+    "img": "019b8ec9-d4e0-7869-bb42-1160c8a0d83c",
+    "nombre": "disneyabdf37",
+    "status": "23:00",
     "duration": 135,
     "play_url": ""
   }
