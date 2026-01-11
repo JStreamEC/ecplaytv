@@ -54,15 +54,12 @@
   {
     "title": "Granada vs. Castellón",
     "league": "Segunda División de España",
-    "fecha-evento": "2026-01-11T10:10:03-05:00",
+    "fecha-evento": "",
     "img": "019b6c0a-b4a8-7bc3-afbd-a64e522c014c",
-    "nombre": "disney6691cd",
-    "status": "10:10",
-    "duration": 125,
-    "play_url": "https://www.disneyplus.com/es-es/play/32c03d63-5a7c-4191-9e29-2017d96c1f1b",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1768231236~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F11%2FGranada_vs_Castelln_20260111_1768137004033%2F~psid=5cbf16f5-61ab-43e4-8435-6ccc8ddcd14e~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=10d70576249d5578ef39a376792a4a51c3871b3bfeb12b24362244ee48026646/clt1/va02/disneyplus/event/2026/01/11/Granada_vs_Castelln_20260111_1768137004033/ctr-all-hdri-complete.m3u8?v=1&hash=7b4dd28478c8bc2aafacc010ca43e9916edf6d33",
-    "k1": "59e648d075ae4af0b63ddfe138cf7e52",
-    "k2": "309d9b5fd4ab4beaeae40fc4c4c90bb0"
+    "nombre": "disney217040",
+    "status": "",
+    "duration": 135,
+    "play_url": ""
   },
   {
     "title": "Bayern Munich vs. Wolfsburg",
@@ -91,19 +88,6 @@
     "k2": "7ef65017804aeec676adb510e9061a27"
   },
   {
-    "title": "Kings World Cup Nations | Matchday #3",
-    "league": "Kings World Cup Nations",
-    "fecha-evento": "2026-01-11T11:56:03-05:00",
-    "img": "019b6a75-bcea-73bf-b51d-7e9dfc2c525d",
-    "nombre": "disney88b665",
-    "status": "11:56",
-    "duration": 299,
-    "play_url": "https://www.disneyplus.com/es-es/play/c487bf3b-edea-48db-b610-1de046e6632c",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1768237242~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F11%2FKings_World_Cup_Nations_M_20260111_1768143348032%2F~psid=60beaeea-c8c0-4447-addc-b678a2824fe8~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=bccc5361886c3d637e85bcdf34f32b0f40d0c531d63416292bc826837b36901b/clt1/va02/disneyplus/event/2026/01/11/Kings_World_Cup_Nations_M_20260111_1768143348032/ctr-all-hdri-complete.m3u8?v=1&hash=4be0a1bf6b4200480eac0855d1a7970746101891",
-    "k1": "fd17113e8bcd4a51afc4996b274b6e9d",
-    "k2": "5303c9123bb61b8198d0d3b8cb219a7f"
-  },
-  {
     "title": "Arabia Saudita vs. India",
     "league": "Kings World Cup Nations",
     "fecha-evento": "2026-01-11T11:55:00-05:00",
@@ -115,6 +99,19 @@
     "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1768237287~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Fbbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1767092609127%2F~psid=3500b5df-9c51-407c-93fa-c8e00e2c55de~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=72ae62022914520be5cf89375a11f76fcdcb231140ac9ba4eba6d45b663d7750/clt1/va02/disneyplus/channel/bbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1767092609127/ctr-all-sliding-alt1.m3u8?v=1&hash=caa611b0aedb1e1aad3e4a1a02fe77959cc0e2c7",
     "k1": "5acbf9b0667141f187ebf40630b8a4d1",
     "k2": "1b6c836ac06d21b5d5078797db5eac0e"
+  },
+  {
+    "title": "Kings World Cup Nations | Matchday #3",
+    "league": "Kings World Cup Nations",
+    "fecha-evento": "2026-01-11T11:56:03-05:00",
+    "img": "019b6a75-bcea-73bf-b51d-7e9dfc2c525d",
+    "nombre": "disney88b665",
+    "status": "11:56",
+    "duration": 299,
+    "play_url": "https://www.disneyplus.com/es-es/play/c487bf3b-edea-48db-b610-1de046e6632c",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1768237242~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F11%2FKings_World_Cup_Nations_M_20260111_1768143348032%2F~psid=60beaeea-c8c0-4447-addc-b678a2824fe8~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=bccc5361886c3d637e85bcdf34f32b0f40d0c531d63416292bc826837b36901b/clt1/va02/disneyplus/event/2026/01/11/Kings_World_Cup_Nations_M_20260111_1768143348032/ctr-all-hdri-complete.m3u8?v=1&hash=4be0a1bf6b4200480eac0855d1a7970746101891",
+    "k1": "fd17113e8bcd4a51afc4996b274b6e9d",
+    "k2": "5303c9123bb61b8198d0d3b8cb219a7f"
   },
   {
     "title": "Rutgers vs. Ball State",
@@ -173,16 +170,6 @@
     "img": "1d761f9e-7ddc-4948-8cb1-c54fff149a18",
     "nombre": "disney823336",
     "status": "14:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Inter vs. Napoli",
-    "league": "Seria A",
-    "fecha-evento": "2026-01-11T14:30:00-05:00",
-    "img": "019b93ef-fe08-7777-96aa-74c63429197f",
-    "nombre": "disneya2b8a6",
-    "status": "14:30",
     "duration": 135,
     "play_url": ""
   },
@@ -642,6 +629,16 @@
     "fecha-evento": "2026-01-12T14:25:00-05:00",
     "img": "019b7139-be25-7367-9987-9dd3cdf7a0d5",
     "nombre": "disney481c2e",
+    "status": "14:25",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Juventus vs. Cremonese",
+    "league": "Seria A",
+    "fecha-evento": "2026-01-12T14:25:00-05:00",
+    "img": "019b93fc-06ae-7205-884e-e034156f8fbb",
+    "nombre": "disney58e9e9",
     "status": "14:25",
     "duration": 135,
     "play_url": ""
