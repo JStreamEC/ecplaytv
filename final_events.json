@@ -1,18 +1,5 @@
 [
   {
-    "title": "Fiorentina vs. Milan",
-    "league": "Seria A",
-    "fecha-evento": "2026-01-11T08:50:00-05:00",
-    "img": "019b93eb-19a8-798f-b561-5b9af2f9b9f9",
-    "nombre": "disneydc98f7",
-    "status": "08:50",
-    "duration": 125,
-    "play_url": "https://www.disneyplus.com/es-es/play/574dec86-7ceb-4765-86dc-dc76b4eb5bb8",
-    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1768226435~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F921e1311-bb26-43dd-84a6-9e2284959712-1762950465141%2F~psid=3d3df8df-fea5-4032-9bf8-ce7ebade42ac~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=e51a5f2f4ab22d59aea064e1a0d7d8bb67358cf55a418ef9596ba390ae820512/clt1/va02/disneyplus/channel/921e1311-bb26-43dd-84a6-9e2284959712-1762950465141/ctr-all-sliding-alt1.m3u8?v=1&hash=03915bf69f19826611ecdeecc79455eab40b229c",
-    "k1": "10f60be05aef48ee93b93c623bd4a778",
-    "k2": "7ef65017804aeec676adb510e9061a27"
-  },
-  {
     "title": "Borussia Mönchengladbach vs. Augsburg",
     "league": "Bundesliga",
     "fecha-evento": "2026-01-11T09:20:04-05:00",
@@ -137,7 +124,10 @@
     "nombre": "disney7c87bc",
     "status": "11:10",
     "duration": 135,
-    "play_url": ""
+    "play_url": "https://www.disneyplus.com/es-es/play/99c31231-f5c2-4cf4-92b2-a37766c838f6",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1768234842~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F11%2FBayern_Munich_vs_Wolfsbur_20260111_1768140605015%2F~psid=b60f4695-6e69-4fa1-ae09-65c55020a76d~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=ee8fc0da9b80b87e63244d2c03614d9298e95dfe25f0154fad4331a493c6c646/clt1/va02/disneyplus/event/2026/01/11/Bayern_Munich_vs_Wolfsbur_20260111_1768140605015/ctr-all-hdri-complete.m3u8?v=1&hash=c1ecea8fc52162b95f834da0dc3024f6b955f446",
+    "k1": "fa97ad915a3f42ae94c005edc32f9386",
+    "k2": "a0750791a28760a1e84d36910591a6ba"
   },
   {
     "title": "Manchester United vs. Brighton (Round 3)",
@@ -146,8 +136,11 @@
     "img": "019b938d-cae5-7c7a-8cc1-01c0b78610e3",
     "nombre": "disneyd0d15e",
     "status": "11:15",
-    "duration": 135,
-    "play_url": ""
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/b29119b2-310f-412d-81e2-8827fbad0611",
+    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1768234886~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F921e1311-bb26-43dd-84a6-9e2284959712-1762950465141%2F~psid=be5081ca-5410-4a62-96fe-9c20eb8a90cf~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=5bc13b55c0409470a0dc994d5804948dffad41bb88b6c7cea7e1306db5cc53c2/clt1/va02/disneyplus/channel/921e1311-bb26-43dd-84a6-9e2284959712-1762950465141/ctr-all-sliding-alt1.m3u8?v=1&hash=03915bf69f19826611ecdeecc79455eab40b229c",
+    "k1": "10f60be05aef48ee93b93c623bd4a778",
+    "k2": "7ef65017804aeec676adb510e9061a27"
   },
   {
     "title": "Kings World Cup Nations | Matchday #3",
@@ -646,6 +639,16 @@
     "img": "019b8ec9-d4e0-7869-bb42-1160c8a0d83c",
     "nombre": "disneyabdf37",
     "status": "23:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Adelaide International / Show Court 1",
+    "league": "ATP",
+    "fecha-evento": "2026-01-12T01:30:00-05:00",
+    "img": "019b8eac-d1c0-72f2-9830-6c87a4217aae",
+    "nombre": "disneyed6a13",
+    "status": "01:30",
     "duration": 135,
     "play_url": ""
   }
