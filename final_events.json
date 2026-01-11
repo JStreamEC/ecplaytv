@@ -52,19 +52,6 @@
     "k2": "d5f5e1f348ea35645fa36b76e6a0135d"
   },
   {
-    "title": "Arizona State vs. #13 TCU",
-    "league": "Básquet Femenino NCAA",
-    "fecha-evento": "2026-01-11T17:00:00-05:00",
-    "img": "019b6ea2-245c-7371-a0a5-9a0a17685a35",
-    "nombre": "disney6675f6",
-    "status": "17:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/e90ca1da-acbe-4620-a66e-63456028c9b2",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1768257432~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F11%2FArizona_State_vs_13_TCU_20260111_1768161656045%2F~psid=78576018-fd96-42a0-a9a3-802139e99a44~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=0aab28a435c97652e21399fb010fc3018705fb5a81ff20b4ca07bcc721e21bcc/clt1/va02/disneyplus/event/2026/01/11/Arizona_State_vs_13_TCU_20260111_1768161656045/ctr-all-hdri-complete.m3u8?v=1&hash=d249f461299a94f820443f8086d54b1569ecee9f",
-    "k1": "aaf1396104484b159fbcd8976c62f78a",
-    "k2": "d5c624f3acfd59c8b00f7b7a3d7cbaef"
-  },
-  {
     "title": "Pittsburgh Penguins vs. Boston Bruins",
     "league": "National Hockey League",
     "fecha-evento": "2026-01-11T17:00:20-05:00",
@@ -76,6 +63,19 @@
     "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1768257457~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F11%2FPittsburgh_Penguins_vs_Bo_20260111_1768161658578%2F~psid=499daa2e-0c45-4f82-b65a-9e9848e53eb9~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=e3eb0905ea38d8488ab7c967f8933d089fdd4684c0383984006f127a8e8e67dc/clt1/va02/disneyplus/event/2026/01/11/Pittsburgh_Penguins_vs_Bo_20260111_1768161658578/ctr-all-hdri-complete.m3u8?v=1&hash=5a295d42a110dd7e18f9af9fe21358b1abaf5e8d",
     "k1": "09c489d5a83247b3beefb5a32bda2379",
     "k2": "f2140db466496aef63ac1793018ecbfa"
+  },
+  {
+    "title": "Arizona State vs. #13 TCU",
+    "league": "Básquet Femenino NCAA",
+    "fecha-evento": "2026-01-11T17:00:00-05:00",
+    "img": "019b6ea2-245c-7371-a0a5-9a0a17685a35",
+    "nombre": "disney6675f6",
+    "status": "17:00",
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/e90ca1da-acbe-4620-a66e-63456028c9b2",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1768257432~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F11%2FArizona_State_vs_13_TCU_20260111_1768161656045%2F~psid=78576018-fd96-42a0-a9a3-802139e99a44~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=0aab28a435c97652e21399fb010fc3018705fb5a81ff20b4ca07bcc721e21bcc/clt1/va02/disneyplus/event/2026/01/11/Arizona_State_vs_13_TCU_20260111_1768161656045/ctr-all-hdri-complete.m3u8?v=1&hash=d249f461299a94f820443f8086d54b1569ecee9f",
+    "k1": "aaf1396104484b159fbcd8976c62f78a",
+    "k2": "d5c624f3acfd59c8b00f7b7a3d7cbaef"
   },
   {
     "title": "Duke vs. Stanford",
@@ -312,24 +312,17 @@
     "k2": "c0fb2260b0c032852b38d34ee96bb4f1"
   },
   {
-    "title": "Columbus Blue Jackets vs. Utah Mammoth",
-    "league": "National Hockey League",
-    "fecha-evento": "2026-01-11T19:00:00-05:00",
-    "img": "019b9a3e-1766-7fb9-832d-d150bb6bd59e",
-    "nombre": "disneyd35b01",
-    "status": "19:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "River Plate vs. Millonarios",
     "league": "Amistoso",
-    "fecha-evento": "2026-01-11T18:30:00-05:00",
+    "fecha-evento": "2026-01-11T18:30:01-05:00",
     "img": "019baec8-82cd-7875-9f61-e956d91ffcd4",
-    "nombre": "disney8c810a",
+    "nombre": "disney9f2a88",
     "status": "18:30",
-    "duration": 135,
-    "play_url": ""
+    "duration": 145,
+    "play_url": "https://www.disneyplus.com/es-es/play/be217061-8ac1-4869-b3d0-13dd0e94e1f8",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1768261234~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F11%2FRiver_Plate_vs_Millonario_20260111_1768167011044%2F~psid=72f97ce1-727e-488d-b416-fef93d2a552c~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=1218eb0e01ef45a32539891e315068406da9cc422c9f55d1cc699f7715aa1687/clt1/va02/disneyplus/event/2026/01/11/River_Plate_vs_Millonario_20260111_1768167011044/ctr-all-hdri-complete.m3u8?v=1&hash=3f9cbe7a9d4f1297d269d22ca0850dfad5702132",
+    "k1": "38439b053f454bcdb075492bb7e48203",
+    "k2": "a97c3fd137c54cca1a39fdc15003fed1"
   },
   {
     "title": "Washington Capitals vs. Nashville Predators",
@@ -337,6 +330,16 @@
     "fecha-evento": "2026-01-11T19:00:00-05:00",
     "img": "019b6ea3-5da2-7d79-a021-1f538a184799",
     "nombre": "disney577cab",
+    "status": "19:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Columbus Blue Jackets vs. Utah Mammoth",
+    "league": "National Hockey League",
+    "fecha-evento": "2026-01-11T19:00:00-05:00",
+    "img": "019b9a3e-1766-7fb9-832d-d150bb6bd59e",
+    "nombre": "disneyd35b01",
     "status": "19:00",
     "duration": 135,
     "play_url": ""
