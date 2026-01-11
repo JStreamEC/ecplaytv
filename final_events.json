@@ -179,14 +179,27 @@
     "k2": "bb1c8b27ed19a6c951be0db9888edcd8"
   },
   {
-    "title": "Colorado Mammoth vs. Georgia Swarm",
-    "league": "National Lacrosse League",
-    "fecha-evento": "2026-01-10T19:30:00-05:00",
-    "img": "3b326ac2-ba5e-4d00-b854-9394f44816d0",
-    "nombre": "disney25acf4",
-    "status": "19:30",
+    "title": "New York Islanders vs. Minnesota Wild",
+    "league": "National Hockey League",
+    "fecha-evento": "2026-01-10T20:00:00-05:00",
+    "img": "019b6973-6890-7ca5-957f-3db41c57ef41",
+    "nombre": "disney5d2ee8",
+    "status": "20:00",
     "duration": 135,
     "play_url": ""
+  },
+  {
+    "title": "Colorado Mammoth vs. Georgia Swarm",
+    "league": "National Lacrosse League",
+    "fecha-evento": "2026-01-10T19:30:03-05:00",
+    "img": "3b326ac2-ba5e-4d00-b854-9394f44816d0",
+    "nombre": "disneydef682",
+    "status": "19:30",
+    "duration": 150,
+    "play_url": "https://www.disneyplus.com/es-es/play/c228d006-373a-4144-8279-8fed183a700d",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1768178480~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F11%2FColorado_Mammoth_vs_Georg_20260111_1768084248033%2F~psid=55b3a6e6-1e02-41c9-8441-f522df6770ed~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=711f2ab14c06e3a97bc5a0a643822045c075a9dd17425c239ea1ea5d353b251d/clt1/va02/disneyplus/event/2026/01/11/Colorado_Mammoth_vs_Georg_20260111_1768084248033/ctr-all-hdri-complete.m3u8?v=1&hash=a957e28496b800f93a644ce8dfce118f09d4419c",
+    "k1": "76d731ea5c82420994db60554ae4ba07",
+    "k2": "06beda277400a6117de33e71cc0aba9f"
   },
   {
     "title": "Chicago Blackhawks vs. Nashville Predators",
@@ -194,16 +207,6 @@
     "fecha-evento": "2026-01-10T20:00:00-05:00",
     "img": "3f438cd2-f88d-4ca5-92e6-a764b070c253",
     "nombre": "disney4b9ad0",
-    "status": "20:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "New York Islanders vs. Minnesota Wild",
-    "league": "National Hockey League",
-    "fecha-evento": "2026-01-10T20:00:00-05:00",
-    "img": "019b6973-6890-7ca5-957f-3db41c57ef41",
-    "nombre": "disney5d2ee8",
     "status": "20:00",
     "duration": 135,
     "play_url": ""
