@@ -1,31 +1,5 @@
 [
   {
-    "title": "Liverpool vs. Barnsley",
-    "league": "FA Cup",
-    "fecha-evento": "2026-01-12T14:25:02-05:00",
-    "img": "019b938f-0102-7bdc-9319-a3095f002b21",
-    "nombre": "disneya3d881",
-    "status": "14:25",
-    "duration": 135,
-    "play_url": "https://www.disneyplus.com/es-es/play/653b33f1-76ce-4d16-b26f-c90db5cab522",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1768334955~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F12%2FLiverpool_vs_Barnsley_20260112_1768238732018%2F~psid=3cc04bf1-7e68-4e0d-bede-bee5a8b5b3ca~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=15caa0b1e19eb33c50f0f2d9a33bda826acaf386b707357d83d5aa393d9f89ba/clt1/va02/disneyplus/event/2026/01/12/Liverpool_vs_Barnsley_20260112_1768238732018/ctr-all-hdri-complete.m3u8?v=1&hash=0dfa31cebcd823525d7593f934c31078599bf5f8",
-    "k1": "977b41aeae0e4c79b0e30c4d85527c10",
-    "k2": "25e2417bebcf356705dab77aeeda6ae4"
-  },
-  {
-    "title": "Juventus vs. Cremonese",
-    "league": "Seria A",
-    "fecha-evento": "2026-01-12T14:25:01-05:00",
-    "img": "019baea5-5657-76d9-b574-63edbe707dec",
-    "nombre": "disney14caeb",
-    "status": "14:25",
-    "duration": 135,
-    "play_url": "https://www.disneyplus.com/es-es/play/18ac26b2-11d6-4a27-961c-80eadeae3541",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1768334999~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F12%2FJuventus_vs_Cremonese_20260112_1768238713045%2F~psid=0c8e72af-065b-4bd5-9d58-e80e75021447~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=349848331bc51c45ab5264cfe9faaa1a4978d843bad98cbc7a2169bd5373906c/clt1/va02/disneyplus/event/2026/01/12/Juventus_vs_Cremonese_20260112_1768238713045/ctr-all-hdri-complete.m3u8?v=1&hash=41e0cc1014d10bec7487ee681245905b1c8cc1ef",
-    "k1": "acc9a977944640e7bcb564e713877dab",
-    "k2": "c2e2eded235f7038198fff30f42500a2"
-  },
-  {
     "title": "Sevilla vs. Celta de Vigo",
     "league": "LALIGA",
     "fecha-evento": "2026-01-12T14:50:00-05:00",
@@ -630,6 +604,26 @@
     "fecha-evento": "2026-01-13T18:00:00-05:00",
     "img": "dd33254b-9c6d-461b-8ed8-a9bf6fd0d4cb",
     "nombre": "disney599645",
+    "status": "18:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Court 5 (Qualifying) (Second Round)",
+    "league": "ESPN",
+    "fecha-evento": "2026-01-13T18:00:00-05:00",
+    "img": "5cdf1c91-b49b-4458-893f-8c0593fbf419",
+    "nombre": "disneyfea806",
+    "status": "18:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Kia Arena (Qualifying) (Second Round)",
+    "league": "ESPN",
+    "fecha-evento": "2026-01-13T18:00:00-05:00",
+    "img": "523aaf34-9425-4155-88bd-44bbf8d7e574",
+    "nombre": "disney5aba49",
     "status": "18:00",
     "duration": 135,
     "play_url": ""
