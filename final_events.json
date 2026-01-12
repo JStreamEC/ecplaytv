@@ -143,16 +143,6 @@
     "k2": "d8fa665b4aac3206e7f3aa8a4fe911e2"
   },
   {
-    "title": "Edmonton Oilers vs. Chicago Blackhawks",
-    "league": "National Hockey League",
-    "fecha-evento": "2026-01-12T20:30:00-05:00",
-    "img": "019b9a5a-8924-72f3-81a7-ef8cd33bf92c",
-    "nombre": "disney79e568",
-    "status": "20:30",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Reilly Opelka (USA) vs. Alexei Popyrin (AUS) (First Round)",
     "league": "ATP",
     "fecha-evento": "2026-01-11T23:00:00-05:00",
@@ -499,6 +489,16 @@
     "img": "019b8ec9-d4e0-7869-bb42-1160c8a0d83c",
     "nombre": "disneyeb5e29",
     "status": "19:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Edmonton Oilers vs. Chicago Blackhawks",
+    "league": "National Hockey League",
+    "fecha-evento": "2026-01-12T20:30:00-05:00",
+    "img": "019b9a5a-8924-72f3-81a7-ef8cd33bf92c",
+    "nombre": "disney79e568",
+    "status": "20:30",
     "duration": 135,
     "play_url": ""
   },
