@@ -1,31 +1,5 @@
 [
   {
-    "title": "Sevilla vs. Celta de Vigo",
-    "league": "LALIGA",
-    "fecha-evento": "2026-01-12T14:50:00-05:00",
-    "img": "5f1ad933-47ae-4cac-adb9-084e59679510",
-    "nombre": "disney2c1e6b",
-    "status": "14:50",
-    "duration": 125,
-    "play_url": "https://www.disneyplus.com/es-es/play/5a8d3abc-a9f5-408a-9c1e-69225e9ed31e",
-    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1768335069~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F921e1311-bb26-43dd-84a6-9e2284959712-1762950465141%2F~psid=25a5a2e7-f5e9-4b17-9e45-cdc1dcb64e81~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=599638b2d811b26ac01e3a0024e07ae9788e74a8c357e437ad5875f5209f645e/clt1/va02/disneyplus/channel/921e1311-bb26-43dd-84a6-9e2284959712-1762950465141/ctr-all-sliding-alt1.m3u8?v=1&hash=03915bf69f19826611ecdeecc79455eab40b229c",
-    "k1": "b00066d9e6e24442a066f99df2a18261",
-    "k2": "b4d4d5e4fd4efb57fc0013061f253194"
-  },
-  {
-    "title": "United States vs. Netherlands",
-    "league": "Kings World Cup Nations",
-    "fecha-evento": "2026-01-12T15:55:00-05:00",
-    "img": "019bb295-8c70-7e01-bd41-ef2e6ca13ecd",
-    "nombre": "disneyf4f116",
-    "status": "15:55",
-    "duration": 65,
-    "play_url": "https://www.disneyplus.com/es-es/play/0b9424ec-1505-4bb7-9899-1ad9812ccbd7",
-    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1768338036~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Fbbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1767092609127%2F~psid=57766cfa-76ec-4417-9e89-558e3c565f97~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=b7787927e9b7dfeb798ede4e50938fa3e17096628fc0b008ad3621d63397fedc/clt1/va02/disneyplus/channel/bbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1767092609127/ctr-all-sliding-alt1.m3u8?v=1&hash=caa611b0aedb1e1aad3e4a1a02fe77959cc0e2c7",
-    "k1": "baec2a8863bb4868bb2a472b9299addb",
-    "k2": "3a0b74af28aef03f22ff9cb9a5c8146a"
-  },
-  {
     "title": "Kings World Cup Nations | Last chance",
     "league": "Kings World Cup Nations",
     "fecha-evento": "2026-01-12T15:55:00-05:00",
@@ -624,6 +598,26 @@
     "fecha-evento": "2026-01-13T18:00:00-05:00",
     "img": "523aaf34-9425-4155-88bd-44bbf8d7e574",
     "nombre": "disney5aba49",
+    "status": "18:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Court 6 (Qualifying) (Second Round)",
+    "league": "ESPN",
+    "fecha-evento": "2026-01-13T18:00:00-05:00",
+    "img": "fc3c500f-46d8-4307-a8a0-a870f99fa579",
+    "nombre": "disney90dd96",
+    "status": "18:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Court 11 (Qualifying) (Second Round)",
+    "league": "ESPN",
+    "fecha-evento": "2026-01-13T18:00:00-05:00",
+    "img": "625ba39e-9efc-4130-8973-166f292fd0bc",
+    "nombre": "disneydd7e81",
     "status": "18:00",
     "duration": 135,
     "play_url": ""
