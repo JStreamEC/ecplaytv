@@ -54,12 +54,15 @@
   {
     "title": "Kings World Cup Nations | 4tos de final",
     "league": "Kings World Cup Nations",
-    "fecha-evento": "2026-01-13T15:55:00-05:00",
+    "fecha-evento": "2026-01-13T15:57:08-05:00",
     "img": "019b7669-3cff-781c-8052-a7983163870c",
-    "nombre": "disney7bdf51",
-    "status": "15:55",
-    "duration": 135,
-    "play_url": ""
+    "nombre": "disney750e86",
+    "status": "15:57",
+    "duration": 118,
+    "play_url": "https://www.disneyplus.com/es-es/play/835b684e-caae-48ad-9545-b980bdc4e07b",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1768424434~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F13%2FKings_World_Cup_Nations_4_20260113_1768330541017%2F~psid=921eaf48-4108-4649-ae67-f4a129b3a8e9~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=5948ac79d965191e0ed03a32d895526f42cde840590b66b0665265d62304bbc0/clt1/va02/disneyplus/event/2026/01/13/Kings_World_Cup_Nations_4_20260113_1768330541017/ctr-all-hdri-complete.m3u8?v=1&hash=b8059e99205545cd553a5e7a85d1180d4918e1d6",
+    "k1": "6c84574f59b74e9fa773430097a46d49",
+    "k2": "45f3927f05057444ec1525906bb7b881"
   },
   {
     "title": "Mexico vs. France (Quarterfinals)",
@@ -68,8 +71,11 @@
     "img": "019bb7e3-8072-798e-806f-d18050e33ea1",
     "nombre": "disney3df6bd",
     "status": "15:55",
-    "duration": 135,
-    "play_url": ""
+    "duration": 65,
+    "play_url": "https://www.disneyplus.com/es-es/play/5ec062ad-b633-494d-a03e-2a7646b0cf68",
+    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1768424478~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Fbbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1767092609127%2F~psid=2ec5ab1b-a683-4b57-8df4-485a0f678e76~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=0ff69e8cdc402b04d328b461438e7d5adcc7103243547e545933e9280d11e6f6/clt1/va02/disneyplus/channel/bbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1767092609127/ctr-all-sliding-alt1.m3u8?v=1&hash=caa611b0aedb1e1aad3e4a1a02fe77959cc0e2c7",
+    "k1": "bd6e50a8d5644f9e8c6ea2aa4a5c29e0",
+    "k2": "365fd3085a82de28fdef9c7262c63380"
   },
   {
     "title": "Huracán vs. Cerro Porteño",
@@ -525,7 +531,7 @@
     "title": "Aleksandar Vukic (AUS) vs. Andrea Vavassori (ITA) (Second Round)",
     "league": "ATP",
     "fecha-evento": "2026-01-13T23:30:00-05:00",
-    "img": "019bb8e3-0ddb-7f81-a032-c65ddd8d01fc",
+    "img": "019bb8e3-0fb5-7d14-bdc5-2d625962cae9",
     "nombre": "disneyd20289",
     "status": "23:30",
     "duration": 135,
