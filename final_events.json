@@ -91,16 +91,6 @@
     "k2": "f6887cf48599a4696d87aaeb10135512"
   },
   {
-    "title": "New Jersey Devils vs. Minnesota Wild",
-    "league": "National Hockey League",
-    "fecha-evento": "2026-01-12T20:00:00-05:00",
-    "img": "07ec276a-9261-4d0c-b258-b61c2a578572",
-    "nombre": "disneydaf6cd",
-    "status": "20:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "WTA Adelaide International / Show Court 1",
     "league": "WTA",
     "fecha-evento": "2026-01-12T19:30:01-05:00",
@@ -159,8 +149,11 @@
     "img": "019b8e74-3168-75ac-9b2c-8f5a25218f7d",
     "nombre": "disney7a6279",
     "status": "20:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 630,
+    "play_url": "https://www.disneyplus.com/es-es/play/9129b647-203b-49ab-bbc2-94048c56b596",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1768353654~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F13%2FHobart_International_Cent_20260113_1768258822032%2F~psid=49d3cfc9-c41b-487e-b448-d7fc5d2145e3~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=6807a20f8650466397493706d1e7c4b0e090d9861da55f3fe766c7e245478ad4/clt1/va02/disneyplus/event/2026/01/13/Hobart_International_Cent_20260113_1768258822032/ctr-all-hdri-complete.m3u8?v=1&hash=5fead9b35c8d84652691352e2148e34a0944c439",
+    "k1": "b775bc26c5de4555b870d6c21509170b",
+    "k2": "6a54428610c6cc23ab8960f7c3c277c3"
   },
   {
     "title": "Edmonton Oilers vs. Chicago Blackhawks",
@@ -175,12 +168,28 @@
   {
     "title": "NFL Wild Card Playbook with Next Gen Stats: Houston Texans vs. Pittsburgh Steelers",
     "league": "NFL",
-    "fecha-evento": "2026-01-12T20:00:00-05:00",
+    "fecha-evento": "2026-01-12T20:00:01-05:00",
     "img": "019b8c74-d19f-7113-85a3-9ad6368274f7",
-    "nombre": "disney8efc69",
+    "nombre": "disneyae6a5e",
     "status": "20:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 195,
+    "play_url": "https://www.disneyplus.com/es-es/play/cfd5b3a8-85b5-4aae-8bdf-691a553c901a",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1768353699~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F13%2FNFL_Wild_Card_Playbook_wi_20260113_1768258822017%2F~psid=195034c5-7daf-434d-b393-2ec441301091~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=9cec74c2deff43eca1f5c8e10c54f5aa7b67af30741feae8e182e57932d4bd5d/clt1/va02/disneyplus/event/2026/01/13/NFL_Wild_Card_Playbook_wi_20260113_1768258822017/ctr-all-hdri-complete.m3u8?v=1&hash=b0ad75ad15004a901741070af0745b9e93e6f95f",
+    "k1": "1451db7435a74cb2af487c21abb4cdb2",
+    "k2": "120dcf17d4ffdf0998e6daaad9d9f4e1"
+  },
+  {
+    "title": "New Jersey Devils vs. Minnesota Wild",
+    "league": "National Hockey League",
+    "fecha-evento": "2026-01-12T20:00:15-05:00",
+    "img": "07ec276a-9261-4d0c-b258-b61c2a578572",
+    "nombre": "disney3d81a8",
+    "status": "20:00",
+    "duration": 210,
+    "play_url": "https://www.disneyplus.com/es-es/play/867c62b0-e330-4fb2-af82-2dcc3f2b78d3",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1768353744~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F13%2FNew_Jersey_Devils_vs_Minn_20260113_1768258859647%2F~psid=79953bc8-46ad-481c-9837-117d326084f4~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=a684920bf680090050242b996088f3fd0e9855ee83bdede0a9c5896a0646c51d/clt1/va02/disneyplus/event/2026/01/13/New_Jersey_Devils_vs_Minn_20260113_1768258859647/ctr-all-hdri-complete.m3u8?v=1&hash=c627d3dbb76f4c5a680df69ffe8e8022c3129658",
+    "k1": "1afb3b16cffd482c80ce66b1168377e1",
+    "k2": "d77e65f3af6d7a952c90b330939b67b5"
   },
   {
     "title": "WTA Adelaide International / Court 4",
