@@ -1,18 +1,5 @@
 [
   {
-    "title": "Newcastle United vs. Manchester City (Semifinal - Ida)",
-    "league": "Carabao Cup",
-    "fecha-evento": "2026-01-13T14:45:00-05:00",
-    "img": "019b4bb7-2070-7473-90c8-8072bf565273",
-    "nombre": "disney728e6c",
-    "status": "14:45",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/e1c80eeb-c984-429d-9851-a8fff4973258",
-    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1768420952~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F921e1311-bb26-43dd-84a6-9e2284959712-1762950465141%2F~psid=1e21766b-7c1b-4842-98fb-e40a20b2e7de~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=a5ab3175c08ab8caa973188d7feb7c56242f576687fb115df083504d6313c1a1/clt1/va02/disneyplus/channel/921e1311-bb26-43dd-84a6-9e2284959712-1762950465141/ctr-all-sliding-alt1.m3u8?v=1&hash=03915bf69f19826611ecdeecc79455eab40b229c",
-    "k1": "e221abe41bcd410ab23efe38354099b1",
-    "k2": "ef073f6391659342ba62a15ec2f2d6d0"
-  },
-  {
     "title": "Kings World Cup Nations | 4tos de final",
     "league": "Kings World Cup Nations",
     "fecha-evento": "2026-01-13T15:57:08-05:00",
@@ -24,19 +11,6 @@
     "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1768424434~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F13%2FKings_World_Cup_Nations_4_20260113_1768330541017%2F~psid=921eaf48-4108-4649-ae67-f4a129b3a8e9~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=5948ac79d965191e0ed03a32d895526f42cde840590b66b0665265d62304bbc0/clt1/va02/disneyplus/event/2026/01/13/Kings_World_Cup_Nations_4_20260113_1768330541017/ctr-all-hdri-complete.m3u8?v=1&hash=b8059e99205545cd553a5e7a85d1180d4918e1d6",
     "k1": "6c84574f59b74e9fa773430097a46d49",
     "k2": "45f3927f05057444ec1525906bb7b881"
-  },
-  {
-    "title": "Mexico vs. France (Quarterfinals)",
-    "league": "Kings World Cup Nations",
-    "fecha-evento": "2026-01-13T15:55:00-05:00",
-    "img": "019bb7e3-8072-798e-806f-d18050e33ea1",
-    "nombre": "disney3df6bd",
-    "status": "15:55",
-    "duration": 65,
-    "play_url": "https://www.disneyplus.com/es-es/play/5ec062ad-b633-494d-a03e-2a7646b0cf68",
-    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1768424478~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Fbbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1767092609127%2F~psid=2ec5ab1b-a683-4b57-8df4-485a0f678e76~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=0ff69e8cdc402b04d328b461438e7d5adcc7103243547e545933e9280d11e6f6/clt1/va02/disneyplus/channel/bbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1767092609127/ctr-all-sliding-alt1.m3u8?v=1&hash=caa611b0aedb1e1aad3e4a1a02fe77959cc0e2c7",
-    "k1": "bd6e50a8d5644f9e8c6ea2aa4a5c29e0",
-    "k2": "365fd3085a82de28fdef9c7262c63380"
   },
   {
     "title": "Huracán vs. Cerro Porteño",
@@ -627,6 +601,26 @@
     "fecha-evento": "2026-01-14T14:20:00-05:00",
     "img": "019b7b98-50fc-70e2-80c0-608150384f30",
     "nombre": "disneyacb396",
+    "status": "14:20",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Goal Arena - The Bundesliga Konferenz",
+    "league": "Bundesliga",
+    "fecha-evento": "2026-01-14T14:20:00-05:00",
+    "img": "d5a99124-2265-415c-91e1-d37d3e5dd576",
+    "nombre": "disney9dbf21",
+    "status": "14:20",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Hoffenheim vs. Borussia Mönchengladbach",
+    "league": "Bundesliga",
+    "fecha-evento": "2026-01-14T14:20:00-05:00",
+    "img": "019b7b98-60ad-732e-ad2c-f1fdd3b19e6c",
+    "nombre": "disneye8d5cf",
     "status": "14:20",
     "duration": 135,
     "play_url": ""
