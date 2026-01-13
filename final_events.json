@@ -156,16 +156,6 @@
     "k2": "6a54428610c6cc23ab8960f7c3c277c3"
   },
   {
-    "title": "Edmonton Oilers vs. Chicago Blackhawks",
-    "league": "National Hockey League",
-    "fecha-evento": "2026-01-12T20:30:00-05:00",
-    "img": "019b9a5a-8924-72f3-81a7-ef8cd33bf92c",
-    "nombre": "disney79e568",
-    "status": "20:30",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "NFL Wild Card Playbook with Next Gen Stats: Houston Texans vs. Pittsburgh Steelers",
     "league": "NFL",
     "fecha-evento": "2026-01-12T20:00:01-05:00",
@@ -194,12 +184,28 @@
   {
     "title": "WTA Adelaide International / Court 4",
     "league": "WTA",
-    "fecha-evento": "2026-01-12T20:30:00-05:00",
+    "fecha-evento": "2026-01-12T20:30:01-05:00",
     "img": "019b8e9e-e48e-73dd-9da3-10f53ea868b4",
-    "nombre": "disneyb57c96",
+    "nombre": "disney841912",
     "status": "20:30",
-    "duration": 135,
-    "play_url": ""
+    "duration": 540,
+    "play_url": "https://www.disneyplus.com/es-es/play/4116be42-693c-4a57-923e-6d7afb459241",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1768354856~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F13%2FWTA_Adelaide_Internationa_20260113_1768260627034%2F~psid=6cf39ba6-d604-4e15-90c4-0387a2569c0a~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=dd8d14d41a7f9e55e26d3eaffcc9a980ada94a2b1dff8dfaa3d9aec72f5d206e/clt1/va02/disneyplus/event/2026/01/13/WTA_Adelaide_Internationa_20260113_1768260627034/ctr-all-hdri-complete.m3u8?v=1&hash=de753cdb9c518b3912fae2d537ffb3c099d407cf",
+    "k1": "f289f46ad94e412e90832a5be344f383",
+    "k2": "e924e8609c566d7e0cd2c45f7e960660"
+  },
+  {
+    "title": "Edmonton Oilers vs. Chicago Blackhawks",
+    "league": "National Hockey League",
+    "fecha-evento": "2026-01-12T20:30:11-05:00",
+    "img": "019b9a5a-8924-72f3-81a7-ef8cd33bf92c",
+    "nombre": "disney2ef34d",
+    "status": "20:30",
+    "duration": 210,
+    "play_url": "https://www.disneyplus.com/es-es/play/fb247ff6-cc7d-4c18-a1eb-904fcf007715",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1768354901~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F13%2FEdmonton_Oilers_vs_Chicag_20260113_1768260607021%2F~psid=4d26bab6-c65f-45af-8b9e-88bf907dc8b3~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=dca5d0b7f2e6b197c950adbd4e0328ca5f42077546922902ea365bc45bf449b0/clt1/va02/disneyplus/event/2026/01/13/Edmonton_Oilers_vs_Chicag_20260113_1768260607021/ctr-all-hdri-complete.m3u8?v=1&hash=daab602f08b931c6fcd7e98b410f0717f526619c",
+    "k1": "03f86af03b464ae78a0241742763b0d3",
+    "k2": "d8cfb7fee2781d698bcd383d22e14d1c"
   },
   {
     "title": "Dallas Stars vs. Los Angeles Kings",
