@@ -1,31 +1,5 @@
 [
   {
-    "title": "Kings World Cup Nations | 4tos de final",
-    "league": "Kings World Cup Nations",
-    "fecha-evento": "2026-01-14T15:55:00-05:00",
-    "img": "019b7669-3cff-781c-8052-a7983163870c",
-    "nombre": "disney4c8296",
-    "status": "15:55",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/8cc07c5c-4a40-4199-b085-76e731ac5293",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1768510837~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F14%2FKings_World_Cup_Nations_4_20260114_1768416931019%2F~psid=378d0383-a541-4156-880a-a1f5642b51e7~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=c47a0704df711e2740712f07c5975df9e5f2cee29361b55e6347d816ed1a0c0c/clt1/va02/disneyplus/event/2026/01/14/Kings_World_Cup_Nations_4_20260114_1768416931019/ctr-all-hdri-complete.m3u8?v=1&hash=4ea13e78875cfce8bff8a88264986e679fb46ddf",
-    "k1": "c0b62fa4fb9643b98f3b929f89752362",
-    "k2": "1b0a236489c40c41e9193248efe2e521"
-  },
-  {
-    "title": "Unión de Santa Fe vs. Alianza Lima",
-    "league": "Serie Río de la Plata",
-    "fecha-evento": "2026-01-14T16:00:02-05:00",
-    "img": "019b8f31-237d-78b6-bad5-1fb9e2e65ea4",
-    "nombre": "disney680b1f",
-    "status": "16:00",
-    "duration": 150,
-    "play_url": "https://www.disneyplus.com/es-es/play/f54e6ee0-fe4d-4662-8e4b-f9c09736f5c0",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1768512039~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F14%2FUnin_de_Santa_Fe_vs_Alian_20260114_1768417232043%2F~psid=bc6effa4-adc0-4be1-97cb-6e7261b6735b~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=d0d82c0e912c7350f047dedba0645b30a9d08f0b42f6eda81b1dcbc06824ad0b/clt1/va02/disneyplus/event/2026/01/14/Unin_de_Santa_Fe_vs_Alian_20260114_1768417232043/ctr-all-hdri-complete.m3u8?v=1&hash=ec47220cec3f65c6ed56b6e31549a1b512ebf01b",
-    "k1": "51aac72a0413436fbc2b4b32098d1c56",
-    "k2": "eb13de0d08eec82658391b8a430db894"
-  },
-  {
     "title": "Boca Juniors vs. Millonarios",
     "league": "Amistoso",
     "fecha-evento": "2026-01-14T16:30:06-05:00",
@@ -52,16 +26,6 @@
     "k2": "13b194036cecf48a5c1aa576c7c6ed20"
   },
   {
-    "title": "Cúcuta Deportivo vs. San Lorenzo",
-    "league": "Serie Colombia",
-    "fecha-evento": "2026-01-14T18:30:00-05:00",
-    "img": "019bbcc9-9cbf-746c-8407-915e66f35291",
-    "nombre": "disney63fb5e",
-    "status": "18:30",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Seattle Kraken vs. New Jersey Devils",
     "league": "National Hockey League",
     "fecha-evento": "2026-01-14T19:00:00-05:00",
@@ -70,6 +34,19 @@
     "status": "19:00",
     "duration": 135,
     "play_url": ""
+  },
+  {
+    "title": "Cúcuta Deportivo vs. San Lorenzo",
+    "league": "Serie Colombia",
+    "fecha-evento": "2026-01-14T18:30:03-05:00",
+    "img": "019bbcc9-9cbf-746c-8407-915e66f35291",
+    "nombre": "disneyc5d771",
+    "status": "18:30",
+    "duration": 150,
+    "play_url": "https://www.disneyplus.com/es-es/play/1db37cee-a576-4397-98ed-10c0838e90d2",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1768520433~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F14%2FCcuta_Deportivo_vs_San_Lo_20260114_1768426249027%2F~psid=d905ebfa-009d-4f9d-a858-d12d583db9c6~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=4b7d26611232620e0fc8ca5c54592abc73bbf3095e9cccadb1cde1b933e45656/clt1/va02/disneyplus/event/2026/01/14/Ccuta_Deportivo_vs_San_Lo_20260114_1768426249027/ctr-all-hdri-complete.m3u8?v=1&hash=8f106bd2c3bb4dcaf3e0b4d8fca1c35c5040b23a",
+    "k1": "1cfc4c19d5204c2abe293c68cb6841af",
+    "k2": "14facf226a860c052c22e1070b5faf81"
   },
   {
     "title": "Ole Miss vs. #21 Georgia",
@@ -638,6 +615,26 @@
     "img": "afffd7cc-1148-4e78-90f1-73df5f71a154",
     "nombre": "disney58bead",
     "status": "15:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Chile (Semifinal)",
+    "league": "Kings World Cup Nations",
+    "fecha-evento": "2026-01-15T15:55:00-05:00",
+    "img": "019b80c4-1c36-7dff-9875-18a6c70d80eb",
+    "nombre": "disney4a305f",
+    "status": "15:55",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Atlético Tucumán vs. Progreso",
+    "league": "Serie Río de la Plata",
+    "fecha-evento": "2026-01-15T16:00:00-05:00",
+    "img": "019b8f2f-93bb-701f-b831-57ce31c13888",
+    "nombre": "disney38a05c",
+    "status": "16:00",
     "duration": 135,
     "play_url": ""
   }
