@@ -84,8 +84,11 @@
     "img": "019b7669-3cff-781c-8052-a7983163870c",
     "nombre": "disney4c8296",
     "status": "15:55",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/8cc07c5c-4a40-4199-b085-76e731ac5293",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1768510837~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F14%2FKings_World_Cup_Nations_4_20260114_1768416931019%2F~psid=378d0383-a541-4156-880a-a1f5642b51e7~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=c47a0704df711e2740712f07c5975df9e5f2cee29361b55e6347d816ed1a0c0c/clt1/va02/disneyplus/event/2026/01/14/Kings_World_Cup_Nations_4_20260114_1768416931019/ctr-all-hdri-complete.m3u8?v=1&hash=4ea13e78875cfce8bff8a88264986e679fb46ddf",
+    "k1": "c0b62fa4fb9643b98f3b929f89752362",
+    "k2": "1b0a236489c40c41e9193248efe2e521"
   },
   {
     "title": "Chile vs. Germany (Quarterfinals)",
@@ -94,8 +97,11 @@
     "img": "019bb7d5-b10e-7395-b31e-8e4ef91e405a",
     "nombre": "disney552ca7",
     "status": "15:55",
-    "duration": 135,
-    "play_url": ""
+    "duration": 65,
+    "play_url": "https://www.disneyplus.com/es-es/play/7e530ea7-d0ba-4a46-8c02-0b456577723d",
+    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1768510882~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Fbbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1767092609127%2F~psid=21590a4e-b5b8-4ea2-ab71-d5de5e2bf47c~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=a0241314299941d338ac9f16712e93243e2692ea565d3a970b888fd211b7787e/clt1/va02/disneyplus/channel/bbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1767092609127/ctr-all-sliding-alt1.m3u8?v=1&hash=caa611b0aedb1e1aad3e4a1a02fe77959cc0e2c7",
+    "k1": "7841e72f495a41b3b80696f6788b403c",
+    "k2": "a2c121f20f7c117c8429d63a2de86d99"
   },
   {
     "title": "Unión de Santa Fe vs. Alianza Lima",
@@ -521,7 +527,7 @@
     "title": "Aleksandar Vukic (AUS) vs. Tommy Paul (USA) (Quarterfinals)",
     "league": "ATP",
     "fecha-evento": "2026-01-14T23:30:00-05:00",
-    "img": "019b8ecf-047b-707d-8f11-dfa2beb2ed99",
+    "img": "019bbe46-5287-736f-913c-9b0b083351d1",
     "nombre": "disney8f02f9",
     "status": "23:30",
     "duration": 135,
