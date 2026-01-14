@@ -1,18 +1,5 @@
 [
   {
-    "title": "Wolfsburg vs. St. Pauli",
-    "league": "Bundesliga",
-    "fecha-evento": "2026-01-14T12:20:04-05:00",
-    "img": "e8284f9f-8e40-41bf-80f2-71cdc6ee8d42",
-    "nombre": "disney80891a",
-    "status": "12:20",
-    "duration": 140,
-    "play_url": "https://www.disneyplus.com/es-es/play/c49a8516-91e7-492c-b697-547dc2435e01",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1768505564~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F14%2FWolfsburg_vs_St_Pauli_20260114_1768404048053%2F~psid=140ee354-3ec1-40a5-96fb-f8b2491bb66b~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=41cf01d28481d4b0bc2f43801237bbd84952540a3b552a27737854b484332425/clt1/va02/disneyplus/event/2026/01/14/Wolfsburg_vs_St_Pauli_20260114_1768404048053/ctr-all-hdri-complete.m3u8?v=1&hash=011abfaa82b67ab7be2f2cb3358b5c4fc8518937",
-    "k1": "4751d28affcf4a789f9b32f331d495d5",
-    "k2": "6a89523720cf2d489f75cb0576f23b2d"
-  },
-  {
     "title": "Koln vs. Bayern Munich",
     "league": "Bundesliga",
     "fecha-evento": "2026-01-14T14:10:02-05:00",
@@ -84,8 +71,11 @@
     "img": "019b51db-157f-716a-a1db-b92e00f5c33e",
     "nombre": "disney95112b",
     "status": "14:45",
-    "duration": 135,
-    "play_url": ""
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/7dbeeed6-5101-4304-a8a1-197a46a40cdd",
+    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1768507233~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F921e1311-bb26-43dd-84a6-9e2284959712-1762950465141%2F~psid=8ac1c583-0246-40bf-a1d2-f4d662e5cae6~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=46cefbc5a748b4574c71a859c01386a0ccc3af8fc9b5890faad3784a03b7cb21/clt1/va02/disneyplus/channel/921e1311-bb26-43dd-84a6-9e2284959712-1762950465141/ctr-all-sliding-alt1.m3u8?v=1&hash=03915bf69f19826611ecdeecc79455eab40b229c",
+    "k1": "1f2f9dd321824072b69cbf16e4f5d5b0",
+    "k2": "db102d3c6885453f0cd1ee1991d6bc5b"
   },
   {
     "title": "Kings World Cup Nations | 4tos de final",
@@ -551,7 +541,7 @@
     "title": "Giovanni Mpetshi Perricard (FRA) vs. Jakub Mensik (CZE) (Quarterfinals)",
     "league": "ATP",
     "fecha-evento": "2026-01-15T00:00:00-05:00",
-    "img": "019b8e01-e74d-7a71-ae85-dd93710a875b",
+    "img": "019bbe0c-bec8-7e6f-9d72-7bb5511288e7",
     "nombre": "disney677865",
     "status": "00:00",
     "duration": 135,
@@ -644,6 +634,16 @@
     "img": "019b8e74-3168-75ac-9b2c-8f5a25218f7d",
     "nombre": "disneybd7201",
     "status": "03:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Alejandro Davidovich Fokina (ESP) vs. Valentin Vacherot (MON) (Quarterfinals)",
+    "league": "ATP",
+    "fecha-evento": "2026-01-15T04:30:00-05:00",
+    "img": "019b8ecf-047b-707d-8f11-dfa2beb2ed99",
+    "nombre": "disney142d6c",
+    "status": "04:30",
     "duration": 135,
     "play_url": ""
   }
