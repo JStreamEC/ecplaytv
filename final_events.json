@@ -112,7 +112,7 @@
     "title": "Court 17 (Qualifying) (Third Round)",
     "league": "ESPN",
     "fecha-evento": "2026-01-14T19:00:00-05:00",
-    "img": "d3f9979a-0ad8-4ed7-84fc-b129d0f9a1cb",
+    "img": "da7dbe7a-13e0-44a5-9e07-ab0ac7d0e2d0",
     "nombre": "disneyd1a36b",
     "status": "19:00",
     "duration": 135,
@@ -142,7 +142,7 @@
     "title": "Court 16 (Qualifying) (Third Round)",
     "league": "ESPN",
     "fecha-evento": "2026-01-14T19:00:00-05:00",
-    "img": "d3f9979a-0ad8-4ed7-84fc-b129d0f9a1cb",
+    "img": "f5554b17-5812-4b47-a9bc-c31decdd1d89",
     "nombre": "disney7a5384",
     "status": "19:00",
     "duration": 135,
@@ -165,8 +165,11 @@
     "img": "019b2d2b-9376-7392-b2c5-f95ff176273d",
     "nombre": "disneyce67b7",
     "status": "19:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 150,
+    "play_url": "https://www.disneyplus.com/es-es/play/9de2b19c-9a74-40d4-932b-89a371f2f0d9",
+    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1768521632~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Ff25bdf06-81c9-4a7c-b128-3128d610ad17-1762951253360%2F~psid=f4ce4014-7625-47a3-8e18-0aafc40dc8e2~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=7aade724f57b100f16ac41dea60f14ef54e610c30e56954962b2a2a925d2243c/clt1/va02/disneyplus/channel/f25bdf06-81c9-4a7c-b128-3128d610ad17-1762951253360/ctr-all-sliding-alt1.m3u8?v=1&hash=57a1e5c4737768952c5164be5d4f5ba525d47674",
+    "k1": "b438aa74e7c743fe85d9e6bb1eee5809",
+    "k2": "21d897a869ec2a16ee04c8cc8b4fba54"
   },
   {
     "title": "Tigres de Cartagena vs. Caimanes de Barranquilla (Juego #2)",
@@ -175,8 +178,11 @@
     "img": "019bb40c-d13b-76b5-87ad-540533456e7c",
     "nombre": "disney82a5a1",
     "status": "19:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 180,
+    "play_url": "https://www.disneyplus.com/es-es/play/8cc7096d-2131-4800-a517-4109ca9bacd4",
+    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1768521676~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F7f9052ce-8143-43a6-9656-a8c00c4a3e56-1762950862652%2F~psid=8ff3405e-1af2-4334-af35-0b4870f6a0cd~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=2efa37ada271f420b826614e030d82405c509ae62e96bf253c0d799ba356be4d/clt1/va02/disneyplus/channel/7f9052ce-8143-43a6-9656-a8c00c4a3e56-1762950862652/ctr-all-sliding-alt1.m3u8?v=1&hash=2daf186937da77473bf07bbbecfc5597024e944f",
+    "k1": "4bb0a84789aa4d999a4797ed81d52471",
+    "k2": "3318b8dfe7e52668647d76c00481d216"
   },
   {
     "title": "Delaware Blue Coats vs. College Park Skyhawks",
@@ -619,11 +625,11 @@
     "play_url": ""
   },
   {
-    "title": "Chile (Semifinal)",
+    "title": "Chile vs. España (Semifinal)",
     "league": "Kings World Cup Nations",
     "fecha-evento": "2026-01-15T15:55:00-05:00",
     "img": "019b80c4-1c36-7dff-9875-18a6c70d80eb",
-    "nombre": "disney4a305f",
+    "nombre": "disneyb29564",
     "status": "15:55",
     "duration": 135,
     "play_url": ""
