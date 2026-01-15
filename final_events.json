@@ -286,16 +286,6 @@
     "k2": "b2876db0b62f31cff0addbff5c61a1a1"
   },
   {
-    "title": "Calgary Flames vs. Chicago Blackhawks",
-    "league": "National Hockey League",
-    "fecha-evento": "2026-01-15T20:30:00-05:00",
-    "img": "019b3f95-e1bf-7377-8ec9-90e4f5f23546",
-    "nombre": "disney937087",
-    "status": "20:30",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Portland vs. Pepperdine",
     "league": "Básquetbol Masculino NCAA",
     "fecha-evento": "2026-01-14T21:00:00-05:00",
@@ -692,6 +682,16 @@
     "img": "019b8f30-6636-7c72-9057-0a54bd7d1fb4",
     "nombre": "disney213e33",
     "status": "18:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Montreal Canadiens vs. Buffalo Sabres",
+    "league": "National Hockey League",
+    "fecha-evento": "2026-01-15T19:00:00-05:00",
+    "img": "db307303-2086-41b4-a9b5-b79729e465cc",
+    "nombre": "disney7994ea",
+    "status": "19:00",
     "duration": 135,
     "play_url": ""
   }
