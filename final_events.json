@@ -78,19 +78,6 @@
     "k2": "b08339ce4ae67af3c5de90ef88ee3445"
   },
   {
-    "title": "Tigres de Cartagena vs. Caimanes de Barranquilla (Juego #2)",
-    "league": "Colombian Beisbol",
-    "fecha-evento": "2026-01-14T19:00:00-05:00",
-    "img": "019bb40c-d13b-76b5-87ad-540533456e7c",
-    "nombre": "disney82a5a1",
-    "status": "19:00",
-    "duration": 180,
-    "play_url": "https://www.disneyplus.com/es-es/play/8cc7096d-2131-4800-a517-4109ca9bacd4",
-    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1768521676~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F7f9052ce-8143-43a6-9656-a8c00c4a3e56-1762950862652%2F~psid=8ff3405e-1af2-4334-af35-0b4870f6a0cd~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=2efa37ada271f420b826614e030d82405c509ae62e96bf253c0d799ba356be4d/clt1/va02/disneyplus/channel/7f9052ce-8143-43a6-9656-a8c00c4a3e56-1762950862652/ctr-all-sliding-alt1.m3u8?v=1&hash=2daf186937da77473bf07bbbecfc5597024e944f",
-    "k1": "4bb0a84789aa4d999a4797ed81d52471",
-    "k2": "3318b8dfe7e52668647d76c00481d216"
-  },
-  {
     "title": "Court 16 (Qualifying) (Third Round)",
     "league": "ESPN",
     "fecha-evento": "2026-01-14T19:00:07-05:00",
@@ -193,19 +180,6 @@
     "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1768530120~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F15%2FRio_Grande_Valley_Vipers__20260115_1768435249042%2F~psid=5634e919-d383-4e1e-b386-8eca0e2ff806~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=4be253c24c33d2712c4cc41c84dbdb52900a78575efebed689158ecbba205488/clt1/va02/disneyplus/event/2026/01/15/Rio_Grande_Valley_Vipers__20260115_1768435249042/ctr-all-hdri-complete.m3u8?v=1&hash=061bcca6ddcbc971f218907290bd30e05d5b5139",
     "k1": "b8de80211ef645a78fdb04630e5e58cb",
     "k2": "58b70b8c9263ae3a0df40b9c341b9c74"
-  },
-  {
-    "title": "Tomas Machac (CZE) vs. Jaume Munar (ESP) (Quarterfinals)",
-    "league": "ATP",
-    "fecha-evento": "2026-01-14T21:00:05-05:00",
-    "img": "019bbe1a-dc4c-75f7-b29d-7a94fe58b214",
-    "nombre": "disney38cf85",
-    "status": "21:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/56778aee-7a51-4c91-9467-0dd9d7035095",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1768530144~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F15%2FTomas_Machac_CZE_vs_Jaume_20260115_1768435251029%2F~psid=1eae3f76-ab7a-4ea9-b802-a491089766ca~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=4f31b755e19b139ed968557f528c79003f9b5fdef92f655df3b729537d10e9c4/clt1/va02/disneyplus/event/2026/01/15/Tomas_Machac_CZE_vs_Jaume_20260115_1768435251029/ctr-all-hdri-complete.m3u8?v=1&hash=448c7403c1b29b9de9911b73ca2729aa19ec8e48",
-    "k1": "027d8b83bb6c42549e7ba7c43a5df638",
-    "k2": "c0dce28ec795013cc1b0234ee7c7e06d"
   },
   {
     "title": "Oklahoma City Blue vs. Rip City Remix",
@@ -698,6 +672,26 @@
     "img": "019b835a-085f-7771-9955-0c0852b6a7bd",
     "nombre": "disneyb3700f",
     "status": "20:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Austin Spurs vs. Salt Lake City Stars",
+    "league": "NBA G League",
+    "fecha-evento": "2026-01-15T20:00:00-05:00",
+    "img": "019b7902-7935-756f-863e-17099bbcff7a",
+    "nombre": "disney10986b",
+    "status": "20:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Missouri vs. Arizona State",
+    "league": "NCAA Luchas",
+    "fecha-evento": "2026-01-15T20:30:00-05:00",
+    "img": "d66c6ed2-85fc-46bd-a016-ac01d041e55e",
+    "nombre": "disneydd6a45",
+    "status": "20:30",
     "duration": 135,
     "play_url": ""
   }
