@@ -13,19 +13,6 @@
     "k2": "cd770e0148b2ad3a1e5ad9d72d735993"
   },
   {
-    "title": "Monaco vs. Lorient",
-    "league": "Ligue 1",
-    "fecha-evento": "2026-01-16T12:50:00-05:00",
-    "img": "019b85ee-2b23-77e4-9a48-8055ac8462c5",
-    "nombre": "disney8ad3e6",
-    "status": "12:50",
-    "duration": 125,
-    "play_url": "https://www.disneyplus.com/es-es/play/b5a59728-e576-42d1-ac97-633ea6969f34",
-    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1768672835~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F921e1311-bb26-43dd-84a6-9e2284959712-1762950465141%2F~psid=47129a16-e33e-40ff-83db-4276d40f7b4f~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=3fe0a17083820591e8461814231fc278f8aa9988c5b7355b9e7fe724e60af3a6/clt1/va02/disneyplus/channel/921e1311-bb26-43dd-84a6-9e2284959712-1762950465141/ctr-all-sliding-alt1.m3u8?v=1&hash=03915bf69f19826611ecdeecc79455eab40b229c",
-    "k1": "d96a5e4aa028464ebdc8a58f2404823d",
-    "k2": "0a148443214eb72637e4ef334f842365"
-  },
-  {
     "title": "2026 Latin America Amateur Championship (Second Round)",
     "league": "ESPN",
     "fecha-evento": "2026-01-16T14:00:00-05:00",
@@ -357,7 +344,7 @@
     "title": "Jordan Panthen vs. Raul Curiel",
     "league": "ESPN",
     "fecha-evento": "2026-01-16T22:00:00-05:00",
-    "img": "019b9a4f-b561-7cd5-a9e1-e0c89944e8c0",
+    "img": "019bc869-4aca-742a-80c7-beb96d39f103",
     "nombre": "disney461b80",
     "status": "22:00",
     "duration": 135,
@@ -650,6 +637,16 @@
     "img": "019b8b1a-bee9-7368-a6f3-b57f0f6d81f1",
     "nombre": "disneyea0729",
     "status": "06:55",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Manchester United vs. Manchester City",
+    "league": "Premier League",
+    "fecha-evento": "2026-01-17T07:15:00-05:00",
+    "img": "019b8feb-6464-7f6d-a856-5d5d08ad961c",
+    "nombre": "disney5d2fa8",
+    "status": "07:15",
     "duration": 135,
     "play_url": ""
   }
