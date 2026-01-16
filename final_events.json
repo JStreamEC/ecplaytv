@@ -26,19 +26,6 @@
     "k2": "efe529afa925983b93ddd504667beba7"
   },
   {
-    "title": "PSG vs. Lille",
-    "league": "Ligue 1",
-    "fecha-evento": "2026-01-16T14:55:32-05:00",
-    "img": "019b8fe3-7101-78b2-ac93-07a707422801",
-    "nombre": "disneyc5b617",
-    "status": "14:55",
-    "duration": 119,
-    "play_url": "https://www.disneyplus.com/es-es/play/964fea67-3c1e-4dcc-8d21-4728ba6e9c81",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1768680078~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F16%2FPSG_vs_Lille_20260116_1768586122019%2F~psid=83fd9b91-70a5-4c3a-9d8a-74c47f02b96c~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=39971d941cbe9ddfccef5e1306482701ed7c6eb2b68057f960e63b3e1d022e16/clt1/va02/disneyplus/event/2026/01/16/PSG_vs_Lille_20260116_1768586122019/ctr-all-hdri-complete.m3u8?v=1&hash=579ea7e536760b34a0b9f27a7aeb3751a0f6e089",
-    "k1": "35edb85f7c474bfb986bfd969f6b18cc",
-    "k2": "c1cb508ef92371aabe62b5968fdefe7f"
-  },
-  {
     "title": "Cúcuta Deportivo vs. Huracán",
     "league": "Serie Colombia",
     "fecha-evento": "2026-01-16T16:00:01-05:00",
@@ -637,6 +624,16 @@
     "img": "019b949b-c305-703f-8626-fca09ff25b46",
     "nombre": "disney1c7ee6",
     "status": "07:55",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Udinese vs. Inter",
+    "league": "Seria A",
+    "fecha-evento": "2026-01-17T08:50:00-05:00",
+    "img": "019b98ca-0e01-7ebd-afa3-cf602aae8578",
+    "nombre": "disney234b9b",
+    "status": "08:50",
     "duration": 135,
     "play_url": ""
   }
