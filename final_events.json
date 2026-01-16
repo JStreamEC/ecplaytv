@@ -84,18 +84,24 @@
     "img": "019b85ee-28a6-7556-9620-3e02cf0a1b73",
     "nombre": "disney4aaa9b",
     "status": "14:50",
-    "duration": 135,
-    "play_url": ""
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/925021c1-d853-48c0-beae-314dced9b644",
+    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1768680035~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F7f9052ce-8143-43a6-9656-a8c00c4a3e56-1762950862652%2F~psid=4385df47-bd30-4f8f-9274-20a5c51b55b3~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=31e6458e4439caca198bc2e87800e96ef388e58724aaeeed3af23a48b0b94c16/clt1/va02/disneyplus/channel/7f9052ce-8143-43a6-9656-a8c00c4a3e56-1762950862652/ctr-all-sliding-alt1.m3u8?v=1&hash=2daf186937da77473bf07bbbecfc5597024e944f",
+    "k1": "2d0e00a2cfec4e98825d6b19f9e92d8d",
+    "k2": "efe529afa925983b93ddd504667beba7"
   },
   {
     "title": "PSG vs. Lille",
     "league": "Ligue 1",
-    "fecha-evento": "2026-01-16T14:55:00-05:00",
+    "fecha-evento": "2026-01-16T14:55:32-05:00",
     "img": "019b8fe3-7101-78b2-ac93-07a707422801",
-    "nombre": "disney3802ef",
+    "nombre": "disneyc5b617",
     "status": "14:55",
-    "duration": 135,
-    "play_url": ""
+    "duration": 119,
+    "play_url": "https://www.disneyplus.com/es-es/play/964fea67-3c1e-4dcc-8d21-4728ba6e9c81",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1768680078~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F16%2FPSG_vs_Lille_20260116_1768586122019%2F~psid=83fd9b91-70a5-4c3a-9d8a-74c47f02b96c~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=39971d941cbe9ddfccef5e1306482701ed7c6eb2b68057f960e63b3e1d022e16/clt1/va02/disneyplus/event/2026/01/16/PSG_vs_Lille_20260116_1768586122019/ctr-all-hdri-complete.m3u8?v=1&hash=579ea7e536760b34a0b9f27a7aeb3751a0f6e089",
+    "k1": "35edb85f7c474bfb986bfd969f6b18cc",
+    "k2": "c1cb508ef92371aabe62b5968fdefe7f"
   },
   {
     "title": "Cúcuta Deportivo vs. Huracán",
@@ -633,6 +639,16 @@
     "fecha-evento": "2026-01-17T06:55:00-05:00",
     "img": "019b8b1a-3b31-7e0e-84bf-8a9d26f20782",
     "nombre": "disney63a758",
+    "status": "06:55",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "1. FC Nurnberg vs. SV Elversberg",
+    "league": "Bundesliga 2 de Alemania",
+    "fecha-evento": "2026-01-17T06:55:00-05:00",
+    "img": "019b8b1a-bee9-7368-a6f3-b57f0f6d81f1",
+    "nombre": "disneyea0729",
     "status": "06:55",
     "duration": 135,
     "play_url": ""
