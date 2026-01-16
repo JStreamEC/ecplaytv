@@ -10,19 +10,6 @@
     "play_url": ""
   },
   {
-    "title": "Calgary Flames vs. Chicago Blackhawks",
-    "league": "National Hockey League",
-    "fecha-evento": "2026-01-15T20:30:14-05:00",
-    "img": "019b3f95-e1bf-7377-8ec9-90e4f5f23546",
-    "nombre": "disneybe47a9",
-    "status": "20:30",
-    "duration": 210,
-    "play_url": "https://www.disneyplus.com/es-es/play/03a7330e-aa8f-4a44-bf4f-9c077cd7dc32",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1768614080~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F16%2FCalgary_Flames_vs_Chicago_20260116_1768519807665%2F~psid=ede8dc68-f441-4fa7-b387-17ce0fafe91f~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=4d5df4c2800be3dc3aba0e7db0ceada3068e98c4197d16852f0ecf41f8ce6819/clt1/va02/disneyplus/event/2026/01/16/Calgary_Flames_vs_Chicago_20260116_1768519807665/ctr-all-hdri-complete.m3u8?v=1&hash=53084fca6d62381aab791f140c2447aab57eb0c1",
-    "k1": "ae730369b3e1412caad6047a4b56380b",
-    "k2": "3b2f82d233012113277dddc87c07a055"
-  },
-  {
     "title": "Dallas Stars vs. Utah Mammoth",
     "league": "National Hockey League",
     "fecha-evento": "2026-01-15T21:00:00-05:00",
@@ -47,19 +34,6 @@
     "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1768617637~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F16%2FEn_EspaolToronto_Maple_Le_20260116_1768523424040%2F~psid=5a42197c-f833-4f4c-a610-4ef4aaa535ad~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=fd8d3c9411f175c5ca4a7f9c09bafcdde837143592aa708c49ccd8183f26987d/clt1/va02/disneyplus/event/2026/01/16/En_EspaolToronto_Maple_Le_20260116_1768523424040/ctr-all-hdri-complete.m3u8?v=1&hash=12155c3e6407edb04084e1c222baaba664060da5",
     "k1": "895a0230d9b24d218d2267546c06b881",
     "k2": "9304a8a987d2b0554fb15f3734dc564b"
-  },
-  {
-    "title": "Washington State vs. Saint Mary's",
-    "league": "Básquet Femenino NCAA",
-    "fecha-evento": "2026-01-15T21:30:04-05:00",
-    "img": "019bbfb4-4320-708a-aab6-cff61cee2d20",
-    "nombre": "disneydd7cfc",
-    "status": "21:30",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/654ac4f2-2351-4291-b187-f1aee883c35a",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1768617681~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F16%2FWashington_State_vs_Saint_20260116_1768525347002%2F~psid=2c630451-d9be-484f-bf00-766bdcce5b5c~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=cafa90eb01fd5d2968343c82177e3ac1abc8242362d688cc1542ce64aaecf020/clt1/va02/disneyplus/event/2026/01/16/Washington_State_vs_Saint_20260116_1768525347002/ctr-all-hdri-complete.m3u8?v=1&hash=cab95e3812bbe11234e086f16bba91a9c38002d9",
-    "k1": "ed81652d3b1143829a74212b2f3a05a1",
-    "k2": "5add395764aba52b0605a4e66ee20f5b"
   },
   {
     "title": "San Diego vs. Seattle U",
@@ -653,6 +627,26 @@
     "img": "fecff0de-d091-406f-a300-848531749ec5",
     "nombre": "disneyac6d1f",
     "status": "21:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Hobart International (Final)",
+    "league": "WTA",
+    "fecha-evento": "2026-01-16T21:00:00-05:00",
+    "img": "019b8e79-2ffe-7a30-b783-ed1a1873913a",
+    "nombre": "disney0cfe8b",
+    "status": "21:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "En Español-Minnesota Timberwolves vs. Houston Rockets",
+    "league": "NBA",
+    "fecha-evento": "2026-01-16T21:30:00-05:00",
+    "img": "a4c994e5-da7b-4394-81c3-6103fc55e0c0",
+    "nombre": "disney97f4d3",
+    "status": "21:30",
     "duration": 135,
     "play_url": ""
   }
