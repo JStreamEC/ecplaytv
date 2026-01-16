@@ -39,19 +39,6 @@
     "k2": "55374e10505457137bf30326e1a33da2"
   },
   {
-    "title": "En Español-#4 Texas vs. #2 South Carolina",
-    "league": "Básquet Femenino NCAA",
-    "fecha-evento": "2026-01-15T19:00:01-05:00",
-    "img": "019b8359-bc48-7b0e-885a-8417b2f4e544",
-    "nombre": "disney9ea7c4",
-    "status": "19:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/1ad9af8d-5760-4c8d-8611-90aa69bf3203",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1768610624~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F16%2FEn_Espaol4_Texas_vs_2_Sou_20260116_1768514443029%2F~psid=9171082b-42bf-4bc1-a9ed-0449b89d2e2b~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=903f1e90b1d21a1a576cde43d2eb35c950c8b18b4d2969def98918543f849193/clt1/va02/disneyplus/event/2026/01/16/En_Espaol4_Texas_vs_2_Sou_20260116_1768514443029/ctr-all-hdri-complete.m3u8?v=1&hash=9843106d1b06aa0f6c30d9606cc5a2b0b356f9fe",
-    "k1": "cbc31cda74c74a5ba584a4d08bd197e8",
-    "k2": "fd8646b15d20a62fdcb5860f71e3dc27"
-  },
-  {
     "title": "Vancouver Canucks vs. Columbus Blue Jackets",
     "league": "National Hockey League",
     "fecha-evento": "2026-01-15T19:00:15-05:00",
@@ -169,19 +156,6 @@
     "k2": "8b36d729ca579bb7721c545ad424d769"
   },
   {
-    "title": "Pacific vs. Pepperdine",
-    "league": "Básquet Femenino NCAA",
-    "fecha-evento": "2026-01-15T21:00:00-05:00",
-    "img": "019b835b-a8d5-7c4b-8f27-1020fef238d1",
-    "nombre": "disney4ceb78",
-    "status": "21:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/4b827028-8f1c-4d82-bea8-693aa0991c79",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1768615326~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F16%2FPacific_vs_Pepperdine_20260116_1768523414477%2F~psid=0b031996-d907-4b98-83f4-7a14b22b6f09~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=8c5d6c0a10e6198ad767fb28946491aaa693cd5dfa9a4657fde11b052887e6af/clt1/va02/disneyplus/event/2026/01/16/Pacific_vs_Pepperdine_20260116_1768523414477/ctr-all-hdri-complete.m3u8?v=1&hash=93f2cbdf7f92cdb5f382c6cac373c55ecf6d4be2",
-    "k1": "203c9c2152c647958937ed044af7b37b",
-    "k2": "fb0341182b547dd1ac2b69b145393814"
-  },
-  {
     "title": "Sebastian Baez  (ARG) vs. Marcos Giron (USA) (Semifinals)",
     "league": "ATP",
     "fecha-evento": "2026-01-15T21:00:00-05:00",
@@ -247,6 +221,19 @@
     "k2": "89ba9a61c3d76bfa446319bbdc139535"
   },
   {
+    "title": "Pacific vs. Pepperdine",
+    "league": "Básquet Femenino NCAA",
+    "fecha-evento": "2026-01-15T21:00:00-05:00",
+    "img": "019b835b-a8d5-7c4b-8f27-1020fef238d1",
+    "nombre": "disney4ceb78",
+    "status": "21:00",
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/4b827028-8f1c-4d82-bea8-693aa0991c79",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1768615326~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F16%2FPacific_vs_Pepperdine_20260116_1768523414477%2F~psid=0b031996-d907-4b98-83f4-7a14b22b6f09~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=8c5d6c0a10e6198ad767fb28946491aaa693cd5dfa9a4657fde11b052887e6af/clt1/va02/disneyplus/event/2026/01/16/Pacific_vs_Pepperdine_20260116_1768523414477/ctr-all-hdri-complete.m3u8?v=1&hash=93f2cbdf7f92cdb5f382c6cac373c55ecf6d4be2",
+    "k1": "203c9c2152c647958937ed044af7b37b",
+    "k2": "fb0341182b547dd1ac2b69b145393814"
+  },
+  {
     "title": "Iowa Wolves vs. Valley Suns",
     "league": "NBA G League",
     "fecha-evento": "2026-01-15T21:00:00-05:00",
@@ -299,34 +286,43 @@
     "k2": "3c3eb0b7038f14ca619cb6a0e1cf114d"
   },
   {
-    "title": "Tomas Machac (CZE) vs. Tommy Paul (USA) (Semifinals)",
-    "league": "ATP",
-    "fecha-evento": "2026-01-15T21:30:00-05:00",
-    "img": "019bc2b5-2dbd-74a1-95ad-6774243ac198",
-    "nombre": "disneye49078",
-    "status": "21:30",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "En Español-Toronto Maple Leafs vs. Vegas Golden Knights",
     "league": "National Hockey League",
-    "fecha-evento": "2026-01-15T21:30:00-05:00",
+    "fecha-evento": "2026-01-15T21:30:03-05:00",
     "img": "5aa643f2-bc9b-4c61-86a2-c9c642b11e0d",
-    "nombre": "disney2cece2",
+    "nombre": "disneye8fe2f",
     "status": "21:30",
-    "duration": 135,
-    "play_url": ""
+    "duration": 150,
+    "play_url": "https://www.disneyplus.com/es-es/play/6a202a56-c1fa-4923-bf84-aa58e5fcf8c4",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1768617637~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F16%2FEn_EspaolToronto_Maple_Le_20260116_1768523424040%2F~psid=5a42197c-f833-4f4c-a610-4ef4aaa535ad~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=fd8d3c9411f175c5ca4a7f9c09bafcdde837143592aa708c49ccd8183f26987d/clt1/va02/disneyplus/event/2026/01/16/En_EspaolToronto_Maple_Le_20260116_1768523424040/ctr-all-hdri-complete.m3u8?v=1&hash=12155c3e6407edb04084e1c222baaba664060da5",
+    "k1": "895a0230d9b24d218d2267546c06b881",
+    "k2": "9304a8a987d2b0554fb15f3734dc564b"
   },
   {
     "title": "Washington State vs. Saint Mary's",
     "league": "Básquet Femenino NCAA",
-    "fecha-evento": "2026-01-15T21:30:00-05:00",
+    "fecha-evento": "2026-01-15T21:30:04-05:00",
     "img": "019bbfb4-4320-708a-aab6-cff61cee2d20",
-    "nombre": "disneyebd8b3",
+    "nombre": "disneydd7cfc",
     "status": "21:30",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/654ac4f2-2351-4291-b187-f1aee883c35a",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1768617681~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F16%2FWashington_State_vs_Saint_20260116_1768525347002%2F~psid=2c630451-d9be-484f-bf00-766bdcce5b5c~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=cafa90eb01fd5d2968343c82177e3ac1abc8242362d688cc1542ce64aaecf020/clt1/va02/disneyplus/event/2026/01/16/Washington_State_vs_Saint_20260116_1768525347002/ctr-all-hdri-complete.m3u8?v=1&hash=cab95e3812bbe11234e086f16bba91a9c38002d9",
+    "k1": "ed81652d3b1143829a74212b2f3a05a1",
+    "k2": "5add395764aba52b0605a4e66ee20f5b"
+  },
+  {
+    "title": "Tomas Machac (CZE) vs. Tommy Paul (USA) (Semifinals)",
+    "league": "ATP",
+    "fecha-evento": "2026-01-15T21:30:06-05:00",
+    "img": "019bc2b5-2dbd-74a1-95ad-6774243ac198",
+    "nombre": "disneycfac65",
+    "status": "21:30",
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/1068f1f8-86e8-448f-a45b-16e99a70a642",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1768617727~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F16%2FTomas_Machac_CZE_vs_Tommy_20260116_1768523439028%2F~psid=93c434ed-ce42-43f1-bc11-395654f75b24~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=3d891d4e80bcfd563a20135757bbc7ce80a79a599ea24bee71a5204e5c6ac4bd/clt1/va02/disneyplus/event/2026/01/16/Tomas_Machac_CZE_vs_Tommy_20260116_1768523439028/ctr-all-hdri-complete.m3u8?v=1&hash=9a34b3835a20a238e1ca133f8900e1397ce46dff",
+    "k1": "458c3f241e8441cbacf70d531093995b",
+    "k2": "717e53d4c9a85407876a65bff5579f3c"
   },
   {
     "title": "San Diego vs. Seattle U",
@@ -455,6 +451,16 @@
     "img": "2ba9f40e-b243-4737-9cff-a1f9774ac58d",
     "nombre": "disneye79d2a",
     "status": "06:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "UEFA Conference League Draw",
+    "league": "UEFA Conference League",
+    "fecha-evento": "2026-01-16T07:00:00-05:00",
+    "img": "019bb38f-c692-7fa9-ac1b-928694c96407",
+    "nombre": "disneybb3207",
+    "status": "07:00",
     "duration": 135,
     "play_url": ""
   },
