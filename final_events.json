@@ -13,19 +13,6 @@
     "k2": "cd770e0148b2ad3a1e5ad9d72d735993"
   },
   {
-    "title": "West Bromwich Albion vs. Middlesbrough",
-    "league": "Championship de Inglaterra",
-    "fecha-evento": "2026-01-16T14:50:00-05:00",
-    "img": "019b85ee-28a6-7556-9620-3e02cf0a1b73",
-    "nombre": "disney4aaa9b",
-    "status": "14:50",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/925021c1-d853-48c0-beae-314dced9b644",
-    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1768680035~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F7f9052ce-8143-43a6-9656-a8c00c4a3e56-1762950862652%2F~psid=4385df47-bd30-4f8f-9274-20a5c51b55b3~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=31e6458e4439caca198bc2e87800e96ef388e58724aaeeed3af23a48b0b94c16/clt1/va02/disneyplus/channel/7f9052ce-8143-43a6-9656-a8c00c4a3e56-1762950862652/ctr-all-sliding-alt1.m3u8?v=1&hash=2daf186937da77473bf07bbbecfc5597024e944f",
-    "k1": "2d0e00a2cfec4e98825d6b19f9e92d8d",
-    "k2": "efe529afa925983b93ddd504667beba7"
-  },
-  {
     "title": "Cúcuta Deportivo vs. Huracán",
     "league": "Serie Colombia",
     "fecha-evento": "2026-01-16T16:00:01-05:00",
@@ -80,22 +67,28 @@
   {
     "title": "Tapatío CD vs. Venados FC (Jornada 2)",
     "league": "Liga de Expansión MX",
-    "fecha-evento": "2026-01-16T17:50:00-05:00",
+    "fecha-evento": "2026-01-16T17:50:02-05:00",
     "img": "019b8883-025f-75aa-9552-b974b81b7b0d",
-    "nombre": "disney6593c2",
+    "nombre": "disneya10057",
     "status": "17:50",
-    "duration": 135,
-    "play_url": ""
+    "duration": 125,
+    "play_url": "https://www.disneyplus.com/es-es/play/a323453e-a370-43ff-96fc-fccc14f0551d",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1768690835~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F16%2FTapato_CD_vs_Venados_FC_J_20260116_1768596610018%2F~psid=7c33e9c2-b391-4674-8ec4-3db5e9f28747~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=0184b4095fed562eab50276f91a5a5ce5afd06001708a0e45e294e0ccbaa583e/clt1/va02/disneyplus/event/2026/01/16/Tapato_CD_vs_Venados_FC_J_20260116_1768596610018/ctr-all-hdri-complete.m3u8?v=1&hash=73fd892e1632bf8f454c6b78f835318f4bf2dc99",
+    "k1": "3db2cf61e6b14b2886cef3370c968429",
+    "k2": "02290d39c68a27775bf79a2eb488ebed"
   },
   {
     "title": "Duquesne vs. Marshall",
     "league": "NCAA Natación y Buceo",
-    "fecha-evento": "2026-01-16T18:00:00-05:00",
+    "fecha-evento": "2026-01-16T17:58:04-05:00",
     "img": "99d2097a-930e-48a4-9cbb-a898bb27b4c0",
-    "nombre": "disney37ceab",
-    "status": "18:00",
-    "duration": 135,
-    "play_url": ""
+    "nombre": "disney17d9cb",
+    "status": "17:58",
+    "duration": 122,
+    "play_url": "https://www.disneyplus.com/es-es/play/42acb59f-a566-4933-bd28-02d5a6890910",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1768690879~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F16%2FDuquesne_vs_Marshall_20260116_1768597238017%2F~psid=ed4689da-e6d9-41b1-b48e-5e62c7d9613b~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=3147ac7efb6984504a07f234972eec14981607220e6cb2f9b9b1c0a33f649d02/clt1/va02/disneyplus/event/2026/01/16/Duquesne_vs_Marshall_20260116_1768597238017/ctr-all-hdri-complete.m3u8?v=1&hash=3b049f01e0c5392fd556ae2ab4abf6a603e02193",
+    "k1": "8fd828cb2ee7424ba2ee5453c1298813",
+    "k2": "4202fc331e41f87f18aea06d4ccd0087"
   },
   {
     "title": "#12 Colgate vs. #13 Yale",
@@ -634,6 +627,16 @@
     "img": "019b98ca-0e01-7ebd-afa3-cf602aae8578",
     "nombre": "disney234b9b",
     "status": "08:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Goal Arena - The Bundesliga Konferenz",
+    "league": "Bundesliga",
+    "fecha-evento": "2026-01-17T09:20:00-05:00",
+    "img": "d5a99124-2265-415c-91e1-d37d3e5dd576",
+    "nombre": "disneyd90815",
+    "status": "09:20",
     "duration": 135,
     "play_url": ""
   }
