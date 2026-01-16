@@ -156,16 +156,6 @@
     "k2": "066f30d78aa19bc8c00247b79fb5969b"
   },
   {
-    "title": "Calgary Flames vs. Chicago Blackhawks",
-    "league": "National Hockey League",
-    "fecha-evento": "2026-01-15T20:30:00-05:00",
-    "img": "019b3f95-e1bf-7377-8ec9-90e4f5f23546",
-    "nombre": "disney937087",
-    "status": "20:30",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Austin Spurs vs. Salt Lake City Stars",
     "league": "NBA G League",
     "fecha-evento": "2026-01-15T20:00:00-05:00",
@@ -207,12 +197,15 @@
   {
     "title": "Missouri vs. Arizona State",
     "league": "NCAA Luchas",
-    "fecha-evento": "2026-01-15T20:30:00-05:00",
+    "fecha-evento": "2026-01-15T20:30:04-05:00",
     "img": "d66c6ed2-85fc-46bd-a016-ac01d041e55e",
-    "nombre": "disneydd6a45",
+    "nombre": "disneyc82433",
     "status": "20:30",
-    "duration": 135,
-    "play_url": ""
+    "duration": 180,
+    "play_url": "https://www.disneyplus.com/es-es/play/1fb212af-577a-4fef-88c3-b8acd2a15edd",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1768614037~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F16%2FMissouri_vs_Arizona_State_20260116_1768519835061%2F~psid=dbe10f9f-696c-4c3f-9a1d-13dab393399d~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=00aa110773305eb144cf50a0b016fc39c3ec935910f530d4c38a957351765e66/clt1/va02/disneyplus/event/2026/01/16/Missouri_vs_Arizona_State_20260116_1768519835061/ctr-all-hdri-complete.m3u8?v=1&hash=93e976ad7a181980f5810205a28df5f516501814",
+    "k1": "1fd906bc7d7542ecafc5cce973ced6bb",
+    "k2": "ff16dd615acd13ad02e7c2f9af9fb891"
   },
   {
     "title": "Dallas Stars vs. Utah Mammoth",
@@ -223,6 +216,19 @@
     "status": "21:00",
     "duration": 135,
     "play_url": ""
+  },
+  {
+    "title": "Calgary Flames vs. Chicago Blackhawks",
+    "league": "National Hockey League",
+    "fecha-evento": "2026-01-15T20:30:14-05:00",
+    "img": "019b3f95-e1bf-7377-8ec9-90e4f5f23546",
+    "nombre": "disneybe47a9",
+    "status": "20:30",
+    "duration": 210,
+    "play_url": "https://www.disneyplus.com/es-es/play/03a7330e-aa8f-4a44-bf4f-9c077cd7dc32",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1768614080~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F16%2FCalgary_Flames_vs_Chicago_20260116_1768519807665%2F~psid=ede8dc68-f441-4fa7-b387-17ce0fafe91f~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=4d5df4c2800be3dc3aba0e7db0ceada3068e98c4197d16852f0ecf41f8ce6819/clt1/va02/disneyplus/event/2026/01/16/Calgary_Flames_vs_Chicago_20260116_1768519807665/ctr-all-hdri-complete.m3u8?v=1&hash=53084fca6d62381aab791f140c2447aab57eb0c1",
+    "k1": "ae730369b3e1412caad6047a4b56380b",
+    "k2": "3b2f82d233012113277dddc87c07a055"
   },
   {
     "title": "San Francisco vs. Gonzaga",
