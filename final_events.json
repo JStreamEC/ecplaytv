@@ -39,19 +39,6 @@
     "k2": "88986dcc86d6efb322d4c3d4085e7325"
   },
   {
-    "title": "Castellón vs. Leganés",
-    "league": "Segunda División de España",
-    "fecha-evento": "2026-01-16T14:24:57-05:00",
-    "img": "019b946b-9a91-7905-9db3-fd733f2be2d6",
-    "nombre": "disney016cde",
-    "status": "14:24",
-    "duration": 125,
-    "play_url": "https://www.disneyplus.com/es-es/play/939b1435-572b-497e-82f3-1236aeea5235",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1768678836~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F16%2FCastelln_vs_Legans_20260116_1768584305041%2F~psid=ecb08480-6308-4e26-84ef-8ca0b9d298aa~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=02ee4430f08c293b9b635e78b861f48dceed3094690414b9f1137c31fc66e461/clt1/va02/disneyplus/event/2026/01/16/Castelln_vs_Legans_20260116_1768584305041/ctr-all-hdri-complete.m3u8?v=1&hash=0f5d15938053affe68f466cae7fe64ea7d900723",
-    "k1": "e22f9f79e88642799b640e7b636e8e6c",
-    "k2": "43dfda1c3bc85513d038ee4100b3c0f3"
-  },
-  {
     "title": "Pisa vs. Atalanta",
     "league": "Seria A",
     "fecha-evento": "2026-01-16T14:25:02-05:00",
@@ -656,6 +643,16 @@
     "img": "019b8feb-6464-7f6d-a856-5d5d08ad961c",
     "nombre": "disney5d2fa8",
     "status": "07:15",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Coventry City vs. Leicester City",
+    "league": "Championship de Inglaterra",
+    "fecha-evento": "2026-01-17T07:20:00-05:00",
+    "img": "019b8b17-a42a-7496-9e3f-aecbe321114d",
+    "nombre": "disneyca1304",
+    "status": "07:20",
     "duration": 135,
     "play_url": ""
   }
