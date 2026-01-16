@@ -13,19 +13,6 @@
     "k2": "cd770e0148b2ad3a1e5ad9d72d735993"
   },
   {
-    "title": "2026 Latin America Amateur Championship (Second Round)",
-    "league": "ESPN",
-    "fecha-evento": "2026-01-16T14:00:00-05:00",
-    "img": "7cc8c478-775b-4bde-aa39-4b951bad1fb2",
-    "nombre": "disney5c295e",
-    "status": "14:00",
-    "duration": 180,
-    "play_url": "https://www.disneyplus.com/es-es/play/6af4507d-e785-4497-b04c-3dbbec4e187a",
-    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1768677635~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Ff25bdf06-81c9-4a7c-b128-3128d610ad17-1762951253360%2F~psid=8afdafb3-fec3-48d1-b210-5bdbd5838862~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=058269b8f4b2ec481132c70b3a704b03e7ec8312a9d8aa8f85446d87430fe7d0/clt1/va02/disneyplus/channel/f25bdf06-81c9-4a7c-b128-3128d610ad17-1762951253360/ctr-all-sliding-alt1.m3u8?v=1&hash=57a1e5c4737768952c5164be5d4f5ba525d47674",
-    "k1": "3bcbc45e074c4a128292f8aa1787332a",
-    "k2": "5eb23e5746944415775a56fb415dc80d"
-  },
-  {
     "title": "West Bromwich Albion vs. Middlesbrough",
     "league": "Championship de Inglaterra",
     "fecha-evento": "2026-01-16T14:50:00-05:00",
@@ -640,6 +627,16 @@
     "img": "019bb3ad-be75-75e9-840b-91c76b183343",
     "nombre": "disney7ac5e6",
     "status": "07:29",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Ceuta vs. Valladolid",
+    "league": "Segunda División de España",
+    "fecha-evento": "2026-01-17T07:55:00-05:00",
+    "img": "019b949b-c305-703f-8626-fca09ff25b46",
+    "nombre": "disney1c7ee6",
+    "status": "07:55",
     "duration": 135,
     "play_url": ""
   }
