@@ -36,19 +36,6 @@
     "k2": "9304a8a987d2b0554fb15f3734dc564b"
   },
   {
-    "title": "San Diego vs. Seattle U",
-    "league": "Básquetbol Masculino NCAA",
-    "fecha-evento": "2026-01-15T22:00:00-05:00",
-    "img": "12e80330-e74a-4bbc-b66a-073a1659d875",
-    "nombre": "disneye93e8f",
-    "status": "22:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/50e03f46-f00d-4136-aba8-5f13af5036bf",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1768618882~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F16%2FSan_Diego_vs_Seattle_U_20260116_1768525240038%2F~psid=b45c16d3-6d74-4e7c-a003-567a6e7bb4a7~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=f0b29dbed2b91fa233eb19d6c87f4ae21acd13f6f51f13334b3bfa3a61285044/clt1/va02/disneyplus/event/2026/01/16/San_Diego_vs_Seattle_U_20260116_1768525240038/ctr-all-hdri-complete.m3u8?v=1&hash=95cbde21370e6582ddd6eba6ce980407c3bd584e",
-    "k1": "8d427437639642928c66ba52c46a17bb",
-    "k2": "066297f61552b443a5f97749778442aa"
-  },
-  {
     "title": "Windy City Bulls vs. San Diego Clippers",
     "league": "NBA G League",
     "fecha-evento": "2026-01-15T22:30:04-05:00",
@@ -647,6 +634,16 @@
     "img": "a4c994e5-da7b-4394-81c3-6103fc55e0c0",
     "nombre": "disney97f4d3",
     "status": "21:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Dorados de Sinaloa vs. Mineros De Zacatecas (Jornada 2)",
+    "league": "Liga de Expansión MX",
+    "fecha-evento": "2026-01-16T21:55:00-05:00",
+    "img": "019b662a-08b6-7266-9c96-78ba8f71c151",
+    "nombre": "disney344702",
+    "status": "21:55",
     "duration": 135,
     "play_url": ""
   }
