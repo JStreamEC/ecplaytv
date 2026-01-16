@@ -1,16 +1,13 @@
 [
   {
-    "title": "Sony Open in Hawaii: Spieth Group & Hole #16 (First Round)",
+    "title": "Sony Open in Hawaii: Spieth Group & Hole #16 (Second Round)",
     "league": "PGA TOUR",
-    "fecha-evento": "2026-01-15T12:00:02-05:00",
-    "img": "019bc3fb-b39f-7928-8ae5-a904f4d5a446",
-    "nombre": "disney05946b",
+    "fecha-evento": "2026-01-16T12:00:00-05:00",
+    "img": "019bc496-2878-725e-a792-1f1e8a37883e",
+    "nombre": "disneyf1d370",
     "status": "12:00",
-    "duration": 600,
-    "play_url": "https://www.disneyplus.com/es-es/play/b277f971-d276-4881-a252-945a14eea062",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1768610438~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F15%2FSony_Open_in_Hawaii_Morik_20260115_1768489201042%2F~psid=0a0b1ab0-d2d6-4ce3-a9e4-41c37e0a6d09~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=7dd0723e1f57d12ad2a9e23c989d981fe90b5872fa32e7411bee330f1c08e795/clt1/va02/disneyplus/event/2026/01/15/Sony_Open_in_Hawaii_Morik_20260115_1768489201042/ctr-all-hdri-complete.m3u8?v=1&hash=a3344cb5e02d4aa9f191c72863bb7abb87f6423b",
-    "k1": "35c01d6fa1314a04bbfc85d9a049236c",
-    "k2": "a45c549d41c0610618d12e84e33f1809"
+    "duration": 135,
+    "play_url": ""
   },
   {
     "title": "Seattle Kraken vs. Boston Bruins",
@@ -39,16 +36,6 @@
     "k2": "d6a7d08e101acd1059a58cb513af9bde"
   },
   {
-    "title": "Montreal Canadiens vs. Buffalo Sabres",
-    "league": "National Hockey League",
-    "fecha-evento": "2026-01-15T19:00:19-05:00",
-    "img": "db307303-2086-41b4-a9b5-b79729e465cc",
-    "nombre": "disney9061de",
-    "status": "19:00",
-    "duration": 210,
-    "play_url": "https://www.disneyplus.com/es-es/play/329f861e-83bb-4e6e-904f-f28ba5def9cc"
-  },
-  {
     "title": "San Jose Sharks vs. Washington Capitals",
     "league": "National Hockey League",
     "fecha-evento": "2026-01-15T19:00:18-05:00",
@@ -60,32 +47,6 @@
     "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1768610722~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F16%2FSan_Jose_Sharks_vs_Washin_20260116_1768514454574%2F~psid=ae638707-d353-426d-83ff-939b26254dc7~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=bcf1c2cd57caadce10333c0feb124799cce1a7b7cb32d0717405e70e9c55f005/clt1/va02/disneyplus/event/2026/01/16/San_Jose_Sharks_vs_Washin_20260116_1768514454574/ctr-all-hdri-complete.m3u8?v=1&hash=e7b7d34f9dee2ce2926b29f81247899f3e45d5ef",
     "k1": "d59891d5ffa241b38a7913e702853231",
     "k2": "ad220ce1b1059a8196b91612f18e7936"
-  },
-  {
-    "title": "Austin Spurs vs. Salt Lake City Stars",
-    "league": "NBA G League",
-    "fecha-evento": "2026-01-15T20:00:00-05:00",
-    "img": "019b7902-7935-756f-863e-17099bbcff7a",
-    "nombre": "disney10986b",
-    "status": "20:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/3c060467-7c2e-4ecb-a49a-569bb7ea15e6",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1768611722~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F16%2FAustin_Spurs_vs_Salt_Lake_20260116_1768518023019%2F~psid=b2f9d55e-c0d4-459d-b3b1-028f091806b4~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=e4aa0624cfcb851f860aa40f2b84905921d7f387122ac6f7ef001d1953b24722/clt1/va02/disneyplus/event/2026/01/16/Austin_Spurs_vs_Salt_Lake_20260116_1768518023019/ctr-all-hdri-complete.m3u8?v=1&hash=de06c338310b42dff11012a613ccd125cbc2d687",
-    "k1": "247d957ba1e343418375e5affc3592bf",
-    "k2": "d2e8261b21cf86c5ad2fb2031f893b0f"
-  },
-  {
-    "title": "Motor City Cruise vs. Birmingham Squadron",
-    "league": "NBA G League",
-    "fecha-evento": "2026-01-15T20:00:00-05:00",
-    "img": "019b835a-085f-7771-9955-0c0852b6a7bd",
-    "nombre": "disneyb3700f",
-    "status": "20:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/a35e02e1-5b11-4ff1-af80-3b5b7d0c3f30",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1768611678~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F16%2FMotor_City_Cruise_vs_Birm_20260116_1768518020028%2F~psid=47ab0298-323a-41a5-913a-8cc6687d6002~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=517b948f1a207f8c2c3d45461af60f14b8fb57bc1c3f446ff86910e045f78c0c/clt1/va02/disneyplus/event/2026/01/16/Motor_City_Cruise_vs_Birm_20260116_1768518020028/ctr-all-hdri-complete.m3u8?v=1&hash=12d6a3bb6b34944e330fbd7a7655d312e5517de6",
-    "k1": "3979b15dcf5b45349da54801a2157841",
-    "k2": "82092aee7e6b2d2b0fe9d1aa1fb6f4b4"
   },
   {
     "title": "Winnipeg Jets vs. Minnesota Wild",
@@ -697,6 +658,36 @@
     "fecha-evento": "2026-01-16T19:00:00-05:00",
     "img": "019b4c55-2295-7955-9885-7af807dd0c6c",
     "nombre": "disney536846",
+    "status": "19:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "#7 Quinnipiac vs. Colgate",
+    "league": "NCAA Men's Ice Hockey",
+    "fecha-evento": "2026-01-16T19:00:00-05:00",
+    "img": "019a8922-d5b1-74f1-900b-55b3462ee63d",
+    "nombre": "disneyd08c2c",
+    "status": "19:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "North Carolina vs. Virginia",
+    "league": "NCAA Luchas",
+    "fecha-evento": "2026-01-16T19:00:00-05:00",
+    "img": "d66c6ed2-85fc-46bd-a016-ac01d041e55e",
+    "nombre": "disney36adb6",
+    "status": "19:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "En Español-Cleveland Cavaliers vs. Philadelphia 76ers",
+    "league": "NBA",
+    "fecha-evento": "2026-01-16T19:00:00-05:00",
+    "img": "019b2d2b-9376-7392-b2c5-f95ff176273d",
+    "nombre": "disney432570",
     "status": "19:00",
     "duration": 135,
     "play_url": ""
