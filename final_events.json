@@ -75,19 +75,6 @@
     "k2": "72eea163101a852351e6c7ca5fb44350"
   },
   {
-    "title": "HSBC SVNS 3 | Dubai | En español",
-    "league": "World Rugby Sevens Series",
-    "fecha-evento": "2026-01-17T04:15:02-05:00",
-    "img": "019bb3ac-1ac7-7525-8bfe-f3784093b7af",
-    "nombre": "disney20221e",
-    "status": "04:15",
-    "duration": 60,
-    "play_url": "https://www.disneyplus.com/es-es/play/8476085e-15eb-46a2-b46e-539cd0e6609d",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1768728086~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F17%2FHSBC_SVNS_3_Dubai_En_espa_20260117_1768634143031%2F~psid=c00d90bf-9339-43eb-99ac-98635a9ec491~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=1eecdea3226e59014f72f296e52382822ad549c2af2816a49847877c52803458/clt1/va02/disneyplus/event/2026/01/17/HSBC_SVNS_3_Dubai_En_espa_20260117_1768634143031/ctr-all-hdri-complete.m3u8?v=1&hash=d550ce42d83f5f1a389d49d283ae6d88f6af79a4",
-    "k1": "255c200a96584a4c952d47e23650f21b",
-    "k2": "60f35dac14f968f478b6e372ea12cd08"
-  },
-  {
     "title": "Audi FIS Ski Women's World Cup - Tarvisio, ITA (Downhill)",
     "league": "ESPN",
     "fecha-evento": "2026-01-17T04:35:10-05:00",
@@ -177,6 +164,16 @@
     "img": "019bb3ad-be75-75e9-840b-91c76b183343",
     "nombre": "disney7ac5e6",
     "status": "07:29",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "HSBC SVNS 3 | Dubai | En español",
+    "league": "World Rugby Sevens Series",
+    "fecha-evento": "2026-01-17T07:30:00-05:00",
+    "img": "019bb3ac-5f1e-7891-8b9c-673640b4f122",
+    "nombre": "disney956a00",
+    "status": "07:30",
     "duration": 135,
     "play_url": ""
   },
@@ -636,6 +633,16 @@
     "fecha-evento": "2026-01-17T16:00:00-05:00",
     "img": "019b9ee4-8e8c-7af1-b2c9-340152f9f006",
     "nombre": "disney7dfb37",
+    "status": "16:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Tour El Salvador 2026 (Prologue)",
+    "league": "ESPN",
+    "fecha-evento": "2026-01-17T16:00:00-05:00",
+    "img": "fe820126-151c-4e38-8f0b-57034fb1739e",
+    "nombre": "disney2b4e63",
     "status": "16:00",
     "duration": 135,
     "play_url": ""
