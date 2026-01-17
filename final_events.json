@@ -28,15 +28,12 @@
   {
     "title": "Cagliari vs. Juventus",
     "league": "Seria A",
-    "fecha-evento": "2026-01-17T14:30:27-05:00",
+    "fecha-evento": "",
     "img": "019b98dc-a20e-7a7e-bd29-351647633441",
-    "nombre": "disneyc4a516",
-    "status": "14:30",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/489e4a93-8a69-48c0-a486-99ceffaf2319",
-    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1768765287~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Ff25bdf06-81c9-4a7c-b128-3128d610ad17-1762951253360%2F~psid=5ef9f5eb-34c0-4326-9f1f-ec7936c63fb4~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=5ea59622d099080e78e7e91ce84cf027b5864dfafb75c9b390fd477f1b96a6de/clt1/va02/disneyplus/channel/f25bdf06-81c9-4a7c-b128-3128d610ad17-1762951253360/ctr-all-sliding-alt1.m3u8?v=1&hash=57a1e5c4737768952c5164be5d4f5ba525d47674",
-    "k1": "f4e69c3a76444ba8aca9758b786a0138",
-    "k2": "abfdbb53cc33b09fa3c86f1e93586d42"
+    "nombre": "disneybcef16",
+    "status": "",
+    "duration": 135,
+    "play_url": ""
   },
   {
     "title": "Angers vs. Olympique Marseille",
@@ -155,12 +152,15 @@
   {
     "title": "Buffalo Bills vs. Denver Broncos",
     "league": "NFL",
-    "fecha-evento": "2026-01-17T16:45:00-05:00",
+    "fecha-evento": "2026-01-17T16:43:00-05:00",
     "img": "019bb7b4-ee71-72f5-925a-cda7155a5d01",
-    "nombre": "disney1b76ab",
-    "status": "16:45",
-    "duration": 135,
-    "play_url": ""
+    "nombre": "disneya7deb3",
+    "status": "16:43",
+    "duration": 197,
+    "play_url": "https://www.disneyplus.com/es-es/play/52124d69-21d8-47f5-bf48-61fd8cfabc85",
+    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1768772657~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Ff25bdf06-81c9-4a7c-b128-3128d610ad17-1762951253360%2F~psid=e62618fb-1c01-402c-9835-3375389565af~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=1f6ab5f2dcc38d0a30f95bf15cc4e50d706c2ba66b88078968eb787837ef1c6b/clt1/va02/disneyplus/channel/f25bdf06-81c9-4a7c-b128-3128d610ad17-1762951253360/ctr-all-sliding-alt1.m3u8?v=1&hash=57a1e5c4737768952c5164be5d4f5ba525d47674",
+    "k1": "f4e69c3a76444ba8aca9758b786a0138",
+    "k2": "abfdbb53cc33b09fa3c86f1e93586d42"
   },
   {
     "title": "Chile vs. Brazil (Final)",
