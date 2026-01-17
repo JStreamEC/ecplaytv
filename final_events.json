@@ -49,19 +49,6 @@
     "k2": "0747bfc84393df5edec65195961fd334"
   },
   {
-    "title": "2026 Australian Open - Opening Ceremony",
-    "league": "ESPN",
-    "fecha-evento": "2026-01-17T03:00:02-05:00",
-    "img": "d3f9979a-0ad8-4ed7-84fc-b129d0f9a1cb",
-    "nombre": "disney6d5ef0",
-    "status": "03:00",
-    "duration": 150,
-    "play_url": "https://www.disneyplus.com/es-es/play/c887a4d3-0fa5-4c96-8a30-4551196b7f17",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1768724439~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F17%2F2026_Australian_Open_Open_20260117_1768629646037%2F~psid=10067d2e-029c-4233-917c-54a76bc53790~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=e27bf614adcd44414dfe1c0356229008f67b7f86547edf5154295058aabfc159/clt1/va02/disneyplus/event/2026/01/17/2026_Australian_Open_Open_20260117_1768629646037/ctr-all-hdri-complete.m3u8?v=1&hash=ea6e84c698e2018b21962a513f724b1642dd5573",
-    "k1": "d019cc5d445743d4bb2e813e8f55fae0",
-    "k2": "17955cb17863a0a788b2a0888d11d565"
-  },
-  {
     "title": "HSBC SVNS 3 | Dubai | Session 2",
     "league": "World Rugby Sevens Series",
     "fecha-evento": "2026-01-17T04:13:01-05:00",
@@ -90,12 +77,15 @@
   {
     "title": "FIS Snowboard World Cup - Bansko, BUL (Parallel Giant Slalom)",
     "league": "ESPN",
-    "fecha-evento": "2026-01-17T06:00:00-05:00",
+    "fecha-evento": "2026-01-17T05:50:11-05:00",
     "img": "2ba9f40e-b243-4737-9cff-a1f9774ac58d",
-    "nombre": "disney2af6cf",
-    "status": "06:00",
-    "duration": 135,
-    "play_url": ""
+    "nombre": "disney023ffa",
+    "status": "05:50",
+    "duration": 100,
+    "play_url": "https://www.disneyplus.com/es-es/play/58d0d201-803a-4520-937f-db53775445c2",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1768734048~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F17%2FFIS_Snowboard_World_Cup_B_20260117_1768640414040%2F~psid=7cba400a-0ed1-440b-8c8a-b13641b6a049~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=6b7ca6e0656d9dc34121ebdc0b61ab9252d88996f3e1f1bdd5591825dbf98388/clt1/va02/disneyplus/event/2026/01/17/FIS_Snowboard_World_Cup_B_20260117_1768640414040/ctr-all-hdri-complete.m3u8?v=1&hash=6b129bb09feab0dd309d0ad9bffacf2ff3d4e094",
+    "k1": "8d4b66e825f34c39947cea30c8091436",
+    "k2": "1401ebd1a6226923f8dedf3663b4b7fc"
   },
   {
     "title": "Audi FIS Ski World Cup - Wengen, SUI (Downhill)",
@@ -643,6 +633,16 @@
     "fecha-evento": "2026-01-17T16:00:00-05:00",
     "img": "fe820126-151c-4e38-8f0b-57034fb1739e",
     "nombre": "disney2b4e63",
+    "status": "16:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "#17 Arkansas vs. #21 Georgia",
+    "league": "Básquetbol Masculino NCAA",
+    "fecha-evento": "2026-01-17T16:00:00-05:00",
+    "img": "019bb812-ac8b-7b39-8273-0a38955ee010",
+    "nombre": "disney65e04d",
     "status": "16:00",
     "duration": 135,
     "play_url": ""
