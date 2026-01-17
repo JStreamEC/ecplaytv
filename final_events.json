@@ -75,19 +75,6 @@
     "k2": "abfdbb53cc33b09fa3c86f1e93586d42"
   },
   {
-    "title": "Hoffenheim vs. Bayer Leverkusen",
-    "league": "Bundesliga",
-    "fecha-evento": "2026-01-17T09:20:03-05:00",
-    "img": "019b99bd-478b-7769-99ca-5846aa918293",
-    "nombre": "disney3a140e",
-    "status": "09:20",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/7536321b-5d8d-467e-8703-b3802d43d70d",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1768747236~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F17%2FHoffenheim_vs_Bayer_Lever_20260117_1768652435027%2F~psid=bdc8cdcb-cdb6-48ce-b5c7-3092054e0404~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=e52ab96a57e61a0bac70d736e49cedb0cec51d7b09f068d16ac725ed98b40670/clt1/va02/disneyplus/event/2026/01/17/Hoffenheim_vs_Bayer_Lever_20260117_1768652435027/ctr-all-hdri-complete.m3u8?v=1&hash=149bad52bf683fc30f3d3c7c4afb27f9c01f2475",
-    "k1": "d63268a3d64642a79e6458bbea46f00e",
-    "k2": "96c74d3abaea6eafcc77993aef85da27"
-  },
-  {
     "title": "Koln vs. Mainz 05",
     "league": "Bundesliga",
     "fecha-evento": "2026-01-17T09:20:03-05:00",
@@ -99,6 +86,19 @@
     "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1768747281~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F17%2FKoln_vs_Mainz_05_20260117_1768652404029%2F~psid=f05a7471-2d92-45c8-90f2-ac35995814a2~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=f98079ceeaf5330f3e7b2cb0d339b72dc52708b8105ab7b947ef39c2f43a8f5a/clt1/va02/disneyplus/event/2026/01/17/Koln_vs_Mainz_05_20260117_1768652404029/ctr-all-hdri-complete.m3u8?v=1&hash=11952d218ac1a7ad244f386ccc61836e40543e36",
     "k1": "c92cb9a380f34873bb9c73b03d840b9f",
     "k2": "a3f4a01313949e376dcbf9d78af17eb6"
+  },
+  {
+    "title": "Hoffenheim vs. Bayer Leverkusen",
+    "league": "Bundesliga",
+    "fecha-evento": "2026-01-17T09:20:03-05:00",
+    "img": "019b99bd-478b-7769-99ca-5846aa918293",
+    "nombre": "disney3a140e",
+    "status": "09:20",
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/7536321b-5d8d-467e-8703-b3802d43d70d",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1768747236~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F17%2FHoffenheim_vs_Bayer_Lever_20260117_1768652435027%2F~psid=bdc8cdcb-cdb6-48ce-b5c7-3092054e0404~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=e52ab96a57e61a0bac70d736e49cedb0cec51d7b09f068d16ac725ed98b40670/clt1/va02/disneyplus/event/2026/01/17/Hoffenheim_vs_Bayer_Lever_20260117_1768652435027/ctr-all-hdri-complete.m3u8?v=1&hash=149bad52bf683fc30f3d3c7c4afb27f9c01f2475",
+    "k1": "d63268a3d64642a79e6458bbea46f00e",
+    "k2": "96c74d3abaea6eafcc77993aef85da27"
   },
   {
     "title": "Wolfsburg vs. 1. FC Heidenheim 1846",
@@ -155,22 +155,28 @@
   {
     "title": "Tottenham Hotspur vs. West Ham United",
     "league": "Premier League",
-    "fecha-evento": "2026-01-17T09:40:00-05:00",
+    "fecha-evento": "2026-01-17T09:40:01-05:00",
     "img": "019b8fea-5c5a-773f-9e08-08661d40dabb",
-    "nombre": "disney62090c",
+    "nombre": "disneybac2b3",
     "status": "09:40",
     "duration": 135,
-    "play_url": ""
+    "play_url": "https://www.disneyplus.com/es-es/play/e9486d9a-7c88-43db-8b41-00ee7e59ddc1",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1768748439~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F17%2FTottenham_Hotspur_vs_West_20260117_1768653634027%2F~psid=332f9d8f-c2f5-4a37-bdc5-97d17d094492~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=2464d9afde596cbce5412b998e93dd9968d9b84927092ea7a03761f22d276eb1/clt1/va02/disneyplus/event/2026/01/17/Tottenham_Hotspur_vs_West_20260117_1768653634027/ctr-all-hdri-complete.m3u8?v=1&hash=96981809721a846770af8b5cff6aa9a9c499cab4",
+    "k1": "54343070d0ea4f6c974eabbb166c5381",
+    "k2": "dddf29ac706766a76ee507b031df2655"
   },
   {
     "title": "Liverpool vs. Burnley",
     "league": "Premier League",
-    "fecha-evento": "2026-01-17T09:40:00-05:00",
+    "fecha-evento": "2026-01-17T09:40:02-05:00",
     "img": "019b92d4-af20-7a9e-8d2f-8f43006b60ca",
-    "nombre": "disney7d0cff",
+    "nombre": "disneyb6f80a",
     "status": "09:40",
     "duration": 135,
-    "play_url": ""
+    "play_url": "https://www.disneyplus.com/es-es/play/5aded3b9-c3ee-44fe-aff1-8ab1303bbe88",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1768748483~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F17%2FLiverpool_vs_Burnley_20260117_1768653640018%2F~psid=6e98dc40-0752-4261-97ea-3c7dbf250bd0~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=422b0c848f5218c9cd3457ac7ce47b16622e15b87ace2686c519bd94096a9597/clt1/va02/disneyplus/event/2026/01/17/Liverpool_vs_Burnley_20260117_1768653640018/ctr-all-hdri-complete.m3u8?v=1&hash=e89697b8031c4cd064cfc9be88257a42ac5f4faa",
+    "k1": "a03feff0a3ef45108d22db413f1c22cc",
+    "k2": "1026df112181ec9e8e9d87504ed8bfc8"
   },
   {
     "title": "Sunderland vs. Crystal Palace",
@@ -179,8 +185,11 @@
     "img": "019b92d4-cb9b-777c-8d04-0ee37b3e163b",
     "nombre": "disney2eb1ab",
     "status": "09:50",
-    "duration": 135,
-    "play_url": ""
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/658904c3-f060-4ba3-82c2-af6dd2cd76ae",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1768748528~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F17%2FSunderland_vs_Crystal_Pal_20260117_1768654242027%2F~psid=af232ad0-1d3c-4f34-bb3f-277684770ea1~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=95f6b3d9a63a6ca436f94eea3cec9c442bb2c69aed8ca5a552cdf4c46f29ac46/clt1/va02/disneyplus/event/2026/01/17/Sunderland_vs_Crystal_Pal_20260117_1768654242027/ctr-all-hdri-complete.m3u8?v=1&hash=e5e7eb182d53be97defe659e885ef58422c5cd7f",
+    "k1": "0d5e92f314714da88c99e7969c6ca602",
+    "k2": "7db7aa003d30f19372283e44cb815d34"
   },
   {
     "title": "Chelsea vs. Brentford",
@@ -189,8 +198,11 @@
     "img": "019b8fe8-b2d5-7e24-bdc9-ec0292430319",
     "nombre": "disney7e03dc",
     "status": "09:50",
-    "duration": 135,
-    "play_url": ""
+    "duration": 125,
+    "play_url": "https://www.disneyplus.com/es-es/play/b2ea6c48-5202-40da-93d0-73447f1d51ab",
+    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1768748552~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F921e1311-bb26-43dd-84a6-9e2284959712-1762950465141%2F~psid=4398429f-10c6-4f1a-b36d-908c93607842~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=f23ec127bf8e494c07e826d34b44dd0561dfcc3d9b044d3737947adb863f04b4/clt1/va02/disneyplus/channel/921e1311-bb26-43dd-84a6-9e2284959712-1762950465141/ctr-all-sliding-alt1.m3u8?v=1&hash=03915bf69f19826611ecdeecc79455eab40b229c",
+    "k1": "38a06f990c114203bfe458357fae2d1a",
+    "k2": "404d0bfa46985c4111335b315fed95b9"
   },
   {
     "title": "Leeds United vs. Fulham",
@@ -199,18 +211,24 @@
     "img": "019b92d4-cc5d-7253-8235-7470cbb9933b",
     "nombre": "disneycd8bed",
     "status": "09:50",
-    "duration": 135,
-    "play_url": ""
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/1cce1a51-f51d-4f65-b988-bf0cb5e9ed13",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1768748578~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F17%2FLeeds_United_vs_Fulham_20260117_1768654238042%2F~psid=b2a4010c-db5c-4bb9-a39f-ca4b0500396f~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=f8137c180bee5af15e694863e39cea2d1fe9b891367cafa817bdcd61f8c3dbee/clt1/va02/disneyplus/event/2026/01/17/Leeds_United_vs_Fulham_20260117_1768654238042/ctr-all-hdri-complete.m3u8?v=1&hash=ec377559cf9916bb2e9a92bd806389e38f6e7a51",
+    "k1": "97061262e5104dcaa842e934b40ff772",
+    "k2": "ba989f720b9ac466a241f5dd393d50ca"
   },
   {
     "title": "Oxford United vs. Bristol City",
     "league": "Championship de Inglaterra",
-    "fecha-evento": "2026-01-17T09:55:00-05:00",
+    "fecha-evento": "2026-01-17T09:52:12-05:00",
     "img": "019b8b17-b48b-7c4c-bd90-977c3d3f7c71",
-    "nombre": "disneyfb6568",
-    "status": "09:55",
-    "duration": 135,
-    "play_url": ""
+    "nombre": "disney5a888e",
+    "status": "09:52",
+    "duration": 128,
+    "play_url": "https://www.disneyplus.com/es-es/play/ad309ac4-e433-4879-9e02-2cf1fe2c2636",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1768748602~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F17%2FOxford_United_vs_Bristol__20260117_1768654525041%2F~psid=b4a0410f-1a52-470f-8466-dad999b6f5f4~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=0f59acea8f30e474cf16397ee08491571efecaa6861d667090147604e239379e/clt1/va02/disneyplus/event/2026/01/17/Oxford_United_vs_Bristol__20260117_1768654525041/ctr-all-hdri-complete.m3u8?v=1&hash=f4edcd410987d0e32c5d1f1a4831cefa23280562",
+    "k1": "af0ca6a0e9a447ef814eeffe82dcb713",
+    "k2": "ff8cfb02c098ecb02ae3dc281d53d755"
   },
   {
     "title": "Georgia Tech vs. Duke",
@@ -219,8 +237,11 @@
     "img": "99d2097a-930e-48a4-9cbb-a898bb27b4c0",
     "nombre": "disneyf63a5d",
     "status": "10:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 180,
+    "play_url": "https://www.disneyplus.com/es-es/play/6950215e-8b00-4a6a-85fa-a878c9ecba5a",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1768748627~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F17%2FGeorgia_Tech_vs_Duke_20260117_1768654844028%2F~psid=fc9bbd49-6e7f-4e8a-8be9-a2c893fc06fd~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=153d88dae52b0fc96e2bfafbc9404a8b4777fe77812e11c28caf61b9463d403a/clt1/va02/disneyplus/event/2026/01/17/Georgia_Tech_vs_Duke_20260117_1768654844028/ctr-all-hdri-complete.m3u8?v=1&hash=b6fdaa72f5981d5f8dab8d8279bbb6e480c2f335",
+    "k1": "b9742adb8b624445aa6810a1ad182c75",
+    "k2": "7cd9dc9f58d4d4c9893ac8c399e98dfa"
   },
   {
     "title": "RCD Mallorca vs. Athletic Bilbao",
@@ -229,8 +250,11 @@
     "img": "5f1ad933-47ae-4cac-adb9-084e59679510",
     "nombre": "disneyc9beb4",
     "status": "10:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 140,
+    "play_url": "https://www.disneyplus.com/es-es/play/6a775f13-ad6d-4d30-a8ed-82b453d7f99b",
+    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1768748651~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Fbbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1767092609127%2F~psid=495f87d4-0d5b-40d9-97d9-960cfa9a3263~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=9416a92060a8625baabef3d7a4151e15e916e73f6f558a3e9f4f3009390f8fb1/clt1/va02/disneyplus/channel/bbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1767092609127/ctr-all-sliding-alt1.m3u8?v=1&hash=caa611b0aedb1e1aad3e4a1a02fe77959cc0e2c7",
+    "k1": "8d275f434e274b6ea3b9f3c888f7a37a",
+    "k2": "9474912220322bc0d5d6aa6634b195dc"
   },
   {
     "title": "Cultural Leonesa vs. Sporting Gijón",
