@@ -214,8 +214,11 @@
     "img": "019b9fbe-d446-7aad-acc0-c7071c516bb3",
     "nombre": "disney2aa0b6",
     "status": "13:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 210,
+    "play_url": "https://www.disneyplus.com/es-es/play/253fd232-391f-408e-9a6b-49984a55961e",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1768759236~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F17%2FNew_York_Rangers_vs_Phila_20260117_1768665635017%2F~psid=66376bd6-dec8-4349-be30-855a9431932b~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=3b751730ee4a3ccde9626a1fc93ce3c345c4217883d6562ccb1d558c1ff0b913/clt1/va02/disneyplus/event/2026/01/17/New_York_Rangers_vs_Phila_20260117_1768665635017/ctr-all-hdri-complete.m3u8?v=1&hash=78a256bf05369ca8202aeb00f19eae1195224c0e",
+    "k1": "757788af9cd14e61a1bf786c31d85469",
+    "k2": "c28f7cb1fa1b30a15aeaf26a893798f5"
   },
   {
     "title": "PEC Zwolle vs. AZ (Fecha #19)",
@@ -233,12 +236,15 @@
   {
     "title": "Toulouse vs. Nice",
     "league": "Ligue 1",
-    "fecha-evento": "2026-01-17T12:55:00-05:00",
+    "fecha-evento": "2026-01-17T12:48:15-05:00",
     "img": "019b8b17-9dea-7724-bc49-e509bac5149d",
-    "nombre": "disneyd38493",
-    "status": "12:55",
-    "duration": 135,
-    "play_url": ""
+    "nombre": "disney4b595f",
+    "status": "12:48",
+    "duration": 132,
+    "play_url": "https://www.disneyplus.com/es-es/play/3e481211-41fd-4f32-be84-a43113f8f82f",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1768759279~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F17%2FToulouse_vs_Nice_20260117_1768665343027%2F~psid=68082d15-c10f-42af-9f57-51ba50068e6d~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=9f7905a131b97a75103fff6e6bdf8c29f8e5b5ee1a4ce3c2702d2d2da3cf6a92/clt1/va02/disneyplus/event/2026/01/17/Toulouse_vs_Nice_20260117_1768665343027/ctr-all-hdri-complete.m3u8?v=1&hash=d929443eb8a8884f4a14557bca8a4ce3f6b3aea1",
+    "k1": "eaa435ad44b94444b41688f0e834d1a5",
+    "k2": "ade03f5ee8aabf72a7cf896729e25360"
   },
   {
     "title": "FIS Snowboard World Cup - Laax, SUI (Halfpipe)",
@@ -247,8 +253,11 @@
     "img": "2ba9f40e-b243-4737-9cff-a1f9774ac58d",
     "nombre": "disney02edfb",
     "status": "13:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 90,
+    "play_url": "https://www.disneyplus.com/es-es/play/54e30a8a-2a6b-494f-be2d-0220a51dd722",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1768759324~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F17%2FFIS_Snowboard_World_Cup_L_20260117_1768665652030%2F~psid=9256ef36-5cf7-4d18-9609-f8107ff6c15d~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=4a02f6e0efd362855f1c1e8d9c5e554012d9269f7df031637e606ec42ba88aef/clt1/va02/disneyplus/event/2026/01/17/FIS_Snowboard_World_Cup_L_20260117_1768665652030/ctr-all-hdri-complete.m3u8?v=1&hash=715b1a1a80be3fb9dfcbeaf1424712a5c8d3e28a",
+    "k1": "722f5c336f6143d3b32b87f5bfb86947",
+    "k2": "45ddb8156ffc5e914f083980407a2206"
   },
   {
     "title": "Fortuna Sittard vs. PSV",
