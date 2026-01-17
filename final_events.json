@@ -10,29 +10,6 @@
     "play_url": ""
   },
   {
-    "title": "Jordan Panthen vs. Raul Curiel",
-    "league": "ESPN",
-    "fecha-evento": "2026-01-16T20:00:01-05:00",
-    "img": "019bc869-4aca-742a-80c7-beb96d39f103",
-    "nombre": "disneyafcfc8",
-    "status": "20:00",
-    "duration": 210,
-    "play_url": "https://www.disneyplus.com/es-es/play/13a68b43-3726-41ec-8820-e86af4265c15",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1768699287~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F17%2FJordan_Panthen_vs_Raul_Cu_20260117_1768604444027%2F~psid=acbcb602-630d-402e-aea5-322673f15983~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=bf768cd3e14032f76474ea30bcfaac46ce0a7feac5bfa957899e6374ce5d3614/clt1/va02/disneyplus/event/2026/01/17/Jordan_Panthen_vs_Raul_Cu_20260117_1768604444027/ctr-all-hdri-complete.m3u8?v=1&hash=6c94bf025ca8df119a94f53374748838aa0323e8",
-    "k1": "1e836bd57cd34f94bb922f72d3faeda1",
-    "k2": "50c7dbfbdf300edf650cc2db099f5a42"
-  },
-  {
-    "title": "Nashville Predators vs. Colorado Avalanche",
-    "league": "National Hockey League",
-    "fecha-evento": "2026-01-16T21:00:15-05:00",
-    "img": "019b9e7d-2602-73f2-9d45-0109ea1eb67c",
-    "nombre": "disneybc9f2e",
-    "status": "21:00",
-    "duration": 210,
-    "play_url": "https://www.disneyplus.com/es-es/play/a7104f4a-f783-488e-8fbc-b63480cc92e9"
-  },
-  {
     "title": "En Español-Minnesota Timberwolves vs. Houston Rockets",
     "league": "NBA",
     "fecha-evento": "2026-01-16T21:30:05-05:00",
@@ -123,12 +100,15 @@
   {
     "title": "FIS Snowboard Cross World Cup - Dongbeiya, CHN",
     "league": "ESPN",
-    "fecha-evento": "2026-01-17T00:00:00-05:00",
+    "fecha-evento": "2026-01-16T23:50:11-05:00",
     "img": "2ba9f40e-b243-4737-9cff-a1f9774ac58d",
-    "nombre": "disney5c7445",
-    "status": "00:00",
-    "duration": 135,
-    "play_url": ""
+    "nombre": "disney74230a",
+    "status": "23:50",
+    "duration": 100,
+    "play_url": "https://www.disneyplus.com/es-es/play/78ba6b15-81cd-4aba-9c1e-9a9400eead5e",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1768712480~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F17%2FFIS_Snowboard_Cross_World_20260117_1768618821017%2F~psid=89f9cf25-ad26-4c4c-85e1-56f4c552d2dc~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=a3e7f9638e76e71f794598fd38035d58058ba95b29beffe580f27ba1bdfc5bd3/clt1/va02/disneyplus/event/2026/01/17/FIS_Snowboard_Cross_World_20260117_1768618821017/ctr-all-hdri-complete.m3u8?v=1&hash=2b0bf5a6c9fdab24f43193314bba40ddb2cd7ee2",
+    "k1": "26ef665928fc41f5b511e642b57ec3b1",
+    "k2": "bc98df6d58e868b9cadc86c07f59f43a"
   },
   {
     "title": "HSBC SVNS 3 | Dubai | Session 1",
@@ -167,6 +147,16 @@
     "img": "019bbf17-1cce-7128-8372-c4c51fb420ca",
     "nombre": "disneyce0f4c",
     "status": "02:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "2026 Australian Open - Opening Ceremony",
+    "league": "ESPN",
+    "fecha-evento": "2026-01-17T03:00:00-05:00",
+    "img": "d3f9979a-0ad8-4ed7-84fc-b129d0f9a1cb",
+    "nombre": "disneyf610a8",
+    "status": "03:00",
     "duration": 135,
     "play_url": ""
   },
@@ -637,6 +627,16 @@
     "img": "2ba9f40e-b243-4737-9cff-a1f9774ac58d",
     "nombre": "disney02edfb",
     "status": "13:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Fortuna Sittard vs. PSV",
+    "league": "Eredivisie",
+    "fecha-evento": "2026-01-17T13:50:00-05:00",
+    "img": "019b4347-1a20-7c0b-9d25-7c4da7608da3",
+    "nombre": "disneyed1f14",
+    "status": "13:50",
     "duration": 135,
     "play_url": ""
   }
