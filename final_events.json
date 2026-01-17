@@ -117,19 +117,6 @@
     "k2": "4c469a7c19907b9665815a20e918f526"
   },
   {
-    "title": "Mount St. Mary's vs. Canisius",
-    "league": "Básquetbol Masculino NCAA",
-    "fecha-evento": "2026-01-17T12:00:00-05:00",
-    "img": "fe65bbdb-7040-4503-94a4-0770040b1236",
-    "nombre": "disneyb66bac",
-    "status": "12:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/baf25660-9f1a-4a9c-8bee-f6c0f4d9590a",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1768755854~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F17%2FMount_St_Marys_vs_Canisiu_20260117_1768662019016%2F~psid=50765472-ed7f-4a00-b509-b103077405d7~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=2178758ed744a67521348203c426489704f170b5b4d32b898203aeb8585b9591/clt1/va02/disneyplus/event/2026/01/17/Mount_St_Marys_vs_Canisiu_20260117_1768662019016/ctr-all-hdri-complete.m3u8?v=1&hash=fbdf3c3279b5ccdacc2487247381c6ff89388005",
-    "k1": "0ca33761e0f349a3beb6b55fff9e2ba1",
-    "k2": "b0fbd43ce6539d22542414b9372a37c5"
-  },
-  {
     "title": "Pennsylvania, Boston College, Harvard (Swimming)",
     "league": "NCAA Natación y Buceo",
     "fecha-evento": "2026-01-17T12:00:00-05:00",
@@ -236,12 +223,15 @@
   {
     "title": "Fortuna Sittard vs. PSV",
     "league": "Eredivisie",
-    "fecha-evento": "2026-01-17T13:50:00-05:00",
+    "fecha-evento": "2026-01-17T13:50:02-05:00",
     "img": "019b4347-1a20-7c0b-9d25-7c4da7608da3",
-    "nombre": "disneyed1f14",
+    "nombre": "disney5bbeca",
     "status": "13:50",
-    "duration": 135,
-    "play_url": ""
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/a66e54cc-b837-46d5-a0cc-a2b065dbd820",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1768762838~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F17%2FFortuna_Sittard_vs_PSV_20260117_1768668617041%2F~psid=371ea89e-580d-4b9c-8b4c-a50e86e62e3e~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=3ba040900bc71b247f4b6cce1d3918076423084407028f22b1de06382f44fa3d/clt1/va02/disneyplus/event/2026/01/17/Fortuna_Sittard_vs_PSV_20260117_1768668617041/ctr-all-hdri-complete.m3u8?v=1&hash=1a5f67fc20ff66eeab36adfcd5c145ee5e8448c6",
+    "k1": "7cabfb4ac5964fbdb77be25172a10a45",
+    "k2": "c5d45965fad40c8259f202e5483df655"
   },
   {
     "title": "Bradley vs. Illinois State",
@@ -680,6 +670,16 @@
     "img": "ef30be6e-1883-4e89-bac1-454f778b23a1",
     "nombre": "disney044adc",
     "status": "19:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Boston Bruins vs. Chicago Blackhawks",
+    "league": "National Hockey League",
+    "fecha-evento": "2026-01-17T20:00:00-05:00",
+    "img": "019aa83c-d32a-79f3-a302-d6f47ee38490",
+    "nombre": "disney9cb725",
+    "status": "20:00",
     "duration": 135,
     "play_url": ""
   }
