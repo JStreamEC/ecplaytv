@@ -10,19 +10,6 @@
     "play_url": ""
   },
   {
-    "title": "Anaheim Ducks vs. Los Angeles Kings",
-    "league": "National Hockey League",
-    "fecha-evento": "2026-01-16T22:30:16-05:00",
-    "img": "019aa8d5-ff0a-74f5-9006-f1ccd3cc5110",
-    "nombre": "disney816ad8",
-    "status": "22:30",
-    "duration": 210,
-    "play_url": "https://www.disneyplus.com/es-es/play/ae5b5c0e-8734-4582-9c42-a37aed74f990",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1768707778~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F17%2FAnaheim_Ducks_vs_Los_Ange_20260117_1768613410041%2F~psid=8880f894-315f-42aa-99c2-313ea618a7a0~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=a192458a6044367c4668e059a77dbf43ad8a3e56966865b6a00e974f4572e6d8/clt1/va02/disneyplus/event/2026/01/17/Anaheim_Ducks_vs_Los_Ange_20260117_1768613410041/ctr-all-hdri-complete.m3u8?v=1&hash=9a0c57dfa8f0f665381345c0644a0c21efdec44b",
-    "k1": "0d33143e15f34602ad96ef0c18347496",
-    "k2": "9157fe3dc68539197867ac6293d6371e"
-  },
-  {
     "title": "Ugo Humbert (FRA) vs. Tomas Machac (CZE) (Final)",
     "league": "ATP",
     "fecha-evento": "2026-01-16T23:30:06-05:00",
@@ -34,19 +21,6 @@
     "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1768711350~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F17%2FUgo_Humbert_FRA_vs_Tomas__20260117_1768617058027%2F~psid=15ce7838-0959-40c6-9d5a-dd839a1b3fa1~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=b5305143c789d459f61dfb3e89760ae21f152ef463948e73b00b4fb14d01e4f6/clt1/va02/disneyplus/event/2026/01/17/Ugo_Humbert_FRA_vs_Tomas__20260117_1768617058027/ctr-all-hdri-complete.m3u8?v=1&hash=b2df6bb2ed5f96f42440fe66db717b14090fce02",
     "k1": "37044211fd6248d48415210f9c8776d9",
     "k2": "e7afc7bff5218f1be24be637f7e3ae39"
-  },
-  {
-    "title": "FIS Snowboard Cross World Cup - Dongbeiya, CHN",
-    "league": "ESPN",
-    "fecha-evento": "2026-01-16T23:50:11-05:00",
-    "img": "2ba9f40e-b243-4737-9cff-a1f9774ac58d",
-    "nombre": "disney74230a",
-    "status": "23:50",
-    "duration": 100,
-    "play_url": "https://www.disneyplus.com/es-es/play/78ba6b15-81cd-4aba-9c1e-9a9400eead5e",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1768712480~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F17%2FFIS_Snowboard_Cross_World_20260117_1768618821017%2F~psid=89f9cf25-ad26-4c4c-85e1-56f4c552d2dc~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=a3e7f9638e76e71f794598fd38035d58058ba95b29beffe580f27ba1bdfc5bd3/clt1/va02/disneyplus/event/2026/01/17/FIS_Snowboard_Cross_World_20260117_1768618821017/ctr-all-hdri-complete.m3u8?v=1&hash=2b0bf5a6c9fdab24f43193314bba40ddb2cd7ee2",
-    "k1": "26ef665928fc41f5b511e642b57ec3b1",
-    "k2": "bc98df6d58e868b9cadc86c07f59f43a"
   },
   {
     "title": "HSBC SVNS 3 | Dubai | Session 1",
@@ -628,6 +602,26 @@
     "img": "019b8ff1-6078-70d0-81bf-24ffd3f62319",
     "nombre": "disney3fcecc",
     "status": "14:55",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "New York Islanders vs. Calgary Flames",
+    "league": "National Hockey League",
+    "fecha-evento": "2026-01-17T15:00:00-05:00",
+    "img": "019b9fbe-efc4-7011-9cbe-f2cd1d4069a8",
+    "nombre": "disney17d3a0",
+    "status": "15:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Unión de Santa Fe vs. Defensor Sporting",
+    "league": "Serie Río de la Plata",
+    "fecha-evento": "2026-01-17T15:45:00-05:00",
+    "img": "019b92d4-b69b-7781-880c-5b4a7e6bc777",
+    "nombre": "disneye78f1c",
+    "status": "15:45",
     "duration": 135,
     "play_url": ""
   }
