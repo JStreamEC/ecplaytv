@@ -36,32 +36,6 @@
     "k2": "b74f232b0f1ca16200357342a08cc125"
   },
   {
-    "title": "Audi FIS Ski World Cup - Wengen, SUI (Downhill)",
-    "league": "ESPN",
-    "fecha-evento": "2026-01-17T06:27:37-05:00",
-    "img": "2ba9f40e-b243-4737-9cff-a1f9774ac58d",
-    "nombre": "disney504b77",
-    "status": "06:27",
-    "duration": 92,
-    "play_url": "https://www.disneyplus.com/es-es/play/5d461c84-b6cf-40d8-a2f9-31b7d1e5152f",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1768736449~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F17%2FAudi_FIS_Ski_World_Cup_We_20260117_1768642226028%2F~psid=f06a4085-887d-48aa-901c-33e1ce796f8a~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=355ff9b4430bccc991fc92ef74c60561e1d85cd70a9fce1fa760cd15bb10b15d/clt1/va02/disneyplus/event/2026/01/17/Audi_FIS_Ski_World_Cup_We_20260117_1768642226028/ctr-all-hdri-complete.m3u8?v=1&hash=f35e0841aa70ca99572f4be9c1decc4d61158639",
-    "k1": "ad12987e85a641ffa5825fc9b157d398",
-    "k2": "7cadbcb71f517bb926645c06fb867e29"
-  },
-  {
-    "title": "SG Dynamo Dresden vs. SpVgg Greuther Fürth",
-    "league": "Bundesliga 2 de Alemania",
-    "fecha-evento": "2026-01-17T06:50:20-05:00",
-    "img": "019b8b19-cb47-7446-ae7b-5bb900cbfcfc",
-    "nombre": "disneyd21e78",
-    "status": "06:50",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/6122e187-302f-488c-86d2-a5ebe025ee28",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1768737655~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F17%2FSG_Dynamo_Dresden_vs_SpVg_20260117_1768643758018%2F~psid=b7d2bd28-ee05-4663-96cd-e93f2c11fedc~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=ebbbc88b7eb235bce57d9d5aa6cf18ae09d94e835d559960fc657b154c13b6c6/clt1/va02/disneyplus/event/2026/01/17/SG_Dynamo_Dresden_vs_SpVg_20260117_1768643758018/ctr-all-hdri-complete.m3u8?v=1&hash=d6807d5ff19713a306a0156350fa45325190f141",
-    "k1": "c608cc5139904813a68dfe9f30a84e57",
-    "k2": "d4c0a1e7535589db3b039e1704d8b17c"
-  },
-  {
     "title": "Preußen Münster vs. Karlsruher SC",
     "league": "Bundesliga 2 de Alemania",
     "fecha-evento": "2026-01-17T06:50:21-05:00",
@@ -146,8 +120,11 @@
     "img": "019b98ca-0e01-7ebd-afa3-cf602aae8578",
     "nombre": "disney234b9b",
     "status": "08:50",
-    "duration": 135,
-    "play_url": ""
+    "duration": 125,
+    "play_url": "https://www.disneyplus.com/es-es/play/bfc5b0f7-00d0-447a-8725-f0a563e97c03",
+    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1768744836~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Ff25bdf06-81c9-4a7c-b128-3128d610ad17-1762951253360%2F~psid=fd2d5fc9-1723-4bfd-94ad-31b2948d2544~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=c93c52722be2f8b044c3725880bd1cc89233f71d6e1477f508010fa59d7271cb/clt1/va02/disneyplus/channel/f25bdf06-81c9-4a7c-b128-3128d610ad17-1762951253360/ctr-all-sliding-alt1.m3u8?v=1&hash=57a1e5c4737768952c5164be5d4f5ba525d47674",
+    "k1": "f4e69c3a76444ba8aca9758b786a0138",
+    "k2": "abfdbb53cc33b09fa3c86f1e93586d42"
   },
   {
     "title": "Goal Arena - The Bundesliga Konferenz",
@@ -655,6 +632,26 @@
     "fecha-evento": "2026-01-17T17:00:00-05:00",
     "img": "7c3f9b7c-e43a-4292-8631-9770ead9b3ac",
     "nombre": "disney4df7f0",
+    "status": "17:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "San Diego vs. Gonzaga",
+    "league": "Básquet Femenino NCAA",
+    "fecha-evento": "2026-01-17T17:00:00-05:00",
+    "img": "b667a424-e8c1-46c4-b0a6-638509b49fa7",
+    "nombre": "disney20fcde",
+    "status": "17:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Arizona vs. #10 TCU",
+    "league": "Básquet Femenino NCAA",
+    "fecha-evento": "2026-01-17T17:00:00-05:00",
+    "img": "019b8b17-de20-7cd7-8bc6-0bfe969b9d58",
+    "nombre": "disney3b616b",
     "status": "17:00",
     "duration": 135,
     "play_url": ""
