@@ -65,19 +65,6 @@
     "k2": "afe15d2b893ea9925d384e6c3347089f"
   },
   {
-    "title": "Tour El Salvador 2026 (Prologue)",
-    "league": "ESPN",
-    "fecha-evento": "2026-01-17T16:00:00-05:00",
-    "img": "fe820126-151c-4e38-8f0b-57034fb1739e",
-    "nombre": "disney2b4e63",
-    "status": "16:00",
-    "duration": 90,
-    "play_url": "https://www.disneyplus.com/es-es/play/861bffee-3655-4ace-a7a5-53a593fadb17",
-    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1768770147~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F47873700-1b85-4497-8f84-d6f321fbb196-1762950817735%2F~psid=394cdec3-2188-4f11-9a2a-4ef328c6d84d~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=01d1f0cf40018702bd53352fc56da5b0317dbc025d7bc648331b4119c1505a00/clt1/va02/disneyplus/channel/47873700-1b85-4497-8f84-d6f321fbb196-1762950817735/ctr-all-sliding-alt1.m3u8?v=1&hash=47b2c0b057c5c5c39ef0f49826b655a1e4ceacb9",
-    "k1": "a2bc776a85f94030876a88e643572de0",
-    "k2": "79199341899455377d5cdcb043bcb26a"
-  },
-  {
     "title": "Summer Pro Padel: Mar del Plata (Día #2)",
     "league": "Summer Pro Padel",
     "fecha-evento": "2026-01-17T16:00:00-05:00",
@@ -677,6 +664,16 @@
     "img": "e1eb687b-6df0-4e2d-a426-a6e08cadf59a",
     "nombre": "disney766a9b",
     "status": "00:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "HSBC SVNS 3 | Dubai | Session 1",
+    "league": "World Rugby Sevens Series",
+    "fecha-evento": "2026-01-18T00:56:00-05:00",
+    "img": "019bb3ac-1ac7-7525-8bfe-f3784093b7af",
+    "nombre": "disney55fb61",
+    "status": "00:56",
     "duration": 135,
     "play_url": ""
   }
