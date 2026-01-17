@@ -127,19 +127,6 @@
     "k2": "9d25ebb2ad1ec5b7845fca546f34a93e"
   },
   {
-    "title": "HSBC SVNS 3 | Dubai | En español",
-    "league": "World Rugby Sevens Series",
-    "fecha-evento": "2026-01-17T07:30:02-05:00",
-    "img": "019bb3ac-5f1e-7891-8b9c-673640b4f122",
-    "nombre": "disney3b6856",
-    "status": "07:30",
-    "duration": 60,
-    "play_url": "https://www.disneyplus.com/es-es/play/6621a7e1-4aa3-4d95-bf01-5dc49b4dbddf",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1768741282~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F17%2FHSBC_SVNS_3_Dubai_En_espa_20260117_1768645823029%2F~psid=c5960747-7e3e-49fb-ab65-9732008f9149~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=4c4f9997e8b43cda1adfba542c4441de562385e27a64752f2d0ea1c669c68039/clt1/va02/disneyplus/event/2026/01/17/HSBC_SVNS_3_Dubai_En_espa_20260117_1768645823029/ctr-all-hdri-complete.m3u8?v=1&hash=3b7b3943001ae3afd6a4e808fc80fd5ced5bceb6",
-    "k1": "f549333ae0fc4a9c901564cc6f259558",
-    "k2": "5b1bf9b099fc03365a8e79eb899924a4"
-  },
-  {
     "title": "Ceuta vs. Valladolid",
     "league": "Segunda División de España",
     "fecha-evento": "2026-01-17T07:55:09-05:00",
@@ -659,6 +646,16 @@
     "img": "019bc743-5acd-7248-9b6f-5b421bac8277",
     "nombre": "disneycd92d1",
     "status": "16:55",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Loyola Marymount vs. Pacific",
+    "league": "Básquet Femenino NCAA",
+    "fecha-evento": "2026-01-17T17:00:00-05:00",
+    "img": "7c3f9b7c-e43a-4292-8631-9770ead9b3ac",
+    "nombre": "disney4df7f0",
+    "status": "17:00",
     "duration": 135,
     "play_url": ""
   }
