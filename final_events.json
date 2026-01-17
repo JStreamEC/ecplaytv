@@ -10,42 +10,6 @@
     "play_url": ""
   },
   {
-    "title": "En Español-Minnesota Timberwolves vs. Houston Rockets",
-    "league": "NBA",
-    "fecha-evento": "2026-01-16T21:30:05-05:00",
-    "img": "a4c994e5-da7b-4394-81c3-6103fc55e0c0",
-    "nombre": "disneye57538",
-    "status": "21:30",
-    "duration": 150,
-    "play_url": "https://www.disneyplus.com/es-es/play/3e4e0168-c5a5-4f91-9a0d-70aae6215d50"
-  },
-  {
-    "title": "Calgary Roughnecks vs. Georgia Swarm",
-    "league": "National Lacrosse League",
-    "fecha-evento": "2026-01-16T21:59:59-05:00",
-    "img": "019b8882-f64c-7d80-9e28-728103d51319",
-    "nombre": "disney05bc5c",
-    "status": "21:59",
-    "duration": 150,
-    "play_url": "https://www.disneyplus.com/es-es/play/9cb784aa-5a0c-4841-871f-5a2d91759886",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1768707685~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F17%2FCalgary_Roughnecks_vs_Geo_20260117_1768611645028%2F~psid=5ad139d0-a175-4047-a310-c65a48a08ce2~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=5ddd42a048013d639d75104821b8e7fa152b9f873ed2bdf2ff3aed76b6b24a21/clt1/va02/disneyplus/event/2026/01/17/Calgary_Roughnecks_vs_Geo_20260117_1768611645028/ctr-all-hdri-complete.m3u8?v=1&hash=bf67897abc95717a5aef231997ac651be68a9362",
-    "k1": "9f11099df60149eea5190253d55df33e",
-    "k2": "ea1bd1c34ae324482e49bd0ba47d218f"
-  },
-  {
-    "title": "San Diego Seals vs. Vancouver Warriors",
-    "league": "National Lacrosse League",
-    "fecha-evento": "2026-01-16T22:00:03-05:00",
-    "img": "0c0ffd1d-1755-42f7-b081-2511b575e326",
-    "nombre": "disney05e77d",
-    "status": "22:00",
-    "duration": 150,
-    "play_url": "https://www.disneyplus.com/es-es/play/07e0305e-a27f-4f3b-acb4-990af0f00a1b",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1768707729~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F17%2FSan_Diego_Seals_vs_Vancou_20260117_1768611628036%2F~psid=ccef872a-2269-4416-ad2e-85da3ca79bff~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=93fbb26d76f755c31e1e927158b25a1e92cf0674f98b9a679a7b4f4ca439e9a8/clt1/va02/disneyplus/event/2026/01/17/San_Diego_Seals_vs_Vancou_20260117_1768611628036/ctr-all-hdri-complete.m3u8?v=1&hash=4ce33b847b10584af029cd57434c2736d98ac2ca",
-    "k1": "508d28f6472f4bc8897986ef6ec37380",
-    "k2": "fbdd3a37d408021f27ed4b9f46f0ff26"
-  },
-  {
     "title": "Anaheim Ducks vs. Los Angeles Kings",
     "league": "National Hockey League",
     "fecha-evento": "2026-01-16T22:30:16-05:00",
@@ -634,6 +598,36 @@
     "img": "12897dae-6854-4878-9e4d-032ddd6b47a6",
     "nombre": "disneydc783e",
     "status": "14:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "#19 Florida vs. #10 Vanderbilt",
+    "league": "Básquetbol Masculino NCAA",
+    "fecha-evento": "2026-01-17T14:00:00-05:00",
+    "img": "019bb7e4-8bf9-7c51-8616-79c63c0ab8d7",
+    "nombre": "disney392677",
+    "status": "14:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Hertha BSC vs. FC Schalke 04",
+    "league": "Bundesliga 2 de Alemania",
+    "fecha-evento": "2026-01-17T14:20:00-05:00",
+    "img": "718d170f-cd06-40b6-b19a-66bec51bf6cd",
+    "nombre": "disneya1781e",
+    "status": "14:20",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Cagliari vs. Juventus",
+    "league": "Seria A",
+    "fecha-evento": "2026-01-17T14:30:00-05:00",
+    "img": "019b98dc-a20e-7a7e-bd29-351647633441",
+    "nombre": "disney337d60",
+    "status": "14:30",
     "duration": 135,
     "play_url": ""
   }
