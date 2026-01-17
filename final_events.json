@@ -23,19 +23,6 @@
     "k2": "b74f232b0f1ca16200357342a08cc125"
   },
   {
-    "title": "Udinese vs. Inter",
-    "league": "Seria A",
-    "fecha-evento": "2026-01-17T08:50:00-05:00",
-    "img": "019b98ca-0e01-7ebd-afa3-cf602aae8578",
-    "nombre": "disney234b9b",
-    "status": "08:50",
-    "duration": 125,
-    "play_url": "https://www.disneyplus.com/es-es/play/bfc5b0f7-00d0-447a-8725-f0a563e97c03",
-    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1768744836~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Ff25bdf06-81c9-4a7c-b128-3128d610ad17-1762951253360%2F~psid=fd2d5fc9-1723-4bfd-94ad-31b2948d2544~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=c93c52722be2f8b044c3725880bd1cc89233f71d6e1477f508010fa59d7271cb/clt1/va02/disneyplus/channel/f25bdf06-81c9-4a7c-b128-3128d610ad17-1762951253360/ctr-all-sliding-alt1.m3u8?v=1&hash=57a1e5c4737768952c5164be5d4f5ba525d47674",
-    "k1": "f4e69c3a76444ba8aca9758b786a0138",
-    "k2": "abfdbb53cc33b09fa3c86f1e93586d42"
-  },
-  {
     "title": "Koln vs. Mainz 05",
     "league": "Bundesliga",
     "fecha-evento": "2026-01-17T09:20:03-05:00",
@@ -246,12 +233,15 @@
   {
     "title": "Lens vs. Auxerre",
     "league": "Ligue 1",
-    "fecha-evento": "2026-01-17T10:55:00-05:00",
+    "fecha-evento": "2026-01-17T10:45:30-05:00",
     "img": "019b8b17-95c2-7d04-9dff-e98b01da4e09",
-    "nombre": "disneye37532",
-    "status": "10:55",
-    "duration": 135,
-    "play_url": ""
+    "nombre": "disney45d8d2",
+    "status": "10:45",
+    "duration": 134,
+    "play_url": "https://www.disneyplus.com/es-es/play/ebc99107-1917-4bb6-a9b1-1f825350b6ce",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1768752042~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F17%2FLens_vs_Auxerre_20260117_1768658142018%2F~psid=19d6079c-868a-4ff0-a2db-0d5e7cc0a983~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=a058246db688e1aa5c1ef19b0c1872eb98fe7e1453f78912b5287731d399a14a/clt1/va02/disneyplus/event/2026/01/17/Lens_vs_Auxerre_20260117_1768658142018/ctr-all-hdri-complete.m3u8?v=1&hash=2f8065b7dc07f34c385a3902f7509beedb2f4da5",
+    "k1": "78a429342a4a4ee9aacaf34a612e54a2",
+    "k2": "11b8f6cb8f22c3574f2dbb6b83f6aac3"
   },
   {
     "title": "2026 Latin America Amateur Championship (Third Round)",
@@ -260,8 +250,11 @@
     "img": "54f47d40-2c2f-471f-97f6-58c956205def",
     "nombre": "disney17ee92",
     "status": "11:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 180,
+    "play_url": "https://www.disneyplus.com/es-es/play/0c003c4b-af89-465e-a2bc-eec9c29113fa",
+    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1768752087~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Fec26a05e-a9cc-4db4-804e-77465738e667-1762950455142%2F~psid=47699ac4-aef4-4324-98a2-2b254a78e237~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=f95149dce0ab877fd7b3c9f4052b467e5d0944c2bc2a2d180f43011098c55f2b/clt1/va02/disneyplus/channel/ec26a05e-a9cc-4db4-804e-77465738e667-1762950455142/ctr-all-sliding-alt1.m3u8?v=1&hash=e2faf4444722e1f805096ad7b7489a5d09f9944f",
+    "k1": "09d3fb7dda9f43e391b170c2194ff8f2",
+    "k2": "4884321c1b626526965ac747d7d6ecc5"
   },
   {
     "title": "Napoli vs. Sassuolo",
@@ -679,6 +672,16 @@
     "fecha-evento": "2026-01-17T18:00:00-05:00",
     "img": "019bb7e6-a48b-7a7f-84a0-67378e47a1a4",
     "nombre": "disney8dd848",
+    "status": "18:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Texas A&M vs. Texas",
+    "league": "Básquetbol Masculino NCAA",
+    "fecha-evento": "2026-01-17T18:00:00-05:00",
+    "img": "019b9040-6db5-75a6-b752-6cf0c0b9aedd",
+    "nombre": "disney87152c",
     "status": "18:00",
     "duration": 135,
     "play_url": ""
