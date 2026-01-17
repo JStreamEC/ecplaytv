@@ -36,32 +36,6 @@
     "k2": "cbc2ab78586ef659024eafde75892b34"
   },
   {
-    "title": "Iva Jovic (USA) vs. Elisabetta Cocciaretto (ITA) (Final)",
-    "league": "WTA",
-    "fecha-evento": "2026-01-16T21:00:00-05:00",
-    "img": "019bc70a-c1f6-7849-8332-6440b1a776c9",
-    "nombre": "disney1c0400",
-    "status": "21:00",
-    "duration": 150,
-    "play_url": "https://www.disneyplus.com/es-es/play/663c8a3d-f0fa-43df-bb47-39dbf0ef8573",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1768701791~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F17%2FIva_Jovic_USA_vs_Elisabet_20260117_1768608023041%2F~psid=ae2058d6-bb91-48c4-9844-246372e12799~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=021f2f2447b02b1e9a38bb093b94341d3a0ef9a89e445596bbb73fb43b77e7c3/clt1/va02/disneyplus/event/2026/01/17/Iva_Jovic_USA_vs_Elisabet_20260117_1768608023041/ctr-all-hdri-complete.m3u8?v=1&hash=77af4af9462e6af5c9438f307b0d84d47afc2426",
-    "k1": "a943d16e2e8b4659824c86f05c37ff11",
-    "k2": "cf4e9439fee020c201802ff29f5f5c2b"
-  },
-  {
-    "title": "Boise State vs. #23 BYU",
-    "league": "NCAA Gimnasia Femenina",
-    "fecha-evento": "2026-01-16T21:00:00-05:00",
-    "img": "fecff0de-d091-406f-a300-848531749ec5",
-    "nombre": "disneyac6d1f",
-    "status": "21:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/72ee1bfb-d250-49cf-8489-cb75cf0ffed6",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1768701765~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F17%2FBoise_State_vs_23_BYU_20260117_1768608056044%2F~psid=f6c772bc-5a93-45c8-8f62-d598b7452aa2~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=9d5cf41a0b339a6edd8df0457ab06a192c02be41ee1938a79c236b8368ed2f65/clt1/va02/disneyplus/event/2026/01/17/Boise_State_vs_23_BYU_20260117_1768608056044/ctr-all-hdri-complete.m3u8?v=1&hash=9f010fd98c55b5be361b53f6dc45a5643d9e9673",
-    "k1": "6566763dfa1e4d34bf9cf4d33cb8ddcc",
-    "k2": "ee2fb6d510b418684afb3c43d253d8c8"
-  },
-  {
     "title": "Nashville Predators vs. Colorado Avalanche",
     "league": "National Hockey League",
     "fecha-evento": "2026-01-16T21:00:00-05:00",
@@ -646,6 +620,26 @@
     "img": "019b8b17-f0d4-76c5-8855-4a496b82347b",
     "nombre": "disney12879e",
     "status": "12:25",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "New York Rangers vs. Philadelphia Flyers",
+    "league": "National Hockey League",
+    "fecha-evento": "2026-01-17T13:00:00-05:00",
+    "img": "019b9fbe-d446-7aad-acc0-c7071c516bb3",
+    "nombre": "disney2aa0b6",
+    "status": "13:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "PEC Zwolle vs. AZ (Fecha #19)",
+    "league": "Eredivisie",
+    "fecha-evento": "2026-01-17T12:30:00-05:00",
+    "img": "019b8b18-10ae-7c2a-8df5-a50aa05c0984",
+    "nombre": "disney340763",
+    "status": "12:30",
     "duration": 135,
     "play_url": ""
   }
