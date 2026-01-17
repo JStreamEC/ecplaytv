@@ -62,19 +62,6 @@
     "k2": "72eea163101a852351e6c7ca5fb44350"
   },
   {
-    "title": "Audi FIS Ski Women's World Cup - Tarvisio, ITA (Downhill)",
-    "league": "ESPN",
-    "fecha-evento": "2026-01-17T04:35:10-05:00",
-    "img": "2ba9f40e-b243-4737-9cff-a1f9774ac58d",
-    "nombre": "disney7b0bcd",
-    "status": "04:35",
-    "duration": 100,
-    "play_url": "https://www.disneyplus.com/es-es/play/405939f8-1407-4e63-b644-6741f47c10a9",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1768729241~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F17%2FAudi_FIS_Ski_Womens_World_20260117_1768635919039%2F~psid=ae4455b1-8841-4d45-b25e-5113458747ff~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=da82f9b18e16ad3de158b5f90e55c626c2760994f808b0d1bb11c613a4f03cd3/clt1/va02/disneyplus/event/2026/01/17/Audi_FIS_Ski_Womens_World_20260117_1768635919039/ctr-all-hdri-complete.m3u8?v=1&hash=0b6575c4a5a00c850c0b9508942ba3491fe22e34",
-    "k1": "d6fb6eec2d7f4fa4b11f9d5fd065250d",
-    "k2": "9a8fcdef7d8b51d28ce326e67f263064"
-  },
-  {
     "title": "FIS Snowboard World Cup - Bansko, BUL (Parallel Giant Slalom)",
     "league": "ESPN",
     "fecha-evento": "2026-01-17T05:50:11-05:00",
@@ -146,8 +133,11 @@
     "img": "019b8feb-6464-7f6d-a856-5d5d08ad961c",
     "nombre": "disney5d2fa8",
     "status": "07:15",
-    "duration": 135,
-    "play_url": ""
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/fa6c7d14-c6d2-4f6a-ab58-24913efd8cf5",
+    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1768738857~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F921e1311-bb26-43dd-84a6-9e2284959712-1762950465141%2F~psid=ddb157ca-ec8c-4838-8ffc-1f80ef97d143~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=3b027f8af83d7aba9d1623dfecf8212f15183cc359feab68912f083ae48a9125/clt1/va02/disneyplus/channel/921e1311-bb26-43dd-84a6-9e2284959712-1762950465141/ctr-all-sliding-alt1.m3u8?v=1&hash=03915bf69f19826611ecdeecc79455eab40b229c",
+    "k1": "38a06f990c114203bfe458357fae2d1a",
+    "k2": "404d0bfa46985c4111335b315fed95b9"
   },
   {
     "title": "Coventry City vs. Leicester City",
@@ -156,8 +146,11 @@
     "img": "019b8b17-a42a-7496-9e3f-aecbe321114d",
     "nombre": "disneyca1304",
     "status": "07:20",
-    "duration": 135,
-    "play_url": ""
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/d36dab6c-2fb2-4cae-a0f0-51a1b51b1555",
+    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1768738903~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F7f9052ce-8143-43a6-9656-a8c00c4a3e56-1762950862652%2F~psid=2755feb4-e92a-48ba-beb8-d50633eec938~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=8e76db3d8f36a261fad01f3961caa6a22a8d69e802d50a5546f60bf4b5c5969d/clt1/va02/disneyplus/channel/7f9052ce-8143-43a6-9656-a8c00c4a3e56-1762950862652/ctr-all-sliding-alt1.m3u8?v=1&hash=2daf186937da77473bf07bbbecfc5597024e944f",
+    "k1": "a0ca98dcb78a4f989eeed049eea0fc3a",
+    "k2": "6f0284b19675b482dedca6600c48dc62"
   },
   {
     "title": "HSBC SVNS 3 | Dubai | Session 3",
@@ -655,6 +648,16 @@
     "fecha-evento": "2026-01-17T16:00:00-05:00",
     "img": "019bb812-ac8b-7b39-8273-0a38955ee010",
     "nombre": "disney65e04d",
+    "status": "16:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "#1 Arizona vs. UCF",
+    "league": "Básquetbol Masculino NCAA",
+    "fecha-evento": "2026-01-17T16:00:00-05:00",
+    "img": "019bb805-5d53-7e58-bad5-af2073429420",
+    "nombre": "disney849dad",
     "status": "16:00",
     "duration": 135,
     "play_url": ""
