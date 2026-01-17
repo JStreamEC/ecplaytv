@@ -23,19 +23,6 @@
     "k2": "9157fe3dc68539197867ac6293d6371e"
   },
   {
-    "title": "Hobart International / Centre Court (Doubles Final)",
-    "league": "WTA",
-    "fecha-evento": "2026-01-16T23:00:00-05:00",
-    "img": "019b8e74-3168-75ac-9b2c-8f5a25218f7d",
-    "nombre": "disney4672a6",
-    "status": "23:00",
-    "duration": 150,
-    "play_url": "https://www.disneyplus.com/es-es/play/f8d60deb-8d5a-43a5-95f6-841254d3d9ee",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1768708879~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F17%2FHobart_International_Cent_20260117_1768615247014%2F~psid=4a04a7b9-dd4b-4fb5-8758-51d847e34985~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=d1b92fe805b476d9f19c6c8d7d657e7a32e301ccc69772687f39848146fd5a2c/clt1/va02/disneyplus/event/2026/01/17/Hobart_International_Cent_20260117_1768615247014/ctr-all-hdri-complete.m3u8?v=1&hash=0115205031eb822bc13d3bdbdc16e50cfa6a8b8d",
-    "k1": "fac4acd370d04b079c3874b96295bb5c",
-    "k2": "eeccd6adc362c300c8f010a943cfa1a1"
-  },
-  {
     "title": "Ugo Humbert (FRA) vs. Tomas Machac (CZE) (Final)",
     "league": "ATP",
     "fecha-evento": "2026-01-16T23:30:06-05:00",
@@ -64,12 +51,15 @@
   {
     "title": "HSBC SVNS 3 | Dubai | Session 1",
     "league": "World Rugby Sevens Series",
-    "fecha-evento": "2026-01-17T00:56:00-05:00",
+    "fecha-evento": "2026-01-17T00:56:30-05:00",
     "img": "019bb3ab-136b-7ffc-9b49-944e05c1fa10",
-    "nombre": "disney77bf5b",
+    "nombre": "disney94e306",
     "status": "00:56",
-    "duration": 135,
-    "play_url": ""
+    "duration": 182,
+    "play_url": "https://www.disneyplus.com/es-es/play/7011ff68-9ade-48e4-8eda-2f89dbb306d1",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1768716037~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F17%2FHSBC_SVNS_3_Dubai_Session_20260117_1768622162039%2F~psid=9fee55f8-6e29-404b-8230-3cef2b75ca3b~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=79f24ad4cb219a7793e3a4e2a345fee5be08cf6d7a9e0394fb3005423cb6f3ee/clt1/va02/disneyplus/event/2026/01/17/HSBC_SVNS_3_Dubai_Session_20260117_1768622162039/ctr-all-hdri-complete.m3u8?v=1&hash=3f0923c1d6820884f205e3323a7a12171739351b",
+    "k1": "723a4f4bf482435490c4d867d8fcedfb",
+    "k2": "ca46628d72f2fa106cd458725b25d32b"
   },
   {
     "title": "Japan vs. Sri Lanka",
@@ -628,6 +618,16 @@
     "img": "019b98dc-a20e-7a7e-bd29-351647633441",
     "nombre": "disney337d60",
     "status": "14:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Angers vs. Olympique Marseille",
+    "league": "Ligue 1",
+    "fecha-evento": "2026-01-17T14:55:00-05:00",
+    "img": "019b8ff1-6078-70d0-81bf-24ffd3f62319",
+    "nombre": "disney3fcecc",
+    "status": "14:55",
     "duration": 135,
     "play_url": ""
   }
