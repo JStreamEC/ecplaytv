@@ -52,19 +52,6 @@
     "k2": "4f209f939b2c7cf3b8a7cb0fc652566b"
   },
   {
-    "title": "PEC Zwolle vs. AZ (Fecha #19)",
-    "league": "Eredivisie",
-    "fecha-evento": "2026-01-17T12:30:00-05:00",
-    "img": "019b8b18-10ae-7c2a-8df5-a50aa05c0984",
-    "nombre": "disney340763",
-    "status": "12:30",
-    "duration": 135,
-    "play_url": "https://www.disneyplus.com/es-es/play/3556988a-d588-48d6-ae10-4d11d17c5e1f",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1768758173~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F17%2FPEC_Zwolle_vs_AZ_Fecha_19_20260117_1768663844019%2F~psid=d1c6a39c-59b2-4e7f-b25f-7f28e235c3f9~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=eae74f4e9b9484556971dbc6fe0d877ef7b11b0a66274fb01fc422df3010bfc4/clt1/va02/disneyplus/event/2026/01/17/PEC_Zwolle_vs_AZ_Fecha_19_20260117_1768663844019/ctr-all-hdri-complete.m3u8?v=1&hash=c818f4ce28d6861ae04a732b2f0743ce97eafbaa",
-    "k1": "47f51c2efc254efebed46bf899e5552f",
-    "k2": "97ad878ed52b51416be3db3acb63c1b3"
-  },
-  {
     "title": "Toulouse vs. Nice",
     "league": "Ligue 1",
     "fecha-evento": "2026-01-17T12:48:15-05:00",
@@ -171,12 +158,15 @@
   {
     "title": "Angers vs. Olympique Marseille",
     "league": "Ligue 1",
-    "fecha-evento": "2026-01-17T14:55:00-05:00",
+    "fecha-evento": "2026-01-17T14:55:01-05:00",
     "img": "019b8ff1-6078-70d0-81bf-24ffd3f62319",
-    "nombre": "disney3fcecc",
+    "nombre": "disney00b69d",
     "status": "14:55",
-    "duration": 135,
-    "play_url": ""
+    "duration": 125,
+    "play_url": "https://www.disneyplus.com/es-es/play/2c5818b5-d0a4-438d-ab38-87560c9089a8",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1768766437~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F17%2FAngers_vs_Olympique_Marse_20260117_1768672554041%2F~psid=40190db6-ab06-4c1f-b27b-6aaa98493a70~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=d26a94391a082c22bb8e7023a3e551f3ff2ea7a2f33cfb098f31542303488b80/clt1/va02/disneyplus/event/2026/01/17/Angers_vs_Olympique_Marse_20260117_1768672554041/ctr-all-hdri-complete.m3u8?v=1&hash=dbe5b13e0c163a11bab61e1ef5c36c6a38369ce0",
+    "k1": "39f87fd3d25a47f2a4383ec76e1bb4bd",
+    "k2": "3b5f349f04021e6a5a2087faeb629d79"
   },
   {
     "title": "New York Islanders vs. Calgary Flames",
@@ -185,8 +175,11 @@
     "img": "019b9fbe-efc4-7011-9cbe-f2cd1d4069a8",
     "nombre": "disney17d3a0",
     "status": "15:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 210,
+    "play_url": "https://www.disneyplus.com/es-es/play/8f7d26e4-e834-4210-ae56-05946e40cddc",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1768766480~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F17%2FNew_York_Islanders_vs_Cal_20260117_1768672845042%2F~psid=c0d1ec43-f908-4ad1-8610-af78918f4592~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=36c8242dee3fa3912f63521528ca0189cf3506004c4180ef7a7456b0508d48cc/clt1/va02/disneyplus/event/2026/01/17/New_York_Islanders_vs_Cal_20260117_1768672845042/ctr-all-hdri-complete.m3u8?v=1&hash=24dbb35ea9a0a79fe05b6b64eba45992d6b04e1e",
+    "k1": "43615df1966f4a438d5fdd5254e98886",
+    "k2": "8bd62f551774ce785b2b52edc6ac5f78"
   },
   {
     "title": "Unión de Santa Fe vs. Defensor Sporting",
@@ -664,6 +657,16 @@
     "fecha-evento": "2026-01-17T20:00:00-05:00",
     "img": "70d533fa-c68f-4ae2-a3e6-fcfc45b20de0",
     "nombre": "disney729cf5",
+    "status": "20:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Oshawa FireWolves vs. Saskatchewan Rush",
+    "league": "National Lacrosse League",
+    "fecha-evento": "2026-01-17T20:00:00-05:00",
+    "img": "bae36950-df35-4f4a-9558-2ea9e431cf5a",
+    "nombre": "disneyfdfd72",
     "status": "20:00",
     "duration": 135,
     "play_url": ""
