@@ -23,32 +23,6 @@
     "k2": "06665006f799551dafbc754414637bda"
   },
   {
-    "title": "Wichita State vs. South Florida",
-    "league": "Básquetbol Masculino NCAA",
-    "fecha-evento": "2026-01-18T13:57:53-05:00",
-    "img": "019b8dac-9905-7068-895c-89c8a36f24f7",
-    "nombre": "disney780c16",
-    "status": "13:57",
-    "duration": 122,
-    "play_url": "https://www.disneyplus.com/es-es/play/8bfde2a3-4947-471e-b460-c25aacbb41b7",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1768849395~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F18%2FWichita_State_vs_South_Fl_20260118_1768757236377%2F~psid=eeb894cf-e4a0-45e7-af56-2de4de362216~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=52a6ae57662b25427d731a3929c95023c61f60c1533333b96bfc8d12f5cf6abd/clt1/va02/disneyplus/event/2026/01/18/Wichita_State_vs_South_Fl_20260118_1768757236377/ctr-all-hdri-complete.m3u8?v=1&hash=b955ec04a88955a157398bcf0abaf73f8410d15f",
-    "k1": "5d6d53a37e2940b9996cc3937caf4636",
-    "k2": "03a83078c1ad8b81bf70b0924a344049"
-  },
-  {
-    "title": "Milan vs. Lecce",
-    "league": "Seria A",
-    "fecha-evento": "2026-01-18T14:30:00-05:00",
-    "img": "019b9a93-5669-7569-b46e-9321bb7d5f37",
-    "nombre": "disney94698e",
-    "status": "14:30",
-    "duration": 135,
-    "play_url": "https://www.disneyplus.com/es-es/play/fd2a35c1-b9a9-4f6e-b336-954be9e6891d",
-    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1768851679~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Fbbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1767092609127%2F~psid=62321608-2deb-4eed-a91b-01ab1e7e0ccb~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=c90bf9453d2431c56a4818840856803c7878ee93acc08e038076dccc707c2040/clt1/va02/disneyplus/channel/bbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1767092609127/ctr-all-sliding-alt1.m3u8?v=1&hash=caa611b0aedb1e1aad3e4a1a02fe77959cc0e2c7",
-    "k1": "d083e4f067d74e60a25485fb625a1387",
-    "k2": "5b0650b8d9a40f6e043057c439acd550"
-  },
-  {
     "title": "Real Sociedad vs. FC Barcelona",
     "league": "LALIGA",
     "fecha-evento": "2026-01-18T14:45:00-05:00",
@@ -60,16 +34,6 @@
     "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1768852881~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F921e1311-bb26-43dd-84a6-9e2284959712-1762950465141%2F~psid=9df0bc12-4bb6-48c8-8d61-5136c6c8adbc~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=acbbcd580f640761751ce651c3239576d0fa763cea6567862ff048c4fe52c4a6/clt1/va02/disneyplus/channel/921e1311-bb26-43dd-84a6-9e2284959712-1762950465141/ctr-all-sliding-alt1.m3u8?v=1&hash=03915bf69f19826611ecdeecc79455eab40b229c",
     "k1": "56d3fd04ccda40f9839207810b8a6c44",
     "k2": "a81fd1580bab4d0e37de85f7e617c564"
-  },
-  {
-    "title": "Lyon vs. Brest",
-    "league": "Ligue 1",
-    "fecha-evento": "2026-01-18T14:30:04-05:00",
-    "img": "019b903f-6c1c-7e0a-80ea-064940e5c1fa",
-    "nombre": "disneyac6307",
-    "status": "14:30",
-    "duration": 135,
-    "play_url": "https://www.disneyplus.com/es-es/play/50f65e39-b575-4cf7-9b83-30ddbc9111bc"
   },
   {
     "title": "NFL Divisional Round Playbook with Next Gen Stats: Houston Texans vs. New England Patriots",
@@ -616,6 +580,36 @@
     "img": "be15de4c-314a-493f-88c5-9675573f0043",
     "nombre": "disneyb888df",
     "status": "17:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Spire Academy (OH) vs. Brewster Academy (NH)",
+    "league": "Baloncesto Colegial",
+    "fecha-evento": "2026-01-19T17:00:00-05:00",
+    "img": "865c6339-922c-4a84-8d41-ff5728a43eba",
+    "nombre": "disney9fb2b3",
+    "status": "17:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "San Jose Sharks vs. Florida Panthers",
+    "league": "National Hockey League",
+    "fecha-evento": "2026-01-19T17:30:00-05:00",
+    "img": "019bc3a3-a1cd-7157-8e96-05cfc4ea92d4",
+    "nombre": "disney578f20",
+    "status": "17:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Highlights Day 2",
+    "league": "ESPN",
+    "fecha-evento": "2026-01-19T17:30:00-05:00",
+    "img": "d4d7160b-3593-4599-bbaa-8b79f0fd5518",
+    "nombre": "disney60818a",
+    "status": "17:30",
     "duration": 135,
     "play_url": ""
   }
