@@ -10,19 +10,6 @@
     "play_url": "https://www.disneyplus.com/es-es/play/663d0901-54c0-47aa-9afd-b014256a5ed8"
   },
   {
-    "title": "Feyenoord vs. Sparta Rotterdam (Fecha #19)",
-    "league": "Eredivisie",
-    "fecha-evento": "2026-01-18T10:30:00-05:00",
-    "img": "019b8f30-901b-7a1f-bf51-d57d5cc6aff2",
-    "nombre": "disneycd9d2c",
-    "status": "10:30",
-    "duration": 135,
-    "play_url": "https://www.disneyplus.com/es-es/play/11e5e2e3-9c83-4734-8b1d-75dc5d0f6d7a",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1768840836~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F18%2FFeyenoord_vs_Sparta_Rotte_20260118_1768743044042%2F~psid=bf07ffdd-dbf1-42fc-a507-c6d4b3879a0c~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=bb004332269760a50bc7ba14e0c78e5bd3124c40d76f78355820ba6dcb4cfd0c/clt1/va02/disneyplus/event/2026/01/18/Feyenoord_vs_Sparta_Rotte_20260118_1768743044042/ctr-all-hdri-complete.m3u8?v=1&hash=c33a595772b5cba2f51a3ac4fad454982d35a13a",
-    "k1": "57ad5825178c4f82b3f9d2ae00309223",
-    "k2": "0e111ab2b9eb85a03ead75d269af6ccf"
-  },
-  {
     "title": "2026 Latin America Amateur Championship (Final Round)",
     "league": "ESPN",
     "fecha-evento": "2026-01-18T10:57:00-05:00",
@@ -651,6 +638,16 @@
     "fecha-evento": "2026-01-19T02:15:00-05:00",
     "img": "019bc188-a19e-7c60-9002-422a72394815",
     "nombre": "disney2521ac",
+    "status": "02:15",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Sri Lanka vs. Ireland",
+    "league": "ESPN",
+    "fecha-evento": "2026-01-19T02:15:00-05:00",
+    "img": "019bc188-a19e-7c60-9002-422a72394815",
+    "nombre": "disney34f24e",
     "status": "02:15",
     "duration": 135,
     "play_url": ""
