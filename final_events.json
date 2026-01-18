@@ -114,19 +114,6 @@
     "k2": "40d5c0ea649eb6246c0855c22a611ba7"
   },
   {
-    "title": "Court 13",
-    "league": "ESPN",
-    "fecha-evento": "2026-01-17T22:00:00-05:00",
-    "img": "2c718287-8c5e-408d-9747-c0b6c81e34e4",
-    "nombre": "disneyf326a9",
-    "status": "22:00",
-    "duration": 420,
-    "play_url": "https://www.disneyplus.com/es-es/play/ce4b0656-72a9-459a-b222-9158e817401d",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1768791801~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F18%2FCourt_13_20260118_1768698012035%2F~psid=a0e032b1-f165-42f8-a12b-97b9feaaf4c4~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=82e5861a480eed69e79197f69914c992492d17b81a8d857a88b4199d486e4af8/clt1/va02/disneyplus/event/2026/01/18/Court_13_20260118_1768698012035/ctr-all-hdri-complete.m3u8?v=1&hash=3439386b8f185c1780d7af292e2246360eafb51b",
-    "k1": "57bcc6a2c6f145a7960eb35ac1f55ab1",
-    "k2": "883c3203bee89a262353ce1e3d1d8728"
-  },
-  {
     "title": "Court 7",
     "league": "ESPN",
     "fecha-evento": "2026-01-17T22:00:00-05:00",
@@ -168,12 +155,15 @@
   {
     "title": "HSBC SVNS 3 | Dubai | Session 1",
     "league": "World Rugby Sevens Series",
-    "fecha-evento": "2026-01-18T00:56:00-05:00",
+    "fecha-evento": "2026-01-18T00:57:06-05:00",
     "img": "019bb3ac-1ac7-7525-8bfe-f3784093b7af",
-    "nombre": "disney55fb61",
-    "status": "00:56",
-    "duration": 135,
-    "play_url": ""
+    "nombre": "disneyf2b97f",
+    "status": "00:57",
+    "duration": 182,
+    "play_url": "https://www.disneyplus.com/es-es/play/77b88f5b-8087-4ae0-a53f-c1b6ada6479c",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1768802446~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F18%2FHSBC_SVNS_3_Dubai_Session_20260118_1768708604029%2F~psid=d59d9153-686f-47b7-a9c3-1e98003847fd~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=dc1b552962474235dddf5c84258ad42c4c2fdcc2a29e51f9ed7d4b9e80622ef3/clt1/va02/disneyplus/event/2026/01/18/HSBC_SVNS_3_Dubai_Session_20260118_1768708604029/ctr-all-hdri-complete.m3u8?v=1&hash=29974426463c56e9d9707a77487d373741387891",
+    "k1": "24b996e796ca4eab8b378a5a5ef5b813",
+    "k2": "8f930f25a4913cfd5e823fd18cabf412"
   },
   {
     "title": "John Cain Arena",
@@ -182,8 +172,11 @@
     "img": "c90ff3e2-65d4-499b-b454-ad2cc321108d",
     "nombre": "disney1658da",
     "status": "01:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 240,
+    "play_url": "https://www.disneyplus.com/es-es/play/9c020886-eb92-41a5-9b56-b0f2cc3f3416",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1768802492~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F18%2FJohn_Cain_Arena_20260118_1768711756110%2F~psid=bb79cdef-3635-4ab4-97bc-2af956f20354~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=8228c1e1ca6f126a314d89e5de6acdea55aa933ee0a0bb71551546b680acc839/clt1/va02/disneyplus/event/2026/01/18/John_Cain_Arena_20260118_1768711756110/ctr-all-hdri-complete.m3u8?v=1&hash=30e616a3509f00a79c63017f21babda0b5c3e38f",
+    "k1": "b9a3657d5c6d4549b50aea00a0a01547",
+    "k2": "b0ab3d8ab04ab5277e0367043fd51308"
   },
   {
     "title": "England vs. Zimbabwe",
@@ -651,6 +644,16 @@
     "fecha-evento": "2026-01-18T15:00:00-05:00",
     "img": "019b6cb8-0b02-7208-8305-da27c8824d70",
     "nombre": "disney336e05",
+    "status": "15:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Iona vs. Brown",
+    "league": "NCAA Women's Water Polo",
+    "fecha-evento": "2026-01-18T15:00:00-05:00",
+    "img": "78b13d22-e497-45a5-ba4a-23f0ed36de3d",
+    "nombre": "disneyf64417",
     "status": "15:00",
     "duration": 135,
     "play_url": ""
