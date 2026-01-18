@@ -23,32 +23,6 @@
     "k2": "616f97d256eda196d6da5b234e6a0a2e"
   },
   {
-    "title": "Florida Atlantic vs. Temple",
-    "league": "Básquetbol Masculino NCAA",
-    "fecha-evento": "2026-01-18T12:00:04-05:00",
-    "img": "019b7f40-50f5-7af1-8246-e3113cfaa883",
-    "nombre": "disney047e92",
-    "status": "12:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/be14cccb-5afc-4bef-92c3-b07511964e79",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1768843349~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F18%2FFlorida_Atlantic_vs_Templ_20260118_1768749022509%2F~psid=d45f7166-4355-43a5-8232-9c8128d4616f~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=618b5c0212a6520e247bd20ad2754907d2c52ebe1c5f74c6e3f131c07827473b/clt1/va02/disneyplus/event/2026/01/18/Florida_Atlantic_vs_Templ_20260118_1768749022509/ctr-all-hdri-complete.m3u8?v=1&hash=e23a291ef873abdef928d9720057332bdc4f3c51",
-    "k1": "909d6598371c4411b63799bdf3013298",
-    "k2": "5b61c066c818957ab9d8b2d6f418bc97"
-  },
-  {
-    "title": "Burgos vs. Huesca",
-    "league": "Segunda División de España",
-    "fecha-evento": "2026-01-18T12:25:05-05:00",
-    "img": "019b93a3-a146-7000-955d-160860fa785e",
-    "nombre": "disney0aeb79",
-    "status": "12:25",
-    "duration": 125,
-    "play_url": "https://www.disneyplus.com/es-es/play/7a9144ae-2ca7-4120-9b43-560c70b6afee",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1768844480~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F18%2FBurgos_vs_Huesca_20260118_1768749944028%2F~psid=7719323e-bc6a-496f-8b97-77158d3ce768~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=ce3cf6f501e850a649d2e559c07fee53b3c09a139502a33db0c64157e8a1f6f2/clt1/va02/disneyplus/event/2026/01/18/Burgos_vs_Huesca_20260118_1768749944028/ctr-all-hdri-complete.m3u8?v=1&hash=55f3860be6c8c97d4526a25e2d1c9a1732ef6abe",
-    "k1": "92ac1d180dc94efc93fe9b7df2017492",
-    "k2": "4608bc00415bf14abcea6e661240e3c1"
-  },
-  {
     "title": "Cornell, West Chester, Pennsylvania, George Washington",
     "league": "NCAA Gimnasia Femenina",
     "fecha-evento": "2026-01-18T13:01:07-05:00",
@@ -154,17 +128,20 @@
     "nombre": "disney94698e",
     "status": "14:30",
     "duration": 135,
-    "play_url": ""
+    "play_url": "https://www.disneyplus.com/es-es/play/fd2a35c1-b9a9-4f6e-b336-954be9e6891d",
+    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1768851679~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Fbbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1767092609127%2F~psid=62321608-2deb-4eed-a91b-01ab1e7e0ccb~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=c90bf9453d2431c56a4818840856803c7878ee93acc08e038076dccc707c2040/clt1/va02/disneyplus/channel/bbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1767092609127/ctr-all-sliding-alt1.m3u8?v=1&hash=caa611b0aedb1e1aad3e4a1a02fe77959cc0e2c7",
+    "k1": "d083e4f067d74e60a25485fb625a1387",
+    "k2": "5b0650b8d9a40f6e043057c439acd550"
   },
   {
     "title": "Lyon vs. Brest",
     "league": "Ligue 1",
-    "fecha-evento": "2026-01-18T14:30:00-05:00",
+    "fecha-evento": "2026-01-18T14:30:04-05:00",
     "img": "019b903f-6c1c-7e0a-80ea-064940e5c1fa",
-    "nombre": "disney9cbc38",
+    "nombre": "disneyac6307",
     "status": "14:30",
     "duration": 135,
-    "play_url": ""
+    "play_url": "https://www.disneyplus.com/es-es/play/50f65e39-b575-4cf7-9b83-30ddbc9111bc"
   },
   {
     "title": "NFL Divisional Round Playbook with Next Gen Stats: Houston Texans vs. New England Patriots",
@@ -613,6 +590,26 @@
     "img": "865c6339-922c-4a84-8d41-ff5728a43eba",
     "nombre": "disneyc2e05e",
     "status": "13:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Vermont vs. UAlbany",
+    "league": "Básquetbol Masculino NCAA",
+    "fecha-evento": "2026-01-19T13:00:00-05:00",
+    "img": "179452f3-a066-4548-a796-816503937448",
+    "nombre": "disney312998",
+    "status": "13:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Buffalo Sabres vs. Carolina Hurricanes",
+    "league": "National Hockey League",
+    "fecha-evento": "2026-01-19T13:30:00-05:00",
+    "img": "b9b8f973-1357-4eab-9ba7-3d5d9b815931",
+    "nombre": "disneyea84ea",
+    "status": "13:30",
     "duration": 135,
     "play_url": ""
   }
