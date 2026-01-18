@@ -101,19 +101,6 @@
     "k2": "15215e545dcc912fb0581f75b7d2b3dc"
   },
   {
-    "title": "Philadelphia Wings vs. Las Vegas Desert Dogs",
-    "league": "National Lacrosse League",
-    "fecha-evento": "2026-01-17T22:00:00-05:00",
-    "img": "76c7c781-0dd2-40b4-bddc-1736e54216bd",
-    "nombre": "disneyc4ad81",
-    "status": "22:00",
-    "duration": 150,
-    "play_url": "https://www.disneyplus.com/es-es/play/147cd2a8-3a66-4d63-bdb3-b421dd25b6d8",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1768791874~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F18%2FPhiladelphia_Wings_vs_Las_20260118_1768701161383%2F~psid=95ed0c29-63a9-406d-bf48-036477028266~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=f33fcd1f8013b76538528ab9cf7d1e686400b29dc258690991ab90e8cb0d00e0/clt1/va02/disneyplus/event/2026/01/18/Philadelphia_Wings_vs_Las_20260118_1768701161383/ctr-all-hdri-complete.m3u8?v=1&hash=28e3fe0e2d2256d015a21034449e1e35f7da8013",
-    "k1": "570b1820abee40ccadf3957fbcf1d1e3",
-    "k2": "cb45676fa146c368720da67785146e4a"
-  },
-  {
     "title": "Edmonton Oilers vs. Vancouver Canucks",
     "league": "National Hockey League",
     "fecha-evento": "2026-01-17T22:00:00-05:00",
@@ -271,16 +258,6 @@
     "img": "019bbdcc-8b13-7700-b626-3f19134e8225",
     "nombre": "disney9c7efa",
     "status": "02:30",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Rod Laver Arena",
-    "league": "ESPN",
-    "fecha-evento": "2026-01-18T03:00:00-05:00",
-    "img": "1adec690-6add-4fd0-96e5-a7e33103cabe",
-    "nombre": "disneyd7081b",
-    "status": "03:00",
     "duration": 135,
     "play_url": ""
   },
@@ -660,6 +637,16 @@
     "fecha-evento": "2026-01-18T14:30:00-05:00",
     "img": "019b9a93-5669-7569-b46e-9321bb7d5f37",
     "nombre": "disney94698e",
+    "status": "14:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Lyon vs. Brest",
+    "league": "Ligue 1",
+    "fecha-evento": "2026-01-18T14:30:00-05:00",
+    "img": "019b903f-6c1c-7e0a-80ea-064940e5c1fa",
+    "nombre": "disney9cbc38",
     "status": "14:30",
     "duration": 135,
     "play_url": ""
