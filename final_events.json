@@ -49,19 +49,6 @@
     "k2": "404d0bfa46985c4111335b315fed95b9"
   },
   {
-    "title": "Caimanes de Barranquilla vs. Tigres de Cartagena (Juego #4)",
-    "league": "Colombian Beisbol",
-    "fecha-evento": "2026-01-17T19:00:00-05:00",
-    "img": "019bb40f-1140-7a28-852a-c6cab848cd6c",
-    "nombre": "disneyd18b03",
-    "status": "19:00",
-    "duration": 180,
-    "play_url": "https://www.disneyplus.com/es-es/play/2ba8b242-25dd-46f2-86b8-4a6752784ebc",
-    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1768780883~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F7f9052ce-8143-43a6-9656-a8c00c4a3e56-1762950862652%2F~psid=7369af65-6dcc-4a50-9c24-da10d8f6f45e~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=562343d694c6e2f5ce583ffa01bb77461603c495c376ee4ad38d7ba1b3a7e1e3/clt1/va02/disneyplus/channel/7f9052ce-8143-43a6-9656-a8c00c4a3e56-1762950862652/ctr-all-sliding-alt1.m3u8?v=1&hash=2daf186937da77473bf07bbbecfc5597024e944f",
-    "k1": "a0ca98dcb78a4f989eeed049eea0fc3a",
-    "k2": "6f0284b19675b482dedca6600c48dc62"
-  },
-  {
     "title": "Kecmanovic vs. Etcheverry (Men's First Round)",
     "league": "ESPN",
     "fecha-evento": "2026-01-17T19:01:38-05:00",
@@ -679,6 +666,16 @@
     "img": "019b4c48-2289-7147-a01f-4e326b845419",
     "nombre": "disneyb8e4c1",
     "status": "13:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Tampa Bay Lightning vs. Dallas Stars",
+    "league": "National Hockey League",
+    "fecha-evento": "2026-01-18T14:00:00-05:00",
+    "img": "252bf6fc-cfe1-4797-9790-22d1fa729112",
+    "nombre": "disneya1261c",
+    "status": "14:00",
     "duration": 135,
     "play_url": ""
   }
