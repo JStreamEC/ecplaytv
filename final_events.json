@@ -182,16 +182,6 @@
     "k2": "37dff13c999a556031b2315819e04a30"
   },
   {
-    "title": "Rod Laver Arena",
-    "league": "ESPN",
-    "fecha-evento": "2026-01-17T19:10:03-05:00",
-    "img": "1adec690-6add-4fd0-96e5-a7e33103cabe",
-    "nombre": "disney33fb0f",
-    "status": "19:10",
-    "duration": 290,
-    "play_url": "https://www.disneyplus.com/es-es/play/8fe0eafe-af40-4d04-a93e-dfc2ca638230"
-  },
-  {
     "title": "Peñarol vs. River Plate",
     "league": "Amistoso",
     "fecha-evento": "2026-01-17T19:45:01-05:00",
@@ -328,8 +318,11 @@
     "img": "019bba24-9a9f-762b-9968-eebd84911729",
     "nombre": "disney252c57",
     "status": "21:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/f1548a8a-fc30-41b7-ba70-a76690c653ca",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1768788036~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F18%2FSan_Francisco_vs_Washingt_20260118_1768696047797%2F~psid=fa9ed9b7-34aa-425d-a344-384d11ff4979~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=0b632234d8fceac2111e5525a0923672384fd7fffc219fed83e56a42aebd9ae7/clt1/va02/disneyplus/event/2026/01/18/San_Francisco_vs_Washingt_20260118_1768696047797/ctr-all-hdri-complete.m3u8?v=1&hash=26ef908d3c16878af46d210680fa92f0093a8506",
+    "k1": "9c2ff80b7acf48cca2709b8a77e8c740",
+    "k2": "28a12b3b909731f921842d48e4c07316"
   },
   {
     "title": "Court 8",
@@ -338,8 +331,11 @@
     "img": "bbb315b7-ef8e-46fd-9d75-c53ad85c634e",
     "nombre": "disney2d8397",
     "status": "21:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 480,
+    "play_url": "https://www.disneyplus.com/es-es/play/fdf750d9-9ad7-4e5a-8b0a-81679fb3beab",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1768788079~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F18%2FCourt_8_20260118_1768694444024%2F~psid=ed94fdd7-2603-4917-95dd-d0b58bf01702~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=673d52252b6499dfd393c3cf61d4f61b609bf54ca11824bf67869e331af61226/clt1/va02/disneyplus/event/2026/01/18/Court_8_20260118_1768694444024/ctr-all-hdri-complete.m3u8?v=1&hash=a0f5ae7b854cd2ca0d99bd58170e51fb20a26106",
+    "k1": "c9432f2964d546ad80b5d4911e62568a",
+    "k2": "99ac85a78792db2e65fa02b303b8588d"
   },
   {
     "title": "Portland vs. Loyola Marymount",
@@ -348,8 +344,11 @@
     "img": "019b8dad-0430-7ebd-aaa4-7d866a9bd3d2",
     "nombre": "disney59df71",
     "status": "21:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/c91c8b04-bdcd-4088-9417-5c1e6deba8cd",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1768788124~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F18%2FPortland_vs_Loyola_Marymo_20260118_1768696481382%2F~psid=ca476c72-6a06-44ea-88f6-954f1cf32ee3~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=c36e918cc624512f49e1af37ed244f56575cb2a292414b224ebb4612a9a3c2a6/clt1/va02/disneyplus/event/2026/01/18/Portland_vs_Loyola_Marymo_20260118_1768696481382/ctr-all-hdri-complete.m3u8?v=1&hash=d67e9bc0adf183919b2f2287021fab50f7028998",
+    "k1": "25b8a0efbd8f443fbe310e04a994741e",
+    "k2": "163ac444e28c0cdc2a4fb9c4f08a1e2f"
   },
   {
     "title": "Los Angeles Kings vs. Anaheim Ducks",
@@ -508,6 +507,16 @@
     "img": "019bbdcc-8b13-7700-b626-3f19134e8225",
     "nombre": "disney9c7efa",
     "status": "02:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Rod Laver Arena",
+    "league": "ESPN",
+    "fecha-evento": "2026-01-18T03:00:00-05:00",
+    "img": "1adec690-6add-4fd0-96e5-a7e33103cabe",
+    "nombre": "disneyd7081b",
+    "status": "03:00",
     "duration": 135,
     "play_url": ""
   },
@@ -678,6 +687,16 @@
     "img": "019b8f30-908f-7a2b-9edf-8520d35adfce",
     "nombre": "disney3f33f0",
     "status": "08:55",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Stuttgart vs. Union Berlin",
+    "league": "Bundesliga",
+    "fecha-evento": "2026-01-18T09:20:00-05:00",
+    "img": "019b8f2f-de2b-7928-8ae1-8227905c8643",
+    "nombre": "disneyb65316",
+    "status": "09:20",
     "duration": 135,
     "play_url": ""
   }
