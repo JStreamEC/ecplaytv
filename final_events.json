@@ -107,8 +107,8 @@
     "img": "019baf49-6ad9-7227-962c-5ee34d241194",
     "nombre": "disneye1147c",
     "status": "18:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/7cd7e0b0-19d5-4db8-a2e6-1c897089e8ad"
   },
   {
     "title": "Georgia Tech vs. Duke",
@@ -117,8 +117,11 @@
     "img": "019b4a63-b4c9-7a28-b2de-0826acc2e1c8",
     "nombre": "disney3dc7e9",
     "status": "18:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/42fa9911-afbd-4e8c-9f63-b8bdbb077c08",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1768863725~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F18%2FGeorgia_Tech_vs_Duke_20260118_1768772476389%2F~psid=f8229286-679e-455d-9de9-144d4d43bb24~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=a6b89543c2dce9aa2ce664704db8e1793479c7f08ae1b5565fd7ae49460f868b/clt1/va02/disneyplus/event/2026/01/18/Georgia_Tech_vs_Duke_20260118_1768772476389/ctr-all-hdri-complete.m3u8?v=1&hash=9b0e0a519ec3e93bb5219e29d7ccd766043a2990",
+    "k1": "88324f75a40849d5a3a9ae02136bc712",
+    "k2": "533202b5f15868d6d16ac1cdcbda0ad4"
   },
   {
     "title": "LOVB Atlanta vs. LOVB Nebraska",
@@ -127,8 +130,11 @@
     "img": "019b92d8-2c4a-7690-8d7a-f3309405afbc",
     "nombre": "disney42ded3",
     "status": "18:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/fcd0c37b-f602-4edf-9a76-4449cf0f0111",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1768863750~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F18%2FLOVB_Atlanta_vs_LOVB_Nebr_20260118_1768770010040%2F~psid=8c421807-ce83-4859-8d80-1669a6162e01~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=51922028ef5ea01f9a9978a1cc519e80a0222bf316176f3888196f3b11eb0d8f/clt1/va02/disneyplus/event/2026/01/18/LOVB_Atlanta_vs_LOVB_Nebr_20260118_1768770010040/ctr-all-hdri-complete.m3u8?v=1&hash=c16e4704692184d03b9202be261454720596b570",
+    "k1": "0bff2e5ca19e42d3966e6123486871d0",
+    "k2": "92205006b3efa4437e55d6b332dc59d6"
   },
   {
     "title": "Boca Juniors vs. Olimpia",
