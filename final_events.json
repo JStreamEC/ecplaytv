@@ -62,19 +62,6 @@
     "k2": "acd421c2a6636bf4ad05af21ff9ff1c1"
   },
   {
-    "title": "(12) Svitolina vs. Bucsa (Women's First Round)",
-    "league": "ESPN",
-    "fecha-evento": "2026-01-17T19:02:52-05:00",
-    "img": "c90ff3e2-65d4-499b-b454-ad2cc321108d",
-    "nombre": "disney7fada1",
-    "status": "19:02",
-    "duration": 297,
-    "play_url": "https://www.disneyplus.com/es-es/play/b98b630f-adc0-4eb2-959b-b765c033f9d3",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1768791638~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F18%2FJohn_Cain_Arena_20260118_1768687236025%2F~psid=641be280-d845-45f8-b8e1-65658aaebbdd~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=3a425f1057913feadb711a35e9e30163a881061e187296f4b4ee7721104d2027/clt1/va02/disneyplus/event/2026/01/18/John_Cain_Arena_20260118_1768687236025/ctr-all-hdri-complete.m3u8?v=1&hash=bb38e137895498a7ec249ab2a77e07d9c5bcb235",
-    "k1": "2994307dea074f889455838859fb70ea",
-    "k2": "eb7005c41ed4f11abc9d0142928bf453"
-  },
-  {
     "title": "Sakkari vs. Jeanjean (Women's First Round)",
     "league": "ESPN",
     "fecha-evento": "2026-01-17T19:30:32-05:00",
@@ -99,19 +86,6 @@
     "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1768789235~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F18%2FRod_Laver_Arena_20260118_1768690635797%2F~psid=bc1de0c6-7805-4744-bfaf-fb36e934ca55~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=e9b9a2c47e6bcae61f05395924bd33777af5f7b311638caae2c9a287ad40b40e/clt1/va02/disneyplus/event/2026/01/18/Rod_Laver_Arena_20260118_1768690635797/ctr-all-hdri-complete.m3u8?v=1&hash=56d8a8b57dae4af35c41de19db96fa866e273708",
     "k1": "54707e1752ee411c8af7390d3f55445f",
     "k2": "8a551244ec54b08e9b72d544623354ad"
-  },
-  {
-    "title": "San Francisco 49ers vs. Seattle Seahawks",
-    "league": "NFL",
-    "fecha-evento": "2026-01-17T20:00:00-05:00",
-    "img": "28d48de4-039e-4899-af26-b97d62b0410f",
-    "nombre": "disney5a9ffc",
-    "status": "20:00",
-    "duration": 210,
-    "play_url": "https://www.disneyplus.com/es-es/play/ce66fc6c-79fc-408b-8aa7-22c73a7cdfc0",
-    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1768784713~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F47873700-1b85-4497-8f84-d6f321fbb196-1762950817735%2F~psid=824df75f-70d8-4389-800c-3562b0963972~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=d9a2e50aa3ec4f1d583f7987bff1f0e084402a4d4a24967c05be644685a2a922/clt1/va02/disneyplus/channel/47873700-1b85-4497-8f84-d6f321fbb196-1762950817735/ctr-all-sliding-alt1.m3u8?v=1&hash=47b2c0b057c5c5c39ef0f49826b655a1e4ceacb9",
-    "k1": "a2bc776a85f94030876a88e643572de0",
-    "k2": "79199341899455377d5cdcb043bcb26a"
   },
   {
     "title": "Court 8",
@@ -257,6 +231,16 @@
     "img": "019bb3ac-1ac7-7525-8bfe-f3784093b7af",
     "nombre": "disney55fb61",
     "status": "00:56",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "John Cain Arena",
+    "league": "ESPN",
+    "fecha-evento": "2026-01-18T01:00:00-05:00",
+    "img": "c90ff3e2-65d4-499b-b454-ad2cc321108d",
+    "nombre": "disney1658da",
+    "status": "01:00",
     "duration": 135,
     "play_url": ""
   },
@@ -657,6 +641,26 @@
     "img": "019b9040-c7b9-7dbd-9458-71f2dc816765",
     "nombre": "disney7b0781",
     "status": "14:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Wichita State vs. South Florida",
+    "league": "Básquetbol Masculino NCAA",
+    "fecha-evento": "2026-01-18T14:00:00-05:00",
+    "img": "019b8dac-9905-7068-895c-89c8a36f24f7",
+    "nombre": "disneya961a6",
+    "status": "14:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Real Sociedad vs. FC Barcelona",
+    "league": "LALIGA",
+    "fecha-evento": "2026-01-18T14:45:00-05:00",
+    "img": "5f1ad933-47ae-4cac-adb9-084e59679510",
+    "nombre": "disneyf04fba",
+    "status": "14:45",
     "duration": 135,
     "play_url": ""
   }
