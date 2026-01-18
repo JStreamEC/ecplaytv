@@ -23,19 +23,6 @@
     "k2": "0e111ab2b9eb85a03ead75d269af6ccf"
   },
   {
-    "title": "Tour El Salvador 2026 (Stage #1)",
-    "league": "ESPN",
-    "fecha-evento": "2026-01-18T10:00:00-05:00",
-    "img": "019bd0e9-f735-7e86-a6d6-6a3666b4533a",
-    "nombre": "disney38d760",
-    "status": "10:00",
-    "duration": 105,
-    "play_url": "https://www.disneyplus.com/es-es/play/33e9542b-c069-4712-bffa-dfb781b885fc",
-    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1768840880~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F47873700-1b85-4497-8f84-d6f321fbb196-1762950817735%2F~psid=7d6c2f3e-5d8c-4da8-ac24-1cb4ec07f895~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=8fb1d9fb944188f104b185064d610c4f145095dd177d779c35e06eda31575332/clt1/va02/disneyplus/channel/47873700-1b85-4497-8f84-d6f321fbb196-1762950817735/ctr-all-sliding-alt1.m3u8?v=1&hash=47b2c0b057c5c5c39ef0f49826b655a1e4ceacb9",
-    "k1": "15d25e75d6274883b28782e1eab6040f",
-    "k2": "8581f26298c06eb40f9768dfaa3bb946"
-  },
-  {
     "title": "2026 Latin America Amateur Championship (Final Round)",
     "league": "ESPN",
     "fecha-evento": "2026-01-18T10:57:00-05:00",
@@ -168,12 +155,15 @@
   {
     "title": "Burgos vs. Huesca",
     "league": "Segunda División de España",
-    "fecha-evento": "2026-01-18T12:25:00-05:00",
+    "fecha-evento": "2026-01-18T12:25:05-05:00",
     "img": "019b93a3-a146-7000-955d-160860fa785e",
-    "nombre": "disney3e5373",
+    "nombre": "disney0aeb79",
     "status": "12:25",
-    "duration": 135,
-    "play_url": ""
+    "duration": 125,
+    "play_url": "https://www.disneyplus.com/es-es/play/7a9144ae-2ca7-4120-9b43-560c70b6afee",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1768844480~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F18%2FBurgos_vs_Huesca_20260118_1768749944028%2F~psid=7719323e-bc6a-496f-8b97-77158d3ce768~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=ce3cf6f501e850a649d2e559c07fee53b3c09a139502a33db0c64157e8a1f6f2/clt1/va02/disneyplus/event/2026/01/18/Burgos_vs_Huesca_20260118_1768749944028/ctr-all-hdri-complete.m3u8?v=1&hash=55f3860be6c8c97d4526a25e2d1c9a1732ef6abe",
+    "k1": "92ac1d180dc94efc93fe9b7df2017492",
+    "k2": "4608bc00415bf14abcea6e661240e3c1"
   },
   {
     "title": "Cornell, West Chester, Pennsylvania, George Washington",
@@ -651,6 +641,16 @@
     "fecha-evento": "2026-01-19T02:15:00-05:00",
     "img": "019bc188-a19e-7c60-9002-422a72394815",
     "nombre": "disney3e6eda",
+    "status": "02:15",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "South Africa vs. Tanzania",
+    "league": "ESPN",
+    "fecha-evento": "2026-01-19T02:15:00-05:00",
+    "img": "019bc188-a19e-7c60-9002-422a72394815",
+    "nombre": "disney2521ac",
     "status": "02:15",
     "duration": 135,
     "play_url": ""
