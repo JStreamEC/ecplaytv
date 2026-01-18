@@ -10,16 +10,6 @@
     "play_url": "https://www.disneyplus.com/es-es/play/663d0901-54c0-47aa-9afd-b014256a5ed8"
   },
   {
-    "title": "Tampa Bay Lightning vs. Dallas Stars",
-    "league": "National Hockey League",
-    "fecha-evento": "",
-    "img": "252bf6fc-cfe1-4797-9790-22d1fa729112",
-    "nombre": "disney9a1f08",
-    "status": "",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "NFL Divisional Round Playbook with Next Gen Stats: Houston Texans vs. New England Patriots",
     "league": "NFL",
     "fecha-evento": "2026-01-18T14:45:02-05:00",
@@ -100,12 +90,15 @@
   {
     "title": "Highlights Day 1",
     "league": "ESPN",
-    "fecha-evento": "2026-01-18T17:30:00-05:00",
+    "fecha-evento": "2026-01-18T17:30:07-05:00",
     "img": "d4d7160b-3593-4599-bbaa-8b79f0fd5518",
-    "nombre": "disneya7ec10",
+    "nombre": "disneyc267be",
     "status": "17:30",
-    "duration": 135,
-    "play_url": ""
+    "duration": 60,
+    "play_url": "https://www.disneyplus.com/es-es/play/e8a89007-6df3-4fa6-bbe4-35c4d8bf60f1",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1768862480~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F18%2FHighlights_Day_1_20260118_1768768227026%2F~psid=8a8090a9-48a6-43a6-9575-98b0793dae82~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=9ac3d7706b2bfc66ddd0bc612b93ef1fa292d8fa88c63a6f852cc54cc18dd058/clt1/va02/disneyplus/event/2026/01/18/Highlights_Day_1_20260118_1768768227026/ctr-all-hdri-complete.m3u8?v=1&hash=ce1986f5c0a5c2d493108502a52885f7f19711eb",
+    "k1": "38c9d1d040924fbd8217412537e995c4",
+    "k2": "e889b8a5de2b56b7d7f3da2c2c6a3771"
   },
   {
     "title": "UTSA vs. Memphis",
@@ -168,6 +161,16 @@
     "play_url": ""
   },
   {
+    "title": "Los Angeles Rams vs. Chicago Bears",
+    "league": "NFL",
+    "fecha-evento": "2026-01-18T18:30:00-05:00",
+    "img": "019bb7a7-6c3b-76b7-9606-aee4b861ba1e",
+    "nombre": "disneyd05679",
+    "status": "18:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
     "title": "2026 Australian Open (First Round)",
     "league": "ESPN",
     "fecha-evento": "2026-01-18T19:00:00-05:00",
@@ -188,21 +191,21 @@
     "play_url": ""
   },
   {
-    "title": "Court 15",
+    "title": "Bondar vs. Mandlik (Women's First Round)",
     "league": "ESPN",
     "fecha-evento": "2026-01-18T19:00:00-05:00",
-    "img": "dd33254b-9c6d-461b-8ed8-a9bf6fd0d4cb",
-    "nombre": "disney58384c",
+    "img": "bbb315b7-ef8e-46fd-9d75-c53ad85c634e",
+    "nombre": "disney97429e",
     "status": "19:00",
     "duration": 135,
     "play_url": ""
   },
   {
-    "title": "Court 5",
+    "title": "Erjavec vs. Frech (Women's First Round)",
     "league": "ESPN",
     "fecha-evento": "2026-01-18T19:00:00-05:00",
-    "img": "5cdf1c91-b49b-4458-893f-8c0593fbf419",
-    "nombre": "disney3ceb6e",
+    "img": "8ac4b37f-211b-4a04-9248-668a92003f26",
+    "nombre": "disney561a74",
     "status": "19:00",
     "duration": 135,
     "play_url": ""
@@ -218,11 +221,21 @@
     "play_url": ""
   },
   {
-    "title": "Court 8",
+    "title": "Navone vs. Medjedovic (Men's First Round)",
     "league": "ESPN",
     "fecha-evento": "2026-01-18T19:00:00-05:00",
-    "img": "bbb315b7-ef8e-46fd-9d75-c53ad85c634e",
-    "nombre": "disney7ae48e",
+    "img": "4b262596-9a63-44a3-9003-dd0d9754d4e1",
+    "nombre": "disney095d6f",
+    "status": "19:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "(27) Kenin vs Stearns (Women's First Round)",
+    "league": "ESPN",
+    "fecha-evento": "2026-01-18T19:00:00-05:00",
+    "img": "18d98b7b-8f8f-4c7e-bbd8-5f7e512aab79",
+    "nombre": "disneyec5f38",
     "status": "19:00",
     "duration": 135,
     "play_url": ""
@@ -238,36 +251,6 @@
     "play_url": ""
   },
   {
-    "title": "Court 13",
-    "league": "ESPN",
-    "fecha-evento": "2026-01-18T19:00:00-05:00",
-    "img": "2c718287-8c5e-408d-9747-c0b6c81e34e4",
-    "nombre": "disney93a7be",
-    "status": "19:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Court 6",
-    "league": "ESPN",
-    "fecha-evento": "2026-01-18T19:00:00-05:00",
-    "img": "fc3c500f-46d8-4307-a8a0-a870f99fa579",
-    "nombre": "disneya0955d",
-    "status": "19:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Court 14",
-    "league": "ESPN",
-    "fecha-evento": "2026-01-18T19:00:00-05:00",
-    "img": "28cdca9b-5865-48d1-bcf9-9d062166797b",
-    "nombre": "disneyd6a7d5",
-    "status": "19:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Caimanes de Barranquilla vs. Tigres de Cartagena (Juego #5)",
     "league": "Colombian Beisbol",
     "fecha-evento": "2026-01-18T19:00:00-05:00",
@@ -278,21 +261,41 @@
     "play_url": ""
   },
   {
-    "title": "Court 12",
+    "title": "Li vs. Osorio (Women's First Round)",
     "league": "ESPN",
     "fecha-evento": "2026-01-18T19:00:00-05:00",
-    "img": "8ac4b37f-211b-4a04-9248-668a92003f26",
-    "nombre": "disney817c64",
+    "img": "5cdf1c91-b49b-4458-893f-8c0593fbf419",
+    "nombre": "disney93bf44",
     "status": "19:00",
     "duration": 135,
     "play_url": ""
   },
   {
-    "title": "Court 7",
+    "title": "Marcinko vs. Maria (Women's First Round)",
     "league": "ESPN",
     "fecha-evento": "2026-01-18T19:00:00-05:00",
-    "img": "4b262596-9a63-44a3-9003-dd0d9754d4e1",
-    "nombre": "disney399479",
+    "img": "28cdca9b-5865-48d1-bcf9-9d062166797b",
+    "nombre": "disney254053",
+    "status": "19:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Arango vs. Kessler (Women's First Round)",
+    "league": "ESPN",
+    "fecha-evento": "2026-01-18T19:00:00-05:00",
+    "img": "2c718287-8c5e-408d-9747-c0b6c81e34e4",
+    "nombre": "disney1097ed",
+    "status": "19:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Ymer vs. Shevchenko (Men's First Round)",
+    "league": "ESPN",
+    "fecha-evento": "2026-01-18T19:00:00-05:00",
+    "img": "fc3c500f-46d8-4307-a8a0-a870f99fa579",
+    "nombre": "disney651790",
     "status": "19:00",
     "duration": 135,
     "play_url": ""
@@ -303,6 +306,16 @@
     "fecha-evento": "2026-01-18T19:00:00-05:00",
     "img": "523aaf34-9425-4155-88bd-44bbf8d7e574",
     "nombre": "disney64e5c5",
+    "status": "19:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Halys vs. Tabilo (Men's First Round)",
+    "league": "ESPN",
+    "fecha-evento": "2026-01-18T19:00:00-05:00",
+    "img": "dd33254b-9c6d-461b-8ed8-a9bf6fd0d4cb",
+    "nombre": "disney45a682",
     "status": "19:00",
     "duration": 135,
     "play_url": ""
@@ -584,6 +597,16 @@
     "img": "d4d7160b-3593-4599-bbaa-8b79f0fd5518",
     "nombre": "disney60818a",
     "status": "17:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Court 5",
+    "league": "ESPN",
+    "fecha-evento": "2026-01-19T19:00:00-05:00",
+    "img": "5cdf1c91-b49b-4458-893f-8c0593fbf419",
+    "nombre": "disneyaa7e5e",
+    "status": "19:00",
     "duration": 135,
     "play_url": ""
   },
