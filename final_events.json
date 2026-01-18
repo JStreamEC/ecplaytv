@@ -36,32 +36,6 @@
     "k2": "de679e8ede218ba279b817a2b009716f"
   },
   {
-    "title": "Texas A&M vs. #4 Texas",
-    "league": "Básquet Femenino NCAA",
-    "fecha-evento": "2026-01-18T16:00:00-05:00",
-    "img": "019b9040-6db5-75a6-b752-6cf0c0b9aedd",
-    "nombre": "disney1c2b12",
-    "status": "16:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/8042241a-8ed3-40b7-a960-bef65dafbfd5",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1768856588~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F18%2FTexas_AM_vs_4_Texas_20260118_1768763176388%2F~psid=6a37aa47-e256-46ea-8e49-5a129f8c1466~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=7e19e53e11548a7e32c44ae51a557480ca20cbc33f4a80fd4c86177cdec41ecc/clt1/va02/disneyplus/event/2026/01/18/Texas_AM_vs_4_Texas_20260118_1768763176388/ctr-all-hdri-complete.m3u8?v=1&hash=0302526c28cc88c98e124855cbdaf01e1c3df5aa",
-    "k1": "adbf49bfe7e34faa80fd2c9a576db4d7",
-    "k2": "8853752ce46017c2e3cedc2547253ecc"
-  },
-  {
-    "title": "#19 California vs. Pittsburgh",
-    "league": "NCAA Gimnasia Femenina",
-    "fecha-evento": "2026-01-18T16:00:00-05:00",
-    "img": "2490f68e-9bd8-4b32-947c-af46406a5884",
-    "nombre": "disney0d5978",
-    "status": "16:00",
-    "duration": 90,
-    "play_url": "https://www.disneyplus.com/es-es/play/8e265490-ec63-49bd-8ed6-06e5320ec31b",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1768856536~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F18%2F19_California_vs_Pittsbur_20260118_1768762846041%2F~psid=7f2e9b61-14b7-4a6a-8ec9-a4a3b97d2bae~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=aa6ca69f1809e1e7fee7ddc2c2627c593d77684c3c5e024d16e9585dd67d77d9/clt1/va02/disneyplus/event/2026/01/18/19_California_vs_Pittsbur_20260118_1768762846041/ctr-all-hdri-complete.m3u8?v=1&hash=e83e5355d97430837d03fb5f04bb4ade68ca79d9",
-    "k1": "7066fad262ea49aa8692b93cc5bd2196",
-    "k2": "0f43f367de83ffcf9c6439d8c9db8322"
-  },
-  {
     "title": "Ottawa Senators vs. Detroit Red Wings",
     "league": "National Hockey League",
     "fecha-evento": "2026-01-18T16:58:57-05:00",
@@ -101,16 +75,6 @@
     "k2": "e889b8a5de2b56b7d7f3da2c2c6a3771"
   },
   {
-    "title": "UTSA vs. Memphis",
-    "league": "Básquetbol Masculino NCAA",
-    "fecha-evento": "2026-01-18T18:00:00-05:00",
-    "img": "019baf49-6ad9-7227-962c-5ee34d241194",
-    "nombre": "disneye1147c",
-    "status": "18:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/7cd7e0b0-19d5-4db8-a2e6-1c897089e8ad"
-  },
-  {
     "title": "Georgia Tech vs. Duke",
     "league": "Básquet Femenino NCAA",
     "fecha-evento": "2026-01-18T18:00:00-05:00",
@@ -122,6 +86,16 @@
     "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1768863725~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F18%2FGeorgia_Tech_vs_Duke_20260118_1768772476389%2F~psid=f8229286-679e-455d-9de9-144d4d43bb24~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=a6b89543c2dce9aa2ce664704db8e1793479c7f08ae1b5565fd7ae49460f868b/clt1/va02/disneyplus/event/2026/01/18/Georgia_Tech_vs_Duke_20260118_1768772476389/ctr-all-hdri-complete.m3u8?v=1&hash=9b0e0a519ec3e93bb5219e29d7ccd766043a2990",
     "k1": "88324f75a40849d5a3a9ae02136bc712",
     "k2": "533202b5f15868d6d16ac1cdcbda0ad4"
+  },
+  {
+    "title": "UTSA vs. Memphis",
+    "league": "Básquetbol Masculino NCAA",
+    "fecha-evento": "2026-01-18T18:00:00-05:00",
+    "img": "019baf49-6ad9-7227-962c-5ee34d241194",
+    "nombre": "disneye1147c",
+    "status": "18:00",
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/7cd7e0b0-19d5-4db8-a2e6-1c897089e8ad"
   },
   {
     "title": "LOVB Atlanta vs. LOVB Nebraska",
@@ -622,6 +596,26 @@
     "fecha-evento": "2026-01-19T19:00:00-05:00",
     "img": "18d98b7b-8f8f-4c7e-bbd8-5f7e512aab79",
     "nombre": "disney898455",
+    "status": "19:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Court 7",
+    "league": "ESPN",
+    "fecha-evento": "2026-01-19T19:00:00-05:00",
+    "img": "4b262596-9a63-44a3-9003-dd0d9754d4e1",
+    "nombre": "disney7f1ae0",
+    "status": "19:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Court 13",
+    "league": "ESPN",
+    "fecha-evento": "2026-01-19T19:00:00-05:00",
+    "img": "2c718287-8c5e-408d-9747-c0b6c81e34e4",
+    "nombre": "disneyf5fe5a",
     "status": "19:00",
     "duration": 135,
     "play_url": ""
