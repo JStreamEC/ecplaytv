@@ -143,19 +143,6 @@
     "k2": "acd421c2a6636bf4ad05af21ff9ff1c1"
   },
   {
-    "title": "(20) Cobolli vs. Fery (Men's First Round)",
-    "league": "ESPN",
-    "fecha-evento": "2026-01-17T19:02:52-05:00",
-    "img": "c90ff3e2-65d4-499b-b454-ad2cc321108d",
-    "nombre": "disneyac24b7",
-    "status": "19:02",
-    "duration": 297,
-    "play_url": "https://www.disneyplus.com/es-es/play/b98b630f-adc0-4eb2-959b-b765c033f9d3",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1768782301~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F18%2FJohn_Cain_Arena_20260118_1768687236025%2F~psid=88809065-4604-4e2e-85ce-7a9b2d06c1b8~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=7dd9491dbcecf3500681dbad7c2f8c9ecc7eab87e9018644f4785ec2170a6d5b/clt1/va02/disneyplus/event/2026/01/18/John_Cain_Arena_20260118_1768687236025/ctr-all-hdri-complete.m3u8?v=1&hash=bb38e137895498a7ec249ab2a77e07d9c5bcb235",
-    "k1": "2994307dea074f889455838859fb70ea",
-    "k2": "eb7005c41ed4f11abc9d0142928bf453"
-  },
-  {
     "title": "Sakkari vs. Jeanjean (Women's First Round)",
     "league": "ESPN",
     "fecha-evento": "2026-01-17T19:30:32-05:00",
@@ -325,19 +312,6 @@
     "k2": "163ac444e28c0cdc2a4fb9c4f08a1e2f"
   },
   {
-    "title": "Court 8",
-    "league": "ESPN",
-    "fecha-evento": "2026-01-17T21:00:00-05:00",
-    "img": "bbb315b7-ef8e-46fd-9d75-c53ad85c634e",
-    "nombre": "disney2d8397",
-    "status": "21:00",
-    "duration": 480,
-    "play_url": "https://www.disneyplus.com/es-es/play/fdf750d9-9ad7-4e5a-8b0a-81679fb3beab",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1768788079~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F18%2FCourt_8_20260118_1768694444024%2F~psid=ed94fdd7-2603-4917-95dd-d0b58bf01702~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=673d52252b6499dfd393c3cf61d4f61b609bf54ca11824bf67869e331af61226/clt1/va02/disneyplus/event/2026/01/18/Court_8_20260118_1768694444024/ctr-all-hdri-complete.m3u8?v=1&hash=a0f5ae7b854cd2ca0d99bd58170e51fb20a26106",
-    "k1": "c9432f2964d546ad80b5d4911e62568a",
-    "k2": "99ac85a78792db2e65fa02b303b8588d"
-  },
-  {
     "title": "San Francisco vs. Washington State",
     "league": "Básquet Femenino NCAA",
     "fecha-evento": "2026-01-17T21:00:00-05:00",
@@ -349,6 +323,19 @@
     "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1768788036~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F18%2FSan_Francisco_vs_Washingt_20260118_1768696047797%2F~psid=fa9ed9b7-34aa-425d-a344-384d11ff4979~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=0b632234d8fceac2111e5525a0923672384fd7fffc219fed83e56a42aebd9ae7/clt1/va02/disneyplus/event/2026/01/18/San_Francisco_vs_Washingt_20260118_1768696047797/ctr-all-hdri-complete.m3u8?v=1&hash=26ef908d3c16878af46d210680fa92f0093a8506",
     "k1": "9c2ff80b7acf48cca2709b8a77e8c740",
     "k2": "28a12b3b909731f921842d48e4c07316"
+  },
+  {
+    "title": "Court 8",
+    "league": "ESPN",
+    "fecha-evento": "2026-01-17T21:00:00-05:00",
+    "img": "bbb315b7-ef8e-46fd-9d75-c53ad85c634e",
+    "nombre": "disney2d8397",
+    "status": "21:00",
+    "duration": 480,
+    "play_url": "https://www.disneyplus.com/es-es/play/fdf750d9-9ad7-4e5a-8b0a-81679fb3beab",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1768788079~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F18%2FCourt_8_20260118_1768694444024%2F~psid=ed94fdd7-2603-4917-95dd-d0b58bf01702~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=673d52252b6499dfd393c3cf61d4f61b609bf54ca11824bf67869e331af61226/clt1/va02/disneyplus/event/2026/01/18/Court_8_20260118_1768694444024/ctr-all-hdri-complete.m3u8?v=1&hash=a0f5ae7b854cd2ca0d99bd58170e51fb20a26106",
+    "k1": "c9432f2964d546ad80b5d4911e62568a",
+    "k2": "99ac85a78792db2e65fa02b303b8588d"
   },
   {
     "title": "Los Angeles Kings vs. Anaheim Ducks",
@@ -697,6 +684,16 @@
     "img": "019b8f2f-de2b-7928-8ae1-8227905c8643",
     "nombre": "disneyb65316",
     "status": "09:20",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Tour El Salvador 2026 (Stage #1)",
+    "league": "ESPN",
+    "fecha-evento": "2026-01-18T10:00:00-05:00",
+    "img": "fe820126-151c-4e38-8f0b-57034fb1739e",
+    "nombre": "disney38d760",
+    "status": "10:00",
     "duration": 135,
     "play_url": ""
   }
