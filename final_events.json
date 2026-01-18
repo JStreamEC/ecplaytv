@@ -62,19 +62,6 @@
     "k2": "acd421c2a6636bf4ad05af21ff9ff1c1"
   },
   {
-    "title": "Sakkari vs. Jeanjean (Women's First Round)",
-    "league": "ESPN",
-    "fecha-evento": "2026-01-17T19:30:32-05:00",
-    "img": "b1eb706f-fd0e-45a8-b0b1-51a3db50549f",
-    "nombre": "disneya1ae34",
-    "status": "19:30",
-    "duration": 269,
-    "play_url": "https://www.disneyplus.com/es-es/play/ef50d6ce-0abe-4821-ba67-3691acf172a6",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1768783242~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F18%2FMargaret_Court_Arena_20260118_1768690707789%2F~psid=53d947dd-b15f-4e0c-970c-a73966f4546a~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=975a6f171d723e300d587adc9b89aa085011efb3e2777e225bd36c374dc40f43/clt1/va02/disneyplus/event/2026/01/18/Margaret_Court_Arena_20260118_1768690707789/ctr-all-hdri-complete.m3u8?v=1&hash=e649926680587b8a702e514fa61ec1a4cb8687c9",
-    "k1": "b9900361907d42d2ac1ce67d9bde8b3d",
-    "k2": "37dff13c999a556031b2315819e04a30"
-  },
-  {
     "title": "(3) Zverev vs. Diallo (Men's First Round)",
     "league": "ESPN",
     "fecha-evento": "2026-01-17T19:32:10-05:00",
@@ -211,8 +198,11 @@
     "img": "2ba9f40e-b243-4737-9cff-a1f9774ac58d",
     "nombre": "disneya08181",
     "status": "00:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 90,
+    "play_url": "https://www.disneyplus.com/es-es/play/9fa56872-8f63-4757-b5af-beb6fa54aaf0",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1768798847~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F18%2FFIS_Snowboard_Cross_World_20260118_1768705246037%2F~psid=beedc73d-910e-4481-a48b-a2a87e2a51a4~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=25a7ffbbee29c484d5429a0834670386b20fb099401c8a450d55d218f134fe49/clt1/va02/disneyplus/event/2026/01/18/FIS_Snowboard_Cross_World_20260118_1768705246037/ctr-all-hdri-complete.m3u8?v=1&hash=0850c5cad5a7632a039c8bc8729f1044bbd28ad9",
+    "k1": "50126b80b8254e9cac2cc33936f691ed",
+    "k2": "8c87efce648f6556b3e1119a47305c65"
   },
   {
     "title": "YONEX-SUNRISE India Open - Finals",
@@ -661,6 +651,16 @@
     "img": "5f1ad933-47ae-4cac-adb9-084e59679510",
     "nombre": "disneyf04fba",
     "status": "14:45",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Milan vs. Lecce",
+    "league": "Seria A",
+    "fecha-evento": "2026-01-18T14:30:00-05:00",
+    "img": "019b9a93-5669-7569-b46e-9321bb7d5f37",
+    "nombre": "disney94698e",
+    "status": "14:30",
     "duration": 135,
     "play_url": ""
   }
