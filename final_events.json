@@ -104,19 +104,6 @@
     "k2": "1fe62772ed0835009628544e2a1fea70"
   },
   {
-    "title": "Caimanes de Barranquilla vs. Tigres de Cartagena (Juego #5)",
-    "league": "Colombian Beisbol",
-    "fecha-evento": "2026-01-18T19:00:00-05:00",
-    "img": "019bb40f-1140-7a28-852a-c6cab848cd6c",
-    "nombre": "disney1bf6b6",
-    "status": "19:00",
-    "duration": 180,
-    "play_url": "https://www.disneyplus.com/es-es/play/abdb057c-f4f1-4237-bd1c-f03516e6aa37",
-    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1768867412~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F7f9052ce-8143-43a6-9656-a8c00c4a3e56-1762950862652%2F~psid=1103f51d-e2c5-4cab-9b9a-ed76c42b6e15~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=95fb1c61f54ae317d54fce2ef28ffb31c64362694d8bbebc00613a357e0212ce/clt1/va02/disneyplus/channel/7f9052ce-8143-43a6-9656-a8c00c4a3e56-1762950862652/ctr-all-sliding-alt1.m3u8?v=1&hash=2daf186937da77473bf07bbbecfc5597024e944f",
-    "k1": "2400d013eeee48d2ad3cbda3f1569291",
-    "k2": "5f9f2ff154419c28b9ca7f0cb157810c"
-  },
-  {
     "title": "Navone vs. Medjedovic (Men's First Round)",
     "league": "ESPN",
     "fecha-evento": "2026-01-18T19:00:48-05:00",
@@ -620,6 +607,16 @@
     "img": "019bc3a3-7cfc-7a85-ae03-8ed94b9b54fd",
     "nombre": "disney232606",
     "status": "21:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "New York Islanders vs. Vancouver Canucks",
+    "league": "National Hockey League",
+    "fecha-evento": "2026-01-19T22:00:00-05:00",
+    "img": "019bc3a3-7d29-7cf6-9e41-a150d2068e18",
+    "nombre": "disneyd79561",
+    "status": "22:00",
     "duration": 135,
     "play_url": ""
   }
