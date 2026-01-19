@@ -1,18 +1,5 @@
 [
   {
-    "title": "Los Angeles Rams vs. Chicago Bears",
-    "league": "NFL",
-    "fecha-evento": "2026-01-18T18:30:00-05:00",
-    "img": "019bb7a7-6c3b-76b7-9606-aee4b861ba1e",
-    "nombre": "disneyd05679",
-    "status": "18:30",
-    "duration": 210,
-    "play_url": "https://www.disneyplus.com/es-es/play/b1a65795-f12f-4ce0-96d4-2e5ff84e97a8",
-    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1768866183~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F47873700-1b85-4497-8f84-d6f321fbb196-1762950817735%2F~psid=ff6fada4-9a2e-46d0-940f-c565f180ff39~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=9765c106cf1c7536c4ec54ef73946f7cb991fee02a3110d495418c2fb8d0f67a/clt1/va02/disneyplus/channel/47873700-1b85-4497-8f84-d6f321fbb196-1762950817735/ctr-all-sliding-alt1.m3u8?v=1&hash=47b2c0b057c5c5c39ef0f49826b655a1e4ceacb9",
-    "k1": "15d25e75d6274883b28782e1eab6040f",
-    "k2": "8581f26298c06eb40f9768dfaa3bb946"
-  },
-  {
     "title": "2026 Australian Open (First Round)",
     "league": "ESPN",
     "fecha-evento": "2026-01-18T19:00:00-05:00",
@@ -517,16 +504,6 @@
     "play_url": ""
   },
   {
-    "title": "Court 10",
-    "league": "ESPN",
-    "fecha-evento": "2026-01-19T19:00:00-05:00",
-    "img": "625ba39e-9efc-4130-8973-166f292fd0bc",
-    "nombre": "disneyd1428a",
-    "status": "19:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Court 14",
     "league": "ESPN",
     "fecha-evento": "2026-01-19T19:00:00-05:00",
@@ -597,16 +574,6 @@
     "play_url": ""
   },
   {
-    "title": "Court TBC",
-    "league": "ESPN",
-    "fecha-evento": "2026-01-19T19:00:00-05:00",
-    "img": "d3f9979a-0ad8-4ed7-84fc-b129d0f9a1cb",
-    "nombre": "disney1661f1",
-    "status": "19:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Kia Arena",
     "league": "ESPN",
     "fecha-evento": "2026-01-19T19:00:00-05:00",
@@ -623,6 +590,36 @@
     "img": "019ba624-9e5f-7f4b-a9bb-0c84b29ad3d1",
     "nombre": "disneycb4a76",
     "status": "19:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Philadelphia Flyers vs. Vegas Golden Knights",
+    "league": "National Hockey League",
+    "fecha-evento": "2026-01-19T19:30:00-05:00",
+    "img": "b5f21978-5bcf-4fec-ad82-1c882fd7d992",
+    "nombre": "disneyc4cd7b",
+    "status": "19:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Winnipeg Jets vs. Chicago Blackhawks",
+    "league": "National Hockey League",
+    "fecha-evento": "2026-01-19T20:30:00-05:00",
+    "img": "019bc3a3-e52a-714c-9b6f-44c0ab6b9dfa",
+    "nombre": "disneyf75f5b",
+    "status": "20:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "New Jersey Devils vs. Calgary Flames",
+    "league": "National Hockey League",
+    "fecha-evento": "2026-01-19T21:00:00-05:00",
+    "img": "019bc3a3-7cfc-7a85-ae03-8ed94b9b54fd",
+    "nombre": "disney232606",
+    "status": "21:00",
     "duration": 135,
     "play_url": ""
   }
