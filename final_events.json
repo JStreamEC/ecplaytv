@@ -104,6 +104,19 @@
     "k2": "1fe62772ed0835009628544e2a1fea70"
   },
   {
+    "title": "(27) Nakashima vs. van de Zandschulp (Men's First Round)",
+    "league": "ESPN",
+    "fecha-evento": "2026-01-18T19:00:48-05:00",
+    "img": "4b262596-9a63-44a3-9003-dd0d9754d4e1",
+    "nombre": "disney3479a7",
+    "status": "19:00",
+    "duration": 599,
+    "play_url": "https://www.disneyplus.com/es-es/play/657e88d4-9a55-4dd2-a3c5-c4a7e329274e",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1768885242~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F19%2FNavone_vs_Medjedovic_Mens_20260119_1768775128249%2F~psid=f80ea202-4bba-43d7-8ce2-c5be459ff549~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=67eed30fe3453132c77e71d5cc20bae6a6471c10f6a615b43c68818c84e54355/clt1/va02/disneyplus/event/2026/01/19/Navone_vs_Medjedovic_Mens_20260119_1768775128249/ctr-all-hdri-complete.m3u8?v=1&hash=4a2ea4f640a35b1ac63aa86b68179d94bf22b610",
+    "k1": "8aa9d73826b64ff299c33a660c23c0a4",
+    "k2": "4407d1c58b1ac2794e095ccb77a257f9"
+  },
+  {
     "title": "Cerundolo vs. Thompson (Men's First Round)",
     "league": "ESPN",
     "fecha-evento": "2026-01-18T19:01:09-05:00",
@@ -169,25 +182,22 @@
     "k2": "4888c37556ac0c27342cf94de520bee0"
   },
   {
-    "title": "(3) Gauff vs. Rakhimova (Women's First Round)",
-    "league": "ESPN",
-    "fecha-evento": "2026-01-18T19:10:02-05:00",
-    "img": "019bd325-3a2c-776b-959e-b101b64cee91",
-    "nombre": "disney827a06",
-    "status": "19:10",
-    "duration": 290,
-    "play_url": "https://www.disneyplus.com/es-es/play/0374b5ec-b8e2-48c9-a73a-37613b95b381",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1768868753~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F19%2F3_Gauff_vs_Rakhimova_Wome_20260119_1768775445019%2F~psid=da944bcf-d9bc-4216-bc51-b2a6355016c8~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=067f3a279cfbbbce0337df69189c2664b0c882681fa05a8780640f53960f5fe0/clt1/va02/disneyplus/event/2026/01/19/3_Gauff_vs_Rakhimova_Wome_20260119_1768775445019/ctr-all-hdri-complete.m3u8?v=1&hash=6df0320b6039fa9817212fc6fbcdefbaabdbc8e8",
-    "k1": "864cf3419c9947fbaffe0d64b6ab0bd5",
-    "k2": "27629abfa170916e3cd23205ee9123cb"
-  },
-  {
     "title": "Starodubtseva vs. Tomljanovic (Women's First Round)",
     "league": "ESPN",
     "fecha-evento": "2026-01-19T01:00:00-05:00",
     "img": "c90ff3e2-65d4-499b-b454-ad2cc321108d",
     "nombre": "disneyd670be",
     "status": "01:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Pakistan vs. Scotland",
+    "league": "ESPN",
+    "fecha-evento": "2026-01-19T02:15:00-05:00",
+    "img": "019bc188-a19e-7c60-9002-422a72394815",
+    "nombre": "disney3e6eda",
+    "status": "02:15",
     "duration": 135,
     "play_url": ""
   },
@@ -588,6 +598,16 @@
     "img": "65544cf9-b7e9-45c7-b85a-22cec1f90147",
     "nombre": "disney7e0a6d",
     "status": "22:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Australia vs. Japan",
+    "league": "ESPN",
+    "fecha-evento": "2026-01-20T02:15:00-05:00",
+    "img": "019bc188-a19e-7c60-9002-422a72394815",
+    "nombre": "disney706cfd",
+    "status": "02:15",
     "duration": 135,
     "play_url": ""
   }
