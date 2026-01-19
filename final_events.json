@@ -13,19 +13,6 @@
     "k2": "883b722d17bccc38d94892919b843cc2"
   },
   {
-    "title": "Georgia Tech vs. Duke",
-    "league": "Básquet Femenino NCAA",
-    "fecha-evento": "2026-01-18T18:00:00-05:00",
-    "img": "019b4a63-b4c9-7a28-b2de-0826acc2e1c8",
-    "nombre": "disney3dc7e9",
-    "status": "18:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/42fa9911-afbd-4e8c-9f63-b8bdbb077c08",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1768863725~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F18%2FGeorgia_Tech_vs_Duke_20260118_1768772476389%2F~psid=f8229286-679e-455d-9de9-144d4d43bb24~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=a6b89543c2dce9aa2ce664704db8e1793479c7f08ae1b5565fd7ae49460f868b/clt1/va02/disneyplus/event/2026/01/18/Georgia_Tech_vs_Duke_20260118_1768772476389/ctr-all-hdri-complete.m3u8?v=1&hash=9b0e0a519ec3e93bb5219e29d7ccd766043a2990",
-    "k1": "88324f75a40849d5a3a9ae02136bc712",
-    "k2": "533202b5f15868d6d16ac1cdcbda0ad4"
-  },
-  {
     "title": "Boca Juniors vs. Olimpia",
     "league": "Amistoso",
     "fecha-evento": "2026-01-18T18:30:00-05:00",
@@ -260,6 +247,19 @@
     "k2": "ee538f5cc7047a3a98094454268f2eba"
   },
   {
+    "title": "St. Louis Blues vs. Edmonton Oilers",
+    "league": "National Hockey League",
+    "fecha-evento": "2026-01-18T20:00:00-05:00",
+    "img": "019b9fbe-f518-7a7d-9c74-b0c9f79cf8b2",
+    "nombre": "disney373705",
+    "status": "20:00",
+    "duration": 210,
+    "play_url": "https://www.disneyplus.com/es-es/play/50080225-3304-4e4b-85ce-e0f78f60568b",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1768870843~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F19%2FSt_Louis_Blues_vs_Edmonto_20260119_1768777218016%2F~psid=48306a62-40ea-48ad-a8b6-8ba20580222e~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=7af13c0ca40b0a0c4b54920187194858aea49c27f7886ff9223f6c4882af06e6/clt1/va02/disneyplus/event/2026/01/19/St_Louis_Blues_vs_Edmonto_20260119_1768777218016/ctr-all-hdri-complete.m3u8?v=1&hash=2f81d1bc97e8ef318ea0356b59580267c242ea99",
+    "k1": "d9aa092b8ef34e57a5fdcf37c2df4897",
+    "k2": "f2af2f7c17387f8b694d7a21b5dca872"
+  },
+  {
     "title": "(11) Medvedev vs. de Jong (Men's First Round)",
     "league": "ESPN",
     "fecha-evento": "2026-01-18T19:30:00-05:00",
@@ -271,16 +271,6 @@
     "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1768869683~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F19%2F11_Medvedev_vs_de_Jong_Me_20260119_1768775452027%2F~psid=49e9ea52-e071-4872-ba6a-f033ce416b4e~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=5b0cf4064c54170d3501978797038a60fa2f677641bf032be83d467c0471e32c/clt1/va02/disneyplus/event/2026/01/19/11_Medvedev_vs_de_Jong_Me_20260119_1768775452027/ctr-all-hdri-complete.m3u8?v=1&hash=57e725a8ff184d2663baef52fc1bb6e0ff85fbd7",
     "k1": "4be1b167cd7c46e8b51470aa767bce3d",
     "k2": "4888c37556ac0c27342cf94de520bee0"
-  },
-  {
-    "title": "St. Louis Blues vs. Edmonton Oilers",
-    "league": "National Hockey League",
-    "fecha-evento": "2026-01-18T20:00:00-05:00",
-    "img": "019b9fbe-f518-7a7d-9c74-b0c9f79cf8b2",
-    "nombre": "disney373705",
-    "status": "20:00",
-    "duration": 135,
-    "play_url": ""
   },
   {
     "title": "(3) Gauff vs. Rakhimova (Women's First Round)",
@@ -641,6 +631,16 @@
     "fecha-evento": "2026-01-19T19:00:00-05:00",
     "img": "bbb315b7-ef8e-46fd-9d75-c53ad85c634e",
     "nombre": "disneyd16667",
+    "status": "19:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Court TBC",
+    "league": "ESPN",
+    "fecha-evento": "2026-01-19T19:00:00-05:00",
+    "img": "d3f9979a-0ad8-4ed7-84fc-b129d0f9a1cb",
+    "nombre": "disney1661f1",
     "status": "19:00",
     "duration": 135,
     "play_url": ""
