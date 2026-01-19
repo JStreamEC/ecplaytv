@@ -1,18 +1,5 @@
 [
   {
-    "title": "Ottawa Senators vs. Detroit Red Wings",
-    "league": "National Hockey League",
-    "fecha-evento": "2026-01-18T16:58:57-05:00",
-    "img": "8201e0d6-fb7c-4313-ac46-4ef219f3ee24",
-    "nombre": "disney6519a6",
-    "status": "16:58",
-    "duration": 211,
-    "play_url": "https://www.disneyplus.com/es-es/play/0586f5e7-f7e8-4718-8ae2-f45aedf06d11",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1768861301~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F18%2FOttawa_Senators_vs_Detroi_20260118_1768766426407%2F~psid=adc22ddd-6607-4a41-a21a-ecf291711b37~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=19abe4aa75d322e12de63b5571d5d429f2757a129b9100088e4ced1e192b78be/clt1/va02/disneyplus/event/2026/01/18/Ottawa_Senators_vs_Detroi_20260118_1768766426407/ctr-all-hdri-complete.m3u8?v=1&hash=3d4aba5827caab4620fff8e18957de17881b7f64",
-    "k1": "f7edd49bcb0c428287675e71c8ba40e4",
-    "k2": "883b722d17bccc38d94892919b843cc2"
-  },
-  {
     "title": "Boca Juniors vs. Olimpia",
     "league": "Amistoso",
     "fecha-evento": "2026-01-18T18:30:00-05:00",
@@ -284,16 +271,6 @@
     "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1768870843~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F19%2FSt_Louis_Blues_vs_Edmonto_20260119_1768777218016%2F~psid=48306a62-40ea-48ad-a8b6-8ba20580222e~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=7af13c0ca40b0a0c4b54920187194858aea49c27f7886ff9223f6c4882af06e6/clt1/va02/disneyplus/event/2026/01/19/St_Louis_Blues_vs_Edmonto_20260119_1768777218016/ctr-all-hdri-complete.m3u8?v=1&hash=2f81d1bc97e8ef318ea0356b59580267c242ea99",
     "k1": "d9aa092b8ef34e57a5fdcf37c2df4897",
     "k2": "f2af2f7c17387f8b694d7a21b5dca872"
-  },
-  {
-    "title": "Winnipeg Jets vs. Chicago Blackhawks",
-    "league": "National Hockey League",
-    "fecha-evento": "2026-01-19T20:30:00-05:00",
-    "img": "019bc3a3-e52a-714c-9b6f-44c0ab6b9dfa",
-    "nombre": "disneyf75f5b",
-    "status": "20:30",
-    "duration": 135,
-    "play_url": ""
   },
   {
     "title": "Pakistan vs. Scotland",
@@ -642,6 +619,26 @@
     "img": "d3f9979a-0ad8-4ed7-84fc-b129d0f9a1cb",
     "nombre": "disney1661f1",
     "status": "19:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Kia Arena",
+    "league": "ESPN",
+    "fecha-evento": "2026-01-19T19:00:00-05:00",
+    "img": "523aaf34-9425-4155-88bd-44bbf8d7e574",
+    "nombre": "disney52a74d",
+    "status": "19:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "En Español-Miami vs. Indiana (CFP National Championship)",
+    "league": "Fútbol Americano NCAA",
+    "fecha-evento": "2026-01-19T19:30:00-05:00",
+    "img": "019ba624-9e5f-7f4b-a9bb-0c84b29ad3d1",
+    "nombre": "disneycb4a76",
+    "status": "19:30",
     "duration": 135,
     "play_url": ""
   }
