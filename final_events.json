@@ -143,19 +143,6 @@
     "k2": "7f3a0ba43088eb381b986548879d74fe"
   },
   {
-    "title": "Arango vs. Kessler (Women's First Round)",
-    "league": "ESPN",
-    "fecha-evento": "2026-01-18T19:03:38-05:00",
-    "img": "2c718287-8c5e-408d-9747-c0b6c81e34e4",
-    "nombre": "disneye0dd63",
-    "status": "19:03",
-    "duration": 596,
-    "play_url": "https://www.disneyplus.com/es-es/play/ec5d37dc-a3af-4f06-82b6-57791c75ee0b",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1768868702~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F19%2FArango_vs_Kessler_Womens__20260119_1768775548271%2F~psid=d7ba77a7-892e-4452-9bff-a97bc32b0d27~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=747f299048697010e8ba3f9115b6d4de5ae41fcd3961859402638d245d4583fb/clt1/va02/disneyplus/event/2026/01/19/Arango_vs_Kessler_Womens__20260119_1768775548271/ctr-all-hdri-complete.m3u8?v=1&hash=d31a002d6e69e649fea7ba643e44525c692d977b",
-    "k1": "cf4eb78f2d2e4f88ac31d1a993711bf7",
-    "k2": "4b30894923c68e6fff386324e550bdff"
-  },
-  {
     "title": "Halys vs. Tabilo (Men's First Round)",
     "league": "ESPN",
     "fecha-evento": "2026-01-18T19:04:20-05:00",
@@ -167,19 +154,6 @@
     "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1768868727~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F19%2FHalys_vs_Tabilo_Mens_Firs_20260119_1768775716396%2F~psid=118a1120-33d1-4551-b07f-499e55ddd9de~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=4981b43206ae7d68ba2154e8b11409349374d9b4ddabe78b4728bc9431020dcc/clt1/va02/disneyplus/event/2026/01/19/Halys_vs_Tabilo_Mens_Firs_20260119_1768775716396/ctr-all-hdri-complete.m3u8?v=1&hash=e49bd4c0f69ab93260513507d48b15808da928cb",
     "k1": "14bbc2a591b44a9d95f072805a6b3095",
     "k2": "ee538f5cc7047a3a98094454268f2eba"
-  },
-  {
-    "title": "(11) Medvedev vs. de Jong (Men's First Round)",
-    "league": "ESPN",
-    "fecha-evento": "2026-01-18T19:30:00-05:00",
-    "img": "019bd32a-028c-71a8-b247-51663cc18a13",
-    "nombre": "disneyfcc851",
-    "status": "19:30",
-    "duration": 270,
-    "play_url": "https://www.disneyplus.com/es-es/play/f982df3d-3dcf-4697-9167-520951b49e25",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1768869683~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F19%2F11_Medvedev_vs_de_Jong_Me_20260119_1768775452027%2F~psid=49e9ea52-e071-4872-ba6a-f033ce416b4e~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=5b0cf4064c54170d3501978797038a60fa2f677641bf032be83d467c0471e32c/clt1/va02/disneyplus/event/2026/01/19/11_Medvedev_vs_de_Jong_Me_20260119_1768775452027/ctr-all-hdri-complete.m3u8?v=1&hash=57e725a8ff184d2663baef52fc1bb6e0ff85fbd7",
-    "k1": "4be1b167cd7c46e8b51470aa767bce3d",
-    "k2": "4888c37556ac0c27342cf94de520bee0"
   },
   {
     "title": "Starodubtseva vs. Tomljanovic (Women's First Round)",
@@ -608,6 +582,26 @@
     "img": "019bc188-a19e-7c60-9002-422a72394815",
     "nombre": "disney706cfd",
     "status": "02:15",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Bangladesh vs. New Zealand",
+    "league": "ESPN",
+    "fecha-evento": "2026-01-20T02:15:00-05:00",
+    "img": "019bc188-a19e-7c60-9002-422a72394815",
+    "nombre": "disneyd8ebb3",
+    "status": "02:15",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "2026 Tour Down Under (Prologue)",
+    "league": "ESPN",
+    "fecha-evento": "2026-01-20T02:20:00-05:00",
+    "img": "fe820126-151c-4e38-8f0b-57034fb1739e",
+    "nombre": "disneye9acfc",
+    "status": "02:20",
     "duration": 135,
     "play_url": ""
   }
