@@ -1,18 +1,5 @@
 [
   {
-    "title": "Highlights Day 3",
-    "league": "ESPN",
-    "fecha-evento": "2026-01-20T17:30:12-05:00",
-    "img": "d4d7160b-3593-4599-bbaa-8b79f0fd5518",
-    "nombre": "disney750a86",
-    "status": "17:30",
-    "duration": 60,
-    "play_url": "https://www.disneyplus.com/es-es/play/3e302080-0608-43f1-a108-abf4c232b939",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1769036434~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F20%2FHighlights_Day_3_20260120_1768941018024%2F~psid=062fa0cb-e442-4f26-a9ec-d8d25dd30ffd~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=5a11f66c5f46f6078ec54f6ef15ed3c467e6e021f5644317b26f49f5ddfebc02/clt1/va02/disneyplus/event/2026/01/20/Highlights_Day_3_20260120_1768941018024/ctr-all-hdri-complete.m3u8?v=1&hash=6fb38b3560296a0dd19a6c12e83d19fdb4dbe6f4",
-    "k1": "adaf5f20af3e4fedac286dd0da46f68b",
-    "k2": "07e2740437d866d113b76118ced31a33"
-  },
-  {
     "title": "Colón de Santa Fe vs. Miramar Misiones",
     "league": "Serie Río de la Plata",
     "fecha-evento": "2026-01-20T17:45:01-05:00",
@@ -28,12 +15,15 @@
   {
     "title": "Minnesota Wild vs. Montreal Canadiens",
     "league": "National Hockey League",
-    "fecha-evento": "2026-01-20T19:00:00-05:00",
+    "fecha-evento": "2026-01-20T18:30:20-05:00",
     "img": "019bc3b2-1ac4-724c-bfed-076dd5eaf129",
-    "nombre": "disneyc07c1b",
-    "status": "19:00",
-    "duration": 135,
-    "play_url": ""
+    "nombre": "disneyd05592",
+    "status": "18:30",
+    "duration": 240,
+    "play_url": "https://www.disneyplus.com/es-es/play/ed488b30-fed6-4bfc-b905-8dad2fd69a00",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1769038834~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F21%2FMinnesota_Wild_vs_Montrea_20260121_1768946454032%2F~psid=2efd9874-029d-4096-88dc-42a366aef3a0~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=2f9d49750c93f32780b73fedc30488dd0275f6cb1a9f2ca745c4b6587811008e/clt1/va02/disneyplus/event/2026/01/21/Minnesota_Wild_vs_Montrea_20260121_1768946454032/ctr-all-hdri-complete.m3u8?v=1&hash=19c9a5c8d9ba3bf0f49da5c2e6ca6d8a848724fd",
+    "k1": "a6f4091cc274455a9ce127a8e5fdade1",
+    "k2": "ec8fcc8a50fb5bc298153e0ad41b48ce"
   },
   {
     "title": "Ottawa Senators vs. Columbus Blue Jackets",
@@ -622,6 +612,16 @@
     "img": "d4d7160b-3593-4599-bbaa-8b79f0fd5518",
     "nombre": "disney33a63a",
     "status": "17:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Colo-Colo vs. Peñarol",
+    "league": "Serie Río de la Plata",
+    "fecha-evento": "2026-01-21T18:45:00-05:00",
+    "img": "019bdcf7-04f2-7e0f-a916-0bf52d325340",
+    "nombre": "disney616e32",
+    "status": "18:45",
     "duration": 135,
     "play_url": ""
   }
