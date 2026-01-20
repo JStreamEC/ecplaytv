@@ -1,39 +1,16 @@
 [
   {
-    "title": "Vietnam vs. China (Semifinal)",
-    "league": "Copa de Naciones de Asia",
-    "fecha-evento": "2026-01-20T10:25:00-05:00",
-    "img": "019bd1cd-f72d-7f43-8f73-ad4c4901ed12",
-    "nombre": "disney046089",
-    "status": "10:25",
-    "duration": 125,
-    "play_url": "https://www.disneyplus.com/es-es/play/1d081f35-f45f-46e6-8be1-32ca8e93a2f2",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1769010034~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F20%2FVietnam_vs_China_Semifina_20260120_1768915543029%2F~psid=13875ed5-6d08-494c-91f9-7aa1685c44c2~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=905354dd7a810ebfea86ac1e5479bb7f5ddd91f7e82b2333e139e40ead4fd087/clt1/va02/disneyplus/event/2026/01/20/Vietnam_vs_China_Semifina_20260120_1768915543029/ctr-all-hdri-complete.m3u8?v=1&hash=3f12f3c2d0129e3173809314506109f342bb4dd2",
-    "k1": "b2e074c2e035457c983c170fd0936ffa",
-    "k2": "dd3f631c6ff4dc4bfa5cf5669d10ff76"
-  },
-  {
-    "title": "Tour El Salvador 2026 (Stage #3)",
-    "league": "ESPN",
-    "fecha-evento": "2026-01-20T11:00:00-05:00",
-    "img": "019bd0e3-7362-7fbd-8c17-5e96bdc5c932",
-    "nombre": "disneyb28497",
-    "status": "11:00",
-    "duration": 90,
-    "play_url": "https://www.disneyplus.com/es-es/play/edfaf04e-7694-4212-919c-f52ad7350fd9",
-    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1769012438~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Fec26a05e-a9cc-4db4-804e-77465738e667-1762950455142%2F~psid=2d0e2ebc-c285-4208-8ef5-01a37a2e2571~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=a1bca59cf09e0f56046cab8e06c0848c4f62a2d61dd33964bf141e96d40f18b6/clt1/va02/disneyplus/channel/ec26a05e-a9cc-4db4-804e-77465738e667-1762950455142/ctr-all-sliding-alt1.m3u8?v=1&hash=e2faf4444722e1f805096ad7b7489a5d09f9944f",
-    "k1": "1401b2d8861645579988b75536032165",
-    "k2": "3f1b31e3809c72b420fd764a339f9004"
-  },
-  {
     "title": "FK Bodø/Glimt vs. Manchester City",
     "league": "UEFA Champions League",
     "fecha-evento": "2026-01-20T12:30:00-05:00",
     "img": "019b9a92-cbd5-7524-81ad-de55c4577ab4",
     "nombre": "disney6a4329",
     "status": "12:30",
-    "duration": 135,
-    "play_url": ""
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/5bccba18-8e78-43d3-b844-c49be5ec5bf2",
+    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1769017256~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F921e1311-bb26-43dd-84a6-9e2284959712-1762950465141%2F~psid=c015248c-2e29-4021-83e5-07664369b0fd~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=8a90a66d0adca3aa5d8fcab8611ce6616422f29ca87f5f30ca85550d56e0d3b3/clt1/va02/disneyplus/channel/921e1311-bb26-43dd-84a6-9e2284959712-1762950465141/ctr-all-sliding-alt1.m3u8?v=1&hash=03915bf69f19826611ecdeecc79455eab40b229c",
+    "k1": "6a2e140f356348c7bb94f6f0d7c99e83",
+    "k2": "a7c7ad3df36aea2ad076d3dabef0425b"
   },
   {
     "title": "Real Madrid vs. AS Monaco",
@@ -592,6 +569,26 @@
     "img": "019bd22e-8711-7f88-81f1-c05b16b8a667",
     "nombre": "disneyc44893",
     "status": "11:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Galatasaray vs. Atletico Madrid",
+    "league": "UEFA Champions League",
+    "fecha-evento": "2026-01-21T12:30:00-05:00",
+    "img": "019b997e-8d64-70f3-af1a-267c61ec74cb",
+    "nombre": "disneye6cf0c",
+    "status": "12:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "AZ vs. Excelsior",
+    "league": "Eredivisie",
+    "fecha-evento": "2026-01-21T12:30:00-05:00",
+    "img": "019b9fbe-7e3f-7a69-8abb-bc0a7e878168",
+    "nombre": "disney51b585",
+    "status": "12:30",
     "duration": 135,
     "play_url": ""
   }
