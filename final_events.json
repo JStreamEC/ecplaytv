@@ -195,19 +195,6 @@
     "k2": "ea5c9b99f4bf0bf0e049135ecf2bbba2"
   },
   {
-    "title": "New Jersey Devils vs. Edmonton Oilers",
-    "league": "National Hockey League",
-    "fecha-evento": "2026-01-20T22:00:00-05:00",
-    "img": "019b9d29-70ef-7773-acea-d3dfb8927d28",
-    "nombre": "disneyc8e076",
-    "status": "22:00",
-    "duration": 210,
-    "play_url": "https://www.disneyplus.com/es-es/play/f1ea39a5-6180-460f-b58d-ff7a3abc5bc4",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1769052077~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F21%2FNew_Jersey_Devils_vs_Edmo_20260121_1768957230043%2F~psid=3903348a-c1fb-4af7-b660-37b7de07bd49~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=bc653fc6b36e71f3562b53f39c91755ac93af11e1b3ca3f0407114a2e1415b90/clt1/va02/disneyplus/event/2026/01/21/New_Jersey_Devils_vs_Edmo_20260121_1768957230043/ctr-all-hdri-complete.m3u8?v=1&hash=ce885fcab39ff21269e42c8d908e5cc519d06db0",
-    "k1": "e5d2ede1a201470293ef20d0449c7816",
-    "k2": "79a3332b118ba28cfc71559f97907a43"
-  },
-  {
     "title": "En Español-#19 Kansas vs. Colorado",
     "league": "Básquetbol Masculino NCAA",
     "fecha-evento": "2026-01-20T23:00:00-05:00",
@@ -221,14 +208,17 @@
     "k2": "276e4c9badba7e92f39d43230fb5f060"
   },
   {
-    "title": "Ruse vs. Tomljanovic (Women's Second Round)",
+    "title": "John Cain Arena",
     "league": "ESPN",
-    "fecha-evento": "2026-01-21T01:00:00-05:00",
+    "fecha-evento": "2026-01-21T00:40:03-05:00",
     "img": "c90ff3e2-65d4-499b-b454-ad2cc321108d",
-    "nombre": "disney8e8583",
-    "status": "01:00",
-    "duration": 135,
-    "play_url": ""
+    "nombre": "disneyc0326a",
+    "status": "00:40",
+    "duration": 260,
+    "play_url": "https://www.disneyplus.com/es-es/play/40ee2268-631f-475c-a76d-992cd15587c4",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1769061740~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F21%2FJohn_Cain_Arena_20260121_1768968024036%2F~psid=f5b81505-ab4d-4152-9e8b-e58ac5261100~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=48faec40b0a7db30cebca60a40bdbac33df5f3186422721e7f68ca73307566a4/clt1/va02/disneyplus/event/2026/01/21/John_Cain_Arena_20260121_1768968024036/ctr-all-hdri-complete.m3u8?v=1&hash=b1d22240d75c542d5e94430beb4c926ad2dd1629",
+    "k1": "06dfeac04e7e450194917abfeaa91aa4",
+    "k2": "d6ffaa476e7903f485897312a4cfe03b"
   },
   {
     "title": "Afghanistan vs. Tanzania",
@@ -501,16 +491,6 @@
     "play_url": ""
   },
   {
-    "title": "John Cain Arena",
-    "league": "ESPN",
-    "fecha-evento": "2026-01-21T19:00:00-05:00",
-    "img": "c90ff3e2-65d4-499b-b454-ad2cc321108d",
-    "nombre": "disneyd4ee3d",
-    "status": "19:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Court 13",
     "league": "ESPN",
     "fecha-evento": "2026-01-21T19:00:00-05:00",
@@ -637,6 +617,16 @@
     "img": "019a8034-97b7-711f-9ad7-b1d34acd71a3",
     "nombre": "disney0bcd19",
     "status": "19:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "2026 Tour Down Under (Stage #2)",
+    "league": "ESPN",
+    "fecha-evento": "2026-01-21T19:30:00-05:00",
+    "img": "019bb2df-3e39-78cb-bb67-e63a8ddf903b",
+    "nombre": "disney816afe",
+    "status": "19:30",
     "duration": 135,
     "play_url": ""
   }
