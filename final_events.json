@@ -117,19 +117,6 @@
     "k2": "6a2cc4a10809a774b03485e1f2349995"
   },
   {
-    "title": "San Jose Sharks vs. Tampa Bay Lightning",
-    "league": "National Hockey League",
-    "fecha-evento": "2026-01-20T19:00:00-05:00",
-    "img": "019bc3b2-2b08-7fd5-a8a0-2380d93a9e12",
-    "nombre": "disney235f68",
-    "status": "19:00",
-    "duration": 210,
-    "play_url": "https://www.disneyplus.com/es-es/play/4d412c0f-d19e-41bc-a50a-0497636f04e5",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1769040034~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F21%2FSan_Jose_Sharks_vs_Tampa__20260121_1768946448867%2F~psid=d0520626-1195-4030-b985-2154f66fb9f3~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=281a68ca2a5aa9710ad0d644bf327b64aa07853d7655f3e1bc59f650e8302e13/clt1/va02/disneyplus/event/2026/01/21/San_Jose_Sharks_vs_Tampa__20260121_1768946448867/ctr-all-hdri-complete.m3u8?v=1&hash=d0236513e5f8e8710013a4a0d2ce1ce9879a194d",
-    "k1": "b8f5c09ba09b4bd89b28548702929816",
-    "k2": "5a5a350893fb839959e476267cc23753"
-  },
-  {
     "title": "(23) Shnaider vs. Gibson (Women's Second Round)",
     "league": "ESPN",
     "fecha-evento": "2026-01-20T19:00:31-05:00",
@@ -338,19 +325,6 @@
     "k2": "4734ddd16390ecc231b53c4a38628d21"
   },
   {
-    "title": "New Jersey Devils vs. Edmonton Oilers",
-    "league": "National Hockey League",
-    "fecha-evento": "2026-01-20T22:00:00-05:00",
-    "img": "019b9d29-70ef-7773-acea-d3dfb8927d28",
-    "nombre": "disneyc8e076",
-    "status": "22:00",
-    "duration": 210,
-    "play_url": "https://www.disneyplus.com/es-es/play/f1ea39a5-6180-460f-b58d-ff7a3abc5bc4",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1769052077~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F21%2FNew_Jersey_Devils_vs_Edmo_20260121_1768957230043%2F~psid=3903348a-c1fb-4af7-b660-37b7de07bd49~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=bc653fc6b36e71f3562b53f39c91755ac93af11e1b3ca3f0407114a2e1415b90/clt1/va02/disneyplus/event/2026/01/21/New_Jersey_Devils_vs_Edmo_20260121_1768957230043/ctr-all-hdri-complete.m3u8?v=1&hash=ce885fcab39ff21269e42c8d908e5cc519d06db0",
-    "k1": "e5d2ede1a201470293ef20d0449c7816",
-    "k2": "79a3332b118ba28cfc71559f97907a43"
-  },
-  {
     "title": "New York Rangers vs. Los Angeles Kings",
     "league": "National Hockey League",
     "fecha-evento": "2026-01-20T22:00:19-05:00",
@@ -362,6 +336,19 @@
     "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1769052121~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F21%2FNew_York_Rangers_vs_Los_A_20260121_1768957222040%2F~psid=09a1e35f-e31f-42dd-a7a3-d24d59a03c5b~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=d07f15335674122604cd6dc6ce69d8c996467f775a88e1a8df5c9a5c5373c0eb/clt1/va02/disneyplus/event/2026/01/21/New_York_Rangers_vs_Los_A_20260121_1768957222040/ctr-all-hdri-complete.m3u8?v=1&hash=615f02948bb39c236cb78cb26a7097d18412cef8",
     "k1": "c066bdfdf6aa45b196495f4eaef5bf4a",
     "k2": "ea5c9b99f4bf0bf0e049135ecf2bbba2"
+  },
+  {
+    "title": "New Jersey Devils vs. Edmonton Oilers",
+    "league": "National Hockey League",
+    "fecha-evento": "2026-01-20T22:00:00-05:00",
+    "img": "019b9d29-70ef-7773-acea-d3dfb8927d28",
+    "nombre": "disneyc8e076",
+    "status": "22:00",
+    "duration": 210,
+    "play_url": "https://www.disneyplus.com/es-es/play/f1ea39a5-6180-460f-b58d-ff7a3abc5bc4",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1769052077~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F21%2FNew_Jersey_Devils_vs_Edmo_20260121_1768957230043%2F~psid=3903348a-c1fb-4af7-b660-37b7de07bd49~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=bc653fc6b36e71f3562b53f39c91755ac93af11e1b3ca3f0407114a2e1415b90/clt1/va02/disneyplus/event/2026/01/21/New_Jersey_Devils_vs_Edmo_20260121_1768957230043/ctr-all-hdri-complete.m3u8?v=1&hash=ce885fcab39ff21269e42c8d908e5cc519d06db0",
+    "k1": "e5d2ede1a201470293ef20d0449c7816",
+    "k2": "79a3332b118ba28cfc71559f97907a43"
   },
   {
     "title": "En Español-#19 Kansas vs. Colorado",
@@ -659,6 +646,16 @@
     "fecha-evento": "2026-01-21T19:00:00-05:00",
     "img": "019b5fef-9015-73db-92d8-9a9c0ee35f0d",
     "nombre": "disney5143d5",
+    "status": "19:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Court TBC",
+    "league": "ESPN",
+    "fecha-evento": "2026-01-21T19:00:00-05:00",
+    "img": "d3f9979a-0ad8-4ed7-84fc-b129d0f9a1cb",
+    "nombre": "disneyf99955",
     "status": "19:00",
     "duration": 135,
     "play_url": ""
