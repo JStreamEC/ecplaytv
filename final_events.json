@@ -143,19 +143,6 @@
     "k2": "e260cf4b9dc9dc60b5a64c28c0dee03f"
   },
   {
-    "title": "John Cain Arena",
-    "league": "ESPN",
-    "fecha-evento": "2026-01-20T18:40:03-05:00",
-    "img": "c90ff3e2-65d4-499b-b454-ad2cc321108d",
-    "nombre": "disneyd7da1e",
-    "status": "18:40",
-    "duration": 320,
-    "play_url": "https://www.disneyplus.com/es-es/play/552974f9-b90d-4447-8400-b9541d29f9fa",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1769040078~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F21%2FJohn_Cain_Arena_20260121_1768948043111%2F~psid=c63968de-0a14-435b-b1a2-eb2097262456~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=1207811b02456e22d1444399b8a0b7fc793f74960419b7b98cc4d5a1be654d6b/clt1/va02/disneyplus/event/2026/01/21/John_Cain_Arena_20260121_1768948043111/ctr-all-hdri-complete.m3u8?v=1&hash=b2564f5f82e9c42b599105665ff032fb7f282e25",
-    "k1": "59bfe7433e0b4b2484cbfa69b18a2ec9",
-    "k2": "25c3e1f4ab321920099faa26e20e771e"
-  },
-  {
     "title": "Maleckova/Skoch vs. Bejlek/Pigossi (Women's Doubles First Round)",
     "league": "ESPN",
     "fecha-evento": "2026-01-20T19:00:00-05:00",
@@ -193,6 +180,19 @@
     "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1769042545~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F21%2F13_Rublev_vs_Faria_Mens_S_20260121_1768948463111%2F~psid=aa33e3c8-3f5e-4d05-9644-852f1ec35b96~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=bb89de8f6e249449e43ba7bdf8fa65378bafc9d2570236ccfec824a61f96481a/clt1/va02/disneyplus/event/2026/01/21/13_Rublev_vs_Faria_Mens_S_20260121_1768948463111/ctr-all-hdri-complete.m3u8?v=1&hash=b2012173096dd9eb3b885472022c8d0e26f06c59",
     "k1": "598f0f2a4637473891bc89503cfd5714",
     "k2": "75aa817f637593247acd96af94436234"
+  },
+  {
+    "title": "(1) Alcaraz vs. Hanfmann (Men's Second Round)",
+    "league": "ESPN",
+    "fecha-evento": "2026-01-20T19:31:59-05:00",
+    "img": "019bde4e-e910-7aef-bc17-eddb7029ce89",
+    "nombre": "disney3c3282",
+    "status": "19:31",
+    "duration": 293,
+    "play_url": "https://www.disneyplus.com/es-es/play/8552989b-7311-43b5-8ed0-1ca6992c9dc4",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1769059243~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F21%2F1_Sabalenka_vs_Bai_Womens_20260121_1768948245026%2F~psid=6b2ac4e1-c2a7-413b-93bb-d44b9a53e1fa~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=1f22519918acbf8acb413d852670e6cdffe81c305b5c3bbc715947c42f6b5fd6/clt1/va02/disneyplus/event/2026/01/21/1_Sabalenka_vs_Bai_Womens_20260121_1768948245026/ctr-all-hdri-complete.m3u8?v=1&hash=825f634ca5dbd733b999492ffe2f539dc06a9f56",
+    "k1": "629ed6ec7fb74074afad91e7db44e552",
+    "k2": "37dbb8e593c0b630de9c2256f883acc7"
   },
   {
     "title": "New York Rangers vs. Los Angeles Kings",
@@ -234,11 +234,11 @@
     "k2": "276e4c9badba7e92f39d43230fb5f060"
   },
   {
-    "title": "John Cain Arena",
+    "title": "Ruse vs. Tomljanovic (Women's Second Round)",
     "league": "ESPN",
     "fecha-evento": "2026-01-21T01:00:00-05:00",
     "img": "c90ff3e2-65d4-499b-b454-ad2cc321108d",
-    "nombre": "disneyb78c65",
+    "nombre": "disney8e8583",
     "status": "01:00",
     "duration": 135,
     "play_url": ""
@@ -509,6 +509,16 @@
     "fecha-evento": "2026-01-21T19:00:00-05:00",
     "img": "4b262596-9a63-44a3-9003-dd0d9754d4e1",
     "nombre": "disneyd29c11",
+    "status": "19:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "John Cain Arena",
+    "league": "ESPN",
+    "fecha-evento": "2026-01-21T19:00:00-05:00",
+    "img": "c90ff3e2-65d4-499b-b454-ad2cc321108d",
+    "nombre": "disneyd4ee3d",
     "status": "19:00",
     "duration": 135,
     "play_url": ""
