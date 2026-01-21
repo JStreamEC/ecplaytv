@@ -52,19 +52,6 @@
     "k2": "3e4177556735f143b5c7e8eaafe81974"
   },
   {
-    "title": "NC State vs. #18 Clemson",
-    "league": "Básquetbol Masculino NCAA",
-    "fecha-evento": "2026-01-20T19:00:00-05:00",
-    "img": "019b7669-1513-7282-85d0-bf85d7ca9fb2",
-    "nombre": "disney551ea2",
-    "status": "19:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/d17587fa-baba-4eda-8982-751bd8c1c37c",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1769040290~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F21%2FNC_State_vs_18_Clemson_20260121_1768946837324%2F~psid=54f9b79b-7bd7-4a81-a5dc-a9731dc4782b~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=b0b304ffa74fe154f4174cad90475b86816210bdf9be2397bdeb3bd9437995f3/clt1/va02/disneyplus/event/2026/01/21/NC_State_vs_18_Clemson_20260121_1768946837324/ctr-all-hdri-complete.m3u8?v=1&hash=d19b02bcd36380dd7f137aedfc65cbd2bf0afb41",
-    "k1": "193601a62fd74be184f90fff650ce2ed",
-    "k2": "540f61428b72964d09ec9f94a9253537"
-  },
-  {
     "title": "(18) Cerundolo vs. Dzumhur (Men's Second Round)",
     "league": "ESPN",
     "fecha-evento": "2026-01-20T19:00:00-05:00",
@@ -76,6 +63,19 @@
     "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1769040338~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F21%2F18_Cerundolo_vs_Dzumhur_M_20260121_1768950960526%2F~psid=537d8368-67db-4180-ac25-f4889df66637~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=3350368627a67550a157985d6f79cbe4cc8daab955637fa75c7cf21cf3bfbbe3/clt1/va02/disneyplus/event/2026/01/21/18_Cerundolo_vs_Dzumhur_M_20260121_1768950960526/ctr-all-hdri-complete.m3u8?v=1&hash=2fade1c1d287883915edf77bade479a3195823b6",
     "k1": "8e51405e7da042cebac47f87bcc530d8",
     "k2": "8802a5e20d79489c50ad426a42aa9f4d"
+  },
+  {
+    "title": "NC State vs. #18 Clemson",
+    "league": "Básquetbol Masculino NCAA",
+    "fecha-evento": "2026-01-20T19:00:00-05:00",
+    "img": "019b7669-1513-7282-85d0-bf85d7ca9fb2",
+    "nombre": "disney551ea2",
+    "status": "19:00",
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/d17587fa-baba-4eda-8982-751bd8c1c37c",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1769040290~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F21%2FNC_State_vs_18_Clemson_20260121_1768946837324%2F~psid=54f9b79b-7bd7-4a81-a5dc-a9731dc4782b~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=b0b304ffa74fe154f4174cad90475b86816210bdf9be2397bdeb3bd9437995f3/clt1/va02/disneyplus/event/2026/01/21/NC_State_vs_18_Clemson_20260121_1768946837324/ctr-all-hdri-complete.m3u8?v=1&hash=d19b02bcd36380dd7f137aedfc65cbd2bf0afb41",
+    "k1": "193601a62fd74be184f90fff650ce2ed",
+    "k2": "540f61428b72964d09ec9f94a9253537"
   },
   {
     "title": "Majchrzak vs. Marozsan (Men's Second Round)",
@@ -392,12 +392,15 @@
   {
     "title": "Atlético de San Luis vs. Club América (Jornada 4)",
     "league": "Mexican Liga BBVA MX Femenil",
-    "fecha-evento": "2026-01-20T20:50:00-05:00",
+    "fecha-evento": "2026-01-20T20:50:19-05:00",
     "img": "019b6625-c23f-736e-af47-3fc328b9b758",
-    "nombre": "disney144063",
+    "nombre": "disneyf1a8e7",
     "status": "20:50",
-    "duration": 135,
-    "play_url": ""
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/673ca960-b210-437d-8071-5087e8c25792",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1769047232~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F21%2FAtltico_de_San_Luis_vs_Cl_20260121_1768953006023%2F~psid=53ea6bcf-5608-440a-bbbd-ab39d06936cb~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=58e315e83dbb830e9b3acfa4fddc0bfb6a82dcbb104ff926cc8b2a815385d80e/clt1/va02/disneyplus/event/2026/01/21/Atltico_de_San_Luis_vs_Cl_20260121_1768953006023/ctr-all-hdri-complete.m3u8?v=1&hash=b222a44f0c27f886a568d3d6fa74aef6e1211887",
+    "k1": "c2ad390219714c6880e4152654bf3792",
+    "k2": "405aa56681b87ab7af588ce664d1b57a"
   },
   {
     "title": "Auburn vs. Ole Miss",
@@ -406,8 +409,11 @@
     "img": "019bb8ef-4ad3-7349-bc66-c6d481ab7b57",
     "nombre": "disney029207",
     "status": "21:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/d1d22318-7d76-465d-a12c-14723b470e66",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1769047276~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F21%2FAuburn_vs_Ole_Miss_20260121_1768953645029%2F~psid=e4f32c16-3570-4c08-a3b1-d130ad7522bc~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=e686fadba148afc675f30ef464d72c2c2df1d346d501726ce0fd5c0eed69d7a9/clt1/va02/disneyplus/event/2026/01/21/Auburn_vs_Ole_Miss_20260121_1768953645029/ctr-all-hdri-complete.m3u8?v=1&hash=d29580a87160cf0b7b3bef806a47daec2e26745d",
+    "k1": "2c60f6e740384dd7bf36e9fc52f05309",
+    "k2": "dc68dad700bf71a8c0a43ed13ea9a2b1"
   },
   {
     "title": "#21 Georgia vs. Missouri",
@@ -416,8 +422,11 @@
     "img": "019b8fc6-68a9-7a2d-a9bc-361de431f78f",
     "nombre": "disneyf6df9d",
     "status": "21:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/7f241c1e-fe68-42e9-887d-fc9c2bb0298f",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1769047319~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F21%2F21_Georgia_vs_Missouri_20260121_1768956023137%2F~psid=2b8bd755-2195-4d1f-9f35-1e4350c889a5~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=5d0dc02a4a3b6457c98fdd7a2de2767bbe537f46a4f7428076d66bb81be36cb4/clt1/va02/disneyplus/event/2026/01/21/21_Georgia_vs_Missouri_20260121_1768956023137/ctr-all-hdri-complete.m3u8?v=1&hash=e23495e39f56bbb52c47f17d9ab8b0a8cba1df1d",
+    "k1": "91798c0381624bd0a3cbd53e73d790ae",
+    "k2": "6f9205281cdbcefdca757c197288ff2a"
   },
   {
     "title": "San Diego Clippers vs. Mexico City Capitanes",
@@ -426,8 +435,11 @@
     "img": "a366e0e8-78a5-40aa-bf3a-44963ce1a0d8",
     "nombre": "disneyf6ee47",
     "status": "21:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/c6b4858f-fa1f-41b1-86c4-a34225ee1539",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1769047342~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F21%2FSan_Diego_Clippers_vs_Mex_20260121_1768953650028%2F~psid=c3d415e7-921f-494b-875f-8c7d601e3291~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=982962c7196c8a85f571b7ffb458d26a57517e274d5bd0e6dfa558de91563c27/clt1/va02/disneyplus/event/2026/01/21/San_Diego_Clippers_vs_Mex_20260121_1768953650028/ctr-all-hdri-complete.m3u8?v=1&hash=5a5467af35fcc3fbd8c5044d570c30e4e6b4cb4d",
+    "k1": "3ab182b551cd4e5b86fffa0bf1e9df21",
+    "k2": "ea2f69d2a9d7a46b1740fab956a34c76"
   },
   {
     "title": "SMU vs. Wake Forest",
@@ -436,8 +448,11 @@
     "img": "019b9425-454f-741e-81ea-1138cb58124c",
     "nombre": "disney7b3275",
     "status": "21:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/b089433d-0cf0-4d8f-982c-9c8363d0bcc6",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1769047366~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F21%2FSMU_vs_Wake_Forest_20260121_1768956017329%2F~psid=87d19ee3-db98-4a92-8bf5-ff6166158580~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=6f6b89e67ce8e259382e053f5eee734f0884f0f043a7e2a8397d6f7f243fb60d/clt1/va02/disneyplus/event/2026/01/21/SMU_vs_Wake_Forest_20260121_1768956017329/ctr-all-hdri-complete.m3u8?v=1&hash=7c636a684dfc6d49a7361de4569a680142379031",
+    "k1": "d0ac5f99a3384e8091c20f75b96187d6",
+    "k2": "768c8ef1b1d896858c954513f81a3f2a"
   },
   {
     "title": "En Español-#15 Vanderbilt vs. #20 Arkansas",
@@ -446,8 +461,11 @@
     "img": "019b50ed-9eec-76bd-8d34-ebe76e277b27",
     "nombre": "disney6c8fc3",
     "status": "21:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/f2fc8ef4-d497-4fe9-91ac-8139857eb595",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1769047390~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F21%2FEn_Espaol15_Vanderbilt_vs_20260121_1768953615043%2F~psid=a68c10d9-d1ab-4f6b-8a97-bc0c083679bc~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=85b7224247a761fb1acc46a6d73db4be729eb76b2dbd35e7c4b820b688953c90/clt1/va02/disneyplus/event/2026/01/21/En_Espaol15_Vanderbilt_vs_20260121_1768953615043/ctr-all-hdri-complete.m3u8?v=1&hash=f0bcbb52543f2212b7768dd064d3c8640d457cec",
+    "k1": "85a04424249340b3b1e5692043a2214b",
+    "k2": "4734ddd16390ecc231b53c4a38628d21"
   },
   {
     "title": "New York Rangers vs. Los Angeles Kings",
