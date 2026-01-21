@@ -195,19 +195,6 @@
     "k2": "75aa817f637593247acd96af94436234"
   },
   {
-    "title": "Rod Laver Arena",
-    "league": "ESPN",
-    "fecha-evento": "2026-01-20T19:10:02-05:00",
-    "img": "019bdd82-0b3f-7d69-bc3d-061142b18305",
-    "nombre": "disney30941b",
-    "status": "19:10",
-    "duration": 290,
-    "play_url": "https://www.disneyplus.com/es-es/play/8552989b-7311-43b5-8ed0-1ca6992c9dc4",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1769041446~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F21%2F1_Sabalenka_vs_Bai_Womens_20260121_1768948245026%2F~psid=0b6f3753-0b89-46aa-9568-f7a5e31ce4d8~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=ea8b199db3e8ee8632f9d32c5de59845aa7faf93b06a282f35e123fbcb8aec36/clt1/va02/disneyplus/event/2026/01/21/1_Sabalenka_vs_Bai_Womens_20260121_1768948245026/ctr-all-hdri-complete.m3u8?v=1&hash=825f634ca5dbd733b999492ffe2f539dc06a9f56",
-    "k1": "629ed6ec7fb74074afad91e7db44e552",
-    "k2": "37dbb8e593c0b630de9c2256f883acc7"
-  },
-  {
     "title": "New York Rangers vs. Los Angeles Kings",
     "league": "National Hockey League",
     "fecha-evento": "2026-01-20T22:00:19-05:00",
@@ -642,6 +629,16 @@
     "fecha-evento": "2026-01-21T19:00:00-05:00",
     "img": "18d98b7b-8f8f-4c7e-bbd8-5f7e512aab79",
     "nombre": "disney89ea19",
+    "status": "19:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "En Español-Cleveland Cavaliers vs. Charlotte Hornets",
+    "league": "NBA",
+    "fecha-evento": "2026-01-21T19:00:00-05:00",
+    "img": "019a8034-97b7-711f-9ad7-b1d34acd71a3",
+    "nombre": "disney0bcd19",
     "status": "19:00",
     "duration": 135,
     "play_url": ""
