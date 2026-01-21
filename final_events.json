@@ -1,18 +1,5 @@
 [
   {
-    "title": "AZ vs. Excelsior",
-    "league": "Eredivisie",
-    "fecha-evento": "2026-01-21T12:30:00-05:00",
-    "img": "019b9fbe-7e3f-7a69-8abb-bc0a7e878168",
-    "nombre": "disney51b585",
-    "status": "12:30",
-    "duration": 135,
-    "play_url": "https://www.disneyplus.com/es-es/play/3c70442f-8320-43eb-8c00-24135712c50a",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1769103677~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F21%2FAZ_vs_Excelsior_20260121_1769009420041%2F~psid=7d5d78a7-bdd0-421c-a280-4e0c79dc6521~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=3b0677f356966743282a1e468711c448b39643f528b3d657da3e27124e0eae33/clt1/va02/disneyplus/event/2026/01/21/AZ_vs_Excelsior_20260121_1769009420041/ctr-all-hdri-complete.m3u8?v=1&hash=0702ccdd855e2a9c010b2742b46964a81c2002fc",
-    "k1": "5c6f7a0a5c6541e19dbda95478e89253",
-    "k2": "7caac5c895e7e8288ea7f0e06ef97b1a"
-  },
-  {
     "title": "Galatasaray vs. Atletico Madrid",
     "league": "UEFA Champions League",
     "fecha-evento": "2026-01-21T12:30:00-05:00",
@@ -80,12 +67,15 @@
   {
     "title": "Bayern Munich vs. Union St. Gilloise",
     "league": "UEFA Champions League",
-    "fecha-evento": "2026-01-21T14:40:00-05:00",
+    "fecha-evento": "2026-01-21T14:42:52-05:00",
     "img": "019b9fbe-6fae-7e72-8ecd-178459dfe9d3",
-    "nombre": "disney14ff7f",
-    "status": "14:40",
-    "duration": 135,
-    "play_url": ""
+    "nombre": "disney23c0a9",
+    "status": "14:42",
+    "duration": 132,
+    "play_url": "https://www.disneyplus.com/es-es/play/0415f6d2-1a91-4add-9298-964f95c4ec5d",
+    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1769111139~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F921e1311-bb26-43dd-84a6-9e2284959712-1762950465141%2F~psid=a0771d88-4ad1-4fa6-8154-cc26d26487bb~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=bb24d1f6b922dd1be320d23f26f258c2dcfc740fb6ce091d74d3462e0a8eec91/clt1/va02/disneyplus/channel/921e1311-bb26-43dd-84a6-9e2284959712-1762950465141/ctr-all-sliding-alt1.m3u8?v=1&hash=03915bf69f19826611ecdeecc79455eab40b229c",
+    "k1": "6f61e67410054296b822ac829e0cb43a",
+    "k2": "ed5ab7954ea89a12c22e7b2a9d1aac60"
   },
   {
     "title": "Newcastle United vs. PSV",
@@ -103,12 +93,15 @@
   {
     "title": "Sk Slavia Praha vs. FC Barcelona",
     "league": "UEFA Champions League",
-    "fecha-evento": "2026-01-21T14:40:00-05:00",
+    "fecha-evento": "2026-01-21T14:42:16-05:00",
     "img": "019b9fbe-4879-78eb-b742-5fa476054535",
-    "nombre": "disney3c9593",
-    "status": "14:40",
-    "duration": 135,
-    "play_url": ""
+    "nombre": "disney3506af",
+    "status": "14:42",
+    "duration": 133,
+    "play_url": "https://www.disneyplus.com/es-es/play/4b1f2b51-aa6c-4ced-bd5b-d6c0febf0aa3",
+    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1769111184~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Ff25bdf06-81c9-4a7c-b128-3128d610ad17-1762951253360%2F~psid=b91c7535-2fcc-4907-8ae8-1a9472ccb17b~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=d4151d8be2d29fa4424141452287e558764a26de633b7baa92b62ad4996f1b01/clt1/va02/disneyplus/channel/f25bdf06-81c9-4a7c-b128-3128d610ad17-1762951253360/ctr-all-sliding-alt1.m3u8?v=1&hash=57a1e5c4737768952c5164be5d4f5ba525d47674",
+    "k1": "83f33724e736445d86376a7ae461b6e0",
+    "k2": "01498af3038631fd1087e612010d45ac"
   },
   {
     "title": "Atalanta vs. Athletic Club Bilbao",
@@ -117,18 +110,24 @@
     "img": "019b9fbe-901a-725b-933f-cc48dcfaf842",
     "nombre": "disney8df6a1",
     "status": "14:40",
-    "duration": 135,
-    "play_url": ""
+    "duration": 140,
+    "play_url": "https://www.disneyplus.com/es-es/play/a7976536-9367-4070-a827-24365fa625f9",
+    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1769111229~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Fec26a05e-a9cc-4db4-804e-77465738e667-1762950455142%2F~psid=1d2e4bcc-de16-4841-a1b5-28d977117082~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=aad8ea7c464f7c53df7928a2602aa26febaf83a3abef1d2803e839c3072b9b9f/clt1/va02/disneyplus/channel/ec26a05e-a9cc-4db4-804e-77465738e667-1762950455142/ctr-all-sliding-alt1.m3u8?v=1&hash=e2faf4444722e1f805096ad7b7489a5d09f9944f",
+    "k1": "f076a41498154216a46f7ba2deaa807e",
+    "k2": "95e69dbf7cad39a940f6f7525ed76767"
   },
   {
     "title": "UCL al instante",
     "league": "UEFA Champions League",
-    "fecha-evento": "2026-01-21T14:40:00-05:00",
+    "fecha-evento": "2026-01-21T14:40:06-05:00",
     "img": "1f4cfba0-a435-412b-b4cb-1cebe051956c",
-    "nombre": "disney96ffd1",
+    "nombre": "disney682ef9",
     "status": "14:40",
-    "duration": 135,
-    "play_url": ""
+    "duration": 160,
+    "play_url": "https://www.disneyplus.com/es-es/play/ba869339-e045-433a-af97-7e9ef05f9b4f",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1769111253~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F21%2FUCL_al_instante_20260121_1769017252041%2F~psid=ff79c774-9a27-4459-b4d3-a0cfc03cac15~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=35b87b609902d06b7e29893e7f0fa22d4dbaba3ac14db9211ecf7e5b67954aae/clt1/va02/disneyplus/event/2026/01/21/UCL_al_instante_20260121_1769017252041/ctr-all-hdri-complete.m3u8?v=1&hash=01139b3c8433ad1f9fae7490b29cc10c31ff3479",
+    "k1": "e3b3694da8384188b9c61eae281fc2b0",
+    "k2": "60305074175961b0e53a347586446318"
   },
   {
     "title": "Stoke City vs. Middlesbrough",
@@ -607,6 +606,16 @@
     "img": "019ba4ee-82d4-762e-a1aa-e7c1394de53c",
     "nombre": "disney23ee96",
     "status": "09:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "The American Express: Main Feed (First Round)",
+    "league": "PGA TOUR",
+    "fecha-evento": "2026-01-22T11:30:00-05:00",
+    "img": "5916753b-a85e-4746-b824-3873f3782e16",
+    "nombre": "disney3930f4",
+    "status": "11:30",
     "duration": 135,
     "play_url": ""
   }
