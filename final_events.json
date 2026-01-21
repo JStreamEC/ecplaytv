@@ -247,19 +247,6 @@
     "k2": "9b46f8b6ce4441d7ad6e0814b83d3813"
   },
   {
-    "title": "Atlético de San Luis vs. Club América (Jornada 4)",
-    "league": "Mexican Liga BBVA MX Femenil",
-    "fecha-evento": "2026-01-20T20:50:19-05:00",
-    "img": "019b6625-c23f-736e-af47-3fc328b9b758",
-    "nombre": "disneyf1a8e7",
-    "status": "20:50",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/673ca960-b210-437d-8071-5087e8c25792",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1769047232~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F21%2FAtltico_de_San_Luis_vs_Cl_20260121_1768953006023%2F~psid=53ea6bcf-5608-440a-bbbd-ab39d06936cb~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=58e315e83dbb830e9b3acfa4fddc0bfb6a82dcbb104ff926cc8b2a815385d80e/clt1/va02/disneyplus/event/2026/01/21/Atltico_de_San_Luis_vs_Cl_20260121_1768953006023/ctr-all-hdri-complete.m3u8?v=1&hash=b222a44f0c27f886a568d3d6fa74aef6e1211887",
-    "k1": "c2ad390219714c6880e4152654bf3792",
-    "k2": "405aa56681b87ab7af588ce664d1b57a"
-  },
-  {
     "title": "San Diego Clippers vs. Mexico City Capitanes",
     "league": "NBA G League",
     "fecha-evento": "2026-01-20T21:00:00-05:00",
@@ -357,8 +344,11 @@
     "img": "019b7431-54fd-777e-a000-6597e497bcf9",
     "nombre": "disney433226",
     "status": "23:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/45420eab-9c93-48d8-84ed-07d1438c559d",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1769054435~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F21%2FEn_Espaol19_Kansas_vs_Col_20260121_1768960823018%2F~psid=d58a4249-16ad-43ae-9566-a6177d0737d7~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=d79bd5c3db8b73d2e250073e64cc220867128b05d3d8d10c5f8e33e28c1e8bf7/clt1/va02/disneyplus/event/2026/01/21/En_Espaol19_Kansas_vs_Col_20260121_1768960823018/ctr-all-hdri-complete.m3u8?v=1&hash=9b7ee6bb7d11a79740e5477b9811e6acf75798c0",
+    "k1": "7a2c7aa9e4d949e0974db8e4b4b5c5de",
+    "k2": "276e4c9badba7e92f39d43230fb5f060"
   },
   {
     "title": "John Cain Arena",
@@ -656,6 +646,16 @@
     "fecha-evento": "2026-01-21T19:00:00-05:00",
     "img": "d3f9979a-0ad8-4ed7-84fc-b129d0f9a1cb",
     "nombre": "disneyf99955",
+    "status": "19:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Court 8",
+    "league": "ESPN",
+    "fecha-evento": "2026-01-21T19:00:00-05:00",
+    "img": "bbb315b7-ef8e-46fd-9d75-c53ad85c634e",
+    "nombre": "disneyae36ff",
     "status": "19:00",
     "duration": 135,
     "play_url": ""
