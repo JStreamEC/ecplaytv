@@ -247,32 +247,6 @@
     "k2": "d73fc0a82df545895fa13979ba09a5b0"
   },
   {
-    "title": "Virginia Tech vs. Syracuse",
-    "league": "Básquetbol Masculino NCAA",
-    "fecha-evento": "2026-01-21T21:04:04-05:00",
-    "img": "019b955b-5e0b-73b5-8bc9-b070a36bea41",
-    "nombre": "disney2177bc",
-    "status": "21:04",
-    "duration": 116,
-    "play_url": "https://www.disneyplus.com/es-es/play/dcd039fe-13a2-4bef-9765-08b28cbe2c26",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1769135460~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F22%2FVirginia_Tech_vs_Syracuse_20260122_1769042483357%2F~psid=f72eda98-d011-46b3-beee-f21a1bc2dcb8~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=be88897ece849b97c8a9f208687ac682cbabfd87657724669e04675ace1812a9/clt1/va02/disneyplus/event/2026/01/22/Virginia_Tech_vs_Syracuse_20260122_1769042483357/ctr-all-hdri-complete.m3u8?v=1&hash=3fe246900992c2650a01b33c0a4474e83bd72bba",
-    "k1": "c071850aeab94f398ad705686365c17e",
-    "k2": "f85131d9e8955b9dc2ae4381b5540d9c"
-  },
-  {
-    "title": "Washington State vs. San Diego",
-    "league": "Básquetbol Masculino NCAA",
-    "fecha-evento": "2026-01-21T21:30:00-05:00",
-    "img": "019bdeba-778c-736a-b076-00ddd5ddda36",
-    "nombre": "disneyfc8c00",
-    "status": "21:30",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/7d74035d-68d9-45a0-8a2d-5d0d7c5794e1",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1769136147~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F22%2FWashington_State_vs_San_D_20260122_1769044242816%2F~psid=e13275b0-3bcc-4f3c-a9b8-48d6964545d6~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=ea84bf1abe9570af8ebec421df33a5e27c307f43ff12b2589fc3faceeb327c52/clt1/va02/disneyplus/event/2026/01/22/Washington_State_vs_San_D_20260122_1769044242816/ctr-all-hdri-complete.m3u8?v=1&hash=729e71e333a534de6771c9e40b8200a34fd3f077",
-    "k1": "f9900b395344447aa2b6da117908bcad",
-    "k2": "e322c0814fa969bc7ab24608ab12a344"
-  },
-  {
     "title": "Pittsburgh Penguins vs. Calgary Flames",
     "league": "National Hockey League",
     "fecha-evento": "2026-01-21T21:30:18-05:00",
@@ -696,6 +670,26 @@
     "fecha-evento": "2026-01-22T19:00:00-05:00",
     "img": "fc3c500f-46d8-4307-a8a0-a870f99fa579",
     "nombre": "disney7735f4",
+    "status": "19:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "ANZ Arena",
+    "league": "ESPN",
+    "fecha-evento": "2026-01-22T19:00:00-05:00",
+    "img": "18d98b7b-8f8f-4c7e-bbd8-5f7e512aab79",
+    "nombre": "disneyc500a3",
+    "status": "19:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Court 7",
+    "league": "ESPN",
+    "fecha-evento": "2026-01-22T19:00:00-05:00",
+    "img": "4b262596-9a63-44a3-9003-dd0d9754d4e1",
+    "nombre": "disneyb05ccd",
     "status": "19:00",
     "duration": 135,
     "play_url": ""
