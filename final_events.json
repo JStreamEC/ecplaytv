@@ -325,19 +325,6 @@
     "k2": "8cfa47d20afae2d09cdfdeb4d36a5758"
   },
   {
-    "title": "Washington Capitals vs. Vancouver Canucks",
-    "league": "National Hockey League",
-    "fecha-evento": "2026-01-21T21:30:00-05:00",
-    "img": "3d9fd8cb-3f06-4a7a-9e58-c89d1218f5a2",
-    "nombre": "disney0d985b",
-    "status": "21:30",
-    "duration": 240,
-    "play_url": "https://www.disneyplus.com/es-es/play/a344b40b-1163-423d-97a4-edad8981c3e9",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1769136033~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F22%2FWashington_Capitals_vs_Va_20260122_1769041849349%2F~psid=737246e0-080a-4fee-adf5-29abd4cd55ac~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=89fcd59228bb31d35308649232eaa3c8ea4f45e2bc4606294f2d51579c73f4ed/clt1/va02/disneyplus/event/2026/01/22/Washington_Capitals_vs_Va_20260122_1769041849349/ctr-all-hdri-complete.m3u8?v=1&hash=613a94a9e30cfa4843b98839bebeea7df131e1ff",
-    "k1": "4b0dc60fa1664bfb94f100d3146dca07",
-    "k2": "b9058a0a46bb5abd51d81708c3afa305"
-  },
-  {
     "title": "Washington State vs. San Diego",
     "league": "Básquetbol Masculino NCAA",
     "fecha-evento": "2026-01-21T21:30:00-05:00",
@@ -366,12 +353,15 @@
   {
     "title": "En Español-Oklahoma City Thunder vs. Milwaukee Bucks",
     "league": "NBA",
-    "fecha-evento": "2026-01-21T22:05:00-05:00",
+    "fecha-evento": "2026-01-21T21:59:00-05:00",
     "img": "af8f5d7c-ec54-471c-af5f-a5d319e53576",
-    "nombre": "disneycc31c2",
-    "status": "22:05",
-    "duration": 135,
-    "play_url": ""
+    "nombre": "disney3bec1c",
+    "status": "21:59",
+    "duration": 121,
+    "play_url": "https://www.disneyplus.com/es-es/play/73100e31-326e-48f4-b7c2-9cee47d5df52",
+    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1769138438~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Fec26a05e-a9cc-4db4-804e-77465738e667-1762950455142%2F~psid=20fa56a7-863a-47e1-95c3-125dc8f1e40c~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=092d2c5f6e2b5b444bce7ebad8f4d05e71fb84b6bdbb0d71b983d2ced908b3d4/clt1/va02/disneyplus/channel/ec26a05e-a9cc-4db4-804e-77465738e667-1762950455142/ctr-all-sliding-alt1.m3u8?v=1&hash=e2faf4444722e1f805096ad7b7489a5d09f9944f",
+    "k1": "f076a41498154216a46f7ba2deaa807e",
+    "k2": "95e69dbf7cad39a940f6f7525ed76767"
   },
   {
     "title": "New York Islanders vs. Seattle Kraken",
@@ -389,12 +379,28 @@
   {
     "title": "Loyola Marymount vs. Seattle U",
     "league": "Básquetbol Masculino NCAA",
-    "fecha-evento": "2026-01-21T22:00:00-05:00",
+    "fecha-evento": "2026-01-21T22:00:05-05:00",
     "img": "20abf0a5-7163-4e00-8bb4-5dce7866c185",
-    "nombre": "disneye0689a",
+    "nombre": "disneyde8748",
     "status": "22:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/6d9fd18b-288f-4dfb-a03e-fc25b742bba8",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1769138481~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F22%2FLoyola_Marymount_vs_Seatt_20260122_1769046497685%2F~psid=95cd5ab5-e651-441d-8150-111aa7d46a3c~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=de7fb051c85ccef0d8ed1c9561a6c4230981719489b13e1e9cbd04d5d8187be5/clt1/va02/disneyplus/event/2026/01/22/Loyola_Marymount_vs_Seatt_20260122_1769046497685/ctr-all-hdri-complete.m3u8?v=1&hash=66eed04f5dcda0dd4bf41e8088f5b62b79e8e6ad",
+    "k1": "60dd08f009e0424aa7ea74f9e72a9e58",
+    "k2": "23ba78f5f874d87982f85938354eb04e"
+  },
+  {
+    "title": "Washington Capitals vs. Vancouver Canucks",
+    "league": "National Hockey League",
+    "fecha-evento": "2026-01-21T21:30:00-05:00",
+    "img": "3d9fd8cb-3f06-4a7a-9e58-c89d1218f5a2",
+    "nombre": "disney0d985b",
+    "status": "21:30",
+    "duration": 240,
+    "play_url": "https://www.disneyplus.com/es-es/play/a344b40b-1163-423d-97a4-edad8981c3e9",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1769136033~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F22%2FWashington_Capitals_vs_Va_20260122_1769041849349%2F~psid=737246e0-080a-4fee-adf5-29abd4cd55ac~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=89fcd59228bb31d35308649232eaa3c8ea4f45e2bc4606294f2d51579c73f4ed/clt1/va02/disneyplus/event/2026/01/22/Washington_Capitals_vs_Va_20260122_1769041849349/ctr-all-hdri-complete.m3u8?v=1&hash=613a94a9e30cfa4843b98839bebeea7df131e1ff",
+    "k1": "4b0dc60fa1664bfb94f100d3146dca07",
+    "k2": "b9058a0a46bb5abd51d81708c3afa305"
   },
   {
     "title": "2026 Hero Dubai Desert Classic: Featured Group (First Round)",
