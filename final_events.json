@@ -221,19 +221,6 @@
     "k2": "baf524d98b9c879e24813be7d388f4b8"
   },
   {
-    "title": "Memphis Hustle vs. Salt Lake City Stars",
-    "league": "NBA G League",
-    "fecha-evento": "2026-01-21T20:00:00-05:00",
-    "img": "019ba255-fd2e-7f9b-bad4-db18e9062480",
-    "nombre": "disney6db529",
-    "status": "20:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/fc45e533-32d3-4bb9-becf-5629ee45f280",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1769135313~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F22%2FMemphis_Hustle_vs_Salt_La_20260122_1769036410048%2F~psid=34c1ba9c-8caa-40fd-9c40-9276e6b12ffe~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=0971995122139c3df54904d07ac202494cf27e49885dfb018123b77a73a53cc2/clt1/va02/disneyplus/event/2026/01/22/Memphis_Hustle_vs_Salt_La_20260122_1769036410048/ctr-all-hdri-complete.m3u8?v=1&hash=e05570fd98532d6b08eeef9c970fd99e8e4221a4",
-    "k1": "3679f19a55b949f38ad7871db0faa719",
-    "k2": "d0d9e45c99bb4ff415682963648babc4"
-  },
-  {
     "title": "Philadelphia Flyers vs. Utah Mammoth",
     "league": "National Hockey League",
     "fecha-evento": "2026-01-21T20:59:15-05:00",
@@ -413,11 +400,11 @@
     "play_url": ""
   },
   {
-    "title": "John Cain Arena",
+    "title": "(2) Swiatek vs. Bouzkova (Women's Second Round)",
     "league": "ESPN",
     "fecha-evento": "2026-01-22T01:00:00-05:00",
     "img": "c90ff3e2-65d4-499b-b454-ad2cc321108d",
-    "nombre": "disney98b455",
+    "nombre": "disney1848da",
     "status": "01:00",
     "duration": 135,
     "play_url": ""
@@ -496,7 +483,7 @@
     "title": "The American Express: Main Feed + Scheffler Group (First Round)",
     "league": "PGA TOUR",
     "fecha-evento": "2026-01-22T11:30:00-05:00",
-    "img": "019be388-a071-7be0-ad4d-bb3e4cc8aa28",
+    "img": "019be388-a08e-7403-9293-1f232901c486",
     "nombre": "disney133cda",
     "status": "11:30",
     "duration": 135,
@@ -709,6 +696,16 @@
     "img": "1cc3b2c6-434a-46a3-ae5a-357a319ecc7d",
     "nombre": "disney58bb86",
     "status": "18:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "U. Concepción vs. Montevideo Wanderers",
+    "league": "Serie Río de la Plata",
+    "fecha-evento": "2026-01-22T18:45:00-05:00",
+    "img": "019ba785-e541-7937-83e4-0241e3b5e224",
+    "nombre": "disneya01193",
+    "status": "18:45",
     "duration": 135,
     "play_url": ""
   }
