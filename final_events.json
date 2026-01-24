@@ -26,19 +26,6 @@
     "k2": "20cd3446a8567e57c7d20657c28604b4"
   },
   {
-    "title": "Buffalo Sabres vs. New York Islanders",
-    "league": "National Hockey League",
-    "fecha-evento": "2026-01-24T13:00:21-05:00",
-    "img": "019baf49-9065-7c2c-a499-610959cc5b98",
-    "nombre": "disney9a90c6",
-    "status": "13:00",
-    "duration": 210,
-    "play_url": "https://www.disneyplus.com/es-es/play/81288947-e787-4f58-9048-1b33bb0b1914",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1769365325~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F24%2FBuffalo_Sabres_vs_New_Yor_20260124_1769270428017%2F~psid=3f2c961a-4c82-4c5a-bf36-ce81ce8e97a6~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=e3011465c35b4eb49c9af8885cc66823312ff47e55ef636ceb72bcf2fc55ef55/clt1/va02/disneyplus/event/2026/01/24/Buffalo_Sabres_vs_New_Yor_20260124_1769270428017/ctr-all-hdri-complete.m3u8?v=1&hash=722d387f3b334aa0eb3130049c7dac64546f8cba",
-    "k1": "6ea1a0da7c2742d9aa8a4585b4ebbd76",
-    "k2": "6aef24eedcab39071d33b0d0e14cbfbd"
-  },
-  {
     "title": "Utah Mammoth vs. Nashville Predators",
     "league": "National Hockey League",
     "fecha-evento": "2026-01-24T13:30:21-05:00",
@@ -664,6 +651,16 @@
     "fecha-evento": "2026-01-24T19:30:00-05:00",
     "img": "019bb2e4-15f7-7dba-83b7-37570862ed61",
     "nombre": "disneyced3e7",
+    "status": "19:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Capitanes de Ciudad de México vs. South Bay Lakers",
+    "league": "NBA G League",
+    "fecha-evento": "2026-01-24T19:30:00-05:00",
+    "img": "82912243-dc87-43a9-8adf-6561e0c64051",
+    "nombre": "disney43f31b",
     "status": "19:30",
     "duration": 135,
     "play_url": ""
