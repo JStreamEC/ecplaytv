@@ -1,7 +1,7 @@
 {
   "domains": [
   {
-      "domain":"https://envivos.org/canal.php?stream=",
+      "domain":"https://envivos.org",
       "headers": {
         "accept": "*/*",
         "accept-language": "es,en;q=0.9,pt;q=0.8",
