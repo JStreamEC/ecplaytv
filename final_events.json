@@ -192,19 +192,6 @@
     "k2": "a6163055dce3d5946b1fa870eac75c35"
   },
   {
-    "title": "ESPN Tenis | Australian Open #8",
-    "league": "ESPN",
-    "fecha-evento": "2026-01-24T10:00:02-05:00",
-    "img": "fb85c8ac-8260-4316-a57f-5fb20de56f5c",
-    "nombre": "disney4b1339",
-    "status": "10:00",
-    "duration": 75,
-    "play_url": "https://www.disneyplus.com/es-es/play/8af2147f-7b6b-4473-b361-c641309aa067",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1769354554~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F24%2FESPN_Tenis_Australian_Ope_20260124_1769259605016%2F~psid=fe329f36-9a93-4c27-8619-42ffc52e53e3~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=a56e0b669caee6acdec3dc20d83d2baf65b9023710e0fa1c42528d86b10023bf/clt1/va02/disneyplus/event/2026/01/24/ESPN_Tenis_Australian_Ope_20260124_1769259605016/ctr-all-hdri-complete.m3u8?v=1&hash=ae32af93b19adfd29cf0dccc688089785edfc8bf",
-    "k1": "1d285283b3a14b4283b0ebbd3b2a0dcb",
-    "k2": "54e2bcd8dc9fe194ae074b2ec832f8ad"
-  },
-  {
     "title": "Penn State, Virginia Tech, Princeton",
     "league": "NCAA Natación y Buceo",
     "fecha-evento": "2026-01-24T10:00:00-05:00",
@@ -246,12 +233,15 @@
   {
     "title": "Rennes vs. Lorient",
     "league": "Ligue 1",
-    "fecha-evento": "2026-01-24T10:50:00-05:00",
+    "fecha-evento": "2026-01-24T10:45:11-05:00",
     "img": "019bb473-9730-70eb-8060-b37e2f34b1ef",
-    "nombre": "disney9ded69",
-    "status": "10:50",
+    "nombre": "disneye63f04",
+    "status": "10:45",
     "duration": 135,
-    "play_url": ""
+    "play_url": "https://www.disneyplus.com/es-es/play/6767f963-5fab-4782-99fe-a5148ec4279f",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1769356841~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F24%2FRennes_vs_Lorient_20260124_1769262619027%2F~psid=fdc0f18c-8987-4343-8880-0607d24dd515~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=8cef402bf0c1bafb9d6161f665c942fa1c8ee250b9764e9fa4e9eed1c52b7112/clt1/va02/disneyplus/event/2026/01/24/Rennes_vs_Lorient_20260124_1769262619027/ctr-all-hdri-complete.m3u8?v=1&hash=db2ce4d4b4c366bfbd5a0577d8a246fffae7d7ec",
+    "k1": "52e260c6599a443dbebf5dbb64b0a4dc",
+    "k2": "5a51dde4301689c074229e0f28ae96e8"
   },
   {
     "title": "Ole Miss vs. Kentucky",
@@ -679,6 +669,16 @@
     "fecha-evento": "2026-01-24T17:20:00-05:00",
     "img": "019be81c-e59a-7c6a-9cdd-c1bbbe906553",
     "nombre": "disney1a9ef5",
+    "status": "17:20",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Gimnasia y Esgrima La Plata vs. Racing Club (Fecha #1)",
+    "league": "Liga Profesional de Fútbol",
+    "fecha-evento": "2026-01-24T17:20:00-05:00",
+    "img": "019bdc6b-4f61-775b-a663-685167a13454",
+    "nombre": "disney3256fa",
     "status": "17:20",
     "duration": 135,
     "play_url": ""
