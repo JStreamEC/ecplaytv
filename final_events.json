@@ -26,19 +26,6 @@
     "k2": "21b47b374e57b4ea718217971f60781a"
   },
   {
-    "title": "#6 Houston vs. #12 Texas Tech",
-    "league": "Básquetbol Masculino NCAA",
-    "fecha-evento": "2026-01-24T13:58:03-05:00",
-    "img": "019b7903-e723-799b-861a-cb13a7fb1db9",
-    "nombre": "disneye0e992",
-    "status": "13:58",
-    "duration": 122,
-    "play_url": "https://www.disneyplus.com/es-es/play/6ed43fe8-a836-436f-af39-4516f046f3cf",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1769368836~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F24%2F6_Houston_vs_12_Texas_Tec_20260124_1769274059034%2F~psid=dadce205-23fe-4486-bbb0-aad2d3ec3d10~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=2bdfa5c37b48e3e8cb6307c680dc5b6893151e451b1648b773d722cf792128e5/clt1/va02/disneyplus/event/2026/01/24/6_Houston_vs_12_Texas_Tec_20260124_1769274059034/ctr-all-hdri-complete.m3u8?v=1&hash=9c848625e8e408983b8e1bf051906860a193a5eb",
-    "k1": "9a20a424e7024b748c8c3e60248be3b2",
-    "k2": "852e8cecc3bb5df26ec23e9c5c3c5f0f"
-  },
-  {
     "title": "Morgan State vs. Howard",
     "league": "Básquetbol Masculino NCAA",
     "fecha-evento": "2026-01-24T18:00:00-05:00",
@@ -194,12 +181,15 @@
   {
     "title": "Pegasus World Cup 2026",
     "league": "ESPN",
-    "fecha-evento": "2026-01-24T16:30:00-05:00",
+    "fecha-evento": "2026-01-24T16:30:02-05:00",
     "img": "8251c8ca-c155-4148-bb24-59af4ebd25a4",
-    "nombre": "disney80b9b4",
+    "nombre": "disney7bfeb7",
     "status": "16:30",
-    "duration": 135,
-    "play_url": ""
+    "duration": 90,
+    "play_url": "https://www.disneyplus.com/es-es/play/37236baa-0ea1-4371-bb0e-282a460b0784",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1769377236~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F24%2FPegasus_World_Cup_2026_20260124_1769283048025%2F~psid=763da383-bec8-4685-b127-e821acbc6752~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=f7433f0a7b038b4d2184587d4a5b4bcc9d7fe2f5e571841268887a453f9036bc/clt1/va02/disneyplus/event/2026/01/24/Pegasus_World_Cup_2026_20260124_1769283048025/ctr-all-hdri-complete.m3u8?v=1&hash=b33f1bd682d0ddeb42cd9ef7ce8b6871c02dd794",
+    "k1": "48fbfa6b077546dabb117cae111e99cb",
+    "k2": "be03d20c4abd282243b5ae6af60f3aa5"
   },
   {
     "title": "Dominican Republic vs. Dominica",
@@ -668,6 +658,16 @@
     "img": "4c8c9513-a092-4b91-b0ba-da7b1ed6081d",
     "nombre": "disneyd6b0f5",
     "status": "20:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Florida Panthers vs. Minnesota Wild",
+    "league": "National Hockey League",
+    "fecha-evento": "2026-01-24T21:00:00-05:00",
+    "img": "019bc3fa-cefc-762f-9fe1-44f373e1da44",
+    "nombre": "disney91c964",
+    "status": "21:00",
     "duration": 135,
     "play_url": ""
   }
