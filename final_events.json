@@ -10,19 +10,6 @@
     "play_url": ""
   },
   {
-    "title": "India vs. New Zealand",
-    "league": "ESPN",
-    "fecha-evento": "2026-01-24T02:15:08-05:00",
-    "img": "019bc188-a19e-7c60-9002-422a72394815",
-    "nombre": "disneyc9f2e4",
-    "status": "02:15",
-    "duration": 495,
-    "play_url": "https://www.disneyplus.com/es-es/play/382cad9d-4cfb-4688-9627-cc21ac3ec2df",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1769350837~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F24%2FIndia_vs_New_Zealand_20260124_1769231729024%2F~psid=1ad9c76e-bcd2-4dc4-a8fc-a48866fbb6bb~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=0c23dc4088700e39deea1dcca776d5c3f1d310ebad06bf4d25a5d3e8e80993dc/clt1/va02/disneyplus/event/2026/01/24/India_vs_New_Zealand_20260124_1769231729024/ctr-all-hdri-complete.m3u8?v=1&hash=9221e935a7d3a0bc7ae78c980401b9635ec9781e",
-    "k1": "b2f51406704c45e1a0dc0cfc7edb6029",
-    "k2": "2d0db02c80cdfbf6eeb9e2d54934bd6b"
-  },
-  {
     "title": "Rayo Vallecano vs. CA Osasuna",
     "league": "LALIGA",
     "fecha-evento": "2026-01-24T07:50:00-05:00",
@@ -62,19 +49,6 @@
     "k2": "dd22155f149f9875191133e31e091166"
   },
   {
-    "title": "Bruno Classic",
-    "league": "NCAA Women's Water Polo",
-    "fecha-evento": "2026-01-24T09:00:00-05:00",
-    "img": "78b13d22-e497-45a5-ba4a-23f0ed36de3d",
-    "nombre": "disney35cb73",
-    "status": "09:00",
-    "duration": 420,
-    "play_url": "https://www.disneyplus.com/es-es/play/f6f51b74-cc47-41d9-bcac-77368645ad01",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1769351053~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F24%2FBruno_Classic_20260124_1769256025046%2F~psid=d9ddc031-0ef8-4221-bf24-1ffda999eea8~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=902270934a81dd5de40105a73cef8b74ce90db0d17e08e4aca308fec6a2e5748/clt1/va02/disneyplus/event/2026/01/24/Bruno_Classic_20260124_1769256025046/ctr-all-hdri-complete.m3u8?v=1&hash=6f627699068f6b6f62a92c2df441a88e0818e4da",
-    "k1": "1b36a035fae547db93a837a4ebdd5398",
-    "k2": "20cd3446a8567e57c7d20657c28604b4"
-  },
-  {
     "title": "Bayern Munich vs. Augsburg",
     "league": "Bundesliga",
     "fecha-evento": "2026-01-24T09:10:02-05:00",
@@ -86,6 +60,19 @@
     "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1769351078~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F24%2FBayern_Munich_vs_Augsburg_20260124_1769256650026%2F~psid=3ae7b4f2-8f63-4919-a904-08548ef663ec~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=f097cb9a429244aceec7872ca651bfbc7b4f4dfe074694ab6dce62a73f170419/clt1/va02/disneyplus/event/2026/01/24/Bayern_Munich_vs_Augsburg_20260124_1769256650026/ctr-all-hdri-complete.m3u8?v=1&hash=3147020d05792611b2c44c426f8bd0e12335cc26",
     "k1": "0c29a4466e3f48538013e86d4e53f4fc",
     "k2": "b36a058cc7e14c5204d229f7991ac795"
+  },
+  {
+    "title": "Bruno Classic",
+    "league": "NCAA Women's Water Polo",
+    "fecha-evento": "2026-01-24T09:00:00-05:00",
+    "img": "78b13d22-e497-45a5-ba4a-23f0ed36de3d",
+    "nombre": "disney35cb73",
+    "status": "09:00",
+    "duration": 420,
+    "play_url": "https://www.disneyplus.com/es-es/play/f6f51b74-cc47-41d9-bcac-77368645ad01",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1769351053~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F24%2FBruno_Classic_20260124_1769256025046%2F~psid=d9ddc031-0ef8-4221-bf24-1ffda999eea8~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=902270934a81dd5de40105a73cef8b74ce90db0d17e08e4aca308fec6a2e5748/clt1/va02/disneyplus/event/2026/01/24/Bruno_Classic_20260124_1769256025046/ctr-all-hdri-complete.m3u8?v=1&hash=6f627699068f6b6f62a92c2df441a88e0818e4da",
+    "k1": "1b36a035fae547db93a837a4ebdd5398",
+    "k2": "20cd3446a8567e57c7d20657c28604b4"
   },
   {
     "title": "Bayer Leverkusen vs. Werder Bremen",
@@ -155,32 +142,15 @@
   {
     "title": "Manchester City vs. Wolverhampton Wanderers",
     "league": "Premier League",
-    "fecha-evento": "2026-01-24T09:40:00-05:00",
+    "fecha-evento": "2026-01-24T09:40:01-05:00",
     "img": "019bbd94-2fb3-7fd0-b34b-ed30bb7db67a",
-    "nombre": "disney88ccf0",
+    "nombre": "disney27c634",
     "status": "09:40",
     "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "China vs. Japan (Final)",
-    "league": "Copa de Naciones de Asia",
-    "fecha-evento": "2026-01-24T09:50:00-05:00",
-    "img": "019b9a93-622c-74f9-8d66-4f3900fc5c7f",
-    "nombre": "disneyb13b8d",
-    "status": "09:50",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Fulham vs. Brighton & Hove Albion",
-    "league": "Premier League",
-    "fecha-evento": "2026-01-24T09:50:00-05:00",
-    "img": "019bbe47-07bb-7595-90cb-41c87b1ced13",
-    "nombre": "disney676e52",
-    "status": "09:50",
-    "duration": 135,
-    "play_url": ""
+    "play_url": "https://www.disneyplus.com/es-es/play/cd2f3ba5-b5f0-404b-bec6-dc9475c81542",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1769353236~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F24%2FManchester_City_vs_Wolver_20260124_1769258400023%2F~psid=8c2e6543-f8be-4e4e-bb4f-8c7e7583ed74~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=f87d9d3b07d4f8c6907cee556c0100315318586084da7756ad6ac756d9925330/clt1/va02/disneyplus/event/2026/01/24/Manchester_City_vs_Wolver_20260124_1769258400023/ctr-all-hdri-complete.m3u8?v=1&hash=c97cd5b8e60571a784f45d82f07a84466b6a841c",
+    "k1": "51b6f05d764b4c79bb45849d69f50859",
+    "k2": "0968dcc7242ef1b687fbf28173b15547"
   },
   {
     "title": "Burnley vs. Tottenham Hotspur",
@@ -189,8 +159,24 @@
     "img": "019bdceb-4bcb-7cdf-a5f3-49a746700537",
     "nombre": "disney2b59eb",
     "status": "09:50",
-    "duration": 135,
-    "play_url": ""
+    "duration": 125,
+    "play_url": "https://www.disneyplus.com/es-es/play/ffd8a90d-6f03-463f-9656-4f694fed1081",
+    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1769353282~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F921e1311-bb26-43dd-84a6-9e2284959712-1762950465141%2F~psid=8e4cdfae-c55f-4bd7-aeeb-c78e69ec389f~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=b0c29769f95b8e808d1b63cc10030d20502366bff79e03dd29353da9e2deb2a1/clt1/va02/disneyplus/channel/921e1311-bb26-43dd-84a6-9e2284959712-1762950465141/ctr-all-sliding-alt1.m3u8?v=1&hash=03915bf69f19826611ecdeecc79455eab40b229c",
+    "k1": "467389f1c51242139f86ffa28a1c9dfd",
+    "k2": "46fc4dbcd3ac4046e9517ce46283cde0"
+  },
+  {
+    "title": "Fulham vs. Brighton & Hove Albion",
+    "league": "Premier League",
+    "fecha-evento": "2026-01-24T09:50:00-05:00",
+    "img": "019bbe47-07bb-7595-90cb-41c87b1ced13",
+    "nombre": "disney676e52",
+    "status": "09:50",
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/ed767637-1426-4b03-b680-ed20b8b71ac7",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1769353327~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F24%2FFulham_vs_Brighton_Hove_A_20260124_1769259009026%2F~psid=0b477486-4d1d-4cba-99db-e90b19adadef~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=731d00c6c8fd7f85754d23defee2686310e1376813afc11050550ccec61a7b3f/clt1/va02/disneyplus/event/2026/01/24/Fulham_vs_Brighton_Hove_A_20260124_1769259009026/ctr-all-hdri-complete.m3u8?v=1&hash=6cb38201b68279e2261cab0d56eb506a6e9362f9",
+    "k1": "d52aff88851448a48f45cab8299484ac",
+    "k2": "d9e9d09a22df0e2e716369a46a8a645a"
   },
   {
     "title": "Hull City vs. Swansea City",
@@ -199,8 +185,24 @@
     "img": "019baf48-73e0-7065-9482-3ece88b7f7c7",
     "nombre": "disney46996e",
     "status": "09:50",
-    "duration": 135,
-    "play_url": ""
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/ccccdf6c-c92d-459b-80cc-44da4d2de9b4",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1769353352~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F24%2FHull_City_vs_Swansea_City_20260124_1769259055026%2F~psid=5f67d8f7-4a68-4b5b-86a0-ff3aa0a3f491~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=43d4d45779e25b7608378d4ff3fe7319762bf33e9e7c42fd1069f0aab003ab47/clt1/va02/disneyplus/event/2026/01/24/Hull_City_vs_Swansea_City_20260124_1769259055026/ctr-all-hdri-complete.m3u8?v=1&hash=ab62a16af4e0378faafe519edfa9e4e3ba3ba70c",
+    "k1": "00271bc250dc40328cfa569b3e4aeeaf",
+    "k2": "66751eed79d0a24b6224853e3c6b318e"
+  },
+  {
+    "title": "China vs. Japan (Final)",
+    "league": "Copa de Naciones de Asia",
+    "fecha-evento": "2026-01-24T09:53:19-05:00",
+    "img": "019b9a93-622c-74f9-8d66-4f3900fc5c7f",
+    "nombre": "disney8c30e9",
+    "status": "09:53",
+    "duration": 127,
+    "play_url": "https://www.disneyplus.com/es-es/play/1ff74f7a-8132-408f-9601-00499f2a459b",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1769353378~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F24%2FChina_vs_Japan_Final_20260124_1769259057025%2F~psid=1c81691b-809c-4b34-9522-f927fc41888e~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=affc83ccdec0209756172db4a83aa7bb809e4fd58ff85c1d33273898fb41f69a/clt1/va02/disneyplus/event/2026/01/24/China_vs_Japan_Final_20260124_1769259057025/ctr-all-hdri-complete.m3u8?v=1&hash=da6e70616f9e224da6aed8e617bce65eb32fe00b",
+    "k1": "d8879528880c4c09b13963118363b30e",
+    "k2": "fbbda9c960f512061fdb9323e43518dd"
   },
   {
     "title": "Penn State, Virginia Tech, Princeton",
@@ -543,6 +545,16 @@
     "play_url": ""
   },
   {
+    "title": "RC Toulon vs. Montpellier",
+    "league": "Top 14",
+    "fecha-evento": "2026-01-25T09:30:00-05:00",
+    "img": "019bc33a-e29c-7678-b061-37984fb5d246",
+    "nombre": "disneye0f87e",
+    "status": "09:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
     "title": "Memphis vs. Wichita State",
     "league": "Básquetbol Masculino NCAA",
     "fecha-evento": "2026-01-24T16:00:00-05:00",
@@ -653,11 +665,11 @@
     "play_url": ""
   },
   {
-    "title": "Loyola Marymount vs. San Diego",
-    "league": "Básquet Femenino NCAA",
+    "title": "Reserve Cup Series: Miami (Día #3)",
+    "league": "Reserve Cup Series",
     "fecha-evento": "2026-01-24T17:00:00-05:00",
-    "img": "0286aea8-5b95-4e7c-9989-728e3ada05c2",
-    "nombre": "disney2d04fe",
+    "img": "019be0e7-8c8f-7ecd-b67f-ede6b258b902",
+    "nombre": "disney5602d3",
     "status": "17:00",
     "duration": 135,
     "play_url": ""
