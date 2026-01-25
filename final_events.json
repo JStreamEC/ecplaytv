@@ -10,32 +10,6 @@
     "play_url": ""
   },
   {
-    "title": "Gimnasia y Esgrima La Plata vs. Racing Club (Fecha #1)",
-    "league": "Liga Profesional de Fútbol",
-    "fecha-evento": "2026-01-24T17:20:00-05:00",
-    "img": "019bdc6b-4f61-775b-a663-685167a13454",
-    "nombre": "disney3256fa",
-    "status": "17:20",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/794c7c11-21f6-4363-a7fd-0e3a65f649d1",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1769380880~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F24%2FGimnasia_y_Esgrima_La_Pla_20260124_1769286059026%2F~psid=0fabceb4-c107-4650-9ba5-c28828ffa06f~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=55cb788b65b27904a1185a0cc9f7878f60416e681ef48783b96e47e50b694834/clt1/va02/disneyplus/event/2026/01/24/Gimnasia_y_Esgrima_La_Pla_20260124_1769286059026/ctr-all-hdri-complete.m3u8?v=1&hash=bca4fe6e2f81ab12304ec33d48aa6807b1e94a0c",
-    "k1": "c89f8ce106b04c4b9f50631e80c5e8a6",
-    "k2": "6066f6e4a05bc46e0cbe88a24bcc431f"
-  },
-  {
-    "title": "Atlético de San Luis vs. Club Tijuana (Jornada 5)",
-    "league": "Mexican Liga BBVA MX Femenil",
-    "fecha-evento": "2026-01-24T17:19:59-05:00",
-    "img": "019be81c-e59a-7c6a-9cdd-c1bbbe906553",
-    "nombre": "disney03379a",
-    "status": "17:19",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/dd56a739-8e23-4bbf-b8a3-e67618370f38",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1769380835~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F24%2FAtltico_de_San_Luis_vs_Cl_20260124_1769286048026%2F~psid=7ae45498-4da9-47a2-b3ec-84c44b9a6d71~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=442cfde70fcc85a5ce79769b079aea432560ee265fe646c023919cc8f8a2a685/clt1/va02/disneyplus/event/2026/01/24/Atltico_de_San_Luis_vs_Cl_20260124_1769286048026/ctr-all-hdri-complete.m3u8?v=1&hash=0335c11cec0b116e1e27befc5c3c3e06d6ff7c2c",
-    "k1": "c9cd8202489f4545a5450fd57f0a26ab",
-    "k2": "ae424af5e28e080d090b1e67a19a6a26"
-  },
-  {
     "title": "Seattle U vs. Pacific",
     "league": "Básquetbol Masculino NCAA",
     "fecha-evento": "2026-01-24T19:00:00-05:00",
@@ -192,14 +166,43 @@
     "k2": "4e14136f52907299ab600314b8248686"
   },
   {
+    "title": "Capitanes de Ciudad de México vs. South Bay Lakers",
+    "league": "NBA G League",
+    "fecha-evento": "2026-01-24T19:30:01-05:00",
+    "img": "82912243-dc87-43a9-8adf-6561e0c64051",
+    "nombre": "disney6193f9",
+    "status": "19:30",
+    "duration": 150,
+    "play_url": "https://www.disneyplus.com/es-es/play/40598d23-9ded-466f-89e3-269c4afd020f",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1769388037~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F25%2FCapitanes_de_Ciudad_de_Mx_20260125_1769293835020%2F~psid=fa574543-e366-411d-aa21-7f838e2602a2~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=5fc7206793f2ee31973bbbf5f23a6906a0cc06fc3fd70e0cf30e64255d99e975/clt1/va02/disneyplus/event/2026/01/25/Capitanes_de_Ciudad_de_Mx_20260125_1769293835020/ctr-all-hdri-complete.m3u8?v=1&hash=372771614cd3844d17311581274b847fe3418743",
+    "k1": "4c22417b1e054e199193273bfcd84188",
+    "k2": "ab4bdf8e9f1fc2cb8d37d417f4c0ef1a"
+  },
+  {
     "title": "En Español-2026 Australian Open (Octavos de final)",
     "league": "ESPN",
-    "fecha-evento": "2026-01-24T19:25:00-05:00",
+    "fecha-evento": "2026-01-24T19:30:00-05:00",
     "img": "b89eba3d-0b05-44d0-90aa-efdf61ba77c8",
-    "nombre": "disneye5f74f",
-    "status": "19:25",
-    "duration": 135,
-    "play_url": ""
+    "nombre": "disney125731",
+    "status": "19:30",
+    "duration": 450,
+    "play_url": "https://www.disneyplus.com/es-es/play/6199e9e6-5b69-4d87-ad86-f5532741e6ee",
+    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1769388082~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Ff25bdf06-81c9-4a7c-b128-3128d610ad17-1762951253360%2F~psid=ac52e659-f3c9-4f0c-b3b0-0ef927d10526~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=97462d53428b2afd9fba684ec4dc2bb0c71208daa4a223949b3091cfd7dcac20/clt1/va02/disneyplus/channel/f25bdf06-81c9-4a7c-b128-3128d610ad17-1762951253360/ctr-all-sliding-alt1.m3u8?v=1&hash=57a1e5c4737768952c5164be5d4f5ba525d47674",
+    "k1": "7acdeb20efba43ab9bd72192c8c21c79",
+    "k2": "b484ab81a4460b6fb5dc49fabd932f64"
+  },
+  {
+    "title": "2026 Tour Down Under (Stage #5)",
+    "league": "ESPN",
+    "fecha-evento": "2026-01-24T19:30:00-05:00",
+    "img": "019bb2e4-15f7-7dba-83b7-37570862ed61",
+    "nombre": "disneyced3e7",
+    "status": "19:30",
+    "duration": 300,
+    "play_url": "https://www.disneyplus.com/es-es/play/618e6e69-392a-4930-9be1-ba8886e19eb0",
+    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1769388127~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F7f9052ce-8143-43a6-9656-a8c00c4a3e56-1762950862652%2F~psid=37b976a2-cc82-44a3-b85a-244f1af82d5e~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=906c85b95ceaca8d0500dc6e98c881143cdaa507a4e774ce9497d72ca19c5c4b/clt1/va02/disneyplus/channel/7f9052ce-8143-43a6-9656-a8c00c4a3e56-1762950862652/ctr-all-sliding-alt1.m3u8?v=1&hash=2daf186937da77473bf07bbbecfc5597024e944f",
+    "k1": "8c7565cf867a442cb6166eacbb89f953",
+    "k2": "10b1d191c9a5a4fd7731de2cc97a8209"
   },
   {
     "title": "Los Angeles Kings vs. St. Louis Blues",
@@ -212,34 +215,17 @@
     "play_url": ""
   },
   {
-    "title": "2026 Tour Down Under (Stage #5)",
+    "title": "Siegemund/Roger-Vasselin vs. Gadecki/Peers (Mixed Doubles Second Round)",
     "league": "ESPN",
-    "fecha-evento": "2026-01-24T19:30:00-05:00",
-    "img": "019bb2e4-15f7-7dba-83b7-37570862ed61",
-    "nombre": "disneyced3e7",
-    "status": "19:30",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Capitanes de Ciudad de México vs. South Bay Lakers",
-    "league": "NBA G League",
-    "fecha-evento": "2026-01-24T19:30:00-05:00",
-    "img": "82912243-dc87-43a9-8adf-6561e0c64051",
-    "nombre": "disney43f31b",
-    "status": "19:30",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Margaret Court Arena",
-    "league": "ESPN",
-    "fecha-evento": "2026-01-24T19:30:00-05:00",
+    "fecha-evento": "2026-01-24T19:30:29-05:00",
     "img": "b1eb706f-fd0e-45a8-b0b1-51a3db50549f",
-    "nombre": "disneyd10d68",
+    "nombre": "disneyd1bee5",
     "status": "19:30",
-    "duration": 135,
-    "play_url": ""
+    "duration": 570,
+    "play_url": "https://www.disneyplus.com/es-es/play/4a8e9402-1017-46cc-a83e-6317086d769a",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1769388153~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F25%2FMargaret_Court_Arena_20260125_1769293844041%2F~psid=beea657d-3ccb-4e4f-85bc-c6ef13ebc931~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=d2d904a8a89169a40ed5bee1b33883e452f190491d732b9120cab4613098338f/clt1/va02/disneyplus/event/2026/01/25/Margaret_Court_Arena_20260125_1769293844041/ctr-all-hdri-complete.m3u8?v=1&hash=6d921d3a7cf0a4114815d9faeb40331b95570208",
+    "k1": "2bc005a340794467b213ae78b1cbec38",
+    "k2": "2c1603c1f8dadf33e1f7a67c40b35731"
   },
   {
     "title": "Nicaragua vs. Belize",
@@ -408,6 +394,16 @@
     "img": "019bc188-a19e-7c60-9002-422a72394815",
     "nombre": "disney3228e5",
     "status": "02:15",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Rod Laver Arena",
+    "league": "ESPN",
+    "fecha-evento": "2026-01-25T03:00:00-05:00",
+    "img": "1adec690-6add-4fd0-96e5-a7e33103cabe",
+    "nombre": "disney48b6b4",
+    "status": "03:00",
     "duration": 135,
     "play_url": ""
   },
@@ -638,6 +634,26 @@
     "img": "019bd0cd-ac6f-7c95-a838-42fb403c7ba0",
     "nombre": "disney84f203",
     "status": "10:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Arsenal vs. Manchester United",
+    "league": "Premier League",
+    "fecha-evento": "2026-01-25T11:15:00-05:00",
+    "img": "019bbdfa-6267-7ea9-83b3-d51064677513",
+    "nombre": "disney53b515",
+    "status": "11:15",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Metz vs. Lyon",
+    "league": "Ligue 1",
+    "fecha-evento": "2026-01-25T11:00:00-05:00",
+    "img": "019bc2d8-7045-75cd-a612-a4263ecb8bb1",
+    "nombre": "disneyf50bba",
+    "status": "11:00",
     "duration": 135,
     "play_url": ""
   }
