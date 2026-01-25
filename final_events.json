@@ -33,19 +33,6 @@
     "k2": "77d295290a3b0024638d65df4dd5c760"
   },
   {
-    "title": "SC Paderborn 07 vs. Preußen Münster",
-    "league": "Bundesliga 2 de Alemania",
-    "fecha-evento": "2026-01-25T07:20:20-05:00",
-    "img": "019bb477-75cc-74da-9b36-384b0431ae0b",
-    "nombre": "disneya7fe59",
-    "status": "07:20",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/bba6b99b-d0df-423b-ac19-875c945e54ef",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1769435053~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F25%2FSC_Paderborn_07_vs_Preuen_20260125_1769336729023%2F~psid=470ade9b-d5fc-439f-aa9e-fe127f29e491~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=87b86837669433991f024fc2204e1a3d210e5496ac75f02de1114caa8e27f298/clt1/va02/disneyplus/event/2026/01/25/SC_Paderborn_07_vs_Preuen_20260125_1769336729023/ctr-all-hdri-complete.m3u8?v=1&hash=652c36e094bee6707594ba1559b58fbc275f0cbf",
-    "k1": "025db33dcb5744c98b5a87de10d78a94",
-    "k2": "029f02adf7f8e9cf88ee51e20ef31113"
-  },
-  {
     "title": "Atletico de Madrid vs. RCD Mallorca",
     "league": "LALIGA",
     "fecha-evento": "2026-01-25T07:50:00-05:00",
@@ -163,24 +150,30 @@
     "k2": "f410c81ea3018be1aaa16e5a0781abd4"
   },
   {
-    "title": "Ukraine vs. Lithuania",
-    "league": "UEFA Futsal European Championship",
-    "fecha-evento": "2026-01-25T09:50:00-05:00",
-    "img": "019bb473-74a8-7ee6-8197-2f63040ea257",
-    "nombre": "disneyf9e3ef",
-    "status": "09:50",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "France vs. Latvia",
     "league": "UEFA Futsal European Championship",
-    "fecha-evento": "2026-01-25T09:50:00-05:00",
+    "fecha-evento": "2026-01-25T09:49:43-05:00",
     "img": "019bb474-4d81-7cef-8483-34050aaa5c5e",
-    "nombre": "disneya56044",
-    "status": "09:50",
-    "duration": 135,
-    "play_url": ""
+    "nombre": "disney598b5b",
+    "status": "09:49",
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/2da3ea77-874c-43fa-ba6f-14d5635f10d4",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1769439633~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F25%2FFrance_vs_Latvia_20260125_1769345450027%2F~psid=4637eebe-1d48-4fc0-bff1-53256ae2788d~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=cce9bc07319d49b1cb5f219228c6307c4e46ed6fc785c9f6fefb323153efd6db/clt1/va02/disneyplus/event/2026/01/25/France_vs_Latvia_20260125_1769345450027/ctr-all-hdri-complete.m3u8?v=1&hash=962b7341b4e08c57e46bd2e40453ea0e695213b7",
+    "k1": "e764030bed324597abbf100cf0dc7f61",
+    "k2": "42aff22754fc97697d26d5e0b2737508"
+  },
+  {
+    "title": "Ukraine vs. Lithuania",
+    "league": "UEFA Futsal European Championship",
+    "fecha-evento": "2026-01-25T09:49:44-05:00",
+    "img": "019bb473-74a8-7ee6-8197-2f63040ea257",
+    "nombre": "disney3b81f8",
+    "status": "09:49",
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/60372834-47a1-4417-94ab-3430fc744c3f",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1769439677~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F25%2FUkraine_vs_Lithuania_20260125_1769345425040%2F~psid=8ec44bd1-47c0-4ee7-8c35-6e439d9f54e2~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=5a9ba5ae4370de797b637861b848bb051b504cf930deb4445574c38b6f9b8c42/clt1/va02/disneyplus/event/2026/01/25/Ukraine_vs_Lithuania_20260125_1769345425040/ctr-all-hdri-complete.m3u8?v=1&hash=c2a1ecbd327660af9d54aadf7bed1c2eb2dec898",
+    "k1": "a9821a3ca5794e04a0af70fff0675bbb",
+    "k2": "435afca878471dd3ef118ea43858ed3b"
   },
   {
     "title": "Feyenoord vs. Heracles Almelo",
@@ -593,16 +586,6 @@
     "play_url": ""
   },
   {
-    "title": "Court TBC",
-    "league": "ESPN",
-    "fecha-evento": "2026-01-25T19:00:00-05:00",
-    "img": "d3f9979a-0ad8-4ed7-84fc-b129d0f9a1cb",
-    "nombre": "disney2f4966",
-    "status": "19:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Court 5",
     "league": "ESPN",
     "fecha-evento": "2026-01-25T19:00:00-05:00",
@@ -659,6 +642,26 @@
     "img": "1adec690-6add-4fd0-96e5-a7e33103cabe",
     "nombre": "disneyc1f9d9",
     "status": "19:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Margaret Court Arena",
+    "league": "ESPN",
+    "fecha-evento": "2026-01-25T19:30:00-05:00",
+    "img": "b1eb706f-fd0e-45a8-b0b1-51a3db50549f",
+    "nombre": "disneycfed05",
+    "status": "19:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Costa Rica vs. Islas Vírgenes Británicas",
+    "league": "Concacaf Women's Under-17 Championship",
+    "fecha-evento": "2026-01-25T19:50:00-05:00",
+    "img": "019bd34b-a854-7181-8ec9-46ec362b134d",
+    "nombre": "disney6dc29f",
+    "status": "19:50",
     "duration": 135,
     "play_url": ""
   }
