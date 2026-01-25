@@ -62,19 +62,6 @@
     "k2": "4e14136f52907299ab600314b8248686"
   },
   {
-    "title": "En Español-2026 Australian Open (Octavos de final)",
-    "league": "ESPN",
-    "fecha-evento": "2026-01-24T19:30:00-05:00",
-    "img": "b89eba3d-0b05-44d0-90aa-efdf61ba77c8",
-    "nombre": "disney125731",
-    "status": "19:30",
-    "duration": 450,
-    "play_url": "https://www.disneyplus.com/es-es/play/6199e9e6-5b69-4d87-ad86-f5532741e6ee",
-    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1769395238~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Ff25bdf06-81c9-4a7c-b128-3128d610ad17-1762951253360%2F~psid=f974341b-c7d1-4261-9876-4888069269dc~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=c65a900eedd56a4795ee36848494080cad8b861c579399fdba576f1cd67b0372/clt1/va02/disneyplus/channel/f25bdf06-81c9-4a7c-b128-3128d610ad17-1762951253360/ctr-all-sliding-alt1.m3u8?v=1&hash=57a1e5c4737768952c5164be5d4f5ba525d47674",
-    "k1": "7acdeb20efba43ab9bd72192c8c21c79",
-    "k2": "b484ab81a4460b6fb5dc49fabd932f64"
-  },
-  {
     "title": "2026 Tour Down Under (Stage #5)",
     "league": "ESPN",
     "fecha-evento": "2026-01-24T19:30:00-05:00",
@@ -125,19 +112,6 @@
     "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1769389283~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F921e1311-bb26-43dd-84a6-9e2284959712-1762950465141%2F~psid=5229da8c-1f6e-4aa5-a4d1-fcbc7ac32315~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=09bd3f6207a48c381a991e5def50e1b398558ddadb5e432c8377ccc11616082e/clt1/va02/disneyplus/channel/921e1311-bb26-43dd-84a6-9e2284959712-1762950465141/ctr-all-sliding-alt1.m3u8?v=1&hash=03915bf69f19826611ecdeecc79455eab40b229c",
     "k1": "467389f1c51242139f86ffa28a1c9dfd",
     "k2": "46fc4dbcd3ac4046e9517ce46283cde0"
-  },
-  {
-    "title": "Sultanes Femenil vs. Algodoneras del Unión Laguna",
-    "league": "Liga Mexicana de Softbol",
-    "fecha-evento": "2026-01-24T20:56:38-05:00",
-    "img": "019bb1dd-c573-7561-95cb-46d43cb881d4",
-    "nombre": "disney5eb484",
-    "status": "20:56",
-    "duration": 183,
-    "play_url": "https://www.disneyplus.com/es-es/play/9925b8da-7792-4f42-8a3a-91ea66f748e8",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1769398840~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F25%2FSultanes_Femenil_vs_Algod_20260125_1769298940026%2F~psid=3d8a83c6-15f6-4f0d-bea9-1b5bf4eaca54~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=a71348445ecc1f96f1c06ecdbaec3854e9bc9860b930ef9fcacd6a8b9b72f779/clt1/va02/disneyplus/event/2026/01/25/Sultanes_Femenil_vs_Algod_20260125_1769298940026/ctr-all-hdri-complete.m3u8?v=1&hash=0868f4f202ad7bff00d655f1f323b66c975bcaf0",
-    "k1": "00e63651434049c38f7d5c167c97ce76",
-    "k2": "fb3de81594e5fbda1550aa78c1f46f63"
   },
   {
     "title": "Florida Panthers vs. Minnesota Wild",
@@ -224,6 +198,16 @@
     "fecha-evento": "2026-01-25T03:00:00-05:00",
     "img": "1adec690-6add-4fd0-96e5-a7e33103cabe",
     "nombre": "disney48b6b4",
+    "status": "03:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "En Español-2026 Australian Open (Octavos de final)",
+    "league": "ESPN",
+    "fecha-evento": "2026-01-25T03:00:00-05:00",
+    "img": "b89eba3d-0b05-44d0-90aa-efdf61ba77c8",
+    "nombre": "disney2cf31d",
     "status": "03:00",
     "duration": 135,
     "play_url": ""
@@ -645,6 +629,26 @@
     "img": "019bdcd2-dca5-7812-a618-d9a0f6776d20",
     "nombre": "disneyf0661c",
     "status": "16:15",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Vegas Golden Knights vs. Ottawa Senators",
+    "league": "National Hockey League",
+    "fecha-evento": "2026-01-25T17:00:00-05:00",
+    "img": "019bb474-ef15-72d6-9674-c6b6a44bde68",
+    "nombre": "disney7b9d20",
+    "status": "17:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Cuba vs. Grenada",
+    "league": "Concacaf Women's Under-17 Championship",
+    "fecha-evento": "2026-01-25T16:50:00-05:00",
+    "img": "019bde1a-ec97-7cb8-a6e3-8eaa5adabdb4",
+    "nombre": "disneye39eec",
+    "status": "16:50",
     "duration": 135,
     "play_url": ""
   }
