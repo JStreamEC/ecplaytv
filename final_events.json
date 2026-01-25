@@ -127,19 +127,6 @@
     "k2": "46fc4dbcd3ac4046e9517ce46283cde0"
   },
   {
-    "title": "Los Angeles Kings vs. St. Louis Blues",
-    "league": "National Hockey League",
-    "fecha-evento": "2026-01-24T20:00:18-05:00",
-    "img": "019aea6a-fe0e-7f72-a41b-2a8907ae563a",
-    "nombre": "disney23542b",
-    "status": "20:00",
-    "duration": 210,
-    "play_url": "https://www.disneyplus.com/es-es/play/16db92c4-65a8-4d77-ae01-eb22c5e18c67",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1769390526~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F25%2FLos_Angeles_Kings_vs_St_L_20260125_1769295630451%2F~psid=829754d1-4dda-48a9-a43f-b4792b477c77~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=70e5e6066777c944451e23350fee86f2b374d4159ebb528fcfc0c1184dab187c/clt1/va02/disneyplus/event/2026/01/25/Los_Angeles_Kings_vs_St_L_20260125_1769295630451/ctr-all-hdri-complete.m3u8?v=1&hash=8624fe69fa811cafb284608d01910244fe2b3868",
-    "k1": "4aa1ef4b64754a9f9c1ac9386802fc5a",
-    "k2": "6d73eeac87cadb3fdc470b09f2937fc1"
-  },
-  {
     "title": "Sultanes Femenil vs. Algodoneras del Unión Laguna",
     "league": "Liga Mexicana de Softbol",
     "fecha-evento": "2026-01-24T20:56:38-05:00",
@@ -164,19 +151,6 @@
     "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1769394085~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F25%2FFlorida_Panthers_vs_Minne_20260125_1769299207037%2F~psid=cb3e3b0a-4bbf-4a96-b40e-d06dc7721234~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=b65229004e1373860c29c075088c4d4afeea1ea0263f447ac0abd07c9949d49a/clt1/va02/disneyplus/event/2026/01/25/Florida_Panthers_vs_Minne_20260125_1769299207037/ctr-all-hdri-complete.m3u8?v=1&hash=587ad3ad7091bb2c357eba901ebf2edc98792e65",
     "k1": "ce17cddecdfe49cbb64e612c14bef6fe",
     "k2": "2a03381433065ed033416941f7d52b25"
-  },
-  {
-    "title": "Santa Clara vs. San Diego",
-    "league": "Básquetbol Masculino NCAA",
-    "fecha-evento": "2026-01-24T21:30:00-05:00",
-    "img": "019bb1dd-ec3c-763b-9348-db3c59ea6a7b",
-    "nombre": "disney8dbe11",
-    "status": "21:30",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/f340dafc-48fb-4a5e-83af-8ff62e49b452",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1769395283~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F25%2FSanta_Clara_vs_San_Diego_20260125_1769301006028%2F~psid=67e6a2b9-a1c5-4bfe-af94-c64f97fb1010~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=37941c0af11233d92108939ff06d44d04081031bc50ccb44d927b9c8fc7bf782/clt1/va02/disneyplus/event/2026/01/25/Santa_Clara_vs_San_Diego_20260125_1769301006028/ctr-all-hdri-complete.m3u8?v=1&hash=2bb284d19d1d62c5ef2f73758acee558471af9a9",
-    "k1": "1294c92ff9ea425f9aac4f39075bfb43",
-    "k2": "40b5dcd3b10a8e9dc7b99799a6b69415"
   },
   {
     "title": "Washington Capitals vs. Edmonton Oilers",
@@ -651,6 +625,26 @@
     "img": "019bd44c-77fc-7a67-9b99-b18150785ba2",
     "nombre": "disney3b5105",
     "status": "14:55",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "#5 Vanderbilt vs. #2 South Carolina",
+    "league": "Básquet Femenino NCAA",
+    "fecha-evento": "2026-01-25T15:00:00-05:00",
+    "img": "019b7af3-db16-72e1-82e8-db6ab4a5ee02",
+    "nombre": "disneyd1f0f1",
+    "status": "15:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Boca Juniors vs. Deportivo Riestra (Fecha #1)",
+    "league": "Liga Profesional de Fútbol",
+    "fecha-evento": "2026-01-25T16:15:00-05:00",
+    "img": "019bdcd2-dca5-7812-a618-d9a0f6776d20",
+    "nombre": "disneyf0661c",
+    "status": "16:15",
     "duration": 135,
     "play_url": ""
   }
