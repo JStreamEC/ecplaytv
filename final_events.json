@@ -13,32 +13,6 @@
     "k2": "9fec05e2b15e062e77e543e793797b69"
   },
   {
-    "title": "Fenerbahce vs. Goztepe",
-    "league": "Super Lig de Turquía",
-    "fecha-evento": "2026-01-25T11:50:00-05:00",
-    "img": "019bb473-ac49-7647-b446-559952f785e4",
-    "nombre": "disney6011e8",
-    "status": "11:50",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/f1ffcfdd-3092-4cbb-bdfd-ca5ef73f7cdc",
-    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1769446877~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F7f9052ce-8143-43a6-9656-a8c00c4a3e56-1762950862652%2F~psid=d94daed4-0d10-4cc7-9bf6-ba677749e56e~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=a6b3f701c50f36ef5abbb5a3caf48c9b7424b5c82496515c6af21c0af0c2bcc6/clt1/va02/disneyplus/channel/7f9052ce-8143-43a6-9656-a8c00c4a3e56-1762950862652/ctr-all-sliding-alt1.m3u8?v=1&hash=2daf186937da77473bf07bbbecfc5597024e944f",
-    "k1": "0e71a65201474ce79e7cd700cb1f5876",
-    "k2": "d2cda45b772196b106e547966d8804c1"
-  },
-  {
-    "title": "Juventus vs. Napoli",
-    "league": "Seria A",
-    "fecha-evento": "2026-01-25T11:50:00-05:00",
-    "img": "019bc245-a1d1-73a3-920b-677855b0d4e1",
-    "nombre": "disney96fd62",
-    "status": "11:50",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/05c008b1-991a-426d-83e6-dfd5b17dd74f",
-    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1769446922~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Ff25bdf06-81c9-4a7c-b128-3128d610ad17-1762951253360%2F~psid=51d94703-06d0-49bf-b7a0-5bbd83e43c21~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=b76643de158fe66c09c25c6f4d39ef09bc9963887fc574a07de1b39f6fba299d/clt1/va02/disneyplus/channel/f25bdf06-81c9-4a7c-b128-3128d610ad17-1762951253360/ctr-all-sliding-alt1.m3u8?v=1&hash=57a1e5c4737768952c5164be5d4f5ba525d47674",
-    "k1": "acbf76f0f29c47148e5ba1dee58858c6",
-    "k2": "9e8e7a2851814649833030b31f8699c0"
-  },
-  {
     "title": "Zaragoza vs. Castellón",
     "league": "Segunda División de España",
     "fecha-evento": "2026-01-25T12:25:00-05:00",
@@ -627,6 +601,26 @@
     "img": "d4d7160b-3593-4599-bbaa-8b79f0fd5518",
     "nombre": "disney9764d4",
     "status": "17:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Barbados vs. El Salvador",
+    "league": "Concacaf Women's Under-17 Championship",
+    "fecha-evento": "2026-01-26T17:50:00-05:00",
+    "img": "019bdd32-1c8d-762f-9178-166e05744825",
+    "nombre": "disney387796",
+    "status": "17:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Bonaire vs. Bermuda",
+    "league": "Concacaf Women's Under-17 Championship",
+    "fecha-evento": "2026-01-26T17:50:00-05:00",
+    "img": "019bde8c-61c7-7d87-869b-f6c388f6fcf3",
+    "nombre": "disney722aba",
+    "status": "17:50",
     "duration": 135,
     "play_url": ""
   }
