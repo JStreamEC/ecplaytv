@@ -153,19 +153,6 @@
     "k2": "4f39c6957fde58c6963a4bbb33a248ca"
   },
   {
-    "title": "Tennessee vs. #17 Alabama",
-    "league": "Básquetbol Masculino NCAA",
-    "fecha-evento": "2026-01-24T20:30:03-05:00",
-    "img": "019b7f72-5e1c-738e-9d7e-1543a603b9ee",
-    "nombre": "disneyb48c84",
-    "status": "20:30",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/d71adfb1-8568-49c2-9787-22ae7b0b65b6",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1769391682~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F25%2FTennessee_vs_17_Alabama_20260125_1769298233896%2F~psid=54465d58-de0a-447e-abca-68bc43a49757~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=a9035aa984b3141582ef59f94461a78d622797310feadce3004ead21f55ba33b/clt1/va02/disneyplus/event/2026/01/25/Tennessee_vs_17_Alabama_20260125_1769298233896/ctr-all-hdri-complete.m3u8?v=1&hash=194c8706640d95e5afd5e937bccd470124b6b879",
-    "k1": "40fba8d617cc43f5bc542aa82fb0cdef",
-    "k2": "19a401a9e7992c13fd69f5c9e0b30ffc"
-  },
-  {
     "title": "Sultanes Femenil vs. Algodoneras del Unión Laguna",
     "league": "Liga Mexicana de Softbol",
     "fecha-evento": "2026-01-24T20:56:38-05:00",
@@ -656,6 +643,16 @@
     "fecha-evento": "2026-01-25T14:50:00-05:00",
     "img": "019bd34b-904c-7710-b120-f9bbdc0d1a44",
     "nombre": "disney8ac8b5",
+    "status": "14:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Deportivo La Coruña vs. Racing Santander",
+    "league": "Segunda División de España",
+    "fecha-evento": "2026-01-25T14:50:00-05:00",
+    "img": "019bb9a0-1085-7dd6-8549-4544cb861422",
+    "nombre": "disneydc5e8e",
     "status": "14:50",
     "duration": 135,
     "play_url": ""
