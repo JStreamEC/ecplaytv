@@ -59,29 +59,6 @@
     "k2": "df3e23a16e94fd7b7afb8f05d81635d9"
   },
   {
-    "title": "Croatia vs. Georgia",
-    "league": "UEFA Futsal European Championship",
-    "fecha-evento": "2026-01-25T06:49:43-05:00",
-    "img": "019bb473-7d2e-70f1-92ae-e9f0836af356",
-    "nombre": "disneyd5dc7b",
-    "status": "06:49",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/df54473d-f1ef-4f57-b6b6-376f4de6c01e",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1769434952~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F25%2FCroatia_vs_Georgia_20260125_1769334631025%2F~psid=ac0a619f-3aa3-408e-8f8e-4803d20579b4~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=efc9aabccd257cb815faff1de6d3be948feb11daccf53ab30aae26fe0db7ef0b/clt1/va02/disneyplus/event/2026/01/25/Croatia_vs_Georgia_20260125_1769334631025/ctr-all-hdri-complete.m3u8?v=1&hash=ffe220391197944093997bff830fa7bd89b8d684",
-    "k1": "0e32f163e69d4680b9ac72322bfedc57",
-    "k2": "e867ccc0bede84e4e46bc059ff1a9cf2"
-  },
-  {
-    "title": "Armenia vs. Czechia",
-    "league": "UEFA Futsal European Championship",
-    "fecha-evento": "2026-01-25T06:49:43-05:00",
-    "img": "019bb473-cc57-7764-86fc-04c49375f8cc",
-    "nombre": "disneyb0abe0",
-    "status": "06:49",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/4cbfbd5f-c86b-42d6-b9d2-7410f07e2867"
-  },
-  {
     "title": "FC Schalke 04 vs. 1. FC Kaiserslautern",
     "league": "Bundesliga 2 de Alemania",
     "fecha-evento": "2026-01-25T07:20:03-05:00",
@@ -136,12 +113,15 @@
   {
     "title": "Newcastle United vs. Aston Villa",
     "league": "Premier League",
-    "fecha-evento": "2026-01-25T08:40:00-05:00",
+    "fecha-evento": "2026-01-25T08:40:02-05:00",
     "img": "019bec23-dd35-7a19-a8b4-a7c031130b0b",
-    "nombre": "disney5b5e38",
+    "nombre": "disney3e838b",
     "status": "08:40",
     "duration": 135,
-    "play_url": ""
+    "play_url": "https://www.disneyplus.com/es-es/play/b6997544-d2ca-42e5-8c36-c9fa8d03c2e2",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1769435802~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F25%2FNewcastle_United_vs_Aston_20260125_1769341223018%2F~psid=bef78a32-377f-4ef0-ac0e-5c8db3ea9951~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=96389eed8d182c00f9f064c63499343df817c67a557e07bb53888292514299f0/clt1/va02/disneyplus/event/2026/01/25/Newcastle_United_vs_Aston_20260125_1769341223018/ctr-all-hdri-complete.m3u8?v=1&hash=441069794b2e1b3519211da1ad5248db530c3121",
+    "k1": "43b4c5e8db9546f0ad31360f80b2b47c",
+    "k2": "f222188a45bad51324fcda9f99236394"
   },
   {
     "title": "Crystal Palace vs. Chelsea",
@@ -163,8 +143,11 @@
     "img": "019bbdf9-23ae-76a5-8720-ef73b031b3eb",
     "nombre": "disneyd560ba",
     "status": "08:50",
-    "duration": 135,
-    "play_url": ""
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/a67c2439-b3b8-4635-9afd-81d315dcbc4c",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1769435846~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F25%2FBrentford_vs_Nottingham_F_20260125_1769341838022%2F~psid=e2bbb030-03e3-443a-8cf7-de865c30b0e9~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=7c14f31f4b7a3a7c35a13035b0e84448a0713a4ae8f1c8ec36a9c95e7334059c/clt1/va02/disneyplus/event/2026/01/25/Brentford_vs_Nottingham_F_20260125_1769341838022/ctr-all-hdri-complete.m3u8?v=1&hash=5fa2d39a70d8827345a287ec3206313217966de6",
+    "k1": "2ebf90d2408e49b6b1158793c83f17b9",
+    "k2": "22555c73da98017d766ecadba598b470"
   },
   {
     "title": "Genoa vs. Bologna",
@@ -173,18 +156,37 @@
     "img": "019bc246-6b33-7866-a2da-90959455ce6f",
     "nombre": "disneyc43f88",
     "status": "08:50",
-    "duration": 135,
-    "play_url": ""
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/1141571e-114f-41d6-95a8-72f2fae000d4",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1769435890~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F25%2FGenoa_vs_Bologna_20260125_1769341853028%2F~psid=fe0fa0bf-5c80-4d28-af12-3f0367c36480~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=b4690119cb613f3beb21f4f5b7ac4c5a0582e1b76592915b333cde946a9cf5ae/clt1/va02/disneyplus/event/2026/01/25/Genoa_vs_Bologna_20260125_1769341853028/ctr-all-hdri-complete.m3u8?v=1&hash=33b895626f7c8a19cee7db3454ede238420b171c",
+    "k1": "ea0117c11aca4717ae13acc8056d317b",
+    "k2": "067363e5566650fda144aef08c293136"
+  },
+  {
+    "title": "Atalanta vs. Parma",
+    "league": "Seria A",
+    "fecha-evento": "2026-01-25T08:50:00-05:00",
+    "img": "019bc246-74ee-7bbb-b1bd-e9a51e55e508",
+    "nombre": "disney5deafe",
+    "status": "08:50",
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/a58dafe2-f0e0-4165-b24d-c34ccd263668",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1769435913~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F25%2FAtalanta_vs_Parma_20260125_1769341818026%2F~psid=412ba629-65cf-49b0-90f3-c33458472bb0~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=f2f73c7d4672980580388f4a4d3c8b69b73c7029863b06d382eb74936a8eb751/clt1/va02/disneyplus/event/2026/01/25/Atalanta_vs_Parma_20260125_1769341818026/ctr-all-hdri-complete.m3u8?v=1&hash=db32788f51e439abd94bda1e731d120cd6833987",
+    "k1": "c53d63dac28042f1be675af851539a8a",
+    "k2": "262149603e6915b4177ea2a9f42b780e"
   },
   {
     "title": "Nantes vs. Nice",
     "league": "Ligue 1",
-    "fecha-evento": "2026-01-25T08:50:00-05:00",
+    "fecha-evento": "2026-01-25T08:50:49-05:00",
     "img": "019bb473-bd0f-756d-8fc6-1d9fe68fec91",
-    "nombre": "disneyea49bc",
+    "nombre": "disneye6fc39",
     "status": "08:50",
-    "duration": 135,
-    "play_url": ""
+    "duration": 129,
+    "play_url": "https://www.disneyplus.com/es-es/play/c5dc387f-b21d-4852-b570-6dd4c331770f",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1769435938~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F25%2FNantes_vs_Nice_20260125_1769341853018%2F~psid=96f5deb1-7ff7-4a60-8860-8d76d098c694~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=d4b084781c27463c8f230490f86c15e9087d7bf6200e8f1d156c71bc89b1efa5/clt1/va02/disneyplus/event/2026/01/25/Nantes_vs_Nice_20260125_1769341853018/ctr-all-hdri-complete.m3u8?v=1&hash=496dfc866b3d3c062133493503ae8dfc81e5469c",
+    "k1": "85fb2c21f1bd463495b4c14ecc1f254c",
+    "k2": "8c5985665e22be09ee2b74ea0ed96e4b"
   },
   {
     "title": "RC Toulon vs. Montpellier",
@@ -652,6 +654,16 @@
     "fecha-evento": "2026-01-25T19:00:00-05:00",
     "img": "fc3c500f-46d8-4307-a8a0-a870f99fa579",
     "nombre": "disneyeecdcd",
+    "status": "19:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "1573 Arena",
+    "league": "ESPN",
+    "fecha-evento": "2026-01-25T19:00:00-05:00",
+    "img": "daebf547-3f47-49a9-b1f9-0be43cd8ac13",
+    "nombre": "disney5a2e39",
     "status": "19:00",
     "duration": 135,
     "play_url": ""
