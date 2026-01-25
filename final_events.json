@@ -20,19 +20,6 @@
     "play_url": ""
   },
   {
-    "title": "West Indies vs. Ireland",
-    "league": "ESPN",
-    "fecha-evento": "2026-01-25T02:15:11-05:00",
-    "img": "019bc188-a19e-7c60-9002-422a72394815",
-    "nombre": "disneycc6080",
-    "status": "02:15",
-    "duration": 495,
-    "play_url": "https://www.disneyplus.com/es-es/play/800d7be4-61ae-42f6-855d-a4a73250bc5b",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1769434840~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F25%2FWest_Indies_vs_Ireland_20260125_1769318148023%2F~psid=dfb6f809-f953-4f80-bd2c-f678e5e69aae~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=3f2564e0913228bd7138a71fe8ebcf33f009318b5c84f812939540dda1db8b0e/clt1/va02/disneyplus/event/2026/01/25/West_Indies_vs_Ireland_20260125_1769318148023/ctr-all-hdri-complete.m3u8?v=1&hash=3d0f2e5af48edb7fece5bd521f19b3a451efd7b5",
-    "k1": "ce238224ab0142c9b2a165042dfd1815",
-    "k2": "77d295290a3b0024638d65df4dd5c760"
-  },
-  {
     "title": "Newcastle United vs. Aston Villa",
     "league": "Premier League",
     "fecha-evento": "2026-01-25T08:40:02-05:00",
@@ -44,19 +31,6 @@
     "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1769435802~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F25%2FNewcastle_United_vs_Aston_20260125_1769341223018%2F~psid=bef78a32-377f-4ef0-ac0e-5c8db3ea9951~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=96389eed8d182c00f9f064c63499343df817c67a557e07bb53888292514299f0/clt1/va02/disneyplus/event/2026/01/25/Newcastle_United_vs_Aston_20260125_1769341223018/ctr-all-hdri-complete.m3u8?v=1&hash=441069794b2e1b3519211da1ad5248db530c3121",
     "k1": "43b4c5e8db9546f0ad31360f80b2b47c",
     "k2": "f222188a45bad51324fcda9f99236394"
-  },
-  {
-    "title": "Crystal Palace vs. Chelsea",
-    "league": "Premier League",
-    "fecha-evento": "2026-01-25T08:40:00-05:00",
-    "img": "019bbdf7-3d71-797b-a859-a0a3f0522424",
-    "nombre": "disney2bbcba",
-    "status": "08:40",
-    "duration": 135,
-    "play_url": "https://www.disneyplus.com/es-es/play/c0c76dee-e9de-4b57-8f12-7a48c5ceeedc",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1769435127~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F25%2FCrystal_Palace_vs_Chelsea_20260125_1769341221026%2F~psid=a9c53c30-20a8-44b2-9264-87ec38ef7abe~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=a83b920853904f5822131ce071ca812d17d42325cc70abc2cb203c8e6647c346/clt1/va02/disneyplus/event/2026/01/25/Crystal_Palace_vs_Chelsea_20260125_1769341221026/ctr-all-hdri-complete.m3u8?v=1&hash=fc98d782f0551dbb7b778a4a9d74351022762dab",
-    "k1": "7d73000540bf4d8798aaa3eceafc447b",
-    "k2": "b8579de93ddd9cb728bdd6747424253b"
   },
   {
     "title": "Genoa vs. Bologna",
@@ -205,16 +179,6 @@
     "img": "019bc2d8-7045-75cd-a612-a4263ecb8bb1",
     "nombre": "disneyf50bba",
     "status": "11:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Paris FC vs. Angers",
-    "league": "Ligue 1",
-    "fecha-evento": "2026-01-25T11:05:00-05:00",
-    "img": "019bb473-6824-7f0a-ab79-35e6e655effe",
-    "nombre": "disneyd4d0a4",
-    "status": "11:05",
     "duration": 135,
     "play_url": ""
   },
@@ -665,6 +629,36 @@
     "img": "019bc3fa-3a5e-76e2-a1bb-c733a5fad0d9",
     "nombre": "disney935383",
     "status": "20:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "United States vs. Scotland",
+    "league": "ESPN",
+    "fecha-evento": "2026-01-26T02:15:00-05:00",
+    "img": "019bc188-a19e-7c60-9002-422a72394815",
+    "nombre": "disney5d9cc6",
+    "status": "02:15",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "England vs. Bangladesh",
+    "league": "ESPN",
+    "fecha-evento": "2026-01-26T02:15:00-05:00",
+    "img": "019bc188-a19e-7c60-9002-422a72394815",
+    "nombre": "disney23e449",
+    "status": "02:15",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Afghanistan vs. Sri Lanka",
+    "league": "ESPN",
+    "fecha-evento": "2026-01-26T02:15:00-05:00",
+    "img": "019bc188-a19e-7c60-9002-422a72394815",
+    "nombre": "disney5a2e8f",
+    "status": "02:15",
     "duration": 135,
     "play_url": ""
   }
