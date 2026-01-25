@@ -26,19 +26,6 @@
     "k2": "d2cda45b772196b106e547966d8804c1"
   },
   {
-    "title": "Freiburg vs. Koln",
-    "league": "Bundesliga",
-    "fecha-evento": "2026-01-25T11:20:03-05:00",
-    "img": "019bb473-a65f-78b4-9968-7d4c4ceb5662",
-    "nombre": "disney5f1c5e",
-    "status": "11:20",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/145cfa73-f2b5-4f17-bf8b-450858b429a5",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1769445633~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F25%2FFreiburg_vs_Koln_20260125_1769351948782%2F~psid=f3ec7b6a-50c1-4678-bb67-9d13032bb2dc~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=3eaa1dcaac4ddb53c9e9467d942225ffe34aabcc2516f27f63b49459fe7c2517/clt1/va02/disneyplus/event/2026/01/25/Freiburg_vs_Koln_20260125_1769351948782/ctr-all-hdri-complete.m3u8?v=1&hash=88ae36c9ea1cb69b8076a87592ef9bb04254a32b",
-    "k1": "5c64c3d8ac0040c98a905eccc13d396d",
-    "k2": "48da377c33336ade5a166d68a644b35c"
-  },
-  {
     "title": "Juventus vs. Napoli",
     "league": "Seria A",
     "fecha-evento": "2026-01-25T11:50:00-05:00",
@@ -93,12 +80,15 @@
   {
     "title": "Jamaica vs. Guyana",
     "league": "Concacaf Women's Under-17 Championship",
-    "fecha-evento": "2026-01-25T13:50:00-05:00",
+    "fecha-evento": "2026-01-25T13:50:16-05:00",
     "img": "019bde1a-fed4-79e5-bb0c-605ec343dd8e",
-    "nombre": "disney3d61e6",
+    "nombre": "disney535269",
     "status": "13:50",
-    "duration": 135,
-    "play_url": ""
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/4ee9779c-df4c-4b30-924f-58203b463916",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1769454032~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F25%2FJamaica_vs_Guyana_20260125_1769359857025%2F~psid=03717ac5-5bcd-405d-a516-8520ee080733~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=0663d47244ebc2ebfe1f0295389451a3718ad81d5205e80ca72aa02eae89b978/clt1/va02/disneyplus/event/2026/01/25/Jamaica_vs_Guyana_20260125_1769359857025/ctr-all-hdri-complete.m3u8?v=1&hash=2e730dba673a61b7b4d96eddae7279eac06dee45",
+    "k1": "a2b27b2cda79458db2a578ba1db1cec1",
+    "k2": "88da60b27b602707ce7fc2b6d654deee"
   },
   {
     "title": "Roma vs. Milan",
@@ -627,6 +617,16 @@
     "img": "019bdd81-8375-7953-823b-cff74bd7db61",
     "nombre": "disney2d36f8",
     "status": "16:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Highlights Day 9",
+    "league": "ESPN",
+    "fecha-evento": "2026-01-26T17:30:00-05:00",
+    "img": "d4d7160b-3593-4599-bbaa-8b79f0fd5518",
+    "nombre": "disney9764d4",
+    "status": "17:30",
     "duration": 135,
     "play_url": ""
   }
