@@ -33,19 +33,6 @@
     "k2": "77d295290a3b0024638d65df4dd5c760"
   },
   {
-    "title": "Atletico de Madrid vs. RCD Mallorca",
-    "league": "LALIGA",
-    "fecha-evento": "2026-01-25T07:50:00-05:00",
-    "img": "5f1ad933-47ae-4cac-adb9-084e59679510",
-    "nombre": "disney4eb404",
-    "status": "07:50",
-    "duration": 125,
-    "play_url": "https://www.disneyplus.com/es-es/play/14ec9e7e-56a9-45aa-b80e-b42a79a70d68",
-    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1769435102~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F921e1311-bb26-43dd-84a6-9e2284959712-1762950465141%2F~psid=b4053137-a57a-4bd4-a79b-008b888ff3f9~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=12c1495890ad16f445fac29e4ee2d558c0878a2609e7d25cec6dbdd079e3db97/clt1/va02/disneyplus/channel/921e1311-bb26-43dd-84a6-9e2284959712-1762950465141/ctr-all-sliding-alt1.m3u8?v=1&hash=03915bf69f19826611ecdeecc79455eab40b229c",
-    "k1": "61843de68cd04adeaa97f65186375b40",
-    "k2": "3b0ffadf8320fc1ea10d069a43f4ccb6"
-  },
-  {
     "title": "Newcastle United vs. Aston Villa",
     "league": "Premier League",
     "fecha-evento": "2026-01-25T08:40:02-05:00",
@@ -662,6 +649,16 @@
     "img": "019bd34b-a854-7181-8ec9-46ec362b134d",
     "nombre": "disney6dc29f",
     "status": "19:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Anaheim Ducks vs. Calgary Flames",
+    "league": "National Hockey League",
+    "fecha-evento": "2026-01-25T20:00:00-05:00",
+    "img": "019bc3fa-3a5e-76e2-a1bb-c733a5fad0d9",
+    "nombre": "disney935383",
+    "status": "20:00",
     "duration": 135,
     "play_url": ""
   }
