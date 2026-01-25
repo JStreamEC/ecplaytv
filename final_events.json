@@ -302,8 +302,24 @@
     "img": "4c8c9513-a092-4b91-b0ba-da7b1ed6081d",
     "nombre": "disneyd6b0f5",
     "status": "20:30",
-    "duration": 135,
-    "play_url": ""
+    "duration": 150,
+    "play_url": "https://www.disneyplus.com/es-es/play/d2a47416-5909-4cfe-828f-5ca4582c10eb",
+    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1769391637~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Fec26a05e-a9cc-4db4-804e-77465738e667-1762950455142%2F~psid=50b34a40-5807-4dc5-85e6-5de3d6c86d70~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=cbc029addef663d5546615ca14a5935625b78f1c2de26d973728c1df03087d8f/clt1/va02/disneyplus/channel/ec26a05e-a9cc-4db4-804e-77465738e667-1762950455142/ctr-all-sliding-alt1.m3u8?v=1&hash=e2faf4444722e1f805096ad7b7489a5d09f9944f",
+    "k1": "9c2443a95d2c47fb94df95ea4bb60108",
+    "k2": "4f39c6957fde58c6963a4bbb33a248ca"
+  },
+  {
+    "title": "Tennessee vs. #17 Alabama",
+    "league": "Básquetbol Masculino NCAA",
+    "fecha-evento": "2026-01-24T20:30:03-05:00",
+    "img": "019b7f72-5e1c-738e-9d7e-1543a603b9ee",
+    "nombre": "disneyb48c84",
+    "status": "20:30",
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/d71adfb1-8568-49c2-9787-22ae7b0b65b6",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1769391682~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F25%2FTennessee_vs_17_Alabama_20260125_1769298233896%2F~psid=54465d58-de0a-447e-abca-68bc43a49757~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=a9035aa984b3141582ef59f94461a78d622797310feadce3004ead21f55ba33b/clt1/va02/disneyplus/event/2026/01/25/Tennessee_vs_17_Alabama_20260125_1769298233896/ctr-all-hdri-complete.m3u8?v=1&hash=194c8706640d95e5afd5e937bccd470124b6b879",
+    "k1": "40fba8d617cc43f5bc542aa82fb0cdef",
+    "k2": "19a401a9e7992c13fd69f5c9e0b30ffc"
   },
   {
     "title": "Florida Panthers vs. Minnesota Wild",
@@ -312,16 +328,6 @@
     "img": "019bc3fa-cefc-762f-9fe1-44f373e1da44",
     "nombre": "disney91c964",
     "status": "21:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Tennessee vs. #17 Alabama",
-    "league": "Básquetbol Masculino NCAA",
-    "fecha-evento": "2026-01-24T20:30:00-05:00",
-    "img": "019b7f72-5e1c-738e-9d7e-1543a603b9ee",
-    "nombre": "disney8bd4b2",
-    "status": "20:30",
     "duration": 135,
     "play_url": ""
   },
