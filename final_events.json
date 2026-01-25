@@ -140,19 +140,6 @@
     "k2": "2aa16d615f1ae62b89731b9929d71c9a"
   },
   {
-    "title": "Rod Laver Arena",
-    "league": "ESPN",
-    "fecha-evento": "2026-01-24T19:10:02-05:00",
-    "img": "1adec690-6add-4fd0-96e5-a7e33103cabe",
-    "nombre": "disneye75709",
-    "status": "19:10",
-    "duration": 290,
-    "play_url": "https://www.disneyplus.com/es-es/play/ef583864-1111-4e0a-9de9-5f278f239fd4",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1769387076~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F25%2FRod_Laver_Arena_20260125_1769293819021%2F~psid=a76fcfa5-acba-41a2-ab83-d994fbb0eb09~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=b63579857e26234f7a6bd9a8a7d258edfe0439c2bce4f096e1e63dcad8e755b0/clt1/va02/disneyplus/event/2026/01/25/Rod_Laver_Arena_20260125_1769293819021/ctr-all-hdri-complete.m3u8?v=1&hash=dc42196589f0f3ba7d724c52a026ebebf5796f9b",
-    "k1": "33b9c1eaf96f436cbeed90401d6ec567",
-    "k2": "cb40d810a48afed5c2085e6807e9d45e"
-  },
-  {
     "title": "En Español-2026 Australian Open (Round of 16)",
     "league": "ESPN",
     "fecha-evento": "2026-01-24T19:17:02-05:00",
@@ -228,14 +215,30 @@
     "k2": "2c1603c1f8dadf33e1f7a67c40b35731"
   },
   {
+    "title": "Rod Laver Arena",
+    "league": "ESPN",
+    "fecha-evento": "2026-01-24T19:10:02-05:00",
+    "img": "1adec690-6add-4fd0-96e5-a7e33103cabe",
+    "nombre": "disneye75709",
+    "status": "19:10",
+    "duration": 290,
+    "play_url": "https://www.disneyplus.com/es-es/play/ef583864-1111-4e0a-9de9-5f278f239fd4",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1769387076~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F25%2FRod_Laver_Arena_20260125_1769293819021%2F~psid=a76fcfa5-acba-41a2-ab83-d994fbb0eb09~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=b63579857e26234f7a6bd9a8a7d258edfe0439c2bce4f096e1e63dcad8e755b0/clt1/va02/disneyplus/event/2026/01/25/Rod_Laver_Arena_20260125_1769293819021/ctr-all-hdri-complete.m3u8?v=1&hash=dc42196589f0f3ba7d724c52a026ebebf5796f9b",
+    "k1": "33b9c1eaf96f436cbeed90401d6ec567",
+    "k2": "cb40d810a48afed5c2085e6807e9d45e"
+  },
+  {
     "title": "Nicaragua vs. Belize",
     "league": "Concacaf Women's Under-17 Championship",
-    "fecha-evento": "2026-01-24T19:50:00-05:00",
+    "fecha-evento": "2026-01-24T19:50:08-05:00",
     "img": "019bde7e-af17-7e0a-bd4b-d65fe8affc02",
-    "nombre": "disney5dd133",
+    "nombre": "disneyca192f",
     "status": "19:50",
-    "duration": 135,
-    "play_url": ""
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/cbf09bf0-335b-443f-90fa-1eabf2f9918f",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1769389238~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F25%2FNicaragua_vs_Belize_20260125_1769295005052%2F~psid=96044661-5c04-4334-a80f-5a18be7e6af8~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=db44158833cb57433b8dc1001aee30e4a13d7bfe46459bb19f4bfb0caedb0dfc/clt1/va02/disneyplus/event/2026/01/25/Nicaragua_vs_Belize_20260125_1769295005052/ctr-all-hdri-complete.m3u8?v=1&hash=fad078925122a12545acba09e526f4e0f26882a0",
+    "k1": "276cabe0248e4ce38e734ae5e75b44f6",
+    "k2": "1f8e739c1f198fa873696e43306fe749"
   },
   {
     "title": "Raymond Muratalla vs. Andy Cruz",
@@ -244,8 +247,11 @@
     "img": "019bdcf0-9555-758d-8e8b-e7f622fee653",
     "nombre": "disney9d47f5",
     "status": "20:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 240,
+    "play_url": "https://www.disneyplus.com/es-es/play/b28a83ae-11ad-4e8b-8f29-b5f3a9f41462",
+    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1769389283~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F921e1311-bb26-43dd-84a6-9e2284959712-1762950465141%2F~psid=5229da8c-1f6e-4aa5-a4d1-fcbc7ac32315~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=09bd3f6207a48c381a991e5def50e1b398558ddadb5e432c8377ccc11616082e/clt1/va02/disneyplus/channel/921e1311-bb26-43dd-84a6-9e2284959712-1762950465141/ctr-all-sliding-alt1.m3u8?v=1&hash=03915bf69f19826611ecdeecc79455eab40b229c",
+    "k1": "467389f1c51242139f86ffa28a1c9dfd",
+    "k2": "46fc4dbcd3ac4046e9517ce46283cde0"
   },
   {
     "title": "Saint Mary's vs. Portland",
