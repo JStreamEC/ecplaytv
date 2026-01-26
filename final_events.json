@@ -91,19 +91,6 @@
     "k2": "9e8e7a2851814649833030b31f8699c0"
   },
   {
-    "title": "Rod Laver Arena",
-    "league": "ESPN",
-    "fecha-evento": "2026-01-25T19:10:02-05:00",
-    "img": "019bf742-8a8d-7379-9427-a503c05571f6",
-    "nombre": "disneya6f454",
-    "status": "19:10",
-    "duration": 290,
-    "play_url": "https://www.disneyplus.com/es-es/play/c7244b9d-e5f2-4608-9dc7-59cf9983d1d8",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1769473373~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F26%2F6_Pegula_vs_9_Keys_Womens_20260126_1769380230033%2F~psid=65908188-8492-4841-8fed-37e2d8af362e~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=2cecd91dbb0a6887822685ee4e6abf50a9e51d3a34e2b363474c5a8423c35114/clt1/va02/disneyplus/event/2026/01/26/6_Pegula_vs_9_Keys_Womens_20260126_1769380230033/ctr-all-hdri-complete.m3u8?v=1&hash=861b5af659ffb96360a926b4ba4096f55031b286",
-    "k1": "b61f7000e35d4237bd4096d5e0486e05",
-    "k2": "9369f955250acc50fb8f15bbb2c347c5"
-  },
-  {
     "title": "United States vs. Scotland",
     "league": "ESPN",
     "fecha-evento": "2026-01-26T02:15:00-05:00",
@@ -394,16 +381,6 @@
     "play_url": ""
   },
   {
-    "title": "Court 5",
-    "league": "ESPN",
-    "fecha-evento": "2026-01-26T19:00:00-05:00",
-    "img": "5cdf1c91-b49b-4458-893f-8c0593fbf419",
-    "nombre": "disney84ceb9",
-    "status": "19:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Court 13",
     "league": "ESPN",
     "fecha-evento": "2026-01-26T19:00:00-05:00",
@@ -630,6 +607,16 @@
     "img": "019bdd3b-a1e3-74c4-9156-011c7790e67a",
     "nombre": "disney7571f3",
     "status": "16:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Highlights Day 10",
+    "league": "ESPN",
+    "fecha-evento": "2026-01-27T17:30:00-05:00",
+    "img": "d4d7160b-3593-4599-bbaa-8b79f0fd5518",
+    "nombre": "disney2d1b7b",
+    "status": "17:30",
     "duration": 135,
     "play_url": ""
   }
