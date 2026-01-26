@@ -1,18 +1,5 @@
 [
   {
-    "title": "Los Angeles Rams vs. Seattle Seahawks",
-    "league": "NFL",
-    "fecha-evento": "2026-01-25T18:30:00-05:00",
-    "img": "019a2db2-633e-7ec8-adc8-48e032196b27",
-    "nombre": "disney4ab4d2",
-    "status": "18:30",
-    "duration": 210,
-    "play_url": "https://www.disneyplus.com/es-es/play/4f269f15-0df3-4983-a9e1-08d6d4a123e7",
-    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1769470838~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F7f9052ce-8143-43a6-9656-a8c00c4a3e56-1762950862652%2F~psid=a3fa97f4-a744-4d0b-a8cc-ea2b31b41b58~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=3c7552bdb668aaa1bc9da783b80d1f4920d8d97280356891b663fc5661f94672/clt1/va02/disneyplus/channel/7f9052ce-8143-43a6-9656-a8c00c4a3e56-1762950862652/ctr-all-sliding-alt1.m3u8?v=1&hash=2daf186937da77473bf07bbbecfc5597024e944f",
-    "k1": "0e71a65201474ce79e7cd700cb1f5876",
-    "k2": "d2cda45b772196b106e547966d8804c1"
-  },
-  {
     "title": "(1) Pena vs. Bogdanov (Quad WC Qualifying Final Round)",
     "league": "ESPN",
     "fecha-evento": "2026-01-25T19:00:01-05:00",
@@ -37,19 +24,6 @@
     "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1769473278~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F26%2F2_Silva_vs_Campaz_Escobar_20260126_1769380854070%2F~psid=603b8fe5-77ec-451d-92e9-977829c2f4c7~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=0f622f08b71b67aa7190824ec6916c6b77d3b2fa2645c310c4c76f88d9c9948a/clt1/va02/disneyplus/event/2026/01/26/2_Silva_vs_Campaz_Escobar_20260126_1769380854070/ctr-all-hdri-complete.m3u8?v=1&hash=0d8fef93702cf40a3a44115c88f1a80a511b6ba8",
     "k1": "d6fc87f5c2cf4f7aba730678fbf46543",
     "k2": "3938e80d1c219be989c641eb3176eb02"
-  },
-  {
-    "title": "Florida Panthers vs. Chicago Blackhawks",
-    "league": "National Hockey League",
-    "fecha-evento": "2026-01-25T19:00:14-05:00",
-    "img": "019bc3fa-4d15-7d2e-a92f-04994d745dbb",
-    "nombre": "disney159659",
-    "status": "19:00",
-    "duration": 210,
-    "play_url": "https://www.disneyplus.com/es-es/play/3aa5204f-6883-4a7b-88e5-d69d614d2974",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1769473323~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F26%2FFlorida_Panthers_vs_Chica_20260126_1769378403024%2F~psid=7720cd25-2ac1-46be-9182-2ee8307971c6~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=ba0c009f84db622d4191f5e615ae47787046cbca40ac2951957f31ec858b4b40/clt1/va02/disneyplus/event/2026/01/26/Florida_Panthers_vs_Chica_20260126_1769378403024/ctr-all-hdri-complete.m3u8?v=1&hash=d94c34759cff96ac9488886bb981bd8156f03ca6",
-    "k1": "274eea9ff9a64dfeb009df99591afde3",
-    "k2": "72b5e93e974f90cc7a57773d9497082c"
   },
   {
     "title": "(10) Bhambri/Goransson vs. Luz/Matos (Men's Doubles Third Round)",
@@ -639,6 +613,26 @@
     "img": "019bbecb-0d09-71e6-bbd4-8a2810371923",
     "nombre": "disneye7bd29",
     "status": "14:20",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Antigua y Barbuda vs. Guatemala",
+    "league": "Concacaf Women's Under-17 Championship",
+    "fecha-evento": "2026-01-27T14:50:00-05:00",
+    "img": "019bd34c-3d2b-7103-9780-3b9aed82d854",
+    "nombre": "disney0d20b2",
+    "status": "14:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Doncaster Rovers vs. Leyton Orient",
+    "league": "League One de Inglaterra",
+    "fecha-evento": "2026-01-27T14:50:00-05:00",
+    "img": "019bbecb-29f9-7e66-8975-1993edd6f9be",
+    "nombre": "disney12e10e",
+    "status": "14:50",
     "duration": 135,
     "play_url": ""
   }
