@@ -26,19 +26,6 @@
     "k2": "9503d8259698fa85aa9b7a81b0f4b7fb"
   },
   {
-    "title": "En Español-#1 Arizona vs. #13 BYU",
-    "league": "Básquetbol Masculino NCAA",
-    "fecha-evento": "2026-01-26T21:00:06-05:00",
-    "img": "019b910a-fc1b-75ea-b339-7d01c700595e",
-    "nombre": "disney18a5f5",
-    "status": "21:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/803c86aa-2ae2-4942-be8a-c441285b4f6f",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1769568229~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F27%2FEn_Espaol1_Arizona_vs_13__20260127_1769472042018%2F~psid=3f98219f-d250-4859-8ead-47ece666e36e~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=3f1f71aae006ec4a6df628762854eb46f299d966154871da678a7885c112e426/clt1/va02/disneyplus/event/2026/01/27/En_Espaol1_Arizona_vs_13__20260127_1769472042018/ctr-all-hdri-complete.m3u8?v=1&hash=8d47bc9665989339e446140ac46e465704b90a9c",
-    "k1": "d04a44d6e2ac4817882f8baa3f97e37b",
-    "k2": "5fc299e8ef2ca7f6c8d2ebbb01aca66e"
-  },
-  {
     "title": "Zimbabwe vs. India",
     "league": "ESPN",
     "fecha-evento": "2026-01-27T02:15:00-05:00",
@@ -595,6 +582,16 @@
     "img": "019bc3f8-ecbf-7b2a-8734-8716e44b44f0",
     "nombre": "disney0062f5",
     "status": "13:20",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "PSV vs. Bayern Munich",
+    "league": "UEFA Champions League",
+    "fecha-evento": "2026-01-28T14:40:00-05:00",
+    "img": "019be5f3-ad80-7262-922a-84fbed40f95e",
+    "nombre": "disneyc318a4",
+    "status": "14:40",
     "duration": 135,
     "play_url": ""
   }
