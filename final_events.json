@@ -1,18 +1,5 @@
 [
   {
-    "title": "Tarde de Copas - La definición de la Fase Liga",
-    "league": "ESPN",
-    "fecha-evento": "2026-01-28T14:30:01-05:00",
-    "img": "019c05b9-1072-7b3f-a7cc-9ffbcff6be3b",
-    "nombre": "disneyb63247",
-    "status": "14:30",
-    "duration": 180,
-    "play_url": "https://www.disneyplus.com/es-es/play/6e1a90ab-8785-4e46-97ec-9518e949119a",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1769715780~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F28%2FTarde_de_Copas_La_definic_20260128_1769622561347%2F~psid=7daebea2-6dc2-43f9-a631-7ac7690dbdba~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=82b38dca5e992efb2113d803831819719900dab0eb85912e3f9f7c66a014b55c/clt1/va02/disneyplus/event/2026/01/28/Tarde_de_Copas_La_definic_20260128_1769622561347/ctr-all-hdri-complete.m3u8?v=1&hash=651d9f3f457992c1cacc4d7b5045ac4bade2b891",
-    "k1": "436544bf8b444f0bb826a7ded1fe8e99",
-    "k2": "f41c7c6e95786b56db993043362b739e"
-  },
-  {
     "title": "Racing Club vs. Rosario Central (Fecha #2)",
     "league": "Liga Profesional de Fútbol",
     "fecha-evento": "2026-01-28T16:45:02-05:00",
@@ -39,27 +26,17 @@
     "k2": "a4122c019013f7d3e4cbcbb5a8505a88"
   },
   {
-    "title": "Top 14 de Francia 2025/26 - Resumen Semanal",
-    "league": "ESPN",
-    "fecha-evento": "2026-01-28T16:59:05-05:00",
-    "img": "b30970de-8aed-4439-96c5-3b90f11c0feb",
-    "nombre": "disney8cba6f",
-    "status": "16:59",
-    "duration": 28,
-    "play_url": "https://www.disneyplus.com/es-es/play/427af0ba-d526-45af-b48c-8a86f891b7c7",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1769724096~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F28%2FTop_14_de_Francia_202526__20260128_1769630144016%2F~psid=6d82034d-48c5-4cc5-8d90-9c462d387b68~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=75b26423e50113655cf0e93bbab15dafed4959a57e6173c698877a6f60255f85/clt1/va02/disneyplus/event/2026/01/28/Top_14_de_Francia_202526__20260128_1769630144016/ctr-all-hdri-complete.m3u8?v=1&hash=093d57dc57a3c614e5a3de849e6f3d57441af63d",
-    "k1": "d17f6451b9084ce59503f88785054641",
-    "k2": "cf08a8bacedf1d44afa6345d819c9b44"
-  },
-  {
     "title": "Highlights Day 11",
     "league": "ESPN",
     "fecha-evento": "2026-01-28T17:30:00-05:00",
     "img": "d4d7160b-3593-4599-bbaa-8b79f0fd5518",
     "nombre": "disney4d9ec7",
     "status": "17:30",
-    "duration": 135,
-    "play_url": ""
+    "duration": 60,
+    "play_url": "https://www.disneyplus.com/es-es/play/26043c98-c18c-410a-bfea-9386040460a1",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1769726443~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F28%2FHighlights_Day_11_20260128_1769632252032%2F~psid=af8d3086-d481-44c6-8c18-da1f240afc65~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=35f13b80afa1a5930b2f78a01e6defb6d649f34ea1885a1ab665b76eaac81974/clt1/va02/disneyplus/event/2026/01/28/Highlights_Day_11_20260128_1769632252032/ctr-all-hdri-complete.m3u8?v=1&hash=d6de53a5a23146fe90c6805c9d3df23ffe14d35b",
+    "k1": "86f23b1c198c41d98a3e216ec123d97f",
+    "k2": "02f58caca33e5260149bc7ddc864f796"
   },
   {
     "title": "River Plate vs. Gimnasia y Esgrima La Plata (Fecha #2)",
@@ -585,7 +562,7 @@
     "title": "Olympique Lyonnais vs. Paok FC",
     "league": "UEFA Europa League",
     "fecha-evento": "2026-01-29T14:40:00-05:00",
-    "img": "019bff6d-3e13-7dab-9e79-b0a0708a07e8",
+    "img": "019be73c-1036-70b0-b12b-93f03569c1df",
     "nombre": "disneyd805ea",
     "status": "14:40",
     "duration": 135,
@@ -627,6 +604,26 @@
     "fecha-evento": "2026-01-29T14:50:00-05:00",
     "img": "019be73e-5484-7680-bd12-e9559db5b406",
     "nombre": "disneyed0884",
+    "status": "14:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Guatemala vs. St. Lucia",
+    "league": "Concacaf Women's Under-17 Championship",
+    "fecha-evento": "2026-01-29T14:50:00-05:00",
+    "img": "019be074-69b2-7844-bd46-a1dcbda2300c",
+    "nombre": "disney3241a1",
+    "status": "14:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "VfB Stuttart - Young Boys",
+    "league": "UEFA Europa League",
+    "fecha-evento": "2026-01-29T14:50:00-05:00",
+    "img": "019be73a-c2ee-7f67-a9ae-f5aa8a32eb69",
+    "nombre": "disneyd3cae4",
     "status": "14:50",
     "duration": 135,
     "play_url": ""
