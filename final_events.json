@@ -45,38 +45,50 @@
     "img": "019bf7e2-fa16-795b-9086-4015f187542a",
     "nombre": "disney0275ce",
     "status": "17:45",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Trinidad & Tobago vs. Barbados",
-    "league": "Concacaf Women's Under-17 Championship",
-    "fecha-evento": "2026-01-28T17:50:00-05:00",
-    "img": "019bdd63-d494-7f48-8b21-bcd86b419658",
-    "nombre": "disney444bc1",
-    "status": "17:50",
-    "duration": 135,
-    "play_url": ""
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/c2670d1d-aa02-4fc1-a7c0-222f65bf2434",
+    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1769727649~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F7f9052ce-8143-43a6-9656-a8c00c4a3e56-1762950862652%2F~psid=eccf8be5-994b-45a6-8eba-dd2e309cda54~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=1606fa36a7571a71c8b4c575feb4f4c7db116e98d04753e5b2064f540d38f1ea/clt1/va02/disneyplus/channel/7f9052ce-8143-43a6-9656-a8c00c4a3e56-1762950862652/ctr-all-sliding-alt1.m3u8?v=1&hash=2daf186937da77473bf07bbbecfc5597024e944f",
+    "k1": "517a43b12d3a4c9d865a78c3f0e9d6e3",
+    "k2": "3625c1190832e5076da821dac851c4b8"
   },
   {
     "title": "Panamá vs. Bermuda",
     "league": "Concacaf Women's Under-17 Championship",
-    "fecha-evento": "2026-01-28T17:50:00-05:00",
+    "fecha-evento": "2026-01-28T17:50:02-05:00",
     "img": "019bd34d-2756-72e6-babd-35fea935fd08",
-    "nombre": "disneyd8642e",
+    "nombre": "disney0114cb",
     "status": "17:50",
-    "duration": 135,
-    "play_url": ""
+    "duration": 125,
+    "play_url": "https://www.disneyplus.com/es-es/play/0e84d7df-2500-4f25-9e73-9d9993755af6",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1769727699~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F28%2FPanam_vs_Bermuda_20260128_1769633455041%2F~psid=eee90015-c2b7-46a2-add3-85cbeb35b3b1~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=dd7355626e093a3ca82f29b0b16b788242a1de7b11c81b026d1f09a7fb4733b9/clt1/va02/disneyplus/event/2026/01/28/Panam_vs_Bermuda_20260128_1769633455041/ctr-all-hdri-complete.m3u8?v=1&hash=dbd9bdb4ec7aecf8278ad2a26c36e62013982d6f",
+    "k1": "484f6b823d23482889c1dc5a6c185964",
+    "k2": "55dbd745721cd962947e171cc6baf8a3"
   },
   {
-    "title": "1573 Arena",
+    "title": "Trinidad & Tobago vs. Barbados",
+    "league": "Concacaf Women's Under-17 Championship",
+    "fecha-evento": "2026-01-28T17:50:17-05:00",
+    "img": "019bdd63-d494-7f48-8b21-bcd86b419658",
+    "nombre": "disney1861fe",
+    "status": "17:50",
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/b35f46a4-8a7e-4a77-bd0c-0cfe93292a7d",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1769727749~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F28%2FTrinidad_Tobago_vs_Barbad_20260128_1769633457038%2F~psid=a7c93cd0-dc77-4d96-9841-40e43c2c0386~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=345ebaa6930f682dd69237535526a97b2f4abb96ae3e458de31dba3634304cbf/clt1/va02/disneyplus/event/2026/01/28/Trinidad_Tobago_vs_Barbad_20260128_1769633457038/ctr-all-hdri-complete.m3u8?v=1&hash=5646cf847042a583cdd19e45414d50af7793d601",
+    "k1": "46c2994057c24a2dab7d8c30c97a9b10",
+    "k2": "e735768d3a3bde63bdd64aca40b8df2b"
+  },
+  {
+    "title": "(3) Efremova vs. (14) Lagaev (Girls' Third Round)",
     "league": "ESPN",
-    "fecha-evento": "2026-01-28T18:00:00-05:00",
+    "fecha-evento": "2026-01-28T17:56:21-05:00",
     "img": "daebf547-3f47-49a9-b1f9-0be43cd8ac13",
-    "nombre": "disneyd11a4c",
-    "status": "18:00",
-    "duration": 135,
-    "play_url": ""
+    "nombre": "disney2c0132",
+    "status": "17:56",
+    "duration": 664,
+    "play_url": "https://www.disneyplus.com/es-es/play/ce44c5c2-790b-402f-8486-7621dd134c6e",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1769727781~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F28%2F1573_Arena_20260128_1769634038033%2F~psid=cf3859dd-1d1c-4d5d-8691-5905ba5583a1~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=8431596ff03aa61bbbb9119da616516645d4fb379e5f99667ee475a2c8dff698/clt1/va02/disneyplus/event/2026/01/28/1573_Arena_20260128_1769634038033/ctr-all-hdri-complete.m3u8?v=1&hash=d2af172fe80d96e99653bd84fe5ff4fa9c15e24c",
+    "k1": "dc30b3c3af2c4cbe9f4158b1774c5598",
+    "k2": "0e9bfef8175df39dc4deb0d3a39b2811"
   },
   {
     "title": "Court 10",
@@ -89,21 +101,21 @@
     "play_url": ""
   },
   {
-    "title": "Court 6",
+    "title": "(8) Frodin vs. Sushkova (Girls' Third Round)",
     "league": "ESPN",
     "fecha-evento": "2026-01-28T18:00:00-05:00",
     "img": "fc3c500f-46d8-4307-a8a0-a870f99fa579",
-    "nombre": "disneyc9aaf6",
+    "nombre": "disney970346",
     "status": "18:00",
     "duration": 135,
     "play_url": ""
   },
   {
-    "title": "Court 7",
+    "title": "(3) Sasson vs. Davidson (Quad WC Quarterfinals)",
     "league": "ESPN",
     "fecha-evento": "2026-01-28T18:00:00-05:00",
     "img": "4b262596-9a63-44a3-9003-dd0d9754d4e1",
-    "nombre": "disneyacbf9e",
+    "nombre": "disneybb604e",
     "status": "18:00",
     "duration": 135,
     "play_url": ""
@@ -129,31 +141,31 @@
     "play_url": ""
   },
   {
-    "title": "Court 5",
+    "title": "(1) Vink vs. Lazarte (Quad WC Quarterfinals)",
     "league": "ESPN",
     "fecha-evento": "2026-01-28T18:00:00-05:00",
     "img": "5cdf1c91-b49b-4458-893f-8c0593fbf419",
-    "nombre": "disney2b60c3",
+    "nombre": "disney9c98f7",
     "status": "18:00",
     "duration": 135,
     "play_url": ""
   },
   {
-    "title": "Court 8",
+    "title": "(4) Kaplan vs. Pena (Quad WC Quarterfinals)",
     "league": "ESPN",
     "fecha-evento": "2026-01-28T18:00:00-05:00",
     "img": "bbb315b7-ef8e-46fd-9d75-c53ad85c634e",
-    "nombre": "disneya2af85",
+    "nombre": "disneyd4d7f2",
     "status": "18:00",
     "duration": 135,
     "play_url": ""
   },
   {
-    "title": "ANZ Arena",
+    "title": "(11) Shao vs. Pushkareva (Girls' Third Round)",
     "league": "ESPN",
     "fecha-evento": "2026-01-28T18:00:00-05:00",
     "img": "18d98b7b-8f8f-4c7e-bbd8-5f7e512aab79",
-    "nombre": "disney3f70e0",
+    "nombre": "disney4a6c9d",
     "status": "18:00",
     "duration": 135,
     "play_url": ""
