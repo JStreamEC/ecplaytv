@@ -1,576 +1,68 @@
 [
   {
-    "title": "En Español-2026 Australian Open (Cuartos de Final)",
-    "league": "ESPN",
-    "fecha-evento": "2026-01-26T19:30:00-05:00",
-    "img": "b89eba3d-0b05-44d0-90aa-efdf61ba77c8",
-    "nombre": "disney3196f2",
-    "status": "19:30",
-    "duration": 330,
-    "play_url": "https://www.disneyplus.com/es-es/play/e18942a1-7090-4eb7-bfd8-a322d9fb7857",
-    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1769568154~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Ff25bdf06-81c9-4a7c-b128-3128d610ad17-1762951253360%2F~psid=eb55ab3f-f6a3-4f9c-9297-1320330a97d5~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=a036fa6fcffb5af2c03a7d66bfe1d29f161188362caca9923ef7f85bfed4eddc/clt1/va02/disneyplus/channel/f25bdf06-81c9-4a7c-b128-3128d610ad17-1762951253360/ctr-all-sliding-alt1.m3u8?v=1&hash=57a1e5c4737768952c5164be5d4f5ba525d47674",
-    "k1": "657fcf01a1ff43cdbd39381a7c98aed6",
-    "k2": "01395c13dd6842c7d61d0f6bf99a535b"
-  },
-  {
-    "title": "Zimbabwe vs. India",
-    "league": "ESPN",
-    "fecha-evento": "2026-01-27T02:15:00-05:00",
-    "img": "019bc188-a19e-7c60-9002-422a72394815",
-    "nombre": "disney479bad",
-    "status": "02:15",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Pakistan vs. New Zealand",
-    "league": "ESPN",
-    "fecha-evento": "2026-01-27T02:15:00-05:00",
-    "img": "019bc188-a19e-7c60-9002-422a72394815",
-    "nombre": "disneycaf4a0",
-    "status": "02:15",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "ESPN Tenis | Australian Open #11",
-    "league": "ESPN",
-    "fecha-evento": "2026-01-27T10:00:00-05:00",
-    "img": "fb85c8ac-8260-4316-a57f-5fb20de56f5c",
-    "nombre": "disneyd108a1",
-    "status": "10:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Hungary vs. Portugal",
-    "league": "UEFA Futsal European Championship",
-    "fecha-evento": "2026-01-27T11:20:00-05:00",
-    "img": "019bbeca-f8b6-7aa3-8f4a-cb4ad2c0cac2",
-    "nombre": "disney2c2895",
-    "status": "11:20",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Tour El Salvador 2026",
-    "league": "ESPN",
-    "fecha-evento": "2026-01-27T11:30:00-05:00",
-    "img": "019bd0cd-ac6f-7c95-a838-42fb403c7ba0",
-    "nombre": "disney384953",
-    "status": "11:30",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "St. Vincent & The Grenadines vs. Honduras",
-    "league": "Concacaf Women's Under-17 Championship",
-    "fecha-evento": "2026-01-27T13:50:00-05:00",
-    "img": "019bde8c-578b-7873-be89-43b790579ffa",
-    "nombre": "disney41833f",
-    "status": "13:50",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Werder Bremen vs. Hoffenheim",
-    "league": "Bundesliga",
-    "fecha-evento": "2026-01-27T14:20:00-05:00",
-    "img": "019b66db-0965-7033-b7b8-2410162e6d41",
-    "nombre": "disneyaf48b9",
-    "status": "14:20",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "St. Pauli vs. RB Leipzig",
-    "league": "Bundesliga",
-    "fecha-evento": "2026-01-27T14:20:00-05:00",
-    "img": "019b6f7f-c4f3-75e2-ab08-1bbb6454061f",
-    "nombre": "disney7be5f0",
-    "status": "14:20",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Poland vs. Italy",
-    "league": "UEFA Futsal European Championship",
-    "fecha-evento": "2026-01-27T14:20:00-05:00",
-    "img": "019bbecb-0d09-71e6-bbd4-8a2810371923",
-    "nombre": "disneye7bd29",
-    "status": "14:20",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Antigua y Barbuda vs. Guatemala",
-    "league": "Concacaf Women's Under-17 Championship",
-    "fecha-evento": "2026-01-27T14:50:00-05:00",
-    "img": "019bd34c-3d2b-7103-9780-3b9aed82d854",
-    "nombre": "disney0d20b2",
-    "status": "14:50",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Doncaster Rovers vs. Leyton Orient",
-    "league": "League One de Inglaterra",
-    "fecha-evento": "2026-01-27T14:50:00-05:00",
-    "img": "019bbecb-29f9-7e66-8975-1993edd6f9be",
-    "nombre": "disney12e10e",
-    "status": "14:50",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "British Virgin Islands vs. Cuba",
-    "league": "Concacaf Women's Under-17 Championship",
-    "fecha-evento": "2026-01-27T16:50:00-05:00",
-    "img": "019bdd3b-a1e3-74c4-9156-011c7790e67a",
-    "nombre": "disney7571f3",
-    "status": "16:50",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Highlights Day 10",
-    "league": "ESPN",
-    "fecha-evento": "2026-01-27T17:30:00-05:00",
-    "img": "d4d7160b-3593-4599-bbaa-8b79f0fd5518",
-    "nombre": "disney2d1b7b",
-    "status": "17:30",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "St. Lucia vs. Haiti",
-    "league": "Concacaf Women's Under-17 Championship",
-    "fecha-evento": "2026-01-27T17:50:00-05:00",
-    "img": "019bdd3b-e8e5-701f-a103-24158e3a472a",
-    "nombre": "disneya3fc41",
-    "status": "17:50",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Vegas Golden Knights vs. Montreal Canadiens",
-    "league": "National Hockey League",
-    "fecha-evento": "2026-01-27T19:00:00-05:00",
-    "img": "019bc3fa-e411-771d-be35-ce2f726c27cf",
-    "nombre": "disney9b3161",
-    "status": "19:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Los Angeles Kings vs. Detroit Red Wings",
-    "league": "National Hockey League",
-    "fecha-evento": "2026-01-27T19:00:00-05:00",
-    "img": "019bc163-07af-781f-9ab8-bed9de0acbae",
-    "nombre": "disney751dc3",
-    "status": "19:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Utah Mammoth vs. Florida Panthers",
-    "league": "National Hockey League",
-    "fecha-evento": "2026-01-27T19:00:00-05:00",
-    "img": "019bc3fa-4c6d-7cf0-9bbe-261bbcf40393",
-    "nombre": "disneyfb1375",
-    "status": "19:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Nashville Predators vs. Boston Bruins",
-    "league": "National Hockey League",
-    "fecha-evento": "2026-01-27T19:00:00-05:00",
-    "img": "019bc163-46ac-72f3-861d-b0edc653bf0d",
-    "nombre": "disneyffe974",
-    "status": "19:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Aruba vs. Jamaica",
-    "league": "Concacaf Women's Under-17 Championship",
-    "fecha-evento": "2026-01-27T18:50:00-05:00",
-    "img": "019bdd3c-c289-7c2b-8300-17e0be3644de",
-    "nombre": "disney26442f",
-    "status": "18:50",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Margaret Court Arena",
-    "league": "ESPN",
-    "fecha-evento": "2026-01-27T19:00:00-05:00",
-    "img": "b1eb706f-fd0e-45a8-b0b1-51a3db50549f",
-    "nombre": "disneyc3e3af",
-    "status": "19:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "#17 Virginia vs. Notre Dame",
-    "league": "Básquetbol Masculino NCAA",
-    "fecha-evento": "2026-01-27T19:00:00-05:00",
-    "img": "019bdc39-c8d4-7209-9558-318f5ee20de2",
-    "nombre": "disneyc0fd9b",
-    "status": "19:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Buffalo Sabres vs. Toronto Maple Leafs",
-    "league": "National Hockey League",
-    "fecha-evento": "2026-01-27T19:00:00-05:00",
-    "img": "019bc3fa-621e-7f07-8106-112b773a3d28",
-    "nombre": "disneyf9c524",
-    "status": "19:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Syracuse vs. NC State",
-    "league": "Básquetbol Masculino NCAA",
-    "fecha-evento": "2026-01-27T19:00:00-05:00",
-    "img": "019bdc21-4dbb-72a0-85d0-8b0aaa0f8ac6",
-    "nombre": "disney5ddd18",
-    "status": "19:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Court 12",
-    "league": "ESPN",
-    "fecha-evento": "2026-01-27T19:00:00-05:00",
-    "img": "8ac4b37f-211b-4a04-9248-668a92003f26",
-    "nombre": "disney9d4204",
-    "status": "19:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Court TBC",
-    "league": "ESPN",
-    "fecha-evento": "2026-01-27T19:00:00-05:00",
-    "img": "d3f9979a-0ad8-4ed7-84fc-b129d0f9a1cb",
-    "nombre": "disneye2dedc",
-    "status": "19:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "1573 Arena",
-    "league": "ESPN",
-    "fecha-evento": "2026-01-27T19:00:00-05:00",
-    "img": "daebf547-3f47-49a9-b1f9-0be43cd8ac13",
-    "nombre": "disney5f60aa",
-    "status": "19:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Winnipeg Jets vs. New Jersey Devils",
-    "league": "National Hockey League",
-    "fecha-evento": "2026-01-27T19:00:00-05:00",
-    "img": "86f08871-67c0-4d17-be75-c4310e10ae39",
-    "nombre": "disney93fb47",
-    "status": "19:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Court 8",
-    "league": "ESPN",
-    "fecha-evento": "2026-01-27T19:00:00-05:00",
-    "img": "bbb315b7-ef8e-46fd-9d75-c53ad85c634e",
-    "nombre": "disney7ead28",
-    "status": "19:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Kia Arena",
-    "league": "ESPN",
-    "fecha-evento": "2026-01-27T19:00:00-05:00",
-    "img": "523aaf34-9425-4155-88bd-44bbf8d7e574",
-    "nombre": "disney67c7a7",
-    "status": "19:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "#15 Arkansas vs. Oklahoma",
-    "league": "Básquetbol Masculino NCAA",
-    "fecha-evento": "2026-01-27T19:00:00-05:00",
-    "img": "019bdddd-1d1d-7fb9-ae05-d4d768cb0a10",
-    "nombre": "disney6bcf31",
-    "status": "19:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Court 14",
-    "league": "ESPN",
-    "fecha-evento": "2026-01-27T19:00:00-05:00",
-    "img": "28cdca9b-5865-48d1-bcf9-9d062166797b",
-    "nombre": "disney9af3f1",
-    "status": "19:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Court 7",
-    "league": "ESPN",
-    "fecha-evento": "2026-01-27T19:00:00-05:00",
-    "img": "4b262596-9a63-44a3-9003-dd0d9754d4e1",
-    "nombre": "disneyc4ed6f",
-    "status": "19:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Court 6",
-    "league": "ESPN",
-    "fecha-evento": "2026-01-27T19:00:00-05:00",
-    "img": "fc3c500f-46d8-4307-a8a0-a870f99fa579",
-    "nombre": "disneydb9785",
-    "status": "19:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "ANZ Arena",
-    "league": "ESPN",
-    "fecha-evento": "2026-01-27T19:00:00-05:00",
-    "img": "18d98b7b-8f8f-4c7e-bbd8-5f7e512aab79",
-    "nombre": "disneyb058e6",
-    "status": "19:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Court 13",
-    "league": "ESPN",
-    "fecha-evento": "2026-01-27T19:00:00-05:00",
-    "img": "2c718287-8c5e-408d-9747-c0b6c81e34e4",
-    "nombre": "disneyb27935",
-    "status": "19:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Court 5",
-    "league": "ESPN",
-    "fecha-evento": "2026-01-27T19:00:00-05:00",
-    "img": "5cdf1c91-b49b-4458-893f-8c0593fbf419",
-    "nombre": "disney055943",
-    "status": "19:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Chicago Blackhawks vs. Minnesota Wild",
-    "league": "National Hockey League",
-    "fecha-evento": "2026-01-27T20:00:00-05:00",
-    "img": "019b93e8-7e12-7505-a7cc-773099da11aa",
-    "nombre": "disney1633f3",
-    "status": "20:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Mexico City Capitanes vs. Iowa Wolves",
-    "league": "NBA G League",
-    "fecha-evento": "2026-01-27T19:30:00-05:00",
-    "img": "7d909810-3250-4b21-ba97-ddc644283451",
-    "nombre": "disney914dfc",
-    "status": "19:30",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Colorado Avalanche vs. Ottawa Senators",
-    "league": "National Hockey League",
-    "fecha-evento": "2026-01-28T19:30:00-05:00",
-    "img": "2862954b-1706-4e32-af55-26e1421050da",
-    "nombre": "disney1e784d",
-    "status": "19:30",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Anguila vs. Costa Rica",
-    "league": "Concacaf Women's Under-17 Championship",
-    "fecha-evento": "2026-01-27T19:50:00-05:00",
-    "img": "019bd34c-e139-721f-9912-3451a97ac87e",
-    "nombre": "disney623d85",
-    "status": "19:50",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Dallas Stars vs. St. Louis Blues",
-    "league": "National Hockey League",
-    "fecha-evento": "2026-01-27T20:00:00-05:00",
-    "img": "fa43cb8a-1efc-454f-92fe-697156e95aa1",
-    "nombre": "disney343f70",
-    "status": "20:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Atlético Tucumán vs. Central Córdoba (Fecha #2)",
-    "league": "Liga Profesional de Fútbol",
-    "fecha-evento": "2026-01-27T20:05:00-05:00",
-    "img": "019bc161-bad7-78e1-9468-f436a30e04d8",
-    "nombre": "disney1d3de3",
-    "status": "20:05",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Austin Spurs vs. Valley Suns",
-    "league": "NBA G League",
-    "fecha-evento": "2026-01-27T21:00:00-05:00",
-    "img": "019bc161-ad61-762b-ba2a-73f46693666b",
-    "nombre": "disney23d04e",
-    "status": "21:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Massachusetts vs. #24 Miami (OH)",
-    "league": "Básquetbol Masculino NCAA",
-    "fecha-evento": "2026-01-27T21:00:00-05:00",
-    "img": "019b963e-7168-7323-968b-6aa0d95ba61a",
-    "nombre": "disney7a6c6c",
-    "status": "21:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Kentucky vs. #18 Vanderbilt",
-    "league": "Básquetbol Masculino NCAA",
-    "fecha-evento": "2026-01-27T21:00:00-05:00",
-    "img": "019b7f4c-3e6b-79bb-8790-c7b1a08d70b3",
-    "nombre": "disney17e79a",
-    "status": "21:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "San Jose Sharks vs. Vancouver Canucks",
-    "league": "National Hockey League",
-    "fecha-evento": "2026-01-27T22:00:00-05:00",
-    "img": "019b28c7-3797-7ee9-9cff-69fce580d19e",
-    "nombre": "disneyba82ff",
-    "status": "22:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Washington Capitals vs. Seattle Kraken",
-    "league": "National Hockey League",
-    "fecha-evento": "2026-01-27T22:00:00-05:00",
-    "img": "019bc162-e400-79fa-8778-5797668c7dcb",
-    "nombre": "disney76fc09",
-    "status": "22:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "College Park Skyhawks vs. South Bay Lakers",
-    "league": "NBA G League",
-    "fecha-evento": "2026-01-27T22:00:00-05:00",
-    "img": "019bc162-391e-7c2b-b03f-323cae45ff71",
-    "nombre": "disneyd56ae3",
-    "status": "22:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Australia vs. West Indies",
-    "league": "ESPN",
-    "fecha-evento": "2026-01-28T02:15:00-05:00",
-    "img": "019bc188-a19e-7c60-9002-422a72394815",
-    "nombre": "disneyb62cbe",
-    "status": "02:15",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "En Español-Generali Hexagon Cup 2026 (Day #1)",
     "league": "ESPN",
-    "fecha-evento": "2026-01-28T05:00:00-05:00",
+    "fecha-evento": "2026-01-28T05:00:05-05:00",
     "img": "019be628-c507-7493-92ba-3eeb7b637233",
-    "nombre": "disney2ccd1f",
+    "nombre": "disney56ad25",
     "status": "05:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "ESPN Tenis | Australian Open #12",
-    "league": "ESPN",
-    "fecha-evento": "2026-01-28T10:00:00-05:00",
-    "img": "fb85c8ac-8260-4316-a57f-5fb20de56f5c",
-    "nombre": "disneyca3cb3",
-    "status": "10:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Latvia vs. Croatia",
-    "league": "UEFA Futsal European Championship",
-    "fecha-evento": "2026-01-28T10:20:00-05:00",
-    "img": "019bc3f8-b460-7808-9035-77a5beed8229",
-    "nombre": "disney3c680d",
-    "status": "10:20",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Georgia vs. France",
-    "league": "UEFA Futsal European Championship",
-    "fecha-evento": "2026-01-28T10:20:00-05:00",
-    "img": "019bc3f9-026a-7109-bf5e-3922224f75d6",
-    "nombre": "disney7f3406",
-    "status": "10:20",
-    "duration": 135,
-    "play_url": ""
+    "duration": 720,
+    "play_url": "https://www.disneyplus.com/es-es/play/02212224-2b51-49b4-a292-db97611bef26",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1769715641~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F28%2FEn_EspaolGenerali_Hexagon_20260128_1769587224035%2F~psid=9ca800c9-3c1d-44a5-a14e-4dd1fa64fa4f~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=155e763adf2c58cd2280637d8cd2c660dce3ef232d097ca961027765667464b0/clt1/va02/disneyplus/event/2026/01/28/En_EspaolGenerali_Hexagon_20260128_1769587224035/ctr-all-hdri-complete.m3u8?v=1&hash=ae616c4c80e2d1374a48e5f22fb9c315b8fd0cf2",
+    "k1": "c953a463086e464b8244d4b97cfec0ac",
+    "k2": "7c4041272d2cca7475eaaf7a0e623b4e"
   },
   {
     "title": "Suriname vs. Bonaire",
     "league": "Concacaf Women's Under-17 Championship",
-    "fecha-evento": "2026-01-28T12:50:00-05:00",
+    "fecha-evento": "2026-01-28T12:50:16-05:00",
     "img": "019bfc32-e337-7903-93a0-b2e7a233c325",
-    "nombre": "disneyae1fd4",
+    "nombre": "disneyde197f",
     "status": "12:50",
-    "duration": 135,
-    "play_url": ""
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/d00c30c1-57e7-4c32-843d-08989170f7d4",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1769715685~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F28%2FSuriname_vs_Bonaire_20260128_1769616681335%2F~psid=26cd9e2c-34f2-4f3a-9ac2-9e7cf9a20791~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=470b25dbbbc3e5901d0de013856140cf39afd2753e4018570d475f10ba1e7ca2/clt1/va02/disneyplus/event/2026/01/28/Suriname_vs_Bonaire_20260128_1769616681335/ctr-all-hdri-complete.m3u8?v=1&hash=e2ec3252c092d64044df72e95401203f3bc3b212",
+    "k1": "f9db6b548c7549929833cf02cb0fb44b",
+    "k2": "f6d2a797fbffeccbbaa7edbd0b270ee1"
   },
   {
     "title": "Czechia vs. Ukraine",
     "league": "UEFA Futsal European Championship",
-    "fecha-evento": "2026-01-28T13:20:00-05:00",
+    "fecha-evento": "2026-01-28T13:19:49-05:00",
     "img": "019bc3f8-f20d-775b-816b-42546836835f",
-    "nombre": "disneyf62b25",
-    "status": "13:20",
-    "duration": 135,
-    "play_url": ""
+    "nombre": "disneyaa64e1",
+    "status": "13:19",
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/de0a65db-8dc2-4704-9337-421f49d55566",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1769715730~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F28%2FCzechia_vs_Ukraine_20260128_1769617239039%2F~psid=6d3d8519-bd07-489b-95ec-aab19fd43384~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=d82f1e756017fa324e3f67144b89a15923d32c1f75d001251cbc8e2c749fc3c3/clt1/va02/disneyplus/event/2026/01/28/Czechia_vs_Ukraine_20260128_1769617239039/ctr-all-hdri-complete.m3u8?v=1&hash=e49508d74a758bb1ce5765eabd0d1067e33f11bb",
+    "k1": "9f2e706576494e6384e963f4d22a7ca0",
+    "k2": "4a9910e3421c21d9557c4d2d48e4f11c"
   },
   {
     "title": "Lithuania vs. Armenia",
     "league": "UEFA Futsal European Championship",
-    "fecha-evento": "2026-01-28T13:20:00-05:00",
+    "fecha-evento": "2026-01-28T13:19:49-05:00",
     "img": "019bc3f8-ecbf-7b2a-8734-8716e44b44f0",
-    "nombre": "disney0062f5",
-    "status": "13:20",
-    "duration": 135,
-    "play_url": ""
+    "nombre": "disneyd30591",
+    "status": "13:19",
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/9159e2c4-a83b-43da-969a-18a384201e5a",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1769715755~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F28%2FLithuania_vs_Armenia_20260128_1769617223027%2F~psid=b7681b0b-fdec-438a-b440-3b332b138994~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=2a31b7f0587105c670f4ee0cdb5f5dc00d64805e11cde0c7f5489f416fca6958/clt1/va02/disneyplus/event/2026/01/28/Lithuania_vs_Armenia_20260128_1769617223027/ctr-all-hdri-complete.m3u8?v=1&hash=6acb2d763d5768eb96aafbda3533f4ec4194535c",
+    "k1": "fd08910825034c3b9ed72e5fb3af288f",
+    "k2": "c22bdc54d18fc900202439755c5a57aa"
+  },
+  {
+    "title": "Tarde de Copas - La definición de la Fase Liga",
+    "league": "ESPN",
+    "fecha-evento": "2026-01-28T14:30:01-05:00",
+    "img": "019c05b9-1072-7b3f-a7cc-9ffbcff6be3b",
+    "nombre": "disneyb63247",
+    "status": "14:30",
+    "duration": 180,
+    "play_url": "https://www.disneyplus.com/es-es/play/6e1a90ab-8785-4e46-97ec-9518e949119a",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1769715780~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F28%2FTarde_de_Copas_La_definic_20260128_1769622561347%2F~psid=7daebea2-6dc2-43f9-a631-7ac7690dbdba~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=82b38dca5e992efb2113d803831819719900dab0eb85912e3f9f7c66a014b55c/clt1/va02/disneyplus/event/2026/01/28/Tarde_de_Copas_La_definic_20260128_1769622561347/ctr-all-hdri-complete.m3u8?v=1&hash=651d9f3f457992c1cacc4d7b5045ac4bade2b891",
+    "k1": "436544bf8b444f0bb826a7ded1fe8e99",
+    "k2": "f41c7c6e95786b56db993043362b739e"
   },
   {
     "title": "PSV vs. Bayern Munich",
@@ -589,6 +81,566 @@
     "img": "019be742-313e-72d2-a3be-72dfb124e30f",
     "nombre": "disney300c29",
     "status": "14:40",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "AS Monaco vs. Juventus",
+    "league": "UEFA Champions League",
+    "fecha-evento": "2026-01-28T14:40:00-05:00",
+    "img": "019be734-29cf-7b5f-b594-6f2c3d03150f",
+    "nombre": "disney0c4c5a",
+    "status": "14:40",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Arsenal vs. Kairat Almaty",
+    "league": "UEFA Champions League",
+    "fecha-evento": "2026-01-28T14:40:00-05:00",
+    "img": "019be5ec-a46a-72c8-ac5a-0ab0f7af441b",
+    "nombre": "disneyc25c24",
+    "status": "14:40",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "UCL al instante",
+    "league": "UEFA Champions League",
+    "fecha-evento": "2026-01-28T14:40:00-05:00",
+    "img": "1f4cfba0-a435-412b-b4cb-1cebe051956c",
+    "nombre": "disney13b186",
+    "status": "14:40",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Benfica vs. Real Madrid",
+    "league": "UEFA Champions League",
+    "fecha-evento": "2026-01-28T14:40:00-05:00",
+    "img": "019be5f2-38c4-79ca-8a24-4df55be33a25",
+    "nombre": "disneyb91b87",
+    "status": "14:40",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Liverpool vs. Qarabag",
+    "league": "UEFA Champions League",
+    "fecha-evento": "2026-01-28T14:40:00-05:00",
+    "img": "019be5dc-f5bd-7760-a9ef-21679832916b",
+    "nombre": "disney39e98a",
+    "status": "14:40",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Napoli vs. Chelsea",
+    "league": "UEFA Champions League",
+    "fecha-evento": "2026-01-28T14:40:00-05:00",
+    "img": "019be712-a009-7618-b10d-3c611408dcd6",
+    "nombre": "disneyd7827f",
+    "status": "14:40",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "FC Barcelona vs. Copenhagen",
+    "league": "UEFA Champions League",
+    "fecha-evento": "2026-01-28T14:40:00-05:00",
+    "img": "019be5de-c3ae-7636-bfdf-5036837871be",
+    "nombre": "disneyd15a13",
+    "status": "14:40",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "PSG vs. Newcastle United",
+    "league": "UEFA Champions League",
+    "fecha-evento": "2026-01-28T14:40:00-05:00",
+    "img": "019be733-f1ed-77de-bd43-77366e3c57d9",
+    "nombre": "disney55e7a4",
+    "status": "14:40",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Borussia Dortmund vs. Inter Milan",
+    "league": "UEFA Champions League",
+    "fecha-evento": "2026-01-28T14:40:00-05:00",
+    "img": "019be5e0-c4a9-7deb-900b-e0ac25da3c69",
+    "nombre": "disney2bf4a0",
+    "status": "14:40",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Atletico Madrid vs. FK Bodø/Glimt",
+    "league": "UEFA Champions League",
+    "fecha-evento": "2026-01-28T14:40:00-05:00",
+    "img": "019be5ea-049f-7fd8-8a39-66534ebac648",
+    "nombre": "disney3a05ac",
+    "status": "14:40",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Eintracht Frankfurt vs. Tottenham Hotspur",
+    "league": "UEFA Champions League",
+    "fecha-evento": "2026-01-28T14:40:00-05:00",
+    "img": "019be5e2-63be-78fa-8982-d53954c01782",
+    "nombre": "disneyeea418",
+    "status": "14:40",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Union St. Gilloise vs. Atalanta",
+    "league": "UEFA Champions League",
+    "fecha-evento": "2026-01-28T14:50:00-05:00",
+    "img": "019be65d-ac58-7869-b448-641f7095c91e",
+    "nombre": "disneyfb8c73",
+    "status": "14:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Athletic Club Bilbao vs. Sporting Lisboa",
+    "league": "UEFA Champions League",
+    "fecha-evento": "2026-01-28T14:50:00-05:00",
+    "img": "019be5ec-4da8-73af-92ed-a1bad565af99",
+    "nombre": "disneyc366e9",
+    "status": "14:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Ajax vs. Olympiakos",
+    "league": "UEFA Champions League",
+    "fecha-evento": "2026-01-28T14:50:00-05:00",
+    "img": "019be5ed-1ded-788e-9390-1093b465f6ee",
+    "nombre": "disneya0eaad",
+    "status": "14:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Club Brugge vs. Olympique de Marseille",
+    "league": "UEFA Champions League",
+    "fecha-evento": "2026-01-28T14:50:00-05:00",
+    "img": "019be65d-aabc-7072-ae40-234b6f73c2c7",
+    "nombre": "disney2d12e1",
+    "status": "14:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Bayer Leverkusen vs. Villarreal",
+    "league": "UEFA Champions League",
+    "fecha-evento": "2026-01-28T14:50:00-05:00",
+    "img": "019bf5b1-6665-7f6a-ac73-7a71dbdc0672",
+    "nombre": "disney7ce50d",
+    "status": "14:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Pafos FC vs. Sk Slavia Praha",
+    "league": "UEFA Champions League",
+    "fecha-evento": "2026-01-28T14:50:00-05:00",
+    "img": "019be65d-ad52-79c8-bea1-2a047812328d",
+    "nombre": "disneyd1eb7c",
+    "status": "14:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Racing Club vs. Rosario Central (Fecha #2)",
+    "league": "Liga Profesional de Fútbol",
+    "fecha-evento": "2026-01-28T16:45:00-05:00",
+    "img": "019bf7e3-2d5d-7061-a583-d326d15a0a99",
+    "nombre": "disney94379d",
+    "status": "16:45",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Dominica vs. Belize",
+    "league": "Concacaf Women's Under-17 Championship",
+    "fecha-evento": "2026-01-28T16:50:00-05:00",
+    "img": "019bdd40-4aa6-7d52-b6a6-4cce39b22a59",
+    "nombre": "disneyd5c8e4",
+    "status": "16:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Top 14 de Francia 2025/26 - Resumen Semanal",
+    "league": "ESPN",
+    "fecha-evento": "2026-01-28T16:55:00-05:00",
+    "img": "b30970de-8aed-4439-96c5-3b90f11c0feb",
+    "nombre": "disneybd5728",
+    "status": "16:55",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Highlights Day 11",
+    "league": "ESPN",
+    "fecha-evento": "2026-01-28T17:30:00-05:00",
+    "img": "d4d7160b-3593-4599-bbaa-8b79f0fd5518",
+    "nombre": "disney4d9ec7",
+    "status": "17:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "River Plate vs. Gimnasia y Esgrima La Plata (Fecha #2)",
+    "league": "Liga Profesional de Fútbol",
+    "fecha-evento": "2026-01-28T17:45:00-05:00",
+    "img": "019bf7e2-fa16-795b-9086-4015f187542a",
+    "nombre": "disney0275ce",
+    "status": "17:45",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Trinidad & Tobago vs. Barbados",
+    "league": "Concacaf Women's Under-17 Championship",
+    "fecha-evento": "2026-01-28T17:50:00-05:00",
+    "img": "019bdd63-d494-7f48-8b21-bcd86b419658",
+    "nombre": "disney444bc1",
+    "status": "17:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Panamá vs. Bermuda",
+    "league": "Concacaf Women's Under-17 Championship",
+    "fecha-evento": "2026-01-28T17:50:00-05:00",
+    "img": "019bd34d-2756-72e6-babd-35fea935fd08",
+    "nombre": "disneyd8642e",
+    "status": "17:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "1573 Arena",
+    "league": "ESPN",
+    "fecha-evento": "2026-01-28T18:00:00-05:00",
+    "img": "daebf547-3f47-49a9-b1f9-0be43cd8ac13",
+    "nombre": "disneyd11a4c",
+    "status": "18:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Court 10",
+    "league": "ESPN",
+    "fecha-evento": "2026-01-28T18:00:00-05:00",
+    "img": "625ba39e-9efc-4130-8973-166f292fd0bc",
+    "nombre": "disneybbd31c",
+    "status": "18:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Court 6",
+    "league": "ESPN",
+    "fecha-evento": "2026-01-28T18:00:00-05:00",
+    "img": "fc3c500f-46d8-4307-a8a0-a870f99fa579",
+    "nombre": "disneyc9aaf6",
+    "status": "18:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Court 7",
+    "league": "ESPN",
+    "fecha-evento": "2026-01-28T18:00:00-05:00",
+    "img": "4b262596-9a63-44a3-9003-dd0d9754d4e1",
+    "nombre": "disneyacbf9e",
+    "status": "18:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Court 11",
+    "league": "ESPN",
+    "fecha-evento": "2026-01-28T18:00:00-05:00",
+    "img": "625ba39e-9efc-4130-8973-166f292fd0bc",
+    "nombre": "disney048a38",
+    "status": "18:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Kia Arena",
+    "league": "ESPN",
+    "fecha-evento": "2026-01-28T18:00:00-05:00",
+    "img": "523aaf34-9425-4155-88bd-44bbf8d7e574",
+    "nombre": "disneyea21cc",
+    "status": "18:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Court 5",
+    "league": "ESPN",
+    "fecha-evento": "2026-01-28T18:00:00-05:00",
+    "img": "5cdf1c91-b49b-4458-893f-8c0593fbf419",
+    "nombre": "disney2b60c3",
+    "status": "18:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Court 8",
+    "league": "ESPN",
+    "fecha-evento": "2026-01-28T18:00:00-05:00",
+    "img": "bbb315b7-ef8e-46fd-9d75-c53ad85c634e",
+    "nombre": "disneya2af85",
+    "status": "18:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "ANZ Arena",
+    "league": "ESPN",
+    "fecha-evento": "2026-01-28T18:00:00-05:00",
+    "img": "18d98b7b-8f8f-4c7e-bbd8-5f7e512aab79",
+    "nombre": "disney3f70e0",
+    "status": "18:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Texas vs. Auburn",
+    "league": "Básquetbol Masculino NCAA",
+    "fecha-evento": "2026-01-28T19:00:00-05:00",
+    "img": "019b9b58-7e2c-7452-96c3-c8e090d1303a",
+    "nombre": "disney982d5c",
+    "status": "19:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "New York Rangers vs. New York Islanders",
+    "league": "National Hockey League",
+    "fecha-evento": "2026-01-28T19:30:00-05:00",
+    "img": "d4d3da59-23f3-49dc-9a1b-669d90b8b73e",
+    "nombre": "disneyebc170",
+    "status": "19:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Margaret Court Arena",
+    "league": "ESPN",
+    "fecha-evento": "2026-01-28T19:00:00-05:00",
+    "img": "b1eb706f-fd0e-45a8-b0b1-51a3db50549f",
+    "nombre": "disney41b902",
+    "status": "19:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "En Español-Los Angeles Lakers vs. Cleveland Cavaliers",
+    "league": "NBA",
+    "fecha-evento": "2026-01-28T19:00:00-05:00",
+    "img": "de749f16-06f2-4aa5-94ff-9d4a9de2adc8",
+    "nombre": "disneya8c46d",
+    "status": "19:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Colorado Avalanche vs. Ottawa Senators",
+    "league": "National Hockey League",
+    "fecha-evento": "2026-01-28T19:30:00-05:00",
+    "img": "2862954b-1706-4e32-af55-26e1421050da",
+    "nombre": "disney1e784d",
+    "status": "19:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Motor City Cruise vs. Long Island Nets",
+    "league": "NBA G League",
+    "fecha-evento": "2026-01-28T19:00:00-05:00",
+    "img": "019bc68f-c92c-766f-945b-1eecdfb0955f",
+    "nombre": "disney19c117",
+    "status": "19:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Rice vs. East Carolina",
+    "league": "Básquetbol Masculino NCAA",
+    "fecha-evento": "2026-01-28T19:00:00-05:00",
+    "img": "019b7f3e-f19b-79f7-8ae6-8db9ed12ee88",
+    "nombre": "disney199e6d",
+    "status": "19:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Colorado Avalanche vs. Montreal Canadiens",
+    "league": "National Hockey League",
+    "fecha-evento": "2026-01-29T19:00:00-05:00",
+    "img": "832748da-c5d7-4c53-bd45-5b24add871dd",
+    "nombre": "disney3d1ad2",
+    "status": "19:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Replay - Rod Laver Arena - Match #1",
+    "league": "ESPN",
+    "fecha-evento": "2026-01-28T19:30:00-05:00",
+    "img": "3d1c69a6-df62-4d72-af2d-3672b38e8aa5",
+    "nombre": "disney21d6dd",
+    "status": "19:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Rod Laver Arena",
+    "league": "ESPN",
+    "fecha-evento": "2026-01-28T19:30:00-05:00",
+    "img": "3d1c69a6-df62-4d72-af2d-3672b38e8aa5",
+    "nombre": "disney8b8dab",
+    "status": "19:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Philadelphia Flyers vs. Columbus Blue Jackets",
+    "league": "National Hockey League",
+    "fecha-evento": "2026-01-28T19:30:00-05:00",
+    "img": "882d5a89-8733-4150-be81-8786526a750f",
+    "nombre": "disney4bfb19",
+    "status": "19:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Nicaragua vs. Islas Vírgenes de los Estados Unidos",
+    "league": "Concacaf Women's Under-17 Championship",
+    "fecha-evento": "2026-01-28T19:55:00-05:00",
+    "img": "019bdd84-b7dc-7e0d-97ba-e6b2ff298dfc",
+    "nombre": "disneyc6b3a6",
+    "status": "19:55",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Sioux Falls Skyforce vs. Birmingham Squadron",
+    "league": "NBA G League",
+    "fecha-evento": "2026-01-28T20:00:00-05:00",
+    "img": "019bc68f-b9cc-79cb-b800-f753094d353b",
+    "nombre": "disneya7a575",
+    "status": "20:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Estudiantes de La Plata vs. Boca Juniors (Fecha #2)",
+    "league": "Liga Profesional de Fútbol",
+    "fecha-evento": "2026-01-28T20:00:00-05:00",
+    "img": "019bff9a-7896-7d16-a134-676d41dbf36d",
+    "nombre": "disney1f96c7",
+    "status": "20:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "2026 Australian Openis",
+    "league": "ESPN",
+    "fecha-evento": "2026-01-28T20:30:00-05:00",
+    "img": "019c0503-61c9-7bdf-acb7-2ccded1a539b",
+    "nombre": "disney59c0e1",
+    "status": "20:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "San Diego vs. Pepperdine",
+    "league": "Básquetbol Masculino NCAA",
+    "fecha-evento": "2026-01-28T21:00:00-05:00",
+    "img": "6dc625d0-b464-4b0a-b3f0-c86515da6d12",
+    "nombre": "disney59df38",
+    "status": "21:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "#10 Houston vs. TCU",
+    "league": "Básquetbol Masculino NCAA",
+    "fecha-evento": "2026-01-28T21:00:00-05:00",
+    "img": "019b9b5d-7ce8-7604-b195-79f2564f4fc1",
+    "nombre": "disney77e47a",
+    "status": "21:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Texas Legends vs. Rip City Remix",
+    "league": "NBA G League",
+    "fecha-evento": "2026-01-28T21:00:00-05:00",
+    "img": "019bc690-29d5-7a2a-aad0-0e78468102d3",
+    "nombre": "disneye10664",
+    "status": "21:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "South Florida vs. Tulane",
+    "league": "Básquetbol Masculino NCAA",
+    "fecha-evento": "2026-01-28T21:00:00-05:00",
+    "img": "019b7f40-6da6-73ec-8ac2-8294d105f833",
+    "nombre": "disney5eebbe",
+    "status": "21:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Seattle U vs. Washington State",
+    "league": "Básquetbol Masculino NCAA",
+    "fecha-evento": "2026-01-28T21:30:00-05:00",
+    "img": "019c029c-a636-7b84-8ae6-072e253138a3",
+    "nombre": "disney368b2f",
+    "status": "21:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "En Español-San Antonio Spurs vs. Houston Rockets",
+    "league": "NBA",
+    "fecha-evento": "2026-01-28T21:30:00-05:00",
+    "img": "fc3734af-e845-4346-b713-7f153abff1ee",
+    "nombre": "disney4ebec3",
+    "status": "21:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Replay - Rod Laver Arena - Match #2",
+    "league": "ESPN",
+    "fecha-evento": "2026-01-28T21:30:00-05:00",
+    "img": "3d1c69a6-df62-4d72-af2d-3672b38e8aa5",
+    "nombre": "disney9daabc",
+    "status": "21:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Portland vs. Pacific",
+    "league": "Básquetbol Masculino NCAA",
+    "fecha-evento": "2026-01-28T22:00:00-05:00",
+    "img": "046f746d-427e-411d-8206-5bdfd273dc49",
+    "nombre": "disney3da7d2",
+    "status": "22:00",
     "duration": 135,
     "play_url": ""
   }
