@@ -13,19 +13,6 @@
     "k2": "19937dbae83f95020a757ff4a3cdcfc4"
   },
   {
-    "title": "Slovenia vs. Belarus",
-    "league": "UEFA Futsal European Championship",
-    "fecha-evento": "2026-01-29T11:19:44-05:00",
-    "img": "019bc8b8-5499-7b69-8942-040c024b979b",
-    "nombre": "disney7f343e",
-    "status": "11:19",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/5e1d03a0-8a91-4fb5-9c94-6bd584ff40f5",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1769793689~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F29%2FSlovenia_vs_Belarus_20260129_1769696426042%2F~psid=0dd6eb49-f26b-42d6-9cee-ef4c3c14866a~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=1a1e8b8d1e55e72f4c41e1e7021f0f5d37526374e728697553f53dc4fea0684f/clt1/va02/disneyplus/event/2026/01/29/Slovenia_vs_Belarus_20260129_1769696426042/ctr-all-hdri-complete.m3u8?v=1&hash=f9fbf807788a70b09a38cb28a0710a732096da91",
-    "k1": "a44ba2356d3e4e9ba64a2635c40ec3ed",
-    "k2": "f4c756376f804d98400e2051413d1328"
-  },
-  {
     "title": "Farmers Insurance Open: Main Feed (First Round)",
     "league": "PGA TOUR",
     "fecha-evento": "2026-01-29T12:00:03-05:00",
@@ -68,8 +55,11 @@
     "img": "019bc8b8-2014-75b6-9b18-4e3bfa7b2839",
     "nombre": "disney1bc3cd",
     "status": "14:20",
-    "duration": 135,
-    "play_url": ""
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/2bd3930a-1c0f-4f70-9b7c-4d8c98b42e63",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1769800839~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F29%2FItaly_vs_Hungary_20260129_1769707243028%2F~psid=408cc074-e90c-4ade-ab4b-0709e4080876~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=a270d17a28572cc730a1f253b2dfe41a699eece9baa1abf52510603347426f9d/clt1/va02/disneyplus/event/2026/01/29/Italy_vs_Hungary_20260129_1769707243028/ctr-all-hdri-complete.m3u8?v=1&hash=4c3fffcb7c6d2533f2421dd55768aaab8d1d5f09",
+    "k1": "7dc911966594480bb75aab88d1f21314",
+    "k2": "28fef07395866c9e9d72e6728512f0a3"
   },
   {
     "title": "UEL al instante",
@@ -637,6 +627,16 @@
     "fecha-evento": "2026-01-29T21:00:00-05:00",
     "img": "019c07d0-97df-7a69-8ef1-03a8319f24b6",
     "nombre": "disney3ab2f3",
+    "status": "21:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Saint Mary's vs. Portland",
+    "league": "Básquet Femenino NCAA",
+    "fecha-evento": "2026-01-29T21:00:00-05:00",
+    "img": "5cc52788-aaae-43d1-89ad-886a1a9f2ac4",
+    "nombre": "disney1720e4",
     "status": "21:00",
     "duration": 135,
     "play_url": ""
