@@ -194,22 +194,15 @@
   {
     "title": "New York Rangers vs. New York Islanders",
     "league": "National Hockey League",
-    "fecha-evento": "2026-01-28T19:30:00-05:00",
-    "img": "d4d3da59-23f3-49dc-9a1b-669d90b8b73e",
-    "nombre": "disneyebc170",
-    "status": "19:30",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Margaret Court Arena",
-    "league": "ESPN",
     "fecha-evento": "2026-01-28T19:00:00-05:00",
-    "img": "b1eb706f-fd0e-45a8-b0b1-51a3db50549f",
-    "nombre": "disney41b902",
+    "img": "d4d3da59-23f3-49dc-9a1b-669d90b8b73e",
+    "nombre": "disney622af9",
     "status": "19:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 150,
+    "play_url": "https://www.disneyplus.com/es-es/play/a2609d7d-aace-47dc-a31f-40b276c56465",
+    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1769731238~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Fbbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1767092609127%2F~psid=4e804cb9-e1a7-41e6-8180-6db6f7cb488c~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=4f9829eba2e6fb74f91111280660e895d6e8caf7ca98f057ab4601d72f2eb264/clt1/va02/disneyplus/channel/bbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1767092609127/ctr-all-sliding-alt1.m3u8?v=1&hash=caa611b0aedb1e1aad3e4a1a02fe77959cc0e2c7",
+    "k1": "c01faaeec0a549d99a64035c2dd96e51",
+    "k2": "13ea6f306ac2fc8e8cf841369d2c9c3d"
   },
   {
     "title": "En Español-Los Angeles Lakers vs. Cleveland Cavaliers",
@@ -218,8 +211,11 @@
     "img": "de749f16-06f2-4aa5-94ff-9d4a9de2adc8",
     "nombre": "disneya8c46d",
     "status": "19:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 150,
+    "play_url": "https://www.disneyplus.com/es-es/play/de69c3d6-2870-457b-91ff-e200ed1779e0",
+    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1769731282~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Ff25bdf06-81c9-4a7c-b128-3128d610ad17-1762951253360%2F~psid=d66e3ec0-1a59-4f00-97fd-400226f66c9b~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=415c6007c0b9ecfdcbd6dccd0c3ae6ec6eef61e19c507f1d179a0cab683e1e79/clt1/va02/disneyplus/channel/f25bdf06-81c9-4a7c-b128-3128d610ad17-1762951253360/ctr-all-sliding-alt1.m3u8?v=1&hash=57a1e5c4737768952c5164be5d4f5ba525d47674",
+    "k1": "a7bf57f92ef443e2989c05214cf06e62",
+    "k2": "f1633b6f0b990005b6cc4d58cbb2a9cf"
   },
   {
     "title": "Colorado Avalanche vs. Ottawa Senators",
@@ -657,6 +653,16 @@
     "fecha-evento": "2026-01-29T14:50:00-05:00",
     "img": "019be73e-d3ed-786b-91aa-062939af7cbd",
     "nombre": "disney4d84ed",
+    "status": "14:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Ludogorets - OGC Nice",
+    "league": "UEFA Europa League",
+    "fecha-evento": "2026-01-29T14:50:00-05:00",
+    "img": "019bc8b7-d081-7ece-bcce-97103943f54f",
+    "nombre": "disney957e02",
     "status": "14:50",
     "duration": 135,
     "play_url": ""
