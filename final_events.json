@@ -13,32 +13,6 @@
     "k2": "2ea488ea00c4cdd8ccc0a3be6a313e13"
   },
   {
-    "title": "Portugal vs. Poland",
-    "league": "UEFA Futsal European Championship",
-    "fecha-evento": "2026-01-29T14:19:43-05:00",
-    "img": "019bc8b8-d9e3-7419-9694-4e7e4e2085b9",
-    "nombre": "disneyd3d45b",
-    "status": "14:19",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/ef25b4ab-e22e-4202-9f29-d7a80d4b1a0d",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1769802035~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F29%2FPortugal_vs_Poland_20260129_1769707237042%2F~psid=8a988cc1-49d4-493a-80a8-73069d6515a4~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=a22d27cf8b2b55e16d72b750012679293a4de2adc9c11bc153a7a27a64ae1eb9/clt1/va02/disneyplus/event/2026/01/29/Portugal_vs_Poland_20260129_1769707237042/ctr-all-hdri-complete.m3u8?v=1&hash=7ae8c86842c633c408ad4ebe7d5ca8ff98c83a10",
-    "k1": "a191486bd3e3440c86fdf02d35ce3198",
-    "k2": "9082c12eee346f8b957050b0a6af0b7b"
-  },
-  {
-    "title": "Italy vs. Hungary",
-    "league": "UEFA Futsal European Championship",
-    "fecha-evento": "2026-01-29T14:20:00-05:00",
-    "img": "019bc8b8-2014-75b6-9b18-4e3bfa7b2839",
-    "nombre": "disney1bc3cd",
-    "status": "14:20",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/2bd3930a-1c0f-4f70-9b7c-4d8c98b42e63",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1769800839~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F29%2FItaly_vs_Hungary_20260129_1769707243028%2F~psid=408cc074-e90c-4ade-ab4b-0709e4080876~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=a270d17a28572cc730a1f253b2dfe41a699eece9baa1abf52510603347426f9d/clt1/va02/disneyplus/event/2026/01/29/Italy_vs_Hungary_20260129_1769707243028/ctr-all-hdri-complete.m3u8?v=1&hash=4c3fffcb7c6d2533f2421dd55768aaab8d1d5f09",
-    "k1": "7dc911966594480bb75aab88d1f21314",
-    "k2": "28fef07395866c9e9d72e6728512f0a3"
-  },
-  {
     "title": "FC Porto vs. FC Rangers",
     "league": "UEFA Europa League",
     "fecha-evento": "2026-01-29T14:40:00-05:00",
@@ -677,6 +651,26 @@
     "img": "019bb8c2-b568-7588-bebe-8f942bac6e49",
     "nombre": "disney706b8e",
     "status": "21:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "2026 Australian Open (Wheelchair)",
+    "league": "ESPN",
+    "fecha-evento": "2026-01-29T21:30:00-05:00",
+    "img": "019c0b7f-8eed-7176-8fc9-bf6a0d998d68",
+    "nombre": "disney5c0530",
+    "status": "21:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Dallas Stars vs. Vegas Golden Knights",
+    "league": "National Hockey League",
+    "fecha-evento": "2026-01-29T22:00:00-05:00",
+    "img": "019bcbbf-2b2d-7db1-82c1-278cb0da2b0c",
+    "nombre": "disneyc7479d",
+    "status": "22:00",
     "duration": 135,
     "play_url": ""
   }
