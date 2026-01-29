@@ -78,21 +78,24 @@
     "k2": "1b5f0d570402fa9d2dd9de0dcea89a9d"
   },
   {
+    "title": "Highlights Day 12",
+    "league": "ESPN",
+    "fecha-evento": "2026-01-29T18:30:08-05:00",
+    "img": "d4d7160b-3593-4599-bbaa-8b79f0fd5518",
+    "nombre": "disneybe6358",
+    "status": "18:30",
+    "duration": 60,
+    "play_url": "https://www.disneyplus.com/es-es/play/5545d063-5f10-43f8-9e57-2225b993cf52",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1769816449~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F29%2FHighlights_Day_12_20260129_1769722225022%2F~psid=eb888c59-0e4f-4aac-9822-5245facaf9c0~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=5a01c6cd34ec734cdfae06a0d340d970002c5b937d343315812ecad1d07c5fc8/clt1/va02/disneyplus/event/2026/01/29/Highlights_Day_12_20260129_1769722225022/ctr-all-hdri-complete.m3u8?v=1&hash=08e05523120f7528f23810badc6019460fc1d252",
+    "k1": "82a47c121e4d44099c3552631c764e44",
+    "k2": "2ee19cdd8ef0531296f95692b530ec33"
+  },
+  {
     "title": "Philadelphia Flyers vs. Boston Bruins",
     "league": "National Hockey League",
     "fecha-evento": "2026-01-29T19:00:00-05:00",
     "img": "f70f0c5c-66e5-4b98-ac7f-0c8a8a3bb2bc",
     "nombre": "disney9beead",
-    "status": "19:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Utah Mammoth vs. Carolina Hurricanes",
-    "league": "National Hockey League",
-    "fecha-evento": "2026-01-29T19:00:00-05:00",
-    "img": "019bc92d-8786-7451-82f0-2b40c0ed4b28",
-    "nombre": "disneyfb326c",
     "status": "19:00",
     "duration": 135,
     "play_url": ""
@@ -108,34 +111,17 @@
     "play_url": ""
   },
   {
-    "title": "#24 Alabama vs. #23 Georgia",
-    "league": "Básquet Femenino NCAA",
-    "fecha-evento": "2026-01-29T18:30:00-05:00",
-    "img": "019bb3dd-6ffe-7221-bce6-68023978c505",
-    "nombre": "disney9f063b",
-    "status": "18:30",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Winnipeg Jets vs. Tampa Bay Lightning",
-    "league": "National Hockey League",
-    "fecha-evento": "2026-01-29T19:00:00-05:00",
-    "img": "019bc92d-a1d4-710d-bb53-7592bfcfb937",
-    "nombre": "disney2fbc1c",
-    "status": "19:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Colorado Avalanche vs. Montreal Canadiens",
     "league": "National Hockey League",
-    "fecha-evento": "2026-01-29T19:00:00-05:00",
+    "fecha-evento": "2026-01-29T18:34:49-05:00",
     "img": "832748da-c5d7-4c53-bd45-5b24add871dd",
-    "nombre": "disney3d1ad2",
-    "status": "19:00",
-    "duration": 135,
-    "play_url": ""
+    "nombre": "disney5bdfd8",
+    "status": "18:34",
+    "duration": 235,
+    "play_url": "https://www.disneyplus.com/es-es/play/7f4df64f-b685-4ab3-8243-b7516157ff07",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1769816496~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F30%2FColorado_Avalanche_vs_Mon_20260130_1769724045027%2F~psid=af8bab2e-ae36-4b6a-aa9c-1c8fec5a0ce7~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=e7e128f60807f6b3c854fb99284937433181bc70cd521b00b92c4448c10bd920/clt1/va02/disneyplus/event/2026/01/30/Colorado_Avalanche_vs_Mon_20260130_1769724045027/ctr-all-hdri-complete.m3u8?v=1&hash=30212e7bb9fac9750a2824b85d784fbcba45f164",
+    "k1": "2f7ebedaa96f44a08452004b130240e0",
+    "k2": "1eacce19ab3f63743e40a2b6f7f4a2de"
   },
   {
     "title": "Nashville Predators vs. New Jersey Devils",
@@ -158,12 +144,35 @@
     "play_url": ""
   },
   {
-    "title": "Highlights Day 12",
-    "league": "ESPN",
-    "fecha-evento": "2026-01-29T18:30:00-05:00",
-    "img": "d4d7160b-3593-4599-bbaa-8b79f0fd5518",
-    "nombre": "disney1d9868",
+    "title": "#24 Alabama vs. #23 Georgia",
+    "league": "Básquet Femenino NCAA",
+    "fecha-evento": "2026-01-29T18:30:02-05:00",
+    "img": "019bb3dd-6ffe-7221-bce6-68023978c505",
+    "nombre": "disney5fc7f6",
     "status": "18:30",
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/77b259ef-783c-48f4-8e22-50906a3e476d",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1769816542~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F29%2F24_Alabama_vs_23_Georgia_20260129_1769722238027%2F~psid=32bd781e-daab-40e5-93cd-f0f39b5241f4~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=70592ce6f79809a2ed30389da59d5b204f63d1819089a8c42d5ab39267b06da3/clt1/va02/disneyplus/event/2026/01/29/24_Alabama_vs_23_Georgia_20260129_1769722238027/ctr-all-hdri-complete.m3u8?v=1&hash=9659a1c71ba8e64dc82713f3f751db559acf3933",
+    "k1": "3cd8af2bc4da4a92b7c4af1a924d76c8",
+    "k2": "be858b499aa9d9cdbce59935abf26180"
+  },
+  {
+    "title": "Winnipeg Jets vs. Tampa Bay Lightning",
+    "league": "National Hockey League",
+    "fecha-evento": "2026-01-29T19:00:00-05:00",
+    "img": "019bc92d-a1d4-710d-bb53-7592bfcfb937",
+    "nombre": "disney2fbc1c",
+    "status": "19:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Utah Mammoth vs. Carolina Hurricanes",
+    "league": "National Hockey League",
+    "fecha-evento": "2026-01-29T19:00:00-05:00",
+    "img": "019bc92d-8786-7451-82f0-2b40c0ed4b28",
+    "nombre": "disneyfb326c",
+    "status": "19:00",
     "duration": 135,
     "play_url": ""
   },
