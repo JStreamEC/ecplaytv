@@ -75,32 +75,6 @@
     "k2": "27bbf4a20dfc509c30c27ccb770e9abf"
   },
   {
-    "title": "Florida Panthers vs. St. Louis Blues",
-    "league": "National Hockey League",
-    "fecha-evento": "2026-01-29T20:00:26-05:00",
-    "img": "019bcbbf-2392-74ff-85c3-4fc1c91bf489",
-    "nombre": "disney3d5704",
-    "status": "20:00",
-    "duration": 210,
-    "play_url": "https://www.disneyplus.com/es-es/play/6ab4b3f0-e1d3-42ab-b4a4-1762d02cfe86",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1769822602~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F30%2FFlorida_Panthers_vs_St_Lo_20260130_1769727605753%2F~psid=7328ad80-ba2b-449b-afbe-fef19d396d42~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=34cc7da12ab5c3cf0effaadf5d271a54ce16f7c5d33b4ebb2e0271e1b4caee79/clt1/va02/disneyplus/event/2026/01/30/Florida_Panthers_vs_St_Lo_20260130_1769727605753/ctr-all-hdri-complete.m3u8?v=1&hash=9c3747e4d873a80e65faba51c9995574dccefa82",
-    "k1": "2d94df7635f74229a36958fc68f89360",
-    "k2": "336c1166b0f3b44e196ea84b9d54100b"
-  },
-  {
-    "title": "Gonzaga vs. San Francisco",
-    "league": "Básquet Femenino NCAA",
-    "fecha-evento": "2026-01-29T21:00:03-05:00",
-    "img": "019a1924-6fee-7931-a234-8432942c8b25",
-    "nombre": "disneyf711a2",
-    "status": "21:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/47bc60b7-31a2-44d4-a335-725b9be03e19",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1769829799~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F30%2FGonzaga_vs_San_Francisco_20260130_1769731246724%2F~psid=8bc8c386-1e5e-4461-952e-8a7094bd70cd~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=4c054aa6261b0d50e4f6bbe5701e7e2e5b939668a0da6347930b0ad303b69ffa/clt1/va02/disneyplus/event/2026/01/30/Gonzaga_vs_San_Francisco_20260130_1769731246724/ctr-all-hdri-complete.m3u8?v=1&hash=1d8d7a8e572b010ab379e03e99b2bb480daa95fc",
-    "k1": "7080a389d0cd44c59a42d9b836d48dba",
-    "k2": "e09984bf29da02ce4648fa6012b9edad"
-  },
-  {
     "title": "San Jose Sharks vs. Edmonton Oilers",
     "league": "National Hockey League",
     "fecha-evento": "2026-01-29T21:00:13-05:00",
@@ -654,6 +628,26 @@
     "img": "019b6b86-b513-7563-8aea-1da400a88c52",
     "nombre": "disneya89fa0",
     "status": "19:55",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Court TBC",
+    "league": "ESPN",
+    "fecha-evento": "2026-01-30T20:00:00-05:00",
+    "img": "d3f9979a-0ad8-4ed7-84fc-b129d0f9a1cb",
+    "nombre": "disney4a7bc3",
+    "status": "20:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Mount St. Mary's vs. Saint Peter's",
+    "league": "Básquetbol Masculino NCAA",
+    "fecha-evento": "2026-01-30T20:00:00-05:00",
+    "img": "f4700d11-a280-4692-af51-b54d80f378e6",
+    "nombre": "disneyd6c898",
+    "status": "20:00",
     "duration": 135,
     "play_url": ""
   }
