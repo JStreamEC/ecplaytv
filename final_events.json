@@ -10,19 +10,6 @@
     "play_url": ""
   },
   {
-    "title": "Stonehill vs. Fairleigh Dickinson",
-    "league": "Básquet Femenino NCAA",
-    "fecha-evento": "2026-01-29T17:00:00-05:00",
-    "img": "019b758c-da62-7208-a133-a205569ccd8a",
-    "nombre": "disney1efdfd",
-    "status": "17:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/3c337f74-39d4-4b18-9d57-b466e4a76554",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1769811640~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F29%2FStonehill_vs_Fairleigh_Di_20260129_1769719104947%2F~psid=4db30f1e-6d35-4df1-b263-8ec11d7ebf53~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=e97bd933c4c1f040c08d752f00bccee71f45e74a09e868878cfe75883e8fb561/clt1/va02/disneyplus/event/2026/01/29/Stonehill_vs_Fairleigh_Di_20260129_1769719104947/ctr-all-hdri-complete.m3u8?v=1&hash=0f9a68c62849b0e62ffd80cad851309511867d8e",
-    "k1": "3ba0ee313a8443a0b06e99764f1823db",
-    "k2": "2d6278e9ed8656dcf8305426fda812f1"
-  },
-  {
     "title": "Kansas vs. #12 TCU",
     "league": "Básquet Femenino NCAA",
     "fecha-evento": "2026-01-29T18:00:05-05:00",
@@ -257,24 +244,17 @@
     "k2": "c68a0c9e99d2ae4b4b365f35e2bff47a"
   },
   {
-    "title": "Florida Panthers vs. St. Louis Blues",
-    "league": "National Hockey League",
-    "fecha-evento": "2026-01-29T20:00:00-05:00",
-    "img": "019bcbbf-2392-74ff-85c3-4fc1c91bf489",
-    "nombre": "disney4badd6",
-    "status": "20:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Washington Capitals vs. Detroit Red Wings",
     "league": "National Hockey League",
-    "fecha-evento": "2026-01-29T19:30:00-05:00",
+    "fecha-evento": "2026-01-29T19:28:03-05:00",
     "img": "019b2907-3cb9-7e06-a612-adf60b31f0bb",
-    "nombre": "disney8cf5eb",
-    "status": "19:30",
-    "duration": 135,
-    "play_url": ""
+    "nombre": "disney3e73bf",
+    "status": "19:28",
+    "duration": 152,
+    "play_url": "https://www.disneyplus.com/es-es/play/f06c5e41-475b-48a4-a942-9874cc1dfe62",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1769820054~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F01%2F30%2FWashington_Capitals_vs_De_20260130_1769728221944%2F~psid=212b7159-6e53-46c8-8be6-f14ddd5489fd~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=bbacc651d06000563fec46f52ef9ade7bc8dc83007646c7be3892e525fdc1e26/clt1/va02/disneyplus/event/2026/01/30/Washington_Capitals_vs_De_20260130_1769728221944/ctr-all-hdri-complete.m3u8?v=1&hash=f75f818c841d0e893e8ab7c1eb1a78839d244ac7",
+    "k1": "42d028ae06ab42d4a17bd224f862bc3e",
+    "k2": "a6844722af19b9d9bd13b07c404da0c1"
   },
   {
     "title": "Calgary Flames vs. Minnesota Wild",
@@ -282,6 +262,16 @@
     "fecha-evento": "2026-01-29T20:00:00-05:00",
     "img": "512168e1-aefe-447b-b451-21bd4e745b3b",
     "nombre": "disney7869ab",
+    "status": "20:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Florida Panthers vs. St. Louis Blues",
+    "league": "National Hockey League",
+    "fecha-evento": "2026-01-29T20:00:00-05:00",
+    "img": "019bcbbf-2392-74ff-85c3-4fc1c91bf489",
+    "nombre": "disney4badd6",
     "status": "20:00",
     "duration": 135,
     "play_url": ""
@@ -673,6 +663,16 @@
     "img": "99d2097a-930e-48a4-9cbb-a898bb27b4c0",
     "nombre": "disney444834",
     "status": "13:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Stacy Dragila Invitational",
+    "league": "NCAA Atletismo",
+    "fecha-evento": "2026-01-30T14:00:00-05:00",
+    "img": "59035c7e-922f-4c27-aa98-9174c979520a",
+    "nombre": "disney7a45cb",
+    "status": "14:00",
     "duration": 135,
     "play_url": ""
   }
