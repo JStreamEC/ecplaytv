@@ -6,8 +6,11 @@
     "img": "0e6f541a-fa5e-4eb2-8a31-4f3bc81d15fd",
     "nombre": "disney9f46df",
     "status": "10:15",
-    "duration": 135,
-    "play_url": ""
+    "duration": 165,
+    "play_url": "https://www.disneyplus.com/es-es/play/cf2aa541-8d6f-4689-a4a2-693da7f0b5c5",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1770045640~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F01%2FFarmers_Insurance_Open_Ma_20260201_1769951701034%2F~psid=97305bbf-fd9e-441a-bdd0-43a4ebc0a595~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=18b9b326fcfac5022d8b664817d5a645136b9770ea0a0a318e5b90927f97b395/clt1/va02/disneyplus/event/2026/02/01/Farmers_Insurance_Open_Ma_20260201_1769951701034/ctr-all-hdri-complete.m3u8?v=1&hash=d8205d0ff5ee4e1aa40211223abac99e05ec47fa",
+    "k1": "0f3c15caff424e77b9c76c4c5a22aece",
+    "k2": "a532c9f86e24bcd4413a6ca6be66178c"
   },
   {
     "title": "India vs. Pakistan",
@@ -60,32 +63,6 @@
     "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1770041088~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F01%2FOstrava_Open_Center_Court_20260201_1769938477309%2F~psid=80596126-3083-45b7-ad99-b51509f0516d~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=7d7000a6c3ab2ab01f59ec5829338b0eb9197e838d4932c6f55046cbfb685441/clt1/va02/disneyplus/event/2026/02/01/Ostrava_Open_Center_Court_20260201_1769938477309/ctr-all-hdri-complete.m3u8?v=1&hash=0c9681308e190b2ca4fc5038e8357fd8a2c632ee",
     "k1": "63948e0c32384842a5be1e755c93524c",
     "k2": "7f14c0d3ec8de84a7dfd6ae8c30709da"
-  },
-  {
-    "title": "Real Madrid vs. Rayo Vallecano",
-    "league": "LALIGA",
-    "fecha-evento": "2026-02-01T07:45:00-05:00",
-    "img": "5f1ad933-47ae-4cac-adb9-084e59679510",
-    "nombre": "disney5d263b",
-    "status": "07:45",
-    "duration": 135,
-    "play_url": "https://www.disneyplus.com/es-es/play/1ad7338f-ede0-4de9-9079-75d153e2febb",
-    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1770041189~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F921e1311-bb26-43dd-84a6-9e2284959712-1762950465141%2F~psid=db44defb-0a5f-4a85-938d-7c4193e358bd~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=4c18653e225f6c46e7fa120e0657d90ba221cc71f72cb534444a7bff821e14a7/clt1/va02/disneyplus/channel/921e1311-bb26-43dd-84a6-9e2284959712-1762950465141/ctr-all-sliding-alt1.m3u8?v=1&hash=03915bf69f19826611ecdeecc79455eab40b229c",
-    "k1": "3235d48313bf4aa38c8e25ddebfe2dc1",
-    "k2": "86b661a5fc338171435068d8fcb7f5d9"
-  },
-  {
-    "title": "Almeria vs. Ceuta",
-    "league": "Segunda División de España",
-    "fecha-evento": "2026-02-01T07:55:08-05:00",
-    "img": "019bd8b0-f3fb-7c75-809b-40f868bcd7ed",
-    "nombre": "disneya98dc4",
-    "status": "07:55",
-    "duration": 125,
-    "play_url": "https://www.disneyplus.com/es-es/play/8420034a-8c52-4e36-ada6-75daf065a6a2",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1770041215~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F01%2FAlmeria_vs_Ceuta_20260201_1769943324038%2F~psid=000ad1a4-9729-4341-b85d-7659c77eab90~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=d767a1000797cafd6a3b76f419dd5b65b5820a9f8347a836dc00f376058787ae/clt1/va02/disneyplus/event/2026/02/01/Almeria_vs_Ceuta_20260201_1769943324038/ctr-all-hdri-complete.m3u8?v=1&hash=871548f28ae883973ebcdd679efbeea0676b08c2",
-    "k1": "ec75b0fc273a49619d4309df22006648",
-    "k2": "7e76a815c3afbd39c4bde6e968ee6552"
   },
   {
     "title": "PSV vs. Feyenoord",
@@ -647,6 +624,26 @@
     "img": "019c0fce-1473-716f-8745-70c413b31584",
     "nombre": "disneyef5c8a",
     "status": "10:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Kocaelispor vs. Fenerbahce (Fecha #20)",
+    "league": "Super Lig de Turquía",
+    "fecha-evento": "2026-02-02T11:50:00-05:00",
+    "img": "019be601-0dd1-7452-817d-1cae66c08149",
+    "nombre": "disney49a37c",
+    "status": "11:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Robert Morris vs. #15 Johns Hopkins",
+    "league": "NCAA Men's Lacrosse",
+    "fecha-evento": "2026-02-02T12:00:00-05:00",
+    "img": "019c026f-12db-7b1f-b426-f1fe5fd22942",
+    "nombre": "disney78211d",
+    "status": "12:00",
     "duration": 135,
     "play_url": ""
   }
