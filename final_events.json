@@ -78,32 +78,6 @@
     "k2": "948b8b7e45a51bc6510253935d51d8d8"
   },
   {
-    "title": "Manchester City vs. Chelsea",
-    "league": "English Women's Super League",
-    "fecha-evento": "2026-02-01T09:22:21-05:00",
-    "img": "5d7b9619-96a8-4f19-a67d-0181531864ab",
-    "nombre": "disney837cba",
-    "status": "09:22",
-    "duration": 128,
-    "play_url": "https://www.disneyplus.com/es-es/play/1882f1d2-fc30-4954-b9f5-cdfed0de341d",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1770043281~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F01%2FManchester_City_vs_Chelse_20260201_1769951302546%2F~psid=f32e34ed-00e1-4b6e-bdd6-700b9460fcf3~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=905fc56358a3b468a9da36d8459d01665cc098d5a810e624c5f14af1a96f1a67/clt1/va02/disneyplus/event/2026/02/01/Manchester_City_vs_Chelse_20260201_1769951302546/ctr-all-hdri-complete.m3u8?v=1&hash=418a9012842d0f60675e1c5afc8378913919e322",
-    "k1": "378c7375f6ee46c4ac5a4fb6c4eacb14",
-    "k2": "30d882373682eb90cbe50e36816de344"
-  },
-  {
-    "title": "Portugal vs. Belgium (Quarterfinals)",
-    "league": "UEFA Futsal European Championship",
-    "fecha-evento": "2026-02-01T09:49:47-05:00",
-    "img": "019c0b5a-8042-7570-bddc-43e0a8a555c2",
-    "nombre": "disney42cda6",
-    "status": "09:49",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/a7d89687-a728-40fe-8cc6-f6e1e818110c",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1770044438~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F01%2FPortugal_vs_Belgium_Quart_20260201_1769950245047%2F~psid=56991fa6-2913-4bb9-b62e-847474d9ab80~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=b14fee3a725f4ebe69d251866c4684be96d2447c3a3d585f60c01e3aaf74bac4/clt1/va02/disneyplus/event/2026/02/01/Portugal_vs_Belgium_Quart_20260201_1769950245047/ctr-all-hdri-complete.m3u8?v=1&hash=99a419209b2fd4897a6638eb473bde073fc00d5f",
-    "k1": "ae49e11db0574264a89f06f974ea54eb",
-    "k2": "883896e25bb5d7db1220c7af22d0e540"
-  },
-  {
     "title": "Betis vs. Valencia CF",
     "league": "LALIGA",
     "fecha-evento": "2026-02-01T10:00:00-05:00",
@@ -182,24 +156,30 @@
     "k2": "4bbb3d44ad8c54b7b314358db75db128"
   },
   {
+    "title": "Galatasaray vs. Yukatel Kayserispor",
+    "league": "Super Lig de Turquía",
+    "fecha-evento": "2026-02-01T11:45:07-05:00",
+    "img": "019be835-49c6-7819-816b-6b50bf7e8fd4",
+    "nombre": "disneydc6626",
+    "status": "11:45",
+    "duration": 135,
+    "play_url": "https://www.disneyplus.com/es-es/play/b3c607f0-7bc3-410e-91b1-ab03cb2d0b7f",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1770051642~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F01%2FGalatasaray_vs_Yukatel_Ka_20260201_1769957713026%2F~psid=df2b9b83-42a8-4f99-9735-eba206c38ccc~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=b51d330eb8d8d9b5f76a7c4535745e1b1c76bfe4716c9c1c2e02cc71e7849869/clt1/va02/disneyplus/event/2026/02/01/Galatasaray_vs_Yukatel_Ka_20260201_1769957713026/ctr-all-hdri-complete.m3u8?v=1&hash=9f82a0ef64bfe8198e9c5fb3f718b0f249845bbd",
+    "k1": "26327fe8f6904f6ba5b1dff0d4bd81c7",
+    "k2": "a42dfe11c990ded56d61b2fed6edf170"
+  },
+  {
     "title": "Cremonese vs. Inter",
     "league": "Seria A",
     "fecha-evento": "2026-02-01T11:50:00-05:00",
     "img": "019be19c-2e2d-708e-8f15-edf9df258e4b",
     "nombre": "disney8da540",
     "status": "11:50",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Galatasaray vs. Yukatel Kayserispor",
-    "league": "Super Lig de Turquía",
-    "fecha-evento": "2026-02-01T11:55:00-05:00",
-    "img": "019be835-49c6-7819-816b-6b50bf7e8fd4",
-    "nombre": "disneyd303c1",
-    "status": "11:55",
-    "duration": 135,
-    "play_url": ""
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/374a26d4-1526-454f-b3e1-be755f0a3147",
+    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1770051689~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Fbbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1767092609127%2F~psid=cb544cb7-e5b1-49f2-8a6b-299d7c90d0a6~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=396d0e7378e391ed5fc5ed0b34217499324584a069fdf8f517a315fb7233e3ac/clt1/va02/disneyplus/channel/bbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1767092609127/ctr-all-sliding-alt1.m3u8?v=1&hash=caa611b0aedb1e1aad3e4a1a02fe77959cc0e2c7",
+    "k1": "a341734e31a546dfb5711e91ecd20c66",
+    "k2": "edefaad3841f6e0b470d2dfb0c205490"
   },
   {
     "title": "Richmond vs. VCU",
@@ -638,6 +618,26 @@
     "img": "019bdddc-b48d-7197-8164-8b47d483fdc2",
     "nombre": "disney9aae62",
     "status": "16:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Harvard vs. #13 Boston College",
+    "league": "NCAA Men's Ice Hockey",
+    "fecha-evento": "2026-02-02T17:00:00-05:00",
+    "img": "019baee5-9908-73bc-8892-70fa95f3f227",
+    "nombre": "disneyf4ba0d",
+    "status": "17:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Haití vs. Guatemala",
+    "league": "Concacaf Women's Under-17 Championship",
+    "fecha-evento": "2026-02-02T17:50:00-05:00",
+    "img": "019bdddd-33c7-7b79-a713-d970168c99fd",
+    "nombre": "disney25a10d",
+    "status": "17:50",
     "duration": 135,
     "play_url": ""
   }
