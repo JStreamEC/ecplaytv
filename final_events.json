@@ -65,19 +65,6 @@
     "k2": "948b8b7e45a51bc6510253935d51d8d8"
   },
   {
-    "title": "Betis vs. Valencia CF",
-    "league": "LALIGA",
-    "fecha-evento": "2026-02-01T10:00:00-05:00",
-    "img": "5f1ad933-47ae-4cac-adb9-084e59679510",
-    "nombre": "disney4103df",
-    "status": "10:00",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/5151f31d-414b-421a-aa09-cdfebd92e057",
-    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1770044483~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Ff25bdf06-81c9-4a7c-b128-3128d610ad17-1762951253360%2F~psid=0265c1c0-d289-48cc-bab1-5ee1dffd0742~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=de9105d249f3a39098352cdaa879af7ba580cda41051f95568c469b5771caa00/clt1/va02/disneyplus/channel/f25bdf06-81c9-4a7c-b128-3128d610ad17-1762951253360/ctr-all-sliding-alt1.m3u8?v=1&hash=57a1e5c4737768952c5164be5d4f5ba525d47674",
-    "k1": "9e0091a9bc3d48a7be8a9dc43ebec9cc",
-    "k2": "ab836d87bdf4c8e1d20f133addb8f741"
-  },
-  {
     "title": "Nice vs. Brest",
     "league": "Ligue 1",
     "fecha-evento": "2026-02-01T11:00:42-05:00",
@@ -184,12 +171,15 @@
   {
     "title": "Castellón vs. FC Andorra",
     "league": "Segunda División de España",
-    "fecha-evento": "2026-02-01T12:25:00-05:00",
+    "fecha-evento": "2026-02-01T12:25:02-05:00",
     "img": "019bd8b1-17e6-7f68-9360-dd01a6f4bc2d",
-    "nombre": "disneya0ba24",
+    "nombre": "disney1b5a75",
     "status": "12:25",
-    "duration": 135,
-    "play_url": ""
+    "duration": 125,
+    "play_url": "https://www.disneyplus.com/es-es/play/2ae1dce3-9e7d-4cc7-9410-f9b24aad1f24",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1770054046~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F01%2FCastelln_vs_FC_Andorra_20260201_1769959540017%2F~psid=8d74d8db-46be-4f66-b6f9-57c8ab05a844~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=aacafc801ff0e33ae6aedac41f92d9b5babda6e751267e3018a32b6e9993cd1f/clt1/va02/disneyplus/event/2026/02/01/Castelln_vs_FC_Andorra_20260201_1769959540017/ctr-all-hdri-complete.m3u8?v=1&hash=ed474eed4a6fcc606484deb26fb5d18dc9d3314b",
+    "k1": "7106d311b641418f88794d593db09a78",
+    "k2": "9287eb49fa99d15f9f0110af03c9b59b"
   },
   {
     "title": "#14 Baylor vs. #22 West Virginia",
@@ -638,6 +628,16 @@
     "img": "019bb994-8c1b-7bc9-bcae-81cb6c6a48a4",
     "nombre": "disney93e52a",
     "status": "18:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "New York Islanders vs. Washington Capitals",
+    "league": "National Hockey League",
+    "fecha-evento": "2026-02-02T19:00:00-05:00",
+    "img": "019bdde0-75b3-7f7b-b335-6ed26a155624",
+    "nombre": "disney53fba1",
+    "status": "19:00",
     "duration": 135,
     "play_url": ""
   }
