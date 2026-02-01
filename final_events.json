@@ -13,19 +13,6 @@
     "k2": "cda1fea2f68003785df8d9c7d66e8e89"
   },
   {
-    "title": "Mubadala Abu Dhabi Open presented by Abu Dhabi Sports Council / Stadium Court",
-    "league": "WTA",
-    "fecha-evento": "2026-02-01T04:00:02-05:00",
-    "img": "019bd79c-a425-7d68-b668-41b009178f2a",
-    "nombre": "disney69b4b3",
-    "status": "04:00",
-    "duration": 480,
-    "play_url": "https://www.disneyplus.com/es-es/play/164a8b4b-3f1a-4332-b5be-a77447b57847",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1770040933~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F01%2FMubadala_Abu_Dhabi_Open_p_20260201_1769929219030%2F~psid=e533251d-119a-4027-bf74-4635150e3659~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=2bd4f6490133b4a5d7658b66e65a91194b0068726538b5a248889805d685305a/clt1/va02/disneyplus/event/2026/02/01/Mubadala_Abu_Dhabi_Open_p_20260201_1769929219030/ctr-all-hdri-complete.m3u8?v=1&hash=4d94831b6916192d0a8ce447eecda0e027ddb194",
-    "k1": "aa47e9bedb3c4f1fb767ae9d261d8b6d",
-    "k2": "809eb8601e65fe3a648590bc92c2cd91"
-  },
-  {
     "title": "En Español-Generali Hexagon Cup 2026 (Finals)",
     "league": "ESPN",
     "fecha-evento": "2026-02-01T04:00:08-05:00",
@@ -184,12 +171,15 @@
   {
     "title": "Richmond vs. VCU",
     "league": "Básquet Femenino NCAA",
-    "fecha-evento": "2026-02-01T12:00:00-05:00",
+    "fecha-evento": "2026-02-01T12:00:01-05:00",
     "img": "165579be-d0fe-49c4-9c0f-48d2d0489537",
-    "nombre": "disney505ed3",
+    "nombre": "disney9e540d",
     "status": "12:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/eb8cc9e0-093f-4240-8c7f-6d5ae96c8591",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1770052847~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F01%2FRichmond_vs_VCU_20260201_1769958020023%2F~psid=913ade90-db7b-4b3e-b15c-f81465906088~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=5feba720dbbe6d87e7904a2fc26e8531f020e1ccab90b8f357b2451574275a56/clt1/va02/disneyplus/event/2026/02/01/Richmond_vs_VCU_20260201_1769958020023/ctr-all-hdri-complete.m3u8?v=1&hash=973a1e63fba3e4861a43601f9624b48d8f7df2e8",
+    "k1": "932de0c87bc64af58066fac88deecd18",
+    "k2": "a2c2100c8a543ee355dfb763ba6a1c68"
   },
   {
     "title": "Castellón vs. FC Andorra",
@@ -638,6 +628,16 @@
     "img": "019bdddd-33c7-7b79-a713-d970168c99fd",
     "nombre": "disney25a10d",
     "status": "17:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "North Carolina vs. NC State",
+    "league": "Básquet Femenino NCAA",
+    "fecha-evento": "2026-02-02T18:00:00-05:00",
+    "img": "019bb994-8c1b-7bc9-bcae-81cb6c6a48a4",
+    "nombre": "disney93e52a",
+    "status": "18:00",
     "duration": 135,
     "play_url": ""
   }
