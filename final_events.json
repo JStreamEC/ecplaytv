@@ -62,45 +62,6 @@
     "k2": "7f14c0d3ec8de84a7dfd6ae8c30709da"
   },
   {
-    "title": "Fortuna Dusseldorf vs. SC Paderborn 07",
-    "league": "Bundesliga 2 de Alemania",
-    "fecha-evento": "2026-02-01T07:27:10-05:00",
-    "img": "4819a526-8e22-44e6-a26b-965ea3bafba1",
-    "nombre": "disneya71dd9",
-    "status": "07:27",
-    "duration": 123,
-    "play_url": "https://www.disneyplus.com/es-es/play/9ec1afb2-d44f-4a42-b7cc-d8151e0a2d2e",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1770041113~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F01%2FFortuna_Dusseldorf_vs_SC__20260201_1769941535025%2F~psid=2a2a8d5c-a297-427c-9516-fa43b74e6f89~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=512911dda5d00ad01d1c0cda3630baab0ac9e5f7e51a762179859577c17934df/clt1/va02/disneyplus/event/2026/02/01/Fortuna_Dusseldorf_vs_SC__20260201_1769941535025/ctr-all-hdri-complete.m3u8?v=1&hash=62c2602ddec77208116daa615d815d50384673ad",
-    "k1": "bade4868f8b5417d8495d28b385f47bb",
-    "k2": "2caa35c14090609ad339a02067800098"
-  },
-  {
-    "title": "Hertha BSC vs. SV Darmstadt 98",
-    "league": "Bundesliga 2 de Alemania",
-    "fecha-evento": "2026-02-01T07:28:22-05:00",
-    "img": "019bd8b3-e932-7cd5-ac3d-e5e914a1b98a",
-    "nombre": "disney233b79",
-    "status": "07:28",
-    "duration": 122,
-    "play_url": "https://www.disneyplus.com/es-es/play/b793e386-f286-4d09-a7b6-4ca53d2fb177",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1770041138~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F01%2FHertha_BSC_vs_SV_Darmstad_20260201_1769941555034%2F~psid=e73973cc-42e7-4da2-9e26-a1c11f0edd2f~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=6e7791834ec46f2a0e06729798e01cacbb42f6ad644d94d08b3afbc2f01df4fd/clt1/va02/disneyplus/event/2026/02/01/Hertha_BSC_vs_SV_Darmstad_20260201_1769941555034/ctr-all-hdri-complete.m3u8?v=1&hash=b747995d9ab0a88256af9867ebba8eac6dece5be",
-    "k1": "860b272802ae4eec87cc52aef173d48b",
-    "k2": "00b94153368b700f2dc7dfc212e9daae"
-  },
-  {
-    "title": "SG Dynamo Dresden vs. Arminia Bielefeld",
-    "league": "Bundesliga 2 de Alemania",
-    "fecha-evento": "2026-02-01T07:26:49-05:00",
-    "img": "019bd8b3-24a5-7e28-abdb-373ce0281bc0",
-    "nombre": "disneyf1e5a7",
-    "status": "07:26",
-    "duration": 123,
-    "play_url": "https://www.disneyplus.com/es-es/play/3fbd04ee-1726-4266-a326-accc582dfd05",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1770041164~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F01%2FSG_Dynamo_Dresden_vs_Armi_20260201_1769941558015%2F~psid=f225d53f-dc70-4a12-91db-e3e36231d500~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=6ffaaf1599df16b525e91a6f7f9aa9f1467572d70a76d29773967abece1d37d3/clt1/va02/disneyplus/event/2026/02/01/SG_Dynamo_Dresden_vs_Armi_20260201_1769941558015/ctr-all-hdri-complete.m3u8?v=1&hash=be4a54e66e5a21669da0725ec429fa42faf14b08",
-    "k1": "5be70c46c25c48bc82d45bee38401522",
-    "k2": "fb288de2e1dcfc146090e15c56b866bf"
-  },
-  {
     "title": "Real Madrid vs. Rayo Vallecano",
     "league": "LALIGA",
     "fecha-evento": "2026-02-01T07:45:00-05:00",
@@ -246,12 +207,15 @@
   {
     "title": "Portugal vs. Belgium (Quarterfinals)",
     "league": "UEFA Futsal European Championship",
-    "fecha-evento": "2026-02-01T09:50:00-05:00",
+    "fecha-evento": "2026-02-01T09:49:47-05:00",
     "img": "019c0b5a-8042-7570-bddc-43e0a8a555c2",
-    "nombre": "disneyfe8987",
-    "status": "09:50",
-    "duration": 135,
-    "play_url": ""
+    "nombre": "disney42cda6",
+    "status": "09:49",
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/a7d89687-a728-40fe-8cc6-f6e1e818110c",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1770044438~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F01%2FPortugal_vs_Belgium_Quart_20260201_1769950245047%2F~psid=56991fa6-2913-4bb9-b62e-847474d9ab80~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=b14fee3a725f4ebe69d251866c4684be96d2447c3a3d585f60c01e3aaf74bac4/clt1/va02/disneyplus/event/2026/02/01/Portugal_vs_Belgium_Quart_20260201_1769950245047/ctr-all-hdri-complete.m3u8?v=1&hash=99a419209b2fd4897a6638eb473bde073fc00d5f",
+    "k1": "ae49e11db0574264a89f06f974ea54eb",
+    "k2": "883896e25bb5d7db1220c7af22d0e540"
   },
   {
     "title": "Betis vs. Valencia CF",
@@ -260,8 +224,11 @@
     "img": "5f1ad933-47ae-4cac-adb9-084e59679510",
     "nombre": "disney4103df",
     "status": "10:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/5151f31d-414b-421a-aa09-cdfebd92e057",
+    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1770044483~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Ff25bdf06-81c9-4a7c-b128-3128d610ad17-1762951253360%2F~psid=0265c1c0-d289-48cc-bab1-5ee1dffd0742~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=de9105d249f3a39098352cdaa879af7ba580cda41051f95568c469b5771caa00/clt1/va02/disneyplus/channel/f25bdf06-81c9-4a7c-b128-3128d610ad17-1762951253360/ctr-all-sliding-alt1.m3u8?v=1&hash=57a1e5c4737768952c5164be5d4f5ba525d47674",
+    "k1": "9e0091a9bc3d48a7be8a9dc43ebec9cc",
+    "k2": "ab836d87bdf4c8e1d20f133addb8f741"
   },
   {
     "title": "Angers vs. Metz",
@@ -670,6 +637,16 @@
     "img": "234814cc-da1b-4162-bfe1-ea3492ad8e56",
     "nombre": "disney6a573d",
     "status": "02:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Open Occitanie (First Round)",
+    "league": "ATP",
+    "fecha-evento": "2026-02-02T10:30:00-05:00",
+    "img": "019c0fce-1473-716f-8745-70c413b31584",
+    "nombre": "disneyef5c8a",
+    "status": "10:30",
     "duration": 135,
     "play_url": ""
   }
