@@ -1,44 +1,5 @@
 [
   {
-    "title": "Los Angeles Kings vs. Carolina Hurricanes",
-    "league": "National Hockey League",
-    "fecha-evento": "2026-02-01T15:00:18-05:00",
-    "img": "019bd8b1-cbb5-7c07-aaef-fd95172305b1",
-    "nombre": "disney2a1031",
-    "status": "15:00",
-    "duration": 210,
-    "play_url": "https://www.disneyplus.com/es-es/play/2bf8e810-cf0c-40ed-8bb8-ea1391b8a96d",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1770063922~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F01%2FLos_Angeles_Kings_vs_Caro_20260201_1769968853637%2F~psid=7901a3e6-c56c-45de-8f7e-9066005d4a69~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=809833a4fa19ef2c892ad03ebc78f3687fd4839dd4c6238d2d657e76030f3ee6/clt1/va02/disneyplus/event/2026/02/01/Los_Angeles_Kings_vs_Caro_20260201_1769968853637/ctr-all-hdri-complete.m3u8?v=1&hash=85a0fe5a300012c9a88e85e8c1bbaf5c86eacbf4",
-    "k1": "cd14e0ecbdd04b2cb7c7693f60a4d622",
-    "k2": "7aa3369c81c13f53f6ea4f417581915a"
-  },
-  {
-    "title": "En Español-Milwaukee Bucks vs. Boston Celtics",
-    "league": "NBA",
-    "fecha-evento": "2026-02-01T15:30:00-05:00",
-    "img": "f8bdf4af-9dc9-4697-8313-c574ea798fe1",
-    "nombre": "disney76ea3d",
-    "status": "15:30",
-    "duration": 150,
-    "play_url": "https://www.disneyplus.com/es-es/play/cfe80a34-c692-4105-a937-b3e2cfbc2322",
-    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1770064858~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Ff25bdf06-81c9-4a7c-b128-3128d610ad17-1762951253360%2F~psid=62b10aca-3def-4163-8fb2-6d16fb94cdc5~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=9488e40f8719e41b3a392dbf8f6df56d69ebf05548a6fc268b9fab3da8e9564c/clt1/va02/disneyplus/channel/f25bdf06-81c9-4a7c-b128-3128d610ad17-1762951253360/ctr-all-sliding-alt1.m3u8?v=1&hash=57a1e5c4737768952c5164be5d4f5ba525d47674",
-    "k1": "9e0091a9bc3d48a7be8a9dc43ebec9cc",
-    "k2": "ab836d87bdf4c8e1d20f133addb8f741"
-  },
-  {
-    "title": "LOVB Austin vs. LOVB Nebraska",
-    "league": "League One Volleyball",
-    "fecha-evento": "2026-02-01T16:00:01-05:00",
-    "img": "019bd8b3-d29b-764c-87fa-0dd5f97888da",
-    "nombre": "disneyce33c5",
-    "status": "16:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/6d0a20e1-fd99-499a-84f7-a66c5a0591cc",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1770070946~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F01%2FLOVB_Austin_vs_LOVB_Nebra_20260201_1769974882598%2F~psid=c745f273-8341-4a0f-9869-00508334e337~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=9b33a78df2586b6c5a142404efce7cc826aa1839786c0bf50d8294525ea40247/clt1/va02/disneyplus/event/2026/02/01/LOVB_Austin_vs_LOVB_Nebra_20260201_1769974882598/ctr-all-hdri-complete.m3u8?v=1&hash=89c6588d3bafb3e945e1ac52f39f9bcd38e3b753",
-    "k1": "658b60db1d0e42f6a706076638e154c3",
-    "k2": "b968de3f5b73d6d4f736ea7732e3a5c3"
-  },
-  {
     "title": "Belize vs. US Virgin Islands",
     "league": "Concacaf Women's Under-17 Championship",
     "fecha-evento": "2026-02-01T16:50:12-05:00",
@@ -172,6 +133,16 @@
     "fecha-evento": "2026-02-02T02:00:00-05:00",
     "img": "cf9ab99a-fb72-4125-a54a-1c64b6c19479",
     "nombre": "disney8ad00e",
+    "status": "02:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Mubadala Abu Dhabi Open presented by Abu Dhabi Sports Council (First Round)",
+    "league": "WTA",
+    "fecha-evento": "2026-02-02T02:00:00-05:00",
+    "img": "019c1ad5-f59d-7ffe-b073-8ee2cb416508",
+    "nombre": "disney854156",
     "status": "02:00",
     "duration": 135,
     "play_url": ""
@@ -622,6 +593,26 @@
     "fecha-evento": "2026-02-03T19:00:00-05:00",
     "img": "019be835-5d30-70ef-8895-89a0d833e461",
     "nombre": "disney928b5e",
+    "status": "19:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Forge FC vs. Tigres UANL (First Round,  First Leg)",
+    "league": "CONCACAF Liga Campeones",
+    "fecha-evento": "2026-02-03T18:50:00-05:00",
+    "img": "019be30c-01aa-7928-a283-334cde263d62",
+    "nombre": "disney152468",
+    "status": "18:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Independiente Rivadavia de Mendoza vs. Sarmiento (Fecha #3)",
+    "league": "Liga Profesional de Fútbol",
+    "fecha-evento": "2026-02-03T19:00:00-05:00",
+    "img": "019be30c-9a6f-710b-a20d-2250d77e8fab",
+    "nombre": "disneyd911e0",
     "status": "19:00",
     "duration": 135,
     "play_url": ""
