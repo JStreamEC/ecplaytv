@@ -23,16 +23,6 @@
     "k2": "b4da5cd59898ce9e56e81fbc70b274e2"
   },
   {
-    "title": "San Jose Sharks vs. Chicago Blackhawks",
-    "league": "National Hockey League",
-    "fecha-evento": "2026-02-02T20:30:00-05:00",
-    "img": "019be074-f333-7f4b-9f6a-74908b9bf136",
-    "nombre": "disney72758f",
-    "status": "20:30",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Vegas Golden Knights vs. Anaheim Ducks",
     "league": "National Hockey League",
     "fecha-evento": "2026-02-01T21:30:00-05:00",
@@ -328,6 +318,16 @@
     "fecha-evento": "2026-02-02T20:30:00-05:00",
     "img": "019b4664-4db8-72ee-bc8d-6f96eec7af4e",
     "nombre": "disneya45247",
+    "status": "20:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "San Jose Sharks vs. Chicago Blackhawks",
+    "league": "National Hockey League",
+    "fecha-evento": "2026-02-02T20:30:00-05:00",
+    "img": "019be074-f333-7f4b-9f6a-74908b9bf136",
+    "nombre": "disney72758f",
     "status": "20:30",
     "duration": 135,
     "play_url": ""
