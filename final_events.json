@@ -1,36 +1,16 @@
 [
   {
-    "title": "Rosario Central vs. River Plate (Fecha #3)",
-    "league": "Liga Profesional de Fútbol",
-    "fecha-evento": "2026-02-01T19:17:00-05:00",
-    "img": "019bfb7b-3282-7b51-b85e-d59214c1d561",
-    "nombre": "disneybec90c",
-    "status": "19:17",
-    "duration": 128,
-    "play_url": "https://www.disneyplus.com/es-es/play/973425b7-00ae-4854-89ec-21d12f21af4e"
-  },
-  {
-    "title": "Dominican Republic vs. Nicaragua",
-    "league": "Concacaf Women's Under-17 Championship",
-    "fecha-evento": "2026-02-01T19:50:00-05:00",
-    "img": "019bdb48-0087-791a-a948-e0d2a74de74e",
-    "nombre": "disney644ebf",
-    "status": "19:50",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/bb620a38-f975-4d8b-9716-492eba076d54",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1770080487~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F02%2FDominican_Republic_vs_Nic_20260202_1769986217042%2F~psid=e7572242-b798-4a52-8371-f572744db73f~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=413b855cb1cd361f9e451804a1b588e1af8407a3cc2aae71e82364cb4b5c9a92/clt1/va02/disneyplus/event/2026/02/02/Dominican_Republic_vs_Nic_20260202_1769986217042/ctr-all-hdri-complete.m3u8?v=1&hash=cba93997eb8b719639165772c3fdbe4d2c802adb",
-    "k1": "20a5ce53c071440ca0ed4955a06dcefd",
-    "k2": "b4da5cd59898ce9e56e81fbc70b274e2"
-  },
-  {
     "title": "Vegas Golden Knights vs. Anaheim Ducks",
     "league": "National Hockey League",
-    "fecha-evento": "2026-02-01T21:30:00-05:00",
+    "fecha-evento": "2026-02-01T21:42:01-05:00",
     "img": "019bdb48-1887-734f-bc74-8b39dd296c1f",
-    "nombre": "disneyeb0d77",
-    "status": "21:30",
-    "duration": 135,
-    "play_url": ""
+    "nombre": "disney999b1c",
+    "status": "21:42",
+    "duration": 138,
+    "play_url": "https://www.disneyplus.com/es-es/play/585e463c-51b2-478d-a089-8f530bc32170",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1770087645~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F02%2FVegas_Golden_Knights_vs_A_20260202_1769992242028%2F~psid=8eb1afa9-08da-4a02-b905-d1a50a151b56~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=bfdff962292bcca823a74da62c2d788295f5be76ef47e9525d8c392d63ea23f0/clt1/va02/disneyplus/event/2026/02/02/Vegas_Golden_Knights_vs_A_20260202_1769992242028/ctr-all-hdri-complete.m3u8?v=1&hash=6ae23213055f270f33279c2d31af962d122eaf76",
+    "k1": "12af9d1f22ff4a7f86ceadd5e3d6d45a",
+    "k2": "5b0eadbd62a6f1ea07ed792ce0feb90d"
   },
   {
     "title": "Mubadala Abu Dhabi Open presented by Abu Dhabi Sports Council / Court 2",
@@ -599,6 +579,26 @@
     "img": "019be835-b980-70e4-b991-9ae301a9ea01",
     "nombre": "disney754ca7",
     "status": "20:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Rip City Remix vs. Mexico City Capitanes",
+    "league": "NBA G League",
+    "fecha-evento": "2026-02-03T21:00:00-05:00",
+    "img": "019bd8b2-b391-7d2f-b7cc-25f3cd422ca1",
+    "nombre": "disney15c855",
+    "status": "21:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "NC State vs. SMU",
+    "league": "Básquetbol Masculino NCAA",
+    "fecha-evento": "2026-02-03T21:00:00-05:00",
+    "img": "019bee39-5117-76cd-8e48-8411d4b85d5a",
+    "nombre": "disneyfe432b",
+    "status": "21:00",
     "duration": 135,
     "play_url": ""
   }
