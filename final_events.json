@@ -39,19 +39,6 @@
     "k2": "a2830b4c13577e362fa8c7d887bc7f02"
   },
   {
-    "title": "Chelsea vs. PSV",
-    "league": "UEFA Youth League",
-    "fecha-evento": "2026-02-03T11:49:43-05:00",
-    "img": "019be30c-3ee2-77e3-8bd8-3e026916d457",
-    "nombre": "disney1594fa",
-    "status": "11:49",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/c5420155-7fe8-4868-a531-7b76205e4190",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1770228152~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F03%2FChelsea_vs_PSV_20260203_1770130257017%2F~psid=fdc23430-0936-4d95-a46e-7f60af42fd90~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=aaa080c6e1295a922de73db8bc6e15e45e686b2dcb2d183f2d063031328ae6b0/clt1/va02/disneyplus/event/2026/02/03/Chelsea_vs_PSV_20260203_1770130257017/ctr-all-hdri-complete.m3u8?v=1&hash=db9203916180992fddbf5ca3c5a9dded0b63fe10",
-    "k1": "f5299c31d6e5466ca35da9a0160c28ac",
-    "k2": "181ea12437a4eb98833528534bfea761"
-  },
-  {
     "title": "Bologna vs. Milan",
     "league": "Seria A",
     "fecha-evento": "2026-02-03T14:30:00-05:00",
@@ -617,6 +604,16 @@
     "fecha-evento": "2026-02-04T21:00:00-05:00",
     "img": "019b9118-8083-7a7c-80f5-86d713116663",
     "nombre": "disney146d9c",
+    "status": "21:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Gold Rush vs. Eclipse (Game 2)",
+    "league": "Athletes Unlimited Basketball",
+    "fecha-evento": "2026-02-04T21:00:00-05:00",
+    "img": "019beacc-b9fd-7703-b3c5-f332f8ccecd1",
+    "nombre": "disneyabd8ad",
     "status": "21:00",
     "duration": 135,
     "play_url": ""
