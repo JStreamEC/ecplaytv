@@ -1,18 +1,5 @@
 [
   {
-    "title": "Ostrava Open / Center Court",
-    "league": "WTA",
-    "fecha-evento": "2026-02-03T04:30:23-05:00",
-    "img": "019bd7a9-75a6-7ef6-a77a-e9b8f8eac4ed",
-    "nombre": "disney608ced",
-    "status": "04:30",
-    "duration": 720,
-    "play_url": "https://www.disneyplus.com/es-es/play/1abf9a4a-d064-4037-a51e-1f0678f55bd6",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1770228081~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F03%2FOstrava_Open_Center_Court_20260203_1770103858034%2F~psid=1bd5fc8f-aaa0-4735-9f0f-8afde0689dda~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=8b0a75fedf26faa9234a1591acc4f1c4ead4f329becbc778cfd426ac87de9878/clt1/va02/disneyplus/event/2026/02/03/Ostrava_Open_Center_Court_20260203_1770103858034/ctr-all-hdri-complete.m3u8?v=1&hash=4e99c4da10a20ae22c46cd5097d9a97e57a664f7",
-    "k1": "bb82adcd1b8b4efb819c74c4ac58b1cf",
-    "k2": "4e72cec040dc3cdf67e13b8be14622db"
-  },
-  {
     "title": "Open Occitanie (First Round)",
     "league": "ATP",
     "fecha-evento": "2026-02-03T08:30:07-05:00",
@@ -382,6 +369,16 @@
     "play_url": ""
   },
   {
+    "title": "Ostrava Open / Center Court",
+    "league": "WTA",
+    "fecha-evento": "2026-02-04T12:00:00-05:00",
+    "img": "019bd7a9-75a6-7ef6-a77a-e9b8f8eac4ed",
+    "nombre": "disney7fdced",
+    "status": "12:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
     "title": "Atletico de Madrid vs. Athletic Bilbao",
     "league": "Spanish Copa de la Reina",
     "fecha-evento": "2026-02-04T12:30:00-05:00",
@@ -627,6 +624,16 @@
     "fecha-evento": "2026-02-04T22:00:00-05:00",
     "img": "019beac9-664e-7900-b1db-786060998db5",
     "nombre": "disneyd45da1",
+    "status": "22:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Seattle Kraken vs. Los Angeles Kings",
+    "league": "National Hockey League",
+    "fecha-evento": "2026-02-04T22:00:00-05:00",
+    "img": "019b28c7-6b41-7174-802b-4671418bed9a",
+    "nombre": "disney4b1eff",
     "status": "22:00",
     "duration": 135,
     "play_url": ""
