@@ -1,18 +1,5 @@
 [
   {
-    "title": "Transylvania Open powered by Kaufland / Center Court",
-    "league": "WTA",
-    "fecha-evento": "2026-02-03T04:00:20-05:00",
-    "img": "96203650-f672-41d9-b8d6-3bfa20a1b331",
-    "nombre": "disneyfc7480",
-    "status": "04:00",
-    "duration": 660,
-    "play_url": "https://www.disneyplus.com/es-es/play/782bb0cd-bf5f-49a3-ae54-0fa868d09fd6",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1770228037~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F03%2FTransylvania_Open_powered_20260203_1770102053018%2F~psid=7ed78f6a-4c73-4d55-9269-7553cf179cad~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=ba56668edae0e99c3a0f207261fcc2e975b57d8472c8825b6a6ca53d6b4013b6/clt1/va02/disneyplus/event/2026/02/03/Transylvania_Open_powered_20260203_1770102053018/ctr-all-hdri-complete.m3u8?v=1&hash=5df76c796e000b53b1170cf46221e382f7ddc151",
-    "k1": "c7da26f7e97c4ab281b10be766c220b5",
-    "k2": "45ec2e62cf80fbfe22d91f4918bd1253"
-  },
-  {
     "title": "Ostrava Open / Center Court",
     "league": "WTA",
     "fecha-evento": "2026-02-03T04:30:23-05:00",
@@ -58,8 +45,11 @@
     "img": "019be30c-44a4-74e7-bd91-d0167f6a58c5",
     "nombre": "disney8f307f",
     "status": "14:45",
-    "duration": 135,
-    "play_url": ""
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/10e3b3d8-08a9-4e52-a9d3-4727d8d38fae",
+    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1770235240~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F921e1311-bb26-43dd-84a6-9e2284959712-1762950465141%2F~psid=1d93d064-0cee-47db-a9f1-52b5b6cb6c33~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=4774188e2ece08c3a614643973ec4604d737abd47813f73323a4be5c8ccf96c6/clt1/va02/disneyplus/channel/921e1311-bb26-43dd-84a6-9e2284959712-1762950465141/ctr-all-sliding-alt1.m3u8?v=1&hash=03915bf69f19826611ecdeecc79455eab40b229c",
+    "k1": "dc8df29983ce4b5fa8aadc322b1be081",
+    "k2": "d118b76ceaf41315b5bfcdd70d88ae06"
   },
   {
     "title": "Ottawa Senators vs. Carolina Hurricanes",
@@ -362,6 +352,16 @@
     "play_url": ""
   },
   {
+    "title": "Transylvania Open powered by Kaufland / Center Court",
+    "league": "WTA",
+    "fecha-evento": "2026-02-04T11:00:00-05:00",
+    "img": "96203650-f672-41d9-b8d6-3bfa20a1b331",
+    "nombre": "disneyadf2b2",
+    "status": "11:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
     "title": "Real Betis vs. Tottenham Hotspur",
     "league": "UEFA Youth League",
     "fecha-evento": "2026-02-04T11:50:00-05:00",
@@ -618,6 +618,16 @@
     "img": "019beacc-b9fd-7703-b3c5-f332f8ccecd1",
     "nombre": "disneyabd8ad",
     "status": "21:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Vancouver Canucks vs. Vegas Golden Knights",
+    "league": "National Hockey League",
+    "fecha-evento": "2026-02-04T22:00:00-05:00",
+    "img": "019beac9-664e-7900-b1db-786060998db5",
+    "nombre": "disneyd45da1",
+    "status": "22:00",
     "duration": 135,
     "play_url": ""
   }
