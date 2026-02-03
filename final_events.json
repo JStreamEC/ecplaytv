@@ -1,31 +1,5 @@
 [
   {
-    "title": "Open Occitanie (First Round)",
-    "league": "ATP",
-    "fecha-evento": "2026-02-03T08:30:07-05:00",
-    "img": "019c0fce-1473-716f-8745-70c413b31584",
-    "nombre": "disneyc01c04",
-    "status": "08:30",
-    "duration": 480,
-    "play_url": "https://www.disneyplus.com/es-es/play/b735e9d9-22ce-4403-873c-ce66bf6b76e6",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1770228126~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F03%2FOpen_Occitanie_First_Roun_20260203_1770118237042%2F~psid=891ffa54-21a4-4e23-8c8d-d0e74eec95d4~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=4ee244944f35fec85685587fc0fc045d4c91109b3cb52d9e9b4b738db9f57878/clt1/va02/disneyplus/event/2026/02/03/Open_Occitanie_First_Roun_20260203_1770118237042/ctr-all-hdri-complete.m3u8?v=1&hash=1c4b2c28c9b2fe5cbcc6dd9374b9adec7f5da0d8",
-    "k1": "fd2a7e5a36224c609882682d2041c2e6",
-    "k2": "a2830b4c13577e362fa8c7d887bc7f02"
-  },
-  {
-    "title": "Bologna vs. Milan",
-    "league": "Seria A",
-    "fecha-evento": "2026-02-03T14:30:00-05:00",
-    "img": "019be30c-5ffa-7143-b5c8-6670a7a1d129",
-    "nombre": "disneyfb73b5",
-    "status": "14:30",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/6ddea248-be1e-4dd2-8232-3d603596b25b",
-    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1770234039~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Ff25bdf06-81c9-4a7c-b128-3128d610ad17-1762951253360%2F~psid=77516568-bad9-4a69-a8bb-c0214befd953~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=f856455c8707c3b22ea91d4a9c1b2fb29d65060a8ae9f179788a831934ccd47e/clt1/va02/disneyplus/channel/f25bdf06-81c9-4a7c-b128-3128d610ad17-1762951253360/ctr-all-sliding-alt1.m3u8?v=1&hash=57a1e5c4737768952c5164be5d4f5ba525d47674",
-    "k1": "05ed9ef5c54e45a6ad4d02d50940fd2c",
-    "k2": "73b8a1afa48e022c15b5446f0ff20020"
-  },
-  {
     "title": "Arsenal vs. Chelsea (Semifinals, Leg 2)",
     "league": "Carabao Cup",
     "fecha-evento": "2026-02-03T14:45:00-05:00",
@@ -635,6 +609,26 @@
     "img": "019b28c7-6b41-7174-802b-4671418bed9a",
     "nombre": "disney4b1eff",
     "status": "22:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "En Español-Oklahoma City Thunder vs. San Antonio Spurs",
+    "league": "NBA",
+    "fecha-evento": "2026-02-04T21:30:00-05:00",
+    "img": "6c9c5e1b-1ef7-4152-9446-c631e2eeb78a",
+    "nombre": "disneycea249",
+    "status": "21:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "St. Louis Blues vs. Dallas Stars",
+    "league": "National Hockey League",
+    "fecha-evento": "2026-02-04T21:30:00-05:00",
+    "img": "019bc3fa-c6d1-78ff-ac52-d4fb78f48642",
+    "nombre": "disney94861d",
+    "status": "21:30",
     "duration": 135,
     "play_url": ""
   }
