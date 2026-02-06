@@ -23,19 +23,6 @@
     "k2": "ed6c5be5e2453ca53cde657ca39459eb"
   },
   {
-    "title": "#12 Ohio State vs. Northern Kentucky",
-    "league": "NCAA Men's Volleyball",
-    "fecha-evento": "2026-02-05T19:00:00-05:00",
-    "img": "019bed5d-e93c-73f5-a2fb-aad1dcf72f56",
-    "nombre": "disney370c74",
-    "status": "19:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/0d846ba8-7c4a-4226-b80f-8d82a8d4daf7",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1770424931~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F06%2F12_Ohio_State_vs_Northern_20260206_1770328830036%2F~psid=c605d1c4-99b7-420d-9788-527bf3f7b6aa~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=76ced05d13086c50d76b1822da33ef186e4dd769a23440800198f3df936c9dcc/clt1/va02/disneyplus/event/2026/02/06/12_Ohio_State_vs_Northern_20260206_1770328830036/ctr-all-hdri-complete.m3u8?v=1&hash=9b613d72a734f6b75ed89dfb5902cc487bb3b3e5",
-    "k1": "75844133c4734a318e1f9ac55af5b89f",
-    "k2": "0dcbbe8ba95ca6ae6f8314aaea0e78d5"
-  },
-  {
     "title": "En Español-#20 Duke vs. #7 Louisville",
     "league": "Básquet Femenino NCAA",
     "fecha-evento": "2026-02-05T19:00:00-05:00",
@@ -664,6 +651,16 @@
     "img": "019bf289-94d9-7583-824f-8931265fcaa2",
     "nombre": "disney2c4925",
     "status": "16:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Albion FC vs. Liverpool FC",
+    "league": "Campeonato Uruguayo",
+    "fecha-evento": "2026-02-06T16:45:00-05:00",
+    "img": "019c20a9-b4b5-71b2-818a-ba3e4430ecb9",
+    "nombre": "disney01acb5",
+    "status": "16:45",
     "duration": 135,
     "play_url": ""
   }
