@@ -192,19 +192,6 @@
     "k2": "cf5720290c7ff3491b77415e4406e334"
   },
   {
-    "title": "#22 Ole Miss vs. Cal State Fullerton",
-    "league": "NCAA Softball",
-    "fecha-evento": "2026-02-05T20:00:06-05:00",
-    "img": "019beff1-f9ff-75b5-816d-ba31558f7687",
-    "nombre": "disneyf476bc",
-    "status": "20:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/d0c54032-0918-4b8f-965b-dab3c18d52d2",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1770427283~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F06%2F22_Ole_Miss_vs_Cal_State__20260206_1770332414028%2F~psid=a24528a4-a633-4483-9c5f-c91ab5ce5be8~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=e17040eeb3913c65817a371cd7da996b5f6eb923331fea4712b4e13f36fca32a/clt1/va02/disneyplus/event/2026/02/06/22_Ole_Miss_vs_Cal_State__20260206_1770332414028/ctr-all-hdri-complete.m3u8?v=1&hash=241a58bbd768bd5e0fca1f8164420493bea798c4",
-    "k1": "e1fabd2feecf4d038ad68fe9e0ac10c6",
-    "k2": "78dad8e4e78b0c355cfe5bbb879b774e"
-  },
-  {
     "title": "#5 LSU vs. #4 Texas",
     "league": "Básquet Femenino NCAA",
     "fecha-evento": "2026-02-05T21:00:00-05:00",
@@ -661,6 +648,16 @@
     "img": "019c20a9-b4b5-71b2-818a-ba3e4430ecb9",
     "nombre": "disney01acb5",
     "status": "16:45",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Curacao vs. Cuba (Group Stage)",
+    "league": "CONCACAF Sub-17",
+    "fecha-evento": "2026-02-06T16:50:00-05:00",
+    "img": "019bf285-9cd9-766f-b6fa-dcdae742f695",
+    "nombre": "disney6a70e5",
+    "status": "16:50",
     "duration": 135,
     "play_url": ""
   }
