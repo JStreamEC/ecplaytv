@@ -10,16 +10,6 @@
     "play_url": ""
   },
   {
-    "title": "Dayton vs. VCU",
-    "league": "Básquetbol Masculino NCAA",
-    "fecha-evento": "2026-02-06T19:00:01-05:00",
-    "img": "14695801-7ad6-4c09-b669-1e24dc51e172",
-    "nombre": "disney271aa1",
-    "status": "19:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/2e375c8d-7cb5-4f49-a007-a73558f1a9f1"
-  },
-  {
     "title": "Cornell, George Washington, William & Mary, Pennsylvania",
     "league": "NCAA Gimnasia Femenina",
     "fecha-evento": "2026-02-06T19:00:16-05:00",
@@ -38,16 +28,6 @@
     "status": "19:00",
     "duration": 150,
     "play_url": "https://www.disneyplus.com/es-es/play/31ceb156-1ff7-4436-b2a8-d76c7a628e83"
-  },
-  {
-    "title": "Western Michigan vs. Northern Illinois",
-    "league": "NCAA Gimnasia Femenina",
-    "fecha-evento": "2026-02-06T19:00:03-05:00",
-    "img": "381bc42f-b4a0-467e-bf87-b6394f8b4927",
-    "nombre": "disneyc260c3",
-    "status": "19:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/e55c16e4-7ebc-46a3-ac61-098271f8af57"
   },
   {
     "title": "Yale vs. Princeton",
@@ -180,26 +160,6 @@
     "play_url": "https://www.disneyplus.com/es-es/play/2da10843-7a2d-4850-bebc-b2d65f80599f"
   },
   {
-    "title": "Cristian Medina vs. Adrián Curiel | ESPN KO",
-    "league": "ESPN",
-    "fecha-evento": "",
-    "img": "019bfa6d-9bb9-7136-bc52-81769b56a250",
-    "nombre": "disney0f88a0",
-    "status": "",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Belmont vs. UIC",
-    "league": "Básquetbol Masculino NCAA",
-    "fecha-evento": "",
-    "img": "2d26ef13-e93a-40e3-8910-0f40d292766a",
-    "nombre": "disneya724e7",
-    "status": "",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Florida vs. Missouri",
     "league": "NCAA Gimnasia Femenina",
     "fecha-evento": "2026-02-06T21:00:00-05:00",
@@ -210,24 +170,44 @@
     "play_url": "https://www.disneyplus.com/es-es/play/f40e9157-0b7d-4f3d-b2ff-ea946b65f6c6"
   },
   {
-    "title": "Rhythm vs. Gold Rush (Game 4)",
-    "league": "Athletes Unlimited Basketball",
-    "fecha-evento": "",
-    "img": "38d85d84-de49-4659-8201-6283b6d4b3a9",
-    "nombre": "disney3a76f0",
-    "status": "",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Utah vs. Arizona",
     "league": "NCAA Gimnasia Femenina",
-    "fecha-evento": "",
+    "fecha-evento": "2026-02-06T21:00:00-05:00",
     "img": "381bc42f-b4a0-467e-bf87-b6394f8b4927",
-    "nombre": "disney3ccd0e",
-    "status": "",
-    "duration": 135,
-    "play_url": ""
+    "nombre": "disneyce2bec",
+    "status": "21:00",
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/3ed12a92-9b1b-4cf4-9ca6-a3ffbc57198d"
+  },
+  {
+    "title": "Cristian Medina vs. Adrián Curiel | ESPN KO",
+    "league": "ESPN",
+    "fecha-evento": "2026-02-06T21:00:00-05:00",
+    "img": "019bfa6d-9bb9-7136-bc52-81769b56a250",
+    "nombre": "disney7d9013",
+    "status": "21:00",
+    "duration": 210,
+    "play_url": "https://www.disneyplus.com/es-es/play/20d5f44c-7360-4fb9-b57c-3c62c902fc3c"
+  },
+  {
+    "title": "Rhythm vs. Gold Rush (Game 4)",
+    "league": "Athletes Unlimited Basketball",
+    "fecha-evento": "2026-02-06T21:00:03-05:00",
+    "img": "38d85d84-de49-4659-8201-6283b6d4b3a9",
+    "nombre": "disney278b88",
+    "status": "21:00",
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/8f9ab6e6-10cf-4528-86b6-c90a7de5826c"
+  },
+  {
+    "title": "Belmont vs. UIC",
+    "league": "Básquetbol Masculino NCAA",
+    "fecha-evento": "2026-02-06T21:00:04-05:00",
+    "img": "2d26ef13-e93a-40e3-8910-0f40d292766a",
+    "nombre": "disneya710ac",
+    "status": "21:00",
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/304f9e73-9621-4375-8c1e-e32dc549e195"
   },
   {
     "title": "HSBC World Rugby Sevens Series | Perth | Session 1",
@@ -433,7 +413,7 @@
     "title": "Sara Bejlek (CZE) vs. Ekaterina Alexandrova (RUS) (Final)",
     "league": "WTA",
     "fecha-evento": "",
-    "img": "019c3544-afab-782e-a0b5-7d31c18afcba",
+    "img": "019c3544-af92-797a-b87a-e269d6dd49f3",
     "nombre": "disney4dde54",
     "status": "",
     "duration": 135,
@@ -563,7 +543,7 @@
     "title": "Emma Raducanu (GBR) vs. Sorana Cirstea (ROU) (Final)",
     "league": "WTA",
     "fecha-evento": "",
-    "img": "019c359a-c4d8-77ed-9c59-a1bbead2fad9",
+    "img": "019c359a-c582-7215-8287-f2afbd513ad0",
     "nombre": "disneyc4c470",
     "status": "",
     "duration": 135,
@@ -605,6 +585,26 @@
     "fecha-evento": "",
     "img": "019bf7b3-d750-73bf-90c6-be8a21682bab",
     "nombre": "disney22c133",
+    "status": "",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Burnley vs. West Ham United",
+    "league": "Premier League",
+    "fecha-evento": "",
+    "img": "019bf7b3-3b24-7ee4-a350-55412021fdac",
+    "nombre": "disney51c636",
+    "status": "",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Francia vs. Croacia (Tercer Puesto)",
+    "league": "UEFA Futsal European Championship",
+    "fecha-evento": "",
+    "img": "019c2da6-da39-7ffa-a17e-ce84d2d09945",
+    "nombre": "disney843d06",
     "status": "",
     "duration": 135,
     "play_url": ""
