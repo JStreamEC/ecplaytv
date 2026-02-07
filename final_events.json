@@ -10,16 +10,6 @@
     "play_url": ""
   },
   {
-    "title": "Oregon State vs. Arizona State",
-    "league": "NCAA Luchas",
-    "fecha-evento": "2026-02-06T20:30:18-05:00",
-    "img": "5c0ac76d-caa9-4f00-a87f-1d8954819ad8",
-    "nombre": "disney996d7f",
-    "status": "20:30",
-    "duration": 180,
-    "play_url": "https://www.disneyplus.com/es-es/play/118cbd3b-a4ef-4c70-83e5-d06f2e10f3e9"
-  },
-  {
     "title": "Jacksonville State vs. Louisiana",
     "league": "NCAA Softball",
     "fecha-evento": "2026-02-06T19:00:00-05:00",
@@ -28,16 +18,6 @@
     "status": "19:00",
     "duration": 120,
     "play_url": "https://www.disneyplus.com/es-es/play/49d01e2f-8e60-43f5-aa4e-baa583e4cea1"
-  },
-  {
-    "title": "Penn State vs. LSU",
-    "league": "NCAA Gimnasia Femenina",
-    "fecha-evento": "2026-02-06T20:30:04-05:00",
-    "img": "381bc42f-b4a0-467e-bf87-b6394f8b4927",
-    "nombre": "disney169fad",
-    "status": "20:30",
-    "duration": 90,
-    "play_url": "https://www.disneyplus.com/es-es/play/2da10843-7a2d-4850-bebc-b2d65f80599f"
   },
   {
     "title": "Utah vs. Arizona",
@@ -58,16 +38,6 @@
     "status": "21:00",
     "duration": 210,
     "play_url": "https://www.disneyplus.com/es-es/play/20d5f44c-7360-4fb9-b57c-3c62c902fc3c"
-  },
-  {
-    "title": "Florida vs. Missouri",
-    "league": "NCAA Gimnasia Femenina",
-    "fecha-evento": "2026-02-06T21:00:00-05:00",
-    "img": "381bc42f-b4a0-467e-bf87-b6394f8b4927",
-    "nombre": "disney9ff7da",
-    "status": "21:00",
-    "duration": 90,
-    "play_url": "https://www.disneyplus.com/es-es/play/f40e9157-0b7d-4f3d-b2ff-ea946b65f6c6"
   },
   {
     "title": "Rhythm vs. Gold Rush (Game 4)",
@@ -122,12 +92,12 @@
   {
     "title": "HSBC World Rugby Sevens Series | Perth | En español",
     "league": "World Rugby Sevens Series",
-    "fecha-evento": "",
+    "fecha-evento": "2026-02-06T22:55:00-05:00",
     "img": "019c2990-e6ba-7987-93e1-22a67d2a1327",
-    "nombre": "disneyecbc2e",
-    "status": "",
-    "duration": 135,
-    "play_url": ""
+    "nombre": "disney38fb0c",
+    "status": "22:55",
+    "duration": 60,
+    "play_url": "https://www.disneyplus.com/es-es/play/0041a518-d255-4d2f-bd3a-918ae229b0b2"
   },
   {
     "title": "Pakistan vs. Paises Bajos",
@@ -605,6 +575,36 @@
     "fecha-evento": "",
     "img": "019ba494-6ed3-78db-baa3-dd958a50f6ab",
     "nombre": "disneyac1b3f",
+    "status": "",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Saint Joseph's vs. #3 Syracuse",
+    "league": "NCAA Men's Lacrosse",
+    "fecha-evento": "",
+    "img": "019bf7b4-066d-785e-95b8-bc7e53025274",
+    "nombre": "disneyc7142c",
+    "status": "",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "#21 Arkansas vs. Mississippi State",
+    "league": "Básquetbol Masculino NCAA",
+    "fecha-evento": "",
+    "img": "019c1ee7-3b2b-7bdd-bdef-477c6f6412e4",
+    "nombre": "disneydb6ca6",
+    "status": "",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Newcastle United vs. Brentford",
+    "league": "Premier League",
+    "fecha-evento": "",
+    "img": "019bf7b3-546c-7cf7-a12f-0c3943e23d6f",
+    "nombre": "disney34537a",
     "status": "",
     "duration": 135,
     "play_url": ""
