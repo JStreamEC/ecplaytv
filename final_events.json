@@ -30,26 +30,6 @@
     "play_url": "https://www.disneyplus.com/es-es/play/f9a580d2-9013-4d2d-876a-9033630fc218"
   },
   {
-    "title": "St. Pauli vs. Stuttgart",
-    "league": "Bundesliga",
-    "fecha-evento": "2026-02-07T09:20:02-05:00",
-    "img": "019bf7b3-c784-7e75-8637-8cfdbd9a8907",
-    "nombre": "disney4f93fb",
-    "status": "09:20",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/89918f74-e803-4048-94de-37999468efb1"
-  },
-  {
-    "title": "1. FC Heidenheim 1846 vs. Hamburger SV",
-    "league": "Bundesliga",
-    "fecha-evento": "2026-02-07T09:20:03-05:00",
-    "img": "019bf7b3-905a-774c-a188-4e9903b4aefa",
-    "nombre": "disney45f8f2",
-    "status": "09:20",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/9963cd0f-23bd-40a7-a5f6-9a60ab5cf2a2"
-  },
-  {
     "title": "Wolverhampton Wanderers vs. Chelsea",
     "league": "Premier League",
     "fecha-evento": "2026-02-07T09:40:01-05:00",
@@ -98,16 +78,6 @@
     "status": "09:50",
     "duration": 130,
     "play_url": "https://www.disneyplus.com/es-es/play/3d9f40fa-0f75-46ac-bd4a-66fe46413769"
-  },
-  {
-    "title": "Fulham vs. Everton",
-    "league": "Premier League",
-    "fecha-evento": "2026-02-07T09:50:11-05:00",
-    "img": "019bf7b3-3b39-7b6a-9cde-6bc2d0c5cffc",
-    "nombre": "disney749907",
-    "status": "09:50",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/1ae6d744-ce99-4947-a57f-bc46e8805947"
   },
   {
     "title": "Bournemouth vs. Aston Villa",
@@ -202,32 +172,32 @@
   {
     "title": "Turks & Caicos Islands vs. Puerto Rico (Fase de Grupos)",
     "league": "CONCACAF Sub-17",
-    "fecha-evento": "",
+    "fecha-evento": "2026-02-07T11:50:21-05:00",
     "img": "019bf7b3-f873-7afd-900b-76aca38d6194",
-    "nombre": "disney247d8d",
-    "status": "",
-    "duration": 135,
-    "play_url": ""
+    "nombre": "disney1e9a86",
+    "status": "11:50",
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/6330dfd9-8190-4498-afa6-2520d4cc458b"
   },
   {
     "title": "Genoa vs. Napoli",
     "league": "Seria A",
-    "fecha-evento": "",
+    "fecha-evento": "2026-02-07T11:55:00-05:00",
     "img": "019bf7b3-4d29-7ce1-abcc-9fd84d6419b5",
-    "nombre": "disneya22e04",
-    "status": "",
-    "duration": 135,
-    "play_url": ""
+    "nombre": "disneyd17a53",
+    "status": "11:55",
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/ee3dd30e-1cf4-4d4b-bb78-6751a6c48c81"
   },
   {
     "title": "Samsunspor vs. Trabzonspor",
     "league": "Super Lig de Turquía",
-    "fecha-evento": "",
+    "fecha-evento": "2026-02-07T11:50:06-05:00",
     "img": "019bfcdd-0c72-79c6-9575-8dc55932aa12",
-    "nombre": "disney486240",
-    "status": "",
-    "duration": 135,
-    "play_url": ""
+    "nombre": "disneyd55c35",
+    "status": "11:50",
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/b1efc1be-c326-401f-a87d-1b9e4022fb03"
   },
   {
     "title": "Temple vs. East Carolina",
@@ -625,6 +595,36 @@
     "fecha-evento": "",
     "img": "019c0207-0243-7c5e-b9c9-e13ff1b4de1d",
     "nombre": "disney6e16c8",
+    "status": "",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Seattle U vs. San Diego",
+    "league": "Básquet Femenino NCAA",
+    "fecha-evento": "",
+    "img": "8e89244b-c311-4a82-91bb-cb1946ce1396",
+    "nombre": "disneybc1f9e",
+    "status": "",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Saint Mary's vs. San Francisco",
+    "league": "Básquet Femenino NCAA",
+    "fecha-evento": "",
+    "img": "019a1bc4-c3c2-7ea0-b27a-ffcbc075892b",
+    "nombre": "disney225fe9",
+    "status": "",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Pacific vs. Gonzaga",
+    "league": "Básquet Femenino NCAA",
+    "fecha-evento": "",
+    "img": "019bf7b3-e08d-7219-965b-ad65af0ffe0a",
+    "nombre": "disneydc64ec",
     "status": "",
     "duration": 135,
     "play_url": ""
