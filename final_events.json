@@ -20,36 +20,6 @@
     "play_url": "https://www.disneyplus.com/es-es/play/e5ff0ef2-84b6-4881-8369-bd5c6c40e118"
   },
   {
-    "title": "#12 UConn vs. Northeastern",
-    "league": "NCAA Men's Ice Hockey",
-    "fecha-evento": "2026-02-06T19:00:04-05:00",
-    "img": "3e09e930-f4ab-4904-b25c-f005fc3b5a4b",
-    "nombre": "disney7146f6",
-    "status": "19:00",
-    "duration": 150,
-    "play_url": "https://www.disneyplus.com/es-es/play/31ceb156-1ff7-4436-b2a8-d76c7a628e83"
-  },
-  {
-    "title": "Yale vs. Princeton",
-    "league": "NCAA Men's Ice Hockey",
-    "fecha-evento": "2026-02-06T19:00:06-05:00",
-    "img": "741cc332-561b-413c-a186-8abbd7cfee5a",
-    "nombre": "disneyfcbecf",
-    "status": "19:00",
-    "duration": 150,
-    "play_url": "https://www.disneyplus.com/es-es/play/0fd5c261-2f16-455a-9fa4-9aa6b335289d"
-  },
-  {
-    "title": "#18 Maine vs. Boston University",
-    "league": "NCAA Men's Ice Hockey",
-    "fecha-evento": "2026-02-06T19:00:10-05:00",
-    "img": "019bf289-5012-7052-bbaa-5bc6e920288a",
-    "nombre": "disney590ff9",
-    "status": "19:00",
-    "duration": 150,
-    "play_url": "https://www.disneyplus.com/es-es/play/7b32a90f-76c9-43c7-90e7-0a607e852e21"
-  },
-  {
     "title": "#19 Duke vs. UCF",
     "league": "NCAA Softball",
     "fecha-evento": "2026-02-06T19:10:02-05:00",
@@ -78,16 +48,6 @@
     "status": "19:16",
     "duration": 164,
     "play_url": "https://www.disneyplus.com/es-es/play/768e53c9-fa9e-4329-9a55-e13e0464f444"
-  },
-  {
-    "title": "Portland State vs. Cal State Fullerton",
-    "league": "NCAA Softball",
-    "fecha-evento": "2026-02-06T19:21:20-05:00",
-    "img": "019ad8a2-9e54-71ee-9a12-267ed17c5d91",
-    "nombre": "disneyeaa7b6",
-    "status": "19:21",
-    "duration": 99,
-    "play_url": "https://www.disneyplus.com/es-es/play/d233d415-4cde-4d60-a6e5-91b57c10718c"
   },
   {
     "title": "Virginia Tech vs. Virginia",
@@ -212,22 +172,22 @@
   {
     "title": "HSBC World Rugby Sevens Series | Perth | Session 1",
     "league": "World Rugby Sevens Series",
-    "fecha-evento": "",
+    "fecha-evento": "2026-02-06T21:25:03-05:00",
     "img": "019c2992-f523-7533-b355-84cff198f39c",
-    "nombre": "disney6aed66",
-    "status": "",
-    "duration": 135,
-    "play_url": ""
+    "nombre": "disneye07d47",
+    "status": "21:25",
+    "duration": 575,
+    "play_url": "https://www.disneyplus.com/es-es/play/9d7387e8-08f3-4be0-9f42-134c73eb1437"
   },
   {
     "title": "Boise State vs. Cal State Fullerton",
     "league": "NCAA Softball",
-    "fecha-evento": "",
+    "fecha-evento": "2026-02-06T21:30:00-05:00",
     "img": "019bf51f-4202-74c7-ab7c-dc4810f8b809",
-    "nombre": "disney237e97",
-    "status": "",
-    "duration": 135,
-    "play_url": ""
+    "nombre": "disney376643",
+    "status": "21:30",
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/b4c0c3a6-7613-4ce4-9f22-98bc04cc5caf"
   },
   {
     "title": "#1 UCLA vs. #2 Long Beach State",
@@ -605,6 +565,46 @@
     "fecha-evento": "",
     "img": "019c2da6-da39-7ffa-a17e-ce84d2d09945",
     "nombre": "disney843d06",
+    "status": "",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Bournemouth vs. Aston Villa",
+    "league": "Premier League",
+    "fecha-evento": "",
+    "img": "019bf7b3-5ca0-7154-877a-076c2ff32b63",
+    "nombre": "disney92dfc4",
+    "status": "",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Fulham vs. Everton",
+    "league": "Premier League",
+    "fecha-evento": "",
+    "img": "019bf7b3-3b39-7b6a-9cde-6bc2d0c5cffc",
+    "nombre": "disney7e393b",
+    "status": "",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Iowa State vs. Kansas City",
+    "league": "NCAA Softball",
+    "fecha-evento": "",
+    "img": "019bf7b6-33e3-7c6d-885c-25b7e58fb6f2",
+    "nombre": "disneya5b6bb",
+    "status": "",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Ostrava Open (Final)",
+    "league": "WTA",
+    "fecha-evento": "",
+    "img": "019c3567-6d2e-79f4-a356-3db6a719f8c6",
+    "nombre": "disneyf00dd1",
     "status": "",
     "duration": 135,
     "play_url": ""
