@@ -10,16 +10,6 @@
     "play_url": ""
   },
   {
-    "title": "Sara Bejlek (CZE) vs. Ekaterina Alexandrova (RUS) (Final)",
-    "league": "WTA",
-    "fecha-evento": "2026-02-07T07:59:14-05:00",
-    "img": "019c3544-af92-797a-b87a-e269d6dd49f3",
-    "nombre": "disney4409d3",
-    "status": "07:59",
-    "duration": 151,
-    "play_url": "https://www.disneyplus.com/es-es/play/7e4ba5c8-bcdf-40bc-83b4-9bbe8c36c036"
-  },
-  {
     "title": "India vs. Estados Unidos",
     "league": "ESPN",
     "fecha-evento": "2026-02-07T08:24:39-05:00",
@@ -40,16 +30,6 @@
     "play_url": "https://www.disneyplus.com/es-es/play/6c290239-4931-446b-bdc7-66d232c37570"
   },
   {
-    "title": "Ivy League Fencing Championship",
-    "league": "NCAA Esgrima Masculino",
-    "fecha-evento": "2026-02-07T09:00:00-05:00",
-    "img": "8aa09fe1-c529-4ab5-be8b-28cf2fbe5f79",
-    "nombre": "disney58324f",
-    "status": "09:00",
-    "duration": 600,
-    "play_url": "https://www.disneyplus.com/es-es/play/7955d196-1e10-4f3b-a8c7-ada303076a51"
-  },
-  {
     "title": "Italia vs. Escocia",
     "league": "Seis Naciones",
     "fecha-evento": "2026-02-07T09:00:00-05:00",
@@ -68,16 +48,6 @@
     "status": "09:00",
     "duration": 240,
     "play_url": "https://www.disneyplus.com/es-es/play/f9a580d2-9013-4d2d-876a-9033630fc218"
-  },
-  {
-    "title": "Gannon vs. Villanova",
-    "league": "NCAA Women's Water Polo",
-    "fecha-evento": "2026-02-07T09:02:31-05:00",
-    "img": "2950f094-6412-4662-bd14-a6cdd887ddfb",
-    "nombre": "disney9922e5",
-    "status": "09:02",
-    "duration": 87,
-    "play_url": "https://www.disneyplus.com/es-es/play/ef96ad5d-a4ca-4b97-8e6e-690cd3250e3b"
   },
   {
     "title": "St. Pauli vs. Stuttgart",
@@ -172,12 +142,12 @@
   {
     "title": "Barcelona vs. RCD Mallorca",
     "league": "LALIGA",
-    "fecha-evento": "",
+    "fecha-evento": "2026-02-07T10:00:00-05:00",
     "img": "019bf7b3-a00d-7e09-b250-7d9ded4a14d9",
-    "nombre": "disneya3f89e",
-    "status": "",
+    "nombre": "disney899788",
+    "status": "10:00",
     "duration": 135,
-    "play_url": ""
+    "play_url": "https://www.disneyplus.com/es-es/play/b5675feb-4001-42cd-bc32-cd21553bd458"
   },
   {
     "title": "Coventry City vs. Oxford United",
@@ -200,16 +170,6 @@
     "play_url": "https://www.disneyplus.com/es-es/play/3d9f40fa-0f75-46ac-bd4a-66fe46413769"
   },
   {
-    "title": "Francia vs. Croacia (Tercer Puesto)",
-    "league": "UEFA Futsal European Championship",
-    "fecha-evento": "2026-02-07T09:52:36-05:00",
-    "img": "019c2da6-da39-7ffa-a17e-ce84d2d09945",
-    "nombre": "disney30022b",
-    "status": "09:52",
-    "duration": 127,
-    "play_url": "https://www.disneyplus.com/es-es/play/f6dcc3cd-ea79-4225-bf60-1df8e799f90e"
-  },
-  {
     "title": "Fulham vs. Everton",
     "league": "Premier League",
     "fecha-evento": "2026-02-07T09:50:11-05:00",
@@ -230,14 +190,24 @@
     "play_url": "https://www.disneyplus.com/es-es/play/2c8fa52b-a018-47df-85ff-1c11abce5989"
   },
   {
-    "title": "Iowa State vs. Kansas City",
-    "league": "NCAA Softball",
-    "fecha-evento": "",
-    "img": "019c3873-d8c2-7de1-aa54-246fed098374",
-    "nombre": "disneya5b6bb",
-    "status": "",
-    "duration": 135,
-    "play_url": ""
+    "title": "Ivy League Fencing Championship",
+    "league": "NCAA Esgrima Masculino",
+    "fecha-evento": "2026-02-07T09:00:00-05:00",
+    "img": "8aa09fe1-c529-4ab5-be8b-28cf2fbe5f79",
+    "nombre": "disney58324f",
+    "status": "09:00",
+    "duration": 600,
+    "play_url": "https://www.disneyplus.com/es-es/play/7955d196-1e10-4f3b-a8c7-ada303076a51"
+  },
+  {
+    "title": "Francia vs. Croacia (Tercer Puesto)",
+    "league": "UEFA Futsal European Championship",
+    "fecha-evento": "2026-02-07T09:52:36-05:00",
+    "img": "019c2da6-da39-7ffa-a17e-ce84d2d09945",
+    "nombre": "disney30022b",
+    "status": "09:52",
+    "duration": 127,
+    "play_url": "https://www.disneyplus.com/es-es/play/f6dcc3cd-ea79-4225-bf60-1df8e799f90e"
   },
   {
     "title": "Ostrava Open (Final)",
@@ -248,6 +218,16 @@
     "status": "10:00",
     "duration": 150,
     "play_url": "https://www.disneyplus.com/es-es/play/8080fcc6-f08b-482c-9e74-96a6fd2186dd"
+  },
+  {
+    "title": "Iowa State vs. Kansas City",
+    "league": "NCAA Softball",
+    "fecha-evento": "2026-02-07T10:00:05-05:00",
+    "img": "019c3873-d8c2-7de1-aa54-246fed098374",
+    "nombre": "disneyff1328",
+    "status": "10:00",
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/152a0105-1680-4a00-ae1d-0ce02f4c5af3"
   },
   {
     "title": "N.E.C. vs. Heracles Almelo",
@@ -625,6 +605,26 @@
     "fecha-evento": "",
     "img": "019bf28a-6a62-7f9a-94f4-ccbd2e148461",
     "nombre": "disney4be2c6",
+    "status": "",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Houston Rockets vs. Oklahoma City Thunder",
+    "league": "NBA",
+    "fecha-evento": "",
+    "img": "019c2b13-8fbb-7d84-afbd-bcb2af57b99d",
+    "nombre": "disney2c6298",
+    "status": "",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Alabama vs. Auburn",
+    "league": "Básquetbol Masculino NCAA",
+    "fecha-evento": "",
+    "img": "019b8359-ebc7-7a21-8619-575ab211d7d5",
+    "nombre": "disney444e45",
     "status": "",
     "duration": 135,
     "play_url": ""
