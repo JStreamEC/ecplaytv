@@ -50,21 +50,21 @@
     "play_url": "https://www.disneyplus.com/es-es/play/b4c0c3a6-7613-4ce4-9f22-98bc04cc5caf"
   },
   {
-    "title": "HSBC World Rugby Sevens Series | Perth | En español",
-    "league": "World Rugby Sevens Series",
-    "fecha-evento": "2026-02-06T22:55:00-05:00",
-    "img": "019c2990-e6ba-7987-93e1-22a67d2a1327",
-    "nombre": "disney38fb0c",
-    "status": "22:55",
-    "duration": 60,
-    "play_url": "https://www.disneyplus.com/es-es/play/0041a518-d255-4d2f-bd3a-918ae229b0b2"
-  },
-  {
     "title": "Pakistan vs. Paises Bajos",
     "league": "ESPN",
     "fecha-evento": "",
     "img": "019ab5c1-55c9-755d-a054-03e9d30026aa",
     "nombre": "disneyb71f83",
+    "status": "",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "HSBC World Rugby Sevens Series | Perth | En español",
+    "league": "World Rugby Sevens Series",
+    "fecha-evento": "",
+    "img": "019c2992-6f77-7091-9604-288792d15233",
+    "nombre": "disneyecbc2e",
     "status": "",
     "duration": 135,
     "play_url": ""
@@ -605,6 +605,16 @@
     "fecha-evento": "",
     "img": "703a0947-b1b5-4434-9581-0e5c409bcc6c",
     "nombre": "disneycc02ce",
+    "status": "",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Southern Connecticut State vs. Yale",
+    "league": "NCAA Gimnasia Femenina",
+    "fecha-evento": "",
+    "img": "381bc42f-b4a0-467e-bf87-b6394f8b4927",
+    "nombre": "disney30dd73",
     "status": "",
     "duration": 135,
     "play_url": ""
