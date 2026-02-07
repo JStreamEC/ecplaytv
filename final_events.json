@@ -10,16 +10,6 @@
     "play_url": ""
   },
   {
-    "title": "Montevideo Wanderers vs. Defensor Sporting",
-    "league": "Campeonato Uruguayo",
-    "fecha-evento": "2026-02-06T19:16:25-05:00",
-    "img": "019c20b7-e838-7beb-ac23-38ecd2fde94d",
-    "nombre": "disneya6ec60",
-    "status": "19:16",
-    "duration": 164,
-    "play_url": "https://www.disneyplus.com/es-es/play/768e53c9-fa9e-4329-9a55-e13e0464f444"
-  },
-  {
     "title": "El Águila Softbol Femenil vs. Diablos Rojos Femenil",
     "league": "Liga Mexicana de Softbol",
     "fecha-evento": "2026-02-06T19:55:00-05:00",
@@ -60,16 +50,6 @@
     "play_url": "https://www.disneyplus.com/es-es/play/2da10843-7a2d-4850-bebc-b2d65f80599f"
   },
   {
-    "title": "Florida vs. Missouri",
-    "league": "NCAA Gimnasia Femenina",
-    "fecha-evento": "2026-02-06T21:00:00-05:00",
-    "img": "381bc42f-b4a0-467e-bf87-b6394f8b4927",
-    "nombre": "disney9ff7da",
-    "status": "21:00",
-    "duration": 90,
-    "play_url": "https://www.disneyplus.com/es-es/play/f40e9157-0b7d-4f3d-b2ff-ea946b65f6c6"
-  },
-  {
     "title": "Utah vs. Arizona",
     "league": "NCAA Gimnasia Femenina",
     "fecha-evento": "2026-02-06T21:00:00-05:00",
@@ -88,6 +68,16 @@
     "status": "21:00",
     "duration": 210,
     "play_url": "https://www.disneyplus.com/es-es/play/20d5f44c-7360-4fb9-b57c-3c62c902fc3c"
+  },
+  {
+    "title": "Florida vs. Missouri",
+    "league": "NCAA Gimnasia Femenina",
+    "fecha-evento": "2026-02-06T21:00:00-05:00",
+    "img": "381bc42f-b4a0-467e-bf87-b6394f8b4927",
+    "nombre": "disney9ff7da",
+    "status": "21:00",
+    "duration": 90,
+    "play_url": "https://www.disneyplus.com/es-es/play/f40e9157-0b7d-4f3d-b2ff-ea946b65f6c6"
   },
   {
     "title": "Rhythm vs. Gold Rush (Game 4)",
@@ -120,6 +110,16 @@
     "play_url": "https://www.disneyplus.com/es-es/play/9d7387e8-08f3-4be0-9f42-134c73eb1437"
   },
   {
+    "title": "#1 UCLA vs. #2 Long Beach State",
+    "league": "NCAA Men's Volleyball",
+    "fecha-evento": "2026-02-06T22:00:05-05:00",
+    "img": "019bf51f-8c1b-73d5-8870-2b6971f39316",
+    "nombre": "disneyae91c0",
+    "status": "22:00",
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/85c06e4b-cfdd-4da4-8b95-951e47a634a5"
+  },
+  {
     "title": "Boise State vs. Cal State Fullerton",
     "league": "NCAA Softball",
     "fecha-evento": "2026-02-06T21:30:00-05:00",
@@ -128,16 +128,6 @@
     "status": "21:30",
     "duration": 120,
     "play_url": "https://www.disneyplus.com/es-es/play/b4c0c3a6-7613-4ce4-9f22-98bc04cc5caf"
-  },
-  {
-    "title": "#1 UCLA vs. #2 Long Beach State",
-    "league": "NCAA Men's Volleyball",
-    "fecha-evento": "",
-    "img": "019bf51f-8c1b-73d5-8870-2b6971f39316",
-    "nombre": "disneyefb508",
-    "status": "",
-    "duration": 135,
-    "play_url": ""
   },
   {
     "title": "HSBC World Rugby Sevens Series | Perth | En español",
@@ -605,6 +595,16 @@
     "fecha-evento": "",
     "img": "019bfcdd-0c72-79c6-9575-8dc55932aa12",
     "nombre": "disney486240",
+    "status": "",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Temple vs. East Carolina",
+    "league": "Básquetbol Masculino NCAA",
+    "fecha-evento": "",
+    "img": "019b8b1a-ad3f-73b6-89e0-fef4e967247b",
+    "nombre": "disneyb40507",
     "status": "",
     "duration": 135,
     "play_url": ""
