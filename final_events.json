@@ -10,16 +10,6 @@
     "play_url": "https://www.disneyplus.com/es-es/play/015cdd0a-1b31-4e75-9e76-cb9f2a6d25be"
   },
   {
-    "title": "Open Occitanie (Semifinal)",
-    "league": "ATP",
-    "fecha-evento": "2026-02-07T09:00:07-05:00",
-    "img": "019c1189-6f66-7c1e-949e-b5ca062c4084",
-    "nombre": "disney7bc028",
-    "status": "09:00",
-    "duration": 240,
-    "play_url": "https://www.disneyplus.com/es-es/play/f9a580d2-9013-4d2d-876a-9033630fc218"
-  },
-  {
     "title": "Ivy League Fencing Championship",
     "league": "NCAA Esgrima Masculino",
     "fecha-evento": "2026-02-07T09:00:00-05:00",
@@ -38,16 +28,6 @@
     "status": "09:00",
     "duration": 180,
     "play_url": "https://www.disneyplus.com/es-es/play/6c290239-4931-446b-bdc7-66d232c37570"
-  },
-  {
-    "title": "Inglaterra vs. Gales",
-    "league": "Seis Naciones",
-    "fecha-evento": "2026-02-07T11:13:00-05:00",
-    "img": "04de3363-df8f-4a70-9298-80cd4b071f32",
-    "nombre": "disney9790e6",
-    "status": "11:13",
-    "duration": 152,
-    "play_url": "https://www.disneyplus.com/es-es/play/553c1f9a-ac8f-41a7-b49d-08bbcd135490"
   },
   {
     "title": "Genoa vs. Napoli",
@@ -192,22 +172,22 @@
   {
     "title": "St. Vincent & The Grenadines vs. Republica Dominicana (Fase de Grupos)",
     "league": "CONCACAF Sub-17",
-    "fecha-evento": "",
+    "fecha-evento": "2026-02-07T13:50:17-05:00",
     "img": "019bf7b3-c4fc-73ad-8c61-b8324579b122",
-    "nombre": "disneyf3b115",
-    "status": "",
-    "duration": 135,
-    "play_url": ""
+    "nombre": "disney2eaf1c",
+    "status": "13:50",
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/ede42133-77ed-4513-b6f5-9f94d3ea2f65"
   },
   {
     "title": "Baylor vs. #7 Iowa State",
     "league": "Básquetbol Masculino NCAA",
-    "fecha-evento": "",
+    "fecha-evento": "2026-02-07T14:00:00-05:00",
     "img": "019b804e-1ec0-7e3f-b1f8-cd372cc93f88",
-    "nombre": "disney11129e",
-    "status": "",
-    "duration": 135,
-    "play_url": ""
+    "nombre": "disney295033",
+    "status": "14:00",
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/20728782-c57e-44e5-aae3-3ca58b9944fc"
   },
   {
     "title": "Nick Ball vs. Brandon Figueroa | ESPN KO",
@@ -625,6 +605,26 @@
     "fecha-evento": "",
     "img": "019be397-3d49-7afc-83b9-f1ce4d1a8b1e",
     "nombre": "disney8caad9",
+    "status": "",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Akron vs. Troy",
+    "league": "Básquetbol Masculino NCAA",
+    "fecha-evento": "",
+    "img": "019bf7b3-cb28-7fae-a32a-8d2d6ed3139d",
+    "nombre": "disney1c4225",
+    "status": "",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Eclipse vs. Rhythm (Game 5)",
+    "league": "Athletes Unlimited Basketball",
+    "fecha-evento": "",
+    "img": "38d85d84-de49-4659-8201-6283b6d4b3a9",
+    "nombre": "disney9fa611",
     "status": "",
     "duration": 135,
     "play_url": ""
