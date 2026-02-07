@@ -10,36 +10,6 @@
     "play_url": ""
   },
   {
-    "title": "Cornell, George Washington, William & Mary, Pennsylvania",
-    "league": "NCAA Gimnasia Femenina",
-    "fecha-evento": "2026-02-06T19:00:16-05:00",
-    "img": "381bc42f-b4a0-467e-bf87-b6394f8b4927",
-    "nombre": "disney615157",
-    "status": "19:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/e5ff0ef2-84b6-4881-8369-bd5c6c40e118"
-  },
-  {
-    "title": "#19 Duke vs. UCF",
-    "league": "NCAA Softball",
-    "fecha-evento": "2026-02-06T19:10:02-05:00",
-    "img": "019c0735-f861-7fee-8359-dc948f90181c",
-    "nombre": "disney5a6706",
-    "status": "19:10",
-    "duration": 110,
-    "play_url": "https://www.disneyplus.com/es-es/play/0a34dc04-fdd0-4250-a50e-315eaf2d48cd"
-  },
-  {
-    "title": "#19 Massachusetts vs. UMass Lowell",
-    "league": "NCAA Men's Ice Hockey",
-    "fecha-evento": "2026-02-06T19:11:25-05:00",
-    "img": "019bd8b3-b92b-76b9-8395-476711c6d7e1",
-    "nombre": "disneyc33115",
-    "status": "19:11",
-    "duration": 154,
-    "play_url": "https://www.disneyplus.com/es-es/play/5dbf2a0e-eed9-4d7f-8501-164d082b4e25"
-  },
-  {
     "title": "Montevideo Wanderers vs. Defensor Sporting",
     "league": "Campeonato Uruguayo",
     "fecha-evento": "2026-02-06T19:16:25-05:00",
@@ -50,26 +20,6 @@
     "play_url": "https://www.disneyplus.com/es-es/play/768e53c9-fa9e-4329-9a55-e13e0464f444"
   },
   {
-    "title": "Virginia Tech vs. Virginia",
-    "league": "NCAA Luchas",
-    "fecha-evento": "2026-02-06T19:30:01-05:00",
-    "img": "5c0ac76d-caa9-4f00-a87f-1d8954819ad8",
-    "nombre": "disneye60b5c",
-    "status": "19:30",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/a46e2929-e8d1-49f4-95c6-fe58bb5ce299"
-  },
-  {
-    "title": "El Salvador vs. Belice",
-    "league": "CONCACAF Sub-17",
-    "fecha-evento": "2026-02-06T19:50:05-05:00",
-    "img": "019bf51c-d2af-7db0-9f77-a5433c0187d7",
-    "nombre": "disney6b4e0b",
-    "status": "19:50",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/84c3bb6b-b2b1-42dd-83b2-2935099bf4ee"
-  },
-  {
     "title": "El Águila Softbol Femenil vs. Diablos Rojos Femenil",
     "league": "Liga Mexicana de Softbol",
     "fecha-evento": "2026-02-06T19:55:00-05:00",
@@ -78,16 +28,6 @@
     "status": "19:55",
     "duration": 185,
     "play_url": "https://www.disneyplus.com/es-es/play/a9ca2128-174d-4b0e-9978-305af6627958"
-  },
-  {
-    "title": "Little Rock vs. Oklahoma State",
-    "league": "NCAA Luchas",
-    "fecha-evento": "2026-02-06T20:00:03-05:00",
-    "img": "5c0ac76d-caa9-4f00-a87f-1d8954819ad8",
-    "nombre": "disney9bd098",
-    "status": "20:00",
-    "duration": 180,
-    "play_url": "https://www.disneyplus.com/es-es/play/5c7bb453-b461-43f8-a5c4-0a7c82252d34"
   },
   {
     "title": "Oregon State vs. Arizona State",
@@ -605,6 +545,66 @@
     "fecha-evento": "",
     "img": "019c3567-6d2e-79f4-a356-3db6a719f8c6",
     "nombre": "disneyf00dd1",
+    "status": "",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "N.E.C. vs. Heracles Almelo",
+    "league": "Eredivisie",
+    "fecha-evento": "",
+    "img": "019bfa3f-6c3e-7848-a3a9-a3889b8b0794",
+    "nombre": "disney866168",
+    "status": "",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Lens vs. Rennes",
+    "league": "Ligue 1",
+    "fecha-evento": "",
+    "img": "019bf7b3-4573-706d-b007-7b67cde7ac53",
+    "nombre": "disney1ee17d",
+    "status": "",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Inglaterra vs. Gales",
+    "league": "Seis Naciones",
+    "fecha-evento": "",
+    "img": "019bfb37-cc7f-7a3a-9fe1-d5bbdae5e907",
+    "nombre": "disney4426f9",
+    "status": "",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Turks & Caicos Islands vs. Puerto Rico (Fase de Grupos)",
+    "league": "CONCACAF Sub-17",
+    "fecha-evento": "",
+    "img": "019bf7b3-f873-7afd-900b-76aca38d6194",
+    "nombre": "disney247d8d",
+    "status": "",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Genoa vs. Napoli",
+    "league": "Seria A",
+    "fecha-evento": "",
+    "img": "019bf7b3-4d29-7ce1-abcc-9fd84d6419b5",
+    "nombre": "disneya22e04",
+    "status": "",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Samsunspor vs. Trabzonspor",
+    "league": "Super Lig de Turquía",
+    "fecha-evento": "",
+    "img": "019bfcdd-0c72-79c6-9575-8dc55932aa12",
+    "nombre": "disney486240",
     "status": "",
     "duration": 135,
     "play_url": ""
