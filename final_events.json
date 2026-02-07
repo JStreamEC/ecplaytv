@@ -10,26 +10,6 @@
     "play_url": ""
   },
   {
-    "title": "Jacksonville State vs. Louisiana",
-    "league": "NCAA Softball",
-    "fecha-evento": "2026-02-06T19:00:00-05:00",
-    "img": "019bfd17-5116-716b-bbdd-5392086edeeb",
-    "nombre": "disneyc31cb7",
-    "status": "19:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/49d01e2f-8e60-43f5-aa4e-baa583e4cea1"
-  },
-  {
-    "title": "Utah vs. Arizona",
-    "league": "NCAA Gimnasia Femenina",
-    "fecha-evento": "2026-02-06T21:00:00-05:00",
-    "img": "381bc42f-b4a0-467e-bf87-b6394f8b4927",
-    "nombre": "disneyce2bec",
-    "status": "21:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/3ed12a92-9b1b-4cf4-9ca6-a3ffbc57198d"
-  },
-  {
     "title": "Cristian Medina vs. Adrián Curiel | ESPN KO",
     "league": "ESPN",
     "fecha-evento": "2026-02-06T21:00:00-05:00",
@@ -38,26 +18,6 @@
     "status": "21:00",
     "duration": 210,
     "play_url": "https://www.disneyplus.com/es-es/play/20d5f44c-7360-4fb9-b57c-3c62c902fc3c"
-  },
-  {
-    "title": "Rhythm vs. Gold Rush (Game 4)",
-    "league": "Athletes Unlimited Basketball",
-    "fecha-evento": "2026-02-06T21:00:03-05:00",
-    "img": "38d85d84-de49-4659-8201-6283b6d4b3a9",
-    "nombre": "disney278b88",
-    "status": "21:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/8f9ab6e6-10cf-4528-86b6-c90a7de5826c"
-  },
-  {
-    "title": "Belmont vs. UIC",
-    "league": "Básquetbol Masculino NCAA",
-    "fecha-evento": "2026-02-06T21:00:04-05:00",
-    "img": "2d26ef13-e93a-40e3-8910-0f40d292766a",
-    "nombre": "disneya710ac",
-    "status": "21:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/304f9e73-9621-4375-8c1e-e32dc549e195"
   },
   {
     "title": "HSBC World Rugby Sevens Series | Perth | Session 1",
@@ -605,6 +565,46 @@
     "fecha-evento": "",
     "img": "019bf7b3-546c-7cf7-a12f-0c3943e23d6f",
     "nombre": "disney34537a",
+    "status": "",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Zaragoza vs. SD Eibar",
+    "league": "Segunda División de España",
+    "fecha-evento": "",
+    "img": "019bf7b3-6ac7-75e9-86f2-8acb38f958e2",
+    "nombre": "disney4f4e07",
+    "status": "",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Borussia Monchengladbach vs. Bayer Leverkusen",
+    "league": "Bundesliga",
+    "fecha-evento": "",
+    "img": "019bf7b3-601e-708d-ae1b-3f427edeadaa",
+    "nombre": "disney121b8e",
+    "status": "",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Brest vs. Lorient",
+    "league": "Ligue 1",
+    "fecha-evento": "",
+    "img": "019bf7b3-766a-7c02-8390-916d23fe3965",
+    "nombre": "disneya26b8c",
+    "status": "",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "SEC Track & Field",
+    "league": "NCAA Atletismo",
+    "fecha-evento": "",
+    "img": "703a0947-b1b5-4434-9581-0e5c409bcc6c",
+    "nombre": "disneycc02ce",
     "status": "",
     "duration": 135,
     "play_url": ""
