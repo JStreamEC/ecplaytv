@@ -20,16 +20,6 @@
     "play_url": "https://www.disneyplus.com/es-es/play/84b4e8dc-ec90-45d0-b253-6f3e2dd5d7f3"
   },
   {
-    "title": "Italia vs. Escocia",
-    "league": "Seis Naciones",
-    "fecha-evento": "2026-02-07T09:00:00-05:00",
-    "img": "019bfb36-300a-7ba0-ab2a-b9291b7ca0af",
-    "nombre": "disney8acf01",
-    "status": "09:00",
-    "duration": 135,
-    "play_url": "https://www.disneyplus.com/es-es/play/98a29a7b-ae40-4a74-a541-e83ed273e48f"
-  },
-  {
     "title": "Open Occitanie (Semifinal)",
     "league": "ATP",
     "fecha-evento": "2026-02-07T09:00:07-05:00",
@@ -58,46 +48,6 @@
     "status": "09:20",
     "duration": 130,
     "play_url": "https://www.disneyplus.com/es-es/play/9963cd0f-23bd-40a7-a5f6-9a60ab5cf2a2"
-  },
-  {
-    "title": "Wolfsburg vs. Borussia Dortmund",
-    "league": "Bundesliga",
-    "fecha-evento": "2026-02-07T09:20:00-05:00",
-    "img": "019bf7b3-76d2-72b8-9c3a-86e4875c6340",
-    "nombre": "disneyd1c4c0",
-    "status": "09:20",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/4579fa94-051a-4e98-b97f-76d82032dcf8"
-  },
-  {
-    "title": "Mainz 05 vs. Augsburg",
-    "league": "Bundesliga",
-    "fecha-evento": "2026-02-07T09:20:03-05:00",
-    "img": "019bf7b3-c732-737d-b342-736e843724be",
-    "nombre": "disney58a7ee",
-    "status": "09:20",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/89c73777-4d74-414e-b3fb-7664198bf7d1"
-  },
-  {
-    "title": "Freiburg vs. Werder Bremen",
-    "league": "Bundesliga",
-    "fecha-evento": "2026-02-07T09:20:03-05:00",
-    "img": "019bf7b3-69e1-7024-8e0f-47e5cca935d7",
-    "nombre": "disneyf45789",
-    "status": "09:20",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/472e9d04-e5d1-43a2-9a5f-5eca8fcfe6fd"
-  },
-  {
-    "title": "Goal Arena",
-    "league": "Bundesliga",
-    "fecha-evento": "2026-02-07T09:20:12-05:00",
-    "img": "1627bffc-a6c9-48d6-b63a-b86af7267c2c",
-    "nombre": "disney31e12e",
-    "status": "09:20",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/fb730a65-4fd1-4c5f-899f-a323bd85c3f9"
   },
   {
     "title": "Wolverhampton Wanderers vs. Chelsea",
@@ -625,6 +575,56 @@
     "fecha-evento": "",
     "img": "268f759d-6188-4c20-85fa-77c146559325",
     "nombre": "disneycea323",
+    "status": "",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Denver vs. Arizona State",
+    "league": "NCAA Gimnasia Femenina",
+    "fecha-evento": "",
+    "img": "381bc42f-b4a0-467e-bf87-b6394f8b4927",
+    "nombre": "disney87fe67",
+    "status": "",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Washington State vs. Pepperdine",
+    "league": "Básquet Femenino NCAA",
+    "fecha-evento": "",
+    "img": "019bf7b3-5b44-7c76-aa78-a2f5f512642e",
+    "nombre": "disneydf520f",
+    "status": "",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Maine vs. Boston University",
+    "league": "NCAA Women's Hockey",
+    "fecha-evento": "",
+    "img": "019bf7b3-bfe0-759c-bb11-b54309fe5450",
+    "nombre": "disneydd59d9",
+    "status": "",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "#8 Arkansas vs. Coastal Carolina",
+    "league": "NCAA Softball",
+    "fecha-evento": "",
+    "img": "019bf7b8-5159-74d1-a9b1-290181159851",
+    "nombre": "disney899738",
+    "status": "",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Dominica vs. Nicaragua (Fase de Grupos)",
+    "league": "CONCACAF Sub-17",
+    "fecha-evento": "",
+    "img": "019c0207-0243-7c5e-b9c9-e13ff1b4de1d",
+    "nombre": "disney6e16c8",
     "status": "",
     "duration": 135,
     "play_url": ""
