@@ -13,19 +13,6 @@
     "k2": "1ac36506efecaca46f92c172d8a627c9"
   },
   {
-    "title": "Kansas City vs. Northern Iowa",
-    "league": "NCAA Softball",
-    "fecha-evento": "2026-02-06T16:02:41-05:00",
-    "img": "019bf289-94d9-7583-824f-8931265fcaa2",
-    "nombre": "disneyf74759",
-    "status": "16:02",
-    "duration": 127,
-    "play_url": "https://www.disneyplus.com/es-es/play/d52c5503-5573-457f-990f-a686f46f795c",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1770505503~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F06%2FKansas_City_vs_Northern_I_20260206_1770404453042%2F~psid=5828b961-bd7f-429d-93c8-ad3f869bc301~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=0232774a31f4ce041bcefe41912041296b3af07122604e3b281d8506cab4909a/clt1/va02/disneyplus/event/2026/02/06/Kansas_City_vs_Northern_I_20260206_1770404453042/ctr-all-hdri-complete.m3u8?v=1&hash=0433a22edfb5ae2afa3a71def255792ad96753cd",
-    "k1": "8dc96833b90841f5beb380a1e3276546",
-    "k2": "886d9536b5f15c9699161df526c9cf90"
-  },
-  {
     "title": "Albion FC vs. Liverpool FC",
     "league": "Campeonato Uruguayo",
     "fecha-evento": "2026-02-06T16:30:00-05:00",
@@ -171,12 +158,15 @@
   {
     "title": "Eclipse vs. Glow (Game 3)",
     "league": "Athletes Unlimited Basketball",
-    "fecha-evento": "2026-02-06T18:30:00-05:00",
+    "fecha-evento": "2026-02-06T18:29:59-05:00",
     "img": "019bf28a-2f82-7006-8331-c42814f81ab0",
-    "nombre": "disney3cd95d",
-    "status": "18:30",
-    "duration": 135,
-    "play_url": ""
+    "nombre": "disney4da39f",
+    "status": "18:29",
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/a26ce6c0-6cf1-4f25-bb68-66449db6c9e0",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1770508833~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F06%2FEclipse_vs_Glow_Game_3_20260206_1770413431029%2F~psid=83e23205-6a3f-4825-bb8e-d4e1e35b8397~aid=da134fad-f2ac-469c-8b53-5b0f62f9fedf~did=af00fb2d-e562-4dc9-a9f6-c31f44a1208b~country=EC~kid=k02~hmac=e37e530c5099dd3df94ba8d41492c7f072db699a083f8761b7adec48622ec39a/clt1/va02/disneyplus/event/2026/02/06/Eclipse_vs_Glow_Game_3_20260206_1770413431029/ctr-all-hdri-complete.m3u8?v=1&hash=4316e2c9cbbb7f2f009a6a1331debb7fa5c0259a",
+    "k1": "b03a4f7c3b7140d6999a781124ac77da",
+    "k2": "44e6a1130f58c320b5a56e5622bb21ab"
   },
   {
     "title": "#12 UConn vs. Northeastern",
@@ -241,10 +231,10 @@
   {
     "title": "Virginia Tech vs. Virginia",
     "league": "NCAA Luchas",
-    "fecha-evento": "2026-02-06T19:00:00-05:00",
+    "fecha-evento": "2026-02-06T19:30:00-05:00",
     "img": "79dccdb5-ae78-4f5d-9a66-a92bf90f5698",
-    "nombre": "disneyaaf9ee",
-    "status": "19:00",
+    "nombre": "disney239e58",
+    "status": "19:30",
     "duration": 135,
     "play_url": ""
   },
@@ -642,8 +632,18 @@
     "title": "Sara Bejlek (CZE) vs. Ekaterina Alexandrova (RUS) (Final)",
     "league": "WTA",
     "fecha-evento": "2026-02-07T08:00:00-05:00",
-    "img": "019c1bf2-efe3-7e33-a274-f154c8114de5",
+    "img": "019c3544-afab-782e-a0b5-7d31c18afcba",
     "nombre": "disney866753",
+    "status": "08:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "India vs. United States",
+    "league": "ESPN",
+    "fecha-evento": "2026-02-07T08:00:00-05:00",
+    "img": "019ab5c1-55c9-755d-a054-03e9d30026aa",
+    "nombre": "disneydbbe21",
     "status": "08:00",
     "duration": 135,
     "play_url": ""
