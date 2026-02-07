@@ -10,16 +10,6 @@
     "play_url": "https://www.disneyplus.com/es-es/play/015cdd0a-1b31-4e75-9e76-cb9f2a6d25be"
   },
   {
-    "title": "India vs. Estados Unidos",
-    "league": "ESPN",
-    "fecha-evento": "2026-02-07T08:24:39-05:00",
-    "img": "019ab5c1-55c9-755d-a054-03e9d30026aa",
-    "nombre": "disney0ebf93",
-    "status": "08:24",
-    "duration": 215,
-    "play_url": "https://www.disneyplus.com/es-es/play/84b4e8dc-ec90-45d0-b253-6f3e2dd5d7f3"
-  },
-  {
     "title": "Open Occitanie (Semifinal)",
     "league": "ATP",
     "fecha-evento": "2026-02-07T09:00:07-05:00",
@@ -38,26 +28,6 @@
     "status": "09:00",
     "duration": 600,
     "play_url": "https://www.disneyplus.com/es-es/play/7955d196-1e10-4f3b-a8c7-ada303076a51"
-  },
-  {
-    "title": "Ostrava Open (Final)",
-    "league": "WTA",
-    "fecha-evento": "2026-02-07T10:00:00-05:00",
-    "img": "019c3567-6d2e-79f4-a356-3db6a719f8c6",
-    "nombre": "disneyf3ac8d",
-    "status": "10:00",
-    "duration": 150,
-    "play_url": "https://www.disneyplus.com/es-es/play/8080fcc6-f08b-482c-9e74-96a6fd2186dd"
-  },
-  {
-    "title": "N.E.C. vs. Heracles Almelo",
-    "league": "Eredivisie",
-    "fecha-evento": "2026-02-07T10:20:09-05:00",
-    "img": "019bfa3f-6c3e-7848-a3a9-a3889b8b0794",
-    "nombre": "disneya79986",
-    "status": "10:20",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/f6b0047f-6c1a-4164-87cf-4c70c0435739"
   },
   {
     "title": "Mubadala Abu Dhabi Open presented by Abu Dhabi Sports Council / Stadium Court (Doubles Final)",
@@ -120,16 +90,6 @@
     "play_url": "https://www.disneyplus.com/es-es/play/6330dfd9-8190-4498-afa6-2520d4cc458b"
   },
   {
-    "title": "Saint Joseph's vs. #3 Syracuse",
-    "league": "NCAA Men's Lacrosse",
-    "fecha-evento": "2026-02-07T12:00:00-05:00",
-    "img": "019bf7b4-066d-785e-95b8-bc7e53025274",
-    "nombre": "disney9e4659",
-    "status": "12:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/c0871453-857d-4e82-a096-107c2c456d5a"
-  },
-  {
     "title": "Temple vs. East Carolina",
     "league": "Básquetbol Masculino NCAA",
     "fecha-evento": "2026-02-07T12:00:02-05:00",
@@ -148,6 +108,16 @@
     "status": "12:00",
     "duration": 120,
     "play_url": "https://www.disneyplus.com/es-es/play/73c43d05-87e3-4fa0-a8f2-11759499b9e5"
+  },
+  {
+    "title": "Saint Joseph's vs. #3 Syracuse",
+    "league": "NCAA Men's Lacrosse",
+    "fecha-evento": "2026-02-07T12:00:00-05:00",
+    "img": "019bf7b4-066d-785e-95b8-bc7e53025274",
+    "nombre": "disney9e4659",
+    "status": "12:00",
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/c0871453-857d-4e82-a096-107c2c456d5a"
   },
   {
     "title": "#21 Arkansas vs. Mississippi State",
@@ -170,24 +140,24 @@
     "play_url": "https://www.disneyplus.com/es-es/play/a3ec912d-d8f5-420d-a72b-2a920922a683"
   },
   {
-    "title": "Zaragoza vs. SD Eibar",
-    "league": "Segunda División de España",
-    "fecha-evento": "",
-    "img": "019bf7b3-6ac7-75e9-86f2-8acb38f958e2",
-    "nombre": "disney4f4e07",
-    "status": "",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Borussia Monchengladbach vs. Bayer Leverkusen",
     "league": "Bundesliga",
-    "fecha-evento": "",
+    "fecha-evento": "2026-02-07T12:20:04-05:00",
     "img": "019bf7b3-601e-708d-ae1b-3f427edeadaa",
-    "nombre": "disney121b8e",
-    "status": "",
-    "duration": 135,
-    "play_url": ""
+    "nombre": "disneydccd43",
+    "status": "12:20",
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/e292b4a9-5639-4463-82d8-4eea17071447"
+  },
+  {
+    "title": "Zaragoza vs. SD Eibar",
+    "league": "Segunda División de España",
+    "fecha-evento": "2026-02-07T12:23:13-05:00",
+    "img": "019bf7b3-6ac7-75e9-86f2-8acb38f958e2",
+    "nombre": "disneyd1bf93",
+    "status": "12:23",
+    "duration": 127,
+    "play_url": "https://www.disneyplus.com/es-es/play/cffb110b-5adc-41ef-a605-1f459b914da3"
   },
   {
     "title": "Brest vs. Lorient",
@@ -625,6 +595,36 @@
     "fecha-evento": "",
     "img": "019bf7b5-92a1-73c2-8d47-1bedc3b157d4",
     "nombre": "disneyd7d42f",
+    "status": "",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Brewster Academy (NH) vs. LI Lutheran (NY)",
+    "league": "Baloncesto Colegial",
+    "fecha-evento": "",
+    "img": "865c6339-922c-4a84-8d41-ff5728a43eba",
+    "nombre": "disney5e1f27",
+    "status": "",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "NC State vs. Liberty",
+    "league": "NCAA Men's Lacrosse",
+    "fecha-evento": "",
+    "img": "df6c2cd6-1bc8-4b26-99bc-e80e65691a6e",
+    "nombre": "disneyd0d1a5",
+    "status": "",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Santa Clara vs. Washington State",
+    "league": "Básquetbol Masculino NCAA",
+    "fecha-evento": "",
+    "img": "019ba506-dcec-7eda-a598-b31afc438ab7",
+    "nombre": "disney6f8c47",
     "status": "",
     "duration": 135,
     "play_url": ""
