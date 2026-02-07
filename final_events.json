@@ -20,16 +20,6 @@
     "play_url": "https://www.disneyplus.com/es-es/play/7955d196-1e10-4f3b-a8c7-ada303076a51"
   },
   {
-    "title": "Brest vs. Lorient",
-    "league": "Ligue 1",
-    "fecha-evento": "2026-02-07T12:55:52-05:00",
-    "img": "019bf7b3-766a-7c02-8390-916d23fe3965",
-    "nombre": "disney10491d",
-    "status": "12:55",
-    "duration": 124,
-    "play_url": "https://www.disneyplus.com/es-es/play/af594b16-bcb4-463c-bf27-6582cc0e0995"
-  },
-  {
     "title": "Southern Connecticut State vs. Yale",
     "league": "NCAA Gimnasia Femenina",
     "fecha-evento": "2026-02-07T13:00:04-05:00",
@@ -70,16 +60,6 @@
     "play_url": "https://www.disneyplus.com/es-es/play/ede42133-77ed-4513-b6f5-9f94d3ea2f65"
   },
   {
-    "title": "Iona vs. Villanova",
-    "league": "NCAA Women's Water Polo",
-    "fecha-evento": "2026-02-07T14:00:00-05:00",
-    "img": "019bf7b3-a8f7-7ea2-a1ff-68cf20bd3946",
-    "nombre": "disney455956",
-    "status": "14:00",
-    "duration": 90,
-    "play_url": "https://www.disneyplus.com/es-es/play/c2cf5e72-373d-433b-98ff-6fe95c676f82"
-  },
-  {
     "title": "Ole Miss vs. Texas",
     "league": "Básquetbol Masculino NCAA",
     "fecha-evento": "2026-02-07T14:00:00-05:00",
@@ -118,6 +98,16 @@
     "status": "14:00",
     "duration": 120,
     "play_url": "https://www.disneyplus.com/es-es/play/64e2264e-c2fb-4f34-be9c-f0acb15ce1f5"
+  },
+  {
+    "title": "Iona vs. Villanova",
+    "league": "NCAA Women's Water Polo",
+    "fecha-evento": "2026-02-07T14:00:00-05:00",
+    "img": "019bf7b3-a8f7-7ea2-a1ff-68cf20bd3946",
+    "nombre": "disney455956",
+    "status": "14:00",
+    "duration": 90,
+    "play_url": "https://www.disneyplus.com/es-es/play/c2cf5e72-373d-433b-98ff-6fe95c676f82"
   },
   {
     "title": "Baylor vs. #7 Iowa State",
@@ -220,16 +210,6 @@
     "play_url": "https://www.disneyplus.com/es-es/play/a6e2089c-43b7-40ea-bac9-df4e2f468232"
   },
   {
-    "title": "St. Lawrence vs. #9 Yale",
-    "league": "NCAA Women's Hockey",
-    "fecha-evento": "",
-    "img": "019b6448-f609-70a1-9f63-f5dacc475ec0",
-    "nombre": "disney588ee1",
-    "status": "",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "#8 Quinnipiac vs. Dartmouth",
     "league": "NCAA Women's Hockey",
     "fecha-evento": "2026-02-07T15:00:00-05:00",
@@ -240,24 +220,34 @@
     "play_url": "https://www.disneyplus.com/es-es/play/b48babc6-3e73-41c7-b584-3144da6b8629"
   },
   {
-    "title": "Boston College vs. #6 UConn",
-    "league": "NCAA Women's Hockey",
-    "fecha-evento": "",
-    "img": "019bf7b6-e771-77bd-afb9-43f1a855599c",
-    "nombre": "disneyee3c42",
-    "status": "",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Eastern Illinois vs. Georgia Southern",
     "league": "NCAA Softball",
-    "fecha-evento": "",
+    "fecha-evento": "2026-02-07T15:00:00-05:00",
     "img": "019bf28a-6a62-7f9a-94f4-ccbd2e148461",
-    "nombre": "disney4be2c6",
-    "status": "",
-    "duration": 135,
-    "play_url": ""
+    "nombre": "disney547656",
+    "status": "15:00",
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/4ee1bc0e-ff3f-4267-95e8-2dfbf2369464"
+  },
+  {
+    "title": "St. Lawrence vs. #9 Yale",
+    "league": "NCAA Women's Hockey",
+    "fecha-evento": "2026-02-07T15:00:29-05:00",
+    "img": "019b6448-f609-70a1-9f63-f5dacc475ec0",
+    "nombre": "disney31d67f",
+    "status": "15:00",
+    "duration": 150,
+    "play_url": "https://www.disneyplus.com/es-es/play/33ad133b-5d13-4b74-ab36-5b78d57264e5"
+  },
+  {
+    "title": "Boston College vs. #6 UConn",
+    "league": "NCAA Women's Hockey",
+    "fecha-evento": "2026-02-07T15:00:34-05:00",
+    "img": "019bf7b6-e771-77bd-afb9-43f1a855599c",
+    "nombre": "disneyf4ee56",
+    "status": "15:00",
+    "duration": 149,
+    "play_url": "https://www.disneyplus.com/es-es/play/54e8a375-c53a-4fee-8700-ea14898d23b0"
   },
   {
     "title": "Houston Rockets vs. Oklahoma City Thunder",
@@ -625,6 +615,16 @@
     "fecha-evento": "",
     "img": "019b835b-a8d5-7c4b-8f27-1020fef238d1",
     "nombre": "disneyae7462",
+    "status": "",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Seattle U vs. Portland",
+    "league": "Básquetbol Masculino NCAA",
+    "fecha-evento": "",
+    "img": "019b8dac-8cc2-7384-8273-4a58c5620335",
+    "nombre": "disney576c9e",
     "status": "",
     "duration": 135,
     "play_url": ""
