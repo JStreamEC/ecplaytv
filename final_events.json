@@ -100,16 +100,6 @@
     "play_url": "https://www.disneyplus.com/es-es/play/d94b00ba-a305-4b2f-be84-a4414d0c7593"
   },
   {
-    "title": "Cadiz vs. Almeria",
-    "league": "Segunda División de España",
-    "fecha-evento": "2026-02-08T10:10:00-05:00",
-    "img": "019bf7b3-54de-71a9-bf16-0e6f57725b0c",
-    "nombre": "disneydf8962",
-    "status": "10:10",
-    "duration": 125,
-    "play_url": "https://www.disneyplus.com/es-es/play/63a1f323-911a-42e6-ac3b-19d2912bd6a1"
-  },
-  {
     "title": "FC Groningen vs. PSV",
     "league": "Eredivisie",
     "fecha-evento": "2026-02-08T10:30:02-05:00",
@@ -160,16 +150,6 @@
     "play_url": "https://www.disneyplus.com/es-es/play/60603992-19d5-4ad5-8fdc-fc994812f061"
   },
   {
-    "title": "Auxerre vs. Paris FC",
-    "league": "Ligue 1",
-    "fecha-evento": "2026-02-08T11:03:16-05:00",
-    "img": "019bfcdd-075f-73c0-8717-d1ed5fa2e0a3",
-    "nombre": "disney77a05e",
-    "status": "11:03",
-    "duration": 132,
-    "play_url": "https://www.disneyplus.com/es-es/play/2c773d7e-3c95-40a2-bfe0-f3a127d75276"
-  },
-  {
     "title": "Liverpool vs. Manchester City",
     "league": "Premier League",
     "fecha-evento": "2026-02-08T11:15:00-05:00",
@@ -178,6 +158,16 @@
     "status": "11:15",
     "duration": 130,
     "play_url": "https://www.disneyplus.com/es-es/play/f82cff44-bba2-4267-89de-0ea685ca663f"
+  },
+  {
+    "title": "Sassuolo vs. Inter",
+    "league": "Seria A",
+    "fecha-evento": "2026-02-08T11:50:00-05:00",
+    "img": "019bfcdc-bdff-7988-8fc7-91559922e632",
+    "nombre": "disney036430",
+    "status": "11:50",
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/b656f674-b329-482d-bc1d-f7843b28f24a"
   },
   {
     "title": "Besiktas vs. Alanyaspor",
@@ -200,44 +190,34 @@
     "play_url": "https://www.disneyplus.com/es-es/play/08d303eb-d1c3-4cc0-8164-2022d74515c2"
   },
   {
-    "title": "Sassuolo vs. Inter",
-    "league": "Seria A",
-    "fecha-evento": "2026-02-08T11:50:00-05:00",
-    "img": "019bfcdc-bdff-7988-8fc7-91559922e632",
-    "nombre": "disney036430",
-    "status": "11:50",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/b656f674-b329-482d-bc1d-f7843b28f24a"
-  },
-  {
     "title": "Colgate vs. #14 Virginia",
     "league": "NCAA Men's Lacrosse",
-    "fecha-evento": "",
+    "fecha-evento": "2026-02-08T12:00:10-05:00",
     "img": "019c2000-486f-703d-adb5-439c3e92f2f3",
-    "nombre": "disney60389c",
-    "status": "",
-    "duration": 135,
-    "play_url": ""
+    "nombre": "disney7a5a1f",
+    "status": "12:00",
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/f4ffcb77-6c41-4a23-ad7b-735e5c39a737"
   },
   {
     "title": "Tulsa vs. South Florida",
     "league": "Básquetbol Masculino NCAA",
-    "fecha-evento": "",
+    "fecha-evento": "2026-02-08T12:00:02-05:00",
     "img": "019bfcdc-deac-7ba2-ae28-9a851aa6eb61",
-    "nombre": "disney224423",
-    "status": "",
-    "duration": 135,
-    "play_url": ""
+    "nombre": "disneyb6b52b",
+    "status": "12:00",
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/a7a5d74d-69f3-4834-909b-8e41e2e2bd75"
   },
   {
     "title": "Atlético de Madrid vs. Betis",
     "league": "LALIGA",
-    "fecha-evento": "",
+    "fecha-evento": "2026-02-08T12:20:03-05:00",
     "img": "019bfcdc-fb1b-78f6-9e74-1dfdb3c716fb",
-    "nombre": "disney8d90b2",
-    "status": "",
-    "duration": 135,
-    "play_url": ""
+    "nombre": "disney10b4ea",
+    "status": "12:20",
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/8ec39b28-c9fc-4a70-bfdc-46dbe086d68d"
   },
   {
     "title": "St. Mary's vs. UC Davis",
@@ -575,6 +555,26 @@
     "fecha-evento": "",
     "img": "15d174c3-ece5-4051-886b-38f74c7e4439",
     "nombre": "disney72f32e",
+    "status": "",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Shabab Al Ahli Dubai (UAE) vs. Al Hilal (KSA)",
+    "league": "AFC Champions League",
+    "fecha-evento": "",
+    "img": "019c0ad5-f606-767b-8fae-6b89eb10aed4",
+    "nombre": "disney4010c3",
+    "status": "",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "IEB+ Argentina Open (Primera Ronda)",
+    "league": "ATP",
+    "fecha-evento": "",
+    "img": "019c2e9b-5016-733c-8a7d-a12d49df76a0",
+    "nombre": "disneybb6331",
     "status": "",
     "duration": 135,
     "play_url": ""
