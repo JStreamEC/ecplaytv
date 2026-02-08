@@ -70,16 +70,6 @@
     "play_url": "https://www.disneyplus.com/es-es/play/59213575-fd71-48a7-b0d2-1a87f6e75a77"
   },
   {
-    "title": "Angers vs. Toulouse",
-    "league": "Ligue 1",
-    "fecha-evento": "2026-02-08T10:59:58-05:00",
-    "img": "019bfcdc-6fa3-7434-a82b-7d489b4ba499",
-    "nombre": "disneyd83ab4",
-    "status": "10:59",
-    "duration": 135,
-    "play_url": "https://www.disneyplus.com/es-es/play/57ce12b4-b022-427c-bdb0-bd4671ced737"
-  },
-  {
     "title": "Le Havre AC vs. Strasbourg",
     "league": "Ligue 1",
     "fecha-evento": "2026-02-08T10:59:59-05:00",
@@ -98,26 +88,6 @@
     "status": "11:20",
     "duration": 125,
     "play_url": "https://www.disneyplus.com/es-es/play/feab0e14-880a-4229-9582-2597887a97b2"
-  },
-  {
-    "title": "Butler vs. Iowa State",
-    "league": "NCAA Softball",
-    "fecha-evento": "2026-02-08T11:00:19-05:00",
-    "img": "019bfcdc-8b57-7124-9e34-d6371ac3d2cc",
-    "nombre": "disneye254ca",
-    "status": "11:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/60603992-19d5-4ad5-8fdc-fc994812f061"
-  },
-  {
-    "title": "Auxerre vs. Paris FC",
-    "league": "Ligue 1",
-    "fecha-evento": "2026-02-08T11:03:16-05:00",
-    "img": "019bfcdd-075f-73c0-8717-d1ed5fa2e0a3",
-    "nombre": "disney77a05e",
-    "status": "11:03",
-    "duration": 132,
-    "play_url": "https://www.disneyplus.com/es-es/play/2c773d7e-3c95-40a2-bfe0-f3a127d75276"
   },
   {
     "title": "Liverpool vs. Manchester City",
@@ -212,22 +182,12 @@
   {
     "title": "Central Michigan vs. Eastern Michigan",
     "league": "NCAA Gimnasia Femenina",
-    "fecha-evento": "",
+    "fecha-evento": "2026-02-08T13:00:00-05:00",
     "img": "381bc42f-b4a0-467e-bf87-b6394f8b4927",
-    "nombre": "disney652b26",
-    "status": "",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "UNC Greensboro vs. Furman",
-    "league": "Básquetbol Masculino NCAA",
-    "fecha-evento": "",
-    "img": "81eb58e2-5a2c-4e23-a202-941738144262",
-    "nombre": "disney4c620c",
-    "status": "",
-    "duration": 135,
-    "play_url": ""
+    "nombre": "disney57d5d8",
+    "status": "13:00",
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/42ed5933-319e-4a58-92a3-c5a87207aed3"
   },
   {
     "title": "#3 Oklahoma vs. #18 Arizona",
@@ -238,6 +198,16 @@
     "status": "13:00",
     "duration": 120,
     "play_url": "https://www.disneyplus.com/es-es/play/0dc73b56-89db-4fd2-af87-bf1c134d4b76"
+  },
+  {
+    "title": "UNC Greensboro vs. Furman",
+    "league": "Básquetbol Masculino NCAA",
+    "fecha-evento": "2026-02-08T13:00:02-05:00",
+    "img": "81eb58e2-5a2c-4e23-a202-941738144262",
+    "nombre": "disney060d8a",
+    "status": "13:00",
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/3a70ad05-b658-4564-aaf7-0fc7c1dfe943"
   },
   {
     "title": "Virginia vs. Coastal Carolina",
@@ -585,6 +555,26 @@
     "fecha-evento": "",
     "img": "019c2a1d-1b8a-7d58-bb3b-b737115b2848",
     "nombre": "disney159ab7",
+    "status": "",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Dallas Open (Primera Ronda)",
+    "league": "ATP",
+    "fecha-evento": "",
+    "img": "019c2b88-6afe-7c4a-8a93-d6418373ef87",
+    "nombre": "disney96d15c",
+    "status": "",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Towson vs. Villanova",
+    "league": "NCAA Women's Lacrosse",
+    "fecha-evento": "",
+    "img": "019c293d-d144-7095-a18c-aa3ce2109291",
+    "nombre": "disneyfdea96",
     "status": "",
     "duration": 135,
     "play_url": ""
