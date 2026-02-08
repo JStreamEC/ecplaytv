@@ -70,16 +70,6 @@
     "play_url": "https://www.disneyplus.com/es-es/play/1ee433a7-2481-4b71-91eb-aeee320858a5"
   },
   {
-    "title": "Huracán vs. San Lorenzo",
-    "league": "Liga Profesional de Fútbol",
-    "fecha-evento": "2026-02-08T16:55:00-05:00",
-    "img": "019c1f40-a778-72c1-9139-68964e8ce979",
-    "nombre": "disneye48449",
-    "status": "16:55",
-    "duration": 135,
-    "play_url": "https://www.disneyplus.com/es-es/play/485c6e93-a3a8-4277-bdd4-7931081f7d26"
-  },
-  {
     "title": "Super Bowl LX | Seattle Seahawks vs. New England Patriots",
     "league": "NFL",
     "fecha-evento": "2026-02-08T17:00:00-05:00",
@@ -88,6 +78,16 @@
     "status": "17:00",
     "duration": 330,
     "play_url": "https://www.disneyplus.com/es-es/play/ce7da1d6-53c0-475c-bc06-baacae9ea73d"
+  },
+  {
+    "title": "Huracán vs. San Lorenzo",
+    "league": "Liga Profesional de Fútbol",
+    "fecha-evento": "2026-02-08T16:55:00-05:00",
+    "img": "019c1f40-a778-72c1-9139-68964e8ce979",
+    "nombre": "disneye48449",
+    "status": "16:55",
+    "duration": 135,
+    "play_url": "https://www.disneyplus.com/es-es/play/485c6e93-a3a8-4277-bdd4-7931081f7d26"
   },
   {
     "title": "Boston River vs. Nacional",
