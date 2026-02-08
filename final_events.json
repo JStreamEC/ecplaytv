@@ -20,16 +20,6 @@
     "play_url": "https://www.disneyplus.com/es-es/play/69288e2a-c5bc-4c23-ada7-6e39963b40b0"
   },
   {
-    "title": "Qatar TotalEnergies Open / Grandstand 1",
-    "league": "WTA",
-    "fecha-evento": "2026-02-08T04:59:17-05:00",
-    "img": "f6a2b4aa-df52-4e7a-a2b8-d2ce1ad4dce7",
-    "nombre": "disneye5d5ac",
-    "status": "04:59",
-    "duration": 601,
-    "play_url": "https://www.disneyplus.com/es-es/play/db65685d-50e0-4a54-bdb6-fb7a8b7f7cd4"
-  },
-  {
     "title": "Qatar TotalEnergies Open / Grandstand 3",
     "league": "WTA",
     "fecha-evento": "2026-02-08T05:30:01-05:00",
@@ -68,36 +58,6 @@
     "status": "09:10",
     "duration": 590,
     "play_url": "https://www.disneyplus.com/es-es/play/59213575-fd71-48a7-b0d2-1a87f6e75a77"
-  },
-  {
-    "title": "Le Havre AC vs. Strasbourg",
-    "league": "Ligue 1",
-    "fecha-evento": "2026-02-08T10:59:59-05:00",
-    "img": "019bfcdc-d18d-78a7-bb60-5d0572108a4c",
-    "nombre": "disney909697",
-    "status": "10:59",
-    "duration": 135,
-    "play_url": "https://www.disneyplus.com/es-es/play/524ddbc5-888e-42a9-8cad-70920df6d232"
-  },
-  {
-    "title": "Bayern Munich vs. Hoffenheim",
-    "league": "Bundesliga",
-    "fecha-evento": "2026-02-08T11:20:00-05:00",
-    "img": "019bfcdc-6f51-77d0-96dc-a866b7b6e3c6",
-    "nombre": "disney1a3fd8",
-    "status": "11:20",
-    "duration": 125,
-    "play_url": "https://www.disneyplus.com/es-es/play/feab0e14-880a-4229-9582-2597887a97b2"
-  },
-  {
-    "title": "Liverpool vs. Manchester City",
-    "league": "Premier League",
-    "fecha-evento": "2026-02-08T11:15:00-05:00",
-    "img": "019bfcdd-0be4-7655-9d43-50d4ff4a49eb",
-    "nombre": "disney95972f",
-    "status": "11:15",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/f82cff44-bba2-4267-89de-0ea685ca663f"
   },
   {
     "title": "Sassuolo vs. Inter",
@@ -212,12 +172,12 @@
   {
     "title": "Virginia vs. Coastal Carolina",
     "league": "NCAA Softball",
-    "fecha-evento": "",
+    "fecha-evento": "2026-02-08T13:30:11-05:00",
     "img": "019bf28a-7f84-7fc4-ab70-d1f7037a3a1e",
-    "nombre": "disney93856e",
-    "status": "",
-    "duration": 135,
-    "play_url": ""
+    "nombre": "disney8cf81f",
+    "status": "13:30",
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/e6a88310-dbaa-4f00-bbb0-dfc402ecf186"
   },
   {
     "title": "Juventus vs. Lazio",
@@ -440,6 +400,16 @@
     "play_url": ""
   },
   {
+    "title": "Qatar TotalEnergies Open / Grandstand 1",
+    "league": "WTA",
+    "fecha-evento": "",
+    "img": "f6a2b4aa-df52-4e7a-a2b8-d2ce1ad4dce7",
+    "nombre": "disney98fd31",
+    "status": "",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
     "title": "Países Bajos vs. Inglaterra",
     "league": "FIH Pro League",
     "fecha-evento": "",
@@ -575,6 +545,46 @@
     "fecha-evento": "",
     "img": "019c293d-d144-7095-a18c-aa3ce2109291",
     "nombre": "disneyfdea96",
+    "status": "",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Racing Santander vs. Mirandés",
+    "league": "Segunda División de España",
+    "fecha-evento": "",
+    "img": "019c0206-c51c-7dcd-8eb0-16563e994482",
+    "nombre": "disneye22cc8",
+    "status": "",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Roma vs. Cagliari",
+    "league": "Seria A",
+    "fecha-evento": "",
+    "img": "019c0206-57f7-7451-811d-0a7cb29327e8",
+    "nombre": "disney51f1f2",
+    "status": "",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Sint Maarten vs. Trinidad & Tobago (Fase de Grupos)",
+    "league": "CONCACAF Sub-17",
+    "fecha-evento": "",
+    "img": "019c0206-e28a-7756-b30c-e36b4edde5bc",
+    "nombre": "disney1767df",
+    "status": "",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Sheffield United vs. Middlesbrough",
+    "league": "Championship de Inglaterra",
+    "fecha-evento": "",
+    "img": "019c0206-9f26-7c99-b0d6-a28d38e7f6f2",
+    "nombre": "disney38ddda",
     "status": "",
     "duration": 135,
     "play_url": ""
