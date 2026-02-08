@@ -1,15 +1,5 @@
 [
   {
-    "title": "WM Phoenix Open: Featured Group 2 (Ronda Final)",
-    "league": "PGA TOUR",
-    "fecha-evento": "2026-02-08T11:45:01-05:00",
-    "img": "9c68eb2a-f445-4f05-b8f3-6f689bbacfd3",
-    "nombre": "disneyf547c7",
-    "status": "11:45",
-    "duration": 375,
-    "play_url": "https://www.disneyplus.com/es-es/play/1f8ab46a-2de7-4b55-b62d-f7e3201ab4a4"
-  },
-  {
     "title": "Ivy League Fencing Championship",
     "league": "NCAA Esgrima Masculino",
     "fecha-evento": "2026-02-08T09:10:26-05:00",
@@ -18,16 +8,6 @@
     "status": "09:10",
     "duration": 590,
     "play_url": "https://www.disneyplus.com/es-es/play/59213575-fd71-48a7-b0d2-1a87f6e75a77"
-  },
-  {
-    "title": "LA Clippers vs. Minnesota Timberwolves",
-    "league": "NBA",
-    "fecha-evento": "2026-02-08T15:30:00-05:00",
-    "img": "019c29b0-a550-79cf-a389-5c53ae13971d",
-    "nombre": "disney35ca85",
-    "status": "15:30",
-    "duration": 150,
-    "play_url": "https://www.disneyplus.com/es-es/play/b91d4fb2-eefd-4b2b-be7c-5ecb175f9de0"
   },
   {
     "title": "Super Bowl LX | Seattle Seahawks vs. New England Patriots",
@@ -62,12 +42,12 @@
   {
     "title": "Belize vs. Curacao (Fase de Grupos)",
     "league": "CONCACAF Sub-17",
-    "fecha-evento": "",
+    "fecha-evento": "2026-02-08T17:50:00-05:00",
     "img": "019bfcdc-bb0e-7739-9514-844b8cfe5c89",
-    "nombre": "disneyba34a4",
-    "status": "",
-    "duration": 135,
-    "play_url": ""
+    "nombre": "disneyfdcf03",
+    "status": "17:50",
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/b206ad72-793c-4cb9-a561-4839813b5508"
   },
   {
     "title": "Vélez Sarsfield vs. Boca Juniors",
@@ -203,7 +183,7 @@
     "title": "ABN AMRO Open (Primera Ronda)",
     "league": "ATP",
     "fecha-evento": "",
-    "img": "019c1f55-9a17-7d86-aa87-6514b4adc64c",
+    "img": "019c3f77-78bd-779e-b8c0-a360e12a1eb3",
     "nombre": "disney993f39",
     "status": "",
     "duration": 135,
@@ -535,6 +515,16 @@
     "fecha-evento": "",
     "img": "019c25cc-c9e0-7287-a335-b454fda17c8f",
     "nombre": "disney56f840",
+    "status": "",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "China vs. Inglaterra",
+    "league": "Women's FIH Pro League",
+    "fecha-evento": "",
+    "img": "019c24ad-4fb4-7120-a251-2cb2668e69ab",
+    "nombre": "disney0a4265",
     "status": "",
     "duration": 135,
     "play_url": ""
