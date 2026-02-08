@@ -20,16 +20,6 @@
     "play_url": "https://www.disneyplus.com/es-es/play/69288e2a-c5bc-4c23-ada7-6e39963b40b0"
   },
   {
-    "title": "Qatar TotalEnergies Open / Grandstand 3",
-    "league": "WTA",
-    "fecha-evento": "2026-02-08T05:30:01-05:00",
-    "img": "04e43d75-f50d-4fcb-992f-d16d3e50f5d1",
-    "nombre": "disney59ea46",
-    "status": "05:30",
-    "duration": 375,
-    "play_url": "https://www.disneyplus.com/es-es/play/52217cec-2d81-4b02-a40d-60c0f9cf3a62"
-  },
-  {
     "title": "Qatar TotalEnergies Open / Centre Court",
     "league": "WTA",
     "fecha-evento": "2026-02-08T07:00:20-05:00",
@@ -150,16 +140,6 @@
     "play_url": "https://www.disneyplus.com/es-es/play/42ed5933-319e-4a58-92a3-c5a87207aed3"
   },
   {
-    "title": "#3 Oklahoma vs. #18 Arizona",
-    "league": "NCAA Softball",
-    "fecha-evento": "2026-02-08T13:00:00-05:00",
-    "img": "019c0735-374b-7544-96f4-6c138a0f8069",
-    "nombre": "disneye7b5e7",
-    "status": "13:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/0dc73b56-89db-4fd2-af87-bf1c134d4b76"
-  },
-  {
     "title": "UNC Greensboro vs. Furman",
     "league": "Básquetbol Masculino NCAA",
     "fecha-evento": "2026-02-08T13:00:02-05:00",
@@ -168,6 +148,16 @@
     "status": "13:00",
     "duration": 120,
     "play_url": "https://www.disneyplus.com/es-es/play/3a70ad05-b658-4564-aaf7-0fc7c1dfe943"
+  },
+  {
+    "title": "#3 Oklahoma vs. #18 Arizona",
+    "league": "NCAA Softball",
+    "fecha-evento": "2026-02-08T13:00:00-05:00",
+    "img": "019c0735-374b-7544-96f4-6c138a0f8069",
+    "nombre": "disneye7b5e7",
+    "status": "13:00",
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/0dc73b56-89db-4fd2-af87-bf1c134d4b76"
   },
   {
     "title": "Virginia vs. Coastal Carolina",
@@ -435,6 +425,16 @@
     "fecha-evento": "",
     "img": "019bfac0-7fdb-76dc-9b2c-402db79a378a",
     "nombre": "disney734ca4",
+    "status": "",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Qatar TotalEnergies Open / Grandstand 3",
+    "league": "WTA",
+    "fecha-evento": "",
+    "img": "04e43d75-f50d-4fcb-992f-d16d3e50f5d1",
+    "nombre": "disneye8797f",
     "status": "",
     "duration": 135,
     "play_url": ""
