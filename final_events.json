@@ -26,19 +26,6 @@
     "k2": "446cb08af03420192e7e4aaec8a5e13f"
   },
   {
-    "title": "Roma vs. Cagliari",
-    "league": "Seria A",
-    "fecha-evento": "2026-02-09T14:30:00-05:00",
-    "img": "019c0206-57f7-7451-811d-0a7cb29327e8",
-    "nombre": "disney11702e",
-    "status": "14:30",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/4a6f1d6b-3b16-4f1f-9f71-0887f5a438b1",
-    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1770754381~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Ff25bdf06-81c9-4a7c-b128-3128d610ad17-1762951253360%2F~psid=2fdf5597-d9d6-4961-879c-d9b7edd697de~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=203ead11127109e44ab6950d6a7bca95f0188d32650675834f87d020fe95f24c/clt1/va02/disneyplus/channel/f25bdf06-81c9-4a7c-b128-3128d610ad17-1762951253360/ctr-all-sliding-alt1.m3u8?v=1&hash=57a1e5c4737768952c5164be5d4f5ba525d47674",
-    "k1": "cf1d35b20269459e9b47c7cafb74186d",
-    "k2": "ce4b2f1ade4b32cf806a5407fce43061"
-  },
-  {
     "title": "Sheffield United vs. Middlesbrough",
     "league": "Championship de Inglaterra",
     "fecha-evento": "2026-02-09T14:50:00-05:00",
@@ -50,19 +37,6 @@
     "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1770754405~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F7f9052ce-8143-43a6-9656-a8c00c4a3e56-1762950862652%2F~psid=1182c9be-bee1-448e-b6b5-e78ce3e67cb2~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=313b807ce94a821f0547725517258f64e842757cea031c473ba531c693311fea/clt1/va02/disneyplus/channel/7f9052ce-8143-43a6-9656-a8c00c4a3e56-1762950862652/ctr-all-sliding-alt1.m3u8?v=1&hash=2daf186937da77473bf07bbbecfc5597024e944f",
     "k1": "d5e1a243d95848c2867a295acae5239f",
     "k2": "feff345f5e6612d044ee943ccff222b3"
-  },
-  {
-    "title": "Sint Maarten vs. Trinidad & Tobago (Fase de Grupos)",
-    "league": "CONCACAF Sub-17",
-    "fecha-evento": "2026-02-09T14:50:10-05:00",
-    "img": "019c0206-e28a-7756-b30c-e36b4edde5bc",
-    "nombre": "disney9181f8",
-    "status": "14:50",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/34774934-8b5d-4f99-af01-dd8748e61aa9",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1770754431~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F09%2FSint_Maarten_vs_Trinidad__20260209_1770662486136%2F~psid=18403592-9eef-4fad-a6cb-cbdc127c44a4~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=00e3c20cd72be79c5124c17883c40cfdaea92d24cb9fd2d3c98f145ee585d932/clt1/va02/disneyplus/event/2026/02/09/Sint_Maarten_vs_Trinidad__20260209_1770662486136/ctr-all-hdri-complete.m3u8?v=1&hash=d614bd6149fc6fc76897eebbcd78fef5d57741ef",
-    "k1": "ba19da3fb0724966b9e0565e180493fb",
-    "k2": "77a4b29eb6c03e4ebf6392c49db7134f"
   },
   {
     "title": "IEB+ Argentina Open (Primera Ronda)",
@@ -587,6 +561,26 @@
     "img": "019c263e-7c8a-7631-be1d-daa2e4c3bde1",
     "nombre": "disney2fd7d0",
     "status": "19:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Noblesville Boom vs. Long Island Nets",
+    "league": "NBA G League",
+    "fecha-evento": "2026-02-10T19:00:00-05:00",
+    "img": "019c0731-7afd-78b3-894d-753f3c866a73",
+    "nombre": "disneyc5f0e3",
+    "status": "19:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Haití vs. Guatemala",
+    "league": "CONCACAF Sub-17",
+    "fecha-evento": "2026-02-10T19:50:00-05:00",
+    "img": "019c09c9-b7bc-7d13-a453-c2bee4db0901",
+    "nombre": "disney552d4d",
+    "status": "19:50",
     "duration": 135,
     "play_url": ""
   }
