@@ -1,18 +1,5 @@
 [
   {
-    "title": "Dallas Open / Grandstand",
-    "league": "ATP",
-    "fecha-evento": "2026-02-09T13:00:00-05:00",
-    "img": "019c2a1d-1b8a-7d58-bb3b-b737115b2848",
-    "nombre": "disneyf173ab",
-    "status": "13:00",
-    "duration": 360,
-    "play_url": "https://www.disneyplus.com/es-es/play/8a5c74e1-7fc8-4a79-b480-8e5f4c3a1cbb",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1770754244~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F09%2FDallas_Open_Grandstand_20260209_1770652829016%2F~psid=f03235bf-2c9a-4da0-8992-855d8c1e397d~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=40ab9a464f6682d83dfe0994c15a7586a6c594fe36d345a0a617bb6cdf5c32cc/clt1/va02/disneyplus/event/2026/02/09/Dallas_Open_Grandstand_20260209_1770652829016/ctr-all-hdri-complete.m3u8?v=1&hash=5ab064a44ebb3ce5d6f40f997c908d93e4edda4a",
-    "k1": "5fc1f90341a44cf4890a0c28adf506c6",
-    "k2": "6b801b013dfde323a5c0cbdd8dad0c10"
-  },
-  {
     "title": "IEB+ Argentina Open (Primera Ronda)",
     "league": "ATP",
     "fecha-evento": "2026-02-09T16:30:00-05:00",
@@ -24,19 +11,6 @@
     "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1770759636~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F09%2FIEB_Argentina_Open_First__20260209_1770665405029%2F~psid=e5fc434b-51ae-4def-b73e-e00c025bd24c~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=1b19371c23ce33490a0e0cd44268b5cfc40783c717a450108500583148735304/clt1/va02/disneyplus/event/2026/02/09/IEB_Argentina_Open_First__20260209_1770665405029/ctr-all-hdri-complete.m3u8?v=1&hash=286b43d5bb1eff480a017f6904fd928d80e1b2e7",
     "k1": "30b1767fb0d341c88bf8e4eb9e5bbf77",
     "k2": "7c32ee9fc812486a1a5ac2d5f51414f6"
-  },
-  {
-    "title": "Dallas Open / Center Court (Doubles)",
-    "league": "ATP",
-    "fecha-evento": "2026-02-09T16:30:00-05:00",
-    "img": "6c49aca4-c1ab-442a-b212-33387b42e610",
-    "nombre": "disney9279bd",
-    "status": "16:30",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/e4430b6f-3122-4aab-8665-e91d657e0948",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1770759682~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F09%2FDallas_Open_Center_Court__20260209_1770665427043%2F~psid=2e202471-308d-4b4f-af4e-ec5f28dd1888~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=53e29f6bdbdc5fd68180dfc81a770c05314286e26e7a6a16a684570172733ada/clt1/va02/disneyplus/event/2026/02/09/Dallas_Open_Center_Court__20260209_1770665427043/ctr-all-hdri-complete.m3u8?v=1&hash=4dc3afa2710c88665ea988f7934716416f88c4ce",
-    "k1": "1edc154680044482a70d765bfb15e91b",
-    "k2": "fd54f4b6fd5575e793af11ac6d954e5f"
   },
   {
     "title": "Estudiantes de La Plata vs. Deportivo Riestra",
@@ -411,6 +385,16 @@
     "play_url": ""
   },
   {
+    "title": "Dallas Open / Grandstand",
+    "league": "ATP",
+    "fecha-evento": "2026-02-10T13:00:00-05:00",
+    "img": "019c2a1d-1b8a-7d58-bb3b-b737115b2848",
+    "nombre": "disney2c9add",
+    "status": "13:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
     "title": "Tottenham Hotspur vs. Newcastle United",
     "league": "Premier League",
     "fecha-evento": "2026-02-10T14:20:00-05:00",
@@ -597,6 +581,26 @@
     "img": "019c29c8-5540-7315-a31e-b3826456fd55",
     "nombre": "disneybf1ad4",
     "status": "19:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Atlético de San Luis vs. Pachuca (Jornada 8)",
+    "league": "Mexican Liga BBVA MX Femenil",
+    "fecha-evento": "2026-02-10T19:50:00-05:00",
+    "img": "019c09c9-67c4-76c7-a2f2-12c5664f944d",
+    "nombre": "disneyeef0c1",
+    "status": "19:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Sioux Falls Skyforce vs. Oklahoma City Blue",
+    "league": "NBA G League",
+    "fecha-evento": "2026-02-10T20:00:00-05:00",
+    "img": "019c09c9-bc17-7aa0-b496-bfcae6a4a740",
+    "nombre": "disneyeb8428",
+    "status": "20:00",
     "duration": 135,
     "play_url": ""
   }
