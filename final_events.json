@@ -10,16 +10,6 @@
     "play_url": "https://www.disneyplus.com/es-es/play/c7814186-575f-4e00-98d1-a683246b682e"
   },
   {
-    "title": "Premier Padel: Riyadh - Centre Court (Primera Ronda)",
-    "league": "Premier Padel",
-    "fecha-evento": "2026-02-09T04:00:14-05:00",
-    "img": "019c2ec3-9073-7aa4-8ce4-375645106d05",
-    "nombre": "disneya42349",
-    "status": "04:00",
-    "duration": 600,
-    "play_url": "https://www.disneyplus.com/es-es/play/522726f0-708b-4755-9562-a69fc31736f7"
-  },
-  {
     "title": "Qatar TotalEnergies Open (First & Second Round)",
     "league": "WTA",
     "fecha-evento": "2026-02-09T04:40:34-05:00",
@@ -30,16 +20,6 @@
     "play_url": "https://www.disneyplus.com/es-es/play/40bae179-5a57-47fb-8ac2-ae5acbf18f13"
   },
   {
-    "title": "Qatar TotalEnergies Open / Grandstand 1",
-    "league": "WTA",
-    "fecha-evento": "2026-02-09T04:59:59-05:00",
-    "img": "f6a2b4aa-df52-4e7a-a2b8-d2ce1ad4dce7",
-    "nombre": "disneydeca2b",
-    "status": "04:59",
-    "duration": 600,
-    "play_url": "https://www.disneyplus.com/es-es/play/6bf566dd-635f-4e2b-a169-a1bacef13caf"
-  },
-  {
     "title": "Qatar TotalEnergies Open / Grandstand 3",
     "league": "WTA",
     "fecha-evento": "2026-02-09T05:30:00-05:00",
@@ -48,16 +28,6 @@
     "status": "05:30",
     "duration": 480,
     "play_url": "https://www.disneyplus.com/es-es/play/1b173939-2fb6-4402-bd3a-cfe565d5a4ea"
-  },
-  {
-    "title": "Qatar TotalEnergies Open / Grandstand 2",
-    "league": "WTA",
-    "fecha-evento": "2026-02-09T05:31:05-05:00",
-    "img": "2d8c698d-edee-4adf-8b15-50917cbf5604",
-    "nombre": "disneya52213",
-    "status": "05:31",
-    "duration": 479,
-    "play_url": "https://www.disneyplus.com/es-es/play/fb9a5629-cc5b-4426-aa04-a45b60b6c440"
   },
   {
     "title": "Qatar TotalEnergies Open / Court 4 (Doubles)",
@@ -78,26 +48,6 @@
     "status": "06:56",
     "duration": 349,
     "play_url": "https://www.disneyplus.com/es-es/play/8a80dcb7-b310-46dc-b44b-79eebefb4b66"
-  },
-  {
-    "title": "ABN AMRO Open / Centre Court (Doubles)",
-    "league": "ATP",
-    "fecha-evento": "2026-02-09T10:00:00-05:00",
-    "img": "15d174c3-ece5-4051-886b-38f74c7e4439",
-    "nombre": "disney081ae1",
-    "status": "10:00",
-    "duration": 165,
-    "play_url": "https://www.disneyplus.com/es-es/play/1a0ef13f-96a4-41a4-a55c-9cc6e9eb424b"
-  },
-  {
-    "title": "Shabab Al Ahli Dubai (UAE) vs. Al Hilal (KSA)",
-    "league": "AFC Champions League",
-    "fecha-evento": "2026-02-09T10:49:59-05:00",
-    "img": "019c0ad5-f606-767b-8fae-6b89eb10aed4",
-    "nombre": "disneye0f6f1",
-    "status": "10:49",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/4128c15f-4fc3-49d2-a423-0f229819c222"
   },
   {
     "title": "IEB+ Argentina Open (Primera Ronda)",
@@ -390,6 +340,26 @@
     "play_url": ""
   },
   {
+    "title": "Qatar TotalEnergies Open / Grandstand 1",
+    "league": "WTA",
+    "fecha-evento": "",
+    "img": "f6a2b4aa-df52-4e7a-a2b8-d2ce1ad4dce7",
+    "nombre": "disney98fd31",
+    "status": "",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Qatar TotalEnergies Open / Grandstand 2",
+    "league": "WTA",
+    "fecha-evento": "",
+    "img": "2d8c698d-edee-4adf-8b15-50917cbf5604",
+    "nombre": "disney6dbabb",
+    "status": "",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
     "title": "China vs. Inglaterra",
     "league": "Women's FIH Pro League",
     "fecha-evento": "",
@@ -495,6 +465,56 @@
     "fecha-evento": "",
     "img": "019c3ec2-e95c-708f-a8d4-2d7d5eac9413",
     "nombre": "disney8179f9",
+    "status": "",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Chelsea vs. Leeds United",
+    "league": "Premier League",
+    "fecha-evento": "",
+    "img": "019c24c8-1e47-7b7d-ab90-592ed249862f",
+    "nombre": "disney098a9e",
+    "status": "",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Everton vs. Bournemouth",
+    "league": "Premier League",
+    "fecha-evento": "",
+    "img": "019c24cd-dc20-701a-bd10-5a9c5681f23c",
+    "nombre": "disney2fcdbe",
+    "status": "",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Birmingham City vs. West Bromwich Albion",
+    "league": "Championship de Inglaterra",
+    "fecha-evento": "",
+    "img": "019c0731-5f2e-78a5-9bfc-e0acff6e15d9",
+    "nombre": "disneyf929b7",
+    "status": "",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "West Ham United vs. Manchester United",
+    "league": "Premier League",
+    "fecha-evento": "",
+    "img": "019c24d2-5c45-78c2-9e05-a067435046db",
+    "nombre": "disney58d9bb",
+    "status": "",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Costa Rica vs. Puerto Rico",
+    "league": "CONCACAF Sub-17",
+    "fecha-evento": "",
+    "img": "019c0731-0cae-7f7e-9e7f-1c3ccb32af48",
+    "nombre": "disney2eafce",
     "status": "",
     "duration": 135,
     "play_url": ""
