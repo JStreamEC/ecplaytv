@@ -13,32 +13,6 @@
     "k2": "6b801b013dfde323a5c0cbdd8dad0c10"
   },
   {
-    "title": "ABN AMRO Open (Primera Ronda)",
-    "league": "ATP",
-    "fecha-evento": "2026-02-09T13:30:08-05:00",
-    "img": "019c4249-8c00-7127-8e62-5951e213b682",
-    "nombre": "disney7eaf07",
-    "status": "13:30",
-    "duration": 240,
-    "play_url": "https://www.disneyplus.com/es-es/play/b0556b15-32c5-4e5b-b6f0-b1ab6da031ef",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1770754295~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F09%2FABN_AMRO_Open_First_Round_20260209_1770654617027%2F~psid=cf348703-8193-44d6-bf2b-f44bd395b918~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=485b22b9d86d7e99625d5ae0eeb9fd3f7cb97d9e121c403ee9079134e38a7c74/clt1/va02/disneyplus/event/2026/02/09/ABN_AMRO_Open_First_Round_20260209_1770654617027/ctr-all-hdri-complete.m3u8?v=1&hash=7211c9de90273e9ab1a380565f3768668119a36b",
-    "k1": "4cc02f98809842999a5c36138ae87cb2",
-    "k2": "446cb08af03420192e7e4aaec8a5e13f"
-  },
-  {
-    "title": "Sheffield United vs. Middlesbrough",
-    "league": "Championship de Inglaterra",
-    "fecha-evento": "2026-02-09T14:50:00-05:00",
-    "img": "019c0206-9f26-7c99-b0d6-a28d38e7f6f2",
-    "nombre": "disneye7dbd3",
-    "status": "14:50",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/55650215-5d16-4cdb-b332-67ef38e11dbf",
-    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1770754405~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F7f9052ce-8143-43a6-9656-a8c00c4a3e56-1762950862652%2F~psid=1182c9be-bee1-448e-b6b5-e78ce3e67cb2~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=313b807ce94a821f0547725517258f64e842757cea031c473ba531c693311fea/clt1/va02/disneyplus/channel/7f9052ce-8143-43a6-9656-a8c00c4a3e56-1762950862652/ctr-all-sliding-alt1.m3u8?v=1&hash=2daf186937da77473bf07bbbecfc5597024e944f",
-    "k1": "d5e1a243d95848c2867a295acae5239f",
-    "k2": "feff345f5e6612d044ee943ccff222b3"
-  },
-  {
     "title": "IEB+ Argentina Open (Primera Ronda)",
     "league": "ATP",
     "fecha-evento": "2026-02-09T16:30:00-05:00",
@@ -67,12 +41,15 @@
   {
     "title": "Estudiantes de La Plata vs. Deportivo Riestra",
     "league": "Liga Profesional de Fútbol",
-    "fecha-evento": "2026-02-09T17:00:00-05:00",
+    "fecha-evento": "2026-02-09T17:00:02-05:00",
     "img": "019c25e3-dcdf-7ad9-b525-9c787bd21d40",
-    "nombre": "disney5e2033",
+    "nombre": "disney42dec7",
     "status": "17:00",
     "duration": 135,
-    "play_url": ""
+    "play_url": "https://www.disneyplus.com/es-es/play/d0b8ea0b-bd6c-41cf-a827-c6f7a40b24e3",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1770762037~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F09%2FEstudiantes_de_La_Plata_v_20260209_1770667219025%2F~psid=d58e0df1-0191-4054-9056-31cf0bdf86ef~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=48a5c010f9d173e38b61c64b0b4532ccae5e547d7d8f8ba45261212229a3a5e2/clt1/va02/disneyplus/event/2026/02/09/Estudiantes_de_La_Plata_v_20260209_1770667219025/ctr-all-hdri-complete.m3u8?v=1&hash=f613ad5bdcb3c188f40d07dd475ff9d61e3c5c36",
+    "k1": "7d3cc15c12c6447bad473e5252afa9b8",
+    "k2": "02a689b3ed80edc2abdad86f8da7a21a"
   },
   {
     "title": "Cerro vs. Danubio",
@@ -240,6 +217,16 @@
     "fecha-evento": "2026-02-10T05:00:00-05:00",
     "img": "019c1dd5-4f65-7300-81e6-199549553426",
     "nombre": "disney8e84b7",
+    "status": "05:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "ABN AMRO Open (Primera Ronda)",
+    "league": "ATP",
+    "fecha-evento": "2026-02-10T05:00:00-05:00",
+    "img": "019c1f55-9a17-7d86-aa87-6514b4adc64c",
+    "nombre": "disney6ae3d4",
     "status": "05:00",
     "duration": 135,
     "play_url": ""
@@ -580,6 +567,26 @@
     "fecha-evento": "2026-02-10T19:50:00-05:00",
     "img": "019c09c9-b7bc-7d13-a453-c2bee4db0901",
     "nombre": "disney552d4d",
+    "status": "19:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Panamá vs. Nicaragua",
+    "league": "CONCACAF Sub-17",
+    "fecha-evento": "2026-02-10T19:50:00-05:00",
+    "img": "019c0a9d-4a36-715e-80aa-601fa149c74f",
+    "nombre": "disneyaa7aa1",
+    "status": "19:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Pumas UNAM vs. San Diego FC (First Round, Second Leg)",
+    "league": "CONCACAF Liga Campeones",
+    "fecha-evento": "2026-02-10T19:50:00-05:00",
+    "img": "019c29c8-5540-7315-a31e-b3826456fd55",
+    "nombre": "disneybf1ad4",
     "status": "19:50",
     "duration": 135,
     "play_url": ""
