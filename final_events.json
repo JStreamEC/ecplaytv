@@ -1,18 +1,5 @@
 [
   {
-    "title": "NC State vs. #24 Louisville",
-    "league": "Básquetbol Masculino NCAA",
-    "fecha-evento": "2026-02-09T19:00:02-05:00",
-    "img": "019b478e-b595-7d84-9467-b65c3418f2e6",
-    "nombre": "disneyf20a8c",
-    "status": "19:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/989e9f7f-6240-4984-b3d1-7052dc09a058",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1770769238~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F10%2FNC_State_vs_24_Louisville_20260210_1770674811955%2F~psid=6ddbe702-5148-4371-90ee-d5fd77e960c7~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=29d3933dec0a4abcd421d4375076d63fb82d5b98b051fb4f8dcedb7946f1fd4a/clt1/va02/disneyplus/event/2026/02/10/NC_State_vs_24_Louisville_20260210_1770674811955/ctr-all-hdri-complete.m3u8?v=1&hash=94e356d3e2a957c40a8aeb23a4a4b78966be3e51",
-    "k1": "97dabf6b31934b00b7a591ca84f28e36",
-    "k2": "d8f1d6912c94244d05d298fec45fbc92"
-  },
-  {
     "title": "Estudiantes de Río Cuarto vs. Independiente Rivadavia de Mendoza",
     "league": "Liga Profesional de Fútbol",
     "fecha-evento": "2026-02-09T19:15:00-05:00",
@@ -41,22 +28,28 @@
   {
     "title": "Alabama State vs. Southern",
     "league": "Básquetbol Masculino NCAA",
-    "fecha-evento": "2026-02-09T21:00:00-05:00",
+    "fecha-evento": "2026-02-09T21:00:02-05:00",
     "img": "7d8bf704-3e66-45ee-b12f-4034a7c80f7c",
-    "nombre": "disneyf615b8",
+    "nombre": "disney78fd1f",
     "status": "21:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/6ac286e4-dd5d-48d8-9391-ee38f3f093c7",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1770776436~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F10%2FAlabama_State_vs_Southern_20260210_1770683451967%2F~psid=c6891182-5b1a-4ffd-8cf8-dc7c04f38679~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=6b54dc411ce231f5cba45ea9723af5c542298f63f477e4afee5707e70f1ba5db/clt1/va02/disneyplus/event/2026/02/10/Alabama_State_vs_Southern_20260210_1770683451967/ctr-all-hdri-complete.m3u8?v=1&hash=ee47b3bc159b7cf0288387d16a7c8f685ec9ec67",
+    "k1": "39e2ce1b65dd45d39a46d9f118782c67",
+    "k2": "992f88fadc97a1dee598b44572b59ef0"
   },
   {
     "title": "#1 Arizona vs. #9 Kansas",
     "league": "Básquetbol Masculino NCAA",
-    "fecha-evento": "2026-02-09T21:00:00-05:00",
+    "fecha-evento": "2026-02-09T21:05:03-05:00",
     "img": "019c049c-e75a-72b6-a122-40f933e2b2f0",
-    "nombre": "disney73e987",
-    "status": "21:00",
-    "duration": 135,
-    "play_url": ""
+    "nombre": "disney77ee0f",
+    "status": "21:05",
+    "duration": 115,
+    "play_url": "https://www.disneyplus.com/es-es/play/22b715a9-c153-4a03-b82a-815048302476",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1770776481~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F10%2F1_Arizona_vs_9_Kansas_20260210_1770682851967%2F~psid=02dc5774-33e3-45f4-aa55-de5c3a69798e~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=a40c501a3c9c8b8f4ced7c3430ea08807a2bc12b39aa3fe799d276730fab334a/clt1/va02/disneyplus/event/2026/02/10/1_Arizona_vs_9_Kansas_20260210_1770682851967/ctr-all-hdri-complete.m3u8?v=1&hash=b615312b3fa8db41241ad82e8714e05451657187",
+    "k1": "dc557545e81041d290f509e8c87c7410",
+    "k2": "f96727ae617a4991e76ba6b483b21c90"
   },
   {
     "title": "#10 Oklahoma vs. #5 Vanderbilt",
@@ -597,6 +590,16 @@
     "fecha-evento": "2026-02-10T21:00:00-05:00",
     "img": "019beacc-7fbc-7cec-9a04-864bc91f1fb6",
     "nombre": "disney8de797",
+    "status": "21:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "#21 Arkansas vs. LSU",
+    "league": "Básquetbol Masculino NCAA",
+    "fecha-evento": "2026-02-10T21:00:00-05:00",
+    "img": "019ba07e-194b-78ef-a4e1-4edae05439ce",
+    "nombre": "disneyddab24",
     "status": "21:00",
     "duration": 135,
     "play_url": ""
