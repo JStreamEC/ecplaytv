@@ -13,19 +13,6 @@
     "k2": "fe81a90b119300b4d8c2b6a7c2afc901"
   },
   {
-    "title": "Qatar TotalEnergies Open (Segunda Ronda)",
-    "league": "WTA",
-    "fecha-evento": "2026-02-10T05:00:02-05:00",
-    "img": "019c1dd5-4f65-7300-81e6-199549553426",
-    "nombre": "disney3bbafe",
-    "status": "05:00",
-    "duration": 600,
-    "play_url": "https://www.disneyplus.com/es-es/play/6a97cbde-e2c5-4753-8de6-5db6ef2438d2",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1770831732~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F10%2FQatar_TotalEnergies_Open__20260210_1770710437036%2F~psid=53c03a7c-c951-46a8-a5ff-1df03876ccac~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=9459bc47001b9a6b24bd6fc0d6e5ea931c5a0c94b13b514c827864be51d1479d/clt1/va02/disneyplus/event/2026/02/10/Qatar_TotalEnergies_Open__20260210_1770710437036/ctr-all-hdri-complete.m3u8?v=1&hash=cff808704c8579db56888c5c9f3ea75b30dca3fd",
-    "k1": "091421257dab40b3b9f0e15441b9f460",
-    "k2": "79ac1cbd04f7f77fdb16aa86e5cac8f4"
-  },
-  {
     "title": "IEB+ Argentina Open (Primera Ronda)",
     "league": "ATP",
     "fecha-evento": "2026-02-10T11:00:04-05:00",
@@ -130,14 +117,30 @@
     "k2": "3726a7d7920a2b77152f653d8097a4a8"
   },
   {
+    "title": "Everton vs. Bournemouth",
+    "league": "Premier League",
+    "fecha-evento": "2026-02-10T14:20:00-05:00",
+    "img": "019c24cd-dc20-701a-bd10-5a9c5681f23c",
+    "nombre": "disneyd877d3",
+    "status": "14:20",
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/4980a755-0095-4408-82ef-d4c6141a121c",
+    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1770838283~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Fbbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1767092609127%2F~psid=04456c98-f2eb-43d0-9ba9-784c9d49487a~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=84e88a10fb3b0ee038e3debbfd0dc40d6cfb025598d4ba228246a5f37ed30458/clt1/va02/disneyplus/channel/bbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1767092609127/ctr-all-sliding-alt1.m3u8?v=1&hash=caa611b0aedb1e1aad3e4a1a02fe77959cc0e2c7",
+    "k1": "d554774caa0942c784236bcb1e54dafb",
+    "k2": "5f94c38722f49f2caa52a68977f0e129"
+  },
+  {
     "title": "Tottenham Hotspur vs. Newcastle United",
     "league": "Premier League",
     "fecha-evento": "2026-02-10T14:20:00-05:00",
     "img": "019c3ec2-e95c-708f-a8d4-2d7d5eac9413",
     "nombre": "disneyb517e5",
     "status": "14:20",
-    "duration": 135,
-    "play_url": ""
+    "duration": 125,
+    "play_url": "https://www.disneyplus.com/es-es/play/bd1b8356-daa4-4b7c-aeda-57e09b16c0bc",
+    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1770838331~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Ff25bdf06-81c9-4a7c-b128-3128d610ad17-1762951253360%2F~psid=d69a9890-20c4-4197-aad9-49211593e708~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=00a6f2be64e966b65b9937a224d9f860e8de7f725272cf3dd091f74120fd61c8/clt1/va02/disneyplus/channel/f25bdf06-81c9-4a7c-b128-3128d610ad17-1762951253360/ctr-all-sliding-alt1.m3u8?v=1&hash=57a1e5c4737768952c5164be5d4f5ba525d47674",
+    "k1": "b9c30e4771564c61b3299c54aca58a08",
+    "k2": "b3a2c0079d13401f67421c0c3f3a5698"
   },
   {
     "title": "Chelsea vs. Leeds United",
@@ -146,18 +149,11 @@
     "img": "019c24c8-1e47-7b7d-ab90-592ed249862f",
     "nombre": "disneyc8be36",
     "status": "14:20",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Everton vs. Bournemouth",
-    "league": "Premier League",
-    "fecha-evento": "2026-02-10T14:20:00-05:00",
-    "img": "019c24cd-dc20-701a-bd10-5a9c5681f23c",
-    "nombre": "disneyd877d3",
-    "status": "14:20",
-    "duration": 135,
-    "play_url": ""
+    "duration": 125,
+    "play_url": "https://www.disneyplus.com/es-es/play/3b3b798c-036a-4709-8cbf-530f954a38ef",
+    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1770838376~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F921e1311-bb26-43dd-84a6-9e2284959712-1762950465141%2F~psid=1a03b9a1-6b59-40b7-8e66-9a4f95a02d6f~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=60ec58793889b684d586e3eeb8a2aacb98cab1269774adc2598be51f5645958e/clt1/va02/disneyplus/channel/921e1311-bb26-43dd-84a6-9e2284959712-1762950465141/ctr-all-sliding-alt1.m3u8?v=1&hash=03915bf69f19826611ecdeecc79455eab40b229c",
+    "k1": "a0b3d0882fdc4bcaa29ec5a8da12e1c9",
+    "k2": "9a564c6b28bf49e869462ceb5db34654"
   },
   {
     "title": "Birmingham City vs. West Bromwich Albion",
@@ -606,6 +602,16 @@
     "img": "019c2a36-ef20-7953-9daa-31b8f7ba0776",
     "nombre": "disney85c5ac",
     "status": "13:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Manchester City vs. Fulham",
+    "league": "Premier League",
+    "fecha-evento": "2026-02-11T14:10:00-05:00",
+    "img": "019c24d6-1d50-796b-9daf-5dd96ab7d774",
+    "nombre": "disneyaf6c63",
+    "status": "14:10",
     "duration": 135,
     "play_url": ""
   }
