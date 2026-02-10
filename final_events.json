@@ -111,27 +111,36 @@
     "nombre": "disney5461f5",
     "status": "13:00",
     "duration": 135,
-    "play_url": ""
+    "play_url": "https://www.disneyplus.com/es-es/play/2cc7d9aa-fd5c-40e4-ae37-dd87951f9f69",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1770834037~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F10%2FAl_Ittihad_KSA_vs_Al_Ghar_20260210_1770739258055%2F~psid=5833402f-f1ad-4fe7-b767-776b26c8dd8b~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=b951fd204b6bfe4840aca384e37fbacaf3af7f9a9e75d7e1af114d6fd6ac0474/clt1/va02/disneyplus/event/2026/02/10/Al_Ittihad_KSA_vs_Al_Ghar_20260210_1770739258055/ctr-all-hdri-complete.m3u8?v=1&hash=860bf097b6e009e028097ed3686341f87cd0daac",
+    "k1": "f38fc5fa7d7c43f7a4b05887d1fc94ed",
+    "k2": "14d1264ee210e2ba0785e5e8328086ec"
   },
   {
     "title": "Dallas Open / Grandstand",
     "league": "ATP",
-    "fecha-evento": "2026-02-10T13:00:00-05:00",
+    "fecha-evento": "2026-02-10T13:00:01-05:00",
     "img": "019c2a1d-1b8a-7d58-bb3b-b737115b2848",
-    "nombre": "disney2c9add",
+    "nombre": "disneyf1447a",
     "status": "13:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 690,
+    "play_url": "https://www.disneyplus.com/es-es/play/2baf3ea4-cec5-4c10-966a-23e869044104",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1770834084~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F10%2FDallas_Open_Grandstand_20260210_1770739211030%2F~psid=d1457042-9966-40a7-95b1-51cb431270ce~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=a8509294c6415372f9c046489da4c0e53f36b3669723abae196b43c500a17d40/clt1/va02/disneyplus/event/2026/02/10/Dallas_Open_Grandstand_20260210_1770739211030/ctr-all-hdri-complete.m3u8?v=1&hash=c23a48703f40586ab354fca1951b90be09d46cab",
+    "k1": "7021230904d44edea40109c46b38a6fc",
+    "k2": "a8ec5fe557196fc223da6cd09c878652"
   },
   {
     "title": "Dallas Open (Primera Ronda)",
     "league": "ATP",
-    "fecha-evento": "2026-02-10T13:00:00-05:00",
+    "fecha-evento": "2026-02-10T13:00:08-05:00",
     "img": "019c2b88-6afe-7c4a-8a93-d6418373ef87",
-    "nombre": "disney682bc6",
+    "nombre": "disneycd6f63",
     "status": "13:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 360,
+    "play_url": "https://www.disneyplus.com/es-es/play/43a3fe0e-998d-4771-8f88-bab19dc7e72d",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1770834131~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F10%2FDallas_Open_First_Round_20260210_1770739248038%2F~psid=c862c4d2-e4eb-42dc-9047-adea5d05f334~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=a757c14992c09ba42dc4e5adae91307e83be38db13702b57dba1f22676ea5b1e/clt1/va02/disneyplus/event/2026/02/10/Dallas_Open_First_Round_20260210_1770739248038/ctr-all-hdri-complete.m3u8?v=1&hash=13efbc241782a60c8d6d2e470d2f794142e9f006",
+    "k1": "f0d27ba3723b41169055a81ed5f05afe",
+    "k2": "1f26576dd1575547e6eb08fb80448b0b"
   },
   {
     "title": "ABN AMRO Open (Primera Ronda)",
