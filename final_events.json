@@ -39,32 +39,6 @@
     "k2": "3726a7d7920a2b77152f653d8097a4a8"
   },
   {
-    "title": "Birmingham City vs. West Bromwich Albion",
-    "league": "Championship de Inglaterra",
-    "fecha-evento": "2026-02-10T14:50:00-05:00",
-    "img": "019c0731-5f2e-78a5-9bfc-e0acff6e15d9",
-    "nombre": "disney0af88e",
-    "status": "14:50",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/f2dd2131-1d34-4dab-9525-e48769ea65bb",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1770840039~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F10%2FBirmingham_City_vs_West_B_20260210_1770745823026%2F~psid=1ec258a7-59ee-456c-a019-d728f3f2f620~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=1048ff227bed004a6751479cca1fc58d02a0af71b9ab8fc9ab4b95367fcc57fa/clt1/va02/disneyplus/event/2026/02/10/Birmingham_City_vs_West_B_20260210_1770745823026/ctr-all-hdri-complete.m3u8?v=1&hash=e6bd7deb3530b6645225c2a3689fca544d441d19",
-    "k1": "eaa3c1695b4e4747ae9952d26445e8dd",
-    "k2": "ed224558cdbc40a138efda844a2e266b"
-  },
-  {
-    "title": "West Ham United vs. Manchester United",
-    "league": "Premier League",
-    "fecha-evento": "2026-02-10T14:55:02-05:00",
-    "img": "019c24d2-5c45-78c2-9e05-a067435046db",
-    "nombre": "disney40f3d9",
-    "status": "14:55",
-    "duration": 135,
-    "play_url": "https://www.disneyplus.com/es-es/play/304eb594-12ff-44cc-b366-3da42b41ba9c",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1770840089~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F10%2FWest_Ham_United_vs_Manche_20260210_1770746123027%2F~psid=540771e9-882d-4ff3-b6e7-ba848d815a17~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=073b21297e6627b2e72240a79b231f70fe1fdf3e19f294de1806ff1563dd58e4/clt1/va02/disneyplus/event/2026/02/10/West_Ham_United_vs_Manche_20260210_1770746123027/ctr-all-hdri-complete.m3u8?v=1&hash=b62a78db0a358ea3779860898c07000300efcb69",
-    "k1": "0353ba841f3c4786be30c5a1bfb20885",
-    "k2": "67d51dcf30836bb1980f5b41c74e8612"
-  },
-  {
     "title": "#17 Towson vs. #15 Johns Hopkins",
     "league": "NCAA Men's Lacrosse",
     "fecha-evento": "2026-02-10T16:00:03-05:00",
@@ -229,16 +203,6 @@
     "fecha-evento": "2026-02-10T21:00:00-05:00",
     "img": "019c4882-6763-7fa8-a479-f4af1249f5e9",
     "nombre": "disneya0f5ac",
-    "status": "21:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "#3 Houston vs. Utah",
-    "league": "Básquetbol Masculino NCAA",
-    "fecha-evento": "2026-02-10T21:00:00-05:00",
-    "img": "019c26dc-0326-7fec-b41c-1a998a47d2b9",
-    "nombre": "disney96f290",
     "status": "21:00",
     "duration": 135,
     "play_url": ""
@@ -609,6 +573,36 @@
     "fecha-evento": "2026-02-11T19:00:00-05:00",
     "img": "019c0c5e-d56b-7aed-bfee-30aec7ea230a",
     "nombre": "disneya569ea",
+    "status": "19:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "#14 Florida vs. Georgia",
+    "league": "Básquetbol Masculino NCAA",
+    "fecha-evento": "2026-02-11T19:00:00-05:00",
+    "img": "019c2514-3275-7a21-8eb8-f868e6a45011",
+    "nombre": "disney532e4a",
+    "status": "19:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "California vs. Syracuse",
+    "league": "Básquetbol Masculino NCAA",
+    "fecha-evento": "2026-02-11T19:00:00-05:00",
+    "img": "019bb817-dc1b-7968-8bba-b793c27ef08f",
+    "nombre": "disney4cafaa",
+    "status": "19:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "2026 Women's Amateur Asia-Pacific Championship (Primera Ronda)",
+    "league": "ESPN",
+    "fecha-evento": "2026-02-11T19:00:00-05:00",
+    "img": "5db9e94f-c685-4bfa-a048-3f90557447a9",
+    "nombre": "disney5ddef2",
     "status": "19:00",
     "duration": 135,
     "play_url": ""
