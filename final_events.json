@@ -65,8 +65,11 @@
     "img": "019bf7b3-7999-734c-a469-8015fc213c86",
     "nombre": "disneyeb4103",
     "status": "21:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/387d09c0-0eec-4444-8ede-4927d9c4425d",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1770775235~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F10%2F10_Oklahoma_vs_5_Vanderbi_20260210_1770682526259%2F~psid=850cdaa4-538f-4a3e-944b-67f039ff9304~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=1b7441f40f3fcf26992edbddb84c31a8f7e8484641f483cd06d9a8fdfa017609/clt1/va02/disneyplus/event/2026/02/10/10_Oklahoma_vs_5_Vanderbi_20260210_1770682526259/ctr-all-hdri-complete.m3u8?v=1&hash=b1743c2f795d0dafdddb9312f2febb1ee11ae04f",
+    "k1": "78c19998d4c745dc9c7d275d3396437f",
+    "k2": "0b9df92336cf9bf1379b3631b6a4c271"
   },
   {
     "title": "Paises Bajos vs. Namibia",
@@ -125,16 +128,6 @@
     "img": "019c2fe4-7f3d-7372-9bd0-1363803c5a5a",
     "nombre": "disney884582",
     "status": "04:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "ABN AMRO Open / Court 1",
-    "league": "ATP",
-    "fecha-evento": "2026-02-10T05:00:00-05:00",
-    "img": "3a6104e5-2cb4-4b6b-aa0e-588a617718e6",
-    "nombre": "disney1550d4",
-    "status": "05:00",
     "duration": 135,
     "play_url": ""
   },
@@ -219,6 +212,16 @@
     "play_url": ""
   },
   {
+    "title": "ABN AMRO Open / Court 1",
+    "league": "ATP",
+    "fecha-evento": "2026-02-10T07:00:00-05:00",
+    "img": "3a6104e5-2cb4-4b6b-aa0e-588a617718e6",
+    "nombre": "disneya1ac12",
+    "status": "07:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
     "title": "Elisabetta Cocciaretto (ITA) vs. Coco Gauff (USA)",
     "league": "WTA",
     "fecha-evento": "2026-02-10T07:00:00-05:00",
@@ -281,10 +284,10 @@
   {
     "title": "ABN AMRO Open / Wheelchair Arena (Wheelchair)",
     "league": "ATP",
-    "fecha-evento": "2026-02-10T10:00:00-05:00",
+    "fecha-evento": "2026-02-10T10:30:00-05:00",
     "img": "8b5f3f4a-a79d-459b-bb7e-90ff47b67fdd",
-    "nombre": "disney8d8368",
-    "status": "10:00",
+    "nombre": "disney0e1a3e",
+    "status": "10:30",
     "duration": 135,
     "play_url": ""
   },
