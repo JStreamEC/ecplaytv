@@ -39,45 +39,6 @@
     "k2": "3726a7d7920a2b77152f653d8097a4a8"
   },
   {
-    "title": "Everton vs. Bournemouth",
-    "league": "Premier League",
-    "fecha-evento": "2026-02-10T14:20:00-05:00",
-    "img": "019c24cd-dc20-701a-bd10-5a9c5681f23c",
-    "nombre": "disneyd877d3",
-    "status": "14:20",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/4980a755-0095-4408-82ef-d4c6141a121c",
-    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1770838283~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Fbbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1767092609127%2F~psid=04456c98-f2eb-43d0-9ba9-784c9d49487a~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=84e88a10fb3b0ee038e3debbfd0dc40d6cfb025598d4ba228246a5f37ed30458/clt1/va02/disneyplus/channel/bbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1767092609127/ctr-all-sliding-alt1.m3u8?v=1&hash=caa611b0aedb1e1aad3e4a1a02fe77959cc0e2c7",
-    "k1": "d554774caa0942c784236bcb1e54dafb",
-    "k2": "5f94c38722f49f2caa52a68977f0e129"
-  },
-  {
-    "title": "Tottenham Hotspur vs. Newcastle United",
-    "league": "Premier League",
-    "fecha-evento": "2026-02-10T14:20:00-05:00",
-    "img": "019c3ec2-e95c-708f-a8d4-2d7d5eac9413",
-    "nombre": "disneyb517e5",
-    "status": "14:20",
-    "duration": 125,
-    "play_url": "https://www.disneyplus.com/es-es/play/bd1b8356-daa4-4b7c-aeda-57e09b16c0bc",
-    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1770838331~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Ff25bdf06-81c9-4a7c-b128-3128d610ad17-1762951253360%2F~psid=d69a9890-20c4-4197-aad9-49211593e708~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=00a6f2be64e966b65b9937a224d9f860e8de7f725272cf3dd091f74120fd61c8/clt1/va02/disneyplus/channel/f25bdf06-81c9-4a7c-b128-3128d610ad17-1762951253360/ctr-all-sliding-alt1.m3u8?v=1&hash=57a1e5c4737768952c5164be5d4f5ba525d47674",
-    "k1": "b9c30e4771564c61b3299c54aca58a08",
-    "k2": "b3a2c0079d13401f67421c0c3f3a5698"
-  },
-  {
-    "title": "Chelsea vs. Leeds United",
-    "league": "Premier League",
-    "fecha-evento": "2026-02-10T14:20:00-05:00",
-    "img": "019c24c8-1e47-7b7d-ab90-592ed249862f",
-    "nombre": "disneyc8be36",
-    "status": "14:20",
-    "duration": 125,
-    "play_url": "https://www.disneyplus.com/es-es/play/3b3b798c-036a-4709-8cbf-530f954a38ef",
-    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1770838376~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F921e1311-bb26-43dd-84a6-9e2284959712-1762950465141%2F~psid=1a03b9a1-6b59-40b7-8e66-9a4f95a02d6f~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=60ec58793889b684d586e3eeb8a2aacb98cab1269774adc2598be51f5645958e/clt1/va02/disneyplus/channel/921e1311-bb26-43dd-84a6-9e2284959712-1762950465141/ctr-all-sliding-alt1.m3u8?v=1&hash=03915bf69f19826611ecdeecc79455eab40b229c",
-    "k1": "a0b3d0882fdc4bcaa29ec5a8da12e1c9",
-    "k2": "9a564c6b28bf49e869462ceb5db34654"
-  },
-  {
     "title": "Birmingham City vs. West Bromwich Albion",
     "league": "Championship de Inglaterra",
     "fecha-evento": "2026-02-10T14:50:00-05:00",
@@ -145,12 +106,15 @@
   {
     "title": "IEB+ Argentina Open (Primera Ronda)",
     "league": "ATP",
-    "fecha-evento": "2026-02-10T16:30:00-05:00",
+    "fecha-evento": "2026-02-10T16:30:01-05:00",
     "img": "019c2e9b-5016-733c-8a7d-a12d49df76a0",
-    "nombre": "disneya6f11e",
+    "nombre": "disneydaed37",
     "status": "16:30",
-    "duration": 135,
-    "play_url": ""
+    "duration": 240,
+    "play_url": "https://www.disneyplus.com/es-es/play/0261ef4c-37b8-4864-9fb7-9fa82a337ac3",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1770846038~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F10%2FIEB_Argentina_Open_First__20260210_1770751851016%2F~psid=208a1b73-8e5b-439f-adb7-85be25f6bd9c~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=ee33907ffc4370c04eebe902248904eb55ad0e87ae22f0d41646114ee58670ce/clt1/va02/disneyplus/event/2026/02/10/IEB_Argentina_Open_First__20260210_1770751851016/ctr-all-hdri-complete.m3u8?v=1&hash=799e91a36c1948ce1541a049fae723a10f549993",
+    "k1": "4356733af5c04f75a7c5f1dd3e8a60d2",
+    "k2": "d62e94e9d0ff5d150a54cb10c1b081ac"
   },
   {
     "title": "Antigua & Barbuda vs. Grenada (Fase de Grupos)",
@@ -629,6 +593,26 @@
     "img": "b5057dd0-af65-409a-b6cf-4251399fe298",
     "nombre": "disney35a0dd",
     "status": "15:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Dallas Open / Center Court (Doubles)",
+    "league": "ATP",
+    "fecha-evento": "2026-02-11T16:30:00-05:00",
+    "img": "6c49aca4-c1ab-442a-b212-33387b42e610",
+    "nombre": "disney0df727",
+    "status": "16:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Cuba vs. Belize (Fase de Grupos)",
+    "league": "CONCACAF Sub-17",
+    "fecha-evento": "2026-02-11T16:50:00-05:00",
+    "img": "019c0c5e-64b4-75d3-91e8-719d6d0062f0",
+    "nombre": "disney5ef98a",
+    "status": "16:50",
     "duration": 135,
     "play_url": ""
   }
