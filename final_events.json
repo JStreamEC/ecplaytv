@@ -26,19 +26,6 @@
     "k2": "1f26576dd1575547e6eb08fb80448b0b"
   },
   {
-    "title": "ABN AMRO Open (Primera Ronda)",
-    "league": "ATP",
-    "fecha-evento": "2026-02-10T13:30:21-05:00",
-    "img": "019c1f55-9a17-7d86-aa87-6514b4adc64c",
-    "nombre": "disneyd4d326",
-    "status": "13:30",
-    "duration": 240,
-    "play_url": "https://www.disneyplus.com/es-es/play/572843f4-46d3-436a-b8f3-4f79da49616e",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1770835238~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F10%2FABN_AMRO_Open_First_Round_20260210_1770741027030%2F~psid=46ad47ad-98b3-43a1-a5c4-073a620970f8~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=95d6acd8c9a4493a31226d286ebf4162a55dfdbbedb04847d6e210f3f4e5b9a2/clt1/va02/disneyplus/event/2026/02/10/ABN_AMRO_Open_First_Round_20260210_1770741027030/ctr-all-hdri-complete.m3u8?v=1&hash=99a34df1a6a6b9807fbc8e8fa55ca2685ef29cea",
-    "k1": "b80dd17256e246899b7dbba6b8bb1ae0",
-    "k2": "3726a7d7920a2b77152f653d8097a4a8"
-  },
-  {
     "title": "#17 Towson vs. #15 Johns Hopkins",
     "league": "NCAA Men's Lacrosse",
     "fecha-evento": "2026-02-10T16:00:03-05:00",
@@ -606,6 +593,16 @@
     "fecha-evento": "2026-02-11T19:00:00-05:00",
     "img": "019c2514-3275-7a21-8eb8-f868e6a45011",
     "nombre": "disney532e4a",
+    "status": "19:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "California vs. Syracuse",
+    "league": "Básquetbol Masculino NCAA",
+    "fecha-evento": "2026-02-11T19:00:00-05:00",
+    "img": "019bb817-dc1b-7968-8bba-b793c27ef08f",
+    "nombre": "disney4cafaa",
     "status": "19:00",
     "duration": 135,
     "play_url": ""
