@@ -39,32 +39,6 @@
     "k2": "79ac1cbd04f7f77fdb16aa86e5cac8f4"
   },
   {
-    "title": "Qatar TotalEnergies Open / Grandstand 1",
-    "league": "WTA",
-    "fecha-evento": "2026-02-10T05:00:03-05:00",
-    "img": "f6a2b4aa-df52-4e7a-a2b8-d2ce1ad4dce7",
-    "nombre": "disney1d36db",
-    "status": "05:00",
-    "duration": 600,
-    "play_url": "https://www.disneyplus.com/es-es/play/22dc49bb-1fdd-421d-9336-f60fe68802cc",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1770831758~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F10%2FQatar_TotalEnergies_Open__20260210_1770710430044%2F~psid=bba4e8d4-8795-4e52-b369-bb056b01bd1c~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=dd461a6c3ceb46a9065c97e147e096546b09129142c26d1a60c65e88ffd8c7d6/clt1/va02/disneyplus/event/2026/02/10/Qatar_TotalEnergies_Open__20260210_1770710430044/ctr-all-hdri-complete.m3u8?v=1&hash=71c3340c2914ffd2ec9b46007633ffe3315ad2cf",
-    "k1": "88c549c8cdb24f9889ba6151b975c13c",
-    "k2": "db7da3b1c5d636829c4f38a465a7ea78"
-  },
-  {
-    "title": "ABN AMRO Open / Court 1",
-    "league": "ATP",
-    "fecha-evento": "2026-02-10T07:00:01-05:00",
-    "img": "3a6104e5-2cb4-4b6b-aa0e-588a617718e6",
-    "nombre": "disney2d67f1",
-    "status": "07:00",
-    "duration": 540,
-    "play_url": "https://www.disneyplus.com/es-es/play/c2a01c63-9b57-4758-860d-4ec1e7ca2ded",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1770831785~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F10%2FABN_AMRO_Open_Court_1_20260210_1770717639043%2F~psid=ffbd7552-a207-4e8e-99c4-dc04533d9c14~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=dab2875efd70f7fdef68f4e6ac4e9ccfea00cb8cacf6a9af37c1337665b713e3/clt1/va02/disneyplus/event/2026/02/10/ABN_AMRO_Open_Court_1_20260210_1770717639043/ctr-all-hdri-complete.m3u8?v=1&hash=42f2f615b10665cf23633d1ec9686e9dea46eb6a",
-    "k1": "3693bbded3254048a3fe330937c809e7",
-    "k2": "50d219e0c40f9f9739493dbf4bb091d3"
-  },
-  {
     "title": "IEB+ Argentina Open (Primera Ronda)",
     "league": "ATP",
     "fecha-evento": "2026-02-10T11:00:04-05:00",
@@ -119,12 +93,15 @@
   {
     "title": "Estados Unidos vs. República Dominicana",
     "league": "CONCACAF Sub-17",
-    "fecha-evento": "2026-02-10T12:50:00-05:00",
+    "fecha-evento": "2026-02-10T12:50:02-05:00",
     "img": "019c0731-9cc2-7f24-ac63-1682925cf573",
-    "nombre": "disney32b209",
+    "nombre": "disney6e44fd",
     "status": "12:50",
-    "duration": 135,
-    "play_url": ""
+    "duration": 125,
+    "play_url": "https://www.disneyplus.com/es-es/play/9704fd38-836d-4336-b18a-acfc2f42ecb5",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1770832838~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F10%2FUnited_States_vs_Dominica_20260210_1770738626028%2F~psid=a97cfa4b-7bc4-4371-9cec-d0975f9de056~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=6f5fc275459e6938f5885efc861b33b91306fa94a3de01e5fa78258a780f1114/clt1/va02/disneyplus/event/2026/02/10/United_States_vs_Dominica_20260210_1770738626028/ctr-all-hdri-complete.m3u8?v=1&hash=97af6c13e66c23e513f56073b5e300978ed759ba",
+    "k1": "67858e73852844cd8b862b6e520c0e9d",
+    "k2": "5d630fe175b6e6e1ad2a8aed563192b5"
   },
   {
     "title": "Al Ittihad (KSA) vs. Al Gharafa (QAT)",
@@ -507,6 +484,16 @@
     "play_url": ""
   },
   {
+    "title": "Qatar TotalEnergies Open / Grandstand 1",
+    "league": "WTA",
+    "fecha-evento": "2026-02-11T05:00:00-05:00",
+    "img": "f6a2b4aa-df52-4e7a-a2b8-d2ce1ad4dce7",
+    "nombre": "disney761ec3",
+    "status": "05:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
     "title": "ABN AMRO Open (Segunda Ronda)",
     "league": "ATP",
     "fecha-evento": "2026-02-11T05:00:00-05:00",
@@ -522,6 +509,16 @@
     "fecha-evento": "2026-02-11T05:00:00-05:00",
     "img": "019c1e76-5d4f-7292-aa91-db09e9c7fdec",
     "nombre": "disney06dc18",
+    "status": "05:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "ABN AMRO Open / Court 1",
+    "league": "ATP",
+    "fecha-evento": "2026-02-11T05:00:00-05:00",
+    "img": "3a6104e5-2cb4-4b6b-aa0e-588a617718e6",
+    "nombre": "disneyd45458",
     "status": "05:00",
     "duration": 135,
     "play_url": ""
@@ -603,6 +600,16 @@
     "img": "019c2ff2-ec7d-7856-ba8b-884be6a419dd",
     "nombre": "disney0e1d25",
     "status": "11:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Rhythm vs. Glow (Game 7)",
+    "league": "Athletes Unlimited Basketball",
+    "fecha-evento": "2026-02-11T11:30:00-05:00",
+    "img": "38d85d84-de49-4659-8201-6283b6d4b3a9",
+    "nombre": "disneyb82532",
+    "status": "11:30",
     "duration": 135,
     "play_url": ""
   }
