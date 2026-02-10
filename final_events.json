@@ -13,19 +13,6 @@
     "k2": "fe81a90b119300b4d8c2b6a7c2afc901"
   },
   {
-    "title": "Premier Padel: Riyadh -  Centre Court (Primera Ronda)",
-    "league": "Premier Padel",
-    "fecha-evento": "2026-02-10T04:00:09-05:00",
-    "img": "019c2e94-da83-7a8e-b7fe-0bf60e27931f",
-    "nombre": "disney095ff1",
-    "status": "04:00",
-    "duration": 600,
-    "play_url": "https://www.disneyplus.com/es-es/play/877fb695-b6da-420a-b1e2-ff59bd168753",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1770831683~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F10%2FPremier_Padel_Riyadh_Cent_20260210_1770706805045%2F~psid=4781b0e0-f8e7-47b2-b5a1-56a0dd51ed58~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=bda1bd220983dc0a38131e439312a2e7e5fcda505798a768819ebed2328a6c8e/clt1/va02/disneyplus/event/2026/02/10/Premier_Padel_Riyadh_Cent_20260210_1770706805045/ctr-all-hdri-complete.m3u8?v=1&hash=82f1852b7043b9067677870f4c94910602af9f1c",
-    "k1": "eca48ddedb1c45a0a88c2298a22760f0",
-    "k2": "7b99837deb9433b6a7582174bbd6a014"
-  },
-  {
     "title": "Qatar TotalEnergies Open (Segunda Ronda)",
     "league": "WTA",
     "fecha-evento": "2026-02-10T05:00:02-05:00",
@@ -145,12 +132,15 @@
   {
     "title": "ABN AMRO Open (Primera Ronda)",
     "league": "ATP",
-    "fecha-evento": "2026-02-10T13:30:00-05:00",
+    "fecha-evento": "2026-02-10T13:30:21-05:00",
     "img": "019c1f55-9a17-7d86-aa87-6514b4adc64c",
-    "nombre": "disney240187",
+    "nombre": "disneyd4d326",
     "status": "13:30",
-    "duration": 135,
-    "play_url": ""
+    "duration": 240,
+    "play_url": "https://www.disneyplus.com/es-es/play/572843f4-46d3-436a-b8f3-4f79da49616e",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1770835238~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F10%2FABN_AMRO_Open_First_Round_20260210_1770741027030%2F~psid=46ad47ad-98b3-43a1-a5c4-073a620970f8~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=95d6acd8c9a4493a31226d286ebf4162a55dfdbbedb04847d6e210f3f4e5b9a2/clt1/va02/disneyplus/event/2026/02/10/ABN_AMRO_Open_First_Round_20260210_1770741027030/ctr-all-hdri-complete.m3u8?v=1&hash=99a34df1a6a6b9807fbc8e8fa55ca2685ef29cea",
+    "k1": "b80dd17256e246899b7dbba6b8bb1ae0",
+    "k2": "3726a7d7920a2b77152f653d8097a4a8"
   },
   {
     "title": "Tottenham Hotspur vs. Newcastle United",
@@ -619,6 +609,16 @@
     "img": "38d85d84-de49-4659-8201-6283b6d4b3a9",
     "nombre": "disneyb82532",
     "status": "11:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Dallas Open (Segunda Ronda)",
+    "league": "ATP",
+    "fecha-evento": "2026-02-11T13:00:00-05:00",
+    "img": "019c2a36-ef20-7953-9daa-31b8f7ba0776",
+    "nombre": "disney85c5ac",
+    "status": "13:00",
     "duration": 135,
     "play_url": ""
   }
