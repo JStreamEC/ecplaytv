@@ -10,19 +10,6 @@
     "play_url": "https://www.disneyplus.com/es-es/play/5dfe119a-d4f5-4c60-b71f-7333c6edad29"
   },
   {
-    "title": "Noblesville Boom vs. Long Island Nets",
-    "league": "NBA G League",
-    "fecha-evento": "2026-02-10T19:00:04-05:00",
-    "img": "019c0731-7afd-78b3-894d-753f3c866a73",
-    "nombre": "disney343d24",
-    "status": "19:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/f848a660-507f-40d8-b600-3ab07ccd66bb",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1770855818~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F11%2FNoblesville_Boom_vs_Long__20260211_1770760857025%2F~psid=a4693ecd-f203-422e-a466-3342ddcb5872~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=8af5cf20eff5952896eed7be560f9e484e7e6d88a2bf23534b6e77aeaec6da36/clt1/va02/disneyplus/event/2026/02/11/Noblesville_Boom_vs_Long__20260211_1770760857025/ctr-all-hdri-complete.m3u8?v=1&hash=bfe17bbade47ec05a81ee44b006152076f2f5fe6",
-    "k1": "a074908fe74545ee8327b6cd87bf9d37",
-    "k2": "97d5c0770cf30c8625ec1dff2951f52f"
-  },
-  {
     "title": "Pumas UNAM vs. San Diego FC (First Round, Second Leg)",
     "league": "CONCACAF Liga Campeones",
     "fecha-evento": "2026-02-10T19:50:00-05:00",
@@ -269,7 +256,7 @@
     "title": "ABN AMRO Open (Segunda Ronda)",
     "league": "ATP",
     "fecha-evento": "2026-02-11T05:00:00-05:00",
-    "img": "019c1f58-2b33-7b19-a2b3-360c91f57456",
+    "img": "019c4a87-d868-76dd-92b6-4509319e89ce",
     "nombre": "disneyd85587",
     "status": "05:00",
     "duration": 135,
@@ -641,6 +628,16 @@
     "fecha-evento": "2026-02-11T19:50:00-05:00",
     "img": "019c0ef4-a63a-72a4-8d86-98395892662a",
     "nombre": "disney19ce2f",
+    "status": "19:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Honduras vs. Bermuda (Fase de Grupos)",
+    "league": "CONCACAF Sub-17",
+    "fecha-evento": "2026-02-11T19:50:00-05:00",
+    "img": "019c0ef3-4435-745d-9782-c0820837db2b",
+    "nombre": "disney6b2bd7",
     "status": "19:50",
     "duration": 135,
     "play_url": ""
