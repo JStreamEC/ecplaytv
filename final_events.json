@@ -146,8 +146,11 @@
     "img": "019c24db-2a69-7a27-bd76-e68f4ac44153",
     "nombre": "disney2136d3",
     "status": "15:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/cd6229d0-b40c-4292-937c-e749a91c580d",
+    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1770927683~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Ff25bdf06-81c9-4a7c-b128-3128d610ad17-1762951253360%2F~psid=57957673-0bc3-417d-a02c-53a8f87e7149~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=aba0a2e64b8c4bf1e5b1fd4b2b340b4bab3a7799523b0ac572c3ea291a5f84e4/clt1/va02/disneyplus/channel/f25bdf06-81c9-4a7c-b128-3128d610ad17-1762951253360/ctr-all-sliding-alt1.m3u8?v=1&hash=57a1e5c4737768952c5164be5d4f5ba525d47674",
+    "k1": "2678dcce6b074e938fab8e16d524efad",
+    "k2": "b53d3a979a939501a738586d727e8c65"
   },
   {
     "title": "UConn vs. Fairfield",
@@ -493,6 +496,46 @@
     "play_url": ""
   },
   {
+    "title": "ABN AMRO Open / Court 1 (Segunda Ronda)",
+    "league": "ATP",
+    "fecha-evento": "2026-02-12T05:00:00-05:00",
+    "img": "3a6104e5-2cb4-4b6b-aa0e-588a617718e6",
+    "nombre": "disney054eee",
+    "status": "05:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "ABN AMRO Open / Wheelchair Arena (Wheelchair)",
+    "league": "ATP",
+    "fecha-evento": "2026-02-12T05:00:00-05:00",
+    "img": "8b5f3f4a-a79d-459b-bb7e-90ff47b67fdd",
+    "nombre": "disney3b0716",
+    "status": "05:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Qatar TotalEnergies Open / Grandstand 1 (Doubles Quarterfinals)",
+    "league": "WTA",
+    "fecha-evento": "2026-02-12T07:00:00-05:00",
+    "img": "f6a2b4aa-df52-4e7a-a2b8-d2ce1ad4dce7",
+    "nombre": "disney776fc7",
+    "status": "07:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Qatar TotalEnergies Open / Grandstand 2 (Doubles Quarterfinals)",
+    "league": "WTA",
+    "fecha-evento": "2026-02-12T07:00:00-05:00",
+    "img": "2d8c698d-edee-4adf-8b15-50917cbf5604",
+    "nombre": "disney85ac2a",
+    "status": "07:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
     "title": "Premier Padel: Riyadh - Secondary Court (Cuartos de Final #2)",
     "league": "Premier Padel",
     "fecha-evento": "2026-02-12T07:00:00-05:00",
@@ -563,42 +606,22 @@
     "play_url": ""
   },
   {
+    "title": "ABN AMRO Open / Wheelchair Court 1 (Wheelchair)",
+    "league": "ATP",
+    "fecha-evento": "2026-02-12T10:30:00-05:00",
+    "img": "df1de102-598f-45a7-b3cb-53a5ccff1a23",
+    "nombre": "disney7ce7a1",
+    "status": "10:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
     "title": "AT&T Pebble Beach Pro-Am: Main Feed (Primera Ronda)",
     "league": "PGA TOUR",
     "fecha-evento": "2026-02-12T11:30:00-05:00",
     "img": "936cab95-c9f2-44d6-9e65-73cadeaa2268",
     "nombre": "disneyf69228",
     "status": "11:30",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "UEFA Nations League | Sorteo",
-    "league": "UEFA Nations League",
-    "fecha-evento": "2026-02-12T12:00:00-05:00",
-    "img": "019c25e7-97b2-7a5e-9985-b3de847626fc",
-    "nombre": "disney74632e",
-    "status": "12:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "#6 Florida State vs. #1 Texas Tech",
-    "league": "NCAA Softball",
-    "fecha-evento": "2026-02-12T13:00:00-05:00",
-    "img": "019c1189-88bf-7021-a235-a74573c44f63",
-    "nombre": "disneyc6174e",
-    "status": "13:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Dallas Open / Grandstand (Doubles Quarterfinals)",
-    "league": "ATP",
-    "fecha-evento": "2026-02-12T14:00:00-05:00",
-    "img": "019c2a1d-1b8a-7d58-bb3b-b737115b2848",
-    "nombre": "disneycfba93",
-    "status": "14:00",
     "duration": 135,
     "play_url": ""
   }
