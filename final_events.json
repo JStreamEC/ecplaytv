@@ -13,19 +13,6 @@
     "k2": "ea026ac7a7e40cdcaa145c3f29fdfc3c"
   },
   {
-    "title": "ABN AMRO Open (Segunda Ronda)",
-    "league": "ATP",
-    "fecha-evento": "2026-02-11T13:30:02-05:00",
-    "img": "019c1f58-2b33-7b19-a2b3-360c91f57456",
-    "nombre": "disneydd547a",
-    "status": "13:30",
-    "duration": 240,
-    "play_url": "https://www.disneyplus.com/es-es/play/afac8c96-456d-4d9a-a721-dd23692baa5b",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1770926616~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F11%2FABN_AMRO_Open_Second_Roun_20260211_1770827458027%2F~psid=22162840-561b-4c5b-985a-4da2d69ca8f8~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=94c057b0e5e5fa4a122b63039f3c9b87eda0cd169f910324c5ed74ff2c2d63d4/clt1/va02/disneyplus/event/2026/02/11/ABN_AMRO_Open_Second_Roun_20260211_1770827458027/ctr-all-hdri-complete.m3u8?v=1&hash=ee4b1766420fe39e0c2a857161264c18f27d8421",
-    "k1": "e5d1ab4058c34fd8b29a32bd1c8303f3",
-    "k2": "3269ca15aa12b25fc90368c4d4f760b6"
-  },
-  {
     "title": "IEB+ Argentina Open (Segunda Ronda)",
     "league": "ATP",
     "fecha-evento": "2026-02-11T16:30:02-05:00",
@@ -384,6 +371,16 @@
     "img": "019ab5c1-55c9-755d-a054-03e9d30026aa",
     "nombre": "disney098f9d",
     "status": "04:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "ABN AMRO Open (Segunda Ronda)",
+    "league": "ATP",
+    "fecha-evento": "2026-02-12T05:00:00-05:00",
+    "img": "019c1f58-2b33-7b19-a2b3-360c91f57456",
+    "nombre": "disneyd86bcd",
+    "status": "05:00",
     "duration": 135,
     "play_url": ""
   },
