@@ -10,19 +10,6 @@
     "play_url": "https://www.disneyplus.com/es-es/play/faf6a847-ee20-4ca8-889b-08a02c740ea6"
   },
   {
-    "title": "IEB+ Argentina Open (Segunda Ronda)",
-    "league": "ATP",
-    "fecha-evento": "2026-02-11T11:00:03-05:00",
-    "img": "019c2ff2-ec7d-7856-ba8b-884be6a419dd",
-    "nombre": "disneyfeca16",
-    "status": "11:00",
-    "duration": 245,
-    "play_url": "https://www.disneyplus.com/es-es/play/318bc88c-342d-42a9-b4d8-438ddfb67978",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1770926532~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F11%2FIEB_Argentina_Open_Second_20260211_1770818418017%2F~psid=a23a758f-581d-43c7-af8b-40d1e3792169~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=713afba7001793c6896f08cf5c6b835d7cc25f9ccc385237eb90e66293bc4f5f/clt1/va02/disneyplus/event/2026/02/11/IEB_Argentina_Open_Second_20260211_1770818418017/ctr-all-hdri-complete.m3u8?v=1&hash=a7821e58a15b33b01eb12db6f88ad57e18dafa33",
-    "k1": "08e3ef1e6e9544c8959445ae2671b683",
-    "k2": "426400f470491ccdbfc4fc40cb11d0f1"
-  },
-  {
     "title": "Dallas Open (Segunda Ronda)",
     "league": "ATP",
     "fecha-evento": "2026-02-11T13:00:05-05:00",
@@ -101,19 +88,6 @@
     "k2": "d453d53ae3d7eff4ebe012593fc504df"
   },
   {
-    "title": "Dallas Open / Center Court (Doubles)",
-    "league": "ATP",
-    "fecha-evento": "2026-02-11T16:30:01-05:00",
-    "img": "6c49aca4-c1ab-442a-b212-33387b42e610",
-    "nombre": "disney277ba2",
-    "status": "16:30",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/4eebfe18-5d15-4a6d-ab25-4c9d37f564df",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1770932485~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F11%2FDallas_Open_Center_Court__20260211_1770838223043%2F~psid=09de8920-5f2f-4c99-b06c-b02011ffb858~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=f1931e3d6480ac69d2e309c739e73bc02e28d7c19badbe524f69b349cf6f2d69/clt1/va02/disneyplus/event/2026/02/11/Dallas_Open_Center_Court__20260211_1770838223043/ctr-all-hdri-complete.m3u8?v=1&hash=d933a8f92d68b5aca191faa5bef45f6be62ebeb6",
-    "k1": "721e9c5d09454f8596ff9d6f0da4531e",
-    "k2": "81b1f325fec75e6bbb018effc398e6a2"
-  },
-  {
     "title": "Joao Fonseca (BRA) vs. Alejandro Tabilo (CHI) (Segunda Ronda)",
     "league": "ATP",
     "fecha-evento": "2026-02-11T16:30:00-05:00",
@@ -127,14 +101,43 @@
     "k2": "9c1e79d6e454825817aaeb13e1c6ad37"
   },
   {
+    "title": "Dallas Open / Center Court (Doubles)",
+    "league": "ATP",
+    "fecha-evento": "2026-02-11T16:30:01-05:00",
+    "img": "6c49aca4-c1ab-442a-b212-33387b42e610",
+    "nombre": "disney277ba2",
+    "status": "16:30",
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/4eebfe18-5d15-4a6d-ab25-4c9d37f564df",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1770932485~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F11%2FDallas_Open_Center_Court__20260211_1770838223043%2F~psid=09de8920-5f2f-4c99-b06c-b02011ffb858~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=f1931e3d6480ac69d2e309c739e73bc02e28d7c19badbe524f69b349cf6f2d69/clt1/va02/disneyplus/event/2026/02/11/Dallas_Open_Center_Court__20260211_1770838223043/ctr-all-hdri-complete.m3u8?v=1&hash=d933a8f92d68b5aca191faa5bef45f6be62ebeb6",
+    "k1": "721e9c5d09454f8596ff9d6f0da4531e",
+    "k2": "81b1f325fec75e6bbb018effc398e6a2"
+  },
+  {
+    "title": "IEB+ Argentina Open (Segunda Ronda)",
+    "league": "ATP",
+    "fecha-evento": "2026-02-11T16:30:02-05:00",
+    "img": "019c2ff2-ec7d-7856-ba8b-884be6a419dd",
+    "nombre": "disneya6f471",
+    "status": "16:30",
+    "duration": 240,
+    "play_url": "https://www.disneyplus.com/es-es/play/e41fdf4e-328c-45e1-bd5d-ef3fa262e371",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1770933690~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F11%2FIEB_Argentina_Open_Second_20260211_1770838243054%2F~psid=3d511e59-fbae-4a34-9175-a5816f683edf~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=4d4b636f7b7ba2e6e95cd69fae111d6b2a1b0f0cd16867db0aaaa4c574696575/clt1/va02/disneyplus/event/2026/02/11/IEB_Argentina_Open_Second_20260211_1770838243054/ctr-all-hdri-complete.m3u8?v=1&hash=40fe1673c9abcbf0914c0d1b879de68bd3e7ab54",
+    "k1": "db926c9473de497d9ba7762b82ed8a00",
+    "k2": "9fb15edc6b828559fc39b14115c3887b"
+  },
+  {
     "title": "Cuba vs. Belize (Fase de Grupos)",
     "league": "CONCACAF Sub-17",
     "fecha-evento": "2026-02-11T16:50:00-05:00",
     "img": "019c0c5e-64b4-75d3-91e8-719d6d0062f0",
     "nombre": "disney5ef98a",
     "status": "16:50",
-    "duration": 135,
-    "play_url": ""
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/97e6b8cb-a906-4e40-b31e-8f37310004e4",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1770933735~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F11%2FCuba_vs_Belize_Group_Stag_20260211_1770839422017%2F~psid=0d67d168-0329-487f-8599-ae9cf82fc316~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=1dbe28d4d57a714890dd5380af05877fa6ad13271f13fabe98bef28a90bd1bb0/clt1/va02/disneyplus/event/2026/02/11/Cuba_vs_Belize_Group_Stag_20260211_1770839422017/ctr-all-hdri-complete.m3u8?v=1&hash=06a97cb6d88c1bf623807ff63c6397ed2ac9dc09",
+    "k1": "bc8423a95ac24e2cadb0fccd59c60cc8",
+    "k2": "b31c1db7e7a5b46298fde4ff3ecc8c7a"
   },
   {
     "title": "Naismith Basketball Hall of Fame Finalists Reveal Show",
@@ -593,6 +596,16 @@
     "img": "019c2a1d-1b8a-7d58-bb3b-b737115b2848",
     "nombre": "disneycfba93",
     "status": "14:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Brentford vs. Arsenal",
+    "league": "Premier League",
+    "fecha-evento": "2026-02-12T14:50:00-05:00",
+    "img": "019c24dd-5c91-73d9-bc05-5d558eda838f",
+    "nombre": "disneyae6407",
+    "status": "14:50",
     "duration": 135,
     "play_url": ""
   }
