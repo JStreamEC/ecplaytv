@@ -1,15 +1,5 @@
 [
   {
-    "title": "ABN AMRO Open / Court 1",
-    "league": "ATP",
-    "fecha-evento": "2026-02-11T05:00:01-05:00",
-    "img": "3a6104e5-2cb4-4b6b-aa0e-588a617718e6",
-    "nombre": "disney2b1d74",
-    "status": "05:00",
-    "duration": 660,
-    "play_url": "https://www.disneyplus.com/es-es/play/faf6a847-ee20-4ca8-889b-08a02c740ea6"
-  },
-  {
     "title": "Dallas Open (Segunda Ronda)",
     "league": "ATP",
     "fecha-evento": "2026-02-11T13:00:05-05:00",
@@ -49,58 +39,6 @@
     "k2": "3269ca15aa12b25fc90368c4d4f760b6"
   },
   {
-    "title": "Canadá vs. Jamaica (Fase de Grupos)",
-    "league": "CONCACAF Sub-17",
-    "fecha-evento": "2026-02-11T14:50:17-05:00",
-    "img": "019c0c5e-b78f-7a68-8384-3d82876e8bb7",
-    "nombre": "disney16ad50",
-    "status": "14:50",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/ef032994-bad3-431b-a9a5-be862152a05c",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1770926750~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F11%2FCanada_vs_Jamaica_Group_S_20260211_1770832251041%2F~psid=83a6dd93-b4c4-4ec4-a58e-6393f70138e5~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=ce15c1d1ae40a9132ce81f321cd88d8c5ede58d7dcd3c83d9a5ccf2d4f49a9dd/clt1/va02/disneyplus/event/2026/02/11/Canada_vs_Jamaica_Group_S_20260211_1770832251041/ctr-all-hdri-complete.m3u8?v=1&hash=81a2599a9b9a461402b3221d7e2a06806b3de5fb",
-    "k1": "4715637965584f3dbe262df394f5ce59",
-    "k2": "bf6f2a700eecdc68c353117f2b2d52fd"
-  },
-  {
-    "title": "Sunderland vs. Liverpool",
-    "league": "Premier League",
-    "fecha-evento": "2026-02-11T15:00:00-05:00",
-    "img": "019c24db-2a69-7a27-bd76-e68f4ac44153",
-    "nombre": "disney2136d3",
-    "status": "15:00",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/cd6229d0-b40c-4292-937c-e749a91c580d",
-    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1770927683~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Ff25bdf06-81c9-4a7c-b128-3128d610ad17-1762951253360%2F~psid=57957673-0bc3-417d-a02c-53a8f87e7149~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=aba0a2e64b8c4bf1e5b1fd4b2b340b4bab3a7799523b0ac572c3ea291a5f84e4/clt1/va02/disneyplus/channel/f25bdf06-81c9-4a7c-b128-3128d610ad17-1762951253360/ctr-all-sliding-alt1.m3u8?v=1&hash=57a1e5c4737768952c5164be5d4f5ba525d47674",
-    "k1": "2678dcce6b074e938fab8e16d524efad",
-    "k2": "b53d3a979a939501a738586d727e8c65"
-  },
-  {
-    "title": "UConn vs. Fairfield",
-    "league": "NCAA Women's Lacrosse",
-    "fecha-evento": "2026-02-11T15:00:00-05:00",
-    "img": "b5057dd0-af65-409a-b6cf-4251399fe298",
-    "nombre": "disney35a0dd",
-    "status": "15:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/9fb9dccd-74fa-4e4f-a11f-7d0fc2fecfc8",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1770926777~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F11%2FUConn_vs_Fairfield_20260211_1770832802028%2F~psid=bdc051d0-88f0-4810-b3cb-7977db32322f~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=5b383c6930bc3e189d39c1848a7d2bdacacbe11a28cdfa44ffa38360a75676fe/clt1/va02/disneyplus/event/2026/02/11/UConn_vs_Fairfield_20260211_1770832802028/ctr-all-hdri-complete.m3u8?v=1&hash=e7d86689d80ae7164878c7de9d69e994c5c110d9",
-    "k1": "a930606b1cc543969cc7195ace75c362",
-    "k2": "d453d53ae3d7eff4ebe012593fc504df"
-  },
-  {
-    "title": "Joao Fonseca (BRA) vs. Alejandro Tabilo (CHI) (Segunda Ronda)",
-    "league": "ATP",
-    "fecha-evento": "2026-02-11T16:30:00-05:00",
-    "img": "019c4c79-695c-777c-a765-7ee3d8eefb95",
-    "nombre": "disney26d7ff",
-    "status": "16:30",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/1c3ec147-bf0d-4345-9e16-5b4542bc7016",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1770932532~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F11%2FJoao_Fonseca_BRA_vs_Aleja_20260211_1770838203041%2F~psid=7b9b7b8e-1c0e-455c-9fc8-0c48c448f625~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=12a222c96b8ce6afe43996418f9dfb78ce6a0d8dd31b7a0aa931a05664d9cae2/clt1/va02/disneyplus/event/2026/02/11/Joao_Fonseca_BRA_vs_Aleja_20260211_1770838203041/ctr-all-hdri-complete.m3u8?v=1&hash=b370aa70b518727943c9bba0164bf49075e44432",
-    "k1": "75073da2be894f5f945448408e4f4000",
-    "k2": "9c1e79d6e454825817aaeb13e1c6ad37"
-  },
-  {
     "title": "Dallas Open / Center Court (Doubles)",
     "league": "ATP",
     "fecha-evento": "2026-02-11T16:30:01-05:00",
@@ -138,6 +76,19 @@
     "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1770933735~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F11%2FCuba_vs_Belize_Group_Stag_20260211_1770839422017%2F~psid=0d67d168-0329-487f-8599-ae9cf82fc316~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=1dbe28d4d57a714890dd5380af05877fa6ad13271f13fabe98bef28a90bd1bb0/clt1/va02/disneyplus/event/2026/02/11/Cuba_vs_Belize_Group_Stag_20260211_1770839422017/ctr-all-hdri-complete.m3u8?v=1&hash=06a97cb6d88c1bf623807ff63c6397ed2ac9dc09",
     "k1": "bc8423a95ac24e2cadb0fccd59c60cc8",
     "k2": "b31c1db7e7a5b46298fde4ff3ecc8c7a"
+  },
+  {
+    "title": "Joao Fonseca (BRA) vs. Alejandro Tabilo (CHI) (Segunda Ronda)",
+    "league": "ATP",
+    "fecha-evento": "2026-02-11T16:30:00-05:00",
+    "img": "019c4c79-695c-777c-a765-7ee3d8eefb95",
+    "nombre": "disney26d7ff",
+    "status": "16:30",
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/1c3ec147-bf0d-4345-9e16-5b4542bc7016",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1770932532~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F11%2FJoao_Fonseca_BRA_vs_Aleja_20260211_1770838203041%2F~psid=7b9b7b8e-1c0e-455c-9fc8-0c48c448f625~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=12a222c96b8ce6afe43996418f9dfb78ce6a0d8dd31b7a0aa931a05664d9cae2/clt1/va02/disneyplus/event/2026/02/11/Joao_Fonseca_BRA_vs_Aleja_20260211_1770838203041/ctr-all-hdri-complete.m3u8?v=1&hash=b370aa70b518727943c9bba0164bf49075e44432",
+    "k1": "75073da2be894f5f945448408e4f4000",
+    "k2": "9c1e79d6e454825817aaeb13e1c6ad37"
   },
   {
     "title": "Naismith Basketball Hall of Fame Finalists Reveal Show",
@@ -606,6 +557,46 @@
     "img": "019c24dd-5c91-73d9-bc05-5d558eda838f",
     "nombre": "disneyae6407",
     "status": "14:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Saint Martin vs. Barbados (Fase de Grupos)",
+    "league": "CONCACAF Sub-17",
+    "fecha-evento": "2026-02-12T14:50:00-05:00",
+    "img": "019c1189-9876-77e5-945d-5a245d1a7359",
+    "nombre": "disneybff94f",
+    "status": "14:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "#10 LSU vs. #23 Oklahoma State",
+    "league": "NCAA Softball",
+    "fecha-evento": "2026-02-12T15:00:00-05:00",
+    "img": "019c1189-b89a-7203-aaff-b8e85f279304",
+    "nombre": "disneyd9717e",
+    "status": "15:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "AT&T Pebble Beach Pro-Am (1° Ronda) | En español",
+    "league": "PGA TOUR",
+    "fecha-evento": "2026-02-12T15:00:00-05:00",
+    "img": "3129ca95-29c0-4679-9632-06ee30f58fff",
+    "nombre": "disney32c9cf",
+    "status": "15:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "#8 Nebraska vs. #17 Georgia",
+    "league": "NCAA Softball",
+    "fecha-evento": "2026-02-12T16:00:00-05:00",
+    "img": "019c118c-7eea-7ba7-bded-e5aed960f2fa",
+    "nombre": "disney62dece",
+    "status": "16:00",
     "duration": 135,
     "play_url": ""
   }
