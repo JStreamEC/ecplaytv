@@ -1,15 +1,5 @@
 [
   {
-    "title": "Deportivo Táchira (VEN) vs. The Strongest (BOL)",
-    "league": "CONMEBOL Libertadores",
-    "fecha-evento": "2026-02-10T19:00:00-05:00",
-    "img": "019c29c4-33a7-70d0-83ff-ef56756d00f5",
-    "nombre": "disney75c02e",
-    "status": "19:00",
-    "duration": 145,
-    "play_url": "https://www.disneyplus.com/es-es/play/5dfe119a-d4f5-4c60-b71f-7333c6edad29"
-  },
-  {
     "title": "Pumas UNAM vs. San Diego FC (First Round, Second Leg)",
     "league": "CONCACAF Liga Campeones",
     "fecha-evento": "2026-02-10T19:50:00-05:00",
@@ -34,19 +24,6 @@
     "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1770858141~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F11%2FHait_vs_Guatemala_20260211_1770763804027%2F~psid=8497672e-8ae7-4ed7-9beb-796c1ca5f2c4~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=f362da6bb1efc8b83f9ce892ed2c2b3c58978755cf96072a4f8f5a27c991a08b/clt1/va02/disneyplus/event/2026/02/11/Hait_vs_Guatemala_20260211_1770763804027/ctr-all-hdri-complete.m3u8?v=1&hash=a6eb3396c8cf398778ee95222fbff45ab18b2a0a",
     "k1": "7c1fd753affe4ac4b18f69122f8e01fb",
     "k2": "366c45699f2f2a3d5b758eb36c19ca4a"
-  },
-  {
-    "title": "Panamá vs. Nicaragua",
-    "league": "CONCACAF Sub-17",
-    "fecha-evento": "2026-02-10T19:50:02-05:00",
-    "img": "019c0a9d-4a36-715e-80aa-601fa149c74f",
-    "nombre": "disney701b22",
-    "status": "19:50",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/b68c4c0b-a4dc-45f8-af5a-db948db16dcf",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1770858171~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F11%2FPanam_vs_Nicaragua_20260211_1770763800061%2F~psid=3b8f2c3a-f833-4f47-b718-05800f0da3ee~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=0a785e137b8ed6f3eac459412cc1ec8ebfee67fb4a8b8ad8ff0632eb75860f51/clt1/va02/disneyplus/event/2026/02/11/Panam_vs_Nicaragua_20260211_1770763800061/ctr-all-hdri-complete.m3u8?v=1&hash=bdbf368f841133d93bafcf39378611bd04c33ad7",
-    "k1": "6df12ce813e3430fa5948333c9c33131",
-    "k2": "82d2f866f01beaa4bbf8316fab034df8"
   },
   {
     "title": "Atlético de San Luis vs. Pachuca (Jornada 8)",
@@ -638,6 +615,16 @@
     "fecha-evento": "2026-02-11T19:50:00-05:00",
     "img": "019c0ef3-4435-745d-9782-c0820837db2b",
     "nombre": "disney6b2bd7",
+    "status": "19:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Club América vs. CD Olimpia (First Round, Second Leg)",
+    "league": "CONCACAF Liga Campeones",
+    "fecha-evento": "2026-02-11T19:50:00-05:00",
+    "img": "019c299d-5e60-75a8-bc6a-e3b7a0fcfe4e",
+    "nombre": "disney889a3d",
     "status": "19:50",
     "duration": 135,
     "play_url": ""
