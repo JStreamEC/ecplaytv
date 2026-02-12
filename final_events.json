@@ -1,31 +1,5 @@
 [
   {
-    "title": "Stanford vs. Boston College",
-    "league": "Básquetbol Masculino NCAA",
-    "fecha-evento": "2026-02-11T21:00:00-05:00",
-    "img": "019bb817-e261-7af0-997c-fdebf3807499",
-    "nombre": "disneyb5f582",
-    "status": "21:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/32a7483e-564c-4fc4-af24-eff9c2ca5019",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1770949255~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F12%2FStanford_vs_Boston_Colleg_20260212_1770857073635%2F~psid=c0437748-efc6-4e1a-8b2e-8b076650cd89~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=47c14a2f92e722ceee444020196d682577b124aae17a334c66a1e3736e5a2c89/clt1/va02/disneyplus/event/2026/02/12/Stanford_vs_Boston_Colleg_20260212_1770857073635/ctr-all-hdri-complete.m3u8?v=1&hash=21eaa66890e8a03a851f2299d050500adc1bdcdf",
-    "k1": "bdec795f6a1f4babbe148bdcc1111853",
-    "k2": "54201690f7ea67a6fdb98f727c920331"
-  },
-  {
-    "title": "Tennessee vs. Mississippi State",
-    "league": "Básquetbol Masculino NCAA",
-    "fecha-evento": "2026-02-11T21:05:28-05:00",
-    "img": "019c28d2-2e09-7775-9672-ccb86cb7a10f",
-    "nombre": "disneye3c80d",
-    "status": "21:05",
-    "duration": 115,
-    "play_url": "https://www.disneyplus.com/es-es/play/14559908-95d7-49e3-912e-e16710185d14",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1770949306~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F12%2FTennessee_vs_Mississippi__20260212_1770854860401%2F~psid=0bf61a80-f020-48bd-8d70-bfb6b10fd864~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=1a4468e084c47e1f70ce06fc6c3450fb911aa95d0da6a20293658eda914ebbe3/clt1/va02/disneyplus/event/2026/02/12/Tennessee_vs_Mississippi__20260212_1770854860401/ctr-all-hdri-complete.m3u8?v=1&hash=635d2aa00fe645c6368ef6d6bac42f0697ed8295",
-    "k1": "a8c60e89e6314a9697a5fc7f6a1f212c",
-    "k2": "efb803ce952f25ae88cf68d50fd75ae4"
-  },
-  {
     "title": "Portland vs. San Diego",
     "league": "Básquetbol Masculino NCAA",
     "fecha-evento": "2026-02-11T21:30:00-05:00",
@@ -626,6 +600,26 @@
     "img": "019b7904-85a9-74a9-adae-c80cfe47b2d5",
     "nombre": "disney893f49",
     "status": "21:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Pepperdine vs. Loyola Marymount",
+    "league": "Básquet Femenino NCAA",
+    "fecha-evento": "2026-02-12T21:00:00-05:00",
+    "img": "f6fb3aeb-bca5-4f6b-99d2-d66f1b1e5218",
+    "nombre": "disney3d2a83",
+    "status": "21:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Pacific vs. Saint Mary's",
+    "league": "Básquet Femenino NCAA",
+    "fecha-evento": "2026-02-12T21:30:00-05:00",
+    "img": "d8579490-fba1-44d3-993e-6fc4cb3c3737",
+    "nombre": "disney2d3ea5",
+    "status": "21:30",
     "duration": 135,
     "play_url": ""
   }
