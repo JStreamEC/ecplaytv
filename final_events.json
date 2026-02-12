@@ -1,31 +1,5 @@
 [
   {
-    "title": "2026 Women's Amateur Asia-Pacific Championship (Primera Ronda)",
-    "league": "ESPN",
-    "fecha-evento": "2026-02-11T19:00:01-05:00",
-    "img": "5db9e94f-c685-4bfa-a048-3f90557447a9",
-    "nombre": "disneyac3dce",
-    "status": "19:00",
-    "duration": 180,
-    "play_url": "https://www.disneyplus.com/es-es/play/005badde-91fc-453a-a642-92c2a32f1d49",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1770942044~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F12%2F2026_Womens_Amateur_AsiaP_20260212_1770847210041%2F~psid=3adb9ab2-bae0-439a-99c9-aee8b82786ae~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=808c517ac21966c0706ec4d91d85df95a5d17687bb21161e72503fd38cfd138e/clt1/va02/disneyplus/event/2026/02/12/2026_Womens_Amateur_AsiaP_20260212_1770847210041/ctr-all-hdri-complete.m3u8?v=1&hash=10db1851cd1913ea38854127f92a94233fdf436f",
-    "k1": "411cd46183ec4667a86171874157a5ae",
-    "k2": "fcaebc33b8d3fe5dddd711f5cae42cc9"
-  },
-  {
-    "title": "New York Knicks vs. Philadelphia 76ers",
-    "league": "NBA",
-    "fecha-evento": "2026-02-11T19:30:00-05:00",
-    "img": "019c0ab6-0ac2-725f-b9e5-919c81523071",
-    "nombre": "disney3b81fd",
-    "status": "19:30",
-    "duration": 150,
-    "play_url": "https://www.disneyplus.com/es-es/play/25cc7304-1263-44cd-9c04-e192af35f23d",
-    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1770943246~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Ff25bdf06-81c9-4a7c-b128-3128d610ad17-1762951253360%2F~psid=7afa8570-473c-4ff9-b657-04207b382dc9~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=7e7f3d1ba659a18a65bcc9a6d11d8523dedd5cf00b106d17af8aadb949b6b46a/clt1/va02/disneyplus/channel/f25bdf06-81c9-4a7c-b128-3128d610ad17-1762951253360/ctr-all-sliding-alt1.m3u8?v=1&hash=57a1e5c4737768952c5164be5d4f5ba525d47674",
-    "k1": "2678dcce6b074e938fab8e16d524efad",
-    "k2": "b53d3a979a939501a738586d727e8c65"
-  },
-  {
     "title": "Honduras vs. Bermuda (Fase de Grupos)",
     "league": "CONCACAF Sub-17",
     "fecha-evento": "2026-02-11T19:50:00-05:00",
@@ -91,14 +65,30 @@
     "k2": "3d98c653353724c2c5407d031fb0a326"
   },
   {
+    "title": "Monterrey vs. Club Xelajú MC (First Round, Second Leg)",
+    "league": "CONCACAF Liga Campeones",
+    "fecha-evento": "2026-02-11T21:59:59-05:00",
+    "img": "019c3015-3b15-7815-aef8-e6379e13dd40",
+    "nombre": "disney5616e5",
+    "status": "21:59",
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/776658da-b305-4adf-964f-cd3eae8f8d0a",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1770952862~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F12%2FMonterrey_vs_Club_Xelaj_M_20260212_1770858025018%2F~psid=53179e7e-9b17-4199-893b-08ef3d997d4e~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=b0406175ff9d4cacfb8bcd71f01b2a6e2126d9b8ac47bc3cc27693aa321a9ad2/clt1/va02/disneyplus/event/2026/02/12/Monterrey_vs_Club_Xelaj_M_20260212_1770858025018/ctr-all-hdri-complete.m3u8?v=1&hash=88e07d5a01c70a1705ffe12d3d319158c0b7de77",
+    "k1": "542dd159fd1e450fbe71234c822ea285",
+    "k2": "7fe550210ab2073d4aac16da0bf9099f"
+  },
+  {
     "title": "Capitanes de Ciudad de México vs. Stockton Kings",
     "league": "NBA G League",
     "fecha-evento": "2026-02-11T22:00:00-05:00",
     "img": "019c0ef3-25a1-771a-bbbf-92c696f152a6",
     "nombre": "disney904eb8",
     "status": "22:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 150,
+    "play_url": "https://www.disneyplus.com/es-es/play/1091861e-b193-478c-9d3e-c82cde44e28d",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1770952913~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F12%2FCapitanes_de_Ciudad_de_Mx_20260212_1770858044043%2F~psid=7ed1f83f-c5ad-4c0e-a1ee-58233350f470~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=199169122a76edcabe60c041b0d08830c572e8b72b82499c2d372d6850cb6744/clt1/va02/disneyplus/event/2026/02/12/Capitanes_de_Ciudad_de_Mx_20260212_1770858044043/ctr-all-hdri-complete.m3u8?v=1&hash=558245016606666f0279eaa42f383aa2841f223d",
+    "k1": "ff2b00911bdb4fbdb392e42027fc5cd3",
+    "k2": "9dc0c0434db3735f0ea56038e91b53a7"
   },
   {
     "title": "Seattle U vs. Santa Clara",
@@ -107,28 +97,11 @@
     "img": "c56b4548-021b-4006-963c-e4564e127695",
     "nombre": "disney44cdd9",
     "status": "22:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Monterrey vs. Club Xelajú MC (First Round, Second Leg)",
-    "league": "CONCACAF Liga Campeones",
-    "fecha-evento": "2026-02-11T22:00:00-05:00",
-    "img": "019c3015-3b15-7815-aef8-e6379e13dd40",
-    "nombre": "disney576bf2",
-    "status": "22:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Pepperdine vs. Saint Mary's",
-    "league": "Básquetbol Masculino NCAA",
-    "fecha-evento": "2026-02-11T22:00:00-05:00",
-    "img": "c7356f57-eaf2-420b-a0f7-dabd988597a4",
-    "nombre": "disney0251f5",
-    "status": "22:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/ca7418b7-da1c-47ee-9bb5-c4eb8c1cc923",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1770952962~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F12%2FSeattle_U_vs_Santa_Clara_20260212_1770860447119%2F~psid=0236d0b8-bbb7-40bb-92dd-1bf7b14cd8f9~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=b36a5d81085832091f083a7f981d8ed7b8c42fabaed5a114fb7f1e67a66d15ba/clt1/va02/disneyplus/event/2026/02/12/Seattle_U_vs_Santa_Clara_20260212_1770860447119/ctr-all-hdri-complete.m3u8?v=1&hash=5f598f19171a21c06e4d3b143bf8deac91c44a00",
+    "k1": "d5f5e3fad2b4458eb0fd7b15147183df",
+    "k2": "1328bb0ebe3c5a26fada6dd01c953b12"
   },
   {
     "title": "San Diego Clippers vs. South Bay Lakers",
@@ -137,8 +110,11 @@
     "img": "019b7e30-538c-78e0-9a46-fe58741888e6",
     "nombre": "disney5be86a",
     "status": "22:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/796ae21a-29c2-49c1-91fc-cec2301a8967",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1770952998~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F12%2FSan_Diego_Clippers_vs_Sou_20260212_1770858023040%2F~psid=e0656f61-607b-4dc2-8334-05a01a822363~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=8dee9868d603f657e1cc3d61dea75ddcb77572422b992769895d2d497ecbc5f6/clt1/va02/disneyplus/event/2026/02/12/San_Diego_Clippers_vs_Sou_20260212_1770858023040/ctr-all-hdri-complete.m3u8?v=1&hash=7906b72a9573a22076e9adc23ff263ee7aa63c58",
+    "k1": "fd7b83eab862439b8dc568c6c409930b",
+    "k2": "640a48bb7fd58671d2170c217c68d180"
   },
   {
     "title": "Loyola Marymount vs. Pacific",
@@ -147,18 +123,37 @@
     "img": "7c3f9b7c-e43a-4292-8631-9770ead9b3ac",
     "nombre": "disneyc96d6c",
     "status": "22:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/7f82364c-ce23-49fe-854f-4e65d29c83f5",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1770953026~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F12%2FLoyola_Marymount_vs_Pacif_20260212_1770858008043%2F~psid=45048bdc-a31a-4a5f-a433-7f2431e45774~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=f4617bc8c605a6c85697faec5b9c2e213be3b386192a454dd1c264b931b5aed5/clt1/va02/disneyplus/event/2026/02/12/Loyola_Marymount_vs_Pacif_20260212_1770858008043/ctr-all-hdri-complete.m3u8?v=1&hash=2800d8047ef96d1955e8667bc5e8e55fc7f76787",
+    "k1": "286ac047b3ac4a35be7c9686ae59eccb",
+    "k2": "e214f97e51d4e75f665933c645204516"
+  },
+  {
+    "title": "Pepperdine vs. Saint Mary's",
+    "league": "Básquetbol Masculino NCAA",
+    "fecha-evento": "2026-02-11T22:00:01-05:00",
+    "img": "c7356f57-eaf2-420b-a0f7-dabd988597a4",
+    "nombre": "disney79a805",
+    "status": "22:00",
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/b56255e4-45d3-40e2-8fc7-f7cc77156d70",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1770953054~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F12%2FPepperdine_vs_Saint_Marys_20260212_1770861060499%2F~psid=6f3a0c67-f5f8-49b9-a572-4c6de24ddebc~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=1601719c83bd4326f1e358ce73dd547d160e8a68ae239f426472df1667a3dd69/clt1/va02/disneyplus/event/2026/02/12/Pepperdine_vs_Saint_Marys_20260212_1770861060499/ctr-all-hdri-complete.m3u8?v=1&hash=3031ce0e987a5b68643f33b946552a49a9e2fb29",
+    "k1": "3b30698261a442388e905b40caa3c8e7",
+    "k2": "d23ab1c1b0e9ffb636ba61b118947588"
   },
   {
     "title": "San Antonio Spurs vs. Golden State Warriors",
     "league": "NBA",
-    "fecha-evento": "2026-02-11T22:00:00-05:00",
+    "fecha-evento": "2026-02-11T22:04:03-05:00",
     "img": "019c47f7-9b53-7040-860c-eb8eb313c1f7",
-    "nombre": "disney0c8b7d",
-    "status": "22:00",
-    "duration": 135,
-    "play_url": ""
+    "nombre": "disneye6df1e",
+    "status": "22:04",
+    "duration": 146,
+    "play_url": "https://www.disneyplus.com/es-es/play/b5c9715d-1557-4224-93cc-85011377289d",
+    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1770953084~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Ff25bdf06-81c9-4a7c-b128-3128d610ad17-1762951253360%2F~psid=17639df6-15ed-4187-bb60-8e48e46fb74e~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=06176438a00a445119e8f4d29d83732ce7a65117dcb3a3ea8f2c693bfb04b613/clt1/va02/disneyplus/channel/f25bdf06-81c9-4a7c-b128-3128d610ad17-1762951253360/ctr-all-sliding-alt1.m3u8?v=1&hash=57a1e5c4737768952c5164be5d4f5ba525d47674",
+    "k1": "2678dcce6b074e938fab8e16d524efad",
+    "k2": "b53d3a979a939501a738586d727e8c65"
   },
   {
     "title": "Sri Lanka vs. Oman",
@@ -606,6 +601,26 @@
     "fecha-evento": "2026-02-12T21:00:00-05:00",
     "img": "063f34c7-a2b1-4ff4-96b7-1d16da63f389",
     "nombre": "disneyd7e255",
+    "status": "21:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Portland vs. Washington State",
+    "league": "Básquet Femenino NCAA",
+    "fecha-evento": "2026-02-12T21:00:00-05:00",
+    "img": "019c129e-5876-7fc0-b764-4580812a860c",
+    "nombre": "disney553270",
+    "status": "21:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Oregon State vs. San Francisco",
+    "league": "Básquetbol Masculino NCAA",
+    "fecha-evento": "2026-02-12T21:00:00-05:00",
+    "img": "019c35dd-a00d-7fe5-88c4-4dd7caa9f9ac",
+    "nombre": "disney7409a8",
     "status": "21:00",
     "duration": 135,
     "play_url": ""
