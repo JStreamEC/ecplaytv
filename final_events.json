@@ -171,22 +171,28 @@
   {
     "title": "Dallas Open (Segunda Ronda)",
     "league": "ATP",
-    "fecha-evento": "2026-02-11T20:00:00-05:00",
+    "fecha-evento": "2026-02-11T20:00:02-05:00",
     "img": "019c2a36-ef20-7953-9daa-31b8f7ba0776",
-    "nombre": "disney19928b",
+    "nombre": "disneya0f113",
     "status": "20:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 240,
+    "play_url": "https://www.disneyplus.com/es-es/play/b4209bd0-91a5-450d-8384-df4b6ff2c3fa",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1770945645~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F12%2FDallas_Open_Second_Round_20260212_1770850817042%2F~psid=bba537ca-b752-41f9-9c1f-9ae34c736724~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=0c0a692cf6becf8c5754ab0e077458782bd0e11a0baaefc9fe3dc9337c3510c1/clt1/va02/disneyplus/event/2026/02/12/Dallas_Open_Second_Round_20260212_1770850817042/ctr-all-hdri-complete.m3u8?v=1&hash=afad46532d3b968c0516b26a625a4f97e2baaa2e",
+    "k1": "25ae39a4cec54f489b70a11ed7394bf5",
+    "k2": "64615ff37f64d1c00437d8fc55cf3a12"
   },
   {
     "title": "Gold Rush vs. Eclipse (Game 8)",
     "league": "Athletes Unlimited Basketball",
-    "fecha-evento": "2026-02-11T20:00:00-05:00",
+    "fecha-evento": "2026-02-11T20:00:02-05:00",
     "img": "38d85d84-de49-4659-8201-6283b6d4b3a9",
-    "nombre": "disney246d2b",
+    "nombre": "disneyd16dc6",
     "status": "20:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/05f61976-0186-4617-9e1c-7964942a2d40",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1770945692~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F12%2FGold_Rush_vs_Eclipse_Game_20260212_1770850842017%2F~psid=fa14f8d1-7cf7-459e-87f9-bdbfc624dc82~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=f0d7ade5de06729d456c19e944c6be70b63f93c7c463b46567ac94a6cb95f184/clt1/va02/disneyplus/event/2026/02/12/Gold_Rush_vs_Eclipse_Game_20260212_1770850842017/ctr-all-hdri-complete.m3u8?v=1&hash=1286a483c531c14ac29476d6b9c3a1cc384e2b68",
+    "k1": "19c50bf9e3c34dbb8f4ec4f0d9b0c018",
+    "k2": "c202fb4fbeaf555b7863f12b713552d5"
   },
   {
     "title": "Stanford vs. Boston College",
