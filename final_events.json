@@ -30,16 +30,6 @@
     "play_url": "https://www.disneyplus.com/es-es/play/5edf1b01-4ab7-460c-b89e-acf07f36e2c6"
   },
   {
-    "title": "ABN AMRO Open (Segunda Ronda)",
-    "league": "ATP",
-    "fecha-evento": "2026-02-12T13:30:03-05:00",
-    "img": "019c52cd-94ed-74e0-b063-9f6a0c8d10ea",
-    "nombre": "disney49a303",
-    "status": "13:30",
-    "duration": 240,
-    "play_url": "https://www.disneyplus.com/es-es/play/9e33548e-65e9-4f17-ae1d-6d82d8954ae1"
-  },
-  {
     "title": "AT&T Pebble Beach Pro-Am (1° Ronda) | En español",
     "league": "PGA TOUR",
     "fecha-evento": "2026-02-12T15:00:00-05:00",
@@ -60,16 +50,6 @@
     "play_url": "https://www.disneyplus.com/es-es/play/4c52e3e7-0c5f-4970-9cb9-2ad0438b4e81"
   },
   {
-    "title": "Dallas Open / Center Court (Doubles Quarterfinals)",
-    "league": "ATP",
-    "fecha-evento": "2026-02-12T16:23:31-05:00",
-    "img": "6c49aca4-c1ab-442a-b212-33387b42e610",
-    "nombre": "disneyea3aa8",
-    "status": "16:23",
-    "duration": 96,
-    "play_url": "https://www.disneyplus.com/es-es/play/62c2423d-ecf6-4b6a-822b-0d8c74e8c0be"
-  },
-  {
     "title": "IEB+ Argentina Open (Segunda Ronda)",
     "league": "ATP",
     "fecha-evento": "2026-02-12T16:30:00-05:00",
@@ -82,12 +62,15 @@
   {
     "title": "México vs. Trinidad y Tobago",
     "league": "CONCACAF Sub-17",
-    "fecha-evento": "2026-02-12T17:50:00-05:00",
+    "fecha-evento": "2026-02-12T17:50:01-05:00",
     "img": "019c1189-c82d-7ff0-8416-f2a6f281d479",
-    "nombre": "disney140d93",
+    "nombre": "disney02b575",
     "status": "17:50",
-    "duration": 135,
-    "play_url": ""
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/265e942c-0467-4dd3-b02e-cf6277ee2b5c",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1771023808~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F12%2FMexico_vs_Trinidad_y_Toba_20260212_1770929453026%2F~psid=bcf42f5b-02a1-49f3-b7a6-5b02e5c1d314~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=474311770da7487871ef6d2c850c4bf38360af395b105b295c829f5a2e5358c0/clt1/va02/disneyplus/event/2026/02/12/Mexico_vs_Trinidad_y_Toba_20260212_1770929453026/ctr-all-hdri-complete.m3u8?v=1&hash=d876e587c01e33c48a602a46be696e8eda1684c8",
+    "k1": "8ee5b846df014f79bf604b977f528ed9",
+    "k2": "194678c4c3df7e006d812aede22abf0b"
   },
   {
     "title": "#1 Texas Tech vs. Northwestern",
@@ -606,6 +589,26 @@
     "img": "019c16b7-f055-7036-bb0a-9347c8348748",
     "nombre": "disney98ac38",
     "status": "13:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "FC Volendam vs. PSV",
+    "league": "Eredivisie",
+    "fecha-evento": "2026-02-13T13:50:00-05:00",
+    "img": "019c0a65-4aac-7f58-918c-8ddbc2dad1b9",
+    "nombre": "disney73ef1d",
+    "status": "13:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Manchester City vs. Leicester City",
+    "league": "English Women's Super League",
+    "fecha-evento": "2026-02-13T13:55:00-05:00",
+    "img": "019c0777-bdf9-7031-8d23-8ba540ae727b",
+    "nombre": "disney5c0d5c",
+    "status": "13:55",
     "duration": 135,
     "play_url": ""
   }
