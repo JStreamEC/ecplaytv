@@ -39,19 +39,6 @@
     "k2": "4ae29730d6218f362e682f4e74418216"
   },
   {
-    "title": "Motor City Cruise vs. Maine Celtics",
-    "league": "NBA G League",
-    "fecha-evento": "2026-02-11T19:00:04-05:00",
-    "img": "019c0c5e-750d-70fe-aace-603dae5567f5",
-    "nombre": "disney6f176b",
-    "status": "19:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/4e1ab3f6-0c74-4b90-8de5-97e5cc86bb05",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1770942195~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F12%2FMotor_City_Cruise_vs_Main_20260212_1770847218023%2F~psid=d9a35e93-3559-4855-9760-06b10edea526~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=0851044bd7f90a157459fc6670ca2e527c8abc844b9da53eaaf925453a7ce27e/clt1/va02/disneyplus/event/2026/02/12/Motor_City_Cruise_vs_Main_20260212_1770847218023/ctr-all-hdri-complete.m3u8?v=1&hash=0be16fa82b0707afce9558090c87adee436a4b90",
-    "k1": "4d0764a4e27f4d7ead39ad92842fdef1",
-    "k2": "c2258fd5670a3dbb1626352c7f17a5d5"
-  },
-  {
     "title": "New York Knicks vs. Philadelphia 76ers",
     "league": "NBA",
     "fecha-evento": "2026-02-11T19:30:00-05:00",
@@ -175,8 +162,11 @@
     "img": "647fc8f8-a3d9-4ec7-afcd-a58fb74c44d2",
     "nombre": "disneya4d92a",
     "status": "21:30",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/7960383f-5f2b-45d2-8780-705af7f05609",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1770950456~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F12%2FPortland_vs_San_Diego_20260212_1770859360407%2F~psid=854d619f-49cd-4bba-9a0c-91e28a6ed23c~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=af3cc4fec39f16161813b9e357bc0c8b5126ae5728fbb29e04e96935dcc2513d/clt1/va02/disneyplus/event/2026/02/12/Portland_vs_San_Diego_20260212_1770859360407/ctr-all-hdri-complete.m3u8?v=1&hash=ebea250001318c4756389a9fb3e782d46ca19580",
+    "k1": "ffbf7a7070af4d948e6a0a73fb44b884",
+    "k2": "3d98c653353724c2c5407d031fb0a326"
   },
   {
     "title": "Capitanes de Ciudad de México vs. Stockton Kings",
@@ -619,12 +609,32 @@
     "play_url": ""
   },
   {
+    "title": "Motor City Cruise vs. Maine Celtics",
+    "league": "NBA G League",
+    "fecha-evento": "2026-02-12T19:00:00-05:00",
+    "img": "019c0c5e-750d-70fe-aace-603dae5567f5",
+    "nombre": "disney2f8389",
+    "status": "19:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
     "title": "Cruz Azul vs. Vancouver FC (First Round, Second Leg)",
     "league": "CONCACAF Liga Campeones",
     "fecha-evento": "2026-02-12T19:50:00-05:00",
     "img": "019c33e0-1b5d-7fde-b2f7-236f50c71bf5",
     "nombre": "disney6f9259",
     "status": "19:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Rio Grande Valley Vipers vs. Texas Legends",
+    "league": "NBA G League",
+    "fecha-evento": "2026-02-12T20:00:00-05:00",
+    "img": "019c141e-5897-75a2-bac9-54da29a254a4",
+    "nombre": "disney4fe3ec",
+    "status": "20:00",
     "duration": 135,
     "play_url": ""
   }
