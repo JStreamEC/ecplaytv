@@ -52,19 +52,6 @@
     "k2": "9c1e79d6e454825817aaeb13e1c6ad37"
   },
   {
-    "title": "Dallas Open / Center Court (Doubles)",
-    "league": "ATP",
-    "fecha-evento": "2026-02-11T16:30:01-05:00",
-    "img": "6c49aca4-c1ab-442a-b212-33387b42e610",
-    "nombre": "disney277ba2",
-    "status": "16:30",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/4eebfe18-5d15-4a6d-ab25-4c9d37f564df",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1770932485~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F11%2FDallas_Open_Center_Court__20260211_1770838223043%2F~psid=09de8920-5f2f-4c99-b06c-b02011ffb858~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=f1931e3d6480ac69d2e309c739e73bc02e28d7c19badbe524f69b349cf6f2d69/clt1/va02/disneyplus/event/2026/02/11/Dallas_Open_Center_Court__20260211_1770838223043/ctr-all-hdri-complete.m3u8?v=1&hash=d933a8f92d68b5aca191faa5bef45f6be62ebeb6",
-    "k1": "721e9c5d09454f8596ff9d6f0da4531e",
-    "k2": "81b1f325fec75e6bbb018effc398e6a2"
-  },
-  {
     "title": "Naismith Basketball Hall of Fame Finalists Reveal Show",
     "league": "ESPN",
     "fecha-evento": "2026-02-11T18:30:03-05:00",
@@ -164,8 +151,11 @@
     "img": "019c0c5e-9bb1-733a-b1e2-ffdec53e93c8",
     "nombre": "disney0dd1d1",
     "status": "19:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/5db2fb6f-3b83-4ea0-b1e9-b89239ffe3d0",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1770940843~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F12%2FSporting_Jax_vs_Spokane_Z_20260212_1770847227041%2F~psid=694f8e5a-9aeb-494a-9186-686efa72dbaf~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=a46d24235d397fd49be2523941c05dfbd7d842d5ac123bd8901243000865cbdf/clt1/va02/disneyplus/event/2026/02/12/Sporting_Jax_vs_Spokane_Z_20260212_1770847227041/ctr-all-hdri-complete.m3u8?v=1&hash=f5430c022be71b01ebcad910b7c4562fdeda1602",
+    "k1": "df1bb87eb95344c0a86f15f6f2a0ec60",
+    "k2": "af3c82fbd7c05c36a4f156d09f0ca589"
   },
   {
     "title": "Austin Spurs vs. Iowa Wolves",
@@ -604,6 +594,16 @@
     "img": "6c49aca4-c1ab-442a-b212-33387b42e610",
     "nombre": "disneya1922e",
     "status": "16:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "México vs. Trinidad y Tobago",
+    "league": "CONCACAF Sub-17",
+    "fecha-evento": "2026-02-12T17:50:00-05:00",
+    "img": "019c1189-c82d-7ff0-8416-f2a6f281d479",
+    "nombre": "disney140d93",
+    "status": "17:50",
     "duration": 135,
     "play_url": ""
   }
