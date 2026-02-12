@@ -10,14 +10,17 @@
     "play_url": ""
   },
   {
-    "title": "AT&T Pebble Beach Pro-Am: Featured Group 1 (Primera Ronda)",
+    "title": "AT&T Pebble Beach Pro-Am: Featured Group 2 (Primera Ronda)",
     "league": "PGA TOUR",
-    "fecha-evento": "2026-02-12T15:00:09-05:00",
-    "img": "f5658a55-ef46-43f2-b860-a15e21d3ab8b",
-    "nombre": "disneyb4d5bb",
+    "fecha-evento": "2026-02-12T15:00:08-05:00",
+    "img": "83f23b2a-b51c-468c-988e-ac9cb69b38d8",
+    "nombre": "disney2d4944",
     "status": "15:00",
     "duration": 240,
-    "play_url": "https://www.disneyplus.com/es-es/play/bcbb45a5-cce5-433f-874b-fe37fc4b8fcf"
+    "play_url": "https://www.disneyplus.com/es-es/play/2a40d16d-ae45-4d86-ab44-18682a04e5d7",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1771024837~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F12%2FATT_Pebble_Beach_ProAm_Sc_20260212_1770919231023%2F~psid=1140cd2e-126e-46a1-afe6-0a8e69a859b1~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=4b40d68f5ee42466dab2cf3ba8ab97bd9b9e98420eedeb86a00e7a1625c5e0b4/clt1/va02/disneyplus/event/2026/02/12/ATT_Pebble_Beach_ProAm_Sc_20260212_1770919231023/ctr-all-hdri-complete.m3u8?v=1&hash=44df5e0e089c7bab3218c1aaa19eecdb60d51097",
+    "k1": "a230d2708c494842ad3424aa719d3a1c",
+    "k2": "b277a000df55fcad08e0ffb4c74b05f0"
   },
   {
     "title": "Dallas Open / Grandstand (Segunda Ronda)",
@@ -38,16 +41,6 @@
     "status": "15:00",
     "duration": 240,
     "play_url": "https://www.disneyplus.com/es-es/play/7e67ebae-c2b4-4796-9ce1-480c413973a2"
-  },
-  {
-    "title": "#8 Nebraska vs. #17 Georgia",
-    "league": "NCAA Softball",
-    "fecha-evento": "2026-02-12T16:00:01-05:00",
-    "img": "019c118c-7eea-7ba7-bded-e5aed960f2fa",
-    "nombre": "disney1a3d6b",
-    "status": "16:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/4c52e3e7-0c5f-4970-9cb9-2ad0438b4e81"
   },
   {
     "title": "IEB+ Argentina Open (Segunda Ronda)",
@@ -75,12 +68,12 @@
   {
     "title": "#1 Texas Tech vs. Northwestern",
     "league": "NCAA Softball",
-    "fecha-evento": "2026-02-12T18:00:00-05:00",
+    "fecha-evento": "2026-02-12T18:00:02-05:00",
     "img": "019c118c-a406-703b-911f-21e813c7ffb9",
-    "nombre": "disney0dad89",
+    "nombre": "disney5dc7fb",
     "status": "18:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/8c67c972-0c3d-4b95-a685-7046bc648300"
   },
   {
     "title": "Purdue Fort Wayne vs. Green Bay",
@@ -609,6 +602,16 @@
     "img": "019c0777-bdf9-7031-8d23-8ba540ae727b",
     "nombre": "disney5c0d5c",
     "status": "13:55",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Hull City vs. Chelsea",
+    "league": "FA Cup",
+    "fecha-evento": "2026-02-13T14:30:00-05:00",
+    "img": "019c4e4d-2305-7c91-bf42-6762b4c57c2f",
+    "nombre": "disneye9a781",
+    "status": "14:30",
     "duration": 135,
     "play_url": ""
   }
