@@ -20,19 +20,6 @@
     "play_url": ""
   },
   {
-    "title": "México vs. Trinidad y Tobago",
-    "league": "CONCACAF Sub-17",
-    "fecha-evento": "2026-02-12T17:50:01-05:00",
-    "img": "019c1189-c82d-7ff0-8416-f2a6f281d479",
-    "nombre": "disney02b575",
-    "status": "17:50",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/265e942c-0467-4dd3-b02e-cf6277ee2b5c",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1771023808~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F12%2FMexico_vs_Trinidad_y_Toba_20260212_1770929453026%2F~psid=bcf42f5b-02a1-49f3-b7a6-5b02e5c1d314~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=474311770da7487871ef6d2c850c4bf38360af395b105b295c829f5a2e5358c0/clt1/va02/disneyplus/event/2026/02/12/Mexico_vs_Trinidad_y_Toba_20260212_1770929453026/ctr-all-hdri-complete.m3u8?v=1&hash=d876e587c01e33c48a602a46be696e8eda1684c8",
-    "k1": "8ee5b846df014f79bf604b977f528ed9",
-    "k2": "194678c4c3df7e006d812aede22abf0b"
-  },
-  {
     "title": "Argentinos Jrs. vs. River Plate",
     "league": "Liga Profesional de Fútbol",
     "fecha-evento": "2026-02-12T19:00:00-05:00",
@@ -127,8 +114,11 @@
     "img": "019c33e0-1b5d-7fde-b2f7-236f50c71bf5",
     "nombre": "disney6f9259",
     "status": "19:50",
-    "duration": 135,
-    "play_url": ""
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/c139d871-0929-454d-9ead-3230ca03e969",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1771030888~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F13%2FCruz_Azul_vs_Vancouver_FC_20260213_1770936602026%2F~psid=0a15d0dd-8778-4e1c-9cc4-40fca2966371~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=2d5280e784c31ba8e612da1e2bc256706b4e1021cccf8e3234ba3e8bba5e00f5/clt1/va02/disneyplus/event/2026/02/13/Cruz_Azul_vs_Vancouver_FC_20260213_1770936602026/ctr-all-hdri-complete.m3u8?v=1&hash=a1edb194f6765a965e4dd6bc07ba041e92cc25ca",
+    "k1": "f97bb8515f9e4400a1b937e5e9016947",
+    "k2": "01dbc40c14937996e4c5c43f752dd73e"
   },
   {
     "title": "Rio Grande Valley Vipers vs. Texas Legends",
@@ -627,6 +617,16 @@
     "img": "019c4e50-8358-75b2-beb7-0a00357c4538",
     "nombre": "disney844cb3",
     "status": "14:40",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Irlanda U20 vs. Italia U20",
+    "league": "U20 Six Nations",
+    "fecha-evento": "2026-02-13T14:35:00-05:00",
+    "img": "019c4318-5e92-7883-ba7a-1fbb1c0e906d",
+    "nombre": "disneyd0ced6",
+    "status": "14:35",
     "duration": 135,
     "play_url": ""
   }
