@@ -20,36 +20,6 @@
     "play_url": ""
   },
   {
-    "title": "Dallas Open / Grandstand (Segunda Ronda)",
-    "league": "ATP",
-    "fecha-evento": "2026-02-12T12:59:20-05:00",
-    "img": "019c2a1d-1b8a-7d58-bb3b-b737115b2848",
-    "nombre": "disneyf17819",
-    "status": "12:59",
-    "duration": 481,
-    "play_url": "https://www.disneyplus.com/es-es/play/5edf1b01-4ab7-460c-b89e-acf07f36e2c6"
-  },
-  {
-    "title": "AT&T Pebble Beach Pro-Am (1° Ronda) | En español",
-    "league": "PGA TOUR",
-    "fecha-evento": "2026-02-12T15:00:00-05:00",
-    "img": "3129ca95-29c0-4679-9632-06ee30f58fff",
-    "nombre": "disney32c9cf",
-    "status": "15:00",
-    "duration": 240,
-    "play_url": "https://www.disneyplus.com/es-es/play/7e67ebae-c2b4-4796-9ce1-480c413973a2"
-  },
-  {
-    "title": "IEB+ Argentina Open (Segunda Ronda)",
-    "league": "ATP",
-    "fecha-evento": "2026-02-12T16:30:00-05:00",
-    "img": "019c2ff2-ec7d-7856-ba8b-884be6a419dd",
-    "nombre": "disney1cc335",
-    "status": "16:30",
-    "duration": 240,
-    "play_url": "https://www.disneyplus.com/es-es/play/a2fe504e-8c79-4665-a3ee-baea18d98dff"
-  },
-  {
     "title": "México vs. Trinidad y Tobago",
     "league": "CONCACAF Sub-17",
     "fecha-evento": "2026-02-12T17:50:01-05:00",
@@ -63,64 +33,17 @@
     "k2": "194678c4c3df7e006d812aede22abf0b"
   },
   {
-    "title": "#1 Texas Tech vs. Northwestern",
-    "league": "NCAA Softball",
-    "fecha-evento": "2026-02-12T18:00:02-05:00",
-    "img": "019c118c-a406-703b-911f-21e813c7ffb9",
-    "nombre": "disney5dc7fb",
-    "status": "18:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/8c67c972-0c3d-4b95-a685-7046bc648300"
-  },
-  {
-    "title": "Purdue Fort Wayne vs. Green Bay",
-    "league": "Básquetbol Masculino NCAA",
-    "fecha-evento": "2026-02-12T19:00:00-05:00",
-    "img": "019b7e31-abfd-77d7-ad39-fa5ad30e4341",
-    "nombre": "disneyc0de58",
-    "status": "19:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "#17 TCU vs. #12 Baylor",
-    "league": "Básquet Femenino NCAA",
-    "fecha-evento": "2026-02-12T19:00:00-05:00",
-    "img": "019baa24-0d76-7fed-aca1-6a34dc9eac46",
-    "nombre": "disney4b5172",
-    "status": "19:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Capital City Go-Go vs. Greensboro Swarm",
-    "league": "NBA G League",
-    "fecha-evento": "2026-02-12T19:00:00-05:00",
-    "img": "019c0c5e-d56b-7aed-bfee-30aec7ea230a",
-    "nombre": "disney299ea4",
-    "status": "19:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Argentinos Jrs. vs. River Plate",
     "league": "Liga Profesional de Fútbol",
     "fecha-evento": "2026-02-12T19:00:00-05:00",
     "img": "019c4d6e-9700-71f6-a13d-aeacf88d6b28",
     "nombre": "disney29d672",
     "status": "19:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "UNC Asheville vs. Longwood",
-    "league": "Básquetbol Masculino NCAA",
-    "fecha-evento": "2026-02-12T19:00:00-05:00",
-    "img": "79be4427-b653-4013-bdc1-00c4390d2866",
-    "nombre": "disney03d84b",
-    "status": "19:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/8f8b6c78-8e19-4633-9db4-0f523b80fac6",
+    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1771028439~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Ff25bdf06-81c9-4a7c-b128-3128d610ad17-1762951253360%2F~psid=3fd00d36-08af-4276-9795-7751f76d5a7d~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=78fd5de73e3d02f39a455d53f4d32f4abd5840a5e28545a4ef8e6cc43afd6109/clt1/va02/disneyplus/channel/f25bdf06-81c9-4a7c-b128-3128d610ad17-1762951253360/ctr-all-sliding-alt1.m3u8?v=1&hash=57a1e5c4737768952c5164be5d4f5ba525d47674",
+    "k1": "f4bbc7356908438dacecac7bd4261493",
+    "k2": "d3aa9388ff42b29c0b0129e9de9b430b"
   },
   {
     "title": "2026 Women's Amateur Asia-Pacific Championship (Segunda Ronda)",
@@ -129,8 +52,11 @@
     "img": "f7793ef2-2943-4e82-a45d-83cd1d3eaff8",
     "nombre": "disney4328d3",
     "status": "19:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 180,
+    "play_url": "https://www.disneyplus.com/es-es/play/ee5a0931-d599-443a-be6b-88f737cc0aaf",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1771028485~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F13%2F2026_Womens_Amateur_AsiaP_20260213_1770933609044%2F~psid=15648c8a-97b4-456d-aa12-7557a3b1e2cd~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=fef55218ea86f3d231e58082b4bba145a5da8bdd6c9182afeb0c864c60e800ce/clt1/va02/disneyplus/event/2026/02/13/2026_Womens_Amateur_AsiaP_20260213_1770933609044/ctr-all-hdri-complete.m3u8?v=1&hash=71e0f39e5b7b27b9e27e52c32be8bdf13c819032",
+    "k1": "633ce5b6d35c4f46b7896820f72f20bf",
+    "k2": "6daa401785d375ce6e4882b15045b050"
   },
   {
     "title": "Universidad Católica (ECU) vs. Juventud de Las Piedras (URU)",
@@ -139,18 +65,60 @@
     "img": "019c344b-232e-7e26-a36a-40bb76085921",
     "nombre": "disney02136c",
     "status": "19:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 145,
+    "play_url": "https://www.disneyplus.com/es-es/play/8498d836-b89c-4e6d-82a9-bb88073ba49f",
+    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1771028531~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F921e1311-bb26-43dd-84a6-9e2284959712-1762950465141%2F~psid=7fae408d-7187-493c-a438-8273fcbf3962~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=c607f5d9e901e0010826d318fe560e9ce449b334f029e7224430155cd415159e/clt1/va02/disneyplus/channel/921e1311-bb26-43dd-84a6-9e2284959712-1762950465141/ctr-all-sliding-alt1.m3u8?v=1&hash=03915bf69f19826611ecdeecc79455eab40b229c",
+    "k1": "f5daa8c7de9043ac891e4ce265444ece",
+    "k2": "5f2f8f281cc271b278d27d24d9260606"
   },
   {
-    "title": "Motor City Cruise vs. Maine Celtics",
-    "league": "NBA G League",
-    "fecha-evento": "2026-02-12T19:00:00-05:00",
-    "img": "019c0c5e-750d-70fe-aace-603dae5567f5",
-    "nombre": "disney2f8389",
+    "title": "#17 TCU vs. #12 Baylor",
+    "league": "Básquet Femenino NCAA",
+    "fecha-evento": "2026-02-12T19:00:01-05:00",
+    "img": "019baa24-0d76-7fed-aca1-6a34dc9eac46",
+    "nombre": "disney83f31b",
     "status": "19:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/5f6795f8-bd4f-43db-a75c-9415e82a7cdb",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1771028557~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F13%2F17_TCU_vs_12_Baylor_20260213_1770936287701%2F~psid=2fb0edfd-bc71-4e6e-a8f9-4f214f70f84e~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=e138e374c8b2ebed77f644517e2400a4c5584aa0fef3701b3698c242e2a8a3c9/clt1/va02/disneyplus/event/2026/02/13/17_TCU_vs_12_Baylor_20260213_1770936287701/ctr-all-hdri-complete.m3u8?v=1&hash=1e0485f6469eae31a314a858843843fc543ac8dd",
+    "k1": "600c893bcd3440e79fa7c4086b9d2fbe",
+    "k2": "fd06b9e36381ea0a661e32d567c7effe"
+  },
+  {
+    "title": "Purdue Fort Wayne vs. Green Bay",
+    "league": "Básquetbol Masculino NCAA",
+    "fecha-evento": "2026-02-12T19:00:03-05:00",
+    "img": "019b7e31-abfd-77d7-ad39-fa5ad30e4341",
+    "nombre": "disneyf05e0b",
+    "status": "19:00",
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/9e0cd405-ff94-4288-9ce4-ef57ffd32b65",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1771028584~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F13%2FPurdue_Fort_Wayne_vs_Gree_20260213_1770936280543%2F~psid=4ba580ef-5939-43a8-9c87-de4693984046~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=19163616bad880b41a9080baeca10da204534379c23564a94eac3ffbe4004ab9/clt1/va02/disneyplus/event/2026/02/13/Purdue_Fort_Wayne_vs_Gree_20260213_1770936280543/ctr-all-hdri-complete.m3u8?v=1&hash=bf1553214d25d954080e7d355963004efcdc0bda",
+    "k1": "a0e6e644f7c145559c31928460c55ed5",
+    "k2": "7c965d27893fed944c9f6a93d24bae60"
+  },
+  {
+    "title": "Capital City Go-Go vs. Greensboro Swarm",
+    "league": "NBA G League",
+    "fecha-evento": "2026-02-12T19:00:04-05:00",
+    "img": "019c0c5e-d56b-7aed-bfee-30aec7ea230a",
+    "nombre": "disney2dbdb2",
+    "status": "19:00",
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/8dcff7ab-7c5b-4e66-9b99-5bbdce6e3158"
+  },
+  {
+    "title": "UNC Asheville vs. Longwood",
+    "league": "Básquetbol Masculino NCAA",
+    "fecha-evento": "2026-02-12T19:00:04-05:00",
+    "img": "79be4427-b653-4013-bdc1-00c4390d2866",
+    "nombre": "disney8f6727",
+    "status": "19:00",
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/26866479-d1dd-41e9-9dd1-813bb00eb142",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1771028638~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F13%2FUNC_Asheville_vs_Longwood_20260213_1770936273747%2F~psid=5366e190-a9ad-4a12-b032-71dc0033eb26~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=7ccdf7d9ee72ce7bd43bd7818b84b8399386a91148cba0b0afc23d6e23e9ecc6/clt1/va02/disneyplus/event/2026/02/13/UNC_Asheville_vs_Longwood_20260213_1770936273747/ctr-all-hdri-complete.m3u8?v=1&hash=91002b48148b02d505f67e0787dfd8215c74f6bc",
+    "k1": "2b16a651102b49f093d110e517dac314",
+    "k2": "ebda13ee555aa31974070a8a9561cb89"
   },
   {
     "title": "Cruz Azul vs. Vancouver FC (First Round, Second Leg)",
@@ -609,6 +577,56 @@
     "img": "019c4e4d-2305-7c91-bf42-6762b4c57c2f",
     "nombre": "disneye9a781",
     "status": "14:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "#6 UConn vs. New Hampshire",
+    "league": "NCAA Women's Hockey",
+    "fecha-evento": "2026-02-13T14:00:00-05:00",
+    "img": "019a3d2c-5056-7eb8-bb41-08bf155b2ded",
+    "nombre": "disney69ff11",
+    "status": "14:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Escocia U20 vs. Inglaterra U20",
+    "league": "U20 Six Nations",
+    "fecha-evento": "2026-02-13T14:05:00-05:00",
+    "img": "019c4317-da97-7f89-a965-7c2c9906ade5",
+    "nombre": "disney4b4595",
+    "status": "14:05",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Borussia Dortmund vs. Mainz 05",
+    "league": "Bundesliga",
+    "fecha-evento": "2026-02-13T14:20:00-05:00",
+    "img": "019c29a6-fafd-7749-a491-8b422aa3f559",
+    "nombre": "disneye36eae",
+    "status": "14:20",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Pisa vs. Milan",
+    "league": "Seria A",
+    "fecha-evento": "2026-02-13T14:30:00-05:00",
+    "img": "019c29a4-afec-75ac-8e11-e1e3f405816d",
+    "nombre": "disney858137",
+    "status": "14:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Wrexham AFC vs. Ipswich Town (Fecha #4)",
+    "league": "FA Cup",
+    "fecha-evento": "2026-02-13T14:40:00-05:00",
+    "img": "019c4e50-8358-75b2-beb7-0a00357c4538",
+    "nombre": "disney844cb3",
+    "status": "14:40",
     "duration": 135,
     "play_url": ""
   }
