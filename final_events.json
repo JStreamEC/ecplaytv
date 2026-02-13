@@ -59,32 +59,6 @@
     "k2": "5f2f8f281cc271b278d27d24d9260606"
   },
   {
-    "title": "#17 TCU vs. #12 Baylor",
-    "league": "Básquet Femenino NCAA",
-    "fecha-evento": "2026-02-12T19:00:01-05:00",
-    "img": "019baa24-0d76-7fed-aca1-6a34dc9eac46",
-    "nombre": "disney83f31b",
-    "status": "19:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/5f6795f8-bd4f-43db-a75c-9415e82a7cdb",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1771028557~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F13%2F17_TCU_vs_12_Baylor_20260213_1770936287701%2F~psid=2fb0edfd-bc71-4e6e-a8f9-4f214f70f84e~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=e138e374c8b2ebed77f644517e2400a4c5584aa0fef3701b3698c242e2a8a3c9/clt1/va02/disneyplus/event/2026/02/13/17_TCU_vs_12_Baylor_20260213_1770936287701/ctr-all-hdri-complete.m3u8?v=1&hash=1e0485f6469eae31a314a858843843fc543ac8dd",
-    "k1": "600c893bcd3440e79fa7c4086b9d2fbe",
-    "k2": "fd06b9e36381ea0a661e32d567c7effe"
-  },
-  {
-    "title": "Purdue Fort Wayne vs. Green Bay",
-    "league": "Básquetbol Masculino NCAA",
-    "fecha-evento": "2026-02-12T19:00:03-05:00",
-    "img": "019b7e31-abfd-77d7-ad39-fa5ad30e4341",
-    "nombre": "disneyf05e0b",
-    "status": "19:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/9e0cd405-ff94-4288-9ce4-ef57ffd32b65",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1771028584~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F13%2FPurdue_Fort_Wayne_vs_Gree_20260213_1770936280543%2F~psid=4ba580ef-5939-43a8-9c87-de4693984046~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=19163616bad880b41a9080baeca10da204534379c23564a94eac3ffbe4004ab9/clt1/va02/disneyplus/event/2026/02/13/Purdue_Fort_Wayne_vs_Gree_20260213_1770936280543/ctr-all-hdri-complete.m3u8?v=1&hash=bf1553214d25d954080e7d355963004efcdc0bda",
-    "k1": "a0e6e644f7c145559c31928460c55ed5",
-    "k2": "7c965d27893fed944c9f6a93d24bae60"
-  },
-  {
     "title": "Capital City Go-Go vs. Greensboro Swarm",
     "league": "NBA G League",
     "fecha-evento": "2026-02-12T19:00:04-05:00",
@@ -642,6 +616,26 @@
     "img": "019c4318-5e92-7883-ba7a-1fbb1c0e906d",
     "nombre": "disneyd0ced6",
     "status": "14:35",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Elche CF vs. CA Osasuna",
+    "league": "LALIGA",
+    "fecha-evento": "2026-02-13T14:55:00-05:00",
+    "img": "019c29a4-f347-7165-baa5-1c0530f29d6d",
+    "nombre": "disneyb1f0ba",
+    "status": "14:55",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Monaco vs. Nantes",
+    "league": "Ligue 1",
+    "fecha-evento": "2026-02-13T14:55:00-05:00",
+    "img": "019c2856-74c1-731b-9576-4d83586c82d1",
+    "nombre": "disneycabe43",
+    "status": "14:55",
     "duration": 135,
     "play_url": ""
   }
