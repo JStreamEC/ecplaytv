@@ -85,32 +85,6 @@
     "k2": "2516c0fe6fbaf2df1024593ed16dc44d"
   },
   {
-    "title": "Augsburg vs. 1. FC Heidenheim 1846",
-    "league": "Bundesliga",
-    "fecha-evento": "2026-02-15T09:20:02-05:00",
-    "img": "3945b51a-2dc4-4fef-8d92-6f5086f410f1",
-    "nombre": "disneyc92d2b",
-    "status": "09:20",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/a7f48828-f99a-4252-b307-9e3763dfad1a",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1771256835~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F15%2FAugsburg_vs_1_FC_Heidenhe_20260215_1771158007058%2F~psid=5dd37a5d-729a-44be-ad38-8ffecc733c44~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=cb972170608c0aabd773cb3268d117b8a036b76d3039704d541f843594f6f961/clt1/va02/disneyplus/event/2026/02/15/Augsburg_vs_1_FC_Heidenhe_20260215_1771158007058/ctr-all-hdri-complete.m3u8?v=1&hash=d7bb227c41a7ec212af2023a31ff5dd88bb1a499",
-    "k1": "605480104c0845889e3b1487a6590540",
-    "k2": "7a8ea893bd68eed266c9902df3a134b3"
-  },
-  {
-    "title": "Alex de Minaur (AUS) vs. Felix Auger-Aliassime (CAN) (Final)",
-    "league": "ATP",
-    "fecha-evento": "2026-02-15T09:30:00-05:00",
-    "img": "019c5e6e-3dac-7589-a9f0-2826f4bc5743",
-    "nombre": "disney14a7fb",
-    "status": "09:30",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/ef55bd9c-fe11-4eb9-8a5b-b1f5fc8cd003",
-    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1771256865~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Ff25bdf06-81c9-4a7c-b128-3128d610ad17-1762951253360%2F~psid=0578636e-3799-4d16-b2a9-8c170141dfad~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=f9caa7612274eacec16e5420ad10fc873bcb4bc47a0a3357046e55fe83fa6961/clt1/va02/disneyplus/channel/f25bdf06-81c9-4a7c-b128-3128d610ad17-1762951253360/ctr-all-sliding-alt1.m3u8?v=1&hash=57a1e5c4737768952c5164be5d4f5ba525d47674",
-    "k1": "50d0a15c33f54d62950a7687d7e1253b",
-    "k2": "b257732702bf297af1d263676cbb215e"
-  },
-  {
     "title": "Gales vs. Francia",
     "league": "Seis Naciones",
     "fecha-evento": "2026-02-15T10:00:00-05:00",
@@ -208,8 +182,11 @@
     "img": "019c23e8-fc4e-7ddd-9175-4bc4fc4da633",
     "nombre": "disney9eb51c",
     "status": "11:20",
-    "duration": 135,
-    "play_url": ""
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/07765a39-f3ad-4e7a-93b5-3c338fb8a5bb",
+    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1771260043~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F7f9052ce-8143-43a6-9656-a8c00c4a3e56-1762950862652%2F~psid=ff253098-4e2b-43e7-9982-39b8ab27b6e4~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=bd82d8a8573ebb5ca52190faad914e592732085f34b0d553e8d6227b0668a010/clt1/va02/disneyplus/channel/7f9052ce-8143-43a6-9656-a8c00c4a3e56-1762950862652/ctr-all-sliding-alt1.m3u8?v=1&hash=2daf186937da77473bf07bbbecfc5597024e944f",
+    "k1": "b638ec0e08e74337b49977159f298867",
+    "k2": "047c4d503705c761c12e97fdc0997d5c"
   },
   {
     "title": "Torino vs. Bologna",
@@ -638,6 +615,26 @@
     "img": "de96ba12-490d-47cb-a22f-4c4b1f0478dc",
     "nombre": "disneyb2b294",
     "status": "05:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Qatar ExxonMobil Open / Grandstand 2 (Doubles)",
+    "league": "ATP",
+    "fecha-evento": "2026-02-16T05:30:00-05:00",
+    "img": "321c2da3-a386-4887-bd1a-45ddc5d1b8a0",
+    "nombre": "disneyd65cb8",
+    "status": "05:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Australia vs. Sri Lanka",
+    "league": "ESPN",
+    "fecha-evento": "2026-02-16T08:00:00-05:00",
+    "img": "019ab5c1-55c9-755d-a054-03e9d30026aa",
+    "nombre": "disneya1d0b1",
+    "status": "08:00",
     "duration": 135,
     "play_url": ""
   }
