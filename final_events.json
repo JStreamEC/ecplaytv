@@ -49,19 +49,6 @@
     "k2": "99cae515e2a7c3b0740af85e2e5a49ff"
   },
   {
-    "title": "Eastern Michigan vs. Ball State",
-    "league": "NCAA Gimnasia Femenina",
-    "fecha-evento": "2026-02-15T13:00:06-05:00",
-    "img": "381bc42f-b4a0-467e-bf87-b6394f8b4927",
-    "nombre": "disney893f15",
-    "status": "13:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/3aa5f36b-dbde-4794-9351-3edc2a49468c",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1771266173~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F15%2FEastern_Michigan_vs_Ball__20260215_1771171242046%2F~psid=64797925-e1ed-4e4e-a907-1d28d72d8986~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=2ce9ef5ccfb34df73c2506b9edd891cb3ec6fcd4987d6fb3f8cc8fbbd63524eb/clt1/va02/disneyplus/event/2026/02/15/Eastern_Michigan_vs_Ball__20260215_1771171242046/ctr-all-hdri-complete.m3u8?v=1&hash=288a3000cbb51abdc7ce29ec48e3ae12177ec65f",
-    "k1": "5a1e64227991464886064b4277ef2029",
-    "k2": "f8daa41e1d6b38e4a4be913b50efcf3b"
-  },
-  {
     "title": "Sam Houston vs. McNeese",
     "league": "NCAA Beisbol",
     "fecha-evento": "2026-02-15T14:00:00-05:00",
@@ -166,16 +153,6 @@
     "k2": "b5f1c2e9ac33c41fa9ed817ee45c8aea"
   },
   {
-    "title": "#1 Texas Tech vs. #8 Nebraska",
-    "league": "NCAA Softball",
-    "fecha-evento": "2026-02-15T15:00:00-05:00",
-    "img": "019c210e-be56-72b1-a308-1e1755756e3e",
-    "nombre": "disneyd4c853",
-    "status": "15:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Napoli vs. Roma",
     "league": "Seria A",
     "fecha-evento": "2026-02-15T14:30:00-05:00",
@@ -246,6 +223,19 @@
     "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1771272192~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F15%2FStade_Francais_vs_Toulous_20260215_1771178448027%2F~psid=8250166c-f0a8-498a-8564-11ef200f5f50~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=73849227d8741425505071b97ec3c639b6992fa27c1c41110870fe5ff389de2f/clt1/va02/disneyplus/event/2026/02/15/Stade_Francais_vs_Toulous_20260215_1771178448027/ctr-all-hdri-complete.m3u8?v=1&hash=38b89384fe262ac3d678ec40e6086956330231e5",
     "k1": "9dd7233dccba426aac0c0fed204490b6",
     "k2": "45a37d58cfc14d4e7e944e10b2a53dc4"
+  },
+  {
+    "title": "#1 Texas Tech vs. #8 Nebraska",
+    "league": "NCAA Softball",
+    "fecha-evento": "2026-02-15T15:06:00-05:00",
+    "img": "019c210e-be56-72b1-a308-1e1755756e3e",
+    "nombre": "disneye39905",
+    "status": "15:06",
+    "duration": 114,
+    "play_url": "https://www.disneyplus.com/es-es/play/4183d9cf-d1f2-4c9f-97df-b1c65d5457c5",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1771273367~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F15%2F1_Texas_Tech_vs_8_Nebrask_20260215_1771182600475%2F~psid=ce6d1890-22d0-406c-b7f9-5f3f31172419~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=e88d80bbf3da7471326720bfa97ed89aedcce9496ab20e6701ff8e6f0fdaa47f/clt1/va02/disneyplus/event/2026/02/15/1_Texas_Tech_vs_8_Nebrask_20260215_1771182600475/ctr-all-hdri-complete.m3u8?v=1&hash=2fbecab97c32d1f45c7ffc1e3b63112ba97a206a",
+    "k1": "1dce29dcbd6c4e0c88b837327e4890be",
+    "k2": "d08ea458145ed464af7eff136d126256"
   },
   {
     "title": "NC State vs. Notre Dame",
@@ -644,6 +634,16 @@
     "img": "019c58b8-e3d6-752b-bfb9-5fe0e3b7d195",
     "nombre": "disney105932",
     "status": "19:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Liga Mexicana de Softbol - Home Run Derby",
+    "league": "Liga Mexicana de Softbol",
+    "fecha-evento": "2026-02-16T20:55:00-05:00",
+    "img": "019c4e73-716d-7c50-a4d4-ac5d11ba357c",
+    "nombre": "disney8d0a40",
+    "status": "20:55",
     "duration": 135,
     "play_url": ""
   }
