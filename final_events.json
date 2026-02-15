@@ -23,19 +23,6 @@
     "k2": "f710c2aafde6171d1f721ab02dd5745a"
   },
   {
-    "title": "Chelsea vs. Liverpool",
-    "league": "English Women's Super League",
-    "fecha-evento": "2026-02-15T06:49:59-05:00",
-    "img": "019c076e-7707-7770-9791-9c994bdfee0c",
-    "nombre": "disney7db112",
-    "status": "06:49",
-    "duration": 235,
-    "play_url": "https://www.disneyplus.com/es-es/play/02722c12-3ee7-45fa-bb5d-d2fbdb206d19",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1771256592~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F15%2FChelsea_vs_Liverpool_20260215_1771149030034%2F~psid=b0f2f535-4eb5-4688-ace4-4533193d1b60~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=d41ec167addc3b8dc9c16811b1dcb2c8a51703c492cee149f7e7827696afd6c3/clt1/va02/disneyplus/event/2026/02/15/Chelsea_vs_Liverpool_20260215_1771149030034/ctr-all-hdri-complete.m3u8?v=1&hash=b4804368f3c853cf8148ca277df2c5a91975bf21",
-    "k1": "d2b4835c74af42108b24f350ea529c09",
-    "k2": "db271fddf4fce3eab2f18c1e7749120b"
-  },
-  {
     "title": "AT&T Pebble Beach Pro-Am (Ronda Final)",
     "league": "PGA TOUR",
     "fecha-evento": "2026-02-15T13:00:00-05:00",
@@ -274,8 +261,11 @@
     "img": "019c5ea9-70ac-7299-9b9e-6d1082164603",
     "nombre": "disney5052bd",
     "status": "16:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 150,
+    "play_url": "https://www.disneyplus.com/es-es/play/ce8bfe3b-c275-4ec3-bf08-f957426b0aa0",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1771275765~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F15%2F5_Quinnipiac_vs_Princeton_20260215_1771185214577%2F~psid=be3917ae-470d-49b4-b3d7-23682b667777~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=500d3b026d9058896a9d92eb65cc5a4c70fddb64e1af3a816ba28b3ff3031545/clt1/va02/disneyplus/event/2026/02/15/5_Quinnipiac_vs_Princeton_20260215_1771185214577/ctr-all-hdri-complete.m3u8?v=1&hash=123878597020450851a8e5fc59aa86a2d3820b83",
+    "k1": "664694b5128f446fb4f81e3a707fdd9c",
+    "k2": "28eaddfa93a9ecd60dfa563ae709886b"
   },
   {
     "title": "Boca Juniors vs. Platense",
@@ -644,6 +634,16 @@
     "img": "019c4e73-716d-7c50-a4d4-ac5d11ba357c",
     "nombre": "disney8d0a40",
     "status": "20:55",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "#3 Houston vs. #5 Iowa State",
+    "league": "Básquetbol Masculino NCAA",
+    "fecha-evento": "2026-02-16T21:00:00-05:00",
+    "img": "019c0a65-b32b-72e4-8ad2-dd71155fb897",
+    "nombre": "disneya25dd4",
+    "status": "21:00",
     "duration": 135,
     "play_url": ""
   }
