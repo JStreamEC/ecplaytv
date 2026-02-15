@@ -36,32 +36,6 @@
     "k2": "db271fddf4fce3eab2f18c1e7749120b"
   },
   {
-    "title": "UCF vs. NC State",
-    "league": "NCAA Softball",
-    "fecha-evento": "2026-02-15T12:00:00-05:00",
-    "img": "019c5f25-f22d-7e17-beb4-8f627acd4152",
-    "nombre": "disney43ee78",
-    "status": "12:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/88891fc3-8156-4fb2-8c09-da4d7ad18bb6",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1771262440~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F15%2FUCF_vs_NC_State_20260215_1771167613030%2F~psid=241f8727-48a7-4ed2-9350-d123a0e9e5e6~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=a37fd501492ed57663753070cbfb12411c7de77728a3fe1633ed71469d307860/clt1/va02/disneyplus/event/2026/02/15/UCF_vs_NC_State_20260215_1771167613030/ctr-all-hdri-complete.m3u8?v=1&hash=11a486a8a9d797af9669cc1816d7f9d549ccd99a",
-    "k1": "928e4cd2681d4d17924a2c1f00d7539f",
-    "k2": "82c985ed5985d78fa144e707e03fc26d"
-  },
-  {
-    "title": "#21 North Carolina vs. #11 Duke | En Español",
-    "league": "Básquet Femenino NCAA",
-    "fecha-evento": "2026-02-15T13:00:00-05:00",
-    "img": "019bc311-7908-7b0f-8327-a5b68cb56504",
-    "nombre": "disney3a92ab",
-    "status": "13:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/e11530ce-c83f-438b-a25f-615666800df7",
-    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1771266092~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F47873700-1b85-4497-8f84-d6f321fbb196-1762950817735%2F~psid=4d50f64e-70de-4d68-926a-67f6e1d2f7af~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=6bd8855a898b4610fb0f702b5e8e67d29d244317567ed5a53d8087430c4ac1f5/clt1/va02/disneyplus/channel/47873700-1b85-4497-8f84-d6f321fbb196-1762950817735/ctr-all-sliding-alt1.m3u8?v=1&hash=47b2c0b057c5c5c39ef0f49826b655a1e4ceacb9",
-    "k1": "4aa7f8a1cc04409d9f8b3ede0a47b61f",
-    "k2": "c4fd2cff9471be44577af3f50d69c4ca"
-  },
-  {
     "title": "AT&T Pebble Beach Pro-Am (Ronda Final)",
     "league": "PGA TOUR",
     "fecha-evento": "2026-02-15T13:00:00-05:00",
@@ -202,19 +176,6 @@
     "play_url": ""
   },
   {
-    "title": "Danubio vs. Boston River",
-    "league": "Campeonato Uruguayo",
-    "fecha-evento": "2026-02-15T14:30:00-05:00",
-    "img": "019c32d4-2c09-7122-b42c-33aafddd66fe",
-    "nombre": "disney9a9db0",
-    "status": "14:30",
-    "duration": 180,
-    "play_url": "https://www.disneyplus.com/es-es/play/81eff66c-5822-4c97-8a86-f2b52e5a6691",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1771270856~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F15%2FDanubio_vs_Boston_River_20260215_1771176654044%2F~psid=c07e7584-dc85-4855-b69f-788fcc8bdd82~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=950c71e73708a7603e3ac3ca2b0918af47c05fe11d2c19fa0a8aee941ef722c8/clt1/va02/disneyplus/event/2026/02/15/Danubio_vs_Boston_River_20260215_1771176654044/ctr-all-hdri-complete.m3u8?v=1&hash=e623fa5a2de5b22a567ba837bc777b438cf87f45",
-    "k1": "3fe454c944234929816a120d482114d0",
-    "k2": "6616167a1ea57001e45434b940e88043"
-  },
-  {
     "title": "Napoli vs. Roma",
     "league": "Seria A",
     "fecha-evento": "2026-02-15T14:30:00-05:00",
@@ -238,14 +199,27 @@
     "k2": "b257732702bf297af1d263676cbb215e"
   },
   {
+    "title": "Danubio vs. Boston River",
+    "league": "Campeonato Uruguayo",
+    "fecha-evento": "2026-02-15T14:30:00-05:00",
+    "img": "019c32d4-2c09-7122-b42c-33aafddd66fe",
+    "nombre": "disney9a9db0",
+    "status": "14:30",
+    "duration": 180,
+    "play_url": "https://www.disneyplus.com/es-es/play/81eff66c-5822-4c97-8a86-f2b52e5a6691",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1771270856~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F15%2FDanubio_vs_Boston_River_20260215_1771176654044%2F~psid=c07e7584-dc85-4855-b69f-788fcc8bdd82~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=950c71e73708a7603e3ac3ca2b0918af47c05fe11d2c19fa0a8aee941ef722c8/clt1/va02/disneyplus/event/2026/02/15/Danubio_vs_Boston_River_20260215_1771176654044/ctr-all-hdri-complete.m3u8?v=1&hash=e623fa5a2de5b22a567ba837bc777b438cf87f45",
+    "k1": "3fe454c944234929816a120d482114d0",
+    "k2": "6616167a1ea57001e45434b940e88043"
+  },
+  {
     "title": "Castellón vs. Deportivo La Coruña",
     "league": "Segunda División de España",
-    "fecha-evento": "2026-02-15T14:50:00-05:00",
+    "fecha-evento": "2026-02-15T14:50:59-05:00",
     "img": "e20a9d2a-f456-482a-a91d-899fcfaf2364",
-    "nombre": "disney878359",
+    "nombre": "disney28f5d1",
     "status": "14:50",
-    "duration": 135,
-    "play_url": ""
+    "duration": 129,
+    "play_url": "https://www.disneyplus.com/es-es/play/dbb5f49d-cb0e-4e7c-9b7c-9b93be6cce83"
   },
   {
     "title": "Dallas Open / Center Court (Doubles Final)",
@@ -254,8 +228,11 @@
     "img": "6c49aca4-c1ab-442a-b212-33387b42e610",
     "nombre": "disney47af12",
     "status": "15:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 180,
+    "play_url": "https://www.disneyplus.com/es-es/play/3091bade-013c-43e9-8c68-b42a56e89346",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1771272159~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F15%2FDallas_Open_Center_Court__20260215_1771181434567%2F~psid=e7f07e9f-00a8-4298-9b46-bb3298fd959e~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=34db8b717ef6ad90a025e5077e0f17df3ddae68be80ef433bdcb9cf17836ac40/clt1/va02/disneyplus/event/2026/02/15/Dallas_Open_Center_Court__20260215_1771181434567/ctr-all-hdri-complete.m3u8?v=1&hash=2a53426f116e2a13868b4167349bfd887c3afc52",
+    "k1": "37a949e295544de1beb694eb0b0f6ef3",
+    "k2": "3cd5af3f642a9a76eb2065e6ebe062c2"
   },
   {
     "title": "Stade Francais vs. Toulouse",
@@ -264,8 +241,11 @@
     "img": "019c4308-7bf8-70d7-8d83-f45817fd3464",
     "nombre": "disney16379e",
     "status": "15:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/9723aae1-3401-4fd3-9aee-5e934befd32e",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1771272192~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F15%2FStade_Francais_vs_Toulous_20260215_1771178448027%2F~psid=8250166c-f0a8-498a-8564-11ef200f5f50~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=73849227d8741425505071b97ec3c639b6992fa27c1c41110870fe5ff389de2f/clt1/va02/disneyplus/event/2026/02/15/Stade_Francais_vs_Toulous_20260215_1771178448027/ctr-all-hdri-complete.m3u8?v=1&hash=38b89384fe262ac3d678ec40e6086956330231e5",
+    "k1": "9dd7233dccba426aac0c0fed204490b6",
+    "k2": "45a37d58cfc14d4e7e944e10b2a53dc4"
   },
   {
     "title": "NC State vs. Notre Dame",
@@ -644,6 +624,26 @@
     "img": "019c263a-7271-70b7-82f6-c0ca57d4ec8a",
     "nombre": "disney7e73a0",
     "status": "19:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Montevideo City Torque vs. Juventud",
+    "league": "Campeonato Uruguayo",
+    "fecha-evento": "2026-02-16T19:15:00-05:00",
+    "img": "019c32d6-0429-7d28-8750-09fe5939dec0",
+    "nombre": "disneyad8e7b",
+    "status": "19:15",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Atlético de San Luis vs. Querétaro F.C. (Jornada 9)",
+    "league": "Mexican Liga BBVA MX Femenil",
+    "fecha-evento": "2026-02-16T19:50:00-05:00",
+    "img": "019c58b8-e3d6-752b-bfb9-5fe0e3b7d195",
+    "nombre": "disney105932",
+    "status": "19:50",
     "duration": 135,
     "play_url": ""
   }
