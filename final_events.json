@@ -23,16 +23,6 @@
     "k2": "a30b2869f68ab7491ad81f9ac182c333"
   },
   {
-    "title": "California vs. Santa Clara",
-    "league": "NCAA Beisbol",
-    "fecha-evento": "2026-02-15T18:00:00-05:00",
-    "img": "019c58d6-366d-7c6f-994c-a2e120842a81",
-    "nombre": "disneybecd6c",
-    "status": "18:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "WTA Dubai Duty Free Tennis Championships (Primera Ronda)",
     "league": "WTA",
     "fecha-evento": "2026-02-15T01:40:34-05:00",
@@ -195,18 +185,24 @@
     "img": "019c29c8-02b8-718e-9a18-55c1bf81800a",
     "nombre": "disneydbf5f9",
     "status": "11:50",
-    "duration": 135,
-    "play_url": ""
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/37db1833-6e91-4a11-a4fa-7c2bb0cad272",
+    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1771261238~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Fbbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1767092609127%2F~psid=8daf9fdc-429f-4b34-9b21-456f5655f9f5~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=b215c0afaf2135ff03ae28ad06e724439fdc8f703989f860740b16b332bb4cc5/clt1/va02/disneyplus/channel/bbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1767092609127/ctr-all-sliding-alt1.m3u8?v=1&hash=caa611b0aedb1e1aad3e4a1a02fe77959cc0e2c7",
+    "k1": "b7a6061f2547459091778133b326d58c",
+    "k2": "685b279240bd3be773622ebceb75ab6c"
   },
   {
     "title": "Istanbul Basaksehir vs. Besiktas",
     "league": "Super Lig de Turquía",
-    "fecha-evento": "2026-02-15T11:50:00-05:00",
+    "fecha-evento": "2026-02-15T11:50:01-05:00",
     "img": "019c0ae9-8e55-7125-837f-ff33972e559f",
-    "nombre": "disney7e7f9a",
+    "nombre": "disneyc7f488",
     "status": "11:50",
-    "duration": 135,
-    "play_url": ""
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/6cfef4ae-78ea-44fc-b980-6fada6333430",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1771261288~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F15%2FIstanbul_Basaksehir_vs_Be_20260215_1771167031040%2F~psid=aa887b70-241b-453c-aff4-3833d4f52667~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=66c0ad4da2e8f2821e4c74103b23c0d8719366b9be40e658635557de544cbe0a/clt1/va02/disneyplus/event/2026/02/15/Istanbul_Basaksehir_vs_Be_20260215_1771167031040/ctr-all-hdri-complete.m3u8?v=1&hash=4d14518c2e9d7c700bd1d70f75d0730411eb1d2f",
+    "k1": "9c5696d3ba454805a93e9daebbd060aa",
+    "k2": "5b572fa8fe4efcc5ed2a45fb7cfc3f35"
   },
   {
     "title": "Utah vs. Cincinnati",
@@ -635,6 +631,16 @@
     "img": "019ab5c1-55c9-755d-a054-03e9d30026aa",
     "nombre": "disneya1d0b1",
     "status": "08:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "#5 Stanford vs. Vanderbilt",
+    "league": "NCAA Women's Lacrosse",
+    "fecha-evento": "2026-02-16T12:00:00-05:00",
+    "img": "019c2000-3d4d-7194-b8c2-edd64972cad6",
+    "nombre": "disneya08f11",
+    "status": "12:00",
     "duration": 135,
     "play_url": ""
   }
