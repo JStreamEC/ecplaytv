@@ -75,16 +75,6 @@
     "k2": "76f16be6dcfbd4ff8f440fa29478efd2"
   },
   {
-    "title": "UCL al instante",
-    "league": "UEFA Champions League",
-    "fecha-evento": "2026-02-17T12:40:00-05:00",
-    "img": "1f4cfba0-a435-412b-b4cb-1cebe051956c",
-    "nombre": "disney6c0bf7",
-    "status": "12:40",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Delray Beach Open (Primera Ronda)",
     "league": "ATP",
     "fecha-evento": "2026-02-17T13:00:00-05:00",
@@ -180,6 +170,16 @@
     "fecha-evento": "2026-02-17T14:40:00-05:00",
     "img": "019c491a-014f-71ca-96c5-09198f6cd23b",
     "nombre": "disney9c7bf9",
+    "status": "14:40",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "UCL al instante",
+    "league": "UEFA Champions League",
+    "fecha-evento": "2026-02-17T14:40:00-05:00",
+    "img": "1f4cfba0-a435-412b-b4cb-1cebe051956c",
+    "nombre": "disney941030",
     "status": "14:40",
     "duration": 135,
     "play_url": ""
