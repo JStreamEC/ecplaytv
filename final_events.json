@@ -23,19 +23,6 @@
     "k2": "26d5ec15e1cfa949cf31ac1dc3f019d2"
   },
   {
-    "title": "Qatar ExxonMobil Open / Grandstand 1",
-    "league": "ATP",
-    "fecha-evento": "2026-02-17T05:30:01-05:00",
-    "img": "de96ba12-490d-47cb-a22f-4c4b1f0478dc",
-    "nombre": "disneyb94e65",
-    "status": "05:30",
-    "duration": 600,
-    "play_url": "https://www.disneyplus.com/es-es/play/2d40d5a1-9199-4c05-b3ea-d40db68aad13",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1771435293~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F17%2FQatar_ExxonMobil_Open_Gra_20260217_1771319855036%2F~psid=8a035ed6-7f65-4acd-9b32-c59dbc7ff732~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=2c090c322c5e9bfc8ec3ddd456f8748e691b59a447e67eb3a84e6c42ce94265b/clt1/va02/disneyplus/event/2026/02/17/Qatar_ExxonMobil_Open_Gra_20260217_1771319855036/ctr-all-hdri-complete.m3u8?v=1&hash=7232396504e2873331ea16792f014250fd9053ae",
-    "k1": "071237480d474451b69702c2f683a9d9",
-    "k2": "a435f4085b659a60ff53e60aeab53b43"
-  },
-  {
     "title": "Qatar ExxonMobil Open (Primera Ronda)",
     "league": "ATP",
     "fecha-evento": "2026-02-17T11:30:07-05:00",
@@ -68,8 +55,11 @@
     "img": "019c4a28-3bda-7c4f-897d-93455f80f787",
     "nombre": "disneyb9772f",
     "status": "13:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 240,
+    "play_url": "https://www.disneyplus.com/es-es/play/095f07d0-1f78-47eb-bd2e-9045a31c3352",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1771438838~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F17%2FDelray_Beach_Open_First_R_20260217_1771344042047%2F~psid=b3e59112-ec55-4c31-a443-41d27fa2128a~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=b7d583dc1799a69049e4322c36b3b6e9d1ea75cdd13e65837fa718da518e92b6/clt1/va02/disneyplus/event/2026/02/17/Delray_Beach_Open_First_R_20260217_1771344042047/ctr-all-hdri-complete.m3u8?v=1&hash=20b44b91472375dfff90783a7551801172369a60",
+    "k1": "87fa85b4b86b4b6c8c6c48ea83ea254e",
+    "k2": "bba82669a377272235b9d4edf57cb178"
   },
   {
     "title": "Rio Open presented by Claro / Quadra 1",
@@ -597,6 +587,16 @@
     "fecha-evento": "2026-02-18T17:00:00-05:00",
     "img": "cae07512-17c8-4bd0-8e45-536d7e380bf9",
     "nombre": "disney949624",
+    "status": "17:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Top 14 de Francia 2025/26 - Resumen Semanal",
+    "league": "ESPN",
+    "fecha-evento": "2026-02-18T17:00:00-05:00",
+    "img": "b30970de-8aed-4439-96c5-3b90f11c0feb",
+    "nombre": "disney6aab4c",
     "status": "17:00",
     "duration": 135,
     "play_url": ""
