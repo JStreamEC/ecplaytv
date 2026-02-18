@@ -114,6 +114,19 @@
     "k2": "1254e1b863727fa536e32e07393ac2d7"
   },
   {
+    "title": "A. Tabilo (CHI) vs. F. Passaro (ITA) | En español",
+    "league": "ATP",
+    "fecha-evento": "2026-02-18T17:00:03-05:00",
+    "img": "019c70b4-9a7a-7ba5-8ed1-b16e8f21f6ed",
+    "nombre": "disneydb55ce",
+    "status": "17:00",
+    "duration": 240,
+    "play_url": "https://www.disneyplus.com/es-es/play/c81e0f00-703e-4bdf-bf9b-43dcaf921ea1",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1771544438~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F18%2FRio_Open_presented_by_Cla_20260218_1771444803018%2F~psid=2f854d3c-acc2-4b2d-b1f8-532e66dd1619~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=aaff235d002e8a9d41c0d153708d373074d6c4f1f936d739a70a7d834dbbcf9c/clt1/va02/disneyplus/event/2026/02/18/Rio_Open_presented_by_Cla_20260218_1771444803018/ctr-all-hdri-complete.m3u8?v=1&hash=7f3b0fb5073213d55c188c742c88d2a0b200ac7f",
+    "k1": "efe83b5abfa84bbf808be88371cd4734",
+    "k2": "1ec7f3d75025d9d72770af44ab1af950"
+  },
+  {
     "title": "America East Swimming & Diving Championship (Swimming Relays/Diving Finals)",
     "league": "NCAA Natación y Buceo",
     "fecha-evento": "2026-02-18T17:30:00-05:00",
@@ -171,19 +184,6 @@
     "status": "18:00",
     "duration": 240,
     "play_url": "https://www.disneyplus.com/es-es/play/04c2f1b1-df76-4418-9641-87094fc84988"
-  },
-  {
-    "title": "ASUN Swimming & Diving Championship (Day One Finals)",
-    "league": "NCAA Natación y Buceo",
-    "fecha-evento": "2026-02-18T18:00:06-05:00",
-    "img": "cae07512-17c8-4bd0-8e45-536d7e380bf9",
-    "nombre": "disneya577fb",
-    "status": "18:00",
-    "duration": 180,
-    "play_url": "https://www.disneyplus.com/es-es/play/8055cea8-1d74-4d8b-b056-b5e5c33c53f2",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1771543910~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F18%2FASUN_Swimming_Diving_Cham_20260218_1771450379426%2F~psid=76f7f835-ecbe-4122-9803-0ce6051c5fc8~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=0c9687441cc8f8485ad2a33ff246d2add385c6f5bf3dccf8216384359c645f6f/clt1/va02/disneyplus/event/2026/02/18/ASUN_Swimming_Diving_Cham_20260218_1771450379426/ctr-all-hdri-complete.m3u8?v=1&hash=1bc5b7d68b1672dc8456661e19918a03c0aaa58b",
-    "k1": "ba9c5de32d85489094fe827ba714ba39",
-    "k2": "a8bcab24eae32e32ef649e9e979967e2"
   },
   {
     "title": "San José State vs. Santa Clara",
@@ -615,6 +615,16 @@
     "img": "019c35bf-d86c-7fdd-b965-2aeccdcd8c6d",
     "nombre": "disneyb9add9",
     "status": "17:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Western Carolina vs. Chattanooga",
+    "league": "Básquet Femenino NCAA",
+    "fecha-evento": "2026-02-19T18:00:00-05:00",
+    "img": "019c5989-b47f-753f-be64-f8ca45fa49bf",
+    "nombre": "disney052137",
+    "status": "18:00",
     "duration": 135,
     "play_url": ""
   }
