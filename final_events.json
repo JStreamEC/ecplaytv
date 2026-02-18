@@ -10,19 +10,6 @@
     "play_url": ""
   },
   {
-    "title": "WTA Dubai Duty Free Tennis Championships (Tercera Ronda)",
-    "league": "WTA",
-    "fecha-evento": "2026-02-18T01:55:07-05:00",
-    "img": "9d82319a-0d34-4670-8bd1-f3b38881bf21",
-    "nombre": "disneyf43782",
-    "status": "01:55",
-    "duration": 750,
-    "play_url": "https://www.disneyplus.com/es-es/play/c00f1b9d-b083-47d3-98ab-ffabf4a59d67",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1771528845~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F18%2FWTA_Dubai_Duty_Free_Tenni_20260218_1771390841036%2F~psid=fc3f4852-68f6-4d68-8545-6a862a542516~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=88646e62cc5852a32e6fbaddd8ddb752f2e2d3322fcf66040c46a9f79fba37c6/clt1/va02/disneyplus/event/2026/02/18/WTA_Dubai_Duty_Free_Tenni_20260218_1771390841036/ctr-all-hdri-complete.m3u8?v=1&hash=50a5fed9769a95dcae261b6a42dbcc47b9f09869",
-    "k1": "9d0ee375c3444ed0a24832af2764a735",
-    "k2": "128510530fc9996287754223d2250a42"
-  },
-  {
     "title": "Qatar ExxonMobil Open / Grandstand 2",
     "league": "ATP",
     "fecha-evento": "2026-02-18T06:00:00-05:00",
@@ -88,44 +75,56 @@
     "k2": "53cdc8efc586ae19c47f261ab1698d6b"
   },
   {
-    "title": "Rio Open presented by Claro / Quadra 2",
-    "league": "ATP",
-    "fecha-evento": "2026-02-18T14:30:00-05:00",
-    "img": "523d4b1b-4e14-4702-8325-8ad54e0ad6e5",
-    "nombre": "disneycce589",
-    "status": "14:30",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Rio Open presented by Claro / Quadra Guga Kuerten",
     "league": "ATP",
     "fecha-evento": "2026-02-18T14:30:00-05:00",
     "img": "12a5fd30-e1d2-4d31-b923-8c1d646b000c",
     "nombre": "disney8487ee",
     "status": "14:30",
-    "duration": 135,
-    "play_url": ""
+    "duration": 390,
+    "play_url": "https://www.disneyplus.com/es-es/play/5a85b333-d665-4b01-a836-6109ab504d18",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1771530038~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F18%2FRio_Open_presented_by_Cla_20260218_1771435808041%2F~psid=3791067b-39c5-4f90-a494-1c575527dc74~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=3ab00b64783147fffbefb72fc7e6e96e6a9e4b075202d2216a18d64ae5b1ecf6/clt1/va02/disneyplus/event/2026/02/18/Rio_Open_presented_by_Cla_20260218_1771435808041/ctr-all-hdri-complete.m3u8?v=1&hash=ea36ceab8acc62f6bd8f8ba4157ba925521fc307",
+    "k1": "3e4f3022664946739d62ac84a2dc61a0",
+    "k2": "b491f5f905883f4336f05580c5c1d2df"
   },
   {
     "title": "Rio Open presented by Claro (Segunda Ronda)",
     "league": "ATP",
-    "fecha-evento": "2026-02-18T14:30:00-05:00",
+    "fecha-evento": "2026-02-18T14:30:07-05:00",
     "img": "3940722b-8ac4-45ca-b950-29c99c42c304",
-    "nombre": "disneycfd219",
+    "nombre": "disney66c2d0",
     "status": "14:30",
-    "duration": 135,
-    "play_url": ""
+    "duration": 390,
+    "play_url": "https://www.disneyplus.com/es-es/play/cb05d88c-0082-4a19-9576-29f433c019ab",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1771530084~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F18%2FRio_Open_presented_by_Cla_20260218_1771435830031%2F~psid=f80be1c4-0c72-4bce-ba09-bb8103e3b2e9~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=f24361f657b2c4dbb14dc2531c0f4601fc56e6474d325d06086b5bd38b4fa06e/clt1/va02/disneyplus/event/2026/02/18/Rio_Open_presented_by_Cla_20260218_1771435830031/ctr-all-hdri-complete.m3u8?v=1&hash=15ce58ec39ca5171b5e3926517acad996d331995",
+    "k1": "4a8a36090f514c89a27ef480868e2953",
+    "k2": "c3cc96981dad0b23d5c04d050e3d25f3"
+  },
+  {
+    "title": "Rio Open presented by Claro / Quadra 2",
+    "league": "ATP",
+    "fecha-evento": "2026-02-18T14:30:14-05:00",
+    "img": "523d4b1b-4e14-4702-8325-8ad54e0ad6e5",
+    "nombre": "disney11468c",
+    "status": "14:30",
+    "duration": 240,
+    "play_url": "https://www.disneyplus.com/es-es/play/027549cb-1ede-4a13-97dc-a4ce15e8790d",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1771530132~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F18%2FRio_Open_presented_by_Cla_20260218_1771435827018%2F~psid=57e3819d-5eeb-4f00-a8fb-0ea0149cc441~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=734d33b753818c3ddf77b6069a02b5bae5d85b47edbdb473c4ca28cf1febdc93/clt1/va02/disneyplus/event/2026/02/18/Rio_Open_presented_by_Cla_20260218_1771435827018/ctr-all-hdri-complete.m3u8?v=1&hash=463075db6ef0e447efa5d9200ad282bd26b606d7",
+    "k1": "b33e235d817b46df8ba8a9a2f70568e3",
+    "k2": "1683b58e580845f9731dde30530b12f5"
   },
   {
     "title": "Rio Open presented by Claro / Quadra 1",
     "league": "ATP",
-    "fecha-evento": "2026-02-18T14:30:00-05:00",
+    "fecha-evento": "2026-02-18T14:30:50-05:00",
     "img": "1a1c5978-451c-44ea-a386-c1a6e301fe65",
-    "nombre": "disney31fb21",
+    "nombre": "disney4d6b41",
     "status": "14:30",
-    "duration": 135,
-    "play_url": ""
+    "duration": 359,
+    "play_url": "https://www.disneyplus.com/es-es/play/eacfa674-555b-47da-a6e6-bd631febc1a7",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1771530160~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F18%2FRio_Open_presented_by_Cla_20260218_1771435808028%2F~psid=e83d5102-f78b-4f6b-8c77-b5eb19c8fc86~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=b2686c11b2e5f0270602d2323b49a9a551f3db24e3e08367d71caffb3a28c702/clt1/va02/disneyplus/event/2026/02/18/Rio_Open_presented_by_Cla_20260218_1771435808028/ctr-all-hdri-complete.m3u8?v=1&hash=107c26280e99b1f0885da31932746d8a72241fd5",
+    "k1": "60ea0245a261481f89950a2a44a65b67",
+    "k2": "9b3af950e0f0593e5dc7153cd53a1972"
   },
   {
     "title": "Wolverhampton Wanderers vs. Arsenal",
@@ -145,7 +144,10 @@
     "nombre": "disney4be856",
     "status": "14:40",
     "duration": 135,
-    "play_url": ""
+    "play_url": "https://www.disneyplus.com/es-es/play/f44066ff-ecb9-4a40-93d0-caa34a72b423",
+    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1771530187~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F7f9052ce-8143-43a6-9656-a8c00c4a3e56-1762950862652%2F~psid=ec468370-71c6-47e5-93bb-b6cb9e3f8a15~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=5b93e59b134972d842bf2cb51a4982a4d09976c0dcf7dee7059c85753e2f3017/clt1/va02/disneyplus/channel/7f9052ce-8143-43a6-9656-a8c00c4a3e56-1762950862652/ctr-all-sliding-alt1.m3u8?v=1&hash=2daf186937da77473bf07bbbecfc5597024e944f",
+    "k1": "f25553a999ab4ff082fa085359dc6149",
+    "k2": "64910eb6356d4b62c21f50a654884626"
   },
   {
     "title": "FK Bodø/Glimt vs. Inter",
@@ -165,7 +167,10 @@
     "nombre": "disneyd65c59",
     "status": "14:40",
     "duration": 135,
-    "play_url": ""
+    "play_url": "https://www.disneyplus.com/es-es/play/3128108b-bb45-47f4-83a7-8675a8b8b250",
+    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1771530216~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Ff25bdf06-81c9-4a7c-b128-3128d610ad17-1762951253360%2F~psid=1c481448-9005-48be-b742-e0808033ee2b~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=43a29c49cd4c7ee6e7c4d59678e747b8791f945894d9cb2b455c39cb2e4f6bbc/clt1/va02/disneyplus/channel/f25bdf06-81c9-4a7c-b128-3128d610ad17-1762951253360/ctr-all-sliding-alt1.m3u8?v=1&hash=57a1e5c4737768952c5164be5d4f5ba525d47674",
+    "k1": "c1fa30a734504f74b383ac2e153cd2ee",
+    "k2": "43bd2e186a8a3127928a43da3a1971b1"
   },
   {
     "title": "UCL al instante",
@@ -578,6 +583,16 @@
     "play_url": ""
   },
   {
+    "title": "Qatar ExxonMobil Open (Cuartos de Final) | En español",
+    "league": "ATP",
+    "fecha-evento": "2026-02-19T11:30:00-05:00",
+    "img": "019af9ec-38e3-7276-969a-43ff3b97be63",
+    "nombre": "disney1af79f",
+    "status": "11:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
     "title": "Dinamo Zagreb vs. Genk",
     "league": "UEFA Europa League",
     "fecha-evento": "2026-02-19T12:30:00-05:00",
@@ -614,6 +629,16 @@
     "img": "019c3204-6b3a-7034-9604-6596ac77f007",
     "nombre": "disney98730f",
     "status": "12:35",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "UEL & UECL al instante",
+    "league": "UEFA Europa League",
+    "fecha-evento": "2026-02-19T12:40:00-05:00",
+    "img": "ac5526ec-37c9-448e-aad4-59520e83608b",
+    "nombre": "disney8a4a8f",
+    "status": "12:40",
     "duration": 135,
     "play_url": ""
   }
