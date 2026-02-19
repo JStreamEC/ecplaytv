@@ -23,19 +23,6 @@
     "k2": "e3ad7289f7a4019c5360635a7caebf08"
   },
   {
-    "title": "Delray Beach Open (Segunda Ronda)",
-    "league": "ATP",
-    "fecha-evento": "2026-02-19T13:00:10-05:00",
-    "img": "019c4a4e-196b-7ee7-97cb-e0561c3da559",
-    "nombre": "disney125d91",
-    "status": "13:00",
-    "duration": 240,
-    "play_url": "https://www.disneyplus.com/es-es/play/485d5e66-5579-44ee-b718-f34cdee07585",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1771611660~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F19%2FDelray_Beach_Open_Second__20260219_1771516839026%2F~psid=dc6b1833-a0a9-4f15-88f4-a60f97142571~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=d181bac7aae025bcf86e3e3f661493f8a238eee3b18c610537bfba62449e2f98/clt1/va02/disneyplus/event/2026/02/19/Delray_Beach_Open_Second__20260219_1771516839026/ctr-all-hdri-complete.m3u8?v=1&hash=767bbca1da8a5198a6e3ecd71afa44439bc720f1",
-    "k1": "8211e033ac5a4bb7a207d061f0ed412b",
-    "k2": "232489f5781ccb2c4d0fdd135e498a1f"
-  },
-  {
     "title": "Rio Open presented by Claro / Quadra 1",
     "league": "ATP",
     "fecha-evento": "2026-02-19T14:30:00-05:00",
@@ -114,14 +101,30 @@
     "k2": "3ad0b84dff232186676c085309e4ff8e"
   },
   {
+    "title": "Delray Beach Open (Segunda Ronda)",
+    "league": "ATP",
+    "fecha-evento": "2026-02-19T18:00:00-05:00",
+    "img": "019c4a4e-196b-7ee7-97cb-e0561c3da559",
+    "nombre": "disney7ccbf9",
+    "status": "18:00",
+    "duration": 240,
+    "play_url": "https://www.disneyplus.com/es-es/play/856f1a7d-796a-4df3-91e8-ea5dc31bca30",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1771629664~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F19%2FDelray_Beach_Open_Second__20260219_1771534822026%2F~psid=39afe1c1-b513-460c-8b14-9fb8cb2b31b7~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=dd79d8f09ec0ce0be0faa72ec0a4a2aba8580061d2d6d642f1cb6b2f9097e7c3/clt1/va02/disneyplus/event/2026/02/19/Delray_Beach_Open_Second__20260219_1771534822026/ctr-all-hdri-complete.m3u8?v=1&hash=c45dc40dd9eb3261c25c760f3877020905b9f7b8",
+    "k1": "65bd4629a2ad4109a4df2e698eac7eb9",
+    "k2": "dcaf84cc212ede689f42a011231ac1a1"
+  },
+  {
     "title": "Western Carolina vs. Chattanooga",
     "league": "Básquet Femenino NCAA",
-    "fecha-evento": "2026-02-19T18:00:00-05:00",
+    "fecha-evento": "2026-02-19T18:00:03-05:00",
     "img": "019c5989-b47f-753f-be64-f8ca45fa49bf",
-    "nombre": "disney052137",
+    "nombre": "disney12c8a2",
     "status": "18:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/23150517-1eb4-4af4-bb32-33e5a5d8309a",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1771629717~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F19%2FWestern_Carolina_vs_Chatt_20260219_1771534816027%2F~psid=a7ed8ec9-29eb-4f87-8c7e-a79e1f529e22~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=a90082c2a6c2bebe2c715b8da0e336a8dbbb80422138f79862aa3e8931d46a98/clt1/va02/disneyplus/event/2026/02/19/Western_Carolina_vs_Chatt_20260219_1771534816027/ctr-all-hdri-complete.m3u8?v=1&hash=ae3ece3b0b13e954b187321e0c473d9a55068314",
+    "k1": "d77b2f29e9de4f789e8f16106082e0ea",
+    "k2": "f030c1b8a8d0f81e5963e4686867f7e0"
   },
   {
     "title": "Grand Rapids Gold vs. Westchester Knicks",
