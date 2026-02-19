@@ -36,19 +36,6 @@
     "k2": "88cc7d5140a1028d4269c31589d2564a"
   },
   {
-    "title": "Mercer vs. Wofford",
-    "league": "Básquet Femenino NCAA",
-    "fecha-evento": "2026-02-19T11:00:08-05:00",
-    "img": "019c5987-3dc3-77c9-a447-319813a5acdc",
-    "nombre": "disneyd4aeda",
-    "status": "11:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/877c6b73-772e-40f5-aa54-4ea21d1951d0",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1771605791~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F19%2FMercer_vs_Wofford_20260219_1771509637039%2F~psid=9674de56-477d-4ab3-babb-7653c5d9d7de~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=4362de408876692516075f19420d33b96eacc3a78a0f0add1bfa158ee859c124/clt1/va02/disneyplus/event/2026/02/19/Mercer_vs_Wofford_20260219_1771509637039/ctr-all-hdri-complete.m3u8?v=1&hash=563a9f1fd971368c8afd71cf3792ee8c24e54ad1",
-    "k1": "aec6e11a0cd5403f8e70cc1f6cf27571",
-    "k2": "0dee1a3dcdd8db74165b697f57bc8d3d"
-  },
-  {
     "title": "Carlos Alcaraz (ESP) vs. Karen Khachanov (RUS)",
     "league": "ATP",
     "fecha-evento": "2026-02-19T11:30:04-05:00",
@@ -129,12 +116,15 @@
   {
     "title": "Delray Beach Open (Segunda Ronda)",
     "league": "ATP",
-    "fecha-evento": "2026-02-19T13:00:00-05:00",
+    "fecha-evento": "2026-02-19T13:00:10-05:00",
     "img": "019c4a4e-196b-7ee7-97cb-e0561c3da559",
-    "nombre": "disneye57042",
+    "nombre": "disney125d91",
     "status": "13:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 240,
+    "play_url": "https://www.disneyplus.com/es-es/play/485d5e66-5579-44ee-b718-f34cdee07585",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1771611660~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F19%2FDelray_Beach_Open_Second__20260219_1771516839026%2F~psid=dc6b1833-a0a9-4f15-88f4-a60f97142571~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=d181bac7aae025bcf86e3e3f661493f8a238eee3b18c610537bfba62449e2f98/clt1/va02/disneyplus/event/2026/02/19/Delray_Beach_Open_Second__20260219_1771516839026/ctr-all-hdri-complete.m3u8?v=1&hash=767bbca1da8a5198a6e3ecd71afa44439bc720f1",
+    "k1": "8211e033ac5a4bb7a207d061f0ed412b",
+    "k2": "232489f5781ccb2c4d0fdd135e498a1f"
   },
   {
     "title": "America East Swimming & Diving Championship (Diving Prelims)",
@@ -617,22 +607,32 @@
     "play_url": ""
   },
   {
-    "title": "Fórmula 1 | Pruebas de pretemporada 2026 en Bahréin",
-    "league": "Fórmula 1",
-    "fecha-evento": "2026-02-20T01:55:00-05:00",
-    "img": "019c4e56-5917-7a9e-89dd-29f2bee35c9e",
-    "nombre": "disneya68bae",
-    "status": "01:55",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Waratahs vs. Fijian Drua",
     "league": "Super Rugby Pacific",
     "fecha-evento": "2026-02-20T03:30:00-05:00",
     "img": "019c4a4b-76f9-7cba-af8c-fc9f9c53be93",
     "nombre": "disneyf182e6",
     "status": "03:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "WTA Dubai Duty Free Tennis Championships / Center Court (Doubles Semifinals)",
+    "league": "WTA",
+    "fecha-evento": "2026-02-20T04:30:00-05:00",
+    "img": "26441f36-ba21-4d07-bace-68470a12e912",
+    "nombre": "disney390a1c",
+    "status": "04:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "2026 Magical Kenya Open (Segunda Ronda)",
+    "league": "DP World Tour",
+    "fecha-evento": "2026-02-20T05:00:00-05:00",
+    "img": "b4fd51aa-a745-4b87-9049-b67f5d635ddd",
+    "nombre": "disney5b21a9",
+    "status": "05:00",
     "duration": 135,
     "play_url": ""
   }
