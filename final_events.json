@@ -62,32 +62,6 @@
     "k2": "96ab17a56b10c0cbaf1cc7fdedad114e"
   },
   {
-    "title": "Ludogorets vs. Ferencváros",
-    "league": "UEFA Europa League",
-    "fecha-evento": "2026-02-19T14:40:04-05:00",
-    "img": "019c4e4b-582a-7be4-8ae2-c7aad33a9860",
-    "nombre": "disney9270f1",
-    "status": "14:40",
-    "duration": 135,
-    "play_url": "https://www.disneyplus.com/es-es/play/a7e55dce-afce-4c0b-8f41-c9a7eb02fbcc",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1771616776~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F19%2FLudogorets_vs_Ferencvros_20260219_1771522840018%2F~psid=c19ccc40-f59f-4000-9a3c-9777205876a6~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=a714839a1aff37941b57c387b218eb725b8eceeef594e795d14dfd59cf731e68/clt1/va02/disneyplus/event/2026/02/19/Ludogorets_vs_Ferencvros_20260219_1771522840018/ctr-all-hdri-complete.m3u8?v=1&hash=d0293908cd195bddd43951f1e1fb94a18b0617f2",
-    "k1": "ee2469eab29b4a83be42f8d1b8321185",
-    "k2": "9103289d60335d8b8317196ff9f584d7"
-  },
-  {
-    "title": "Panathinaikos vs. Viktoria Plzeň",
-    "league": "UEFA Europa League",
-    "fecha-evento": "2026-02-19T14:40:05-05:00",
-    "img": "019c4e4c-206d-78bf-869e-ace42e383a38",
-    "nombre": "disney2e56f7",
-    "status": "14:40",
-    "duration": 135,
-    "play_url": "https://www.disneyplus.com/es-es/play/6c855127-1c9e-4084-8ae5-95810c4a8ea2",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1771616825~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F19%2FPanathinaikos_vs_Viktoria_20260219_1771522831016%2F~psid=bac83fb3-52b4-4cd4-9fa2-83af9f00935d~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=a5a02b4844f700e3e32dac889c698ff5ce70a3fbe98a099e2f6788681b44d065/clt1/va02/disneyplus/event/2026/02/19/Panathinaikos_vs_Viktoria_20260219_1771522831016/ctr-all-hdri-complete.m3u8?v=1&hash=9fd0a0c417f2f0e93b6998187decaaba4bb8579c",
-    "k1": "6a0b786f74054ecc88eee10929043c69",
-    "k2": "fe0dc73b6afd4642f1e766d37f3f22e7"
-  },
-  {
     "title": "The Genesis Invitational (1° Ronda) | En español",
     "league": "PGA TOUR",
     "fecha-evento": "2026-02-19T16:00:01-05:00",
@@ -129,12 +103,15 @@
   {
     "title": "Old Dominion vs. Georgia State",
     "league": "Básquet Femenino NCAA",
-    "fecha-evento": "2026-02-19T17:30:00-05:00",
+    "fecha-evento": "2026-02-19T17:30:04-05:00",
     "img": "019c35bf-d86c-7fdd-b965-2aeccdcd8c6d",
-    "nombre": "disneyb9add9",
+    "nombre": "disneyaed3c5",
     "status": "17:30",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/7f057f7a-6e45-4b0c-a0b5-cc524175eb35",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1771627251~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F19%2FOld_Dominion_vs_Georgia_S_20260219_1771533050022%2F~psid=b92a83c5-29ba-4ae9-b3da-1ef9b2adeb58~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=bd73ca8f3907031c559fdc5de90a6b7251326919d1578307abca68b03d8ac40a/clt1/va02/disneyplus/event/2026/02/19/Old_Dominion_vs_Georgia_S_20260219_1771533050022/ctr-all-hdri-complete.m3u8?v=1&hash=2e002eb802dd5924eb5ad54736457e5d3a8181c6",
+    "k1": "e76dc92efbf84a5788f8f6da2e405f16",
+    "k2": "19ef6d91281d4b862b848af260ff36a6"
   },
   {
     "title": "Western Carolina vs. Chattanooga",
@@ -367,11 +344,11 @@
     "play_url": ""
   },
   {
-    "title": "Pacific vs. San Francisco",
+    "title": "San Francisco vs. Pacific",
     "league": "Básquet Femenino NCAA",
     "fecha-evento": "2026-02-19T21:00:00-05:00",
     "img": "019aa7f9-a289-7b9c-8d8f-9aa49328db3c",
-    "nombre": "disneyf99f5d",
+    "nombre": "disney99f8c9",
     "status": "21:00",
     "duration": 135,
     "play_url": ""
@@ -633,6 +610,26 @@
     "img": "646d2a66-8eb4-48ad-b428-79512f345edd",
     "nombre": "disney2e8d20",
     "status": "14:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Gales U20 vs. Escocia U20",
+    "league": "U20 Six Nations",
+    "fecha-evento": "2026-02-20T14:05:00-05:00",
+    "img": "019c5319-c3ca-7d3b-8923-8c29eec7fecc",
+    "nombre": "disneydaff32",
+    "status": "14:05",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Mainz 05 vs. Hamburger SV",
+    "league": "Bundesliga",
+    "fecha-evento": "2026-02-20T14:20:00-05:00",
+    "img": "019c4a4b-78a6-7cce-a228-dffa0434ed55",
+    "nombre": "disney9c090c",
+    "status": "14:20",
     "duration": 135,
     "play_url": ""
   }
