@@ -62,19 +62,6 @@
     "k2": "232489f5781ccb2c4d0fdd135e498a1f"
   },
   {
-    "title": "America East Swimming & Diving Championship (Diving Prelims)",
-    "league": "NCAA Natación y Buceo",
-    "fecha-evento": "2026-02-19T13:46:30-05:00",
-    "img": "cae07512-17c8-4bd0-8e45-536d7e380bf9",
-    "nombre": "disneya1fd34",
-    "status": "13:46",
-    "duration": 94,
-    "play_url": "https://www.disneyplus.com/es-es/play/2b7f9a04-42a6-4229-80df-e19f95e29d36",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1771614085~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F19%2FAmerica_East_Swimming_Div_20260219_1771519822016%2F~psid=443535e0-ae03-4508-8dd4-7a7f964955e0~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=a439e6dc84a9421e06ca93c048b704947b01d6421432220422c78c6aac8895b2/clt1/va02/disneyplus/event/2026/02/19/America_East_Swimming_Div_20260219_1771519822016/ctr-all-hdri-complete.m3u8?v=1&hash=7d3436eebd48639f85e6fa4ba10c9a699cc34fea",
-    "k1": "d9c2b363efa04ba1a3dca5af6921f9b8",
-    "k2": "15dda5bac998e11b026f6a212f273a62"
-  },
-  {
     "title": "Rio Open presented by Claro / Quadra 1",
     "league": "ATP",
     "fecha-evento": "2026-02-19T14:30:00-05:00",
@@ -645,6 +632,16 @@
     "img": "019c5e7e-14c7-719f-bdfc-86ceb3fd4a6d",
     "nombre": "disneye8f1b8",
     "status": "08:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Horizon League Championship",
+    "league": "NCAA Natación y Buceo",
+    "fecha-evento": "2026-02-20T10:00:00-05:00",
+    "img": "cae07512-17c8-4bd0-8e45-536d7e380bf9",
+    "nombre": "disneyd51a2a",
+    "status": "10:00",
     "duration": 135,
     "play_url": ""
   }
