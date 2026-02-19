@@ -88,19 +88,6 @@
     "k2": "08a7d6cc3be39ceaf34481d058ed6eac"
   },
   {
-    "title": "Patriot League Swimming & Diving Championship (Session 1)",
-    "league": "NCAA Natación y Buceo",
-    "fecha-evento": "2026-02-18T17:00:00-05:00",
-    "img": "cae07512-17c8-4bd0-8e45-536d7e380bf9",
-    "nombre": "disney949624",
-    "status": "17:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/9143f88c-97be-474d-8ffe-9f019fe6ada8",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1771543719~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F18%2FPatriot_League_Swimming_D_20260218_1771447319424%2F~psid=44dd2898-f7da-4ddf-9253-cd5c7b2e95bb~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=026a3b217114903457e4004dac157363393be78ea558bfe604bd8e6a5df7ddac/clt1/va02/disneyplus/event/2026/02/18/Patriot_League_Swimming_D_20260218_1771447319424/ctr-all-hdri-complete.m3u8?v=1&hash=2eb202b840c2d4281fc24fbc92d180b3e80f5dd4",
-    "k1": "947882a7dda34f169e23fcf709b59961",
-    "k2": "e718a1a47b6261757a64b1ed81904e70"
-  },
-  {
     "title": "UC Davis vs. San Francisco",
     "league": "NCAA Beisbol",
     "fecha-evento": "2026-02-18T17:00:00-05:00",
@@ -186,6 +173,19 @@
     "play_url": "https://www.disneyplus.com/es-es/play/04c2f1b1-df76-4418-9641-87094fc84988"
   },
   {
+    "title": "ASUN Swimming & Diving Championship (Day One Finals)",
+    "league": "NCAA Natación y Buceo",
+    "fecha-evento": "2026-02-18T18:00:06-05:00",
+    "img": "cae07512-17c8-4bd0-8e45-536d7e380bf9",
+    "nombre": "disneya577fb",
+    "status": "18:00",
+    "duration": 180,
+    "play_url": "https://www.disneyplus.com/es-es/play/8055cea8-1d74-4d8b-b056-b5e5c33c53f2",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1771545736~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F18%2FASUN_Swimming_Diving_Cham_20260218_1771450379426%2F~psid=d6b6ef58-20b5-478f-bc49-611b9c1a90ad~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=dc5e6c93f34e582379ef2cb875691c95bea159d52b4136548dc03770829284f4/clt1/va02/disneyplus/event/2026/02/18/ASUN_Swimming_Diving_Cham_20260218_1771450379426/ctr-all-hdri-complete.m3u8?v=1&hash=1bc5b7d68b1672dc8456661e19918a03c0aaa58b",
+    "k1": "ba9c5de32d85489094fe827ba714ba39",
+    "k2": "a8bcab24eae32e32ef649e9e979967e2"
+  },
+  {
     "title": "San José State vs. Santa Clara",
     "league": "NCAA Beisbol",
     "fecha-evento": "2026-02-18T18:00:08-05:00",
@@ -205,8 +205,11 @@
     "img": "019c6be9-c42f-70ee-b9e2-41646bc9a378",
     "nombre": "disney7004e7",
     "status": "19:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 150,
+    "play_url": "https://www.disneyplus.com/es-es/play/dd810ec0-146b-447e-b81e-943f705405c8",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1771545764~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F19%2FNacional_Potos_BOL_vs_Bot_20260219_1771452036036%2F~psid=cb17e671-76ac-43fe-92ee-b3f7c947d3df~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=d2242900295198b2515f5d1630f8f127b4191f4a766e17982b573ffe47e24368/clt1/va02/disneyplus/event/2026/02/19/Nacional_Potos_BOL_vs_Bot_20260219_1771452036036/ctr-all-hdri-complete.m3u8?v=1&hash=61b1dcd122e1676c8959456467baacc587d3b923",
+    "k1": "c557a2162f3e421b97753a96da908232",
+    "k2": "8fab29ffa5e3669e55fcff589f0dfbd0"
   },
   {
     "title": "UAB vs. Temple",
@@ -225,8 +228,11 @@
     "img": "019b50ef-a823-7c0b-b15c-1199f3f75b31",
     "nombre": "disneycd7862",
     "status": "19:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/7e0f0d59-4b11-4862-a314-09f295055c7d",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1771545791~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F19%2F20_Arkansas_vs_25_Alabama_20260219_1771452479432%2F~psid=67bd5076-432c-421d-9097-9561aee88a55~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=cbd6a420a928b7d3602430256cb857cc8ffdd90cdff0361525199d8d40a6bbf9/clt1/va02/disneyplus/event/2026/02/19/20_Arkansas_vs_25_Alabama_20260219_1771452479432/ctr-all-hdri-complete.m3u8?v=1&hash=f21c21a914b0f9dd5059beb0a37f695913cc5448",
+    "k1": "eba98b31dacc4418b3a71bb8238e1b17",
+    "k2": "065a27ffe82927bd9e72532314182ca7"
   },
   {
     "title": "Barcelona (ECU) vs. Argentinos Juniors (ARG)",
@@ -235,8 +241,11 @@
     "img": "019c6be8-4081-7615-86e0-946ca3dbe951",
     "nombre": "disney2b1c6f",
     "status": "19:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 150,
+    "play_url": "https://www.disneyplus.com/es-es/play/d0e39b03-5af1-4ba1-978c-a2176f28b980",
+    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1771545820~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F921e1311-bb26-43dd-84a6-9e2284959712-1762950465141%2F~psid=fe073797-e94c-4d4c-8203-5ed02e18c678~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=0ae5a8594e2bc4903a1f7325ac83c665eacc4d7c747bf218d6fb70076fa585e9/clt1/va02/disneyplus/channel/921e1311-bb26-43dd-84a6-9e2284959712-1762950465141/ctr-all-sliding-alt1.m3u8?v=1&hash=03915bf69f19826611ecdeecc79455eab40b229c",
+    "k1": "fdbb40686b214a30b31df8d3cf1c8bd6",
+    "k2": "96801e79c81bc6b5fc17028710b4824c"
   },
   {
     "title": "Oklahoma vs. Tennessee",
@@ -245,8 +254,11 @@
     "img": "019c44b1-acf1-7327-8e9c-71306f72e9a8",
     "nombre": "disney68be75",
     "status": "19:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/efc904c2-5d9f-4449-a250-e745480aa05e",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1771545845~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F19%2FOklahoma_vs_Tennessee_20260219_1771452575237%2F~psid=fcad55ac-3231-43c0-adb9-13047f021b93~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=538364e435e6592a4847ac0722ef1c7ad056d5296306595bca6cd5060b20c213/clt1/va02/disneyplus/event/2026/02/19/Oklahoma_vs_Tennessee_20260219_1771452575237/ctr-all-hdri-complete.m3u8?v=1&hash=d82e4dff7e3e2a4d127667275e65b7aeec003977",
+    "k1": "caad759283dc4364b60d4c8cb49c9c14",
+    "k2": "976d0699476c44708c6615e0a582d65b"
   },
   {
     "title": "#12 TCU vs. Houston",
