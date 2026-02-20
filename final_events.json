@@ -75,19 +75,6 @@
     "k2": "ff31f0d74039b35f06d4617d1d58a565"
   },
   {
-    "title": "Estudiantes de La Plata vs. Sarmiento",
-    "league": "Liga Profesional de Fútbol",
-    "fecha-evento": "2026-02-20T15:30:02-05:00",
-    "img": "019c33ee-617e-7981-9ddb-73f7f3759685",
-    "nombre": "disney35e40a",
-    "status": "15:30",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/cc29d268-3fb9-4635-b2e6-2a0461741b08",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1771706438~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F20%2FEstudiantes_de_La_Plata_v_20260220_1771612245024%2F~psid=d4828e0b-e618-4018-8631-4454e707539a~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=a0296ccc7ad5f942b17664638f3cbbc72b4084ba8d93038fabd5d0bda57db351/clt1/va02/disneyplus/event/2026/02/20/Estudiantes_de_La_Plata_v_20260220_1771612245024/ctr-all-hdri-complete.m3u8?v=1&hash=314251cf76f2a371674cd195ac3318f62b3bf208",
-    "k1": "c8aaa761c47647a589369cd087579e40",
-    "k2": "bda9fb57a92ba4564123ef2c7f370a12"
-  },
-  {
     "title": "The Genesis Invitational (2° Ronda) | En español",
     "league": "PGA TOUR",
     "fecha-evento": "2026-02-20T16:00:00-05:00",
@@ -198,8 +185,11 @@
     "img": "019c715f-4066-7e68-b856-271832bb3b31",
     "nombre": "disneyecaa2b",
     "status": "17:45",
-    "duration": 135,
-    "play_url": ""
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/b3f26e42-c95f-402d-87cb-89044e25f81d",
+    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1771714861~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F921e1311-bb26-43dd-84a6-9e2284959712-1762950465141%2F~psid=2569a621-25cc-4e4b-8e14-cf2ba46edc28~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=e2206ac3094030747cec49f6e59ea7bd3b11c79c1ba5826a7c530371f2de0370/clt1/va02/disneyplus/channel/921e1311-bb26-43dd-84a6-9e2284959712-1762950465141/ctr-all-sliding-alt1.m3u8?v=1&hash=03915bf69f19826611ecdeecc79455eab40b229c",
+    "k1": "b9777db0174b4f34945cd083ac0304c0",
+    "k2": "9d920092f32488d71ae7a4e14a0d1f3e"
   },
   {
     "title": "Eastern Michigan vs. Temple",
@@ -658,6 +648,16 @@
     "img": "019c431b-2e0c-71c4-945b-1c5522f21c96",
     "nombre": "disney4a643f",
     "status": "07:25",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "WTA Dubai Duty Free Tennis Championships / Center Court (Doubles Final)",
+    "league": "WTA",
+    "fecha-evento": "2026-02-21T07:30:00-05:00",
+    "img": "26441f36-ba21-4d07-bace-68470a12e912",
+    "nombre": "disneyd8a233",
+    "status": "07:30",
     "duration": 135,
     "play_url": ""
   }
