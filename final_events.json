@@ -23,19 +23,6 @@
     "k2": "bc6e365415ca154c6f91270a3792b945"
   },
   {
-    "title": "Delray Beach Open (Cuartos de Final)",
-    "league": "ATP",
-    "fecha-evento": "2026-02-20T13:00:05-05:00",
-    "img": "019c4a4e-3592-723a-847f-df6f30372421",
-    "nombre": "disney948f3b",
-    "status": "13:00",
-    "duration": 240,
-    "play_url": "https://www.disneyplus.com/es-es/play/463f3b9f-1d9d-4de2-9e01-846c090b7b9c",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1771705345~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F20%2FDelray_Beach_Open_Quarter_20260220_1771603222026%2F~psid=b06c038d-7efe-476b-9591-f7029117aff1~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=8ac3cdc4e8a4de7ae97aa95f82f2cb518c2c3d6690d5c1038f9e681e78b45a21/clt1/va02/disneyplus/event/2026/02/20/Delray_Beach_Open_Quarter_20260220_1771603222026/ctr-all-hdri-complete.m3u8?v=1&hash=baf24b668497ca0328ff73486d9d6479abd1a669",
-    "k1": "5a976ab86de544b3a09e37ec33264653",
-    "k2": "3df91706638a17ce5e13e19c4a4dc013"
-  },
-  {
     "title": "Rio Open presented by Claro / Quadra 1 (Cuartos de Final)",
     "league": "ATP",
     "fecha-evento": "2026-02-20T14:00:01-05:00",
@@ -194,12 +181,28 @@
   {
     "title": "Eastern Michigan vs. Temple",
     "league": "NCAA Gimnasia Femenina",
-    "fecha-evento": "2026-02-20T18:00:00-05:00",
+    "fecha-evento": "2026-02-20T18:00:02-05:00",
     "img": "381bc42f-b4a0-467e-bf87-b6394f8b4927",
-    "nombre": "disney932b76",
+    "nombre": "disney4aa4e9",
     "status": "18:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/3c4032bc-8bcc-4ce8-9932-4bfe13e8913c",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1771716056~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F20%2FEastern_Michigan_vs_Templ_20260220_1771624140175%2F~psid=5c212f30-85b4-47af-9f3d-762589fb4d0d~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=2580f992a60926550fa5a10a0ebedf8d785d43e047658ddcfb9a9e0cfefcaf32/clt1/va02/disneyplus/event/2026/02/20/Eastern_Michigan_vs_Templ_20260220_1771624140175/ctr-all-hdri-complete.m3u8?v=1&hash=8de28911f73548736b764afc9081b0a2858690d2",
+    "k1": "8e8a2873b5664ca4a7ded550c798ab03",
+    "k2": "8f4f93722b3af28a64b07a9a4ae59d37"
+  },
+  {
+    "title": "Delray Beach Open (Cuartos de Final)",
+    "league": "ATP",
+    "fecha-evento": "2026-02-20T18:08:26-05:00",
+    "img": "019c4a4e-3592-723a-847f-df6f30372421",
+    "nombre": "disney0fc647",
+    "status": "18:08",
+    "duration": 232,
+    "play_url": "https://www.disneyplus.com/es-es/play/f228aeb9-3d7d-4095-824e-3797f6409abe",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1771716107~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F20%2FDelray_Beach_Open_Quarter_20260220_1771621200077%2F~psid=eb1d40fb-7e0e-4c99-ab16-cf8924559a59~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=7736b83fb0d4c3d96f21f2ec6ecfa4248264a228640d4e9bf56a30246e061688/clt1/va02/disneyplus/event/2026/02/20/Delray_Beach_Open_Quarter_20260220_1771621200077/ctr-all-hdri-complete.m3u8?v=1&hash=6d2291ed32e9e74c1635008dfd7bef5db2f8ab20",
+    "k1": "05ed5ecbd1b14b248321acf920989674",
+    "k2": "6e666c44cf2e8276368383d9ea7d907b"
   },
   {
     "title": "Eclipse vs. Glow (Game 15)",
@@ -658,6 +661,16 @@
     "img": "26441f36-ba21-4d07-bace-68470a12e912",
     "nombre": "disneyd8a233",
     "status": "07:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Leganés vs. Cultural Leonesa",
+    "league": "Segunda División de España",
+    "fecha-evento": "2026-02-21T07:50:00-05:00",
+    "img": "019c4392-ccef-7a31-900d-eea75fb4c89f",
+    "nombre": "disneyfe6552",
+    "status": "07:50",
     "duration": 135,
     "play_url": ""
   }
