@@ -75,19 +75,6 @@
     "k2": "ff31f0d74039b35f06d4617d1d58a565"
   },
   {
-    "title": "Rio Open presented by Claro / Quadra Guga Kuerten",
-    "league": "ATP",
-    "fecha-evento": "2026-02-20T15:00:00-05:00",
-    "img": "12a5fd30-e1d2-4d31-b923-8c1d646b000c",
-    "nombre": "disney6234dd",
-    "status": "15:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/bf06b20d-0465-4d71-9c48-ed460c015431",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1771705685~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F20%2FTomas_Martin_Etcheverry_A_20260220_1771612856722%2F~psid=cbddec8e-6d83-4be4-a3c9-ecce61a9a610~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=22a3b88458cb6975648701264c8350d37ebd805b26a9cbaecec635542aa4dcc0/clt1/va02/disneyplus/event/2026/02/20/Tomas_Martin_Etcheverry_A_20260220_1771612856722/ctr-all-hdri-complete.m3u8?v=1&hash=90674eb3ed53ccb3cf462284d712a50938ae6218",
-    "k1": "a1d214f1097149feacec3cf33428bd02",
-    "k2": "ce087d0f7e288d768e26035430252a3b"
-  },
-  {
     "title": "Estudiantes de La Plata vs. Sarmiento",
     "league": "Liga Profesional de Fútbol",
     "fecha-evento": "2026-02-20T15:30:02-05:00",
@@ -179,24 +166,30 @@
     "k2": "5621737561d6ab23724407ba1290dd67"
   },
   {
-    "title": "#5 Northeastern vs. #6 UConn",
-    "league": "NCAA Women's Hockey",
-    "fecha-evento": "2026-02-20T17:30:00-05:00",
-    "img": "019c6dfe-39ca-79cc-a5f5-47dbb92e32b0",
-    "nombre": "disneyda927c",
-    "status": "17:30",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "ACC Swimming & Diving Championship - Day 6 (Final)",
     "league": "NCAA Natación y Buceo",
-    "fecha-evento": "2026-02-20T17:30:00-05:00",
+    "fecha-evento": "2026-02-20T17:30:02-05:00",
     "img": "cae07512-17c8-4bd0-8e45-536d7e380bf9",
-    "nombre": "disney79e49c",
+    "nombre": "disney514dd6",
     "status": "17:30",
     "duration": 135,
-    "play_url": ""
+    "play_url": "https://www.disneyplus.com/es-es/play/dd1f8db5-b751-48a7-88a6-707980f50d60",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1771713652~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F20%2FACC_Swimming_Diving_Champ_20260220_1771621667960%2F~psid=21ba1a40-e049-4ab4-8d67-7cf506a87c94~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=db3411096598fa640e5455330a9d5c490026701d868f21d8b34941e2af6ebe56/clt1/va02/disneyplus/event/2026/02/20/ACC_Swimming_Diving_Champ_20260220_1771621667960/ctr-all-hdri-complete.m3u8?v=1&hash=264fe2d757c4a3613986d959e1902ececb587354",
+    "k1": "c17149fde3854ce39a87d6b751d74a55",
+    "k2": "6f8e7ecab28265d08fdeae877f239d01"
+  },
+  {
+    "title": "#5 Northeastern vs. #6 UConn",
+    "league": "NCAA Women's Hockey",
+    "fecha-evento": "2026-02-20T17:30:06-05:00",
+    "img": "019c6dfe-39ca-79cc-a5f5-47dbb92e32b0",
+    "nombre": "disneyf04c71",
+    "status": "17:30",
+    "duration": 150,
+    "play_url": "https://www.disneyplus.com/es-es/play/14bb4984-c02e-421f-a4f3-8642dfcd3e6f",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1771713700~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F20%2F5_Northeastern_vs_6_UConn_20260220_1771619459023%2F~psid=1c207afa-a29a-4079-8e3a-f79b9d8c38b4~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=b79a5abd04ca9aa79037ef80a8b6b9f000703af1e36befdaede290fe815a8c88/clt1/va02/disneyplus/event/2026/02/20/5_Northeastern_vs_6_UConn_20260220_1771619459023/ctr-all-hdri-complete.m3u8?v=1&hash=122c4486d02966fbd161672396443c66278dec5a",
+    "k1": "7d90432f322d4df7b6b14d9112d4c183",
+    "k2": "4e35ef16d7a7c5207274495c5cd39aca"
   },
   {
     "title": "Boca Juniors vs. Racing Club",
@@ -655,6 +648,16 @@
     "img": "019c539d-af09-7e5a-9598-e4e941e288ee",
     "nombre": "disney19bd45",
     "status": "07:15",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "West Bromwich Albion vs. Coventry City",
+    "league": "Championship de Inglaterra",
+    "fecha-evento": "2026-02-21T07:25:00-05:00",
+    "img": "019c431b-2e0c-71c4-945b-1c5522f21c96",
+    "nombre": "disney4a643f",
+    "status": "07:25",
     "duration": 135,
     "play_url": ""
   }
