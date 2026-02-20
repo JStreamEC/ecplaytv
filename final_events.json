@@ -10,30 +10,14 @@
     "play_url": ""
   },
   {
-    "title": "The Genesis Invitational: Main Feed (Segunda Ronda)",
+    "title": "The Genesis Invitational: Featured Group 1 (Segunda Ronda)",
     "league": "PGA TOUR",
-    "fecha-evento": "2026-02-20T10:00:01-05:00",
-    "img": "3c11e567-3425-425d-bca4-4cac7dd182bc",
-    "nombre": "disneye9af1f",
-    "status": "10:00",
-    "duration": 360,
-    "play_url": "https://www.disneyplus.com/es-es/play/b31eb1dc-9d82-4c48-92c0-57cbb6caf656",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1771705244~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F20%2FThe_Genesis_Invitational__20260220_1771592405026%2F~psid=fed4899e-781b-417d-bc82-6b4117a0e39b~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=4232e8dcbc05ac2e3daf1408e5f2100ad654dd7fdb2fd9d33f08673679466b08/clt1/va02/disneyplus/event/2026/02/20/The_Genesis_Invitational__20260220_1771592405026/ctr-all-hdri-complete.m3u8?v=1&hash=d62cb259f1a4f4878afe0ee5b99c096f95865c0a",
-    "k1": "8e3423b0af484c1eac04208b4bd94141",
-    "k2": "2ef523804ae0d3049b2c2ed66a02b597"
-  },
-  {
-    "title": "Arthur Fils (FRA) vs. Jakub Mensik (CZE)",
-    "league": "ATP",
-    "fecha-evento": "2026-02-20T11:30:14-05:00",
-    "img": "019c7c64-298e-78a4-b59e-301fe16cd230",
-    "nombre": "disney5f1278",
-    "status": "11:30",
-    "duration": 240,
-    "play_url": "https://www.disneyplus.com/es-es/play/0fbea9d6-d5f4-43f7-a2ca-af8c48b366a7",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1771705291~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F20%2FQatar_ExxonMobil_Open_Sem_20260220_1771599647896%2F~psid=548de232-a407-4a8e-993e-c126c727ab0f~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=d642e420de7e2706509afdf57dc3accd1752947016a6a5e5feee21dc1cbc5561/clt1/va02/disneyplus/event/2026/02/20/Qatar_ExxonMobil_Open_Sem_20260220_1771599647896/ctr-all-hdri-complete.m3u8?v=1&hash=a840cb8121bdb67c0d1dd733630b2a038f337f87",
-    "k1": "45fc99d82d6244fda72ed77ada95e505",
-    "k2": "039de4bd02ae3cba1aa6be9397ff6a60"
+    "fecha-evento": "2026-02-20T16:00:00-05:00",
+    "img": "a6a77277-7c22-4edf-8cd5-1c0b7e9da245",
+    "nombre": "disney79147d",
+    "status": "16:00",
+    "duration": 135,
+    "play_url": ""
   },
   {
     "title": "Delray Beach Open (Cuartos de Final)",
@@ -317,16 +301,6 @@
     "img": "019c715f-4066-7e68-b856-271832bb3b31",
     "nombre": "disneyecaa2b",
     "status": "17:45",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Stevenson vs. La Salle",
-    "league": "College Gymnastics",
-    "fecha-evento": "2026-02-20T18:00:00-05:00",
-    "img": "db29f4af-9eb8-493d-a15b-d341edb026f4",
-    "nombre": "disneyf6ac2f",
-    "status": "18:00",
     "duration": 135,
     "play_url": ""
   },
@@ -667,6 +641,26 @@
     "img": "381bc42f-b4a0-467e-bf87-b6394f8b4927",
     "nombre": "disneyf494bf",
     "status": "22:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "China vs. España",
+    "league": "Women's FIH Pro League",
+    "fecha-evento": "2026-02-20T23:30:00-05:00",
+    "img": "019c25d0-c314-7801-9834-5ae2c9053289",
+    "nombre": "disney603d73",
+    "status": "23:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "World SBK - Race 1 - Australian",
+    "league": "FIM Superbike World Championship",
+    "fecha-evento": "2026-02-20T23:55:00-05:00",
+    "img": "dbbdf026-dd6f-4f07-9c86-944c465a067c",
+    "nombre": "disney31db36",
+    "status": "23:55",
     "duration": 135,
     "play_url": ""
   }
