@@ -20,19 +20,6 @@
     "play_url": ""
   },
   {
-    "title": "West Bromwich Albion vs. Coventry City",
-    "league": "Championship de Inglaterra",
-    "fecha-evento": "2026-02-21T07:26:12-05:00",
-    "img": "019c431b-2e0c-71c4-945b-1c5522f21c96",
-    "nombre": "disney2e7e61",
-    "status": "07:26",
-    "duration": 124,
-    "play_url": "https://www.disneyplus.com/es-es/play/1e9facc3-f404-40ba-b567-b9de0983ab4e",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1771767762~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F21%2FWest_Bromwich_Albion_vs_C_20260221_1771669531026%2F~psid=ac622d8f-b3b7-4ad2-9748-25f75940d271~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=5ddf7e7cb77ec17f64d005aebddce7763fb312505425bff108e54da3f2e7f2c5/clt1/va02/disneyplus/event/2026/02/21/West_Bromwich_Albion_vs_C_20260221_1771669531026/ctr-all-hdri-complete.m3u8?v=1&hash=aef6b9e68438b27a92344a33c29addb54ffe79dc",
-    "k1": "cfcc2aa41bf4456caf3e757b9adfcd79",
-    "k2": "059a53e2fe0d6e994b796864c5137cff"
-  },
-  {
     "title": "Racing vs. Danubio",
     "league": "Campeonato Uruguayo",
     "fecha-evento": "2026-02-21T07:30:55-05:00",
@@ -105,16 +92,6 @@
     "play_url": "https://www.disneyplus.com/es-es/play/3459f76c-0a16-4d3d-96e7-d4a0279fd8c4"
   },
   {
-    "title": "Wolfsburg vs. Augsburg",
-    "league": "Bundesliga",
-    "fecha-evento": "2026-02-21T09:20:00-05:00",
-    "img": "019c4363-764b-70a0-8f41-fc1226de3db6",
-    "nombre": "disney969ce8",
-    "status": "09:20",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/0ce4301b-4cfd-45fc-a6e4-6f8b3191757c"
-  },
-  {
     "title": "Union Berlin vs. Bayer Leverkusen",
     "league": "Bundesliga",
     "fecha-evento": "2026-02-21T09:20:00-05:00",
@@ -125,16 +102,6 @@
     "play_url": "https://www.disneyplus.com/es-es/play/a2bca900-58e1-4f25-8d3e-daea18acb7bf"
   },
   {
-    "title": "Goal Arena",
-    "league": "Bundesliga",
-    "fecha-evento": "2026-02-21T09:20:07-05:00",
-    "img": "1627bffc-a6c9-48d6-b63a-b86af7267c2c",
-    "nombre": "disneya22980",
-    "status": "09:20",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/6e1d879d-35b7-450f-99fb-c54068aeacea"
-  },
-  {
     "title": "Koln vs. Hoffenheim",
     "league": "Bundesliga",
     "fecha-evento": "2026-02-21T09:20:00-05:00",
@@ -143,6 +110,26 @@
     "status": "09:20",
     "duration": 130,
     "play_url": "https://www.disneyplus.com/es-es/play/6392b907-3fd5-4f4f-b326-ff0834f9bb35"
+  },
+  {
+    "title": "Wolfsburg vs. Augsburg",
+    "league": "Bundesliga",
+    "fecha-evento": "2026-02-21T09:20:00-05:00",
+    "img": "019c4363-764b-70a0-8f41-fc1226de3db6",
+    "nombre": "disney969ce8",
+    "status": "09:20",
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/0ce4301b-4cfd-45fc-a6e4-6f8b3191757c"
+  },
+  {
+    "title": "Goal Arena",
+    "league": "Bundesliga",
+    "fecha-evento": "2026-02-21T09:20:07-05:00",
+    "img": "1627bffc-a6c9-48d6-b63a-b86af7267c2c",
+    "nombre": "disneya22980",
+    "status": "09:20",
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/6e1d879d-35b7-450f-99fb-c54068aeacea"
   },
   {
     "title": "Chelsea vs. Burnley",
@@ -641,6 +628,16 @@
     "img": "019c4a48-4e94-763c-989b-1c5a1f261b61",
     "nombre": "disney97aa2f",
     "status": "14:55",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "#4 Arizona vs. #2 Houston",
+    "league": "Básquetbol Masculino NCAA",
+    "fecha-evento": "2026-02-21T15:00:00-05:00",
+    "img": "019c15aa-6ac2-7991-81a9-8a506a928e21",
+    "nombre": "disneyf7a618",
+    "status": "15:00",
     "duration": 135,
     "play_url": ""
   }
