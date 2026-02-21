@@ -46,19 +46,6 @@
     "k2": "dc5e7c65375d7481185292c0a6241491"
   },
   {
-    "title": "Pittsburgh vs. Clemson",
-    "league": "NCAA Gimnasia Femenina",
-    "fecha-evento": "2026-02-20T19:00:05-05:00",
-    "img": "381bc42f-b4a0-467e-bf87-b6394f8b4927",
-    "nombre": "disney099b74",
-    "status": "19:00",
-    "duration": 90,
-    "play_url": "https://www.disneyplus.com/es-es/play/8cfa0e16-047c-4032-873a-094886ef1a3b",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1771719688~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F21%2FPittsburgh_vs_14_Clemson_20260221_1771627249522%2F~psid=80f55f5f-062a-4b32-8479-1eb592355437~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=12077049ce1c74bfa8c9d2533e5d131fdcdd6ce49940f757a024a11f39d67d17/clt1/va02/disneyplus/event/2026/02/21/Pittsburgh_vs_14_Clemson_20260221_1771627249522/ctr-all-hdri-complete.m3u8?v=1&hash=b38c97a42295528bf8792b5893e6d0de42eb6a2c",
-    "k1": "7c68b2179ffd45ab8d9f024e5629d784",
-    "k2": "50b723ef76e2129350d4a298e61453fe"
-  },
-  {
     "title": "VCU vs. #18 Saint Louis",
     "league": "Básquetbol Masculino NCAA",
     "fecha-evento": "2026-02-20T19:00:01-05:00",
@@ -254,19 +241,6 @@
     "k2": "17a0f4147296b1496137121dec1a16b3"
   },
   {
-    "title": "St. John's vs. Arizona State",
-    "league": "NCAA Beisbol",
-    "fecha-evento": "2026-02-20T20:30:00-05:00",
-    "img": "019c6dbc-64d7-74c9-b9d9-1001b3f38e69",
-    "nombre": "disney7589f7",
-    "status": "20:30",
-    "duration": 180,
-    "play_url": "https://www.disneyplus.com/es-es/play/ebd0a5bc-8382-4095-846e-876054e93d96",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1771724446~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F21%2FSt_Johns_vs_Arizona_State_20260221_1771630242017%2F~psid=38c8e939-9074-42d1-8077-d6f7630b313d~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=29262af4ea861275afe92e4bfd310ece5538a09a6e2c4e8b369aa8d4a442cb0e/clt1/va02/disneyplus/event/2026/02/21/St_Johns_vs_Arizona_State_20260221_1771630242017/ctr-all-hdri-complete.m3u8?v=1&hash=75af52821383b4ee70ab7b73d68ba34deee668ac",
-    "k1": "5a88788148434fd18b810e9fde5cc964",
-    "k2": "92f4eb377c86c35524458f740e8fb530"
-  },
-  {
     "title": "Kentucky vs. Arkansas",
     "league": "NCAA Gimnasia Femenina",
     "fecha-evento": "2026-02-20T20:30:03-05:00",
@@ -278,6 +252,19 @@
     "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1771724495~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F21%2F24_Kentucky_vs_7_Arkansas_20260221_1771630239026%2F~psid=9d58091d-aa04-45f7-ac80-fe38b8675c34~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=f833bb7ff3df64e8ec41255771e493e8c707989da1fefa9ac7fece4bea82f442/clt1/va02/disneyplus/event/2026/02/21/24_Kentucky_vs_7_Arkansas_20260221_1771630239026/ctr-all-hdri-complete.m3u8?v=1&hash=c00257763dba20fcd26df322bfd1f3675177b22c",
     "k1": "53a65007a2d94ae8b27ea04e7795aafc",
     "k2": "79a27cad703194f41208929a16772bf9"
+  },
+  {
+    "title": "St. John's vs. Arizona State",
+    "league": "NCAA Beisbol",
+    "fecha-evento": "2026-02-20T20:30:00-05:00",
+    "img": "019c6dbc-64d7-74c9-b9d9-1001b3f38e69",
+    "nombre": "disney7589f7",
+    "status": "20:30",
+    "duration": 180,
+    "play_url": "https://www.disneyplus.com/es-es/play/ebd0a5bc-8382-4095-846e-876054e93d96",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1771724446~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F21%2FSt_Johns_vs_Arizona_State_20260221_1771630242017%2F~psid=38c8e939-9074-42d1-8077-d6f7630b313d~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=29262af4ea861275afe92e4bfd310ece5538a09a6e2c4e8b369aa8d4a442cb0e/clt1/va02/disneyplus/event/2026/02/21/St_Johns_vs_Arizona_State_20260221_1771630242017/ctr-all-hdri-complete.m3u8?v=1&hash=75af52821383b4ee70ab7b73d68ba34deee668ac",
+    "k1": "5a88788148434fd18b810e9fde5cc964",
+    "k2": "92f4eb377c86c35524458f740e8fb530"
   },
   {
     "title": "Southern Utah vs. Utah",
@@ -653,7 +640,7 @@
     "title": "Elina Svitolina (UKR) vs. Jessica Pegula (USA) (Final)",
     "league": "WTA",
     "fecha-evento": "2026-02-21T10:00:00-05:00",
-    "img": "019c7db3-ec22-790c-acb1-6e4d36e9e96d",
+    "img": "019c7db3-edb9-7506-855c-dc8de8a0650f",
     "nombre": "disney457e67",
     "status": "10:00",
     "duration": 135,
@@ -686,6 +673,16 @@
     "img": "8aa09fe1-c529-4ab5-be8b-28cf2fbe5f79",
     "nombre": "disney752336",
     "status": "11:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Lecce vs. Inter",
+    "league": "Seria A",
+    "fecha-evento": "2026-02-21T11:50:00-05:00",
+    "img": "019c7b96-ddd6-7fb0-a696-6519483b379c",
+    "nombre": "disneyde4997",
+    "status": "11:50",
     "duration": 135,
     "play_url": ""
   }
