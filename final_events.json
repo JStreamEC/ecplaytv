@@ -23,19 +23,6 @@
     "k2": "60ac67a49940342508280701240c13bb"
   },
   {
-    "title": "Nueva Zelanda vs. Pakistan",
-    "league": "ICC Men's T20 World Cup",
-    "fecha-evento": "2026-02-21T08:00:08-05:00",
-    "img": "019c7739-7f0f-710c-a53a-57662e87d332",
-    "nombre": "disney54a8c6",
-    "status": "08:00",
-    "duration": 240,
-    "play_url": "https://www.disneyplus.com/es-es/play/b09b1041-89de-4ce9-9122-b8f0126f7a3e",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1771767877~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F21%2FNew_Zealand_vs_Pakistan_20260221_1771671622023%2F~psid=7e2d9bfa-927b-4005-ac81-0a3e6a32afaa~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=e18da141c767e531a3ce5d63dccbb8b6018cf910c15193c61fd81cc9fbf6b5a0/clt1/va02/disneyplus/event/2026/02/21/New_Zealand_vs_Pakistan_20260221_1771671622023/ctr-all-hdri-complete.m3u8?v=1&hash=6eba805560f20fa35aa1fc167e8bb04b4c421618",
-    "k1": "447b3ba4a7be4c0c84eeded56965248f",
-    "k2": "f8ae2d233cb5479c72b4df95196f8809"
-  },
-  {
     "title": "Juventus vs. Como",
     "league": "Seria A",
     "fecha-evento": "2026-02-21T08:50:00-05:00",
@@ -180,8 +167,11 @@
     "img": "019c4322-6df9-75df-9f8a-ca43e57ec2d4",
     "nombre": "disney1878cd",
     "status": "10:55",
-    "duration": 135,
-    "play_url": ""
+    "duration": 125,
+    "play_url": "https://www.disneyplus.com/es-es/play/61790a59-1760-4420-99b1-a3155286f3bc",
+    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1771776277~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Ff25bdf06-81c9-4a7c-b128-3128d610ad17-1762951253360%2F~psid=3f569628-4d76-4c24-a0c8-604bcb3354a2~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=1d47965be69db6a066e3ab11acda101fb7da6d5b7564c89c6f286be370a79633/clt1/va02/disneyplus/channel/f25bdf06-81c9-4a7c-b128-3128d610ad17-1762951253360/ctr-all-sliding-alt1.m3u8?v=1&hash=57a1e5c4737768952c5164be5d4f5ba525d47674",
+    "k1": "a4ceb7ace9d544e6a94770bac8eb556a",
+    "k2": "120dbe38200c5796247ac835c57ec1f3"
   },
   {
     "title": "Gales vs. Escocia",
@@ -649,6 +639,16 @@
     "fecha-evento": "2026-02-21T15:00:00-05:00",
     "img": "019c6d3a-aa1c-7391-988b-83ab61e3275b",
     "nombre": "disneyaee914",
+    "status": "15:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Flavio Cobolli (ITA) vs. Sebastian Korda (USA) (Semifinal)",
+    "league": "ATP",
+    "fecha-evento": "2026-02-21T15:00:00-05:00",
+    "img": "019c8060-285f-73f7-b68b-b2ebe86426c8",
+    "nombre": "disneyc0beb4",
     "status": "15:00",
     "duration": 135,
     "play_url": ""
