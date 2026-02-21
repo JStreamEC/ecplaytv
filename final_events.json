@@ -46,19 +46,6 @@
     "k2": "36a93f9f617dc83bc16ebe35b768ae28"
   },
   {
-    "title": "WTA Dubai Duty Free Tennis Championships / Center Court (Doubles Final)",
-    "league": "WTA",
-    "fecha-evento": "2026-02-21T07:32:09-05:00",
-    "img": "26441f36-ba21-4d07-bace-68470a12e912",
-    "nombre": "disneye5548f",
-    "status": "07:32",
-    "duration": 148,
-    "play_url": "https://www.disneyplus.com/es-es/play/550a6b02-55e7-4118-97a1-8f9ddb05131c",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1771767822~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F21%2FWTA_Dubai_Duty_Free_Tenni_20260221_1771669808027%2F~psid=17a57381-6ca9-4b63-af6c-48a4fa237b69~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=a3c0d563cca0efe0646764eb602b2b1c4261ee29667d54e63bd2a91e27628178/clt1/va02/disneyplus/event/2026/02/21/WTA_Dubai_Duty_Free_Tenni_20260221_1771669808027/ctr-all-hdri-complete.m3u8?v=1&hash=8788d44ef607150437818e33f3ce0767a010a578",
-    "k1": "5fefe8ef834e4fca8f3b514567f5cf16",
-    "k2": "1eea2a9b9efb66668206456ff9cccb98"
-  },
-  {
     "title": "Leganés vs. Cultural Leonesa",
     "league": "Segunda División de España",
     "fecha-evento": "2026-02-21T07:50:16-05:00",
@@ -105,10 +92,7 @@
     "nombre": "disney3f39c7",
     "status": "09:00",
     "duration": 135,
-    "play_url": "https://www.disneyplus.com/es-es/play/73bf1166-d40e-43fb-b6b9-18fd24c1b371",
-    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1771770038~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Fec26a05e-a9cc-4db4-804e-77465738e667-1771235129410%2F~psid=1fb15f11-bd3b-4481-b708-1da6c78c5927~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=7e34198a95d0baaad226ff77925cfc210efa449a887e0c51b0fd08682fa99fe9/clt1/va02/disneyplus/channel/ec26a05e-a9cc-4db4-804e-77465738e667-1771235129410/ctr-all-sliding-alt1.m3u8?v=1&hash=0099981b8732bb3ce07eba12557eb3587edd4377",
-    "k1": "7fe4d5696f4448e88332c8d93c33ff21",
-    "k2": "6bc6df0c15b9a77e8c27fdc0bb85d584"
+    "play_url": "https://www.disneyplus.com/es-es/play/73bf1166-d40e-43fb-b6b9-18fd24c1b371"
   },
   {
     "title": "Bayern Munich vs. Eintracht Frankfurt",
@@ -118,10 +102,7 @@
     "nombre": "disney3acc22",
     "status": "09:10",
     "duration": 135,
-    "play_url": "https://www.disneyplus.com/es-es/play/3459f76c-0a16-4d3d-96e7-d4a0279fd8c4",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1771770085~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F21%2FBayern_Munich_vs_Eintrach_20260221_1771675812041%2F~psid=4282258c-1849-444d-af3b-ff0ed1b06770~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=13757ec73489c2e4581df57b79f6431dc53a8c485164889c2672a3e5442d28a4/clt1/va02/disneyplus/event/2026/02/21/Bayern_Munich_vs_Eintrach_20260221_1771675812041/ctr-all-hdri-complete.m3u8?v=1&hash=e138314e4fa0dc684da9ce32666ba4889d0e2fd6",
-    "k1": "ce805b568cb74f3f93d25625982e27d2",
-    "k2": "cbf25f26100f6666ed91e0eb7a3bc755"
+    "play_url": "https://www.disneyplus.com/es-es/play/3459f76c-0a16-4d3d-96e7-d4a0279fd8c4"
   },
   {
     "title": "Wolfsburg vs. Augsburg",
@@ -130,8 +111,8 @@
     "img": "019c4363-764b-70a0-8f41-fc1226de3db6",
     "nombre": "disney969ce8",
     "status": "09:20",
-    "duration": 135,
-    "play_url": ""
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/0ce4301b-4cfd-45fc-a6e4-6f8b3191757c"
   },
   {
     "title": "Union Berlin vs. Bayer Leverkusen",
@@ -140,18 +121,18 @@
     "img": "019c4a4b-3c96-7bdb-82e2-aaa5f61ca0b1",
     "nombre": "disney35b2cd",
     "status": "09:20",
-    "duration": 135,
-    "play_url": ""
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/a2bca900-58e1-4f25-8d3e-daea18acb7bf"
   },
   {
     "title": "Goal Arena",
     "league": "Bundesliga",
-    "fecha-evento": "2026-02-21T09:20:00-05:00",
+    "fecha-evento": "2026-02-21T09:20:07-05:00",
     "img": "1627bffc-a6c9-48d6-b63a-b86af7267c2c",
-    "nombre": "disneyf34d41",
+    "nombre": "disneya22980",
     "status": "09:20",
-    "duration": 135,
-    "play_url": ""
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/6e1d879d-35b7-450f-99fb-c54068aeacea"
   },
   {
     "title": "Koln vs. Hoffenheim",
@@ -160,8 +141,8 @@
     "img": "019c435e-ebd8-7725-8747-fe8e82a923fb",
     "nombre": "disney902131",
     "status": "09:20",
-    "duration": 135,
-    "play_url": ""
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/6392b907-3fd5-4f4f-b326-ff0834f9bb35"
   },
   {
     "title": "Chelsea vs. Burnley",
@@ -650,6 +631,16 @@
     "img": "019c4393-6402-722e-8c0e-f02b57b37028",
     "nombre": "disneybfee68",
     "status": "14:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "PSG vs. Metz",
+    "league": "Ligue 1",
+    "fecha-evento": "2026-02-21T14:55:00-05:00",
+    "img": "019c4a48-4e94-763c-989b-1c5a1f261b61",
+    "nombre": "disney97aa2f",
+    "status": "14:55",
     "duration": 135,
     "play_url": ""
   }
