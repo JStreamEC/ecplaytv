@@ -20,32 +20,6 @@
     "play_url": ""
   },
   {
-    "title": "Racing vs. Danubio",
-    "league": "Campeonato Uruguayo",
-    "fecha-evento": "2026-02-21T07:30:55-05:00",
-    "img": "019c539d-af09-7e5a-9598-e4e941e288ee",
-    "nombre": "disneyb4a469",
-    "status": "07:30",
-    "duration": 164,
-    "play_url": "https://www.disneyplus.com/es-es/play/a9f1ae70-8180-4cba-b573-e1c58b1f2d2e",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1771767792~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F21%2FRacing_vs_Danubio_20260221_1771668955016%2F~psid=d1c40e12-7ecf-4cf9-bcb8-585f49234938~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=dabc2802b952d8d5dd1b8db63ef289d66149f4fb3bbe2f0a73bb13cfd10c39a1/clt1/va02/disneyplus/event/2026/02/21/Racing_vs_Danubio_20260221_1771668955016/ctr-all-hdri-complete.m3u8?v=1&hash=a42197da691a9fba665f75b1a178125b8907c01e",
-    "k1": "707d5684a39d45129adab3f8f2b5b202",
-    "k2": "36a93f9f617dc83bc16ebe35b768ae28"
-  },
-  {
-    "title": "Leganés vs. Cultural Leonesa",
-    "league": "Segunda División de España",
-    "fecha-evento": "2026-02-21T07:50:16-05:00",
-    "img": "019c4392-ccef-7a31-900d-eea75fb4c89f",
-    "nombre": "disney08d465",
-    "status": "07:50",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/411143f1-d964-4263-b611-a3a4ca4d5c2e",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1771767850~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F21%2FLegans_vs_Cultural_Leones_20260221_1771671058025%2F~psid=109437aa-f460-493f-baa7-a667598cf466~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=06c3d92250bbd173741df72ae1bd9d1a15656c91b506187dc5d4efc242b22670/clt1/va02/disneyplus/event/2026/02/21/Legans_vs_Cultural_Leones_20260221_1771671058025/ctr-all-hdri-complete.m3u8?v=1&hash=e5003458794fb20a8419b9bd37adfb5314b3ab84",
-    "k1": "e4b2e39625bc4d5695ad61b0ccb0773d",
-    "k2": "717f9d545cbdf22c3d34a26a93f993cd"
-  },
-  {
     "title": "Nueva Zelanda vs. Pakistan",
     "league": "ICC Men's T20 World Cup",
     "fecha-evento": "2026-02-21T08:00:08-05:00",
@@ -92,16 +66,6 @@
     "play_url": "https://www.disneyplus.com/es-es/play/3459f76c-0a16-4d3d-96e7-d4a0279fd8c4"
   },
   {
-    "title": "Union Berlin vs. Bayer Leverkusen",
-    "league": "Bundesliga",
-    "fecha-evento": "2026-02-21T09:20:00-05:00",
-    "img": "019c4a4b-3c96-7bdb-82e2-aaa5f61ca0b1",
-    "nombre": "disney35b2cd",
-    "status": "09:20",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/a2bca900-58e1-4f25-8d3e-daea18acb7bf"
-  },
-  {
     "title": "Koln vs. Hoffenheim",
     "league": "Bundesliga",
     "fecha-evento": "2026-02-21T09:20:00-05:00",
@@ -120,6 +84,16 @@
     "status": "09:20",
     "duration": 130,
     "play_url": "https://www.disneyplus.com/es-es/play/0ce4301b-4cfd-45fc-a6e4-6f8b3191757c"
+  },
+  {
+    "title": "Union Berlin vs. Bayer Leverkusen",
+    "league": "Bundesliga",
+    "fecha-evento": "2026-02-21T09:20:00-05:00",
+    "img": "019c4a4b-3c96-7bdb-82e2-aaa5f61ca0b1",
+    "nombre": "disney35b2cd",
+    "status": "09:20",
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/a2bca900-58e1-4f25-8d3e-daea18acb7bf"
   },
   {
     "title": "Goal Arena",
@@ -190,8 +164,11 @@
     "img": "019c7db3-edb9-7506-855c-dc8de8a0650f",
     "nombre": "disney457e67",
     "status": "10:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 150,
+    "play_url": "https://www.disneyplus.com/es-es/play/f19fe72d-31b4-450f-b39e-c89f35a30c6b",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1771773853~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F21%2FElina_Svitolina_UKR_vs_Je_20260221_1771678842029%2F~psid=feef7a9a-bb99-4a25-ac4a-d2786e387e52~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=b71d364a7016395713f8c7c3a47cd840ca2260920dc9730f47a32c24e8a19c21/clt1/va02/disneyplus/event/2026/02/21/Elina_Svitolina_UKR_vs_Je_20260221_1771678842029/ctr-all-hdri-complete.m3u8?v=1&hash=c2b3ab36c9b1556d66b57873e9a4e4576715131d",
+    "k1": "3faf329a32b843f4b58dc417f9a7fd28",
+    "k2": "59a5a9ad93ad3b8aaa52dd5926a17de8"
   },
   {
     "title": "Lens vs. Monaco",
@@ -649,6 +626,26 @@
     "fecha-evento": "2026-02-21T15:00:00-05:00",
     "img": "019c15aa-6ac2-7991-81a9-8a506a928e21",
     "nombre": "disneyf7a618",
+    "status": "15:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "T. Etcheverry (ARG) vs. V. Kopriva (CZE)",
+    "league": "ATP",
+    "fecha-evento": "2026-02-21T15:00:00-05:00",
+    "img": "019c8039-f588-7ff9-8df4-f7ccdb582599",
+    "nombre": "disney1ea4f2",
+    "status": "15:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Baylor vs. #24 Clemson",
+    "league": "NCAA Softball",
+    "fecha-evento": "2026-02-21T15:00:00-05:00",
+    "img": "019c6d3a-aa1c-7391-988b-83ab61e3275b",
+    "nombre": "disneyaee914",
     "status": "15:00",
     "duration": 135,
     "play_url": ""
