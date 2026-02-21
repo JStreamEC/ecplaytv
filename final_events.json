@@ -23,36 +23,6 @@
     "k2": "60ac67a49940342508280701240c13bb"
   },
   {
-    "title": "Inglaterra vs. Irlanda",
-    "league": "Seis Naciones",
-    "fecha-evento": "2026-02-21T09:00:00-05:00",
-    "img": "019c670b-b53d-7bdb-8d99-3e14fde9ccf4",
-    "nombre": "disney3f39c7",
-    "status": "09:00",
-    "duration": 135,
-    "play_url": "https://www.disneyplus.com/es-es/play/73bf1166-d40e-43fb-b6b9-18fd24c1b371"
-  },
-  {
-    "title": "Bayern Munich vs. Eintracht Frankfurt",
-    "league": "Bundesliga",
-    "fecha-evento": "2026-02-21T09:10:02-05:00",
-    "img": "019c4a4b-5cef-7ccd-a9f8-9dcc0f5f467b",
-    "nombre": "disney3acc22",
-    "status": "09:10",
-    "duration": 135,
-    "play_url": "https://www.disneyplus.com/es-es/play/3459f76c-0a16-4d3d-96e7-d4a0279fd8c4"
-  },
-  {
-    "title": "Koln vs. Hoffenheim",
-    "league": "Bundesliga",
-    "fecha-evento": "2026-02-21T09:20:00-05:00",
-    "img": "019c435e-ebd8-7725-8747-fe8e82a923fb",
-    "nombre": "disney902131",
-    "status": "09:20",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/6392b907-3fd5-4f4f-b326-ff0834f9bb35"
-  },
-  {
     "title": "Wolfsburg vs. Augsburg",
     "league": "Bundesliga",
     "fecha-evento": "2026-02-21T09:20:00-05:00",
@@ -61,26 +31,6 @@
     "status": "09:20",
     "duration": 130,
     "play_url": "https://www.disneyplus.com/es-es/play/0ce4301b-4cfd-45fc-a6e4-6f8b3191757c"
-  },
-  {
-    "title": "Union Berlin vs. Bayer Leverkusen",
-    "league": "Bundesliga",
-    "fecha-evento": "2026-02-21T09:20:00-05:00",
-    "img": "019c4a4b-3c96-7bdb-82e2-aaa5f61ca0b1",
-    "nombre": "disney35b2cd",
-    "status": "09:20",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/a2bca900-58e1-4f25-8d3e-daea18acb7bf"
-  },
-  {
-    "title": "Goal Arena",
-    "league": "Bundesliga",
-    "fecha-evento": "2026-02-21T09:20:07-05:00",
-    "img": "1627bffc-a6c9-48d6-b63a-b86af7267c2c",
-    "nombre": "disneya22980",
-    "status": "09:20",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/6e1d879d-35b7-450f-99fb-c54068aeacea"
   },
   {
     "title": "Chelsea vs. Burnley",
@@ -180,8 +130,11 @@
     "img": "8aa09fe1-c529-4ab5-be8b-28cf2fbe5f79",
     "nombre": "disney752336",
     "status": "11:30",
-    "duration": 135,
-    "play_url": ""
+    "duration": 110,
+    "play_url": "https://www.disneyplus.com/es-es/play/91f88ef1-7ced-416a-8176-e0aeeb9b7780",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1771778507~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F21%2FACC_Fencing_Championship__20260221_1771684206025%2F~psid=9e06eed4-0a25-4fdc-a666-f10a67416cea~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=661b3162b95ec9afdf567989ebd1dcea1a83aa0e0b0ad8ead928e0fe5560bc5a/clt1/va02/disneyplus/event/2026/02/21/ACC_Fencing_Championship__20260221_1771684206025/ctr-all-hdri-complete.m3u8?v=1&hash=e412607ee2c3fd7002beae972fe6843584bfaa2d",
+    "k1": "aa4fb1fbf4fd4592a2da7d444385f86b",
+    "k2": "fed02918e8f110dd94fbacf58d7cf00f"
   },
   {
     "title": "Lecce vs. Inter",
@@ -649,6 +602,56 @@
     "fecha-evento": "2026-02-21T16:00:00-05:00",
     "img": "019c4013-3ccc-7163-883b-1bed4b424f0e",
     "nombre": "disney46534e",
+    "status": "16:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Arizona State vs. Baylor",
+    "league": "Básquetbol Masculino NCAA",
+    "fecha-evento": "2026-02-21T16:00:00-05:00",
+    "img": "019c690f-ef9c-71b5-8284-46f859003336",
+    "nombre": "disney7ca8e4",
+    "status": "16:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "West Virginia vs. Arizona",
+    "league": "NCAA Gimnasia Femenina",
+    "fecha-evento": "2026-02-21T16:00:00-05:00",
+    "img": "381bc42f-b4a0-467e-bf87-b6394f8b4927",
+    "nombre": "disney47479f",
+    "status": "16:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "BYU vs. Utah",
+    "league": "Básquet Femenino NCAA",
+    "fecha-evento": "2026-02-21T16:00:00-05:00",
+    "img": "019b8fce-8efa-77ff-951d-7d8605abf350",
+    "nombre": "disney0da0ec",
+    "status": "16:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "South Carolina State vs. Norfolk State",
+    "league": "Básquetbol Masculino NCAA",
+    "fecha-evento": "2026-02-21T16:00:00-05:00",
+    "img": "7b4076bd-c09c-4312-8acf-4fab51da3986",
+    "nombre": "disney64eb58",
+    "status": "16:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Portland vs. Seattle U",
+    "league": "Básquet Femenino NCAA",
+    "fecha-evento": "2026-02-21T16:00:00-05:00",
+    "img": "84647938-76bf-46de-9391-f59e5919f70d",
+    "nombre": "disney2e4e95",
     "status": "16:00",
     "duration": 135,
     "play_url": ""
