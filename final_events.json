@@ -101,19 +101,6 @@
     "k2": "dc5e7c65375d7481185292c0a6241491"
   },
   {
-    "title": "Colgate vs. Princeton",
-    "league": "NCAA Men's Ice Hockey",
-    "fecha-evento": "2026-02-20T19:00:00-05:00",
-    "img": "019c78f7-bb70-779e-b838-5aca5463d916",
-    "nombre": "disney0cb60e",
-    "status": "19:00",
-    "duration": 150,
-    "play_url": "https://www.disneyplus.com/es-es/play/f459c2e8-ba39-40d7-b47d-ff054d31b7b9",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1771719640~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F21%2FColgate_vs_Princeton_20260221_1771624806027%2F~psid=73e3ead4-c466-42d7-88c7-f53c26461833~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=3ccc099e495108c23e8e7edcc53e68bd45feeaffbf78ca261460784da3cc4af0/clt1/va02/disneyplus/event/2026/02/21/Colgate_vs_Princeton_20260221_1771624806027/ctr-all-hdri-complete.m3u8?v=1&hash=06ed6702364e309252f67e421f2443fafbde11fc",
-    "k1": "e2951bb5e48e47e68924ab7ad1f0896e",
-    "k2": "7cfb655dd60cb694e6843980a035fd45"
-  },
-  {
     "title": "Pittsburgh vs. Clemson",
     "league": "NCAA Gimnasia Femenina",
     "fecha-evento": "2026-02-20T19:00:05-05:00",
@@ -179,6 +166,19 @@
     "k2": "2212bae1a0c2973bf104d75789eaee92"
   },
   {
+    "title": "Colgate vs. Princeton",
+    "league": "NCAA Men's Ice Hockey",
+    "fecha-evento": "2026-02-20T19:00:00-05:00",
+    "img": "019c78f7-bb70-779e-b838-5aca5463d916",
+    "nombre": "disney0cb60e",
+    "status": "19:00",
+    "duration": 150,
+    "play_url": "https://www.disneyplus.com/es-es/play/f459c2e8-ba39-40d7-b47d-ff054d31b7b9",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1771719640~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F21%2FColgate_vs_Princeton_20260221_1771624806027%2F~psid=73e3ead4-c466-42d7-88c7-f53c26461833~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=3ccc099e495108c23e8e7edcc53e68bd45feeaffbf78ca261460784da3cc4af0/clt1/va02/disneyplus/event/2026/02/21/Colgate_vs_Princeton_20260221_1771624806027/ctr-all-hdri-complete.m3u8?v=1&hash=06ed6702364e309252f67e421f2443fafbde11fc",
+    "k1": "e2951bb5e48e47e68924ab7ad1f0896e",
+    "k2": "7cfb655dd60cb694e6843980a035fd45"
+  },
+  {
     "title": "Duke vs. Virginia Tech",
     "league": "NCAA Luchas",
     "fecha-evento": "2026-02-20T19:00:04-05:00",
@@ -237,18 +237,24 @@
     "img": "019c54c6-637e-7469-b2b8-69b8fca7160d",
     "nombre": "disney3dc2d4",
     "status": "19:30",
-    "duration": 135,
-    "play_url": ""
+    "duration": 150,
+    "play_url": "https://www.disneyplus.com/es-es/play/5a803196-debf-42af-b9eb-aaf811164605",
+    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1771720841~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Ff25bdf06-81c9-4a7c-b128-3128d610ad17-1762951253360%2F~psid=55055a2e-e8b4-4959-b819-43cfda681ea0~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=e8aea2a6ed7cbca7a42e00801bbbc9c8fe219f3a21b612f88584d4452cdc80ee/clt1/va02/disneyplus/channel/f25bdf06-81c9-4a7c-b128-3128d610ad17-1762951253360/ctr-all-sliding-alt1.m3u8?v=1&hash=57a1e5c4737768952c5164be5d4f5ba525d47674",
+    "k1": "61547dca99fe49c3919105cdc8942188",
+    "k2": "02321e5969f8874a957f14062bb50e54"
   },
   {
     "title": "Colorado Mammoth vs. Toronto Rock",
     "league": "National Lacrosse League",
-    "fecha-evento": "2026-02-20T19:30:00-05:00",
+    "fecha-evento": "2026-02-20T19:30:05-05:00",
     "img": "152331af-addb-41f3-9faf-dcef6bee38b0",
-    "nombre": "disney86f04c",
+    "nombre": "disney654847",
     "status": "19:30",
-    "duration": 135,
-    "play_url": ""
+    "duration": 150,
+    "play_url": "https://www.disneyplus.com/es-es/play/b31b5c1b-0e14-491c-86b6-96e1c3a25937",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1771720894~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F21%2FColorado_Mammoth_vs_Toron_20260221_1771629467982%2F~psid=cb86c143-21f1-4151-8968-e6a94937d801~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=1fd97515ea5fd5fb02cce377ab55f70617bd85a7daa3e1d3be7b1ecf4a8cef10/clt1/va02/disneyplus/event/2026/02/21/Colorado_Mammoth_vs_Toron_20260221_1771629467982/ctr-all-hdri-complete.m3u8?v=1&hash=5f10880f4edfd3532a3268adbcd77ce77e5dd56c",
+    "k1": "576243e4f36e4a208525c174dd530702",
+    "k2": "836519b7c37344b21710da8dee36e231"
   },
   {
     "title": "Dorados de Sinaloa vs. Club Atlético Morelia (Jornada 7)",
