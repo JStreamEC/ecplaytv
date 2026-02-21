@@ -26,19 +26,6 @@
     "k2": "6bc6df0c15b9a77e8c27fdc0bb85d584"
   },
   {
-    "title": "William & Mary vs. George Mason",
-    "league": "NCAA Women's Lacrosse",
-    "fecha-evento": "2026-02-21T13:00:08-05:00",
-    "img": "019c2000-3cb8-77a2-8735-6d982a33f072",
-    "nombre": "disney57fc64",
-    "status": "13:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/36b6681d-95ff-40e3-bdf8-3d71c1adc696",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1771784705~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F21%2FWilliam_Mary_vs_George_Ma_20260221_1771689633030%2F~psid=ecdb1938-0a43-43f4-aafb-4e2eeaedb9da~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=ce6e4c2cfc4400a98dc170df4087f0a9b4dbd100967a6035b77c8f6523c68fb5/clt1/va02/disneyplus/event/2026/02/21/William_Mary_vs_George_Ma_20260221_1771689633030/ctr-all-hdri-complete.m3u8?v=1&hash=bfe7a95386df30854cafa1fa99fb5c5e309bf6dc",
-    "k1": "f9783c9fcc10416391a37f206aa3e3cc",
-    "k2": "3dd39116b01f5e002ca6a440a08024a3"
-  },
-  {
     "title": "Rio Open presented by Claro / Quadra 1 (Doubles Semifinals)",
     "league": "ATP",
     "fecha-evento": "2026-02-21T13:30:00-05:00",
@@ -706,6 +693,16 @@
     "img": "d61c0853-2d5e-4551-a236-1999bebf16fd",
     "nombre": "disney3fccc2",
     "status": "19:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Central Córdoba vs. Tigre",
+    "league": "Liga Profesional de Fútbol",
+    "fecha-evento": "2026-02-21T19:15:00-05:00",
+    "img": "019c334a-2667-727e-83a8-52d791af6e97",
+    "nombre": "disneydc3052",
+    "status": "19:15",
     "duration": 135,
     "play_url": ""
   }
