@@ -36,32 +36,6 @@
     "k2": "742cf8915eb4519c08d447677aa531a3"
   },
   {
-    "title": "ACC Swimming & Diving Championship - Day 6 (Final)",
-    "league": "NCAA Natación y Buceo",
-    "fecha-evento": "2026-02-20T17:30:02-05:00",
-    "img": "cae07512-17c8-4bd0-8e45-536d7e380bf9",
-    "nombre": "disney514dd6",
-    "status": "17:30",
-    "duration": 135,
-    "play_url": "https://www.disneyplus.com/es-es/play/dd1f8db5-b751-48a7-88a6-707980f50d60",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1771713652~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F20%2FACC_Swimming_Diving_Champ_20260220_1771621667960%2F~psid=21ba1a40-e049-4ab4-8d67-7cf506a87c94~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=db3411096598fa640e5455330a9d5c490026701d868f21d8b34941e2af6ebe56/clt1/va02/disneyplus/event/2026/02/20/ACC_Swimming_Diving_Champ_20260220_1771621667960/ctr-all-hdri-complete.m3u8?v=1&hash=264fe2d757c4a3613986d959e1902ececb587354",
-    "k1": "c17149fde3854ce39a87d6b751d74a55",
-    "k2": "6f8e7ecab28265d08fdeae877f239d01"
-  },
-  {
-    "title": "#5 Northeastern vs. #6 UConn",
-    "league": "NCAA Women's Hockey",
-    "fecha-evento": "2026-02-20T17:30:06-05:00",
-    "img": "019c6dfe-39ca-79cc-a5f5-47dbb92e32b0",
-    "nombre": "disneyf04c71",
-    "status": "17:30",
-    "duration": 150,
-    "play_url": "https://www.disneyplus.com/es-es/play/14bb4984-c02e-421f-a4f3-8642dfcd3e6f",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1771713700~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F20%2F5_Northeastern_vs_6_UConn_20260220_1771619459023%2F~psid=1c207afa-a29a-4079-8e3a-f79b9d8c38b4~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=b79a5abd04ca9aa79037ef80a8b6b9f000703af1e36befdaede290fe815a8c88/clt1/va02/disneyplus/event/2026/02/20/5_Northeastern_vs_6_UConn_20260220_1771619459023/ctr-all-hdri-complete.m3u8?v=1&hash=122c4486d02966fbd161672396443c66278dec5a",
-    "k1": "7d90432f322d4df7b6b14d9112d4c183",
-    "k2": "4e35ef16d7a7c5207274495c5cd39aca"
-  },
-  {
     "title": "Boca Juniors vs. Racing Club",
     "league": "Liga Profesional de Fútbol",
     "fecha-evento": "2026-02-20T17:45:00-05:00",
@@ -259,12 +233,15 @@
   {
     "title": "Dorados de Sinaloa vs. Club Atlético Morelia (Jornada 7)",
     "league": "Liga de Expansión MX",
-    "fecha-evento": "2026-02-20T19:50:00-05:00",
+    "fecha-evento": "2026-02-20T19:50:05-05:00",
     "img": "019c4319-cb0c-751b-b840-00c072d319b9",
-    "nombre": "disneyca0aa6",
+    "nombre": "disney9332bd",
     "status": "19:50",
-    "duration": 135,
-    "play_url": ""
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/5bdad4d6-8f29-4c36-885c-000109a669c7",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1771722043~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F21%2FDorados_de_Sinaloa_vs_Clu_20260221_1771630727981%2F~psid=36eada5f-1450-4556-bb44-838132e33793~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=1bbeac96cd6fb8bb470468b7e8f61c81a6e78f5a8b8f590ab3e829869e6e5d12/clt1/va02/disneyplus/event/2026/02/21/Dorados_de_Sinaloa_vs_Clu_20260221_1771630727981/ctr-all-hdri-complete.m3u8?v=1&hash=ef1128815d1ffa0a543a4dfa31f2c74c07503472",
+    "k1": "f69048030c0d430497c990ad1b6fb081",
+    "k2": "144eeb2af10894a7c328add22c3b7d5b"
   },
   {
     "title": "Siena vs. Merrimack",
@@ -683,6 +660,26 @@
     "img": "019c2988-3afe-7010-b742-09044e99fbb9",
     "nombre": "disneye1fa21",
     "status": "09:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Elina Svitolina (UKR) vs. Jessica Pegula (USA) (Final)",
+    "league": "WTA",
+    "fecha-evento": "2026-02-21T10:00:00-05:00",
+    "img": "019c7db3-ec22-790c-acb1-6e4d36e9e96d",
+    "nombre": "disney457e67",
+    "status": "10:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Lens vs. Monaco",
+    "league": "Ligue 1",
+    "fecha-evento": "2026-02-21T10:55:00-05:00",
+    "img": "019c4322-6df9-75df-9f8a-ca43e57ec2d4",
+    "nombre": "disney1878cd",
+    "status": "10:55",
     "duration": 135,
     "play_url": ""
   }
