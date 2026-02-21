@@ -20,32 +20,6 @@
     "play_url": ""
   },
   {
-    "title": "The Genesis Invitational (2° Ronda) | En español",
-    "league": "PGA TOUR",
-    "fecha-evento": "2026-02-20T16:00:00-05:00",
-    "img": "d6271954-c419-42dc-9163-20957c32c37a",
-    "nombre": "disneyea2381",
-    "status": "16:00",
-    "duration": 240,
-    "play_url": "https://www.disneyplus.com/es-es/play/2c90a423-81fe-4c12-82b9-bcb1d5f213d2",
-    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1771708890~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Fbbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1767092609127%2F~psid=0fe32078-4a44-486e-b4ef-4f43e3a4b204~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=4b46968686be2506d4a0c64c509c3340851181a659c05b3d525323593aa154eb/clt1/va02/disneyplus/channel/bbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1767092609127/ctr-all-sliding-alt1.m3u8?v=1&hash=caa611b0aedb1e1aad3e4a1a02fe77959cc0e2c7",
-    "k1": "208e30e621134f7e8195594803aed5d5",
-    "k2": "742cf8915eb4519c08d447677aa531a3"
-  },
-  {
-    "title": "Boca Juniors vs. Racing Club",
-    "league": "Liga Profesional de Fútbol",
-    "fecha-evento": "2026-02-20T17:45:00-05:00",
-    "img": "019c715f-4066-7e68-b856-271832bb3b31",
-    "nombre": "disneyecaa2b",
-    "status": "17:45",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/b3f26e42-c95f-402d-87cb-89044e25f81d",
-    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1771714861~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F921e1311-bb26-43dd-84a6-9e2284959712-1762950465141%2F~psid=2569a621-25cc-4e4b-8e14-cf2ba46edc28~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=e2206ac3094030747cec49f6e59ea7bd3b11c79c1ba5826a7c530371f2de0370/clt1/va02/disneyplus/channel/921e1311-bb26-43dd-84a6-9e2284959712-1762950465141/ctr-all-sliding-alt1.m3u8?v=1&hash=03915bf69f19826611ecdeecc79455eab40b229c",
-    "k1": "b9777db0174b4f34945cd083ac0304c0",
-    "k2": "9d920092f32488d71ae7a4e14a0d1f3e"
-  },
-  {
     "title": "Tarucas vs. Selknam",
     "league": "Súper Rugby Américas",
     "fecha-evento": "2026-02-20T18:55:00-05:00",
@@ -280,24 +254,30 @@
     "k2": "17a0f4147296b1496137121dec1a16b3"
   },
   {
-    "title": "Kentucky vs. Arkansas",
-    "league": "NCAA Gimnasia Femenina",
-    "fecha-evento": "2026-02-20T20:30:00-05:00",
-    "img": "381bc42f-b4a0-467e-bf87-b6394f8b4927",
-    "nombre": "disney03ae56",
-    "status": "20:30",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "St. John's vs. Arizona State",
     "league": "NCAA Beisbol",
     "fecha-evento": "2026-02-20T20:30:00-05:00",
     "img": "019c6dbc-64d7-74c9-b9d9-1001b3f38e69",
     "nombre": "disney7589f7",
     "status": "20:30",
-    "duration": 135,
-    "play_url": ""
+    "duration": 180,
+    "play_url": "https://www.disneyplus.com/es-es/play/ebd0a5bc-8382-4095-846e-876054e93d96",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1771724446~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F21%2FSt_Johns_vs_Arizona_State_20260221_1771630242017%2F~psid=38c8e939-9074-42d1-8077-d6f7630b313d~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=29262af4ea861275afe92e4bfd310ece5538a09a6e2c4e8b369aa8d4a442cb0e/clt1/va02/disneyplus/event/2026/02/21/St_Johns_vs_Arizona_State_20260221_1771630242017/ctr-all-hdri-complete.m3u8?v=1&hash=75af52821383b4ee70ab7b73d68ba34deee668ac",
+    "k1": "5a88788148434fd18b810e9fde5cc964",
+    "k2": "92f4eb377c86c35524458f740e8fb530"
+  },
+  {
+    "title": "Kentucky vs. Arkansas",
+    "league": "NCAA Gimnasia Femenina",
+    "fecha-evento": "2026-02-20T20:30:03-05:00",
+    "img": "381bc42f-b4a0-467e-bf87-b6394f8b4927",
+    "nombre": "disney9f211d",
+    "status": "20:30",
+    "duration": 90,
+    "play_url": "https://www.disneyplus.com/es-es/play/ff9ce0c7-a242-4879-8934-195c12e07530",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1771724495~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F21%2F24_Kentucky_vs_7_Arkansas_20260221_1771630239026%2F~psid=9d58091d-aa04-45f7-ac80-fe38b8675c34~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=f833bb7ff3df64e8ec41255771e493e8c707989da1fefa9ac7fece4bea82f442/clt1/va02/disneyplus/event/2026/02/21/24_Kentucky_vs_7_Arkansas_20260221_1771630239026/ctr-all-hdri-complete.m3u8?v=1&hash=c00257763dba20fcd26df322bfd1f3675177b22c",
+    "k1": "53a65007a2d94ae8b27ea04e7795aafc",
+    "k2": "79a27cad703194f41208929a16772bf9"
   },
   {
     "title": "Southern Utah vs. Utah",
@@ -686,6 +666,26 @@
     "img": "019c4322-6df9-75df-9f8a-ca43e57ec2d4",
     "nombre": "disney1878cd",
     "status": "10:55",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Gales vs. Escocia",
+    "league": "Seis Naciones",
+    "fecha-evento": "2026-02-21T11:15:00-05:00",
+    "img": "019c670c-c990-79a5-8467-bff398cec00e",
+    "nombre": "disney4baf2a",
+    "status": "11:15",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "ACC Fencing Championship - Men's Individual Event",
+    "league": "NCAA Esgrima Masculino",
+    "fecha-evento": "2026-02-21T11:30:00-05:00",
+    "img": "8aa09fe1-c529-4ab5-be8b-28cf2fbe5f79",
+    "nombre": "disney752336",
+    "status": "11:30",
     "duration": 135,
     "play_url": ""
   }
