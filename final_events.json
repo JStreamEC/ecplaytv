@@ -23,19 +23,6 @@
     "k2": "925552739ca02b273f689f2c1753ddaa"
   },
   {
-    "title": "Hannover 96 vs. SG Dynamo Dresden",
-    "league": "Bundesliga 2 de Alemania",
-    "fecha-evento": "2026-02-22T07:20:19-05:00",
-    "img": "019c43a2-1f94-79ad-8b64-db2dc9e23cd2",
-    "nombre": "disney0df36e",
-    "status": "07:20",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/216cfa64-a695-47e8-a9e9-9c8cb8b0bf9f",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1771856771~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F22%2FHannover_96_vs_SG_Dynamo__20260222_1771755935036%2F~psid=58710488-3818-42a4-9038-5a07781055dd~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=d532f73d842b74ae3e7d3ce5f51a7ece49a405cf0df931fd637ad119c4793abf/clt1/va02/disneyplus/event/2026/02/22/Hannover_96_vs_SG_Dynamo__20260222_1771755935036/ctr-all-hdri-complete.m3u8?v=1&hash=cce70476377aa7d8c4d186b0fe6bf348fe3f2dcf",
-    "k1": "a58cf9a3d4034cadb7c7d9c7c56f6e86",
-    "k2": "c9e3105de2aa5bb7449c0010f48b1d8e"
-  },
-  {
     "title": "Gaziantep vs. Trabzonspor",
     "league": "Super Lig de Turquía",
     "fecha-evento": "2026-02-22T07:45:12-05:00",
@@ -655,6 +642,16 @@
     "img": "9abb6bf3-970d-49f4-b766-8e3bfe9f950a",
     "nombre": "disneydc320e",
     "status": "18:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Australia vs. España",
+    "league": "Women's FIH Pro League",
+    "fecha-evento": "2026-02-23T01:30:00-05:00",
+    "img": "019c25cf-ef72-75b3-9a16-4461c693a354",
+    "nombre": "disney19a6cc",
+    "status": "01:30",
     "duration": 135,
     "play_url": ""
   }
