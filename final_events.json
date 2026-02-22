@@ -10,32 +10,6 @@
     "play_url": ""
   },
   {
-    "title": "Central Córdoba vs. Tigre",
-    "league": "Liga Profesional de Fútbol",
-    "fecha-evento": "2026-02-21T19:15:00-05:00",
-    "img": "019c334a-2667-727e-83a8-52d791af6e97",
-    "nombre": "disneydc3052",
-    "status": "19:15",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/064b4623-c13a-4e4a-800f-508c76f789e5",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1771806168~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F22%2FCentral_Crdoba_vs_Tigre_20260222_1771712140026%2F~psid=dabc6dcf-5001-49c8-8706-61d5fc30649c~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=d3a6fa97fbaebf4db43a57d8aae0f727eb0e3e0edb78348c9060718e7947f3b6/clt1/va02/disneyplus/event/2026/02/22/Central_Crdoba_vs_Tigre_20260222_1771712140026/ctr-all-hdri-complete.m3u8?v=1&hash=4344188d154e418db5f098ae7f085bf2a984b4a3",
-    "k1": "a76cc65d8b4c410b95a4068fdceec251",
-    "k2": "dfd07019c91107416bd53fe01e52cd7b"
-  },
-  {
-    "title": "Tampa Bay Sun vs. Fort Lauderdale United",
-    "league": "USL Super League",
-    "fecha-evento": "2026-02-21T19:30:04-05:00",
-    "img": "019c2f18-9ab2-7fdc-8e8f-3724360886eb",
-    "nombre": "disney5875cf",
-    "status": "19:30",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/e9b9fd3b-b579-46cc-aba7-0ee296e92ea2",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1771807242~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F22%2FTampa_Bay_Sun_vs_Fort_Lau_20260222_1771713052018%2F~psid=239b284e-1389-43dd-9a7e-699393b9525d~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=77b4a861991a4b1c7bc63f3e6b1e6a38dcfb10f947e0fedc39fdf4d9cee1a3d8/clt1/va02/disneyplus/event/2026/02/22/Tampa_Bay_Sun_vs_Fort_Lau_20260222_1771713052018/ctr-all-hdri-complete.m3u8?v=1&hash=70450370e0a1ed3716d65b072ea607503e7a068e",
-    "k1": "1a1e9011211349598c24f8bc5cdd482c",
-    "k2": "32a76b661ebe50862be7d2f71bd673b0"
-  },
-  {
     "title": "Sultanes Femenil vs. Naranjeros Softbol Femenil",
     "league": "Liga Mexicana de Softbol",
     "fecha-evento": "2026-02-21T19:55:00-05:00",
@@ -153,19 +127,6 @@
     "k2": "0fbf8334d07d82bede4be3ea6755a042"
   },
   {
-    "title": "Glow vs. Gold Rush (Game 18)",
-    "league": "Athletes Unlimited Basketball",
-    "fecha-evento": "2026-02-21T21:00:00-05:00",
-    "img": "38d85d84-de49-4659-8201-6283b6d4b3a9",
-    "nombre": "disney31a3eb",
-    "status": "21:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/a63d61a4-1a29-4506-abb4-c3a2136b94f3",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1771813240~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F22%2FGlow_vs_Gold_Rush_Game_18_20260222_1771718441026%2F~psid=ed31315e-7104-4279-aefe-2ce344c5b053~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=11fe3912c7ace1f19f4c8fe84d8436f82f8f74ecef3ba3be920dc6dc23fa59fc/clt1/va02/disneyplus/event/2026/02/22/Glow_vs_Gold_Rush_Game_18_20260222_1771718441026/ctr-all-hdri-complete.m3u8?v=1&hash=a9e6123be849755af0c0e84ce2654687ca06461a",
-    "k1": "18d59b5b459947a68fb7571a0396440b",
-    "k2": "a9193846b8e1c4be3852bf63b74c7ec1"
-  },
-  {
     "title": "#20 Texas Tech vs. Colorado",
     "league": "Básquet Femenino NCAA",
     "fecha-evento": "2026-02-21T21:00:05-05:00",
@@ -192,14 +153,30 @@
     "k2": "738d36f6d758ed2be90be1de7f9f0c65"
   },
   {
+    "title": "Glow vs. Gold Rush (Game 18)",
+    "league": "Athletes Unlimited Basketball",
+    "fecha-evento": "2026-02-21T21:00:00-05:00",
+    "img": "38d85d84-de49-4659-8201-6283b6d4b3a9",
+    "nombre": "disney31a3eb",
+    "status": "21:00",
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/a63d61a4-1a29-4506-abb4-c3a2136b94f3",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1771813240~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F22%2FGlow_vs_Gold_Rush_Game_18_20260222_1771718441026%2F~psid=ed31315e-7104-4279-aefe-2ce344c5b053~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=11fe3912c7ace1f19f4c8fe84d8436f82f8f74ecef3ba3be920dc6dc23fa59fc/clt1/va02/disneyplus/event/2026/02/22/Glow_vs_Gold_Rush_Game_18_20260222_1771718441026/ctr-all-hdri-complete.m3u8?v=1&hash=a9e6123be849755af0c0e84ce2654687ca06461a",
+    "k1": "18d59b5b459947a68fb7571a0396440b",
+    "k2": "a9193846b8e1c4be3852bf63b74c7ec1"
+  },
+  {
     "title": "Crusaders vs. Brumbies",
     "league": "Super Rugby Pacific",
     "fecha-evento": "2026-02-21T21:30:00-05:00",
     "img": "019c4f0d-8b74-72dd-b02f-61271e2e51b8",
     "nombre": "disney4e9d5c",
     "status": "21:30",
-    "duration": 135,
-    "play_url": ""
+    "duration": 125,
+    "play_url": "https://www.disneyplus.com/es-es/play/b8408c46-db34-456d-9543-9a183ecd77d9",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1771814445~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F22%2FCrusaders_vs_Brumbies_20260222_1771720233026%2F~psid=dd9b12e2-b968-431a-9844-b0cab948ee90~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=c8cb03c44adf2bf527953bfd986c0a3482392347bf34425798b723c519ff78c0/clt1/va02/disneyplus/event/2026/02/22/Crusaders_vs_Brumbies_20260222_1771720233026/ctr-all-hdri-complete.m3u8?v=1&hash=29bdc42cb7d5a10384d9c85ca06f897fa5d13a63",
+    "k1": "e6799f1a3f9f4cd687f973bb53ef34ff",
+    "k2": "626552bb191f0a1c62937372d634ef69"
   },
   {
     "title": "UC Santa Barbara vs. Hawai'i",
@@ -452,6 +429,16 @@
     "play_url": ""
   },
   {
+    "title": "Rio Open presented by Claro (Semifinales)",
+    "league": "ATP",
+    "fecha-evento": "2026-02-22T09:00:00-05:00",
+    "img": "019af9ec-38e3-7276-969a-43ff3b97be63",
+    "nombre": "disneya19a4e",
+    "status": "09:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
     "title": "Freiburg vs. Borussia Monchengladbach",
     "league": "Bundesliga",
     "fecha-evento": "2026-02-22T09:20:00-05:00",
@@ -668,6 +655,16 @@
     "img": "019c52e7-538b-75d6-9472-b53659a60534",
     "nombre": "disneyfcabe8",
     "status": "13:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "1. FC Heidenheim 1846 vs. Stuttgart",
+    "league": "Bundesliga",
+    "fecha-evento": "2026-02-22T13:20:00-05:00",
+    "img": "019c4377-8519-7759-964f-9d6eba2d4682",
+    "nombre": "disneyeb5813",
+    "status": "13:20",
     "duration": 135,
     "play_url": ""
   }
