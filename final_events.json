@@ -52,19 +52,6 @@
     "k2": "2a1354e83822105a6a0f369eaed6a7b9"
   },
   {
-    "title": "Freiburg vs. Borussia Monchengladbach",
-    "league": "Bundesliga",
-    "fecha-evento": "2026-02-22T09:20:05-05:00",
-    "img": "019c4373-ecb6-7ffb-a5dc-93b2b4183544",
-    "nombre": "disney907524",
-    "status": "09:20",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/01d9e0ab-9861-4ddc-b8b6-efac4357189c",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1771857102~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F22%2FFreiburg_vs_Borussia_Mnch_20260222_1771762827016%2F~psid=bb9a24ec-bb24-4502-9435-976695ef2544~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=bb79981875f04f505024a129c7095100acb95dd3dcc4414436519b4e718ac2ac/clt1/va02/disneyplus/event/2026/02/22/Freiburg_vs_Borussia_Mnch_20260222_1771762827016/ctr-all-hdri-complete.m3u8?v=1&hash=9ec592826353333265255a29affa1e6f62c8cb79",
-    "k1": "90d8eca3ba7d4aea93e98523a712d7ee",
-    "k2": "9a595709897c5a4cb68345a1b5f6aed1"
-  },
-  {
     "title": "FC Barcelona vs. Levante UD",
     "league": "LALIGA",
     "fecha-evento": "2026-02-22T10:00:00-05:00",
@@ -171,12 +158,15 @@
   {
     "title": "ACC Fencing Championship - Women's Individual Event",
     "league": "NCAA Esgrima Femenino",
-    "fecha-evento": "2026-02-22T11:30:00-05:00",
+    "fecha-evento": "2026-02-22T11:30:01-05:00",
     "img": "8aa09fe1-c529-4ab5-be8b-28cf2fbe5f79",
-    "nombre": "disneyf72309",
+    "nombre": "disney13d636",
     "status": "11:30",
-    "duration": 135,
-    "play_url": ""
+    "duration": 110,
+    "play_url": "https://www.disneyplus.com/es-es/play/6e510530-33e9-44b0-9513-76340c7c5c53",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1771864852~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F22%2FACC_Fencing_Championship__20260222_1771770611026%2F~psid=bbadd89f-1f81-4cb0-8753-fd67237ddda9~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=0952004b58c41fe973a94c997b3248162d073ff9e6739a80d0c92696f2ea22ab/clt1/va02/disneyplus/event/2026/02/22/ACC_Fencing_Championship__20260222_1771770611026/ctr-all-hdri-complete.m3u8?v=1&hash=72c440ab649ea23a7429ad96eea2d1012481cd1a",
+    "k1": "0bb51fb4efa84ced9251f6bd26e6b1d5",
+    "k2": "cb9c36d0f48d10c6cc02dd3462ed010f"
   },
   {
     "title": "Milan vs. Parma",
@@ -644,6 +634,16 @@
     "fecha-evento": "2026-02-23T12:00:00-05:00",
     "img": "019c7e50-218a-7724-9173-73808e86c80e",
     "nombre": "disney4d19c3",
+    "status": "12:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "ATX Open / Center Court",
+    "league": "WTA",
+    "fecha-evento": "2026-02-23T12:00:00-05:00",
+    "img": "9aaef489-f1ac-4f6c-84a1-4ba2246e6131",
+    "nombre": "disney2ae209",
     "status": "12:00",
     "duration": 135,
     "play_url": ""
