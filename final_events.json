@@ -52,32 +52,6 @@
     "k2": "2a1354e83822105a6a0f369eaed6a7b9"
   },
   {
-    "title": "FC Barcelona vs. Levante UD",
-    "league": "LALIGA",
-    "fecha-evento": "2026-02-22T10:00:00-05:00",
-    "img": "019c4a4c-a0cf-72e7-b21b-50cc0a078596",
-    "nombre": "disney743a5f",
-    "status": "10:00",
-    "duration": 135,
-    "play_url": "https://www.disneyplus.com/es-es/play/7d5f9301-a0be-48fa-b0b5-fe805afe53ab",
-    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1771860087~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Ff25bdf06-81c9-4a7c-b128-3128d610ad17-1762951253360%2F~psid=1aabdd9e-0a3e-4d9e-9828-240b4922c4b2~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=e05452d9240964da4cb37de248de69bdc6bd912d707bb7f48dabfab4e676f3d0/clt1/va02/disneyplus/channel/f25bdf06-81c9-4a7c-b128-3128d610ad17-1762951253360/ctr-all-sliding-alt1.m3u8?v=1&hash=57a1e5c4737768952c5164be5d4f5ba525d47674",
-    "k1": "4bbafb2a64d24508915539c87b48d087",
-    "k2": "8c85fef22a2f43cc0974ae3b22be782d"
-  },
-  {
-    "title": "Francia vs. Italia",
-    "league": "Seis Naciones",
-    "fecha-evento": "2026-02-22T10:00:00-05:00",
-    "img": "019c670d-caea-7e2e-b535-21712fc9f142",
-    "nombre": "disney843992",
-    "status": "10:00",
-    "duration": 115,
-    "play_url": "https://www.disneyplus.com/es-es/play/63ae8aa1-1767-4f6d-8f0b-fd0d848753a7",
-    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1771860136~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Fec26a05e-a9cc-4db4-804e-77465738e667-1771235129410%2F~psid=a6a28e8b-b494-4788-8960-efd0d4b9c339~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=30da42bcfcd7f097e6508b430ee5e33048c174e3586d8301b93d65e81767b3d5/clt1/va02/disneyplus/channel/ec26a05e-a9cc-4db4-804e-77465738e667-1771235129410/ctr-all-sliding-alt1.m3u8?v=1&hash=0099981b8732bb3ce07eba12557eb3587edd4377",
-    "k1": "7391472552bf49de894fdb70bc76b0fc",
-    "k2": "14035ab264f7184373e1a69dce286c71"
-  },
-  {
     "title": "AZ vs. Sparta Rotterdam",
     "league": "Eredivisie",
     "fecha-evento": "2026-02-22T10:30:00-05:00",
@@ -201,8 +175,8 @@
     "img": "019c4542-2a14-7c45-9069-cc9011039cb5",
     "nombre": "disney1c5011",
     "status": "12:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/4f57e98f-28d2-4835-ab6a-a9f5aad4761c"
   },
   {
     "title": "Ivy Championships",
@@ -211,18 +185,11 @@
     "img": "381bc42f-b4a0-467e-bf87-b6394f8b4927",
     "nombre": "disney988df2",
     "status": "12:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "MAAC Indoor Track & Field Championships",
-    "league": "NCAA Atletismo",
-    "fecha-evento": "2026-02-22T12:00:00-05:00",
-    "img": "703a0947-b1b5-4434-9581-0e5c409bcc6c",
-    "nombre": "disneyf8ed2f",
-    "status": "12:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 180,
+    "play_url": "https://www.disneyplus.com/es-es/play/57e0b602-cc3b-42e9-b5c3-9d4057698345",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1771867342~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F22%2FIvy_Championships_20260222_1771773169672%2F~psid=60be3824-5e70-4b12-abc3-f5f5e18389b1~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=9cc10bdf2831d6eb75aa05aa123d51a9b12cf107383dce61dfbce9bb1253ed41/clt1/va02/disneyplus/event/2026/02/22/Ivy_Championships_20260222_1771773169672/ctr-all-hdri-complete.m3u8?v=1&hash=026b4e275ae6756c61c6e6afa76cc7233a32b958",
+    "k1": "4c7263941bb9485aaf916616007ac574",
+    "k2": "7561a1b88ff1c142be8ffce57a794692"
   },
   {
     "title": "#17 Ole Miss vs. #3 South Carolina",
@@ -231,18 +198,37 @@
     "img": "019c6811-8c62-7346-bd9b-144104a1bba4",
     "nombre": "disneyc0933a",
     "status": "12:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/679ac113-0a4b-4234-81cb-fa084a9c3df5",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1771867395~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F22%2F17_Ole_Miss_vs_3_South_Ca_20260222_1771774849691%2F~psid=22122055-df67-4dd7-8cf1-586d667f09b5~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=ebd3dc90d03fa0b82d3796fd36181cc0bd99f47aad897e0b2d3f191b9955ecb4/clt1/va02/disneyplus/event/2026/02/22/17_Ole_Miss_vs_3_South_Ca_20260222_1771774849691/ctr-all-hdri-complete.m3u8?v=1&hash=b9cc3d6872df3b1a5f6c678d6dcbeb6c31bba537",
+    "k1": "a18682fdfcef496ca868d1985b39b7bc",
+    "k2": "5a48d530f93c5fffa0ca0bc6f0ab5fc0"
   },
   {
     "title": "Louisville vs. #1 North Carolina",
     "league": "NCAA Women's Lacrosse",
-    "fecha-evento": "2026-02-22T12:00:00-05:00",
+    "fecha-evento": "2026-02-22T12:00:03-05:00",
     "img": "019c68f4-34e8-78fc-af65-935702736cea",
-    "nombre": "disney1e28b3",
+    "nombre": "disney226ea7",
     "status": "12:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/b5700852-aeb6-4ef4-9c1e-c5f51a1f55f1",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1771867429~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F22%2FLouisville_vs_1_North_Car_20260222_1771772439018%2F~psid=91e1c017-6501-429d-967e-49ace61a60df~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=4330557affdb7a280e63e0e847898737884a58b5c65b9d131fc0076f38bd18a5/clt1/va02/disneyplus/event/2026/02/22/Louisville_vs_1_North_Car_20260222_1771772439018/ctr-all-hdri-complete.m3u8?v=1&hash=7ad20e04a875953cdc18d59aa80c43a7f19e4210",
+    "k1": "ee1c1450ac25465ca2292bc1eb0dbc0f",
+    "k2": "7c5541b6a27af6751660e6012572e54e"
+  },
+  {
+    "title": "MAAC Indoor Track & Field Championships",
+    "league": "NCAA Atletismo",
+    "fecha-evento": "2026-02-22T12:00:03-05:00",
+    "img": "703a0947-b1b5-4434-9581-0e5c409bcc6c",
+    "nombre": "disneyb114d5",
+    "status": "12:00",
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/c1fbb750-6f67-4593-b921-2e8be67a00fc",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1771867464~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F22%2FMAAC_Indoor_Track_Field_C_20260222_1771772434029%2F~psid=f43f29d4-b909-43e3-b18a-0b0121014181~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=9949bb92db87febc1c2b710f8e869dbc3b744d3ed31436f7c19162ab7a89cb26/clt1/va02/disneyplus/event/2026/02/22/MAAC_Indoor_Track_Field_C_20260222_1771772434029/ctr-all-hdri-complete.m3u8?v=1&hash=95f8da4224607fa5f3ddb0f7e6373c455e086ef0",
+    "k1": "372d6cc7f50e4ec2aeb709e7c064df2e",
+    "k2": "9f4356d66b41b0a21567a44f35366151"
   },
   {
     "title": "Racing Santander vs. Burgos",
@@ -251,8 +237,11 @@
     "img": "019c43a2-191c-7300-8fb8-52ffac1917de",
     "nombre": "disney6397eb",
     "status": "12:20",
-    "duration": 135,
-    "play_url": ""
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/43ace16f-e5ac-4ad8-bdcb-95c9c0634f53",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1771867560~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F22%2FRacing_Santander_vs_Burgo_20260222_1771773625029%2F~psid=70161902-ceb3-463f-9130-77bb32a8dd4f~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=5d5a1e02f53c547785aa19b50554a1a98617051d7127de478d6d4b56a44e7e58/clt1/va02/disneyplus/event/2026/02/22/Racing_Santander_vs_Burgo_20260222_1771773625029/ctr-all-hdri-complete.m3u8?v=1&hash=0f1f332858c7295b35307cceb61c30e1c64c529a",
+    "k1": "67829d18ff204a789b71ab74d7410498",
+    "k2": "490c4f960c5a0971360b0df401742038"
   },
   {
     "title": "Rio Open presented by Claro / Quadra Guga Kuerten (Doubles Final)",
@@ -651,6 +640,26 @@
     "img": "9aaef489-f1ac-4f6c-84a1-4ba2246e6131",
     "nombre": "disney2ae209",
     "status": "12:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Fiorentina vs. Pisa",
+    "league": "Seria A",
+    "fecha-evento": "2026-02-23T12:20:00-05:00",
+    "img": "019c4a4b-2f82-7156-aa15-9b4727449e9b",
+    "nombre": "disneyf3f1aa",
+    "status": "12:20",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Cayman Islands vs. Turks & Caicos Islands",
+    "league": "Concacaf Women's Under-20 Championship",
+    "fecha-evento": "2026-02-23T12:50:00-05:00",
+    "img": "019c6d4e-85aa-78ae-8d24-c74716631fda",
+    "nombre": "disney4697ff",
+    "status": "12:50",
     "duration": 135,
     "play_url": ""
   }
