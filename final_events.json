@@ -36,19 +36,6 @@
     "k2": "2237c1f78d7c50e8d1850b5e461be81a"
   },
   {
-    "title": "Kentucky vs. Auburn",
-    "league": "Básquetbol Masculino NCAA",
-    "fecha-evento": "2026-02-21T20:30:00-05:00",
-    "img": "019c16ef-eeb7-733b-85c8-3b11299946b2",
-    "nombre": "disneye2d0ed",
-    "status": "20:30",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/b1e7cd00-77c7-4c4b-a01d-9a32c959e460",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1771810839~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F22%2FKentucky_vs_Auburn_20260222_1771718573683%2F~psid=064d0a78-773d-4e66-88e9-b93a7506d1ac~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=104c411abdff37be0299a8ac057abfc8cc29da6ff8e11937f63ceb51944ee36a/clt1/va02/disneyplus/event/2026/02/22/Kentucky_vs_Auburn_20260222_1771718573683/ctr-all-hdri-complete.m3u8?v=1&hash=29bfe1ddf891c37ea3438101be5b47a2b054b8bd",
-    "k1": "f575c988164f4caa82091e61edc432ca",
-    "k2": "0fbf8334d07d82bede4be3ea6755a042"
-  },
-  {
     "title": "#20 Texas Tech vs. Colorado",
     "league": "Básquet Femenino NCAA",
     "fecha-evento": "2026-02-21T21:00:05-05:00",
@@ -662,6 +649,16 @@
     "img": "019c3aeb-f2bf-75d3-a8ab-578a19595f59",
     "nombre": "disney89b24c",
     "status": "14:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Strasbourg vs. Lyon",
+    "league": "Ligue 1",
+    "fecha-evento": "2026-02-22T14:25:00-05:00",
+    "img": "019c4a4c-de8c-78f1-881b-1f698490f624",
+    "nombre": "disneyd9434d",
+    "status": "14:25",
     "duration": 135,
     "play_url": ""
   }
