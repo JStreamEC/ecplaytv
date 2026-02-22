@@ -23,19 +23,6 @@
     "k2": "925552739ca02b273f689f2c1753ddaa"
   },
   {
-    "title": "SC Paderborn 07 vs. Hertha Bsc",
-    "league": "Bundesliga 2 de Alemania",
-    "fecha-evento": "2026-02-22T07:20:19-05:00",
-    "img": "019c43a5-9f78-7fe5-a25f-52bb0f5c065c",
-    "nombre": "disney10c5a1",
-    "status": "07:20",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/37a62381-8429-493a-b8da-a26604c17e55",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1771856722~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F22%2FSC_Paderborn_07_vs_Hertha_20260222_1771755912016%2F~psid=99af97b2-e592-4433-9215-90997a0ef104~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=ba1400ee9d6a75e42c49332ca0fadbcc62d70ac221eb065d0b6f07d0caabf87e/clt1/va02/disneyplus/event/2026/02/22/SC_Paderborn_07_vs_Hertha_20260222_1771755912016/ctr-all-hdri-complete.m3u8?v=1&hash=179dea5797ebd3d43b6af506c1e1684707ae182b",
-    "k1": "a97eb6b284f34f9caec92fddb801bff3",
-    "k2": "e04b2748505000fab23b4b58a2ab73fc"
-  },
-  {
     "title": "Hannover 96 vs. SG Dynamo Dresden",
     "league": "Bundesliga 2 de Alemania",
     "fecha-evento": "2026-02-22T07:20:19-05:00",
@@ -47,19 +34,6 @@
     "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1771856771~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F22%2FHannover_96_vs_SG_Dynamo__20260222_1771755935036%2F~psid=58710488-3818-42a4-9038-5a07781055dd~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=d532f73d842b74ae3e7d3ce5f51a7ece49a405cf0df931fd637ad119c4793abf/clt1/va02/disneyplus/event/2026/02/22/Hannover_96_vs_SG_Dynamo__20260222_1771755935036/ctr-all-hdri-complete.m3u8?v=1&hash=cce70476377aa7d8c4d186b0fe6bf348fe3f2dcf",
     "k1": "a58cf9a3d4034cadb7c7d9c7c56f6e86",
     "k2": "c9e3105de2aa5bb7449c0010f48b1d8e"
-  },
-  {
-    "title": "Preußen Münster vs. 1. FC Kaiserslautern",
-    "league": "Bundesliga 2 de Alemania",
-    "fecha-evento": "2026-02-22T07:20:22-05:00",
-    "img": "019c43a2-1ac3-7889-8a5b-4580ced4caf4",
-    "nombre": "disney080124",
-    "status": "07:20",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/2e652787-02d2-4f7e-ab30-7dcce3739a5e",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1771856800~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F22%2FPreuen_Mnster_vs_1_FC_Kai_20260222_1771755914035%2F~psid=7093047f-908a-44fa-b28d-f2fb8d187733~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=9694e8ff5fefe5a0f03ad5b39250a5e453c4bbf87e952708c13b877d38958c4e/clt1/va02/disneyplus/event/2026/02/22/Preuen_Mnster_vs_1_FC_Kai_20260222_1771755914035/ctr-all-hdri-complete.m3u8?v=1&hash=9094810e6dc6ba0b55423290aa3eea6a0da0fb7c",
-    "k1": "e41984a5b0ed4a92a191ff1dd2f1f2b4",
-    "k2": "88afbca07e79ecc747d2fe9ba5aec5a0"
   },
   {
     "title": "Gaziantep vs. Trabzonspor",
@@ -661,6 +635,26 @@
     "img": "019c4eeb-2464-75d1-83c3-aeaeefa9b602",
     "nombre": "disneye0a796",
     "status": "17:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Peñarol vs. Deportivo Maldonado",
+    "league": "Campeonato Uruguayo",
+    "fecha-evento": "2026-02-22T17:30:00-05:00",
+    "img": "019c5394-1058-7248-b947-5b918e5c3ac4",
+    "nombre": "disney13f682",
+    "status": "17:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "LOVB Madison vs. LOVB Nebraska",
+    "league": "League One Volleyball",
+    "fecha-evento": "2026-02-22T18:00:00-05:00",
+    "img": "9abb6bf3-970d-49f4-b766-8e3bfe9f950a",
+    "nombre": "disneydc320e",
+    "status": "18:00",
     "duration": 135,
     "play_url": ""
   }
