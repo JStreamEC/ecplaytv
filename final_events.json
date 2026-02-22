@@ -499,21 +499,21 @@
     "play_url": ""
   },
   {
-    "title": "Rio Open presented by Claro (Final)",
-    "league": "ATP",
-    "fecha-evento": "2026-02-22T15:30:00-05:00",
-    "img": "05f81eca-4732-4b00-a435-c1c89bc10e2d",
-    "nombre": "disney149f57",
-    "status": "15:30",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Denver Nuggets vs. Golden State Warriors",
     "league": "NBA",
     "fecha-evento": "2026-02-22T15:30:00-05:00",
     "img": "019c52eb-4765-7825-b511-4589df522b55",
     "nombre": "disney7e58b1",
+    "status": "15:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Rio Open presented by Claro (Final)",
+    "league": "ATP",
+    "fecha-evento": "2026-02-22T15:30:00-05:00",
+    "img": "05f81eca-4732-4b00-a435-c1c89bc10e2d",
+    "nombre": "disney149f57",
     "status": "15:30",
     "duration": 135,
     "play_url": ""
@@ -645,6 +645,16 @@
     "img": "8abd9837-d849-4a47-ab8e-edec1caa15bb",
     "nombre": "disneyc3368c",
     "status": "05:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Zimbabwe vs. West Indies",
+    "league": "ICC Men's T20 World Cup",
+    "fecha-evento": "2026-02-23T08:00:00-05:00",
+    "img": "019c73c0-3c6c-7912-8d00-22b3b0fd18c1",
+    "nombre": "disney730b30",
+    "status": "08:00",
     "duration": 135,
     "play_url": ""
   }
