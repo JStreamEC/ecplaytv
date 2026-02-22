@@ -10,32 +10,6 @@
     "play_url": ""
   },
   {
-    "title": "Sultanes Femenil vs. Naranjeros Softbol Femenil",
-    "league": "Liga Mexicana de Softbol",
-    "fecha-evento": "2026-02-21T19:55:00-05:00",
-    "img": "03bed62e-e421-4e89-a4a6-64e72c79b120",
-    "nombre": "disney1a0e3f",
-    "status": "19:55",
-    "duration": 185,
-    "play_url": "https://www.disneyplus.com/es-es/play/09680970-e399-4ce0-8a9c-91371e83e62a",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1771808441~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F22%2FSultanes_Femenil_vs_Naran_20260222_1771714530045%2F~psid=ff1adcd5-8e31-42eb-bcf7-89a25fd2ae28~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=761784073ecf6ab4d40162247f8d92e9331b5ca8e65a4cf4b98ad0d19b985f14/clt1/va02/disneyplus/event/2026/02/22/Sultanes_Femenil_vs_Naran_20260222_1771714530045/ctr-all-hdri-complete.m3u8?v=1&hash=78183a7804bab12d1bb8251a0ebcbb39eaa6a3d1",
-    "k1": "110165b3d502485fa720318878a9607c",
-    "k2": "d0511f12f3905cb5b09a3988a2f3e5d1"
-  },
-  {
-    "title": "Tommy Paul (USA) vs. Learner Tien (USA) (Semifinal)",
-    "league": "ATP",
-    "fecha-evento": "2026-02-21T20:00:00-05:00",
-    "img": "019c80b1-4168-7a44-a6d4-4de30a3653a2",
-    "nombre": "disneya99669",
-    "status": "20:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/b68d193f-e140-4484-b14a-207acc718c2f",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1771809684~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F22%2FTommy_Paul_USA_vs_Learner_20260222_1771714851017%2F~psid=9a8ae511-2468-4344-86c8-614f671dd1b7~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=ba700f80029dd6d0c601bc53c002f40ec609f2a028c6389c9ded6c30347f4a65/clt1/va02/disneyplus/event/2026/02/22/Tommy_Paul_USA_vs_Learner_20260222_1771714851017/ctr-all-hdri-complete.m3u8?v=1&hash=f1ec915a69035e2c8fa0c76e370df7f63c9eb2d6",
-    "k1": "3768111707ff4d8f8994d83b44136384",
-    "k2": "d9f469f39695b8f0b8496584f2b3bc0f"
-  },
-  {
     "title": "Houston Rockets vs. New York Knicks",
     "league": "NBA",
     "fecha-evento": "2026-02-21T20:34:00-05:00",
@@ -198,8 +172,8 @@
     "img": "019c09cc-65aa-73a1-a55c-8e35c6d83403",
     "nombre": "disneyac7a1b",
     "status": "22:30",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/8a791041-156b-4f11-b9f5-2a180761a896"
   },
   {
     "title": "Australia vs. China",
@@ -667,6 +641,26 @@
     "fecha-evento": "2026-02-22T14:00:00-05:00",
     "img": "2d523ea8-b787-4c12-87ef-9b02cfc0298e",
     "nombre": "disneybd9d7e",
+    "status": "14:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "#9 Duke vs. Clemson",
+    "league": "Básquet Femenino NCAA",
+    "fecha-evento": "2026-02-22T14:00:00-05:00",
+    "img": "019c67ce-bede-75a8-8b0f-9643308763cd",
+    "nombre": "disney8d8c1e",
+    "status": "14:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Maryland vs. Louisiana",
+    "league": "NCAA Beisbol",
+    "fecha-evento": "2026-02-22T14:00:00-05:00",
+    "img": "019c3aeb-f2bf-75d3-a8ab-578a19595f59",
+    "nombre": "disney89b24c",
     "status": "14:00",
     "duration": 135,
     "play_url": ""
