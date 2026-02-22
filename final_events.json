@@ -117,19 +117,6 @@
     "k2": "2a1354e83822105a6a0f369eaed6a7b9"
   },
   {
-    "title": "Alejandro Tabilo (CHI) vs. Ignacio Buse (PER) (Semifinal)",
-    "league": "ATP",
-    "fecha-evento": "2026-02-22T09:00:11-05:00",
-    "img": "019c853f-ff0b-741b-a4a1-02dc4b946b87",
-    "nombre": "disney75b4dc",
-    "status": "09:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/4cda7ec8-e65a-426a-bdb5-ccaf3f61144d",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1771857075~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F22%2FAlejandro_Tabilo_CHI_vs_I_20260222_1771764289350%2F~psid=fc25fe85-7453-48b4-bea7-93638c14ecab~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=7f56199525179d52932b6ed4be9f922284a58f82bc8e2fcb2fa0698aaea540dd/clt1/va02/disneyplus/event/2026/02/22/Alejandro_Tabilo_CHI_vs_I_20260222_1771764289350/ctr-all-hdri-complete.m3u8?v=1&hash=379ac960c1459484328611a611b7468672fbcbfd",
-    "k1": "4043b9d851824908a20c02cc1b25ef93",
-    "k2": "348f048375034beeaebd9d0f1ec1e00a"
-  },
-  {
     "title": "Freiburg vs. Borussia Monchengladbach",
     "league": "Bundesliga",
     "fecha-evento": "2026-02-22T09:20:05-05:00",
@@ -176,7 +163,10 @@
     "nombre": "disney63ca64",
     "status": "10:30",
     "duration": 135,
-    "play_url": ""
+    "play_url": "https://www.disneyplus.com/es-es/play/7a175c48-5f1f-4f56-8039-6f455883e780",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1771861240~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F22%2FAZ_vs_Sparta_Rotterdam_20260222_1771767056026%2F~psid=cf225c6a-8eef-4b45-b946-b46f12f2b397~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=f5ddf711d6388278502065b09602942706f8ce7dc0b5655845a1778f8f6fe7d9/clt1/va02/disneyplus/event/2026/02/22/AZ_vs_Sparta_Rotterdam_20260222_1771767056026/ctr-all-hdri-complete.m3u8?v=1&hash=f489fba41b012431062c5de4366724345ae6d840",
+    "k1": "bd7b0d741690415290864ecc076a5bca",
+    "k2": "9cc5ed4821f032e7e65ca9636d163bc7"
   },
   {
     "title": "Nantes vs. Le Havre AC",
@@ -644,6 +634,16 @@
     "fecha-evento": "2026-02-23T05:00:00-05:00",
     "img": "69e1e2a6-21e3-4b19-8f1c-e0d47df569f2",
     "nombre": "disney2f8522",
+    "status": "05:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Dubai Duty Free Tennis Championship (Primera Ronda)",
+    "league": "ATP",
+    "fecha-evento": "2026-02-23T05:00:00-05:00",
+    "img": "8abd9837-d849-4a47-ab8e-edec1caa15bb",
+    "nombre": "disneyc3368c",
     "status": "05:00",
     "duration": 135,
     "play_url": ""
