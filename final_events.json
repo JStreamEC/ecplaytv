@@ -1,15 +1,5 @@
 [
   {
-    "title": "Dubai Duty Free Tennis Championship (Primera Ronda)",
-    "league": "ATP",
-    "fecha-evento": "",
-    "img": "019c8b7e-1e0c-754b-8d6d-43d6eddce9bb",
-    "nombre": "disneyc5a31e",
-    "status": "",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Bci Seguros Chile Open (Primera Ronda)",
     "league": "ATP",
     "fecha-evento": "2026-02-23T11:00:05-05:00",
@@ -21,19 +11,6 @@
     "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1771955193~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F23%2FBci_Seguros_Chile_Open_Fi_20260223_1771855203039%2F~psid=ec59691d-2770-4ec0-99dd-0a9f063e01fd~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=8b9f634fef9d027c965eb2a811940ad6d6c74797859f8a6ae33da7ae6ee67814/clt1/va02/disneyplus/event/2026/02/23/Bci_Seguros_Chile_Open_Fi_20260223_1771855203039/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=5dbc8fdcc1ac106925e8766b872aead4cf125bb7",
     "k1": "331c7ffd6e3941df963a6b4d321ef1d1",
     "k2": "418f589a11c3d2061d51642e19186c1c"
-  },
-  {
-    "title": "Fenerbahce vs. Kasimpasa",
-    "league": "Super Lig de Turquía",
-    "fecha-evento": "2026-02-23T11:50:00-05:00",
-    "img": "019c51fb-fe8e-7d69-8bce-54842b5e3f9b",
-    "nombre": "disneyf1d7e8",
-    "status": "11:50",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/01866062-0d5f-44fb-84c4-70c821227b91",
-    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1771955239~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F7f9052ce-8143-43a6-9656-a8c00c4a3e56-1762950862652%2F~psid=ef4b8b1d-4a8d-43fc-919c-1d7283512de9~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=c63d946e97290b2f1b6cfd895d2e250aefb7512273861d9601dccc125f048eb4/clt1/va02/disneyplus/channel/7f9052ce-8143-43a6-9656-a8c00c4a3e56-1762950862652/ctr-all-sliding-alt1.m3u8?r=1080&v=1&hash=93c6f867d6b0e1eff3a6058e467797dcf0b66917",
-    "k1": "bcc6e8e704834d99bcc100165e541989",
-    "k2": "e80545596ac59f7e833e011c22945212"
   },
   {
     "title": "High Point vs. Robert Morris",
@@ -103,12 +80,15 @@
   {
     "title": "Bologna vs. Udinese",
     "league": "Seria A",
-    "fecha-evento": "2026-02-23T14:30:00-05:00",
+    "fecha-evento": "2026-02-23T14:30:01-05:00",
     "img": "019c4a3f-b031-71d1-9197-05cd01218ded",
-    "nombre": "disneyd5bd5f",
+    "nombre": "disneyd40b7e",
     "status": "14:30",
     "duration": 135,
-    "play_url": ""
+    "play_url": "https://www.disneyplus.com/es-es/play/d54186b4-6196-4dde-b590-8bd85faf0778",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1771962041~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F23%2FBologna_vs_Udinese_20260223_1771867811016%2F~psid=7b68ceef-99d3-4284-bef6-173e14db542c~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=ebc8e259ccbe09d0b3e1b4c014984fb7e1ff7375e8d80c929eb698722c93ea2e/clt1/va02/disneyplus/event/2026/02/23/Bologna_vs_Udinese_20260223_1771867811016/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=8fb944cc8acf0c395bf0c5a9af2254505d409747",
+    "k1": "fd4530e6c7b749f69fc12680dee39072",
+    "k2": "5bdb05981697b838c290e1aefa99960d"
   },
   {
     "title": "Everton vs. Manchester United",
@@ -171,21 +151,21 @@
     "play_url": ""
   },
   {
+    "title": "Puerto Rico vs. St. Kitts & Nevis",
+    "league": "Concacaf Women's Under-20 Championship",
+    "fecha-evento": "2026-02-23T15:50:00-05:00",
+    "img": "019c6d51-94e3-75f8-b9b9-7fbb0e38fa20",
+    "nombre": "disney7914fc",
+    "status": "15:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
     "title": "BYU vs. UC Riverside",
     "league": "NCAA Beisbol",
     "fecha-evento": "2026-02-23T16:00:00-05:00",
     "img": "019c1f9d-72e3-7ff0-8435-72e762fce8da",
     "nombre": "disneyd00bef",
-    "status": "16:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Mérida | WTA 500  / Estadio",
-    "league": "WTA",
-    "fecha-evento": "2026-02-23T16:00:00-05:00",
-    "img": "019c878a-f71a-7e96-92a8-6ecbadbc1d90",
-    "nombre": "disney810bfa",
     "status": "16:00",
     "duration": 135,
     "play_url": ""
@@ -381,6 +361,16 @@
     "play_url": ""
   },
   {
+    "title": "Dubai Duty Free Tennis Championship (Primera Ronda)",
+    "league": "ATP",
+    "fecha-evento": "2026-02-24T05:00:00-05:00",
+    "img": "8abd9837-d849-4a47-ab8e-edec1caa15bb",
+    "nombre": "disney2a566a",
+    "status": "05:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
     "title": "Dubai Duty Free Tennis Championship / Court 4 (Doubles)",
     "league": "ATP",
     "fecha-evento": "2026-02-24T06:00:00-05:00",
@@ -557,6 +547,26 @@
     "img": "019c6d6c-7f13-7a95-82e5-bad69d3e4a4e",
     "nombre": "disneycae1a1",
     "status": "16:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Huachipato (CHI) vs. Carabobo (VEN)",
+    "league": "CONMEBOL Libertadores",
+    "fecha-evento": "2026-02-24T16:55:00-05:00",
+    "img": "019c7204-22ae-7594-920f-39c2c79e9b6c",
+    "nombre": "disney8cd580",
+    "status": "16:55",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Mérida | WTA 500 / Cancha 2 (Doubles)",
+    "league": "WTA",
+    "fecha-evento": "2026-02-24T17:00:00-05:00",
+    "img": "019c878b-89b6-7cbe-b8b5-cb00c85a90ce",
+    "nombre": "disneyc7333f",
+    "status": "17:00",
     "duration": 135,
     "play_url": ""
   }
