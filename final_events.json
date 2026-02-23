@@ -143,24 +143,30 @@
     "k2": "3df441986524ae487cff918ccb8201d3"
   },
   {
-    "title": "BYU vs. UC Riverside",
-    "league": "NCAA Beisbol",
-    "fecha-evento": "2026-02-23T16:00:00-05:00",
-    "img": "019c1f9d-72e3-7ff0-8435-72e762fce8da",
-    "nombre": "disneyd00bef",
-    "status": "16:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Mérida | WTA 500  / Estadio",
     "league": "WTA",
-    "fecha-evento": "2026-02-23T16:00:00-05:00",
+    "fecha-evento": "2026-02-23T15:59:32-05:00",
     "img": "019c878a-f71a-7e96-92a8-6ecbadbc1d90",
-    "nombre": "disney810bfa",
-    "status": "16:00",
-    "duration": 135,
-    "play_url": ""
+    "nombre": "disney1ef10e",
+    "status": "15:59",
+    "duration": 420,
+    "play_url": "https://www.disneyplus.com/es-es/play/0de99487-1a5f-425c-9bd9-2759b29c031d",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1771968036~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F23%2FMrida_WTA_500_Estadio_20260223_1771873205028%2F~psid=f2a5cee7-1cdd-40ad-bdda-a7dc02eb8ca1~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=47e764ece507246e2118ca2346daf6bd11b47cb83a7cfe0385c2be0b803118a5/clt1/va02/disneyplus/event/2026/02/23/Mrida_WTA_500_Estadio_20260223_1771873205028/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=92803b7c1d660157a379d18c0a58ca62499d809e",
+    "k1": "226bad55cf234453b12b9635ccec9bf3",
+    "k2": "723e8a432d83d415dd65e2da5ea9a891"
+  },
+  {
+    "title": "BYU vs. UC Riverside",
+    "league": "NCAA Beisbol",
+    "fecha-evento": "2026-02-23T16:01:00-05:00",
+    "img": "019c1f9d-72e3-7ff0-8435-72e762fce8da",
+    "nombre": "disney6cb568",
+    "status": "16:01",
+    "duration": 179,
+    "play_url": "https://www.disneyplus.com/es-es/play/a20fe931-1040-4f39-9963-6cfe336890d6",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1771968083~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F23%2FBYU_vs_UC_Riverside_20260223_1771873235039%2F~psid=09636a06-193d-4988-8e6b-ddc9380735be~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=4490f06d83b80c5f451ae3264e2271d9aafaaef30fa3b88755425559f24e024d/clt1/va02/disneyplus/event/2026/02/23/BYU_vs_UC_Riverside_20260223_1771873235039/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=6723a0fa909afe069846884a913ce8ea3f9c7823",
+    "k1": "74e4a81e7a274355a91a8232e2d226cb",
+    "k2": "5f85531cd317e7384b57664c00fc8abf"
   },
   {
     "title": "Mérida | WTA 500 / Cancha 1",
