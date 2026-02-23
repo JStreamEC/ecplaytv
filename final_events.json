@@ -484,16 +484,6 @@
     "play_url": ""
   },
   {
-    "title": "William & Mary vs. George Mason",
-    "league": "NCAA Beisbol",
-    "fecha-evento": "2026-02-24T14:00:00-05:00",
-    "img": "019c2000-3cb8-77a2-8735-6d982a33f072",
-    "nombre": "disneycb71b4",
-    "status": "14:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Bayer Leverkusen vs. Olympiakos",
     "league": "UEFA Champions League",
     "fecha-evento": "2026-02-24T14:40:00-05:00",
@@ -570,6 +560,16 @@
     "img": "019c1105-3efa-7258-9cc7-5c2103d638ee",
     "nombre": "disneye561d6",
     "status": "15:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "St. Vincent & The Grenadines vs. Anguilla",
+    "league": "Concacaf Women's Under-20 Championship",
+    "fecha-evento": "2026-02-24T15:50:00-05:00",
+    "img": "019c6d69-e338-74f8-8a87-baa3c39ce0f8",
+    "nombre": "disney05c9ac",
+    "status": "15:50",
     "duration": 135,
     "play_url": ""
   }
