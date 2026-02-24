@@ -1,18 +1,5 @@
 [
   {
-    "title": "Northern Illinois vs. Illinois State",
-    "league": "NCAA Gimnasia Femenina",
-    "fecha-evento": "2026-02-23T19:00:00-05:00",
-    "img": "381bc42f-b4a0-467e-bf87-b6394f8b4927",
-    "nombre": "disneyd4dce7",
-    "status": "19:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/1fe9a6d8-aca6-41b4-9aca-b34605471abb",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1771978841~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F24%2FNorthern_Illinois_vs_Illi_20260224_1771885010165%2F~psid=8514120c-ac89-4b82-b23e-5ac3dae2c343~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=236c652d10e93a59926df00ca531ab86c44894cc417ad1783f26e01f7c249a9a/clt1/va02/disneyplus/event/2026/02/24/Northern_Illinois_vs_Illi_20260224_1771885010165/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=aed3edaa7b7f763ce93d535209f867edbb829024",
-    "k1": "163fc69c28d64d059bfeb7222bf4dd16",
-    "k2": "f197416c4f7a39ed5243d21c9c7b45b1"
-  },
-  {
     "title": "Abierto Mexicano Telcel presentado por HSBC / Cancha 1 (Doubles)",
     "league": "ATP",
     "fecha-evento": "2026-02-23T19:00:01-05:00",
@@ -52,19 +39,6 @@
     "k2": "30b4a87f73ab915d749865db04a581cf"
   },
   {
-    "title": "#24 Louisville vs. #18 North Carolina",
-    "league": "Básquetbol Masculino NCAA",
-    "fecha-evento": "2026-02-23T19:00:00-05:00",
-    "img": "019c68f4-34e8-78fc-af65-935702736cea",
-    "nombre": "disneya12d20",
-    "status": "19:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/892875d9-38a9-44c8-8c51-1b0a0f1ccdff",
-    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1771979043~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Fbbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1767092609127%2F~psid=d7274972-2dfa-4d1e-9bbd-333672432512~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=475ef316bb8d446c2b0c26fe7f5bb3aa12ec00aba61819aaaaecda8a04c211fd/clt1/va02/disneyplus/channel/bbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1767092609127/ctr-all-sliding-alt1.m3u8?r=1080&v=1&hash=eb3d49e5bd70aee4517206fa38f01931a46eb473",
-    "k1": "b2840026acb64f7b83e28d24eac9f161",
-    "k2": "849982b863f89c4a3818db80a1dafa68"
-  },
-  {
     "title": "Mérida | WTA 500 / Cancha 1",
     "league": "WTA",
     "fecha-evento": "2026-02-23T20:49:12-05:00",
@@ -93,12 +67,15 @@
   {
     "title": "#5 Houston vs. #14 Kansas",
     "league": "Básquetbol Masculino NCAA",
-    "fecha-evento": "2026-02-23T21:00:00-05:00",
+    "fecha-evento": "2026-02-23T21:08:03-05:00",
     "img": "019c59ad-34db-746d-a46c-2fbe8a8fea28",
-    "nombre": "disney02e51f",
-    "status": "21:00",
-    "duration": 135,
-    "play_url": ""
+    "nombre": "disneyd301b8",
+    "status": "21:08",
+    "duration": 112,
+    "play_url": "https://www.disneyplus.com/es-es/play/e4326ffc-b323-4b9a-9263-280e47e0044d",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1771986046~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F24%2F5_Houston_vs_14_Kansas_20260224_1771893230173%2F~psid=ec2a1d62-a5d0-4cdf-8e55-943981d68b3d~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=93817b327ac6440f188d0015bc012f4171a8a1f19ad4951eae324e1756072640/clt1/va02/disneyplus/event/2026/02/24/5_Houston_vs_14_Kansas_20260224_1771893230173/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=693148e74757bafafed0265c340afb1827b2dc75",
+    "k1": "492eaf32054d4cc58d6b45c67841f369",
+    "k2": "85bc66d4d111f44f4d71f4e9f06ab53c"
   },
   {
     "title": "Rafael Jodar (ESP) vs. Cameron Norrie (GBR) (Primera Ronda)",
@@ -481,6 +458,16 @@
     "play_url": ""
   },
   {
+    "title": "Rodrigo Pacheco (MEX) (Primera Ronda)",
+    "league": "ESPN",
+    "fecha-evento": "2026-02-24T19:00:00-05:00",
+    "img": "019c6de4-01ed-7d86-87bc-c70ec090a457",
+    "nombre": "disney2cf57e",
+    "status": "19:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
     "title": "Cincinnati vs. #16 Texas Tech",
     "league": "Básquetbol Masculino NCAA",
     "fecha-evento": "2026-02-24T19:00:00-05:00",
@@ -576,6 +563,26 @@
     "fecha-evento": "2026-02-24T21:00:00-05:00",
     "img": "019c10ce-ee92-7bef-99f5-4d9d659bc5d2",
     "nombre": "disney078b86",
+    "status": "21:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Utah vs. Colorado",
+    "league": "Básquet Femenino NCAA",
+    "fecha-evento": "2026-02-24T21:00:00-05:00",
+    "img": "019b8648-9475-701f-9170-5e58c58eefa8",
+    "nombre": "disneya81f60",
+    "status": "21:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Salt Lake City Stars vs. Capitanes de Ciudad de México",
+    "league": "NBA G League",
+    "fecha-evento": "2026-02-24T21:00:00-05:00",
+    "img": "019c0f30-e1c4-7434-b431-21707d75df91",
+    "nombre": "disney90b74b",
     "status": "21:00",
     "duration": 135,
     "play_url": ""
