@@ -26,19 +26,6 @@
     "k2": "fb3cff9d1192145ccdf3fa8587a2b207"
   },
   {
-    "title": "ATX Open / Court 8",
-    "league": "WTA",
-    "fecha-evento": "2026-02-24T13:00:00-05:00",
-    "img": "019c90d5-56d7-7254-a051-7f6f1e06aed9",
-    "nombre": "disney3ea272",
-    "status": "13:00",
-    "duration": 360,
-    "play_url": "https://www.disneyplus.com/es-es/play/793b6ced-b587-4ca7-87a8-9751d3a42c22",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1772043527~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F24%2FATX_Open_Court_8_20260224_1771948849026%2F~psid=7beb2abb-b111-4a73-b63a-0a0f2dff82c4~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=ad809e0707c58b47545fe042671703a85e71131183986aa0adfc554b0759ec29/clt1/va02/disneyplus/event/2026/02/24/ATX_Open_Court_8_20260224_1771948849026/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=8dd98c52271127a5d98390c8fa50e7cd54c4ff19",
-    "k1": "3b1a48f965ed4e0b8e6ae22afe607661",
-    "k2": "6cf74fab38549b51e412b8aa2fb53008"
-  },
-  {
     "title": "OVC Indoor Track & Field Championships",
     "league": "NCAA Atletismo",
     "fecha-evento": "2026-02-24T13:47:13-05:00",
@@ -162,8 +149,11 @@
     "img": "019c575b-9166-7438-9118-aebd77159eeb",
     "nombre": "disney5f262b",
     "status": "18:30",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/b3c8082f-9007-49e1-bce6-25889c03ec29",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1772062846~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F24%2FSanta_Clara_vs_Cal_Poly_20260224_1771968638040%2F~psid=d6a438b1-16b4-43d1-8580-9bca9b7dba22~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=21febae816a42efc4eadb1e860a9723697e8419680df78ed681d0fc0f14aedd9/clt1/va02/disneyplus/event/2026/02/24/Santa_Clara_vs_Cal_Poly_20260224_1771968638040/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=9517f3a3b49e50fc2b12f328176995235903f671",
+    "k1": "1b0385edc4144312b4584c0ec679aa15",
+    "k2": "ccfb60cc8cc01ad2fef578637fd26ff4"
   },
   {
     "title": "Curacao vs. Guyana",
@@ -631,6 +621,16 @@
     "fecha-evento": "2026-02-25T14:50:00-05:00",
     "img": "019c6d77-d968-774f-a16b-d9f272c96a76",
     "nombre": "disney71085b",
+    "status": "14:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Stoke City vs. Oxford United",
+    "league": "Championship de Inglaterra",
+    "fecha-evento": "2026-02-25T14:50:00-05:00",
+    "img": "019c67b1-62bf-7ad1-bfcc-6e7953e47c2e",
+    "nombre": "disneye9f5b9",
     "status": "14:50",
     "duration": 135,
     "play_url": ""
