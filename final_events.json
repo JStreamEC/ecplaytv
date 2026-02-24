@@ -39,19 +39,6 @@
     "k2": "403644853c3e6e53ca3a8ec93651f448"
   },
   {
-    "title": "Kansas State vs. #18 Baylor",
-    "league": "Básquet Femenino NCAA",
-    "fecha-evento": "2026-02-23T19:00:03-05:00",
-    "img": "019c1fd8-7d5a-7ccd-a16a-5fc9dbff0968",
-    "nombre": "disneyfd43ac",
-    "status": "19:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/f86cb700-99a6-4128-8fa8-64e2999c81da",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1771978989~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F24%2FKansas_State_vs_18_Baylor_20260224_1771884830160%2F~psid=e58be9f4-1b74-459d-befd-16cc0fabf21b~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=6fda102cfd4e3fc55ec4fa3996e734d1cf4f5a1612afbe5a3c9039c00ce48bb3/clt1/va02/disneyplus/event/2026/02/24/Kansas_State_vs_18_Baylor_20260224_1771884830160/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=11c45ef91837da35b07c73646ea7fa5254452585",
-    "k1": "2b14968dbb64454492424b0a0e7c5324",
-    "k2": "f7d6760a0683e4b0ad75fce63a197cf0"
-  },
-  {
     "title": "Abierto Mexicano Telcel presentado por HSBC (Primera Ronda)",
     "league": "ATP",
     "fecha-evento": "2026-02-23T19:00:05-05:00",
@@ -78,14 +65,30 @@
     "k2": "849982b863f89c4a3818db80a1dafa68"
   },
   {
+    "title": "Mérida | WTA 500 / Cancha 1",
+    "league": "WTA",
+    "fecha-evento": "2026-02-23T20:49:12-05:00",
+    "img": "019c877a-96dd-75ad-8995-5a94c8a220f5",
+    "nombre": "disneyaa3af6",
+    "status": "20:49",
+    "duration": 16,
+    "play_url": "https://www.disneyplus.com/es-es/play/3d39e440-fc50-4e44-8845-d8ea262f320e",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1771984848~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F23%2FMrida_WTA_500_Cancha_1_20260223_1771876847041%2F~psid=f9dc08b5-2dc3-49b6-8627-a4ada3888ede~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=edfd5e9c91b731c7c94108605b6570e0e040802ca3cf8f74f45c1aa6a379ff3e/clt1/va02/disneyplus/event/2026/02/23/Mrida_WTA_500_Cancha_1_20260223_1771876847041/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=55c0ef3e533e259a354c24da9e3e7bce6613489e",
+    "k1": "2e4056eaeef545c0857c5ced7e93ad87",
+    "k2": "252aa083a8a0d1295702f6c34ddc519b"
+  },
+  {
     "title": "El Salvador vs. Guyana Francesa",
     "league": "Concacaf Women's Under-20 Championship",
     "fecha-evento": "2026-02-23T20:50:00-05:00",
     "img": "019c6dcd-faed-7de9-a1c1-a95670426045",
     "nombre": "disney95242c",
     "status": "20:50",
-    "duration": 135,
-    "play_url": ""
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/81fbd894-14e2-4df8-8356-eca47589d9bf",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1771984895~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F24%2FEl_Salvador_vs_Guyana_Fra_20260224_1771890638017%2F~psid=051f87a4-1db5-4ec0-8d24-8cd2dcfdbcaa~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=04cdc303-50ca-41b5-bb25-3657edf7ad4a~country=EC~kid=k02~hmac=29c436e08bd22b8710056e1bd627f2724b54a0593e07e28bbda5f6cd86018c89/clt1/va02/disneyplus/event/2026/02/24/El_Salvador_vs_Guyana_Fra_20260224_1771890638017/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=00a52f7d2a3510598dddadec82a80ecf7302fbc6",
+    "k1": "86a6b32e59ab43c0a3f940e9e2cfc25b",
+    "k2": "f30ad57f1bcc71956bad1b6db4394d1e"
   },
   {
     "title": "#5 Houston vs. #14 Kansas",
@@ -353,16 +356,6 @@
     "fecha-evento": "2026-02-24T15:00:00-05:00",
     "img": "019c1105-3efa-7258-9cc7-5c2103d638ee",
     "nombre": "disneye561d6",
-    "status": "15:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Mérida | WTA 500 / Cancha 1",
-    "league": "WTA",
-    "fecha-evento": "2026-02-24T15:00:00-05:00",
-    "img": "019c877a-96dd-75ad-8995-5a94c8a220f5",
-    "nombre": "disneyca728c",
     "status": "15:00",
     "duration": 135,
     "play_url": ""
