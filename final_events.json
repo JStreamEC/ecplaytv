@@ -1,18 +1,5 @@
 [
   {
-    "title": "Bci Seguros Chile Open (Primera Ronda)",
-    "league": "ATP",
-    "fecha-evento": "2026-02-24T11:00:05-05:00",
-    "img": "019c90d7-9435-74f0-b86f-3eed403b7dc2",
-    "nombre": "disneyd5c5c0",
-    "status": "11:00",
-    "duration": 240,
-    "play_url": "https://www.disneyplus.com/es-es/play/3d541a23-ba43-4b24-8f99-2b807d7ec56b",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1772043419~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F24%2FBci_Seguros_Chile_Open_Fi_20260224_1771941646040%2F~psid=678dfb90-14fc-4fea-97b3-51e28829c6c3~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=d0a19ea9971cfd3e97b249120aabc0b5526ec15ae2bd732697e0032e5290d3c4/clt1/va02/disneyplus/event/2026/02/24/Bci_Seguros_Chile_Open_Fi_20260224_1771941646040/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=968c3140ca6b7ae2cc2e4b3b928993bf754e130d",
-    "k1": "2bb3364ad00c4a828ca05f0bc3dbbba8",
-    "k2": "5961d35d7da9d410c1526c4f9c72048a"
-  },
-  {
     "title": "ATX Open / Center Court",
     "league": "WTA",
     "fecha-evento": "2026-02-24T11:59:59-05:00",
@@ -156,36 +143,6 @@
     "k2": "fc0b4614fafc772e98ecbd18732ba10c"
   },
   {
-    "title": "Mérida | WTA 500 / Cancha 2 (Doubles)",
-    "league": "WTA",
-    "fecha-evento": "2026-02-24T15:00:00-05:00",
-    "img": "019c878b-89b6-7cbe-b8b5-cb00c85a90ce",
-    "nombre": "disney1b3f80",
-    "status": "15:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Alabama State vs. UAB",
-    "league": "NCAA Beisbol",
-    "fecha-evento": "2026-02-24T15:00:00-05:00",
-    "img": "019c1105-3efa-7258-9cc7-5c2103d638ee",
-    "nombre": "disneye561d6",
-    "status": "15:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Mérida | WTA 500 / Cancha 1",
-    "league": "WTA",
-    "fecha-evento": "2026-02-24T15:00:00-05:00",
-    "img": "019c877a-96dd-75ad-8995-5a94c8a220f5",
-    "nombre": "disneyca728c",
-    "status": "15:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Mérida | WTA 500 (Primera Ronda)",
     "league": "WTA",
     "fecha-evento": "2026-02-24T14:55:07-05:00",
@@ -199,12 +156,61 @@
     "k2": "18b6094760225282a2bae0b51a7aaafa"
   },
   {
+    "title": "Mérida | WTA 500 / Cancha 2 (Doubles)",
+    "league": "WTA",
+    "fecha-evento": "2026-02-24T15:00:00-05:00",
+    "img": "019c878b-89b6-7cbe-b8b5-cb00c85a90ce",
+    "nombre": "disney1b3f80",
+    "status": "15:00",
+    "duration": 480,
+    "play_url": "https://www.disneyplus.com/es-es/play/9c60e8ca-4b7a-462f-9841-b1f4d3ecf079",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1772050841~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F24%2FMrida_WTA_500_Cancha_2_Do_20260224_1771956054018%2F~psid=b2f7a3ce-bf17-4bc2-a710-56e55ae5fe53~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=d5e6dad38c9239af7b6ce169552cf0cdda82f56914bb5ebddfb173907cc38ddd/clt1/va02/disneyplus/event/2026/02/24/Mrida_WTA_500_Cancha_2_Do_20260224_1771956054018/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=6939ce64e6e5ef01e142aab9b7582fda96d5e584",
+    "k1": "b0cc026725f74b9387b84a64b7af5c4c",
+    "k2": "57171eab8ad89449d4b1c80faf4b7a20"
+  },
+  {
+    "title": "Alabama State vs. UAB",
+    "league": "NCAA Beisbol",
+    "fecha-evento": "2026-02-24T15:00:00-05:00",
+    "img": "019c1105-3efa-7258-9cc7-5c2103d638ee",
+    "nombre": "disneye561d6",
+    "status": "15:00",
+    "duration": 180,
+    "play_url": "https://www.disneyplus.com/es-es/play/b4e96778-bba2-45ce-9bad-9cf863bf7372",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1772050888~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F24%2FAlabama_State_vs_UAB_20260224_1771959110426%2F~psid=34ea6add-4eaf-40d1-a5b3-15457b0d7692~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=d06eb57892e7cc170fce8d4ebd5f4f4ebf8d4db0174b457d9237716012ec2677/clt1/va02/disneyplus/event/2026/02/24/Alabama_State_vs_UAB_20260224_1771959110426/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=a933f2ef78bfc450956a6ae8abe235fcaec02acf",
+    "k1": "2df90b81684d4145904159fa9332f01a",
+    "k2": "507b94b4bfcd234a5d8c196928d5068a"
+  },
+  {
+    "title": "Mérida | WTA 500 / Cancha 1",
+    "league": "WTA",
+    "fecha-evento": "2026-02-24T15:00:00-05:00",
+    "img": "019c877a-96dd-75ad-8995-5a94c8a220f5",
+    "nombre": "disneyca728c",
+    "status": "15:00",
+    "duration": 480,
+    "play_url": "https://www.disneyplus.com/es-es/play/fc4628ec-b040-4b1d-b7c1-e7c24467d2aa",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1772050937~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F24%2FMrida_WTA_500_Cancha_1_20260224_1771956044027%2F~psid=47ba7559-08b7-43b2-b955-1b883f08c960~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=224de440a5808f1dc6705e383a92ec9d28c509fb66f634ab1d63ec149fcdbadd/clt1/va02/disneyplus/event/2026/02/24/Mrida_WTA_500_Cancha_1_20260224_1771956044027/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=a51c48cfec1240a9289101fcd2344a7b2c3274c2",
+    "k1": "8c7c69b643d44ad4ba7570a02524fb0d",
+    "k2": "818a79c832c7f44f4fd93e06ba105498"
+  },
+  {
     "title": "St. Vincent & The Grenadines vs. Anguilla",
     "league": "Concacaf Women's Under-20 Championship",
     "fecha-evento": "2026-02-24T15:50:00-05:00",
     "img": "019c6d69-e338-74f8-8a87-baa3c39ce0f8",
     "nombre": "disney05c9ac",
     "status": "15:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Bci Seguros Chile Open (Primera Ronda)",
+    "league": "ATP",
+    "fecha-evento": "2026-02-24T16:30:00-05:00",
+    "img": "019c8d06-e672-7d95-ac04-82c6309e40d7",
+    "nombre": "disney47faa7",
+    "status": "16:30",
     "duration": 135,
     "play_url": ""
   },
@@ -469,16 +475,6 @@
     "play_url": ""
   },
   {
-    "title": "Colorado Avalanche vs. Utah Mammoth",
-    "league": "National Hockey League",
-    "fecha-evento": "2026-02-25T21:00:00-05:00",
-    "img": "44a46dc9-dfa6-40ce-855c-22a83c5575b8",
-    "nombre": "disneyf36e9a",
-    "status": "21:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Saint Mary's vs. Cal State Bakersfield",
     "league": "NCAA Beisbol",
     "fecha-evento": "2026-02-24T21:30:00-05:00",
@@ -635,6 +631,26 @@
     "img": "019c53d5-4565-7246-9733-7bb49c73bfde",
     "nombre": "disney8eb08b",
     "status": "12:05",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "St. Kitts & Nevis vs. Cayman Islands",
+    "league": "Concacaf Women's Under-20 Championship",
+    "fecha-evento": "2026-02-25T12:50:00-05:00",
+    "img": "019c6d76-393b-7936-9205-2c2745bd3c29",
+    "nombre": "disney8bf7cd",
+    "status": "12:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Ceuta vs. Cordoba",
+    "league": "Segunda División de España",
+    "fecha-evento": "2026-02-25T12:50:00-05:00",
+    "img": "019bfcdc-4bc4-7f15-8564-01a370f4bafa",
+    "nombre": "disney79e9cc",
+    "status": "12:50",
     "duration": 135,
     "play_url": ""
   }
