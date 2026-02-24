@@ -65,32 +65,6 @@
     "k2": "a1ffd029836e07260750167bb505ab83"
   },
   {
-    "title": "UCL al instante",
-    "league": "UEFA Champions League",
-    "fecha-evento": "2026-02-24T14:40:03-05:00",
-    "img": "1f4cfba0-a435-412b-b4cb-1cebe051956c",
-    "nombre": "disney6c8bfa",
-    "status": "14:40",
-    "duration": 160,
-    "play_url": "https://www.disneyplus.com/es-es/play/e629188d-379e-4914-8fe9-bc2c076ffe65",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1772049171~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F24%2FUCL_al_instante_20260224_1771954847027%2F~psid=f1a82224-68ce-46ae-a0d5-18d00ad4c3a4~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=318b7381c2d82112d936066fb2a22e9d20dcdb97d2b6daa6a4f3370958d328b5/clt1/va02/disneyplus/event/2026/02/24/UCL_al_instante_20260224_1771954847027/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=6b2776aa4e212573827b3490aade798908f278b0",
-    "k1": "c8a3bf2d92e94f7382f7ea9aa2fc404a",
-    "k2": "3c0dbefa04397df4a4e96b93afe5d551"
-  },
-  {
-    "title": "Trinidad & Tobago vs. Bermuda",
-    "league": "Concacaf Women's Under-20 Championship",
-    "fecha-evento": "2026-02-24T14:50:00-05:00",
-    "img": "019c6d5e-ac9c-72fa-bdf6-3b32d4cac2be",
-    "nombre": "disney0a8915",
-    "status": "14:50",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/aefac4fe-187f-4e68-b82e-4678fbe2deb4",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1772049264~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F24%2FTrinidad_Tobago_vs_Bermud_20260224_1771955422029%2F~psid=2dd7cbe0-601c-492f-bc32-cd5ca7d5a343~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=6f2676e5de9e436e8ccf33c20f5ccf300b4b4a34b7e303bc09f4bb8955e168ff/clt1/va02/disneyplus/event/2026/02/24/Trinidad_Tobago_vs_Bermud_20260224_1771955422029/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=e02ce9f57998d07090d1347446853420c8f2a566",
-    "k1": "ef9232207e3c433a82a4680ebe4c22ed",
-    "k2": "fc0b4614fafc772e98ecbd18732ba10c"
-  },
-  {
     "title": "Mérida | WTA 500 (Primera Ronda)",
     "league": "WTA",
     "fecha-evento": "2026-02-24T14:55:07-05:00",
@@ -201,8 +175,11 @@
     "img": "019c5c86-7f6c-7e27-ad1f-5de72e8f04d3",
     "nombre": "disney9098a8",
     "status": "17:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/caae229d-b6f0-46a3-a7e3-1beb43f77dc1",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1772058037~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F24%2F13_Loyola_Maryland_vs_15__20260224_1771963231039%2F~psid=87eea0c3-30e8-4d56-9d95-dade0a84da85~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=75aa1593d8da25c517c0af8aa449806003614773810476667589b3f01a314df7/clt1/va02/disneyplus/event/2026/02/24/13_Loyola_Maryland_vs_15__20260224_1771963231039/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=fb2d99be5b0d2c2bd3da64587dfdd08a46c09836",
+    "k1": "dbd16aa5c6564c0796a9edea47f6460f",
+    "k2": "5ddf53056458f1ce556eb37f23d4e84d"
   },
   {
     "title": "Santa Clara vs. Cal Poly",
@@ -641,6 +618,26 @@
     "img": "019c70d9-04fb-73f2-bf6d-41388de3c503",
     "nombre": "disney4ba902",
     "status": "14:40",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "UCL al instante",
+    "league": "UEFA Champions League",
+    "fecha-evento": "2026-02-25T14:40:00-05:00",
+    "img": "1f4cfba0-a435-412b-b4cb-1cebe051956c",
+    "nombre": "disney320276",
+    "status": "14:40",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Belize vs. Grenada",
+    "league": "Concacaf Women's Under-20 Championship",
+    "fecha-evento": "2026-02-25T14:50:00-05:00",
+    "img": "019c6e20-8d43-76bd-b4b5-0ab60cf25073",
+    "nombre": "disney88c8ad",
+    "status": "14:50",
     "duration": 135,
     "play_url": ""
   }
