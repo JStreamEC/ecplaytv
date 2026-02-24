@@ -104,32 +104,6 @@
     "k2": "818a79c832c7f44f4fd93e06ba105498"
   },
   {
-    "title": "Alabama State vs. UAB",
-    "league": "NCAA Beisbol",
-    "fecha-evento": "2026-02-24T15:00:00-05:00",
-    "img": "019c1105-3efa-7258-9cc7-5c2103d638ee",
-    "nombre": "disneye561d6",
-    "status": "15:00",
-    "duration": 180,
-    "play_url": "https://www.disneyplus.com/es-es/play/b4e96778-bba2-45ce-9bad-9cf863bf7372",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1772050888~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F24%2FAlabama_State_vs_UAB_20260224_1771959110426%2F~psid=34ea6add-4eaf-40d1-a5b3-15457b0d7692~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=d06eb57892e7cc170fce8d4ebd5f4f4ebf8d4db0174b457d9237716012ec2677/clt1/va02/disneyplus/event/2026/02/24/Alabama_State_vs_UAB_20260224_1771959110426/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=a933f2ef78bfc450956a6ae8abe235fcaec02acf",
-    "k1": "2df90b81684d4145904159fa9332f01a",
-    "k2": "507b94b4bfcd234a5d8c196928d5068a"
-  },
-  {
-    "title": "St. Vincent & The Grenadines vs. Anguilla",
-    "league": "Concacaf Women's Under-20 Championship",
-    "fecha-evento": "2026-02-24T15:50:13-05:00",
-    "img": "019c6d69-e338-74f8-8a87-baa3c39ce0f8",
-    "nombre": "disney132cfc",
-    "status": "15:50",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/4769cdd7-fd57-4bb1-98ae-e41db5c1c1c8",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1772053246~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F24%2FSt_Vincent_The_Grenadines_20260224_1771959031041%2F~psid=a878b0b6-ab83-463d-9570-a2d5df48f203~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=6046dda3737d48cdc30dc3fafbf2be4b4a3200ba8f12bbd0362231566418c638/clt1/va02/disneyplus/event/2026/02/24/St_Vincent_The_Grenadines_20260224_1771959031041/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=7341826b0d76ff59e9611e2362dbc4b3ecda8f52",
-    "k1": "db848fd55b6247c3a752563fb3318371",
-    "k2": "42ba00e3e558e044c810bf20f105062f"
-  },
-  {
     "title": "Bci Seguros Chile Open (Primera Ronda)",
     "league": "ATP",
     "fecha-evento": "2026-02-24T16:30:02-05:00",
@@ -637,6 +611,26 @@
     "fecha-evento": "2026-02-25T14:50:00-05:00",
     "img": "019c6e20-8d43-76bd-b4b5-0ab60cf25073",
     "nombre": "disney88c8ad",
+    "status": "14:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Dominica vs. Republica Dominicana",
+    "league": "Concacaf Women's Under-20 Championship",
+    "fecha-evento": "2026-02-25T14:50:00-05:00",
+    "img": "019c6d77-d968-774f-a16b-d9f272c96a76",
+    "nombre": "disney2873fc",
+    "status": "14:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Dominica vs. República Dominicana",
+    "league": "Concacaf Women's Under-20 Championship",
+    "fecha-evento": "2026-02-25T14:50:00-05:00",
+    "img": "019c6d77-d968-774f-a16b-d9f272c96a76",
+    "nombre": "disney71085b",
     "status": "14:50",
     "duration": 135,
     "play_url": ""
