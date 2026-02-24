@@ -13,19 +13,6 @@
     "k2": "5961d35d7da9d410c1526c4f9c72048a"
   },
   {
-    "title": "Barbados vs. Sint Maarten",
-    "league": "Concacaf Women's Under-20 Championship",
-    "fecha-evento": "2026-02-24T11:50:18-05:00",
-    "img": "019c6d5a-45bb-7cac-b0a2-8226fd81c382",
-    "nombre": "disney1bfcd1",
-    "status": "11:50",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/547dff3a-ffd1-4f8d-afc2-3bbc320ea413",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1772043446~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F24%2FBarbados_vs_Sint_Maarten_20260224_1771944607026%2F~psid=b86a2261-7d40-4a6e-a53c-a521bd633a0b~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=13dff981984efe02a232b7b9dd082048259fae28f3862025eaf6156f605ddf7f/clt1/va02/disneyplus/event/2026/02/24/Barbados_vs_Sint_Maarten_20260224_1771944607026/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=c744b786fdb1eca81331eb94b661bd41fc29676d",
-    "k1": "391d3583d209447dac830f5bb04590ff",
-    "k2": "4aac8edd48c962716b67a563fdf0f460"
-  },
-  {
     "title": "ATX Open / Center Court",
     "league": "WTA",
     "fecha-evento": "2026-02-24T11:59:59-05:00",
@@ -264,7 +251,7 @@
     "title": "Abierto Mexicano Telcel presentado por HSBC (Primera Ronda)",
     "league": "ESPN",
     "fecha-evento": "2026-02-24T18:55:00-05:00",
-    "img": "019c6de4-01ed-7d86-87bc-c70ec090a457",
+    "img": "019c910f-1998-791b-82a4-e9dfa7cd410d",
     "nombre": "disney5a6230",
     "status": "18:55",
     "duration": 135,
@@ -617,6 +604,16 @@
     "img": "019c6de9-a59f-79fb-8022-ba9a92e8ede0",
     "nombre": "disney39dff0",
     "status": "11:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Canisius vs. Louisville",
+    "league": "NCAA Women's Lacrosse",
+    "fecha-evento": "2026-02-25T12:00:00-05:00",
+    "img": "019c6e9b-9f61-770d-8a7c-a29e4ba40b8f",
+    "nombre": "disneycd78ed",
+    "status": "12:00",
     "duration": 135,
     "play_url": ""
   }
