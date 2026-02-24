@@ -1,31 +1,5 @@
 [
   {
-    "title": "Dubai Duty Free Tennis Championship / New Court 1",
-    "league": "ATP",
-    "fecha-evento": "2026-02-24T05:00:09-05:00",
-    "img": "69e1e2a6-21e3-4b19-8f1c-e0d47df569f2",
-    "nombre": "disneyfb960a",
-    "status": "05:00",
-    "duration": 540,
-    "play_url": "https://www.disneyplus.com/es-es/play/22fb9c28-b018-4fc7-bcc6-5707d7d27dd0",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1772043326~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F24%2FDubai_Duty_Free_Tennis_Ch_20260224_1771920015025%2F~psid=873aed00-dc2a-486e-a052-070b3a262a64~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=627e7be2396ef01d6ef157a35258e537983436eb229f66ee67859785847ffd2b/clt1/va02/disneyplus/event/2026/02/24/Dubai_Duty_Free_Tennis_Ch_20260224_1771920015025/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=2fb711cd6c6cf02a0e29ea148f0fd5fbb568a43c",
-    "k1": "a50fdf8bb0d64b839436b17a7c192eab",
-    "k2": "414f14d3a7cdb0d77a98e694b867a53c"
-  },
-  {
-    "title": "Dubai Duty Free Tennis Championship (Primera Ronda)",
-    "league": "ATP",
-    "fecha-evento": "2026-02-24T10:00:07-05:00",
-    "img": "019c909e-1720-7ab9-b489-bc5203eb7d34",
-    "nombre": "disneycbe189",
-    "status": "10:00",
-    "duration": 240,
-    "play_url": "https://www.disneyplus.com/es-es/play/627a7794-2daa-4a8d-b5eb-7072b69b0945",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1772043373~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F24%2FDubai_Duty_Free_Tennis_Ch_20260224_1771938031026%2F~psid=03ea0719-0550-4da4-89e8-c71608de8234~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=28188cb9e332b753368042e6712aa63ea3e611fb949da1cf5fc9590e9717b8ee/clt1/va02/disneyplus/event/2026/02/24/Dubai_Duty_Free_Tennis_Ch_20260224_1771938031026/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=2672590b33a5a7f03cbdb462b8503e6876dbc124",
-    "k1": "21432211f8014502911c0503d578f5f7",
-    "k2": "9530bcf71b501c459b275a1644ff10b8"
-  },
-  {
     "title": "Bci Seguros Chile Open (Primera Ronda)",
     "league": "ATP",
     "fecha-evento": "2026-02-24T11:00:05-05:00",
@@ -78,19 +52,6 @@
     "k2": "3f95e2db99180e185c67e38c66914850"
   },
   {
-    "title": "ATX Open / Court 8",
-    "league": "WTA",
-    "fecha-evento": "2026-02-24T13:00:00-05:00",
-    "img": "019c90d5-56d7-7254-a051-7f6f1e06aed9",
-    "nombre": "disney3ea272",
-    "status": "13:00",
-    "duration": 360,
-    "play_url": "https://www.disneyplus.com/es-es/play/793b6ced-b587-4ca7-87a8-9751d3a42c22",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1772043527~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F24%2FATX_Open_Court_8_20260224_1771948849026%2F~psid=7beb2abb-b111-4a73-b63a-0a0f2dff82c4~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=ad809e0707c58b47545fe042671703a85e71131183986aa0adfc554b0759ec29/clt1/va02/disneyplus/event/2026/02/24/ATX_Open_Court_8_20260224_1771948849026/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=8dd98c52271127a5d98390c8fa50e7cd54c4ff19",
-    "k1": "3b1a48f965ed4e0b8e6ae22afe607661",
-    "k2": "6cf74fab38549b51e412b8aa2fb53008"
-  },
-  {
     "title": "ATX Open / Grandstand",
     "league": "WTA",
     "fecha-evento": "2026-02-24T13:00:45-05:00",
@@ -102,6 +63,19 @@
     "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1772043555~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F24%2FATX_Open_Grandstand_20260224_1771948836029%2F~psid=8c841534-f313-4a67-93e1-fe5c26e3fc67~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=b0e8bff41f70422b8ed12ba48d3aa08004b6a5e7eefa427dca67f3ec61950ce1/clt1/va02/disneyplus/event/2026/02/24/ATX_Open_Grandstand_20260224_1771948836029/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=dc69c7f79746004bcfef4f7cb0965b9b4d759357",
     "k1": "3b2d70f5ea4444a09c4c5a5166c81dda",
     "k2": "fb3cff9d1192145ccdf3fa8587a2b207"
+  },
+  {
+    "title": "ATX Open / Court 8",
+    "league": "WTA",
+    "fecha-evento": "2026-02-24T13:00:00-05:00",
+    "img": "019c90d5-56d7-7254-a051-7f6f1e06aed9",
+    "nombre": "disney3ea272",
+    "status": "13:00",
+    "duration": 360,
+    "play_url": "https://www.disneyplus.com/es-es/play/793b6ced-b587-4ca7-87a8-9751d3a42c22",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1772043527~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F24%2FATX_Open_Court_8_20260224_1771948849026%2F~psid=7beb2abb-b111-4a73-b63a-0a0f2dff82c4~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=ad809e0707c58b47545fe042671703a85e71131183986aa0adfc554b0759ec29/clt1/va02/disneyplus/event/2026/02/24/ATX_Open_Court_8_20260224_1771948849026/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=8dd98c52271127a5d98390c8fa50e7cd54c4ff19",
+    "k1": "3b1a48f965ed4e0b8e6ae22afe607661",
+    "k2": "6cf74fab38549b51e412b8aa2fb53008"
   },
   {
     "title": "Sun Belt Indoor Track & Field Championship (Dia #2)",
@@ -494,6 +468,16 @@
     "play_url": ""
   },
   {
+    "title": "Colorado Avalanche vs. Utah Mammoth",
+    "league": "National Hockey League",
+    "fecha-evento": "2026-02-25T21:00:00-05:00",
+    "img": "44a46dc9-dfa6-40ce-855c-22a83c5575b8",
+    "nombre": "disneyf36e9a",
+    "status": "21:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
     "title": "Saint Mary's vs. Cal State Bakersfield",
     "league": "NCAA Beisbol",
     "fecha-evento": "2026-02-24T21:30:00-05:00",
@@ -554,6 +538,16 @@
     "play_url": ""
   },
   {
+    "title": "Dubai Duty Free Tennis Championship / New Court 1",
+    "league": "ATP",
+    "fecha-evento": "2026-02-25T05:00:00-05:00",
+    "img": "69e1e2a6-21e3-4b19-8f1c-e0d47df569f2",
+    "nombre": "disney08f1fe",
+    "status": "05:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
     "title": "Dubai Duty Free Tennis Championship / Court 2",
     "league": "ATP",
     "fecha-evento": "2026-02-25T05:00:00-05:00",
@@ -610,6 +604,16 @@
     "img": "b33a0abd-ef75-4841-a3b0-b7c750cc5418",
     "nombre": "disneyd1d318",
     "status": "11:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Antigua & Barbuda vs. British Virgin Islands",
+    "league": "Concacaf Women's Under-20 Championship",
+    "fecha-evento": "2026-02-25T11:50:00-05:00",
+    "img": "019c6de9-a59f-79fb-8022-ba9a92e8ede0",
+    "nombre": "disney39dff0",
+    "status": "11:50",
     "duration": 135,
     "play_url": ""
   }
