@@ -52,19 +52,6 @@
     "k2": "bfdd09bde166197156d2c8b8bbd5c51e"
   },
   {
-    "title": "VCU vs. #8 North Carolina",
-    "league": "NCAA Beisbol",
-    "fecha-evento": "2026-02-25T16:00:30-05:00",
-    "img": "019c48c3-5703-74ea-a6fc-9f2a4387ffb4",
-    "nombre": "disney7b6d4f",
-    "status": "16:00",
-    "duration": 180,
-    "play_url": "https://www.disneyplus.com/es-es/play/8c0eae66-1d3a-4f62-8bc1-c0b53ab9935a",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1772146954~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F25%2FVCU_vs_8_North_Carolina_20260225_1772049183813%2F~psid=693235cc-3f5c-45ca-9623-c7c16567746b~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=28b3e9e8a2ddb72cbf49dfcb06c292083ebc7ddc90bef85da3f39acaa742f0c8/clt1/va02/disneyplus/event/2026/02/25/VCU_vs_8_North_Carolina_20260225_1772049183813/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=b7ef3dde5cc1b5a9ad4f7d8c3400e3a32dba6e68",
-    "k1": "73879bee6a864134a03513755827fb3e",
-    "k2": "887c32146df3f5d8dfd9ae6e78fd1567"
-  },
-  {
     "title": "Bahia (BRA) vs. O'Higgins (CHI)",
     "league": "CONMEBOL Libertadores",
     "fecha-evento": "2026-02-25T17:04:15-05:00",
@@ -143,34 +130,17 @@
     "k2": "ae1430fdee30be3b586e55227aa48558"
   },
   {
-    "title": "Miami vs. Eastern Michigan",
-    "league": "Básquet Femenino NCAA",
-    "fecha-evento": "2026-02-25T18:30:00-05:00",
-    "img": "019c1fe1-174a-7b9b-999d-cbb6048b14b2",
-    "nombre": "disney0a1ec3",
-    "status": "18:30",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Rhythm vs. Glow (Game 19)",
-    "league": "Athletes Unlimited Basketball",
-    "fecha-evento": "2026-02-25T18:30:00-05:00",
-    "img": "38d85d84-de49-4659-8201-6283b6d4b3a9",
-    "nombre": "disneyb8d6e9",
-    "status": "18:30",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Akron vs. Ball State",
     "league": "Básquet Femenino NCAA",
     "fecha-evento": "2026-02-25T18:30:00-05:00",
     "img": "019c1fe1-a057-7133-aab5-f8d8d1061844",
     "nombre": "disney4a5710",
     "status": "18:30",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/66c385ac-820b-4a4d-9b01-156058df72d3",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1772149237~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F25%2FAkron_vs_Ball_State_20260225_1772055000044%2F~psid=66ad119d-019a-42a2-801c-61e9f639a7d6~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=b4c42000c6c15c3bf8a174b07d9e644c1ab7e8eed9c186e7fb5961b199ee5868/clt1/va02/disneyplus/event/2026/02/25/Akron_vs_Ball_State_20260225_1772055000044/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=2abd3a91a92d6e5b84dd0f7508d01c81b22e912d",
+    "k1": "96653bd05f4f4685b1210d2f9b1babb6",
+    "k2": "4c303a283149e25d2b113ab4bf0837de"
   },
   {
     "title": "Philadelphia Flyers vs. Washington Capitals",
@@ -181,6 +151,32 @@
     "status": "19:00",
     "duration": 135,
     "play_url": ""
+  },
+  {
+    "title": "Rhythm vs. Glow (Game 19)",
+    "league": "Athletes Unlimited Basketball",
+    "fecha-evento": "2026-02-25T18:30:01-05:00",
+    "img": "38d85d84-de49-4659-8201-6283b6d4b3a9",
+    "nombre": "disneyd6ec66",
+    "status": "18:30",
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/0c567bfc-18e0-48c7-95d2-3e240fc9e425",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1772149283~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F25%2FRhythm_vs_Glow_Game_19_20260225_1772055003017%2F~psid=8f9b5160-613e-48c6-9fa6-441429eedba9~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=4a55bcc90efce0c9712980c28b9221ced0a69571d7cb6d305b462305bbe92e01/clt1/va02/disneyplus/event/2026/02/25/Rhythm_vs_Glow_Game_19_20260225_1772055003017/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=32b9a48f49246da90ba64abb650695881bb3fca9",
+    "k1": "82e6565c241f4007a1dbd10815269b23",
+    "k2": "c4c2bfbb3c05010dfed65d1ec27ceb08"
+  },
+  {
+    "title": "Miami vs. Eastern Michigan",
+    "league": "Básquet Femenino NCAA",
+    "fecha-evento": "2026-02-25T18:30:23-05:00",
+    "img": "019c1fe1-174a-7b9b-999d-cbb6048b14b2",
+    "nombre": "disneyd9d0e8",
+    "status": "18:30",
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/c5ba6c89-c886-4b68-b39d-7a6243352c76",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1772149329~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F25%2FMiami_vs_Eastern_Michigan_20260225_1772057117963%2F~psid=796e209b-a34e-4cea-bebf-fce75954098c~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=28497c46455de20da46aa47933b33b8ec65f173e7df785fc59c17ed3119b1ad4/clt1/va02/disneyplus/event/2026/02/25/Miami_vs_Eastern_Michigan_20260225_1772057117963/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=cd1d0c2312443335fd5e992af682d6fc750a7e42",
+    "k1": "4915046722fe4ef48578df2a310557a1",
+    "k2": "2e5f0006a08d8658224c25829fbb68f0"
   },
   {
     "title": "Turks & Caicos Islands vs. Jamaica",
