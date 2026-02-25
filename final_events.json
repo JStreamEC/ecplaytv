@@ -52,19 +52,6 @@
     "k2": "d86a06d441d75daa795c236ba7732449"
   },
   {
-    "title": "Ceuta vs. Cordoba",
-    "league": "Segunda División de España",
-    "fecha-evento": "2026-02-25T12:55:04-05:00",
-    "img": "019bfcdc-4bc4-7f15-8564-01a370f4bafa",
-    "nombre": "disney38d21a",
-    "status": "12:55",
-    "duration": 125,
-    "play_url": "https://www.disneyplus.com/es-es/play/e1d54620-2cf5-422b-b39a-0cf269e6d2fb",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1772128834~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F25%2FCeuta_vs_Cordoba_20260225_1772034622030%2F~psid=e11a29bd-6dee-44db-a882-af3fa2f54869~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=e37745558984ccd1a383f6dd62b90e5b29d0e498adcdd2dc8b03dea934f3a91f/clt1/va02/disneyplus/event/2026/02/25/Ceuta_vs_Cordoba_20260225_1772034622030/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=7d98126ae0c869415c39e13bd670c5e8c255e093",
-    "k1": "e36ef41669d04dda8568a9670d02bd3f",
-    "k2": "d0bb4d82fa5eab6c4e25dc2bca6ec8c7"
-  },
-  {
     "title": "St. Kitts & Nevis vs. Cayman Islands",
     "league": "Concacaf Women's Under-20 Championship",
     "fecha-evento": "2026-02-25T12:50:15-05:00",
@@ -78,14 +65,30 @@
     "k2": "1bc7de7070f9771e9dbd715d02250532"
   },
   {
+    "title": "Ceuta vs. Cordoba",
+    "league": "Segunda División de España",
+    "fecha-evento": "2026-02-25T12:55:04-05:00",
+    "img": "019bfcdc-4bc4-7f15-8564-01a370f4bafa",
+    "nombre": "disney38d21a",
+    "status": "12:55",
+    "duration": 125,
+    "play_url": "https://www.disneyplus.com/es-es/play/e1d54620-2cf5-422b-b39a-0cf269e6d2fb",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1772128834~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F25%2FCeuta_vs_Cordoba_20260225_1772034622030%2F~psid=e11a29bd-6dee-44db-a882-af3fa2f54869~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=e37745558984ccd1a383f6dd62b90e5b29d0e498adcdd2dc8b03dea934f3a91f/clt1/va02/disneyplus/event/2026/02/25/Ceuta_vs_Cordoba_20260225_1772034622030/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=7d98126ae0c869415c39e13bd670c5e8c255e093",
+    "k1": "e36ef41669d04dda8568a9670d02bd3f",
+    "k2": "d0bb4d82fa5eab6c4e25dc2bca6ec8c7"
+  },
+  {
     "title": "ATX Open / Grandstand",
     "league": "WTA",
     "fecha-evento": "2026-02-25T13:00:00-05:00",
     "img": "11012e53-4b0e-41f7-b3ae-84c1e1aeb17d",
     "nombre": "disney981e41",
     "status": "13:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 480,
+    "play_url": "https://www.disneyplus.com/es-es/play/e857c223-fa52-447d-802f-356c6a9ee6ea",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1772130034~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F25%2FATX_Open_Grandstand_20260225_1772035227040%2F~psid=0be79846-09eb-4d09-aa52-a7888045c26f~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=fa51540a842edecd0680b6db2f852ed9b67c50b824393a4f67de30f3b930ad20/clt1/va02/disneyplus/event/2026/02/25/ATX_Open_Grandstand_20260225_1772035227040/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=8ed16fa3a730a402275e8eac5002e6236786078f",
+    "k1": "1b36ca00d6354743bbf4a1c512cb0281",
+    "k2": "7841e3be7d75ef522bb1b1cdb18a1b51"
   },
   {
     "title": "ATX Open / Center Court",
@@ -94,8 +97,11 @@
     "img": "9aaef489-f1ac-4f6c-84a1-4ba2246e6131",
     "nombre": "disney439835",
     "status": "13:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 600,
+    "play_url": "https://www.disneyplus.com/es-es/play/5b140ff1-9ab0-4d46-a44a-8fd19ce74978",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1772130080~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F25%2FATX_Open_Center_Court_20260225_1772035252036%2F~psid=735924a3-ccaf-4236-b463-9a5720498a93~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=85db6121bdc921df261feab2caee46112786bdee311ba2d2c7b1e590288b0380/clt1/va02/disneyplus/event/2026/02/25/ATX_Open_Center_Court_20260225_1772035252036/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=b20350f28387f9652acdeb0383e3e15cbf70c0a0",
+    "k1": "b5ade88f9b3d4524ae6a48b4f6f4d29a",
+    "k2": "d44dfcbf42e8e6836d922c9c6aca253b"
   },
   {
     "title": "Juventus FC vs. Galatasaray",
