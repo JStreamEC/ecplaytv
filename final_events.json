@@ -13,19 +13,6 @@
     "k2": "b764a99bb460eb44a6732a3354ab316d"
   },
   {
-    "title": "Abierto Mexicano Telcel presentado por HSBC / Cancha 2",
-    "league": "ATP",
-    "fecha-evento": "2026-02-24T19:00:00-05:00",
-    "img": "01f08e21-864d-4ff3-a039-eea13a082e42",
-    "nombre": "disney54f43f",
-    "status": "19:00",
-    "duration": 360,
-    "play_url": "https://www.disneyplus.com/es-es/play/8653fab9-06c6-4645-a9a0-730e097ec200",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1772065341~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F25%2FAbierto_Mexicano_Telcel_p_20260225_1771970442020%2F~psid=84ede102-ffe9-45d6-860e-fcf3b084f8f3~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=2aab9a92c4c213eafcb8b51d25043d6ea12431a0166bee2ffc9414317a75306e/clt1/va02/disneyplus/event/2026/02/25/Abierto_Mexicano_Telcel_p_20260225_1771970442020/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=295da110112c20d2a3df5ab1e252d2fc9effa56a",
-    "k1": "c69f62ccae2c4651b2af7a27d8b52e44",
-    "k2": "f5c3db66a10879d3e9d018a66d4f96ae"
-  },
-  {
     "title": "Independiente de Medellín (COL) vs. Liverpool (URU)",
     "league": "CONMEBOL Libertadores",
     "fecha-evento": "2026-02-24T19:00:00-05:00",
@@ -177,6 +164,19 @@
     "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1772067745~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F25%2FGimnasia_y_Esgrima_MZA_vs_20260225_1771973448017%2F~psid=0ebfb863-1816-41fb-8698-2dd78a25dc2f~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=e850ee2d3cc3fc46977d29424d560136703943935f629b7fc15823552f6bba7a/clt1/va02/disneyplus/event/2026/02/25/Gimnasia_y_Esgrima_MZA_vs_20260225_1771973448017/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=8e1420962ec927635f4eca592d71ed8bee94a5b4",
     "k1": "aef4cbcab87044e4b1d2c875ad632037",
     "k2": "21d14f0965d6cfdb58c155091a87b2e2"
+  },
+  {
+    "title": "Abierto Mexicano Telcel presentado por HSBC / Cancha 2",
+    "league": "ATP",
+    "fecha-evento": "2026-02-24T19:00:00-05:00",
+    "img": "01f08e21-864d-4ff3-a039-eea13a082e42",
+    "nombre": "disney54f43f",
+    "status": "19:00",
+    "duration": 360,
+    "play_url": "https://www.disneyplus.com/es-es/play/8653fab9-06c6-4645-a9a0-730e097ec200",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1772065341~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F25%2FAbierto_Mexicano_Telcel_p_20260225_1771970442020%2F~psid=84ede102-ffe9-45d6-860e-fcf3b084f8f3~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=2aab9a92c4c213eafcb8b51d25043d6ea12431a0166bee2ffc9414317a75306e/clt1/va02/disneyplus/event/2026/02/25/Abierto_Mexicano_Telcel_p_20260225_1771970442020/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=295da110112c20d2a3df5ab1e252d2fc9effa56a",
+    "k1": "c69f62ccae2c4651b2af7a27d8b52e44",
+    "k2": "f5c3db66a10879d3e9d018a66d4f96ae"
   },
   {
     "title": "Greensboro Swarm vs. Memphis Hustle",
@@ -375,7 +375,7 @@
     "title": "Bci Seguros Chile Open (Segunda Ronda)",
     "league": "ATP",
     "fecha-evento": "2026-02-25T11:00:00-05:00",
-    "img": "b33a0abd-ef75-4841-a3b0-b7c750cc5418",
+    "img": "019c9265-3928-7699-932f-cfc3c3ce1f57",
     "nombre": "disneyd1d318",
     "status": "11:00",
     "duration": 135,
@@ -542,6 +542,16 @@
     "play_url": ""
   },
   {
+    "title": "Mérida | WTA 500 / Cancha 1 (Doubles)",
+    "league": "WTA",
+    "fecha-evento": "2026-02-25T15:00:00-05:00",
+    "img": "019c877a-96dd-75ad-8995-5a94c8a220f5",
+    "nombre": "disneya98560",
+    "status": "15:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
     "title": "Puerto Rico vs. Bonaire",
     "league": "Concacaf Women's Under-20 Championship",
     "fecha-evento": "2026-02-25T15:50:00-05:00",
@@ -647,16 +657,6 @@
     "fecha-evento": "2026-02-25T18:30:00-05:00",
     "img": "38d85d84-de49-4659-8201-6283b6d4b3a9",
     "nombre": "disneyb8d6e9",
-    "status": "18:30",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Akron vs. Ball State",
-    "league": "Básquet Femenino NCAA",
-    "fecha-evento": "2026-02-25T18:30:00-05:00",
-    "img": "019c1fe1-a057-7133-aab5-f8d8d1061844",
-    "nombre": "disney4a5710",
     "status": "18:30",
     "duration": 135,
     "play_url": ""
