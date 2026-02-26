@@ -49,19 +49,6 @@
     "k2": "30fb8b5ec91aa1dab6afd7645199625a"
   },
   {
-    "title": "ATX Open / Grandstand (Doubles Quarterfinals)",
-    "league": "WTA",
-    "fecha-evento": "2026-02-26T15:00:08-05:00",
-    "img": "11012e53-4b0e-41f7-b3ae-84c1e1aeb17d",
-    "nombre": "disneyf7db55",
-    "status": "15:00",
-    "duration": 240,
-    "play_url": "https://www.disneyplus.com/es-es/play/073382c7-fd01-441e-b219-74de78f3dde7",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1772233361~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F26%2FATX_Open_Grandstand_Doubl_20260226_1772128839039%2F~psid=16f53c65-cfd4-4a2b-bc93-f4c164a5484d~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=5f798a4af2cf5ff0cebce2f58a96a04438b3f7b0fb535ff035eb3cb9a300e8d0/clt1/va02/disneyplus/event/2026/02/26/ATX_Open_Grandstand_Doubl_20260226_1772128839039/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=e30ffab20e6974aa12a60811b2cd3f191ba50235",
-    "k1": "0ba9a75439d64101bb2519a66a1501d5",
-    "k2": "7a539a0bff62bad662dd4e30ea16ca62"
-  },
-  {
     "title": "California Baptist vs. San Francisco",
     "league": "NCAA Beisbol",
     "fecha-evento": "2026-02-26T16:00:00-05:00",
@@ -166,26 +153,6 @@
     "k2": "ee64d08a4fd2f0fc729968346747072e"
   },
   {
-    "title": "Tampa Bay Lightning vs. Carolina Hurricanes",
-    "league": "National Hockey League",
-    "fecha-evento": "2026-02-26T19:00:00-05:00",
-    "img": "a7ba62dc-7181-41cf-8ad4-0ef4f49cdb32",
-    "nombre": "disney59cae6",
-    "status": "19:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Eclipse vs. Glow (Game 21)",
-    "league": "Athletes Unlimited Basketball",
-    "fecha-evento": "2026-02-26T18:30:00-05:00",
-    "img": "38d85d84-de49-4659-8201-6283b6d4b3a9",
-    "nombre": "disney541ce7",
-    "status": "18:30",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Columbus Blue Jackets vs. Boston Bruins",
     "league": "National Hockey League",
     "fecha-evento": "2026-02-26T19:00:00-05:00",
@@ -204,6 +171,42 @@
     "status": "19:00",
     "duration": 135,
     "play_url": ""
+  },
+  {
+    "title": "Eclipse vs. Glow (Game 21)",
+    "league": "Athletes Unlimited Basketball",
+    "fecha-evento": "2026-02-26T18:30:03-05:00",
+    "img": "38d85d84-de49-4659-8201-6283b6d4b3a9",
+    "nombre": "disney72e37b",
+    "status": "18:30",
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/22dfc37b-2bf7-480d-b53d-95ed40b97d0c",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1772235639~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F26%2FEclipse_vs_Glow_Game_21_20260226_1772141427018%2F~psid=eb145913-4b21-4c99-b940-ff23f739d230~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=a33a447cc1d1e3a7c7f25d8ddcdb2aaa59a6bdd7921a5bb05b6d5b1d74e436dd/clt1/va02/disneyplus/event/2026/02/26/Eclipse_vs_Glow_Game_21_20260226_1772141427018/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=d36557d4b6ba7e20fdb31e2b1c42d3c01a14ba9a",
+    "k1": "411ef64d278447fe9f6306355bea1fe3",
+    "k2": "effe63d80c9c1a5f5f2222e8616f4fba"
+  },
+  {
+    "title": "Tampa Bay Lightning vs. Carolina Hurricanes",
+    "league": "National Hockey League",
+    "fecha-evento": "2026-02-26T19:00:00-05:00",
+    "img": "a7ba62dc-7181-41cf-8ad4-0ef4f49cdb32",
+    "nombre": "disney59cae6",
+    "status": "19:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Toronto Maple Leafs vs. Florida Panthers",
+    "league": "National Hockey League",
+    "fecha-evento": "2026-02-26T18:30:15-05:00",
+    "img": "019a9990-e32c-7e0e-8ab9-45dabe161ce1",
+    "nombre": "disneybb4891",
+    "status": "18:30",
+    "duration": 240,
+    "play_url": "https://www.disneyplus.com/es-es/play/0bb69cf4-b2f4-4596-bb54-d8265b6ab6a7",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1772235685~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F27%2FToronto_Maple_Leafs_vs_Fl_20260227_1772143214029%2F~psid=d932a055-db3d-47a5-b3b9-44989f047e1b~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=87b3af94f20457805e89c257e6714f2e1f7e199f983b9cfa76fe6cd422f03cc1/clt1/va02/disneyplus/event/2026/02/27/Toronto_Maple_Leafs_vs_Fl_20260227_1772143214029/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=25909bbbc8134e3f2bad21d7bb98264d1ff61a4a",
+    "k1": "b20f9c6b8a5448099001de360c566c86",
+    "k2": "f2a4b127bfc93c3fe86da14776edf51a"
   },
   {
     "title": "Inter Miami CF vs. Independiente del Valle",
@@ -291,16 +294,6 @@
     "fecha-evento": "2026-02-26T19:00:00-05:00",
     "img": "212a55e4-0b8d-4c37-9a4d-87e750e8ba85",
     "nombre": "disneyb32dc6",
-    "status": "19:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Toronto Maple Leafs vs. Florida Panthers",
-    "league": "National Hockey League",
-    "fecha-evento": "2026-02-26T19:00:00-05:00",
-    "img": "019a9990-e32c-7e0e-8ab9-45dabe161ce1",
-    "nombre": "disney2f44e5",
     "status": "19:00",
     "duration": 135,
     "play_url": ""
@@ -652,6 +645,16 @@
     "img": "019c10cd-4957-7278-8065-dd03459df764",
     "nombre": "disney6e2b5a",
     "status": "22:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "PT Grand Prix of Thailand - Free Practice 1 (MotoGP)",
+    "league": "MotoGP",
+    "fecha-evento": "2026-02-26T22:35:00-05:00",
+    "img": "019c783b-6798-7fd2-8657-79206a2e1d1e",
+    "nombre": "disney2732b9",
+    "status": "22:35",
     "duration": 135,
     "play_url": ""
   }
