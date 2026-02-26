@@ -13,19 +13,6 @@
     "k2": "d44dfcbf42e8e6836d922c9c6aca253b"
   },
   {
-    "title": "ATX Open / Grandstand",
-    "league": "WTA",
-    "fecha-evento": "2026-02-25T13:00:00-05:00",
-    "img": "11012e53-4b0e-41f7-b3ae-84c1e1aeb17d",
-    "nombre": "disney981e41",
-    "status": "13:00",
-    "duration": 480,
-    "play_url": "https://www.disneyplus.com/es-es/play/e857c223-fa52-447d-802f-356c6a9ee6ea",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1772130034~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F25%2FATX_Open_Grandstand_20260225_1772035227040%2F~psid=0be79846-09eb-4d09-aa52-a7888045c26f~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=fa51540a842edecd0680b6db2f852ed9b67c50b824393a4f67de30f3b930ad20/clt1/va02/disneyplus/event/2026/02/25/ATX_Open_Grandstand_20260225_1772035227040/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=8ed16fa3a730a402275e8eac5002e6236786078f",
-    "k1": "1b36ca00d6354743bbf4a1c512cb0281",
-    "k2": "7841e3be7d75ef522bb1b1cdb18a1b51"
-  },
-  {
     "title": "Mérida | WTA 500 (Segunda Ronda)",
     "league": "WTA",
     "fecha-evento": "2026-02-25T15:00:03-05:00",
@@ -179,24 +166,30 @@
     "k2": "2e5f0006a08d8658224c25829fbb68f0"
   },
   {
-    "title": "Turks & Caicos Islands vs. Jamaica",
-    "league": "Concacaf Women's Under-20 Championship",
-    "fecha-evento": "2026-02-25T18:50:00-05:00",
-    "img": "019c6d7c-1772-7e14-94c3-b8f685915a5b",
-    "nombre": "disney2ebbef",
-    "status": "18:50",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "FC Cincinnati vs. O&M FC (First Round, Second Leg)",
     "league": "CONCACAF Liga Campeones",
-    "fecha-evento": "2026-02-25T18:50:00-05:00",
+    "fecha-evento": "2026-02-25T18:50:02-05:00",
     "img": "019c4818-bf51-7c3c-b85c-a5081bc4f54b",
-    "nombre": "disney8a0c20",
+    "nombre": "disney623b3d",
     "status": "18:50",
-    "duration": 135,
-    "play_url": ""
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/5db186da-4cb4-4139-87f3-f00bd30772a7",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1772150438~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F25%2FFC_Cincinnati_vs_OM_FC_Fi_20260225_1772056218029%2F~psid=640605c9-ad53-4cce-80db-4d566d6a928d~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=e73e0a8c768516ce235fc8e0ed5895c89ddf333cf1d469936cce1553a74637b3/clt1/va02/disneyplus/event/2026/02/25/FC_Cincinnati_vs_OM_FC_Fi_20260225_1772056218029/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=e71d001c1995d9685658914e2b6e87c38fc1cf8b",
+    "k1": "d5ca8d803e9a4708950d4cd867f51654",
+    "k2": "cb03e67d4f9387ced5c5ee1310ade4e3"
+  },
+  {
+    "title": "Turks & Caicos Islands vs. Jamaica",
+    "league": "Concacaf Women's Under-20 Championship",
+    "fecha-evento": "2026-02-25T18:50:05-05:00",
+    "img": "019c6d7c-1772-7e14-94c3-b8f685915a5b",
+    "nombre": "disneydb6907",
+    "status": "18:50",
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/62fb44b3-d583-44bd-bbe8-f284b75ed7ba",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1772150485~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F25%2FTurks_Caicos_Islands_vs_J_20260225_1772056246026%2F~psid=03c02042-475b-4711-b815-7f5c98d0dc90~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=e8345f9aeedbf6e10697f38a14d554ce3606b1f18f83d747e594658bedc771e8/clt1/va02/disneyplus/event/2026/02/25/Turks_Caicos_Islands_vs_J_20260225_1772056246026/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=c7fe1fb1045a7155012d9ea854d8a76e342aeba4",
+    "k1": "fb0a543c08d7401ea72cf1cd241639e3",
+    "k2": "b2a3e304acc09f83ba7430bbd99927fc"
   },
   {
     "title": "Abierto Mexicano Telcel presentado por HSBC (Segunda Ronda)",
@@ -205,8 +198,11 @@
     "img": "019c950b-a9d6-7e5b-bee4-5f8a430413b9",
     "nombre": "disney0bc852",
     "status": "18:55",
-    "duration": 135,
-    "play_url": ""
+    "duration": 185,
+    "play_url": "https://www.disneyplus.com/es-es/play/7eac411e-a95a-4996-b52c-54cfcfe5419b",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1772150532~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F25%2FAbierto_Mexicano_Telcel_p_20260225_1772056503028%2F~psid=ed80186d-7c8e-4fe4-938f-ad1fc890660f~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=ec09828c2d50f3e0b256fc7f1ff71c27bf9df424c0d9a0807d93f31daa141443/clt1/va02/disneyplus/event/2026/02/25/Abierto_Mexicano_Telcel_p_20260225_1772056503028/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=d69e159d1323e7d855033d361144c2811d88b14f",
+    "k1": "ed29c43f2f5a4c12a2f35bffd957aa03",
+    "k2": "0337f2fb1ee471f2a51f813718a24fdb"
   },
   {
     "title": "Argentinos Juniors (ARG) vs. Barcelona (ECU)",
@@ -612,7 +608,7 @@
     "title": "Dubai Duty Free Tennis Championship (Cuartos de Final)",
     "league": "ATP",
     "fecha-evento": "2026-02-26T05:00:00-05:00",
-    "img": "019c96c7-10a0-7418-9ed9-bd0c2b14cafd",
+    "img": "019c9734-a3d8-7be6-ad8a-5c39bd157c52",
     "nombre": "disney91e62e",
     "status": "05:00",
     "duration": 135,
@@ -645,6 +641,16 @@
     "img": "019c76f6-1544-7137-a155-b0b2f85043e8",
     "nombre": "disneya885bc",
     "status": "08:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Bci Seguros Chile Open (Segunda Ronda)",
+    "league": "ATP",
+    "fecha-evento": "2026-02-26T11:00:00-05:00",
+    "img": "019c96fe-4f9c-7480-8978-fd2a4fdd9a10",
+    "nombre": "disneycbc45f",
+    "status": "11:00",
     "duration": 135,
     "play_url": ""
   }
