@@ -10,32 +10,6 @@
     "play_url": "https://www.disneyplus.com/es-es/play/0f20721a-37c5-45c7-9ab6-d17552898707"
   },
   {
-    "title": "Bci Seguros Chile Open (Segunda Ronda)",
-    "league": "ATP",
-    "fecha-evento": "2026-02-26T11:00:06-05:00",
-    "img": "019c96fe-4f9c-7480-8978-fd2a4fdd9a10",
-    "nombre": "disneyf52dd1",
-    "status": "11:00",
-    "duration": 240,
-    "play_url": "https://www.disneyplus.com/es-es/play/bea049da-d047-4d63-9207-f8eaf518aa55",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1772209237~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F26%2FBci_Seguros_Chile_Open_Se_20260226_1772114401034%2F~psid=3afaca78-6b88-410c-8633-2b4d988a84c7~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=df44a8b2e8dd9a626a04b6f4457823ad0f75c20187f7806d7635b74212669196/clt1/va02/disneyplus/event/2026/02/26/Bci_Seguros_Chile_Open_Se_20260226_1772114401034/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=1567d9dc3b5bc92a000cd8e4b4ad5896903919c9",
-    "k1": "2b0a297f120246809fada083331d4159",
-    "k2": "82c486a9fa9dece72f6927fd5d67c847"
-  },
-  {
-    "title": "Anastasia Zakharova vs. Ashlyn Krueger (USA)",
-    "league": "WTA",
-    "fecha-evento": "2026-02-26T12:00:28-05:00",
-    "img": "9aaef489-f1ac-4f6c-84a1-4ba2246e6131",
-    "nombre": "disney03b317",
-    "status": "12:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/ec27a0ba-31c9-42a6-ada3-87c5095e141b",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1772212845~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F26%2FAnastasia_Zakharova_vs_As_20260226_1772118017042%2F~psid=655c555a-11c2-4f7c-8121-ff43b11a22a9~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=a1c894bc980c52d4bd07c6759c3025a2b32a7d10a21ba29cd7dc80e22bc5baf5/clt1/va02/disneyplus/event/2026/02/26/Anastasia_Zakharova_vs_As_20260226_1772118017042/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=922027811343dd55f48bb2bb0b8e616452e7ef92",
-    "k1": "34da15d0ee3b4ffcb3c43cb87126ec34",
-    "k2": "6f8267c61f69df8973cc6ba8f30eb996"
-  },
-  {
     "title": "SEC Indoor Track & Field Championships",
     "league": "NCAA Atletismo",
     "fecha-evento": "2026-02-26T12:29:17-05:00",
@@ -184,7 +158,7 @@
     "title": "Mérida | WTA 500 (Segunda Ronda)",
     "league": "WTA",
     "fecha-evento": "2026-02-26T15:00:00-05:00",
-    "img": "019c9b4a-4a49-720a-b375-7021ff83bb95",
+    "img": "019c9b4a-4a53-7e2d-b401-14471f956b15",
     "nombre": "disneyd3288b",
     "status": "15:00",
     "duration": 135,
@@ -627,6 +601,26 @@
     "img": "019c77bb-060b-7ff4-8815-daaee3e18b62",
     "nombre": "disney4ff041",
     "status": "20:55",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Rhythm vs. Gold Rush (Game 22)",
+    "league": "Athletes Unlimited Basketball",
+    "fecha-evento": "2026-02-26T21:00:00-05:00",
+    "img": "38d85d84-de49-4659-8201-6283b6d4b3a9",
+    "nombre": "disney40d837",
+    "status": "21:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Pepperdine vs. Portland",
+    "league": "Básquet Femenino NCAA",
+    "fecha-evento": "2026-02-26T21:00:00-05:00",
+    "img": "5eb00bbd-0ef8-4aa4-90c8-6b245557ad50",
+    "nombre": "disneycbda52",
+    "status": "21:00",
     "duration": 135,
     "play_url": ""
   }
