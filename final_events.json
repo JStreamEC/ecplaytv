@@ -62,16 +62,6 @@
     "k2": "7a539a0bff62bad662dd4e30ea16ca62"
   },
   {
-    "title": "Anguilla vs. Haiti",
-    "league": "Concacaf Women's Under-20 Championship",
-    "fecha-evento": "2026-02-26T15:50:14-05:00",
-    "img": "019c6d84-3656-7a6b-b5f3-ec7af7e3d3ef",
-    "nombre": "disneydcb12a",
-    "status": "15:50",
-    "duration": 135,
-    "play_url": "https://www.disneyplus.com/es-es/play/eb7926b1-b67c-4422-9d40-1d057286e2f2"
-  },
-  {
     "title": "California Baptist vs. San Francisco",
     "league": "NCAA Beisbol",
     "fecha-evento": "2026-02-26T16:00:00-05:00",
@@ -165,12 +155,15 @@
   {
     "title": "Tennessee vs. #6 LSU",
     "league": "Básquet Femenino NCAA",
-    "fecha-evento": "2026-02-26T18:00:00-05:00",
+    "fecha-evento": "2026-02-26T18:00:04-05:00",
     "img": "019c10cf-62de-7de8-9615-c4d1bdf7e1a7",
-    "nombre": "disney5703cf",
+    "nombre": "disneyfcf9ff",
     "status": "18:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/97fed601-bc34-4c95-a7d3-2a1f9f781cc5",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1772234438~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F26%2FTennessee_vs_6_LSU_20260226_1772139601024%2F~psid=0afc7ef5-a521-4c0b-8e61-63d837ac697d~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=b4934e1f12dc9ece36a879cc0c8de9541d625eb6ba92fe1f730530fd4fbbcbc6/clt1/va02/disneyplus/event/2026/02/26/Tennessee_vs_6_LSU_20260226_1772139601024/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=54feb948c7df839c618468fbb945b8014db7e6c3",
+    "k1": "5c8dd15c273f44ceb44358be046b015e",
+    "k2": "ee64d08a4fd2f0fc729968346747072e"
   },
   {
     "title": "Tampa Bay Lightning vs. Carolina Hurricanes",
@@ -649,6 +642,16 @@
     "img": "019c9ac9-6831-7639-9b87-3972584d92db",
     "nombre": "disney7dda5a",
     "status": "22:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Edmonton Oilers vs. Los Angeles Kings",
+    "league": "National Hockey League",
+    "fecha-evento": "2026-02-26T22:30:00-05:00",
+    "img": "019c10cd-4957-7278-8065-dd03459df764",
+    "nombre": "disney6e2b5a",
+    "status": "22:30",
     "duration": 135,
     "play_url": ""
   }
