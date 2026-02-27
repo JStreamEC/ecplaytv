@@ -10,32 +10,6 @@
     "play_url": ""
   },
   {
-    "title": "River Plate vs. Banfield",
-    "league": "Liga Profesional de Fútbol",
-    "fecha-evento": "2026-02-26T17:32:00-05:00",
-    "img": "019c9b1f-3a63-75c5-940c-77a44213e331",
-    "nombre": "disneya06e00",
-    "status": "17:32",
-    "duration": 113,
-    "play_url": "https://www.disneyplus.com/es-es/play/0695e190-3a48-449d-9076-88745d781371",
-    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1772238040~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Fbbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1767092609127%2F~psid=d8e189f2-1861-455e-a272-0abb2d9e184e~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=9770f456865d0078b329e9a167d59a7f1fa9bd71b6ba29f23c7bf1dc59b8805b/clt1/va02/disneyplus/channel/bbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1767092609127/ctr-all-sliding-alt1.m3u8?r=1080&v=1&hash=eb3d49e5bd70aee4517206fa38f01931a46eb473",
-    "k1": "85a6fa055987488db96413dd64d91354",
-    "k2": "75d74dcafe45effb02f8912c67a66b15"
-  },
-  {
-    "title": "Tennessee vs. #6 LSU",
-    "league": "Básquet Femenino NCAA",
-    "fecha-evento": "2026-02-26T18:00:04-05:00",
-    "img": "019c10cf-62de-7de8-9615-c4d1bdf7e1a7",
-    "nombre": "disneyfcf9ff",
-    "status": "18:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/97fed601-bc34-4c95-a7d3-2a1f9f781cc5",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1772238088~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F26%2FTennessee_vs_6_LSU_20260226_1772139601024%2F~psid=ff960abc-f75d-4685-8ca9-dcd22acc8b57~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=24cd39424104fc7c269185fdf51bf57af1c33c47ecc568b063876f580888a359/clt1/va02/disneyplus/event/2026/02/26/Tennessee_vs_6_LSU_20260226_1772139601024/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=54feb948c7df839c618468fbb945b8014db7e6c3",
-    "k1": "5c8dd15c273f44ceb44358be046b015e",
-    "k2": "ee64d08a4fd2f0fc729968346747072e"
-  },
-  {
     "title": "Philadelphia Union vs. Defence Force FC (First Round, Second Leg)",
     "league": "CONCACAF Liga Campeones",
     "fecha-evento": "2026-02-26T18:50:00-05:00",
@@ -282,42 +256,54 @@
   {
     "title": "Seattle Kraken vs. St. Louis Blues",
     "league": "National Hockey League",
-    "fecha-evento": "2026-02-26T20:00:00-05:00",
+    "fecha-evento": "2026-02-26T20:00:19-05:00",
     "img": "019c6d3d-0035-7e32-9af0-b35a90587bf2",
-    "nombre": "disney688174",
+    "nombre": "disney6fb331",
     "status": "20:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 210,
+    "play_url": "https://www.disneyplus.com/es-es/play/3e3d82fe-a7cb-456e-99dc-c3cf4bb02e95",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1772240802~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F27%2FSeattle_Kraken_vs_St_Loui_20260227_1772148978464%2F~psid=c8c92670-6323-4ef8-a969-4329485ff00c~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=6fbcbbbe27cc64631d54af51f7611a4cead39558b9e44554994f58c552737137/clt1/va02/disneyplus/event/2026/02/27/Seattle_Kraken_vs_St_Loui_20260227_1772148978464/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=e747ad9ec7c215c0dcdb813528bddce2260e3c62",
+    "k1": "22893fa08e114769ad54427ce90c0371",
+    "k2": "a4b4fdfad04d732b0a755c3c1696bc95"
   },
   {
     "title": "Chicago Blackhawks vs. Nashville Predators",
     "league": "National Hockey League",
-    "fecha-evento": "2026-02-26T20:00:00-05:00",
+    "fecha-evento": "2026-02-26T20:00:18-05:00",
     "img": "019c6d3e-35e4-731b-ae77-1e0fb52cfaa2",
-    "nombre": "disney405ebe",
+    "nombre": "disney55e59c",
     "status": "20:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 210,
+    "play_url": "https://www.disneyplus.com/es-es/play/1f6d349d-a19c-48de-8b08-9f1f1153a147",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1772240855~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F27%2FChicago_Blackhawks_vs_Nas_20260227_1772146846620%2F~psid=40363b40-5ccb-48ed-8a1b-bf06fd47dc6d~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=3c9cf7f7e95ca956fd49559ac6b6a01cac80894d86edc09943eb9576949f8dd6/clt1/va02/disneyplus/event/2026/02/27/Chicago_Blackhawks_vs_Nas_20260227_1772146846620/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=99c187fc1b0fb31c1177b7acdf272a88335046c7",
+    "k1": "0f49d7ea244a4c3caa3276284119b9d0",
+    "k2": "2e1e194ec6102de3172dbf3c8b2f16b6"
   },
   {
     "title": "Nicaragua vs. Martinica",
     "league": "Concacaf Women's Under-20 Championship",
-    "fecha-evento": "2026-02-26T19:50:00-05:00",
+    "fecha-evento": "2026-02-26T19:50:02-05:00",
     "img": "019c6dd1-805c-70fc-83c6-e3c68b716259",
-    "nombre": "disney8fded9",
+    "nombre": "disneyeb2000",
     "status": "19:50",
-    "duration": 135,
-    "play_url": ""
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/dfc7b7ea-6d7c-4637-a547-49ce02ffbb2e",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1772240889~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F27%2FNicaragua_vs_Martinica_20260227_1772146250027%2F~psid=b361b6d5-0589-4a35-9ed8-5615669544d1~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=82cb99f65be9c2d41374c4b3624799a02b037e0b595de57a20a685c6882de2e9/clt1/va02/disneyplus/event/2026/02/27/Nicaragua_vs_Martinica_20260227_1772146250027/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=ec36c86ac0774afddc9b7193aff08ac0625eee09",
+    "k1": "771ed9f4bf6a4230999cec26051ae269",
+    "k2": "549ef9237494f5ce67484c83d6139b95"
   },
   {
     "title": "Charros de Jalisco Softbol vs. Algodoneras del Unión Laguna",
     "league": "Liga Mexicana de Softbol",
-    "fecha-evento": "2026-02-26T19:55:00-05:00",
+    "fecha-evento": "2026-02-26T19:55:01-05:00",
     "img": "019c2987-6807-7f96-822f-f3e637306656",
-    "nombre": "disney3f53da",
+    "nombre": "disneya3dc82",
     "status": "19:55",
-    "duration": 135,
-    "play_url": ""
+    "duration": 185,
+    "play_url": "https://www.disneyplus.com/es-es/play/321bdc37-48a3-4d6e-8cb5-1d16552c7aaf",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1772240923~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F27%2FCharros_de_Jalisco_Softbo_20260227_1772146533027%2F~psid=31d71442-2445-4a4e-a60d-cfbd54d44a9b~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=4ea22ba944ce5c8f4d0ae806cc5cea4f768a4669284e655fa6f71282db170020/clt1/va02/disneyplus/event/2026/02/27/Charros_de_Jalisco_Softbo_20260227_1772146533027/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=0f4b113137f41421f1a3e4f5f4c0f777b209fd49",
+    "k1": "a5596c1a58e641a290c6affa614f9255",
+    "k2": "d8a0f42083fa430d5cb5d0eec2e93a6d"
   },
   {
     "title": "VMI vs. Samford",
@@ -326,8 +312,11 @@
     "img": "019c5984-bd39-71b4-9716-4f46a97d007f",
     "nombre": "disney8d9b6f",
     "status": "20:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/1967c4eb-4f65-45ae-82fe-8345f3c6d770",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1772240956~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F27%2FVMI_vs_Samford_20260227_1772146801044%2F~psid=abc996fa-b2f3-4388-b297-440167dcd0e2~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=13f6f54f7479315a62c0c9eade6331599ea472ab4743606ef4ce4c0148f1ed3d/clt1/va02/disneyplus/event/2026/02/27/VMI_vs_Samford_20260227_1772146801044/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=c60b7c8efddaf6631a7300f55fef60f10fa9db5b",
+    "k1": "89f6d4ca739d412c8d430662af999c8f",
+    "k2": "7111164772ebd9ee33ca3ea4bac0fce5"
   },
   {
     "title": "ATX Open / Center Court (Doubles Quarterfinals)",
@@ -336,18 +325,24 @@
     "img": "9aaef489-f1ac-4f6c-84a1-4ba2246e6131",
     "nombre": "disneyb1f781",
     "status": "20:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 180,
+    "play_url": "https://www.disneyplus.com/es-es/play/b4af2d76-7006-46e1-a8db-a1bab8d91983",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1772240990~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F27%2FATX_Open_Center_Court_Dou_20260227_1772146833028%2F~psid=e53c9445-23bf-4e22-92df-31b8d794a200~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=e7493292e1b188bb879e513e1e0cfbfc553f0b0c69598d381c60300b42f86fcf/clt1/va02/disneyplus/event/2026/02/27/ATX_Open_Center_Court_Dou_20260227_1772146833028/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=b9922bd01ddebb50aad90fca3392c27465c8c769",
+    "k1": "2f8b44680ef74e3f89eeaa560edd56ed",
+    "k2": "a71f203bc69c3c3f7169d69d6f54742f"
   },
   {
     "title": "Wisconsin Herd vs. Memphis Hustle",
     "league": "NBA G League",
-    "fecha-evento": "2026-02-26T20:00:00-05:00",
+    "fecha-evento": "2026-02-26T20:00:05-05:00",
     "img": "019c59ef-68a1-7599-92bc-e15663298a5b",
-    "nombre": "disneyef4baa",
+    "nombre": "disneyc2236f",
     "status": "20:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/3a9daf62-5dd2-4592-a560-c09e57a93352",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1772241026~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F27%2FWisconsin_Herd_vs_Memphis_20260227_1772149624485%2F~psid=521d2cda-e49d-46b7-931c-b6e5334a7ebc~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=1bb4e5406d57b39940b614d3386d1285065cd2eef7535f8b2f68bf200112c218/clt1/va02/disneyplus/event/2026/02/27/Wisconsin_Herd_vs_Memphis_20260227_1772149624485/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=9d293cac5e7ee85906233011a807a933dcd0c59d",
+    "k1": "c1495961956b484197acbd9de8d222b3",
+    "k2": "d59e967638dab4e9aee5cca482c4b932"
   },
   {
     "title": "Abierto Mexicano Telcel presentado por HSBC / Cancha 1 (Doubles Quarterfinals)",
@@ -356,18 +351,24 @@
     "img": "08f8cdf4-187e-4b42-9474-e4955583b3e2",
     "nombre": "disneyfc8ea5",
     "status": "20:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 240,
+    "play_url": "https://www.disneyplus.com/es-es/play/c5d9bf7e-9898-4617-872c-a5ede8965771",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1772241062~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F27%2FAbierto_Mexicano_Telcel_p_20260227_1772146847027%2F~psid=6976e66f-6ca2-4eff-bc41-df52bc4d0f12~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=e2fdc8060624f09eb13f8618d87e50fb2a56e2e2908ac250b145c009533197c5/clt1/va02/disneyplus/event/2026/02/27/Abierto_Mexicano_Telcel_p_20260227_1772146847027/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=c47f924b11a0189dc4030e08224ff7e9c0f0b2f3",
+    "k1": "7dda6c6b909b4fc9a9df06cfd0ddee10",
+    "k2": "b0f18b8143f6925ba81b921b11efe148"
   },
   {
     "title": "Philadelphia Flyers vs. New York Rangers",
     "league": "National Hockey League",
-    "fecha-evento": "2026-02-26T20:00:00-05:00",
+    "fecha-evento": "2026-02-26T19:59:32-05:00",
     "img": "019b290c-6402-70c7-9f5c-3789b2ac2a1b",
-    "nombre": "disneydf7df0",
-    "status": "20:00",
-    "duration": 135,
-    "play_url": ""
+    "nombre": "disney593de8",
+    "status": "19:59",
+    "duration": 150,
+    "play_url": "https://www.disneyplus.com/es-es/play/a5980f3a-5e78-4803-a802-db0b67f05b50",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1772241096~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F27%2FPhiladelphia_Flyers_vs_Ne_20260227_1772146807024%2F~psid=98d92d16-c336-48e8-845b-01e4eb15cdd4~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=f1a55a3f5f0a33f123c81ba50faeab1e25ef2ba03fade80ba3e4d978e702815a/clt1/va02/disneyplus/event/2026/02/27/Philadelphia_Flyers_vs_Ne_20260227_1772146807024/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=c8a2dd1dab8dffc2cb1c4d3ba0f8c6f79cc8fd40",
+    "k1": "efcc2595c1cf45babb4e559351f700d7",
+    "k2": "af1a9c309dbf418f78ee391c7c1fa5ce"
   },
   {
     "title": "Minnesota Wild vs. Colorado Avalanche",
@@ -686,6 +687,26 @@
     "img": "019c72b3-dc86-7702-a721-3b0478ddb630",
     "nombre": "disneyc2d3a1",
     "status": "11:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Fortuna Dusseldorf vs. Vfl Bochum 1848",
+    "league": "Bundesliga 2 de Alemania",
+    "fecha-evento": "2026-02-27T12:25:00-05:00",
+    "img": "019c6180-84aa-7d8d-a39b-8fdd0b8f2185",
+    "nombre": "disney86b2d7",
+    "status": "12:25",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "SG Dynamo Dresden vs. SV Darmstadt 98",
+    "league": "Bundesliga 2 de Alemania",
+    "fecha-evento": "2026-02-27T12:25:00-05:00",
+    "img": "019c617f-8f57-762a-b0e6-75a6473837bf",
+    "nombre": "disneya1a266",
+    "status": "12:25",
     "duration": 135,
     "play_url": ""
   }
