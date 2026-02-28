@@ -88,19 +88,6 @@
     "k2": "3c4675fbd7b07fc3f8c8246e21f35d11"
   },
   {
-    "title": "Chattanooga vs. Mercer",
-    "league": "Básquet Femenino NCAA",
-    "fecha-evento": "2026-02-28T14:00:00-05:00",
-    "img": "019c5987-78b2-7b26-b83c-bb7ac589fbea",
-    "nombre": "disney53e30c",
-    "status": "14:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/002366ef-5453-4f8d-93c6-352ac4f0b5d8",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1772391688~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F28%2FChattanooga_vs_Mercer_20260228_1772298040043%2F~psid=8edee837-8203-4b86-9428-ab243fed88aa~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=65bfc3f452d41dcd31132eed95b9a40ee5e156d8e953c9140735fb1ef10fad5e/clt1/va02/disneyplus/event/2026/02/28/Chattanooga_vs_Mercer_20260228_1772298040043/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=28dc3b21d2f932005b5ccca751e01b4a40f74e3b",
-    "k1": "1242b649c4d84ba7a8147f043b57e842",
-    "k2": "b9f3985614090b0747eb3c2d1b12a795"
-  },
-  {
     "title": "USC vs. Arizona State",
     "league": "NCAA Women's Lacrosse",
     "fecha-evento": "2026-02-28T14:00:04-05:00",
@@ -478,8 +465,11 @@
     "img": "019c8379-bbe4-74b5-bd96-462b0e983397",
     "nombre": "disney956ccb",
     "status": "15:50",
-    "duration": 135,
-    "play_url": ""
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/23d84efe-4e7f-48f9-88e4-9cc024e7ed5f",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1772398894~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F28%2FGuyana_vs_Anguilla_20260228_1772304629037%2F~psid=272d7692-cbfd-4262-b5cf-47301d25ace8~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=154cc9806b15cc59afd8da361620d0e5c6fa1a441feadaf2261ba613a6661f44/clt1/va02/disneyplus/event/2026/02/28/Guyana_vs_Anguilla_20260228_1772304629037/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=11ef4ed277387396432b04b9dbb5ec5c49809931",
+    "k1": "5c4501d2843a4f57b69028b099163bff",
+    "k2": "e415a58e15efec733fd5dc18c22ee180"
   },
   {
     "title": "Texas vs. Texas A&M",
@@ -718,6 +708,16 @@
     "img": "019c72e5-5bc5-707b-a5fe-9158d81faf21",
     "nombre": "disney4496ad",
     "status": "17:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Atlético de San Luis vs. Puebla FC (Jornada 8)",
+    "league": "Liga MX",
+    "fecha-evento": "2026-02-28T17:50:00-05:00",
+    "img": "019c7e20-c844-7a3b-be12-c409da241f12",
+    "nombre": "disney0e7bb6",
+    "status": "17:50",
     "duration": 135,
     "play_url": ""
   }
