@@ -13,19 +13,6 @@
     "k2": "4a2f9ec8d116121ecc403282aba520f1"
   },
   {
-    "title": "Omloop Nieuwsblad 2026",
-    "league": "ESPN",
-    "fecha-evento": "2026-02-28T07:40:14-05:00",
-    "img": "019c4907-9708-7938-8b5b-4b81417f7196",
-    "nombre": "disneyc42fed",
-    "status": "07:40",
-    "duration": 165,
-    "play_url": "https://www.disneyplus.com/es-es/play/29c4f803-2902-4c32-9f09-76b8fea8c9c5",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1772371499~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F28%2FOmloop_Nieuwsblad_2026_20260228_1772275249039%2F~psid=c8aefd9f-8e5c-47ae-94ba-470d799b35a9~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=ce3b76c0073ca5ec8b0b5a6ad5eb174721c54cb6d459d5b4d28423693e57bb03/clt1/va02/disneyplus/event/2026/02/28/Omloop_Nieuwsblad_2026_20260228_1772275249039/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=dedca4e0d00733b285de48c69e37b29deeabe08c",
-    "k1": "eca3daac2d2045f7b0532ed004b4f090",
-    "k2": "fa984768e09dec53781cab116dd305a2"
-  },
-  {
     "title": "Super Saturday: Meydan",
     "league": "ESPN",
     "fecha-evento": "2026-02-28T08:00:08-05:00",
@@ -214,8 +201,11 @@
     "img": "019c6216-4f71-713f-bd9c-0c5092a91671",
     "nombre": "disney9e218b",
     "status": "10:55",
-    "duration": 135,
-    "play_url": ""
+    "duration": 125,
+    "play_url": "https://www.disneyplus.com/es-es/play/b71cf63b-c360-481c-9937-ecb42b99651a",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1772380844~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F28%2FRennes_vs_Toulouse_20260228_1772286937018%2F~psid=a2d5213f-b1ac-46e6-8270-1c94bcdace6f~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=d2a8d374f830be3d65e5650230e9b4a2e9e1d81667a01c0a980a3e6405e9f3b7/clt1/va02/disneyplus/event/2026/02/28/Rennes_vs_Toulouse_20260228_1772286937018/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=ad8ba254c5cc15df0c7aa0fffc77f0fbfe793aca",
+    "k1": "80c5ea044a1545b988561ce17f76da66",
+    "k2": "a45416eb5c2d976e2a9c7deb69950552"
   },
   {
     "title": "Men's Ivy League Championship (Day 4 - Session 1)",
@@ -224,8 +214,11 @@
     "img": "cae07512-17c8-4bd0-8e45-536d7e380bf9",
     "nombre": "disneyed45d5",
     "status": "11:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 240,
+    "play_url": "https://www.disneyplus.com/es-es/play/3b0f942a-976f-4228-bf6f-8e6f60c8d397",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1772380892~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F02%2F28%2FMens_Ivy_League_Champions_20260228_1772287241016%2F~psid=b79848d2-6642-47f1-98f7-4c210e7619a9~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=f7d6349d4da2b417a83133565e3a8c682b4f8da1444378ceb26ba7c4c27d374d/clt1/va02/disneyplus/event/2026/02/28/Mens_Ivy_League_Champions_20260228_1772287241016/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=9560ad6d26fcf80eec35ca334aba1b02b077ad55",
+    "k1": "eeddfafd105c46dd9d9c24dff41b3fc8",
+    "k2": "35b3938e405dc3b697b1b379d50dbaa5"
   },
   {
     "title": "Borussia Dortmund vs. Bayern Munich",
@@ -663,6 +656,16 @@
     "fecha-evento": "2026-02-28T15:00:00-05:00",
     "img": "019bb959-3a7b-7e0b-9ff1-8e2012ffafb0",
     "nombre": "disneydded8b",
+    "status": "15:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Saint Mary's vs. Washington State",
+    "league": "Básquet Femenino NCAA",
+    "fecha-evento": "2026-02-28T15:00:00-05:00",
+    "img": "019c1fe3-85b5-7883-9784-a97159ff7b15",
+    "nombre": "disneybc3454",
     "status": "15:00",
     "duration": 135,
     "play_url": ""
