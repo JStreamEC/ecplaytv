@@ -52,32 +52,6 @@
     "k2": "71ca7ff12fc5a89d349cfa9818e90e9c"
   },
   {
-    "title": "1. FC Magdeburg vs. Karlsruher SC",
-    "league": "Bundesliga 2 de Alemania",
-    "fecha-evento": "2026-03-01T07:20:19-05:00",
-    "img": "019c4e5d-6b16-7987-9855-501c206fd66b",
-    "nombre": "disneyf2e34b",
-    "status": "07:20",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/aec7a924-809f-4c46-b541-3db7fead0955",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1772460186~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F01%2F1_FC_Magdeburg_vs_Karlsru_20260301_1772360723036%2F~psid=3bd3e850-1313-45aa-be26-d84cf5a5fc03~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=9ec1d37db6b667dc79d7dab6aecf5f848e34f02f63dfc2cceacb1e3e9ed90bb3/clt1/va02/disneyplus/event/2026/03/01/1_FC_Magdeburg_vs_Karlsru_20260301_1772360723036/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=a4f24547d33256630f13cb83b4f2781e9b565363",
-    "k1": "2bcf51b09a7b4233ac5ce2f6206ae284",
-    "k2": "3bc3e2235868a9cc5adcb08637429217"
-  },
-  {
-    "title": "Eintracht Braunschweig vs. Preußen Münster",
-    "league": "Bundesliga 2 de Alemania",
-    "fecha-evento": "2026-03-01T07:25:48-05:00",
-    "img": "019c4e5b-ff8a-7e15-b9b7-3853ca423fed",
-    "nombre": "disneyd94c76",
-    "status": "07:25",
-    "duration": 124,
-    "play_url": "https://www.disneyplus.com/es-es/play/e7b535bd-1c71-4c88-b839-203df8fa1124",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1772460212~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F01%2FEintracht_Braunschweig_vs_20260301_1772360714016%2F~psid=c17dd9e6-0eed-4074-85f4-2f3bda1a6bea~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=b7906d2587266dec213bd29eaffd5e7383bce6e9e0f0bcf2558e755a1075ccb1/clt1/va02/disneyplus/event/2026/03/01/Eintracht_Braunschweig_vs_20260301_1772360714016/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=dcb40605f4b269dcb252bff6e2438f20e07bfa92",
-    "k1": "3681816e16df4d2099b003eb653d5404",
-    "k2": "c969994d76bab5d9f82d0a90b093a915"
-  },
-  {
     "title": "Real Sociedad B vs. Deportivo La Coruña",
     "league": "Segunda División de España",
     "fecha-evento": "2026-03-01T07:30:30-05:00",
@@ -674,6 +648,26 @@
     "img": "019c7304-1991-7ef8-921f-a048f6d535e9",
     "nombre": "disneybc768e",
     "status": "15:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Nacional vs. Peñarol",
+    "league": "Campeonato Uruguayo",
+    "fecha-evento": "2026-03-01T16:00:00-05:00",
+    "img": "019c72e1-83df-747c-819a-460e3c515df6",
+    "nombre": "disney2b91c3",
+    "status": "16:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "St. Louis Blues vs. Minnesota Wild",
+    "league": "National Hockey League",
+    "fecha-evento": "2026-03-01T17:00:00-05:00",
+    "img": "019c6c61-234f-7cbc-8ff3-29c8d8bf9ddd",
+    "nombre": "disney52dc7f",
+    "status": "17:00",
     "duration": 135,
     "play_url": ""
   }
