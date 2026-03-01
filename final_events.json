@@ -156,19 +156,6 @@
     "k2": "dc86f778acd6819250e72e6e9b1f64b4"
   },
   {
-    "title": "Brighton & Hove Albion vs. Nottingham Forest",
-    "league": "Premier League",
-    "fecha-evento": "2026-03-01T08:50:00-05:00",
-    "img": "019c765d-fe2f-70d9-bd97-1e9b143fef90",
-    "nombre": "disney70a884",
-    "status": "08:50",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/8c525915-e7dc-4aeb-b389-99894211e922",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1772460397~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F01%2FBrighton_Hove_Albion_vs_N_20260301_1772365807030%2F~psid=6abe236b-e458-49eb-9606-39d0b81672d8~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=451f657a561cfcfa99c30fff655cdbe090aa03db08f8cc56622f5f19d9244404/clt1/va02/disneyplus/event/2026/03/01/Brighton_Hove_Albion_vs_N_20260301_1772365807030/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=39413f24e4a3a0d37cfcc7abbcfc4007f19da95a",
-    "k1": "6152f06f650c481e9e6ef349943420d4",
-    "k2": "b59a5161d46a42cf7104e7aee340ec84"
-  },
-  {
     "title": "Paris FC vs. Nice",
     "league": "Ligue 1",
     "fecha-evento": "2026-03-01T08:50:00-05:00",
@@ -182,14 +169,30 @@
     "k2": "8131db26242d74ba08d519e933157284"
   },
   {
+    "title": "Brighton & Hove Albion vs. Nottingham Forest",
+    "league": "Premier League",
+    "fecha-evento": "2026-03-01T08:50:00-05:00",
+    "img": "019c765d-fe2f-70d9-bd97-1e9b143fef90",
+    "nombre": "disney70a884",
+    "status": "08:50",
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/8c525915-e7dc-4aeb-b389-99894211e922",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1772460397~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F01%2FBrighton_Hove_Albion_vs_N_20260301_1772365807030%2F~psid=6abe236b-e458-49eb-9606-39d0b81672d8~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=451f657a561cfcfa99c30fff655cdbe090aa03db08f8cc56622f5f19d9244404/clt1/va02/disneyplus/event/2026/03/01/Brighton_Hove_Albion_vs_N_20260301_1772365807030/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=39413f24e4a3a0d37cfcc7abbcfc4007f19da95a",
+    "k1": "6152f06f650c481e9e6ef349943420d4",
+    "k2": "b59a5161d46a42cf7104e7aee340ec84"
+  },
+  {
     "title": "Streets of St. Petersburg (Warm-Up)",
     "league": "IndyCar Series",
-    "fecha-evento": "2026-03-01T09:00:00-05:00",
+    "fecha-evento": "2026-03-01T09:00:02-05:00",
     "img": "019c776a-6d22-7a27-b0bf-3cece68a819f",
-    "nombre": "disneye5d39f",
+    "nombre": "disneyfa85a3",
     "status": "09:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 60,
+    "play_url": "https://www.disneyplus.com/es-es/play/7618f685-da6f-4d65-8fcf-609d3d672f1f",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1772461236~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F01%2FStreets_of_St_Petersburg__20260301_1772366413044%2F~psid=87020860-3c62-4e1d-8c98-42ae82397d70~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=efc9835cb53f746c61ef2b0c57bb2a547a495ca9e0707a5161d245ade21d569a/clt1/va02/disneyplus/event/2026/03/01/Streets_of_St_Petersburg__20260301_1772366413044/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=85c82acb2d7565714f7d351e0d4169a91a9bd160",
+    "k1": "749c5c6f64674f1e99628a5d27ce610b",
+    "k2": "34eddbb312c85154530f78e63fda3c8a"
   },
   {
     "title": "Stuttgart vs. Wolfsburg",
@@ -198,8 +201,11 @@
     "img": "019c61a6-a87d-7ae2-b592-be0e107cb24d",
     "nombre": "disney0f21ec",
     "status": "09:20",
-    "duration": 135,
-    "play_url": ""
+    "duration": 125,
+    "play_url": "https://www.disneyplus.com/es-es/play/5177f454-c2c6-4a75-b594-38233e6a06a1",
+    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1772461283~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F7f9052ce-8143-43a6-9656-a8c00c4a3e56-1762950862652%2F~psid=6a018793-4eb2-438b-a2ca-2276fef717c5~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=d9fcd7d3182d8b69ca69158d1709b36956946abfbc6c83dd5b9a4764f13d2133/clt1/va02/disneyplus/channel/7f9052ce-8143-43a6-9656-a8c00c4a3e56-1762950862652/ctr-all-sliding-alt1.m3u8?r=1080&v=1&hash=93c6f867d6b0e1eff3a6058e467797dcf0b66917",
+    "k1": "9125287896a74b2d942309480dc5887c",
+    "k2": "f078c548dc1a0e7e3ba9e933e3913004"
   },
   {
     "title": "Streets of St. Petersburg",
