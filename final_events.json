@@ -183,16 +183,6 @@
     "play_url": ""
   },
   {
-    "title": "Arsenal vs. Chelsea",
-    "league": "Premier League",
-    "fecha-evento": "2026-03-01T11:20:00-05:00",
-    "img": "019c72e0-af7d-7a2d-8372-4cd7afc87cfe",
-    "nombre": "disneyfc631b",
-    "status": "11:20",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Torino vs. Lazio",
     "league": "Seria A",
     "fecha-evento": "2026-03-01T11:40:00-05:00",
@@ -659,6 +649,16 @@
     "img": "019ca96a-fffd-79d2-b393-218d35ad56ed",
     "nombre": "disneyfc3123",
     "status": "17:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Vancouver Warriors vs. San Diego Seals",
+    "league": "National Lacrosse League",
+    "fecha-evento": "2026-03-01T18:00:00-05:00",
+    "img": "4db29228-b08c-41f8-9ae7-89a7ea9d7fb2",
+    "nombre": "disney796b3b",
+    "status": "18:00",
     "duration": 135,
     "play_url": ""
   }
