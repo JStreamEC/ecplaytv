@@ -156,34 +156,17 @@
     "k2": "6bda71138f6f9ffe14444a4daca4ae2d"
   },
   {
-    "title": "Betis vs. Sevilla",
-    "league": "LALIGA",
-    "fecha-evento": "2026-03-01T12:20:00-05:00",
-    "img": "019c72e2-7897-721e-b6b3-d6d40a839a28",
-    "nombre": "disney6d0214",
-    "status": "12:20",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Kennesaw State vs. Wofford",
     "league": "NCAA Women's Lacrosse",
     "fecha-evento": "2026-03-01T12:00:00-05:00",
     "img": "019c6977-4d08-70cf-a788-c83e4b3a6fe3",
     "nombre": "disneye30947",
     "status": "12:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "IndyCar: Streets of St. Petersburg",
-    "league": "IndyCar Series",
-    "fecha-evento": "2026-03-01T12:00:00-05:00",
-    "img": "019c7790-f5c5-72b5-b0cb-b0b34ed9b20a",
-    "nombre": "disneyc5413a",
-    "status": "12:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/216958dc-40c5-44d6-9d83-6f42efdaac88",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1772472041~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F01%2FKennesaw_State_vs_Wofford_20260301_1772377245045%2F~psid=02a7a79b-e85d-4e38-8a9f-5a3eccddf7c3~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=ae06c91a786d4ed357767b684d6cef2157c56aed4f97060a28e37c1dced2d42f/clt1/va02/disneyplus/event/2026/03/01/Kennesaw_State_vs_Wofford_20260301_1772377245045/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=01e3d213fc27d1c2996b691763e6c5f32d1bafc2",
+    "k1": "d149a08e952541809a8e7753c7f361e7",
+    "k2": "a00549c13593d036011bb59e68b5eeac"
   },
   {
     "title": "Mount St. Mary's vs. Cincinnati",
@@ -192,6 +175,32 @@
     "img": "019c5400-03fa-71b4-b089-48badcee9f13",
     "nombre": "disneyacf8d4",
     "status": "12:00",
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/b18af36a-65a1-42ea-983b-b7a4d300acbd",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1772472089~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F01%2FMount_St_Marys_vs_Cincinn_20260301_1772377217041%2F~psid=d5555a5d-0772-45d1-9b7c-224ddcc050ec~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=8ccc643c531f4c1a843b140c5c6a5af023f8f0f6b78ec3f275a948f6dbda00de/clt1/va02/disneyplus/event/2026/03/01/Mount_St_Marys_vs_Cincinn_20260301_1772377217041/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=6af50e90c8b7c2ba6c052bbda6e8a161427f8863",
+    "k1": "c4a9548e6e174b7588d1d5bf7b810ef0",
+    "k2": "48f3826de9a73a613f896f005761cf2d"
+  },
+  {
+    "title": "IndyCar: Streets of St. Petersburg",
+    "league": "IndyCar Series",
+    "fecha-evento": "2026-03-01T12:00:00-05:00",
+    "img": "019c7790-f5c5-72b5-b0cb-b0b34ed9b20a",
+    "nombre": "disneyc5413a",
+    "status": "12:00",
+    "duration": 150,
+    "play_url": "https://www.disneyplus.com/es-es/play/f8b3af42-9061-4a02-8c4c-bf78eeba3eec",
+    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1772472136~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Fec26a05e-a9cc-4db4-804e-77465738e667-1771235129410%2F~psid=52c75e22-1643-4603-a3ed-2bad1ed9abbb~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=9ee0dd257eda1b12f404e4624551696ea075ca3b6f66eba6923ab1f2fe857a95/clt1/va02/disneyplus/channel/ec26a05e-a9cc-4db4-804e-77465738e667-1771235129410/ctr-all-sliding-alt1.m3u8?r=1080&v=1&hash=207573fc35554458b85429cbcf2e59459731ed02",
+    "k1": "0f2bc5d5b69148ea9cf753f07e6e64bf",
+    "k2": "8131db26242d74ba08d519e933157284"
+  },
+  {
+    "title": "Betis vs. Sevilla",
+    "league": "LALIGA",
+    "fecha-evento": "2026-03-01T12:20:00-05:00",
+    "img": "019c72e2-7897-721e-b6b3-d6d40a839a28",
+    "nombre": "disney6d0214",
+    "status": "12:20",
     "duration": 135,
     "play_url": ""
   },
