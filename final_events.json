@@ -13,32 +13,6 @@
     "k2": "03716d5e2ce4fcee3391000e9a4ce799"
   },
   {
-    "title": "India vs. West Indies",
-    "league": "ICC Men's T20 World Cup",
-    "fecha-evento": "2026-03-01T08:17:55-05:00",
-    "img": "019c76ee-e2cb-7521-9d45-f4f2bc87f43d",
-    "nombre": "disney0c4adc",
-    "status": "08:17",
-    "duration": 222,
-    "play_url": "https://www.disneyplus.com/es-es/play/54cf57d0-c036-47a9-873f-5f7b6ec7f282",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1772460317~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F01%2FIndia_vs_West_Indies_20260301_1772362806036%2F~psid=a7f2be91-8c6c-4608-a550-89a98780abf0~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=3a38aad12e6381e6fe5c348b62604fa361b1505ccb09c94211414d8dd4f6fa56/clt1/va02/disneyplus/event/2026/03/01/India_vs_West_Indies_20260301_1772362806036/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=40e089f3d992f437a5dd4f17144c7d8b266cef76",
-    "k1": "6ff4f34ed00b4746bde0b15b54b990ac",
-    "k2": "d3db5b3b2df85f9ff5a3e48c48caed58"
-  },
-  {
-    "title": "FC Utrecht vs. AZ",
-    "league": "Eredivisie",
-    "fecha-evento": "2026-03-01T10:30:01-05:00",
-    "img": "019c67fd-ec02-7f8c-805f-21a0631f2254",
-    "nombre": "disneya2a407",
-    "status": "10:30",
-    "duration": 135,
-    "play_url": "https://www.disneyplus.com/es-es/play/4b09495d-8a6f-4825-ae90-b1b252678cea",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1772466038~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F01%2FFC_Utrecht_vs_AZ_Fecha_25_20260301_1772371810019%2F~psid=f8babcaa-b677-46ff-ae12-a9e1064c04bb~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=dea6ba33febfee30948b11755f4626392ea68d637346a72c5d8b93fff168037c/clt1/va02/disneyplus/event/2026/03/01/FC_Utrecht_vs_AZ_Fecha_25_20260301_1772371810019/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=d3699495a0e9d7cb7f665e0f99c09fb26148468b",
-    "k1": "1bacf2616b11452d96a6230899811b4a",
-    "k2": "9833b0a988e6b5b6f8134ac7b53c34d1"
-  },
-  {
     "title": "Metz vs. Brest",
     "league": "Ligue 1",
     "fecha-evento": "2026-03-01T11:00:11-05:00",
@@ -208,14 +182,30 @@
     "k2": "e5e2b6af4b38e4b00d9af653360b6990"
   },
   {
+    "title": "San Antonio Spurs vs. New York Knicks",
+    "league": "NBA",
+    "fecha-evento": "2026-03-01T13:00:00-05:00",
+    "img": "019c8122-6bcc-7126-8ad2-02614fbbdb0d",
+    "nombre": "disney3ad940",
+    "status": "13:00",
+    "duration": 150,
+    "play_url": "https://www.disneyplus.com/es-es/play/87fb6740-5e7f-44b8-87ee-90558803037a",
+    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1772474441~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Fbbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1767092609127%2F~psid=fa376cef-38ab-4187-a55a-f50537e95b10~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=b7408352a3ffa6a44d96156bd7b66250b9ea0886e0b39d94232d85bf8251fd35/clt1/va02/disneyplus/channel/bbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1767092609127/ctr-all-sliding-alt1.m3u8?r=1080&v=1&hash=eb3d49e5bd70aee4517206fa38f01931a46eb473",
+    "k1": "640febac93b9458382ae354be5716838",
+    "k2": "3e994be872ac6c0f6e74e4da8db4f2aa"
+  },
+  {
     "title": "Turks & Caicos Islands vs. Bonaire",
     "league": "Concacaf Women's Under-20 Championship",
     "fecha-evento": "2026-03-01T12:50:00-05:00",
     "img": "019c7786-74da-7b1b-95d1-5c6cd29e88a0",
     "nombre": "disney7496c6",
     "status": "12:50",
-    "duration": 135,
-    "play_url": ""
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/2a6af2b4-b681-4764-859f-48edd4244a69",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1772474490~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F01%2FTurks_Caicos_Islands_vs_B_20260301_1772380241042%2F~psid=dc0220b6-56ac-4a77-9621-ec5747859ccf~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=6fdd5ef511a2008c473b0c4f9124beee6f6a5fd59c116fde5596db699b74c670/clt1/va02/disneyplus/event/2026/03/01/Turks_Caicos_Islands_vs_B_20260301_1772380241042/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=f9eb28cae91e2a25afd9ead99cbb08360f93313a",
+    "k1": "c98e9044eb184c20a14ba1621a530b9a",
+    "k2": "167b1637194df3320128201b463e7b0c"
   },
   {
     "title": "Southern Connecticut State vs. Cornell",
@@ -253,16 +243,6 @@
     "fecha-evento": "2026-03-01T13:00:00-05:00",
     "img": "019ca978-08fb-7166-a722-e2050c562fbc",
     "nombre": "disney3593ea",
-    "status": "13:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "San Antonio Spurs vs. New York Knicks",
-    "league": "NBA",
-    "fecha-evento": "2026-03-01T13:00:00-05:00",
-    "img": "019c8122-6bcc-7126-8ad2-02614fbbdb0d",
-    "nombre": "disney3ad940",
     "status": "13:00",
     "duration": 135,
     "play_url": ""
@@ -674,6 +654,26 @@
     "img": "019c7304-f3ac-7122-aaf0-12247bb6ed83",
     "nombre": "disney3badc3",
     "status": "20:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Colorado Avalanche vs. Los Angeles Kings",
+    "league": "National Hockey League",
+    "fecha-evento": "2026-03-02T22:30:00-05:00",
+    "img": "019caa1d-b7b4-7337-b0de-73d81b9dd383",
+    "nombre": "disney830b4b",
+    "status": "22:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "MVC Indoor Track and Field Championship (Dia #2)",
+    "league": "NCAA Atletismo",
+    "fecha-evento": "2026-03-02T11:15:00-05:00",
+    "img": "703a0947-b1b5-4434-9581-0e5c409bcc6c",
+    "nombre": "disney49bd12",
+    "status": "11:15",
     "duration": 135,
     "play_url": ""
   }
