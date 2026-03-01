@@ -26,19 +26,6 @@
     "k2": "fe8e4588f0547c1dceda59ee09088e0b"
   },
   {
-    "title": "Torino vs. Lazio",
-    "league": "Seria A",
-    "fecha-evento": "2026-03-01T11:40:00-05:00",
-    "img": "019c90e8-13d8-7d7d-9ac9-8d3ff4f29afa",
-    "nombre": "disney07ce20",
-    "status": "11:40",
-    "duration": 135,
-    "play_url": "https://www.disneyplus.com/es-es/play/4f231435-8675-4092-a31c-01464989e616",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1772470839~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F01%2FTorino_vs_Lazio_20260301_1772376051050%2F~psid=362c5c49-7eca-4248-bb03-aa251467564f~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=c1d0beb79e37f0706793d89a01616775f4f18c36d95b0b140b2ee64a8c2fda56/clt1/va02/disneyplus/event/2026/03/01/Torino_vs_Lazio_20260301_1772376051050/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=da6c645035aefd432bed644fd87a4d551e970c9a",
-    "k1": "55fe6fc3b51649619eea50e1ee71f291",
-    "k2": "e681f5b278c15652cf9d82f62c51678b"
-  },
-  {
     "title": "Antalyaspor vs. Fenerbahce",
     "league": "Super Lig de Turquía",
     "fecha-evento": "2026-03-01T11:50:00-05:00",
@@ -677,6 +664,16 @@
     "img": "019caa59-9325-794f-9ea4-594d21887b06",
     "nombre": "disneya60aa2",
     "status": "14:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Santa Lucía vs. México",
+    "league": "Concacaf W Championship Qualifying",
+    "fecha-evento": "2026-03-02T13:50:00-05:00",
+    "img": "019c7793-3382-7527-947f-a2ad9dc6f6ac",
+    "nombre": "disney60170f",
+    "status": "13:50",
     "duration": 135,
     "play_url": ""
   }
