@@ -13,19 +13,6 @@
     "k2": "03716d5e2ce4fcee3391000e9a4ce799"
   },
   {
-    "title": "FC Twente vs. Feyenoord",
-    "league": "Eredivisie",
-    "fecha-evento": "2026-03-01T08:15:01-05:00",
-    "img": "019c6679-553a-7d66-9aa6-d86b537f1a12",
-    "nombre": "disneye22ec0",
-    "status": "08:15",
-    "duration": 135,
-    "play_url": "https://www.disneyplus.com/es-es/play/00f890eb-22e0-427e-aec1-e94499cd9d8a",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1772460291~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F01%2FFC_Twente_vs_Feyenoord_20260301_1772363736018%2F~psid=512ed3ed-d7a3-4799-9aee-abee79bf135e~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=d5763f15e5d6758d86ecd3be82f7622d4f07492d542847088ec6159b8a4c736b/clt1/va02/disneyplus/event/2026/03/01/FC_Twente_vs_Feyenoord_20260301_1772363736018/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=9dc8f4bb4fbe0d7e7f43839f423e279ac65db445",
-    "k1": "5defbd7832454b2db4e118d64eebbfa1",
-    "k2": "54a179cd45482f60eb713333754efa5f"
-  },
-  {
     "title": "India vs. West Indies",
     "league": "ICC Men's T20 World Cup",
     "fecha-evento": "2026-03-01T08:17:55-05:00",
@@ -145,12 +132,15 @@
   {
     "title": "FC Utrecht vs. AZ",
     "league": "Eredivisie",
-    "fecha-evento": "2026-03-01T10:30:00-05:00",
+    "fecha-evento": "2026-03-01T10:30:01-05:00",
     "img": "019c67fd-ec02-7f8c-805f-21a0631f2254",
-    "nombre": "disneyc674df",
+    "nombre": "disneya2a407",
     "status": "10:30",
     "duration": 135,
-    "play_url": ""
+    "play_url": "https://www.disneyplus.com/es-es/play/4b09495d-8a6f-4825-ae90-b1b252678cea",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1772466038~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F01%2FFC_Utrecht_vs_AZ_Fecha_25_20260301_1772371810019%2F~psid=f8babcaa-b677-46ff-ae12-a9e1064c04bb~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=dea6ba33febfee30948b11755f4626392ea68d637346a72c5d8b93fff168037c/clt1/va02/disneyplus/event/2026/03/01/FC_Utrecht_vs_AZ_Fecha_25_20260301_1772371810019/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=d3699495a0e9d7cb7f665e0f99c09fb26148468b",
+    "k1": "1bacf2616b11452d96a6230899811b4a",
+    "k2": "9833b0a988e6b5b6f8134ac7b53c34d1"
   },
   {
     "title": "Lille vs. Nantes",
@@ -316,7 +306,7 @@
     "title": "Vegas Golden Knights vs. Pittsburgh Penguins",
     "league": "National Hockey League",
     "fecha-evento": "2026-03-01T13:00:00-05:00",
-    "img": "b4c0f7a0-7695-48f3-bd82-a30bd2aeb490",
+    "img": "28316c6a-d8ec-4050-baef-2621b335d85b",
     "nombre": "disneydbb5a6",
     "status": "13:00",
     "duration": 135,
@@ -556,7 +546,7 @@
     "title": "Winnipeg Jets vs. San Jose Sharks",
     "league": "National Hockey League",
     "fecha-evento": "2026-03-01T16:00:00-05:00",
-    "img": "019c476f-6fc4-7040-8c8c-36ded54184d4",
+    "img": "10369225-de16-402a-9812-ba31d92dc23c",
     "nombre": "disney4e3ce0",
     "status": "16:00",
     "duration": 135,
@@ -566,7 +556,7 @@
     "title": "Chicago Blackhawks vs. Utah Mammoth",
     "league": "National Hockey League",
     "fecha-evento": "2026-03-01T16:00:00-05:00",
-    "img": "019aa857-ac85-756b-8a31-37ef0dd2e985",
+    "img": "7e74c852-dbff-4c81-8866-e4b2bf0144f4",
     "nombre": "disney1f25cc",
     "status": "16:00",
     "duration": 135,
@@ -596,7 +586,7 @@
     "title": "St. Louis Blues vs. Minnesota Wild",
     "league": "National Hockey League",
     "fecha-evento": "2026-03-01T17:00:00-05:00",
-    "img": "019c6c61-234f-7cbc-8ff3-29c8d8bf9ddd",
+    "img": "5c0e2d49-368e-4049-a9d0-314a453ffd43",
     "nombre": "disney52dc7f",
     "status": "17:00",
     "duration": 135,
@@ -658,6 +648,16 @@
     "fecha-evento": "2026-03-01T17:50:00-05:00",
     "img": "019c7304-f798-77e8-aef2-b3d45937ba59",
     "nombre": "disney361a10",
+    "status": "17:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Cristina Bucsa (ESP) vs. Magdalena Frech (POL) (Final)",
+    "league": "WTA",
+    "fecha-evento": "2026-03-01T17:50:00-05:00",
+    "img": "019ca96a-fffd-79d2-b393-218d35ad56ed",
+    "nombre": "disneyfc3123",
     "status": "17:50",
     "duration": 135,
     "play_url": ""
