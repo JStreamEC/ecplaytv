@@ -10,19 +10,6 @@
     "play_url": ""
   },
   {
-    "title": "México vs. Arizona Diamondbacks (Exhibicion)",
-    "league": "Clásico Mundial de Béisbol",
-    "fecha-evento": "2026-03-03T15:00:01-05:00",
-    "img": "019c8ce0-2387-7a38-b581-05c7842b2e74",
-    "nombre": "disney6fc424",
-    "status": "15:00",
-    "duration": 180,
-    "play_url": "https://www.disneyplus.com/es-es/play/ce66f979-aab4-475f-85da-d1c615c0855f",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1772655639~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F03%2FMexico_vs_Arizona_Diamond_20260303_1772560851044%2F~psid=3a305636-e0f2-4e06-8aa3-b9909a4b1407~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=01cc9adbf10fd56beb3b920de4551fe4494f256dec7bafd2155d8b10aaee7f4a/clt1/va02/disneyplus/event/2026/03/03/Mexico_vs_Arizona_Diamond_20260303_1772560851044/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=040a53ce997cd0e06848e76d63d8604fb39dfd42",
-    "k1": "8dff74e1a46c49bbac5517937a00329c",
-    "k2": "883ca4e42cfdad94489c13e186a80540"
-  },
-  {
     "title": "Team USA vs. San Francisco Giants",
     "league": "MLB",
     "fecha-evento": "2026-03-03T15:00:00-05:00",
@@ -113,12 +100,15 @@
   {
     "title": "Belize vs. Saint Martin",
     "league": "Campeonato CONCACAF Sub-20",
-    "fecha-evento": "2026-03-03T17:50:00-05:00",
+    "fecha-evento": "2026-03-03T17:50:12-05:00",
     "img": "019c7815-18ed-7d3e-8d11-e320f8065834",
-    "nombre": "disney2e9816",
+    "nombre": "disney895a98",
     "status": "17:50",
-    "duration": 135,
-    "play_url": ""
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/8598fb31-eca7-4d2a-bd73-d8819d55afa4",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1772665284~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F03%2FBelize_vs_Saint_Martin_20260303_1772571023039%2F~psid=a93da092-af85-451a-a8e5-9f81acda2779~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=c8812e0568c93bff70cb618f41e8874012ad7c21f487ba702fd49f9cd9b4b002/clt1/va02/disneyplus/event/2026/03/03/Belize_vs_Saint_Martin_20260303_1772571023039/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=8cca83bf5a060c419e9ebdd772c7c6d76c95e5aa",
+    "k1": "ba9b4c6fb1184efa989b6d852a74d06b",
+    "k2": "4cf23ea2a6309a982b5962d7a606cbb9"
   },
   {
     "title": "Bermudas vs. Costa Rica",
@@ -127,8 +117,11 @@
     "img": "019c7814-b3d2-7cf3-afa9-0b36c7b9fa11",
     "nombre": "disneyf7649a",
     "status": "17:50",
-    "duration": 135,
-    "play_url": ""
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/61fd097c-c38f-4d09-86e2-5fe2a399142f",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1772665331~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F03%2FBermudas_vs_Costa_Rica_20260303_1772571004045%2F~psid=545c64a4-0a7e-4d15-8a46-22e961126ddb~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=7e6eae4c158ebe5892282e51c2b7bda193bcab32d685df13cf5d1d8b1fc0ea9c/clt1/va02/disneyplus/event/2026/03/03/Bermudas_vs_Costa_Rica_20260303_1772571004045/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=63d2eedfab088da59fc15c92c57ac1ee067584d6",
+    "k1": "3aba474e53cc48c49f166c05f1d8aa6b",
+    "k2": "03cddfc876d3122872a6770f8e5e5332"
   },
   {
     "title": "Vermont vs. #5 Northeastern (Semifinal)",
@@ -167,8 +160,11 @@
     "img": "019c8cf9-5f13-7bc7-bc86-5693142e6df6",
     "nombre": "disney365f51",
     "status": "18:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 180,
+    "play_url": "https://www.disneyplus.com/es-es/play/d914c89c-5d90-4553-9172-a53b85a1235b",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1772665358~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F03%2FPuerto_Rico_vs_Boston_Red_20260303_1772571649054%2F~psid=7273ddec-b45e-4017-afc3-d4c76d9e83da~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=a4cb1b00ba4ac5dd11052d65554a581d6f29626767e11c999952277f76139f39/clt1/va02/disneyplus/event/2026/03/03/Puerto_Rico_vs_Boston_Red_20260303_1772571649054/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=46758dc29a321b6590a49d09d8f9adb50069c577",
+    "k1": "c826c7836c284986b3f4bca8d2b271d9",
+    "k2": "c9441fd257fc34575ff65f3f228d34d4"
   },
   {
     "title": "Venezuela vs. Houston Astros (Exhibicion)",
@@ -177,8 +173,11 @@
     "img": "019c8cf7-d870-7cfb-8201-57faf46838e3",
     "nombre": "disney13db78",
     "status": "18:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 180,
+    "play_url": "https://www.disneyplus.com/es-es/play/eaa96020-230c-4b54-b327-0f8b5421886f",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1772665385~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F03%2FVenezuela_vs_Houston_Astr_20260303_1772571610044%2F~psid=bbbc3070-938a-4dde-9d24-b6c46c606959~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=17107e4f5a67bd1bacfdf016acbcd15322281cfadba426c996a8f34327d4adbd/clt1/va02/disneyplus/event/2026/03/03/Venezuela_vs_Houston_Astr_20260303_1772571610044/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=2766fe34551b3fe6c89386f3d8afae75a418e8ef",
+    "k1": "fd776dd24f4c4f9385696083d6b677b2",
+    "k2": "c97720cc87951b6f197bf2bf67235067"
   },
   {
     "title": "Nashville Predators vs. Columbus Blue Jackets",
@@ -626,6 +625,16 @@
     "fecha-evento": "2026-03-04T14:00:00-05:00",
     "img": "2fdda6c4-e53a-49a7-b1fa-7bd640e00796",
     "nombre": "disney18b9c7",
+    "status": "14:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "WTA BNP Paribas Open / Stadium 1",
+    "league": "WTA",
+    "fecha-evento": "2026-03-04T14:00:00-05:00",
+    "img": "a629258c-0d96-46bc-ac8c-6b2f842b539b",
+    "nombre": "disney7f1d35",
     "status": "14:00",
     "duration": 135,
     "play_url": ""
