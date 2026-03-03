@@ -10,45 +10,6 @@
     "play_url": ""
   },
   {
-    "title": "Leeds United vs. Sunderland",
-    "league": "Premier League",
-    "fecha-evento": "2026-03-03T14:10:16-05:00",
-    "img": "019c926e-9165-71b1-b745-b8b7045ca70d",
-    "nombre": "disney513a89",
-    "status": "14:10",
-    "duration": 135,
-    "play_url": "https://www.disneyplus.com/es-es/play/f7951aff-f649-4b55-832b-136de9f00193",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1772654589~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F03%2FLeeds_United_vs_Sunderlan_20260303_1772557841017%2F~psid=306016cc-98d9-4b4a-8b6a-81daf0f1c6fd~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=07d5215b069b0b83d24b4bcdd9825278055cfb9525f1bec3a9d4c2c3f8a969af/clt1/va02/disneyplus/event/2026/03/03/Leeds_United_vs_Sunderlan_20260303_1772557841017/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=8b07bf44621aba1db7f458986b32b36a68e4bdd5",
-    "k1": "9a9efd1c3145408f89dddca87c145bf0",
-    "k2": "aff3646b94c9abf682e7e40a465d42c5"
-  },
-  {
-    "title": "Everton vs. Burnley",
-    "league": "Premier League",
-    "fecha-evento": "2026-03-03T14:20:00-05:00",
-    "img": "019c911d-dba2-7181-8d8d-c3691c69915a",
-    "nombre": "disney5c105e",
-    "status": "14:20",
-    "duration": 125,
-    "play_url": "https://www.disneyplus.com/es-es/play/cae5af55-0f8f-428e-a69c-b8132ffa1ab3",
-    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1772654614~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Ff25bdf06-81c9-4a7c-b128-3128d610ad17-1762951253360%2F~psid=5bd94e2d-c163-464f-a31a-7f9369c0e577~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=91dc3eaf97a49076fd726e4d1aaa19f19c57962d9c5b772a23452501c350f181/clt1/va02/disneyplus/channel/f25bdf06-81c9-4a7c-b128-3128d610ad17-1762951253360/ctr-all-sliding-alt1.m3u8?r=1080&v=1&hash=9816cf0e34cd1280142adf33de1d35c2d805df20",
-    "k1": "51e9e5772c0d437487b5de830d79f1f4",
-    "k2": "48fa807103992c302044fae156be93a8"
-  },
-  {
-    "title": "Bournemouth vs. Brentford",
-    "league": "Premier League",
-    "fecha-evento": "2026-03-03T14:27:02-05:00",
-    "img": "019c926e-bde1-70c3-ad03-bbd2cc7dfac1",
-    "nombre": "disneybc5bc5",
-    "status": "14:27",
-    "duration": 123,
-    "play_url": "https://www.disneyplus.com/es-es/play/fe579e14-6304-4636-910d-0ee148fa907d",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1772654641~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F03%2FBournemouth_vs_Brentford_20260303_1772558415021%2F~psid=81ab03a7-0718-4348-9b4e-3b2521ff2553~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=5e3e255b37b709475f2251c8c8e6d075f62ca79c6acd730f909bf610fadbc1df/clt1/va02/disneyplus/event/2026/03/03/Bournemouth_vs_Brentford_20260303_1772558415021/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=7a13365a1754ebde5172e03ad5c1eee294f3060b",
-    "k1": "9c6359e6f6994807ad6e2ae600017c8b",
-    "k2": "fcffa672520cf327390c9bc97711d6e8"
-  },
-  {
     "title": "Port Vale vs. Bristol City (Fecha #4)",
     "league": "FA Cup",
     "fecha-evento": "2026-03-03T14:35:04-05:00",
@@ -652,6 +613,36 @@
     "img": "019c96f2-9708-712c-8707-61e34ca27902",
     "nombre": "disneye976f0",
     "status": "13:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Colombia vs. Atlanta Braves (Exhibicion)",
+    "league": "Clásico Mundial de Béisbol",
+    "fecha-evento": "2026-03-04T13:00:00-05:00",
+    "img": "019c96fa-6833-7c97-9f80-b5a2fee77f70",
+    "nombre": "disney9b6f77",
+    "status": "13:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Villanova vs. Siena",
+    "league": "NCAA Women's Lacrosse",
+    "fecha-evento": "2026-03-04T14:00:00-05:00",
+    "img": "019c78f6-5e1a-7696-8fb1-fb2275f45bc9",
+    "nombre": "disney6f4adf",
+    "status": "14:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "WTA BNP Paribas Open / Stadium 3",
+    "league": "WTA",
+    "fecha-evento": "2026-03-04T14:00:00-05:00",
+    "img": "d5f3824d-4f87-4b36-b5ae-e1ae8f3a09a4",
+    "nombre": "disneyf0adad",
+    "status": "14:00",
     "duration": 135,
     "play_url": ""
   }
