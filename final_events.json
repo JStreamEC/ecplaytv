@@ -10,19 +10,6 @@
     "play_url": ""
   },
   {
-    "title": "Canadá vs. Toronto Blue Jays (Exhibicion)",
-    "league": "Clásico Mundial de Béisbol",
-    "fecha-evento": "2026-03-03T13:00:01-05:00",
-    "img": "019c9039-30c1-717f-9f64-bd78a8af338d",
-    "nombre": "disneybb50b6",
-    "status": "13:00",
-    "duration": 180,
-    "play_url": "https://www.disneyplus.com/es-es/play/735d2f93-bb98-4724-8e1d-1087550676d1",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1772654562~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F03%2FCanada_vs_Toronto_Blue_Ja_20260303_1772553623016%2F~psid=f25f6c22-017c-431e-b0af-18553f1a96e7~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=a942f863547f04e21e100d28d2a5c1ca73f27acf8007ba13e64265d9d169a610/clt1/va02/disneyplus/event/2026/03/03/Canada_vs_Toronto_Blue_Ja_20260303_1772553623016/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=1cf48cdcb6310053c0646c8281faa98b7f520073",
-    "k1": "3fb184a563ac49bb981c50e6a7ac0a18",
-    "k2": "73f1d0c3dfdd8461e99a4cbf74a8c69d"
-  },
-  {
     "title": "Leeds United vs. Sunderland",
     "league": "Premier League",
     "fecha-evento": "2026-03-03T14:10:16-05:00",
@@ -168,12 +155,15 @@
   {
     "title": "Gardner-Webb vs. Duke",
     "league": "NCAA Beisbol",
-    "fecha-evento": "2026-03-03T16:00:00-05:00",
+    "fecha-evento": "2026-03-03T16:00:08-05:00",
     "img": "019c5238-3e2a-79d8-9b87-eb0a733b71a9",
-    "nombre": "disney0935c1",
+    "nombre": "disney7cc9a5",
     "status": "16:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 180,
+    "play_url": "https://www.disneyplus.com/es-es/play/f8cf473c-4351-471e-8d27-d56ed59ee80d",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1772659237~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F03%2FGardnerWebb_vs_Duke_20260303_1772564448042%2F~psid=9669b9ba-a527-4a62-93fc-1ef5d6c97871~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=9067827f58d8505c6d85262a4599e8a7c3a98b37e9cc651085e67fe498198637/clt1/va02/disneyplus/event/2026/03/03/GardnerWebb_vs_Duke_20260303_1772564448042/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=4c304ebf0bd6fb931681d35ff51bf66f1e5223b9",
+    "k1": "442c16b6744a4451aa2124d6ded699e4",
+    "k2": "7f1d719bf2dc656350b94ccf113320f3"
   },
   {
     "title": "Suriname vs. Haiti",
@@ -651,6 +641,16 @@
     "fecha-evento": "2026-03-04T13:00:00-05:00",
     "img": "019c96f5-c407-730e-8d9c-cef443e3d053",
     "nombre": "disneyc7baab",
+    "status": "13:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Canadá vs. Philadelphia Phillies (Exhibicion)",
+    "league": "Clásico Mundial de Béisbol",
+    "fecha-evento": "2026-03-04T13:00:00-05:00",
+    "img": "019c96f2-9708-712c-8707-61e34ca27902",
+    "nombre": "disneye976f0",
     "status": "13:00",
     "duration": 135,
     "play_url": ""
