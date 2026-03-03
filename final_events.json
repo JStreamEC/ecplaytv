@@ -49,19 +49,6 @@
     "k2": "bd081eba4dd370efcffede63c1c410fc"
   },
   {
-    "title": "República Dominicana vs. Antigua y Barbuda",
-    "league": "Campeonato CONCACAF Sub-20",
-    "fecha-evento": "2026-03-03T14:52:33-05:00",
-    "img": "019c734e-7e2f-7f62-a0aa-4a24675fe01b",
-    "nombre": "disneyd5adca",
-    "status": "14:52",
-    "duration": 127,
-    "play_url": "https://www.disneyplus.com/es-es/play/8ebf81d7-061c-4c1c-9934-7270d6ed9bd2",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1772654747~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F03%2FRepblica_Dominicana_vs_An_20260303_1772560213017%2F~psid=cbbb7b82-008e-448f-9287-7fef7d540892~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=07e5e63b3e27c2503cc8ed8724dbaf7f6d65360438a7d3bcb2c598e5c3b55314/clt1/va02/disneyplus/event/2026/03/03/Repblica_Dominicana_vs_An_20260303_1772560213017/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=373e295aa5eac906387dc7de7f6d80d955ba09b7",
-    "k1": "e78dd86643e948989b810659904e4248",
-    "k2": "6b51f5771a2f47dd7e2a64f96795f4f5"
-  },
-  {
     "title": "México vs. Arizona Diamondbacks (Exhibicion)",
     "league": "Clásico Mundial de Béisbol",
     "fecha-evento": "2026-03-03T15:00:01-05:00",
@@ -129,12 +116,15 @@
   {
     "title": "Suriname vs. Haiti",
     "league": "Concacaf W Championship Qualifying",
-    "fecha-evento": "2026-03-03T16:50:00-05:00",
+    "fecha-evento": "2026-03-03T16:49:57-05:00",
     "img": "019c7814-f3e4-7fcd-867e-27c65938d786",
-    "nombre": "disneyf1c6b5",
-    "status": "16:50",
-    "duration": 135,
-    "play_url": ""
+    "nombre": "disney4bce42",
+    "status": "16:49",
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/3cbbbdd1-9a6a-41f1-989a-3ad438119e3d",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1772661636~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F03%2FSuriname_vs_Haiti_20260303_1772567427040%2F~psid=2c6cd121-45e2-4650-aa3b-37fcb406e92c~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=b7dbc49c6dfd57734a69124eaec481b13f8299e8b473d4df4543b9a6080dfb95/clt1/va02/disneyplus/event/2026/03/03/Suriname_vs_Haiti_20260303_1772567427040/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=d8597ea8bbc078d659ebc26ec7180e9805275a05",
+    "k1": "3fa23e064b584aa79acd44def1ed7819",
+    "k2": "cb9f23ad42be8db8b485c5d22c0f52fd"
   },
   {
     "title": "California vs. #14 Syracuse",
@@ -642,6 +632,16 @@
     "fecha-evento": "2026-03-04T14:00:00-05:00",
     "img": "d5f3824d-4f87-4b36-b5ae-e1ae8f3a09a4",
     "nombre": "disneyf0adad",
+    "status": "14:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "#21 Virginia vs. #22 Pittsburgh",
+    "league": "NCAA Women's Lacrosse",
+    "fecha-evento": "2026-03-04T14:00:00-05:00",
+    "img": "019c5219-d6e0-7ece-b580-d2e05c59b8db",
+    "nombre": "disney40fc19",
     "status": "14:00",
     "duration": 135,
     "play_url": ""
