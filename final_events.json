@@ -98,19 +98,6 @@
     "k2": "4cf23ea2a6309a982b5962d7a606cbb9"
   },
   {
-    "title": "Detroit Tigers vs. Republica Dominicana (Exhibicion)",
-    "league": "Clásico Mundial de Béisbol",
-    "fecha-evento": "2026-03-03T18:00:14-05:00",
-    "img": "019c8ce5-5b6b-7906-a2ee-e590ed8b99ad",
-    "nombre": "disney22d132",
-    "status": "18:00",
-    "duration": 180,
-    "play_url": "https://www.disneyplus.com/es-es/play/c49f8662-324a-40d0-bfb3-e6e1ca5e433a",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1772666484~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F03%2FDetroit_Tigers_vs_Dominic_20260303_1772571601040%2F~psid=78187fb7-8a7d-4e3b-9410-2cd02c0805da~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=fe1f285020862bb4e90afb11a038fb956f3efcb61a5d80c535dfdc1504982553/clt1/va02/disneyplus/event/2026/03/03/Detroit_Tigers_vs_Dominic_20260303_1772571601040/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=87d8197cd1cd48d9613b22d2b66e582f83bcbfaf",
-    "k1": "5d4362b3220948c3a1f7e9514a592894",
-    "k2": "2987d529b4aaa8c41e3f9cb556ac698a"
-  },
-  {
     "title": "Puerto Rico vs. Boston Red Sox (Exhibicion)",
     "league": "Clásico Mundial de Béisbol",
     "fecha-evento": "2026-03-03T18:00:00-05:00",
@@ -150,6 +137,19 @@
     "k2": "c97720cc87951b6f197bf2bf67235067"
   },
   {
+    "title": "Detroit Tigers vs. Republica Dominicana (Exhibicion)",
+    "league": "Clásico Mundial de Béisbol",
+    "fecha-evento": "2026-03-03T18:00:14-05:00",
+    "img": "019c8ce5-5b6b-7906-a2ee-e590ed8b99ad",
+    "nombre": "disney22d132",
+    "status": "18:00",
+    "duration": 180,
+    "play_url": "https://www.disneyplus.com/es-es/play/c49f8662-324a-40d0-bfb3-e6e1ca5e433a",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1772666484~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F03%2FDetroit_Tigers_vs_Dominic_20260303_1772571601040%2F~psid=78187fb7-8a7d-4e3b-9410-2cd02c0805da~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=fe1f285020862bb4e90afb11a038fb956f3efcb61a5d80c535dfdc1504982553/clt1/va02/disneyplus/event/2026/03/03/Detroit_Tigers_vs_Dominic_20260303_1772571601040/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=87d8197cd1cd48d9613b22d2b66e582f83bcbfaf",
+    "k1": "5d4362b3220948c3a1f7e9514a592894",
+    "k2": "2987d529b4aaa8c41e3f9cb556ac698a"
+  },
+  {
     "title": "Vermont vs. #5 Northeastern (Semifinal)",
     "league": "NCAA Women's Hockey",
     "fecha-evento": "2026-03-03T18:05:27-05:00",
@@ -173,21 +173,21 @@
     "play_url": ""
   },
   {
-    "title": "Utah Mammoth vs. Washington Capitals",
-    "league": "National Hockey League",
-    "fecha-evento": "2026-03-03T19:00:00-05:00",
-    "img": "019caa21-1f05-7dc4-a4fe-d3e4e0e6b2a8",
-    "nombre": "disney976671",
-    "status": "19:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Vegas Golden Knights vs. Buffalo Sabres",
     "league": "National Hockey League",
     "fecha-evento": "2026-03-03T19:00:00-05:00",
     "img": "019caa20-ca77-7bbd-ab78-d70d1e5e0861",
     "nombre": "disney69ff0f",
+    "status": "19:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Utah Mammoth vs. Washington Capitals",
+    "league": "National Hockey League",
+    "fecha-evento": "2026-03-03T19:00:00-05:00",
+    "img": "019caa21-1f05-7dc4-a4fe-d3e4e0e6b2a8",
+    "nombre": "disney976671",
     "status": "19:00",
     "duration": 135,
     "play_url": ""
