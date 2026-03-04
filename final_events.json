@@ -10,42 +10,6 @@
     "play_url": ""
   },
   {
-    "title": "Gardner-Webb vs. Duke",
-    "league": "NCAA Beisbol",
-    "fecha-evento": "2026-03-03T16:00:08-05:00",
-    "img": "019c5238-3e2a-79d8-9b87-eb0a733b71a9",
-    "nombre": "disney7cc9a5",
-    "status": "16:00",
-    "duration": 180,
-    "play_url": "https://www.disneyplus.com/es-es/play/f8cf473c-4351-471e-8d27-d56ed59ee80d",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1772659237~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F03%2FGardnerWebb_vs_Duke_20260303_1772564448042%2F~psid=9669b9ba-a527-4a62-93fc-1ef5d6c97871~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=9067827f58d8505c6d85262a4599e8a7c3a98b37e9cc651085e67fe498198637/clt1/va02/disneyplus/event/2026/03/03/GardnerWebb_vs_Duke_20260303_1772564448042/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=4c304ebf0bd6fb931681d35ff51bf66f1e5223b9",
-    "k1": "442c16b6744a4451aa2124d6ded699e4",
-    "k2": "7f1d719bf2dc656350b94ccf113320f3"
-  },
-  {
-    "title": "Suriname vs. Haiti",
-    "league": "Concacaf W Championship Qualifying",
-    "fecha-evento": "2026-03-03T16:49:57-05:00",
-    "img": "019c7814-f3e4-7fcd-867e-27c65938d786",
-    "nombre": "disney4bce42",
-    "status": "16:49",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/3cbbbdd1-9a6a-41f1-989a-3ad438119e3d",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1772661636~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F03%2FSuriname_vs_Haiti_20260303_1772567427040%2F~psid=2c6cd121-45e2-4650-aa3b-37fcb406e92c~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=b7dbc49c6dfd57734a69124eaec481b13f8299e8b473d4df4543b9a6080dfb95/clt1/va02/disneyplus/event/2026/03/03/Suriname_vs_Haiti_20260303_1772567427040/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=d8597ea8bbc078d659ebc26ec7180e9805275a05",
-    "k1": "3fa23e064b584aa79acd44def1ed7819",
-    "k2": "cb9f23ad42be8db8b485c5d22c0f52fd"
-  },
-  {
-    "title": "California vs. #14 Syracuse",
-    "league": "NCAA Women's Lacrosse",
-    "fecha-evento": "2026-03-03T16:59:58-05:00",
-    "img": "019c6cc2-0de1-7d2e-8e46-ba5a126536b6",
-    "nombre": "disneycf9b35",
-    "status": "16:59",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/00ff0bac-6538-48de-aee5-fa1cb3ce9197"
-  },
-  {
     "title": "#21 Kentucky vs. Eastern Kentucky",
     "league": "NCAA Beisbol",
     "fecha-evento": "2026-03-03T17:00:00-05:00",
@@ -163,21 +127,21 @@
     "k2": "78ccd67541008a384124067fcce13b11"
   },
   {
-    "title": "Nashville Predators vs. Columbus Blue Jackets",
-    "league": "National Hockey League",
-    "fecha-evento": "2026-03-03T19:00:00-05:00",
-    "img": "0bb03e39-c9e1-4c14-befc-a2b7c6645650",
-    "nombre": "disney192dc2",
-    "status": "19:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Vegas Golden Knights vs. Buffalo Sabres",
     "league": "National Hockey League",
     "fecha-evento": "2026-03-03T19:00:00-05:00",
     "img": "019caa20-ca77-7bbd-ab78-d70d1e5e0861",
     "nombre": "disney69ff0f",
+    "status": "19:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Nashville Predators vs. Columbus Blue Jackets",
+    "league": "National Hockey League",
+    "fecha-evento": "2026-03-03T19:00:00-05:00",
+    "img": "0bb03e39-c9e1-4c14-befc-a2b7c6645650",
+    "nombre": "disney192dc2",
     "status": "19:00",
     "duration": 135,
     "play_url": ""
@@ -195,12 +159,15 @@
   {
     "title": "Jamaica vs. Puerto Rico",
     "league": "Campeonato CONCACAF Sub-20",
-    "fecha-evento": "2026-03-03T18:50:00-05:00",
+    "fecha-evento": "2026-03-03T18:50:13-05:00",
     "img": "019caa11-ebc8-73d4-be77-4d3b9ab4bbbf",
-    "nombre": "disney7f6d7b",
+    "nombre": "disney0492a5",
     "status": "18:50",
-    "duration": 135,
-    "play_url": ""
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/8ab39cd4-73e1-42ad-9dad-5d8883f728d6",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1772668840~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F03%2FJamaica_vs_Puerto_Rico_20260303_1772574656019%2F~psid=2768159d-7073-4616-80f3-66f622b44944~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=521105e0c63acf5430282f40628594096eb6326da10bb4af9328d085527146f9/clt1/va02/disneyplus/event/2026/03/03/Jamaica_vs_Puerto_Rico_20260303_1772574656019/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=b89474e5f857291f1d9966051730d2ba199ac343",
+    "k1": "cf013001e89e439bb4b740c024784ce9",
+    "k2": "3408793045f36000237378013e10ee55"
   },
   {
     "title": "Barcelona (ECU) vs. Botafogo (BRA)",
@@ -639,6 +606,36 @@
     "img": "67251bed-431d-46b4-94d7-4e10125c4ad0",
     "nombre": "disneye731b8",
     "status": "14:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "BNP Paribas Open / Stadium 7",
+    "league": "ATP",
+    "fecha-evento": "2026-03-04T14:00:00-05:00",
+    "img": "59cbb7ba-f91b-468a-b5a7-dda3f61030f8",
+    "nombre": "disney1463a8",
+    "status": "14:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "BNP Paribas Open / Stadium 5",
+    "league": "ATP",
+    "fecha-evento": "2026-03-04T14:00:00-05:00",
+    "img": "54a5b96b-ef72-4456-b9b2-128099e326f4",
+    "nombre": "disneyf59b2c",
+    "status": "14:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Manchester City vs. Nottingham Forest",
+    "league": "Premier League",
+    "fecha-evento": "2026-03-04T14:10:00-05:00",
+    "img": "019c9178-56f3-77e4-bd80-99ee11849267",
+    "nombre": "disneyff3447",
+    "status": "14:10",
     "duration": 135,
     "play_url": ""
   }
