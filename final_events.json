@@ -88,19 +88,6 @@
     "play_url": ""
   },
   {
-    "title": "México vs. Los Angeles Dodgers (Exhibicion)",
-    "league": "Clásico Mundial de Béisbol",
-    "fecha-evento": "2026-03-04T15:00:06-05:00",
-    "img": "019c96fc-045a-7c17-aa5f-89087fe45395",
-    "nombre": "disneyeb7011",
-    "status": "15:00",
-    "duration": 180,
-    "play_url": "https://www.disneyplus.com/es-es/play/b77f5341-d58d-45d2-887a-8e1bfa106aa8",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1772746979~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F04%2FMexico_vs_Los_Angeles_Dod_20260304_1772647210045%2F~psid=fc48a1d4-7ec7-4131-b748-b863ec784cb4~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=4bb12868ab45baf318ea9ef2c5a737239505393d7a2a86e06283793f57086dd9/clt1/va02/disneyplus/event/2026/03/04/Mexico_vs_Los_Angeles_Dod_20260304_1772647210045/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=b7a057c47dbd3c92f19b78d8a38fd7c7a21e4aca",
-    "k1": "0627bcadcf12403bab761ccd938353a6",
-    "k2": "7ebcd6c4d90066e17470e17b946149e7"
-  },
-  {
     "title": "BNP Paribas Open / Stadium 7",
     "league": "ATP",
     "fecha-evento": "2026-03-04T15:00:40-05:00",
@@ -205,19 +192,6 @@
     "k2": "94af50b9ecc56fecc22420e442a12609"
   },
   {
-    "title": "ESPN F360: la previa de Nacional vs. Millonarios",
-    "league": "ESPN",
-    "fecha-evento": "2026-03-04T17:00:00-05:00",
-    "img": "019cb086-92b9-7add-9e38-9bb715fa93e7",
-    "nombre": "disneyc2b6e5",
-    "status": "17:00",
-    "duration": 60,
-    "play_url": "https://www.disneyplus.com/es-es/play/ee078f05-bd01-4d9c-8e59-14a3972f2c90",
-    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1772749291~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F921e1311-bb26-43dd-84a6-9e2284959712-1762950465141%2F~psid=1cdac1bd-4a59-4f6a-8c9d-10374000e5df~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=e4e31952a536bfdedf574b004e1166bb561a24f70ed3a181a83cb03773d02874/clt1/va02/disneyplus/channel/921e1311-bb26-43dd-84a6-9e2284959712-1762950465141/ctr-all-sliding-alt1.m3u8?r=1080&v=1&hash=05f9062123442e94376d1e22b34b3bf1b8ec4021",
-    "k1": "a5d8793c1c92462aabcc3d55261a884a",
-    "k2": "09ddbc4f103f29c69dfd30723d4bcc42"
-  },
-  {
     "title": "San Cristóbal y Nieves vs. Panamá",
     "league": "Concacaf W Championship Qualifying",
     "fecha-evento": "2026-03-04T17:50:00-05:00",
@@ -237,18 +211,11 @@
     "img": "db29f4af-9eb8-493d-a15b-d341edb026f4",
     "nombre": "disney110a49",
     "status": "18:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Equipo F: la previa de Nacional vs. Millonarios",
-    "league": "ESPN",
-    "fecha-evento": "2026-03-04T18:00:00-05:00",
-    "img": "019c9af1-a2f8-7735-bca6-8945c6103b61",
-    "nombre": "disney663623",
-    "status": "18:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/860bdeec-1127-4d50-b469-5210c7b13265",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1772752839~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F04%2FAzusa_Pacific_vs_Duquesne_20260304_1772658008043%2F~psid=a18cc7cd-c187-41ad-a4b9-8638f50f140d~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=1f7701ba8e72ed7f5e5a5757e237d57e77801008a4bab331970626b077c1a2ae/clt1/va02/disneyplus/event/2026/03/04/Azusa_Pacific_vs_Duquesne_20260304_1772658008043/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=83ea53b8121053ac719e29654083e0986c19124f",
+    "k1": "80db1f985cad413180f493a7ad2c67f8",
+    "k2": "cbeb61beedb37f505c170ef2e79200cd"
   },
   {
     "title": "Tulsa vs. Central Arkansas",
@@ -257,8 +224,24 @@
     "img": "019c78f3-c921-79f5-9800-7cdc2c906a73",
     "nombre": "disney7fb610",
     "status": "18:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/ec8692e5-d9e6-432d-8348-4a950c105f72",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1772752885~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F04%2FTulsa_vs_Central_Arkansas_20260304_1772658029046%2F~psid=fb85d6b7-325b-4051-aa39-16c08c211005~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=582d55c8a1ded07246589ef36bd9cb3b8a2cb7ea03e037457fadead505d3b7b8/clt1/va02/disneyplus/event/2026/03/04/Tulsa_vs_Central_Arkansas_20260304_1772658029046/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=0ae4348353ac53043b6e5a734b846afe071ad675",
+    "k1": "d019bd77bd3c4a11a46c0951308d8f0b",
+    "k2": "ebeb279e6117dac6109964a9c8264e5c"
+  },
+  {
+    "title": "Equipo F: la previa de Nacional vs. Millonarios",
+    "league": "ESPN",
+    "fecha-evento": "2026-03-04T18:00:00-05:00",
+    "img": "019c9af1-a2f8-7735-bca6-8945c6103b61",
+    "nombre": "disney663623",
+    "status": "18:00",
+    "duration": 60,
+    "play_url": "https://www.disneyplus.com/es-es/play/3b8766cb-3e89-4d08-b7e2-9b4a20fdc397",
+    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1772752932~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F921e1311-bb26-43dd-84a6-9e2284959712-1762950465141%2F~psid=51b5d66a-359b-4249-9b5a-c1c33da857cf~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=170f5d8c2680d47d4925c54270f662c32a09e5db8669e6a7d145214c6a40f222/clt1/va02/disneyplus/channel/921e1311-bb26-43dd-84a6-9e2284959712-1762950465141/ctr-all-sliding-alt1.m3u8?r=1080&v=1&hash=05f9062123442e94376d1e22b34b3bf1b8ec4021",
+    "k1": "a5d8793c1c92462aabcc3d55261a884a",
+    "k2": "09ddbc4f103f29c69dfd30723d4bcc42"
   },
   {
     "title": "Vegas Golden Knights vs. Detroit Red Wings",
@@ -636,6 +619,16 @@
     "fecha-evento": "2026-03-05T14:00:00-05:00",
     "img": "59cbb7ba-f91b-468a-b5a7-dda3f61030f8",
     "nombre": "disney4deb5a",
+    "status": "14:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Benedict vs. Lane (Cuartos de Final #4)",
+    "league": "Básquet Femenino NCAA",
+    "fecha-evento": "2026-03-05T14:00:00-05:00",
+    "img": "6599bc15-70a9-4d6e-913e-04b94be58edf",
+    "nombre": "disney725e3e",
     "status": "14:00",
     "duration": 135,
     "play_url": ""
