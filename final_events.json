@@ -205,19 +205,6 @@
     "k2": "a135e9d0fb59dc96e878fbb462b503a4"
   },
   {
-    "title": "Azusa Pacific vs. Duquesne",
-    "league": "College Gymnastics",
-    "fecha-evento": "2026-03-04T18:00:00-05:00",
-    "img": "db29f4af-9eb8-493d-a15b-d341edb026f4",
-    "nombre": "disney110a49",
-    "status": "18:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/860bdeec-1127-4d50-b469-5210c7b13265",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1772752839~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F04%2FAzusa_Pacific_vs_Duquesne_20260304_1772658008043%2F~psid=a18cc7cd-c187-41ad-a4b9-8638f50f140d~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=1f7701ba8e72ed7f5e5a5757e237d57e77801008a4bab331970626b077c1a2ae/clt1/va02/disneyplus/event/2026/03/04/Azusa_Pacific_vs_Duquesne_20260304_1772658008043/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=83ea53b8121053ac719e29654083e0986c19124f",
-    "k1": "80db1f985cad413180f493a7ad2c67f8",
-    "k2": "cbeb61beedb37f505c170ef2e79200cd"
-  },
-  {
     "title": "Tulsa vs. Central Arkansas",
     "league": "NCAA Softball",
     "fecha-evento": "2026-03-04T18:00:00-05:00",
@@ -242,6 +229,19 @@
     "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1772752932~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F921e1311-bb26-43dd-84a6-9e2284959712-1762950465141%2F~psid=51b5d66a-359b-4249-9b5a-c1c33da857cf~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=170f5d8c2680d47d4925c54270f662c32a09e5db8669e6a7d145214c6a40f222/clt1/va02/disneyplus/channel/921e1311-bb26-43dd-84a6-9e2284959712-1762950465141/ctr-all-sliding-alt1.m3u8?r=1080&v=1&hash=05f9062123442e94376d1e22b34b3bf1b8ec4021",
     "k1": "a5d8793c1c92462aabcc3d55261a884a",
     "k2": "09ddbc4f103f29c69dfd30723d4bcc42"
+  },
+  {
+    "title": "Azusa Pacific vs. Duquesne",
+    "league": "College Gymnastics",
+    "fecha-evento": "2026-03-04T18:00:00-05:00",
+    "img": "db29f4af-9eb8-493d-a15b-d341edb026f4",
+    "nombre": "disney110a49",
+    "status": "18:00",
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/860bdeec-1127-4d50-b469-5210c7b13265",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1772752839~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F04%2FAzusa_Pacific_vs_Duquesne_20260304_1772658008043%2F~psid=a18cc7cd-c187-41ad-a4b9-8638f50f140d~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=1f7701ba8e72ed7f5e5a5757e237d57e77801008a4bab331970626b077c1a2ae/clt1/va02/disneyplus/event/2026/03/04/Azusa_Pacific_vs_Duquesne_20260304_1772658008043/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=83ea53b8121053ac719e29654083e0986c19124f",
+    "k1": "80db1f985cad413180f493a7ad2c67f8",
+    "k2": "cbeb61beedb37f505c170ef2e79200cd"
   },
   {
     "title": "Vegas Golden Knights vs. Detroit Red Wings",
