@@ -10,32 +10,6 @@
     "play_url": ""
   },
   {
-    "title": "Bermudas vs. Costa Rica",
-    "league": "Concacaf W Championship Qualifying",
-    "fecha-evento": "2026-03-03T17:50:00-05:00",
-    "img": "019c7814-b3d2-7cf3-afa9-0b36c7b9fa11",
-    "nombre": "disneyf7649a",
-    "status": "17:50",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/61fd097c-c38f-4d09-86e2-5fe2a399142f",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1772670473~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F03%2FBermudas_vs_Costa_Rica_20260303_1772571004045%2F~psid=4c7f8715-6b54-4ea4-8964-2d0af0639d3f~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=35538c77c2f55ee67c5f96b0f4790162bd507d3849fb29584033c883c773c14d/clt1/va02/disneyplus/event/2026/03/03/Bermudas_vs_Costa_Rica_20260303_1772571004045/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=63d2eedfab088da59fc15c92c57ac1ee067584d6",
-    "k1": "3aba474e53cc48c49f166c05f1d8aa6b",
-    "k2": "03cddfc876d3122872a6770f8e5e5332"
-  },
-  {
-    "title": "ESPN Tenis | Indian Wells",
-    "league": "ESPN",
-    "fecha-evento": "2026-03-03T19:00:00-05:00",
-    "img": "fb85c8ac-8260-4316-a57f-5fb20de56f5c",
-    "nombre": "disney31a353",
-    "status": "19:00",
-    "duration": 60,
-    "play_url": "https://www.disneyplus.com/es-es/play/7f28eca4-ca23-486e-8161-9b33e1236520",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1772670521~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F04%2FESPN_Tenis_Indian_Wells_20260304_1772575236042%2F~psid=c32b21bb-111d-4362-afe6-b18d57005757~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=9b7595e423259791e382402861e6793997a91398f60c5c6bf3051c7801aec72a/clt1/va02/disneyplus/event/2026/03/04/ESPN_Tenis_Indian_Wells_20260304_1772575236042/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=7c84f60a09613898913618faddc0e55d0433900c",
-    "k1": "2a8b1cf3d90f4268a64fd263851181ee",
-    "k2": "daa54e0beb9c5389e10232f06339c99c"
-  },
-  {
     "title": "Barcelona (ECU) vs. Botafogo (BRA)",
     "league": "CONMEBOL Libertadores",
     "fecha-evento": "2026-03-03T19:00:00-05:00",
@@ -654,6 +628,26 @@
     "fecha-evento": "2026-03-04T15:00:00-05:00",
     "img": "eac2fbe0-513b-4149-955c-9736768c7ebe",
     "nombre": "disney36cd9a",
+    "status": "15:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Balón Dividido: la previa de Nacional vs. Millonarios",
+    "league": "ESPN",
+    "fecha-evento": "2026-03-04T15:00:00-05:00",
+    "img": "019cb075-952a-79c9-9118-b71c14c30f57",
+    "nombre": "disneyb4dc9a",
+    "status": "15:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "México vs. Los Angeles Dodgers (Exhibicion)",
+    "league": "Clásico Mundial de Béisbol",
+    "fecha-evento": "2026-03-04T15:00:00-05:00",
+    "img": "019c96fc-045a-7c17-aa5f-89087fe45395",
+    "nombre": "disney35b1d9",
     "status": "15:00",
     "duration": 135,
     "play_url": ""
