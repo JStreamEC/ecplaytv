@@ -10,19 +10,6 @@
     "play_url": ""
   },
   {
-    "title": "San Cristóbal y Nieves vs. Panamá",
-    "league": "Concacaf W Championship Qualifying",
-    "fecha-evento": "2026-03-04T17:50:00-05:00",
-    "img": "019c7812-fc90-735c-890f-b8e78d10381e",
-    "nombre": "disneybabe7f",
-    "status": "17:50",
-    "duration": 125,
-    "play_url": "https://www.disneyplus.com/es-es/play/e6fcd182-a05e-4424-9e10-9bbf836c2c73",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1772751639~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F04%2FSan_Cristbal_y_Nieves_vs__20260304_1772658848261%2F~psid=d9e1ae21-23c5-4a43-99d4-ac24dbba05cf~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=dc5cbbf276c9af1bfddd1ca7951062446b47a142edf4a148c3b2eb6ef3cceadd/clt1/va02/disneyplus/event/2026/03/04/San_Cristbal_y_Nieves_vs__20260304_1772658848261/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=865da348e47a09cbdd9e7e9762c4a8763b7fa58c",
-    "k1": "e4c1551a807c46dd8a367b731a6e8049",
-    "k2": "a135e9d0fb59dc96e878fbb462b503a4"
-  },
-  {
     "title": "Lanús vs. Boca Juniors",
     "league": "Liga Profesional de Fútbol",
     "fecha-evento": "2026-03-04T18:45:04-05:00",
@@ -142,22 +129,28 @@
   {
     "title": "Canadá vs. Nicaragua",
     "league": "Campeonato CONCACAF Sub-20",
-    "fecha-evento": "2026-03-04T19:50:00-05:00",
+    "fecha-evento": "2026-03-04T19:50:05-05:00",
     "img": "019c7310-300c-715e-8b63-f045c5cd7fda",
-    "nombre": "disney4e9078",
+    "nombre": "disney602a57",
     "status": "19:50",
-    "duration": 135,
-    "play_url": ""
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/24b35a8b-e247-4024-b450-7115a7c400d3",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1772758837~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F05%2FCanad_vs_Nicaragua_20260305_1772664616020%2F~psid=d3dc2298-9a2f-4409-955f-dea4903411e0~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=bdf390f4647cae6e0034080144a223d39689f62a305d71f42fe672f7d3fe928f/clt1/va02/disneyplus/event/2026/03/05/Canad_vs_Nicaragua_20260305_1772664616020/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=ae3493d77b93d2e873a2e3df39806f6b1ee96913",
+    "k1": "81e106915ad342d4986313053fa3a565",
+    "k2": "c18f0deca2b2654c95557a0638a93794"
   },
   {
     "title": "Honduras vs. Trinidad y Tobago",
     "league": "Concacaf W Championship Qualifying",
-    "fecha-evento": "2026-03-04T19:55:00-05:00",
+    "fecha-evento": "2026-03-04T19:56:00-05:00",
     "img": "019c7813-85c5-789c-9036-3b3ee3363f41",
-    "nombre": "disneyae81b4",
-    "status": "19:55",
-    "duration": 135,
-    "play_url": ""
+    "nombre": "disney347e4c",
+    "status": "19:56",
+    "duration": 124,
+    "play_url": "https://www.disneyplus.com/es-es/play/7f37749f-efe3-4ac0-8c7c-1b3db355f3e2",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1772758883~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F05%2FHonduras_vs_Trinidad_y_To_20260305_1772664924023%2F~psid=614def6b-921e-4b4f-b5dd-1d6e866f1077~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=f93e3ba2b7f4d1d89cc56402282764c126a47d60f6f9dd9512d3abd6e64eefb8/clt1/va02/disneyplus/event/2026/03/05/Honduras_vs_Trinidad_y_To_20260305_1772664924023/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=1407cedbff7964ecd4553585e62fccab030a393c",
+    "k1": "0889387283f042d89f833c30766f333b",
+    "k2": "3a8fe5d73568fb8c0584d2a07e59849c"
   },
   {
     "title": "Edward Waters vs. Morehouse (Cuartos de Final #2)",
@@ -616,6 +609,16 @@
     "img": "019c779e-fc11-7e68-be46-7cef9383bce2",
     "nombre": "disney0effac",
     "status": "16:45",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Antigua & Barbuda vs. Guyana",
+    "league": "Concacaf W Championship Qualifying",
+    "fecha-evento": "2026-03-05T16:50:00-05:00",
+    "img": "019c9114-9201-7a7c-a77a-e43a59b51039",
+    "nombre": "disney859fe3",
+    "status": "16:50",
     "duration": 135,
     "play_url": ""
   }
