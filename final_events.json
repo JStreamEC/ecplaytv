@@ -36,19 +36,6 @@
     "k2": "6acd13f59f629696086c174e92a5ef7a"
   },
   {
-    "title": "BNP Paribas Open / Stadium 3",
-    "league": "ATP",
-    "fecha-evento": "2026-03-04T19:00:00-05:00",
-    "img": "d5f3824d-4f87-4b36-b5ae-e1ae8f3a09a4",
-    "nombre": "disneyea9da2",
-    "status": "19:00",
-    "duration": 300,
-    "play_url": "https://www.disneyplus.com/es-es/play/438df514-f9a0-44d6-a49a-7a8c9e4a78a4",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1772756488~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F05%2FBNP_Paribas_Open_Stadium__20260305_1772661639042%2F~psid=0d0553f3-81c6-4498-a649-293abb97a186~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=b1a5a40d8cae107e73c2dbb6d0b32d287610de6f56d85682c5bf77b419cb6944/clt1/va02/disneyplus/event/2026/03/05/BNP_Paribas_Open_Stadium__20260305_1772661639042/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=72c39b06ade7da953d5dead3e5d42129e1720b88",
-    "k1": "61de2151838b4efa8ac58df113a884e9",
-    "k2": "bd1e2de52cb4ef52971d892a91a91e23"
-  },
-  {
     "title": "Oklahoma City Thunder vs. New York Knicks",
     "league": "NBA",
     "fecha-evento": "2026-03-04T19:00:00-05:00",
@@ -155,12 +142,28 @@
   {
     "title": "Edward Waters vs. Morehouse (Cuartos de Final #2)",
     "league": "Básquetbol Masculino NCAA",
-    "fecha-evento": "2026-03-04T20:00:00-05:00",
+    "fecha-evento": "2026-03-04T19:58:52-05:00",
     "img": "ca493365-e964-4d57-a55f-8b23f9a023f1",
-    "nombre": "disney84c669",
-    "status": "20:00",
-    "duration": 135,
-    "play_url": ""
+    "nombre": "disney4f47c2",
+    "status": "19:58",
+    "duration": 121,
+    "play_url": "https://www.disneyplus.com/es-es/play/6b5fdfe5-be36-4ab0-942c-9f4ccd309132",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1772760036~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F05%2FEdward_Waters_vs_Morehous_20260305_1772665254042%2F~psid=3e166830-7cd9-4d71-997d-cc2730c94704~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=c11ac7f021df92f687dcd6ca3bace9ffffe65ba7b22a057011c139fda7cc3df8/clt1/va02/disneyplus/event/2026/03/05/Edward_Waters_vs_Morehous_20260305_1772665254042/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=b06c497970971ab16c8c4c334bc67878941048f1",
+    "k1": "3fa52267ff944597bb09cf6ed630a52b",
+    "k2": "4753662407602cf420101dbcde8f4968"
+  },
+  {
+    "title": "BNP Paribas Open / Stadium 3",
+    "league": "ATP",
+    "fecha-evento": "2026-03-04T19:00:00-05:00",
+    "img": "d5f3824d-4f87-4b36-b5ae-e1ae8f3a09a4",
+    "nombre": "disneyea9da2",
+    "status": "19:00",
+    "duration": 300,
+    "play_url": "https://www.disneyplus.com/es-es/play/438df514-f9a0-44d6-a49a-7a8c9e4a78a4",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1772756488~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F05%2FBNP_Paribas_Open_Stadium__20260305_1772661639042%2F~psid=0d0553f3-81c6-4498-a649-293abb97a186~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=b1a5a40d8cae107e73c2dbb6d0b32d287610de6f56d85682c5bf77b419cb6944/clt1/va02/disneyplus/event/2026/03/05/BNP_Paribas_Open_Stadium__20260305_1772661639042/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=72c39b06ade7da953d5dead3e5d42129e1720b88",
+    "k1": "61de2151838b4efa8ac58df113a884e9",
+    "k2": "bd1e2de52cb4ef52971d892a91a91e23"
   },
   {
     "title": "BNP Paribas Open (Primera Ronda)",
@@ -369,16 +372,6 @@
     "img": "019cbaa3-6230-70b5-8f8e-44d1f4fdb4d0",
     "nombre": "disneybbfea9",
     "status": "12:25",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Sun Belt Women's Basketball Championship (Tercera Ronda)",
-    "league": "Básquet Femenino NCAA",
-    "fecha-evento": "2026-03-05T12:30:00-05:00",
-    "img": "6599bc15-70a9-4d6e-913e-04b94be58edf",
-    "nombre": "disney803f11",
-    "status": "12:30",
     "duration": 135,
     "play_url": ""
   },
@@ -619,6 +612,16 @@
     "img": "019c9114-9201-7a7c-a77a-e43a59b51039",
     "nombre": "disney859fe3",
     "status": "16:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "ASUN Women's Basketball Championship (Cuartos de Final #3)",
+    "league": "Básquet Femenino NCAA",
+    "fecha-evento": "2026-03-05T17:00:00-05:00",
+    "img": "6599bc15-70a9-4d6e-913e-04b94be58edf",
+    "nombre": "disney62c4ee",
+    "status": "17:00",
     "duration": 135,
     "play_url": ""
   }
