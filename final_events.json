@@ -30,16 +30,6 @@
     "play_url": "https://www.disneyplus.com/es-es/play/fa005f71-b52d-4144-a128-bdfc71badcbe"
   },
   {
-    "title": "Paises Bajos vs. Venezuela (Grupo D)",
-    "league": "Clásico Mundial de Béisbol",
-    "fecha-evento": "2026-03-06T12:00:00-05:00",
-    "img": "019c9700-8ff2-798f-a04e-5181f2c0f8b5",
-    "nombre": "disneyc7ef07",
-    "status": "12:00",
-    "duration": 185,
-    "play_url": "https://www.disneyplus.com/es-es/play/877fc09c-3fe0-4034-ac8e-faf2bcf15960"
-  },
-  {
     "title": "México vs. Gran Bretaña (Grupo B)",
     "league": "Clásico Mundial de Béisbol",
     "fecha-evento": "2026-03-06T13:00:00-05:00",
@@ -48,16 +38,6 @@
     "status": "13:00",
     "duration": 180,
     "play_url": "https://www.disneyplus.com/es-es/play/0ca37581-ee42-48c3-ae69-5667ad5da967"
-  },
-  {
-    "title": "Drake vs. Belmont (Cuartos de Final #1)",
-    "league": "Básquetbol Masculino NCAA",
-    "fecha-evento": "2026-03-06T13:00:04-05:00",
-    "img": "f207a98a-3eb4-4203-8c61-35d99f4e067a",
-    "nombre": "disney1525c4",
-    "status": "13:00",
-    "duration": 125,
-    "play_url": "https://www.disneyplus.com/es-es/play/b345a8c1-e939-44c3-8a75-b1d386ec42f3"
   },
   {
     "title": "Escocia U20 vs. Francia U20",
@@ -310,24 +290,17 @@
     "play_url": "https://www.disneyplus.com/es-es/play/bc197aae-9844-4bb3-b805-b4bcb0c9dbd2"
   },
   {
-    "title": "Irlanda vs. Gales",
-    "league": "Seis Naciones",
-    "fecha-evento": "2026-03-06T15:00:00-05:00",
-    "img": "019caea0-1d46-78fc-807e-7033f984e6f1",
-    "nombre": "disneyc70f1e",
-    "status": "15:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "WTA BNP Paribas Open / Stadium 6",
     "league": "WTA",
     "fecha-evento": "2026-03-06T15:00:00-05:00",
     "img": "e4f6c492-ded3-4b6b-b643-c2c516b67591",
     "nombre": "disneyd6a64c",
     "status": "15:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 420,
+    "play_url": "https://www.disneyplus.com/es-es/play/e36089e8-899a-40b2-96b0-0a8072e7bea1",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1772915691~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F06%2FWTA_BNP_Paribas_Open_Stad_20260306_1772820047043%2F~psid=c71046d7-d77a-4469-b09d-4f26d2b6d051~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=148cd2e45f5b3f87602643ea00e9f65c86a882718aa024f3fc1534658ae0ff35/clt1/va02/disneyplus/event/2026/03/06/WTA_BNP_Paribas_Open_Stad_20260306_1772820047043/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=81d143be9bebabf897f86369f884713868722b22",
+    "k1": "dab41d09bb5041eaab025e930935db7c",
+    "k2": "76130aded21c545de67a2eb07891eba7"
   },
   {
     "title": "BNP Paribas Open / Stadium 2",
@@ -336,18 +309,37 @@
     "img": "eac2fbe0-513b-4149-955c-9736768c7ebe",
     "nombre": "disney2bc2ea",
     "status": "15:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 600,
+    "play_url": "https://www.disneyplus.com/es-es/play/b8e158c7-ea6e-47f4-93a6-62816ff87261",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1772915717~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F06%2FBNP_Paribas_Open_Stadium__20260306_1772820035016%2F~psid=f0f60ed7-9a1f-4f0f-a103-a57b0f3d7df6~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=5b916ebd67b87ac7083b0b029756a3ccbba7a4dc2662bc16b1617487d627cf39/clt1/va02/disneyplus/event/2026/03/06/BNP_Paribas_Open_Stadium__20260306_1772820035016/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=35539aa5237c37e00553c686f9489afb9a486500",
+    "k1": "8430023a14af4d52993053c4bb2a0c70",
+    "k2": "d16db1602d57b04d01bd8b6d65781b66"
+  },
+  {
+    "title": "Irlanda vs. Gales",
+    "league": "Seis Naciones",
+    "fecha-evento": "2026-03-06T15:00:00-05:00",
+    "img": "019caea0-1d46-78fc-807e-7033f984e6f1",
+    "nombre": "disneyc70f1e",
+    "status": "15:00",
+    "duration": 115,
+    "play_url": "https://www.disneyplus.com/es-es/play/4623419a-db52-4dbb-bf12-1704ac9c5f8c",
+    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1772915743~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Fec26a05e-a9cc-4db4-804e-77465738e667-1771235129410%2F~psid=9bc062a7-0c51-45a3-b9d1-47e5e283137b~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=9aa89748f10beddf53baed9386407669a956c5fc263ddb4dd99ecf7e39aedf2e/clt1/va02/disneyplus/channel/ec26a05e-a9cc-4db4-804e-77465738e667-1771235129410/ctr-all-sliding-alt1.m3u8?r=1080&v=1&hash=207573fc35554458b85429cbcf2e59459731ed02",
+    "k1": "3dc49bdc6c8e4fefbb611016ab5b1f23",
+    "k2": "f4127b864b5359df3b27b853d6436beb"
   },
   {
     "title": "Washington State vs. Pacific (Segunda Ronda)",
     "league": "Básquet Femenino NCAA",
-    "fecha-evento": "2026-03-06T15:00:00-05:00",
+    "fecha-evento": "2026-03-06T15:00:03-05:00",
     "img": "019be396-cdfd-7806-bc7d-ced7ae456d09",
-    "nombre": "disney8aea3a",
+    "nombre": "disneya9cdd0",
     "status": "15:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 140,
+    "play_url": "https://www.disneyplus.com/es-es/play/e62dde58-be75-48a8-b8bf-19b54b884372",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1772915771~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F06%2FWashington_State_vs_Pacif_20260306_1772820002019%2F~psid=d75da0bb-fb12-431a-ac1e-48b903df9011~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=49e3bc5779eba3c2bdf6f58215bcd71ab5dd36fd0a7ca4cb450ecb1c0890b744/clt1/va02/disneyplus/event/2026/03/06/Washington_State_vs_Pacif_20260306_1772820002019/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=d9b7da554a541934db256a5ce2981197d5c6fed1",
+    "k1": "0cbd84e9e34747a5ab1748e539376a27",
+    "k2": "624c8bcd1d30d16936ed0087b24e93a4"
   },
   {
     "title": "UIC vs. Murray State (Cuartos de Final #2)",
@@ -615,6 +607,26 @@
     "fecha-evento": "2026-03-06T20:00:00-05:00",
     "img": "019cb540-db76-77cb-b2c9-e360c5d4c25f",
     "nombre": "disney362d95",
+    "status": "20:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Miles vs. Morehouse (Semifinal #2)",
+    "league": "Básquetbol Masculino NCAA",
+    "fecha-evento": "2026-03-06T20:00:00-05:00",
+    "img": "ca493365-e964-4d57-a55f-8b23f9a023f1",
+    "nombre": "disney06a4ac",
+    "status": "20:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Arizona State vs. Arizona",
+    "league": "NCAA Gimnasia Femenina",
+    "fecha-evento": "2026-03-06T20:00:00-05:00",
+    "img": "381bc42f-b4a0-467e-bf87-b6394f8b4927",
+    "nombre": "disneya74c8a",
     "status": "20:00",
     "duration": 135,
     "play_url": ""
