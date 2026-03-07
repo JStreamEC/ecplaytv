@@ -20,19 +20,6 @@
     "play_url": ""
   },
   {
-    "title": "Islas Caimán vs. Guatemala",
-    "league": "Concacaf W Championship Qualifying",
-    "fecha-evento": "2026-03-06T18:50:07-05:00",
-    "img": "019c7813-3e61-72c2-ad9d-36eab246c22f",
-    "nombre": "disney9a98a5",
-    "status": "18:50",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/e9c8a250-0732-4cc3-a06c-b3feefbb2082",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1772928232~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F06%2FIslas_Caimn_vs_Guatemala_20260306_1772833857040%2F~psid=5ac04638-1027-43d3-9a9f-f7822c2dfd03~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=1b9f3258a9bdde033d8e22d0b5c069dc66ebf78a8404e310bd13425b58164bfa/clt1/va02/disneyplus/event/2026/03/06/Islas_Caimn_vs_Guatemala_20260306_1772833857040/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=85114c79c6c34532e9247803e7190a329edffb4e",
-    "k1": "2a90eaf743364a998b3b1db089d4e526",
-    "k2": "e6b0cb1f546ff99ac842e199ae6ff18f"
-  },
-  {
     "title": "Florida Panthers vs. Detroit Red Wings",
     "league": "National Hockey League",
     "fecha-evento": "2026-03-06T19:00:00-05:00",
@@ -683,6 +670,16 @@
     "img": "019cb158-924b-72e8-8f0d-7ef777c1313b",
     "nombre": "disneyab0455",
     "status": "09:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Freiburg vs. Bayer Leverkusen",
+    "league": "Bundesliga",
+    "fecha-evento": "2026-03-07T09:15:00-05:00",
+    "img": "019c971b-a034-727b-b2bc-a448825ffcd0",
+    "nombre": "disneyf9d876",
+    "status": "09:15",
     "duration": 135,
     "play_url": ""
   }
