@@ -131,19 +131,6 @@
     "k2": "2cec372beb0e6ca76c52122ca215a741"
   },
   {
-    "title": "Arizona State vs. Arizona",
-    "league": "NCAA Gimnasia Femenina",
-    "fecha-evento": "2026-03-06T20:00:00-05:00",
-    "img": "381bc42f-b4a0-467e-bf87-b6394f8b4927",
-    "nombre": "disneya74c8a",
-    "status": "20:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/3207dc0e-aa63-4eda-a14b-70dd3f6a12d7",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1772932936~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F07%2FArizona_State_vs_Arizona_20260307_1772838001046%2F~psid=141f4bca-a4fd-45cb-9664-7510ad3b7909~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=01a5c1f7dec0dce3c2abe50e664f3ee3bdc02b375b7caaba79e2d9245afa79ab/clt1/va02/disneyplus/event/2026/03/07/Arizona_State_vs_Arizona_20260307_1772838001046/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=03790e3d6799d20cd9bb6eba9293d59de7d7c97d",
-    "k1": "ecd9d2f0338747a2ae67c3ed99d6a67a",
-    "k2": "a23beafd786f96570649e8d2d73d62bf"
-  },
-  {
     "title": "F1 GP Australia, práctica #3 | Con Tornello, Fossaroli y Cochito López",
     "league": "Fórmula 1",
     "fecha-evento": "2026-03-06T20:00:00-05:00",
@@ -157,16 +144,6 @@
     "k2": "af0fb81a078f7a974d3a80a06e80425b"
   },
   {
-    "title": "Vancouver Canucks vs. Chicago Blackhawks",
-    "league": "National Hockey League",
-    "fecha-evento": "2026-03-06T20:30:00-05:00",
-    "img": "b67f7762-ba9b-4fb5-93c0-0a835cd0d1a4",
-    "nombre": "disneyb3ac6f",
-    "status": "20:30",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Estados Unidos vs. Brasil (Grupo B)",
     "league": "Clásico Mundial de Béisbol",
     "fecha-evento": "2026-03-06T20:00:02-05:00",
@@ -178,6 +155,19 @@
     "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1772932992~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F07%2FEn_EspaolUSA_vs_Brazil_Po_20260307_1772840434595%2F~psid=3e808b1b-b040-4a50-9c56-c9fad2a709aa~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=2d93f8adbe825a905d460676d71a0927c103edfce78e59c21a26026fb2b3d39c/clt1/va02/disneyplus/event/2026/03/07/En_EspaolUSA_vs_Brazil_Po_20260307_1772840434595/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=fb31d4566fffed517b0e9dd3e7b6df95fc154647",
     "k1": "3c61d64f3e5044b5a1fb332e58b05f6e",
     "k2": "eeb4e1d3dae34e525a8e732487f37766"
+  },
+  {
+    "title": "Arizona State vs. Arizona",
+    "league": "NCAA Gimnasia Femenina",
+    "fecha-evento": "2026-03-06T20:00:00-05:00",
+    "img": "381bc42f-b4a0-467e-bf87-b6394f8b4927",
+    "nombre": "disneya74c8a",
+    "status": "20:00",
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/3207dc0e-aa63-4eda-a14b-70dd3f6a12d7",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1772932936~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F07%2FArizona_State_vs_Arizona_20260307_1772838001046%2F~psid=141f4bca-a4fd-45cb-9664-7510ad3b7909~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=01a5c1f7dec0dce3c2abe50e664f3ee3bdc02b375b7caaba79e2d9245afa79ab/clt1/va02/disneyplus/event/2026/03/07/Arizona_State_vs_Arizona_20260307_1772838001046/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=03790e3d6799d20cd9bb6eba9293d59de7d7c97d",
+    "k1": "ecd9d2f0338747a2ae67c3ed99d6a67a",
+    "k2": "a23beafd786f96570649e8d2d73d62bf"
   },
   {
     "title": "Colorado Avalanche vs. Dallas Stars",
@@ -206,14 +196,43 @@
     "k2": "e59d86a97d1d74e97a90d32999dc648b"
   },
   {
+    "title": "BNP Paribas Open / Stadium 4",
+    "league": "ATP",
+    "fecha-evento": "2026-03-06T20:16:49-05:00",
+    "img": "001e63d6-4ed7-4e0f-aa73-82aab0f72cc2",
+    "nombre": "disneyfbae6d",
+    "status": "20:16",
+    "duration": 103,
+    "play_url": "https://www.disneyplus.com/es-es/play/3e2ccc4a-701f-4a1a-8cd8-0128746a4a63",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1772934137~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F06%2FBNP_Paribas_Open_Stadium__20260306_1772830825017%2F~psid=1d70cc73-25cf-4d4e-9576-d12c921e52bd~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=48902099b912f3fa364138de3458a5c8ae86c9cbb0fff86684b15f6974c3f1fe/clt1/va02/disneyplus/event/2026/03/06/BNP_Paribas_Open_Stadium__20260306_1772830825017/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=a53718342f940f670906d6d6712a9cf88605016e",
+    "k1": "732b87841a4e4882b3b85e5376bd96cc",
+    "k2": "9f8e7764df10d090f9b795b0ac44d027"
+  },
+  {
+    "title": "Vancouver Canucks vs. Chicago Blackhawks",
+    "league": "National Hockey League",
+    "fecha-evento": "2026-03-06T20:25:28-05:00",
+    "img": "b67f7762-ba9b-4fb5-93c0-0a835cd0d1a4",
+    "nombre": "disneyf0d48c",
+    "status": "20:25",
+    "duration": 215,
+    "play_url": "https://www.disneyplus.com/es-es/play/a572f97b-a4ef-42e9-8e3c-2eb8638bbdfd",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1772934166~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F07%2FVancouver_Canucks_vs_Chic_20260307_1772839839514%2F~psid=b5b74f05-8d4e-4253-83b9-033f5e43ce7d~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=07344985ae42c0142968c2e420d0dedd30b8aaf37b6115b492a01e10a1ff8d24/clt1/va02/disneyplus/event/2026/03/07/Vancouver_Canucks_vs_Chic_20260307_1772839839514/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=7f72ff388790ca5e8175fedaf25e1f107c36a20f",
+    "k1": "765bdf5049e14efa868a1680addf44ea",
+    "k2": "355c2eb3f6f38dfb5df3f980d96e87f4"
+  },
+  {
     "title": "Fairfield vs. Saint Peter's (Cuartos de Final #2)",
     "league": "Básquetbol Masculino NCAA",
     "fecha-evento": "2026-03-06T20:30:00-05:00",
     "img": "019c5ede-5bf8-709d-8126-85c614b5564b",
     "nombre": "disney638d88",
     "status": "20:30",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/f7b59781-0b67-45db-a536-7f3b5a1a8b80",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1772934194~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F07%2FFairfield_vs_Saint_Peters_20260307_1772839809048%2F~psid=86335087-df31-4108-8e8b-da6ad5714fec~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=68c29462fafdd52eea9d10b210d1245a1269788a3c982cf262bf0a2449f8287b/clt1/va02/disneyplus/event/2026/03/07/Fairfield_vs_Saint_Peters_20260307_1772839809048/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=7c19365db24fe229673739a766a6d9df31f43c75",
+    "k1": "d5e98f752a5c4315928c1c3dcb04e9f1",
+    "k2": "ca3bba2f7c18a52b3998b12dbaa8de75"
   },
   {
     "title": "F1 GP Australia, práctica #3 | On Board Norris",
@@ -222,8 +241,11 @@
     "img": "019cb007-d8bc-74e8-b0a8-ae71e5c63f0a",
     "nombre": "disneyfb0538",
     "status": "20:30",
-    "duration": 135,
-    "play_url": ""
+    "duration": 60,
+    "play_url": "https://www.disneyplus.com/es-es/play/0580c40a-04fd-41fb-aa60-8244cadd4956",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1772934222~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F07%2FF1_GP_Australia_prctica_3_20260307_1772839831046%2F~psid=0b9dfe87-2443-4695-8a99-7700d27bc767~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=8639ffda627fc16b808c1353c5f18ee37c890edc0ebef0b7cad9a35811f49e5e/clt1/va02/disneyplus/event/2026/03/07/F1_GP_Australia_prctica_3_20260307_1772839831046/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=9cafc8af7947a00ac5faa755474c8dd92c67c61d",
+    "k1": "3336543cc1eb4da3a4ffeb63c1f340e6",
+    "k2": "cf17bdd050fd75bf3b6039af553c9b50"
   },
   {
     "title": "Presbyterian vs. Radford (Cuartos de Final #4)",
@@ -232,8 +254,11 @@
     "img": "8bf60c11-5586-4d36-8f16-ee30ffcb6d2c",
     "nombre": "disney326ba0",
     "status": "20:30",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/768b58b7-4e5a-4c00-b8f2-3429791b58b6",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1772934249~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F07%2FPresbyterian_vs_Radford_Q_20260307_1772839809041%2F~psid=64296204-1571-463c-9e98-54725ca602ef~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=5d36ad4dd292e522e40ac39de62138dd526de0a55afe011cac5f395de618fb09/clt1/va02/disneyplus/event/2026/03/07/Presbyterian_vs_Radford_Q_20260307_1772839809041/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=16ba82dd1affca08e113c7a6eca30c0ece730d4e",
+    "k1": "693c86558fae4dac9a6816a8b5a79170",
+    "k2": "5765b4fe0dec0c163c0db3a980067498"
   },
   {
     "title": "F1 GP Australia, práctica #3 | Cámara On Board",
@@ -242,8 +267,11 @@
     "img": "019c922a-cf6f-74d9-9a61-a73f8a87ff69",
     "nombre": "disney9cec4d",
     "status": "20:30",
-    "duration": 135,
-    "play_url": ""
+    "duration": 60,
+    "play_url": "https://www.disneyplus.com/es-es/play/29d62ba6-14a3-4b68-9bf9-4d20eb1cc677",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1772934277~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F07%2FF1_GP_Australia_prctica_3_20260307_1772839806016%2F~psid=2559f8d1-06a2-4d04-8899-9e1c2f5290e9~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=f436909f88e9873bdce4873abec82448c22132e12f4ef6d9365f5f3a992f5728/clt1/va02/disneyplus/event/2026/03/07/F1_GP_Australia_prctica_3_20260307_1772839806016/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=869aa34cebb14a5bd2c0ca8aadbef3f4c1031852",
+    "k1": "9cac8622fc1749789b43d756ebd2d98e",
+    "k2": "a3579b32313eb5c663005f675df4f670"
   },
   {
     "title": "Carolina Hurricanes vs. Edmonton Oilers",
@@ -262,8 +290,11 @@
     "img": "019cb6e6-3612-7700-b679-52c58da3f449",
     "nombre": "disney0d1b9c",
     "status": "20:30",
-    "duration": 135,
-    "play_url": ""
+    "duration": 60,
+    "play_url": "https://www.disneyplus.com/es-es/play/844a7091-295c-4539-9d92-105412bd1456",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1772934306~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F07%2FF1_GP_Australia_prctica_3_20260307_1772839843016%2F~psid=dc7f7940-1429-4afe-aea6-93bc09fd9c45~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=752013d5d6039d5484df186d4cbc9a953c3be1734d1458564edf93c4fd87e579/clt1/va02/disneyplus/event/2026/03/07/F1_GP_Australia_prctica_3_20260307_1772839843016/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=05cd5592a48fb2578410cdcc425be3518a0f47ef",
+    "k1": "fd0a2cafc0eb47fcb6f8589d7475c4b4",
+    "k2": "574cf151edae302b175dbd591cd6f0f1"
   },
   {
     "title": "WTA BNP Paribas Open / Stadium 3",
@@ -652,16 +683,6 @@
     "img": "019cb158-924b-72e8-8f0d-7ef777c1313b",
     "nombre": "disneyab0455",
     "status": "09:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Freiburg vs. Bayer Leverkusen",
-    "league": "Bundesliga",
-    "fecha-evento": "2026-03-07T09:15:00-05:00",
-    "img": "019c971b-a034-727b-b2bc-a448825ffcd0",
-    "nombre": "disneyf9d876",
-    "status": "09:15",
     "duration": 135,
     "play_url": ""
   }
