@@ -12,10 +12,10 @@
   {
     "title": "Arnold Palmer Invitational presented by Mastercard: Main Feed (Tercera Ronda)",
     "league": "PGA TOUR",
-    "fecha-evento": "2026-03-07T09:00:00-05:00",
+    "fecha-evento": "2026-03-07T09:15:00-05:00",
     "img": "6ae2b9a0-1cf5-4503-9492-c0be566f4841",
-    "nombre": "disney30a148",
-    "status": "09:00",
+    "nombre": "disney05d271",
+    "status": "09:15",
     "duration": 135,
     "play_url": ""
   },
@@ -77,19 +77,6 @@
     "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1772928389~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F07%2FValparaiso_vs_Bradley_Qua_20260307_1772837529705%2F~psid=2f905a65-18a9-43f3-a57a-5a603cfedc3e~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=ca2f07467f65eee2b6f2ead777a4e06ca6a63afa75c77f4f19e8c42bf238bee2/clt1/va02/disneyplus/event/2026/03/07/Valparaiso_vs_Bradley_Qua_20260307_1772837529705/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=0ba5d292d99f3a9aafd7fc27f63327394b2ea364",
     "k1": "7f85688192a3479c9586049fa9e643cd",
     "k2": "c0525c917736ec2e36955c405af5c112"
-  },
-  {
-    "title": "Kentucky vs. Alabama",
-    "league": "NCAA Gimnasia Femenina",
-    "fecha-evento": "2026-03-06T19:30:04-05:00",
-    "img": "381bc42f-b4a0-467e-bf87-b6394f8b4927",
-    "nombre": "disneyaa24f3",
-    "status": "19:30",
-    "duration": 90,
-    "play_url": "https://www.disneyplus.com/es-es/play/df19dd20-440e-4e3e-b7e4-dad6b85f716f",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1772930561~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F07%2F22_Kentucky_vs_3_Alabama_20260307_1772836208034%2F~psid=5c49c4fc-ba9e-46f3-8048-3cd8a12b1a4b~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=9191b29d01915b5119e4e3e9d33439511c097be2830b3a349c1228ff93e7f473/clt1/va02/disneyplus/event/2026/03/07/22_Kentucky_vs_3_Alabama_20260307_1772836208034/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=cba1b1d3446770afe34e1edf672c23ddae6657ca",
-    "k1": "3b0d4edce2ca45c5bc92a980165aae2d",
-    "k2": "695d0680647d1d4674332fc2d928aaf0"
   },
   {
     "title": "West Georgia vs. Queens University (Cuartos de Final #4)",
@@ -404,24 +391,17 @@
     "k2": "470c81d7de86bb9dd4dc2d4e7a75f4b4"
   },
   {
-    "title": "St. Louis Blues vs. San Jose Sharks",
-    "league": "National Hockey League",
-    "fecha-evento": "2026-03-06T22:00:00-05:00",
-    "img": "019cb582-69aa-7d89-9625-5ddf662cb759",
-    "nombre": "disneyf68523",
-    "status": "22:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Northern Iowa vs. Illinois State (Cuartos de Final #4)",
     "league": "Básquetbol Masculino NCAA",
     "fecha-evento": "2026-03-06T21:30:00-05:00",
     "img": "019cc35b-14b9-79df-84a9-c0f3d8700035",
     "nombre": "disney1a31e5",
     "status": "21:30",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/371e2349-d0cc-4f09-88b7-b1ab9447315d",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1772937739~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F07%2FNorthern_Iowa_vs_Illinois_20260307_1772843447042%2F~psid=fe6107a6-402d-4d93-9c7c-a68dc7f554de~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=7165628ac23ab68dd351ab3ba8d913046a1de458e3ab217dd1233731ada472aa/clt1/va02/disneyplus/event/2026/03/07/Northern_Iowa_vs_Illinois_20260307_1772843447042/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=c410ec5496219eb9c140c543c8cadfeca7cd4d1e",
+    "k1": "404441b7df8b4272bc0ee33e37b87e76",
+    "k2": "1c366ade5efbd93efdd912008f263732"
   },
   {
     "title": "LA Clippers vs. San Antonio Spurs",
@@ -430,8 +410,11 @@
     "img": "019c96f9-5606-705a-b801-8aed5fd9f13b",
     "nombre": "disney0aa0e2",
     "status": "21:30",
-    "duration": 135,
-    "play_url": ""
+    "duration": 150,
+    "play_url": "https://www.disneyplus.com/es-es/play/7036035c-c13d-4af9-8aa8-49bb4865bf33",
+    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1772937767~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Fbbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1767092609127%2F~psid=a020ab9a-d647-4560-b8d3-6f85826efd3c~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=0c2d0bf54155f0ded624a42f21db617880eafc5e307a0e33b2ffe223be887e40/clt1/va02/disneyplus/channel/bbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1767092609127/ctr-all-sliding-alt1.m3u8?r=1080&v=1&hash=eb3d49e5bd70aee4517206fa38f01931a46eb473",
+    "k1": "ab97c698a4f848bcb55c1247cd137dd5",
+    "k2": "faa722665ab908c70df6f3230d7d8411"
   },
   {
     "title": "Minnesota Wild vs. Vegas Golden Knights",
@@ -439,6 +422,16 @@
     "fecha-evento": "2026-03-06T22:00:00-05:00",
     "img": "019b660a-e535-7a53-a3ef-6de321787335",
     "nombre": "disneyc7102a",
+    "status": "22:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "St. Louis Blues vs. San Jose Sharks",
+    "league": "National Hockey League",
+    "fecha-evento": "2026-03-06T22:00:00-05:00",
+    "img": "019cb582-69aa-7d89-9625-5ddf662cb759",
+    "nombre": "disneyf68523",
     "status": "22:00",
     "duration": 135,
     "play_url": ""
@@ -710,6 +703,16 @@
     "img": "019c971b-a034-727b-b2bc-a448825ffcd0",
     "nombre": "disneyf9d876",
     "status": "09:15",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Wolfsburg vs. Hamburg SV",
+    "league": "Bundesliga",
+    "fecha-evento": "2026-03-07T09:20:00-05:00",
+    "img": "019c9727-fc99-7cde-b41b-69b15a56d482",
+    "nombre": "disney07e17c",
+    "status": "09:20",
     "duration": 135,
     "play_url": ""
   }
