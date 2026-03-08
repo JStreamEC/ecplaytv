@@ -143,19 +143,6 @@
     "k2": "aa7cc4b11af4eb1af56c8b35f5713a19"
   },
   {
-    "title": "WTA BNP Paribas Open / Stadium 6 (Doubles)",
-    "league": "WTA",
-    "fecha-evento": "2026-03-08T16:00:00-05:00",
-    "img": "e4f6c492-ded3-4b6b-b643-c2c516b67591",
-    "nombre": "disney49f535",
-    "status": "16:00",
-    "duration": 300,
-    "play_url": "https://www.disneyplus.com/es-es/play/5a784414-35a6-4649-9309-f7dfb556e2ea",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1773091248~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F08%2FWTA_BNP_Paribas_Open_Stad_20260308_1772996453019%2F~psid=6e8a5be4-6e6b-4ce4-bcc3-7cf64f394fa8~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=db3165a5fe5b64f63801b938ab2013a3fab9080951082a4a0f728f8c06a62ab0/clt1/va02/disneyplus/event/2026/03/08/WTA_BNP_Paribas_Open_Stad_20260308_1772996453019/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=984d32aeb4a466fbcd048ee85b631ddac7b2fbbd",
-    "k1": "6cddfb3c7b9b4bb9a83684b9d7c6d50e",
-    "k2": "232692fd860e0254b06a9d25f075861a"
-  },
-  {
     "title": "BNP Paribas Open / Stadium 3",
     "league": "ATP",
     "fecha-evento": "2026-03-08T16:00:00-05:00",
@@ -299,14 +286,30 @@
     "k2": "634eb02bd141552078814fc3197648ad"
   },
   {
+    "title": "WTA BNP Paribas Open / Stadium 6 (Doubles)",
+    "league": "WTA",
+    "fecha-evento": "2026-03-08T16:00:00-05:00",
+    "img": "e4f6c492-ded3-4b6b-b643-c2c516b67591",
+    "nombre": "disney49f535",
+    "status": "16:00",
+    "duration": 300,
+    "play_url": "https://www.disneyplus.com/es-es/play/5a784414-35a6-4649-9309-f7dfb556e2ea",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1773091248~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F08%2FWTA_BNP_Paribas_Open_Stad_20260308_1772996453019%2F~psid=6e8a5be4-6e6b-4ce4-bcc3-7cf64f394fa8~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=db3165a5fe5b64f63801b938ab2013a3fab9080951082a4a0f728f8c06a62ab0/clt1/va02/disneyplus/event/2026/03/08/WTA_BNP_Paribas_Open_Stad_20260308_1772996453019/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=984d32aeb4a466fbcd048ee85b631ddac7b2fbbd",
+    "k1": "6cddfb3c7b9b4bb9a83684b9d7c6d50e",
+    "k2": "232692fd860e0254b06a9d25f075861a"
+  },
+  {
     "title": "Nicaragua vs. Israel (Grupo D)",
     "league": "Clásico Mundial de Béisbol",
     "fecha-evento": "2026-03-08T18:00:00-05:00",
     "img": "019ca4d2-6e03-795a-b404-c2b0a67e7a97",
     "nombre": "disney8e146b",
     "status": "18:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 180,
+    "play_url": "https://www.disneyplus.com/es-es/play/139bdade-9237-4157-88fa-f55f93824bc8",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1773097245~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F08%2FEn_EspaolNicaragua_vs_Isr_20260308_1773003627021%2F~psid=3c3492e4-6f8b-4c05-9111-d0b3163eaae6~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=c5e98e084d47be5844390f09a4964a052aeabdf43603a5cf438ccb2634840a63/clt1/va02/disneyplus/event/2026/03/08/En_EspaolNicaragua_vs_Isr_20260308_1773003627021/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=b5d35197cc154fa09fe75d421193964f476747a0",
+    "k1": "cc88d7fa3b7a43a3ac1c261c0a03e30e",
+    "k2": "dd198840957c53a29ba6315e13dfaaeb"
   },
   {
     "title": "Detroit Red Wings vs. New Jersey Devils",
@@ -315,8 +318,11 @@
     "img": "019a766f-0a14-7a70-bfa0-29516b9c3d99",
     "nombre": "disneyc2cbe1",
     "status": "18:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 150,
+    "play_url": "https://www.disneyplus.com/es-es/play/aac713ab-7505-46e7-b1c7-f1da23c70378",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1773097292~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F08%2FDetroit_Red_Wings_vs_New__20260308_1773003631036%2F~psid=66a3a1e7-6e0c-47a5-bb03-a69a3791cfc5~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=f854be65208f3c415c148cee73b0d5d8da42c72625069307ae3ca1b5e6e28792/clt1/va02/disneyplus/event/2026/03/08/Detroit_Red_Wings_vs_New__20260308_1773003631036/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=1ee2d591e72e70d38a9a22fddb95a9126ee70eaf",
+    "k1": "ef8d81cec1dc410180f5d5a48cfc2c0a",
+    "k2": "ca2356cf5e67c44fec38e90c992571ad"
   },
   {
     "title": "Panamá vs. Canadá (Grupo A)",
@@ -325,8 +331,11 @@
     "img": "019ca4ce-0235-7875-b5de-4a74907197a1",
     "nombre": "disneyd2a62f",
     "status": "18:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 180,
+    "play_url": "https://www.disneyplus.com/es-es/play/6c46bed6-590a-4212-9922-531b3e000b4d",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1773097342~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F08%2FEn_EspaolPanama_vs_Canada_20260308_1773003621016%2F~psid=5a734903-d946-42ad-a012-bb1aa866baa7~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=b29588ccfb4753a09ec2cf4c4b13040a326bec93a671269bd66e80424d26f55a/clt1/va02/disneyplus/event/2026/03/08/En_EspaolPanama_vs_Canada_20260308_1773003621016/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=1e71092b5d9161f7fef133d86dd60ec299c343fd",
+    "k1": "d11be0d014b3416ab3b9b2277b88cff6",
+    "k2": "927b4501ffce0964419d5321cbfdd5be"
   },
   {
     "title": "HSBC World Rugby Sevens Series | Vancouver | En español (Super Session)",
