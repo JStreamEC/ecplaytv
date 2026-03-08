@@ -39,19 +39,6 @@
     "k2": "43b5be9617f1793036ef0e68e8688d70"
   },
   {
-    "title": "Boston Celtics vs. Cleveland Cavaliers",
-    "league": "NBA",
-    "fecha-evento": "2026-03-08T12:00:00-05:00",
-    "img": "019cc51f-b80c-74df-95c0-11bdee4cb679",
-    "nombre": "disney3ec064",
-    "status": "12:00",
-    "duration": 150,
-    "play_url": "https://www.disneyplus.com/es-es/play/b3f613c9-a25e-4a64-b8f0-315461d7ead3",
-    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1773075744~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Ff25bdf06-81c9-4a7c-b128-3128d610ad17-1762951253360%2F~psid=08772bd6-950b-4d8e-8bb9-475f76ecde91~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=4e55b22d06e54441f2cb000dcf58fb601dbbd72e13508210dc74587599f8159d/clt1/va02/disneyplus/channel/f25bdf06-81c9-4a7c-b128-3128d610ad17-1762951253360/ctr-all-sliding-alt1.m3u8?r=1080&v=1&hash=9816cf0e34cd1280142adf33de1d35c2d805df20",
-    "k1": "85c45dd553a9451b8bcc9146ad551e88",
-    "k2": "f4c17a3d08e85ec8d30cf2ae2cfac689"
-  },
-  {
     "title": "Boston College vs. #24 Miami",
     "league": "NCAA Beisbol",
     "fecha-evento": "2026-03-08T12:00:00-05:00",
@@ -91,19 +78,6 @@
     "k2": "9ccfa8078ac007e718bedc7c19c24e15"
   },
   {
-    "title": "Leganés vs. SD Eibar",
-    "league": "Segunda División de España",
-    "fecha-evento": "2026-03-08T12:20:00-05:00",
-    "img": "019c8227-6c09-7631-8baa-879291d20322",
-    "nombre": "disney018148",
-    "status": "12:20",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/d33545b9-ba2d-4180-beb6-2e4b56ef77e7",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1773076943~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F08%2FLegans_vs_SD_Eibar_20260308_1772983248018%2F~psid=0e2548c2-5514-45ea-a8c0-99f2204df8ce~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=ea0dcc7179f1c3032faa40d8e26633e65f8ffef20d165d6e9807d60e610b4df8/clt1/va02/disneyplus/event/2026/03/08/Legans_vs_SD_Eibar_20260308_1772983248018/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=f6739099d0ebdbd09f3250439a2792264788a768",
-    "k1": "826bbd7c3ea241d197c057450fca460e",
-    "k2": "0a87d1d833c9c4744fb75438515ab8c8"
-  },
-  {
     "title": "HSBC World Rugby Sevens Series | Vancouver | Session 1 & 2",
     "league": "World Rugby Sevens Series",
     "fecha-evento": "2026-03-08T12:25:05-05:00",
@@ -115,16 +89,6 @@
     "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1773078040~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F08%2FHSBC_World_Rugby_Sevens_S_20260308_1772983545024%2F~psid=807c67f9-9851-41e8-a500-e45bb64ddc9f~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=ae48000f180c87f0001b3472f8eddec7152cf960f8ffb927cd393b3c9d4ce2ea/clt1/va02/disneyplus/event/2026/03/08/HSBC_World_Rugby_Sevens_S_20260308_1772983545024/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=38603f63eda7b1da7144211e35265fd05268249a",
     "k1": "d691101db7fa47e982ae283df3d1c0e9",
     "k2": "838f20ebaa6d2782dd8ae9063550ca02"
-  },
-  {
-    "title": "Padel Championship - Gijón P2 - Final masculina",
-    "league": "Premier Padel",
-    "fecha-evento": "2026-03-08T12:29:49-05:00",
-    "img": "019c9191-d8c6-73d2-93af-42f970c7ea11",
-    "nombre": "disneyc2021f",
-    "status": "12:29",
-    "duration": 30,
-    "play_url": "https://www.disneyplus.com/es-es/play/f475eb60-492a-49e9-8cfd-14b314b368bd"
   },
   {
     "title": "WTA BNP Paribas Open (Tercera Ronda)",
@@ -311,12 +275,15 @@
   {
     "title": "New York Knicks vs. Los Angeles Lakers",
     "league": "NBA",
-    "fecha-evento": "2026-03-08T14:30:00-05:00",
+    "fecha-evento": "2026-03-08T14:36:00-05:00",
     "img": "019c96f1-62eb-78f0-9498-a9efbfa13f77",
-    "nombre": "disney71ff8f",
-    "status": "14:30",
-    "duration": 135,
-    "play_url": ""
+    "nombre": "disney785e5d",
+    "status": "14:36",
+    "duration": 144,
+    "play_url": "https://www.disneyplus.com/es-es/play/e4614086-7266-4d83-8d31-913bdce9474e",
+    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1773085240~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Ff25bdf06-81c9-4a7c-b128-3128d610ad17-1762951253360%2F~psid=9b7c5d5a-0d9f-48b7-95aa-0746ff03dfa5~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=c599f904950e9c76fc075afee9af9d7bad58750c6b59fb2859620fe35d57df6f/clt1/va02/disneyplus/channel/f25bdf06-81c9-4a7c-b128-3128d610ad17-1762951253360/ctr-all-sliding-alt1.m3u8?r=1080&v=1&hash=9816cf0e34cd1280142adf33de1d35c2d805df20",
+    "k1": "85c45dd553a9451b8bcc9146ad551e88",
+    "k2": "f4c17a3d08e85ec8d30cf2ae2cfac689"
   },
   {
     "title": "Valencia CF vs. Alavés",
@@ -335,18 +302,24 @@
     "img": "019cb4a1-827d-70cc-8bbb-caf3cea14aa3",
     "nombre": "disney96d969",
     "status": "14:30",
-    "duration": 135,
-    "play_url": ""
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/68257e4b-c083-4230-a96a-633c9393c40f",
+    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1773085289~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F921e1311-bb26-43dd-84a6-9e2284959712-1762950465141%2F~psid=ec50687a-cba6-4e6c-b790-e6ae4f745661~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=73a03a3260d9a276389f5ea1c9f9127734cee901476cc4918d5f5ef7a41b755f/clt1/va02/disneyplus/channel/921e1311-bb26-43dd-84a6-9e2284959712-1762950465141/ctr-all-sliding-alt1.m3u8?r=1080&v=1&hash=05f9062123442e94376d1e22b34b3bf1b8ec4021",
+    "k1": "e0e84f9e33134390b0314b8f96bf0eb4",
+    "k2": "af5eaaa6f9765447a5e3036db2efcda3"
   },
   {
     "title": "Lyon vs. Paris FC",
     "league": "Ligue 1",
-    "fecha-evento": "2026-03-08T14:30:00-05:00",
+    "fecha-evento": "2026-03-08T14:30:02-05:00",
     "img": "019c96ec-cb86-7621-8a4e-c4f4645ed27e",
-    "nombre": "disney3c0238",
+    "nombre": "disney102068",
     "status": "14:30",
     "duration": 135,
-    "play_url": ""
+    "play_url": "https://www.disneyplus.com/es-es/play/18663109-4e54-41c8-b909-1b2ac5fdd27d",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1773085337~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F08%2FLyon_vs_Paris_FC_20260308_1772991028054%2F~psid=bb1a8f69-2e92-45cc-a057-43f538903ed7~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=8e398b9c5d21e0e393c451083bb546899128abef7d25ef7c384e2dc84d871eea/clt1/va02/disneyplus/event/2026/03/08/Lyon_vs_Paris_FC_20260308_1772991028054/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=9379f0c8b697a468c92bcfecef867cfef22e406e",
+    "k1": "fd35db9143784f48b99406798a483e05",
+    "k2": "007fe53135023ad9453e6943a88dbb92"
   },
   {
     "title": "WTA BNP Paribas Open / Stadium 2",
@@ -685,6 +658,26 @@
     "img": "019ca5e1-891b-7601-bcea-d9cb73ef8b30",
     "nombre": "disneyb0eba4",
     "status": "11:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Kayserispor vs. Trabzonspor",
+    "league": "Super Lig de Turquía",
+    "fecha-evento": "2026-03-09T11:50:00-05:00",
+    "img": "4dab1973-819b-4f0a-82f5-76a9777047e0",
+    "nombre": "disneyb93bd9",
+    "status": "11:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Brasil vs. Gran Bretaña (Grupo B)",
+    "league": "Clásico Mundial de Béisbol",
+    "fecha-evento": "2026-03-09T12:00:00-05:00",
+    "img": "019ca627-5d7e-7386-a0b4-f050e8d7af76",
+    "nombre": "disney4f6ae2",
+    "status": "12:00",
     "duration": 135,
     "play_url": ""
   }
