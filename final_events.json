@@ -13,19 +13,6 @@
     "k2": "1cc03c3991f986be97bca8249fab1992"
   },
   {
-    "title": "WTA BNP Paribas Open / Stadium 3",
-    "league": "WTA",
-    "fecha-evento": "2026-03-08T12:59:58-05:00",
-    "img": "d5f3824d-4f87-4b36-b5ae-e1ae8f3a09a4",
-    "nombre": "disney406153",
-    "status": "12:59",
-    "duration": 360,
-    "play_url": "https://www.disneyplus.com/es-es/play/6c6d7b32-522b-4b6f-819c-e21d79f5efb8",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1773080535~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F08%2FWTA_BNP_Paribas_Open_Stad_20260308_1772985658041%2F~psid=4bb38fb1-f317-47f6-a51b-61ad87c52ec2~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=72cb82b188ce7aa5318cc482fe0a92635b3b1a7b9b2f49554aaa96c8b93fe8b5/clt1/va02/disneyplus/event/2026/03/08/WTA_BNP_Paribas_Open_Stad_20260308_1772985658041/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=055bc43677609e07ef4f7db18cc4447da30c0702",
-    "k1": "efb9393eac404513ac8b050acc686f1d",
-    "k2": "11390aefa92b2c71d985016e998a27f4"
-  },
-  {
     "title": "BNP Paribas Open (Tercera Ronda)",
     "league": "ATP",
     "fecha-evento": "2026-03-08T13:00:00-05:00",
@@ -195,19 +182,6 @@
     "k2": "192701f3730f6bd819c65d81aa38ccf9"
   },
   {
-    "title": "HSBC World Rugby Sevens Series | Vancouver | En español",
-    "league": "World Rugby Sevens Series",
-    "fecha-evento": "2026-03-08T16:40:01-05:00",
-    "img": "019cb6d7-cecb-7226-b9fe-beb7f63f6d21",
-    "nombre": "disney0cd50a",
-    "status": "16:40",
-    "duration": 60,
-    "play_url": "https://www.disneyplus.com/es-es/play/27943373-bdce-4428-9967-c6b8c228750d",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1773093654~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F08%2FHSBC_World_Rugby_Sevens_S_20260308_1772998842017%2F~psid=3d267243-a743-4f0d-9cac-595afa110afb~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=38d3a498cc05d4133116d17558a6dc84b29061deef4801ca3f93f8a592878528/clt1/va02/disneyplus/event/2026/03/08/HSBC_World_Rugby_Sevens_S_20260308_1772998842017/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=044b8da701a5f79fb48082168facf3df524914b3",
-    "k1": "bfb698a128d04c4fae489f720fa99a89",
-    "k2": "cf3dfb0d93cc1956f4c1773d9f8c39af"
-  },
-  {
     "title": "WTA BNP Paribas Open / Stadium 5 (Doubles)",
     "league": "WTA",
     "fecha-evento": "2026-03-08T15:00:00-05:00",
@@ -299,6 +273,19 @@
     "k2": "232692fd860e0254b06a9d25f075861a"
   },
   {
+    "title": "Panamá vs. Canadá (Grupo A)",
+    "league": "Clásico Mundial de Béisbol",
+    "fecha-evento": "2026-03-08T18:00:00-05:00",
+    "img": "019ca4ce-0235-7875-b5de-4a74907197a1",
+    "nombre": "disneyd2a62f",
+    "status": "18:00",
+    "duration": 180,
+    "play_url": "https://www.disneyplus.com/es-es/play/6c46bed6-590a-4212-9922-531b3e000b4d",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1773097342~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F08%2FEn_EspaolPanama_vs_Canada_20260308_1773003621016%2F~psid=5a734903-d946-42ad-a012-bb1aa866baa7~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=b29588ccfb4753a09ec2cf4c4b13040a326bec93a671269bd66e80424d26f55a/clt1/va02/disneyplus/event/2026/03/08/En_EspaolPanama_vs_Canada_20260308_1773003621016/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=1e71092b5d9161f7fef133d86dd60ec299c343fd",
+    "k1": "d11be0d014b3416ab3b9b2277b88cff6",
+    "k2": "927b4501ffce0964419d5321cbfdd5be"
+  },
+  {
     "title": "Nicaragua vs. Israel (Grupo D)",
     "league": "Clásico Mundial de Béisbol",
     "fecha-evento": "2026-03-08T18:00:00-05:00",
@@ -325,27 +312,17 @@
     "k2": "ca2356cf5e67c44fec38e90c992571ad"
   },
   {
-    "title": "Panamá vs. Canadá (Grupo A)",
-    "league": "Clásico Mundial de Béisbol",
-    "fecha-evento": "2026-03-08T18:00:00-05:00",
-    "img": "019ca4ce-0235-7875-b5de-4a74907197a1",
-    "nombre": "disneyd2a62f",
-    "status": "18:00",
-    "duration": 180,
-    "play_url": "https://www.disneyplus.com/es-es/play/6c46bed6-590a-4212-9922-531b3e000b4d",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1773097342~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F08%2FEn_EspaolPanama_vs_Canada_20260308_1773003621016%2F~psid=5a734903-d946-42ad-a012-bb1aa866baa7~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=b29588ccfb4753a09ec2cf4c4b13040a326bec93a671269bd66e80424d26f55a/clt1/va02/disneyplus/event/2026/03/08/En_EspaolPanama_vs_Canada_20260308_1773003621016/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=1e71092b5d9161f7fef133d86dd60ec299c343fd",
-    "k1": "d11be0d014b3416ab3b9b2277b88cff6",
-    "k2": "927b4501ffce0964419d5321cbfdd5be"
-  },
-  {
     "title": "HSBC World Rugby Sevens Series | Vancouver | En español (Super Session)",
     "league": "World Rugby Sevens Series",
     "fecha-evento": "2026-03-08T18:15:00-05:00",
     "img": "019cb58b-cbaf-73ef-8bce-05625aace5c1",
     "nombre": "disney1e2992",
     "status": "18:15",
-    "duration": 135,
-    "play_url": ""
+    "duration": 145,
+    "play_url": "https://www.disneyplus.com/es-es/play/6a499455-6f3e-4b42-b395-d7e40a633cf1",
+    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1773098445~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Fbbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1767092609127%2F~psid=eb6d71ec-6c80-4ee2-a019-0f89aa0bce58~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=102a3d30f858eca89cf324cde868080dd49bb766d2599c70a631ad1b80916d7f/clt1/va02/disneyplus/channel/bbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1767092609127/ctr-all-sliding-alt1.m3u8?r=1080&v=1&hash=eb3d49e5bd70aee4517206fa38f01931a46eb473",
+    "k1": "be00bfbaaffa46b58c6657597a06d28c",
+    "k2": "fc9853c8ada241a0030f4cd2e6106cb0"
   },
   {
     "title": "Brasil vs. México (Grupo B)",
@@ -613,6 +590,26 @@
     "fecha-evento": "2026-03-09T17:00:00-05:00",
     "img": "019bf7b6-b265-70b8-abb8-92c68b895bfc",
     "nombre": "disney6262fd",
+    "status": "17:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Southland Men's Basketball Championship (Cuartos de Final)",
+    "league": "Básquetbol Masculino NCAA",
+    "fecha-evento": "2026-03-09T17:00:00-05:00",
+    "img": "ca493365-e964-4d57-a55f-8b23f9a023f1",
+    "nombre": "disney2abba8",
+    "status": "17:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "UMBC vs. Vermont (Semifinal #1)",
+    "league": "Básquet Femenino NCAA",
+    "fecha-evento": "2026-03-09T17:00:00-05:00",
+    "img": "825a721a-c876-459d-b27f-d1b630aa1366",
+    "nombre": "disneyc8e68d",
     "status": "17:00",
     "duration": 135,
     "play_url": ""
