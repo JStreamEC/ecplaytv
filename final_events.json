@@ -26,19 +26,6 @@
     "k2": "43b5be9617f1793036ef0e68e8688d70"
   },
   {
-    "title": "HSBC World Rugby Sevens Series | Vancouver | Session 1 & 2",
-    "league": "World Rugby Sevens Series",
-    "fecha-evento": "2026-03-08T12:25:05-05:00",
-    "img": "019cb6d7-d910-7336-a9b6-54c085f514e7",
-    "nombre": "disney55143d",
-    "status": "12:25",
-    "duration": 220,
-    "play_url": "https://www.disneyplus.com/es-es/play/8eebdd6b-8fd6-4505-b696-0057483e33ac",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1773078040~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F08%2FHSBC_World_Rugby_Sevens_S_20260308_1772983545024%2F~psid=807c67f9-9851-41e8-a500-e45bb64ddc9f~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=ae48000f180c87f0001b3472f8eddec7152cf960f8ffb927cd393b3c9d4ce2ea/clt1/va02/disneyplus/event/2026/03/08/HSBC_World_Rugby_Sevens_S_20260308_1772983545024/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=38603f63eda7b1da7144211e35265fd05268249a",
-    "k1": "d691101db7fa47e982ae283df3d1c0e9",
-    "k2": "838f20ebaa6d2782dd8ae9063550ca02"
-  },
-  {
     "title": "WTA BNP Paribas Open (Tercera Ronda)",
     "league": "WTA",
     "fecha-evento": "2026-03-08T12:59:14-05:00",
@@ -338,21 +325,21 @@
     "k2": "b14583df73e3f2f0d7ac07657d71bd58"
   },
   {
-    "title": "Chicago Blackhawks vs. Dallas Stars",
-    "league": "National Hockey League",
-    "fecha-evento": "2026-03-08T17:00:00-05:00",
-    "img": "019cb538-91ee-7c13-ae3e-684cd5b95acf",
-    "nombre": "disneya213e4",
-    "status": "17:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Tampa Bay Lightning vs. Buffalo Sabres",
     "league": "National Hockey League",
     "fecha-evento": "2026-03-08T17:00:00-05:00",
     "img": "019cc48f-15f8-7142-a455-9e7149207dfc",
     "nombre": "disney29a7fd",
+    "status": "17:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Chicago Blackhawks vs. Dallas Stars",
+    "league": "National Hockey League",
+    "fecha-evento": "2026-03-08T17:00:00-05:00",
+    "img": "019cb538-91ee-7c13-ae3e-684cd5b95acf",
+    "nombre": "disneya213e4",
     "status": "17:00",
     "duration": 135,
     "play_url": ""
@@ -364,8 +351,11 @@
     "img": "019cb6d8-233b-75bd-9d13-2afb907ff42f",
     "nombre": "disney1d48f7",
     "status": "16:35",
-    "duration": 135,
-    "play_url": ""
+    "duration": 250,
+    "play_url": "https://www.disneyplus.com/es-es/play/8b94b260-3581-4595-9097-4c44497382ff",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1773092450~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F08%2FHSBC_World_Rugby_Sevens_S_20260308_1772998530024%2F~psid=1d9d1acd-1000-49ef-b96d-715d44c5b187~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=d0f9a00dfb8a0bf7754601c3d5e290270a14fca5aac7db6328af572fc7c2de90/clt1/va02/disneyplus/event/2026/03/08/HSBC_World_Rugby_Sevens_S_20260308_1772998530024/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=ca1e5d6c53a93486b2d5be20ac6221a783423301",
+    "k1": "c0f064fb83bc401c8f6299cc337be952",
+    "k2": "192701f3730f6bd819c65d81aa38ccf9"
   },
   {
     "title": "HSBC World Rugby Sevens Series | Vancouver | En español",
@@ -633,6 +623,16 @@
     "fecha-evento": "2026-03-09T14:00:00-05:00",
     "img": "6599bc15-70a9-4d6e-913e-04b94be58edf",
     "nombre": "disneyf460bf",
+    "status": "14:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "WTA BNP Paribas Open / Stadium 4",
+    "league": "WTA",
+    "fecha-evento": "2026-03-09T14:00:00-05:00",
+    "img": "001e63d6-4ed7-4e0f-aa73-82aab0f72cc2",
+    "nombre": "disneyd6fe0d",
     "status": "14:00",
     "duration": 135,
     "play_url": ""
