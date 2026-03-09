@@ -130,19 +130,6 @@
     "k2": "192701f3730f6bd819c65d81aa38ccf9"
   },
   {
-    "title": "WTA BNP Paribas Open / Stadium 5 (Doubles)",
-    "league": "WTA",
-    "fecha-evento": "2026-03-08T15:00:00-05:00",
-    "img": "c07b27db-f5b4-40a4-b785-3984e454a894",
-    "nombre": "disney291d10",
-    "status": "15:00",
-    "duration": 240,
-    "play_url": "https://www.disneyplus.com/es-es/play/aceda359-4104-49f5-a117-a94cc9ff5ab9",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1773087769~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F08%2FWTA_BNP_Paribas_Open_Stad_20260308_1772992954824%2F~psid=690cd543-cfed-4f59-953c-774da166bf21~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=f84693487b37c7ec414f11784cbf62a05ac16a1f4ab1fa704ebe4998f5a99947/clt1/va02/disneyplus/event/2026/03/08/WTA_BNP_Paribas_Open_Stad_20260308_1772992954824/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=6db2b184872a483414384ca6695cf2b0e86db638",
-    "k1": "3f251a299cb34765afe264cda9446a22",
-    "k2": "102747785c13b8323db60bd2cd04684b"
-  },
-  {
     "title": "Southern Miss vs. Troy (Semifinal #1)",
     "league": "Básquetbol Masculino NCAA",
     "fecha-evento": "2026-03-08T17:00:03-05:00",
@@ -611,6 +598,16 @@
     "fecha-evento": "2026-03-09T18:00:00-05:00",
     "img": "019ca626-42e5-7bba-bfae-c1117cc09d5f",
     "nombre": "disneyc5e064",
+    "status": "18:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Boston University vs. Navy (Cuartos de Final #4)",
+    "league": "Básquet Femenino NCAA",
+    "fecha-evento": "2026-03-09T18:00:00-05:00",
+    "img": "019ccedb-4589-79d5-9f57-7c2d44888682",
+    "nombre": "disney87665b",
     "status": "18:00",
     "duration": 135,
     "play_url": ""
