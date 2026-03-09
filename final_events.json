@@ -1,31 +1,5 @@
 [
   {
-    "title": "Colombia vs. Panamá (Grupo A)",
-    "league": "Clásico Mundial de Béisbol",
-    "fecha-evento": "2026-03-09T11:00:00-05:00",
-    "img": "019ca623-00de-7943-87c0-d4653596496d",
-    "nombre": "disneyf5464b",
-    "status": "11:00",
-    "duration": 180,
-    "play_url": "https://www.disneyplus.com/es-es/play/658b27b7-80be-46d6-939d-101149c0be30",
-    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1773165691~url=%2Fgru1%2Fva01%2Fdisneyplus%2Fchannel%2Ff25bdf06-81c9-4a7c-b128-3128d610ad17-1772698852736%2F~psid=c9690cb6-6a20-4af0-95a8-d9b8dee4cf28~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=745c16a6cb0db5dde5bb56287d1cdc925d34243b7d875ace285e4da850cc9a69/gru1/va01/disneyplus/channel/f25bdf06-81c9-4a7c-b128-3128d610ad17-1772698852736/ctr-all-sliding-alt1.m3u8?r=1080&v=1&hash=7522c48f43543af60cc0c66b4de1694e287353a4",
-    "k1": "404eaccdecbc4c499e20a997f8d21523",
-    "k2": "df3f9593db2016e7aa20c6025ec0f72e"
-  },
-  {
-    "title": "Kayserispor vs. Trabzonspor",
-    "league": "Super Lig de Turquía",
-    "fecha-evento": "2026-03-09T11:50:00-05:00",
-    "img": "4dab1973-819b-4f0a-82f5-76a9777047e0",
-    "nombre": "disneyb93bd9",
-    "status": "11:50",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/b54cab19-9943-4ecb-9033-6307ca72bd38",
-    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1773165738~url=%2Fgru1%2Fva01%2Fdisneyplus%2Fchannel%2F7f9052ce-8143-43a6-9656-a8c00c4a3e56-1772593729402%2F~psid=aa9cbf16-9a35-49d3-9b02-2bb252fb6fb2~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=9d356f3c4b2e86b1390aa2bb5b922add78bd6f2b3444904145ff88ade4fa4fb8/gru1/va01/disneyplus/channel/7f9052ce-8143-43a6-9656-a8c00c4a3e56-1772593729402/ctr-all-sliding-alt1.m3u8?r=1080&v=1&hash=9d325ead1ba6c94cad4e54a17f18fa96e118d7b5",
-    "k1": "4af11d6e823a492192fb2cc377249afd",
-    "k2": "55bebb681779bdbfd6df84a5da9230db"
-  },
-  {
     "title": "Brasil vs. Gran Bretaña (Grupo B)",
     "league": "Clásico Mundial de Béisbol",
     "fecha-evento": "2026-03-09T12:00:02-05:00",
@@ -195,6 +169,19 @@
     "k2": "74a7883cc1a040c8ecc410bd38f45ddf"
   },
   {
+    "title": "Lazio vs. Sassuolo",
+    "league": "Seria A",
+    "fecha-evento": "2026-03-09T14:30:00-05:00",
+    "img": "019cb459-8c66-76ab-882e-96008aebb5ad",
+    "nombre": "disneyc18edb",
+    "status": "14:30",
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/7e19fecc-d109-430b-bdc2-64ea60be10d1",
+    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1773171639~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Fbbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1773078587332%2F~psid=62aeab77-b947-4932-9f9b-f2bde4337f63~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=004024c5a494593f2f99de29b6c64136b3dd47ca8e4daa72c4592f6ff8ef1ef7/clt1/va02/disneyplus/channel/bbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1773078587332/ctr-all-sliding-alt1.m3u8?r=1080&v=1&hash=47cbb8616004a1e945f48692281e999bd4428c97",
+    "k1": "2da0d7ca5a284b9e85001f3c6e14141d",
+    "k2": "63c3a32e05bf341275d0280f4befee36"
+  },
+  {
     "title": "Los Angeles Kings vs. Columbus Blue Jackets",
     "league": "National Hockey League",
     "fecha-evento": "2026-03-09T15:00:00-05:00",
@@ -205,24 +192,17 @@
     "play_url": ""
   },
   {
-    "title": "Lazio vs. Sassuolo",
-    "league": "Seria A",
-    "fecha-evento": "2026-03-09T14:30:00-05:00",
-    "img": "019cb459-8c66-76ab-882e-96008aebb5ad",
-    "nombre": "disneyc18edb",
-    "status": "14:30",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "BNP Paribas Open / Stadium 4 (Doubles)",
     "league": "ATP",
-    "fecha-evento": "2026-03-09T14:30:00-05:00",
+    "fecha-evento": "2026-03-09T14:34:36-05:00",
     "img": "001e63d6-4ed7-4e0f-aa73-82aab0f72cc2",
-    "nombre": "disney0a911e",
-    "status": "14:30",
-    "duration": 135,
-    "play_url": ""
+    "nombre": "disney2dadf4",
+    "status": "14:34",
+    "duration": 505,
+    "play_url": "https://www.disneyplus.com/es-es/play/aa0776e5-b9d3-4544-8b5f-b7d1a03d28ea",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1773171686~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F09%2FBNP_Paribas_Open_Stadium__20260309_1773078094958%2F~psid=eb3e6653-3f3c-4c0a-8194-ba093d5ce46b~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=12b284e8a9e428ec273edd9e5263acb54a23cb761c481a97616edef0bc1f3348/clt1/va02/disneyplus/event/2026/03/09/BNP_Paribas_Open_Stadium__20260309_1773078094958/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=1100c32c310e32fad96653bc7c6a95e124b4e1d8",
+    "k1": "a2d22aa18a394c99b4b958df5c18ca65",
+    "k2": "ca6417b3f1c9cc3be739ec83158e9e9e"
   },
   {
     "title": "WTA BNP Paribas Open / Stadium 1",
@@ -505,6 +485,16 @@
     "play_url": ""
   },
   {
+    "title": "Northwestern State vs. UT Rio Grande Valley (Cuartos de Final #1)",
+    "league": "Básquet Femenino NCAA",
+    "fecha-evento": "2026-03-10T11:00:00-05:00",
+    "img": "6599bc15-70a9-4d6e-913e-04b94be58edf",
+    "nombre": "disney7e770b",
+    "status": "11:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
     "title": "Galatasaray vs. Liverpool | 8vos de final, ida",
     "league": "UEFA Champions League",
     "fecha-evento": "2026-03-10T12:25:00-05:00",
@@ -631,6 +621,16 @@
     "img": "019c3813-9871-71b4-a8cd-6309ddd305cb",
     "nombre": "disney48d71d",
     "status": "15:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Big Sky Women's Basketball Championship (Semifinal #2)",
+    "league": "Básquet Femenino NCAA",
+    "fecha-evento": "2026-03-10T15:30:00-05:00",
+    "img": "6599bc15-70a9-4d6e-913e-04b94be58edf",
+    "nombre": "disney2c55a2",
+    "status": "15:30",
     "duration": 135,
     "play_url": ""
   }
