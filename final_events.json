@@ -104,19 +104,6 @@
     "k2": "c4e0c7a4143efb51290f6c0ab4e2f819"
   },
   {
-    "title": "Lazio vs. Sassuolo",
-    "league": "Seria A",
-    "fecha-evento": "2026-03-09T14:30:00-05:00",
-    "img": "019cb459-8c66-76ab-882e-96008aebb5ad",
-    "nombre": "disneyc18edb",
-    "status": "14:30",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/7e19fecc-d109-430b-bdc2-64ea60be10d1",
-    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1773171639~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Fbbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1773078587332%2F~psid=62aeab77-b947-4932-9f9b-f2bde4337f63~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=004024c5a494593f2f99de29b6c64136b3dd47ca8e4daa72c4592f6ff8ef1ef7/clt1/va02/disneyplus/channel/bbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1773078587332/ctr-all-sliding-alt1.m3u8?r=1080&v=1&hash=47cbb8616004a1e945f48692281e999bd4428c97",
-    "k1": "2da0d7ca5a284b9e85001f3c6e14141d",
-    "k2": "63c3a32e05bf341275d0280f4befee36"
-  },
-  {
     "title": "BNP Paribas Open / Stadium 4 (Doubles)",
     "league": "ATP",
     "fecha-evento": "2026-03-09T14:34:36-05:00",
@@ -634,6 +621,16 @@
     "img": "49889440-3865-4728-a3b6-88835e488bfe",
     "nombre": "disney68f177",
     "status": "17:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Detroit Red Wings vs. Florida Panthers",
+    "league": "National Hockey League",
+    "fecha-evento": "2026-03-10T18:00:00-05:00",
+    "img": "019ccdce-46a9-711a-a893-89597da18696",
+    "nombre": "disney527e50",
+    "status": "18:00",
     "duration": 135,
     "play_url": ""
   }
