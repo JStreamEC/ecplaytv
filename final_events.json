@@ -1,18 +1,5 @@
 [
   {
-    "title": "Detroit Red Wings vs. New Jersey Devils",
-    "league": "National Hockey League",
-    "fecha-evento": "2026-03-08T18:00:00-05:00",
-    "img": "019a766f-0a14-7a70-bfa0-29516b9c3d99",
-    "nombre": "disneyc2cbe1",
-    "status": "18:00",
-    "duration": 150,
-    "play_url": "https://www.disneyplus.com/es-es/play/aac713ab-7505-46e7-b1c7-f1da23c70378",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1773097292~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F08%2FDetroit_Red_Wings_vs_New__20260308_1773003631036%2F~psid=66a3a1e7-6e0c-47a5-bb03-a69a3791cfc5~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=f854be65208f3c415c148cee73b0d5d8da42c72625069307ae3ca1b5e6e28792/clt1/va02/disneyplus/event/2026/03/08/Detroit_Red_Wings_vs_New__20260308_1773003631036/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=1ee2d591e72e70d38a9a22fddb95a9126ee70eaf",
-    "k1": "ef8d81cec1dc410180f5d5a48cfc2c0a",
-    "k2": "ca2356cf5e67c44fec38e90c992571ad"
-  },
-  {
     "title": "Brasil vs. México (Grupo B)",
     "league": "Clásico Mundial de Béisbol",
     "fecha-evento": "2026-03-08T19:00:03-05:00",
@@ -110,8 +97,11 @@
     "img": "019c635d-b718-7acb-a5c7-e8103027de70",
     "nombre": "disneyb25ca4",
     "status": "20:30",
-    "duration": 135,
-    "play_url": ""
+    "duration": 150,
+    "play_url": "https://www.disneyplus.com/es-es/play/ac54f26c-26bb-4815-ac37-c16a7be37c1a",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1773106863~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F09%2FEdmonton_Oilers_vs_Vegas__20260309_1773012648037%2F~psid=10dae871-125b-41ee-9a0f-67bbfb6f4a3e~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=303ffdb9f7b6b552e6cdab7b5e73d947fc809958b4a4f49a2d5223d9b11a20a2/clt1/va02/disneyplus/event/2026/03/09/Edmonton_Oilers_vs_Vegas__20260309_1773012648037/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=03b56e8a97a44af9d3cda90df089d8170605858d",
+    "k1": "6a1c4017c1b04b05bcadc358d7414edf",
+    "k2": "a3c2639a2bcc406ed44584d4c4258c48"
   },
   {
     "title": "Béisbol Esta Noche: Edición Clásico Mundial de Béisbol",
@@ -229,6 +219,16 @@
     "fecha-evento": "2026-03-09T13:00:00-05:00",
     "img": "001e63d6-4ed7-4e0f-aa73-82aab0f72cc2",
     "nombre": "disneybbe35b",
+    "status": "13:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "BNP Paribas Open (Tercera Ronda)",
+    "league": "ATP",
+    "fecha-evento": "2026-03-09T13:00:00-05:00",
+    "img": "9e378956-d30a-49eb-9748-2d8b804eef21",
+    "nombre": "disney02760a",
     "status": "13:00",
     "duration": 135,
     "play_url": ""
@@ -579,6 +579,16 @@
     "fecha-evento": "2026-03-10T13:00:00-05:00",
     "img": "9d5547a5-a203-448f-ad5f-5d5b5be9fccf",
     "nombre": "disney9dc775",
+    "status": "13:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Big Sky Women's Basketball Championship (Semifinal #1)",
+    "league": "Básquet Femenino NCAA",
+    "fecha-evento": "2026-03-10T13:00:00-05:00",
+    "img": "6599bc15-70a9-4d6e-913e-04b94be58edf",
+    "nombre": "disneyc5101a",
     "status": "13:00",
     "duration": 135,
     "play_url": ""
