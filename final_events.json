@@ -192,19 +192,6 @@
     "play_url": ""
   },
   {
-    "title": "BNP Paribas Open / Stadium 4 (Doubles)",
-    "league": "ATP",
-    "fecha-evento": "2026-03-09T14:34:36-05:00",
-    "img": "001e63d6-4ed7-4e0f-aa73-82aab0f72cc2",
-    "nombre": "disney2dadf4",
-    "status": "14:34",
-    "duration": 505,
-    "play_url": "https://www.disneyplus.com/es-es/play/aa0776e5-b9d3-4544-8b5f-b7d1a03d28ea",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1773171686~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F09%2FBNP_Paribas_Open_Stadium__20260309_1773078094958%2F~psid=eb3e6653-3f3c-4c0a-8194-ba093d5ce46b~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=12b284e8a9e428ec273edd9e5263acb54a23cb761c481a97616edef0bc1f3348/clt1/va02/disneyplus/event/2026/03/09/BNP_Paribas_Open_Stadium__20260309_1773078094958/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=1100c32c310e32fad96653bc7c6a95e124b4e1d8",
-    "k1": "a2d22aa18a394c99b4b958df5c18ca65",
-    "k2": "ca6417b3f1c9cc3be739ec83158e9e9e"
-  },
-  {
     "title": "WTA BNP Paribas Open / Stadium 1",
     "league": "WTA",
     "fecha-evento": "2026-03-09T15:00:00-05:00",
@@ -545,6 +532,16 @@
     "play_url": ""
   },
   {
+    "title": "BNP Paribas Open / Stadium 4 (Doubles)",
+    "league": "ATP",
+    "fecha-evento": "2026-03-10T13:00:00-05:00",
+    "img": "001e63d6-4ed7-4e0f-aa73-82aab0f72cc2",
+    "nombre": "disney3b76e1",
+    "status": "13:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
     "title": "Southland Women's Basketball Championship (Cuartos de Final #2)",
     "league": "Básquet Femenino NCAA",
     "fecha-evento": "2026-03-10T13:30:00-05:00",
@@ -631,6 +628,16 @@
     "img": "6599bc15-70a9-4d6e-913e-04b94be58edf",
     "nombre": "disney2c55a2",
     "status": "15:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Duke vs. High Point",
+    "league": "NCAA Beisbol",
+    "fecha-evento": "2026-03-10T17:00:00-05:00",
+    "img": "019c90df-7382-7391-8ce2-1c6f6b4fe9f9",
+    "nombre": "disney1a2838",
+    "status": "17:00",
     "duration": 135,
     "play_url": ""
   }
