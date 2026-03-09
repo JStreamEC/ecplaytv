@@ -39,6 +39,16 @@
     "k2": "f8bb6f474bca10e8835ae76766119d21"
   },
   {
+    "title": "St. Louis Blues vs. Anaheim Ducks",
+    "league": "National Hockey League",
+    "fecha-evento": "2026-03-08T20:00:00-05:00",
+    "img": "019cb539-2d48-740a-b340-56833d523dab",
+    "nombre": "disney78c44a",
+    "status": "20:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
     "title": "Fairfield vs. Siena (Semifinal #2)",
     "league": "Básquetbol Masculino NCAA",
     "fecha-evento": "2026-03-08T19:30:00-05:00",
@@ -50,16 +60,6 @@
     "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1773103307~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F09%2FFairfield_vs_Siena_Semifi_20260309_1773009024017%2F~psid=b48fc958-af15-4910-827e-19c7b7593b89~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=d2d70632c6b4e7e7fe8543ddbe8b62ab9c0417cbbe55864ae74aa4d20d915cdc/clt1/va02/disneyplus/event/2026/03/09/Fairfield_vs_Siena_Semifi_20260309_1773009024017/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=cec2452b2f8eab928f60aa98ba772761271dbb2d",
     "k1": "51efbbf6b40b49eb9334fa2b3dd3c1a6",
     "k2": "a2847c5fe7343bbd5cd995ca92d607ca"
-  },
-  {
-    "title": "St. Louis Blues vs. Anaheim Ducks",
-    "league": "National Hockey League",
-    "fecha-evento": "2026-03-08T20:00:00-05:00",
-    "img": "019cb539-2d48-740a-b340-56833d523dab",
-    "nombre": "disney78c44a",
-    "status": "20:00",
-    "duration": 135,
-    "play_url": ""
   },
   {
     "title": "BNP Paribas Open (Tercera Ronda)",
@@ -188,6 +188,16 @@
     "img": "d5f3824d-4f87-4b36-b5ae-e1ae8f3a09a4",
     "nombre": "disneya0c17c",
     "status": "13:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "N. Djokovic (SRB) vs. A. Kovacevic (USA)",
+    "league": "ATP",
+    "fecha-evento": "2026-03-09T14:00:00-05:00",
+    "img": "9e378956-d30a-49eb-9748-2d8b804eef21",
+    "nombre": "disney293d49",
+    "status": "14:00",
     "duration": 135,
     "play_url": ""
   },
@@ -358,6 +368,26 @@
     "img": "ca493365-e964-4d57-a55f-8b23f9a023f1",
     "nombre": "disney2abba8",
     "status": "17:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "UMBC vs. Vermont (Semifinal #1)",
+    "league": "Básquet Femenino NCAA",
+    "fecha-evento": "2026-03-09T17:00:00-05:00",
+    "img": "825a721a-c876-459d-b27f-d1b630aa1366",
+    "nombre": "disneyc8e68d",
+    "status": "17:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "New York Rangers vs. Philadelphia Flyers",
+    "league": "National Hockey League",
+    "fecha-evento": "2026-03-09T18:00:00-05:00",
+    "img": "019b9fbe-d195-775a-b84a-c47b18c4d59b",
+    "nombre": "disney69393b",
+    "status": "18:00",
     "duration": 135,
     "play_url": ""
   },
@@ -537,26 +567,6 @@
     "fecha-evento": "2026-03-10T13:00:00-05:00",
     "img": "9d5547a5-a203-448f-ad5f-5d5b5be9fccf",
     "nombre": "disney9dc775",
-    "status": "13:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Big Sky Women's Basketball Championship (Semifinal #1)",
-    "league": "Básquet Femenino NCAA",
-    "fecha-evento": "2026-03-10T13:00:00-05:00",
-    "img": "6599bc15-70a9-4d6e-913e-04b94be58edf",
-    "nombre": "disneyc5101a",
-    "status": "13:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "WTA BNP Paribas Open (Octavos de final)",
-    "league": "WTA",
-    "fecha-evento": "2026-03-10T13:00:00-05:00",
-    "img": "9d5547a5-a203-448f-ad5f-5d5b5be9fccf",
-    "nombre": "disneyea1742",
     "status": "13:00",
     "duration": 135,
     "play_url": ""
