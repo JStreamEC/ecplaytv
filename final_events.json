@@ -104,19 +104,6 @@
     "k2": "c4e0c7a4143efb51290f6c0ab4e2f819"
   },
   {
-    "title": "Oregon State vs. Loyola Marymount (Semifinal #1)",
-    "league": "Básquet Femenino NCAA",
-    "fecha-evento": "2026-03-09T14:00:05-05:00",
-    "img": "019cd305-6ba9-7c10-9735-cf2110b96d96",
-    "nombre": "disneye9cec8",
-    "status": "14:00",
-    "duration": 140,
-    "play_url": "https://www.disneyplus.com/es-es/play/efba4d50-d7f0-4c09-ae16-132c7e222df9",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1773170562~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F09%2FOregon_State_vs_Loyola_Ma_20260309_1773075646018%2F~psid=961846df-65a7-4485-88f3-78dc7fadc24b~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=b78f30062209b9a8ebad4436acd08a1f323ce0fa4184d695f26fada0e42aaa10/clt1/va02/disneyplus/event/2026/03/09/Oregon_State_vs_Loyola_Ma_20260309_1773075646018/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=098aa4246b67c1af89412d13ee2c2fe42b180522",
-    "k1": "70c2ac2bdd924417bb0f65a547209c01",
-    "k2": "74a7883cc1a040c8ecc410bd38f45ddf"
-  },
-  {
     "title": "Lazio vs. Sassuolo",
     "league": "Seria A",
     "fecha-evento": "2026-03-09T14:30:00-05:00",
@@ -201,8 +188,11 @@
     "img": "019cb45f-f8c7-7ef6-bdcc-1588357bd2f3",
     "nombre": "disneyb50283",
     "status": "16:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 180,
+    "play_url": "https://www.disneyplus.com/es-es/play/ab332746-010a-4f8d-a0cc-86adf8453572",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1773177639~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F09%2FCerro_Largo_vs_Montevideo_20260309_1773082842043%2F~psid=0bf05809-37ff-46a1-b27b-51b7cca04f02~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=b4eaeca856370ba0b9e9ef8fda35e5116c295f4739e7720c0dc0b6bc85566e1b/clt1/va02/disneyplus/event/2026/03/09/Cerro_Largo_vs_Montevideo_20260309_1773082842043/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=c039c6fddd1c2557e08f725081faee748f9a5ae2",
+    "k1": "50444af3dfed4158ae61753a7d7b0f2f",
+    "k2": "f8f05ccbc2a0c7a12400d2341ac58e66"
   },
   {
     "title": "Santa Clara vs. Gonzaga (Semifinal #2)",
@@ -475,6 +465,16 @@
     "play_url": ""
   },
   {
+    "title": "Iowa vs. Illinois State",
+    "league": "NCAA Softball",
+    "fecha-evento": "2026-03-10T12:00:00-05:00",
+    "img": "019c3813-9871-71b4-a8cd-6309ddd305cb",
+    "nombre": "disney88a61e",
+    "status": "12:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
     "title": "Galatasaray vs. Liverpool | 8vos de final, ida",
     "league": "UEFA Champions League",
     "fecha-evento": "2026-03-10T12:25:00-05:00",
@@ -595,16 +595,6 @@
     "play_url": ""
   },
   {
-    "title": "Iowa vs. Illinois State",
-    "league": "NCAA Softball",
-    "fecha-evento": "2026-03-10T15:00:00-05:00",
-    "img": "019c3813-9871-71b4-a8cd-6309ddd305cb",
-    "nombre": "disney48d71d",
-    "status": "15:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Big Sky Women's Basketball Championship (Semifinal #2)",
     "league": "Básquet Femenino NCAA",
     "fecha-evento": "2026-03-10T15:30:00-05:00",
@@ -630,6 +620,16 @@
     "fecha-evento": "2026-03-10T17:00:00-05:00",
     "img": "019c97fe-aac7-7ef8-ae17-a11fccbbd481",
     "nombre": "disney4f9df9",
+    "status": "17:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "UMass Lowell vs. UMBC (Semifinal #1)",
+    "league": "Básquetbol Masculino NCAA",
+    "fecha-evento": "2026-03-10T17:00:00-05:00",
+    "img": "49889440-3865-4728-a3b6-88835e488bfe",
+    "nombre": "disney68f177",
     "status": "17:00",
     "duration": 135,
     "play_url": ""
