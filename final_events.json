@@ -78,19 +78,6 @@
     "k2": "166332e024acbb8b242f3860f0a60b82"
   },
   {
-    "title": "West Ham United vs. Brentford (Quinta Vuelta)",
-    "league": "FA Cup",
-    "fecha-evento": "2026-03-09T14:00:03-05:00",
-    "img": "019c9725-b06e-71f6-a98b-3c4ab4ac61c4",
-    "nombre": "disneyfc4692",
-    "status": "14:00",
-    "duration": 240,
-    "play_url": "https://www.disneyplus.com/es-es/play/cddfcad7-cb78-4ef4-a064-eddcfffd1a74",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1773170534~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F09%2FWest_Ham_United_vs_Brentf_20260309_1773075618017%2F~psid=891dc672-6ad7-4011-b78b-a77179bf3355~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=a890167a3d06a329170dfbfc4084095588229ec30c13a7ab755e6a4fd6732eac/clt1/va02/disneyplus/event/2026/03/09/West_Ham_United_vs_Brentf_20260309_1773075618017/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=be5f8288c06782ae078c55237c5159a8842a8960",
-    "k1": "9cfb8ae1bc3b40a38252cd91a7644f79",
-    "k2": "c4e0c7a4143efb51290f6c0ab4e2f819"
-  },
-  {
     "title": "BNP Paribas Open / Stadium 4 (Doubles)",
     "league": "ATP",
     "fecha-evento": "2026-03-09T14:34:36-05:00",
@@ -115,19 +102,6 @@
     "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1773174084~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F09%2FWTA_BNP_Paribas_Open_Stad_20260309_1773080891687%2F~psid=cc5aeaa7-4c19-4aa9-9734-e303facf2210~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=70381fd60d5733a63ef6f4ab9ff7ccc2010657d94a8a47efdff99155ac37b15f/clt1/va02/disneyplus/event/2026/03/09/WTA_BNP_Paribas_Open_Stad_20260309_1773080891687/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=bc5481185fe18fd926a015bc65593b60ac614444",
     "k1": "3f81ee351d2d447bae85714e0003f612",
     "k2": "9f93530ed46a85ddcb534594537d6188"
-  },
-  {
-    "title": "Los Angeles Kings vs. Columbus Blue Jackets",
-    "league": "National Hockey League",
-    "fecha-evento": "2026-03-09T15:00:17-05:00",
-    "img": "019bd1f0-75ec-77ab-9d9c-af4f69471ac0",
-    "nombre": "disneye6c6cf",
-    "status": "15:00",
-    "duration": 210,
-    "play_url": "https://www.disneyplus.com/es-es/play/be3d8ae3-3619-44e1-914a-a3a770b80d6a",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1773174133~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F09%2FLos_Angeles_Kings_vs_Colu_20260309_1773079232657%2F~psid=e25ec39b-a99b-45f4-b35a-07ba879597bc~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=9bb21976ddc75d80fbd7e12a4246216e0831566b8027b9668bbcad14a1bdbf39/clt1/va02/disneyplus/event/2026/03/09/Los_Angeles_Kings_vs_Colu_20260309_1773079232657/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=8b85cf0949658afcf23022b4812864750f555bb1",
-    "k1": "110990967a3241cd84efbd9fdc204dfb",
-    "k2": "dc77761ab83f62d1142c7186bf7fd382"
   },
   {
     "title": "WTA BNP Paribas Open / Stadium 5 (Doubles)",
@@ -664,6 +638,26 @@
     "img": "019cb52a-acc7-788b-83cb-50c870fe1a66",
     "nombre": "disneyca0111",
     "status": "18:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "San Jose Sharks vs. Buffalo Sabres",
+    "league": "National Hockey League",
+    "fecha-evento": "2026-03-10T18:00:00-05:00",
+    "img": "019ccef6-7931-7eb6-b59d-35ab732582c6",
+    "nombre": "disney5c9b8e",
+    "status": "18:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Tigre vs. Vélez Sarsfield (Fecha #10)",
+    "league": "Liga Profesional de Fútbol",
+    "fecha-evento": "2026-03-10T17:30:00-05:00",
+    "img": "019cbf74-0d3c-7ec2-aaa4-eb72483811a9",
+    "nombre": "disneya65af8",
+    "status": "17:30",
     "duration": 135,
     "play_url": ""
   }
