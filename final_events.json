@@ -1,137 +1,13 @@
 [
   {
-    "title": "Brasil vs. México (Grupo B)",
+    "title": "República Dominicana vs. Israel (Grupo D)",
     "league": "Clásico Mundial de Béisbol",
-    "fecha-evento": "2026-03-08T19:00:03-05:00",
-    "img": "019ca4d2-4e21-743a-bd19-de0634da4e57",
-    "nombre": "disneybf538d",
-    "status": "19:00",
+    "fecha-evento": "2026-03-09T11:00:00-05:00",
+    "img": "019ca5e1-891b-7601-bcea-d9cb73ef8b30",
+    "nombre": "disneyb0eba4",
+    "status": "11:00",
     "duration": 180,
-    "play_url": "https://www.disneyplus.com/es-es/play/f7c0d827-9035-4785-8c8b-f627d4a94815",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1773102054~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F09%2FEn_EspaolBrazil_vs_Mexico_20260309_1773007213018%2F~psid=5e919611-a903-4a39-90ae-ebdd2b90aea1~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=2834e3df1f23c18a28a0bf118d4bd55e29454a375af03f175d87e4640a4d48d4/clt1/va02/disneyplus/event/2026/03/09/En_EspaolBrazil_vs_Mexico_20260309_1773007213018/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=84589eef261c7dabe88f002f9bf0a231a90ebcad",
-    "k1": "031a363cf95c498d99a9d49297e3555b",
-    "k2": "e205fe5e5d3cb156d85da09096a481bc"
-  },
-  {
-    "title": "Fairfield vs. Siena (Semifinal #2)",
-    "league": "Básquetbol Masculino NCAA",
-    "fecha-evento": "2026-03-08T19:30:00-05:00",
-    "img": "019c7756-592e-72ce-b1f6-9eb236dbf40f",
-    "nombre": "disney5c480a",
-    "status": "19:30",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/23063e70-a529-4637-b5e2-f453c569cb21",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1773103307~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F09%2FFairfield_vs_Siena_Semifi_20260309_1773009024017%2F~psid=b48fc958-af15-4910-827e-19c7b7593b89~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=d2d70632c6b4e7e7fe8543ddbe8b62ab9c0417cbbe55864ae74aa4d20d915cdc/clt1/va02/disneyplus/event/2026/03/09/Fairfield_vs_Siena_Semifi_20260309_1773009024017/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=cec2452b2f8eab928f60aa98ba772761271dbb2d",
-    "k1": "51efbbf6b40b49eb9334fa2b3dd3c1a6",
-    "k2": "a2847c5fe7343bbd5cd995ca92d607ca"
-  },
-  {
-    "title": "BNP Paribas Open (Tercera Ronda)",
-    "league": "ATP",
-    "fecha-evento": "2026-03-08T20:05:00-05:00",
-    "img": "019cd020-7891-7500-9d68-d43af7157c9e",
-    "nombre": "disney4c51f7",
-    "status": "20:05",
-    "duration": 235,
-    "play_url": "https://www.disneyplus.com/es-es/play/1f4afaa5-41b4-4657-8898-6dcbc1caac46",
-    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1773105687~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Ff25bdf06-81c9-4a7c-b128-3128d610ad17-1762951253360%2F~psid=b2a09d78-9eb1-4c63-8cfc-4a7b5e04c674~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=5c20d3cf84c599ea018337c8fe4c92679c9401f3e59735287f94f0d8c8c6b329/clt1/va02/disneyplus/channel/f25bdf06-81c9-4a7c-b128-3128d610ad17-1762951253360/ctr-all-sliding-alt1.m3u8?r=1080&v=1&hash=9816cf0e34cd1280142adf33de1d35c2d805df20",
-    "k1": "85c45dd553a9451b8bcc9146ad551e88",
-    "k2": "f4c17a3d08e85ec8d30cf2ae2cfac689"
-  },
-  {
-    "title": "WTA BNP Paribas Open / Stadium 1",
-    "league": "WTA",
-    "fecha-evento": "2026-03-08T20:00:00-05:00",
-    "img": "a629258c-0d96-46bc-ac8c-6b2f842b539b",
-    "nombre": "disney62cde8",
-    "status": "20:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/4020a696-3be1-40f0-89ba-e5b67c993050",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1773105736~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F09%2FWTA_BNP_Paribas_Open_Stad_20260309_1773010849017%2F~psid=91b3a6f0-848b-4544-a87b-3792a8ce53f1~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=011465344c794eac036848d5b08b754271acf814b89b3a845407ebe53eab1f04/clt1/va02/disneyplus/event/2026/03/09/WTA_BNP_Paribas_Open_Stad_20260309_1773010849017/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=04f357c02d909076dbdddb25d231e033b5d641b1",
-    "k1": "3571edf9c4144b558f2a446fd94d035e",
-    "k2": "0b59abd3f89ca1602644ffe603d6c0f8"
-  },
-  {
-    "title": "BNP Paribas Open / Stadium 2",
-    "league": "ATP",
-    "fecha-evento": "2026-03-08T20:00:01-05:00",
-    "img": "eac2fbe0-513b-4149-955c-9736768c7ebe",
-    "nombre": "disneyc096ac",
-    "status": "20:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/ddfbf16a-5140-47c9-a490-cf9b75fc3e88",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1773105785~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F09%2FBNP_Paribas_Open_Stadium__20260309_1773010804019%2F~psid=e8586b77-e356-4025-a657-aa2911eceb68~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=f14e1886b938c6164d6b70aa1e5d9b0c7dae4a50740138a5dd9d21a2d0e31bc7/clt1/va02/disneyplus/event/2026/03/09/BNP_Paribas_Open_Stadium__20260309_1773010804019/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=de78a5de68b4b5b09380127d3f9d22e3dfcdc1da",
-    "k1": "25cf7c1e0bf148bcb7d7caa31742c752",
-    "k2": "7d29ec2d3840d6e6435bf49d961aa854"
-  },
-  {
-    "title": "St. Louis Blues vs. Anaheim Ducks",
-    "league": "National Hockey League",
-    "fecha-evento": "2026-03-08T20:00:30-05:00",
-    "img": "019cb539-2d48-740a-b340-56833d523dab",
-    "nombre": "disneyb99d7c",
-    "status": "20:00",
-    "duration": 210,
-    "play_url": "https://www.disneyplus.com/es-es/play/fae09d7c-f594-4314-b4ec-22c746b5363a",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1773105814~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F09%2FSt_Louis_Blues_vs_Anaheim_20260309_1773010808043%2F~psid=6e54109c-b5e1-40ec-b326-942117dfe4c9~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=125ba4f1b16cec85a9dbf950375a62fab3fe594a4a901a8d73cfe79a8ed53c9e/clt1/va02/disneyplus/event/2026/03/09/St_Louis_Blues_vs_Anaheim_20260309_1773010808043/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=34e575be5e14af543d7320aa4f170c2ee49a53c7",
-    "k1": "e7872ef1143544c484d8c97675541a2b",
-    "k2": "2ef2f9319e434043287824905c0bc6a1"
-  },
-  {
-    "title": "Georgia Southern vs. Marshall (Semifinal #2)",
-    "league": "Básquetbol Masculino NCAA",
-    "fecha-evento": "2026-03-08T19:30:00-05:00",
-    "img": "019c3814-d61b-741c-ad5a-ddf9e775af3d",
-    "nombre": "disneya5ae23",
-    "status": "19:30",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/2320bb99-3680-4358-bc96-6956c0efc46b",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1773103257~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F09%2FGeorgia_Southern_vs_Marsh_20260309_1773009036044%2F~psid=935d2e35-a766-4f40-bdb2-50f81d03c2cd~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=31a46ac2ce4f4021fc914b0c1e7d1a63a90205a50843fe15726f1057b7071fbf/clt1/va02/disneyplus/event/2026/03/09/Georgia_Southern_vs_Marsh_20260309_1773009036044/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=eaf1b64ab06b3ce580300788a7f4332ca494ea57",
-    "k1": "b7af888ecaa347aea7705780ed3dba6e",
-    "k2": "f8bb6f474bca10e8835ae76766119d21"
-  },
-  {
-    "title": "Edmonton Oilers vs. Vegas Golden Knights",
-    "league": "National Hockey League",
-    "fecha-evento": "2026-03-08T20:30:00-05:00",
-    "img": "019c635d-b718-7acb-a5c7-e8103027de70",
-    "nombre": "disneyb25ca4",
-    "status": "20:30",
-    "duration": 150,
-    "play_url": "https://www.disneyplus.com/es-es/play/ac54f26c-26bb-4815-ac37-c16a7be37c1a",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1773106863~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F09%2FEdmonton_Oilers_vs_Vegas__20260309_1773012648037%2F~psid=10dae871-125b-41ee-9a0f-67bbfb6f4a3e~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=303ffdb9f7b6b552e6cdab7b5e73d947fc809958b4a4f49a2d5223d9b11a20a2/clt1/va02/disneyplus/event/2026/03/09/Edmonton_Oilers_vs_Vegas__20260309_1773012648037/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=03b56e8a97a44af9d3cda90df089d8170605858d",
-    "k1": "6a1c4017c1b04b05bcadc358d7414edf",
-    "k2": "a3c2639a2bcc406ed44584d4c4258c48"
-  },
-  {
-    "title": "Béisbol Esta Noche: Edición Clásico Mundial de Béisbol",
-    "league": "MLB",
-    "fecha-evento": "2026-03-08T22:00:00-05:00",
-    "img": "f2fb4b34-6603-4ef2-866c-877d6a0ff93d",
-    "nombre": "disney7744b7",
-    "status": "22:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Corea del Sur vs. Australia (Grupo C)",
-    "league": "Clásico Mundial de Béisbol",
-    "fecha-evento": "2026-03-09T05:00:00-05:00",
-    "img": "019cc0e6-15f3-749b-93a5-e25532a44ebd",
-    "nombre": "disneyc35448",
-    "status": "05:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "2026 Paris-Nice (etapa 2)",
-    "league": "ESPN",
-    "fecha-evento": "2026-03-09T09:00:00-05:00",
-    "img": "16533c4d-3a0a-4a2c-aca1-6bb92a3b7f67",
-    "nombre": "disney11750b",
-    "status": "09:00",
-    "duration": 135,
-    "play_url": ""
+    "play_url": "https://www.disneyplus.com/es-es/play/0d9f1549-317a-4495-acfe-07068b7e6b0f"
   },
   {
     "title": "Colombia vs. Panamá (Grupo A)",
@@ -140,28 +16,11 @@
     "img": "019ca623-00de-7943-87c0-d4653596496d",
     "nombre": "disneyf5464b",
     "status": "11:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Barbasol Horizon League Women's Basketball Championship (Semifinal #1)",
-    "league": "Básquet Femenino NCAA",
-    "fecha-evento": "2026-03-09T11:00:00-05:00",
-    "img": "6599bc15-70a9-4d6e-913e-04b94be58edf",
-    "nombre": "disney6beeb9",
-    "status": "11:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "República Dominicana vs. Israel (Grupo D)",
-    "league": "Clásico Mundial de Béisbol",
-    "fecha-evento": "2026-03-09T11:00:00-05:00",
-    "img": "019ca5e1-891b-7601-bcea-d9cb73ef8b30",
-    "nombre": "disneyb0eba4",
-    "status": "11:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 180,
+    "play_url": "https://www.disneyplus.com/es-es/play/658b27b7-80be-46d6-939d-101149c0be30",
+    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1773165691~url=%2Fgru1%2Fva01%2Fdisneyplus%2Fchannel%2Ff25bdf06-81c9-4a7c-b128-3128d610ad17-1772698852736%2F~psid=c9690cb6-6a20-4af0-95a8-d9b8dee4cf28~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=745c16a6cb0db5dde5bb56287d1cdc925d34243b7d875ace285e4da850cc9a69/gru1/va01/disneyplus/channel/f25bdf06-81c9-4a7c-b128-3128d610ad17-1772698852736/ctr-all-sliding-alt1.m3u8?r=1080&v=1&hash=7522c48f43543af60cc0c66b4de1694e287353a4",
+    "k1": "404eaccdecbc4c499e20a997f8d21523",
+    "k2": "df3f9593db2016e7aa20c6025ec0f72e"
   },
   {
     "title": "Kayserispor vs. Trabzonspor",
@@ -170,18 +29,24 @@
     "img": "4dab1973-819b-4f0a-82f5-76a9777047e0",
     "nombre": "disneyb93bd9",
     "status": "11:50",
-    "duration": 135,
-    "play_url": ""
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/b54cab19-9943-4ecb-9033-6307ca72bd38",
+    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1773165738~url=%2Fgru1%2Fva01%2Fdisneyplus%2Fchannel%2F7f9052ce-8143-43a6-9656-a8c00c4a3e56-1772593729402%2F~psid=aa9cbf16-9a35-49d3-9b02-2bb252fb6fb2~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=9d356f3c4b2e86b1390aa2bb5b922add78bd6f2b3444904145ff88ade4fa4fb8/gru1/va01/disneyplus/channel/7f9052ce-8143-43a6-9656-a8c00c4a3e56-1772593729402/ctr-all-sliding-alt1.m3u8?r=1080&v=1&hash=9d325ead1ba6c94cad4e54a17f18fa96e118d7b5",
+    "k1": "4af11d6e823a492192fb2cc377249afd",
+    "k2": "55bebb681779bdbfd6df84a5da9230db"
   },
   {
     "title": "Brasil vs. Gran Bretaña (Grupo B)",
     "league": "Clásico Mundial de Béisbol",
-    "fecha-evento": "2026-03-09T12:00:00-05:00",
+    "fecha-evento": "2026-03-09T12:00:02-05:00",
     "img": "019ca627-5d7e-7386-a0b4-f050e8d7af76",
-    "nombre": "disney4f6ae2",
+    "nombre": "disney6caf62",
     "status": "12:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 180,
+    "play_url": "https://www.disneyplus.com/es-es/play/6a768755-364b-47e8-95b2-0b110c45d885",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1773165765~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F09%2FEn_EspaolBrazil_vs_Great__20260309_1773068436041%2F~psid=fce30954-eb52-449b-9c8f-0371042b46b8~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=35bb973f11cd2966d815bbf37707044f5286a4be5e30f3656da3d6d6aedf83c1/clt1/va02/disneyplus/event/2026/03/09/En_EspaolBrazil_vs_Great__20260309_1773068436041/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=18968863980967872ed171906376026b8eb85c1b",
+    "k1": "e7c95c28ddf541289d423584b44c1fce",
+    "k2": "c14005b5bd29d9d7dc782f81efe46f96"
   },
   {
     "title": "BNP Paribas Open / Stadium 3",
@@ -194,12 +59,12 @@
     "play_url": ""
   },
   {
-    "title": "N. Djokovic (SRB) vs. A. Kovacevic (USA)",
+    "title": "Novak Djokovic (SRB) vs. Aleksander Kovacevic (USA)",
     "league": "ATP",
-    "fecha-evento": "2026-03-09T14:00:00-05:00",
-    "img": "9e378956-d30a-49eb-9748-2d8b804eef21",
-    "nombre": "disney293d49",
-    "status": "14:00",
+    "fecha-evento": "2026-03-09T13:00:00-05:00",
+    "img": "019cd269-314d-7317-937c-1fc1ddcc8476",
+    "nombre": "disney3fce72",
+    "status": "13:00",
     "duration": 135,
     "play_url": ""
   },
@@ -227,7 +92,7 @@
     "title": "BNP Paribas Open (Tercera Ronda)",
     "league": "ATP",
     "fecha-evento": "2026-03-09T13:00:00-05:00",
-    "img": "9e378956-d30a-49eb-9748-2d8b804eef21",
+    "img": "019cd269-314d-7317-937c-1fc1ddcc8476",
     "nombre": "disney02760a",
     "status": "13:00",
     "duration": 135,
@@ -274,11 +139,11 @@
     "play_url": ""
   },
   {
-    "title": "WCC Women's Basketball Championship (Semifinal #1)",
-    "league": "Básquet Femenino NCAA",
+    "title": "BNP Paribas Open / Stadium 2",
+    "league": "ATP",
     "fecha-evento": "2026-03-09T14:00:00-05:00",
-    "img": "6599bc15-70a9-4d6e-913e-04b94be58edf",
-    "nombre": "disneyf460bf",
+    "img": "eac2fbe0-513b-4149-955c-9736768c7ebe",
+    "nombre": "disney2ca7ff",
     "status": "14:00",
     "duration": 135,
     "play_url": ""
@@ -290,6 +155,26 @@
     "img": "54a5b96b-ef72-4456-b9b2-128099e326f4",
     "nombre": "disney63512f",
     "status": "14:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Oregon State vs. Loyola Marymount (Semifinal #1)",
+    "league": "Básquet Femenino NCAA",
+    "fecha-evento": "2026-03-09T14:00:00-05:00",
+    "img": "019cd305-6ba9-7c10-9735-cf2110b96d96",
+    "nombre": "disney7cf011",
+    "status": "14:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Los Angeles Kings vs. Columbus Blue Jackets",
+    "league": "National Hockey League",
+    "fecha-evento": "2026-03-09T15:00:00-05:00",
+    "img": "019bd1f0-75ec-77ab-9d9c-af4f69471ac0",
+    "nombre": "disney41d307",
+    "status": "15:00",
     "duration": 135,
     "play_url": ""
   },
@@ -314,6 +199,16 @@
     "play_url": ""
   },
   {
+    "title": "WTA BNP Paribas Open / Stadium 1",
+    "league": "WTA",
+    "fecha-evento": "2026-03-09T15:00:00-05:00",
+    "img": "a629258c-0d96-46bc-ac8c-6b2f842b539b",
+    "nombre": "disneybccac0",
+    "status": "15:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
     "title": "Cerro Largo vs. Montevideo City Torque",
     "league": "Campeonato Uruguayo",
     "fecha-evento": "2026-03-09T16:00:00-05:00",
@@ -324,11 +219,11 @@
     "play_url": ""
   },
   {
-    "title": "WCC Women's Basketball Championship (Semifinal #2)",
+    "title": "Santa Clara vs. Gonzaga (Semifinal #2)",
     "league": "Básquet Femenino NCAA",
     "fecha-evento": "2026-03-09T16:30:00-05:00",
-    "img": "6599bc15-70a9-4d6e-913e-04b94be58edf",
-    "nombre": "disney992272",
+    "img": "401905be-e998-400c-8d98-4921935c6c0e",
+    "nombre": "disneye65fe0",
     "status": "16:30",
     "duration": 135,
     "play_url": ""
@@ -364,21 +259,21 @@
     "play_url": ""
   },
   {
-    "title": "Lafayette vs. Army (Cuartos de Final #1)",
-    "league": "Básquet Femenino NCAA",
+    "title": "New Orleans vs. Texas A&M-Corpus Christi (Cuartos de Final)",
+    "league": "Básquetbol Masculino NCAA",
     "fecha-evento": "2026-03-09T17:00:00-05:00",
-    "img": "019bf7b6-b265-70b8-abb8-92c68b895bfc",
-    "nombre": "disney6262fd",
+    "img": "353aebc9-52f2-43fd-b03a-bbe65a3f1970",
+    "nombre": "disney230e59",
     "status": "17:00",
     "duration": 135,
     "play_url": ""
   },
   {
-    "title": "Southland Men's Basketball Championship (Cuartos de Final)",
-    "league": "Básquetbol Masculino NCAA",
+    "title": "Lafayette vs. Army (Cuartos de Final #1)",
+    "league": "Básquet Femenino NCAA",
     "fecha-evento": "2026-03-09T17:00:00-05:00",
-    "img": "ca493365-e964-4d57-a55f-8b23f9a023f1",
-    "nombre": "disney2abba8",
+    "img": "019bf7b6-b265-70b8-abb8-92c68b895bfc",
+    "nombre": "disney6262fd",
     "status": "17:00",
     "duration": 135,
     "play_url": ""
@@ -484,6 +379,16 @@
     "play_url": ""
   },
   {
+    "title": "Nicholls vs. UT Rio Grande Valley (Cuartos de Final)",
+    "league": "Básquetbol Masculino NCAA",
+    "fecha-evento": "2026-03-09T19:30:00-05:00",
+    "img": "30c2ec30-941b-46c7-93ac-0e11508681e0",
+    "nombre": "disney93395b",
+    "status": "19:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
     "title": "Ottawa Senators vs. Vancouver Canucks",
     "league": "National Hockey League",
     "fecha-evento": "2026-03-09T20:00:00-05:00",
@@ -504,12 +409,32 @@
     "play_url": ""
   },
   {
+    "title": "Carlos Alcaraz (ESP) vs. Arthur Rinderknech (FRA)",
+    "league": "ATP",
+    "fecha-evento": "2026-03-09T21:00:00-05:00",
+    "img": "9e378956-d30a-49eb-9748-2d8b804eef21",
+    "nombre": "disneye0f9a6",
+    "status": "21:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
     "title": "BNP Paribas Open / Stadium 1",
     "league": "ATP",
     "fecha-evento": "2026-03-09T20:00:00-05:00",
     "img": "a629258c-0d96-46bc-ac8c-6b2f842b539b",
     "nombre": "disneyf073d1",
     "status": "20:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Béisbol Esta Noche: Edición Clásico Mundial de Béisbol",
+    "league": "MLB",
+    "fecha-evento": "2026-03-09T22:00:00-05:00",
+    "img": "f2fb4b34-6603-4ef2-866c-877d6a0ff93d",
+    "nombre": "disney980689",
+    "status": "22:00",
     "duration": 135,
     "play_url": ""
   },
@@ -590,6 +515,96 @@
     "img": "6599bc15-70a9-4d6e-913e-04b94be58edf",
     "nombre": "disneyc5101a",
     "status": "13:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "WTA BNP Paribas Open (Octavos de final)",
+    "league": "WTA",
+    "fecha-evento": "2026-03-10T13:00:00-05:00",
+    "img": "9d5547a5-a203-448f-ad5f-5d5b5be9fccf",
+    "nombre": "disneyea1742",
+    "status": "13:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "BNP Paribas Open / Stadium 3 (Doubles)",
+    "league": "ATP",
+    "fecha-evento": "2026-03-10T13:00:00-05:00",
+    "img": "d5f3824d-4f87-4b36-b5ae-e1ae8f3a09a4",
+    "nombre": "disney867e8c",
+    "status": "13:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Southland Women's Basketball Championship (Cuartos de Final #2)",
+    "league": "Básquet Femenino NCAA",
+    "fecha-evento": "2026-03-10T13:30:00-05:00",
+    "img": "6599bc15-70a9-4d6e-913e-04b94be58edf",
+    "nombre": "disneyfc792c",
+    "status": "13:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Atalanta vs. Bayern Munich | 8vos de final, ida",
+    "league": "UEFA Champions League",
+    "fecha-evento": "2026-03-10T14:40:00-05:00",
+    "img": "019ca94e-def0-70ea-8fb2-a50d81efcf76",
+    "nombre": "disney14a83d",
+    "status": "14:40",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Newcastle United vs. Barcelona | 8vos de final, ida",
+    "league": "UEFA Champions League",
+    "fecha-evento": "2026-03-10T14:40:00-05:00",
+    "img": "019ca950-4083-7e4b-98b1-ed554987bfed",
+    "nombre": "disney7de8af",
+    "status": "14:40",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "UCL al instante",
+    "league": "UEFA Champions League",
+    "fecha-evento": "2026-03-10T14:40:00-05:00",
+    "img": "1f4cfba0-a435-412b-b4cb-1cebe051956c",
+    "nombre": "disney413539",
+    "status": "14:40",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Atletico Madrid vs. Tottenham Hotspur | 8vos de final, ida",
+    "league": "UEFA Champions League",
+    "fecha-evento": "2026-03-10T14:40:00-05:00",
+    "img": "019ca951-900e-7979-896f-839a30d40be9",
+    "nombre": "disney838711",
+    "status": "14:40",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Stoke City vs. Ipswich Town",
+    "league": "Championship de Inglaterra",
+    "fecha-evento": "2026-03-10T14:50:00-05:00",
+    "img": "019c915f-6da9-745a-b4ed-6133920cc91b",
+    "nombre": "disney44b757",
+    "status": "14:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "WTA BNP Paribas Open / Stadium 2",
+    "league": "WTA",
+    "fecha-evento": "2026-03-10T15:00:00-05:00",
+    "img": "eac2fbe0-513b-4149-955c-9736768c7ebe",
+    "nombre": "disney988f6b",
+    "status": "15:00",
     "duration": 135,
     "play_url": ""
   }
