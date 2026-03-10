@@ -49,6 +49,19 @@
     "k2": "4833a6b5615ff14a42b85dd457129ba9"
   },
   {
+    "title": "Aryna Sabalenka (BLR) vs. Naomi Osaka (JPN)",
+    "league": "ATP",
+    "fecha-evento": "2026-03-10T13:00:00-05:00",
+    "img": "019cd7aa-c2ff-7235-89ef-d15f65dbc009",
+    "nombre": "disney647c00",
+    "status": "13:00",
+    "duration": 330,
+    "play_url": "https://www.disneyplus.com/es-es/play/9a8838cf-413e-4d03-9cde-fed0e6d5200d",
+    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1773252084~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Fbbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1773078587332%2F~psid=bc589bad-3a1f-468b-a0bc-01a0ac15791f~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=bbb7856a75bbfc91a4ed5265db9dfb89bbf45c028383e7b6b1a84b3f4a12ca4b/clt1/va02/disneyplus/channel/bbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1773078587332/ctr-all-sliding-alt1.m3u8?r=1080&v=1&hash=47cbb8616004a1e945f48692281e999bd4428c97",
+    "k1": "c594e834a57b4fdd99515a45f5f9f7c5",
+    "k2": "0bcdcef34add8c0d755f1b04604f8ff6"
+  },
+  {
     "title": "BNP Paribas Open (Octavos de final)",
     "league": "ATP",
     "fecha-evento": "2026-03-10T13:00:04-05:00",
@@ -75,32 +88,6 @@
     "k2": "f59de89276e0835467dd5a4b9efe295c"
   },
   {
-    "title": "Sacramento State vs. Idaho (Semifinal #1)",
-    "league": "Básquet Femenino NCAA",
-    "fecha-evento": "2026-03-10T13:00:00-05:00",
-    "img": "019ba787-57e0-74a2-8a22-cb6994f9472c",
-    "nombre": "disney5afd44",
-    "status": "13:00",
-    "duration": 140,
-    "play_url": "https://www.disneyplus.com/es-es/play/88e8fd1e-c56e-4045-b9bf-7c43e8882d04",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1773253332~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F10%2FSacramento_State_vs_Idaho_20260310_1773158438018%2F~psid=17451177-9cd8-445e-bec6-40229b2c7e03~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=21965c1b638eb052667cbf849fac5ecd2464deec5492c7e260e82e1befd496a1/clt1/va02/disneyplus/event/2026/03/10/Sacramento_State_vs_Idaho_20260310_1773158438018/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=5eed32f7c76d434d287580b8b2104138bac85337",
-    "k1": "3517ac8b8e794610b0cbf5e59879879a",
-    "k2": "0691d61aa9ad7e2ca126c1226b013ed1"
-  },
-  {
-    "title": "Aryna Sabalenka (BLR) vs. Naomi Osaka (JPN)",
-    "league": "ATP",
-    "fecha-evento": "2026-03-10T13:00:00-05:00",
-    "img": "019cd7aa-c2ff-7235-89ef-d15f65dbc009",
-    "nombre": "disney647c00",
-    "status": "13:00",
-    "duration": 330,
-    "play_url": "https://www.disneyplus.com/es-es/play/9a8838cf-413e-4d03-9cde-fed0e6d5200d",
-    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1773252084~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Fbbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1773078587332%2F~psid=bc589bad-3a1f-468b-a0bc-01a0ac15791f~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=bbb7856a75bbfc91a4ed5265db9dfb89bbf45c028383e7b6b1a84b3f4a12ca4b/clt1/va02/disneyplus/channel/bbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1773078587332/ctr-all-sliding-alt1.m3u8?r=1080&v=1&hash=47cbb8616004a1e945f48692281e999bd4428c97",
-    "k1": "c594e834a57b4fdd99515a45f5f9f7c5",
-    "k2": "0bcdcef34add8c0d755f1b04604f8ff6"
-  },
-  {
     "title": "BNP Paribas Open / Stadium 4 (Doubles)",
     "league": "ATP",
     "fecha-evento": "2026-03-10T13:00:00-05:00",
@@ -114,14 +101,30 @@
     "k2": "8518cca9eab0640cd5dec0f9839e2b02"
   },
   {
+    "title": "Sacramento State vs. Idaho (Semifinal #1)",
+    "league": "Básquet Femenino NCAA",
+    "fecha-evento": "2026-03-10T13:00:00-05:00",
+    "img": "019ba787-57e0-74a2-8a22-cb6994f9472c",
+    "nombre": "disney5afd44",
+    "status": "13:00",
+    "duration": 140,
+    "play_url": "https://www.disneyplus.com/es-es/play/88e8fd1e-c56e-4045-b9bf-7c43e8882d04",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1773253332~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F10%2FSacramento_State_vs_Idaho_20260310_1773158438018%2F~psid=17451177-9cd8-445e-bec6-40229b2c7e03~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=21965c1b638eb052667cbf849fac5ecd2464deec5492c7e260e82e1befd496a1/clt1/va02/disneyplus/event/2026/03/10/Sacramento_State_vs_Idaho_20260310_1773158438018/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=5eed32f7c76d434d287580b8b2104138bac85337",
+    "k1": "3517ac8b8e794610b0cbf5e59879879a",
+    "k2": "0691d61aa9ad7e2ca126c1226b013ed1"
+  },
+  {
     "title": "Nicholls vs. Stephen F. Austin (Cuartos de Final #2)",
     "league": "Básquet Femenino NCAA",
     "fecha-evento": "2026-03-10T13:30:00-05:00",
     "img": "e0ba3a9c-6fd3-41ef-b1d7-9f4d63941a12",
     "nombre": "disney3fe8a7",
     "status": "13:30",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/934a0676-4171-43f4-a442-b8553a93a8c6",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1773254440~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F10%2FNicholls_vs_Stephen_F_Aus_20260310_1773160209040%2F~psid=fd0c7e62-91e8-49f7-b295-8276241319f0~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=20bae12cd43f7fee970686eaf74500240c49810a57f7c2b1249fa074f1f85b1a/clt1/va02/disneyplus/event/2026/03/10/Nicholls_vs_Stephen_F_Aus_20260310_1773160209040/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=4cb78ff356a473a4c2137361c46c7dfdd5a67c33",
+    "k1": "b68a9946745d45ce8393ecf1c1f1487c",
+    "k2": "62ee834a63aa97d5723b192d7e1216c5"
   },
   {
     "title": "Atalanta vs. Bayern Munich | 8vos de final, ida",
