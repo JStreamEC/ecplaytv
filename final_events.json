@@ -61,12 +61,15 @@
   {
     "title": "WTA BNP Paribas Open (Octavos de final)",
     "league": "WTA",
-    "fecha-evento": "2026-03-10T13:00:00-05:00",
+    "fecha-evento": "2026-03-10T12:55:26-05:00",
     "img": "019cd7aa-c2ff-7235-89ef-d15f65dbc009",
-    "nombre": "disneyea1742",
-    "status": "13:00",
-    "duration": 135,
-    "play_url": ""
+    "nombre": "disney15f7f5",
+    "status": "12:55",
+    "duration": 665,
+    "play_url": "https://www.disneyplus.com/es-es/play/78a73a93-09dd-4162-b6c7-870a77696bfc",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1773252037~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F10%2FWTA_BNP_Paribas_Open_Roun_20260310_1773158401018%2F~psid=7a5dcb13-f20a-42a5-bd1a-486af703ab2a~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=5933ce25c6bfa7d94feef1886270c871613405d5a61ce2fdf2ca877250f216eb/clt1/va02/disneyplus/event/2026/03/10/WTA_BNP_Paribas_Open_Roun_20260310_1773158401018/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=7e11601b8a95bb401ee2edefaff62c33e0cdd59d",
+    "k1": "9f25261d8f4040488ee239ed573dc43a",
+    "k2": "4833a6b5615ff14a42b85dd457129ba9"
   },
   {
     "title": "BNP Paribas Open / Stadium 3 (Doubles)",
@@ -85,8 +88,11 @@
     "img": "019cd7aa-c2ff-7235-89ef-d15f65dbc009",
     "nombre": "disney647c00",
     "status": "13:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 330,
+    "play_url": "https://www.disneyplus.com/es-es/play/9a8838cf-413e-4d03-9cde-fed0e6d5200d",
+    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1773252084~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Fbbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1773078587332%2F~psid=bc589bad-3a1f-468b-a0bc-01a0ac15791f~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=bbb7856a75bbfc91a4ed5265db9dfb89bbf45c028383e7b6b1a84b3f4a12ca4b/clt1/va02/disneyplus/channel/bbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1773078587332/ctr-all-sliding-alt1.m3u8?r=1080&v=1&hash=47cbb8616004a1e945f48692281e999bd4428c97",
+    "k1": "c594e834a57b4fdd99515a45f5f9f7c5",
+    "k2": "0bcdcef34add8c0d755f1b04604f8ff6"
   },
   {
     "title": "Sacramento State vs. Idaho (Semifinal #1)",
@@ -105,8 +111,11 @@
     "img": "001e63d6-4ed7-4e0f-aa73-82aab0f72cc2",
     "nombre": "disney3b76e1",
     "status": "13:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 600,
+    "play_url": "https://www.disneyplus.com/es-es/play/20fda2ee-05fa-4fac-bf47-26d8bd726b48",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1773252131~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F10%2FBNP_Paribas_Open_Stadium__20260310_1773158409043%2F~psid=98446b0e-2f08-4cbc-8d40-750f790aa7dc~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=32987df08487a3eb58345351f4e72b651630f1ec0972307636af2ea7bb0bbd36/clt1/va02/disneyplus/event/2026/03/10/BNP_Paribas_Open_Stadium__20260310_1773158409043/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=67d97d8a971e1bf0ff6b5d4f582856c3a75393a6",
+    "k1": "4a62a88da2f5437490362b4763e3cc70",
+    "k2": "8518cca9eab0640cd5dec0f9839e2b02"
   },
   {
     "title": "Nicholls vs. Stephen F. Austin (Cuartos de Final #2)",
