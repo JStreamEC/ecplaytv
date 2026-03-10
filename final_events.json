@@ -153,16 +153,6 @@
     "k2": "293d163ecf485a47288eccc6d64c5a9b"
   },
   {
-    "title": "Detroit Red Wings vs. Florida Panthers",
-    "league": "National Hockey League",
-    "fecha-evento": "2026-03-10T18:00:00-05:00",
-    "img": "019ccdce-46a9-711a-a893-89597da18696",
-    "nombre": "disney527e50",
-    "status": "18:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Los Angeles Kings vs. Boston Bruins",
     "league": "National Hockey League",
     "fecha-evento": "2026-03-10T18:00:00-05:00",
@@ -183,16 +173,6 @@
     "play_url": ""
   },
   {
-    "title": "Tigre vs. Vélez Sarsfield (Fecha #10)",
-    "league": "Liga Profesional de Fútbol",
-    "fecha-evento": "2026-03-10T17:30:00-05:00",
-    "img": "019cbf74-0d3c-7ec2-aaa4-eb72483811a9",
-    "nombre": "disneya65af8",
-    "status": "17:30",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Pittsburgh Penguins vs. Carolina Hurricanes",
     "league": "National Hockey League",
     "fecha-evento": "2026-03-10T18:00:00-05:00",
@@ -203,6 +183,19 @@
     "play_url": ""
   },
   {
+    "title": "Tigre vs. Vélez Sarsfield (Fecha #10)",
+    "league": "Liga Profesional de Fútbol",
+    "fecha-evento": "2026-03-10T17:30:01-05:00",
+    "img": "019cbf74-0d3c-7ec2-aaa4-eb72483811a9",
+    "nombre": "disneyd1cf02",
+    "status": "17:30",
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/d6520498-a14b-4308-95ad-5f33106f9fd5",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1773268844~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F10%2FTigre_vs_Vlez_Sarsfield_F_20260310_1773174643043%2F~psid=1ae31667-6015-4a23-8075-93d720ddda75~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=d13ddbadd1bbc45ec19351c7b064dd7f5161c46ef23af2dcad8a67c4d336ffe2/clt1/va02/disneyplus/event/2026/03/10/Tigre_vs_Vlez_Sarsfield_F_20260310_1773174643043/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=217b73e2cd77b9e7292b68bf2be2899dafd34062",
+    "k1": "96e0d276281944068b5f2e6ff6e32fc5",
+    "k2": "009f366e62657a60b37d08c400c79410"
+  },
+  {
     "title": "Columbus Blue Jackets vs. Tampa Bay Lightning",
     "league": "National Hockey League",
     "fecha-evento": "2026-03-10T18:00:00-05:00",
@@ -211,6 +204,39 @@
     "status": "18:00",
     "duration": 135,
     "play_url": ""
+  },
+  {
+    "title": "Toronto Maple Leafs vs. Montreal Canadiens",
+    "league": "National Hockey League",
+    "fecha-evento": "2026-03-10T18:00:00-05:00",
+    "img": "516e2b3c-1674-4555-91d0-dea34ad8b483",
+    "nombre": "disneyef4a85",
+    "status": "18:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Detroit Red Wings vs. Florida Panthers",
+    "league": "National Hockey League",
+    "fecha-evento": "2026-03-10T18:00:00-05:00",
+    "img": "019ccdce-46a9-711a-a893-89597da18696",
+    "nombre": "disney527e50",
+    "status": "18:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Calgary Flames vs. New York Rangers",
+    "league": "National Hockey League",
+    "fecha-evento": "2026-03-10T17:30:15-05:00",
+    "img": "0a904042-b4f0-41af-9bc0-fea43c683be3",
+    "nombre": "disneyd20bb9",
+    "status": "17:30",
+    "duration": 240,
+    "play_url": "https://www.disneyplus.com/es-es/play/a43c1ff4-c776-4585-9de0-bf013629112e",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1773268891~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F10%2FCalgary_Flames_vs_New_Yor_20260310_1773176460623%2F~psid=aa2e7f03-9fc6-44e3-b97d-09acf83a3389~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=fddd0e8f99bf1a34b26e693ee962310d372af4fcaaf6430e467c650b9324184d/clt1/va02/disneyplus/event/2026/03/10/Calgary_Flames_vs_New_Yor_20260310_1773176460623/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=346585760120ed19df765cf2a343df94437f8749",
+    "k1": "780a030467f64dc3a9175135e83fc916",
+    "k2": "ed5e325d7c7fbefacf440b65069181fe"
   },
   {
     "title": "Philadelphia Union vs. Club América (Octavos de Final - Partido de ida)",
@@ -293,31 +319,11 @@
     "play_url": ""
   },
   {
-    "title": "Calgary Flames vs. New York Rangers",
-    "league": "National Hockey League",
-    "fecha-evento": "2026-03-10T18:00:00-05:00",
-    "img": "0a904042-b4f0-41af-9bc0-fea43c683be3",
-    "nombre": "disney3b6375",
-    "status": "18:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Capitanes de Ciudad de México vs. Grand Rapids Gold",
     "league": "NBA G League",
     "fecha-evento": "2026-03-10T18:00:00-05:00",
     "img": "019c8237-2086-75e1-951c-888b4a51a0b9",
     "nombre": "disneyc45042",
-    "status": "18:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Toronto Maple Leafs vs. Montreal Canadiens",
-    "league": "National Hockey League",
-    "fecha-evento": "2026-03-10T18:00:00-05:00",
-    "img": "516e2b3c-1674-4555-91d0-dea34ad8b483",
-    "nombre": "disneyef4a85",
     "status": "18:00",
     "duration": 135,
     "play_url": ""
@@ -633,11 +639,11 @@
     "play_url": ""
   },
   {
-    "title": "American Women's Basketball Championship (Segunda Ronda)",
+    "title": "Florida Atlantic vs. North Texas (Segunda Ronda)",
     "league": "Básquet Femenino NCAA",
     "fecha-evento": "2026-03-11T12:00:00-05:00",
-    "img": "6599bc15-70a9-4d6e-913e-04b94be58edf",
-    "nombre": "disney754ba3",
+    "img": "019bd388-6d74-7fcf-8921-063c9ba0b60a",
+    "nombre": "disneyf95593",
     "status": "12:00",
     "duration": 135,
     "play_url": ""
