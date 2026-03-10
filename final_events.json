@@ -75,32 +75,6 @@
     "k2": "8518cca9eab0640cd5dec0f9839e2b02"
   },
   {
-    "title": "UCL al instante",
-    "league": "UEFA Champions League",
-    "fecha-evento": "2026-03-10T14:40:00-05:00",
-    "img": "1f4cfba0-a435-412b-b4cb-1cebe051956c",
-    "nombre": "disney413539",
-    "status": "14:40",
-    "duration": 160,
-    "play_url": "https://www.disneyplus.com/es-es/play/b9a6bae1-8ba5-4f73-8009-b9f0edd488a1",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1773258327~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F10%2FUCL_al_instante_20260310_1773164413041%2F~psid=75332437-6eb4-47f8-a62f-26de6da0b93b~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=aa06f3d2cdd054e85d45cd27fe769dc48c2b41838fd43ccfa31cca2bf04dc543/clt1/va02/disneyplus/event/2026/03/10/UCL_al_instante_20260310_1773164413041/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=a5a6f2c761d798f4df1403a9010a6f19fb954ab8",
-    "k1": "c9493302c4fc4b9cbce8321ac7b6b9fa",
-    "k2": "62973b19eacd914be47d16c2602c9fd0"
-  },
-  {
-    "title": "Atlético Madrid vs. Tottenham Hotspur | 8vos de final, ida",
-    "league": "UEFA Champions League",
-    "fecha-evento": "2026-03-10T14:40:00-05:00",
-    "img": "019ca951-900e-7979-896f-839a30d40be9",
-    "nombre": "disney85559f",
-    "status": "14:40",
-    "duration": 135,
-    "play_url": "https://www.disneyplus.com/es-es/play/5be27c9d-dbbf-4122-b714-0bed8fe86bc8",
-    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1773258353~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F7f9052ce-8143-43a6-9656-a8c00c4a3e56-1773071039106%2F~psid=d3236fc8-6793-4a3f-b8cf-c6263db39d44~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=08f71f204998eac1d2f9ac500c6a4780c3702614128113d0abe464eedeb1cefe/clt1/va02/disneyplus/channel/7f9052ce-8143-43a6-9656-a8c00c4a3e56-1773071039106/ctr-all-sliding-alt1.m3u8?r=1080&v=1&hash=f812b48fe160a3315a44f389d7be5df9e6792e5f",
-    "k1": "e40aef031b2949cd9ded9d1981b1e362",
-    "k2": "b72ffd12b924b32dadfd33b683d68bd0"
-  },
-  {
     "title": "WTA BNP Paribas Open / Stadium 2",
     "league": "WTA",
     "fecha-evento": "2026-03-10T15:00:00-05:00",
@@ -140,14 +114,17 @@
     "k2": "bfc8ea2bfdf87c4c60cdb06a0fe47f9a"
   },
   {
-    "title": "Duke vs. High Point",
-    "league": "NCAA Beisbol",
-    "fecha-evento": "2026-03-10T17:00:00-05:00",
-    "img": "019c90df-7382-7391-8ce2-1c6f6b4fe9f9",
-    "nombre": "disney1a2838",
+    "title": "UMass Lowell vs. UMBC (Semifinal #1)",
+    "league": "Básquetbol Masculino NCAA",
+    "fecha-evento": "2026-03-10T17:00:03-05:00",
+    "img": "49889440-3865-4728-a3b6-88835e488bfe",
+    "nombre": "disney0dde88",
     "status": "17:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/eb972ddd-86b1-4e5a-a7f7-7960eaeadb6d",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1773267646~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F10%2FUMass_Lowell_vs_UMBC_Semi_20260310_1773172908526%2F~psid=05325f8f-2077-4a07-9482-3a02c69e9b0c~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=de9034afe508488169237dcfe04290a9b573b5a99b0cf3cebc10a8063c1314cb/clt1/va02/disneyplus/event/2026/03/10/UMass_Lowell_vs_UMBC_Semi_20260310_1773172908526/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=9fe92cea4b6f0d74e1c4250c0e9155c2afc1a9f1",
+    "k1": "0294340515c240b6bea66f6856f82c82",
+    "k2": "c4c0eccad4e05f18bc028ce807e95de5"
   },
   {
     "title": "Bethune-Cookman vs. North Florida",
@@ -163,14 +140,17 @@
     "k2": "fd7c72d1ebac4342734bf75c040a1f05"
   },
   {
-    "title": "UMass Lowell vs. UMBC (Semifinal #1)",
-    "league": "Básquetbol Masculino NCAA",
-    "fecha-evento": "2026-03-10T17:00:00-05:00",
-    "img": "49889440-3865-4728-a3b6-88835e488bfe",
-    "nombre": "disney68f177",
-    "status": "17:00",
-    "duration": 135,
-    "play_url": ""
+    "title": "Duke vs. High Point",
+    "league": "NCAA Beisbol",
+    "fecha-evento": "2026-03-10T17:02:31-05:00",
+    "img": "019c90df-7382-7391-8ce2-1c6f6b4fe9f9",
+    "nombre": "disney5b29a9",
+    "status": "17:02",
+    "duration": 177,
+    "play_url": "https://www.disneyplus.com/es-es/play/56d9b955-3a7d-4f45-b331-97d203b4dbb5",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1773267694~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F10%2FDuke_vs_High_Point_20260310_1773172855041%2F~psid=575a92b3-8978-46c3-b1f2-2b72cc5328b7~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=c882b8a2b297585e22ee495fec93844a1026faaf2e9f019ba42fa04fb5b6f49c/clt1/va02/disneyplus/event/2026/03/10/Duke_vs_High_Point_20260310_1773172855041/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=683c4df1fdd54cf4d9fb0665cd44836d6d281a4c",
+    "k1": "22509eee74b74cda8cc7fa5fa1184449",
+    "k2": "293d163ecf485a47288eccc6d64c5a9b"
   },
   {
     "title": "Detroit Red Wings vs. Florida Panthers",
@@ -659,6 +639,26 @@
     "img": "6599bc15-70a9-4d6e-913e-04b94be58edf",
     "nombre": "disney754ba3",
     "status": "12:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Bayer Leverkusen vs. Arsenal | 8vos de final, ida",
+    "league": "UEFA Champions League",
+    "fecha-evento": "2026-03-11T12:25:00-05:00",
+    "img": "019ca952-a540-7884-bc92-14ee6048920e",
+    "nombre": "disney9c9906",
+    "status": "12:25",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "MAC Women's Basketball Championship (Cuartos de Final #2)",
+    "league": "Básquet Femenino NCAA",
+    "fecha-evento": "2026-03-11T12:30:00-05:00",
+    "img": "6599bc15-70a9-4d6e-913e-04b94be58edf",
+    "nombre": "disneyfc7e59",
+    "status": "12:30",
     "duration": 135,
     "play_url": ""
   }
