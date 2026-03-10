@@ -172,18 +172,24 @@
     "img": "eac2fbe0-513b-4149-955c-9736768c7ebe",
     "nombre": "disney988f6b",
     "status": "15:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 540,
+    "play_url": "https://www.disneyplus.com/es-es/play/3f650a2f-7431-46e8-9648-efd552cf4cf1",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1773260441~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F10%2FWTA_BNP_Paribas_Open_Stad_20260310_1773165621138%2F~psid=936d16ec-7a27-4e29-9c3a-66a43d3df81a~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=aef66476a9cb0a399d18b3a263c4b529a681f4016258349abcd21d16c3eaf641/clt1/va02/disneyplus/event/2026/03/10/WTA_BNP_Paribas_Open_Stad_20260310_1773165621138/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=7aeef9e0c4e8447907896a9feb5dc65cf40210dd",
+    "k1": "b4deb444d0974af994d26cb820b69261",
+    "k2": "34fd00b82038c46a11bffe9ff090ca3a"
   },
   {
     "title": "Frances Tiafoe (USA) vs. Alexander Zverev (GER)",
     "league": "ATP",
-    "fecha-evento": "2026-03-10T15:00:00-05:00",
+    "fecha-evento": "2026-03-10T15:02:02-05:00",
     "img": "a629258c-0d96-46bc-ac8c-6b2f842b539b",
-    "nombre": "disneye8d6e4",
-    "status": "15:00",
-    "duration": 135,
-    "play_url": ""
+    "nombre": "disney784587",
+    "status": "15:02",
+    "duration": 118,
+    "play_url": "https://www.disneyplus.com/es-es/play/5fd905a5-2844-43b1-80e4-60ce9a4adaaa",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1773260490~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F10%2FFrances_Tiafoe_USA_vs_Ale_20260310_1773165955545%2F~psid=1405b705-e744-41ec-be70-8ac4d8c36946~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=2c8ea86d83d36e2c9d936adaaed15b1d998684378861107c45ea051e0098b3b0/clt1/va02/disneyplus/event/2026/03/10/Frances_Tiafoe_USA_vs_Ale_20260310_1773165955545/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=4340bf9f037e250ce9f63cb1266f6d0d63ed8b0e",
+    "k1": "18cd193117da4474ab793a5c6152ad55",
+    "k2": "b5ec2dd6065764e40d4f4c0f09a98b6c"
   },
   {
     "title": "Eastern Washington vs. Montana State (Semifinal #2)",
