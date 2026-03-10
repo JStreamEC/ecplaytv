@@ -387,16 +387,6 @@
     "k2": "9b0c96454da13a573e9785624c97f673"
   },
   {
-    "title": "New York Islanders vs. St. Louis Blues",
-    "league": "National Hockey League",
-    "fecha-evento": "2026-03-10T18:30:00-05:00",
-    "img": "019ccef7-a91d-7cc8-87ed-000584f9db48",
-    "nombre": "disney59e0e3",
-    "status": "18:30",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Vegas Golden Knights vs. Dallas Stars",
     "league": "National Hockey League",
     "fecha-evento": "2026-03-10T19:00:00-05:00",
@@ -407,14 +397,30 @@
     "play_url": ""
   },
   {
+    "title": "New York Islanders vs. St. Louis Blues",
+    "league": "National Hockey League",
+    "fecha-evento": "2026-03-10T18:34:06-05:00",
+    "img": "019ccef7-a91d-7cc8-87ed-000584f9db48",
+    "nombre": "disney34cbd0",
+    "status": "18:34",
+    "duration": 206,
+    "play_url": "https://www.disneyplus.com/es-es/play/a1658072-28d5-4378-b446-2d528ab5ffad",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1773272439~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F10%2FNew_York_Islanders_vs_St__20260310_1773178250038%2F~psid=0eb41619-043f-447a-8dd4-28b242e48982~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=2d24857f10996af0b36357ebbadd2d1f7a53c35ebbd580243a13f50a1f5caf71/clt1/va02/disneyplus/event/2026/03/10/New_York_Islanders_vs_St__20260310_1773178250038/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=c5b3aba006332143d8727ef9f9b2f9e8430962ac",
+    "k1": "4e21f7358d4744e9893107b05b1522e7",
+    "k2": "e7b78898009824c309240c073adce89b"
+  },
+  {
     "title": "Saint Mary's vs. UC Santa Barbara",
     "league": "NCAA Beisbol",
-    "fecha-evento": "2026-03-10T18:35:00-05:00",
+    "fecha-evento": "2026-03-10T18:30:19-05:00",
     "img": "019c90df-b9b3-7cdf-9858-d2276303b339",
-    "nombre": "disney1d2ee5",
-    "status": "18:35",
-    "duration": 135,
-    "play_url": ""
+    "nombre": "disney953a5c",
+    "status": "18:30",
+    "duration": 185,
+    "play_url": "https://www.disneyplus.com/es-es/play/79755449-ad33-4382-bfc1-825807c6fadd",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1773272488~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F10%2FSaint_Marys_vs_UC_Santa_B_20260310_1773178559043%2F~psid=83f4705b-e430-4f0a-9e65-099debb68ad4~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=ff4927720d5afd497e2e7ae3926682b1774146346c8b876c5bed908b41cbbe48/clt1/va02/disneyplus/event/2026/03/10/Saint_Marys_vs_UC_Santa_B_20260310_1773178559043/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=1db359856690cb54a442e315d54f26b4c2832e65",
+    "k1": "8c137f663fdc459cad819ba19635c526",
+    "k2": "2a986f0d996c9cb8d844fb6e10c74446"
   },
   {
     "title": "Botafogo (BRA) vs. Barcelona (ECU)",
