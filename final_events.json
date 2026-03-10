@@ -10,19 +10,6 @@
     "play_url": ""
   },
   {
-    "title": "Northwestern State vs. UT Rio Grande Valley (Cuartos de Final #1)",
-    "league": "Básquet Femenino NCAA",
-    "fecha-evento": "2026-03-10T11:00:00-05:00",
-    "img": "4ba33be2-40c3-4620-ab63-6f2cfd995565",
-    "nombre": "disney7e770b",
-    "status": "11:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/7709c3e3-62bc-44ee-a21a-a563085f5a9e",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1773247285~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F10%2FNorthwestern_State_vs_UT__20260310_1773151210022%2F~psid=e8c49042-2a19-4885-b96f-302474acb1b0~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=a5970f710f9e17fc9aaee27952212180f2fc6a547689e0a24eb7309a0d16f403/clt1/va02/disneyplus/event/2026/03/10/Northwestern_State_vs_UT__20260310_1773151210022/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=36fb3c6ccd2e323c3bbae223704f426e768d1324",
-    "k1": "04bc311c00e5451196476df54a587cd5",
-    "k2": "dfade65c2f43a0dae822104ac191d369"
-  },
-  {
     "title": "Iowa vs. Illinois State",
     "league": "NCAA Softball",
     "fecha-evento": "2026-03-10T12:00:11-05:00",
@@ -49,16 +36,6 @@
     "k2": "78b19c63892ba9d2842018ae3c8e8bd2"
   },
   {
-    "title": "BNP Paribas Open (Octavos de final)",
-    "league": "ATP",
-    "fecha-evento": "2026-03-10T13:00:00-05:00",
-    "img": "9d5547a5-a203-448f-ad5f-5d5b5be9fccf",
-    "nombre": "disney9dc775",
-    "status": "13:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "WTA BNP Paribas Open (Octavos de final)",
     "league": "WTA",
     "fecha-evento": "2026-03-10T12:55:26-05:00",
@@ -72,14 +49,43 @@
     "k2": "4833a6b5615ff14a42b85dd457129ba9"
   },
   {
+    "title": "BNP Paribas Open (Octavos de final)",
+    "league": "ATP",
+    "fecha-evento": "2026-03-10T13:00:04-05:00",
+    "img": "9d5547a5-a203-448f-ad5f-5d5b5be9fccf",
+    "nombre": "disneyaa2c3f",
+    "status": "13:00",
+    "duration": 540,
+    "play_url": "https://www.disneyplus.com/es-es/play/7c62962f-defd-456e-825b-930a4be4f54e",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1773253239~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F10%2FBNP_Paribas_Open_Round_of_20260310_1773158437019%2F~psid=28a1b5b1-06dc-4c35-ac5b-9d0fb216937f~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=a8ea36758b1d6dcefd28e4cd32c3b9caff3088420cb2690a92a0e72a89327dfd/clt1/va02/disneyplus/event/2026/03/10/BNP_Paribas_Open_Round_of_20260310_1773158437019/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=bc3cee9d157e209d6cf96df932f43fb0fa64be3a",
+    "k1": "146ab58bb9fe490b94e50caa96a2f252",
+    "k2": "ce2fcb6e21aae991eb00f3c5886f9863"
+  },
+  {
     "title": "BNP Paribas Open / Stadium 3 (Doubles)",
     "league": "ATP",
     "fecha-evento": "2026-03-10T13:00:00-05:00",
     "img": "d5f3824d-4f87-4b36-b5ae-e1ae8f3a09a4",
     "nombre": "disney867e8c",
     "status": "13:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 360,
+    "play_url": "https://www.disneyplus.com/es-es/play/fe8fdf76-b178-41f3-9ec5-3cbc4b5477a4",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1773253286~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F10%2FBNP_Paribas_Open_Stadium__20260310_1773158410052%2F~psid=c2cf57a0-0039-41fe-965b-db8cabe391fb~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=179c71c18ce6482b316d1bf94a397e42f1926cd483f2e3ec44a175d2a971f5af/clt1/va02/disneyplus/event/2026/03/10/BNP_Paribas_Open_Stadium__20260310_1773158410052/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=d999624a8df4272850a1ad99be2d01b1e4f709fd",
+    "k1": "4f1bec4413504b0ea6a67159fa8d9771",
+    "k2": "f59de89276e0835467dd5a4b9efe295c"
+  },
+  {
+    "title": "Sacramento State vs. Idaho (Semifinal #1)",
+    "league": "Básquet Femenino NCAA",
+    "fecha-evento": "2026-03-10T13:00:00-05:00",
+    "img": "019ba787-57e0-74a2-8a22-cb6994f9472c",
+    "nombre": "disney5afd44",
+    "status": "13:00",
+    "duration": 140,
+    "play_url": "https://www.disneyplus.com/es-es/play/88e8fd1e-c56e-4045-b9bf-7c43e8882d04",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1773253332~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F10%2FSacramento_State_vs_Idaho_20260310_1773158438018%2F~psid=17451177-9cd8-445e-bec6-40229b2c7e03~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=21965c1b638eb052667cbf849fac5ecd2464deec5492c7e260e82e1befd496a1/clt1/va02/disneyplus/event/2026/03/10/Sacramento_State_vs_Idaho_20260310_1773158438018/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=5eed32f7c76d434d287580b8b2104138bac85337",
+    "k1": "3517ac8b8e794610b0cbf5e59879879a",
+    "k2": "0691d61aa9ad7e2ca126c1226b013ed1"
   },
   {
     "title": "Aryna Sabalenka (BLR) vs. Naomi Osaka (JPN)",
@@ -93,16 +99,6 @@
     "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1773252084~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Fbbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1773078587332%2F~psid=bc589bad-3a1f-468b-a0bc-01a0ac15791f~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=bbb7856a75bbfc91a4ed5265db9dfb89bbf45c028383e7b6b1a84b3f4a12ca4b/clt1/va02/disneyplus/channel/bbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1773078587332/ctr-all-sliding-alt1.m3u8?r=1080&v=1&hash=47cbb8616004a1e945f48692281e999bd4428c97",
     "k1": "c594e834a57b4fdd99515a45f5f9f7c5",
     "k2": "0bcdcef34add8c0d755f1b04604f8ff6"
-  },
-  {
-    "title": "Sacramento State vs. Idaho (Semifinal #1)",
-    "league": "Básquet Femenino NCAA",
-    "fecha-evento": "2026-03-10T13:00:00-05:00",
-    "img": "019ba787-57e0-74a2-8a22-cb6994f9472c",
-    "nombre": "disney5afd44",
-    "status": "13:00",
-    "duration": 135,
-    "play_url": ""
   },
   {
     "title": "BNP Paribas Open / Stadium 4 (Doubles)",
@@ -644,6 +640,16 @@
     "img": "019cb526-184d-7ec0-94f1-fabb21264f62",
     "nombre": "disneye8a92e",
     "status": "22:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Béisbol Esta Noche: Edición Clásico Mundial de Béisbol",
+    "league": "MLB",
+    "fecha-evento": "2026-03-10T23:00:00-05:00",
+    "img": "f2fb4b34-6603-4ef2-866c-877d6a0ff93d",
+    "nombre": "disneye42d66",
+    "status": "23:00",
     "duration": 135,
     "play_url": ""
   }
