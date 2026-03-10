@@ -10,19 +10,6 @@
     "play_url": ""
   },
   {
-    "title": "Iowa vs. Illinois State",
-    "league": "NCAA Softball",
-    "fecha-evento": "2026-03-10T12:00:11-05:00",
-    "img": "019c3813-9871-71b4-a8cd-6309ddd305cb",
-    "nombre": "disney3b9265",
-    "status": "12:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/f35afe97-412c-4d99-a67c-4669db45fda3",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1773249640~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F10%2FIowa_vs_Illinois_State_20260310_1773154856056%2F~psid=2981f819-1413-4d60-b771-c4ad36d28bba~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=a0c2ac105d1579662c9c117b7e8dcc99ef080ff7d93aa4364296bb2b8eaabec0/clt1/va02/disneyplus/event/2026/03/10/Iowa_vs_Illinois_State_20260310_1773154856056/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=ffdbcbe56e3ce6847c7fe4af7a9fff2bdd88303d",
-    "k1": "ac31092567484d4d88ad9df491623e50",
-    "k2": "290b90dd64d0403bc2359a78b0cbba43"
-  },
-  {
     "title": "Galatasaray vs. Liverpool | 8vos de final, ida",
     "league": "UEFA Champions League",
     "fecha-evento": "2026-03-10T12:25:00-05:00",
@@ -653,6 +640,16 @@
     "img": "f2fb4b34-6603-4ef2-866c-877d6a0ff93d",
     "nombre": "disneye42d66",
     "status": "23:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Vissel Kobe (JPN) vs. FC Seoul",
+    "league": "AFC Champions League",
+    "fecha-evento": "2026-03-11T04:50:00-05:00",
+    "img": "019c9a0a-25c7-7f15-89a7-afd59f1169c1",
+    "nombre": "disney20f581",
+    "status": "04:50",
     "duration": 135,
     "play_url": ""
   }
