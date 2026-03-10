@@ -183,34 +183,11 @@
     "play_url": ""
   },
   {
-    "title": "Tigre vs. Vélez Sarsfield (Fecha #10)",
-    "league": "Liga Profesional de Fútbol",
-    "fecha-evento": "2026-03-10T17:30:01-05:00",
-    "img": "019cbf74-0d3c-7ec2-aaa4-eb72483811a9",
-    "nombre": "disneyd1cf02",
-    "status": "17:30",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/d6520498-a14b-4308-95ad-5f33106f9fd5",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1773268844~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F10%2FTigre_vs_Vlez_Sarsfield_F_20260310_1773174643043%2F~psid=1ae31667-6015-4a23-8075-93d720ddda75~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=d13ddbadd1bbc45ec19351c7b064dd7f5161c46ef23af2dcad8a67c4d336ffe2/clt1/va02/disneyplus/event/2026/03/10/Tigre_vs_Vlez_Sarsfield_F_20260310_1773174643043/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=217b73e2cd77b9e7292b68bf2be2899dafd34062",
-    "k1": "96e0d276281944068b5f2e6ff6e32fc5",
-    "k2": "009f366e62657a60b37d08c400c79410"
-  },
-  {
     "title": "Columbus Blue Jackets vs. Tampa Bay Lightning",
     "league": "National Hockey League",
     "fecha-evento": "2026-03-10T18:00:00-05:00",
     "img": "019cb53d-d2f0-7830-a95c-5c8ae43b9a76",
     "nombre": "disney5dd837",
-    "status": "18:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Toronto Maple Leafs vs. Montreal Canadiens",
-    "league": "National Hockey League",
-    "fecha-evento": "2026-03-10T18:00:00-05:00",
-    "img": "516e2b3c-1674-4555-91d0-dea34ad8b483",
-    "nombre": "disneyef4a85",
     "status": "18:00",
     "duration": 135,
     "play_url": ""
@@ -226,6 +203,19 @@
     "play_url": ""
   },
   {
+    "title": "Philadelphia Union vs. Club América (Octavos de Final - Partido de ida)",
+    "league": "CONCACAF Liga Campeones",
+    "fecha-evento": "2026-03-10T17:50:04-05:00",
+    "img": "019cba46-236c-79ff-8286-f3bee87bc237",
+    "nombre": "disney9b22ef",
+    "status": "17:50",
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/73078426-0e97-4abd-86c5-c20e9a2f8d87",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1773270044~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F10%2FPhiladelphia_Union_vs_Clu_20260310_1773175808043%2F~psid=8e0f47ef-8ceb-4b55-9def-dc8ecea53a92~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=9c838632837e24a44db2b5f303a0a72a35d5ca461b78dddb51b870eecd0532ca/clt1/va02/disneyplus/event/2026/03/10/Philadelphia_Union_vs_Clu_20260310_1773175808043/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=da577444e181efbf3d21576db89d31978565fcbb",
+    "k1": "012de9340db5412b814b073607d67bd0",
+    "k2": "567bc780d8ee207ea80e1557fa8c9def"
+  },
+  {
     "title": "Calgary Flames vs. New York Rangers",
     "league": "National Hockey League",
     "fecha-evento": "2026-03-10T17:30:15-05:00",
@@ -239,14 +229,17 @@
     "k2": "ed5e325d7c7fbefacf440b65069181fe"
   },
   {
-    "title": "Philadelphia Union vs. Club América (Octavos de Final - Partido de ida)",
-    "league": "CONCACAF Liga Campeones",
-    "fecha-evento": "2026-03-10T17:50:00-05:00",
-    "img": "019cba46-236c-79ff-8286-f3bee87bc237",
-    "nombre": "disney96f698",
-    "status": "17:50",
-    "duration": 135,
-    "play_url": ""
+    "title": "Toronto Maple Leafs vs. Montreal Canadiens",
+    "league": "National Hockey League",
+    "fecha-evento": "2026-03-10T18:00:00-05:00",
+    "img": "516e2b3c-1674-4555-91d0-dea34ad8b483",
+    "nombre": "disneyef4a85",
+    "status": "18:00",
+    "duration": 150,
+    "play_url": "https://www.disneyplus.com/es-es/play/2b3c01fc-dd0d-4af8-9455-2927d2091305",
+    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1773270092~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Fec26a05e-a9cc-4db4-804e-77465738e667-1773070863113%2F~psid=385dd5a0-da73-4b07-bd04-c1fcb9dad1c1~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=9e725802871959ed7934abbfa66a7569c6a3ecbc04f2b53267ef30ec96256ab0/clt1/va02/disneyplus/channel/ec26a05e-a9cc-4db4-804e-77465738e667-1773070863113/ctr-all-sliding-alt1.m3u8?r=1080&v=1&hash=873c8b5d90e1ffc2d62c45c16e211fb4de32cd67",
+    "k1": "aaf87acb628148289efd6123bb4ec97b",
+    "k2": "29a808fb0acf949443b118802f315b6e"
   },
   {
     "title": "Canadá vs. Puerto Rico (Grupo A) (World Baseball Classic)",
