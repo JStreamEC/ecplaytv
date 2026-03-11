@@ -185,18 +185,11 @@
     "img": "019cd41f-5200-7731-a52f-d8ab9a36cd90",
     "nombre": "disneyb03b28",
     "status": "20:25",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Arizona vs. Arizona State",
-    "league": "NCAA Beisbol",
-    "fecha-evento": "2026-03-10T20:30:00-05:00",
-    "img": "019bc691-c0af-7b33-a6f2-f703e7169261",
-    "nombre": "disneya2ab61",
-    "status": "20:30",
-    "duration": 135,
-    "play_url": ""
+    "duration": 185,
+    "play_url": "https://www.disneyplus.com/es-es/play/8e3c4035-0e07-4e41-9a2f-0473c0914ec9",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1773279643~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F11%2FDiablos_Rojos_Femenil_vs__20260311_1773185157042%2F~psid=4aae367b-7eb3-4cec-8f86-155b3d73e4e2~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=33116c736db81fc16f3dce7ee0cc74a733d704c7f6f5d3e6ebe5593d9fc3eb34/clt1/va02/disneyplus/event/2026/03/11/Diablos_Rojos_Femenil_vs__20260311_1773185157042/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=7df8008e7843bde55f6e2764b6dd960a302bd826",
+    "k1": "85dbb7cc2a37473a933d999cc7065ef7",
+    "k2": "67c1e3417c7f3e1c544fafd64006ee8e"
   },
   {
     "title": "Nashville Predators vs. Seattle Kraken",
@@ -209,14 +202,30 @@
     "play_url": ""
   },
   {
+    "title": "Arizona vs. Arizona State",
+    "league": "NCAA Beisbol",
+    "fecha-evento": "2026-03-10T20:30:33-05:00",
+    "img": "019bc691-c0af-7b33-a6f2-f703e7169261",
+    "nombre": "disney1b034a",
+    "status": "20:30",
+    "duration": 179,
+    "play_url": "https://www.disneyplus.com/es-es/play/04f67e60-0c24-4e7f-a2c9-cc77b9fd9aa3",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1773279690~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F11%2FArizona_vs_Arizona_State_20260311_1773185407045%2F~psid=29010b3d-32d7-4bf7-8997-3bb7c8a425a4~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=babde63455c6a5021f1e4f7aa54e56ebe396473b1d40bb5b866b1996703b94bb/clt1/va02/disneyplus/event/2026/03/11/Arizona_vs_Arizona_State_20260311_1773185407045/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=cea8e7221f8a64b3d4f5670840c8d334ad89f7ba",
+    "k1": "f4c2021eeff64872bf5c456a6a65ae16",
+    "k2": "32cacc4c8910ea98236d098918946f2c"
+  },
+  {
     "title": "UT Rio Grande Valley vs. McNeese (Semifinal #2)",
     "league": "Básquetbol Masculino NCAA",
-    "fecha-evento": "2026-03-10T20:30:00-05:00",
+    "fecha-evento": "2026-03-10T20:31:05-05:00",
     "img": "019c6d8d-41aa-7430-af4c-e45c73ed065f",
-    "nombre": "disney8266cb",
-    "status": "20:30",
-    "duration": 135,
-    "play_url": ""
+    "nombre": "disneyc88ee1",
+    "status": "20:31",
+    "duration": 119,
+    "play_url": "https://www.disneyplus.com/es-es/play/72c2b90b-7f9c-4684-ac4a-034e61738290",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1773279738~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F11%2FUT_Rio_Grande_Valley_vs_M_20260311_1773185415025%2F~psid=d8ab17e6-9d94-41a0-b1a3-f630cb118ca8~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=7ff9aa236b9701216d3f055e7e061a6547081b391a93e3bc780edcfc55429607/clt1/va02/disneyplus/event/2026/03/11/UT_Rio_Grande_Valley_vs_M_20260311_1773185415025/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=16dd7f058b0d5248eadc9c0dc8486d5781fb5daf",
+    "k1": "6acb7decf61a4507ad80e0ea4459e052",
+    "k2": "39b03afd0261980afa37fe5649610b72"
   },
   {
     "title": "Edmonton Oilers vs. Colorado Avalanche",
