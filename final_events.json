@@ -127,34 +127,43 @@
     "k2": "d64dacf6c789a75dc08ecfe80e869cdc"
   },
   {
-    "title": "Canadá vs. Cuba (Grupo A)",
-    "league": "Clásico Mundial de Béisbol",
-    "fecha-evento": "2026-03-11T14:00:00-05:00",
-    "img": "019ca619-d9cb-7f86-a353-ac6c365307d4",
-    "nombre": "disney1c47ae",
-    "status": "14:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Cincinnati vs. UCF (Second Round, Game 2)",
-    "league": "Básquetbol Masculino NCAA",
-    "fecha-evento": "2026-03-11T14:00:00-05:00",
-    "img": "019b7e32-ad7c-7075-9913-9ea86aa656a2",
-    "nombre": "disneyd924d5",
-    "status": "14:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Jacksonville State vs. Florida International (Cuartos de Final #2)",
     "league": "Básquet Femenino NCAA",
     "fecha-evento": "2026-03-11T14:00:00-05:00",
     "img": "019b954c-bd04-7ec4-8010-72556c979958",
     "nombre": "disney0ac28d",
     "status": "14:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/0bafe6fb-1b4f-45c6-b312-34fa9e3975c1",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1773343235~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F11%2FJacksonville_State_vs_Flo_20260311_1773248457041%2F~psid=6b01b922-8d13-47f7-a8b3-8e7c2401a3a8~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=239bcc036c4254ac3ffa6f499bef0e1064ff0e1d80df2132ef807a47bf5b9b5f/clt1/va02/disneyplus/event/2026/03/11/Jacksonville_State_vs_Flo_20260311_1773248457041/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=c9657a09914e0c945efccbca0d2d837143f2694c",
+    "k1": "d3aeba9496db45449e2388dafa12da9d",
+    "k2": "124d5e75fd2518e7c8f568d548a65e16"
+  },
+  {
+    "title": "Canadá vs. Cuba (Grupo A)",
+    "league": "Clásico Mundial de Béisbol",
+    "fecha-evento": "2026-03-11T14:00:05-05:00",
+    "img": "019ca619-d9cb-7f86-a353-ac6c365307d4",
+    "nombre": "disney175cd7",
+    "status": "14:00",
+    "duration": 180,
+    "play_url": "https://www.disneyplus.com/es-es/play/9202eae2-14d2-4373-bd4d-aeda9f059443",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1773343280~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F11%2FEn_EspaolCanada_vs_Cuba_P_20260311_1773248459017%2F~psid=a056caf6-eb84-408e-8611-8bc4bb3db927~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=390a117fca9dbb47ad84b140df9cc723554f8bc3b9916a68e0a0e584f163c43e/clt1/va02/disneyplus/event/2026/03/11/En_EspaolCanada_vs_Cuba_P_20260311_1773248459017/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=78ca74987cc07d85348d20150061d305768a3236",
+    "k1": "241af788d2194c878967c0967ecaa595",
+    "k2": "5e23d035b18a610fed2d396c6e029775"
+  },
+  {
+    "title": "Cincinnati vs. UCF (Second Round, Game 2)",
+    "league": "Básquetbol Masculino NCAA",
+    "fecha-evento": "2026-03-11T14:13:06-05:00",
+    "img": "019b7e32-ad7c-7075-9913-9ea86aa656a2",
+    "nombre": "disney65ca90",
+    "status": "14:13",
+    "duration": 107,
+    "play_url": "https://www.disneyplus.com/es-es/play/5dddd565-20e6-4ea6-8f65-c2d5469cdbc1",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1773343326~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F11%2FCincinnati_vs_UCF_Second__20260311_1773248445024%2F~psid=bae9081a-073c-459e-bcac-aa5afb1b7c1f~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=03cbf25a01992363b67698d60267ef0e643fcb367010dc45c6972a371489bd86/clt1/va02/disneyplus/event/2026/03/11/Cincinnati_vs_UCF_Second__20260311_1773248445024/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=cea9c245818336c927b3c57b1e4ae64531911471",
+    "k1": "5317898fc6994c7098084b838f38e0c9",
+    "k2": "d0a973e866bb4fceef501009f609a6ec"
   },
   {
     "title": "PSG vs. Chelsea | 8vos de final, ida",
