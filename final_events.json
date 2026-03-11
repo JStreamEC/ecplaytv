@@ -10,19 +10,6 @@
     "play_url": ""
   },
   {
-    "title": "Tigre vs. Vélez Sarsfield (Fecha #10)",
-    "league": "Liga Profesional de Fútbol",
-    "fecha-evento": "2026-03-10T17:30:01-05:00",
-    "img": "019cbf74-0d3c-7ec2-aaa4-eb72483811a9",
-    "nombre": "disneyd1cf02",
-    "status": "17:30",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/d6520498-a14b-4308-95ad-5f33106f9fd5",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1773271239~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F10%2FTigre_vs_Vlez_Sarsfield_F_20260310_1773174643043%2F~psid=7601b9e0-ea50-4ce6-a961-3efc03790244~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=2ea9fbba32a4b6f2abf4f219696f082d8432b36b5a141dc5d6dcea7eec2d6c25/clt1/va02/disneyplus/event/2026/03/10/Tigre_vs_Vlez_Sarsfield_F_20260310_1773174643043/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=217b73e2cd77b9e7292b68bf2be2899dafd34062",
-    "k1": "96e0d276281944068b5f2e6ff6e32fc5",
-    "k2": "009f366e62657a60b37d08c400c79410"
-  },
-  {
     "title": "Toronto Maple Leafs vs. Montreal Canadiens",
     "league": "National Hockey League",
     "fecha-evento": "2026-03-10T18:00:00-05:00",
@@ -114,34 +101,43 @@
     "k2": "0a1fa8f51f5212d6a5f06317cf260b26"
   },
   {
+    "title": "Joao Fonseca (BRA) vs. Jannik Sinner (ITA)",
+    "league": "ATP",
+    "fecha-evento": "2026-03-10T19:43:23-05:00",
+    "img": "019cd51e-3d86-7e0f-a92e-16f5cd422fba",
+    "nombre": "disney6c68c1",
+    "status": "19:43",
+    "duration": 257,
+    "play_url": "https://www.disneyplus.com/es-es/play/3fdf1a1b-231b-4f0a-a765-e87b05c5110e",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1773277243~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F11%2FBNP_Paribas_Open_Round_of_20260311_1773183658042%2F~psid=c1c1d852-cf52-4439-9bc6-bca805500765~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=892103236dcce4147854e6150e44ca7e6c12cf3a923d60236624ef0b44c0d0c8/clt1/va02/disneyplus/event/2026/03/11/BNP_Paribas_Open_Round_of_20260311_1773183658042/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=54aa0c990540cb52df4192423a1fb647180e8288",
+    "k1": "ea5e706dfb674f669e2cfb4b948357d1",
+    "k2": "1bfc1efd29efd4eafeb9b5aa61603514"
+  },
+  {
     "title": "Sarmiento vs. Racing Club (Fecha #10)",
     "league": "Liga Profesional de Fútbol",
-    "fecha-evento": "2026-03-10T19:40:00-05:00",
+    "fecha-evento": "2026-03-10T19:47:18-05:00",
     "img": "019cbf73-ee8c-73c5-b49d-c8595ce35699",
-    "nombre": "disneyd23e3b",
-    "status": "19:40",
-    "duration": 135,
-    "play_url": ""
+    "nombre": "disney5dad70",
+    "status": "19:47",
+    "duration": 133,
+    "play_url": "https://www.disneyplus.com/es-es/play/78e6c0ee-16a3-4da4-848a-752f46b9fe54",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1773277291~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F11%2FSarmiento_vs_Racing_Club__20260311_1773182444037%2F~psid=f1ca628d-efb3-4902-90d9-81c55905abea~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=1a533fd0f64687f9172aa2feb55b1e559f07dfc160affa94473a147f05dfa0f2/clt1/va02/disneyplus/event/2026/03/11/Sarmiento_vs_Racing_Club__20260311_1773182444037/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=6b68f5cf5953e46bb1a75f98a4a3f358459c633d",
+    "k1": "952184970bc243e2afd0990bd2e0be4d",
+    "k2": "1f939e248d63623d795c87c96a30bfb5"
   },
   {
     "title": "CF Monterrey vs. Cruz Azul (Octavos de Final - Partido de ida)",
     "league": "CONCACAF Liga Campeones",
-    "fecha-evento": "2026-03-10T19:50:00-05:00",
+    "fecha-evento": "2026-03-10T19:50:06-05:00",
     "img": "019cb534-2d29-7d50-ae95-12666b00d9ba",
-    "nombre": "disneyccf4e2",
+    "nombre": "disneyc09ace",
     "status": "19:50",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Joao Fonseca (BRA) vs. Jannik Sinner (ITA)",
-    "league": "ATP",
-    "fecha-evento": "2026-03-10T20:00:00-05:00",
-    "img": "019cd51e-3d86-7e0f-a92e-16f5cd422fba",
-    "nombre": "disneyba14ac",
-    "status": "20:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/168c2754-9d73-4afa-9cb9-a7d14fa95ce3",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1773277338~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F11%2FCF_Monterrey_vs_Cruz_Azul_20260311_1773183018040%2F~psid=71d7bd13-4ca3-4b1b-909b-14b7f2ff4fa6~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=45ec1aceb2d4b42a055173bcb4b3fcbd2c24dd8f15b664f5ae6c8d50ae964d5b/clt1/va02/disneyplus/event/2026/03/11/CF_Monterrey_vs_Cruz_Azul_20260311_1773183018040/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=1e10021d8fae7201930f054ba44327d91f5d3910",
+    "k1": "6a61f48d1a474d538a99228257e4bee0",
+    "k2": "ba45bbb0a8fff69e731fcf43a298d0d0"
   },
   {
     "title": "Texas Legends vs. Salt Lake City Stars",
@@ -629,6 +625,16 @@
     "fecha-evento": "2026-03-11T18:00:00-05:00",
     "img": "019ca619-4f55-7b39-885e-859ee298979b",
     "nombre": "disneyb7714b",
+    "status": "18:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Delaware Blue Coats vs. Greensboro Swarm",
+    "league": "NBA G League",
+    "fecha-evento": "2026-03-11T18:00:00-05:00",
+    "img": "019c8237-f0a2-7516-b30f-8c98ddb243a2",
+    "nombre": "disney61563d",
     "status": "18:00",
     "duration": 135,
     "play_url": ""
