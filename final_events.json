@@ -186,7 +186,10 @@
     "nombre": "disney421cdd",
     "status": "14:40",
     "duration": 135,
-    "play_url": ""
+    "play_url": "https://www.disneyplus.com/es-es/play/3a42ce74-2206-420d-b45c-2910815c09fc",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1773344838~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F11%2FReal_Madrid_vs_Manchester_20260311_1773251951309%2F~psid=0cc1ebb1-d719-47dc-b3fe-0609df14f38c~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=46fa026a7d2b6763cf1574423a1a15d02a0b6868a3676a1a70250a516df00a21/clt1/va02/disneyplus/event/2026/03/11/Real_Madrid_vs_Manchester_20260311_1773251951309/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=eddee531a26b4c50e830cb24c5aa81c931471743",
+    "k1": "1f0257292917493a9439fd000d3f3675",
+    "k2": "752eaf507162c66350524c1fc28154c6"
   },
   {
     "title": "FK Bodø/Glimt vs. Sporting Lisboa | 8vos de final, ida",
@@ -204,12 +207,15 @@
   {
     "title": "UCL al instante",
     "league": "UEFA Champions League",
-    "fecha-evento": "2026-03-11T14:40:00-05:00",
+    "fecha-evento": "2026-03-11T14:40:03-05:00",
     "img": "1f4cfba0-a435-412b-b4cb-1cebe051956c",
-    "nombre": "disney124d18",
+    "nombre": "disneyf77701",
     "status": "14:40",
-    "duration": 135,
-    "play_url": ""
+    "duration": 160,
+    "play_url": "https://www.disneyplus.com/es-es/play/98db6857-2e2e-4a36-84d6-1523ad1c2759",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1773344883~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F11%2FUCL_al_instante_20260311_1773251651314%2F~psid=2de3a849-d85a-45f2-9c82-19eea7bd4cec~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=274be20d4bb42295f14aa2b1c29417f6aafa0cf1bc562bee8ed270e81ebe99ee/clt1/va02/disneyplus/event/2026/03/11/UCL_al_instante_20260311_1773251651314/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=aa4847eb21c57b8d1dd1f5428fe61f4994fcb5cf",
+    "k1": "af305838098a4671b444d1af0a200020",
+    "k2": "bfecf43507764566a874796713b354f1"
   },
   {
     "title": "Coventry City vs. Preston North End",
