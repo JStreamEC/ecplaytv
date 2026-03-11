@@ -10,19 +10,6 @@
     "play_url": ""
   },
   {
-    "title": "Toronto Maple Leafs vs. Montreal Canadiens",
-    "league": "National Hockey League",
-    "fecha-evento": "2026-03-10T18:00:00-05:00",
-    "img": "516e2b3c-1674-4555-91d0-dea34ad8b483",
-    "nombre": "disneyef4a85",
-    "status": "18:00",
-    "duration": 150,
-    "play_url": "https://www.disneyplus.com/es-es/play/2b3c01fc-dd0d-4af8-9455-2927d2091305",
-    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1773270092~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Fec26a05e-a9cc-4db4-804e-77465738e667-1773070863113%2F~psid=385dd5a0-da73-4b07-bd04-c1fcb9dad1c1~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=19fa0b37-3b1d-47fb-aacf-1739892bd87b~country=EC~kid=k02~hmac=9e725802871959ed7934abbfa66a7569c6a3ecbc04f2b53267ef30ec96256ab0/clt1/va02/disneyplus/channel/ec26a05e-a9cc-4db4-804e-77465738e667-1773070863113/ctr-all-sliding-alt1.m3u8?r=1080&v=1&hash=873c8b5d90e1ffc2d62c45c16e211fb4de32cd67",
-    "k1": "aaf87acb628148289efd6123bb4ec97b",
-    "k2": "29a808fb0acf949443b118802f315b6e"
-  },
-  {
     "title": "New York Islanders vs. St. Louis Blues",
     "league": "National Hockey League",
     "fecha-evento": "2026-03-10T18:34:06-05:00",
@@ -653,6 +640,16 @@
     "fecha-evento": "2026-03-11T18:00:00-05:00",
     "img": "019c8237-f0a2-7516-b30f-8c98ddb243a2",
     "nombre": "disney61563d",
+    "status": "18:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Birmingham Squadron vs. Grand Rapids Gold",
+    "league": "NBA G League",
+    "fecha-evento": "2026-03-11T18:00:00-05:00",
+    "img": "019c914b-03c4-7edc-9cb0-2065269c891c",
+    "nombre": "disney2b854e",
     "status": "18:00",
     "duration": 135,
     "play_url": ""
