@@ -169,16 +169,6 @@
     "k2": "ccaadd524cc1018c4f233a5c66dc939a"
   },
   {
-    "title": "Columbus Blue Jackets vs. Florida Panthers",
-    "league": "National Hockey League",
-    "fecha-evento": "2026-03-12T18:00:00-05:00",
-    "img": "019ae5b4-e4a8-73b6-9983-b58bfad9842f",
-    "nombre": "disneyac3d62",
-    "status": "18:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "San Jose Sharks vs. Boston Bruins",
     "league": "National Hockey League",
     "fecha-evento": "2026-03-12T18:00:00-05:00",
@@ -199,6 +189,32 @@
     "play_url": ""
   },
   {
+    "title": "Middle Tennessee vs. Louisiana Tech (Cuartos de Final #3)",
+    "league": "Básquetbol Masculino NCAA",
+    "fecha-evento": "2026-03-12T17:30:00-05:00",
+    "img": "019cdecd-f0a4-7ece-8262-18d2e7962e5b",
+    "nombre": "disneyfed5e7",
+    "status": "17:30",
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/11afa3fa-58a5-425b-a431-554593587645",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1773441636~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F12%2FMiddle_Tennessee_vs_Louis_20260312_1773347430050%2F~psid=a7a6cc7d-ece0-462f-a4b0-9be681777789~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=761a7e14f84d5bf22c60209cb9258aa0a7d12332d3925d72641a3995b1a1a833/clt1/va02/disneyplus/event/2026/03/12/Middle_Tennessee_vs_Louis_20260312_1773347430050/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=def3cb56b8a31488904dfd631e6622881c731fc5",
+    "k1": "a739952d5d7246a098b5973d61f2834f",
+    "k2": "e413e6633828b3e46fb7a8bb95997779"
+  },
+  {
+    "title": "Ohio vs. Kent State (Cuartos de Final #4)",
+    "league": "Básquetbol Masculino NCAA",
+    "fecha-evento": "2026-03-12T17:30:00-05:00",
+    "img": "019bba8d-414e-75a0-bdf7-1080e38cb303",
+    "nombre": "disneyefe9ff",
+    "status": "17:30",
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/a60494e5-3752-4cad-83d4-ddddd058f82a",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1773441682~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F12%2FOhio_vs_Kent_State_Quarte_20260312_1773347402038%2F~psid=4d3cbcf6-18be-4120-a776-f7223da2aa7d~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=71be45a3add9379524f730dc5195a75ffb2e81702a6c94372a16474052cc1154/clt1/va02/disneyplus/event/2026/03/12/Ohio_vs_Kent_State_Quarte_20260312_1773347402038/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=02f231a19c8fa83b3110752b9db06331a3977e60",
+    "k1": "9ff3ad8ae2a14a12bf30d015e7563572",
+    "k2": "048d9bd175cf3a1e44c5d2d6ee070219"
+  },
+  {
     "title": "Detroit Red Wings vs. Tampa Bay Lightning",
     "league": "National Hockey League",
     "fecha-evento": "2026-03-12T18:00:00-05:00",
@@ -209,12 +225,22 @@
     "play_url": ""
   },
   {
-    "title": "Middle Tennessee vs. Louisiana Tech (Cuartos de Final #3)",
-    "league": "Básquetbol Masculino NCAA",
-    "fecha-evento": "2026-03-12T17:30:00-05:00",
-    "img": "019cdecd-f0a4-7ece-8262-18d2e7962e5b",
-    "nombre": "disneyfed5e7",
-    "status": "17:30",
+    "title": "Columbus Blue Jackets vs. Florida Panthers",
+    "league": "National Hockey League",
+    "fecha-evento": "2026-03-12T18:00:00-05:00",
+    "img": "019ae5b4-e4a8-73b6-9983-b58bfad9842f",
+    "nombre": "disneyac3d62",
+    "status": "18:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Calgary Flames vs. New Jersey Devils",
+    "league": "National Hockey League",
+    "fecha-evento": "2026-03-12T18:00:00-05:00",
+    "img": "019ccefc-fae5-7bce-8ccb-83944d621ddd",
+    "nombre": "disney0f175a",
+    "status": "18:00",
     "duration": 135,
     "play_url": ""
   },
@@ -229,21 +255,11 @@
     "play_url": ""
   },
   {
-    "title": "Ohio vs. Kent State (Cuartos de Final #4)",
-    "league": "Básquetbol Masculino NCAA",
-    "fecha-evento": "2026-03-12T17:30:00-05:00",
-    "img": "019bba8d-414e-75a0-bdf7-1080e38cb303",
-    "nombre": "disneyefe9ff",
-    "status": "17:30",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Calgary Flames vs. New Jersey Devils",
+    "title": "Anaheim Ducks vs. Toronto Maple Leafs",
     "league": "National Hockey League",
     "fecha-evento": "2026-03-12T18:00:00-05:00",
-    "img": "019ccefc-fae5-7bce-8ccb-83944d621ddd",
-    "nombre": "disney0f175a",
+    "img": "019cce17-4f7a-7c04-b093-8be98d42475b",
+    "nombre": "disneyebde74",
     "status": "18:00",
     "duration": 135,
     "play_url": ""
@@ -284,16 +300,6 @@
     "fecha-evento": "2026-03-12T18:00:00-05:00",
     "img": "019cd1e2-a445-70bd-9b43-17aadaa598ea",
     "nombre": "disneyc92e1a",
-    "status": "18:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Anaheim Ducks vs. Toronto Maple Leafs",
-    "league": "National Hockey League",
-    "fecha-evento": "2026-03-12T18:00:00-05:00",
-    "img": "019cce17-4f7a-7c04-b093-8be98d42475b",
-    "nombre": "disneyebde74",
     "status": "18:00",
     "duration": 135,
     "play_url": ""
