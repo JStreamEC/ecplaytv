@@ -1,18 +1,5 @@
 [
   {
-    "title": "Boca Juniors vs. San Lorenzo (Fecha #10)",
-    "league": "Liga Profesional de Fútbol",
-    "fecha-evento": "2026-03-11T17:33:43-05:00",
-    "img": "019cd25f-7858-7a23-a4ef-0c2c125cfdf9",
-    "nombre": "disneyea21f0",
-    "status": "17:33",
-    "duration": 126,
-    "play_url": "https://www.disneyplus.com/es-es/play/cbe032e3-348b-46d0-bd94-d8c28371faf0",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1773358399~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F11%2FBoca_Juniors_vs_San_Loren_20260311_1773261030057%2F~psid=b2975835-6b8a-43e4-bf24-3924e3f88bbd~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=9a81ab1dc23832125e0c8a40b06cf34bc83713b89cc57eb94bca6e3488ae4168/clt1/va02/disneyplus/event/2026/03/11/Boca_Juniors_vs_San_Loren_20260311_1773261030057/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=313d38115a1346a6e4a324a91240abc6f745f6db",
-    "k1": "14f8a1017fb84292ba672fe16cfea6a3",
-    "k2": "7b491c37f84738172e0f9a61702ec366"
-  },
-  {
     "title": "Italia vs. México (Grupo B)",
     "league": "Clásico Mundial de Béisbol",
     "fecha-evento": "2026-03-11T18:00:03-05:00",
@@ -90,12 +77,15 @@
   {
     "title": "Atlético Tucumán vs. Aldosivi (Fecha #10)",
     "league": "Liga Profesional de Fútbol",
-    "fecha-evento": "2026-03-11T19:40:00-05:00",
+    "fecha-evento": "2026-03-11T19:50:52-05:00",
     "img": "019cbf88-7f3d-712f-9ef2-416a48ab3ce5",
-    "nombre": "disneyc793f5",
-    "status": "19:40",
-    "duration": 135,
-    "play_url": ""
+    "nombre": "disney946791",
+    "status": "19:50",
+    "duration": 129,
+    "play_url": "https://www.disneyplus.com/es-es/play/ba830578-b227-4eea-9839-f661d71b58d1",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1773363680~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F12%2FAtltico_Tucumn_vs_Aldosiv_20260312_1773268820042%2F~psid=8ff9e701-e4ea-42cd-95bf-42e623f45d11~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=d45a3dcb31322f418fc0410e2eb4b9d3b9a712904eac9fcd0d6925ed38ea6985/clt1/va02/disneyplus/event/2026/03/12/Atltico_Tucumn_vs_Aldosiv_20260312_1773268820042/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=be0ad5bb3d7e5b956c96d2a65102a812dd6e480c",
+    "k1": "a6b30d0a9c80427dbc9b5e86f49cdb19",
+    "k2": "b9a34836f98b54e33815be2f1f3fcbad"
   },
   {
     "title": "BNP Paribas Open (Octavos de final)",
@@ -528,16 +518,6 @@
     "play_url": ""
   },
   {
-    "title": "BNP Paribas Open / Stadium 1 (Cuartos de Final)",
-    "league": "ATP",
-    "fecha-evento": "2026-03-12T15:00:00-05:00",
-    "img": "a629258c-0d96-46bc-ac8c-6b2f842b539b",
-    "nombre": "disneyeb91ec",
-    "status": "15:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Buffalo vs. Akron (Cuartos de Final #3)",
     "league": "Básquetbol Masculino NCAA",
     "fecha-evento": "2026-03-12T15:00:00-05:00",
@@ -623,6 +603,26 @@
     "fecha-evento": "2026-03-12T18:00:00-05:00",
     "img": "019ccf6a-954c-77a7-8ef7-49771f051d2b",
     "nombre": "disney636468",
+    "status": "18:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Washington Capitals vs. Buffalo Sabres",
+    "league": "National Hockey League",
+    "fecha-evento": "2026-03-12T18:00:00-05:00",
+    "img": "019a318e-1733-74c6-b2a6-1f32c42dbea6",
+    "nombre": "disney50311a",
+    "status": "18:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Detroit Red Wings vs. Tampa Bay Lightning",
+    "league": "National Hockey League",
+    "fecha-evento": "2026-03-12T18:00:00-05:00",
+    "img": "7bbf5c01-303e-4488-90de-84b8bf617f48",
+    "nombre": "disney050182",
     "status": "18:00",
     "duration": 135,
     "play_url": ""
