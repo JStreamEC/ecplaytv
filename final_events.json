@@ -143,19 +143,6 @@
     "k2": "e465c9d25a31d622c6066e6f587384d5"
   },
   {
-    "title": "Béisbol Esta Noche: Edición Clásico Mundial de Béisbol",
-    "league": "MLB",
-    "fecha-evento": "2026-03-12T19:00:06-05:00",
-    "img": "f2fb4b34-6603-4ef2-866c-877d6a0ff93d",
-    "nombre": "disney9404f0",
-    "status": "19:00",
-    "duration": 30,
-    "play_url": "https://www.disneyplus.com/es-es/play/26b7555a-a6f1-4b50-82d2-e288ecd8d962",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1773448228~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F13%2FBisbol_Esta_Noche_Edicin__20260313_1773352840017%2F~psid=51dcff80-5e5c-41e6-9371-ca5de7e0352c~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=d13461ab89238a447c9c40ddbcbe2f0e174812cfe2d7df449b157316fe2254d9/clt1/va02/disneyplus/event/2026/03/13/Bisbol_Esta_Noche_Edicin__20260313_1773352840017/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=162d60c1104c937d531d54970f561677aa03b37a",
-    "k1": "0d57b44a749a492fb20d7887a39d9961",
-    "k2": "8c96147b7420686c78f2bed01cc676b3"
-  },
-  {
     "title": "Independiente de Medellín (COL) vs. Juventud de Las Piedras (URU)",
     "league": "CONMEBOL Libertadores",
     "fecha-evento": "2026-03-12T19:00:00-05:00",
@@ -664,6 +651,16 @@
     "img": "019cb4d4-6900-732a-b0f9-a226f5a52dab",
     "nombre": "disney120464",
     "status": "14:40",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Alavés vs. Villarreal CF",
+    "league": "LALIGA",
+    "fecha-evento": "2026-03-13T14:50:00-05:00",
+    "img": "019cb965-e794-7221-b1f5-34529d35bd3e",
+    "nombre": "disney58106f",
+    "status": "14:50",
     "duration": 135,
     "play_url": ""
   }
