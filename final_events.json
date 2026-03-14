@@ -195,19 +195,6 @@
     "k2": "f588511a196154e311b946b3ee3dc2c0"
   },
   {
-    "title": "Streets of Arlington (Practice 2)",
-    "league": "Indy NXT",
-    "fecha-evento": "2026-03-14T10:14:31-05:00",
-    "img": "1bc416de-c014-4b0e-b14c-9d67870b1789",
-    "nombre": "disney82facd",
-    "status": "10:14",
-    "duration": 45,
-    "play_url": "https://www.disneyplus.com/es-es/play/19d3e8a9-7ca2-4b98-aaa8-76944eecb8c2",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1773588130~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F14%2FStreets_of_Arlington_Prac_20260314_1773493235017%2F~psid=6ff653a2-3fe7-497e-bdf3-0c7986ea50fb~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=20156b233dd4b16535f1338e1e6797383a5616bb7b9e478ecea2a71fdfe58e1b/clt1/va02/disneyplus/event/2026/03/14/Streets_of_Arlington_Prac_20260314_1773493235017/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=4ea959f872412d26018becc3e50318d080f73767",
-    "k1": "6eb50f5c4e5c4f09a66df0b8493f0f6d",
-    "k2": "057e414ac8ffff5885f43938501aecfc"
-  },
-  {
     "title": "Lorient vs. Lens",
     "league": "Ligue 1",
     "fecha-evento": "2026-03-14T10:50:00-05:00",
@@ -223,12 +210,15 @@
   {
     "title": "UConn vs. Seton Hall",
     "league": "NCAA Softball",
-    "fecha-evento": "2026-03-14T11:00:00-05:00",
+    "fecha-evento": "2026-03-14T11:00:03-05:00",
     "img": "019ca368-bb56-76dd-970d-119d742f9f25",
-    "nombre": "disney7c688e",
+    "nombre": "disney559c96",
     "status": "11:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/3a97cbb9-6594-4424-b179-73ba063352fb",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1773591636~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F14%2FUConn_vs_Seton_Hall_20260314_1773496818041%2F~psid=61d2615e-0ea5-41cf-be5d-c024d500c752~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=58f33e33be2eb681e68502283bc194bc9f3fd0dbb33a565f57613328efa4a4b9/clt1/va02/disneyplus/event/2026/03/14/UConn_vs_Seton_Hall_20260314_1773496818041/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=bb164e6e83d598205ec7cf2396e864c393338344",
+    "k1": "27cfbc668723428188da5c95eecfbb21",
+    "k2": "8c57b00e79a8fcc8ce8cb9547f21313b"
   },
   {
     "title": "Gales vs. Italia",
@@ -237,8 +227,8 @@
     "img": "019cd392-d173-7c72-ac99-0fa0925b6b05",
     "nombre": "disneye3f20c",
     "status": "11:15",
-    "duration": 135,
-    "play_url": ""
+    "duration": 145,
+    "play_url": "https://www.disneyplus.com/es-es/play/79f5e8f3-ed5c-4714-9198-f9b03dc90b2c"
   },
   {
     "title": "NCAA Men's & Women's Indoor Track & Field Championships",
@@ -667,6 +657,16 @@
     "img": "019cae53-c06a-7930-be1e-864ede103613",
     "nombre": "disney90a428",
     "status": "14:45",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "West Ham United vs. Manchester City",
+    "league": "Premier League",
+    "fecha-evento": "2026-03-14T14:50:00-05:00",
+    "img": "019cb4d6-e9b4-7b2e-a6f6-681af9e319d8",
+    "nombre": "disney1e653e",
+    "status": "14:50",
     "duration": 135,
     "play_url": ""
   }
