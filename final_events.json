@@ -13,19 +13,6 @@
     "k2": "03886c9e6ae01772be79828311362a11"
   },
   {
-    "title": "2026 Paris-Nice (etapa 7)",
-    "league": "ESPN",
-    "fecha-evento": "2026-03-14T07:15:00-05:00",
-    "img": "86761663-29ba-416f-8b4c-5da47f8630cf",
-    "nombre": "disneyfe24cc",
-    "status": "07:15",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/d48f01f6-f071-4778-aac3-abbc448917e0",
-    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1773579786~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F7f9052ce-8143-43a6-9656-a8c00c4a3e56-1773071039106%2F~psid=9941c117-73fc-4b27-b7b8-196e125e6df5~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=18251ee62f9c36d02b8238b1de70bad11ba6cb6b52b61036194ff857b8973e4c/clt1/va02/disneyplus/channel/7f9052ce-8143-43a6-9656-a8c00c4a3e56-1773071039106/ctr-all-sliding-alt1.m3u8?r=1080&v=1&hash=f812b48fe160a3315a44f389d7be5df9e6792e5f",
-    "k1": "51371ad60a8c4909845f7a88ddf82813",
-    "k2": "203334f9947c61fa687bdcf9f7776306"
-  },
-  {
     "title": "River Plate Uruguay vs. Oriental",
     "league": "Segunda División de Uruguay",
     "fecha-evento": "2026-03-14T07:15:20-05:00",
@@ -34,19 +21,6 @@
     "status": "07:15",
     "duration": 180,
     "play_url": "https://www.disneyplus.com/es-es/play/0f45fc8f-ebac-49b0-be5f-992e2772ecae"
-  },
-  {
-    "title": "Coventry City vs. Southampton",
-    "league": "Championship de Inglaterra",
-    "fecha-evento": "2026-03-14T07:20:00-05:00",
-    "img": "019c9ac1-7c8d-7fed-abeb-c96f478f4d01",
-    "nombre": "disney6adb15",
-    "status": "07:20",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/6511c2f4-918c-4ea3-a22d-9f8c4bfe6919",
-    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1773579837~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F47873700-1b85-4497-8f84-d6f321fbb196-1773079291559%2F~psid=6abe006c-b969-4191-b4a9-8cb35c699576~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=f280f7610352255b7b900b3ade0132390cbb6c9387c18342726efe88615e460f/clt1/va02/disneyplus/channel/47873700-1b85-4497-8f84-d6f321fbb196-1773079291559/ctr-all-sliding-alt1.m3u8?r=1080&v=1&hash=12a14cf081eb56a5a31109bbe189482b0093cf0f",
-    "k1": "e0fafe5f821a4b3dbb39f2595d37f904",
-    "k2": "2e9503680ef2f1bcbbdca7b657caa35e"
   },
   {
     "title": "Cerro vs. Progreso",
@@ -133,8 +107,11 @@
     "img": "019cbc5b-13f0-7598-83e9-219eb233d3c9",
     "nombre": "disney1f16af",
     "status": "09:25",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/11fd910a-1feb-48ec-bdcf-092bae81b97c",
+    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1773585684~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F921e1311-bb26-43dd-84a6-9e2284959712-1773070527132%2F~psid=b61e7fb0-5838-496c-bfab-e90b2f9daf74~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=d657eb84c3e6797b825023ad44af98c65e4191c5c94d7714fdf331f05d787051/clt1/va02/disneyplus/channel/921e1311-bb26-43dd-84a6-9e2284959712-1773070527132/ctr-all-sliding-alt1.m3u8?r=1080&v=1&hash=82b614d9e6d93224b1eaa1442cd6e5c07d9789e9",
+    "k1": "fd1d2ae47ff246279f99addf7b9ada34",
+    "k2": "fefa003b9d7ecfa7abd8a87f40024b66"
   },
   {
     "title": "Henrique Rocha (POR) vs. Pedro Boscardini Dias (BRA) | Semifinales",
@@ -150,44 +127,56 @@
     "k2": "fbc5442f7912bfe0d2ac609a939c90a5"
   },
   {
-    "title": "Borussia Dortmund vs. Augsburg",
+    "title": "Hoffenheim vs. Wolfsburg",
     "league": "Bundesliga",
-    "fecha-evento": "2026-03-14T09:20:00-05:00",
-    "img": "019cba3e-b88a-768f-a135-779671794a3b",
-    "nombre": "disneyfac214",
+    "fecha-evento": "2026-03-14T09:20:05-05:00",
+    "img": "019c9a39-e38e-705d-a14a-4aefa1ecd3fa",
+    "nombre": "disney9bf3b3",
     "status": "09:20",
-    "duration": 135,
-    "play_url": ""
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/0457a16e-5c70-4187-94e1-a838a5f7d3e9",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1773585729~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F14%2FHoffenheim_vs_Wolfsburg_20260314_1773490834047%2F~psid=9a8172fe-d01b-400f-8372-7a0c6831a218~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=5fa5dae6ab7ded1c40cfe7e356891af0403f0580fa564af0a281de8e3ffe7726/clt1/va02/disneyplus/event/2026/03/14/Hoffenheim_vs_Wolfsburg_20260314_1773490834047/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=603d587e3a783f46596fc8b28b426ed723367be9",
+    "k1": "427527184eb5409f8fc3545c61242e52",
+    "k2": "e25dae4077b7d1b7f10ffb30bd2fa49a"
   },
   {
     "title": "Eintracht Frankfurt vs. 1. FC Heidenheim 1846",
     "league": "Bundesliga",
-    "fecha-evento": "2026-03-14T09:20:00-05:00",
+    "fecha-evento": "2026-03-14T09:20:04-05:00",
     "img": "019c9a3b-4aee-751d-ad50-d90798c4fd07",
-    "nombre": "disney506a4f",
+    "nombre": "disney04a54f",
     "status": "09:20",
-    "duration": 135,
-    "play_url": ""
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/25bbe4f0-ba34-44b1-92d1-4330ad9628f8",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1773585757~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F14%2FEintracht_Frankfurt_vs_1__20260314_1773490844018%2F~psid=021179fb-3b57-448d-8ef5-e8f16006b64c~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=07255e74f3464c8fff9a856c34c715e16f1ad4a59dfdcfb3560725051b67b3b2/clt1/va02/disneyplus/event/2026/03/14/Eintracht_Frankfurt_vs_1__20260314_1773490844018/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=5e25ba24e9cb232b93af0a92ad956e400c476c0b",
+    "k1": "18c71ced21db4001afe03463793ae919",
+    "k2": "cafbaabae3566bb0a2716e882da5a276"
   },
   {
     "title": "Goal Arena",
     "league": "Bundesliga",
-    "fecha-evento": "2026-03-14T09:20:00-05:00",
+    "fecha-evento": "2026-03-14T09:20:10-05:00",
     "img": "66cd1bca-70cd-4d70-9f42-ce3e4cfdef80",
-    "nombre": "disneya8022d",
+    "nombre": "disneyde71a6",
     "status": "09:20",
-    "duration": 135,
-    "play_url": ""
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/6a6d5e2e-335a-45bc-b2c1-182e1a7f1b58",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1773585783~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F14%2FGoal_Arena_The_Bundesliga_20260314_1773490851037%2F~psid=8327002e-2d2f-448a-b443-72635a034087~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=70db9e8c4dc6eec654937706ceea2d915851f4b723d770d73cc7ad4329bf2d71/clt1/va02/disneyplus/event/2026/03/14/Goal_Arena_The_Bundesliga_20260314_1773490851037/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=451a7f2d5fd70834788a492159c184b38becd760",
+    "k1": "5fc2216f7b444bc5b1377d1c9fc80a18",
+    "k2": "49eef4381d2617cf31dd77501b8d4c77"
   },
   {
-    "title": "Hoffenheim vs. Wolfsburg",
+    "title": "Borussia Dortmund vs. Augsburg",
     "league": "Bundesliga",
-    "fecha-evento": "2026-03-14T09:20:00-05:00",
-    "img": "019c9a39-e38e-705d-a14a-4aefa1ecd3fa",
-    "nombre": "disneyb531c5",
+    "fecha-evento": "2026-03-14T09:20:14-05:00",
+    "img": "019cba3e-b88a-768f-a135-779671794a3b",
+    "nombre": "disneyebff29",
     "status": "09:20",
-    "duration": 135,
-    "play_url": ""
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/5b665217-ce5b-43da-9526-52a3ec5b1f53",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1773585811~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F14%2FBorussia_Dortmund_vs_Augs_20260314_1773490859026%2F~psid=4afc7a5b-96d2-4406-a91f-8f02e0508528~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=715aa41db343ebe6ef82be7930a3cb59597c39ab8b3f77cce869a3bff350d573/clt1/va02/disneyplus/event/2026/03/14/Borussia_Dortmund_vs_Augs_20260314_1773490859026/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=bbf5e1f6842c7e1c1d1f7d80cc879e52450df004",
+    "k1": "23cf7173dd1e47a8a2e4709e87e185ea",
+    "k2": "d662d8382c7d915555546a98d5f0be4c"
   },
   {
     "title": "Burnley vs. Bournemouth",
@@ -343,7 +332,7 @@
     "title": "BYU vs. Omaha",
     "league": "NCAA Softball",
     "fecha-evento": "2026-03-14T12:00:00-05:00",
-    "img": "019c3814-706d-7998-9784-6141dc40323a",
+    "img": "019cecbc-da3f-7d02-91e5-3014eb94605c",
     "nombre": "disneye2586b",
     "status": "12:00",
     "duration": 135,
@@ -636,6 +625,26 @@
     "img": "019cb521-6066-749f-8930-b90cf49bfe3c",
     "nombre": "disney04abb9",
     "status": "14:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Rentistas vs. Plaza Colonia",
+    "league": "Segunda División de Uruguay",
+    "fecha-evento": "2026-03-14T14:30:00-05:00",
+    "img": "019ce2d4-d179-7b99-aae3-a5e8c5286366",
+    "nombre": "disneyd71f34",
+    "status": "14:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Colorado Avalanche vs. Winnipeg Jets",
+    "league": "National Hockey League",
+    "fecha-evento": "2026-03-14T15:00:00-05:00",
+    "img": "d29c8dad-b3eb-4c4f-86a8-f2a38b23e240",
+    "nombre": "disney451bba",
+    "status": "15:00",
     "duration": 135,
     "play_url": ""
   }
