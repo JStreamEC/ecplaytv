@@ -13,29 +13,6 @@
     "k2": "03886c9e6ae01772be79828311362a11"
   },
   {
-    "title": "River Plate Uruguay vs. Oriental",
-    "league": "Segunda División de Uruguay",
-    "fecha-evento": "2026-03-14T07:15:20-05:00",
-    "img": "019cde2a-0831-70be-9bc2-18e000cd7a5a",
-    "nombre": "disneyd7916b",
-    "status": "07:15",
-    "duration": 180,
-    "play_url": "https://www.disneyplus.com/es-es/play/0f45fc8f-ebac-49b0-be5f-992e2772ecae"
-  },
-  {
-    "title": "Cerro vs. Progreso",
-    "league": "Campeonato Uruguayo",
-    "fecha-evento": "2026-03-14T07:30:03-05:00",
-    "img": "019cb56e-cda8-7418-923d-2f8e5dbfe2fe",
-    "nombre": "disney405cce",
-    "status": "07:30",
-    "duration": 180,
-    "play_url": "https://www.disneyplus.com/es-es/play/0f39d532-5869-4995-b063-dea8cf1698bc",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1773579863~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F14%2FCerro_vs_Progreso_20260314_1773484221018%2F~psid=00a9b449-429a-49ee-a65f-3b579ee0cbfc~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=cd1f6b77540605098e5c35a792940abc9aed7a8a3a90641c1cb6028f07eecaf1/clt1/va02/disneyplus/event/2026/03/14/Cerro_vs_Progreso_20260314_1773484221018/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=a9550ee6e3f0b14da333ee4e0aa804f71a29b3d5",
-    "k1": "ccea685d3cab432b902669d22b8a0eaa",
-    "k2": "14044f9d5e6f3f1ffc762d7872de8249"
-  },
-  {
     "title": "Inter vs. Atalanta",
     "league": "Seria A",
     "fecha-evento": "2026-03-14T08:50:00-05:00",
@@ -677,6 +654,16 @@
     "img": "019cb521-7c30-70ac-874f-6070439553b4",
     "nombre": "disneye01312",
     "status": "14:40",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Monaco vs. Brest",
+    "league": "Ligue 1",
+    "fecha-evento": "2026-03-14T14:45:00-05:00",
+    "img": "019cae53-c06a-7930-be1e-864ede103613",
+    "nombre": "disney90a428",
+    "status": "14:45",
     "duration": 135,
     "play_url": ""
   }
