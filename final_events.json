@@ -39,19 +39,6 @@
     "k2": "fbc5442f7912bfe0d2ac609a939c90a5"
   },
   {
-    "title": "Sunderland vs. Brighton & Hove Albion",
-    "league": "Premier League",
-    "fecha-evento": "2026-03-14T09:50:04-05:00",
-    "img": "019cb4d5-318a-701b-ae2f-60df12f9e63a",
-    "nombre": "disneyd1333e",
-    "status": "09:50",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/99ce8295-22d7-4549-a93a-368504cde40f",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1773586957~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F14%2FSunderland_vs_Brighton_Ho_20260314_1773492609025%2F~psid=e858e9dd-3ea7-42d2-bbf4-8e38bddcc171~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=b012804a737bc4cda24e0812c759fc4a41081ff4a1c027adcd9754e559bca6d1/clt1/va02/disneyplus/event/2026/03/14/Sunderland_vs_Brighton_Ho_20260314_1773492609025/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=0f09300266e20c0f8cbbbe14b125cfb02d060a0c",
-    "k1": "4e9c933d6e8a4b1393617c10c2624074",
-    "k2": "cc0c0875f781578b9f85fbe30e2cabf0"
-  },
-  {
     "title": "Atlético de Madrid vs. Getafe CF",
     "league": "LALIGA",
     "fecha-evento": "2026-03-14T10:00:00-05:00",
@@ -78,19 +65,6 @@
     "k2": "f588511a196154e311b946b3ee3dc2c0"
   },
   {
-    "title": "Lorient vs. Lens",
-    "league": "Ligue 1",
-    "fecha-evento": "2026-03-14T10:50:00-05:00",
-    "img": "019cb576-84bf-752c-9b8f-268bb490fd1b",
-    "nombre": "disneyb19dfe",
-    "status": "10:50",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/b7600a44-57ce-4378-abb7-22fd7fd65824",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1773590435~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F14%2FLorient_vs_Lens_20260314_1773496254042%2F~psid=b18979b3-b075-4954-a2df-d64a2830be32~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=312d2e89aad6c7f057bcc47670af1f957a860560a450916372bb262dcf059058/clt1/va02/disneyplus/event/2026/03/14/Lorient_vs_Lens_20260314_1773496254042/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=532e9d53103e2d24241639ca33f0272f8def3dab",
-    "k1": "18ed917e30a4423c88f28529eae14eb0",
-    "k2": "5cd6fbb416530774f57bebfd7549a053"
-  },
-  {
     "title": "UConn vs. Seton Hall",
     "league": "NCAA Softball",
     "fecha-evento": "2026-03-14T11:00:03-05:00",
@@ -102,6 +76,19 @@
     "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1773591636~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F14%2FUConn_vs_Seton_Hall_20260314_1773496818041%2F~psid=61d2615e-0ea5-41cf-be5d-c024d500c752~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=58f33e33be2eb681e68502283bc194bc9f3fd0dbb33a565f57613328efa4a4b9/clt1/va02/disneyplus/event/2026/03/14/UConn_vs_Seton_Hall_20260314_1773496818041/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=bb164e6e83d598205ec7cf2396e864c393338344",
     "k1": "27cfbc668723428188da5c95eecfbb21",
     "k2": "8c57b00e79a8fcc8ce8cb9547f21313b"
+  },
+  {
+    "title": "Lorient vs. Lens",
+    "league": "Ligue 1",
+    "fecha-evento": "2026-03-14T10:50:00-05:00",
+    "img": "019cb576-84bf-752c-9b8f-268bb490fd1b",
+    "nombre": "disneyb19dfe",
+    "status": "10:50",
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/b7600a44-57ce-4378-abb7-22fd7fd65824",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1773590435~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F14%2FLorient_vs_Lens_20260314_1773496254042%2F~psid=b18979b3-b075-4954-a2df-d64a2830be32~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=312d2e89aad6c7f057bcc47670af1f957a860560a450916372bb262dcf059058/clt1/va02/disneyplus/event/2026/03/14/Lorient_vs_Lens_20260314_1773496254042/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=532e9d53103e2d24241639ca33f0272f8def3dab",
+    "k1": "18ed917e30a4423c88f28529eae14eb0",
+    "k2": "5cd6fbb416530774f57bebfd7549a053"
   },
   {
     "title": "Gales vs. Italia",
@@ -179,54 +166,69 @@
     "k2": "12aa15a48498f0cedde1f7191d590eee"
   },
   {
-    "title": "Anaheim Ducks vs. Ottawa Senators",
-    "league": "National Hockey League",
-    "fecha-evento": "2026-03-14T12:00:00-05:00",
-    "img": "019cacba-0f63-77db-b94b-3db291a0523e",
-    "nombre": "disney7cecd3",
-    "status": "12:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Syracuse vs. #10 Florida State",
     "league": "NCAA Softball",
     "fecha-evento": "2026-03-14T12:00:00-05:00",
     "img": "019c59e6-e192-7200-8df3-df78f1e6162a",
     "nombre": "disney74e863",
     "status": "12:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/8303c291-c96e-49d8-a746-2512dd028f9e",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1773595282~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F14%2FSyracuse_vs_10_Florida_St_20260314_1773500405017%2F~psid=64fc54c5-b48a-487f-82ac-caff2b671a8f~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=8d4db9c82771be7b53868c4a8bc7486305d00ae070b755c61cb9256dd3ef9006/clt1/va02/disneyplus/event/2026/03/14/Syracuse_vs_10_Florida_St_20260314_1773500405017/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=f180e48082a92c806c895a7bc6a78e4467850b80",
+    "k1": "63e248e9691f4702be597d80f93c44b8",
+    "k2": "7135d9560888adf6720e0b3fd6109385"
   },
   {
     "title": "#12 Arizona vs. #2 Texas Tech",
     "league": "NCAA Softball",
-    "fecha-evento": "2026-03-14T12:00:00-05:00",
+    "fecha-evento": "2026-03-14T12:00:03-05:00",
     "img": "019b7635-3742-7abf-86d3-46ad5ae2b5b8",
-    "nombre": "disneyf1c9d3",
+    "nombre": "disney242039",
     "status": "12:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/c484dd05-d927-40bd-8b77-21f768fb2fa4",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1773595329~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F14%2F12_Arizona_vs_2_Texas_Tec_20260314_1773500448040%2F~psid=f84d3be3-b8b4-457e-b6ca-c3b8ebe65b60~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=207707bdbf56982167796a6b8ec48365055dd10a6775f2cc0dd33f5a3eb7c0c9/clt1/va02/disneyplus/event/2026/03/14/12_Arizona_vs_2_Texas_Tec_20260314_1773500448040/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=f7e1dfb40a6c383dece403e05165104d3301e7de",
+    "k1": "aa19662dfe954ab5b1b25e50bd557f48",
+    "k2": "b5bf0d70fedfefc361a304506a2c207d"
   },
   {
     "title": "BYU vs. Omaha",
     "league": "NCAA Softball",
-    "fecha-evento": "2026-03-14T12:00:00-05:00",
+    "fecha-evento": "2026-03-14T12:00:04-05:00",
     "img": "019cecbc-da3f-7d02-91e5-3014eb94605c",
-    "nombre": "disneye2586b",
+    "nombre": "disneyadc8e0",
     "status": "12:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/2cff9451-d80d-434e-99cc-f1e08359161e",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1773595354~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F14%2FBYU_vs_Omaha_20260314_1773500435043%2F~psid=5b77ec5d-c9e0-47d3-93f3-3d26e5165d33~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=39546c96c99a33f9ec1255f927d4fc61c95a9d53d798f7b4769cb68b54220d47/clt1/va02/disneyplus/event/2026/03/14/BYU_vs_Omaha_20260314_1773500435043/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=dec5426ebf845b27157a23bee059de51ed65dc68",
+    "k1": "e949f1b02c0a40d7b72eb9f8cc5ea0cc",
+    "k2": "83a1de0b8e36e9b37d49b9e93204b2f9"
+  },
+  {
+    "title": "Anaheim Ducks vs. Ottawa Senators",
+    "league": "National Hockey League",
+    "fecha-evento": "2026-03-14T12:07:29-05:00",
+    "img": "019cacba-0f63-77db-b94b-3db291a0523e",
+    "nombre": "disneyee5515",
+    "status": "12:07",
+    "duration": 203,
+    "play_url": "https://www.disneyplus.com/es-es/play/22e7ef91-cb9f-4914-a7a2-21b06a98c4e1",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1773595381~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F14%2FAnaheim_Ducks_vs_Ottawa_S_20260314_1773500426517%2F~psid=2ba41296-c0de-49af-bf20-818b2737a2b3~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=923d213df921ceac93b9d382180eac1e9a7ef3a350e6f854324321798a7ffcea/clt1/va02/disneyplus/event/2026/03/14/Anaheim_Ducks_vs_Ottawa_S_20260314_1773500426517/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=06d995e1c9bedaf47c81ca07180f2dd63e397bbe",
+    "k1": "ec41ef05b2b345b3bb110f5783cc8c0d",
+    "k2": "e529200faf0e53e41139f7498c9f8b92"
   },
   {
     "title": "Chelsea vs. Newcastle United",
     "league": "Premier League",
-    "fecha-evento": "2026-03-14T12:10:00-05:00",
+    "fecha-evento": "2026-03-14T12:10:02-05:00",
     "img": "019cb4d5-d002-7228-89d9-a34cb691ed8a",
-    "nombre": "disneydafd13",
+    "nombre": "disneye68760",
     "status": "12:10",
     "duration": 135,
-    "play_url": ""
+    "play_url": "https://www.disneyplus.com/es-es/play/4657c90b-a2d2-4afd-b657-58198e162af2",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1773595408~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F14%2FChelsea_vs_Newcastle_Unit_20260314_1773501020026%2F~psid=45da27f5-604c-4b86-8627-7e8db020aaaf~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=1d54559eb3c03fc5a6e04e880d70b71642da64fb6709c8da59ed949ee00bd877/clt1/va02/disneyplus/event/2026/03/14/Chelsea_vs_Newcastle_Unit_20260314_1773501020026/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=e97b95cda9e4e1319c6821d799d8af71c7f94b37",
+    "k1": "dbbf2148281e4d3f9264eebeeb9c2958",
+    "k2": "7a4c37db318a4378b1258e92f81c6d10"
   },
   {
     "title": "Arsenal vs. Everton",
@@ -235,8 +237,11 @@
     "img": "019cb4d5-7536-7d22-9cd8-7e93fefa20f5",
     "nombre": "disney02605d",
     "status": "12:15",
-    "duration": 135,
-    "play_url": ""
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/5525637c-464e-4089-88ba-60f74d9176f1",
+    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1773595435~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F921e1311-bb26-43dd-84a6-9e2284959712-1773070527132%2F~psid=2f6e3a27-4817-4605-ad47-6eedf5a6301f~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=cdbd22ff412749c6ccb78457fce1579f6dc008c634ba05e81a4a0683ac2b726e/clt1/va02/disneyplus/channel/921e1311-bb26-43dd-84a6-9e2284959712-1773070527132/ctr-all-sliding-alt1.m3u8?r=1080&v=1&hash=82b614d9e6d93224b1eaa1442cd6e5c07d9789e9",
+    "k1": "fd1d2ae47ff246279f99addf7b9ada34",
+    "k2": "fefa003b9d7ecfa7abd8a87f40024b66"
   },
   {
     "title": "Hamburger SV vs. Koln",
@@ -644,6 +649,16 @@
     "fecha-evento": "2026-03-14T15:55:00-05:00",
     "img": "019cba3f-dead-7f87-9031-5b0c4b66e3a1",
     "nombre": "disneydec62a",
+    "status": "15:55",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Galácticas del Caribe vs. Persas FC",
+    "league": "Queens League Americas",
+    "fecha-evento": "2026-03-14T15:55:00-05:00",
+    "img": "019cba3f-dead-7f87-9031-5b0c4b66e3a1",
+    "nombre": "disneyd3c996",
     "status": "15:55",
     "duration": 135,
     "play_url": ""
