@@ -36,19 +36,6 @@
     "k2": "14044f9d5e6f3f1ffc762d7872de8249"
   },
   {
-    "title": "Streets of Arlington (Practice 2)",
-    "league": "IndyCar Series",
-    "fecha-evento": "2026-03-14T08:30:00-05:00",
-    "img": "019cd411-7cab-7dd7-8101-86bd76c02a2d",
-    "nombre": "disney4dd329",
-    "status": "08:30",
-    "duration": 90,
-    "play_url": "https://www.disneyplus.com/es-es/play/c9f77674-ffe3-47b9-8524-edea55b05a98",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1773582080~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F14%2FStreets_of_Arlington_Prac_20260314_1773487800192%2F~psid=c796c948-d986-4c01-b846-b6afff92c193~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=1fa29291b1523a2d4e0d0210b715fa4fac64fb53b05ceb45f79b6ecd0a4a6a61/clt1/va02/disneyplus/event/2026/03/14/Streets_of_Arlington_Prac_20260314_1773487800192/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=b7ec7c353a2b6c90a24d0dcfd46bd0b7652735e3",
-    "k1": "db0cd270371d44378b4ef9bf2499e4f2",
-    "k2": "a7ec6fc1be2e635207bab65b3fbe0444"
-  },
-  {
     "title": "Inter vs. Atalanta",
     "league": "Seria A",
     "fecha-evento": "2026-03-14T08:50:00-05:00",
@@ -205,16 +192,6 @@
     "k2": "cc0c0875f781578b9f85fbe30e2cabf0"
   },
   {
-    "title": "Cultural Leonesa vs. Racing Santander",
-    "league": "Segunda División de España",
-    "fecha-evento": "2026-03-14T10:00:00-05:00",
-    "img": "019c9b7d-23b7-7716-babd-66bbc50ade2c",
-    "nombre": "disney7b4c71",
-    "status": "10:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Atlético de Madrid vs. Getafe CF",
     "league": "LALIGA",
     "fecha-evento": "2026-03-14T10:00:00-05:00",
@@ -226,6 +203,32 @@
     "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1773586983~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Ff25bdf06-81c9-4a7c-b128-3128d610ad17-1773077912071%2F~psid=e2eef349-e22f-4083-973e-a54b6995db45~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=e45174b9588d00a5e6e001d7745f09f2944a1a31230d98e86442472b771a93dc/clt1/va02/disneyplus/channel/f25bdf06-81c9-4a7c-b128-3128d610ad17-1773077912071/ctr-all-sliding-alt1.m3u8?r=1080&v=1&hash=0c2b71604727acc65d3c37c7e6528ec8e2f304bb",
     "k1": "a45f6be0cc49473b8ce75a54be11df0b",
     "k2": "1946bcc9ec5a75e4d705a67a0d4dee71"
+  },
+  {
+    "title": "Cultural Leonesa vs. Racing Santander",
+    "league": "Segunda División de España",
+    "fecha-evento": "2026-03-14T10:10:07-05:00",
+    "img": "019c9b7d-23b7-7716-babd-66bbc50ade2c",
+    "nombre": "disney606462",
+    "status": "10:10",
+    "duration": 125,
+    "play_url": "https://www.disneyplus.com/es-es/play/39096489-0b4d-4ca1-b6ab-c725cc75076e",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1773588083~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F14%2FCultural_Leonesa_vs_Racin_20260314_1773493201025%2F~psid=e916098a-1e3e-4684-bd71-798f23b55cbd~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=cd530568dfbf0a618d4550324c178cd32094e72482e583a5cc4db830c00955f7/clt1/va02/disneyplus/event/2026/03/14/Cultural_Leonesa_vs_Racin_20260314_1773493201025/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=d8588e53c2383e26d318a391d104dbbda0a71fcc",
+    "k1": "1dccd3e2f0f94c3ab78a60066acb679d",
+    "k2": "f588511a196154e311b946b3ee3dc2c0"
+  },
+  {
+    "title": "Streets of Arlington (Practice 2)",
+    "league": "Indy NXT",
+    "fecha-evento": "2026-03-14T10:14:31-05:00",
+    "img": "1bc416de-c014-4b0e-b14c-9d67870b1789",
+    "nombre": "disney82facd",
+    "status": "10:14",
+    "duration": 45,
+    "play_url": "https://www.disneyplus.com/es-es/play/19d3e8a9-7ca2-4b98-aaa8-76944eecb8c2",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1773588130~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F14%2FStreets_of_Arlington_Prac_20260314_1773493235017%2F~psid=6ff653a2-3fe7-497e-bdf3-0c7986ea50fb~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=20156b233dd4b16535f1338e1e6797383a5616bb7b9e478ecea2a71fdfe58e1b/clt1/va02/disneyplus/event/2026/03/14/Streets_of_Arlington_Prac_20260314_1773493235017/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=4ea959f872412d26018becc3e50318d080f73767",
+    "k1": "6eb50f5c4e5c4f09a66df0b8493f0f6d",
+    "k2": "057e414ac8ffff5885f43938501aecfc"
   },
   {
     "title": "Lorient vs. Lens",
@@ -664,6 +667,16 @@
     "img": "019cb56b-514d-7efc-8c10-4840a0220d21",
     "nombre": "disney617a20",
     "status": "14:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Cremonese vs. Fiorentina",
+    "league": "Seria A",
+    "fecha-evento": "2026-03-16T14:40:00-05:00",
+    "img": "019cb521-7c30-70ac-874f-6070439553b4",
+    "nombre": "disneye01312",
+    "status": "14:40",
     "duration": 135,
     "play_url": ""
   }
