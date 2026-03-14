@@ -26,16 +26,6 @@
     "k2": "eb6e9131cccc537e1aa768773fd6505a"
   },
   {
-    "title": "Gales vs. Italia",
-    "league": "Seis Naciones",
-    "fecha-evento": "2026-03-14T11:15:00-05:00",
-    "img": "019cd392-d173-7c72-ac99-0fa0925b6b05",
-    "nombre": "disneye3f20c",
-    "status": "11:15",
-    "duration": 145,
-    "play_url": "https://www.disneyplus.com/es-es/play/79f5e8f3-ed5c-4714-9198-f9b03dc90b2c"
-  },
-  {
     "title": "NCAA Men's & Women's Indoor Track & Field Championships",
     "league": "NCAA Atletismo",
     "fecha-evento": "2026-03-14T11:25:00-05:00",
@@ -387,19 +377,6 @@
     "k2": "7d0f41826db8e4cfc3fa37cb4bc6eb11"
   },
   {
-    "title": "Newman vs. Buenos Aires CRC",
-    "league": "URBA Top 14",
-    "fecha-evento": "2026-03-14T13:30:00-05:00",
-    "img": "019cd587-f894-7193-9b41-f6a4a136fdd9",
-    "nombre": "disney9f5339",
-    "status": "13:30",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/2fb0743e-1099-4a7a-b207-5d7e9125933a",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1773600080~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F14%2FNewman_vs_Buenos_Aires_CR_20260314_1773505829043%2F~psid=94eff3a0-74c4-46f0-9514-3473689d4342~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=65a5c8cc9146f8737e5aabb4c0c3630877d3b9c334b4791f9688053ce6ad2856/clt1/va02/disneyplus/event/2026/03/14/Newman_vs_Buenos_Aires_CR_20260314_1773505829043/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=f45a1c08511521eddb68ca29f99717d58878a105",
-    "k1": "0dc720c44aa14a19a51623ca6f965d2d",
-    "k2": "94f4c6f7fb39ac463cb9d2956ac1ff26"
-  },
-  {
     "title": "Streets of Arlington (Qualifying)",
     "league": "IndyCar Series",
     "fecha-evento": "2026-03-14T13:30:00-05:00",
@@ -424,6 +401,19 @@
     "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1773600153~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F14%2FNorthern_Iowa_vs_Murray_S_20260314_1773505805017%2F~psid=8d405a30-0485-45c9-8358-88f387fe69f6~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=014c19b46a2d22b1219b3e2729a6ff639cb97c54bb87caa07bb9feb1830f96ec/clt1/va02/disneyplus/event/2026/03/14/Northern_Iowa_vs_Murray_S_20260314_1773505805017/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=abffbee5d590be8c34a645e8c9f715eac6a809ca",
     "k1": "5e49f7a9314449bf814036d2de6e8258",
     "k2": "4819647f102c82bd24a5d68e603034c3"
+  },
+  {
+    "title": "Newman vs. Buenos Aires CRC",
+    "league": "URBA Top 14",
+    "fecha-evento": "2026-03-14T13:30:00-05:00",
+    "img": "019cd587-f894-7193-9b41-f6a4a136fdd9",
+    "nombre": "disney9f5339",
+    "status": "13:30",
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/2fb0743e-1099-4a7a-b207-5d7e9125933a",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1773600080~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F14%2FNewman_vs_Buenos_Aires_CR_20260314_1773505829043%2F~psid=94eff3a0-74c4-46f0-9514-3473689d4342~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=65a5c8cc9146f8737e5aabb4c0c3630877d3b9c334b4791f9688053ce6ad2856/clt1/va02/disneyplus/event/2026/03/14/Newman_vs_Buenos_Aires_CR_20260314_1773505829043/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=f45a1c08511521eddb68ca29f99717d58878a105",
+    "k1": "0dc720c44aa14a19a51623ca6f965d2d",
+    "k2": "94f4c6f7fb39ac463cb9d2956ac1ff26"
   },
   {
     "title": "Puerto Rico vs. Italia (Cuartos de Final)",
@@ -452,8 +442,11 @@
     "img": "019c1be4-d537-7b98-9889-0defd1119739",
     "nombre": "disney012f8f",
     "status": "14:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/c70a181e-3a50-457f-a7f8-f3e2c5461c39",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1773601236~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F14%2FUL_Monroe_vs_Texas_State_20260314_1773507653043%2F~psid=fd5aef91-16cd-4b6b-9eac-566751987a49~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=5b0df75e26be2e04b00386998a8ea71250bd0f356175ee1380403d52c2445957/clt1/va02/disneyplus/event/2026/03/14/UL_Monroe_vs_Texas_State_20260314_1773507653043/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=ca5bcb46b30d14759f898ed90d03fbb030b2a719",
+    "k1": "0d18587962244e7eaa911e8e8e7a6018",
+    "k2": "115aa5cadfabc7055be6ea7e67c8e84c"
   },
   {
     "title": "Boston Bruins vs. Washington Capitals",
@@ -462,8 +455,11 @@
     "img": "ee3b9321-889d-4eca-a9f8-66abb9f55099",
     "nombre": "disney9cba93",
     "status": "14:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 180,
+    "play_url": "https://www.disneyplus.com/es-es/play/3984fd48-331d-4405-ab7b-333d5440687e",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1773601284~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F14%2FBoston_Bruins_vs_Washingt_20260314_1773507625024%2F~psid=ef7cf6cf-357d-4806-9972-633ab0474995~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=06722e7223b3ac8b696d1870e9fff291ae23c6ee86971354c9139ac4a0f4df1d/clt1/va02/disneyplus/event/2026/03/14/Boston_Bruins_vs_Washingt_20260314_1773507625024/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=92fcd212716581407df7048fe54a5f585e7da7df",
+    "k1": "95f4daf01cf7485ba7db16aae2ef4333",
+    "k2": "78d387ffce8dddddd4c830d75ab5ab05"
   },
   {
     "title": "#5 Northeastern vs. #4 Minnesota (Regional Finals)",
@@ -701,6 +697,16 @@
     "fecha-evento": "2026-03-14T17:00:00-05:00",
     "img": "019cea28-a3e2-7359-a0b8-f157fd10769e",
     "nombre": "disney332289",
+    "status": "17:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Yale vs. #1 Ohio State (Regional Finals)",
+    "league": "NCAA Women's Hockey",
+    "fecha-evento": "2026-03-14T17:00:00-05:00",
+    "img": "019ce7a5-8036-74d8-9a63-8a6106e6eaa8",
+    "nombre": "disneya56402",
     "status": "17:00",
     "duration": 135,
     "play_url": ""
