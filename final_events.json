@@ -1,18 +1,5 @@
 [
   {
-    "title": "Premier Padel: Cancún - Centre Court (Primera Ronda)",
-    "league": "Premier Padel",
-    "fecha-evento": "2026-03-18T09:00:16-05:00",
-    "img": "019c91cf-a9ab-76ac-8587-5af5d76dc6fd",
-    "nombre": "disney50404f",
-    "status": "09:00",
-    "duration": 210,
-    "play_url": "https://www.disneyplus.com/es-es/play/df4a0089-ee0e-4c59-a7f4-67cb6e6e8125",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1773941111~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F18%2FPremier_Padel_Cancn_Centr_20260318_1773835244041%2F~psid=1e7b2263-9e57-41a1-a1c9-9a2de8db50d3~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=c478ef2d0f0f51214b91b177e5f74d99b87bec9abde1186775f09db6de3d8f42/clt1/va02/disneyplus/event/2026/03/18/Premier_Padel_Cancn_Centr_20260318_1773835244041/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=ee3a13c1a83827e82eb386a7d06df109ed504a45",
-    "k1": "7757f10d59f8435889f9b450739aad7c",
-    "k2": "c94d4fcc3071d40dc35da4351b79b4d5"
-  },
-  {
     "title": "Miami Open Presented by Itaú / Court 2",
     "league": "ATP",
     "fecha-evento": "2026-03-18T10:00:00-05:00",
@@ -253,8 +240,11 @@
     "img": "019c915f-4678-74e7-9279-09b62541b63c",
     "nombre": "disneyff26d6",
     "status": "12:50",
-    "duration": 135,
-    "play_url": ""
+    "duration": 300,
+    "play_url": "https://www.disneyplus.com/es-es/play/35165f4c-395a-4243-8769-baf1ce881293",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1773943238~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F18%2FCUSA_Bowling_Championship_20260318_1773849040048%2F~psid=9efcc039-4fc9-45d7-b661-e31cd183eeab~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=dde470886e59115ec337110a79fb14801929f3684edf0b38f545f2b93e09269a/clt1/va02/disneyplus/event/2026/03/18/CUSA_Bowling_Championship_20260318_1773849040048/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=c491e27bec5cffb981d74d162d7095766aafbf11",
+    "k1": "137df41f12c74ef88aa9f81c6be1e7e0",
+    "k2": "d1fa2a891f8fe11b48ad15597b9afcf6"
   },
   {
     "title": "Middle Tennessee vs. UT Martin",
@@ -343,6 +333,16 @@
     "img": "019cd637-fec8-7e29-8a2e-b9dcccd45ca1",
     "nombre": "disneyb5831a",
     "status": "14:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Premier Padel: Cancún - Centre Court (Primera Ronda)",
+    "league": "Premier Padel",
+    "fecha-evento": "2026-03-18T16:00:00-05:00",
+    "img": "019c91cf-a704-7873-9452-b5a335843483",
+    "nombre": "disney0254db",
+    "status": "16:00",
     "duration": 135,
     "play_url": ""
   },
@@ -662,6 +662,16 @@
     "fecha-evento": "2026-03-19T09:00:00-05:00",
     "img": "019c91d7-687a-7f94-9d6e-3969613bb6fa",
     "nombre": "disney462c97",
+    "status": "09:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "NCAA Women's Swimming and Diving Championship (Swimming Prelims)",
+    "league": "NCAA Natación y Buceo",
+    "fecha-evento": "2026-03-19T09:00:00-05:00",
+    "img": "cae07512-17c8-4bd0-8e45-536d7e380bf9",
+    "nombre": "disney4551fd",
     "status": "09:00",
     "duration": 135,
     "play_url": ""
