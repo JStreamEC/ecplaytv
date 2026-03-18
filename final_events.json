@@ -156,19 +156,6 @@
     "k2": "7f7c7f644c71efa72ef857350f637961"
   },
   {
-    "title": "SC Braga vs. Ferencváros | 8vos de final, vuelta",
-    "league": "UEFA Europa League",
-    "fecha-evento": "2026-03-18T10:15:00-05:00",
-    "img": "019ce65d-471a-7483-b509-4a39fcc7a60a",
-    "nombre": "disney3edf70",
-    "status": "10:15",
-    "duration": 135,
-    "play_url": "https://www.disneyplus.com/es-es/play/37dd2311-0135-43e0-a07a-437c0f553b68",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1773941469~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F18%2FSC_Braga_vs_Ferencvros_8v_20260318_1773841443059%2F~psid=c7c2efea-5960-4b62-b9da-748720fd8c74~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=00bd8a8aaa4bf6309750ac9545e448afe75cd140a5afd7f44d840071c0539b00/clt1/va02/disneyplus/event/2026/03/18/SC_Braga_vs_Ferencvros_8v_20260318_1773841443059/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=05f4a31c202007aeee1a364f86e4692889baefae",
-    "k1": "dfb26323c58b45d085d09674df72157e",
-    "k2": "486779a28598bd1a28f144f63fa4dbfb"
-  },
-  {
     "title": "WTA Miami Open Presented by Itaú (Primera Ronda)",
     "league": "WTA",
     "fecha-evento": "2026-03-18T10:55:19-05:00",
@@ -247,14 +234,17 @@
     "k2": "0d37e44a720fdf4544134938a20ea665"
   },
   {
-    "title": "FC Barcelona vs. Newcastle United (Octavos de Final)",
+    "title": "FC Barcelona vs. Newcastle United | 8vos de final, vuelta",
     "league": "UEFA Champions League",
     "fecha-evento": "2026-03-18T12:25:00-05:00",
     "img": "019ce281-1459-7c7c-8728-3532945471ff",
-    "nombre": "disneye0fec5",
+    "nombre": "disneyf2ba57",
     "status": "12:25",
     "duration": 135,
-    "play_url": ""
+    "play_url": "https://www.disneyplus.com/es-es/play/d749ae7f-9e96-42ee-9e7c-10d916d12db7",
+    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1773942036~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F921e1311-bb26-43dd-84a6-9e2284959712-1773070527132%2F~psid=5b7e6546-4f47-458b-9fb5-a47d7407b6dc~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=5e8e44011bab1dfc1c82d702ba7f66a4d203c6adaff79b9385ba1b01ed197b81/clt1/va02/disneyplus/channel/921e1311-bb26-43dd-84a6-9e2284959712-1773070527132/ctr-all-sliding-alt1.m3u8?r=1080&v=1&hash=82b614d9e6d93224b1eaa1442cd6e5c07d9789e9",
+    "k1": "6545ae69ad504120813ea94c3148894e",
+    "k2": "c2cbcd2b70f1089408e1255a18b7988a"
   },
   {
     "title": "CUSA Bowling Championship (Fecha #1)",
@@ -662,6 +652,16 @@
     "fecha-evento": "2026-03-19T09:00:00-05:00",
     "img": "019c91cf-9189-76b9-991b-dd552ea1c83f",
     "nombre": "disney68d9c1",
+    "status": "09:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Premier Padel: Cancún - Secondary Court (Octavos de Final)",
+    "league": "Premier Padel",
+    "fecha-evento": "2026-03-19T09:00:00-05:00",
+    "img": "019c91d7-687a-7f94-9d6e-3969613bb6fa",
+    "nombre": "disney462c97",
     "status": "09:00",
     "duration": 135,
     "play_url": ""
