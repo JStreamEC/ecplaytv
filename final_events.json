@@ -39,19 +39,6 @@
     "k2": "3fec9cd8d63aa4edafd9fa4346b1ab7c"
   },
   {
-    "title": "Miami Open Presented by Itaú (Primera Ronda)",
-    "league": "ATP",
-    "fecha-evento": "2026-03-18T10:00:09-05:00",
-    "img": "019cbffc-1bb2-7a29-84c8-d392357ae68c",
-    "nombre": "disneyec67fa",
-    "status": "10:00",
-    "duration": 720,
-    "play_url": "https://www.disneyplus.com/es-es/play/07d80878-e9b4-4a10-a351-389eea2290a0",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1773941361~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F18%2FMiami_Open_Presented_by_I_20260318_1773838812025%2F~psid=21be37e5-6545-4449-92e2-733485353dfe~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=6c613ad30ad87bf36570015fa18c649826e6b33ad1d7410559a92178060e4fce/clt1/va02/disneyplus/event/2026/03/18/Miami_Open_Presented_by_I_20260318_1773838812025/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=6180947cf6f6f424bc3523e61defd12d43c43a02",
-    "k1": "142e3e2fd79d45f584211cda61564eb7",
-    "k2": "fecded3d1ee657f0181d68781d698780"
-  },
-  {
     "title": "WTA Miami Open Presented by Itaú / Court 6",
     "league": "WTA",
     "fecha-evento": "2026-03-18T10:00:27-05:00",
@@ -335,6 +322,19 @@
     "k2": "63e874b757436304d2d44d680baa676f"
   },
   {
+    "title": "Miami Open Presented by Itaú (Primera Ronda)",
+    "league": "ATP",
+    "fecha-evento": "2026-03-18T18:00:00-05:00",
+    "img": "019cbffc-1bb2-7a29-84c8-d392357ae68c",
+    "nombre": "disney230524",
+    "status": "18:00",
+    "duration": 210,
+    "play_url": "https://www.disneyplus.com/es-es/play/91185739-8c21-4b9c-9d7b-931f6bfa10be",
+    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1773962437~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Ff25bdf06-81c9-4a7c-b128-3128d610ad17-1773077912071%2F~psid=3f638353-b18d-4f06-90b5-278d7f60d8f4~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=01f01d9cbe8fc9a2cadbfe1e875ee84de1dc4a379afb6df54e77d46d2477138a/clt1/va02/disneyplus/channel/f25bdf06-81c9-4a7c-b128-3128d610ad17-1773077912071/ctr-all-sliding-alt1.m3u8?r=1080&v=1&hash=0c2b71604727acc65d3c37c7e6528ec8e2f304bb",
+    "k1": "b6e6fadd2eda420e9e0863d1374e0eee",
+    "k2": "35665d9804e8b485ce18a8786d04d93a"
+  },
+  {
     "title": "Salt Lake City Stars vs. Iowa Wolves",
     "league": "NBA G League",
     "fecha-evento": "2026-03-18T18:30:00-05:00",
@@ -601,6 +601,16 @@
     "img": "019cc57b-6016-7cf0-a61b-dfb0dcbbec83",
     "nombre": "disney78dcb8",
     "status": "11:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Christopher Newport vs. St. Thomas (TX) (Cuartos de Final)",
+    "league": "Básquetbol masculino NCAA",
+    "fecha-evento": "2026-03-19T12:00:00-05:00",
+    "img": "ca493365-e964-4d57-a55f-8b23f9a023f1",
+    "nombre": "disneyd17324",
+    "status": "12:00",
     "duration": 135,
     "play_url": ""
   }
