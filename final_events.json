@@ -91,19 +91,6 @@
     "k2": "0c496adb302619efe99d17849627f702"
   },
   {
-    "title": "NCAA Women's Swimming and Diving Championship (Day One Finals)",
-    "league": "NCAA Natación y Buceo",
-    "fecha-evento": "2026-03-18T17:00:03-05:00",
-    "img": "cae07512-17c8-4bd0-8e45-536d7e380bf9",
-    "nombre": "disney5598be",
-    "status": "17:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/351c33c7-8e8d-4d07-a9cf-583f01b23789",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1773961980~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F18%2FNCAA_Womens_Swimming_and__20260318_1773864011023%2F~psid=9e1634cc-fcf7-4128-8172-7d84df3c7d3c~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=c8c935e9da591a7bf1c6e071ff2232dc7894306612e79b330038b3c38f39ae92/clt1/va02/disneyplus/event/2026/03/18/NCAA_Womens_Swimming_and__20260318_1773864011023/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=db8e56d01432c3fd540c6aa5fa5d157daf359501",
-    "k1": "4d1635c32b574d19a03180f97609dc86",
-    "k2": "f806d5c83df2fa076dae14271f159a0e"
-  },
-  {
     "title": "Illinois vs. Indiana State",
     "league": "NCAA Beisbol",
     "fecha-evento": "2026-03-18T17:30:12-05:00",
@@ -128,19 +115,6 @@
     "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1773962034~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F18%2FInter_Miami_CF_vs_Nashvil_20260318_1773867359026%2F~psid=0f14f70c-7de3-482b-99b7-6f03b7374aa7~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=6bd835e92261baeb39628e71743f1588a460ad8d1ca1cedab1eccc268393aab2/clt1/va02/disneyplus/event/2026/03/18/Inter_Miami_CF_vs_Nashvil_20260318_1773867359026/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=54eddf52b7a5316765fefb16458ef2fdfac15837",
     "k1": "28c5fbc1e3b1481caa019a2d694078ed",
     "k2": "5119cce320d83abc37a1c0432e0a4733"
-  },
-  {
-    "title": "WTA Miami Open Presented by Itaú / Grandstand",
-    "league": "WTA",
-    "fecha-evento": "2026-03-18T18:00:00-05:00",
-    "img": "31768d1c-2cb3-4cca-88fd-8eff09bac4a9",
-    "nombre": "disney0933a4",
-    "status": "18:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/a6530880-9921-40e2-8f1d-a74474c73cac",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1773962059~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F18%2FWTA_Miami_Open_Presented__20260318_1773867613043%2F~psid=be0eb41f-5356-4dc3-83eb-2a7bfe4aa14d~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=63f358e632e4cc2a3487837f07357182e72f96e53a887be7d682208a763794b4/clt1/va02/disneyplus/event/2026/03/18/WTA_Miami_Open_Presented__20260318_1773867613043/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=c071563e1fc564c8aad00bb7630acef4282e819f",
-    "k1": "b3142ceea1d94fb18848df28ff394376",
-    "k2": "0b5457d0fa7c9df3e11592042e1722d0"
   },
   {
     "title": "Kentucky vs. Houston",
@@ -483,6 +457,16 @@
     "play_url": ""
   },
   {
+    "title": "WTA Miami Open Presented by Itaú / Grandstand",
+    "league": "WTA",
+    "fecha-evento": "2026-03-19T10:00:00-05:00",
+    "img": "31768d1c-2cb3-4cca-88fd-8eff09bac4a9",
+    "nombre": "disneyd2776b",
+    "status": "10:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
     "title": "WTA Miami Open Presented by Itaú / Butch Buchholz",
     "league": "WTA",
     "fecha-evento": "2026-03-19T10:00:00-05:00",
@@ -619,6 +603,16 @@
     "img": "019caedd-b87c-7f3f-a8f7-088b6ab2adfe",
     "nombre": "disney38d2d7",
     "status": "12:40",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Miami Open Presented by Itaú / Butch Buchholz",
+    "league": "ATP",
+    "fecha-evento": "2026-03-19T13:00:00-05:00",
+    "img": "b01a782e-294f-4f84-808e-16a399368f05",
+    "nombre": "disney84ad4b",
+    "status": "13:00",
     "duration": 135,
     "play_url": ""
   }
