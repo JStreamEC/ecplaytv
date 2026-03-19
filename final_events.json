@@ -306,16 +306,6 @@
     "k2": "511266dbeee98cbbe23622f9c81ac9a1"
   },
   {
-    "title": "Real Betis vs. Panathinaikos | 8vos de final, vuelta",
-    "league": "UEFA Europa League",
-    "fecha-evento": "2026-03-19T15:05:00-05:00",
-    "img": "019ce50d-9fb2-7b21-8c58-bf408afd6b15",
-    "nombre": "disneya18b68",
-    "status": "15:05",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Real Betis vs. Panathinaikos",
     "league": "UEFA Europa League",
     "fecha-evento": "2026-03-19T14:40:41-05:00",
@@ -396,12 +386,15 @@
   {
     "title": "WTA Miami Open Presented by Itaú / Court 1",
     "league": "WTA",
-    "fecha-evento": "2026-03-19T15:00:00-05:00",
+    "fecha-evento": "2026-03-19T15:00:02-05:00",
     "img": "2225dcc2-0f1f-4534-a6e3-190737e17951",
-    "nombre": "disneya2221b",
+    "nombre": "disneya55f82",
     "status": "15:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 300,
+    "play_url": "https://www.disneyplus.com/es-es/play/5a62d9c5-42f0-44ee-bd21-a44cc622b361",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1774038126~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F19%2FWTA_Miami_Open_Presented__20260319_1773943323302%2F~psid=9766ba0b-f30c-418c-bfe9-1510cb7996cc~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=6506924714b4dc0c197469f3b46f23968d315fe8bb36d0162233ea19a2f4aa23/clt1/va02/disneyplus/event/2026/03/19/WTA_Miami_Open_Presented__20260319_1773943323302/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=de24abf572365329f14d3aee7cdf8ed57b668e7c",
+    "k1": "6f74639c7180442084de5fb919a843cf",
+    "k2": "411537c479d37df72a718c53de8b9c62"
   },
   {
     "title": "Haiti vs. Estados Unidos (Ronda Final)",
