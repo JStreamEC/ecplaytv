@@ -13,19 +13,6 @@
     "k2": "0ca3495950ef7506b07bcd5764ba5094"
   },
   {
-    "title": "Premier Padel: Cancún - Secondary Court (Octavos de Final)",
-    "league": "Premier Padel",
-    "fecha-evento": "2026-03-19T08:59:50-05:00",
-    "img": "019c91d7-687a-7f94-9d6e-3969613bb6fa",
-    "nombre": "disney62b920",
-    "status": "08:59",
-    "duration": 145,
-    "play_url": "https://www.disneyplus.com/es-es/play/2b9e0eac-c0d2-49c3-a18d-668c26fb59ce",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1774023685~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F19%2FPremier_Padel_Cancn_Secon_20260319_1773921658026%2F~psid=ea4c8ae0-b092-4986-93aa-48d1131223d8~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=a10a558d246e1e5692ddade705cbf3a331ebb3790f3121dec17b6489046831d9/clt1/va02/disneyplus/event/2026/03/19/Premier_Padel_Cancn_Secon_20260319_1773921658026/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=ea055ac024c4cc3c5b56428c664fb1ab55a67711",
-    "k1": "a1d90fac30e3484eb900056f9a575a89",
-    "k2": "136d67cf157b0661886c56c005353d50"
-  },
-  {
     "title": "CUSA Bowling Championship (Segunda & Tercera Vueltas)",
     "league": "NCAA Bolos Masculino",
     "fecha-evento": "2026-03-19T09:00:04-05:00",
@@ -276,12 +263,15 @@
   {
     "title": "NCAA Women's Swimming and Diving Championship (Diving Prelims)",
     "league": "NCAA Natación y Buceo",
-    "fecha-evento": "2026-03-19T11:30:00-05:00",
+    "fecha-evento": "2026-03-19T11:22:15-05:00",
     "img": "cae07512-17c8-4bd0-8e45-536d7e380bf9",
-    "nombre": "disneyc7732e",
-    "status": "11:30",
-    "duration": 135,
-    "play_url": ""
+    "nombre": "disneydfe7ad",
+    "status": "11:22",
+    "duration": 128,
+    "play_url": "https://www.disneyplus.com/es-es/play/1704a8b0-d0b1-4642-9305-93b9214b19dd",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1774024980~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F19%2FNCAA_Womens_Swimming_and__20260319_1773930636038%2F~psid=2d4359cf-4b4b-4679-b553-6c1956f2849c~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=9da0f4b8e3ac3abf76e17e2f7b60748c0c6ee4ebf16ee5ba17b32d7d13cba9f2/clt1/va02/disneyplus/event/2026/03/19/NCAA_Womens_Swimming_and__20260319_1773930636038/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=4f8422b64d521942e7a7452bf4fe9c36fd0ae5e1",
+    "k1": "acb4ef7575f8424ca8f7103c115d63be",
+    "k2": "ad333bbc6cd71c31b9213325f92b246c"
   },
   {
     "title": "Besiktas vs. Kasimpasa",
@@ -494,6 +484,16 @@
     "play_url": ""
   },
   {
+    "title": "Premier Padel: Cancún - Secondary Court (Octavos de Final)",
+    "league": "Premier Padel",
+    "fecha-evento": "2026-03-19T16:00:00-05:00",
+    "img": "019c91d6-612c-7934-a3de-79475021e8fc",
+    "nombre": "disney6aa2a4",
+    "status": "16:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
     "title": "Bermuda vs. Puerto Rico (Ronda Final)",
     "league": "Concacaf Women's Under-17 Championship",
     "fecha-evento": "2026-03-19T16:00:00-05:00",
@@ -629,6 +629,16 @@
     "fecha-evento": "2026-03-19T18:00:00-05:00",
     "img": "019cf199-153d-791f-9a7a-07770f48a8ae",
     "nombre": "disneyb76307",
+    "status": "18:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "New York Islanders vs. Ottawa Senators",
+    "league": "National Hockey League",
+    "fecha-evento": "2026-03-19T18:00:00-05:00",
+    "img": "0019b6b3-54f7-43a4-a3ba-9fd0ac903691",
+    "nombre": "disney3a31bb",
     "status": "18:00",
     "duration": 135,
     "play_url": ""
