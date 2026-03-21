@@ -364,19 +364,6 @@
     "k2": "78c15d00262543374b55e24446fefbdc"
   },
   {
-    "title": "HSBC SVNS2 | Uruguay | En español",
-    "league": "World Rugby Sevens Series",
-    "fecha-evento": "2026-03-21T12:30:00-05:00",
-    "img": "019d02db-9f01-76ea-a4eb-45cc68918b27",
-    "nombre": "disney01fb27",
-    "status": "12:30",
-    "duration": 70,
-    "play_url": "https://www.disneyplus.com/es-es/play/bf5c2f02-b8cd-40d7-8b67-68116da3c213",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1774201364~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F21%2FHSBC_SVNS2_Uruguay_En_esp_20260321_1774107022028%2F~psid=2d0ea971-8e7b-4a54-a25d-4da2c070976d~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=660e70a207bdb4cd68ef0e0ad69c88401e2ca6c06b9692e7d3bd4948461770f2/clt1/va02/disneyplus/event/2026/03/21/HSBC_SVNS2_Uruguay_En_esp_20260321_1774107022028/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=f5dc12710a63599189d8c46206b7da96db260872",
-    "k1": "fd0cb6b738134113b6bbfa9988b7adb8",
-    "k2": "118c24b4e7bfb7a320ea1289f32a16fb"
-  },
-  {
     "title": "Auxerre vs. Brest",
     "league": "Ligue 1",
     "fecha-evento": "2026-03-21T12:50:00-05:00",
@@ -522,12 +509,15 @@
   {
     "title": "Montevideo Wanderers vs. Danubio",
     "league": "Campeonato Uruguayo",
-    "fecha-evento": "2026-03-21T13:30:00-05:00",
+    "fecha-evento": "2026-03-21T13:30:03-05:00",
     "img": "019ce953-202c-74aa-b696-007caa6b7bec",
-    "nombre": "disney44ac97",
+    "nombre": "disneyb530c5",
     "status": "13:30",
-    "duration": 135,
-    "play_url": ""
+    "duration": 180,
+    "play_url": "https://www.disneyplus.com/es-es/play/a8e8f77a-6440-42ff-948b-581879697c45",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1774204842~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F21%2FMontevideo_Wanderers_vs_D_20260321_1774110600041%2F~psid=48a83240-933d-4396-b147-f3790d561a18~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=1fd80c191bbeccc7df048f269c140b042f9350b7a54e014d963c7851d92d89c7/clt1/va02/disneyplus/event/2026/03/21/Montevideo_Wanderers_vs_D_20260321_1774110600041/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=6fda8ca41b7491ab4cbb3c3576261495e3a2f5e7",
+    "k1": "b9ac517e8c4b4df8852ee45c65ec04af",
+    "k2": "657ed8d5c2897c62078c8da1fdcbbb84"
   },
   {
     "title": "NCAA Tournament Whip Around Coverage (Segunda Ronda)",
@@ -536,6 +526,19 @@
     "img": "ca493365-e964-4d57-a55f-8b23f9a023f1",
     "nombre": "disneycc81a2",
     "status": "13:30",
+    "duration": 150,
+    "play_url": "https://www.disneyplus.com/es-es/play/edbad6ad-8e94-45e6-b46a-785f87f49a32",
+    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1774204889~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F47873700-1b85-4497-8f84-d6f321fbb196-1773079291559%2F~psid=61c2ac91-5cf2-434e-8a9e-a70a4acb5c09~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=51622e32a1ac0018d883acc75316490c6e4a91c5eb177c191b3c8f07b3626baa/clt1/va02/disneyplus/channel/47873700-1b85-4497-8f84-d6f321fbb196-1773079291559/ctr-all-sliding-alt1.m3u8?r=1080&v=1&hash=12a14cf081eb56a5a31109bbe189482b0093cf0f",
+    "k1": "3dfb69e53057447dbbfb5c9115457d61",
+    "k2": "804770618eb8339a12fb501a67a82eae"
+  },
+  {
+    "title": "Dartmouth vs. Pennsylvania",
+    "league": "NCAA Softball",
+    "fecha-evento": "2026-03-21T13:40:00-05:00",
+    "img": "fe238dc9-310d-4e85-ad88-6eb0d8c42428",
+    "nombre": "disneyd47729",
+    "status": "13:40",
     "duration": 135,
     "play_url": ""
   },
@@ -585,16 +588,6 @@
     "fecha-evento": "2026-03-21T14:00:00-05:00",
     "img": "019b66dd-d588-79c8-9158-2c87d8140732",
     "nombre": "disneybee66f",
-    "status": "14:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Dartmouth vs. Pennsylvania",
-    "league": "NCAA Softball",
-    "fecha-evento": "2026-03-21T14:00:00-05:00",
-    "img": "fe238dc9-310d-4e85-ad88-6eb0d8c42428",
-    "nombre": "disney4031f3",
     "status": "14:00",
     "duration": 135,
     "play_url": ""
@@ -736,6 +729,26 @@
     "img": "6599bc15-70a9-4d6e-913e-04b94be58edf",
     "nombre": "disney13aafa",
     "status": "15:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "HSBC SVNS2 | Uruguay | En español",
+    "league": "World Rugby Sevens Series",
+    "fecha-evento": "2026-03-21T15:20:00-05:00",
+    "img": "019d02ae-beaa-7406-b928-5c96e483b5d0",
+    "nombre": "disney6ea656",
+    "status": "15:20",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Newell's Old Boys vs. Gimnasia y Esgrima (MZA)",
+    "league": "Liga Profesional de Fútbol",
+    "fecha-evento": "2026-03-21T15:30:00-05:00",
+    "img": "019cbf9e-3c1e-7929-a15c-bbf9dd4c7576",
+    "nombre": "disneyaf58bc",
+    "status": "15:30",
     "duration": 135,
     "play_url": ""
   }
