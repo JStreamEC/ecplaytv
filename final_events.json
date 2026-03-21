@@ -13,32 +13,6 @@
     "k2": "ec313a8bf79decaf5180923727f5f7b0"
   },
   {
-    "title": "Racing vs. Liverpool FC",
-    "league": "Campeonato Uruguayo",
-    "fecha-evento": "2026-03-21T07:30:02-05:00",
-    "img": "019ce950-86f2-74eb-959f-da415f1f290c",
-    "nombre": "disneya9d80e",
-    "status": "07:30",
-    "duration": 180,
-    "play_url": "https://www.disneyplus.com/es-es/play/5938c399-3d58-4870-9a02-34c767e587ea",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1774189956~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F21%2FRacing_vs_Liverpool_FC_20260321_1774089044036%2F~psid=a1f3b265-383d-4d94-88cc-dba1764c4bf0~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=b2992725ebfe9e6bc5e05eea3958962cc7a222746e7568578fd9b08d5a2f0c33/clt1/va02/disneyplus/event/2026/03/21/Racing_vs_Liverpool_FC_20260321_1774089044036/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=361916a76fc8839b8b93a6d3bcce7226ae824b2f",
-    "k1": "1e87437d0be442268bafed1a4d39de78",
-    "k2": "95bb38b5e9f36f55c3dd763a93678d08"
-  },
-  {
-    "title": "Clermont vs. Montpellier",
-    "league": "Top 14",
-    "fecha-evento": "2026-03-21T08:25:02-05:00",
-    "img": "019bd2bc-b48e-7235-8bd1-dbb32969b781",
-    "nombre": "disney66d8ba",
-    "status": "08:25",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/d52ea961-0729-4c97-a6ea-0212813a706e",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1774190035~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F21%2FClermont_vs_Montpellier_20260321_1774092343026%2F~psid=0d9bc255-617e-4923-aa5c-ef55435309fc~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=da9231e1cfcc20bc0ce8ac65fdbbcdffcce16e1fc59cc310e827871d17e3003c/clt1/va02/disneyplus/event/2026/03/21/Clermont_vs_Montpellier_20260321_1774092343026/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=ab0dcd83f3ac3ca08093c7a868f7ffaf5d3d9d91",
-    "k1": "5321ad719dfd45959975bdda0cac32e1",
-    "k2": "c067e6579383990b70f755187d9e6110"
-  },
-  {
     "title": "Parma vs. Cremonese",
     "league": "Seria A",
     "fecha-evento": "2026-03-21T08:50:02-05:00",
@@ -702,6 +676,26 @@
     "fecha-evento": "2026-03-21T14:00:00-05:00",
     "img": "019bf7b6-74aa-72df-b712-66ab8cb62664",
     "nombre": "disney195fc2",
+    "status": "14:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Houston vs. Kansas",
+    "league": "NCAA Beisbol",
+    "fecha-evento": "2026-03-21T14:00:00-05:00",
+    "img": "019c59ad-34db-746d-a46c-2fbe8a8fea28",
+    "nombre": "disneyeb44d6",
+    "status": "14:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Harvard vs. Columbia",
+    "league": "NCAA Beisbol",
+    "fecha-evento": "2026-03-21T14:00:00-05:00",
+    "img": "019b66dd-d588-79c8-9158-2c87d8140732",
+    "nombre": "disneybee66f",
     "status": "14:00",
     "duration": 135,
     "play_url": ""
