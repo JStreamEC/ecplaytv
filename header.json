@@ -217,6 +217,17 @@
       }
     },
     {
+      "domain": "cdn.broadpeak.io",
+      "headers": {
+        "Referer": "https://shplus.240025.xyz/",
+        "Origin": "https://shplus.240025.xyz",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, PUT, OPTIONS, HEAD, DELETE, PATCH",
+        "Access-Control-Allow-Headers": "Origin, Content-Type, Accept, date"
+      }
+    },
+    {
       "domain": "max.com",
       "headers": {
         "Referer": "https://play.max.com/",
