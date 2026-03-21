@@ -26,19 +26,6 @@
     "k2": "c0ab54d350697ce1834cd2ba9844a6aa"
   },
   {
-    "title": "Ipswich Town vs. Millwall",
-    "league": "Championship de Inglaterra",
-    "fecha-evento": "2026-03-21T07:22:06-05:00",
-    "img": "019cd637-cd95-70cc-968d-5b8b3a5a68eb",
-    "nombre": "disney9d5ad1",
-    "status": "07:22",
-    "duration": 133,
-    "play_url": "https://www.disneyplus.com/es-es/play/afddf7df-366a-4045-bf73-ff429078cdb0",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1774189930~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F21%2FIpswich_Town_vs_Millwall_20260321_1774088430051%2F~psid=a3434605-2e98-48f1-a5a2-d5af79ab7c47~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=8d3b4c734a82da483059c00419af940621d8bc0b91ab9c1c412b919c93621d79/clt1/va02/disneyplus/event/2026/03/21/Ipswich_Town_vs_Millwall_20260321_1774088430051/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=9a35ebe6fc1fbc9ab13b531193cbc8d8417cc503",
-    "k1": "015cb9a33ceb480cbe058b4d170a1c95",
-    "k2": "48f9f2af17f4053bc3aa30c0f4004956"
-  },
-  {
     "title": "Racing vs. Liverpool FC",
     "league": "Campeonato Uruguayo",
     "fecha-evento": "2026-03-21T07:30:02-05:00",
@@ -667,6 +654,16 @@
     "img": "019cf795-05de-7c06-8a55-9c5446f452d8",
     "nombre": "disney99cb8a",
     "status": "13:10",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Montevideo Wanderers vs. Danubio",
+    "league": "Campeonato Uruguayo",
+    "fecha-evento": "2026-03-21T13:30:00-05:00",
+    "img": "019ce953-202c-74aa-b696-007caa6b7bec",
+    "nombre": "disney44ac97",
+    "status": "13:30",
     "duration": 135,
     "play_url": ""
   }
