@@ -26,19 +26,6 @@
     "k2": "00295c2b96a171b131a38f5ddb4819b1"
   },
   {
-    "title": "Brighton & Hove Albion vs. Liverpool",
-    "league": "English Women's Super League",
-    "fecha-evento": "2026-03-22T06:50:13-05:00",
-    "img": "019cde8d-5e03-74d5-92d9-5b4795f88ea9",
-    "nombre": "disney01abd0",
-    "status": "06:50",
-    "duration": 135,
-    "play_url": "https://www.disneyplus.com/es-es/play/eac937a9-9743-428e-a831-921d26f0035a",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1774274531~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F22%2FBrighton_Hove_Albion_vs_L_20260322_1774173320023%2F~psid=c38cebd5-5ec4-44f2-ba35-c3130392a5b4~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=65ff40bcaca4bc48e7dd8473cddb512057072323553618b3ce5e777b2db7d22d/clt1/va02/disneyplus/event/2026/03/22/Brighton_Hove_Albion_vs_L_20260322_1774173320023/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=b7cbabb44a227c0c5b3d104881f71175483509de",
-    "k1": "a05bc5dd14e147af9171b70079fc5eed",
-    "k2": "302ace777079743bb88cae1fd842ee72"
-  },
-  {
     "title": "Fortuna Dusseldorf vs. Hertha Bsc",
     "league": "Bundesliga 2 de Alemania",
     "fecha-evento": "2026-03-22T07:20:01-05:00",
@@ -184,12 +171,15 @@
   {
     "title": "Aston Villa vs. West Ham United",
     "league": "Premier League",
-    "fecha-evento": "2026-03-22T09:00:00-05:00",
+    "fecha-evento": "2026-03-22T09:04:36-05:00",
     "img": "019cdf59-3c53-7823-9b6b-7145ff75bdf5",
-    "nombre": "disney86f649",
-    "status": "09:00",
-    "duration": 135,
-    "play_url": ""
+    "nombre": "disney7bd422",
+    "status": "09:04",
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/15ee4d78-8e45-484e-a886-9bc7a54506da",
+    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1774275634~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F921e1311-bb26-43dd-84a6-9e2284959712-1773070527132%2F~psid=ec6dbf03-d1e1-415d-805d-f5ee5a42bbef~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=551568fb020b3d1fa9b9ab9923193968cbab5343123c1fffb88a5226b7084ce7/clt1/va02/disneyplus/channel/921e1311-bb26-43dd-84a6-9e2284959712-1773070527132/ctr-all-sliding-alt1.m3u8?r=1080&v=1&hash=82b614d9e6d93224b1eaa1442cd6e5c07d9789e9",
+    "k1": "1ea284d20fe848e1851cfcae136c5817",
+    "k2": "00295c2b96a171b131a38f5ddb4819b1"
   },
   {
     "title": "Mainz 05 vs. Eintracht Frankfurt",
@@ -304,10 +294,10 @@
   {
     "title": "Jelena Ostapenko (LAT) vs. Jasmine Paolini (ITA)",
     "league": "ATP",
-    "fecha-evento": "2026-03-22T16:45:00-05:00",
+    "fecha-evento": "2026-03-22T10:00:00-05:00",
     "img": "019d1557-391e-72cb-80c0-a7000ebb621b",
-    "nombre": "disney4f33e9",
-    "status": "16:45",
+    "nombre": "disney16ad1a",
+    "status": "10:00",
     "duration": 135,
     "play_url": ""
   },
@@ -668,6 +658,16 @@
     "img": "019cd33d-b83d-7915-86a0-39e852f6553e",
     "nombre": "disney955fff",
     "status": "13:20",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Carolina Hurricanes vs. Pittsburgh Penguins",
+    "league": "National Hockey League",
+    "fecha-evento": "2026-03-22T14:00:00-05:00",
+    "img": "019b6610-6d15-7fab-aefc-cbc31c424ca9",
+    "nombre": "disney91816f",
+    "status": "14:00",
     "duration": 135,
     "play_url": ""
   }
