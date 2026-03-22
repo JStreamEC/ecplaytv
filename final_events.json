@@ -286,16 +286,6 @@
     "k2": "07171e5159e86a1c05f662a248ab41ab"
   },
   {
-    "title": "Oriental vs. Colón FC",
-    "league": "Segunda División de Uruguay",
-    "fecha-evento": "2026-03-22T18:30:00-05:00",
-    "img": "f3e06392-d6cc-4bb5-948f-89888a9e61bb",
-    "nombre": "disneya6e71b",
-    "status": "18:30",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Tampa Bay Lightning vs. Calgary Flames",
     "league": "National Hockey League",
     "fecha-evento": "2026-03-22T19:00:00-05:00",
@@ -304,6 +294,19 @@
     "status": "19:00",
     "duration": 135,
     "play_url": ""
+  },
+  {
+    "title": "Oriental vs. Colón FC",
+    "league": "Segunda División de Uruguay",
+    "fecha-evento": "2026-03-22T18:30:03-05:00",
+    "img": "f3e06392-d6cc-4bb5-948f-89888a9e61bb",
+    "nombre": "disney345475",
+    "status": "18:30",
+    "duration": 180,
+    "play_url": "https://www.disneyplus.com/es-es/play/988bd0bc-3211-487d-8674-1cb73c61fa18",
+    "url": "https://live-akc-na-east-1.media.dssott.com/dvt2=exp=1774309237~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F22%2FOriental_vs_Coln_FC_20260322_1774215036034%2F~psid=725e7500-5fcb-440c-b8af-0e47f336c336~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=6cb6f6525b61385f18c57a5e090b5dacd4bf299c85ab27c96763e37937d9c06d/clt1/va02/disneyplus/event/2026/03/22/Oriental_vs_Coln_FC_20260322_1774215036034/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=3e1dd13643be686808e459496a2d86d205534223",
+    "k1": "b15918d58b6a428ab0208ac356d6c14e",
+    "k2": "de9a211006894900e1e8075d7b1ac3c9"
   },
   {
     "title": "Buffalo Sabres vs. Anaheim Ducks",
