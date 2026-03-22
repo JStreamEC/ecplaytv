@@ -26,19 +26,6 @@
     "k2": "e2377702601444a8ab9da2fbd1d4a9b2"
   },
   {
-    "title": "Mainz 05 vs. Eintracht Frankfurt",
-    "league": "Bundesliga",
-    "fecha-evento": "2026-03-22T09:20:00-05:00",
-    "img": "019cd33a-3d75-7eb2-9b2b-274abf981bda",
-    "nombre": "disney5989f9",
-    "status": "09:20",
-    "duration": 125,
-    "play_url": "https://www.disneyplus.com/es-es/play/a98e1526-ba3e-45ec-8955-ab37b33fb489",
-    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1774276836~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Ff25bdf06-81c9-4a7c-b128-3128d610ad17-1773077912071%2F~psid=8468a2c2-6c36-42a0-8599-a1903d12e1ca~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=f412afd0519e17f9f573eaa9b75d69ab4d8aafaf95534acf7c8419038f20f5eb/clt1/va02/disneyplus/channel/f25bdf06-81c9-4a7c-b128-3128d610ad17-1773077912071/ctr-all-sliding-alt1.m3u8?r=1080&v=1&hash=0c2b71604727acc65d3c37c7e6528ec8e2f304bb",
-    "k1": "204747ad6f8e431a9757e973a726ed17",
-    "k2": "796fd8ee862b1e3b8b52bd41deb03752"
-  },
-  {
     "title": "Leicester City vs. Aston Villa",
     "league": "English Women's Super League",
     "fecha-evento": "2026-03-22T09:35:21-05:00",
@@ -364,19 +351,6 @@
     "k2": "dc5e0d6dbe4a269d205a0fee0c7b66f8"
   },
   {
-    "title": "Colorado Avalanche vs. Washington Capitals",
-    "league": "National Hockey League",
-    "fecha-evento": "2026-03-22T11:00:16-05:00",
-    "img": "019cf2ce-a90c-7b04-824a-33fe54731266",
-    "nombre": "disneyf19bfd",
-    "status": "11:00",
-    "duration": 240,
-    "play_url": "https://www.disneyplus.com/es-es/play/8f03e1a6-d921-4c48-b567-acb5a5532001",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1774283079~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F22%2FColorado_Avalanche_vs_Was_20260322_1774189828048%2F~psid=3e98bcd0-2721-40fe-a068-430b610e5967~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=5a160181f074da89a2f06498e754d5e4e9fb9c65b61ad794ec79f1be2b6e9d13/clt1/va02/disneyplus/event/2026/03/22/Colorado_Avalanche_vs_Was_20260322_1774189828048/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=128a1b516ad526315f6578c34af29508b3fc96ee",
-    "k1": "0d9cf7f8bada47b8836edb7b6ab86f62",
-    "k2": "095170448d435fad6d2e407a05ac96d1"
-  },
-  {
     "title": "Winnipeg Jets vs. New York Rangers",
     "league": "National Hockey League",
     "fecha-evento": "2026-03-22T11:00:23-05:00",
@@ -409,8 +383,24 @@
     "img": "019cd33d-d3b2-77b7-ada9-42947e5d385f",
     "nombre": "disney79c1d4",
     "status": "11:25",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/bd09e530-b45c-4d3f-a191-eee57fac5bad",
+    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1774284034~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F7f9052ce-8143-43a6-9656-a8c00c4a3e56-1773071039106%2F~psid=19104567-0118-4b3f-8aed-74f20caac945~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=de747d0388b2b03689faee4f04caeb556a14c2a804ce9cabb7aec9776f587251/clt1/va02/disneyplus/channel/7f9052ce-8143-43a6-9656-a8c00c4a3e56-1773071039106/ctr-all-sliding-alt1.m3u8?r=1080&v=1&hash=f812b48fe160a3315a44f389d7be5df9e6792e5f",
+    "k1": "52fd568c297149d5961f70110b7d0a23",
+    "k2": "3e5ad3c20631b19db9ed4e093a2f4c2e"
+  },
+  {
+    "title": "Colorado Avalanche vs. Washington Capitals",
+    "league": "National Hockey League",
+    "fecha-evento": "2026-03-22T11:00:16-05:00",
+    "img": "019cf2ce-a90c-7b04-824a-33fe54731266",
+    "nombre": "disneyf19bfd",
+    "status": "11:00",
+    "duration": 240,
+    "play_url": "https://www.disneyplus.com/es-es/play/8f03e1a6-d921-4c48-b567-acb5a5532001",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1774283079~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F22%2FColorado_Avalanche_vs_Was_20260322_1774189828048%2F~psid=3e98bcd0-2721-40fe-a068-430b610e5967~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=5a160181f074da89a2f06498e754d5e4e9fb9c65b61ad794ec79f1be2b6e9d13/clt1/va02/disneyplus/event/2026/03/22/Colorado_Avalanche_vs_Was_20260322_1774189828048/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=128a1b516ad526315f6578c34af29508b3fc96ee",
+    "k1": "0d9cf7f8bada47b8836edb7b6ab86f62",
+    "k2": "095170448d435fad6d2e407a05ac96d1"
   },
   {
     "title": "Fénix vs. La Luz",
@@ -719,6 +709,16 @@
     "img": "019b6975-0089-7412-a0fa-bea8e30b997c",
     "nombre": "disney7bafd9",
     "status": "15:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Estudiantes de Río Cuarto vs. River Plate",
+    "league": "Liga Profesional de Fútbol",
+    "fecha-evento": "2026-03-22T15:30:00-05:00",
+    "img": "019cfd73-e878-7540-af98-55aa3db794ce",
+    "nombre": "disneye97770",
+    "status": "15:30",
     "duration": 135,
     "play_url": ""
   }
