@@ -218,19 +218,6 @@
     "k2": "2b1d008c162bac3d060cd8a3eff29f9d"
   },
   {
-    "title": "GEC Championship",
-    "league": "NCAA Gimnasia Femenina",
-    "fecha-evento": "2026-03-21T16:00:00-05:00",
-    "img": "381bc42f-b4a0-467e-bf87-b6394f8b4927",
-    "nombre": "disneya0e0a5",
-    "status": "16:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/bffcf463-8d51-45dd-91ad-b25131484224",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1774218195~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F21%2FGEC_Championship_20260321_1774119601027%2F~psid=b5e32794-3f03-4dfb-97e7-26adc691b01f~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=9e94eda4216682c8702ba37b9fc5d9504f64f858a1c5bc7e597e344a330b723c/clt1/va02/disneyplus/event/2026/03/21/GEC_Championship_20260321_1774119601027/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=584b77920c395b3e6515616f16b0a2fc14b476ef",
-    "k1": "dec31ea0fa8649119f98a24fc75028a8",
-    "k2": "61df2883fcfd9eb52785784a933bab7b"
-  },
-  {
     "title": "Seattle Kraken vs. Columbus Blue Jackets",
     "league": "National Hockey League",
     "fecha-evento": "2026-03-21T16:00:23-05:00",
@@ -387,8 +374,11 @@
     "img": "019cfbcb-5f78-7c78-b1ba-66cfbc1d3c8d",
     "nombre": "disney65224c",
     "status": "19:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 210,
+    "play_url": "https://www.disneyplus.com/es-es/play/e44dbe46-1149-4383-9e02-6e6f645df547",
+    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1774224090~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F921e1311-bb26-43dd-84a6-9e2284959712-1773070527132%2F~psid=bb914578-ade5-4eec-91ba-65ed187dec67~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=1b6139e43ba3a810e48fd6b42f28540f631e33cd9d2e986de6f616b3cdc0013c/clt1/va02/disneyplus/channel/921e1311-bb26-43dd-84a6-9e2284959712-1773070527132/ctr-all-sliding-alt1.m3u8?r=1080&v=1&hash=82b614d9e6d93224b1eaa1442cd6e5c07d9789e9",
+    "k1": "326ad708fa5d43e18b48b414229e1fa1",
+    "k2": "c0ab54d350697ce1834cd2ba9844a6aa"
   },
   {
     "title": "Boston Bruins vs. Detroit Red Wings",
@@ -686,6 +676,16 @@
     "fecha-evento": "2026-03-22T10:00:00-05:00",
     "img": "48a3dd5a-ad31-4163-b114-dcd459e7c975",
     "nombre": "disney277901",
+    "status": "10:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Miami Open Presented by Itaú (Tercera Ronda)",
+    "league": "ATP",
+    "fecha-evento": "2026-03-22T10:00:00-05:00",
+    "img": "019cd917-a632-7ba3-b477-0d8431a61d97",
+    "nombre": "disneyeea352",
     "status": "10:00",
     "duration": 135,
     "play_url": ""
