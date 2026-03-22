@@ -195,45 +195,6 @@
     "k2": "779ade02b7de7bfa327b8e6c1cfd4789"
   },
   {
-    "title": "Olympique Marseille vs. Lille",
-    "league": "Ligue 1",
-    "fecha-evento": "2026-03-22T11:00:02-05:00",
-    "img": "019cdf53-817e-7888-89d5-06e4e9b429f8",
-    "nombre": "disney615fbd",
-    "status": "11:00",
-    "duration": 135,
-    "play_url": "https://www.disneyplus.com/es-es/play/9928f799-61bc-47be-8a2b-9021f81473ac",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1774282976~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F22%2FOlympique_Marseille_vs_Li_20260322_1774188017017%2F~psid=ab3c89f4-41b6-409f-b360-b6020ecf1a4e~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=4ff24e4687ecafc0e139b8ec8216d1a980f57ca450ca006c0613315b0e1f82bd/clt1/va02/disneyplus/event/2026/03/22/Olympique_Marseille_vs_Li_20260322_1774188017017/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=c7ae41f4f0248816be047a43c30be3143d679b7d",
-    "k1": "e649108a9a604eadbb8e189e147c3ff8",
-    "k2": "409f8629b5c736e5fab20e913d6f7d6b"
-  },
-  {
-    "title": "Paris FC vs. Le Havre AC",
-    "league": "Ligue 1",
-    "fecha-evento": "2026-03-22T11:00:10-05:00",
-    "img": "019cd79c-0751-718a-afc1-a5fb66eb902b",
-    "nombre": "disney2f306c",
-    "status": "11:00",
-    "duration": 135,
-    "play_url": "https://www.disneyplus.com/es-es/play/b1f1879c-a92b-478b-9562-d56aaa70ce88",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1774283028~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F22%2FParis_FC_vs_Le_Havre_AC_20260322_1774188004030%2F~psid=e068e9e8-dcf4-4a37-bb2c-921e7579e73c~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=aaebbb7421c5ddb036bd3f903288d02846c1b97e73a50e0d8e065c19aef0a773/clt1/va02/disneyplus/event/2026/03/22/Paris_FC_vs_Le_Havre_AC_20260322_1774188004030/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=6f3ca3670d3e97f2851a78fb8bebe87be38da71a",
-    "k1": "9284280a44714956b853e2fc8f2f5e52",
-    "k2": "5962ad67fb9909250ac93bd2770a571b"
-  },
-  {
-    "title": "Rennes vs. Metz",
-    "league": "Ligue 1",
-    "fecha-evento": "2026-03-22T11:00:10-05:00",
-    "img": "019cd79e-c385-74cc-b34f-bf16ffedd0db",
-    "nombre": "disney0af9c2",
-    "status": "11:00",
-    "duration": 135,
-    "play_url": "https://www.disneyplus.com/es-es/play/a8cb84a3-190c-42eb-90ed-4de44f949fd3",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1774283053~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F22%2FRennes_vs_Metz_20260322_1774188048255%2F~psid=65aa81e5-5afc-4fe9-81b4-bede8dd09e02~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=88bbdd53e53b817b6319572786afd4f2248c729f59fba8d526de12fa19a61e40/clt1/va02/disneyplus/event/2026/03/22/Rennes_vs_Metz_20260322_1774188048255/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=74acf62e5f139e88afee9db4a7880f51338a568e",
-    "k1": "84c29c1420ca4b62a7ba5e0a564dedee",
-    "k2": "dc5e0d6dbe4a269d205a0fee0c7b66f8"
-  },
-  {
     "title": "Winnipeg Jets vs. New York Rangers",
     "league": "National Hockey League",
     "fecha-evento": "2026-03-22T11:00:23-05:00",
@@ -500,18 +461,21 @@
     "img": "019c9147-5f8b-7afa-9768-fec104a276ba",
     "nombre": "disney44918d",
     "status": "13:20",
-    "duration": 135,
-    "play_url": ""
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/cf84c7dc-686d-42db-af19-1387bac27593"
   },
   {
     "title": "Augsburg vs. Stuttgart",
     "league": "Bundesliga",
-    "fecha-evento": "2026-03-22T13:20:00-05:00",
+    "fecha-evento": "2026-03-22T13:20:44-05:00",
     "img": "019cd33d-b83d-7915-86a0-39e852f6553e",
-    "nombre": "disney955fff",
+    "nombre": "disneyeced41",
     "status": "13:20",
-    "duration": 135,
-    "play_url": ""
+    "duration": 129,
+    "play_url": "https://www.disneyplus.com/es-es/play/e764d130-d13a-41c3-b8d2-6d076edbcfc1",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1774291280~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F22%2FAugsburg_vs_Stuttgart_20260322_1774196428040%2F~psid=b78badb0-2846-42ad-bf5d-db6fa1987f2d~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=b828fa264a44c16e6a6e3f9c82c0c111c648cbaab57bddfc9af7dad70b32a95f/clt1/va02/disneyplus/event/2026/03/22/Augsburg_vs_Stuttgart_20260322_1774196428040/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=b4dc7c9fdc9d3340c9d59b430585780a4bbc336f",
+    "k1": "91bf0ff6d8524bb1a1532745ebbc05af",
+    "k2": "6182801a5b5ed8477ee566be96eb6a3b"
   },
   {
     "title": "Carolina Hurricanes vs. Pittsburgh Penguins",
@@ -530,8 +494,18 @@
     "img": "019cc3eb-6c0b-7483-bf01-711a83e0bd6b",
     "nombre": "disney99ae46",
     "status": "13:30",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/77ac590d-c449-4596-a657-bef4c20a9fa5"
+  },
+  {
+    "title": "Progreso vs. Boston River",
+    "league": "Campeonato Uruguayo",
+    "fecha-evento": "2026-03-22T13:30:00-05:00",
+    "img": "ee7ef526-aad8-4c04-ac68-d901acaa11bb",
+    "nombre": "disneyfe02eb",
+    "status": "13:30",
+    "duration": 180,
+    "play_url": "https://www.disneyplus.com/es-es/play/ab12bfc5-57a9-4d8c-bc55-95c2d536c4b7"
   },
   {
     "title": "Nashville Predators vs. Chicago Blackhawks",
@@ -544,41 +518,37 @@
     "play_url": ""
   },
   {
-    "title": "Progreso vs. Boston River",
-    "league": "Campeonato Uruguayo",
-    "fecha-evento": "2026-03-22T13:30:00-05:00",
-    "img": "ee7ef526-aad8-4c04-ac68-d901acaa11bb",
-    "nombre": "disneyfe02eb",
-    "status": "13:30",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Canadá vs. El Salvador (Ronda Final)",
     "league": "Concacaf Women's Under-17 Championship",
-    "fecha-evento": "2026-03-22T13:30:00-05:00",
+    "fecha-evento": "2026-03-22T13:30:24-05:00",
     "img": "019cbf97-f279-7a36-a604-28ac0962de4f",
-    "nombre": "disney0345ba",
+    "nombre": "disney98c817",
     "status": "13:30",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/ea40f848-4e90-43d3-9149-22cc3fa398bf",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1774291378~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F22%2FCanada_vs_El_Salvador_Fin_20260322_1774197011018%2F~psid=e3163a6c-7c83-46cc-8b6b-2acc7bb15581~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=de5d6cf2f59eb27efe4e41fa067b5e6cd86bed2df945ccb5c31edcde33744ba2/clt1/va02/disneyplus/event/2026/03/22/Canada_vs_El_Salvador_Fin_20260322_1774197011018/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=43e851c3df722ae7364297c3167fd778d4a1890a",
+    "k1": "1c0c8e3639864a8c9fb49af37bca1107",
+    "k2": "cf288966660c1bd090304534123b4ed0"
   },
   {
     "title": "NCAA Tournament Whip Around Coverage (Segunda Ronda)",
     "league": "Básquetbol masculino NCAA",
-    "fecha-evento": "2026-03-22T13:30:00-05:00",
+    "fecha-evento": "2026-03-22T13:33:00-05:00",
     "img": "019ce240-5632-7f03-8523-53082da477bd",
-    "nombre": "disneyd8ee8f",
-    "status": "13:30",
-    "duration": 135,
-    "play_url": ""
+    "nombre": "disney917ce7",
+    "status": "13:33",
+    "duration": 147,
+    "play_url": "https://www.disneyplus.com/es-es/play/7838f018-89c5-4332-b991-90c7d75f9393",
+    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1774291404~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F47873700-1b85-4497-8f84-d6f321fbb196-1773079291559%2F~psid=8702ca22-31e1-4cb1-b298-54f84027ac5e~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=351ab33128d747cac4af7c8e24668aafa169411b8e315fe61de07a31c1ea3b04/clt1/va02/disneyplus/channel/47873700-1b85-4497-8f84-d6f321fbb196-1773079291559/ctr-all-sliding-alt1.m3u8?r=1080&v=1&hash=12a14cf081eb56a5a31109bbe189482b0093cf0f",
+    "k1": "212ca092667c43ec94d54925cfe051a6",
+    "k2": "b9cb6ced490d37a7f570572d44703a44"
   },
   {
     "title": "Real Madrid vs. Atlético de Madrid",
-    "league": "La Liga",
+    "league": "LALIGA",
     "fecha-evento": "2026-03-22T14:45:00-05:00",
     "img": "019d0c22-52fe-7420-95e8-d7a1f1c3aa92",
-    "nombre": "disney2db932",
+    "nombre": "disney9b0506",
     "status": "14:45",
     "duration": 135,
     "play_url": ""
@@ -720,6 +690,36 @@
     "img": "019c919a-d579-7b7e-9414-154032519cdb",
     "nombre": "disneydfb7bc",
     "status": "17:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "WTA Miami Open Presented by Itaú / Butch Buchholz (Doubles)",
+    "league": "WTA",
+    "fecha-evento": "2026-03-22T17:00:00-05:00",
+    "img": "b01a782e-294f-4f84-808e-16a399368f05",
+    "nombre": "disney10ea8a",
+    "status": "17:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "NCAA Women's Hockey Championship Trophy Presentation",
+    "league": "NCAA Women's Hockey",
+    "fecha-evento": "2026-03-22T17:30:00-05:00",
+    "img": "38bd91af-7004-4164-a4d7-eb2155bd03c4",
+    "nombre": "disneycdfeb8",
+    "status": "17:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Rice vs. Kansas (Segunda Ronda)",
+    "league": "Básquetbol femenino NCAA",
+    "fecha-evento": "2026-03-22T17:30:00-05:00",
+    "img": "019d0c91-4643-7d35-92b7-daf2fe985e98",
+    "nombre": "disney10d526",
+    "status": "17:30",
     "duration": 135,
     "play_url": ""
   }
