@@ -169,45 +169,6 @@
     "k2": "224e1d1f80fd5a81c351e70484ab4a56"
   },
   {
-    "title": "HSBC SVNS2 | Uruguay | Session 2",
-    "league": "World Rugby Sevens Series",
-    "fecha-evento": "2026-03-22T14:50:05-05:00",
-    "img": "019d02b1-5ed8-7431-be47-d545ec7408de",
-    "nombre": "disney13af51",
-    "status": "14:50",
-    "duration": 142,
-    "play_url": "https://www.disneyplus.com/es-es/play/42768c87-c7b3-436d-8e8b-d5ee54294c9a",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1774296081~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F22%2FHSBC_SVNS2_Uruguay_Sessio_20260322_1774201825020%2F~psid=5da88b15-333c-4389-9e1f-048e61303ac1~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=6c19cde030853b3beecd5185c88571363ba2d8dc0425e9abcb571c812a62fa09/clt1/va02/disneyplus/event/2026/03/22/HSBC_SVNS2_Uruguay_Sessio_20260322_1774201825020/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=806e6bb2a589d3a4a25376c9c720a8c16810e1d9",
-    "k1": "17d255ee805c49fc8248caad0a46eaef",
-    "k2": "63dbe2a3fad437a40ae9a90a3a0ca128"
-  },
-  {
-    "title": "Cal State Northridge vs. Cal State Fullerton",
-    "league": "NCAA Beisbol",
-    "fecha-evento": "2026-03-22T15:00:00-05:00",
-    "img": "019b6975-0089-7412-a0fa-bea8e30b997c",
-    "nombre": "disney7bafd9",
-    "status": "15:00",
-    "duration": 180,
-    "play_url": "https://www.disneyplus.com/es-es/play/e4a041a8-138f-4b2d-8573-ffc638939d07",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1774297280~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F22%2FCal_State_Northridge_vs_C_20260322_1774204818646%2F~psid=cda4e1e0-cb52-49bf-a99e-fc8adb81ca05~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=6e4242807afd7ef8eee293c77ea291fd021df6cdbf6d3125fd636f5bacac22ce/clt1/va02/disneyplus/event/2026/03/22/Cal_State_Northridge_vs_C_20260322_1774204818646/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=3e4fd9ee502ffe7e1a7e6fba794f1b5eb449af46",
-    "k1": "3c6114ddf89643fd9232cbb1a9cd5344",
-    "k2": "a88cf989fad04ac0ed4e7f13ed9173e7"
-  },
-  {
-    "title": "Estudiantes de Río Cuarto vs. River Plate",
-    "league": "Liga Profesional de Fútbol",
-    "fecha-evento": "2026-03-22T15:30:00-05:00",
-    "img": "019cfd73-e878-7540-af98-55aa3db794ce",
-    "nombre": "disneye97770",
-    "status": "15:30",
-    "duration": 135,
-    "play_url": "https://www.disneyplus.com/es-es/play/e429ea22-004b-432b-86ba-2dafcd29ec97",
-    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1774300931~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F7f9052ce-8143-43a6-9656-a8c00c4a3e56-1773071039106%2F~psid=fecbcce5-15b9-4a3b-b54b-29b08f4a7292~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=b1b0f3fa9a8e69c3c6ef54685db6e55617872b77a24196749472a2bdf6e71d17/clt1/va02/disneyplus/channel/7f9052ce-8143-43a6-9656-a8c00c4a3e56-1773071039106/ctr-all-sliding-alt1.m3u8?r=1080&v=1&hash=f812b48fe160a3315a44f389d7be5df9e6792e5f",
-    "k1": "52fd568c297149d5961f70110b7d0a23",
-    "k2": "3e5ad3c20631b19db9ed4e093a2f4c2e"
-  },
-  {
     "title": "Panamá vs. Jamaica (Ronda Final)",
     "league": "Concacaf Women's Under-17 Championship",
     "fecha-evento": "2026-03-22T15:50:00-05:00",
@@ -354,8 +315,11 @@
     "img": "019cbf97-e364-7628-b032-4a9ae39ca5c9",
     "nombre": "disney3bd514",
     "status": "17:45",
-    "duration": 135,
-    "play_url": ""
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/c808aee3-5942-4076-8213-5d26cb247700",
+    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1774306215~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F921e1311-bb26-43dd-84a6-9e2284959712-1773070527132%2F~psid=e7bf82dc-9739-4423-bf1b-6d89c8f86a05~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=f49e2a112c6be7c5400db336de8daad7fdffb403fe25fffcbea84a7b3bda3a08/clt1/va02/disneyplus/channel/921e1311-bb26-43dd-84a6-9e2284959712-1773070527132/ctr-all-sliding-alt1.m3u8?r=1080&v=1&hash=82b614d9e6d93224b1eaa1442cd6e5c07d9789e9",
+    "k1": "1ea284d20fe848e1851cfcae136c5817",
+    "k2": "00295c2b96a171b131a38f5ddb4819b1"
   },
   {
     "title": "Atlético de San Luis vs. Tigres UANL (Jornada 13)",
@@ -564,6 +528,26 @@
     "img": "019cb5ee-85ed-7dd4-8f21-b2a733d91bcd",
     "nombre": "disney3b03a9",
     "status": "09:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "WTA Miami Open Presented by Itaú / Butch Buchholz (Doubles Quarterfinals)",
+    "league": "WTA",
+    "fecha-evento": "2026-03-24T10:00:00-05:00",
+    "img": "b01a782e-294f-4f84-808e-16a399368f05",
+    "nombre": "disneye561e9",
+    "status": "10:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Miami Open Presented by Itaú (Octavos de final)",
+    "league": "ATP",
+    "fecha-evento": "2026-03-24T10:00:00-05:00",
+    "img": "019cd918-b549-70b9-bb21-33a2921aa1f1",
+    "nombre": "disneyca002a",
+    "status": "10:00",
     "duration": 135,
     "play_url": ""
   }
