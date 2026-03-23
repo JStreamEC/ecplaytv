@@ -93,12 +93,15 @@
   {
     "title": "NCAA Tournament Whip Around Coverage (Segunda Ronda)",
     "league": "Básquetbol masculino NCAA",
-    "fecha-evento": "2026-03-22T20:30:00-05:00",
+    "fecha-evento": "2026-03-22T20:38:00-05:00",
     "img": "019ce240-5632-7f03-8523-53082da477bd",
-    "nombre": "disneye5d985",
-    "status": "20:30",
-    "duration": 135,
-    "play_url": ""
+    "nombre": "disneyafe78b",
+    "status": "20:38",
+    "duration": 142,
+    "play_url": "https://www.disneyplus.com/es-es/play/4bb742ba-2141-40f3-8a16-8dd3dcae4446",
+    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1774316438~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Fec26a05e-a9cc-4db4-804e-77465738e667-1773070863113%2F~psid=140ac3f4-098d-42a8-a0a5-7e38ddc96cab~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=93026fbefe46c701ce1c35b569f1fb2cfe6d7a60c9cf0caa77b562af837a32e7/clt1/va02/disneyplus/channel/ec26a05e-a9cc-4db4-804e-77465738e667-1773070863113/ctr-all-sliding-alt1.m3u8?r=1080&v=1&hash=873c8b5d90e1ffc2d62c45c16e211fb4de32cd67",
+    "k1": "ebd481393279411b93e2a0f80d42158c",
+    "k2": "740ca8a66afbc8e90c28c170a1673774"
   },
   {
     "title": "Miami Open Presented by Itaú (Tercera Ronda)",
@@ -251,16 +254,6 @@
     "play_url": ""
   },
   {
-    "title": "Miami Open Presented by Itaú / Stadium",
-    "league": "ATP",
-    "fecha-evento": "2026-03-23T18:00:00-05:00",
-    "img": "63c7fd42-4542-4a44-9e06-00a6058f5e52",
-    "nombre": "disneycbc222",
-    "status": "18:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Chicago Blackhawks vs. New York Islanders",
     "league": "National Hockey League",
     "fecha-evento": "2026-03-24T18:00:00-05:00",
@@ -327,6 +320,16 @@
     "img": "019cd918-b549-70b9-bb21-33a2921aa1f1",
     "nombre": "disneyca002a",
     "status": "10:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Miami Open Presented by Itaú / Stadium",
+    "league": "ATP",
+    "fecha-evento": "2026-03-24T11:00:00-05:00",
+    "img": "63c7fd42-4542-4a44-9e06-00a6058f5e52",
+    "nombre": "disneyb257e7",
+    "status": "11:00",
     "duration": 135,
     "play_url": ""
   },
@@ -546,6 +549,16 @@
     "fecha-evento": "2026-03-24T19:00:00-05:00",
     "img": "56cd9bf7-fef4-4bd4-9ca8-6bb6cde73337",
     "nombre": "disneyfd9236",
+    "status": "19:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Rio Grande Valley Vipers vs. Oklahoma City Blue",
+    "league": "NBA G League",
+    "fecha-evento": "2026-03-24T19:00:00-05:00",
+    "img": "019c9524-f282-7a39-86b7-72ecd29879fa",
+    "nombre": "disney81d836",
     "status": "19:00",
     "duration": 135,
     "play_url": ""
