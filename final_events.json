@@ -1,31 +1,5 @@
 [
   {
-    "title": "Boca Juniors vs. Instituto",
-    "league": "Liga Profesional de Fútbol",
-    "fecha-evento": "2026-03-22T17:45:00-05:00",
-    "img": "019cbf97-e364-7628-b032-4a9ae39ca5c9",
-    "nombre": "disney3bd514",
-    "status": "17:45",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/c808aee3-5942-4076-8213-5d26cb247700",
-    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1774306215~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F921e1311-bb26-43dd-84a6-9e2284959712-1773070527132%2F~psid=e7bf82dc-9739-4423-bf1b-6d89c8f86a05~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=f49e2a112c6be7c5400db336de8daad7fdffb403fe25fffcbea84a7b3bda3a08/clt1/va02/disneyplus/channel/921e1311-bb26-43dd-84a6-9e2284959712-1773070527132/ctr-all-sliding-alt1.m3u8?r=1080&v=1&hash=82b614d9e6d93224b1eaa1442cd6e5c07d9789e9",
-    "k1": "1ea284d20fe848e1851cfcae136c5817",
-    "k2": "00295c2b96a171b131a38f5ddb4819b1"
-  },
-  {
-    "title": "Atlético de San Luis vs. Tigres UANL (Jornada 13)",
-    "league": "Mexican Liga BBVA MX Femenil",
-    "fecha-evento": "2026-03-22T17:50:00-05:00",
-    "img": "019cd451-b849-7a84-bd60-2b84f3c19ce9",
-    "nombre": "disney1f0ed6",
-    "status": "17:50",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/8345f820-2cb8-42cd-8962-9fe94186e670",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1774306835~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F22%2FAtltico_de_San_Luis_vs_Ti_20260322_1774212647033%2F~psid=a8f7dded-9038-4b36-acf9-32aeb0be4ac5~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=3b6c59c0919f9192f67055db8214e088b4eb5f65d1ce11f152fcd5523cc5e874/clt1/va02/disneyplus/event/2026/03/22/Atltico_de_San_Luis_vs_Ti_20260322_1774212647033/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=d35c68c59f30f8cccb1720a06577747f2d34e2fb",
-    "k1": "d7dff8105bce437580fd3e23e63c060d",
-    "k2": "0d2c78baa3e197cb573e907545023040"
-  },
-  {
     "title": "Vegas Golden Knights vs. Dallas Stars",
     "league": "National Hockey League",
     "fecha-evento": "2026-03-22T18:00:00-05:00",
@@ -106,12 +80,15 @@
   {
     "title": "Los Angeles Kings vs. Utah Mammoth",
     "league": "National Hockey League",
-    "fecha-evento": "2026-03-22T20:00:00-05:00",
+    "fecha-evento": "2026-03-22T19:58:56-05:00",
     "img": "019ae5c1-2b19-7895-b397-b62014833054",
-    "nombre": "disney7293a0",
-    "status": "20:00",
-    "duration": 135,
-    "play_url": ""
+    "nombre": "disney1e2176",
+    "status": "19:58",
+    "duration": 211,
+    "play_url": "https://www.disneyplus.com/es-es/play/b11ad870-5092-4779-a7c3-2a957e8da417",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1774315238~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F23%2FLos_Angeles_Kings_vs_Utah_20260323_1774222593227%2F~psid=17ebfcc6-675c-4745-8daa-4a7e0a294b93~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=e890a10f2a6a0e6172eb5f4a82a307d20419aa33c92e45558744985090e7f9fb/clt1/va02/disneyplus/event/2026/03/23/Los_Angeles_Kings_vs_Utah_20260323_1774222593227/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=1d7bd4ed45dc7b3f566db565ac626ba547148477",
+    "k1": "d4a0185cb29743c18958abf798a75035",
+    "k2": "25714ee4bcec9db455c419cdb9a32681"
   },
   {
     "title": "NCAA Tournament Whip Around Coverage (Segunda Ronda)",
@@ -550,6 +527,26 @@
     "img": "019c73cd-7588-794f-a418-3d96efcf5c80",
     "nombre": "disneyfa3cea",
     "status": "18:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "New Jersey Devils vs. Dallas Stars",
+    "league": "National Hockey League",
+    "fecha-evento": "2026-03-24T19:00:00-05:00",
+    "img": "e112e978-f165-4f51-b40c-4314082663c1",
+    "nombre": "disneyf62894",
+    "status": "19:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Washington Capitals vs. St. Louis Blues",
+    "league": "National Hockey League",
+    "fecha-evento": "2026-03-24T19:00:00-05:00",
+    "img": "56cd9bf7-fef4-4bd4-9ca8-6bb6cde73337",
+    "nombre": "disneyfd9236",
+    "status": "19:00",
     "duration": 135,
     "play_url": ""
   }
