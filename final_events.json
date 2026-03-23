@@ -26,19 +26,6 @@
     "k2": "0d2c78baa3e197cb573e907545023040"
   },
   {
-    "title": "Tapatío CD vs. Club Atlético Morelia (Jornada 11)",
-    "league": "Liga de Expansión MX",
-    "fecha-evento": "2026-03-22T17:50:02-05:00",
-    "img": "019cd451-3682-7562-ab12-ad77643be94a",
-    "nombre": "disneyb51bfe",
-    "status": "17:50",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/12f75bfc-de2c-4bff-829c-a771f40bc11d",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1774306881~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F22%2FTapato_CD_vs_Club_Atltico_20260322_1774212658029%2F~psid=64566034-98b0-4175-b24a-425ddf32e80a~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=ba9b61f68459f5263bff5c3422009c6385a55b49bbc9d3afbef5f0f89d7b985e/clt1/va02/disneyplus/event/2026/03/22/Tapato_CD_vs_Club_Atltico_20260322_1774212658029/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=3b70943f5cc4567c78a9a2ad803e35d61c13803b",
-    "k1": "ac4b5acf0f6141fcb34f57eccee00917",
-    "k2": "d0b14660a271c5a29769a87adb6a8916"
-  },
-  {
     "title": "Vegas Golden Knights vs. Dallas Stars",
     "league": "National Hockey League",
     "fecha-evento": "2026-03-22T18:00:00-05:00",
@@ -553,6 +540,16 @@
     "img": "f9a40950-ea9d-4408-a957-1420c152d294",
     "nombre": "disney6b25f3",
     "status": "19:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Minnesota Wild vs. Tampa Bay Lightning",
+    "league": "National Hockey League",
+    "fecha-evento": "2026-03-24T18:30:00-05:00",
+    "img": "019c73cd-7588-794f-a418-3d96efcf5c80",
+    "nombre": "disneyfa3cea",
+    "status": "18:30",
     "duration": 135,
     "play_url": ""
   }
