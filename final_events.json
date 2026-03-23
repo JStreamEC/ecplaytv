@@ -104,19 +104,6 @@
     "k2": "ce44f70a73416b9c6b3a62800512ec2c"
   },
   {
-    "title": "WTA Miami Open Presented by Itaú / Grandstand",
-    "league": "WTA",
-    "fecha-evento": "2026-03-22T12:30:03-05:00",
-    "img": "31768d1c-2cb3-4cca-88fd-8eff09bac4a9",
-    "nombre": "disney7cd493",
-    "status": "12:30",
-    "duration": 330,
-    "play_url": "https://www.disneyplus.com/es-es/play/439b81ec-a6f0-48d3-b246-fca065eaeec5",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1774287679~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F22%2FWTA_Miami_Open_Presented__20260322_1774193426028%2F~psid=de37b175-70d8-44f6-872f-2a8b72ab767c~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=d39adda47e93afc1500ef4e8fcc928b1d226e3d79748cc018d77975db8a5aecf/clt1/va02/disneyplus/event/2026/03/22/WTA_Miami_Open_Presented__20260322_1774193426028/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=cae437bf8cf4f7b5bd9ec29d595be6a0df561f18",
-    "k1": "57331753c3154594b6080e8f49abd584",
-    "k2": "579553c187b2d9fee41faf5bdd02f642"
-  },
-  {
     "title": "Miami Open Presented by Itaú / Butch Buchholz",
     "league": "ATP",
     "fecha-evento": "2026-03-22T11:00:00-05:00",
@@ -331,10 +318,10 @@
   {
     "title": "Padel Championship - Cancún P2 - Final Masculina",
     "league": "Premier Padel",
-    "fecha-evento": "2026-03-22T19:00:00-05:00",
+    "fecha-evento": "2026-03-22T19:05:00-05:00",
     "img": "019c919a-d579-7b7e-9414-154032519cdb",
-    "nombre": "disney5ed2bc",
-    "status": "19:00",
+    "nombre": "disney3f2be4",
+    "status": "19:05",
     "duration": 135,
     "play_url": ""
   },
@@ -345,6 +332,16 @@
     "img": "019ae5c1-2b19-7895-b397-b62014833054",
     "nombre": "disney7293a0",
     "status": "20:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "WTA Miami Open Presented by Itaú / Grandstand",
+    "league": "WTA",
+    "fecha-evento": "2026-03-23T10:00:00-05:00",
+    "img": "31768d1c-2cb3-4cca-88fd-8eff09bac4a9",
+    "nombre": "disneyf4730f",
+    "status": "10:00",
     "duration": 135,
     "play_url": ""
   },
@@ -515,6 +512,16 @@
     "img": "019cc5b9-c81f-7175-a8be-f08117a9e02b",
     "nombre": "disney910f73",
     "status": "13:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Holy Family University vs. Indiana (PA) (Cuartos de Final)",
+    "league": "Básquetbol femenino NCAA",
+    "fecha-evento": "2026-03-24T13:30:00-05:00",
+    "img": "6599bc15-70a9-4d6e-913e-04b94be58edf",
+    "nombre": "disney1962c1",
+    "status": "13:30",
     "duration": 135,
     "play_url": ""
   }
