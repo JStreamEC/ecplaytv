@@ -39,19 +39,6 @@
     "k2": "981c0fe828193cc8298a61c6a2aa1e97"
   },
   {
-    "title": "Malta vs. Luxemburgo",
-    "league": "UEFA Nations League",
-    "fecha-evento": "2026-03-26T11:50:00-05:00",
-    "img": "019cfa6c-1db0-7ac6-b264-c2c9b4446376",
-    "nombre": "disneyc1fc46",
-    "status": "11:50",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/5dd1df12-7dd7-4a78-bae5-4a8bf5f2ee2e",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1774631303~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F26%2FMalta_vs_Luxembourg_20260326_1774536604052%2F~psid=5a87ad8c-a7fb-4266-8296-e27e81d7465d~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=3bbf3e25c6ec8976dc80852b507b65651c07e0a80767de32391e4193f70becb0/clt1/va02/disneyplus/event/2026/03/26/Malta_vs_Luxembourg_20260326_1774536604052/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=bf0e97ca8b9d19daea94078f91777b2b48760e0e",
-    "k1": "14ca687aec3e4b80a2bb35a629935446",
-    "k2": "7a96157fc3e1de46edc1be5f234a4e3a"
-  },
-  {
     "title": "Miami Open Presented by Itaú / Grandstand (Doubles Quarterfinals)",
     "league": "ATP",
     "fecha-evento": "2026-03-26T12:00:00-05:00",
@@ -157,16 +144,6 @@
     "play_url": "https://www.disneyplus.com/es-es/play/12e208b8-452c-4229-8ccf-f4e9e3e51567"
   },
   {
-    "title": "Eslovaquia vs. Kosovo",
-    "league": "Eliminatorias UEFA",
-    "fecha-evento": "2026-03-26T14:30:00-05:00",
-    "img": "019cf890-b806-75f7-962c-a3cc25d29b5f",
-    "nombre": "disney69a20c",
-    "status": "14:30",
-    "duration": 135,
-    "play_url": "https://www.disneyplus.com/es-es/play/2924d472-a038-4ac1-bad2-06dc55268f7c"
-  },
-  {
     "title": "Gales vs. Bosnia-Herzegovina",
     "league": "Eliminatorias UEFA",
     "fecha-evento": "2026-03-26T14:30:00-05:00",
@@ -175,6 +152,16 @@
     "status": "14:30",
     "duration": 130,
     "play_url": "https://www.disneyplus.com/es-es/play/a6ac0f29-81e5-4f97-8b47-333f31fb2c11"
+  },
+  {
+    "title": "Eslovaquia vs. Kosovo",
+    "league": "Eliminatorias UEFA",
+    "fecha-evento": "2026-03-26T14:30:00-05:00",
+    "img": "019cf890-b806-75f7-962c-a3cc25d29b5f",
+    "nombre": "disney69a20c",
+    "status": "14:30",
+    "duration": 135,
+    "play_url": "https://www.disneyplus.com/es-es/play/2924d472-a038-4ac1-bad2-06dc55268f7c"
   },
   {
     "title": "Ucrania vs. Suecia",
@@ -193,8 +180,11 @@
     "img": "019d203d-05ea-7ba6-805f-b77442cb693a",
     "nombre": "disneyd28eff",
     "status": "14:45",
-    "duration": 135,
-    "play_url": ""
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/f1090358-523a-4536-a9b7-6d70ced5ab8b",
+    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1774641212~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F921e1311-bb26-43dd-84a6-9e2284959712-1773070527132%2F~psid=88a5799b-ebee-4701-9cac-f3dd0ca222ce~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=3eeb6f2ceb95a8beae5b3ee5ea9d0941adccf8542696fc0ad4e848cf0e1933a1/clt1/va02/disneyplus/channel/921e1311-bb26-43dd-84a6-9e2284959712-1773070527132/ctr-all-sliding-alt1.m3u8?r=1080&v=1&hash=82b614d9e6d93224b1eaa1442cd6e5c07d9789e9",
+    "k1": "48a2c54afde247beaf280ff8d2ce5223",
+    "k2": "83e57ac34feac0287f65e20e110c98bc"
   },
   {
     "title": "NC State",
@@ -653,6 +643,16 @@
     "img": "019ced8f-e6f2-799b-8fef-7327aa15b89a",
     "nombre": "disney8823bd",
     "status": "02:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Brumbies vs. Waratahs",
+    "league": "Super Rugby Pacific",
+    "fecha-evento": "2026-03-27T03:30:00-05:00",
+    "img": "019d07f9-36fd-7b51-abfe-50996d7c6739",
+    "nombre": "disney37c5f6",
+    "status": "03:30",
     "duration": 135,
     "play_url": ""
   }
