@@ -10,19 +10,6 @@
     "play_url": ""
   },
   {
-    "title": "NC State",
-    "league": "NCAA Atletismo",
-    "fecha-evento": "2026-03-28T14:00:18-05:00",
-    "img": "703a0947-b1b5-4434-9581-0e5c409bcc6c",
-    "nombre": "disney2366d0",
-    "status": "14:00",
-    "duration": 180,
-    "play_url": "https://www.disneyplus.com/es-es/play/5a58b142-2769-4282-9967-d9c31ec1492f",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1774812157~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F28%2FRaleigh_Relays_20260328_1774720416334%2F~psid=9bd3baf4-0a40-42c8-8823-bf5d06b6de01~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=e90bcb4bac93009433c5be316a7433d1b6c6ad6e4cb25df0ec744369b15c4e78/clt1/va02/disneyplus/event/2026/03/28/Raleigh_Relays_20260328_1774720416334/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=6f03c84591d3973e9ca8046a5ff61e0330e0e711",
-    "k1": "3a93b4edb6ac4ab980bc6524439352c8",
-    "k2": "886e8926ab9eb01602201afed3a2792b"
-  },
-  {
     "title": "App State vs. #11 Southern Miss",
     "league": "NCAA Beisbol",
     "fecha-evento": "2026-03-28T14:00:00-05:00",
@@ -34,19 +21,6 @@
     "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1774812084~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F28%2FApp_State_vs_11_Southern__20260328_1774717214027%2F~psid=0eb25421-21bd-4d09-a6c1-455b1473d8ec~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=dc5c2be72f0e5ab0ce43a489a91474f12442b9d6727c5866bdb3eed1bf374049/clt1/va02/disneyplus/event/2026/03/28/App_State_vs_11_Southern__20260328_1774717214027/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=32f26699274623023ad195814b1c73c31b931aba",
     "k1": "ac6a9d3a51d7499f9347b70462f1ff45",
     "k2": "a84f4adafa81143b0a50f5d30d7893d2"
-  },
-  {
-    "title": "Anaheim Ducks vs. Edmonton Oilers",
-    "league": "National Hockey League",
-    "fecha-evento": "2026-03-28T14:30:13-05:00",
-    "img": "019d1665-3fba-704c-85aa-f8e957a68d93",
-    "nombre": "disney727ce3",
-    "status": "14:30",
-    "duration": 210,
-    "play_url": "https://www.disneyplus.com/es-es/play/7aa0ebd2-7b27-463d-a9dd-e34e7c6880a5",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1774813284~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F28%2FAnaheim_Ducks_vs_Edmonton_20260328_1774719045718%2F~psid=8f3ed621-4b94-47e3-98ac-ccb482248a37~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=17f8911f964de96fe6de0c10ed4e33be7c4f60699e1b83451044863fb08865ba/clt1/va02/disneyplus/event/2026/03/28/Anaheim_Ducks_vs_Edmonton_20260328_1774719045718/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=2da7425ee740ba625104f1cc05c7ece118b2a611",
-    "k1": "4ddd52b192b54f7b9e7f46c6242b1adc",
-    "k2": "1ba6db4ec6d75cdeabcc7c3c5a841c4d"
   },
   {
     "title": "Padel Championship - Miami P1 - Semis Masculinas (Semifinales)",
@@ -280,21 +254,21 @@
     "play_url": ""
   },
   {
-    "title": "Toronto Maple Leafs vs. St. Louis Blues",
-    "league": "National Hockey League",
-    "fecha-evento": "2026-03-28T18:00:00-05:00",
-    "img": "019d0b38-f661-7434-8d11-12f4880442bb",
-    "nombre": "disneyf40a4c",
-    "status": "18:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Montreal Canadiens vs. Nashville Predators",
     "league": "National Hockey League",
     "fecha-evento": "2026-03-28T18:00:00-05:00",
     "img": "019d0c86-3407-7179-8c5d-4e403623eb28",
     "nombre": "disneye4a100",
+    "status": "18:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Toronto Maple Leafs vs. St. Louis Blues",
+    "league": "National Hockey League",
+    "fecha-evento": "2026-03-28T18:00:00-05:00",
+    "img": "019d0b38-f661-7434-8d11-12f4880442bb",
+    "nombre": "disneyf40a4c",
     "status": "18:00",
     "duration": 135,
     "play_url": ""
@@ -686,6 +660,16 @@
     "img": "019d1de7-7b45-7a71-ba38-e6da1433013c",
     "nombre": "disney46eb6d",
     "status": "12:09",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Atenas vs. Uruguay Montevideo",
+    "league": "Segunda División de Uruguay",
+    "fecha-evento": "2026-03-29T12:45:00-05:00",
+    "img": "019d2cc2-9f2b-7111-b76e-dc50af46cd47",
+    "nombre": "disney0e49b0",
+    "status": "12:45",
     "duration": 135,
     "play_url": ""
   }
