@@ -52,19 +52,6 @@
     "k2": "f7f12cd765f00b9153d5bb091f469f5c"
   },
   {
-    "title": "South Carolina Upstate vs. George Mason",
-    "league": "NCAA Beisbol",
-    "fecha-evento": "2026-03-31T14:00:00-05:00",
-    "img": "019d10eb-480c-739c-a28e-e9f96b3f62a6",
-    "nombre": "disneydf237d",
-    "status": "14:00",
-    "duration": 180,
-    "play_url": "https://www.disneyplus.com/es-es/play/75390896-bc24-44df-924c-7f45ba79914e",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1775070479~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F31%2FSouth_Carolina_Upstate_vs_20260331_1774976401045%2F~psid=c4201d06-0498-462f-b42f-a138b1fee4f0~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=cb944c3cf3b73e4b620c94199240fbca67e9442c856aa678e7bcd522875c33da/clt1/va02/disneyplus/event/2026/03/31/South_Carolina_Upstate_vs_20260331_1774976401045/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=ff8793354849b144f9c6232637085ae5f9b86134",
-    "k1": "ed961451f43c46308989773650a4cc41",
-    "k2": "7cfb5d6eb23611e642ac0e53fe724fbf"
-  },
-  {
     "title": "Fayez Sarofim & Co. U.S. Men's Clay Court Championship (Primera Ronda)",
     "league": "ATP",
     "fecha-evento": "2026-03-31T14:00:00-05:00",
@@ -273,22 +260,25 @@
     "k2": "01762ad34e407fd86d3d6738f8b5abb7"
   },
   {
-    "title": "Brasil vs. Croacia",
-    "league": "Amistosos internacionales",
-    "fecha-evento": "2026-03-31T18:45:00-05:00",
-    "img": "019d223d-dc5f-7419-8bbb-85602d43bc03",
-    "nombre": "disney309728",
-    "status": "18:45",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Carolina Hurricanes vs. Columbus Blue Jackets",
     "league": "National Hockey League",
     "fecha-evento": "2026-03-31T18:30:00-05:00",
     "img": "5c4fa20b-dd3c-4728-bf64-be22e902487f",
     "nombre": "disneye68a55",
     "status": "18:30",
+    "duration": 150,
+    "play_url": "https://www.disneyplus.com/es-es/play/63b953b1-8a72-4f94-818c-b30ca0ec049d",
+    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1775086836~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Fbbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1773078587332%2F~psid=2a12cccd-d657-46c1-93ca-8db9dfce43e8~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=f565c875ba3be1fbdfe44903395a187b27a269cbe52bf00c860ef94ad06e1c5c/clt1/va02/disneyplus/channel/bbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1773078587332/ctr-all-sliding-alt1.m3u8?r=1080&v=1&hash=47cbb8616004a1e945f48692281e999bd4428c97",
+    "k1": "6bbda76bba024a54a8aecd106180c9f5",
+    "k2": "1465daf7bb86d9ab7d98122f495acdff"
+  },
+  {
+    "title": "Brasil vs. Croacia",
+    "league": "Amistosos internacionales",
+    "fecha-evento": "2026-03-31T18:45:00-05:00",
+    "img": "019d223d-dc5f-7419-8bbb-85602d43bc03",
+    "nombre": "disney309728",
+    "status": "18:45",
     "duration": 135,
     "play_url": ""
   },
@@ -639,6 +629,16 @@
     "img": "019d217d-5efe-749d-902d-f2259b09cece",
     "nombre": "disneyafa179",
     "status": "07:15",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Cambridge United vs. Swindon Town",
+    "league": "League Two de Inglaterra",
+    "fecha-evento": "2026-04-02T07:20:00-05:00",
+    "img": "019d0284-9919-7102-8e7d-5283dfb47a4f",
+    "nombre": "disneyab8443",
+    "status": "07:20",
     "duration": 135,
     "play_url": ""
   }
