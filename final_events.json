@@ -26,19 +26,6 @@
     "k2": "8e3d0d444adfe3ac19cc3b05c9bb66bf"
   },
   {
-    "title": "Copa Colsanitas Colsubsidio / Cancha 2",
-    "league": "WTA",
-    "fecha-evento": "2026-03-31T10:30:30-05:00",
-    "img": "019d166b-52ae-7004-8abe-d3bd135ae927",
-    "nombre": "disney9a3ebe",
-    "status": "10:30",
-    "duration": 600,
-    "play_url": "https://www.disneyplus.com/es-es/play/78c76039-bbad-4022-9e46-ac728174ee3c",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1775060630~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F31%2FCopa_Colsanitas_Colsubsid_20260331_1774963848048%2F~psid=6bba9392-b390-4c23-a04a-94fff7d04282~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=e6749948b0fc6750a1f94b5602896c4fd74112643775cc9d1023b2d9e7865ea3/clt1/va02/disneyplus/event/2026/03/31/Copa_Colsanitas_Colsubsid_20260331_1774963848048/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=a80dbd14e4f4023af71d7c57181aead4a1e6de7f",
-    "k1": "853610dec38c45728fdaee6d3dfae402",
-    "k2": "0161b076fe20ded639e49d4831517d40"
-  },
-  {
     "title": "Copa Colsanitas Colsubsidio / Cancha 3",
     "league": "WTA",
     "fecha-evento": "2026-03-31T10:30:49-05:00",
@@ -156,46 +143,6 @@
     "k2": "41dc3594f4776847dcd6f4f252d25c82"
   },
   {
-    "title": "Detroit Red Wings vs. Pittsburgh Penguins",
-    "league": "National Hockey League",
-    "fecha-evento": "2026-03-31T18:00:00-05:00",
-    "img": "896b418b-1082-41c2-96bc-2a523070d40f",
-    "nombre": "disney4eeeee",
-    "status": "18:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Dallas Stars vs. Boston Bruins",
-    "league": "National Hockey League",
-    "fecha-evento": "2026-03-31T18:00:00-05:00",
-    "img": "019d3717-fe5c-7deb-84c3-8ce6802cbcac",
-    "nombre": "disney6492e0",
-    "status": "18:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Montreal Canadiens vs. Tampa Bay Lightning",
-    "league": "National Hockey League",
-    "fecha-evento": "2026-03-31T18:00:00-05:00",
-    "img": "019d35c1-a813-7a7e-ab77-b93965c1f290",
-    "nombre": "disneyfd3064",
-    "status": "18:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Ottawa Senators vs. Florida Panthers",
-    "league": "National Hockey League",
-    "fecha-evento": "2026-03-31T18:00:00-05:00",
-    "img": "019d35df-ff90-77f8-b1c5-1bd7aab7c7d7",
-    "nombre": "disneyf485e2",
-    "status": "18:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Texas Rangers vs. Baltimore Orioles",
     "league": "MLB",
     "fecha-evento": "2026-03-31T17:30:01-05:00",
@@ -207,16 +154,6 @@
     "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1775083234~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F31%2FEn_EspaolTexas_Rangers_vs_20260331_1774989055026%2F~psid=95182155-eb0f-49b8-837c-916a7df09f5f~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=d2c575e5f88c0cbd15acffdf8d432cd990f41d85a3955754cf52fc3716096773/clt1/va02/disneyplus/event/2026/03/31/En_EspaolTexas_Rangers_vs_20260331_1774989055026/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=e1f87b62a57d00bf6868f088fd777c6d91c7dfb8",
     "k1": "ceaee108ab354747a4092868a443fb1e",
     "k2": "eca5fdc35f9e97e88cc9c4611aa78a9f"
-  },
-  {
-    "title": "Philadelphia Flyers vs. Washington Capitals",
-    "league": "National Hockey League",
-    "fecha-evento": "2026-03-31T18:00:00-05:00",
-    "img": "873a9565-89fa-4c86-aa6d-8a9c92b9bd06",
-    "nombre": "disneyaeefb1",
-    "status": "18:00",
-    "duration": 135,
-    "play_url": ""
   },
   {
     "title": "Estados Unidos vs. Portugal",
@@ -232,34 +169,108 @@
     "k2": "ef81db7854a1e8cad42a5f7d74a88d83"
   },
   {
-    "title": "New York Islanders vs. Buffalo Sabres",
+    "title": "Detroit Red Wings vs. Pittsburgh Penguins",
     "league": "National Hockey League",
-    "fecha-evento": "2026-03-31T18:00:00-05:00",
-    "img": "019d35c1-bbce-7573-b77e-10204ceed0de",
-    "nombre": "disney7bd428",
+    "fecha-evento": "2026-03-31T17:58:52-05:00",
+    "img": "896b418b-1082-41c2-96bc-2a523070d40f",
+    "nombre": "disneya05961",
+    "status": "17:58",
+    "duration": 211,
+    "play_url": "https://www.disneyplus.com/es-es/play/c0fdef46-bd89-47c0-8726-8855bc223a42",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1775085635~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F31%2FDetroit_Red_Wings_vs_Pitt_20260331_1774991193000%2F~psid=dfd646ef-2ed8-4648-9898-f48dcab4c8e8~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=fa241037cae5482fa275dcd945130cf5698efa6d12fc4511fd389c36ed7b9352/clt1/va02/disneyplus/event/2026/03/31/Detroit_Red_Wings_vs_Pitt_20260331_1774991193000/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=7a3bcd771897b8d6a428265d86fa404fa0f3e04e",
+    "k1": "06e7d4114f004f79bde6c5b49b328163",
+    "k2": "bb493f6b585cd9c0d66439528a8b9d61"
+  },
+  {
+    "title": "Montreal Canadiens vs. Tampa Bay Lightning",
+    "league": "National Hockey League",
+    "fecha-evento": "2026-03-31T18:00:16-05:00",
+    "img": "019d35c1-a813-7a7e-ab77-b93965c1f290",
+    "nombre": "disney025395",
     "status": "18:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 210,
+    "play_url": "https://www.disneyplus.com/es-es/play/f0931f27-134d-4f46-9ddb-df672e75e232",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1775085681~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F31%2FMontreal_Canadiens_vs_Tam_20260331_1774990860640%2F~psid=70beaae1-898c-4070-bdfc-dc20ebb35679~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=332d2ec2bb883384093da0c895301d70382e5002588d6de3491bad7e74b7fcc3/clt1/va02/disneyplus/event/2026/03/31/Montreal_Canadiens_vs_Tam_20260331_1774990860640/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=71a5306b8b9ef504b136727a5e45a76c0783b906",
+    "k1": "2cae9ad1631b4cd385717e092c2370c3",
+    "k2": "7fb78ac480b474ab0aeac37c63dfc869"
+  },
+  {
+    "title": "Philadelphia Flyers vs. Washington Capitals",
+    "league": "National Hockey League",
+    "fecha-evento": "2026-03-31T18:00:17-05:00",
+    "img": "873a9565-89fa-4c86-aa6d-8a9c92b9bd06",
+    "nombre": "disney4aeadc",
+    "status": "18:00",
+    "duration": 210,
+    "play_url": "https://www.disneyplus.com/es-es/play/7ca640aa-ba3b-4ed2-a095-0b3ddc3b768a",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1775085727~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F31%2FPhiladelphia_Flyers_vs_Wa_20260331_1774990822068%2F~psid=643ddeb0-009c-4ad5-a251-ac728a5e02be~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=4171bf8a5363c11602686af0a929df575f960c95e4addd62b6f2360fd39a0c93/clt1/va02/disneyplus/event/2026/03/31/Philadelphia_Flyers_vs_Wa_20260331_1774990822068/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=1c586de33d2a178f247fb6e4f77e70c3ccb0f1d9",
+    "k1": "3ca06ecf8a554583a8a70fc3ac13069a",
+    "k2": "056116b9dfaaeb50e72806cb25d1f316"
   },
   {
     "title": "New Jersey Devils vs. New York Rangers",
     "league": "National Hockey League",
-    "fecha-evento": "2026-03-31T18:00:00-05:00",
+    "fecha-evento": "2026-03-31T18:00:18-05:00",
     "img": "019d35d0-cac5-7433-ba42-9d8dc0788bf9",
-    "nombre": "disney22d754",
+    "nombre": "disney52c104",
     "status": "18:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 210,
+    "play_url": "https://www.disneyplus.com/es-es/play/0175ad4b-1bba-41e3-bd4b-7115fe19d361",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1775085752~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F31%2FNew_Jersey_Devils_vs_New__20260331_1774990858514%2F~psid=6c4d3578-ff38-4708-98ac-b5fa3006050e~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=f52833e019c76cff33281bc27f0f211af7e84367d98e820f16279de389ef8c7e/clt1/va02/disneyplus/event/2026/03/31/New_Jersey_Devils_vs_New__20260331_1774990858514/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=ba9b3d9b65f4da99b946ee8b0b59c1b41210e725",
+    "k1": "b2652d24212f434088d96bce17885b54",
+    "k2": "27e36d1d974855f2dcabe98b540dedb3"
+  },
+  {
+    "title": "Ottawa Senators vs. Florida Panthers",
+    "league": "National Hockey League",
+    "fecha-evento": "2026-03-31T18:00:18-05:00",
+    "img": "019d35df-ff90-77f8-b1c5-1bd7aab7c7d7",
+    "nombre": "disney5fbc34",
+    "status": "18:00",
+    "duration": 210,
+    "play_url": "https://www.disneyplus.com/es-es/play/3a5ade71-e54e-4e31-af79-212b65020743",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1775085778~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F31%2FOttawa_Senators_vs_Florid_20260331_1774990832844%2F~psid=8c3daed9-d605-4879-8932-882df468f5c6~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=23f05f6660076bec43bc347a2a0c8d2d4a528d71114d6c04da9a210bb9531afd/clt1/va02/disneyplus/event/2026/03/31/Ottawa_Senators_vs_Florid_20260331_1774990832844/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=1298e5fdafd5bf256e6fcff6817309734d1d6292",
+    "k1": "6b9eda36d5a44925be0719d3a8b893ba",
+    "k2": "e3bb7dc91de2413b7e352dd6612847eb"
+  },
+  {
+    "title": "New York Islanders vs. Buffalo Sabres",
+    "league": "National Hockey League",
+    "fecha-evento": "2026-03-31T18:00:52-05:00",
+    "img": "019d35c1-bbce-7573-b77e-10204ceed0de",
+    "nombre": "disney8a544a",
+    "status": "18:00",
+    "duration": 209,
+    "play_url": "https://www.disneyplus.com/es-es/play/ac444bec-a2e1-4749-8bad-75a90a62a794",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1775085804~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F31%2FNew_York_Islanders_vs_Buf_20260331_1774990857701%2F~psid=2010d542-7e8d-4e7a-9802-05568299f088~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=a713453861ac9a1e4637419a171b4c496cfb18b7050b0097213c366f785d55ab/clt1/va02/disneyplus/event/2026/03/31/New_York_Islanders_vs_Buf_20260331_1774990857701/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=feb9bd1fd09e3237898aa798db82aaa93d61812b",
+    "k1": "03fe888f6f854ce888cdb15ca1abbd40",
+    "k2": "9ffe6932f644cd3e9fdb725bd77a30d1"
+  },
+  {
+    "title": "Dallas Stars vs. Boston Bruins",
+    "league": "National Hockey League",
+    "fecha-evento": "2026-03-31T18:00:22-05:00",
+    "img": "019d3717-fe5c-7deb-84c3-8ce6802cbcac",
+    "nombre": "disney4c30f9",
+    "status": "18:00",
+    "duration": 210,
+    "play_url": "https://www.disneyplus.com/es-es/play/94d459cd-131a-4caa-8eff-7b3b66fa3873",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1775085830~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F31%2FDallas_Stars_vs_Boston_Br_20260331_1774991192700%2F~psid=85555996-3c83-49da-8dc3-425e6bf63316~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=e2ba4ece1ad3342ad9298806b8ae08fc5d300d0673fc81ca68880fb9e67abae6/clt1/va02/disneyplus/event/2026/03/31/Dallas_Stars_vs_Boston_Br_20260331_1774991192700/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=f7ad5b0de4d7da4e6b4f69efc86347e221d5b596",
+    "k1": "da6ea3547252414a85451a3556a83edf",
+    "k2": "4b87e57d1d0265e62394cc2dcf9418ac"
   },
   {
     "title": "Atenas vs. Uruguay Montevideo",
     "league": "Segunda División de Uruguay",
-    "fecha-evento": "2026-03-31T18:15:00-05:00",
+    "fecha-evento": "2026-03-31T18:15:05-05:00",
     "img": "019d2cc2-9ce8-7471-b15f-f2ca313a9372",
-    "nombre": "disneyf0da27",
+    "nombre": "disney847410",
     "status": "18:15",
-    "duration": 135,
-    "play_url": ""
+    "duration": 150,
+    "play_url": "https://www.disneyplus.com/es-es/play/02101e7b-5c7c-4cd9-bb8c-6602c7e0ea23",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1775085856~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F31%2FAtenas_vs_Uruguay_Montevi_20260331_1774991719027%2F~psid=0e71503b-d6ae-4faa-a696-5f7cbe41be2d~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=e7577f27db61c174acbecd9b19d54e7fd534ceafba4b561346285fa9379b6d63/clt1/va02/disneyplus/event/2026/03/31/Atenas_vs_Uruguay_Montevi_20260331_1774991719027/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=f020d4ad199bbe7e9e453215a6e796351007f22f",
+    "k1": "d4bfc4e24bb64034bb3041f6b43e6547",
+    "k2": "01762ad34e407fd86d3d6738f8b5abb7"
   },
   {
     "title": "Brasil vs. Croacia",
@@ -388,6 +399,16 @@
     "img": "019d1604-2d7f-77c6-adcf-c188c0ec3b04",
     "nombre": "disneyfdf195",
     "status": "10:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Copa Colsanitas Colsubsidio / Cancha 2",
+    "league": "WTA",
+    "fecha-evento": "2026-04-01T10:30:00-05:00",
+    "img": "019d166b-52ae-7004-8abe-d3bd135ae927",
+    "nombre": "disney116a85",
+    "status": "10:30",
     "duration": 135,
     "play_url": ""
   },
@@ -608,6 +629,16 @@
     "img": "019d0bd6-750c-7ae5-bfff-78bb8a5363ea",
     "nombre": "disneyd49ef7",
     "status": "06:45",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Valero Texas Open: Main Feed (Primera Ronda)",
+    "league": "PGA TOUR",
+    "fecha-evento": "2026-04-02T07:15:00-05:00",
+    "img": "019d217d-5efe-749d-902d-f2259b09cece",
+    "nombre": "disneyafa179",
+    "status": "07:15",
     "duration": 135,
     "play_url": ""
   }
