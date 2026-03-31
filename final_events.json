@@ -176,19 +176,6 @@
     "play_url": ""
   },
   {
-    "title": "Texas Rangers vs. Baltimore Orioles",
-    "league": "MLB",
-    "fecha-evento": "2026-03-31T17:30:01-05:00",
-    "img": "019d26a1-06b9-75f9-a817-39a5407906ce",
-    "nombre": "disney34d873",
-    "status": "17:30",
-    "duration": 210,
-    "play_url": "https://www.disneyplus.com/es-es/play/2d482d2b-d9dd-4010-b7a4-c15f0d710420",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1775083234~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F31%2FEn_EspaolTexas_Rangers_vs_20260331_1774989055026%2F~psid=95182155-eb0f-49b8-837c-916a7df09f5f~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=d2c575e5f88c0cbd15acffdf8d432cd990f41d85a3955754cf52fc3716096773/clt1/va02/disneyplus/event/2026/03/31/En_EspaolTexas_Rangers_vs_20260331_1774989055026/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=e1f87b62a57d00bf6868f088fd777c6d91c7dfb8",
-    "k1": "ceaee108ab354747a4092868a443fb1e",
-    "k2": "eca5fdc35f9e97e88cc9c4611aa78a9f"
-  },
-  {
     "title": "Montreal Canadiens vs. Tampa Bay Lightning",
     "league": "National Hockey League",
     "fecha-evento": "2026-03-31T18:00:00-05:00",
@@ -209,6 +196,19 @@
     "play_url": ""
   },
   {
+    "title": "Texas Rangers vs. Baltimore Orioles",
+    "league": "MLB",
+    "fecha-evento": "2026-03-31T17:30:01-05:00",
+    "img": "019d26a1-06b9-75f9-a817-39a5407906ce",
+    "nombre": "disney34d873",
+    "status": "17:30",
+    "duration": 210,
+    "play_url": "https://www.disneyplus.com/es-es/play/2d482d2b-d9dd-4010-b7a4-c15f0d710420",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1775083234~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F31%2FEn_EspaolTexas_Rangers_vs_20260331_1774989055026%2F~psid=95182155-eb0f-49b8-837c-916a7df09f5f~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=d2c575e5f88c0cbd15acffdf8d432cd990f41d85a3955754cf52fc3716096773/clt1/va02/disneyplus/event/2026/03/31/En_EspaolTexas_Rangers_vs_20260331_1774989055026/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=e1f87b62a57d00bf6868f088fd777c6d91c7dfb8",
+    "k1": "ceaee108ab354747a4092868a443fb1e",
+    "k2": "eca5fdc35f9e97e88cc9c4611aa78a9f"
+  },
+  {
     "title": "Philadelphia Flyers vs. Washington Capitals",
     "league": "National Hockey League",
     "fecha-evento": "2026-03-31T18:00:00-05:00",
@@ -217,6 +217,19 @@
     "status": "18:00",
     "duration": 135,
     "play_url": ""
+  },
+  {
+    "title": "Estados Unidos vs. Portugal",
+    "league": "Amistosos internacionales",
+    "fecha-evento": "2026-03-31T17:50:24-05:00",
+    "img": "019d2239-c76a-784e-b9a7-f5590e687006",
+    "nombre": "disney13aca9",
+    "status": "17:50",
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/00982837-bb78-4c47-b62f-716e23b5ef94",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1775084434~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F31%2FUnited_States_vs_Portugal_20260331_1774990825024%2F~psid=b5e1cc60-ee37-442a-94d8-b8f2a2bc31a1~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=1e6f0e229bf53e2f0ace922fd9d14f2fb5ea8b6f3956536f68ecde8805d0a0e6/clt1/va02/disneyplus/event/2026/03/31/United_States_vs_Portugal_20260331_1774990825024/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=691cf794517f8be33f1473eaf75136d7c280a4bd",
+    "k1": "8d62f1daf31f4b97b59f594f6af7ed18",
+    "k2": "ef81db7854a1e8cad42a5f7d74a88d83"
   },
   {
     "title": "New York Islanders vs. Buffalo Sabres",
@@ -234,16 +247,6 @@
     "fecha-evento": "2026-03-31T18:00:00-05:00",
     "img": "019d35d0-cac5-7433-ba42-9d8dc0788bf9",
     "nombre": "disney22d754",
-    "status": "18:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Estados Unidos vs. Portugal",
-    "league": "Amistosos internacionales",
-    "fecha-evento": "2026-03-31T18:00:00-05:00",
-    "img": "019d2239-c76a-784e-b9a7-f5590e687006",
-    "nombre": "disneybf5b42",
     "status": "18:00",
     "duration": 135,
     "play_url": ""
