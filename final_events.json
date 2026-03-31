@@ -26,19 +26,6 @@
     "k2": "095639768bcdcb5a349417f72a560fa8"
   },
   {
-    "title": "Progreso vs. Liverpool FC",
-    "league": "Campeonato Uruguayo",
-    "fecha-evento": "2026-03-31T08:30:02-05:00",
-    "img": "019ce960-f329-77db-b883-a5d77f3d21ce",
-    "nombre": "disneya18ade",
-    "status": "08:30",
-    "duration": 180,
-    "play_url": "https://www.disneyplus.com/es-es/play/a38e3da8-5cb5-479b-a8fe-97d70bc049f5",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1775060529~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F31%2FProgreso_vs_Liverpool_FC_20260331_1774956626019%2F~psid=9c3039ed-2650-48ec-8927-ff8d3181802f~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=78a74504b411ca366de3579cbf0c79027eaf68facc505d22ec721a392ff6e498/clt1/va02/disneyplus/event/2026/03/31/Progreso_vs_Liverpool_FC_20260331_1774956626019/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=50194caa6062735b90e17b0345ff1c3885fdf6fa",
-    "k1": "8d8944d80f674d0a829333a74c97eb03",
-    "k2": "3b35830617068ab439e60c0690765986"
-  },
-  {
     "title": "Credit One Charleston Open (First & Second Round)",
     "league": "WTA",
     "fecha-evento": "2026-03-31T09:59:18-05:00",
@@ -638,6 +625,16 @@
     "img": "019d0bee-8b47-77ea-b5a3-b7ddbef53aa5",
     "nombre": "disneye4a06a",
     "status": "11:15",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "FC Andorra vs. Malaga CF",
+    "league": "Segunda División de España",
+    "fecha-evento": "2026-04-01T11:50:00-05:00",
+    "img": "019ce90d-77c9-732d-b6eb-d4a138be3a65",
+    "nombre": "disneya8fe20",
+    "status": "11:50",
     "duration": 135,
     "play_url": ""
   }
