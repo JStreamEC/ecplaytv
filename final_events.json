@@ -166,16 +166,6 @@
     "play_url": ""
   },
   {
-    "title": "Philadelphia Flyers vs. Washington Capitals",
-    "league": "National Hockey League",
-    "fecha-evento": "2026-03-31T18:00:00-05:00",
-    "img": "873a9565-89fa-4c86-aa6d-8a9c92b9bd06",
-    "nombre": "disneyaeefb1",
-    "status": "18:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Dallas Stars vs. Boston Bruins",
     "league": "National Hockey League",
     "fecha-evento": "2026-03-31T18:00:00-05:00",
@@ -188,12 +178,15 @@
   {
     "title": "Texas Rangers vs. Baltimore Orioles",
     "league": "MLB",
-    "fecha-evento": "2026-03-31T17:30:00-05:00",
+    "fecha-evento": "2026-03-31T17:30:01-05:00",
     "img": "019d26a1-06b9-75f9-a817-39a5407906ce",
-    "nombre": "disney28ab41",
+    "nombre": "disney34d873",
     "status": "17:30",
-    "duration": 135,
-    "play_url": ""
+    "duration": 210,
+    "play_url": "https://www.disneyplus.com/es-es/play/2d482d2b-d9dd-4010-b7a4-c15f0d710420",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1775083234~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F03%2F31%2FEn_EspaolTexas_Rangers_vs_20260331_1774989055026%2F~psid=95182155-eb0f-49b8-837c-916a7df09f5f~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=d2c575e5f88c0cbd15acffdf8d432cd990f41d85a3955754cf52fc3716096773/clt1/va02/disneyplus/event/2026/03/31/En_EspaolTexas_Rangers_vs_20260331_1774989055026/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=e1f87b62a57d00bf6868f088fd777c6d91c7dfb8",
+    "k1": "ceaee108ab354747a4092868a443fb1e",
+    "k2": "eca5fdc35f9e97e88cc9c4611aa78a9f"
   },
   {
     "title": "Montreal Canadiens vs. Tampa Bay Lightning",
@@ -211,6 +204,16 @@
     "fecha-evento": "2026-03-31T18:00:00-05:00",
     "img": "019d35df-ff90-77f8-b1c5-1bd7aab7c7d7",
     "nombre": "disneyf485e2",
+    "status": "18:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Philadelphia Flyers vs. Washington Capitals",
+    "league": "National Hockey League",
+    "fecha-evento": "2026-03-31T18:00:00-05:00",
+    "img": "873a9565-89fa-4c86-aa6d-8a9c92b9bd06",
+    "nombre": "disneyaeefb1",
     "status": "18:00",
     "duration": 135,
     "play_url": ""
