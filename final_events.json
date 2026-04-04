@@ -26,19 +26,6 @@
     "k2": "5fef7504aaf9644dcbfb767d649b6333"
   },
   {
-    "title": "Strasbourg vs. Nice",
-    "league": "Ligue 1",
-    "fecha-evento": "2026-04-04T09:50:01-05:00",
-    "img": "019d3b89-4f6b-7c2d-824d-7cbec3e2e1c4",
-    "nombre": "disney2326e3",
-    "status": "09:50",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/2fc9d119-1044-49aa-9f0b-ef26fae5fefe",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1775401280~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F04%2F04%2FStrasbourg_vs_Nice_20260404_1775307021041%2F~psid=aa3b3d9b-74f7-4da2-b59c-bd48b8a7061d~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=06050bf91d52e34b94a6172ad739ca9b08848f3318b68458f1d5e81a244d0959/clt1/va02/disneyplus/event/2026/04/04/Strasbourg_vs_Nice_20260404_1775307021041/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=e471a81736d7b3ba619b4f5753fdfcf9136cee28",
-    "k1": "8214653983084320beef0e9e7c7246a0",
-    "k2": "6cb100ee3ecde59eedd48e2edd315564"
-  },
-  {
     "title": "Pepperdine vs. Texas A&M-Corpus Christi",
     "league": "NCAA Women's Beach Volleyball",
     "fecha-evento": "2026-04-04T10:08:14-05:00",
@@ -220,22 +207,28 @@
   {
     "title": "Trabzonspor vs. Galatasaray",
     "league": "Super Lig de Turquía",
-    "fecha-evento": "2026-04-04T11:50:00-05:00",
+    "fecha-evento": "2026-04-04T11:56:34-05:00",
     "img": "019d5443-8afc-7c3c-81ec-5db0ceea0215",
-    "nombre": "disney431dc9",
-    "status": "11:50",
-    "duration": 135,
-    "play_url": ""
+    "nombre": "disneyc880c2",
+    "status": "11:56",
+    "duration": 123,
+    "play_url": "https://www.disneyplus.com/es-es/play/653b5a1d-7702-484f-824a-1bbcd93364ee",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1775408438~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F04%2F04%2FTrabzonspor_vs_Galatasara_20260404_1775314229042%2F~psid=bec15890-35a3-44ad-9181-4a1d4711becf~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=214da9e5515185a269c39f78ef91f6610eb53639cc59d0016022152bcbc17db4/clt1/va02/disneyplus/event/2026/04/04/Trabzonspor_vs_Galatasara_20260404_1775314229042/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=0544c09db97a90fe6f2f11f98b7391aa6067627b",
+    "k1": "8985201d42bc4704995f61fe1609af39",
+    "k2": "ddcc75b35086a30ab0e46200a4878a64"
   },
   {
     "title": "Brest vs. Rennes",
     "league": "Ligue 1",
-    "fecha-evento": "2026-04-04T11:50:00-05:00",
+    "fecha-evento": "2026-04-04T11:55:33-05:00",
     "img": "019d1771-1b76-7083-b25a-d527ff2346d4",
-    "nombre": "disney376166",
-    "status": "11:50",
-    "duration": 135,
-    "play_url": ""
+    "nombre": "disney254774",
+    "status": "11:55",
+    "duration": 119,
+    "play_url": "https://www.disneyplus.com/es-es/play/86216f62-ddcc-4ec8-85ba-be98b530d900",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1775408483~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F04%2F04%2FBrest_vs_Rennes_20260404_1775314254017%2F~psid=a66ed1d7-def8-42de-bdfd-a89d6f6f26bf~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=a40e62684c9bf7014bf7b4e02b202fa2d9f22507f8697e7c2f35cb86bb9c6781/clt1/va02/disneyplus/event/2026/04/04/Brest_vs_Rennes_20260404_1775314254017/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=802405fabfcb2c08fc2292c4a267ba2c0d09a935",
+    "k1": "5aa7ad76f249437f81f1335449205e59",
+    "k2": "b15186046b5b84bfb43e3c69ab6ed1a2"
   },
   {
     "title": "#23 Arizona State vs. Kansas",
@@ -674,6 +667,16 @@
     "img": "019d15e9-7894-77c7-8027-9388d5a3ce1a",
     "nombre": "disney08ca15",
     "status": "20:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Nashville Predators vs. San Jose Sharks",
+    "league": "National Hockey League",
+    "fecha-evento": "2026-04-04T21:00:00-05:00",
+    "img": "019d5067-2d88-7fc6-9817-d391030aed29",
+    "nombre": "disney0f06db",
+    "status": "21:00",
     "duration": 135,
     "play_url": ""
   }
