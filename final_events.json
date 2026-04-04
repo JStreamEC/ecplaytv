@@ -91,19 +91,6 @@
     "k2": "f69ce6e7b209c40f55252cdedf58e17a"
   },
   {
-    "title": "UL Monroe vs. Texas A&M-Corpus Christi",
-    "league": "NCAA Women's Beach Volleyball",
-    "fecha-evento": "2026-04-04T13:00:00-05:00",
-    "img": "019d4ac1-26d7-71b6-ae68-33c12f9bce57",
-    "nombre": "disneye74c8b",
-    "status": "13:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/dd82c4b3-43bc-4b33-a298-1fdb1cdc692b",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1775413282~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F04%2F04%2FUL_Monroe_vs_Texas_AMCorp_20260404_1775318410021%2F~psid=84fcfbfb-0814-4cda-8a93-91e1fd56fbbe~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=321c86628729be92bb170400f9131a6bdaca3e6b578a2d1d1737e9de6d4d4803/clt1/va02/disneyplus/event/2026/04/04/UL_Monroe_vs_Texas_AMCorp_20260404_1775318410021/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=eeb1b3751dff0db4fb743a39bd32407f9f17d9dd",
-    "k1": "61ccfc4b031940bc9144d6d4b78682f9",
-    "k2": "096e2394129c2f754cdb9cc1a80336de"
-  },
-  {
     "title": "#23 UCF vs. #13 West Virginia",
     "league": "NCAA Beisbol",
     "fecha-evento": "2026-04-04T13:00:00-05:00",
@@ -305,8 +292,11 @@
     "img": "019c1114-08e4-74ac-a1ee-64cc014687f5",
     "nombre": "disneyfbdcf9",
     "status": "15:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/df283a2c-efce-44fb-b529-881d99827777",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1775419240~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F04%2F04%2FGardnerWebb_vs_South_Caro_20260404_1775325624024%2F~psid=fbbbca4c-05f4-4306-bc2f-7bf429fae84a~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=1f294a8a7f200d1660b660e8aa9a0858739f999abf6b91f2cab879747f9bee74/clt1/va02/disneyplus/event/2026/04/04/GardnerWebb_vs_South_Caro_20260404_1775325624024/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=b9d0eadcb311e2030cbf12207d4c9bde4f378f99",
+    "k1": "f660a76663624faba84a48c7b0ed7d7c",
+    "k2": "5e698d5bb832843a6b3bbfcb911efafa"
   },
   {
     "title": "Utah Tech vs. California Baptist",
@@ -695,6 +685,16 @@
     "img": "019d39a2-cf7d-77b4-aebc-0ea334ed3b05",
     "nombre": "disneydd9c70",
     "status": "06:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Getafe CF vs. Athletic Bilbao",
+    "league": "La Liga",
+    "fecha-evento": "2026-04-05T06:50:00-05:00",
+    "img": "019d3a74-97a9-7794-b860-76ed38a790f2",
+    "nombre": "disney3e4c44",
+    "status": "06:50",
     "duration": 135,
     "play_url": ""
   }
