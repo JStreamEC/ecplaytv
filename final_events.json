@@ -78,19 +78,6 @@
     "k2": "4b4d63cd971767f1055ffec3a6e4bf7c"
   },
   {
-    "title": "AZ vs. Fortuna Sittard",
-    "league": "Eredivisie",
-    "fecha-evento": "2026-04-04T11:30:00-05:00",
-    "img": "019d17d0-cdd6-7225-a06e-e16fe26cebe2",
-    "nombre": "disneyf5a321",
-    "status": "11:30",
-    "duration": 135,
-    "play_url": "https://www.disneyplus.com/es-es/play/b79b0a29-7b4a-4f4c-b9a9-0f2e00544b28",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1775407328~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F04%2F04%2FAZ_vs_Fortuna_Sittard_20260404_1775313002029%2F~psid=16f7ae12-1c2c-4314-a98e-c9641c0cec62~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=bb22109e95b338442729a7d4cd198ffcd2cad2cdc7ad12fe48921bdd10d036ad/clt1/va02/disneyplus/event/2026/04/04/AZ_vs_Fortuna_Sittard_20260404_1775313002029/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=f2eebf511ffed31d8c9ef46df2d6ceeb9589c95d",
-    "k1": "240b6cd768564add8b53c37108ccc93c",
-    "k2": "4ae58b3f8c337ade2015212d36875f07"
-  },
-  {
     "title": "Brest vs. Rennes",
     "league": "Ligue 1",
     "fecha-evento": "2026-04-04T11:55:33-05:00",
@@ -240,8 +227,11 @@
     "img": "019d453b-da03-7ddb-90e0-2dbe1c499c4e",
     "nombre": "disney8bc16a",
     "status": "13:45",
-    "duration": 135,
-    "play_url": ""
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/e34d5055-b81a-4462-974e-d98d321d26b8",
+    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1775415640~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Ff25bdf06-81c9-4a7c-b128-3128d610ad17-1773077912071%2F~psid=2c4d2c04-3f3a-44a3-bc1d-666dcc0e2c2f~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=a72c4c95de3b04724d1f4988d29c5ef0b9195263539c889fd0b883c63c66160d/clt1/va02/disneyplus/channel/f25bdf06-81c9-4a7c-b128-3128d610ad17-1773077912071/ctr-all-sliding-alt1.m3u8?r=1080&v=1&hash=0c2b71604727acc65d3c37c7e6528ec8e2f304bb",
+    "k1": "538f00ad354e444cbf5b6d97c156f686",
+    "k2": "5884c358fc68dc2fdaa5f028d9a62525"
   },
   {
     "title": "Lazio vs. Parma",
@@ -257,14 +247,30 @@
     "k2": "49790e38f65e894df20021688d98b8ba"
   },
   {
+    "title": "Lille vs. Lens",
+    "league": "Ligue 1",
+    "fecha-evento": "2026-04-04T13:50:27-05:00",
+    "img": "019d1773-f755-7afd-9420-430048501214",
+    "nombre": "disney3e3ca7",
+    "status": "13:50",
+    "duration": 190,
+    "play_url": "https://www.disneyplus.com/es-es/play/3eb0079f-170b-4b6c-a3af-629f86537fb9",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1775415687~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F04%2F04%2FLille_vs_Lens_20260404_1775322054017%2F~psid=b4c1c06d-050f-480a-9f37-074284d4fe64~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=0cb9316d1bc1c5dca18ba50856adce0955c24a297726dd9686e236a99f5c1035/clt1/va02/disneyplus/event/2026/04/04/Lille_vs_Lens_20260404_1775322054017/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=0314163581daeb902053fba2d3a860c5e0858749",
+    "k1": "d5030b9a4dec4351a9c113b07c1bc611",
+    "k2": "edda159398eb8e99faf4e7cbaabccf2f"
+  },
+  {
     "title": "Ajax vs. FC Twente",
     "league": "Eredivisie",
-    "fecha-evento": "2026-04-04T13:50:00-05:00",
+    "fecha-evento": "2026-04-04T13:50:07-05:00",
     "img": "019d4ea6-e246-7a54-9aad-2013eb70c57b",
-    "nombre": "disneydd3545",
+    "nombre": "disneye94cb1",
     "status": "13:50",
-    "duration": 135,
-    "play_url": ""
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/50a1c1f2-aaf4-43ee-acc7-c3caf1cee692",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1775415735~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F04%2F04%2FAjax_vs_FC_Twente_20260404_1775321455029%2F~psid=1b5d891d-06f4-49e5-aa2f-d09bb7aad0e3~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=b6b4b58694773704b412b881abe01c6acee06265795beea11f1b7d139517aea4/clt1/va02/disneyplus/event/2026/04/04/Ajax_vs_FC_Twente_20260404_1775321455029/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=beaca4e221a368a5e0e88a65ccc87fd9387b9ba1",
+    "k1": "25295b2e1c4f45a49c7b774df38132cf",
+    "k2": "e416957502568f00c2e5f658b0da601c"
   },
   {
     "title": "Hawai'i vs. UC Santa Barbara",
@@ -283,8 +289,11 @@
     "img": "7f6b70e2-dcb8-4307-869b-fb5241957375",
     "nombre": "disneyaba7c2",
     "status": "14:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 180,
+    "play_url": "https://www.disneyplus.com/es-es/play/e575923e-edb7-42b4-b2c6-b2d3e7bc0606",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1775415762~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F04%2F04%2FColorado_Avalanche_vs_Dal_20260404_1775322018036%2F~psid=434f43c6-0799-446e-833b-f54fb2e1fecb~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=09cf10829b31db7f92feed8ed72005d5c84ddb24b37e6a46dfb8ce4695a72efc/clt1/va02/disneyplus/event/2026/04/04/Colorado_Avalanche_vs_Dal_20260404_1775322018036/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=bc480f5064eeaf0226d3d4c573047c31f90b6cbe",
+    "k1": "80b48f70e8b3451bbcd7113ea36cc6b3",
+    "k2": "f2ced7de591f6cdb1312589ed43f744d"
   },
   {
     "title": "Copa Colsanitas Colsubsidio / Cancha Central (Doubles Final)",
@@ -342,16 +351,6 @@
     "fecha-evento": "2026-04-04T14:00:00-05:00",
     "img": "019b33e8-5a69-7f67-ab9f-753cfc8655df",
     "nombre": "disneyc30bd7",
-    "status": "14:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Lille vs. Lens",
-    "league": "Ligue 1",
-    "fecha-evento": "2026-04-04T14:00:00-05:00",
-    "img": "019d1773-f755-7afd-9420-430048501214",
-    "nombre": "disney187e1c",
     "status": "14:00",
     "duration": 135,
     "play_url": ""
@@ -660,7 +659,7 @@
     "title": "Harvestehuder THC vs. Braxgata HC",
     "league": "European Hockey League - Women`s",
     "fecha-evento": "2026-04-05T03:15:00-05:00",
-    "img": "42bcd20c-1228-473e-b9c8-3550f957bbd2",
+    "img": "019d59db-8b5a-77ba-9063-2dfc40ce320b",
     "nombre": "disney114a0b",
     "status": "03:15",
     "duration": 135,
@@ -683,6 +682,16 @@
     "img": "019d59c6-8a31-7bf6-aab6-845ce973314a",
     "nombre": "disney0530c6",
     "status": "05:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Mariano Navone (ARG) vs. Daniel Merida (ESP) (Final)",
+    "league": "ATP",
+    "fecha-evento": "2026-04-05T06:00:00-05:00",
+    "img": "019d59bf-8279-7a13-a4b5-aa1c003659fe",
+    "nombre": "disney9520b2",
+    "status": "06:00",
     "duration": 135,
     "play_url": ""
   }
