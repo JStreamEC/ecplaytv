@@ -195,19 +195,6 @@
     "k2": "9cfe78f04db87bcf87e1ca2aa6c653e4"
   },
   {
-    "title": "Cal State Northridge vs. UC Davis",
-    "league": "NCAA Women's Water Polo",
-    "fecha-evento": "2026-04-04T14:00:00-05:00",
-    "img": "867b8692-a572-4302-8d82-d187209331b9",
-    "nombre": "disney02b0f5",
-    "status": "14:00",
-    "duration": 90,
-    "play_url": "https://www.disneyplus.com/es-es/play/13e070c7-daf7-403b-8653-0f5b4203a57a",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1775418161~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F04%2F04%2FCal_State_Northridge_vs_U_20260404_1775322001027%2F~psid=ddd8b1d5-7df7-4627-be1e-c6cb00f72cf4~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=c75acb2bcd344e2e0f278498a29a95d563de113d2e6897a6904acf42a43b9779/clt1/va02/disneyplus/event/2026/04/04/Cal_State_Northridge_vs_U_20260404_1775322001027/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=e0d4197da1a3648052d2f76d40987df019a49122",
-    "k1": "057963b445d547c795bb1a67512b4eb7",
-    "k2": "7f1e563c9a67355c2e7951a76b04b4d9"
-  },
-  {
     "title": "Colón FC vs. Plaza Colonia",
     "league": "Segunda División de Uruguay",
     "fecha-evento": "2026-04-04T14:00:00-05:00",
@@ -695,6 +682,16 @@
     "img": "e0274dd6-15d9-41ee-b7a5-fc2b76bc6cd4",
     "nombre": "disney64dbfb",
     "status": "07:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "FC Volendam vs. Feyenoord",
+    "league": "Eredivisie",
+    "fecha-evento": "2026-04-05T07:20:00-05:00",
+    "img": "019d35a5-1e4c-7fa8-a6e6-eae0ea868ded",
+    "nombre": "disneyb9057a",
+    "status": "07:20",
     "duration": 135,
     "play_url": ""
   }
