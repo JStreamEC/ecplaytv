@@ -13,19 +13,6 @@
     "k2": "1337e7104dbe59630477143537f342d2"
   },
   {
-    "title": "Hellas Verona vs. Fiorentina",
-    "league": "Seria A",
-    "fecha-evento": "2026-04-04T10:50:02-05:00",
-    "img": "019d2ab9-174f-7a7b-9913-66879185d8d0",
-    "nombre": "disney799367",
-    "status": "10:50",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/8e1993a4-9d14-4d6f-b7f8-40fb42077f8b",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1775404838~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F04%2F04%2FHellas_Verona_vs_Fiorenti_20260404_1775310627040%2F~psid=a80b813c-a9ee-4f9e-b09c-3736dad5fdc8~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=2a551ab8bfa03c566429d1cb220e5d7cecc522ad3ed6a30ab649521aa48151f3/clt1/va02/disneyplus/event/2026/04/04/Hellas_Verona_vs_Fiorenti_20260404_1775310627040/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=999c6386f90403cbcddd783cf1dfa7a178f6b424",
-    "k1": "2ba0df31cebc43b9bcf3039ba8b819a1",
-    "k2": "61770116f179e9be25b4e7da6f464586"
-  },
-  {
     "title": "Thiago Agustín Tirante (ARG) vs. Román Andrés Burruchaga (ARG) | Semifinal",
     "league": "ATP",
     "fecha-evento": "2026-04-04T11:00:00-05:00",
@@ -52,19 +39,6 @@
     "k2": "299e24a6a2cb4adfb5facc01d32b32b9"
   },
   {
-    "title": "Copa Colsanitas Colsubsidio (Semifinal)",
-    "league": "WTA",
-    "fecha-evento": "2026-04-04T11:00:00-05:00",
-    "img": "019d583b-dbc3-73b0-881b-1c50a4a9f2e1",
-    "nombre": "disneyea0258",
-    "status": "11:00",
-    "duration": 240,
-    "play_url": "https://www.disneyplus.com/es-es/play/39654b48-d3f9-4eb9-9f47-534fa235a706",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1775406127~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F04%2F04%2FCopa_Colsanitas_Colsubsid_20260404_1775311234029%2F~psid=b9363bf5-39d7-4e83-bb30-3fb07a9195d3~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=8ca988bc3f958b242eeccc4993225c041c1f0e4a4627901bfda8a4cea0db66c4/clt1/va02/disneyplus/event/2026/04/04/Copa_Colsanitas_Colsubsid_20260404_1775311234029/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=6c46e9801326266f10438d9e62267ecf7a7b7324",
-    "k1": "127bc30858aa4025b90e1d12388f5ac6",
-    "k2": "c44992bfc667b4fbf599290ae3dd7547"
-  },
-  {
     "title": "Chipotle High School Basketball Nationals (Final)",
     "league": "Boys High School Basketball",
     "fecha-evento": "2026-04-04T11:00:01-05:00",
@@ -76,6 +50,19 @@
     "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1775406153~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F04%2F04%2FChipotle_High_School_Bask_20260404_1775311251015%2F~psid=08582f84-0272-4b35-bf2f-c545d9cc6ffc~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=e1913f320251ac7a803695654d5a08eb26877636c01c455d5cb629bbf06aaa84/clt1/va02/disneyplus/event/2026/04/04/Chipotle_High_School_Bask_20260404_1775311251015/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=a8caf0420e1a8bab81d318d6da84122189df5e9b",
     "k1": "c7bb83d358844302a9ac3acf83a4698a",
     "k2": "d904f90fa15e01292fc2fab67048d008"
+  },
+  {
+    "title": "Copa Colsanitas Colsubsidio (Semifinal)",
+    "league": "WTA",
+    "fecha-evento": "2026-04-04T11:00:00-05:00",
+    "img": "019d583b-dbc3-73b0-881b-1c50a4a9f2e1",
+    "nombre": "disneyea0258",
+    "status": "11:00",
+    "duration": 240,
+    "play_url": "https://www.disneyplus.com/es-es/play/39654b48-d3f9-4eb9-9f47-534fa235a706",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1775406127~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F04%2F04%2FCopa_Colsanitas_Colsubsid_20260404_1775311234029%2F~psid=b9363bf5-39d7-4e83-bb30-3fb07a9195d3~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=8ca988bc3f958b242eeccc4993225c041c1f0e4a4627901bfda8a4cea0db66c4/clt1/va02/disneyplus/event/2026/04/04/Copa_Colsanitas_Colsubsid_20260404_1775311234029/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=6c46e9801326266f10438d9e62267ecf7a7b7324",
+    "k1": "127bc30858aa4025b90e1d12388f5ac6",
+    "k2": "c44992bfc667b4fbf599290ae3dd7547"
   },
   {
     "title": "Louisville vs. Duke",
@@ -680,6 +667,16 @@
     "img": "019d5067-0ba0-7683-bed7-8671c736ec6f",
     "nombre": "disney1affc9",
     "status": "21:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "San Luis Open Banorte (Doubles Final)",
+    "league": "ATP",
+    "fecha-evento": "2026-04-04T22:00:00-05:00",
+    "img": "019d1635-3a11-7221-acff-dd0ca6d180f8",
+    "nombre": "disney582c44",
+    "status": "22:00",
     "duration": 135,
     "play_url": ""
   }
