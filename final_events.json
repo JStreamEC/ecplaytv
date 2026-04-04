@@ -1,16 +1,13 @@
 [
   {
-    "title": "Valero Texas Open: Featured Holes #3, #7, #13 & #16 (Tercera Ronda)",
+    "title": "Valero Texas Open: Featured Group 1 (Tercera Ronda)",
     "league": "PGA TOUR",
-    "fecha-evento": "2026-04-04T08:45:02-05:00",
-    "img": "019d219b-dd87-7b2f-b2a1-409fec48e1a4",
-    "nombre": "disney8f6e33",
-    "status": "08:45",
-    "duration": 75,
-    "play_url": "https://www.disneyplus.com/es-es/play/8f754007-d1b7-41f0-b50f-2838851c3e67",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1775397636~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F04%2F04%2FValero_Texas_Open_Feature_20260404_1775304035023%2F~psid=3c45ea9e-3d72-4142-a5fd-1e3c785a48c0~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=cfc247ef8cc36856138844f0fc56e1b77d61a58d32af8363dc42561a81baa408/clt1/va02/disneyplus/event/2026/04/04/Valero_Texas_Open_Feature_20260404_1775304035023/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=5255e92b46673e08ed5072d73dd8b91a53f7884b",
-    "k1": "ee667a8a7a424e32ab9c8536234d1b52",
-    "k2": "7e2a44e7260c4698a82662850e32f9b5"
+    "fecha-evento": "2026-04-04T10:00:00-05:00",
+    "img": "019d219f-dc7a-7f3e-ac60-33fa1b99ed5f",
+    "nombre": "disney6dda98",
+    "status": "10:00",
+    "duration": 135,
+    "play_url": ""
   },
   {
     "title": "ATP Bucharest & Marrakech (Semifinal)",
@@ -197,12 +194,15 @@
   {
     "title": "Chipotle High School Basketball Nationals (Final)",
     "league": "Girls High School Basketball",
-    "fecha-evento": "2026-04-04T09:00:00-05:00",
+    "fecha-evento": "2026-04-04T09:00:02-05:00",
     "img": "865c6339-922c-4a84-8d41-ff5728a43eba",
-    "nombre": "disneyc90b8b",
+    "nombre": "disney44b288",
     "status": "09:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 90,
+    "play_url": "https://www.disneyplus.com/es-es/play/8125471a-da8c-4fe8-aa26-feb433e78cd3",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1775398837~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F04%2F04%2FChipotle_High_School_Bask_20260404_1775304056017%2F~psid=dcb53015-770f-4adb-8d7b-548dcf34c4a9~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=da9b13720d1bd265ff56e5a6ad874b7ef0978c3942b0f38df3f2759bc6f750f9/clt1/va02/disneyplus/event/2026/04/04/Chipotle_High_School_Bask_20260404_1775304056017/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=312db147dec05fc2628576786f448d437b9a81ac",
+    "k1": "648f23ad74d6494e9a39bfc6eb928554",
+    "k2": "7f95908d7c25457406d8dee8959df0b3"
   },
   {
     "title": "PSV vs. FC Utrecht",
