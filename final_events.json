@@ -13,19 +13,6 @@
     "k2": "1337e7104dbe59630477143537f342d2"
   },
   {
-    "title": "PSV vs. FC Utrecht",
-    "league": "Eredivisie",
-    "fecha-evento": "2026-04-04T09:20:00-05:00",
-    "img": "019d4ea5-9dc4-7e00-a786-a2ad549209af",
-    "nombre": "disney2d4fe6",
-    "status": "09:20",
-    "duration": 125,
-    "play_url": "https://www.disneyplus.com/es-es/play/cdc29f09-3991-407c-a6ce-a0c4b5dda0ee",
-    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1775400081~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Ff25bdf06-81c9-4a7c-b128-3128d610ad17-1773077912071%2F~psid=04756f46-8795-417b-a5ea-6d5b73d1920f~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=818ead0b9304a49e572384f9e2c530957b609d6a0751bc15bb5540da793abea8/clt1/va02/disneyplus/channel/f25bdf06-81c9-4a7c-b128-3128d610ad17-1773077912071/ctr-all-sliding-alt1.m3u8?r=1080&v=1&hash=0c2b71604727acc65d3c37c7e6528ec8e2f304bb",
-    "k1": "538f00ad354e444cbf5b6d97c156f686",
-    "k2": "5884c358fc68dc2fdaa5f028d9a62525"
-  },
-  {
     "title": "La Luz vs. Atenas",
     "league": "Segunda División de Uruguay",
     "fecha-evento": "2026-04-04T09:45:03-05:00",
@@ -188,18 +175,24 @@
     "img": "019d3b7b-f51c-714a-9a98-2dd3138c36aa",
     "nombre": "disneyb00ceb",
     "status": "11:25",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/1915b1e4-4e57-4a40-b28a-49a427d596e3",
+    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1775407236~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F921e1311-bb26-43dd-84a6-9e2284959712-1773070527132%2F~psid=f2e2704d-4c7b-4af9-bf48-a5fef3af4dc6~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=cada40d08abc5663f71c536357f6b59c324acf8ddd7a46eae1d30a357272521e/clt1/va02/disneyplus/channel/921e1311-bb26-43dd-84a6-9e2284959712-1773070527132/ctr-all-sliding-alt1.m3u8?r=1080&v=1&hash=82b614d9e6d93224b1eaa1442cd6e5c07d9789e9",
+    "k1": "b9ff2882d6d4434b9e7e119208f8d90a",
+    "k2": "38452f81a7c5d4397963dc2148c6d2fa"
   },
   {
     "title": "Detroit Red Wings vs. New York Rangers",
     "league": "National Hockey League",
-    "fecha-evento": "2026-04-04T11:25:00-05:00",
+    "fecha-evento": "2026-04-04T11:21:38-05:00",
     "img": "019d06fb-2c9d-777d-8257-24726567f8c7",
-    "nombre": "disney9b7349",
-    "status": "11:25",
-    "duration": 135,
-    "play_url": ""
+    "nombre": "disney0c0886",
+    "status": "11:21",
+    "duration": 158,
+    "play_url": "https://www.disneyplus.com/es-es/play/f796a219-346c-4b9b-829f-ca5bc3b102a2",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1775407281~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F04%2F04%2FDetroit_Red_Wings_vs_New__20260404_1775312710017%2F~psid=10fddd92-2ab5-41e7-9114-f8439046e92b~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=93243e223cf69a74c64f64e46a3fe47c6145bb5c60df070aae7e462c2e044ed0/clt1/va02/disneyplus/event/2026/04/04/Detroit_Red_Wings_vs_New__20260404_1775312710017/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=24545ddbf619033d35134d58d013a9f01611ed88",
+    "k1": "583c792b6bac440fabd2ea3daa880f8f",
+    "k2": "4b4d63cd971767f1055ffec3a6e4bf7c"
   },
   {
     "title": "AZ vs. Fortuna Sittard",
@@ -209,7 +202,10 @@
     "nombre": "disneyf5a321",
     "status": "11:30",
     "duration": 135,
-    "play_url": ""
+    "play_url": "https://www.disneyplus.com/es-es/play/b79b0a29-7b4a-4f4c-b9a9-0f2e00544b28",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1775407328~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F04%2F04%2FAZ_vs_Fortuna_Sittard_20260404_1775313002029%2F~psid=16f7ae12-1c2c-4314-a98e-c9641c0cec62~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=bb22109e95b338442729a7d4cd198ffcd2cad2cdc7ad12fe48921bdd10d036ad/clt1/va02/disneyplus/event/2026/04/04/AZ_vs_Fortuna_Sittard_20260404_1775313002029/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=f2eebf511ffed31d8c9ef46df2d6ceeb9589c95d",
+    "k1": "240b6cd768564add8b53c37108ccc93c",
+    "k2": "4ae58b3f8c337ade2015212d36875f07"
   },
   {
     "title": "Minnesota Wild vs. Ottawa Senators",
@@ -667,6 +663,16 @@
     "fecha-evento": "2026-04-04T20:00:00-05:00",
     "img": "019c10e3-a828-7dc0-b07e-a57990d23c92",
     "nombre": "disney4974c4",
+    "status": "20:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Tim Tszyu vs. Denis Nurja | ESPN KO",
+    "league": "ESPN",
+    "fecha-evento": "2026-04-04T20:00:00-05:00",
+    "img": "019d15e9-7894-77c7-8027-9388d5a3ce1a",
+    "nombre": "disney08ca15",
     "status": "20:00",
     "duration": 135,
     "play_url": ""
