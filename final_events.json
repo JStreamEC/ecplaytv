@@ -20,16 +20,6 @@
     "play_url": "https://www.disneyplus.com/es-es/play/e9396f75-98de-4874-9361-dfb85b38ce27"
   },
   {
-    "title": "Tuesday at the Masters",
-    "league": "ESPN",
-    "fecha-evento": "2026-04-07T11:00:02-05:00",
-    "img": "a473a0f3-30b8-4c5f-94c4-1fe7b6666d79",
-    "nombre": "disney23e302",
-    "status": "11:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/7e7c5359-0f10-4e3b-a9ec-719a660e855c"
-  },
-  {
     "title": "Upper Austria Ladies Linz / Center Court",
     "league": "WTA",
     "fecha-evento": "2026-04-07T12:00:00-05:00",
@@ -460,22 +450,22 @@
     "play_url": ""
   },
   {
+    "title": "2026 Masters Par 3 Contest",
+    "league": "ESPN",
+    "fecha-evento": "2026-04-08T11:00:00-05:00",
+    "img": "019ca1a2-3ffa-701d-9bc9-df2d8d40e752",
+    "nombre": "disneyb47431",
+    "status": "11:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
     "title": "Florida A&M vs. Troy",
     "league": "NCAA Beisbol",
     "fecha-evento": "2026-04-08T11:00:00-05:00",
     "img": "019c3811-5516-75b8-8fb1-d7facd3dd6a2",
     "nombre": "disney2e2d41",
     "status": "11:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "2026 Masters Golf Tournament (Par 3 Contest) | En español",
-    "league": "ESPN",
-    "fecha-evento": "2026-04-08T13:00:00-05:00",
-    "img": "019ca1a2-3ffa-701d-9bc9-df2d8d40e752",
-    "nombre": "disneya47149",
-    "status": "13:00",
     "duration": 135,
     "play_url": ""
   },
@@ -496,6 +486,16 @@
     "img": "019d1c8f-d98d-7dfd-b259-cc4551058b69",
     "nombre": "disneyfa60e6",
     "status": "11:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "2026 Masters Golf Tournament (Par 3 Contest) | En español",
+    "league": "ESPN",
+    "fecha-evento": "2026-04-08T13:00:00-05:00",
+    "img": "019ca1a2-3ffa-701d-9bc9-df2d8d40e752",
+    "nombre": "disneya47149",
+    "status": "13:00",
     "duration": 135,
     "play_url": ""
   },
