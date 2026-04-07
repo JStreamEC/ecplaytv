@@ -1,15 +1,5 @@
 [
   {
-    "title": "Upper Austria Ladies Linz (Primera Ronda)",
-    "league": "WTA",
-    "fecha-evento": "2026-04-07T04:59:26-05:00",
-    "img": "019d2168-169f-76c5-b734-51aa34f9c914",
-    "nombre": "disney97807b",
-    "status": "04:59",
-    "duration": 481,
-    "play_url": "https://www.disneyplus.com/es-es/play/8707480a-4abc-4db5-a2b6-8cab5c99173e"
-  },
-  {
     "title": "Upper Austria Ladies Linz / Match Court 1",
     "league": "WTA",
     "fecha-evento": "2026-04-07T05:00:27-05:00",
@@ -46,8 +36,8 @@
     "img": "019d5416-df20-7d7b-817a-4b0d8ce65019",
     "nombre": "disney61f12c",
     "status": "13:30",
-    "duration": 135,
-    "play_url": ""
+    "duration": 145,
+    "play_url": "https://www.disneyplus.com/es-es/play/49c7b9bc-0cdb-411a-90df-892171f11ce0"
   },
   {
     "title": "Sporting Lisboa vs. Arsenal | 4tos de final, ida",
@@ -56,8 +46,8 @@
     "img": "019d540a-5ea5-7137-b297-37816aaedb84",
     "nombre": "disneyf0fd6b",
     "status": "13:30",
-    "duration": 135,
-    "play_url": ""
+    "duration": 145,
+    "play_url": "https://www.disneyplus.com/es-es/play/529273f5-c242-4ae7-bc3d-a04a5bf65f49"
   },
   {
     "title": "Bromley vs. Shrewsbury Town",
@@ -605,6 +595,16 @@
     "fecha-evento": "2026-04-08T18:30:00-05:00",
     "img": "019d54d3-ab00-7bee-bac7-5fa31d230229",
     "nombre": "disneyf02375",
+    "status": "18:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Stockton Kings vs. Greensboro Swarm (Finals, Game 1)",
+    "league": "NBA G League",
+    "fecha-evento": "2026-04-08T18:30:00-05:00",
+    "img": "019d39be-6c37-78ce-8be3-4da5a1d70e3e",
+    "nombre": "disney53ecb9",
     "status": "18:30",
     "duration": 135,
     "play_url": ""
