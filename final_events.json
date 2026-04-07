@@ -1,15 +1,5 @@
 [
   {
-    "title": "Rolex Monte-Carlo Masters (First & Second Round)",
-    "league": "ATP",
-    "fecha-evento": "2026-04-07T04:00:07-05:00",
-    "img": "019d39a2-cf7d-77b4-aebc-0ea334ed3b05",
-    "nombre": "disney18abef",
-    "status": "04:00",
-    "duration": 505,
-    "play_url": "https://www.disneyplus.com/es-es/play/e7167de2-bf5f-4c6b-862b-36d6f0b5c467"
-  },
-  {
     "title": "Upper Austria Ladies Linz (Primera Ronda)",
     "league": "WTA",
     "fecha-evento": "2026-04-07T04:59:26-05:00",
@@ -606,6 +596,16 @@
     "img": "019d54d1-978c-7eff-86ab-41deee7f3238",
     "nombre": "disney5d0a6c",
     "status": "18:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Washington Capitals vs. Toronto Maple Leafs",
+    "league": "National Hockey League",
+    "fecha-evento": "2026-04-08T18:30:00-05:00",
+    "img": "019d54d3-ab00-7bee-bac7-5fa31d230229",
+    "nombre": "disneyf02375",
+    "status": "18:30",
     "duration": 135,
     "play_url": ""
   }
