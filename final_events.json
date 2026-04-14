@@ -1,18 +1,5 @@
 [
   {
-    "title": "Grenada vs. Cayman Islands",
-    "league": "Concacaf W Championship Qualifying",
-    "fecha-evento": "2026-04-14T16:00:17-05:00",
-    "img": "019d2bbd-d5e0-7b04-af1a-dbc676fffcaf",
-    "nombre": "disneyb5997d",
-    "status": "16:00",
-    "duration": 150,
-    "play_url": "https://www.disneyplus.com/es-es/play/40ceca8c-c85e-4cf4-b1f8-a5e5e9665d06",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1776288081~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F04%2F14%2FGrenada_vs_Cayman_Islands_20260414_1776192919042%2F~psid=60ea1a1b-f1a0-4706-9b8e-d7de69234506~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=d0018478d076993a499f76e62171804202acaa8c0d4b388f9594c2c5bd72f4a1/clt1/va02/disneyplus/event/2026/04/14/Grenada_vs_Cayman_Islands_20260414_1776192919042/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=b34a4d2bc766d22e37880c48627170face6bf7fb",
-    "k1": "3a50902a7a1046b1831376a5fe958b47",
-    "k2": "3d532c0b25ced173950a200805dfb3c1"
-  },
-  {
     "title": "Estudiantes de La Plata (ARG) vs. Cusco (PER)",
     "league": "CONMEBOL Libertadores",
     "fecha-evento": "2026-04-14T16:45:00-05:00",
@@ -104,22 +91,25 @@
     "k2": "db6ca0b4db9ff157039580668a7290d1"
   },
   {
+    "title": "Boca Juniors (ARG) vs. Barcelona (ECU)",
+    "league": "CONMEBOL Libertadores",
+    "fecha-evento": "2026-04-14T18:30:04-05:00",
+    "img": "019d86cb-e502-7663-bdfd-ba88dc34992b",
+    "nombre": "disneyc13d56",
+    "status": "18:30",
+    "duration": 145,
+    "play_url": "https://www.disneyplus.com/es-es/play/7c3d7a36-6fc6-4f26-834a-a71c70bf70a6",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1776296441~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F04%2F14%2FBoca_Juniors_ARG_vs_Barce_20260414_1776202247052%2F~psid=f825d5f9-6dfb-4c0d-8bec-d31cbf0c1995~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=ca50abb0e2b800fc5008584936f52d2611d1345da5ca11b94d752503a7ae7dca/clt1/va02/disneyplus/event/2026/04/14/Boca_Juniors_ARG_vs_Barce_20260414_1776202247052/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=8ca79c2739a0f0aadb1cd624a33495c7927b4da1",
+    "k1": "c8e5eaa221024adf90c5e818ae348705",
+    "k2": "a67f910a63985cdb3cacb6ddcb4701b0"
+  },
+  {
     "title": "Anaheim Ducks vs. Minnesota Wild",
     "league": "National Hockey League",
     "fecha-evento": "2026-04-14T19:00:00-05:00",
     "img": "019d6a6e-afd2-7e88-8f25-3d6deeaac11d",
     "nombre": "disneyd7b0b1",
     "status": "19:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Boca Juniors (ARG) vs. Barcelona (ECU)",
-    "league": "CONMEBOL Libertadores",
-    "fecha-evento": "2026-04-14T18:55:00-05:00",
-    "img": "019d86cb-e502-7663-bdfd-ba88dc34992b",
-    "nombre": "disney1c8798",
-    "status": "18:55",
     "duration": 135,
     "play_url": ""
   },
