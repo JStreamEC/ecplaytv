@@ -162,28 +162,37 @@
     "img": "019d4df2-7614-7bd0-9477-db314fea8b20",
     "nombre": "disneyad0d6c",
     "status": "13:50",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Southampton vs. Blackburn Rovers",
-    "league": "Championship de Inglaterra",
-    "fecha-evento": "2026-04-14T13:55:00-05:00",
-    "img": "019d7725-9d5c-7940-a9ae-c29b04dac16b",
-    "nombre": "disney4849e6",
-    "status": "13:55",
-    "duration": 135,
-    "play_url": ""
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/f5a8af45-f8b6-4bae-a5ba-a1ad0dcd5e60",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1776279637~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F04%2F14%2FPortsmouth_vs_Ipswich_Tow_20260414_1776187603063%2F~psid=6749c0f5-c2d3-4a75-a8ab-32d78856fecf~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=735659a650a77a21f8a4f8144cb32998ef73cdc6fe10db6c55f84875c2be0a07/clt1/va02/disneyplus/event/2026/04/14/Portsmouth_vs_Ipswich_Tow_20260414_1776187603063/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=6d34f282c5307158cd2ea31dfc617a280d7fbd9e",
+    "k1": "471759b4695b4a3ba89e9f94497353ab",
+    "k2": "61e2de7951983aca53d9a11347bf0f0e"
   },
   {
     "title": "Dominica vs. Antigua & Barbuda",
     "league": "Concacaf W Championship Qualifying",
-    "fecha-evento": "2026-04-14T13:55:00-05:00",
+    "fecha-evento": "2026-04-14T13:50:25-05:00",
     "img": "019d2c90-fd20-776b-968f-f3a875cc1f32",
-    "nombre": "disney3afce1",
-    "status": "13:55",
-    "duration": 135,
-    "play_url": ""
+    "nombre": "disneyec625b",
+    "status": "13:50",
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/915968a9-217c-4dfc-94ba-4a4237f9d2df",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1776279683~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F04%2F14%2FDominica_vs_Antigua_Barbu_20260414_1776185754018%2F~psid=5f5e3f30-f757-4510-ade2-7c1b88fa8a4c~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=29573a0fa7644edb63c1a6b24757c4d6ac6e029280ff676098664383c061bda2/clt1/va02/disneyplus/event/2026/04/14/Dominica_vs_Antigua_Barbu_20260414_1776185754018/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=25319425beb2dee35efdb64599ec4680a2df3662",
+    "k1": "48f84fdf78014ab7b733d21cf32dd5f4",
+    "k2": "c48b58087fe6d7ccdef4c1ccfed36c04"
+  },
+  {
+    "title": "Southampton vs. Blackburn Rovers",
+    "league": "Championship de Inglaterra",
+    "fecha-evento": "2026-04-14T13:52:08-05:00",
+    "img": "019d7725-9d5c-7940-a9ae-c29b04dac16b",
+    "nombre": "disney74f61a",
+    "status": "13:52",
+    "duration": 128,
+    "play_url": "https://www.disneyplus.com/es-es/play/28e98ed9-539b-4cbf-bf25-a40e05764e75",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1776279728~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F04%2F14%2FSouthampton_vs_Blackburn__20260414_1776185703031%2F~psid=2b69d7dd-2d8f-482f-8c65-c302f483ef9d~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=bd9e1fcfa662f4150aa35180ee85d097b1daaf7a8c1823b41780cf6d316df984/clt1/va02/disneyplus/event/2026/04/14/Southampton_vs_Blackburn__20260414_1776185703031/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=725cdb959a811dc991e3b499a9a2af63603fb4d3",
+    "k1": "60e0c4cc11f84b7d9840040c8db1ea5f",
+    "k2": "8ad1a1ded30c64de6927fcb9f0523079"
   },
   {
     "title": "Grenada vs. Cayman Islands",
@@ -479,7 +488,7 @@
     "title": "Barcelona Open BancSabadell (Segunda Ronda)",
     "league": "ATP",
     "fecha-evento": "2026-04-15T04:00:00-05:00",
-    "img": "019d16f7-184b-76d9-9869-041db40b2dfd",
+    "img": "019d8d52-f7d5-7d16-88b1-9de217bf7365",
     "nombre": "disney48c7d5",
     "status": "04:00",
     "duration": 135,
