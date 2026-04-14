@@ -1,18 +1,5 @@
 [
   {
-    "title": "St. Vincent & The Grenadines vs. US Virgin Islands",
-    "league": "Concacaf W Championship Qualifying",
-    "fecha-evento": "2026-04-14T15:50:17-05:00",
-    "img": "019d2bf8-1724-7c83-b9b4-fc2bccb5af2c",
-    "nombre": "disneye19ad2",
-    "status": "15:50",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/b9b707da-ea52-40c7-bb46-17135bc539ba",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1776288037~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F04%2F14%2FSt_Vincent_The_Grenadines_20260414_1776192955042%2F~psid=9fce0666-e54b-4314-b2ca-d6bb9c2f1b3a~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=8c453d74aa3ab5bbb2457a6b900a33b0c0033086c249c78c5c7f3d2267dd6e15/clt1/va02/disneyplus/event/2026/04/14/St_Vincent_The_Grenadines_20260414_1776192955042/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=2adab3fa53ee53ab4bf8a6c153dc967476aaad86",
-    "k1": "d7cfcac5b614455ba8f1c24b4f8e8ccf",
-    "k2": "fe1219ad96313a95f475e59e679356d1"
-  },
-  {
     "title": "Grenada vs. Cayman Islands",
     "league": "Concacaf W Championship Qualifying",
     "fecha-evento": "2026-04-14T16:00:17-05:00",
@@ -65,44 +52,56 @@
     "k2": "7eb855677340ad21940c29a8bcf6bda8"
   },
   {
-    "title": "Montreal Canadiens vs. Philadelphia Flyers",
+    "title": "Washington Capitals vs. Columbus Blue Jackets",
     "league": "National Hockey League",
-    "fecha-evento": "2026-04-14T18:00:00-05:00",
-    "img": "019d6a41-07de-7c63-99fe-e8e2c1b13ab4",
-    "nombre": "disneyc4f011",
-    "status": "18:00",
-    "duration": 135,
-    "play_url": ""
+    "fecha-evento": "2026-04-14T17:59:57-05:00",
+    "img": "019d3630-46d7-7fd9-b3d0-918b3adc5de1",
+    "nombre": "disneyab1972",
+    "status": "17:59",
+    "duration": 150,
+    "play_url": "https://www.disneyplus.com/es-es/play/e7a7844c-5d3f-4fc6-b03b-57291b2fae4e",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1776295242~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F04%2F14%2FWashington_Capitals_vs_Co_20260414_1776200446046%2F~psid=696d6ee9-13a7-46b8-8879-2cea06916664~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=968bc0c8cd9a44a1403ad3ecb68b0d85cb12f3de084606aae469a3eeb8d51eba/clt1/va02/disneyplus/event/2026/04/14/Washington_Capitals_vs_Co_20260414_1776200446046/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=a4f91057f96d98019579fdef529d70341b708f90",
+    "k1": "0542b3129c134eafb25aaab5200ef3fe",
+    "k2": "2a66ddc6c33a91888fab4212dc2778e1"
   },
   {
     "title": "Carolina Hurricanes vs. New York Islanders",
     "league": "National Hockey League",
-    "fecha-evento": "2026-04-14T18:00:00-05:00",
+    "fecha-evento": "2026-04-14T18:00:12-05:00",
     "img": "019d6d5e-148c-7152-979f-b863e42a1139",
-    "nombre": "disney386265",
+    "nombre": "disney5a3c2a",
     "status": "18:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 210,
+    "play_url": "https://www.disneyplus.com/es-es/play/6a97200f-ee1a-46fb-b6da-d5a521079200",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1776295288~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F04%2F14%2FCarolina_Hurricanes_vs_Ne_20260414_1776200434028%2F~psid=c9bf12a2-d254-43b2-8ef5-11941316edad~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=50cb1fe1c6958cc5b2f9f047dbfcecbf3aa01091ec2912ebaa1b208fc7ecc15b/clt1/va02/disneyplus/event/2026/04/14/Carolina_Hurricanes_vs_Ne_20260414_1776200434028/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=db04b693bec907fb1a84a1acb2f6767a1c75f231",
+    "k1": "54fb40616c514d069448f7f825e4a358",
+    "k2": "922285e43cb57bb1bc2959a8bf96f508"
+  },
+  {
+    "title": "Montreal Canadiens vs. Philadelphia Flyers",
+    "league": "National Hockey League",
+    "fecha-evento": "2026-04-14T18:00:20-05:00",
+    "img": "019d6a41-07de-7c63-99fe-e8e2c1b13ab4",
+    "nombre": "disney63011c",
+    "status": "18:00",
+    "duration": 210,
+    "play_url": "https://www.disneyplus.com/es-es/play/32f0a359-d7b6-4f8f-b548-c7d7b0704c12",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1776295336~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F04%2F14%2FMontreal_Canadiens_vs_Phi_20260414_1776200404043%2F~psid=48e8451f-4a77-4e0b-bf8b-b87034ccdc3a~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=3db5ec7e39a883b2f5b3858873c174cfd0ab07b50991ecb96cb76876065a5ca6/clt1/va02/disneyplus/event/2026/04/14/Montreal_Canadiens_vs_Phi_20260414_1776200404043/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=6ccad645cef5e454d4f2b39f387c1653c488848b",
+    "k1": "0c9f2e2d7e1a47778d2caa4596d26894",
+    "k2": "6d070f2a83082641a8b103d873622fed"
   },
   {
     "title": "New Jersey Devils vs. Boston Bruins",
     "league": "National Hockey League",
-    "fecha-evento": "2026-04-14T18:00:00-05:00",
+    "fecha-evento": "2026-04-14T18:00:43-05:00",
     "img": "019d6a44-237c-754f-b829-6bec4d5f0606",
-    "nombre": "disney8913b2",
+    "nombre": "disneyae9bb3",
     "status": "18:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Washington Capitals vs. Columbus Blue Jackets",
-    "league": "National Hockey League",
-    "fecha-evento": "2026-04-14T18:00:00-05:00",
-    "img": "019d3630-46d7-7fd9-b3d0-918b3adc5de1",
-    "nombre": "disney0942cf",
-    "status": "18:00",
-    "duration": 135,
-    "play_url": ""
+    "duration": 209,
+    "play_url": "https://www.disneyplus.com/es-es/play/7dd36927-639f-41db-8291-4dfc7b504c94",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1776295362~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F04%2F14%2FNew_Jersey_Devils_vs_Bost_20260414_1776200456894%2F~psid=cdca013b-a709-430b-b713-4773451a0efa~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=c786cdacee9bd7fa9e3ca28030c21ff2b204ef27412ef8df2365de62a90060a6/clt1/va02/disneyplus/event/2026/04/14/New_Jersey_Devils_vs_Bost_20260414_1776200456894/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=6996502dd6f5d57784d05918ab50a8469583a366",
+    "k1": "c44a29da54d148ac8022c6f9edd11381",
+    "k2": "db6ca0b4db9ff157039580668a7290d1"
   },
   {
     "title": "Anaheim Ducks vs. Minnesota Wild",
@@ -621,6 +620,16 @@
     "img": "019d642d-006e-7391-ba96-7ae5efb6ca85",
     "nombre": "disney348807",
     "status": "02:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "BMW Open / Court 1 (Doubles Quarterfinals)",
+    "league": "ATP",
+    "fecha-evento": "2026-04-16T04:00:00-05:00",
+    "img": "019d1bba-4777-739b-8af0-e99af7c6b4eb",
+    "nombre": "disney14bcf8",
+    "status": "04:00",
     "duration": 135,
     "play_url": ""
   }
