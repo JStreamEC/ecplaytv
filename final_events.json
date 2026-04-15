@@ -13,16 +13,6 @@
     "k2": "056c6e4cca5ae4cefb2d6e72434b9a23"
   },
   {
-    "title": "Chicago Cubs vs. Philadelphia Phillies",
-    "league": "MLB",
-    "fecha-evento": "2026-04-15T17:30:00-05:00",
-    "img": "019d4a59-2bcb-7d94-9300-915ce40097a8",
-    "nombre": "disney8d531d",
-    "status": "17:30",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Caracas FC (VEN) vs. Independiente Petrolero (BOL)",
     "league": "CONMEBOL Sudamericana",
     "fecha-evento": "2026-04-15T16:45:00-05:00",
@@ -62,6 +52,45 @@
     "k2": "43a42fb63791107635e128deda1713d0"
   },
   {
+    "title": "Chicago Cubs vs. Philadelphia Phillies",
+    "league": "MLB",
+    "fecha-evento": "2026-04-15T17:30:02-05:00",
+    "img": "019d4a59-2bcb-7d94-9300-915ce40097a8",
+    "nombre": "disneyad48be",
+    "status": "17:30",
+    "duration": 180,
+    "play_url": "https://www.disneyplus.com/es-es/play/747201f2-68b8-4895-a061-97d0f0c2abe7",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1776379234~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F04%2F15%2FEn_EspaolChicago_Cubs_vs__20260415_1776285025041%2F~psid=74180fa1-2910-4a6a-8645-e8553caf7058~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=d2158b652d19256be050f2ac72ea590dfa44825a309688a3ebb1413b3421024f/clt1/va02/disneyplus/event/2026/04/15/En_EspaolChicago_Cubs_vs__20260415_1776285025041/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=891fca03ea2e4b7016d96568aff2bf180077f7fd",
+    "k1": "052e7c9b90f1402c958c572d3aa29af8",
+    "k2": "b602b460bd35de921778646797e6cb04"
+  },
+  {
+    "title": "Detroit Red Wings vs. Florida Panthers",
+    "league": "National Hockey League",
+    "fecha-evento": "2026-04-15T17:30:11-05:00",
+    "img": "019d6a47-446a-7975-ae97-01ba0ba41f8a",
+    "nombre": "disneydcd6cf",
+    "status": "17:30",
+    "duration": 240,
+    "play_url": "https://www.disneyplus.com/es-es/play/4a7e7288-cac7-423c-8cfc-676dbca68a7d",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1776379279~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F04%2F15%2FDetroit_Red_Wings_vs_Flor_20260415_1776286813476%2F~psid=9d289533-86b5-4d51-828b-ef637ef27d43~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=d39981d6bc220d67e2bc3da954bbec2bc1f035b15c6135790b356f4347e33324/clt1/va02/disneyplus/event/2026/04/15/Detroit_Red_Wings_vs_Flor_20260415_1776286813476/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=3a942be1a8e75fec7a6f86359fae7419149231df",
+    "k1": "8920bef693804540b743773bdb0dd047",
+    "k2": "1af04e3cb0d03b4284f0e0e636ebb58a"
+  },
+  {
+    "title": "New York Rangers vs. Tampa Bay Lightning",
+    "league": "National Hockey League",
+    "fecha-evento": "2026-04-15T17:30:13-05:00",
+    "img": "019d6a40-8111-72dc-87f4-d6132daf8ea4",
+    "nombre": "disney9ae0b8",
+    "status": "17:30",
+    "duration": 240,
+    "play_url": "https://www.disneyplus.com/es-es/play/6082dbc3-e515-4163-8955-87ab3a7c75e8",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1776379325~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F04%2F15%2FNew_York_Rangers_vs_Tampa_20260415_1776286802043%2F~psid=cbf21424-3c95-448a-957c-e7a752705e10~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=610314c7d851d24f5a3176ee13a9e9c7ed4c7c4a1b3e8e3fc0f84e80c144b3db/clt1/va02/disneyplus/event/2026/04/15/New_York_Rangers_vs_Tampa_20260415_1776286802043/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=d5bbc5621e2ccc14fa34572913f96286178522c9",
+    "k1": "224585a005834b90bc60acc91709467d",
+    "k2": "d1d846550068e9ec31244c39c86e12d8"
+  },
+  {
     "title": "Dallas Stars vs. Buffalo Sabres",
     "league": "National Hockey League",
     "fecha-evento": "2026-04-15T18:00:00-05:00",
@@ -77,26 +106,6 @@
     "fecha-evento": "2026-04-15T18:00:00-05:00",
     "img": "5afbfa66-16c2-4d4a-8dbf-47ced9002ba5",
     "nombre": "disney99b1a8",
-    "status": "18:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Detroit Red Wings vs. Florida Panthers",
-    "league": "National Hockey League",
-    "fecha-evento": "2026-04-15T18:00:00-05:00",
-    "img": "019d6a47-446a-7975-ae97-01ba0ba41f8a",
-    "nombre": "disney892b30",
-    "status": "18:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "New York Rangers vs. Tampa Bay Lightning",
-    "league": "National Hockey League",
-    "fecha-evento": "2026-04-15T18:00:00-05:00",
-    "img": "019d6a40-8111-72dc-87f4-d6132daf8ea4",
-    "nombre": "disneyb4f4b9",
     "status": "18:00",
     "duration": 135,
     "play_url": ""
@@ -462,6 +471,16 @@
     "play_url": ""
   },
   {
+    "title": "UEL & UECL al instante",
+    "league": "UEFA Europa League",
+    "fecha-evento": "2026-04-16T13:45:00-05:00",
+    "img": "019caedd-b87c-7f3f-a8f7-088b6ab2adfe",
+    "nombre": "disneyc2b0a7",
+    "status": "13:45",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
     "title": "Strasbourg vs. Mainz 05  | 4tos de final, vuelta",
     "league": "UEFA Conference League",
     "fecha-evento": "2026-04-16T13:50:00-05:00",
@@ -597,16 +616,6 @@
     "fecha-evento": "2026-04-16T20:00:00-05:00",
     "img": "019d6d47-2a91-7c2d-9728-cd096b3cb987",
     "nombre": "disneybac3f6",
-    "status": "20:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "NCAA Women's College Gymnastics Championship (Sesión Nocturna)",
-    "league": "NCAA Gimnasia Femenina",
-    "fecha-evento": "2026-04-16T20:00:00-05:00",
-    "img": "381bc42f-b4a0-467e-bf87-b6394f8b4927",
-    "nombre": "disney50f4de",
     "status": "20:00",
     "duration": 135,
     "play_url": ""
