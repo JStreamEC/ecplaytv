@@ -78,16 +78,6 @@
     "k2": "504dd2a8dee1fa1b7f2b70d27a0431d7"
   },
   {
-    "title": "Toronto Maple Leafs vs. Ottawa Senators",
-    "league": "National Hockey League",
-    "fecha-evento": "2026-04-15T18:30:00-05:00",
-    "img": "019d6d45-d3bf-7441-9fed-901ca1ed75af",
-    "nombre": "disney7576f6",
-    "status": "18:30",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Detroit Red Wings vs. Florida Panthers",
     "league": "National Hockey League",
     "fecha-evento": "2026-04-15T17:30:11-05:00",
@@ -125,6 +115,19 @@
     "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1776381679~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F04%2F15%2FDallas_Stars_vs_Buffalo_S_20260415_1776286801655%2F~psid=d1484137-db3e-46fa-9068-4824d27bf5d3~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=abd7aebaf17c132e82526cc161458624a8641b934f1838685d5385e8b88f6380/clt1/va02/disneyplus/event/2026/04/15/Dallas_Stars_vs_Buffalo_S_20260415_1776286801655/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=06f4b91865148f44cbc8fec7ba148f482a3edcef",
     "k1": "698d009d949b456694e0e66cdbc40ab4",
     "k2": "d0ac265430b898df9aec842222761b21"
+  },
+  {
+    "title": "Toronto Maple Leafs vs. Ottawa Senators",
+    "league": "National Hockey League",
+    "fecha-evento": "2026-04-15T18:32:48-05:00",
+    "img": "019d6d45-d3bf-7441-9fed-901ca1ed75af",
+    "nombre": "disney5d05f9",
+    "status": "18:32",
+    "duration": 207,
+    "play_url": "https://www.disneyplus.com/es-es/play/280b713c-b92e-46ee-bd5d-8dee1d651076",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1776382834~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F04%2F15%2FToronto_Maple_Leafs_vs_Ot_20260415_1776288636016%2F~psid=175ccef4-2f3f-45cb-bbe8-b341432a3f7f~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=0ae0d01a991ca7f68893f054bfbfcf736b7b4112064edbdbd6ec1186cc939a61/clt1/va02/disneyplus/event/2026/04/15/Toronto_Maple_Leafs_vs_Ot_20260415_1776288636016/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=2201abcdf2258f3fcc4c2abd8cfd07245f7f79f0",
+    "k1": "f681c127cec74e3baa750d11bfeb9802",
+    "k2": "9406131de3f72796be56726ff11f534b"
   },
   {
     "title": "Olimpia (PAR) vs. Barracas Central (ARG)",
