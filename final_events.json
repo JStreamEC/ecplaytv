@@ -1,18 +1,5 @@
 [
   {
-    "title": "Open Capfinances Rouen Métropole / Centre Court",
-    "league": "WTA",
-    "fecha-evento": "2026-04-15T04:31:20-05:00",
-    "img": "019d39e0-b871-7d30-81e4-af3c99926ab8",
-    "nombre": "disney0045e3",
-    "status": "04:31",
-    "duration": 599,
-    "play_url": "https://www.disneyplus.com/es-es/play/a969989f-907f-4519-9258-b210ee760a4a",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1776363686~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F04%2F15%2FOpen_Capfinances_Rouen_Mt_20260415_1776238208056%2F~psid=bceb0b3b-b5f4-4b05-a5dc-bab78b09e28e~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=770d13f45bd71673901bff817623a1a1a78321d44236d1eadcd587030ff87c66/clt1/va02/disneyplus/event/2026/04/15/Open_Capfinances_Rouen_Mt_20260415_1776238208056/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=a25065553fdb45974815bd3289912aeff737c1bd",
-    "k1": "c6d30abaeb3e4e6bb591142f25c3352b",
-    "k2": "ccf8b009a492164e7b86be708574fbc5"
-  },
-  {
     "title": "2026 Roland Garros Junior Series by Renault (Round Robin)",
     "league": "ESPN",
     "fecha-evento": "2026-04-15T10:28:49-05:00",
@@ -375,6 +362,16 @@
     "play_url": ""
   },
   {
+    "title": "Open Capfinances Rouen Métropole / Centre Court",
+    "league": "WTA",
+    "fecha-evento": "2026-04-16T10:30:00-05:00",
+    "img": "019d39e0-b871-7d30-81e4-af3c99926ab8",
+    "nombre": "disneyf2447e",
+    "status": "10:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
     "title": "Premier Padel: Newgiza - Secondary Court (Cuartos de Final #2)",
     "league": "Premier Padel",
     "fecha-evento": "2026-04-16T10:30:00-05:00",
@@ -421,16 +418,6 @@
     "img": "019d79f8-74c2-76bc-aa49-9a77b0ef7597",
     "nombre": "disney8a342f",
     "status": "11:30",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "UEL & UECL al instante",
-    "league": "UEFA Europa League",
-    "fecha-evento": "2026-04-16T11:35:00-05:00",
-    "img": "019caedd-b87c-7f3f-a8f7-088b6ab2adfe",
-    "nombre": "disney5d2b77",
-    "status": "11:35",
     "duration": 135,
     "play_url": ""
   },
@@ -600,6 +587,26 @@
     "fecha-evento": "2026-04-16T20:00:00-05:00",
     "img": "019d6a63-f767-76dc-8144-3e4865062312",
     "nombre": "disneya37401",
+    "status": "20:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Vancouver Canucks vs. Edmonton Oilers",
+    "league": "National Hockey League",
+    "fecha-evento": "2026-04-16T20:00:00-05:00",
+    "img": "019d6d47-2a91-7c2d-9728-cd096b3cb987",
+    "nombre": "disneybac3f6",
+    "status": "20:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "NCAA Women's College Gymnastics Championship (Sesión Nocturna)",
+    "league": "NCAA Gimnasia Femenina",
+    "fecha-evento": "2026-04-16T20:00:00-05:00",
+    "img": "381bc42f-b4a0-467e-bf87-b6394f8b4927",
+    "nombre": "disney50f4de",
     "status": "20:00",
     "duration": 135,
     "play_url": ""
