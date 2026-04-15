@@ -1,18 +1,5 @@
 [
   {
-    "title": "Barcelona Open BancSabadell (Segunda Ronda)",
-    "league": "ATP",
-    "fecha-evento": "2026-04-15T04:00:05-05:00",
-    "img": "019d91e9-a0dc-73b3-82be-515824a22318",
-    "nombre": "disney708375",
-    "status": "04:00",
-    "duration": 565,
-    "play_url": "https://www.disneyplus.com/es-es/play/ef948453-67e9-4e0b-8d59-fc525d8ec83a",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1776363640~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F04%2F15%2FBarcelona_Open_BancSabade_20260415_1776236437017%2F~psid=eeb7ef0f-0964-4d06-b183-c97b382a7b4a~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=09b67ac671a3a2c6177835996ee5fe7a3deedd361389f2cc6b576cb0f0c62616/clt1/va02/disneyplus/event/2026/04/15/Barcelona_Open_BancSabade_20260415_1776236437017/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=a65b989037a647dae6d2cf7801246858da7b0680",
-    "k1": "d0bb58601bda4de190b3c6d26520c86b",
-    "k2": "8c3858491b832c92fd76d281214fa2ae"
-  },
-  {
     "title": "Open Capfinances Rouen Métropole / Centre Court",
     "league": "WTA",
     "fecha-evento": "2026-04-15T04:31:20-05:00",
@@ -427,6 +414,16 @@
     "play_url": ""
   },
   {
+    "title": "Barcelona Open BancSabadell (Segunda Ronda)",
+    "league": "ATP",
+    "fecha-evento": "2026-04-16T06:30:00-05:00",
+    "img": "019d16f7-184b-76d9-9869-041db40b2dfd",
+    "nombre": "disneyd05496",
+    "status": "06:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
     "title": "2026 Senior PGA Championship (Primera Ronda)",
     "league": "ESPN",
     "fecha-evento": "2026-04-16T09:00:00-05:00",
@@ -603,6 +600,16 @@
     "img": "019d873e-383c-75ca-aa43-2fff51e78c97",
     "nombre": "disney1e3e10",
     "status": "16:45",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Anaheim Ducks vs. Nashville Predators",
+    "league": "National Hockey League",
+    "fecha-evento": "2026-04-16T19:00:00-05:00",
+    "img": "019d6975-166f-769f-8ea2-50f43788e96b",
+    "nombre": "disney54d12f",
+    "status": "19:00",
     "duration": 135,
     "play_url": ""
   }
