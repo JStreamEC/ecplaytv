@@ -123,8 +123,11 @@
     "img": "019d4a5d-6bf3-74b7-9156-a0ee9a1c3cba",
     "nombre": "disney24437d",
     "status": "20:30",
-    "duration": 135,
-    "play_url": ""
+    "duration": 180,
+    "play_url": "https://www.disneyplus.com/es-es/play/57c6923f-87ce-4b00-917b-50d9d2af6b7f",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1776303658~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F04%2F15%2FEn_EspaolSeattle_Mariners_20260415_1776209446043%2F~psid=97e40ac6-7ee0-420e-ba43-186d24e0e636~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=29b7d805b85375c7ddf0ee0609d80b005352948b3b7660dfa677070b4f6e6f93/clt1/va02/disneyplus/event/2026/04/15/En_EspaolSeattle_Mariners_20260415_1776209446043/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=177fc5465e32e2257b5ec145892f9dff8ea5c749",
+    "k1": "c9c2007acf804cecaa0a92551c8bbcb9",
+    "k2": "a2ac2741617b2100db15facb2edfdc9f"
   },
   {
     "title": "Colorado Avalanche vs. Calgary Flames",
@@ -142,12 +145,15 @@
   {
     "title": "Pittsburgh Penguins vs. St. Louis Blues | En Español",
     "league": "National Hockey League",
-    "fecha-evento": "2026-04-14T20:30:00-05:00",
+    "fecha-evento": "2026-04-14T20:30:01-05:00",
     "img": "019d0dc6-31be-7f29-b682-9651d4484fd3",
-    "nombre": "disneydc9eb0",
+    "nombre": "disneyb4b8f7",
     "status": "20:30",
-    "duration": 135,
-    "play_url": ""
+    "duration": 150,
+    "play_url": "https://www.disneyplus.com/es-es/play/af5eab8b-5d2a-43bc-ac34-854996824505",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1776303709~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F04%2F15%2FEn_EspaolPittsburgh_Pengu_20260415_1776209435042%2F~psid=3dd63f30-a607-48dc-8a6e-5766c2f34b02~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=ccd8ee06527a41c3e38d4f3fd777e8f254015544f629ca60eff4a3b738dd7214/clt1/va02/disneyplus/event/2026/04/15/En_EspaolPittsburgh_Pengu_20260415_1776209435042/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=e9559e4505c479f1c46e1530c11f92cf8ec88c3e",
+    "k1": "2c50717ed6a546a787540284b490a38b",
+    "k2": "2a47e9094148a73a1c0103b93a3cb2ae"
   },
   {
     "title": "Los Angeles Kings vs. Vancouver Canucks",
@@ -383,7 +389,7 @@
     "title": "Libertad (PAR) vs. Rosario Central (ARG)",
     "league": "CONMEBOL Libertadores",
     "fecha-evento": "2026-04-15T16:45:00-05:00",
-    "img": "019d86e2-fe16-7d9e-9a75-1bf86c6648ce",
+    "img": "019d8ebc-3c29-7024-87fa-d25bc101174c",
     "nombre": "disney1d0235",
     "status": "16:45",
     "duration": 135,
