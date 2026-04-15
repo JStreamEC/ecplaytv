@@ -111,16 +111,6 @@
     "play_url": ""
   },
   {
-    "title": "San Jose Sharks vs. Chicago Blackhawks",
-    "league": "National Hockey League",
-    "fecha-evento": "2026-04-15T19:30:00-05:00",
-    "img": "019d6d47-0862-7185-bf06-45a9a96459a7",
-    "nombre": "disney9a0b8d",
-    "status": "19:30",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Cruz Azul vs. Los Angeles FC (Cuartos de Final, Partido de Vuelta)",
     "league": "CONCACAF Liga Campeones",
     "fecha-evento": "2026-04-14T19:50:00-05:00",
@@ -447,6 +437,16 @@
     "img": "019d86cc-6a1d-7b6a-80f4-64ca8d1a759a",
     "nombre": "disneyad73d1",
     "status": "18:55",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "San Jose Sharks vs. Chicago Blackhawks",
+    "league": "National Hockey League",
+    "fecha-evento": "2026-04-15T19:30:00-05:00",
+    "img": "019d6d47-0862-7185-bf06-45a9a96459a7",
+    "nombre": "disney9a0b8d",
+    "status": "19:30",
     "duration": 135,
     "play_url": ""
   },
