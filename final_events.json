@@ -26,19 +26,6 @@
     "k2": "c30e0a8ce16eef84894a75d6a9a3c7a8"
   },
   {
-    "title": "Premier Padel: Newgiza - Centre Court (Cuartos de Final #2)",
-    "league": "Premier Padel",
-    "fecha-evento": "2026-04-16T09:00:07-05:00",
-    "img": "019d642d-006e-7391-ba96-7ae5efb6ca85",
-    "nombre": "disneye6b550",
-    "status": "09:00",
-    "duration": 345,
-    "play_url": "https://www.disneyplus.com/es-es/play/92eb2ded-5fe8-42e1-8685-b243f0a33999",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1776454924~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F04%2F16%2FPremier_Padel_Newgiza_Cen_20260416_1776340825029%2F~psid=f567a8dd-4208-4f75-9fd9-4421ccb8ada3~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=7605eb967f60afb41e4fbdbdfab37c99eec95e6c60d51b9e62042c3041becb36/clt1/va02/disneyplus/event/2026/04/16/Premier_Padel_Newgiza_Cen_20260416_1776340825029/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=32c8cbb2942e3833da3d680c856415c626f4baac",
-    "k1": "ea2661f523b74eb39a171565db9e63ef",
-    "k2": "9b8c30f09340b45f4b940b027426158d"
-  },
-  {
     "title": "2026 Roland Garros Junior Series by Renault (Round Robin)",
     "league": "ESPN",
     "fecha-evento": "2026-04-16T09:41:38-05:00",
@@ -132,12 +119,15 @@
   {
     "title": "NCAA Women's College Gymnastics Championship (Sesión Vespertina)",
     "league": "NCAA Gimnasia Femenina",
-    "fecha-evento": "2026-04-16T15:30:00-05:00",
+    "fecha-evento": "2026-04-16T15:30:02-05:00",
     "img": "381bc42f-b4a0-467e-bf87-b6394f8b4927",
-    "nombre": "disney2d3433",
+    "nombre": "disney03ae6c",
     "status": "15:30",
-    "duration": 135,
-    "play_url": ""
+    "duration": 120,
+    "play_url": "https://www.disneyplus.com/es-es/play/008d378a-0c0e-4830-8937-ef2edee82a57",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1776458436~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F04%2F16%2FEn_EspaolNCAA_Womens_Coll_20260416_1776364219041%2F~psid=f357c82e-ec79-4fcd-b599-9393b2b6a061~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=95fff5f381313c7dddfbd31b9a29dc5d24a4a0ddf6a2ae66aa8822975a8cbd77/clt1/va02/disneyplus/event/2026/04/16/En_EspaolNCAA_Womens_Coll_20260416_1776364219041/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=d6b05b462ae9fec1265fcc99d79f3c04c36361bb",
+    "k1": "9df488852575463a9641f57ef583d905",
+    "k2": "2faed5a5de2893e498f4a265ec058869"
   },
   {
     "title": "Palmeiras (BRA) vs. Sporting Cristal (PER)",
@@ -616,6 +606,16 @@
     "img": "019d8c6c-c1ce-794b-acd4-58aec16a1d97",
     "nombre": "disney5ac5be",
     "status": "15:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Suriname vs. Belize",
+    "league": "Concacaf W Championship Qualifying",
+    "fecha-evento": "2026-04-17T15:50:00-05:00",
+    "img": "019d4e05-585a-744b-928d-154b59880050",
+    "nombre": "disney41ebbb",
+    "status": "15:50",
     "duration": 135,
     "play_url": ""
   }
