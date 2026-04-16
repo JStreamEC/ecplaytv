@@ -23,19 +23,6 @@
     "k2": "4c2ed144780f1ccf0b259ef21ec474b8"
   },
   {
-    "title": "RBC Heritage (1° Ronda) | En español",
-    "league": "PGA TOUR",
-    "fecha-evento": "2026-04-16T13:00:00-05:00",
-    "img": "019d4a6e-e77f-7512-915a-af1bd2452ccd",
-    "nombre": "disney98a5c9",
-    "status": "13:00",
-    "duration": 240,
-    "play_url": "https://www.disneyplus.com/es-es/play/80615201-fb5c-4299-a65c-dc9b59e97a22",
-    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1776455027~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Fbbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1773078587332%2F~psid=f922e93c-b6c9-4a34-85a0-280b382e508b~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=51db21da4805a77184e33b7eebae85a678b206160b4d28d356a95e3878ff35a4/clt1/va02/disneyplus/channel/bbbdc2a0-0472-4ef2-afd1-7b50f9f03200-1773078587332/ctr-all-sliding-alt1.m3u8?r=1080&v=1&hash=47cbb8616004a1e945f48692281e999bd4428c97",
-    "k1": "49bc73e7750a4de3b920a09b00ed780f",
-    "k2": "39f269aa0df89f8d5e21f8bfb4bb6292"
-  },
-  {
     "title": "NCAA Women's College Gymnastics Championship (Sesión Vespertina)",
     "league": "NCAA Gimnasia Femenina",
     "fecha-evento": "2026-04-16T15:30:02-05:00",
@@ -601,6 +588,16 @@
     "img": "019d3f36-9b10-7385-97a6-c89cae8f3f92",
     "nombre": "disney5a48e6",
     "status": "17:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Albion FC vs. Central Español",
+    "league": "Campeonato Uruguayo",
+    "fecha-evento": "2026-04-17T17:30:00-05:00",
+    "img": "019d7684-181f-7669-b834-f97bc752f6d2",
+    "nombre": "disney082e12",
+    "status": "17:30",
     "duration": 135,
     "play_url": ""
   }
