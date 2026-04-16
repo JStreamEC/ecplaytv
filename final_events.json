@@ -170,16 +170,6 @@
     "play_url": ""
   },
   {
-    "title": "San Jose Sharks vs. Winnipeg Jets",
-    "league": "National Hockey League",
-    "fecha-evento": "2026-04-16T19:00:00-05:00",
-    "img": "019d6a60-716b-7c6c-a0d3-d6ae3b99356d",
-    "nombre": "disney951ed9",
-    "status": "19:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "Hawai'i vs. San Diego",
     "league": "NCAA Softball",
     "fecha-evento": "2026-04-16T19:00:00-05:00",
@@ -616,6 +606,16 @@
     "img": "019d4e05-585a-744b-928d-154b59880050",
     "nombre": "disney41ebbb",
     "status": "15:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Kings League Americas | Ronda #8",
+    "league": "Kings League Americas",
+    "fecha-evento": "2026-04-17T15:55:00-05:00",
+    "img": "019cb9fa-f9c9-71c2-8c4a-00d6f85ae1f2",
+    "nombre": "disneya20cb5",
+    "status": "15:55",
     "duration": 135,
     "play_url": ""
   }
