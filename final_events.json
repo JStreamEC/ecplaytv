@@ -52,32 +52,6 @@
     "k2": "4c2ed144780f1ccf0b259ef21ec474b8"
   },
   {
-    "title": "Open Capfinances Rouen Métropole / Centre Court",
-    "league": "WTA",
-    "fecha-evento": "2026-04-16T11:39:05-05:00",
-    "img": "019d39e0-b871-7d30-81e4-af3c99926ab8",
-    "nombre": "disney9a99db",
-    "status": "11:39",
-    "duration": 186,
-    "play_url": "https://www.disneyplus.com/es-es/play/b044e174-b643-4e85-a5a9-9fceb891cf45",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1776454974~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F04%2F16%2FOpen_Capfinances_Rouen_Mt_20260416_1776346236029%2F~psid=3f16d02e-8f71-4341-bcb4-3fd446d829da~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=ccebf27c7423dd75ef61ae0c738a56a1b421315c716b227e8c256ad684ca4985/clt1/va02/disneyplus/event/2026/04/16/Open_Capfinances_Rouen_Mt_20260416_1776346236029/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=0c7d4c79e24ca5e77f0b9cd5f093cef1916788d4",
-    "k1": "97c2ce22d55b42878adc6215b381a53a",
-    "k2": "d78ec8631dd6d74c3f0e10c947486ebc"
-  },
-  {
-    "title": "Toronto Blue Jays vs. Milwaukee Brewers",
-    "league": "MLB",
-    "fecha-evento": "2026-04-16T12:30:01-05:00",
-    "img": "019d4a5b-c92f-7848-af44-38737d02f9cb",
-    "nombre": "disney09d2ed",
-    "status": "12:30",
-    "duration": 180,
-    "play_url": "https://www.disneyplus.com/es-es/play/5e5da221-f82a-472d-8816-4ae0029a01ec",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1776455000~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F04%2F16%2FToronto_Blue_Jays_vs_Milw_20260416_1776353454045%2F~psid=99a915a1-d752-4555-bc22-2c945184d61d~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=f3d833f7f8c6c910fbd2a2aea36b544431aaf2e5477b0911f55c7d61b4a3c5b2/clt1/va02/disneyplus/event/2026/04/16/Toronto_Blue_Jays_vs_Milw_20260416_1776353454045/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=b543c2c0a88585d30c4032a3ee12e2c8f3309faa",
-    "k1": "5c20d82022914e2e9894859687e6ee31",
-    "k2": "432cea7dba102eec827b70dd825a93a0"
-  },
-  {
     "title": "RBC Heritage (1° Ronda) | En español",
     "league": "PGA TOUR",
     "fecha-evento": "2026-04-16T13:00:00-05:00",
@@ -632,6 +606,16 @@
     "img": "019d89b2-c553-7e06-be26-a42488331d0a",
     "nombre": "disney27ea6d",
     "status": "14:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Plaza Colonia vs. Paysandú",
+    "league": "Segunda División de Uruguay",
+    "fecha-evento": "2026-04-17T15:30:00-05:00",
+    "img": "019d8c6c-c1ce-794b-acd4-58aec16a1d97",
+    "nombre": "disney5ac5be",
+    "status": "15:30",
     "duration": 135,
     "play_url": ""
   }
