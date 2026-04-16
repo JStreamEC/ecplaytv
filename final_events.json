@@ -1,18 +1,5 @@
 [
   {
-    "title": "Ares Pickleball Slam 4",
-    "league": "USA Pickleball",
-    "fecha-evento": "2026-04-15T18:00:00-05:00",
-    "img": "5afbfa66-16c2-4d4a-8dbf-47ced9002ba5",
-    "nombre": "disney99b1a8",
-    "status": "18:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/25ef9c51-4447-4f0b-9aff-3594f9e473c1",
-    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1776381634~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Fec26a05e-a9cc-4db4-804e-77465738e667-1773070863113%2F~psid=9fe2eb24-1341-4302-9868-679a9fab710b~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=735cc880285948f2d03fcbb8df656fdf87afe4f05d8ab4600f35ab0f84ba91fb/clt1/va02/disneyplus/channel/ec26a05e-a9cc-4db4-804e-77465738e667-1773070863113/ctr-all-sliding-alt1.m3u8?r=1080&v=1&hash=873c8b5d90e1ffc2d62c45c16e211fb4de32cd67",
-    "k1": "ee88a91eb58f49c9adf2d1017e3235c6",
-    "k2": "504dd2a8dee1fa1b7f2b70d27a0431d7"
-  },
-  {
     "title": "Detroit Red Wings vs. Florida Panthers",
     "league": "National Hockey League",
     "fecha-evento": "2026-04-15T17:30:11-05:00",
@@ -633,6 +620,16 @@
     "img": "019d77f5-4246-7507-b3ef-cbde5a5e488e",
     "nombre": "disneyde0fc8",
     "status": "02:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Premier Padel: Newgiza - Centre Court (Semifinales femeninas)",
+    "league": "Premier Padel",
+    "fecha-evento": "2026-04-17T02:30:00-05:00",
+    "img": "019d6465-f10d-7eee-9756-8b8d73bdcc2e",
+    "nombre": "disneyc6f52d",
+    "status": "02:30",
     "duration": 135,
     "play_url": ""
   }
