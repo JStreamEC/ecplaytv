@@ -23,19 +23,6 @@
     "k2": "4c2ed144780f1ccf0b259ef21ec474b8"
   },
   {
-    "title": "NCAA Women's College Gymnastics Championship (Sesión Vespertina)",
-    "league": "NCAA Gimnasia Femenina",
-    "fecha-evento": "2026-04-16T15:30:02-05:00",
-    "img": "381bc42f-b4a0-467e-bf87-b6394f8b4927",
-    "nombre": "disney03ae6c",
-    "status": "15:30",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/008d378a-0c0e-4830-8937-ef2edee82a57",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1776458436~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F04%2F16%2FEn_EspaolNCAA_Womens_Coll_20260416_1776364219041%2F~psid=f357c82e-ec79-4fcd-b599-9393b2b6a061~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=95fff5f381313c7dddfbd31b9a29dc5d24a4a0ddf6a2ae66aa8822975a8cbd77/clt1/va02/disneyplus/event/2026/04/16/En_EspaolNCAA_Womens_Coll_20260416_1776364219041/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=d6b05b462ae9fec1265fcc99d79f3c04c36361bb",
-    "k1": "9df488852575463a9641f57ef583d905",
-    "k2": "2faed5a5de2893e498f4a265ec058869"
-  },
-  {
     "title": "Palmeiras (BRA) vs. Sporting Cristal (PER)",
     "league": "CONMEBOL Libertadores",
     "fecha-evento": "2026-04-16T16:45:00-05:00",
@@ -598,6 +585,16 @@
     "img": "019d7684-181f-7669-b834-f97bc752f6d2",
     "nombre": "disney082e12",
     "status": "17:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "St. Kitts & Nevis vs. Curacao",
+    "league": "Concacaf W Championship Qualifying",
+    "fecha-evento": "2026-04-17T17:50:00-05:00",
+    "img": "019d4e09-f843-7f87-9986-52189e504f11",
+    "nombre": "disney3c693b",
+    "status": "17:50",
     "duration": 135,
     "play_url": ""
   }
