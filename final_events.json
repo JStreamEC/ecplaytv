@@ -26,19 +26,6 @@
     "k2": "d852fae13d87870e7dcad04e33fc2442"
   },
   {
-    "title": "Racing vs. Defensor Sporting",
-    "league": "Campeonato Uruguayo",
-    "fecha-evento": "2026-04-18T13:31:37-05:00",
-    "img": "019d74a8-a62c-78f2-98a1-6f89d3a82930",
-    "nombre": "disney0f3c95",
-    "status": "13:31",
-    "duration": 178,
-    "play_url": "https://www.disneyplus.com/es-es/play/ea034615-ccbd-4944-8c10-49a22210465f",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1776624150~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F04%2F18%2FRacing_vs_Defensor_Sporti_20260418_1776529856040%2F~psid=d30837cb-2262-48fb-9a70-6f26a82c42f2~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=780536229cc8ee4ad3775fec744de15b4f0741c2b5078c5ba8a9f835ddf250f6/clt1/va02/disneyplus/event/2026/04/18/Racing_vs_Defensor_Sporti_20260418_1776529856040/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=c2e4e50070bacf83209676bd58bc8f610a20a3e4",
-    "k1": "a911250ca84047f18d122f433afa8d68",
-    "k2": "898e3b9388183e6674f07fa5cb128679"
-  },
-  {
     "title": "2026 Senior PGA Championship (3° Ronda) | En español",
     "league": "ESPN",
     "fecha-evento": "2026-04-18T14:00:03-05:00",
@@ -198,8 +185,11 @@
     "img": "019d988b-f6ee-7259-8e34-d9434cf59a69",
     "nombre": "disneye10f8a",
     "status": "16:30",
-    "duration": 135,
-    "play_url": ""
+    "duration": 150,
+    "play_url": "https://www.disneyplus.com/es-es/play/c85014a8-94d0-40ff-b946-41ca5863f008",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1776634836~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F04%2F18%2FMinnesota_Wild_vs_Dallas__20260418_1776542983349%2F~psid=83aa207a-9e4b-4e0c-85bd-2e20d6d64e42~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=bd1d541ab531f1225ae2338282efa21e789aae7f3bd54b292ecd4478c0cf9ff9/clt1/va02/disneyplus/event/2026/04/18/Minnesota_Wild_vs_Dallas__20260418_1776542983349/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=c5a1667f165871116602582da69000e56ee70b33",
+    "k1": "477c082f6c504444b73aa380513ea874",
+    "k2": "8446f084382ad68f0ac3f7668973b3c0"
   },
   {
     "title": "Bermuda vs. Grenada",
@@ -648,6 +638,16 @@
     "img": "019d5da2-dc44-7360-ac68-72514f38979f",
     "nombre": "disney993609",
     "status": "08:20",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "World SBK - Race 2 - Netherlands",
+    "league": "FIM Superbike World Championship",
+    "fecha-evento": "2026-04-19T08:25:00-05:00",
+    "img": "dbbdf026-dd6f-4f07-9c86-944c465a067c",
+    "nombre": "disney1dcc90",
+    "status": "08:25",
     "duration": 135,
     "play_url": ""
   }
