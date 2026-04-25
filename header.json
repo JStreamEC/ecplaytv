@@ -3,6 +3,7 @@
   {
       "domain":"pontiscloud.com",
       "headers": {
+        "sec-ch-ua-platform": "Windows",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
         "Referer": "https://cdn.sensa.com.ar/",
         "Origin": "https://cdn.sensa.com.ar"
@@ -11,6 +12,7 @@
   {
       "domain":"cdn.sensa.com.ar",
       "headers": {
+        "sec-ch-ua-platform": "Windows",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
         "Referer": "https://cdn.sensa.com.ar/",
         "Origin": "https://cdn.sensa.com.ar"
