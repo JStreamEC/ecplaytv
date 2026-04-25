@@ -1,13 +1,13 @@
 {
   "domains": [
   {
-      "domain":"streamvipx.com",
+      "domain":"cdn.sensa.com.ar",
       "headers": {
         "accept": "*/*",
         "accept-language": "es,en;q=0.9,pt;q=0.8",
-        "origin": "https://streamvipx.com/",
+        "origin": "https://cdn.sensa.com.ar/",
         "priority": "u=1, i",
-        "referer": "https://streamvipx.com/",
+        "referer": "https://cdn.sensa.com.ar/",
         "sec-ch-ua": "\"Google Chrome\";v=\"135\", \"Not-A.Brand\";v=\"8\", \"Chromium\";v=\"135\"",
         "sec-ch-ua-mobile": "?0",
         "sec-ch-ua-platform": "\"Windows\"",
