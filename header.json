@@ -156,6 +156,17 @@
       }
     },
     {
+      "domain": "media.dssott.com",
+      "headers": {
+        "Referer": "https://disneyplus.com/",
+        "Origin": "https://disneyplus.com",
+        "User-Agent": "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, PUT, OPTIONS, HEAD, DELETE, PATCH",
+        "Access-Control-Allow-Headers": "Origin, X-Requested-With, Content-Type, Authorization, accessToken, Accept, Range, X-Dss-Baseurl,CMCD-Request,CMCD-Object,CMCD-Status,CMCD-Session, x-playback-rights-authorization"
+      }
+    },
+    {
       "domain": "dssott.com",
       "headers": {
         "Referer": "https://disneyplus.com/",
