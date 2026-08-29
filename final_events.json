@@ -1,18 +1,5 @@
 [
   {
-    "title": "Strasbourg vs. Lens",
-    "league": "Ligue 1",
-    "fecha-evento": "2026-08-29T10:00:00-05:00",
-    "img": "01a0390b-43a3-7345-882b-75302bad132b",
-    "nombre": "disney422bec",
-    "status": "10:00",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/895aeb1a-2bdf-467e-93ec-1e14fa148b5c",
-    "k1": "894156b530f844b8a43ae477487b3724",
-    "k2": "476e2ae48cf27050615e93ce660da7ab",
-    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1788109707~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Fec26a05e-a9cc-4db4-804e-77465738e667-1787209974266%2F~psid=a5c9b0fa-0779-469a-9efb-94adbe38a1be~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=65978b5635740f700a583b8fec3f53572bea1887e232c48f8bbe1133186c540b/clt1/va02/disneyplus/channel/ec26a05e-a9cc-4db4-804e-77465738e667-1787209974266/ctr-all-sliding-alt1.m3u8?r=1080&v=1&hash=80210d8a91e3343f4868d4bd87359f22c643ddd0"
-  },
-  {
     "title": "Uruguay Montevideo vs. La Luz",
     "league": "Segunda División de Uruguay",
     "fecha-evento": "2026-08-29T10:45:03-05:00",
@@ -99,19 +86,6 @@
     "play_url": "https://www.disneyplus.com/es-es/play/f4633abb-2788-42d1-bb24-784207878445"
   },
   {
-    "title": "Milwaukee Mile (Qualifying)",
-    "league": "Indy NXT",
-    "fecha-evento": "2026-08-29T11:30:00-05:00",
-    "img": "1bc416de-c014-4b0e-b14c-9d67870b1789",
-    "nombre": "disney1e6010",
-    "status": "11:30",
-    "duration": 60,
-    "play_url": "https://www.disneyplus.com/es-es/play/807e49be-326c-43c2-a73c-3aa9768649d7",
-    "k1": "32f70095fae74b2f8f94227f9b32024b",
-    "k2": "232cdad4240e2d0d4f5d5b4aad302712",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1788109838~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F08%2F29%2FMilwaukee_Mile_Qualifying_20260829_1788015622045%2F~psid=28b17ba6-92ae-4665-b098-afbce8557216~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=7438b4fe4feec441b2af48ee9b49a5075fdeded7ef78995f03f0b8dba074db15/clt1/va02/disneyplus/event/2026/08/29/Milwaukee_Mile_Qualifying_20260829_1788015622045/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=d5a971350b5c302d139c197930ef81b370f6ef82"
-  },
-  {
     "title": "AZ vs. Go Ahead Eagles",
     "league": "Eredivisie",
     "fecha-evento": "2026-08-29T11:30:00-05:00",
@@ -163,5 +137,31 @@
     "status": "11:50",
     "duration": 130,
     "play_url": "https://www.disneyplus.com/es-es/play/85093f41-25d4-4bff-87d4-632c49720cba"
+  },
+  {
+    "title": "Belgrano Athletic vs. Regatas Bella Vista",
+    "league": "URBA Top 14",
+    "fecha-evento": "2026-08-29T11:50:03-05:00",
+    "img": "01a033f8-9970-7a09-a635-f1fddf38e7b8",
+    "nombre": "disney7d1326",
+    "status": "11:50",
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/d740bd74-a677-4a96-bff1-c9fc09848e37",
+    "k1": "f62fccc761804b4a88dedbe08bbb380d",
+    "k2": "ed954eea9b5e6111035454d48d225749",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1788112727~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F08%2F29%2FBelgrano_Athletic_vs_Rega_20260829_1788016816035%2F~psid=e857b759-3efd-4b8e-bcb9-69fa579c0117~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=4cc4789ef250c9474040e9fe34950a7ba06d69319ac1158463d0dd33465198c0/clt1/va02/disneyplus/event/2026/08/29/Belgrano_Athletic_vs_Rega_20260829_1788016816035/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=f3a191f4f4d38978cf3a27d9092728ed24082cff"
+  },
+  {
+    "title": "Newman vs. Hindú",
+    "league": "URBA Top 14",
+    "fecha-evento": "2026-08-29T11:50:04-05:00",
+    "img": "01a033f8-98b1-7d21-9829-bf5c876e8d9c",
+    "nombre": "disney423ecc",
+    "status": "11:50",
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/941218a9-03cb-402b-a8b5-9c84f9855cfa",
+    "k1": "83fe95123386460eb49fdcd75620f286",
+    "k2": "587d24b7c043ed71c9004e62cadd28d2",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1788112759~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F08%2F29%2FNewman_vs_Hind_20260829_1788016823029%2F~psid=75236b7f-17e8-4ba7-a03d-f3dad68cefa4~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=2dd6c7c0c493998ff820d8f2c8c90cb7c3e3700561aa648ec6078fd027eb211b/clt1/va02/disneyplus/event/2026/08/29/Newman_vs_Hind_20260829_1788016823029/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=b061fb4aa166db6b0e64ee024e160b06c6532a1c"
   }
 ]
