@@ -10,14 +10,14 @@
     "play_url": "https://www.disneyplus.com/es-es/play/43f54981-a9dc-4cef-b6aa-39756ec2bab3"
   },
   {
-    "title": "Boxing",
-    "league": "ESPN",
-    "fecha-evento": "2026-08-28T19:00:00-05:00",
-    "img": "77228526-7760-4164-95b3-fe47ff751201",
-    "nombre": "disneycaf14f",
-    "status": "19:00",
-    "duration": 60,
-    "play_url": "https://www.disneyplus.com/es-es/play/87bcd38e-5317-46a5-a938-668571bac454"
+    "title": "LFA 240 | Dedrek Sanders vs. Luis Gómez | ESPN KO",
+    "league": "Legacy Fighting Alliance",
+    "fecha-evento": "2026-08-28T20:00:00-05:00",
+    "img": "01a04986-7af3-7969-8e69-da9aec82d056",
+    "nombre": "disney10c575",
+    "status": "20:00",
+    "duration": 180,
+    "play_url": "https://www.disneyplus.com/es-es/play/7453b5d8-eba1-4e5b-9145-3ed5a226db60"
   },
   {
     "title": "Cincinnati Bengals vs. Philadelphia Eagles",
@@ -30,24 +30,34 @@
     "play_url": "https://www.disneyplus.com/es-es/play/e456316f-8a20-4752-9289-efcd58b3c118"
   },
   {
-    "title": "UEFA Champions League Weekly",
+    "title": "El Show de la F1",
     "league": "ESPN",
-    "fecha-evento": "2026-08-28T19:30:00-05:00",
-    "img": "3d76c642-4ee3-44b0-bbb0-a12d77402adf",
-    "nombre": "disney9ab8b5",
-    "status": "19:30",
-    "duration": 30,
-    "play_url": "https://www.disneyplus.com/es-es/play/bf6fa717-530a-4f09-b153-6b9c7f098f50"
+    "fecha-evento": "2026-08-28T20:00:00-05:00",
+    "img": "019cf771-ea1c-7b5b-8c05-61082270fbe2",
+    "nombre": "disney0ed705",
+    "status": "20:00",
+    "duration": 60,
+    "play_url": "https://www.disneyplus.com/es-es/play/50b320e9-fbd1-43a9-8607-2d50ac36bf0e"
   },
   {
-    "title": "Racing de Santander vs. Elche",
+    "title": "Alavés vs. Villarreal",
     "league": "LALIGA",
-    "fecha-evento": "2026-08-28T18:00:00-05:00",
-    "img": "01a038e4-909b-7ed4-85c4-b12cb22219e9",
-    "nombre": "disney2fe474",
-    "status": "18:00",
+    "fecha-evento": "2026-08-28T20:00:00-05:00",
+    "img": "01a038e6-1f7b-7c10-b0db-f139e0a47555",
+    "nombre": "disney8d36eb",
+    "status": "20:00",
     "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/f9e8d2b9-4dc5-4544-ba34-eaa284c774d1"
+    "play_url": "https://www.disneyplus.com/es-es/play/1d5e6c0d-2aa9-43bb-9fc1-fa57910b44f8"
+  },
+  {
+    "title": "Eredivisie Highlight Show",
+    "league": "ESPN",
+    "fecha-evento": "2026-08-28T20:00:00-05:00",
+    "img": "15cff1e3-0d2d-4828-987f-e2125d597be6",
+    "nombre": "disney2020fc",
+    "status": "20:00",
+    "duration": 45,
+    "play_url": "https://www.disneyplus.com/es-es/play/83e8526e-c9bd-4322-9dde-397c9cdd31ce"
   },
   {
     "title": "La Vuelta 26 (etapa 7)",
@@ -58,16 +68,6 @@
     "status": "18:00",
     "duration": 120,
     "play_url": "https://www.disneyplus.com/es-es/play/9e96af56-7949-45e5-92b1-22263d1c5c88"
-  },
-  {
-    "title": "Trabzonspor vs. Istanbul Basaksehir",
-    "league": "Super Lig de Turquía",
-    "fecha-evento": "2026-08-28T18:00:00-05:00",
-    "img": "019d4b61-f248-7743-ad74-4d60e9ea7ded",
-    "nombre": "disney32d1fa",
-    "status": "18:00",
-    "duration": 120,
-    "play_url": "https://www.disneyplus.com/es-es/play/7fe53251-1892-49c1-859d-eab7590b7b9e"
   },
   {
     "title": "Fútbol",
@@ -960,6 +960,126 @@
     "play_url": ""
   },
   {
+    "title": "La Vuelta 26 (etapa 8)",
+    "league": "Vuelta a España",
+    "fecha-evento": "2026-08-29T07:45:00-05:00",
+    "img": "10e84273-7aba-4afa-97dd-58ac0d3923ef",
+    "nombre": "disney5c89c7",
+    "status": "07:45",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "La Vuelta 26 (etapa 9)",
+    "league": "Vuelta a España",
+    "fecha-evento": "2026-08-30T05:00:00-05:00",
+    "img": "38343d44-dc5b-4ab3-a573-f15c1f79dd1f",
+    "nombre": "disneyfd2d06",
+    "status": "05:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "La Vuelta 26 (etapa 10)",
+    "league": "Vuelta a España",
+    "fecha-evento": "2026-09-01T07:45:00-05:00",
+    "img": "03d8a5a8-ae2c-4ef4-ad07-6ac79057a5d5",
+    "nombre": "disney942555",
+    "status": "07:45",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "La Vuelta 26 (etapa 11)",
+    "league": "Vuelta a España",
+    "fecha-evento": "2026-09-02T07:45:00-05:00",
+    "img": "18a594c7-e736-4172-bd95-4c381919bb63",
+    "nombre": "disney6579d5",
+    "status": "07:45",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "La Vuelta 26 (etapa 12)",
+    "league": "Vuelta a España",
+    "fecha-evento": "2026-09-03T05:45:00-05:00",
+    "img": "06e383db-4f62-491b-824a-0a347c6588a6",
+    "nombre": "disney00a3f9",
+    "status": "05:45",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "La Vuelta 26 (etapa 13)",
+    "league": "Vuelta a España",
+    "fecha-evento": "2026-09-04T07:45:00-05:00",
+    "img": "03739a4a-3e7a-4f98-ad74-60192c6757f1",
+    "nombre": "disneye87dd3",
+    "status": "07:45",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "La Vuelta 26 (etapa 14)",
+    "league": "Vuelta a España",
+    "fecha-evento": "2026-09-05T06:20:00-05:00",
+    "img": "1ae7fc72-8b54-4b51-b9c5-e35c838b54e2",
+    "nombre": "disney23c77d",
+    "status": "06:20",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "La Vuelta 26 (etapa 15)",
+    "league": "Vuelta a España",
+    "fecha-evento": "2026-09-06T08:50:00-05:00",
+    "img": "0e9d39b8-ac10-43e6-b025-d4b938119288",
+    "nombre": "disney4d4f87",
+    "status": "08:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "La Vuelta 26 (etapa 16)",
+    "league": "Vuelta a España",
+    "fecha-evento": "2026-09-08T07:45:00-05:00",
+    "img": "29f85e2d-78bb-47a4-b9b8-d79bf016fc65",
+    "nombre": "disney4b61c4",
+    "status": "07:45",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "La Vuelta 26 (etapa 17)",
+    "league": "Vuelta a España",
+    "fecha-evento": "2026-09-09T08:50:00-05:00",
+    "img": "066840dd-e0a8-4eda-a983-ec9b9b5afe3c",
+    "nombre": "disney008628",
+    "status": "08:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "La Vuelta 26 (etapa 18)",
+    "league": "Vuelta a España",
+    "fecha-evento": "2026-09-10T08:50:00-05:00",
+    "img": "0b376e74-6851-499a-acbb-144b2dc23e4e",
+    "nombre": "disney1f106a",
+    "status": "08:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "La Vuelta 26 (etapa 19)",
+    "league": "Vuelta a España",
+    "fecha-evento": "2026-09-11T06:00:00-05:00",
+    "img": "18612a8e-f10d-4687-bde6-27361feb6e4f",
+    "nombre": "disneyb5362c",
+    "status": "06:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
     "title": "Liverpool vs. Nottingham Forest",
     "league": "Premier League",
     "fecha-evento": "2026-08-29T06:20:00-05:00",
@@ -1106,126 +1226,6 @@
     "img": "01a03f4f-2d77-72fe-9027-55343a0decf7",
     "nombre": "disney9e5126",
     "status": "08:50",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "La Vuelta 26 (etapa 8)",
-    "league": "Vuelta a España",
-    "fecha-evento": "2026-08-29T07:45:00-05:00",
-    "img": "10e84273-7aba-4afa-97dd-58ac0d3923ef",
-    "nombre": "disney5c89c7",
-    "status": "07:45",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "La Vuelta 26 (etapa 9)",
-    "league": "Vuelta a España",
-    "fecha-evento": "2026-08-30T05:00:00-05:00",
-    "img": "38343d44-dc5b-4ab3-a573-f15c1f79dd1f",
-    "nombre": "disneyfd2d06",
-    "status": "05:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "La Vuelta 26 (etapa 10)",
-    "league": "Vuelta a España",
-    "fecha-evento": "2026-09-01T07:45:00-05:00",
-    "img": "03d8a5a8-ae2c-4ef4-ad07-6ac79057a5d5",
-    "nombre": "disney942555",
-    "status": "07:45",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "La Vuelta 26 (etapa 11)",
-    "league": "Vuelta a España",
-    "fecha-evento": "2026-09-02T07:45:00-05:00",
-    "img": "18a594c7-e736-4172-bd95-4c381919bb63",
-    "nombre": "disney6579d5",
-    "status": "07:45",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "La Vuelta 26 (etapa 12)",
-    "league": "Vuelta a España",
-    "fecha-evento": "2026-09-03T05:45:00-05:00",
-    "img": "06e383db-4f62-491b-824a-0a347c6588a6",
-    "nombre": "disney00a3f9",
-    "status": "05:45",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "La Vuelta 26 (etapa 13)",
-    "league": "Vuelta a España",
-    "fecha-evento": "2026-09-04T07:45:00-05:00",
-    "img": "03739a4a-3e7a-4f98-ad74-60192c6757f1",
-    "nombre": "disneye87dd3",
-    "status": "07:45",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "La Vuelta 26 (etapa 14)",
-    "league": "Vuelta a España",
-    "fecha-evento": "2026-09-05T06:20:00-05:00",
-    "img": "1ae7fc72-8b54-4b51-b9c5-e35c838b54e2",
-    "nombre": "disney23c77d",
-    "status": "06:20",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "La Vuelta 26 (etapa 15)",
-    "league": "Vuelta a España",
-    "fecha-evento": "2026-09-06T08:50:00-05:00",
-    "img": "0e9d39b8-ac10-43e6-b025-d4b938119288",
-    "nombre": "disney4d4f87",
-    "status": "08:50",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "La Vuelta 26 (etapa 16)",
-    "league": "Vuelta a España",
-    "fecha-evento": "2026-09-08T07:45:00-05:00",
-    "img": "29f85e2d-78bb-47a4-b9b8-d79bf016fc65",
-    "nombre": "disney4b61c4",
-    "status": "07:45",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "La Vuelta 26 (etapa 17)",
-    "league": "Vuelta a España",
-    "fecha-evento": "2026-09-09T08:50:00-05:00",
-    "img": "066840dd-e0a8-4eda-a983-ec9b9b5afe3c",
-    "nombre": "disney008628",
-    "status": "08:50",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "La Vuelta 26 (etapa 18)",
-    "league": "Vuelta a España",
-    "fecha-evento": "2026-09-10T08:50:00-05:00",
-    "img": "0b376e74-6851-499a-acbb-144b2dc23e4e",
-    "nombre": "disney1f106a",
-    "status": "08:50",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "La Vuelta 26 (etapa 19)",
-    "league": "Vuelta a España",
-    "fecha-evento": "2026-09-11T06:00:00-05:00",
-    "img": "18612a8e-f10d-4687-bde6-27361feb6e4f",
-    "nombre": "disneyb5362c",
-    "status": "06:00",
     "duration": 135,
     "play_url": ""
   },
