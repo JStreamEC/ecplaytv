@@ -49,19 +49,6 @@
     "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1788114449~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F08%2F29%2FGalatasaray_vs_Goztepe_20260829_1788022252033%2F~psid=7cad9db4-d4f6-4838-9f03-df7ab517ac61~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=28f92c9b6747153bae55dabe409dcc6d3ea4b997a87eb256a0a0c6b645be7b2a/clt1/va02/disneyplus/event/2026/08/29/Galatasaray_vs_Goztepe_20260829_1788022252033/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=7d62e0e87f0138011193816a6abf156bb56c9261"
   },
   {
-    "title": "1. FC Nurnberg vs. Arminia Bielefeld",
-    "league": "Bundesliga 2 de Alemania",
-    "fecha-evento": "2026-08-29T13:20:03-05:00",
-    "img": "01a00c8b-5c29-78ea-80a2-7a50abd906d2",
-    "nombre": "disney238958",
-    "status": "13:20",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/f193fa03-3ecf-45f6-a5df-0b79dffea85d",
-    "k1": "bc80e5a1c7f84a488794c524fde97631",
-    "k2": "6107e397ac40a2558e5cfd89dc528b02",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1788115539~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F08%2F29%2F1_FC_Nurnberg_vs_Arminia__20260829_1788022220027%2F~psid=e82378d5-2f03-4f28-b58a-fe6459cfa970~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=46f351e43e142217861ae7e781680decf384ac8782bf6bc2049b3756d0f5a1b1/clt1/va02/disneyplus/event/2026/08/29/1_FC_Nurnberg_vs_Arminia__20260829_1788022220027/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=872cee7c5979d74762cf23eecfcd839a1083fd64"
-  },
-  {
     "title": "Lyon vs. Le Havre AC",
     "league": "Ligue 1",
     "fecha-evento": "2026-08-29T13:30:01-05:00",
@@ -672,6 +659,16 @@
     "fecha-evento": "2026-08-30T10:00:00-05:00",
     "img": "32711079-1413-4c59-bee5-9b6ea6119ffc",
     "nombre": "disney72330a",
+    "status": "10:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Court 10",
+    "league": "ESPN",
+    "fecha-evento": "2026-08-30T10:00:00-05:00",
+    "img": "08ea5488-b615-44fd-b2db-2f51b9841a25",
+    "nombre": "disney01d87c",
     "status": "10:00",
     "duration": 135,
     "play_url": ""
