@@ -20,16 +20,6 @@
     "play_url": "https://www.disneyplus.com/es-es/play/83627d63-dca2-4a63-a967-0f2f68774d3f"
   },
   {
-    "title": "Fiorentina vs. Frosinone",
-    "league": "Serie A",
-    "fecha-evento": "2026-08-29T11:10:02-05:00",
-    "img": "01a03907-74b9-7a56-bc58-6a8cfc43f3e0",
-    "nombre": "disney1582e4",
-    "status": "11:10",
-    "duration": 135,
-    "play_url": "https://www.disneyplus.com/es-es/play/8f347488-2f64-464e-86f7-805a12a286d7"
-  },
-  {
     "title": "Borussia Dortmund vs. Hamburger SV",
     "league": "Bundesliga",
     "fecha-evento": "2026-08-29T11:17:18-05:00",
@@ -41,39 +31,6 @@
     "k1": "f4e5a659b385451a963bd2c681ed6bf6",
     "k2": "40eb6eb64cc46eda1fbe4f5bdbdfd518",
     "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1788109621~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Ff25bdf06-81c9-4a7c-b128-3128d610ad17-1780557914213%2F~psid=eeb57a5e-96fe-493c-8411-08ca8b94d7f2~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=8c226efcbfb6b9f712dadfe4b7d9e97a415d0990c94b9a1dda9d7940f28dd5e0/clt1/va02/disneyplus/channel/f25bdf06-81c9-4a7c-b128-3128d610ad17-1780557914213/ctr-all-sliding-alt1.m3u8?r=1080&v=1&hash=4dd695be423ddea9cfdbe656fee85bc7e3e9e661"
-  },
-  {
-    "title": "Tottenham vs. Newcastle United",
-    "league": "Liga Premier",
-    "fecha-evento": "2026-08-29T11:20:00-05:00",
-    "img": "01a038ed-a738-7c23-bdaf-3dfe5f943622",
-    "nombre": "disney7c6a9c",
-    "status": "11:20",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/1339f459-d988-4124-bdcb-089292c8faa8",
-    "k1": "4be43322fdf44df886971f851ff7fcbc",
-    "k2": "c4cee6163c0f12793bbe58fd88b9eff0",
-    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1788109569~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F921e1311-bb26-43dd-84a6-9e2284959712-1780299064553%2F~psid=fc4ab774-24c6-4ea3-b278-ada2d70bec50~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=eacc4d95c50389603fd7d59dee514942cc4114b253fc54b8fc0b0c20b1cde71a/clt1/va02/disneyplus/channel/921e1311-bb26-43dd-84a6-9e2284959712-1780299064553/ctr-all-sliding-alt1.m3u8?r=1080&v=1&hash=2f5e7bc02a001153103e40637e61ead101ea8690"
-  },
-  {
-    "title": "Sassuolo vs. Torino",
-    "league": "Serie A",
-    "fecha-evento": "2026-08-29T11:20:02-05:00",
-    "img": "01a03908-6909-7fbe-b0bb-db75b521e2a2",
-    "nombre": "disney648d6f",
-    "status": "11:20",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/de7ea1af-91b2-421e-bb8f-17474c8036de"
-  },
-  {
-    "title": "Monza vs. Udinese",
-    "league": "Serie A",
-    "fecha-evento": "2026-08-29T11:20:03-05:00",
-    "img": "01a0390b-832e-7979-9bc5-c35d2bacc853",
-    "nombre": "disneyeddb0e",
-    "status": "11:20",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/f4633abb-2788-42d1-bb24-784207878445"
   },
   {
     "title": "AZ vs. Go Ahead Eagles",
@@ -295,84 +252,108 @@
     "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1788114449~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F08%2F29%2FGalatasaray_vs_Goztepe_20260829_1788022252033%2F~psid=7cad9db4-d4f6-4838-9f03-df7ab517ac61~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=28f92c9b6747153bae55dabe409dcc6d3ea4b997a87eb256a0a0c6b645be7b2a/clt1/va02/disneyplus/event/2026/08/29/Galatasaray_vs_Goztepe_20260829_1788022252033/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=7d62e0e87f0138011193816a6abf156bb56c9261"
   },
   {
-    "title": "Auxerre vs. Angers",
-    "league": "Ligue 1",
-    "fecha-evento": "2026-08-29T13:20:00-05:00",
-    "img": "01a007b4-6414-7c16-8fe9-90f614e5a71f",
-    "nombre": "disneyd40e4d",
-    "status": "13:20",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "1. FC Nurnberg vs. Arminia Bielefeld",
     "league": "Bundesliga 2 de Alemania",
-    "fecha-evento": "2026-08-29T13:20:00-05:00",
+    "fecha-evento": "2026-08-29T13:20:03-05:00",
     "img": "01a00c8b-5c29-78ea-80a2-7a50abd906d2",
-    "nombre": "disneyd29471",
+    "nombre": "disney238958",
     "status": "13:20",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "IndyCar: Milwaukee Mile (Race 1)",
-    "league": "IndyCar Series",
-    "fecha-evento": "2026-08-29T13:30:00-05:00",
-    "img": "01a02ac7-1a24-770d-b03c-338ab78f1100",
-    "nombre": "disney9c70bb",
-    "status": "13:30",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Juventus vs. Parma",
-    "league": "Serie A",
-    "fecha-evento": "2026-08-29T13:30:00-05:00",
-    "img": "01a0393c-7e85-7ee0-90bb-534e6d1e24eb",
-    "nombre": "disney73c4a9",
-    "status": "13:30",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Brest vs. Toulouse",
-    "league": "Ligue 1",
-    "fecha-evento": "2026-08-29T13:30:00-05:00",
-    "img": "01a007b5-5dc9-7235-8922-5bde73b68b26",
-    "nombre": "disney5bf036",
-    "status": "13:30",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Lorient vs. Troyes",
-    "league": "Ligue 1",
-    "fecha-evento": "2026-08-29T13:30:00-05:00",
-    "img": "01a00c8b-9b55-755a-8254-90d74b271f03",
-    "nombre": "disney5ac8d2",
-    "status": "13:30",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Argentina vs. Australia",
-    "league": "Test Matches",
-    "fecha-evento": "2026-08-29T13:30:00-05:00",
-    "img": "01a04ea9-702c-7c77-93ef-f411a358fb28",
-    "nombre": "disneyccd585",
-    "status": "13:30",
-    "duration": 135,
-    "play_url": ""
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/f193fa03-3ecf-45f6-a5df-0b79dffea85d",
+    "k1": "bc80e5a1c7f84a488794c524fde97631",
+    "k2": "6107e397ac40a2558e5cfd89dc528b02",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1788115539~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F08%2F29%2F1_FC_Nurnberg_vs_Arminia__20260829_1788022220027%2F~psid=e82378d5-2f03-4f28-b58a-fe6459cfa970~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=46f351e43e142217861ae7e781680decf384ac8782bf6bc2049b3756d0f5a1b1/clt1/va02/disneyplus/event/2026/08/29/1_FC_Nurnberg_vs_Arminia__20260829_1788022220027/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=872cee7c5979d74762cf23eecfcd839a1083fd64"
   },
   {
     "title": "Lyon vs. Le Havre AC",
     "league": "Ligue 1",
-    "fecha-evento": "2026-08-29T13:30:00-05:00",
+    "fecha-evento": "2026-08-29T13:30:01-05:00",
     "img": "019ffd7d-4288-7f43-ae47-2a8ab0832a19",
-    "nombre": "disney69c412",
+    "nombre": "disney01e823",
     "status": "13:30",
     "duration": 135,
-    "play_url": ""
+    "play_url": "https://www.disneyplus.com/es-es/play/60d2cbfd-92dc-4071-9a43-30f5368cf627",
+    "k1": "6039f25762114b04bb44e3db22d826b0",
+    "k2": "6c8b4b4426ab8040b581349362216be8",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1788115573~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F08%2F29%2FLyon_vs_Le_Havre_AC_20260829_1788022813030%2F~psid=37a82997-a62f-41de-880d-bf1505d45365~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=3195408efcea0cf4023918341e2946c901c61ab12e6990db7c650f88c739d7c5/clt1/va02/disneyplus/event/2026/08/29/Lyon_vs_Le_Havre_AC_20260829_1788022813030/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=3d63b04a9c9e30b48a3cf5d75a265e6cd7f7754d"
+  },
+  {
+    "title": "Lorient vs. Troyes",
+    "league": "Ligue 1",
+    "fecha-evento": "2026-08-29T13:30:10-05:00",
+    "img": "01a00c8b-9b55-755a-8254-90d74b271f03",
+    "nombre": "disney65bfc8",
+    "status": "13:30",
+    "duration": 135,
+    "play_url": "https://www.disneyplus.com/es-es/play/a09d8b68-6774-4f7c-8bfb-bc45bed09eb3",
+    "k1": "bf6ce02a582443489fb783709d3c30e1",
+    "k2": "5bc4de15bf34ede0d7a70671f6defd58",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1788115604~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F08%2F29%2FLorient_vs_Troyes_20260829_1788022858036%2F~psid=b3bd91b0-9eb4-4960-9298-6a232d0845d7~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=07f06c4d10844c4d76b51c1acbf9bba2080eaf0ddc787489990543601411ec16/clt1/va02/disneyplus/event/2026/08/29/Lorient_vs_Troyes_20260829_1788022858036/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=45e2738b726c1006ffffb667e2fca1e8a4325fd2"
+  },
+  {
+    "title": "Brest vs. Toulouse",
+    "league": "Ligue 1",
+    "fecha-evento": "2026-08-29T13:30:14-05:00",
+    "img": "01a007b5-5dc9-7235-8922-5bde73b68b26",
+    "nombre": "disney2163f2",
+    "status": "13:30",
+    "duration": 135,
+    "play_url": "https://www.disneyplus.com/es-es/play/0bf507af-5fdc-4ec7-baf3-5f29461ca569",
+    "k1": "b2ced95415e04722ad4b3dd41cbc4b22",
+    "k2": "d6095fcc130133f4dbe3a95e6bd7100e",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1788115635~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F08%2F29%2FBrest_vs_Toulouse_20260829_1788022840031%2F~psid=0a6f5448-17f3-486f-9d27-1aa9de95a8d9~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=4ad48b63ee911f9ff5d47de1b8fd7a90a2eda1ac832a5f3b6748c53f2326bdd3/clt1/va02/disneyplus/event/2026/08/29/Brest_vs_Toulouse_20260829_1788022840031/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=3bfdf8457595d149ca387154dde4a46059b997a9"
+  },
+  {
+    "title": "Auxerre vs. Angers",
+    "league": "Ligue 1",
+    "fecha-evento": "2026-08-29T13:30:17-05:00",
+    "img": "01a007b4-6414-7c16-8fe9-90f614e5a71f",
+    "nombre": "disneyd96a50",
+    "status": "13:30",
+    "duration": 135,
+    "play_url": "https://www.disneyplus.com/es-es/play/efeab33c-40c1-4ced-b7d2-d8b5799717c2",
+    "k1": "1d8a3becba6c4e2c96fcfb65b296ac9f",
+    "k2": "f30fa784f1a9275198301e1a4020eaec",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1788115667~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F08%2F29%2FAuxerre_vs_Angers_20260829_1788022237034%2F~psid=11c1e4ac-7c73-4aa1-af12-ebc365bb09c0~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=b0098285d215cabeb9fbd7761283dcfa7f27cc5e0633c9e8f80d83eb10a0c141/clt1/va02/disneyplus/event/2026/08/29/Auxerre_vs_Angers_20260829_1788022237034/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=a6c026d1e1aa4b5c4b73bf122b364a48f226ac34"
+  },
+  {
+    "title": "Argentina vs. Australia",
+    "league": "Test Matches",
+    "fecha-evento": "2026-08-29T13:30:26-05:00",
+    "img": "01a04ea9-702c-7c77-93ef-f411a358fb28",
+    "nombre": "disney299646",
+    "status": "13:30",
+    "duration": 165,
+    "play_url": "https://www.disneyplus.com/es-es/play/29c05c3a-0ef9-4d99-b416-f48e9500a664",
+    "k1": "f4e5a659b385451a963bd2c681ed6bf6",
+    "k2": "40eb6eb64cc46eda1fbe4f5bdbdfd518",
+    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1788115700~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Ff25bdf06-81c9-4a7c-b128-3128d610ad17-1780557914213%2F~psid=9a8aa3a8-8084-4193-ab03-38de3cc8e9fa~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=297f56b8ebc333afe15f23f808f6df1c17034f1dbe8ec70d49d9813d56ea1d39/clt1/va02/disneyplus/channel/f25bdf06-81c9-4a7c-b128-3128d610ad17-1780557914213/ctr-all-sliding-alt1.m3u8?r=1080&v=1&hash=4dd695be423ddea9cfdbe656fee85bc7e3e9e661"
+  },
+  {
+    "title": "IndyCar: Milwaukee Mile (Race 1)",
+    "league": "IndyCar Series",
+    "fecha-evento": "2026-08-29T13:30:35-05:00",
+    "img": "01a02ac7-1a24-770d-b03c-338ab78f1100",
+    "nombre": "disneyd89066",
+    "status": "13:30",
+    "duration": 149,
+    "play_url": "https://www.disneyplus.com/es-es/play/78bb749c-b548-4941-b8a2-a2ec4c374720",
+    "k1": "95be27a6bfba4757aa5e34ce6b28f6b4",
+    "k2": "bf8fa94812ca8e8d8ea9ead661768c8a",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1788115730~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F08%2F29%2FIndyCar_Milwaukee_Mile_Ra_20260829_1788022805016%2F~psid=ac719b5a-ded9-4542-909c-35771ac41ba5~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=cb0c883bc55e9c208cfba981bcbdd8d70a25169823f3fe652b3fd88ee747213d/clt1/va02/disneyplus/event/2026/08/29/IndyCar_Milwaukee_Mile_Ra_20260829_1788022805016/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=8eef537853adf7cafd18cb2b60ba107f65832630"
+  },
+  {
+    "title": "Juventus vs. Parma",
+    "league": "Serie A",
+    "fecha-evento": "2026-08-29T13:37:28-05:00",
+    "img": "01a0393c-7e85-7ee0-90bb-534e6d1e24eb",
+    "nombre": "disney66b31d",
+    "status": "13:37",
+    "duration": 123,
+    "play_url": "https://www.disneyplus.com/es-es/play/eb564010-cd31-4e2a-8a7e-13da7671cc8f",
+    "k1": "4be43322fdf44df886971f851ff7fcbc",
+    "k2": "c4cee6163c0f12793bbe58fd88b9eff0",
+    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1788115761~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F921e1311-bb26-43dd-84a6-9e2284959712-1780299064553%2F~psid=b417aeac-4878-45ed-b4f3-62fe5fe4912d~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=9b497e4059828d5d487c4186e92715191731fa2a8c8c2b44b9f33019fb83be31/clt1/va02/disneyplus/channel/921e1311-bb26-43dd-84a6-9e2284959712-1780299064553/ctr-all-sliding-alt1.m3u8?r=1080&v=1&hash=2f5e7bc02a001153103e40637e61ead101ea8690"
   },
   {
     "title": "Huracán vs. Cerrito",
@@ -661,6 +642,46 @@
     "img": "019d2157-c962-7c96-9071-6384930b9add",
     "nombre": "disneydc94fd",
     "status": "01:45",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "IRONMAN 70.3: Zell am See-Kaprun",
+    "league": "ESPN",
+    "fecha-evento": "2026-08-30T03:30:00-05:00",
+    "img": "01a03ad7-1028-726c-a33b-351384ba5037",
+    "nombre": "disney0632c9",
+    "status": "03:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "MotoGP Races | GP Aragón",
+    "league": "MotoGP",
+    "fecha-evento": "2026-08-30T03:45:00-05:00",
+    "img": "019fe1eb-6197-74c8-961c-a8b996c75ce9",
+    "nombre": "disneyae3e9a",
+    "status": "03:45",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Husqvarna British Masters hosted by Sir Nick Faldo (Ronda Final)",
+    "league": "DP World Tour",
+    "fecha-evento": "2026-08-30T04:00:00-05:00",
+    "img": "01a03432-09d5-7d2d-a99a-19bfa8111cc4",
+    "nombre": "disneyc591fa",
+    "status": "04:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "La Vuelta 26 (etapa 9)",
+    "league": "Vuelta a España",
+    "fecha-evento": "2026-08-30T05:00:00-05:00",
+    "img": "38343d44-dc5b-4ab3-a573-f15c1f79dd1f",
+    "nombre": "disneyfd2d06",
+    "status": "05:00",
     "duration": 135,
     "play_url": ""
   }
