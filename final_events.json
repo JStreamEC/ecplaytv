@@ -1,15 +1,5 @@
 [
   {
-    "title": "Uruguay Montevideo vs. La Luz",
-    "league": "Segunda División de Uruguay",
-    "fecha-evento": "2026-08-29T10:45:03-05:00",
-    "img": "01a044b7-7553-79d5-ad7b-25225a306963",
-    "nombre": "disneya6b538",
-    "status": "10:45",
-    "duration": 150,
-    "play_url": "https://www.disneyplus.com/es-es/play/64b0695a-1fd1-456d-be32-7cce48f62719"
-  },
-  {
     "title": "North Carolina vs. TCU | En Español",
     "league": "Fútbol Americano NCAA",
     "fecha-evento": "2026-08-29T11:00:00-05:00",
@@ -281,22 +271,28 @@
   {
     "title": "Ceibos vs. Montevideo Cricket Club",
     "league": "Campeonato Uruguayo de Rugby",
-    "fecha-evento": "2026-08-29T13:10:00-05:00",
+    "fecha-evento": "2026-08-29T13:10:08-05:00",
     "img": "01a034df-500c-726e-b202-d7c4dc2b13ad",
-    "nombre": "disneye4d738",
+    "nombre": "disney69428e",
     "status": "13:10",
-    "duration": 135,
-    "play_url": ""
+    "duration": 125,
+    "play_url": "https://www.disneyplus.com/es-es/play/72478a9d-80e2-4db3-8df8-075ab5db5ab4",
+    "k1": "0d4c07a22a2949df82d99780bf9558e8",
+    "k2": "43f1f24c64a44f0e824d702074ef2060",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1788114416~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F08%2F29%2FCeibos_vs_Montevideo_Cric_20260829_1788021608025%2F~psid=e2c6efca-e482-4084-9946-d2c9ec6d52f1~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=e2b66b27cdf51a812fba0826d4f2f1d555b87d8562fbf7afad41cb134045a6e0/clt1/va02/disneyplus/event/2026/08/29/Ceibos_vs_Montevideo_Cric_20260829_1788021608025/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=df7d45acaeb689f0ab3cdf93e1b2e5419e9ee242"
   },
   {
     "title": "Galatasaray vs. Goztepe",
     "league": "Super Lig de Turquía",
-    "fecha-evento": "2026-08-29T13:20:00-05:00",
+    "fecha-evento": "2026-08-29T13:15:21-05:00",
     "img": "019ffd1a-014d-760a-8a2b-372fa0c27120",
-    "nombre": "disneyfeb195",
-    "status": "13:20",
+    "nombre": "disney8968dc",
+    "status": "13:15",
     "duration": 135,
-    "play_url": ""
+    "play_url": "https://www.disneyplus.com/es-es/play/e0f7f88b-aacb-4a8a-b5f2-ecb398d9153f",
+    "k1": "661dc2f9e54c423ba918faaea93c94ac",
+    "k2": "92406133f0fde0d5e9b3f5cc29c81c0b",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1788114449~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F08%2F29%2FGalatasaray_vs_Goztepe_20260829_1788022252033%2F~psid=7cad9db4-d4f6-4838-9f03-df7ab517ac61~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=28f92c9b6747153bae55dabe409dcc6d3ea4b997a87eb256a0a0c6b645be7b2a/clt1/va02/disneyplus/event/2026/08/29/Galatasaray_vs_Goztepe_20260829_1788022252033/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=7d62e0e87f0138011193816a6abf156bb56c9261"
   },
   {
     "title": "Auxerre vs. Angers",
@@ -655,6 +651,16 @@
     "img": "01a03407-d993-71e6-8ff7-1bbf484f87b3",
     "nombre": "disney7ad4b5",
     "status": "00:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "2026 Harley-Davidson Bagger World Cup: Aragon: Race 2",
+    "league": "MotoGP",
+    "fecha-evento": "2026-08-30T01:45:00-05:00",
+    "img": "019d2157-c962-7c96-9071-6384930b9add",
+    "nombre": "disneydc94fd",
+    "status": "01:45",
     "duration": 135,
     "play_url": ""
   }
