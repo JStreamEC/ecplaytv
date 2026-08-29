@@ -48,17 +48,14 @@
     "k2": ""
   },
   {
-    "title": "Países Bajos vs. Argentina (Final)",
-    "league": "Copa del Mundo de Hockey sobre Césped",
-    "fecha-evento": "2026-08-29T08:30:15-05:00",
-    "img": "01a04500-1f13-7f4c-a670-bde222a3968b",
-    "nombre": "disneye32125",
-    "status": "08:30",
-    "duration": 170,
-    "play_url": "https://www.disneyplus.com/es-es/play/5f3d1826-0950-44fd-abae-e4dc6cbb060b",
-    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1788105888~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F7f9052ce-8143-43a6-9656-a8c00c4a3e56-1779959810693%2F~psid=7d1be9c6-5082-4b54-8e0d-4c8f6c298683~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=d19e407dba604b833a4a71fb5f675e6cb06a37d5e9b54f586f1f4867ddbb9543/clt1/va02/disneyplus/channel/7f9052ce-8143-43a6-9656-a8c00c4a3e56-1779959810693/ctr-all-sliding-alt1.m3u8?r=1080&v=1&hash=7e4be6d22888d552154a9bb2af31be0e93e87559",
-    "k1": "8921f9a61577697400560264741c111c",
-    "k2": ""
+    "title": "Boca Juniors vs. Lanús",
+    "league": "Liga Profesional de Fútbol",
+    "fecha-evento": "2026-08-29T11:51:53-05:00",
+    "img": "01a03961-9873-733a-9dcc-33f18a20c2e3",
+    "nombre": "disney5c4c96",
+    "status": "11:51",
+    "duration": 88,
+    "play_url": "https://www.disneyplus.com/es-es/play/43f54981-a9dc-4cef-b6aa-39756ec2bab3"
   },
   {
     "title": "Cincinnati Bengals vs. Philadelphia Eagles",
@@ -353,46 +350,6 @@
     "play_url": ""
   },
   {
-    "title": "SportsCenter Argentina",
-    "league": "ESPN",
-    "fecha-evento": "2026-08-29T15:40:00-05:00",
-    "img": "ed20e560-1c2f-4dce-bd62-182c9856d44a",
-    "nombre": "disney7fcefa",
-    "status": "15:40",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "SportsCenter Colombia",
-    "league": "ESPN",
-    "fecha-evento": "2026-08-29T22:00:00-05:00",
-    "img": "019c725a-a5c8-7535-b659-8186c0a883d2",
-    "nombre": "disney8ff238",
-    "status": "22:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "SportsCenter+",
-    "league": "ESPN",
-    "fecha-evento": "2026-08-30T09:55:00-05:00",
-    "img": "1a5be864-30d0-45c3-83ce-5d7bfcf344a0",
-    "nombre": "disney2ec24b",
-    "status": "09:55",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "SportsCenter AM Colombia",
-    "league": "ESPN",
-    "fecha-evento": "2026-08-31T11:00:00-05:00",
-    "img": "019ca187-4b4a-7ace-9639-05b1e995c440",
-    "nombre": "disney68fcf5",
-    "status": "11:00",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
     "title": "ESPN F10 Colombia",
     "league": "ESPN",
     "fecha-evento": "2026-08-30T20:00:00-05:00",
@@ -439,6 +396,46 @@
     "img": "019cf73f-9b9c-7f14-a1a4-4849b1e71dd9",
     "nombre": "disneyefbe9b",
     "status": "21:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "SportsCenter Argentina",
+    "league": "ESPN",
+    "fecha-evento": "2026-08-29T15:40:00-05:00",
+    "img": "ed20e560-1c2f-4dce-bd62-182c9856d44a",
+    "nombre": "disney7fcefa",
+    "status": "15:40",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "SportsCenter Colombia",
+    "league": "ESPN",
+    "fecha-evento": "2026-08-29T22:00:00-05:00",
+    "img": "019c725a-a5c8-7535-b659-8186c0a883d2",
+    "nombre": "disney8ff238",
+    "status": "22:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "SportsCenter+",
+    "league": "ESPN",
+    "fecha-evento": "2026-08-30T09:55:00-05:00",
+    "img": "1a5be864-30d0-45c3-83ce-5d7bfcf344a0",
+    "nombre": "disney2ec24b",
+    "status": "09:55",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "SportsCenter AM Colombia",
+    "league": "ESPN",
+    "fecha-evento": "2026-08-31T11:00:00-05:00",
+    "img": "019ca187-4b4a-7ace-9639-05b1e995c440",
+    "nombre": "disney68fcf5",
+    "status": "11:00",
     "duration": 135,
     "play_url": ""
   },
