@@ -1,1150 +1,542 @@
 {
   "events": [
     {
-      "date": "Saturday, August 29 2026",
-      "time": "16:00 UTC -5",
-      "category": "AMERICAN FOOTBALL",
-      "info": "NCAA",
-      "title": "Eastern Washington vs. Northern Arizona",
-      "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqhhBTnJWK2NbseCe77N"
-    },
-    {
-      "date": "Saturday, August 29 2026",
-      "time": "16:30 UTC -5",
-      "category": "AMERICAN FOOTBALL",
-      "info": "NCAA",
-      "title": "Campbell vs. East Tennessee State",
-      "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5Uuqhn1eZzkESPy7UQazUX"
-    },
-    {
-      "date": "Saturday, August 29 2026",
-      "time": "16:30 UTC -5",
-      "category": "AMERICAN FOOTBALL",
-      "info": "NCAA",
-      "title": "Jacksonville State vs. North Dakota State",
-      "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5Uuqhn1epNw7XbFuX5Pv6t"
-    },
-    {
-      "date": "Saturday, August 29 2026",
-      "time": "17:00 UTC -5",
-      "category": "AMERICAN FOOTBALL",
-      "info": "NFL",
-      "title": "Chicago Bears vs. Tennessee Titans [away feed]",
-      "url": "https://www.vdocity.com/_5PpPE9QjBKBbZPDhaCz2ssfidrRybiBfj"
-    },
-    {
-      "date": "Saturday, August 29 2026",
-      "time": "17:00 UTC -5",
-      "category": "AMERICAN FOOTBALL",
-      "info": "NFL",
-      "title": "Chicago Bears vs. Tennessee Titans [home feed]",
-      "url": "https://www.vdocity.com/_5PpPE9QjBKBbZPDhaCzHG4Yoq9E2GX7J6"
-    },
-    {
-      "date": "Saturday, August 29 2026",
-      "time": "17:00 UTC -5",
-      "category": "COMBAT SPORT",
-      "info": "MMA",
-      "title": "Duel Arena: Mike Perry vs. Brandon Jenkins",
-      "url": "https://www.vdocity.com/_5PpPE9QjBKBbZPDhaCzXeFRu2S24wKhSV"
-    },
-    {
-      "date": "Saturday, August 29 2026",
-      "time": "17:00 UTC -5",
-      "category": "AMERICAN FOOTBALL",
-      "info": "NCAA",
-      "title": "Bucknell vs. Richmond",
-      "url": "https://www.vdocity.com/_5PpPE9QjBKBbZPDhaCzn2SJzDip7c8d4s"
-    },
-    {
-      "date": "Saturday, August 29 2026",
-      "time": "17:00 UTC -5",
-      "category": "AMERICAN FOOTBALL",
-      "info": "NCAA",
-      "title": "Savannah State vs. South Carolina State",
-      "url": "https://www.vdocity.com/_5PpPE9QjBKBbZPDhaCmPNJk9i5wdUShEx"
-    },
-    {
-      "date": "Saturday, August 29 2026",
-      "time": "17:00 UTC -5",
-      "category": "AMERICAN FOOTBALL",
-      "info": "NCAA",
-      "title": "Southeast Missouri State vs. Indiana State",
-      "url": "https://www.vdocity.com/_5PpPE9QjBKBbZPDhaCmdkVdEuNjg9FcsK"
-    },
-    {
-      "date": "Saturday, August 29 2026",
-      "time": "17:00 UTC -5",
-      "category": "AMERICAN FOOTBALL",
-      "info": "NCAA",
-      "title": "The Citadel vs. Wofford",
-      "url": "https://www.vdocity.com/_5PpPE9QjBKBbZPDhaCmt8gWL6fXip4YVg"
-    },
-    {
-      "date": "Saturday, August 29 2026",
-      "time": "17:00 UTC -5",
-      "category": "AMERICAN FOOTBALL",
-      "info": "NCAA",
-      "title": "VMI vs. Idaho State",
-      "url": "https://www.vdocity.com/_5PpPE9QjBKBbZPDhaCn8WsPRHxKmUsU83"
-    },
-    {
-      "date": "Saturday, August 29 2026",
-      "time": "17:00 UTC -5",
-      "category": "AMERICAN FOOTBALL",
-      "info": "NCAA",
-      "title": "Morgan State vs. North Carolina A&T",
-      "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbA6Wie7w1bTBPRL9SXd"
-    },
-    {
-      "date": "Saturday, August 29 2026",
-      "time": "17:00 UTC -5",
-      "category": "AMERICAN FOOTBALL",
-      "info": "NCAA",
-      "title": "Virginia Lynchburg vs. Hampton",
-      "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbA6WitW7tgeUBTzxhd9"
-    },
-    {
-      "date": "Saturday, August 29 2026",
-      "time": "17:00 UTC -5",
-      "category": "AMERICAN FOOTBALL",
-      "info": "NCAA",
-      "title": "Bryant vs. Stonehill",
-      "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbA6Wj8tJmmqkyWfmHnH"
-    },
-    {
-      "date": "Saturday, August 29 2026",
-      "time": "17:00 UTC -5",
-      "category": "AMERICAN FOOTBALL",
-      "info": "NCAA",
-      "title": "Winston-Salem vs. Norfolk State",
-      "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbA6WjPGVes33mZLaYsr"
-    },
-    {
-      "date": "Saturday, August 29 2026",
-      "time": "17:00 UTC -5",
-      "category": "SOCCER",
-      "info": "Argentina Liga Profesional",
-      "title": "Huracan - Estudiantes Rio Cuarto",
-      "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbA6WVzcN62XQu5Ctd3x"
-    },
-    {
-      "date": "Saturday, August 29 2026",
-      "time": "17:00 UTC -5",
-      "category": "SOCCER",
-      "info": "Mexico Liga de Expansion",
-      "title": "Tlaxcala - Venados",
-      "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbA6WWEzYy7ihh7shYgK"
-    },
-    {
-      "date": "Saturday, August 29 2026",
-      "time": "17:00 UTC -5",
-      "category": "SOCCER",
-      "info": "NSL",
-      "title": "Vancouver Rise W - Calgary Wild W",
-      "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbA6WWVNjrCuzVAYWUJg"
-    },
-    {
-      "date": "Saturday, August 29 2026",
-      "time": "17:30 UTC -5",
-      "category": "AMERICAN FOOTBALL",
-      "info": "NCAA",
-      "title": "Sacramento State vs. Eastern Michigan",
-      "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbA6WWjkvjJ7HHDDKPw3"
-    },
-    {
-      "date": "Saturday, August 29 2026",
-      "time": "17:30 UTC -5",
-      "category": "SOCCER",
-      "info": "Colombia Primera B",
-      "title": "Cartagena - Tigres",
-      "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbA6WWz97cPJa5Ft8KYT"
-    },
-    {
-      "date": "Saturday, August 29 2026",
-      "time": "17:30 UTC -5",
-      "category": "SOCCER",
-      "info": "NWSL",
-      "title": "Kansas City Current W - North Carolina Courage W",
-      "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbA6WXEXJVUVrsJYwFAp"
-    },
-    {
-      "date": "Saturday, August 29 2026",
-      "time": "18:00 UTC -5",
-      "category": "AMERICAN FOOTBALL",
-      "info": "CFL",
-      "title": "Toronto Argonauts vs. Saskatchewan Roughriders",
-      "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbABLuvaYhBs8DLsiWdM"
-    },
-    {
-      "date": "Saturday, August 29 2026",
-      "time": "18:00 UTC -5",
-      "category": "AMERICAN FOOTBALL",
-      "info": "NCAA",
-      "title": "East Texas A&M vs. Mercer",
-      "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbABLvAxjaH4R1PYXSGS"
-    },
-    {
-      "date": "Saturday, August 29 2026",
-      "time": "18:00 UTC -5",
-      "category": "AMERICAN FOOTBALL",
-      "info": "NCAA",
-      "title": "Hawaii vs. Stanford",
-      "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbABLvRLvTNFhoSDLMtp"
-    },
-    {
-      "date": "Saturday, August 29 2026",
-      "time": "18:00 UTC -5",
-      "category": "AMERICAN FOOTBALL",
-      "info": "NCAA",
-      "title": "New Mexico State vs. Florida State",
-      "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbABLvfj7LRQJjfyhrfy"
-    },
-    {
-      "date": "Saturday, August 29 2026",
-      "time": "18:00 UTC -5",
-      "category": "AMERICAN FOOTBALL",
-      "info": "NCAA",
-      "title": "Abilene Christian vs. Lamar",
-      "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbABLhH4ymcwMizkTMfn"
-    },
-    {
-      "date": "Saturday, August 29 2026",
-      "time": "18:00 UTC -5",
-      "category": "AMERICAN FOOTBALL",
-      "info": "NCAA",
-      "title": "Eastern Kentucky vs. Western Carolina",
-      "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbABLhXTAei8eX3RGHJs"
-    },
-    {
-      "date": "Saturday, August 29 2026",
-      "time": "18:00 UTC -5",
-      "category": "AMERICAN FOOTBALL",
-      "info": "NCAA",
-      "title": "Monmouth vs. Tennessee Tech",
-      "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbABLhmqMXoKwK665CvK"
-    },
-    {
-      "date": "Saturday, August 29 2026",
-      "time": "18:00 UTC -5",
-      "category": "AMERICAN FOOTBALL",
-      "info": "NCAA",
-      "title": "Oklahoma Panhandle State vs. Incarnate Word",
-      "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbABLi2DYQrUYFKrShj6"
-    },
-    {
-      "date": "Saturday, August 29 2026",
-      "time": "18:00 UTC -5",
-      "category": "AMERICAN FOOTBALL",
-      "info": "NCAA",
-      "title": "Samford vs. v North Alabama",
-      "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbABLiGbjHwfq3NXFdMT"
-    },
-    {
-      "date": "Saturday, August 29 2026",
-      "time": "18:00 UTC -5",
-      "category": "AMERICAN FOOTBALL",
-      "info": "NCAA",
-      "title": "St. Francis (IL) vs. Illinois State",
-      "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbABLiWyvB2s7qRC4Yyp"
-    },
-    {
-      "date": "Saturday, August 29 2026",
-      "time": "18:00 UTC -5",
-      "category": "AMERICAN FOOTBALL",
-      "info": "NCAA",
-      "title": "Stephen F. Austin vs. McNeese",
-      "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbAGB7D3ANkEPBTWqUxK"
-    },
-    {
-      "date": "Saturday, August 29 2026",
-      "time": "18:00 UTC -5",
-      "category": "AMERICAN FOOTBALL",
-      "info": "NCAA",
-      "title": "Stetson vs. South Dakota State",
-      "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbAGB7TRMFqRfyWBeQag"
-    },
-    {
-      "date": "Saturday, August 29 2026",
-      "time": "18:00 UTC -5",
-      "category": "AMERICAN FOOTBALL",
-      "info": "NCAA",
-      "title": "Albany State vs. Florida A&M",
-      "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbAGB7hoY8xfedMktm3N"
-    },
-    {
-      "date": "Saturday, August 29 2026",
-      "time": "18:00 UTC -5",
-      "category": "AMERICAN FOOTBALL",
-      "info": "NCAA",
-      "title": "Miles College vs. Alcorn State",
-      "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbAGB7xBj23rwRQRhgfo"
-    },
-    {
-      "date": "Saturday, August 29 2026",
-      "time": "18:00 UTC -5",
-      "category": "AMERICAN FOOTBALL",
-      "info": "NCAA",
-      "title": "Morehouse College vs. v Arkansas-Pine Bluff",
-      "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbAGAtZXbTDMJYvJ1kpG"
-    },
-    {
-      "date": "Saturday, August 29 2026",
-      "time": "18:00 UTC -5",
-      "category": "AMERICAN FOOTBALL",
-      "info": "NCAA",
-      "title": "North Carolina Central vs. Texas Southern",
-      "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbAGAtounLGVuVA4PFcL"
-    },
-    {
-      "date": "Saturday, August 29 2026",
-      "time": "18:00 UTC -5",
-      "category": "AMERICAN FOOTBALL",
-      "info": "NCAA",
-      "title": "Clark Atlanta vs. Grambling",
-      "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbAGAu4HyDPjt91ddc5o"
-    },
-    {
-      "date": "Saturday, August 29 2026",
-      "time": "18:00 UTC -5",
-      "category": "SOCCER",
-      "info": "Brazil Serie A",
-      "title": "Sao Paulo - Bragantino",
-      "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbAGAuJgA6StV5FQ16so"
-    },
-    {
-      "date": "Saturday, August 29 2026",
-      "time": "18:00 UTC -5",
-      "category": "SOCCER",
-      "info": "Mexico",
-      "title": "Atlas - Queretaro [spanish]",
-      "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbAGAuZ4LyY5msJ4p2VD"
-    },
-    {
-      "date": "Saturday, August 29 2026",
-      "time": "18:00 UTC -5",
-      "category": "SOCCER",
-      "info": "Mexico",
-      "title": "Atlas - Queretaro [spanish alt]",
-      "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbAGAuoSXrdH4fLjcx7a"
-    },
-    {
-      "date": "Saturday, August 29 2026",
-      "time": "18:00 UTC -5",
-      "category": "SOCCER",
-      "info": "Mexico",
-      "title": "Pachuca - Chivas Guadalajara [spanish]",
-      "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbAM1JVVn4LeL1P4QDa7"
-    },
-    {
-      "date": "Saturday, August 29 2026",
-      "time": "18:00 UTC -5",
-      "category": "SOCCER",
-      "info": "Mexico",
-      "title": "Pachuca - Chivas Guadalajara [spanish alt]",
-      "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbAM1JjsxwRqcoRjD9CU"
-    },
-    {
-      "date": "Saturday, August 29 2026",
-      "time": "18:00 UTC -5",
-      "category": "SOCCER",
-      "info": "Mexico",
-      "title": "Queretaro W - Monterrey W",
-      "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbAM1JzG9pX2ubUQ24qW"
-    },
-    {
-      "date": "Saturday, August 29 2026",
-      "time": "18:00 UTC -5",
-      "category": "SOCCER",
-      "info": "NWSL",
-      "title": "Orlando Pride W - Utah Royals W",
-      "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbAM1KEeLhcECPX4pzTs"
-    },
-    {
-      "date": "Saturday, August 29 2026",
-      "time": "18:00 UTC -5",
-      "category": "SOCCER",
-      "info": "USL",
-      "title": "Brooklyn - Sporting Jax",
-      "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbAM15qzD8miZX2w94dJ"
-    },
-    {
-      "date": "Saturday, August 29 2026",
-      "time": "18:00 UTC -5",
-      "category": "SOCCER",
-      "info": "USL",
-      "title": "Hartford Athletic - Birmingham",
-      "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbAM166NQ1rurK5bwzFf"
-    },
-    {
-      "date": "Saturday, August 29 2026",
-      "time": "18:00 UTC -5",
-      "category": "SOCCER",
-      "info": "USL",
-      "title": "Lexington - Colorado Springs Switchbacks",
-      "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbAM16Lkatx7978Gkus5"
-    },
-    {
-      "date": "Saturday, August 29 2026",
-      "time": "18:00 UTC -5",
-      "category": "SOCCER",
-      "info": "USL Super League",
-      "title": "Carolina Ascent W - Tampa Bay Sun W",
-      "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbAM16b8mn3JRuAwZqWJ"
-    },
-    {
-      "date": "Saturday, August 29 2026",
-      "time": "18:00 UTC -5",
-      "category": "SOCCER",
-      "info": "USL Super League",
-      "title": "Sporting Jax W - Dallas Trinity W",
-      "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbAM16qWxf8VihDcNm8f"
-    },
-    {
-      "date": "Saturday, August 29 2026",
-      "time": "18:00 UTC -5",
-      "category": "SOCCER",
-      "info": "USL1",
-      "title": "Chattanooga Red Wolves - Boise",
-      "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbAM175u9YDh1VGHBgk8"
-    },
-    {
-      "date": "Saturday, August 29 2026",
-      "time": "18:00 UTC -5",
-      "category": "SOCCER",
-      "info": "USL1",
-      "title": "Greenville Triumph SC - FC Naples",
-      "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbARqVmxPjw4GqJbxxCf"
-    },
-    {
-      "date": "Saturday, August 29 2026",
-      "time": "18:00 UTC -5",
-      "category": "SOCCER",
-      "info": "USL1",
-      "title": "Portland Hearts of Pine - Fort Wayne",
-      "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbARqW2Lad2FZdMGmsq2"
-    },
-    {
-      "date": "Saturday, August 29 2026",
-      "time": "18:00 UTC -5",
-      "category": "SOCCER",
-      "info": "USL1",
-      "title": "Richmond Kickers - Forward Madison",
-      "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbARqWGimW7SrRPwaoU4"
-    },
-    {
-      "date": "Saturday, August 29 2026",
-      "time": "18:00 UTC -5",
-      "category": "SOCCER",
-      "info": "USL1",
-      "title": "Westchester SC - Spokane Velocity",
-      "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbARqWX6xPCe9DScPj6R"
-    },
-    {
-      "date": "Saturday, August 29 2026",
-      "time": "18:15 UTC -5",
-      "category": "BASEBALL",
-      "info": "MLB",
-      "title": "Boston Red Sox vs. New York Yankees",
-      "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbARqH8SppN8WLxUhoFp"
-    },
-    {
-      "date": "Saturday, August 29 2026",
-      "time": "18:15 UTC -5",
-      "category": "BASEBALL",
-      "info": "MLB",
-      "title": "Boston Red Sox vs. New York Yankees [spanish]",
-      "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbARqHNq1hTKo919WitB"
-    },
-    {
-      "date": "Saturday, August 29 2026",
-      "time": "18:15 UTC -5",
-      "category": "BASEBALL",
-      "info": "MLB",
-      "title": "Texas Rangers vs. Milwaukee Brewers",
-      "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbARqHdDCaYX5w3pKeWY"
-    },
-    {
-      "date": "Saturday, August 29 2026",
-      "time": "18:15 UTC -5",
-      "category": "SOCCER",
-      "info": "Honduras",
-      "title": "Platense - Atletico Independiente",
-      "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbARqHsbPTdiNj6V8a8u"
-    },
-    {
-      "date": "Saturday, August 29 2026",
-      "time": "18:30 UTC -5",
-      "category": "AMERICAN FOOTBALL",
-      "info": "NCAA",
-      "title": "Alabama A&M vs. v Howard",
-      "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbARqJ7yaLiufX99wVkK"
-    },
-    {
-      "date": "Saturday, August 29 2026",
-      "time": "18:30 UTC -5",
-      "category": "MOTORSPORT",
-      "info": "NASCAR",
-      "title": "NASCAR Cup Series Race: Coke Zero Sugar 400",
-      "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetb61nz5eyAH2ZjKrrqXv"
-    },
-    {
-      "date": "Saturday, August 29 2026",
-      "time": "18:30 UTC -5",
-      "category": "SOCCER",
-      "info": "Colombia Primera A",
-      "title": "Deportivo Junior - Independiente Santa Fe",
-      "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbARqJNMmDp6xKBpkRNg"
-    },
-    {
-      "date": "Saturday, August 29 2026",
-      "time": "18:30 UTC -5",
-      "category": "SOCCER",
-      "info": "MLS",
-      "title": "Atlanta United - Charlotte [english]",
-      "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetb5vxzTBAstmEDTDojf5"
-    },
-    {
-      "date": "Saturday, August 29 2026",
-      "time": "18:30 UTC -5",
-      "category": "SOCCER",
-      "info": "MLS",
-      "title": "Atlanta United - Charlotte [spanish]",
-      "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetb5vxzhZMkyxX1VtcfHS"
-    },
-    {
-      "date": "Saturday, August 29 2026",
-      "time": "18:30 UTC -5",
-      "category": "SOCCER",
-      "info": "MLS",
-      "title": "DC United - Los Angeles FC [english]",
-      "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetb5vxzwwYe59ooYZRavU"
-    },
-    {
-      "date": "Saturday, August 29 2026",
-      "time": "18:30 UTC -5",
-      "category": "SOCCER",
-      "info": "MLS",
-      "title": "DC United - Los Angeles FC [spanish]",
-      "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetb5vy1CKjXAM6bbEEWYq"
-    },
-    {
-      "date": "Saturday, August 29 2026",
-      "time": "18:30 UTC -5",
-      "category": "SOCCER",
-      "info": "MLS",
-      "title": "Inter Miami - CF Montreal [english]",
-      "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetb5vxmofbxKqTj76YaiE"
-    },
-    {
-      "date": "Saturday, August 29 2026",
-      "time": "18:30 UTC -5",
-      "category": "SOCCER",
-      "info": "MLS",
-      "title": "Inter Miami - CF Montreal [spanish]",
-      "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetb5vxn43nqR2kX9mMWLb"
-    },
-    {
-      "date": "Saturday, August 29 2026",
-      "time": "18:30 UTC -5",
-      "category": "SOCCER",
-      "info": "MLS",
-      "title": "New York Red Bulls - Philadelphia Union [english]",
-      "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetb5vxnJRyiWE3KCSARxx"
-    },
-    {
-      "date": "Saturday, August 29 2026",
-      "time": "18:30 UTC -5",
-      "category": "SOCCER",
-      "info": "MLS",
-      "title": "New York Red Bulls - Philadelphia Union [spanish]",
-      "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetb5vxnYpAbbRL7F6yMbK"
-    },
-    {
-      "date": "Saturday, August 29 2026",
-      "time": "18:30 UTC -5",
-      "category": "SOCCER",
-      "info": "MLS",
-      "title": "Toronto FC - New York City [english]",
-      "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetb5vxnoCMUgccuHmnHCj"
-    },
-    {
-      "date": "Saturday, August 29 2026",
-      "time": "18:30 UTC -5",
-      "category": "SOCCER",
-      "info": "MLS",
-      "title": "Toronto FC - New York City [spanish]",
-      "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetb5vxo3aYMmouhLSbCq6"
-    },
-    {
-      "date": "Saturday, August 29 2026",
-      "time": "18:30 UTC -5",
-      "category": "TENNIS",
-      "info": "WTA",
-      "title": "WTA Monterrey - Parry - Mertens",
-      "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetb66dANaqKWfMP4jBYB9"
-    },
-    {
-      "date": "Saturday, August 29 2026",
-      "time": "19:00 UTC -5",
-      "category": "BOXING",
-      "info": "Event",
-      "title": "Mauricio Lara vs. Carlos Ornelas",
-      "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetb61oBjdnZVBB3NmNUHd"
-    },
-    {
-      "date": "Saturday, August 29 2026",
-      "time": "19:00 UTC -5",
-      "category": "AMERICAN FOOTBALL",
-      "info": "NCAA",
-      "title": "UT Permian Basin vs. UT Rio Grande Valley",
-      "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetb61oBz1ySaNTqRSBPuz"
-    },
-    {
-      "date": "Saturday, August 29 2026",
-      "time": "19:00 UTC -5",
-      "category": "SOCCER",
-      "info": "Chile Primera A",
-      "title": "Nublense - D. Concepcion",
-      "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetb61oCEQAKfZkdU6zKZ2"
-    },
-    {
-      "date": "Saturday, August 29 2026",
-      "time": "19:00 UTC -5",
-      "category": "SOCCER",
-      "info": "Ecuador",
-      "title": "Manta - Barcelona Guayaquil",
-      "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetb61oCUnMCkm3RWmoFBP"
-    },
-    {
-      "date": "Saturday, August 29 2026",
-      "time": "19:00 UTC -5",
-      "category": "SOCCER",
-      "info": "USL",
-      "title": "Louisville City FC - Detroit",
-      "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetb61ny68DdvFQZ2e7KLn"
-    },
-    {
-      "date": "Saturday, August 29 2026",
-      "time": "19:00 UTC -5",
-      "category": "SOCCER",
-      "info": "USL",
-      "title": "Oakland Roots - Orange County SC",
-      "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetb61nyLWQX1ShM5JvEy9"
-    },
-    {
-      "date": "Saturday, August 29 2026",
-      "time": "19:00 UTC -5",
-      "category": "SOCCER",
-      "info": "USL1",
-      "title": "Union Omaha - New York Cosmos",
-      "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetb61nyatbQ6dz97yjAbW"
-    },
-    {
-      "date": "Saturday, August 29 2026",
-      "time": "19:20 UTC -5",
-      "category": "SOCCER",
-      "info": "Brazil Serie A",
-      "title": "Vasco - Cruzeiro",
-      "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetb61nyqGnHBqGwAeY6Ds"
-    },
-    {
-      "date": "Saturday, August 29 2026",
-      "time": "19:30 UTC -5",
-      "category": "AMERICAN FOOTBALL",
-      "info": "NCAA",
-      "title": "Jackson State vs. Tennessee State",
-      "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetb6BTaJZ1vg14hDrVGaj"
-    },
-    {
-      "date": "Saturday, August 29 2026",
-      "time": "19:30 UTC -5",
-      "category": "SOCCER",
-      "info": "Argentina Liga Profesional",
-      "title": "Atletico Tucuman - Belgrano",
-      "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetb6BTaYwComCMVGXJCD6"
-    },
-    {
-      "date": "Saturday, August 29 2026",
-      "time": "19:30 UTC -5",
-      "category": "SOCCER",
-      "info": "Argentina Liga Profesional",
-      "title": "Talleres Cordoba - Central Cordoba",
-      "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetb6BTaoKPgrPeHKC7TKV"
-    },
-    {
-      "date": "Saturday, August 29 2026",
-      "time": "19:30 UTC -5",
-      "category": "SOCCER",
-      "info": "MLS",
-      "title": "Houston Dynamo - San Jose Earthquakes [english]",
-      "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetb6BTb3haZwaw5MrvNwr"
-    },
-    {
-      "date": "Saturday, August 29 2026",
-      "time": "19:30 UTC -5",
-      "category": "SOCCER",
-      "info": "MLS",
-      "title": "Houston Dynamo - San Jose Earthquakes [spanish]",
-      "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetb6BTMf3T175JCsjET7v"
-    },
-    {
-      "date": "Saturday, August 29 2026",
-      "time": "19:30 UTC -5",
-      "category": "SOCCER",
-      "info": "MLS",
-      "title": "Minnesota United - Orlando City [english]",
-      "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetb6BTMuRdtCGazvQ3NkH"
-    },
-    {
-      "date": "Saturday, August 29 2026",
-      "time": "19:30 UTC -5",
-      "category": "SOCCER",
-      "info": "MLS",
-      "title": "Minnesota United - Orlando City [spanish]",
-      "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetb6BTN9opmHTsny4rJNe"
-    },
-    {
-      "date": "Saturday, August 29 2026",
-      "time": "19:30 UTC -5",
-      "category": "SOCCER",
-      "info": "MLS",
-      "title": "Nashville SC - FC Cincinnati [english]",
-      "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetb6BTNQC1eNfAb1jfE11"
-    },
-    {
-      "date": "Saturday, August 29 2026",
-      "time": "19:30 UTC -5",
-      "category": "SOCCER",
-      "info": "MLS",
-      "title": "Nashville SC - FC Cincinnati [spanish]",
-      "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetb6BTNeaCXTrTP4QU9dN"
-    },
-    {
-      "date": "Saturday, August 29 2026",
-      "time": "19:30 UTC -5",
-      "category": "SOCCER",
-      "info": "MLS",
-      "title": "Sporting Kansas City - Vancouver Whitecaps [english]",
-      "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetb6BTNtxPQZ3kB75H5Fj"
-    },
-    {
-      "date": "Saturday, August 29 2026",
-      "time": "19:30 UTC -5",
-      "category": "SOCCER",
-      "info": "MLS",
-      "title": "Sporting Kansas City - Vancouver Whitecaps [spanish]",
-      "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqmcEbNirkeEMiM9nAXC"
-    },
-    {
-      "date": "Saturday, August 29 2026",
-      "time": "19:30 UTC -5",
-      "category": "SOCCER",
-      "info": "Peru",
-      "title": "Alianza Lima - Deportivo Garcilaso",
-      "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqmcEbd73djReWPpb69Z"
-    },
-    {
-      "date": "Saturday, August 29 2026",
-      "time": "19:30 UTC -5",
-      "category": "SOCCER",
-      "info": "USL",
-      "title": "FC Tulsa - Rhode Island",
-      "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqmcEbsVEWpcwJSVQMF1"
-    },
-    {
-      "date": "Saturday, August 29 2026",
-      "time": "19:45 UTC -5",
-      "category": "SOCCER",
-      "info": "NWSL",
-      "title": "Denver Summit W - Chicago Red Stars W",
-      "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqmcEc7sRPupE6VADGsN"
-    },
-    {
-      "date": "Saturday, August 29 2026",
-      "time": "20:00 UTC -5",
-      "category": "AMERICAN FOOTBALL",
-      "info": "NCAA",
-      "title": "Prairie View A&M vs. Tarleton State",
-      "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqmcEcNFcH11WtXq2CVj"
-    },
-    {
-      "date": "Saturday, August 29 2026",
-      "time": "20:00 UTC -5",
-      "category": "AMERICAN FOOTBALL",
-      "info": "NCAA",
-      "title": "Southern Utah vs. Montana",
-      "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqmcEccdoA6CogaVq886"
-    },
-    {
-      "date": "Saturday, August 29 2026",
-      "time": "20:00 UTC -5",
-      "category": "SOCCER",
-      "info": "El Salvador",
-      "title": "Alianza FC - Atletico Balboa",
-      "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqmcEPDyfbFhAp6N9CHV"
-    },
-    {
-      "date": "Saturday, August 29 2026",
-      "time": "20:00 UTC -5",
-      "category": "SOCCER",
-      "info": "Guatemala",
-      "title": "CSD Comunicaciones - CSD Municipal",
-      "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqmcEPUMrULtTc92x7ur"
-    },
-    {
-      "date": "Saturday, August 29 2026",
-      "time": "20:00 UTC -5",
-      "category": "SOCCER",
-      "info": "Mexico Liga de Expansion",
-      "title": "Zacatecas Mineros - Jaiba Brava",
-      "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqmcEPik3MS5kQBhm3Yt"
-    },
-    {
-      "date": "Saturday, August 29 2026",
-      "time": "20:00 UTC -5",
-      "category": "SOCCER",
-      "info": "USL",
-      "title": "El Paso - Loudoun",
-      "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqmcEPy8EEXH3CENZyBF"
-    },
-    {
-      "date": "Saturday, August 29 2026",
-      "time": "20:05 UTC -5",
-      "category": "SOCCER",
-      "info": "Mexico",
-      "title": "Club America - Puebla [spanish]",
-      "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5Uuqmh4nfBUSEeJYGhLu9k"
-    },
-    {
-      "date": "Saturday, August 29 2026",
-      "time": "20:05 UTC -5",
-      "category": "SOCCER",
-      "info": "Mexico",
-      "title": "Club America - Puebla [spanish alt]",
-      "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5Uuqmh4nuZfKKqbLKN9pn7"
-    },
-    {
-      "date": "Saturday, August 29 2026",
-      "time": "20:06 UTC -5",
-      "category": "SOCCER",
-      "info": "Mexico",
-      "title": "Tigres UANL W - Pachuca W",
-      "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5Uuqmh4o9wrCR2t8N2y5sZ"
-    },
-    {
-      "date": "Saturday, August 29 2026",
-      "time": "20:30 UTC -5",
-      "category": "SOCCER",
-      "info": "Colombia Primera A",
-      "title": "Alianza - Atletico Nacional",
-      "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5Uuqmh4oQL35WEAvQhn1Vv"
-    },
-    {
-      "date": "Saturday, August 29 2026",
-      "time": "20:30 UTC -5",
-      "category": "SOCCER",
-      "info": "Honduras",
-      "title": "Motagua - Olancho",
-      "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5Uuqmh4oeiDxbRTiTNaw8H"
-    },
-    {
-      "date": "Saturday, August 29 2026",
-      "time": "20:30 UTC -5",
-      "category": "SOCCER",
-      "info": "MLS",
-      "title": "Colorado Rapids - Real Salt Lake [english]",
-      "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5Uuqmh4ou6QqgckWW3Prke"
-    },
-    {
-      "date": "Saturday, August 29 2026",
-      "time": "20:30 UTC -5",
-      "category": "SOCCER",
-      "info": "MLS",
-      "title": "Colorado Rapids - Real Salt Lake [spanish]",
-      "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5Uuqmh4aWSHGr77e1uhvv3"
-    },
-    {
-      "date": "Saturday, August 29 2026",
-      "time": "20:30 UTC -5",
-      "category": "SOCCER",
-      "info": "USL",
-      "title": "New Mexico United - San Antonio Scorpions",
-      "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5Uuqmh4akpU9wJQS4aWrYQ"
-    },
-    {
-      "date": "Saturday, August 29 2026",
-      "time": "20:45 UTC -5",
-      "category": "RUGBY",
-      "info": "NRLW",
-      "title": "New Zealand Warriors W - St. George Illawarra Dragons W",
-      "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5Uuqmh4b1Cf32VhE7FKnBS"
-    },
-    {
-      "date": "Saturday, August 29 2026",
-      "time": "21:00 UTC -5",
-      "category": "BASKETBALL",
-      "info": "WNBA",
-      "title": "Toronto Tempo W vs. Phoenix Mercury W",
-      "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5Uuqmh4bFaqv7gz29upZnk"
-    },
-    {
-      "date": "Saturday, August 29 2026",
-      "time": "21:00 UTC -5",
-      "category": "AMERICAN FOOTBALL",
-      "info": "NCAA",
-      "title": "Memphis vs. UNLV",
-      "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5Uuqmmtywe67q4FNCEudnH"
-    },
-    {
-      "date": "Saturday, August 29 2026",
-      "time": "21:00 UTC -5",
-      "category": "AMERICAN FOOTBALL",
-      "info": "NCAA",
-      "title": "Montana State vs. Utah Tech",
-      "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqmmtzC2GzvFYAEuiZQe"
-    },
-    {
-      "date": "Saturday, August 29 2026",
-      "time": "21:00 UTC -5",
-      "category": "SOCCER",
-      "info": "Costa Rica Primera Division",
-      "title": "Zeledon - Alajuelense",
-      "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqmmtzSQTt1SpxHaXV31"
-    },
-    {
-      "date": "Saturday, August 29 2026",
-      "time": "21:00 UTC -5",
-      "category": "SOCCER",
-      "info": "USL",
-      "title": "Monterey Bay - Sacramento Republic FC",
-      "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5Uuqmmtzgnem6e7kLF2GeF"
-    },
-    {
-      "date": "Saturday, August 29 2026",
-      "time": "21:05 UTC -5",
-      "category": "BASEBALL",
-      "info": "MLB",
-      "title": "Baltimore Orioles vs. Athletics [away feed]",
-      "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqmmtzwAqeBqQYNuqCGd"
-    },
-    {
-      "date": "Saturday, August 29 2026",
-      "time": "21:05 UTC -5",
-      "category": "BASEBALL",
-      "info": "MLB",
-      "title": "Baltimore Orioles vs. Athletics [home feed]",
-      "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5Uuqmmu1BZ2XH2hLRae7tz"
-    },
-    {
-      "date": "Saturday, August 29 2026",
-      "time": "21:05 UTC -5",
-      "category": "RUGBY",
-      "info": "New Zealand NPC",
-      "title": "Wellington - Counties Manukau",
-      "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqmmtmnttxSX4TwSxC4P"
-    },
-    {
-      "date": "Saturday, August 29 2026",
-      "time": "21:07 UTC -5",
-      "category": "BASEBALL",
-      "info": "MLB",
-      "title": "Philadelphia Phillies vs. Los Angeles Angels [away feed]",
-      "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5Uuqmmtn3H5qXiMFz7m7gk"
-    },
-    {
-      "date": "Saturday, August 29 2026",
-      "time": "21:07 UTC -5",
-      "category": "BASEBALL",
-      "info": "MLB",
-      "title": "Philadelphia Phillies vs. Los Angeles Angels [home feed]",
-      "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqmmtnHfGicue42na3Kn"
-    },
-    {
-      "date": "Saturday, August 29 2026",
-      "time": "21:30 UTC -5",
-      "category": "SOCCER",
-      "info": "MLS",
-      "title": "Portland Timbers - Austin FC [english]",
-      "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqmmtnY3Tbi6vr5TNxx9"
-    },
-    {
-      "date": "Saturday, August 29 2026",
-      "time": "21:30 UTC -5",
-      "category": "SOCCER",
-      "info": "MLS",
-      "title": "Portland Timbers - Austin FC [spanish]",
-      "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqmrjBE6hoRUCC7n9tve"
-    },
-    {
-      "date": "Saturday, August 29 2026",
-      "time": "21:30 UTC -5",
-      "category": "SOCCER",
-      "info": "MLS",
-      "title": "San Diego FC - Los Angeles Galaxy [english]",
-      "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqmrjBUUtgWfUzASxpZ1"
-    },
-    {
-      "date": "Saturday, August 29 2026",
-      "time": "21:30 UTC -5",
-      "category": "SOCCER",
-      "info": "MLS",
-      "title": "San Diego FC - Los Angeles Galaxy [spanish]",
-      "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqmrjBis5ZbrmnD7n5eT"
-    },
-    {
-      "date": "Saturday, August 29 2026",
-      "time": "21:30 UTC -5",
-      "category": "SOCCER",
-      "info": "USL",
-      "title": "Las Vegas Lights - Charleston Battery",
-      "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqmrjByFGSh44aFnb1Gp"
-    },
-    {
-      "date": "Saturday, August 29 2026",
-      "time": "21:30 UTC -5",
-      "category": "SOCCER",
-      "info": "USL",
-      "title": "Phoenix Rising FC - Indy Eleven",
-      "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqmrjCDdTKnFMNJTPvuB"
-    },
-    {
-      "date": "Saturday, August 29 2026",
-      "time": "21:35 UTC -5",
-      "category": "AUSSIE RULES",
-      "info": "AFL",
-      "title": "GWS Giants W - Port Adelaide W",
-      "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqmrjCU1eCsSeAM8CrXY"
-    },
-    {
-      "date": "Saturday, August 29 2026",
-      "time": "22:05 UTC -5",
-      "category": "AUSSIE RULES",
-      "info": "AFL",
-      "title": "Melbourne Demons W - Brisbane Lions W",
-      "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5Uuqmriy5MWe2w1HrzWvgw"
-    },
-    {
-      "date": "Saturday, August 29 2026",
-      "time": "22:10 UTC -5",
-      "category": "SOCCER",
-      "info": "Mexico",
-      "title": "Juarez W - Cruz Azul W",
-      "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqmriyKjhX88J5ufKrKJ"
-    },
-    {
-      "date": "Saturday, August 29 2026",
-      "time": "22:10 UTC -5",
-      "category": "SOCCER",
-      "info": "Mexico",
-      "title": "Santos Laguna - Tigres UANL [spanish]",
-      "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5Uuqmriya7tQDKasxL8mxL"
-    },
-    {
-      "date": "Saturday, August 29 2026",
-      "time": "22:10 UTC -5",
-      "category": "SOCCER",
-      "info": "Mexico",
-      "title": "Santos Laguna - Tigres UANL [spanish alt]",
-      "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqmriypW5HJWsfzzwhah"
-    },
-    {
-      "date": "Saturday, August 29 2026",
-      "time": "22:45 UTC -5",
-      "category": "RUGBY",
-      "info": "NRLW",
-      "title": "Parramatta Eels W - Brisbane Broncos W",
-      "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5Uuqmh4b1Cf32VhE7F1yf8"
-    },
-    {
-      "date": "Saturday, August 29 2026",
-      "time": "23:00 UTC -5",
-      "category": "RUGBY",
-      "info": "NRL",
-      "title": "New Zealand Warriors - Newcastle Knights",
-      "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqhMrg9hfpUNSNK4oc1R"
+      "date": "Sunday, August 30 2026",
+      "time": "06:30 UTC -5",
+      "category": "SOCCER",
+      "info": "2. Bundesliga",
+      "title": "Darmstadt - Hannover 96",
+      "url": "https://www.vdocity.com/_5PpPE9QjBKBbZPDhaCynVgndUm8hmFwTB"
     },
     {
       "date": "Sunday, August 30 2026",
-      "time": "00:05 UTC -5",
-      "category": "BASEBALL",
-      "info": "MLB",
-      "title": "Arizona Diamondbacks vs. San Francisco Giants [away feed]",
-      "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqhMrgQ5rhZZjAUHBi8m"
+      "time": "06:30 UTC -5",
+      "category": "SOCCER",
+      "info": "2. Bundesliga",
+      "title": "Magdeburg - Holstein Kiel",
+      "url": "https://www.vdocity.com/_5PpPE9QjBKBbZPDhaCz2ssfig3vkS4s5Y"
     },
     {
       "date": "Sunday, August 30 2026",
-      "time": "00:05 UTC -5",
-      "category": "BASEBALL",
-      "info": "MLB",
-      "title": "Arizona Diamondbacks vs. San Francisco Giants [home feed]",
-      "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqhMrgeU3aem1xWwzdm8"
+      "time": "06:30 UTC -5",
+      "category": "SOCCER",
+      "info": "2. Bundesliga",
+      "title": "St. Pauli - Kaiserslautern",
+      "url": "https://www.vdocity.com/_5PpPE9QjBKBbZPDhaCzHG4YosLio6snhu"
     },
     {
       "date": "Sunday, August 30 2026",
-      "time": "00:05 UTC -5",
-      "category": "RUGBY",
-      "info": "New Zealand NPC",
-      "title": "Northland - Tasman",
-      "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqhMrgtrETjxJkZcoZPV"
+      "time": "06:30 UTC -5",
+      "category": "SOCCER",
+      "info": "Belgium 1A",
+      "title": "Gent - Club Brugge KV",
+      "url": "https://www.vdocity.com/_5PpPE9QjBKBbZPDhaCzXeFRu4dWqmgiLG"
     },
     {
       "date": "Sunday, August 30 2026",
-      "time": "00:05 UTC -5",
-      "category": "AUSSIE RULES",
-      "info": "AFL",
-      "title": "Collingwood Magpies W - Hawthorn Hawks W",
-      "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5Uuqmh4b1Cf32VhEDnbAA7"
+      "time": "07:00 UTC -5",
+      "category": "SOCCER",
+      "info": "Allsvenskan",
+      "title": "AIK - Hammarby",
+      "url": "https://www.vdocity.com/_5PpPE9QjBKBbZPDhaCzn2SJzFvJtSVdyJ"
     },
     {
       "date": "Sunday, August 30 2026",
-      "time": "00:05 UTC -5",
-      "category": "AUSSIE RULES",
-      "info": "AFL",
-      "title": "Gold Coast Suns W - Geelong Cats W",
-      "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5Uuqmriy5MWe2w1HyY67Cg"
+      "time": "07:00 UTC -5",
+      "category": "SOCCER",
+      "info": "Denmark",
+      "title": "Lyngby - Odense",
+      "url": "https://www.vdocity.com/_5PpPE9QjBKBbZPDhaCmPNJk9kHSQJoi8h"
     },
     {
       "date": "Sunday, August 30 2026",
-      "time": "01:00 UTC -5",
+      "time": "07:00 UTC -5",
+      "category": "SOCCER",
+      "info": "Denmark",
+      "title": "Silkeborg - Midtjylland",
+      "url": "https://www.vdocity.com/_5PpPE9QjBKBbZPDhaCmdkVdEwaESycdm4"
+    },
+    {
+      "date": "Sunday, August 30 2026",
+      "time": "07:00 UTC -5",
+      "category": "SOCCER",
+      "info": "Denmark 1st Division",
+      "title": "Aarhus Fremad - Vejle",
+      "url": "https://www.vdocity.com/_5PpPE9QjBKBbZPDhaCmt8gWL8s2VeRZPR"
+    },
+    {
+      "date": "Sunday, August 30 2026",
+      "time": "07:00 UTC -5",
+      "category": "SOCCER",
+      "info": "Swiss Super League",
+      "title": "FC Sion - Lugano",
+      "url": "https://www.vdocity.com/_5PpPE9QjBKBbZPDhaCn8WsPRL9pYKEpUs"
+    },
+    {
+      "date": "Sunday, August 30 2026",
+      "time": "07:30 UTC -5",
+      "category": "SOCCER",
+      "info": "Eliteserien",
+      "title": "Bodo/Glimt - Rosenborg",
+      "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbA6Wie7w1ZQVXiyGBkU"
+    },
+    {
+      "date": "Sunday, August 30 2026",
+      "time": "07:30 UTC -5",
+      "category": "SOCCER",
+      "info": "Eredivisie",
+      "title": "Feyenoord - Den Haag",
+      "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbA6WitW7tebnKme57PW"
+    },
+    {
+      "date": "Sunday, August 30 2026",
+      "time": "07:30 UTC -5",
+      "category": "SOCCER",
+      "info": "Eredivisie",
+      "title": "Willem II - Heerenveen",
+      "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbA6Wj8tJmjo57pJt31s"
+    },
+    {
+      "date": "Sunday, August 30 2026",
+      "time": "07:30 UTC -5",
+      "category": "SOCCER",
+      "info": "Poland Div 1",
+      "title": "Arka Gdynia - Polonia Bytom",
+      "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbA6WjPGVepzMurygxeE"
+    },
+    {
+      "date": "Sunday, August 30 2026",
+      "time": "07:30 UTC -5",
       "category": "BASKETBALL",
       "info": "World Cup Qualifier",
-      "title": "New Zealand - Syria",
-      "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqhMrh9ERLq9bYcHcV1r"
+      "title": "Netherlands - Croatia",
+      "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbA6WWEzYy5g1qRWoxRz"
     },
     {
       "date": "Sunday, August 30 2026",
-      "time": "01:05 UTC -5",
+      "time": "07:45 UTC -5",
+      "category": "SOCCER",
+      "info": "Ekstraklasa",
+      "title": "Rakow - Jagiellonia Bialystok",
+      "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbA6WVzcN5zUj3Nr12od"
+    },
+    {
+      "date": "Sunday, August 30 2026",
+      "time": "07:45 UTC -5",
+      "category": "BASKETBALL",
+      "info": "World Cup Qualifier",
+      "title": "Poland - Germany",
+      "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbA6WWVNjrAsJdUBct4M"
+    },
+    {
+      "date": "Sunday, August 30 2026",
+      "time": "08:00 UTC -5",
+      "category": "SOCCER",
+      "info": "Czech Republic",
+      "title": "Slovan Liberec - Hradec Kralove",
+      "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbA6WWjkvjG4bRWrS9Aa"
+    },
+    {
+      "date": "Sunday, August 30 2026",
+      "time": "08:00 UTC -5",
+      "category": "SOCCER",
+      "info": "Denmark 1st Division",
+      "title": "Esbjerg - Vendsyssel",
+      "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbA6WWz97cMFtDZXF4nw"
+    },
+    {
+      "date": "Sunday, August 30 2026",
+      "time": "08:00 UTC -5",
+      "category": "SOCCER",
+      "info": "EPL",
+      "title": "Chelsea - Brighton [english]",
+      "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbA6WXEXJVSTB1cC3zRJ"
+    },
+    {
+      "date": "Sunday, August 30 2026",
+      "time": "08:00 UTC -5",
+      "category": "SOCCER",
+      "info": "EPL",
+      "title": "Chelsea - Brighton [spanish]",
+      "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbABLuvaYh9pSMeWpvPo"
+    },
+    {
+      "date": "Sunday, August 30 2026",
+      "time": "08:00 UTC -5",
+      "category": "SOCCER",
+      "info": "EPL",
+      "title": "Leeds - Brentford [english]",
+      "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbABLvAxjaF1j9hBdr1D"
+    },
+    {
+      "date": "Sunday, August 30 2026",
+      "time": "08:00 UTC -5",
+      "category": "SOCCER",
+      "info": "EPL",
+      "title": "Leeds - Brentford [spanish]",
+      "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbABLvRLvTLD1wjrSmda"
+    },
+    {
+      "date": "Sunday, August 30 2026",
+      "time": "08:00 UTC -5",
+      "category": "SOCCER",
+      "info": "EPL",
+      "title": "Sunderland - Fulham",
+      "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbABLvfj7LRQJjnXG2jy"
+    },
+    {
+      "date": "Sunday, August 30 2026",
+      "time": "08:00 UTC -5",
+      "category": "SOCCER",
+      "info": "England League One",
+      "title": "AFC Wimbledon - Wigan",
+      "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbABLhH4ymatfsJPa6uN"
+    },
+    {
+      "date": "Sunday, August 30 2026",
+      "time": "08:00 UTC -5",
+      "category": "SOCCER",
+      "info": "Liga Portugal 2",
+      "title": "AFS - Feirense",
+      "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbABLhXTAeg5xfM4P2YQ"
+    },
+    {
+      "date": "Sunday, August 30 2026",
+      "time": "08:00 UTC -5",
+      "category": "SOCCER",
+      "info": "Ligue 1",
+      "title": "Paris FC - Nice [english]",
+      "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbABLhmqMXmHFTPjBxAm"
+    },
+    {
+      "date": "Sunday, August 30 2026",
+      "time": "08:00 UTC -5",
+      "category": "SOCCER",
+      "info": "Ligue 1",
+      "title": "Paris FC - Nice [spanish]",
+      "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbABLi2DYQrUYFSPzso8"
+    },
+    {
+      "date": "Sunday, August 30 2026",
+      "time": "08:00 UTC -5",
+      "category": "SOCCER",
+      "info": "Romania",
+      "title": "Farul Constanta - FC Botosani",
+      "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbABLiGbjHwfq3V4ooRV"
+    },
+    {
+      "date": "Sunday, August 30 2026",
+      "time": "08:00 UTC -5",
+      "category": "SOCCER",
+      "info": "Superettan",
+      "title": "Varberg - Oddevold",
+      "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbABLiWyvB2s7qXjcj3r"
+    },
+    {
+      "date": "Sunday, August 30 2026",
+      "time": "08:00 UTC -5",
+      "category": "SOCCER",
+      "info": "Sweden Damallsvenskan",
+      "title": "Norrkoping W - Djurgarden W",
+      "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbAGB7D3ANkEPBa4Pf2M"
+    },
+    {
+      "date": "Sunday, August 30 2026",
+      "time": "08:00 UTC -5",
+      "category": "HOCKEY",
+      "info": "Metal Ligaen",
+      "title": "Frederikshavn - Sonderjyske Ishockey",
+      "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbAGB7TRMFqRfycjCF9z"
+    },
+    {
+      "date": "Sunday, August 30 2026",
+      "time": "08:00 UTC -5",
+      "category": "HOCKEY",
+      "info": "Metal Ligaen",
+      "title": "Herning Blue Fox - Rungsted",
+      "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbAGB7hoY8vcxmfQ1Ao2"
+    },
+    {
+      "date": "Sunday, August 30 2026",
+      "time": "08:00 UTC -5",
       "category": "RUGBY",
-      "info": "NRL",
-      "title": "Parramatta Eels - Cronulla Sharks",
-      "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqhMrTkaHmzdxg89vZBv"
+      "info": "Currie Cup",
+      "title": "Boland Cavaliers - Griquas",
+      "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbAGB7xBj21pFZi4p6RP"
     },
     {
       "date": "Sunday, August 30 2026",
-      "time": "02:05 UTC -5",
-      "category": "AUSSIE RULES",
-      "info": "AFL",
-      "title": "Fremantle Dockers W - Carlton Blues W",
-      "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5Uuqmriy5MWe2w1HyY67DT"
+      "time": "08:00 UTC -5",
+      "category": "HANDBALL",
+      "info": "Bundesliga",
+      "title": "Gummersbach - SC Magdeburg",
+      "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbAGAtZXbTBJchDw7q5z"
     },
     {
       "date": "Sunday, August 30 2026",
-      "time": "02:15 UTC -5",
+      "time": "08:00 UTC -5",
+      "category": "HANDBALL",
+      "info": "Denmark Herre Handbold Ligaen",
+      "title": "Fredericia - Ribe-Esbjerg",
+      "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbAGAtounLGVuVGbw6CP"
+    },
+    {
+      "date": "Sunday, August 30 2026",
+      "time": "08:00 UTC -5",
+      "category": "GOLF",
+      "info": "European Ladies Tour",
+      "title": "KPMG Women's Irish Open",
+      "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbAGAu4HyDMhCHKGjgLf"
+    },
+    {
+      "date": "Sunday, August 30 2026",
+      "time": "08:30 UTC -5",
+      "category": "SOCCER",
+      "info": "Bundesliga",
+      "title": "SC Freiburg - Werder Bremen [english]",
+      "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbAGAuJgA6StV5MwZGvt"
+    },
+    {
+      "date": "Sunday, August 30 2026",
+      "time": "08:30 UTC -5",
+      "category": "SOCCER",
+      "info": "Bundesliga",
+      "title": "SC Freiburg - Werder Bremen [spanish]",
+      "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbAGAuZ4LyY5msQcNY3H"
+    },
+    {
+      "date": "Sunday, August 30 2026",
+      "time": "08:30 UTC -5",
+      "category": "HANDBALL",
+      "info": "Denmark Herre Handbold Ligaen",
+      "title": "Mors - Kolding",
+      "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbAGAuoSXrdH4fTHB8BZ"
+    },
+    {
+      "date": "Sunday, August 30 2026",
+      "time": "08:55 UTC -5",
+      "category": "SOCCER",
+      "info": "UAE League",
+      "title": "Hatta - Al Sharjah",
+      "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbAM1JVVn4LeL1VbxPe8"
+    },
+    {
+      "date": "Sunday, August 30 2026",
+      "time": "09:00 UTC -5",
+      "category": "SOCCER",
+      "info": "Belgium 1A",
+      "title": "Antwerp - Sint-Truidense",
+      "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbAM1JjsxwRqcoYGmKHA"
+    },
+    {
+      "date": "Sunday, August 30 2026",
+      "time": "09:00 UTC -5",
+      "category": "SOCCER",
+      "info": "Belgium 1B",
+      "title": "Virton - Francs Borains",
+      "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbAM1JzG9pX2ubawaEuX"
+    },
+    {
+      "date": "Sunday, August 30 2026",
+      "time": "09:00 UTC -5",
+      "category": "SOCCER",
+      "info": "Brazil Serie A",
+      "title": "Athletico-PR - Fluminense",
+      "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbAM1KEeLhcECPdcPAXt"
+    },
+    {
+      "date": "Sunday, August 30 2026",
+      "time": "09:00 UTC -5",
+      "category": "SOCCER",
+      "info": "Bundesliga Women",
+      "title": "Bayer Leverkusen W - Wolfsburg W",
+      "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbAM15qzD8miZX9UhEhH"
+    },
+    {
+      "date": "Sunday, August 30 2026",
+      "time": "09:00 UTC -5",
+      "category": "SOCCER",
+      "info": "Denmark",
+      "title": "Randers FC - AGF Aarhus",
+      "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbAM166NQ1rurKC9WAKe"
+    },
+    {
+      "date": "Sunday, August 30 2026",
+      "time": "09:00 UTC -5",
+      "category": "SOCCER",
+      "info": "England League One",
+      "title": "Mansfield - Luton Town",
+      "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbAM16Lkatx797EpK5x1"
+    },
+    {
+      "date": "Sunday, August 30 2026",
+      "time": "09:00 UTC -5",
+      "category": "SOCCER",
+      "info": "Faroe Islands",
+      "title": "B36 Torshavn - Toftir",
+      "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbAM16b8mn3JRuHV81ZR"
+    },
+    {
+      "date": "Sunday, August 30 2026",
+      "time": "09:00 UTC -5",
+      "category": "SOCCER",
+      "info": "Faroe Islands",
+      "title": "NSI Runavik - AB Argir",
+      "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbAM16qWxf8VihL9vwBn"
+    },
+    {
+      "date": "Sunday, August 30 2026",
+      "time": "09:00 UTC -5",
+      "category": "SOCCER",
+      "info": "Latvia Virsliga",
+      "title": "Ogre United - Rigas FS",
+      "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbAM175u9YDh1VNpyJ5V"
+    },
+    {
+      "date": "Sunday, August 30 2026",
+      "time": "09:00 UTC -5",
+      "category": "SOCCER",
+      "info": "Lithuania",
+      "title": "FA Siauliai - Suduva",
+      "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbARqVmxPjw4GqR9kE3z"
+    },
+    {
+      "date": "Sunday, August 30 2026",
+      "time": "09:00 UTC -5",
+      "category": "SOCCER",
+      "info": "Scotland",
+      "title": "Dundee FC - Hibernian",
+      "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbARqW2Lad2FZdTpZ9h2"
+    },
+    {
+      "date": "Sunday, August 30 2026",
+      "time": "09:00 UTC -5",
+      "category": "SOCCER",
+      "info": "Scotland",
+      "title": "St. Mirren - Motherwell",
+      "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbARqWGimW7SrRWVN5KP"
+    },
+    {
+      "date": "Sunday, August 30 2026",
+      "time": "09:00 UTC -5",
+      "category": "SOCCER",
+      "info": "Sweden Div 1",
+      "title": "Laholms - AFC Malmo",
+      "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbARqWX6xPCe9DZAAzwk"
+    },
+    {
+      "date": "Sunday, August 30 2026",
+      "time": "09:00 UTC -5",
+      "category": "SOCCER",
+      "info": "Sweden Div 1",
+      "title": "Trelleborg - Utsikten",
+      "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbARqH8SppN8WM52V579"
+    },
+    {
+      "date": "Sunday, August 30 2026",
+      "time": "09:00 UTC -5",
       "category": "VOLLEYBALL",
-      "info": "Asian Championship",
-      "title": "Iran W - Japan W",
-      "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqhMrTzxUf5qFUApjUpJ"
+      "info": "European Championships",
+      "title": "France W - Greece W",
+      "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbARqHNq1hTKo97hHzjW"
     },
     {
       "date": "Sunday, August 30 2026",
-      "time": "03:15 UTC -5",
-      "category": "RUGBY",
-      "info": "NRLW",
-      "title": "Wests Tigers W - Canterbury-Bankstown Bulldogs W",
-      "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5Uuqmh4b1Cf32VhEDnbAAw"
+      "time": "09:05 UTC -5",
+      "category": "BASKETBALL",
+      "info": "EuroBasket Qualifier",
+      "title": "Austria - North Macedonia",
+      "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbARqHdDCaYX5wAN6vMs"
+    },
+    {
+      "date": "Sunday, August 30 2026",
+      "time": "09:30 UTC -5",
+      "category": "SOCCER",
+      "info": "3. Liga",
+      "title": "TSV Havelse - Mannheim",
+      "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbARqHsbPTdiNjD2vBTM"
+    },
+    {
+      "date": "Sunday, August 30 2026",
+      "time": "09:30 UTC -5",
+      "category": "SOCCER",
+      "info": "Allsvenskan",
+      "title": "Goteborg - Orgryte",
+      "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbARqJ7yaLiufXFhj75i"
+    },
+    {
+      "date": "Sunday, August 30 2026",
+      "time": "09:30 UTC -5",
+      "category": "SOCCER",
+      "info": "Liga Portugal",
+      "title": "Nacional - Estrela",
+      "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbARqJNMmDp6xKJNY2ik"
+    },
+    {
+      "date": "Sunday, August 30 2026",
+      "time": "09:30 UTC -5",
+      "category": "SOCCER",
+      "info": "Russia Premier League",
+      "title": "Spartak Moscow - Orenburg",
+      "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetb5vxzTBAstmEDZmb1X7"
+    },
+    {
+      "date": "Sunday, August 30 2026",
+      "time": "09:30 UTC -5",
+      "category": "SOCCER",
+      "info": "Swiss Super League",
+      "title": "FC Vaduz - Grasshoppers",
+      "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetb5vxzhZMkyxX1cSPw9U"
+    },
+    {
+      "date": "Sunday, August 30 2026",
+      "time": "09:30 UTC -5",
+      "category": "SOCCER",
+      "info": "Swiss Super League",
+      "title": "St. Gallen - Thun",
+      "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetb5vxzwwYe59oof7Crmq"
+    },
+    {
+      "date": "Sunday, August 30 2026",
+      "time": "09:30 UTC -5",
+      "category": "HANDBALL",
+      "info": "Bundesliga",
+      "title": "HSG Wetzlar - Bietigheim-Metterzimmern",
+      "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetb5vy1CKjXAM6bhn1SuM"
+    },
+    {
+      "date": "Sunday, August 30 2026",
+      "time": "09:30 UTC -5",
+      "category": "HANDBALL",
+      "info": "Bundesliga",
+      "title": "TSV Hannover-Burgdorf - Rhein-Neckar",
+      "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetb5vxmofbxKqTjDeKX4k"
+    },
+    {
+      "date": "Sunday, August 30 2026",
+      "time": "09:45 UTC -5",
+      "category": "SOCCER",
+      "info": "Eerste Divisie",
+      "title": "VVV Venlo - FC Emmen",
+      "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetb5vxn43nqR2kXGK8nBv"
+    },
+    {
+      "date": "Sunday, August 30 2026",
+      "time": "09:45 UTC -5",
+      "category": "SOCCER",
+      "info": "Eredivisie",
+      "title": "Telstar - Ajax [english]",
+      "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetb5vxnJRyiWE3KJywhpH"
+    },
+    {
+      "date": "Sunday, August 30 2026",
+      "time": "09:45 UTC -5",
+      "category": "SOCCER",
+      "info": "Eredivisie",
+      "title": "Telstar - Ajax [spanish]",
+      "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetb5vxnYpAbbRL7MekdRh"
     }
   ],
-  "total": 143,
-  "generated": "2026-08-30T03:55:13.735Z"
+  "total": 67,
+  "generated": "2026-08-30T14:02:18.366Z"
 }
