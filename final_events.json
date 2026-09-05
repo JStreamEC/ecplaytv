@@ -299,19 +299,6 @@
     "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1788717750~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F09%2F05%2FKatie_Taylor_vs_Flora_Pil_20260905_1788625859020%2F~psid=7f5fd5fc-e527-4f28-a668-9b57e69e53c4~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=bb6dffc0abd96b5b1d3273114c81290133b5710eb4d3049e5abea04b98a36bf8/clt1/va02/disneyplus/event/2026/09/05/Katie_Taylor_vs_Flora_Pil_20260905_1788625859020/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=59e6b378d2976bf79755a2f4eaba770597465b73"
   },
   {
-    "title": "Los Tilos vs. Buenos Aires CRC",
-    "league": "URBA Top 14",
-    "fecha-evento": "2026-09-05T13:20:00-05:00",
-    "img": "01a05dba-451b-78d7-882d-a9cf2956c7cc",
-    "nombre": "disneyd8f9a0",
-    "status": "13:20",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/fc73ea6c-3760-4de0-b56b-9eb0939b932f",
-    "k1": "3a4661de572e4857aa0bafa78cee272a",
-    "k2": "3e19553300c3f955e5ab9f004715cd87",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1788720052~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F09%2F05%2FLos_Tilos_vs_Buenos_Aires_20260905_1788627043030%2F~psid=a0c655cf-1a2f-42de-b6a3-d3913404d5bc~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=5dbcb429914243448af59a7d34dd27181e3ece6ebd4b844b48c18e2c23d7f463/clt1/va02/disneyplus/event/2026/09/05/Los_Tilos_vs_Buenos_Aires_20260905_1788627043030/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=c9fc74f4b55d97018880fb081ed54a33d1e042cc"
-  },
-  {
     "title": "SG Dynamo Dresden vs. Vfl Bochum 1848",
     "league": "Bundesliga 2 de Alemania",
     "fecha-evento": "2026-09-05T13:20:00-05:00",
@@ -388,6 +375,19 @@
     "k1": "bfaba24bf2a248a0940a4d4a9140c4c5",
     "k2": "cccd1db9f3caa4497293c4fe0dadff18",
     "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1788720236~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F09%2F05%2FHind_vs_Alumni_20260905_1788627028042%2F~psid=1831b42a-d49c-469b-875c-feb58cdfccd3~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=b32ca691e22ad7ca4f8347f624e6414435f36307b6afada486cef9d81a096f0a/clt1/va02/disneyplus/event/2026/09/05/Hind_vs_Alumni_20260905_1788627028042/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=0d4c25216ab35b830dd10b2c684b58aed6a4c02a"
+  },
+  {
+    "title": "Los Tilos vs. Buenos Aires CRC",
+    "league": "URBA Top 14",
+    "fecha-evento": "2026-09-05T13:20:00-05:00",
+    "img": "01a05dba-451b-78d7-882d-a9cf2956c7cc",
+    "nombre": "disneyd8f9a0",
+    "status": "13:20",
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/fc73ea6c-3760-4de0-b56b-9eb0939b932f",
+    "k1": "3a4661de572e4857aa0bafa78cee272a",
+    "k2": "3e19553300c3f955e5ab9f004715cd87",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1788720052~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F09%2F05%2FLos_Tilos_vs_Buenos_Aires_20260905_1788627043030%2F~psid=a0c655cf-1a2f-42de-b6a3-d3913404d5bc~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=5dbcb429914243448af59a7d34dd27181e3ece6ebd4b844b48c18e2c23d7f463/clt1/va02/disneyplus/event/2026/09/05/Los_Tilos_vs_Buenos_Aires_20260905_1788627043030/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=c9fc74f4b55d97018880fb081ed54a33d1e042cc"
   },
   {
     "title": "Roma vs. Atalanta",
@@ -584,12 +584,15 @@
   {
     "title": "Oklahoma State vs. Tulsa",
     "league": "Fútbol Americano NCAA",
-    "fecha-evento": "2026-09-05T14:45:00-05:00",
+    "fecha-evento": "2026-09-05T14:45:05-05:00",
     "img": "019ff1ee-3081-7b2e-ace8-87233eafd03d",
-    "nombre": "disney8f5616",
+    "nombre": "disney7e39e4",
     "status": "14:45",
-    "duration": 135,
-    "play_url": ""
+    "duration": 180,
+    "play_url": "https://www.disneyplus.com/es-es/play/62d2f2af-c964-41a1-ba06-fd6f7ad04b84",
+    "k1": "741f8df2c3f94a2288756c7bd3d62da4",
+    "k2": "a727a39effec6f2e1d77d925f5a474b3",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1788724910~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F09%2F05%2FOklahoma_State_vs_Tulsa_20260905_1788632124026%2F~psid=135642ba-7d91-4523-a054-44cfd203ce4a~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=6c86fa9c17d5ee027ecf9ff864d23560f53d1d413328adaaa14c8e59fda92150/clt1/va02/disneyplus/event/2026/09/05/Oklahoma_State_vs_Tulsa_20260905_1788632124026/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=c4ed1242d0cda4dacc4c63306e754e27e5e20437"
   },
   {
     "title": "Kentucky Turf Sprint & Kentucky Turf Cup",
