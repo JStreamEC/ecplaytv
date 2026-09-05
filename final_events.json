@@ -1,18 +1,5 @@
 [
   {
-    "title": "Premier Padel: Madrid - Centre Court (Semifinales)",
-    "league": "Premier Padel",
-    "fecha-evento": "2026-09-05T05:00:01-05:00",
-    "img": "019fdcfe-289a-7130-9766-e19e5c04cc67",
-    "nombre": "disney9fed2b",
-    "status": "05:00",
-    "duration": 480,
-    "play_url": "https://www.disneyplus.com/es-es/play/64246b07-3516-4e6d-86ab-691597aeb8ae",
-    "k1": "08592bf042474caf9dd901778b170bb7",
-    "k2": "6c5eedac8f9bacaefa375e1b901b230d",
-    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1788714065~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F09%2F05%2FPremier_Padel_Madrid_Cent_20260905_1788597057026%2F~psid=b28e0495-a99d-4eb8-a614-f0213b2cfe86~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=1768866d6510aa420d63d3d626107bf20dbdc23ed3a8b5873601b8d3efe2d425/clt1/va02/disneyplus/event/2026/09/05/Premier_Padel_Madrid_Cent_20260905_1788597057026/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=b694fcb90bd218e4bdb3f524b94625eb7fbcbbba"
-  },
-  {
     "title": "Court 10",
     "league": "ESPN",
     "fecha-evento": "2026-09-05T10:00:00-05:00",
@@ -39,19 +26,6 @@
     "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1788714220~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F09%2F05%2FCourt_7_20260905_1788615024023%2F~psid=2b9178fa-ec26-455c-8fa8-0bf8fbed5c4c~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=46a680721cbd69193807b7d7773b37237f3d9b9496b81899206ae91d36fdf2ee/clt1/va02/disneyplus/event/2026/09/05/Court_7_20260905_1788615024023/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=bf6a988f51b157e46df51c4c24e3e57624fc21bd"
   },
   {
-    "title": "Stadium 17",
-    "league": "ESPN",
-    "fecha-evento": "2026-09-05T10:00:01-05:00",
-    "img": "13bb278d-512a-47e8-b7b8-7b89d5f27b97",
-    "nombre": "disney887461",
-    "status": "10:00",
-    "duration": 600,
-    "play_url": "https://www.disneyplus.com/es-es/play/199e0471-18f2-4be8-954e-1b1815d9e02c",
-    "k1": "8133d6dc434a4e58804f8ec6b5496515",
-    "k2": "e657306904ed6f44969ce8d4541d49dc",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1788714277~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F09%2F05%2FStadium_17_20260905_1788615044022%2F~psid=54cc243f-5b1f-4c9e-a7e2-d8730a024e4a~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=51fbcf832058c5b14794589c24866628bd648db3e65aec351fd31db6e1c001b4/clt1/va02/disneyplus/event/2026/09/05/Stadium_17_20260905_1788615044022/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=5c026c84a928a80f3a05de9d0474f9afb4e2595d"
-  },
-  {
     "title": "A. Blockx (BEL) vs. F. Cobolli (ITA) | En español",
     "league": "ESPN",
     "fecha-evento": "2026-09-05T10:00:01-05:00",
@@ -76,6 +50,19 @@
     "k1": "e5d185cdad2248e3842e19b867d4b1ce",
     "k2": "fb9a23ee1609cb03944751e282ce41ea",
     "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1788714249~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F09%2F05%2FGrandstand_20260905_1788615023015%2F~psid=e7faac66-216a-4266-83aa-8112e2280a5b~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=35154e1b3854cd96971f28c36a70b3419610ee2d72a7909b14c19fe0613b0c52/clt1/va02/disneyplus/event/2026/09/05/Grandstand_20260905_1788615023015/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=45162d7ce8d06af270dd5675005f9b6cb73ea5a2"
+  },
+  {
+    "title": "Stadium 17",
+    "league": "ESPN",
+    "fecha-evento": "2026-09-05T10:00:01-05:00",
+    "img": "13bb278d-512a-47e8-b7b8-7b89d5f27b97",
+    "nombre": "disney887461",
+    "status": "10:00",
+    "duration": 600,
+    "play_url": "https://www.disneyplus.com/es-es/play/199e0471-18f2-4be8-954e-1b1815d9e02c",
+    "k1": "8133d6dc434a4e58804f8ec6b5496515",
+    "k2": "e657306904ed6f44969ce8d4541d49dc",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1788714277~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F09%2F05%2FStadium_17_20260905_1788615044022%2F~psid=54cc243f-5b1f-4c9e-a7e2-d8730a024e4a~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=51fbcf832058c5b14794589c24866628bd648db3e65aec351fd31db6e1c001b4/clt1/va02/disneyplus/event/2026/09/05/Stadium_17_20260905_1788615044022/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=5c026c84a928a80f3a05de9d0474f9afb4e2595d"
   },
   {
     "title": "T. Fritz (USA) vs. F. Cerúndolo (ARG) | En español",
@@ -390,19 +377,6 @@
     "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1788717750~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F09%2F05%2FKatie_Taylor_vs_Flora_Pil_20260905_1788625859020%2F~psid=7f5fd5fc-e527-4f28-a668-9b57e69e53c4~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=bb6dffc0abd96b5b1d3273114c81290133b5710eb4d3049e5abea04b98a36bf8/clt1/va02/disneyplus/event/2026/09/05/Katie_Taylor_vs_Flora_Pil_20260905_1788625859020/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=59e6b378d2976bf79755a2f4eaba770597465b73"
   },
   {
-    "title": "WeatherTech Raceway Laguna Seca (Practice 2)",
-    "league": "IndyCar Series",
-    "fecha-evento": "2026-09-05T12:00:00-05:00",
-    "img": "01a04a85-2348-724c-93da-81b6d9442b43",
-    "nombre": "disney3298a0",
-    "status": "12:00",
-    "duration": 60,
-    "play_url": "https://www.disneyplus.com/es-es/play/bd3f825c-28a5-41df-a6cc-acbe33af1801",
-    "k1": "5da1843101c04116bc36dcc96e6a8437",
-    "k2": "3d023b8d325315053ea5b2b2c9df3316",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1788715310~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F09%2F05%2FWeatherTech_Raceway_Lagun_20260905_1788622203032%2F~psid=e0d9f456-d08b-428c-bc39-f18b4e1f63f8~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=457c51eebda1bf0eb65e3fa3841548415e53266b0266166d587c86bfc17ac979/clt1/va02/disneyplus/event/2026/09/05/WeatherTech_Raceway_Lagun_20260905_1788622203032/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=bcfab26ec8744c8775628ffc502aca1954ac4309"
-  },
-  {
     "title": "Los Tilos vs. Buenos Aires CRC",
     "league": "URBA Top 14",
     "fecha-evento": "2026-09-05T13:20:00-05:00",
@@ -561,12 +535,15 @@
   {
     "title": "Swansea City vs. Wrexham AFC",
     "league": "Championship de Inglaterra",
-    "fecha-evento": "2026-09-05T13:50:00-05:00",
+    "fecha-evento": "2026-09-05T13:52:05-05:00",
     "img": "01a01c19-676b-7073-958d-dd83df19eb51",
-    "nombre": "disney91c45b",
-    "status": "13:50",
-    "duration": 135,
-    "play_url": ""
+    "nombre": "disney6efb2e",
+    "status": "13:52",
+    "duration": 128,
+    "play_url": "https://www.disneyplus.com/es-es/play/8b59d1f8-39d7-4e29-b4d1-a3a9d8aa9047",
+    "k1": "9351f0fd0308475f8bafc29ed19e9747",
+    "k2": "eb8d1642c50e8d55fe125e0d97cf6f92",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1788721254~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F09%2F05%2FSwansea_City_vs_Wrexham_A_20260905_1788628845037%2F~psid=a4f5a9ce-eb74-44e8-b50a-296740a0722a~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=3d510f54c3a71cca9bc71ede9c1f392c89e4ffb8332532fe20afd7b10f9170a2/clt1/va02/disneyplus/event/2026/09/05/Swansea_City_vs_Wrexham_A_20260905_1788628845037/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=45e95502bd7a761601f887b032582fe8c189ce9b"
   },
   {
     "title": "Drake vs. Montana",
@@ -745,6 +722,26 @@
     "img": "01a05e10-827f-73bf-b475-4291a0da44ee",
     "nombre": "disneye01371",
     "status": "16:45",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Tennessee Tech vs. Chattanooga",
+    "league": "Fútbol Americano NCAA",
+    "fecha-evento": "2026-09-05T17:00:00-05:00",
+    "img": "01a01a94-ba6a-77c8-8018-7c5e2c29de17",
+    "nombre": "disney08047b",
+    "status": "17:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Atlanta Braves vs. Philadelphia Phillies",
+    "league": "MLB",
+    "fecha-evento": "2026-09-05T17:00:00-05:00",
+    "img": "01a030cc-8340-71c9-8424-fb6097e002e1",
+    "nombre": "disneyf22d9c",
+    "status": "17:00",
     "duration": 135,
     "play_url": ""
   }
