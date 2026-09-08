@@ -26,16 +26,6 @@
     "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1788972578~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F09%2F08%2FPremier_Padel_Pars_Centre_20260908_1788856245034%2F~psid=ad6ec906-97cb-4f78-a55e-dee519807039~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=d99bc82709533e3ca9b2d6f8a39c72f4f336ef022bf5e811e55c5fd32b39ea79/clt1/va02/disneyplus/event/2026/09/08/Premier_Padel_Pars_Centre_20260908_1788856245034/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=1bb336b329abe5fce9c197d480c595eb701834a3"
   },
   {
-    "title": "La Vuelta 26 (etapa 16)",
-    "league": "Vuelta a España",
-    "fecha-evento": "2026-09-08T07:45:00-05:00",
-    "img": "29f85e2d-78bb-47a4-b9b8-d79bf016fc65",
-    "nombre": "disney4b61c4",
-    "status": "07:45",
-    "duration": 250,
-    "play_url": "https://www.disneyplus.com/es-es/play/8225ffa3-7d8f-4c05-b0a5-89e8d97186ef"
-  },
-  {
     "title": "Court 5",
     "league": "ESPN",
     "fecha-evento": "2026-09-08T10:00:01-05:00",
@@ -397,7 +387,7 @@
     "title": "ESPN Tenis | US Open #10",
     "league": "ESPN",
     "fecha-evento": "2026-09-08T19:00:00-05:00",
-    "img": "396021d3-a40a-4f29-bdf6-77d021ca8a99",
+    "img": "2b642c22-7c4b-4349-81d0-78bfa8a2c15a",
     "nombre": "disney37d444",
     "status": "19:00",
     "duration": 135,
@@ -510,6 +500,16 @@
     "img": "29ad8442-467a-4ad1-87ec-35b50fa28632",
     "nombre": "disney1e4b71",
     "status": "10:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Stuttgart vs. Viking",
+    "league": "UEFA Champions League",
+    "fecha-evento": "2026-09-09T11:30:00-05:00",
+    "img": "01a06309-b264-7424-922a-5df38d4b6f2b",
+    "nombre": "disney918516",
+    "status": "11:30",
     "duration": 135,
     "play_url": ""
   }
