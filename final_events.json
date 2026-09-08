@@ -176,19 +176,6 @@
     "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1788973057~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F09%2F08%2FCourt_12_20260908_1788874219017%2F~psid=f34348f6-935d-4aef-af71-5750ff8299fb~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=5ee4bc3f288a24532cd8fc1fb82b92059e6221c14f614cf852f800859292bc44/clt1/va02/disneyplus/event/2026/09/08/Court_12_20260908_1788874219017/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=3be3f231767dbf208f9a77f02d08ba6de7b18aa1"
   },
   {
-    "title": "Court 14",
-    "league": "ESPN",
-    "fecha-evento": "2026-09-08T10:00:04-05:00",
-    "img": "10269901-969e-428a-b9ef-96c570938d90",
-    "nombre": "disney6abf37",
-    "status": "10:00",
-    "duration": 600,
-    "play_url": "https://www.disneyplus.com/es-es/play/e9c194e4-37d5-42ad-961f-816401210fbc",
-    "k1": "669ec1e67f8a4bdeb798d153203530f8",
-    "k2": "162e5e6979e03d14892d18686ef3fffa",
-    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1788973090~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F09%2F08%2FCourt_14_20260908_1788874216035%2F~psid=c924e85a-253d-4176-af00-20a58b39117f~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=6071b48fa969bf39df5a6d8747d3991b5689af9cb6b9835fa1302857a46cef33/clt1/va02/disneyplus/event/2026/09/08/Court_14_20260908_1788874216035/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=3029d88558ec3b12aed7f5dc520b893308f15881"
-  },
-  {
     "title": "Arthur Ashe Stadium",
     "league": "ESPN",
     "fecha-evento": "2026-09-08T10:30:01-05:00",
@@ -475,6 +462,16 @@
     "play_url": ""
   },
   {
+    "title": "Court 14",
+    "league": "ESPN",
+    "fecha-evento": "2026-09-09T10:00:00-05:00",
+    "img": "10269901-969e-428a-b9ef-96c570938d90",
+    "nombre": "disney5ccae1",
+    "status": "10:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
     "title": "Court 4",
     "league": "ESPN",
     "fecha-evento": "2026-09-09T10:00:00-05:00",
@@ -530,6 +527,16 @@
     "fecha-evento": "2026-09-09T13:40:00-05:00",
     "img": "01a07c6c-731e-7afa-b035-25f95a089e39",
     "nombre": "disney903c9b",
+    "status": "13:40",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Liverpool vs. Atlético de Madrid",
+    "league": "UEFA Champions League",
+    "fecha-evento": "2026-09-09T13:40:00-05:00",
+    "img": "01a062fd-b4d4-701f-b0c0-786ad534a600",
+    "nombre": "disneyda3d8f",
     "status": "13:40",
     "duration": 135,
     "play_url": ""
