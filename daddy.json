@@ -1,838 +1,2270 @@
 {
   "events": [
     {
-      "date": "Thursday, September 10 2026",
-      "time": "11:30 UTC -5",
-      "category": "BASKETBALL",
-      "info": "German Cup",
-      "title": "Crailsheim Merlins - Phoenix Hagen",
-      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhQn5z6Ln6t7RhnP1GyGPbu"
+      "date": "Friday, September 11 2026",
+      "time": "09:00 UTC -5",
+      "category": "SOCCER",
+      "info": "Latvia Virsliga",
+      "title": "Ogre United - FK Liepaja",
+      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNY9kCRhbJAAA4emF4vRnGC"
     },
     {
-      "date": "Thursday, September 10 2026",
-      "time": "11:45 UTC -5",
+      "date": "Friday, September 11 2026",
+      "time": "09:00 UTC -5",
+      "category": "VOLLEYBALL",
+      "info": "European Championships",
+      "title": "Czech Republic - Greece",
+      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNYBNEyVwo2wS8wLdzJpamK"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "09:00 UTC -5",
+      "category": "VOLLEYBALL",
+      "info": "European Championships",
+      "title": "Netherlands - Belgium",
+      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNY9kCbMys5PXFUetv1YaZV"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "09:35 UTC -5",
       "category": "TENNIS",
       "info": "WTA",
-      "title": "WTA Montreux - Waltert - Papamichail",
-      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhPQaPVawDaZsHmPGWozrjh"
+      "title": "WTA Montreux - Ferro - Havlickova",
+      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhPQaPVawDaZsHmPGdMGaDn"
     },
     {
-      "date": "Thursday, September 10 2026",
-      "time": "12:00 UTC -5",
+      "date": "Friday, September 11 2026",
+      "time": "09:55 UTC -5",
+      "category": "CYCLING",
+      "info": "UCI",
+      "title": "Grand Prix Cycliste de Quebec",
+      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNY9kCgCB9Y1CqtbiqZ6yi8"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "10:00 UTC -5",
+      "category": "SOCCER",
+      "info": "Czech Republic ChNL",
+      "title": "Trinec - Karvina",
+      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNY9kCm2NRzctSJYYm6fiLc"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "10:00 UTC -5",
+      "category": "SOCCER",
+      "info": "Latvia Virsliga",
+      "title": "Riga FC - Auda",
+      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNY9k8G9s7DQ2Q1VvuiWAK7"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "10:00 UTC -5",
+      "category": "SOCCER",
+      "info": "Romania",
+      "title": "Farul Constanta - UTA Arad",
+      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNY9k8Lz4Pg1hzRSkqG4ZTk"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "10:00 UTC -5",
+      "category": "SOCCER",
+      "info": "Russia Premier League",
+      "title": "Krylya Sovetov - Rodina Moscow",
+      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNY9k8RpFg8dPaqPakocxcP"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "10:00 UTC -5",
+      "category": "SOCCER",
+      "info": "Slovakia 2. liga",
+      "title": "Pohronie - L. Mikulas",
+      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNY9k8WeSxbF5BFLQgMBMm2"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "10:00 UTC -5",
+      "category": "HOCKEY",
+      "info": "KHL",
+      "title": "HC Lada - Nizhny Novgorod",
+      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNY9k8bUeF3rkmfHEbtjRSR"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "10:00 UTC -5",
+      "category": "HOCKEY",
+      "info": "Maxa liga",
+      "title": "Pirati Chomutov - Slavia Prague",
+      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNYBNK4DUhX5tDAf8DyC94W"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "10:00 UTC -5",
+      "category": "BASKETBALL",
+      "info": "Friendly",
+      "title": "Aris - Maccabi Tel Aviv",
+      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNYBNK93fyyhZoabx9WkYD6"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "10:00 UTC -5",
+      "category": "TENNIS",
+      "info": "WTA",
+      "title": "WTA Antalya - Court 6 - Bhosale/Kulambayeva - Ibragimova/Zaytseva",
+      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhPQaPk5X4xQv51DkPywmff"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "10:00 UTC -5",
+      "category": "MOTORSPORT",
+      "info": "F1",
+      "title": "Formula 1 Spanish Grand Prix Practice 2 [english]",
+      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNYBNKDssGSKFPzYn54JwMm"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "10:00 UTC -5",
+      "category": "MOTORSPORT",
+      "info": "F1",
+      "title": "Formula 1 Spanish Grand Prix Practice 2 [spanish]",
+      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNYBNKJi4YtvvzQVbzbsfyV"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "10:25 UTC -5",
+      "category": "SOCCER",
+      "info": "Saudi Professional League",
+      "title": "Al Qadsiah - Al Ettifaq [english]",
+      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNYBNKPYFqMYcapSRv9S58t"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "10:25 UTC -5",
+      "category": "SOCCER",
+      "info": "Saudi Professional League",
+      "title": "Al Qadsiah - Al Ettifaq [spanish]",
+      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNYBNEtfkWaKkYXPp4mGX7P"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "10:30 UTC -5",
+      "category": "SOCCER",
+      "info": "Finland Ykkosliiga",
+      "title": "KTP - JaPS",
+      "url": "https://www.vdocity.com/_2Ube1gcZmB2mss6GWELEeEuTQ7nGphqxnqxu"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "10:30 UTC -5",
+      "category": "HOCKEY",
+      "info": "Mestis",
+      "title": "Hermes - KeuPa",
+      "url": "https://www.vdocity.com/_2Ube1gcZmB2mss6GWELKUSBv1oNgmXey6Y56"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "10:30 UTC -5",
+      "category": "HOCKEY",
+      "info": "Mestis",
+      "title": "Kettera - K-Vantaa",
+      "url": "https://www.vdocity.com/_2Ube1gcZmB2mss6GWELQJdUNdUy6iMaWewDj"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "10:30 UTC -5",
+      "category": "HOCKEY",
+      "info": "Mestis",
+      "title": "Kiekko-Pojat - IPK",
+      "url": "https://www.vdocity.com/_2Ube1gcZmB2mss6GWELV8pkqFAZWfBcbU3Q4"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "10:30 UTC -5",
+      "category": "HOCKEY",
+      "info": "Mestis",
+      "title": "TUTO - Pyry",
+      "url": "https://www.vdocity.com/_2Ube1gcZmB2mss6GWEFzGKS42JXDcZmDJVPE"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "10:45 UTC -5",
+      "category": "SOCCER",
+      "info": "Saudi Professional League",
+      "title": "Al-Faisaly - Al Ittihad",
+      "url": "https://www.vdocity.com/_2Ube1gcZmB2mss6GWEG56WiWdz7dZPgkrtXt"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "11:00 UTC -5",
+      "category": "SOCCER",
+      "info": "Bahrain Premier League",
+      "title": "Aali Club - Malkia",
+      "url": "https://www.vdocity.com/_2Ube1gcZmB2mss6GWEG9vhzyFfi3WDcJRdAU"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "11:00 UTC -5",
+      "category": "SOCCER",
+      "info": "Bahrain Premier League",
+      "title": "Al-Najma - East Riffa",
+      "url": "https://www.vdocity.com/_2Ube1gcZmB2mss6GWEGEkuHRsMJTT3Xqz2K7"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "11:00 UTC -5",
+      "category": "SOCCER",
+      "info": "Czech Republic ChNL",
+      "title": "Dukla Prague - Vlasim",
+      "url": "https://www.vdocity.com/_2Ube1gcZmB2mss6GWEGKb6ZtV2tsPsTPYRSo"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "11:00 UTC -5",
+      "category": "SOCCER",
+      "info": "Czech Republic ChNL",
+      "title": "FK Pribram - Ostrava B",
+      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhQiqqAX842FUGDkDCFpQeo"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "11:00 UTC -5",
+      "category": "SOCCER",
+      "info": "Czech Republic ChNL",
+      "title": "Taborsko - SK Kladno",
+      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhQiqqFMKLUs9rdh37oNooS"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "11:00 UTC -5",
+      "category": "SOCCER",
+      "info": "Czech Republic ChNL",
+      "title": "Usti nad Labem - Vysocina Jihlava",
+      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhQiqqLBWcwUqT3ds3LwYRA"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "11:00 UTC -5",
+      "category": "SOCCER",
+      "info": "Denmark 1st Division",
+      "title": "Hobro - Vejle",
+      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhQiqkqK1JAFyQkbFBxmzPf"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "11:00 UTC -5",
+      "category": "SOCCER",
+      "info": "Ekstraklasa",
+      "title": "Rakow - Motor Lublin",
+      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhQiqkv9Cacsf1AY57WLPYJ"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "11:00 UTC -5",
+      "category": "SOCCER",
+      "info": "Finland Ykkosliiga",
+      "title": "KaPa - PK-35",
+      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhQiqkzyPs5VLbaUu33tngw"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "11:00 UTC -5",
+      "category": "SOCCER",
+      "info": "Poland Div 1",
+      "title": "Polonia Warszawa - Polonia Bytom",
+      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhQiqm5ob9Y72BzRixbTBqa"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "11:00 UTC -5",
+      "category": "SOCCER",
+      "info": "Poland Div 2",
+      "title": "Pruszkow - Tychy",
+      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhQiqmAdnRzihnQNYt91azt"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "11:00 UTC -5",
+      "category": "SOCCER",
+      "info": "Serbia Prva Liga",
+      "title": "Metalac Gornji - Dubocica",
+      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhQiqmFTyiTLPNpKNogZz9X"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "11:00 UTC -5",
+      "category": "SOCCER",
+      "info": "Toppserien Women",
+      "title": "Roa W - Valerenga W",
+      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhQiqmLJAzux4yEGCjE8PJA"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "11:00 UTC -5",
+      "category": "HOCKEY",
+      "info": "CHL",
+      "title": "Slovan Liberec - Herning Blue Fox [english]",
+      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhQkTwo31TPBCQje6MJMLB6"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "11:00 UTC -5",
+      "category": "HOCKEY",
+      "info": "CHL",
+      "title": "Slovan Liberec - Herning Blue Fox [czech]",
+      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhQkTwssCjqnt19avGr9Aa8"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "11:00 UTC -5",
+      "category": "HOCKEY",
+      "info": "CHL",
+      "title": "Slovan Liberec - Herning Blue Fox [danish]",
+      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhQkTwxhQ2JQZbZXkCPhZim"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "11:00 UTC -5",
+      "category": "HOCKEY",
+      "info": "KHL",
+      "title": "Ak Bars Kazan - Magnitogorsk",
+      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhQkTsTpthXBhZGV8M1Y1hG"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "11:00 UTC -5",
+      "category": "HOCKEY",
+      "info": "KHL",
+      "title": "Niznekamsk - Yekaterinburg",
+      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhQkTsYf5yyoP9gRxGZ6Qqu"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "11:00 UTC -5",
+      "category": "HOCKEY",
+      "info": "Latvia",
+      "title": "HS Riga - Kyiv Capitals",
+      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhQkTsdVHGSR4k6NnC6eozY"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "11:00 UTC -5",
+      "category": "VOLLEYBALL",
+      "info": "European Championships",
+      "title": "Portugal - Bulgaria",
+      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhQkTsiKUYu2kLWKc7eDYdq"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "11:00 UTC -5",
+      "category": "HANDBALL",
+      "info": "Poland Superliga Women",
+      "title": "MKS Lublin W - Galychanka Lviv W",
+      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhQkTso9fqMeRvvGS3BYB3H"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "11:00 UTC -5",
+      "category": "TENNIS",
+      "info": "WTA",
+      "title": "US Open - Arthur Ashe Stadium - Siniakova/Townsend - Montgomery/Krueger",
+      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhPNxLwnaihnbDUosw4CDBS"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "11:00 UTC -5",
+      "category": "TENNIS",
+      "info": "WTA Junior",
+      "title": "US Open - Court 7 - Sun - Clarke",
+      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhPNxGwuF6gFpjfSDcwNiaY"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "11:00 UTC -5",
+      "category": "TENNIS",
+      "info": "ATP Junior",
+      "title": "US Open - Court 12 - Latak - Mackenzie",
+      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhPQaTjxrgywgYpbQwC52o4"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "11:00 UTC -5",
+      "category": "TENNIS",
+      "info": "WTA Junior",
+      "title": "US Open - Court 10 - Pushkareva - Kovackova",
+      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhPQaTaJU84iKMzhm66xEVq"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "11:00 UTC -5",
+      "category": "TENNIS",
+      "info": "WTA",
+      "title": "WTA Antalya - Center Court - Herrero Linana - Bennemann",
+      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhPQaPfFKnVoEUbGvhXhoyo"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "11:00 UTC -5",
+      "category": "TENNIS",
+      "info": "WTA",
+      "title": "WTA Montreux - Waltert - Galfi",
+      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhPQaPVawDaZsHmPGrSb1ga"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "11:00 UTC -5",
+      "category": "GOLF",
+      "info": "DP World Tour",
+      "title": "Amgen Irish Open",
+      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhQkTssys7pG7XLDFxj6aBt"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "11:15 UTC -5",
+      "category": "SOCCER",
+      "info": "UAE League",
+      "title": "Ajman - Ittihad Kalba",
+      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhQkTsxp4QGso7kA5tGtk5i"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "11:15 UTC -5",
+      "category": "SOCCER",
+      "info": "UAE League",
+      "title": "Al Wahda - Al Sharjah",
+      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhQn64RYtrk6vZFXyWMMoAt"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "11:25 UTC -5",
+      "category": "MOTORSPORT",
+      "info": "F3",
+      "title": "Formula 3 Spain Qualifying",
+      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNYBNKDssGSKFPzYnBbazJG"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "11:30 UTC -5",
+      "category": "SOCCER",
+      "info": "2. Bundesliga",
+      "title": "Darmstadt - Arminia Bielefeld",
+      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhQn64WP69Cic9fUoRtvCKZ"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "11:30 UTC -5",
+      "category": "SOCCER",
+      "info": "2. Bundesliga",
+      "title": "Nurnberg - Hannover 96",
+      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhQn64bDHRfLHk5RdMSUbUC"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "11:30 UTC -5",
+      "category": "SOCCER",
+      "info": "Albania",
+      "title": "Skenderbeu - KF Tirana",
+      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhQn5z6Ln6t7RhnP1W4K3TN"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "11:30 UTC -5",
+      "category": "SOCCER",
+      "info": "Austria 2. Liga",
+      "title": "Amstetten - Austria Vienna",
+      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhQn5zBAyPLj7JCKqRbsSc1"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "11:30 UTC -5",
+      "category": "SOCCER",
+      "info": "Austria 2. Liga",
+      "title": "FC Trenkwalder Admira - SV Kapfenberg",
+      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhQn5zG1AfoLntcGfM9Rqke"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "11:30 UTC -5",
+      "category": "SOCCER",
+      "info": "Austria 2. Liga",
+      "title": "SK Rapid II - First Vienna",
+      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhQn5zLqMxFxUV2DVGgzEuH"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "11:30 UTC -5",
+      "category": "SOCCER",
+      "info": "Bundesliga Women",
+      "title": "Werder Bremen W - Hamburger SV W",
+      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhQn5zRfZEiaA5SAKCEYe3v"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "11:30 UTC -5",
       "category": "SOCCER",
       "info": "Serbia Super Liga",
-      "title": "Radnik - Crvena zvezda",
-      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhQn5zRfZEiaA5SAJy9BrCs"
+      "title": "Zeleznicar Pancevo - Macva",
+      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhQn5zWVkXBBqfr797n7Nfe"
     },
     {
-      "date": "Thursday, September 10 2026",
+      "date": "Friday, September 11 2026",
+      "time": "11:30 UTC -5",
+      "category": "HOCKEY",
+      "info": "KHL",
+      "title": "CSKA Moscow - Admiral Vladivostok",
+      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhQn5zbKwodoXGG3y3KfSLN"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "11:45 UTC -5",
+      "category": "BASKETBALL",
+      "info": "Friendly",
+      "title": "Baskonia - Alba Berlin",
+      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhQoiB44nG72ehmRrfQ8VSM"
+    },
+    {
+      "date": "Friday, September 11 2026",
       "time": "12:00 UTC -5",
       "category": "SOCCER",
-      "info": "Superettan",
-      "title": "Falkenberg - Oster",
-      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhQn5zWVkXBBqfr78tgkFMW"
+      "info": "3. Liga",
+      "title": "Viktoria Koln - Hansa Rostock",
+      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhQoiB8tyYZeLJBNgawhE4u"
     },
     {
-      "date": "Thursday, September 10 2026",
+      "date": "Friday, September 11 2026",
       "time": "12:00 UTC -5",
       "category": "SOCCER",
-      "info": "Superettan",
-      "title": "Ostersund - Brage",
-      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhQn5zbKwodoXGG3xpEJyyE"
+      "info": "Allsvenskan",
+      "title": "Hacken - Mjallby",
+      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhQoiBDjAq2G1tbKWWVFdDY"
     },
     {
-      "date": "Thursday, September 10 2026",
+      "date": "Friday, September 11 2026",
       "time": "12:00 UTC -5",
       "category": "SOCCER",
-      "info": "Superettan",
-      "title": "Sundsvall - Orebro",
-      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhQoiB44nG72ehmRrSJmhbK"
+      "info": "Cyprus",
+      "title": "AEL Limassol - Nea Salamis",
+      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhQoi6irfWF39rJGtf765C3"
     },
     {
-      "date": "Thursday, September 10 2026",
+      "date": "Friday, September 11 2026",
       "time": "12:00 UTC -5",
       "category": "SOCCER",
-      "info": "Superettan",
-      "title": "Varberg - Norrkoping",
-      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhQoiB8tyYZeLJBNgMrL6jx"
+      "info": "Denmark",
+      "title": "FC Copenhagen - Horsens",
+      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhQoi6ogrnheqSiDiaeeULg"
     },
     {
-      "date": "Thursday, September 10 2026",
+      "date": "Friday, September 11 2026",
+      "time": "12:00 UTC -5",
+      "category": "SOCCER",
+      "info": "Denmark 1st Division",
+      "title": "Vendsyssel - Aarhus Fremad",
+      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhQoi6tX45AGX38AYWCCsVz"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "12:00 UTC -5",
+      "category": "SOCCER",
+      "info": "Serie B",
+      "title": "Empoli - Arezzo",
+      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhQoi6yMFMctCdY7NRjmGed"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "12:00 UTC -5",
+      "category": "SOCCER",
+      "info": "Sweden Div 1",
+      "title": "Lunds - Rosengard",
+      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhQoi74BSe5VtDx4CMHKfoG"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "12:00 UTC -5",
+      "category": "SOCCER",
+      "info": "Sweden Div 1",
+      "title": "Trollhattan - Utsikten",
+      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhQoi791dvY7ZpN12Gpt4wu"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "12:00 UTC -5",
+      "category": "SOCCER",
+      "info": "Toppserien Women",
+      "title": "Bodo/Glimt W - Aalesund W",
+      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhQoi7DqqCzjFQmwrCNSU6Y"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "12:00 UTC -5",
+      "category": "SOCCER",
+      "info": "Turkey Super Lig",
+      "title": "Besiktas - Erzurumspor",
+      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhPJ614EvWd1Qmw8EEpqp2G"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "12:00 UTC -5",
+      "category": "SOCCER",
+      "info": "Turkey 1. Lig",
+      "title": "Sariyer - Bandirmaspor",
+      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhPJ61957o5d6NM54ANQDAu"
+    },
+    {
+      "date": "Friday, September 11 2026",
       "time": "12:00 UTC -5",
       "category": "HOCKEY",
       "info": "CHL",
-      "title": "Skelleftea AIK - Geneve-Servette",
-      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhQoiBDjAq2G1tbKWHPtARN"
+      "title": "Rogle - FC Salzburg",
+      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhPJ61DuK5YEmxm1t5uwwNR"
     },
     {
-      "date": "Thursday, September 10 2026",
+      "date": "Friday, September 11 2026",
       "time": "12:00 UTC -5",
       "category": "HOCKEY",
       "info": "CHL",
-      "title": "Storhamar Hamar - KAC Klagenfurt",
-      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhQoi6irfWF39rJGtS1icPs"
+      "title": "Vaxjo Lakers - Tappara Tampere",
+      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhPJ5vj2okm1uvTyGEXnPLv"
     },
     {
-      "date": "Thursday, September 10 2026",
+      "date": "Friday, September 11 2026",
+      "time": "12:00 UTC -5",
+      "category": "HOCKEY",
+      "info": "CHL",
+      "title": "Vaxjo Lakers - Tappara Tampere [finnish]",
+      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhPJ5vos13DdbWsv6A5LnVZ"
+    },
+    {
+      "date": "Friday, September 11 2026",
       "time": "12:00 UTC -5",
       "category": "HOCKEY",
       "info": "SDHL Women",
-      "title": "Djurgarden W - SDE HF W",
-      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhQoi6ogrnheqSiDiMZH1YW"
+      "title": "Brynas W - Modo W",
+      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhPJ5vthCKgFH7Hrv5cuBeC"
     },
     {
-      "date": "Thursday, September 10 2026",
+      "date": "Friday, September 11 2026",
+      "time": "12:00 UTC -5",
+      "category": "RUGBY",
+      "info": "Pro D2",
+      "title": "Angouleme - Montauban",
+      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhPJ5vyXPc8rxhhok1ATvFv"
+    },
+    {
+      "date": "Friday, September 11 2026",
       "time": "12:00 UTC -5",
       "category": "VOLLEYBALL",
       "info": "European Championships",
-      "title": "Finland - Denmark",
-      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhQoi6tX45AGX38AYH6qkAK"
+      "title": "Serbia - Estonia",
+      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhPJ5w4MatbUeJ7kZvi2etW"
     },
     {
-      "date": "Thursday, September 10 2026",
+      "date": "Friday, September 11 2026",
       "time": "12:00 UTC -5",
       "category": "VOLLEYBALL",
       "info": "European Championships",
-      "title": "Turkey - Germany",
-      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhQoi6yMFMctCdY7NCeQ9Jx"
+      "title": "Switzerland - Romania",
+      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhPJ5w9BnB46KtXhPrFb439"
     },
     {
-      "date": "Thursday, September 10 2026",
+      "date": "Friday, September 11 2026",
       "time": "12:00 UTC -5",
       "category": "HANDBALL",
-      "info": "Bundesliga",
-      "title": "Eisenach - Bietigheim-Metterzimmern",
-      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhQoi74BSe5VtDx4C8BxCyd"
+      "info": "2. Bundesliga",
+      "title": "Essen - Elbflorenz",
+      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhPJ5wE1yTWi1UweDmo8nDv"
     },
     {
-      "date": "Thursday, September 10 2026",
+      "date": "Friday, September 11 2026",
       "time": "12:00 UTC -5",
       "category": "HANDBALL",
-      "info": "Bundesliga",
-      "title": "Lemgo - SG Flensburg-Handewit",
-      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhQoi791dvY7ZpN123jWc8G"
+      "info": "Denmark Herre Handbold Ligaen",
+      "title": "Fredericia - Ringsted",
+      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhPKi7gkouyw8vT27PsbVrg"
     },
     {
-      "date": "Thursday, September 10 2026",
-      "time": "12:05 UTC -5",
-      "category": "BASEBALL",
-      "info": "MLB",
-      "title": "Houston Astros vs. Philadelphia Phillies [away feed]",
-      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhQoi7DqqCzjFQmwqyH5LmW"
+      "date": "Friday, September 11 2026",
+      "time": "12:00 UTC -5",
+      "category": "ATHLETICS",
+      "info": "Track & Field",
+      "title": "World Athletics Ultimate Championship: Budapest",
+      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhPKi7mb1CSYpWrxwKR9tza"
     },
     {
-      "date": "Thursday, September 10 2026",
-      "time": "12:05 UTC -5",
-      "category": "BASEBALL",
-      "info": "MLB",
-      "title": "Houston Astros vs. Philadelphia Phillies [home feed]",
-      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhPJ614EvWd1Qmw8E1jUME9"
+      "date": "Friday, September 11 2026",
+      "time": "12:00 UTC -5",
+      "category": "DARTS",
+      "info": "PDC",
+      "title": "Flanders Darts Trophy",
+      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhPKi7rRCUuAW7GumExiJ9D"
     },
     {
-      "date": "Thursday, September 10 2026",
+      "date": "Friday, September 11 2026",
       "time": "12:30 UTC -5",
       "category": "SOCCER",
-      "info": "Sweden Div 1",
-      "title": "Enkoping SK - Assyriska FF",
-      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhPJ61957o5d6NM53wH2kNo"
+      "info": "Austria Bundesliga",
+      "title": "SV Ried - FC Salzburg",
+      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhPKi3MYhA7we4ys9PaFH5J"
     },
     {
-      "date": "Thursday, September 10 2026",
+      "date": "Friday, September 11 2026",
+      "time": "12:30 UTC -5",
+      "category": "SOCCER",
+      "info": "Swiss Challenge League",
+      "title": "Lausanne Ouchy - Wil",
+      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhPKi3XD5j3B1FokoEfN5PF"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "12:30 UTC -5",
+      "category": "SOCCER",
+      "info": "Swiss Challenge League",
+      "title": "Rapperswil-Jona - Yverdon",
+      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhPKi3c3H1VngrDhdACvUXt"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "12:30 UTC -5",
+      "category": "SOCCER",
+      "info": "Swiss Challenge League",
+      "title": "Stade Nyonnais - Xamax",
+      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhPKi3gsUHxQNSdeT5kUsgX"
+    },
+    {
+      "date": "Friday, September 11 2026",
       "time": "12:30 UTC -5",
       "category": "HOCKEY",
       "info": "CHL",
-      "title": "Kolner Haie - Frolunda Gothenburg",
-      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhPJ61DuK5YEmxm1srpb9XQ"
+      "title": "Eisbaren Berlin - Graz99ers",
+      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhPKi3mhfaR2433bH1JMQqQ"
     },
     {
-      "date": "Thursday, September 10 2026",
+      "date": "Friday, September 11 2026",
+      "time": "12:30 UTC -5",
+      "category": "HOCKEY",
+      "info": "CHL",
+      "title": "Eisbaren Berlin - Graz99ers [german]",
+      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhPKi3rXrrsdjdTY6vquoz3"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "12:30 UTC -5",
+      "category": "RUGBY",
+      "info": "Pro D2",
+      "title": "Beziers - Nevers",
+      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhPMLEKGhKLrs4xuzYvNXc8"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "12:30 UTC -5",
+      "category": "RUGBY",
+      "info": "Pro D2",
+      "title": "CA Brive - Nissa",
+      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhPMLEQ6tboUYfNrpUTcnje"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "12:30 UTC -5",
+      "category": "RUGBY",
+      "info": "Pro D2",
+      "title": "Provence Rugby - Narbonne",
+      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhPMLEUw5tG6EFnoeQ1BBtH"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "12:30 UTC -5",
+      "category": "RUGBY",
+      "info": "Pro D2",
+      "title": "US Dax - Valence Romans",
+      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhPML9z4aZUsNDVm2Yd1drn"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "12:30 UTC -5",
+      "category": "RUGBY",
+      "info": "Pro D2",
+      "title": "US Oyonnax - Aurillac",
+      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhPMLA4tmqwV3ouhrUAa31R"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "12:30 UTC -5",
+      "category": "HANDBALL",
+      "info": "2. Bundesliga",
+      "title": "Ludwigshafen - Grosswallstadt",
+      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhPMLA9iy8Q6jQKegPiSaAL"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "12:30 UTC -5",
+      "category": "HANDBALL",
+      "info": "Denmark Herre Handbold Ligaen",
+      "title": "Mors - Skive",
+      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhPMLAEZAQriQzjbWKFzyKe"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "12:30 UTC -5",
+      "category": "HANDBALL",
+      "info": "France Starligue",
+      "title": "St. Raphael - Dunkerque",
+      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhPMLAKPMhKL6b9YLEoZNUH"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "12:30 UTC -5",
+      "category": "TENNIS",
+      "info": "ATP Junior",
+      "title": "US Open - Court 7 - Miguel - Behrmann",
+      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhPNxGwuF6gFpjfSDcwP43h"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "12:30 UTC -5",
+      "category": "TENNIS",
+      "info": "WTA",
+      "title": "WTA Montreux - Brancaccio/Papamichail - Cascino/Feng",
+      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhPQaPVawDaZsHmPGrSb1gc"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "12:45 UTC -5",
+      "category": "SOCCER",
+      "info": "Liga Portugal 2",
+      "title": "Torreense - Leixoes",
+      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhPMLAQDYymwnBZVAALoy5o"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "12:45 UTC -5",
+      "category": "HOCKEY",
+      "info": "CHL",
+      "title": "Fribourg-Gotteron - Viktoria Plzen",
+      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhPMLAV3kGEZTmyRz5tN2mJ"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "12:45 UTC -5",
+      "category": "HOCKEY",
+      "info": "CHL",
+      "title": "Fribourg-Gotteron - Viktoria Plzen [czech]",
+      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNZU1a1vFE7hJxsohWhuTHm"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "13:00 UTC -5",
+      "category": "SOCCER",
+      "info": "Belgium 1B",
+      "title": "Beerschot VA - K. Lierse S.K.",
+      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNZU1a6kSWaJzZHkXSFTrTD"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "13:00 UTC -5",
+      "category": "SOCCER",
+      "info": "Belgium 1B",
+      "title": "Gent U23 - Dender",
+      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNZU1aBado2vg9hhMMo2b4w"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "13:00 UTC -5",
+      "category": "SOCCER",
+      "info": "Bulgaria",
+      "title": "Cherno More - Lokomotiv Sofia",
+      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNZU1aGQq5VYMk7eBHLazDa"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "13:00 UTC -5",
+      "category": "SOCCER",
+      "info": "Eredivisie",
+      "title": "AZ Alkmaar - Willem II",
+      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNZU1aMF2MxA3LXb1Ct9PND"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "13:00 UTC -5",
+      "category": "SOCCER",
+      "info": "Eerste Divisie",
+      "title": "Eindhoven FC - Dordrecht",
+      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNZU1VrNX3AwBJEYPMVyqLi"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "13:00 UTC -5",
+      "category": "SOCCER",
+      "info": "Eerste Divisie",
+      "title": "FC Emmen - De Graafschap",
+      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNZU1VwCiKdYrteVDH3YEVM"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "13:00 UTC -5",
+      "category": "SOCCER",
+      "info": "Eerste Divisie",
+      "title": "Helmond - Jong PSV",
+      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNZU1W22uc6AYV4S3Cb6ddz"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "13:00 UTC -5",
+      "category": "SOCCER",
+      "info": "Eerste Divisie",
+      "title": "Heracles - Jong AZ",
+      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNZU1W6s6tYnE5UNs88f2oJ"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "13:00 UTC -5",
+      "category": "SOCCER",
+      "info": "Eerste Divisie",
+      "title": "Jong Ajax - RKC Waalwijk",
+      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNZU1WBhJB1PuftKh3gDRww"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "13:00 UTC -5",
+      "category": "SOCCER",
+      "info": "Eerste Divisie",
+      "title": "MVV Maastricht - Almere City",
+      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNZVdgeS8dUd37Phafkg9a2"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "13:00 UTC -5",
+      "category": "SOCCER",
+      "info": "Eerste Divisie",
+      "title": "NAC Breda - Jong Utrecht",
+      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNZVdgjGKuwEihoeQbJEYif"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "13:00 UTC -5",
+      "category": "SOCCER",
+      "info": "Eerste Divisie",
+      "title": "VVV Venlo - FC Oss",
+      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNZVdgp6XCPrQJDbEdP3et3"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "13:00 UTC -5",
+      "category": "SOCCER",
+      "info": "Liga BiH",
+      "title": "Celik Zenica - Radnik Bijeljina",
+      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNZVdgtviUrU5tdY4Yvc42g"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "13:00 UTC -5",
+      "category": "SOCCER",
+      "info": "Ligue 2",
+      "title": "Clermont - Boulogne",
+      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNZVdgykumK5mV3UtUUATBK"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "13:00 UTC -5",
+      "category": "SOCCER",
+      "info": "Ligue 2",
+      "title": "Dijon - Laval",
+      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNZVdcUtQSXruSkSGd5zu9p"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "13:00 UTC -5",
+      "category": "SOCCER",
+      "info": "Ligue 2",
+      "title": "Montpellier - Pau FC",
+      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNZVdcZibizUb3AP6YdZJJT"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "13:00 UTC -5",
+      "category": "SOCCER",
+      "info": "Ligue 2",
+      "title": "Nancy - Reims",
+      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNZVdceYo1T6GdaKvUB7hT6"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "13:00 UTC -5",
+      "category": "SOCCER",
+      "info": "Ligue 2",
+      "title": "Rodez - Grenoble",
+      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNZVdcjNzHuhxDzGkPig6cQ"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "13:00 UTC -5",
+      "category": "SOCCER",
+      "info": "Mexico Liga de Expansion",
+      "title": "Cruz Azul Hidalgo - Piratas",
+      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNZVdcpDBaNKdpQDaKGEVm3"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "13:00 UTC -5",
+      "category": "SOCCER",
+      "info": "Romania",
+      "title": "Csikszereda M. Ciuc - Dinamo Bucuresti",
+      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNZXFoGx22qYmFubTwLhDP8"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "13:00 UTC -5",
+      "category": "SOCCER",
+      "info": "Saudi Professional League",
+      "title": "Al Ahli SC - Al Hazem",
+      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNZXFoMnDKJASrKYHrtFcXm"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "13:00 UTC -5",
+      "category": "SOCCER",
+      "info": "Serbia Prva Liga",
+      "title": "Spartak Subotica - Napredak",
+      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNZXFoScQbkn8SjV7nRpM9V"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "13:00 UTC -5",
+      "category": "BASKETBALL",
+      "info": "Friendly",
+      "title": "Olympiacos - Crvena Zvezda Meridianbet",
+      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNZXFoXSbtDPp39RwbS7NJh"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "13:00 UTC -5",
+      "category": "BASKETBALL",
+      "info": "Friendly",
+      "title": "Partizan Mozzart Bet - Fuenlabrada",
+      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNZXFocGoAg1VdZNmWyfmTL"
+    },
+    {
+      "date": "Friday, September 11 2026",
       "time": "13:00 UTC -5",
       "category": "BASKETBALL",
       "info": "German Cup",
-      "title": "Bremerhaven - Basketball Braunschweig",
-      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhPJ5vj2okm1uvTyG1SRbVv"
+      "title": "Hamburg - Rostock",
+      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNZXFj7QHqtndbGL9fbWDRq"
     },
     {
-      "date": "Thursday, September 10 2026",
+      "date": "Friday, September 11 2026",
+      "time": "13:00 UTC -5",
+      "category": "HANDBALL",
+      "info": "2. Bundesliga",
+      "title": "Dessauer - Hagen",
+      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNZXFjCEV8MQKBgGyb94cbA"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "13:00 UTC -5",
+      "category": "HANDBALL",
+      "info": "Bundesliga",
+      "title": "Rhein-Neckar - HBW Balingen-Weilstetten",
+      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNZXFjH4gQp1zn6DoWgd1jo"
+    },
+    {
+      "date": "Friday, September 11 2026",
       "time": "13:00 UTC -5",
       "category": "HANDBALL",
       "info": "France Starligue",
-      "title": "Limoges - Saran",
-      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhPJ5vos13DdbWsv5vyzL7e"
+      "title": "Chartres - Tremblay",
+      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNZXFjMtshGdgNWAdSEBQtS"
     },
     {
-      "date": "Thursday, September 10 2026",
+      "date": "Friday, September 11 2026",
       "time": "13:00 UTC -5",
-      "category": "TENNIS",
-      "info": "ATP Junior",
-      "title": "US Open - Court 12 - Kennedy - Mackenzie",
-      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhPQaTjxrgywgYpbQbZVDL4"
+      "category": "GOLF",
+      "info": "PGA Tour Champions",
+      "title": "Sanford International",
+      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNZXFjSj4yjFMxv7TMmjp2L"
     },
     {
-      "date": "Thursday, September 10 2026",
+      "date": "Friday, September 11 2026",
       "time": "13:00 UTC -5",
       "category": "BILLIARD",
       "info": "Snooker",
       "title": "English Open [Table 1]",
-      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNYBNF4L95VZ7jMHTurNeSm"
+      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNYBNF4L95VZ7jMHUFUxoNx"
     },
     {
-      "date": "Thursday, September 10 2026",
+      "date": "Friday, September 11 2026",
       "time": "13:00 UTC -5",
       "category": "BILLIARD",
       "info": "Snooker",
       "title": "English Open [Table 2]",
-      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNYBNF9ALMxAoKmEHqPw3bQ"
+      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNYBNF9ALMxAoKmEJB2XCYG"
     },
     {
-      "date": "Thursday, September 10 2026",
+      "date": "Friday, September 11 2026",
       "time": "13:15 UTC -5",
       "category": "SOCCER",
-      "info": "Greece",
-      "title": "Panathinaikos - Kifisia",
-      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhPJ5vthCKgFH7HrurXYjGH"
+      "info": "Slovenia",
+      "title": "Grosuplje - Nafta",
+      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNY1ddH8AHMXXL5HqWmQCUM"
     },
     {
-      "date": "Thursday, September 10 2026",
-      "time": "13:45 UTC -5",
-      "category": "BASKETBALL",
-      "info": "World Cup",
-      "title": "Australia W - Spain W",
-      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhPJ5vyXPc8rxhhojn578Qv"
+      "date": "Friday, September 11 2026",
+      "time": "13:15 UTC -5",
+      "category": "SOCCER",
+      "info": "Swiss Challenge League",
+      "title": "Etoile-Carouge - Winterthur",
+      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNY1ddMxMZp9CvVEfSJxbcz"
     },
     {
-      "date": "Thursday, September 10 2026",
-      "time": "13:45 UTC -5",
+      "date": "Friday, September 11 2026",
+      "time": "13:15 UTC -5",
+      "category": "HOCKEY",
+      "info": "CHL",
+      "title": "Bordeaux - Adler Mannheim",
+      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNY1ddSnYrGktWuBVMrWzma"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "13:20 UTC -5",
+      "category": "BASEBALL",
+      "info": "MLB",
+      "title": "Pittsburgh Pirates vs. Chicago Cubs [away feed]",
+      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNY1ddXck8jNa7K8KHQ5PvF"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "13:20 UTC -5",
+      "category": "BASEBALL",
+      "info": "MLB",
+      "title": "Pittsburgh Pirates vs. Chicago Cubs [home feed]",
+      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNY1ddcSwRBzFhj59Cwdo4t"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "13:30 UTC -5",
+      "category": "SOCCER",
+      "info": "Austria 2. Liga",
+      "title": "FC Wacker Innsbruck - ASK Voitsberg",
+      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNY1dZ7aS6QmPfS2XMZUF46"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "13:30 UTC -5",
+      "category": "SOCCER",
+      "info": "Bundesliga",
+      "title": "Union Berlin - Schalke [english]",
+      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNY1dZCQdNsP5FqyMH72eCj"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "13:30 UTC -5",
+      "category": "SOCCER",
+      "info": "Bundesliga",
+      "title": "Union Berlin - Schalke [spanish]",
+      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNY1dZHEpfKzkrFvBCebNpT"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "13:30 UTC -5",
+      "category": "SOCCER",
+      "info": "Ekstraklasa",
+      "title": "Wisla Krakow - Jagiellonia Bialystok",
+      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNY1dZN51wncSSfs18C9my6"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "13:30 UTC -5",
+      "category": "SOCCER",
+      "info": "LaLiga2",
+      "title": "Burgos CF - Ceuta",
+      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNY1dZSuDEFE835oq3jiB7j"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "13:30 UTC -5",
+      "category": "SOCCER",
+      "info": "Scotland Championship",
+      "title": "Morton - Livingston",
+      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNY3Fjue3giTFUbBifpAtjp"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "13:30 UTC -5",
       "category": "HANDBALL",
-      "info": "Champions League",
-      "title": "MT Melsungen - Vardar 1961",
-      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhPJ5w4MatbUeJ7kZhcfXZZ"
+      "info": "France Starligue",
+      "title": "Selestat - Chambery Savoie",
+      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNY3FjzUEyB4w518YbMixRE"
     },
     {
-      "date": "Thursday, September 10 2026",
-      "time": "13:45 UTC -5",
+      "date": "Friday, September 11 2026",
+      "time": "13:30 UTC -5",
       "category": "HANDBALL",
-      "info": "Champions League",
-      "title": "Sporting Lisbon - GOG",
-      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhPJ5w9BnB46KtXhPdADviC"
+      "info": "France Starligue",
+      "title": "Toulouse - Caen",
+      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNY3Fk5JSFdgcfR5NWuHMZs"
     },
     {
-      "date": "Thursday, September 10 2026",
+      "date": "Friday, September 11 2026",
+      "time": "13:45 UTC -5",
+      "category": "SOCCER",
+      "info": "Belgium 1A",
+      "title": "KV Mechelen - Anderlecht",
+      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNY3FkA8dY6JJFq2CSSr6Bh"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "13:45 UTC -5",
+      "category": "SOCCER",
+      "info": "Ireland",
+      "title": "Drogheda - Sligo Rovers",
+      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNY3FkExppYuyrEy2MzQVLL"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "13:45 UTC -5",
+      "category": "SOCCER",
+      "info": "Ireland",
+      "title": "Galway - Bohemians",
+      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNY3Ffk6KVmh7owvQWcEwKW"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "13:45 UTC -5",
+      "category": "SOCCER",
+      "info": "Ireland",
+      "title": "Shelbourne - Derry City",
+      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNY3FfpvWnEJoQMsES9oLU9"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "13:45 UTC -5",
+      "category": "SOCCER",
+      "info": "Ireland",
+      "title": "Waterford - Dundalk",
+      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNY3Ffuki4gvUzmp4MhMjcn"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "13:45 UTC -5",
+      "category": "SOCCER",
+      "info": "Ligue 1",
+      "title": "Rennes - Marseille",
+      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNY3FfzauM9YAbBktHEv8mR"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "13:45 UTC -5",
+      "category": "SOCCER",
+      "info": "Poland Div 1",
+      "title": "Puszcza - LKS Lodz",
+      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNY3Fg5R6dc9rBbhiCnUsP9"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "13:45 UTC -5",
+      "category": "SOCCER",
+      "info": "Scotland League Cup",
+      "title": "Stenhousemuir - Hearts",
+      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNY4srY9w65Nyd75bprwb1E"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "13:45 UTC -5",
+      "category": "SOCCER",
+      "info": "Serie A",
+      "title": "Venezia - Fiorentina [english]",
+      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNY4srcz8NXzfDX2RkQVz9s"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "13:45 UTC -5",
+      "category": "SOCCER",
+      "info": "Serie A",
+      "title": "Venezia - Fiorentina [spanish]",
+      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNY4srhpKezcLovyFfx4PJW"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "13:45 UTC -5",
+      "category": "SOCCER",
+      "info": "Serie A",
+      "title": "Venezia - Fiorentina [italian]",
+      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNY4srneWwTE2QLv5bVcnT9"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "13:45 UTC -5",
+      "category": "SOCCER",
+      "info": "Spain Liga F",
+      "title": "Dep. A Coruna W - Real Madrid W",
+      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNY4srsUiDuqhzkruX3BBbn"
+    },
+    {
+      "date": "Friday, September 11 2026",
       "time": "14:00 UTC -5",
       "category": "SOCCER",
-      "info": "UEFA Champions League",
-      "title": "Simulcast [english]",
-      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhPJ5wE1yTWi1UweDfFMWPJ"
+      "info": "England Championship",
+      "title": "West Ham - Wrexham",
+      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNY4snNcCu8cqxTpHff1y49"
     },
     {
-      "date": "Thursday, September 10 2026",
+      "date": "Friday, September 11 2026",
       "time": "14:00 UTC -5",
       "category": "SOCCER",
-      "info": "UEFA Champions League",
-      "title": "Simulcast [german]",
-      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhPKi7gkouyw8vT27HKpDzg"
+      "info": "France Premiere Ligue",
+      "title": "PSG W - Strasbourg W",
+      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNY4snTSQBbEXYsm7bCaNCn"
     },
     {
-      "date": "Thursday, September 10 2026",
+      "date": "Friday, September 11 2026",
       "time": "14:00 UTC -5",
       "category": "SOCCER",
-      "info": "UEFA Champions League",
-      "title": "Bayern Munich - Bodo/Glimt [english]",
-      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhPKi7mb1CSYpWrxw6KoSeE"
+      "info": "Icelandic Cup",
+      "title": "Afturelding - Breidablik",
+      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNY4snYGbU3rD9HhwWk8mMR"
     },
     {
-      "date": "Thursday, September 10 2026",
+      "date": "Friday, September 11 2026",
       "time": "14:00 UTC -5",
       "category": "SOCCER",
-      "info": "UEFA Champions League",
-      "title": "Bayern Munich - Bodo/Glimt [spanish]",
-      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhPKi7rRCUuAW7Gum1sMqns"
+      "info": "Ireland",
+      "title": "St. Patricks - Shamrock Rovers",
+      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNY4snd6nkWTtjhemSHhAW4"
     },
     {
-      "date": "Thursday, September 10 2026",
+      "date": "Friday, September 11 2026",
       "time": "14:00 UTC -5",
       "category": "SOCCER",
-      "info": "UEFA Champions League",
-      "title": "Como - RB Leipzig [english]",
-      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhPKi3SNtSaZKfPoyCaKsQx"
+      "info": "Italy Serie C",
+      "title": "Altamura - Bari",
+      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNY4snhvz2y5aL7bbMqFZfN"
     },
     {
-      "date": "Thursday, September 10 2026",
+      "date": "Friday, September 11 2026",
       "time": "14:00 UTC -5",
       "category": "SOCCER",
-      "info": "UEFA Champions League",
-      "title": "Como - RB Leipzig [german]",
-      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhPKi3MYhA7we4ys9AVCHmN"
+      "info": "Italy Serie C",
+      "title": "Audace Cerignola - Giugliano",
+      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNY6VyAfpVSJhmcyUyuiHHT"
     },
     {
-      "date": "Thursday, September 10 2026",
+      "date": "Friday, September 11 2026",
       "time": "14:00 UTC -5",
       "category": "SOCCER",
-      "info": "UEFA Champions League",
-      "title": "Como - RB Leipzig [spanish]",
-      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhPKi3XD5j3B1Foko87tGZb"
+      "info": "Italy Serie C",
+      "title": "Casarano - Barletta",
+      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNY6VyFW1mtvPN2vJuTGgS6"
     },
     {
-      "date": "Thursday, September 10 2026",
+      "date": "Friday, September 11 2026",
       "time": "14:00 UTC -5",
       "category": "SOCCER",
-      "info": "UEFA Champions League",
-      "title": "Manchester United - Sabah Baku [english]",
-      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhPKi3c3H1VngrDhd3fSfiE"
+      "info": "Italy Serie C",
+      "title": "Salernitana - Potenza",
+      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNY6VyLLD4MY4xSs8pzq5aj"
     },
     {
-      "date": "Thursday, September 10 2026",
+      "date": "Friday, September 11 2026",
       "time": "14:00 UTC -5",
       "category": "SOCCER",
-      "info": "UEFA Champions League",
-      "title": "Manchester United - Sabah Baku [spanish]",
-      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhPKi3gsUHxQNSdeSyD14rs"
+      "info": "Paraguay",
+      "title": "Ameliano - San Lorenzo",
+      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNY6VyRAQLp9kYroxkYcuym"
     },
     {
-      "date": "Thursday, September 10 2026",
+      "date": "Friday, September 11 2026",
       "time": "14:00 UTC -5",
       "category": "SOCCER",
-      "info": "UEFA Champions League",
-      "title": "Slavia Prague - Lens [english]",
-      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhPKi3mhfaR2433bGtkZU2D"
+      "info": "Serie B",
+      "title": "Benevento - Verona",
+      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNY6VyVzbdGmS9Gkng6BK8Q"
     },
     {
-      "date": "Thursday, September 10 2026",
+      "date": "Friday, September 11 2026",
       "time": "14:00 UTC -5",
       "category": "SOCCER",
-      "info": "UEFA Champions League",
-      "title": "Slavia Prague - Lens [spanish]",
-      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhPKi3rXrrsdjdTY6pJ7sAr"
+      "info": "Serie B",
+      "title": "Pisa - Entella",
+      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNY6Vu186JVYa6yiApi1m6u"
     },
     {
-      "date": "Thursday, September 10 2026",
-      "time": "14:00 UTC -5",
-      "category": "SOCCER",
-      "info": "Copa Uruguay",
-      "title": "CA Cerro - Cerrito",
-      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhPMLEKGhKLrs4xuzSNaanw"
-    },
-    {
-      "date": "Thursday, September 10 2026",
-      "time": "14:00 UTC -5",
-      "category": "SOCCER",
-      "info": "England League One",
-      "title": "Stevenage - Luton Town",
-      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhPMLEQ6tboUYfNrpMv8ywa"
-    },
-    {
-      "date": "Thursday, September 10 2026",
+      "date": "Friday, September 11 2026",
       "time": "14:00 UTC -5",
       "category": "RUGBY",
       "info": "Pro D2",
-      "title": "Biarritz Olympique - Colomiers",
-      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhPMLEUw5tG6EFnoeAv8CaL"
+      "title": "Grenoble FC - Agen",
+      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNY6Vu5xHaxAFhPezkFLPX6"
     },
     {
-      "date": "Thursday, September 10 2026",
+      "date": "Friday, September 11 2026",
       "time": "14:00 UTC -5",
       "category": "RUGBY",
       "info": "Super League",
-      "title": "York RLFC - Bradford City",
-      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhPML9z4aZUsNDVm2KXxeYq"
+      "title": "Leeds Rhinos - Hull FC",
+      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNY6VuAnUsQmwHobpfntnfj"
     },
     {
-      "date": "Thursday, September 10 2026",
-      "time": "14:05 UTC -5",
+      "date": "Friday, September 11 2026",
+      "time": "14:00 UTC -5",
+      "category": "RUGBY",
+      "info": "Super League",
+      "title": "Leigh - Wakefield Trinity",
+      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNY6VuFcg9sPctDYebLTBpN"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "14:00 UTC -5",
+      "category": "RUGBY",
+      "info": "Super League",
+      "title": "St Helens - Hull KR",
+      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNY6VuLSsSL1JUdVUWt1ay1"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "14:00 UTC -5",
+      "category": "RUGBY",
+      "info": "Super League",
+      "title": "Warrington Wolves - Toulouse Olympique",
+      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNY885oBhtoERv8sN8xUe4B"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "14:00 UTC -5",
+      "category": "RUGBY",
+      "info": "Super League",
+      "title": "Wigan Warriors - Catalans Dragons",
+      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNY885t1uBFr7WYpC4W33Cp"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "14:00 UTC -5",
       "category": "VOLLEYBALL",
       "info": "European Championships",
-      "title": "Italy - Sweden",
-      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhPMLA4tmqwV3ouhrMdKfTi"
+      "title": "Slovakia - Slovenia",
+      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNY885xr6TiTo6xm1z3psci"
     },
     {
-      "date": "Thursday, September 10 2026",
-      "time": "14:15 UTC -5",
-      "category": "SOCCER",
-      "info": "Liga Portugal",
-      "title": "Estrela - Braga",
-      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhPMLA9iy8Q6jQKegHAt4cM"
-    },
-    {
-      "date": "Thursday, September 10 2026",
-      "time": "14:30 UTC -5",
-      "category": "TENNIS",
-      "info": "ATP Junior",
-      "title": "US Open - Court 12 - Miguel/Sesko - Konduri/Latak",
-      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhPQaTjxrgywgYpbQbZVDL5"
-    },
-    {
-      "date": "Thursday, September 10 2026",
-      "time": "15:00 UTC -5",
-      "category": "SOCCER",
-      "info": "Copa Ecuador",
-      "title": "Astillero - CD Universidad Catolica",
-      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhPMLAEZAQriQzjbWCiSTm1"
-    },
-    {
-      "date": "Thursday, September 10 2026",
-      "time": "15:00 UTC -5",
+      "date": "Friday, September 11 2026",
+      "time": "14:00 UTC -5",
       "category": "TENNIS",
       "info": "ATP",
-      "title": "US Open - Louis Armstrong Stadium - Krawietz/Puetz - Ram/Salisbury",
-      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhPNxM7SyHd1xQJhXSWirYa"
+      "title": "US Open - Arthur Ashe Stadium - Zverev - Khachanov",
+      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhPNxLwnaihnbDUosw4CDCE"
     },
     {
-      "date": "Thursday, September 10 2026",
+      "date": "Friday, September 11 2026",
+      "time": "14:00 UTC -5",
+      "category": "TENNIS",
+      "info": "WTA Junior",
+      "title": "US Open - Court 7 - Makarova/Sun - Berezina/Terentyeva",
+      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhPNxGwuF6gFpjfSDcwP44U"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "14:00 UTC -5",
+      "category": "TENNIS",
+      "info": "ATP Junior",
+      "title": "US Open - Court 10 - Konduri/Latak - Azam/Zhalgasbay",
+      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhPQaTaJU84iKMzhm66xZyi"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "14:00 UTC -5",
+      "category": "TENNIS",
+      "info": "ATP Junior",
+      "title": "US Open - Court 13 - Gabet/Gonzalez-Galino - Ceban/Lawlor",
+      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhPNxH2jSP8sWL5P3YUwTD3"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "14:00 UTC -5",
+      "category": "TENNIS",
+      "info": "WTA Junior",
+      "title": "US Open - Court 12 - Rajeshwaran Revathi/Sushkova - Penickova/Penickova",
+      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhPQaTjxrgywgYpbQwC5NH1"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "14:15 UTC -5",
+      "category": "BASKETBALL",
+      "info": "Friendly",
+      "title": "Obradoiro CAB - Valencia Basket",
+      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNY8863gHkB5UhNhqubPGmM"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "14:30 UTC -5",
+      "category": "SOCCER",
+      "info": "Ecuador Serie B",
+      "title": "Cuenca Juniors - Vinotinto",
+      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNY8868WV2dhAHnefq8wfvg"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "14:30 UTC -5",
+      "category": "BASKETBALL",
+      "info": "Friendly",
+      "title": "London Lions - Paris",
+      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNY881ddyhrUJFVc3ykn7tU"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "14:45 UTC -5",
+      "category": "SOCCER",
+      "info": "Liga Portugal 2",
+      "title": "Academica - Benfica B",
+      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNY881iUAzK5yquYsuJLX3o"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "15:00 UTC -5",
+      "category": "SOCCER",
+      "info": "Argentina Liga Profesional",
+      "title": "Newell's Old Boys - Velez Sarsfield",
+      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNY881oJNGmhfSKVhpqtvCT"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "15:00 UTC -5",
+      "category": "SOCCER",
+      "info": "Peru",
+      "title": "UTC Cajamarca - Juan Pablo II",
+      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNY881t8ZZEKM2jSXkPTepB"
+    },
+    {
+      "date": "Friday, September 11 2026",
       "time": "15:00 UTC -5",
       "category": "TENNIS",
       "info": "WTA",
-      "title": "WTA Barranquilla - Center Court - Jacquemot - Tikhonova",
-      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhPQaPF6MNCipWXYnkBKfJb"
+      "title": "WTA Barranquilla - Court 1 - Cavalle-Reimers/Salden - Hewitt/Smith",
+      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhPQaPKvYefLW6wVd1MUYsE"
     },
     {
-      "date": "Thursday, September 10 2026",
-      "time": "15:00 UTC -5",
-      "category": "TENNIS",
-      "info": "WTA",
-      "title": "WTA Barranquilla - Court 1 - Quevedo - Liu",
-      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhPQaPKvYefLW6wVcfit4TE"
-    },
-    {
-      "date": "Thursday, September 10 2026",
+      "date": "Friday, September 11 2026",
       "time": "15:00 UTC -5",
       "category": "GOLF",
       "info": "Korn Ferry",
       "title": "Simmons Bank Open",
-      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhPMLAQDYymwnBZVA3oZG4E"
-    },
-    {
-      "date": "Thursday, September 10 2026",
-      "time": "15:00 UTC -5",
-      "category": "BILLIARD",
-      "info": "Snooker",
-      "title": "English Open [Table 1]",
-      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNYBNF4L95VZ7jMHTurNeSo"
-    },
-    {
-      "date": "Thursday, September 10 2026",
-      "time": "15:00 UTC -5",
-      "category": "BILLIARD",
-      "info": "Snooker",
-      "title": "English Open [Table 2]",
-      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNYBNF9ALMxAoKmEHqPwP4X"
-    },
-    {
-      "date": "Thursday, September 10 2026",
-      "time": "15:10 UTC -5",
-      "category": "BASEBALL",
-      "info": "MLB",
-      "title": "Texas Rangers vs. Seattle Mariners [away feed]",
-      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNZU1a1vFE7hJxsohQA7Azk"
-    },
-    {
-      "date": "Thursday, September 10 2026",
-      "time": "15:10 UTC -5",
-      "category": "BASEBALL",
-      "info": "MLB",
-      "title": "Texas Rangers vs. Seattle Mariners [home feed]",
-      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNZU1a6kSWaJzZHkXKhfaA4"
-    },
-    {
-      "date": "Thursday, September 10 2026",
-      "time": "15:30 UTC -5",
-      "category": "SOCCER",
-      "info": "Ecuador Serie B",
-      "title": "San Antonio Scorpions - Atletico FC",
-      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNZU1aBado2vg9hhMFFDyJh"
-    },
-    {
-      "date": "Thursday, September 10 2026",
-      "time": "16:00 UTC -5",
-      "category": "SOCCER",
-      "info": "Guatemala",
-      "title": "Aurora F.C. - CSD Municipal",
-      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNZU1aGQq5VYMk7eBAnnNTL"
-    },
-    {
-      "date": "Thursday, September 10 2026",
-      "time": "16:00 UTC -5",
-      "category": "SOCCER",
-      "info": "Nicaragua",
-      "title": "Sport Sebaco - Diriangen",
-      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNZU1aMF2MxA3LXb16LLmby"
-    },
-    {
-      "date": "Thursday, September 10 2026",
-      "time": "16:30 UTC -5",
-      "category": "TENNIS",
-      "info": "ATP",
-      "title": "US Open - Louis Armstrong Stadium - Heliovaara/Patten - Harrison/Skupski",
-      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhPNxM7SyHd1xQJhXSWQiXW"
-    },
-    {
-      "date": "Thursday, September 10 2026",
-      "time": "16:30 UTC -5",
-      "category": "TENNIS",
-      "info": "WTA",
-      "title": "WTA Barranquilla - Center Court - Salkova/Semenistaja - Cavalle-Reimers/Salden",
-      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhPQaPF6MNCipWXYnkB1XHX"
-    },
-    {
-      "date": "Thursday, September 10 2026",
-      "time": "16:30 UTC -5",
-      "category": "TENNIS",
-      "info": "WTA",
-      "title": "WTA Barranquilla - Court 1 - Lee - Jeanjean",
-      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhPQaPKvYefLW6wVcfiZvSA"
-    },
-    {
-      "date": "Thursday, September 10 2026",
-      "time": "17:00 UTC -5",
-      "category": "SOCCER",
-      "info": "Colombia Primera B",
-      "title": "Orsomarso - Tigres",
-      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNZU1VrNX3AwBJEYPExBZ3Z"
-    },
-    {
-      "date": "Thursday, September 10 2026",
-      "time": "17:00 UTC -5",
-      "category": "SOCCER",
-      "info": "Colombia Primera B",
-      "title": "Patriotas - Barranquilla",
-      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNZU1VwCiKdYrteVDAVjxCC"
-    },
-    {
-      "date": "Thursday, September 10 2026",
-      "time": "17:30 UTC -5",
-      "category": "SOCCER",
-      "info": "Brazil Serie B",
-      "title": "Sao Bernardo - Londrina",
-      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNZU1W22uc6AYV4S363JMLq"
-    },
-    {
-      "date": "Thursday, September 10 2026",
-      "time": "17:30 UTC -5",
-      "category": "SOCCER",
-      "info": "Brazil Serie B",
-      "title": "Vila Nova FC - Goias",
-      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNZU1W6s6tYnE5UNs1arkVU"
-    },
-    {
-      "date": "Thursday, September 10 2026",
-      "time": "17:30 UTC -5",
-      "category": "SOCCER",
-      "info": "Copa Bolivia",
-      "title": "Tomayapo - Always Ready",
-      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNZU1WBhJB1PuftKgw8R9e7"
-    },
-    {
-      "date": "Thursday, September 10 2026",
-      "time": "18:00 UTC -5",
-      "category": "SOCCER",
-      "info": "CONCACAF Caribbean Cup",
-      "title": "Salcedo - Cibao",
-      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNZVdgeS8dUd37PhaZCssGC"
-    },
-    {
-      "date": "Thursday, September 10 2026",
-      "time": "18:00 UTC -5",
-      "category": "SOCCER",
-      "info": "NSL",
-      "title": "Montreal Roses W - AFC Toronto W",
-      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNZVdgjGKuwEihoeQUkSGRW"
-    },
-    {
-      "date": "Thursday, September 10 2026",
-      "time": "18:00 UTC -5",
-      "category": "TENNIS",
-      "info": "WTA",
-      "title": "US Open - Arthur Ashe Stadium - Sabalenka - Pegula",
-      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhPNxLwnaihnbDUosbRHvEK"
-    },
-    {
-      "date": "Thursday, September 10 2026",
-      "time": "18:00 UTC -5",
-      "category": "TENNIS",
-      "info": "WTA",
-      "title": "WTA Barranquilla - Court 1 - Strakhova/Tikhonova - Jacquemot/Quevedo",
-      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhPQaPKvYefLW6wVcfiZvSC"
-    },
-    {
-      "date": "Thursday, September 10 2026",
-      "time": "18:05 UTC -5",
-      "category": "BASEBALL",
-      "info": "MLB",
-      "title": "Colorado Rockies vs. New York Yankees [away feed]",
-      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNZVdgp6XCPrQJDbEQHzfa9"
-    },
-    {
-      "date": "Thursday, September 10 2026",
-      "time": "18:05 UTC -5",
-      "category": "BASEBALL",
-      "info": "MLB",
-      "title": "Colorado Rockies vs. New York Yankees [home feed]",
-      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNZVdgtviUrU5tdY4KqZ4in"
-    },
-    {
-      "date": "Thursday, September 10 2026",
-      "time": "18:30 UTC -5",
-      "category": "VOLLEYBALL",
-      "info": "NCAA",
-      "title": "New Mexico W vs. Nebraska W",
-      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNZVdgykumK5mV3UtFP7TsR"
-    },
-    {
-      "date": "Thursday, September 10 2026",
-      "time": "18:30 UTC -5",
-      "category": "TENNIS",
-      "info": "WTA",
-      "title": "WTA Barranquilla - Center Court - Riera - Blinkova",
-      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhPQaPF6MNCipWXYnkB1XJG"
-    },
-    {
-      "date": "Thursday, September 10 2026",
-      "time": "18:40 UTC -5",
-      "category": "BASEBALL",
-      "info": "MLB",
-      "title": "Pittsburgh Pirates vs. Chicago White Sox [away feed]",
-      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNZVdcUtQSXruSkSGPzxFK1"
-    },
-    {
-      "date": "Thursday, September 10 2026",
-      "time": "18:40 UTC -5",
-      "category": "BASEBALL",
-      "info": "MLB",
-      "title": "Pittsburgh Pirates vs. Chicago White Sox [home feed]",
-      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNZVdcZibizUb3AP6KYWeTe"
-    },
-    {
-      "date": "Thursday, September 10 2026",
-      "time": "19:00 UTC -5",
-      "category": "COMBAT SPORT",
-      "info": "TNA",
-      "title": "TNA iMPACT!",
-      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNZVdceYo1T6GdaKvF653cL"
-    },
-    {
-      "date": "Thursday, September 10 2026",
-      "time": "19:00 UTC -5",
-      "category": "AMERICAN FOOTBALL",
-      "info": "NCAA",
-      "title": "Florida A&M vs. #7 Miami",
-      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNZVdcjNzHuhxDzGkAddSku"
-    },
-    {
-      "date": "Thursday, September 10 2026",
-      "time": "19:00 UTC -5",
-      "category": "SOCCER",
-      "info": "Guatemala",
-      "title": "Malacateco - Antigua",
-      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNZVdcpDBaNKdpQDa6BBquY"
-    },
-    {
-      "date": "Thursday, September 10 2026",
-      "time": "19:00 UTC -5",
-      "category": "SOCCER",
-      "info": "Nicaragua",
-      "title": "Managua FC - Esteli",
-      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNZXFoGx22qYmFubTiFeZXd"
-    },
-    {
-      "date": "Thursday, September 10 2026",
-      "time": "19:30 UTC -5",
-      "category": "SOCCER",
-      "info": "Brazil Serie B",
-      "title": "Sport Recife - Ponte Preta",
-      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNZXFoMnDKJASrKYHdoCxgx"
-    },
-    {
-      "date": "Thursday, September 10 2026",
-      "time": "19:30 UTC -5",
-      "category": "SOCCER",
-      "info": "Copa Bolivia",
-      "title": "Bolivar - Independiente",
-      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNZXFoScQbkn8SjV7ZLmMqb"
-    },
-    {
-      "date": "Thursday, September 10 2026",
-      "time": "19:30 UTC -5",
-      "category": "SOCCER",
-      "info": "Copa Libertadores",
-      "title": "Independiente del Valle - Flamengo RJ [spanish]",
-      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNZXFoXSbtDPp39RwUtKkzE"
-    },
-    {
-      "date": "Thursday, September 10 2026",
-      "time": "19:30 UTC -5",
-      "category": "SOCCER",
-      "info": "Copa Libertadores",
-      "title": "Independiente del Valle - Flamengo RJ [portuguese]",
-      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNZXFocGoAg1VdZNmQRtA8s"
-    },
-    {
-      "date": "Thursday, September 10 2026",
-      "time": "19:30 UTC -5",
-      "category": "SOCCER",
-      "info": "Copa Libertadores",
-      "title": "Independiente del Valle - Flamengo RJ [english]",
-      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNZXFj7QHqtndbGL9Z3iwaT"
-    },
-    {
-      "date": "Thursday, September 10 2026",
-      "time": "19:30 UTC -5",
-      "category": "SOCCER",
-      "info": "Copa Sudamericana",
-      "title": "Cienciano - Montevideo City [spanish]",
-      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNZXFjCEV8MQKBgGyUbHLj6"
-    },
-    {
-      "date": "Thursday, September 10 2026",
-      "time": "19:30 UTC -5",
-      "category": "SOCCER",
-      "info": "Copa Sudamericana",
-      "title": "Cienciano - Montevideo City [spanish alt]",
-      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNZXFjH4gQp1zn6DoQ8qjsj"
-    },
-    {
-      "date": "Thursday, September 10 2026",
-      "time": "19:30 UTC -5",
-      "category": "SOCCER",
-      "info": "Copa Sudamericana",
-      "title": "Cienciano - Montevideo City [english]",
-      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNZXFjMtshGdgNWAdKgQ92N"
-    },
-    {
-      "date": "Thursday, September 10 2026",
-      "time": "19:30 UTC -5",
-      "category": "TENNIS",
-      "info": "WTA",
-      "title": "US Open - Arthur Ashe Stadium - Gauff - Rybakina",
-      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhPNxLwnaihnbDUosbRHvF3"
-    },
-    {
-      "date": "Thursday, September 10 2026",
-      "time": "19:35 UTC -5",
-      "category": "AMERICAN FOOTBALL",
-      "info": "NFL",
-      "title": "San Francisco 49ers vs. Los Angeles Rams",
-      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNZXFjSj4yjFMxv7TFDxYB1"
-    },
-    {
-      "date": "Thursday, September 10 2026",
-      "time": "19:35 UTC -5",
-      "category": "AMERICAN FOOTBALL",
-      "info": "NFL",
-      "title": "San Francisco 49ers vs. Los Angeles Rams",
-      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNY1ddH8AHMXXL5HqHgbKNj"
-    },
-    {
-      "date": "Thursday, September 10 2026",
-      "time": "20:00 UTC -5",
-      "category": "SOCCER",
-      "info": "Colombia Primera A",
-      "title": "Millonarios - Deportivo Cali",
-      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNY1ddMxMZp9CvVEfDDuwnG"
-    },
-    {
-      "date": "Thursday, September 10 2026",
-      "time": "20:00 UTC -5",
-      "category": "SOCCER",
-      "info": "Mexico Liga de Expansion",
-      "title": "Alebrijes Oaxaca - Alacranes de Durango",
-      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNY1ddSnYrGktWuBV8mULwa"
-    },
-    {
-      "date": "Thursday, September 10 2026",
-      "time": "20:06 UTC -5",
-      "category": "SOCCER",
-      "info": "CONCACAF Central American Cup",
-      "title": "Marathon - Alajuelense [spanish]",
-      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNY1ddXck8jNa7K8K4K2k6D"
-    },
-    {
-      "date": "Thursday, September 10 2026",
-      "time": "20:06 UTC -5",
-      "category": "SOCCER",
-      "info": "CONCACAF Central American Cup",
-      "title": "Marathon - Alajuelense [english]",
-      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNY1ddcSwRBzFhj58yrb9Er"
-    },
-    {
-      "date": "Thursday, September 10 2026",
-      "time": "21:00 UTC -5",
-      "category": "SOCCER",
-      "info": "Guatemala",
-      "title": "Xelaju - Coban Imperial",
-      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNY1dZ7aS6QmPfS2X8URbDM"
-    },
-    {
-      "date": "Thursday, September 10 2026",
-      "time": "21:00 UTC -5",
-      "category": "VOLLEYBALL",
-      "info": "NCAA",
-      "title": "Lipscomb W vs. Washington W",
-      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNY1dZCQdNsP5FqyM42DRcP"
-    },
-    {
-      "date": "Thursday, September 10 2026",
-      "time": "22:05 UTC -5",
-      "category": "SOCCER",
-      "info": "Mexico",
-      "title": "UNAM Pumas - Club Leon [spanish]",
-      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNY1dZHEpfKzkrFvAyZmpm2"
-    },
-    {
-      "date": "Thursday, September 10 2026",
-      "time": "22:05 UTC -5",
-      "category": "SOCCER",
-      "info": "Mexico",
-      "title": "UNAM Pumas - Club Leon [spanish alt]",
-      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNY1dZN51wncSSfrzu7LDuf"
-    },
-    {
-      "date": "Thursday, September 10 2026",
-      "time": "22:06 UTC -5",
-      "category": "SOCCER",
-      "info": "CONCACAF Central American Cup",
-      "title": "Luis Angel Firpo - CD Olimpia [spanish]",
-      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNY1dZSuDEFE835oppetd4J"
-    },
-    {
-      "date": "Thursday, September 10 2026",
-      "time": "22:06 UTC -5",
-      "category": "SOCCER",
-      "info": "CONCACAF Central American Cup",
-      "title": "Luis Angel Firpo - CD Olimpia [english]",
-      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNY3Fjue3giTFUbBiSjMLgP"
+      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNY881xxkqgw2d9PMfw1iVg"
     },
     {
       "date": "Friday, September 11 2026",
+      "time": "16:00 UTC -5",
+      "category": "TENNIS",
+      "info": "WTA",
+      "title": "WTA Barranquilla - Center Court - Jeanjean - Liu",
+      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhPQaPF6MNCipWXYo5ov9id"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "16:30 UTC -5",
+      "category": "SOCCER",
+      "info": "Paraguay",
+      "title": "2 de Mayo - Libertad Asuncion",
+      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNY9kCRhbJAAA4emFJ1Umat"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "16:30 UTC -5",
+      "category": "TENNIS",
+      "info": "WTA",
+      "title": "WTA Barranquilla - Court 1 - Strakhova/Tikhonova - McAdoo/Rogers",
+      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhPQaPKvYefLW6wVd1MUYsG"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "17:00 UTC -5",
+      "category": "SOCCER",
+      "info": "Argentina Primera B",
+      "title": "Ituzaingo - CSD Comunicaciones",
+      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNY9kCWXnacmqf4i5DZ3AjX"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "17:00 UTC -5",
+      "category": "SOCCER",
+      "info": "Bolivia",
+      "title": "SA Bulo Bulo - Aurora",
+      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNY9kCbMys5PXFUeu96bZtA"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "17:00 UTC -5",
+      "category": "VOLLEYBALL",
+      "info": "NCAA",
+      "title": "Illinois W vs. Marquette W",
+      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNY9kCgCB9Y1Cqtbj4e9y2o"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "17:00 UTC -5",
+      "category": "VOLLEYBALL",
+      "info": "NCAA",
+      "title": "Stanford W vs. Penn State W",
+      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNY9kCm2NRzctSJYYzBiNBS"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "17:15 UTC -5",
+      "category": "SOCCER",
+      "info": "Argentina Liga Profesional",
+      "title": "Defensa y Justicia - Gimnasia Mendoza",
+      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNY9k8G9s7DQ2Q1Vw8oYpAc"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "17:30 UTC -5",
+      "category": "SOCCER",
+      "info": "NWSL",
+      "title": "Racing Louisville W - Gotham W",
+      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNY9k8Lz4Pg1hzRSm4M7DKF"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "17:30 UTC -5",
+      "category": "TENNIS",
+      "info": "WTA",
+      "title": "WTA Barranquilla - Center Court - Jacquemot - Blinkova",
+      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhPQaPF6MNCipWXYo5ov9if"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "17:40 UTC -5",
+      "category": "BASEBALL",
+      "info": "MLB",
+      "title": "Colorado Rockies vs. Detroit Tigers [away feed]",
+      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNY9k8RpFg8dPaqPaytfcTt"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "17:40 UTC -5",
+      "category": "BASEBALL",
+      "info": "MLB",
+      "title": "Colorado Rockies vs. Detroit Tigers [home feed]",
+      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNY9k8WeSxbF5BFLQuSE1cX"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "17:45 UTC -5",
+      "category": "BASEBALL",
+      "info": "MLB",
+      "title": "Los Angeles Angels vs. Washington Nationals [away feed]",
+      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNY9k8bUeF3rkmfHEpynkEF"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "17:45 UTC -5",
+      "category": "BASEBALL",
+      "info": "MLB",
+      "title": "Los Angeles Angels vs. Washington Nationals [home feed]",
+      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNYBNK4DUhX5tDAf8T4FTrL"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "18:00 UTC -5",
+      "category": "AMERICAN FOOTBALL",
+      "info": "NCAA",
+      "title": "Norfolk State vs. #25 Virginia",
+      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNYBNK93fyyhZoabxNborzy"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "18:00 UTC -5",
+      "category": "AMERICAN FOOTBALL",
+      "info": "NCAA",
+      "title": "Richmond vs. NC State",
+      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNYBNKDssGSKFPzYnJ9NG9c"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "18:00 UTC -5",
+      "category": "AMERICAN FOOTBALL",
+      "info": "NCAA",
+      "title": "Villanova vs. #24 Louisville",
+      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNYBNKJi4YtvvzQVcDgvfJF"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "18:00 UTC -5",
+      "category": "SOCCER",
+      "info": "Argentina Primera B",
+      "title": "Argentino de Merlo - Real Pilar",
+      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNYBNKPYFqMYcapSS9EV4St"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "18:00 UTC -5",
+      "category": "SOCCER",
+      "info": "NCAA",
+      "title": "Stanford vs. North Carolina",
+      "url": "https://www.vdocity.com/_2Ube1gcZmB2mss6GWELEeEuTQ7nGphxWb8G5"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "18:00 UTC -5",
+      "category": "SOCCER",
+      "info": "USL1",
+      "title": "One Knoxville - FC Naples",
+      "url": "https://www.vdocity.com/_2Ube1gcZmB2mss6GWELKUSBv1oNgmXt49XPm"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "18:00 UTC -5",
+      "category": "VOLLEYBALL",
+      "info": "NCAA",
+      "title": "Florida Atlantic W vs. Florida W",
+      "url": "https://www.vdocity.com/_2Ube1gcZmB2mss6GWELQJdUNdUy6iMobhvYQ"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "18:00 UTC -5",
+      "category": "VOLLEYBALL",
+      "info": "NCAA",
+      "title": "Jacksonville W vs. Pittsburgh W",
+      "url": "https://www.vdocity.com/_2Ube1gcZmB2mss6GWELV8pkqFAZWfBj9GKh3"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "18:00 UTC -5",
+      "category": "TENNIS",
+      "info": "ATP",
+      "title": "US Open - Arthur Ashe Stadium - Tiafoe - Shelton",
+      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhPNxLwnaihnbDUosw4CYfS"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "18:05 UTC -5",
+      "category": "BASEBALL",
+      "info": "MLB",
+      "title": "New York Mets vs. New York Yankees [away feed]",
+      "url": "https://www.vdocity.com/_2Ube1gcZmB2mss6GWEFzGKS42JXDcZsm779a"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "18:05 UTC -5",
+      "category": "BASEBALL",
+      "info": "MLB",
+      "title": "New York Mets vs. New York Yankees [home feed]",
+      "url": "https://www.vdocity.com/_2Ube1gcZmB2mss6GWEG56WiWdz7dZPoJfWJt"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "18:05 UTC -5",
+      "category": "BASEBALL",
+      "info": "MLB",
+      "title": "New York Mets vs. New York Yankees [spanish]",
+      "url": "https://www.vdocity.com/_2Ube1gcZmB2mss6GWEG9vhzyFfi3WDirDuTX"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "18:07 UTC -5",
+      "category": "BASEBALL",
+      "info": "MLB",
+      "title": "Baltimore Orioles vs. Toronto Blue Jays [away feed]",
+      "url": "https://www.vdocity.com/_2Ube1gcZmB2mss6GWEGEkuHRsMJTT3ePnJcA"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "18:07 UTC -5",
+      "category": "BASEBALL",
+      "info": "MLB",
+      "title": "Baltimore Orioles vs. Toronto Blue Jays [home feed]",
+      "url": "https://www.vdocity.com/_2Ube1gcZmB2mss6GWEGKb6ZtV2tsPsZwLhko"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "18:10 UTC -5",
+      "category": "BASEBALL",
+      "info": "MLB",
+      "title": "Houston Astros vs. Tampa Bay Rays [away feed]",
+      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhQiqqAX842FUGDkDJo57gL"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "18:10 UTC -5",
+      "category": "BASEBALL",
+      "info": "MLB",
+      "title": "Houston Astros vs. Tampa Bay Rays [home feed]",
+      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhQiqqFMKLUs9rdh3ELdWpy"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "18:10 UTC -5",
+      "category": "BASEBALL",
+      "info": "MLB",
+      "title": "Kansas City Royals vs. Boston Red Sox [away feed]",
+      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhQiqqLBWcwUqT3ds9tBuyc"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "18:10 UTC -5",
+      "category": "BASEBALL",
+      "info": "MLB",
+      "title": "Kansas City Royals vs. Boston Red Sox [home feed]",
+      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhQiqkqK1JAFyQkbFJW2Mx7"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "18:10 UTC -5",
+      "category": "BASEBALL",
+      "info": "MLB",
+      "title": "Los Angeles Dodgers vs. Miami Marlins [away feed]",
+      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhQiqkv9Cacsf1AY5E3am6k"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "18:10 UTC -5",
+      "category": "BASEBALL",
+      "info": "MLB",
+      "title": "Los Angeles Dodgers vs. Miami Marlins [home feed]",
+      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhQiqkzyPs5VLbaUu9b9ViU"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "18:15 UTC -5",
+      "category": "BASEBALL",
+      "info": "MLB",
+      "title": "Philadelphia Phillies vs. Atlanta Braves [away feed]",
+      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhQiqm5ob9Y72BzRj58hts7"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "18:15 UTC -5",
+      "category": "BASEBALL",
+      "info": "MLB",
+      "title": "Philadelphia Phillies vs. Atlanta Braves [home feed]",
+      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhQiqmAdnRzihnQNYzgGJ1k"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "18:15 UTC -5",
+      "category": "SOCCER",
+      "info": "Colombia Primera A",
+      "title": "Jaguares de Cordoba - Fortaleza",
+      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhQiqmFTyiTLPNpKNvDphAP"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "18:30 UTC -5",
+      "category": "AMERICAN FOOTBALL",
+      "info": "NCAA",
+      "title": "Rutgers vs. Boston College",
+      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhQiqmLJAzux4yEGCqmP6K2"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "18:30 UTC -5",
+      "category": "SOCCER",
+      "info": "USL Super League",
+      "title": "Lexington W - Carolina Ascent W",
+      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhQkTwo31TPBCQje6Tqqown"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "18:45 UTC -5",
+      "category": "BASEBALL",
+      "info": "MLB",
+      "title": "Cincinnati Reds vs. Milwaukee Brewers",
+      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhQkTwssCjqnt19avPPQD6R"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "19:00 UTC -5",
+      "category": "COMBAT SPORT",
+      "info": "WWE",
+      "title": "WWE Friday Night SmackDown",
+      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhQkTwxhQ2JQZbZXkRUXnkq"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "19:00 UTC -5",
+      "category": "COMBAT SPORT",
+      "info": "MMA",
+      "title": "LFA 241: Vinicius Pires vs. Rafael Pereira",
+      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhQkTsTpthXBhZGV8TYo4DZ"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "19:00 UTC -5",
+      "category": "BOXING",
+      "info": "Event",
+      "title": "BKFC 93 Hollywood: Perdomo vs. Garrett",
+      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhQkTsYf5yyoP9gRxP6MTNA"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "19:00 UTC -5",
+      "category": "AMERICAN FOOTBALL",
+      "info": "NCAA",
+      "title": "#23 Missouri vs. Kansas",
+      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhQkTsdVHGSR4k6NnJdurWp"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "19:00 UTC -5",
+      "category": "SOCCER",
+      "info": "Bolivia",
+      "title": "Real Potosi - Oriente Petrolero",
+      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhQkTsiKUYu2kLWKcLj3SAQ"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "19:00 UTC -5",
+      "category": "SOCCER",
+      "info": "Brazil Serie A",
+      "title": "Coritiba - Athletico-PR",
+      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhQkTso9fqMeRvvGSGGbqK3"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "19:00 UTC -5",
+      "category": "SOCCER",
+      "info": "NWSL",
+      "title": "Kansas City Current W - Orlando Pride W",
+      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhQkTssys7pG7XLDGBpAETg"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "19:00 UTC -5",
+      "category": "SOCCER",
+      "info": "Peru",
+      "title": "Cusco - FBC Melgar",
+      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhQkTsxp4QGso7kA67MidcK"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "19:00 UTC -5",
+      "category": "VOLLEYBALL",
+      "info": "NCAA",
+      "title": "Baylor W vs. Nebraska W",
+      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhQn64RYtrk6vZFXyjSBMEQ"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "19:00 UTC -5",
+      "category": "VOLLEYBALL",
+      "info": "NCAA",
+      "title": "Wisconsin W vs. Texas A&M W",
+      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhQn64WP69Cic9fUoeyjkPi"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "19:10 UTC -5",
+      "category": "BASEBALL",
+      "info": "MLB",
+      "title": "Cleveland Guardians vs. Minnesota Twins [away feed]",
+      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhQn64bDHRfLHk5RdaXJ9YN"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "19:10 UTC -5",
+      "category": "BASEBALL",
+      "info": "MLB",
+      "title": "Cleveland Guardians vs. Minnesota Twins [home feed]",
+      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhQn5z6Ln6t7RhnP1j98bWs"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "19:15 UTC -5",
+      "category": "BASEBALL",
+      "info": "MLB",
+      "title": "Chicago White Sox vs. St.Louis Cardinals [away feed]",
+      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhQn5zBAyPLj7JCKqeggzfW"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "19:15 UTC -5",
+      "category": "BASEBALL",
+      "info": "MLB",
+      "title": "Chicago White Sox vs. St.Louis Cardinals [home feed]",
+      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhQn5zG1AfoLntcGfaEUq4Y"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "19:30 UTC -5",
+      "category": "SOCCER",
+      "info": "Argentina Liga Profesional",
+      "title": "Boca Juniors - Central Cordoba",
+      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhQn5zLqMxFxUV2DVVn3EDB"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "19:30 UTC -5",
+      "category": "VOLLEYBALL",
+      "info": "NCAA",
+      "title": "UCLA W vs. BYU W",
+      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhQn5zRfZEiaA5SAKRKbdMp"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "20:00 UTC -5",
+      "category": "BOXING",
+      "info": "Event",
+      "title": "Maximiliano Maidana vs. Luciano Baldor",
+      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhQn5zWVkXBBqfr79LsA2WT"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "20:00 UTC -5",
+      "category": "SOCCER",
+      "info": "Argentina Primera Nacional",
+      "title": "Gimnasia y Tiro - Tristan Suarez",
+      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhQn5zbKwodoXGG3yGQiRf6"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "20:00 UTC -5",
+      "category": "SOCCER",
+      "info": "Mexico",
+      "title": "Cruz Azul W - UNAM Pumas W",
+      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhQoiB44nG72ehmRrtVB9Hs"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "20:00 UTC -5",
+      "category": "SOCCER",
+      "info": "Mexico",
+      "title": "Necaxa - Puebla [spanish]",
+      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhQoiB8tyYZeLJBNgp2jYSW"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "20:00 UTC -5",
+      "category": "SOCCER",
+      "info": "Mexico",
+      "title": "Necaxa - Puebla [spanish alt]",
+      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhQoiBDjAq2G1tbKWjaHwb9"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "20:00 UTC -5",
+      "category": "SOCCER",
+      "info": "Mexico Liga de Expansion",
+      "title": "Correcaminos - Cancun",
+      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhQoi6irfWF39rJGttC8PZa"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "20:00 UTC -5",
+      "category": "SOCCER",
+      "info": "USL1",
+      "title": "Boise - New York Cosmos",
+      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhQoi6ogrnheqSiDiojgniG"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "20:00 UTC -5",
+      "category": "VOLLEYBALL",
+      "info": "NCAA",
+      "title": "Oregon W vs. Arizona State W",
+      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhQoi6tX45AGX38AYjHFXKz"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "20:30 UTC -5",
+      "category": "SOCCER",
+      "info": "Colombia Primera A",
+      "title": "Independiente Santa Fe - Deportes Tolima",
+      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhQoi6yMFMctCdY7NepovUe"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "20:30 UTC -5",
+      "category": "SOCCER",
+      "info": "Honduras",
+      "title": "Estrella Roja - Platense",
+      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhQoi74BSe5VtDx4CaNNKdH"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "20:30 UTC -5",
+      "category": "SOCCER",
+      "info": "USL",
+      "title": "New Mexico United - Indy Eleven",
+      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhQoi791dvY7ZpN12Vuvimv"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "20:30 UTC -5",
+      "category": "BASEBALL",
+      "info": "LMB",
+      "title": "Toros de Tijuana - Olmecas de Tabasco",
+      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhQoi7DqqCzjFQmwrRTV7vV"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "20:40 UTC -5",
+      "category": "BASEBALL",
+      "info": "MLB",
+      "title": "Seattle Mariners vs. Athletics [away feed]",
+      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhPJ614EvWd1Qmw8ETut8Pr"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "20:40 UTC -5",
+      "category": "BASEBALL",
+      "info": "MLB",
+      "title": "Seattle Mariners vs. Athletics [home feed]",
+      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhPJ61957o5d6NM54PTSXYV"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "20:40 UTC -5",
+      "category": "BASEBALL",
+      "info": "MLB",
+      "title": "Texas Rangers vs. Arizona Diamondbacks [away feed]",
+      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhPJ61DuK5YEmxm1tJzzvh8"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "20:40 UTC -5",
+      "category": "BASEBALL",
+      "info": "MLB",
+      "title": "Texas Rangers vs. Arizona Diamondbacks [home feed]",
+      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhPJ5vj2okm1uvTyGTcqNfd"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "21:00 UTC -5",
+      "category": "SOCCER",
+      "info": "Costa Rica Primera Division",
+      "title": "Zeledon - San Carlos",
+      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhPJ5vos13DdbWsv6PAQ7HN"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "21:00 UTC -5",
+      "category": "SOCCER",
+      "info": "NWSL",
+      "title": "Angel City W - Denver Summit W",
+      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhPJ5vthCKgFH7HrvJhxWS1"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "21:00 UTC -5",
+      "category": "SOCCER",
+      "info": "USL",
+      "title": "Colorado Springs Switchbacks - San Antonio Scorpions",
+      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhPJ5vyXPc8rxhhokEFWuae"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "21:00 UTC -5",
+      "category": "RUGBY",
+      "info": "",
+      "title": "Parramatta Eels W - NQ Cowboys W",
+      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhPJ5w4MatbUeJ7ka9o4yG8"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "21:00 UTC -5",
+      "category": "VOLLEYBALL",
+      "info": "NCAA",
+      "title": "Arizona W vs. USC W",
+      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhPJ5w9BnB46KtXhQ5Ldhsu"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "21:05 UTC -5",
+      "category": "RUGBY",
+      "info": "New Zealand NPC",
+      "title": "Auckland - Counties Manukau",
+      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhPJ5wE1yTWi1UweDztC72Y"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "21:15 UTC -5",
+      "category": "BASEBALL",
+      "info": "MLB",
+      "title": "San Diego Padres vs. San Francisco Giants",
+      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhPKi7gkouyw8vT27cxepfJ"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "22:00 UTC -5",
+      "category": "SOCCER",
+      "info": "Mexico",
+      "title": "Atlante - Pachuca [spanish]",
+      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhPKi7mb1CSYpWrxwYWDDow"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "22:00 UTC -5",
+      "category": "SOCCER",
+      "info": "Mexico",
+      "title": "Atlante - Pachuca [spanish alt]",
+      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhPKi7rRCUuAW7GumU3mcxa"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "22:06 UTC -5",
+      "category": "SOCCER",
+      "info": "Mexico",
+      "title": "Atlas W - Atlante W",
+      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhPKi3MYhA7we4ys9cfc4w5"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "22:10 UTC -5",
+      "category": "SOCCER",
+      "info": "Mexico",
+      "title": "Club Tijuana - Queretaro [spanish]",
+      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhPKi3SNtSaZKfPoyYDAU5i"
+    },
+    {
+      "date": "Friday, September 11 2026",
+      "time": "22:10 UTC -5",
+      "category": "SOCCER",
+      "info": "Mexico",
+      "title": "Club Tijuana - Queretaro [spanish alt]",
+      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhPKi3XD5j3B1FokoTkjChS"
+    },
+    {
+      "date": "Saturday, September 12 2026",
       "time": "00:00 UTC -5",
       "category": "VOLLEYBALL",
       "info": "NCAA",
       "title": "Central Arkansas W vs. Hawaii W",
-      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNY3FjzUEyB4w518YNGujq2"
+      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhPKi3c3H1VngrDhdPJHbr5"
     },
     {
-      "date": "Friday, September 11 2026",
+      "date": "Saturday, September 12 2026",
+      "time": "00:05 UTC -5",
+      "category": "RUGBY",
+      "info": "New Zealand NPC",
+      "title": "Northland - Waikato",
+      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhPKi3gsUHxQNSdeTJqqzzi"
+    },
+    {
+      "date": "Saturday, September 12 2026",
       "time": "00:30 UTC -5",
       "category": "GOLF",
       "info": "LPGA",
       "title": "Solheim Cup",
-      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNY3Fk5JSFdgcfR5NHpU8zL"
+      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhPKi3mhfaR2433bHEPQQ9M"
     },
     {
-      "date": "Friday, September 11 2026",
+      "date": "Saturday, September 12 2026",
+      "time": "01:05 UTC -5",
+      "category": "RUGBY",
+      "info": "NRL",
+      "title": "New Zealand Warriors - Dolphins",
+      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhPKi3rXrrsdjdTY79vxoHz"
+    },
+    {
+      "date": "Saturday, September 12 2026",
+      "time": "02:10 UTC -5",
+      "category": "RUGBY",
+      "info": "",
+      "title": "Cronulla Sharks W - St. George Illawarra Dragons W",
+      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhPMLEKGhKLrs4xuzn1RWvm"
+    },
+    {
+      "date": "Saturday, September 12 2026",
       "time": "02:10 UTC -5",
       "category": "RUGBY",
       "info": "New Zealand NPC",
-      "title": "Otago - Tasman",
-      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNY3FkA8dY6JJFq2CDN2Y8y"
-    },
-    {
-      "date": "Friday, September 11 2026",
-      "time": "02:40 UTC -5",
-      "category": "RUGBY",
-      "info": "",
-      "title": "Wests Tigers W - Canberra Raiders W",
-      "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNY3FkExppYuyrEy28uawHc"
+      "title": "Canterbury - Wellington",
+      "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhPMLEQ6tboUYfNrphYyv5N"
     }
   ],
-  "total": 104,
-  "generated": "2026-09-10T21:04:59.525Z"
+  "total": 283,
+  "generated": "2026-09-11T19:54:53.420Z"
 }
