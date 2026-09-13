@@ -1,6 +1,15 @@
 {
   "domains": [
     {
+      "domain":"hls.goodgame.ru",
+      "headers": {
+        "sec-ch-ua-platform": "Windows",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "Referer": "https://goodgame.ru/",
+        "Origin": "https://goodgame.ru/"
+      }
+    },
+    {
       "domain":"pontiscloud.com",
       "headers": {
         "sec-ch-ua-platform": "Windows",
