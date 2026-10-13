@@ -1,12 +1,12 @@
 {
   "domains": [
     {
-      "domain":"hls.goodgame.ru",
+      "domain":"https://novax-online.iptvnovax.workers.dev",
       "headers": {
         "sec-ch-ua-platform": "Windows",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
-        "Referer": "https://goodgame.ru/",
-        "Origin": "https://goodgame.ru/"
+        "User-Agent": "Dalvik/2.1.0 (Linux; U; Android 9; 22081212C Build/PQ3B.190801.04221524)",
+        "Referer": "https://novax-online.iptvnovax.workers.dev/",
+        "Origin": "https://novax-online.iptvnovax.workers.dev/"
       }
     },
     {
