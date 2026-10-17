@@ -20,36 +20,6 @@
     "play_url": "https://www.disneyplus.com/es-es/play/01c59417-d00c-4762-a5d9-227ffbd04881"
   },
   {
-    "title": "Villarreal vs. Elche",
-    "league": "LALIGA",
-    "fecha-evento": "2026-10-17T09:00:00-05:00",
-    "img": "01a14178-ce70-7193-93cb-e6d441e04932",
-    "nombre": "disney0e5df7",
-    "status": "09:00",
-    "duration": 135,
-    "play_url": "https://www.disneyplus.com/es-es/play/f7ff3a4a-aef3-415b-91f3-0620e5b7d23c"
-  },
-  {
-    "title": "Wuhan Open / Dongfeng·Voyah Center Court (Doubles Semifinals)",
-    "league": "WTA",
-    "fecha-evento": "2026-10-17T06:30:00-05:00",
-    "img": "01a10f38-2f76-7c3a-bf72-8e2bc6d33308",
-    "nombre": "disney7e7bb5",
-    "status": "06:30",
-    "duration": 180,
-    "play_url": "https://www.disneyplus.com/es-es/play/c030d6d3-71d6-40eb-ab44-3000a16c7ffd"
-  },
-  {
-    "title": "ADO Den Haag vs. PSV",
-    "league": "Eredivisie",
-    "fecha-evento": "2026-10-17T09:20:02-05:00",
-    "img": "01a1030a-6fa4-7f93-9a16-7bbea0199a90",
-    "nombre": "disneycf0ed3",
-    "status": "09:20",
-    "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/323cbcfe-27c9-418e-802d-392f2f905768"
-  },
-  {
     "title": "2026 Australian Open Juniors Series",
     "league": "ESPN",
     "fecha-evento": "2026-10-17T08:00:00-05:00",
@@ -235,12 +205,12 @@
   {
     "title": "New Jersey Devils vs. Washington Capitals",
     "league": "National Hockey League",
-    "fecha-evento": "2026-10-17T11:30:00-05:00",
+    "fecha-evento": "2026-10-17T11:30:18-05:00",
     "img": "01f4d0d6-79ee-4a26-a30b-4f5a4fc64741",
-    "nombre": "disney1d7dc9",
+    "nombre": "disneybcb275",
     "status": "11:30",
-    "duration": 135,
-    "play_url": ""
+    "duration": 240,
+    "play_url": "https://www.disneyplus.com/es-es/play/1cdffe43-6c35-4d52-a96d-4740dbff77df"
   },
   {
     "title": "Fénix vs. Paysandú",
@@ -618,6 +588,36 @@
     "fecha-evento": "2026-10-17T14:30:00-05:00",
     "img": "01a11ebe-d0c0-7fa9-bd62-571ef75bed43",
     "nombre": "disney1feb66",
+    "status": "14:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "#6 Alabama vs. #14 Tennessee | En Español",
+    "league": "Fútbol Americano NCAA",
+    "fecha-evento": "2026-10-17T14:30:00-05:00",
+    "img": "01a13725-b6fd-7a70-a43d-c4647fc1326c",
+    "nombre": "disney8e81a8",
+    "status": "14:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Vancouver Canucks vs. Tampa Bay Lightning",
+    "league": "National Hockey League",
+    "fecha-evento": "2026-10-17T14:30:00-05:00",
+    "img": "019a7f5c-4812-786c-bebf-c00e08d7ed11",
+    "nombre": "disney1a416e",
+    "status": "14:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Toledo vs. Eastern Michigan",
+    "league": "Fútbol Americano NCAA",
+    "fecha-evento": "2026-10-17T14:30:00-05:00",
+    "img": "01a0d975-30f3-723d-ba85-37f7f1ace380",
+    "nombre": "disney0ffc67",
     "status": "14:30",
     "duration": 135,
     "play_url": ""
