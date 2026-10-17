@@ -10,26 +10,6 @@
     "play_url": "https://www.disneyplus.com/es-es/play/bd15ffde-4b2e-4a38-be11-2bc63ac23a9f"
   },
   {
-    "title": "Watford vs. Charlton Athletic",
-    "league": "Championship de Inglaterra",
-    "fecha-evento": "2026-10-17T06:20:00-05:00",
-    "img": "01a0f8d3-70c7-7789-859c-3e42e547acde",
-    "nombre": "disneybcd14e",
-    "status": "06:20",
-    "duration": 125,
-    "play_url": "https://www.disneyplus.com/es-es/play/b17cda6a-b341-4180-86af-fb2ae06884d6"
-  },
-  {
-    "title": "Everton vs. Chelsea",
-    "league": "Liga Premier",
-    "fecha-evento": "2026-10-17T06:20:00-05:00",
-    "img": "01a12127-9630-758d-bac0-9a3597e125bd",
-    "nombre": "disneycd0075",
-    "status": "06:20",
-    "duration": 125,
-    "play_url": "https://www.disneyplus.com/es-es/play/6e73d56d-430b-4922-bcab-4688a2244d01"
-  },
-  {
     "title": "Wuhan Open / Dongfeng·Voyah Center Court (Doubles Semifinals)",
     "league": "WTA",
     "fecha-evento": "2026-10-17T06:30:00-05:00",
@@ -90,14 +70,17 @@
     "play_url": "https://www.disneyplus.com/es-es/play/bbb3c409-9250-4d42-823f-70db4ad4303d"
   },
   {
-    "title": "SportsCenter+",
+    "title": "2026 Australian Open Juniors Series",
     "league": "ESPN",
-    "fecha-evento": "2026-10-17T07:58:00-05:00",
-    "img": "1a5be864-30d0-45c3-83ce-5d7bfcf344a0",
-    "nombre": "disneye4a9d6",
-    "status": "07:58",
-    "duration": 27,
-    "play_url": "https://www.disneyplus.com/es-es/play/96fcaa71-253a-4bf2-aef3-d66f97f2a504"
+    "fecha-evento": "2026-10-17T08:00:00-05:00",
+    "img": "1968c4bc-4a9a-4062-89e3-9315b32c1ddb",
+    "nombre": "disney0a1d8b",
+    "status": "08:00",
+    "duration": 180,
+    "play_url": "https://www.disneyplus.com/es-es/play/2eaa7283-0093-4a76-ac20-3e7eb59ab0d1",
+    "k1": "fe25a31a3c914981b7f40697b19d0161",
+    "k2": "89ddef17e4793b3a448a25c620264ca7",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1792331296~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F10%2F17%2F2026_Australian_Open_Juni_20261017_1792236625027%2F~psid=33e9cbff-6004-45b3-8bb8-48bf199dd100~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=280dfb2b3443bc9d937d5f1217d31c82a693ea601b4e3ae717b312e21b41fd2f/clt1/va02/disneyplus/event/2026/10/17/2026_Australian_Open_Juni_20261017_1792236625027/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=bfe00a45520a7cdf5901dad7ac6449ccafc08855"
   },
   {
     "title": "Harvard Invite",
@@ -110,24 +93,27 @@
     "play_url": "https://www.disneyplus.com/es-es/play/01c59417-d00c-4762-a5d9-227ffbd04881"
   },
   {
-    "title": "Hamburger SV vs. Stuttgart",
+    "title": "Werder Bremen vs. SC Paderborn 07",
     "league": "Bundesliga",
     "fecha-evento": "2026-10-17T08:20:00-05:00",
-    "img": "01a0fdd6-cea7-7476-8146-5b83f461c96c",
-    "nombre": "disney291954",
-    "status": "08:20",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Union Berlin vs. Borussia Dortmund",
-    "league": "Bundesliga",
-    "fecha-evento": "2026-10-17T08:20:00-05:00",
-    "img": "01a13b2f-9290-762a-8598-5ff97feacd14",
-    "nombre": "disneyef758b",
+    "img": "01a0fdd7-de4c-786b-ba19-130ca41fc12c",
+    "nombre": "disney140f39",
     "status": "08:20",
     "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/0fd912a4-a77b-42ed-941e-d5f424143415"
+    "play_url": "https://www.disneyplus.com/es-es/play/0fd631cb-aaa6-4391-b4c9-321c332dd26e"
+  },
+  {
+    "title": "Hamburger SV vs. Stuttgart",
+    "league": "Bundesliga",
+    "fecha-evento": "2026-10-17T08:20:02-05:00",
+    "img": "01a0fdd6-cea7-7476-8146-5b83f461c96c",
+    "nombre": "disney9c7d67",
+    "status": "08:20",
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/7214aeb1-a788-4c36-a901-18cff92d71e1",
+    "k1": "b6ebb312c0104eceb5e47574d0b90254",
+    "k2": "0ef37176e9de25b44f025dd31fb081fc",
+    "url": "https://live-ftc-sa-west-1.media.dssott.com/dvt2=exp=1792330885~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F10%2F17%2FHamburger_SV_vs_Stuttgart_20261017_1792237814028%2F~psid=78b46e64-8625-4540-87e9-4836c3195587~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=0d208c1d742ec5c7f646c64e66e211441c5e71a7a617740874077f48af6842b5/clt1/va02/disneyplus/event/2026/10/17/Hamburger_SV_vs_Stuttgart_20261017_1792237814028/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=a66188a81485451496633db1c879c76e6ba6440b"
   },
   {
     "title": "SV Elversberg vs. Augsburg",
@@ -140,13 +126,496 @@
     "play_url": "https://www.disneyplus.com/es-es/play/899d9ae6-66a0-4f7a-8013-3d46ef4d7757"
   },
   {
-    "title": "Werder Bremen vs. SC Paderborn 07",
+    "title": "Union Berlin vs. Borussia Dortmund",
     "league": "Bundesliga",
     "fecha-evento": "2026-10-17T08:20:00-05:00",
-    "img": "01a0fdd7-de4c-786b-ba19-130ca41fc12c",
-    "nombre": "disney140f39",
+    "img": "01a13b2f-9290-762a-8598-5ff97feacd14",
+    "nombre": "disneyef758b",
     "status": "08:20",
     "duration": 130,
-    "play_url": "https://www.disneyplus.com/es-es/play/0fd631cb-aaa6-4391-b4c9-321c332dd26e"
+    "play_url": "https://www.disneyplus.com/es-es/play/0fd912a4-a77b-42ed-941e-d5f424143415"
+  },
+  {
+    "title": "World SBK - Race 1 - Spanish",
+    "league": "FIM Superbike World Championship",
+    "fecha-evento": "2026-10-17T08:25:00-05:00",
+    "img": "01a1359b-4d10-7c0c-94cd-d7fab33e7e14",
+    "nombre": "disney5b5fcd",
+    "status": "08:25",
+    "duration": 65,
+    "play_url": "https://www.disneyplus.com/es-es/play/92f66b84-f5b2-454b-9ba8-9239a5e05d96",
+    "k1": "4a229abdb6584fb695684d4800963cc8",
+    "k2": "ef8481125a7f3a4c09ee99c1c6684e02",
+    "url": "https://linear-akc-sa-west-1.media.dssott.com/dvt2=exp=1792331492~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2Fec26a05e-a9cc-4db4-804e-77465738e667-1787209974266%2F~psid=b044e451-ebb5-428c-9c0a-c231a8530f1d~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=67cb45f17565375f99104e506a8935097ba38057296fa6bc816a37c360a40196/clt1/va02/disneyplus/channel/ec26a05e-a9cc-4db4-804e-77465738e667-1787209974266/ctr-all-sliding-alt1.m3u8?r=1080&v=1&hash=80210d8a91e3343f4868d4bd87359f22c643ddd0"
+  },
+  {
+    "title": "Schalke 04 vs. Mainz 05",
+    "league": "Bundesliga",
+    "fecha-evento": "2026-10-17T08:28:35-05:00",
+    "img": "01a0fdd6-e31e-7b0b-8faa-17bcecd12734",
+    "nombre": "disney8eebd1",
+    "status": "08:28",
+    "duration": 121,
+    "play_url": "https://www.disneyplus.com/es-es/play/b589841f-7cdb-42c8-8e3d-0e7ea9ed00a5"
+  },
+  {
+    "title": "SportsCenter+",
+    "league": "ESPN",
+    "fecha-evento": "2026-10-17T08:36:52-05:00",
+    "img": "1a5be864-30d0-45c3-83ce-5d7bfcf344a0",
+    "nombre": "disney28fcdb",
+    "status": "08:36",
+    "duration": 13,
+    "play_url": "https://www.disneyplus.com/es-es/play/336c9ad0-eab8-4310-be74-81d5c8c89637"
+  },
+  {
+    "title": "Brentford vs. Liverpool",
+    "league": "Liga Premier",
+    "fecha-evento": "2026-10-17T08:40:00-05:00",
+    "img": "01a12129-9784-715e-867d-c292002332f8",
+    "nombre": "disney35dc4b",
+    "status": "08:40",
+    "duration": 135,
+    "play_url": "https://www.disneyplus.com/es-es/play/91f58635-e7b8-47d3-ba18-3f7e5a42100b"
+  },
+  {
+    "title": "Manchester City vs. Ipswich Town",
+    "league": "Liga Premier",
+    "fecha-evento": "2026-10-17T08:50:00-05:00",
+    "img": "01a12128-b25e-7453-9e32-47e2d5db28ea",
+    "nombre": "disney308fc1",
+    "status": "08:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Fulham vs. Hull City",
+    "league": "Liga Premier",
+    "fecha-evento": "2026-10-17T08:50:00-05:00",
+    "img": "01a12127-9a13-79fc-862e-98be94c0dfa9",
+    "nombre": "disney9d35e7",
+    "status": "08:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Norwich City vs. Portsmouth",
+    "league": "Championship de Inglaterra",
+    "fecha-evento": "2026-10-17T08:50:00-05:00",
+    "img": "01a0f8d7-ad03-7a16-b828-817f7d2d8bda",
+    "nombre": "disney6b9289",
+    "status": "08:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Villarreal vs. Elche",
+    "league": "LALIGA",
+    "fecha-evento": "2026-10-17T09:00:00-05:00",
+    "img": "01a14178-ce70-7193-93cb-e6d441e04932",
+    "nombre": "disney0e5df7",
+    "status": "09:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Qatar Racing British Champions Day 2026",
+    "league": "ESPN",
+    "fecha-evento": "2026-10-17T09:00:00-05:00",
+    "img": "01a14a12-ab73-7d5b-83af-e91ca62cc8c0",
+    "nombre": "disneya774d4",
+    "status": "09:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "ADO Den Haag vs. PSV",
+    "league": "Eredivisie",
+    "fecha-evento": "2026-10-17T09:20:00-05:00",
+    "img": "01a1030a-6fa4-7f93-9a16-7bbea0199a90",
+    "nombre": "disney9944d4",
+    "status": "09:20",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "SEC Swimming & Diving",
+    "league": "NCAA Natación y Buceo",
+    "fecha-evento": "2026-10-17T10:00:00-05:00",
+    "img": "cae07512-17c8-4bd0-8e45-536d7e380bf9",
+    "nombre": "disneyc51fb7",
+    "status": "10:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Strasbourg vs. Paris Saint-Germain",
+    "league": "Ligue 1",
+    "fecha-evento": "2026-10-17T10:00:00-05:00",
+    "img": "01a14092-9fa5-773a-8789-6d4baaa6201b",
+    "nombre": "disneycf4fad",
+    "status": "10:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Racing vs. Montevideo Wanderers",
+    "league": "Campeonato Uruguayo",
+    "fecha-evento": "2026-10-17T10:30:00-05:00",
+    "img": "01a1367f-60e1-7c00-9794-327aac1b1f95",
+    "nombre": "disneyc37fa7",
+    "status": "10:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Brasil vs. Canadá",
+    "league": "World Rugby U20 Championship",
+    "fecha-evento": "2026-10-17T10:50:00-05:00",
+    "img": "01a137eb-8347-7c8e-adfe-09272803b883",
+    "nombre": "disneyfe9188",
+    "status": "10:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Bologna vs. Inter",
+    "league": "Serie A",
+    "fecha-evento": "2026-10-17T10:50:00-05:00",
+    "img": "01a14120-2485-7016-91c5-d22bd4846776",
+    "nombre": "disney12d35c",
+    "status": "10:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Fenerbahce vs. Alanyaspor",
+    "league": "Super Lig de Turquía",
+    "fecha-evento": "2026-10-17T10:55:00-05:00",
+    "img": "01a0f75b-347c-7aa7-8f75-6674ee0dd9d1",
+    "nombre": "disney713977",
+    "status": "10:55",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Virginia vs. #24 SMU",
+    "league": "Fútbol Americano NCAA",
+    "fecha-evento": "2026-10-17T11:00:00-05:00",
+    "img": "01a0c06a-da56-7dfa-afeb-227e133e6860",
+    "nombre": "disneyf7c831",
+    "status": "11:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Brown vs. Princeton",
+    "league": "Fútbol Americano NCAA",
+    "fecha-evento": "2026-10-17T11:00:00-05:00",
+    "img": "01a0a68f-2978-7ed7-8bcd-ec41a6cb52a1",
+    "nombre": "disneyd2fcb7",
+    "status": "11:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "New Haven vs. Robert Morris",
+    "league": "Fútbol Americano NCAA",
+    "fecha-evento": "2026-10-17T11:00:00-05:00",
+    "img": "01a0ca30-568d-7bda-9281-d6379be65e14",
+    "nombre": "disneye6007a",
+    "status": "11:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Pittsburgh vs. Boston College",
+    "league": "Fútbol Americano NCAA",
+    "fecha-evento": "2026-10-17T11:00:00-05:00",
+    "img": "01a0a03f-5150-73fa-a7e6-22aaecea8974",
+    "nombre": "disneye012a9",
+    "status": "11:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "#16 Mississippi State vs. #22 LSU",
+    "league": "Fútbol Americano NCAA",
+    "fecha-evento": "2026-10-17T11:00:00-05:00",
+    "img": "01a0db1f-5038-709b-ad3b-b9470c181db6",
+    "nombre": "disney6daf4f",
+    "status": "11:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Georgia State vs. James Madison",
+    "league": "Fútbol Americano NCAA",
+    "fecha-evento": "2026-10-17T11:00:00-05:00",
+    "img": "01a0a695-9c34-7122-9b83-471aa53b7402",
+    "nombre": "disneyc86b31",
+    "status": "11:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Florida vs. #7 Texas | En Español",
+    "league": "Fútbol Americano NCAA",
+    "fecha-evento": "2026-10-17T11:00:00-05:00",
+    "img": "01a13725-e8a3-7529-8bb9-4be3f0b1495b",
+    "nombre": "disneyd61840",
+    "status": "11:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Charleston Southern vs. Clemson",
+    "league": "Fútbol Americano NCAA",
+    "fecha-evento": "2026-10-17T11:00:00-05:00",
+    "img": "01a01be8-3cde-79ff-8c91-3d4e7b0babbe",
+    "nombre": "disney1a2cbf",
+    "status": "11:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Ball State vs. Bowling Green",
+    "league": "Fútbol Americano NCAA",
+    "fecha-evento": "2026-10-17T11:00:00-05:00",
+    "img": "01a10f3b-4ade-768a-a68d-15b6b348334a",
+    "nombre": "disney6693ea",
+    "status": "11:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Newcastle United vs. Aston Villa",
+    "league": "Liga Premier",
+    "fecha-evento": "2026-10-17T11:15:00-05:00",
+    "img": "01a1212a-98a1-7ddd-a72b-9920e449e415",
+    "nombre": "disney6c733d",
+    "status": "11:15",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Bayern Munich vs. RB Leipzig",
+    "league": "Bundesliga",
+    "fecha-evento": "2026-10-17T11:15:00-05:00",
+    "img": "01a13b29-aaec-7afd-928a-4fe14310c203",
+    "nombre": "disney8032ab",
+    "status": "11:15",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "New Jersey Devils vs. Washington Capitals",
+    "league": "National Hockey League",
+    "fecha-evento": "2026-10-17T11:30:00-05:00",
+    "img": "01f4d0d6-79ee-4a26-a30b-4f5a4fc64741",
+    "nombre": "disney1d7dc9",
+    "status": "11:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Fénix vs. Paysandú",
+    "league": "Segunda División de Uruguay",
+    "fecha-evento": "2026-10-17T11:45:00-05:00",
+    "img": "01a1369f-4e10-731e-bd96-9de0485d4d66",
+    "nombre": "disneyd6c9ba",
+    "status": "11:45",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Charlotte vs. Temple",
+    "league": "Fútbol Americano NCAA",
+    "fecha-evento": "2026-10-17T12:00:00-05:00",
+    "img": "01a06d98-fca6-7342-baeb-cd87b44c2bf5",
+    "nombre": "disney45b3ef",
+    "status": "12:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Massachusetts vs. Buffalo",
+    "league": "Fútbol Americano NCAA",
+    "fecha-evento": "2026-10-17T12:00:00-05:00",
+    "img": "01a0cab7-dfe0-7d3f-a7a7-e4e5a74f98bd",
+    "nombre": "disneyca55da",
+    "status": "12:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Allen vs. Clark Atlanta",
+    "league": "Fútbol Americano NCAA",
+    "fecha-evento": "2026-10-17T12:00:00-05:00",
+    "img": "95efebc0-d420-42a7-a7b5-e1288600035f",
+    "nombre": "disney59dba0",
+    "status": "12:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "The Citadel vs. Texas A&M",
+    "league": "Fútbol Americano NCAA",
+    "fecha-evento": "2026-10-17T12:00:00-05:00",
+    "img": "01a0b67d-5969-7ebf-b84b-c9a8f43b44ea",
+    "nombre": "disneyb53861",
+    "status": "12:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Merrimack vs. Dartmouth",
+    "league": "Fútbol Americano NCAA",
+    "fecha-evento": "2026-10-17T12:00:00-05:00",
+    "img": "01a0346b-2cc5-77b1-879e-74fd7f598025",
+    "nombre": "disney19ed69",
+    "status": "12:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "VMI vs. Wofford",
+    "league": "Fútbol Americano NCAA",
+    "fecha-evento": "2026-10-17T12:30:00-05:00",
+    "img": "01a0ca30-5352-7445-88eb-aaca2ee43b8e",
+    "nombre": "disneycc38c2",
+    "status": "12:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Western Michigan vs. Central Michigan",
+    "league": "Fútbol Americano NCAA",
+    "fecha-evento": "2026-10-17T12:30:00-05:00",
+    "img": "01a10f3a-dff6-75b0-9de0-de5a9fb8e511",
+    "nombre": "disney16c169",
+    "status": "12:30",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Telstar vs. Feyenoord",
+    "league": "Eredivisie",
+    "fecha-evento": "2026-10-17T12:50:00-05:00",
+    "img": "019ab241-960e-7c19-bd2d-34153109a4ed",
+    "nombre": "disneye6006b",
+    "status": "12:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Argentina vs. Dinamarca",
+    "league": "FIPFA Powerchair Football World Cup",
+    "fecha-evento": "2026-10-17T12:50:00-05:00",
+    "img": "01a1461a-e2f9-77f7-a2e2-cfd5b7bdb541",
+    "nombre": "disneyf8ba76",
+    "status": "12:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "FIPFA Powerchair Football World Cup | Cancha #1",
+    "league": "FIPFA Powerchair Football World Cup",
+    "fecha-evento": "2026-10-17T12:50:00-05:00",
+    "img": "01a14611-43f1-79e6-9d22-1cf57dc7cb76",
+    "nombre": "disney47cc2d",
+    "status": "12:50",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "South Dakota State vs. North Dakota",
+    "league": "Fútbol Americano NCAA",
+    "fecha-evento": "2026-10-17T13:00:00-05:00",
+    "img": "01a0ca30-464b-78ad-acc3-f7f5b44fc44a",
+    "nombre": "disney8961fb",
+    "status": "13:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Edward Waters vs. Benedict",
+    "league": "Fútbol Americano NCAA",
+    "fecha-evento": "2026-10-17T13:00:00-05:00",
+    "img": "95efebc0-d420-42a7-a7b5-e1288600035f",
+    "nombre": "disney32cab0",
+    "status": "13:00",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Hannover 96 vs. St. Pauli",
+    "league": "Bundesliga 2 de Alemania",
+    "fecha-evento": "2026-10-17T13:15:00-05:00",
+    "img": "01a10a0c-08d6-7fc3-837a-71f97ec820b4",
+    "nombre": "disney56b4a1",
+    "status": "13:15",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Belgrano Athletic vs. Los Matreros",
+    "league": "URBA Top 14",
+    "fecha-evento": "2026-10-17T13:20:00-05:00",
+    "img": "01a117e8-cb0a-7974-bb31-a7695aaace3a",
+    "nombre": "disney225d03",
+    "status": "13:20",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Champagnat vs. Los Tilos",
+    "league": "URBA Top 14",
+    "fecha-evento": "2026-10-17T13:20:00-05:00",
+    "img": "01a117e7-89e8-785f-a937-0d1fb970a6fa",
+    "nombre": "disney344b8b",
+    "status": "13:20",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Alumni vs. CASI",
+    "league": "URBA Top 14",
+    "fecha-evento": "2026-10-17T13:20:00-05:00",
+    "img": "01a117e5-e703-7405-a33b-ef4dc98a179b",
+    "nombre": "disney80edf8",
+    "status": "13:20",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "SIC vs. Buenos Aires CRC",
+    "league": "URBA Top 14",
+    "fecha-evento": "2026-10-17T13:20:00-05:00",
+    "img": "01a117ee-5211-75c1-b332-3b650b5e80f5",
+    "nombre": "disney4d8866",
+    "status": "13:20",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "La Plata vs. Regatas Bella Vista",
+    "league": "URBA Top 14",
+    "fecha-evento": "2026-10-17T13:20:00-05:00",
+    "img": "01a117e6-a3a7-7243-915f-a456d498539c",
+    "nombre": "disney55ae26",
+    "status": "13:20",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Newman vs. CUBA",
+    "league": "URBA Top 14",
+    "fecha-evento": "2026-10-17T13:20:00-05:00",
+    "img": "01a117e9-3971-7c6b-95e6-575f0b40d163",
+    "nombre": "disney67cd10",
+    "status": "13:20",
+    "duration": 135,
+    "play_url": ""
   }
 ]
