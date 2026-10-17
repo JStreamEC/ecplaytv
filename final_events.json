@@ -159,16 +159,6 @@
     "play_url": "https://www.disneyplus.com/es-es/play/b589841f-7cdb-42c8-8e3d-0e7ea9ed00a5"
   },
   {
-    "title": "SportsCenter+",
-    "league": "ESPN",
-    "fecha-evento": "2026-10-17T08:36:52-05:00",
-    "img": "1a5be864-30d0-45c3-83ce-5d7bfcf344a0",
-    "nombre": "disney28fcdb",
-    "status": "08:36",
-    "duration": 13,
-    "play_url": "https://www.disneyplus.com/es-es/play/336c9ad0-eab8-4310-be74-81d5c8c89637"
-  },
-  {
     "title": "Brentford vs. Liverpool",
     "league": "Liga Premier",
     "fecha-evento": "2026-10-17T08:40:00-05:00",
@@ -185,28 +175,34 @@
     "img": "01a12128-b25e-7453-9e32-47e2d5db28ea",
     "nombre": "disney308fc1",
     "status": "08:50",
-    "duration": 135,
-    "play_url": ""
-  },
-  {
-    "title": "Fulham vs. Hull City",
-    "league": "Liga Premier",
-    "fecha-evento": "2026-10-17T08:50:00-05:00",
-    "img": "01a12127-9a13-79fc-862e-98be94c0dfa9",
-    "nombre": "disney9d35e7",
-    "status": "08:50",
-    "duration": 135,
-    "play_url": ""
+    "duration": 125,
+    "play_url": "https://www.disneyplus.com/es-es/play/519e6077-78bf-475c-baa6-5b7cf9e663de",
+    "k1": "355ed49ddb0a4631b1c7735536ee7a76",
+    "k2": "2fa25a2827be62fac741967b99e9e102",
+    "url": "https://linear-ftc-sa-west-1.media.dssott.com/dvt2=exp=1792332499~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F921e1311-bb26-43dd-84a6-9e2284959712-1790887897123%2F~psid=63b2bbcd-e886-4ec9-a331-e24e41841459~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=6040bcc0960572260575364cecf8a6e16a29eaba35d96bd9806048a27e5f4a5b/clt1/va02/disneyplus/channel/921e1311-bb26-43dd-84a6-9e2284959712-1790887897123/ctr-all-sliding-alt1.m3u8?r=1080&v=1&hash=58b6acd41ee82382f47c68dc4a55b5eb37b9eb66"
   },
   {
     "title": "Norwich City vs. Portsmouth",
     "league": "Championship de Inglaterra",
-    "fecha-evento": "2026-10-17T08:50:00-05:00",
+    "fecha-evento": "2026-10-17T08:50:01-05:00",
     "img": "01a0f8d7-ad03-7a16-b828-817f7d2d8bda",
-    "nombre": "disney6b9289",
+    "nombre": "disney67b376",
     "status": "08:50",
-    "duration": 135,
-    "play_url": ""
+    "duration": 125,
+    "play_url": "https://www.disneyplus.com/es-es/play/e09cbc39-df82-4d44-a250-99783fb14330"
+  },
+  {
+    "title": "Fulham vs. Hull City",
+    "league": "Liga Premier",
+    "fecha-evento": "2026-10-17T08:50:13-05:00",
+    "img": "01a12127-9a13-79fc-862e-98be94c0dfa9",
+    "nombre": "disney320d37",
+    "status": "08:50",
+    "duration": 130,
+    "play_url": "https://www.disneyplus.com/es-es/play/e3db6b6e-2e82-436c-9e67-a8954885e31d",
+    "k1": "7c428ebeb67e466dba9531e38889ed0d",
+    "k2": "b3f7b3adc9d3cbedfb8af87790faf7e8",
+    "url": "https://live-akc-sa-west-1.media.dssott.com/dvt2=exp=1792332578~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fevent%2F2026%2F10%2F17%2FFulham_vs_Hull_City_20261017_1792239636028%2F~psid=ac7158e0-17db-446a-9fff-9dfed100f3d1~aid=fe6f40ef-342c-4e9c-b4d1-9a50e4aeb9e1~did=55b5227b-d9b3-46cc-b367-194e29e5c730~country=EC~kid=k02~hmac=b52c1da42d03d344e3fbe2b7e0534bdac0d05d3bb94ab3cc77fbca5be59035f9/clt1/va02/disneyplus/event/2026/10/17/Fulham_vs_Hull_City_20261017_1792239636028/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=9b08b75d4ac2dfe140daaf7004322f9b4c9429fd"
   },
   {
     "title": "Villarreal vs. Elche",
@@ -294,6 +290,16 @@
     "fecha-evento": "2026-10-17T10:55:00-05:00",
     "img": "01a0f75b-347c-7aa7-8f75-6674ee0dd9d1",
     "nombre": "disney713977",
+    "status": "10:55",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "SportsCenter+",
+    "league": "ESPN",
+    "fecha-evento": "2026-10-17T10:55:00-05:00",
+    "img": "1a5be864-30d0-45c3-83ce-5d7bfcf344a0",
+    "nombre": "disneyff6cf9",
     "status": "10:55",
     "duration": 135,
     "play_url": ""
@@ -615,6 +621,16 @@
     "img": "01a117e9-3971-7c6b-95e6-575f0b40d163",
     "nombre": "disney67cd10",
     "status": "13:20",
+    "duration": 135,
+    "play_url": ""
+  },
+  {
+    "title": "Hindú vs. Atlético del Rosario",
+    "league": "URBA Top 14",
+    "fecha-evento": "2026-10-17T13:25:00-05:00",
+    "img": "01a11748-9716-7934-baae-7cd682599c74",
+    "nombre": "disney5359c3",
+    "status": "13:25",
     "duration": 135,
     "play_url": ""
   }
